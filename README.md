@@ -1,6 +1,6 @@
 # Auto DAT file generator
 
-![Daily WWW clrmamepro profiles](https://github.com/hugo19941994/auto-datfile-generator/workflows/Daily%20WWW%20clrmamepro%20profiles/badge.svg)
+![Daily WWW clrmamepro profiles](https://github.com/dantob/auto-datfile-generator/workflows/Daily%20WWW%20clrmamepro%20profiles/badge.svg)
 
 WWW profiles to use in clrmamepro for the standard No-Intro and Redump sets.
 
