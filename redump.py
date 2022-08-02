@@ -1,15 +1,16 @@
-import zipfile
-from io import BytesIO, StringIO
+from io import BytesIO
 from time import sleep
-import xml.etree.ElementTree as ET
-from lxml import objectify
+
 import re
+import xml.etree.ElementTree as ET
+import zipfile
+
 import requests
 
 
 # Config
-url_home = 'http://redump.org/'
-url_downloads = 'http://redump.org/downloads/'
+URL_HOME = 'http://redump.org/'
+URL_DOWNLOADS = 'http://redump.org/downloads/'
 regex = {
     'datfile': r'<a href="/datfile/(.*?)">',
     'date': r'\) \((.*?)\)\.',
@@ -17,11 +18,11 @@ regex = {
     'filename': r'filename="(.*?)"',
 }
 
-xml_filename = 'redump.xml'
+XML_FILENAME = 'redump.xml'
 
 
 def _find_dats():
-    download_page = requests.get(url_downloads)
+    download_page = requests.get(URL_DOWNLOADS, timeout=30)
     download_page.raise_for_status()
 
     dat_files = re.findall(regex['datfile'], download_page.text)
@@ -32,7 +33,7 @@ def Update_XML():
     dat_list = _find_dats()
 
     # zip file to store all DAT files
-    zipObj = zipfile.ZipFile(f'redump.zip', 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=9)
+    zip_object = zipfile.ZipFile('redump.zip', 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=9)
 
     # clrmamepro XML file
     tag_clrmamepro = ET.Element('clrmamepro')
@@ -42,7 +43,7 @@ def Update_XML():
         # section for this dat in the XML file
         tag_datfile = ET.SubElement(tag_clrmamepro, 'datfile')
 
-        response = requests.get(url_home+'datfile/'+dat)
+        response = requests.get(URL_HOME+'datfile/'+dat, timeout=30)
         content_header = response.headers['Content-Disposition']
 
         # XML version
@@ -50,23 +51,22 @@ def Update_XML():
         ET.SubElement(tag_datfile, 'version').text = dat_date
 
         # XML name & description
-        tempName = re.findall(regex['name'], content_header)[0]
+        temp_name = re.findall(regex['name'], content_header)[0]
         # trim the - from the end (if exists)
-        if (tempName.endswith('-')):
-            tempName = tempName[:-2]
-        elif (tempName.endswith('BIOS')):
-            tempName = tempName + ' Images'
-        ET.SubElement(tag_datfile, 'name').text = tempName
-        ET.SubElement(tag_datfile, 'description').text = tempName
+        if temp_name.endswith('-'):
+            temp_name = temp_name[:-2]
+        elif temp_name.endswith('BIOS'):
+            temp_name = temp_name + ' Images'
+        ET.SubElement(tag_datfile, 'name').text = temp_name
+        ET.SubElement(tag_datfile, 'description').text = temp_name
 
         # URL tag in XML
-        ET.SubElement(
-            tag_datfile, 'url').text = f'https://github.com/dantob/auto-datfile-generator/releases/latest/download/redump.zip'
+        ET.SubElement(tag_datfile, 'url').text = 'https://github.com/dantob/auto-datfile-generator/releases/latest/download/redump.zip'
 
         # File tag in XML
-        originalFileName = re.findall(regex['filename'], content_header)[0]
-        fileName = f'{originalFileName[:-4]}.dat'
-        ET.SubElement(tag_datfile, 'file').text = fileName
+        original_file_name = re.findall(regex['filename'], content_header)[0]
+        new_file_name = f'{original_file_name[:-4]}.dat'
+        ET.SubElement(tag_datfile, 'file').text = new_file_name
 
         # Author tag in XML
         ET.SubElement(tag_datfile, 'author').text = 'redump.org'
@@ -75,28 +75,27 @@ def Update_XML():
         ET.SubElement(tag_datfile, 'comment').text = '_'
 
         # Get the DAT file
-        datfile_name = f'{fileName[:-4]}.dat'
+        datfile_name = f'{new_file_name[:-4]}.dat'
         print(f'DAT filename: {datfile_name}')
-        if originalFileName.endswith('.zip'):
+        if original_file_name.endswith('.zip'):
             # extract datfile from zip to store in the DB zip
             zipdata = BytesIO()
             zipdata.write(response.content)
             archive = zipfile.ZipFile(zipdata)
-            zipObj.writestr(datfile_name, archive.read(datfile_name))
+            zip_object.writestr(datfile_name, archive.read(datfile_name))
         else:
             # add datfile to DB zip file
             datfile = response.text
-            zipObj.writestr(datfile_name, datfile)
+            zip_object.writestr(datfile_name, datfile)
         print()
         sleep(5)
 
     # store clrmamepro XML file
     xmldata = ET.tostring(tag_clrmamepro).decode()
-    xmlfile = open(xml_filename, 'w')
-    xmlfile.write(xmldata)
 
-    # Save DB zip file
-    zipObj.close()
+    with open(XML_FILENAME, 'w', encoding="utf-8") as xmlfile:
+        xmlfile.write(xmldata)
+
     print('Finished')
 
 
