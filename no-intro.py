@@ -1,20 +1,23 @@
-from PIL import Image
+from time import sleep
+import xml.etree.ElementTree as ET
+
+import os
+import re
+import zipfile
+
 from colormath.color_conversions import convert_color
 from colormath.color_diff import delta_e_cie1976
 from colormath.color_objects import LabColor, sRGBColor
-from selenium import webdriver
+
+from PIL import Image
+import requests
+
 from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver import Firefox
+from selenium import webdriver
 from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support.ui import Select
-from time import sleep
-import hashlib
-import os
-import re
-import requests
-import xml.etree.ElementTree as ET
-import zipfile
+
 
 regex = {
     'date'     : r'[0-9]{8}-[0-9]{6}',
@@ -32,10 +35,10 @@ for key, value in no_intro_type.items():
     # Dowload no-intro pack using selenium
     dir_path = os.path.dirname(os.path.realpath(__file__))
     options=Options()
-    options.set_preference("browser.download.folderList", 2);
-    options.set_preference("browser.download.manager.showWhenStarting", False);
-    options.set_preference("browser.download.dir", dir_path);
-    options.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/zip");
+    options.set_preference("browser.download.folderList", 2)
+    options.set_preference("browser.download.manager.showWhenStarting", False)
+    options.set_preference("browser.download.dir", dir_path)
+    options.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/zip")
     options.headless = True
 
     service = Service()
@@ -60,7 +63,7 @@ for key, value in no_intro_type.items():
     sleep(5)
 
     # click the prepare button
-    driver.find_element(by='xpath', value=f'/html/body/div/section/article/div/form/input[1]').click()
+    driver.find_element(by='xpath', value='/html/body/div/section/article/div/form/input[1]').click()
 
     captcha = False
 
@@ -103,7 +106,7 @@ for key, value in no_intro_type.items():
         closest_button_name = min(buttons_dict, key=buttons_dict.get)
 
         # click the correct captcha color coded download button
-        driver.find_element_by_name(closest_button_name).click()
+        driver.find_element(by='name', value=closest_button_name).click()
 
 
     # wait until file is found
@@ -133,65 +136,60 @@ for key, value in no_intro_type.items():
     os.rename(os.path.join(dir_path, name), os.path.join(dir_path, archive_full))
 
     # load & extract zip file, there is currently no way to remove files from zip archive
-    orig_archive  = zipfile.ZipFile(os.path.join(dir_path, archive_full), mode='r')
-    orig_archive.extractall()
-    orig_archive.close()
-    # delete unneeded files
-    os.remove('hashes.txt')
-    os.remove('index.txt')
+    with zipfile.ZipFile(os.path.join(dir_path, archive_full), mode='r') as orig_archive:
+        orig_archive.extractall()
+        # delete unneeded files
+        os.remove('hashes.txt')
+        os.remove('index.txt')
 
     # build new zip archive
-    archive = zipfile.ZipFile(os.path.join(dir_path, archive_full), mode='w', compression=zipfile.ZIP_DEFLATED, compresslevel=9)
-    for x in os.listdir(path='.'):
-        if x.endswith(".dat"):
-            print(x)
-            archive.write(x)
-            os.remove(x)
+    with zipfile.ZipFile(os.path.join(dir_path, archive_full), mode='w', compression=zipfile.ZIP_DEFLATED, compresslevel=9) as archive:
+        for x in os.listdir(path='.'):
+            if x.endswith(".dat"):
+                print(x)
+                archive.write(x)
+                os.remove(x)
 
-    # clrmamepro XML file
-    tag_clrmamepro = ET.Element('clrmamepro')
-    for dat in archive.namelist():
-        print(dat)
-        # section for this dat in the XML file
-        tag_datfile = ET.SubElement(tag_clrmamepro, 'datfile')
+        # clrmamepro XML file
+        tag_clrmamepro = ET.Element('clrmamepro')
+        for dat in archive.namelist():
+            print(dat)
+            # section for this dat in the XML file
+            tag_datfile = ET.SubElement(tag_clrmamepro, 'datfile')
 
-        # XML version
-        dat_date = re.findall(regex['date'], dat)[0]
-        ET.SubElement(tag_datfile, 'version').text = dat_date
-        print(dat_date)
+            # XML version
+            dat_date = re.findall(regex['date'], dat)[0]
+            ET.SubElement(tag_datfile, 'version').text = dat_date
+            print(dat_date)
 
-        # XML name & description
-        tempName = re.findall(regex['name'], dat)[0][0]
-        ET.SubElement(tag_datfile, 'name').text = tempName
-        ET.SubElement(tag_datfile, 'description').text = tempName
-        print(tempName)
+            # XML name & description
+            tempName = re.findall(regex['name'], dat)[0][0]
+            ET.SubElement(tag_datfile, 'name').text = tempName
+            ET.SubElement(tag_datfile, 'description').text = tempName
+            print(tempName)
 
-        # URL tag in XML
-        ET.SubElement(
-            tag_datfile, 'url').text = f'https://github.com/dantob/auto-datfile-generator/releases/latest/download/{archive_name}'
+            # URL tag in XML
+            ET.SubElement(tag_datfile, 'url').text = f'https://github.com/dantob/auto-datfile-generator/releases/latest/download/{archive_name}'
 
-        # File tag in XML
-        fileName = dat
-        fileName = f'{fileName[:-4]}.dat'
-        ET.SubElement(tag_datfile, 'file').text = fileName
-        print(fileName)
+             # File tag in XML
+            fileName = dat
+            fileName = f'{fileName[:-4]}.dat'
+            ET.SubElement(tag_datfile, 'file').text = fileName
+            print(fileName)
 
-        # click the correct captcha color coded download button
-        driver.find_element(by='name', value=closest_button_name).click()
+            # Author tag in XML
+            ET.SubElement(tag_datfile, 'author').text = 'no-intro.org'
 
-        # Author tag in XML
-        ET.SubElement(tag_datfile, 'author').text = 'no-intro.org'
+            # Command XML tag
+            ET.SubElement(tag_datfile, 'comment').text = '_'
 
-        # Command XML tag
-        ET.SubElement(tag_datfile, 'comment').text = '_'
-
-        print()
-
-    archive.close()
+            print()
 
     # store clrmamepro XML file
     xmldata = ET.tostring(tag_clrmamepro).decode()
     xml_filename = 'no-intro.xml' if key == 'standard' else f'no-intro_{key}.xml'
-    xmlfile = open(xml_filename, 'w')
-    xmlfile.write(xmldata)
 
+    with open(xml_filename, 'w', encoding="utf-8") as xmlfile:
+        xmlfile.write(xmldata)
+
+    print('Finished')
