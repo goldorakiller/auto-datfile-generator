@@ -7,7 +7,7 @@ on:
 
 jobs:
     build:
-        runs-on: ubuntu-latest
+        runs-on: ubuntu-20.04
 
         steps:
         - name: Set workflow variables
@@ -34,18 +34,22 @@ jobs:
           run: pipenv run python3 redump.py
 
         - name: Download dats and generate profile.xml for No-Intro
+          if: success() || failure()
           id: generator_no_intro
           run: pipenv run python3 no-intro.py
 
         - name: Download dats and generate profile.xml for HTGD
+          if: success() || failure()
           id: generator_smdb
           run: pipenv run python3 smdb.py
 
         - name: Download dats and generate profile.xml for dats.site
+          if: success() || failure()
           id: generator_dats_site
           run: pipenv run python3 dats-site.py
 
         - name: Create release
+          if: success() || failure()
           uses: ncipollo/release-action@v1
           with:
             name: Nightly
