@@ -72,7 +72,7 @@ for key, value in no_intro_type.items():
     print('Set Dat Type ...')
 
     # click the Request button
-    driver.find_element(by='name', value='ioooo').click()
+    driver.find_element(by='name', value='valentine_day').click()
     sleep(10)
     print('Clicked "Request" ...')
 
