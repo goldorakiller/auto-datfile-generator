@@ -159,6 +159,11 @@ for key, value in no_intro_type.items():
         # delete unneeded files
         os.remove('index.txt')
 
+        # temp fix, broken date
+        tempfile = './No-Intro/Microsoft - Xbox 360 (Digital) (CDN) (-00011130-000000).dat'
+        if os.path.isfile(tempfile) :
+            os.remove(tempfile)
+
     print('Building new archive ...')
     with zipfile.ZipFile(os.path.join(dir_path, archive_full), mode='w', compression=zipfile.ZIP_DEFLATED, compresslevel=9) as archive:
         for f in os.listdir(dir_path):
