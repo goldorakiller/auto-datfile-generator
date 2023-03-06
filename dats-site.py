@@ -21,8 +21,8 @@ zipObj = zipfile.ZipFile(f'dats-site.zip', 'w', compression=zipfile.ZIP_DEFLATED
 tag_clrmamepro = ET.Element('clrmamepro')
 
 
-for i in range(1, 8):
-    print(f'Downloading dat {i}/7')
+for i in range(1, 13):
+    print(f'Downloading dat {i}/12')
     response = requests.get(f"https://dats.site/getcustdat.php?custdatid={i}")
     content_header = response.headers['Content-Disposition']
     print(content_header)
