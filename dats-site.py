@@ -48,7 +48,7 @@ for i in range(1, 13):
 
     # URL tag in XML
     ET.SubElement(
-        tag_datfile, 'url').text = f'https://github.com/dantob/auto-datfile-generator/releases/latest/download/dats-site.zip'
+        tag_datfile, 'url').text = f'https://github.com/goldorakiller/auto-datfile-generator/releases/latest/download/dats-site.zip'
 
     # File tag in XML
     originalFileName = re.findall(regex['filename'], content_header)[0]

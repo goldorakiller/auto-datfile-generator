@@ -61,7 +61,7 @@ def Update_XML():
         ET.SubElement(tag_datfile, 'description').text = temp_name
 
         # URL tag in XML
-        ET.SubElement(tag_datfile, 'url').text = 'https://github.com/dantob/auto-datfile-generator/releases/latest/download/redump.zip'
+        ET.SubElement(tag_datfile, 'url').text = 'https://github.com/goldorakiller/auto-datfile-generator/releases/latest/download/redump.zip'
 
         # File tag in XML
         original_file_name = re.findall(regex['filename'], content_header)[0]
