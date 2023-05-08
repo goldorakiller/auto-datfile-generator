@@ -1,3 +1,4 @@
+import glob
 import os
 import re
 import xml.etree.ElementTree as ET
@@ -7,8 +8,9 @@ from time import sleep
 from selenium import webdriver
 
 regex = {
-    "date"     : r"[0-9]{8}-[0-9]{6}",
-    "name"     : r"(.*?.)( \([0-9]{8}-[0-9]{6}\).dat)"
+    #                 20220717-123500   OR   2023-04-09
+    "date"     : r"[0-9]{8}-[0-9]{6}|[0-9]{4}-[0-9]{2}-[0-9]{2}",
+    "name"     : r"(.*?.)( \([0-9]{8}-[0-9]{6}|[0-9]{4}-[0-9]{2}-[0-9]{2}\).dat)"
 }
 
 no_intro_type = {
@@ -138,6 +140,21 @@ for key, value in no_intro_type.items():
                         os.remove(x)
                 os.chdir("../")
                 os.rmdir("./Unofficial")
+            if "Redump Custom" in f:
+                print("\nAdding No-Intro Redump Custom dats ...")
+                os.chdir("./Redump Custom")
+                #temp broken date format
+                for f in glob.glob("Audio CD - Spillover Tracks - Datfile*.dat"):
+                    os.remove(f)
+                for x in os.listdir(path="."):
+                    if x.endswith(".dat"):
+                        PREFIX = "Redump Custom - " #add missing prefix
+                        os.rename(x, PREFIX + x)
+                        print("Adding to Archive: ", PREFIX + x)
+                        archive.write(PREFIX + x)
+                        os.remove(PREFIX + x)
+                os.chdir("../")
+                os.rmdir("./Redump Custom")
 
     print("\nCreating new clrmamepro datfile ...\n")
     # clrmamepro XML file
