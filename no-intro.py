@@ -8,9 +8,9 @@ from time import sleep
 from selenium import webdriver
 
 regex = {
-    #                 20220717-123500   OR   2023-04-09
-    "date"     : r"[0-9]{8}-[0-9]{6}|[0-9]{4}-[0-9]{2}-[0-9]{2}",
-    "name"     : r"(.*?.)( \([0-9]{8}-[0-9]{6}|[0-9]{4}-[0-9]{2}-[0-9]{2}\).dat)"
+    #        20220717-123500   OR   2023-04-09
+    "date" : r"[0-9]{8}-[0-9]{6}|[0-9]{4}-[0-9]{2}-[0-9]{2}",
+    "name" : r"(.*?.)( \([0-9]{8}-[0-9]{6}|[0-9]{4}-[0-9]{2}-[0-9]{2}\).dat)"
 }
 
 no_intro_type = {
@@ -78,12 +78,11 @@ for key, value in no_intro_type.items():
                     break
                 except zipfile.BadZipfile:
                     pass
-
-        # wait 5 seconds
+        # wait 5 seconds and check for download completion again
         sleep(5)
         TIME_SLEPT += 5
 
-    if NAME == None:
+    if NAME is None:
         raise FileNotFoundError(f"No-Intro {key} zip file not found, download failed")
 
     #setup archive path and rename
@@ -170,19 +169,19 @@ for key, value in no_intro_type.items():
         print(dat_date)
 
         # XML name & description
-        tempName = re.findall(regex["name"], dat)[0][0]
-        ET.SubElement(tag_datfile, "name").text = tempName
-        ET.SubElement(tag_datfile, "description").text = tempName
-        print(tempName)
+        temp_name = re.findall(regex["name"], dat)[0][0]
+        ET.SubElement(tag_datfile, "name").text = temp_name
+        ET.SubElement(tag_datfile, "description").text = temp_name
+        print(temp_name)
 
         # URL tag in XML
         ET.SubElement(tag_datfile, "url").text = f"https://github.com/hugo19941994/auto-datfile-generator/releases/latest/download/{archive_name}"
 
         # File tag in XML
-        fileName = dat
-        fileName = f"{fileName[:-4]}.dat"
-        ET.SubElement(tag_datfile, "file").text = fileName
-        print(fileName)
+        file_name = dat
+        file_name = f"{file_name[:-4]}.dat"
+        ET.SubElement(tag_datfile, "file").text = file_name
+        print(file_name)
 
         # Author tag in XML
         ET.SubElement(tag_datfile, "author").text = "no-intro.org"
@@ -190,15 +189,15 @@ for key, value in no_intro_type.items():
         # Command XML tag
         ET.SubElement(tag_datfile, "comment").text = "_"
 
-        print()
+        print("\n")
 
     archive.close()
 
     # store clrmamepro XML file
-    xmldata = ET.tostring(tag_clrmamepro).decode()
+    xml_data = ET.tostring(tag_clrmamepro).decode()
     xml_filename = "no-intro.xml" if key == "standard" else f"no-intro_{key}.xml"
 
     with open(xml_filename, "w", encoding="utf-8") as xmlfile:
-        xmlfile.write(xmldata)
+        xmlfile.write(xml_data)
 
     print("Finished")
