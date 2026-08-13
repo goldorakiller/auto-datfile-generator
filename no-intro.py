@@ -1,5 +1,6 @@
 import os
 import re
+import shutil
 import xml.etree.ElementTree as ET
 import zipfile
 from time import sleep
@@ -94,52 +95,25 @@ for key, value in no_intro_type.items():
     # load & extract zip file, there is currently no way to remove files from zip archive
     with zipfile.ZipFile(os.path.join(dir_path, archive_full), mode="r") as orig_archive:
         orig_archive.extractall()
-        # delete unneeded files
-        os.remove("index.txt")
 
     print("Building new archive ...")
+    # delete unneeded files
+    if os.path.exists("index.txt"):
+        os.remove("index.txt")
+
     with zipfile.ZipFile(os.path.join(dir_path, archive_full), mode="w", compression=zipfile.ZIP_DEFLATED, compresslevel=9) as archive:
+        target_folders = {"No-Intro", "Non-Redump", "Source Code", "Unofficial"}
         for f in os.listdir(dir_path):
-            if "No-Intro" in f:
-                print("\nAdding No-Intro dats ...")
-                os.chdir("./No-Intro")
-                for x in os.listdir(path="."):
+            if f in target_folders:
+                print(f"\nAdding {f} dats ...")
+                target_dir = os.path.join(dir_path, f)
+                for x in os.listdir(target_dir):
                     if x.endswith(".dat"):
                         print("Adding to Archive: ", x)
-                        archive.write(x)
-                        os.remove(x)
-                os.chdir("../")
-                os.rmdir("./No-Intro")
-            if "Non-Redump" in f:
-                print("\nAdding No-Intro Non-Redump dats ...")
-                os.chdir("./Non-Redump")
-                for x in os.listdir(path="."):
-                    if x.endswith(".dat"):
-                        print("Adding to Archive: ", x)
-                        archive.write(x)
-                        os.remove(x)
-                os.chdir("../")
-                os.rmdir("./Non-Redump")
-            if "Source Code" in f:
-                print("\nAdding No-Intro Source Code dats ...")
-                os.chdir("./Source Code")
-                for x in os.listdir(path="."):
-                    if x.endswith(".dat"):
-                        print("Adding to Archive: ", x)
-                        archive.write(x)
-                        os.remove(x)
-                os.chdir("../")
-                os.rmdir("./Source Code")
-            if "Unofficial" in f:
-                print("\nAdding No-Intro Unofficial dats ...")
-                os.chdir("./Unofficial")
-                for x in os.listdir(path="."):
-                    if x.endswith(".dat"):
-                        print("Adding to Archive: ", x)
-                        archive.write(x)
-                        os.remove(x)
-                os.chdir("../")
-                os.rmdir("./Unofficial")
+                        filepath = os.path.join(target_dir, x)
+                        archive.write(filepath, arcname=x)
+                        os.remove(filepath)
+                shutil.rmtree(target_dir, ignore_errors=True)
 
     print("\nCreating new clrmamepro datfile ...\n")
     # clrmamepro XML file
