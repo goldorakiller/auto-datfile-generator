@@ -127,11 +127,12 @@ for key, value in no_intro_type.items():
                         archive.write(filepath, arcname=x)
                         os.remove(filepath)
                 shutil.rmtree(target_dir, ignore_errors=True)
+        dat_files = archive.namelist()
 
     print("\nCreating new clrmamepro datfile ...\n")
     # clrmamepro XML file
     tag_clrmamepro = ET.Element("clrmamepro")
-    for dat in archive.namelist():
+    for dat in dat_files:
         print(dat)
 
         # Check for regex matches before adding to XML
@@ -175,8 +176,6 @@ for key, value in no_intro_type.items():
         ET.SubElement(tag_datfile, "comment").text = "_"
 
         print("\n")
-
-    archive.close()
 
     # store clrmamepro XML file
     xml_data = ET.tostring(tag_clrmamepro).decode()
