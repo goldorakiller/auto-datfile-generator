@@ -146,16 +146,28 @@ for key, value in no_intro_type.items():
     tag_clrmamepro = ET.Element("clrmamepro")
     for dat in archive.namelist():
         print(dat)
+
+        # Check for regex matches before adding to XML
+        date_matches = re.findall(regex["date"], dat)
+        if not date_matches:
+            print(f"\033[93mWarning: skipped {dat} due to invalid date format\033[0m")
+            continue
+        dat_date = date_matches[0]
+
+        name_matches = re.findall(regex["name"], dat)
+        if not name_matches:
+            print(f"\033[93mWarning: skipped {dat} due to invalid name format\033[0m")
+            continue
+        temp_name = name_matches[0][0]
+
         # section for this dat in the XML file
         tag_datfile = ET.SubElement(tag_clrmamepro, "datfile")
 
         # XML version
-        dat_date = re.findall(regex["date"], dat)[0]
         ET.SubElement(tag_datfile, "version").text = dat_date
         print(dat_date)
 
         # XML name & description
-        temp_name = re.findall(regex["name"], dat)[0][0]
         ET.SubElement(tag_datfile, "name").text = temp_name
         ET.SubElement(tag_datfile, "description").text = temp_name
         print(temp_name)
