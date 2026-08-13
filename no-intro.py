@@ -60,7 +60,6 @@ for key, value in no_intro_type.items():
         sleep(5)
 
         # retry loop for download
-        FOUND = False
         NAME = None
         MAX_RETRIES = 3
 
@@ -70,26 +69,26 @@ for key, value in no_intro_type.items():
             print(f"Waiting for download to complete (Attempt {attempt + 1}/{MAX_RETRIES}) ...")
 
             TIME_SLEPT = 0
-            while not FOUND and TIME_SLEPT <= 300:
+            while NAME is None and TIME_SLEPT <= 300:
                 for f in os.listdir(dir_path):
                     if "No-Intro Love Pack" in f and not f.endswith(".part"):
                         try:
-                            zipfile.ZipFile(os.path.join(dir_path, f))
+                            with zipfile.ZipFile(os.path.join(dir_path, f)):
+                                pass
                             NAME = f
-                            FOUND = True
                             print("No-Intro zip file download completed ...")
                             break
                         except zipfile.BadZipfile:
                             pass
 
-                if FOUND:
+                if NAME is not None:
                     break
 
                 # wait 5 seconds and check for download completion again
                 sleep(5)
                 TIME_SLEPT += 5
 
-            if FOUND:
+            if NAME is not None:
                 break
             else:
                 print(f"Download timed out after 300 seconds (5 minutes). Retrying...")
@@ -98,7 +97,7 @@ for key, value in no_intro_type.items():
         # clean up selenium
         driver.quit()
 
-    if not FOUND or NAME is None:
+    if NAME is None:
         raise FileNotFoundError(f"No-Intro {key} zip file not found after {MAX_RETRIES} attempts, download failed")
 
     #setup archive path and rename
