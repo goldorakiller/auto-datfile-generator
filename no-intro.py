@@ -183,7 +183,8 @@ for key, value in no_intro_type.items():
     xml_data = ET.tostring(tag_clrmamepro).decode()
     xml_filename = "no-intro.xml" if key == "standard" else f"no-intro_{key}.xml"
 
-    with open(xml_filename, "w", encoding="utf-8") as xmlfile:
+    xml_path = os.path.join(dir_path, xml_filename)
+    with open(xml_path, "w", encoding="utf-8") as xmlfile:
         xmlfile.write(xml_data)
 
     print("Finished")
