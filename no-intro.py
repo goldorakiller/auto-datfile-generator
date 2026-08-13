@@ -60,50 +60,51 @@ for key, value in no_intro_type.items():
         sleep(5)
 
         # retry loop for download
-        NAME = None
-        MAX_RETRIES = 3
+        name = None
+        timeout = 300
+        max_retries = 3
 
-        for attempt in range(MAX_RETRIES):
+        for attempt in range(max_retries):
             # select "Download"
             driver.find_element(by="xpath", value="/html/body/div/section/article/div/form[2]/input").click()
-            print(f"Waiting for download to complete (Attempt {attempt + 1}/{MAX_RETRIES}) ...")
+            print(f"Waiting for download to complete (Attempt {attempt + 1}/{max_retries}) ...")
 
-            TIME_SLEPT = 0
-            while NAME is None and TIME_SLEPT <= 300:
+            time_slept = 0
+            while name is None and time_slept <= timeout:
                 for f in os.listdir(dir_path):
                     if "No-Intro Love Pack" in f and not f.endswith(".part"):
                         try:
                             with zipfile.ZipFile(os.path.join(dir_path, f)):
                                 pass
-                            NAME = f
+                            name = f
                             print("No-Intro zip file download completed ...")
                             break
                         except zipfile.BadZipfile:
                             pass
 
-                if NAME is not None:
+                if name is not None:
                     break
 
                 # wait 5 seconds and check for download completion again
                 sleep(5)
-                TIME_SLEPT += 5
+                time_slept += 5
 
-            if NAME is not None:
+            if name is not None:
                 break
-            else:
-                print(f"Download timed out after 300 seconds (5 minutes). Retrying...")
+
+            print(f"Download timed out after {timeout} seconds ({timeout / 60} minutes). Retrying...")
 
     finally:
         # clean up selenium
         driver.quit()
 
-    if NAME is None:
-        raise FileNotFoundError(f"No-Intro {key} zip file not found after {MAX_RETRIES} attempts, download failed")
+    if name is None:
+        raise FileNotFoundError(f"No-Intro {key} zip file not found after {max_retries} attempts, download failed")
 
     #setup archive path and rename
     archive_name = "no-intro.zip" if key == "standard" else f"no-intro_{key}.zip"
     archive_full = os.path.join(dir_path, archive_name)
-    os.rename(os.path.join(dir_path, NAME), os.path.join(dir_path, archive_full))
+    os.rename(os.path.join(dir_path, name), os.path.join(dir_path, archive_full))
 
     # load & extract zip file, there is currently no way to remove files from zip archive
     with zipfile.ZipFile(os.path.join(dir_path, archive_full), mode="r") as orig_archive:
