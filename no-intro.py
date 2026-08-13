@@ -58,34 +58,43 @@ for key, value in no_intro_type.items():
         driver.find_element(by="xpath", value="/html/body/div/section/article/div/form/input[4]").click()
     sleep(5)
 
-    # select "Download"
-    driver.find_element(by="xpath", value="/html/body/div/section/article/div/form[2]/input").click()
-    print("Waiting for download to complete ...")
-
-    # wait until file is found
+    # retry loop for download
     FOUND = False
     NAME = None
-    TIME_SLEPT = 0
-    while not FOUND:
-        if TIME_SLEPT > 900:
-            raise FileNotFoundError(f"No-Intro {key} zip file not found, timeout reached")
+    MAX_RETRIES = 3
 
-        for f in os.listdir(dir_path):
-            if "No-Intro Love Pack" in f and not f.endswith(".part"):
-                try:
-                    zipfile.ZipFile(os.path.join(dir_path, f))
-                    NAME = f
-                    FOUND = True
-                    print("No-Intro zip file download completed ...")
-                    break
-                except zipfile.BadZipfile:
-                    pass
-        # wait 5 seconds and check for download completion again
-        sleep(5)
-        TIME_SLEPT += 5
+    for attempt in range(MAX_RETRIES):
+        # select "Download"
+        driver.find_element(by="xpath", value="/html/body/div/section/article/div/form[2]/input").click()
+        print(f"Waiting for download to complete (Attempt {attempt + 1}/{MAX_RETRIES}) ...")
 
-    if NAME is None:
-        raise FileNotFoundError(f"No-Intro {key} zip file not found, download failed")
+        TIME_SLEPT = 0
+        while not FOUND and TIME_SLEPT <= 300:
+            for f in os.listdir(dir_path):
+                if "No-Intro Love Pack" in f and not f.endswith(".part"):
+                    try:
+                        zipfile.ZipFile(os.path.join(dir_path, f))
+                        NAME = f
+                        FOUND = True
+                        print("No-Intro zip file download completed ...")
+                        break
+                    except zipfile.BadZipfile:
+                        pass
+
+            if FOUND:
+                break
+
+            # wait 5 seconds and check for download completion again
+            sleep(5)
+            TIME_SLEPT += 5
+
+        if FOUND:
+            break
+        else:
+            print(f"Download timed out after 300 seconds (5 minutes). Retrying...")
+
+    if not FOUND or NAME is None:
+        raise FileNotFoundError(f"No-Intro {key} zip file not found after {MAX_RETRIES} attempts, download failed")
 
     #setup archive path and rename
     archive_name = "no-intro.zip" if key == "standard" else f"no-intro_{key}.zip"
