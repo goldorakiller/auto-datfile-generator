@@ -34,64 +34,69 @@ for key, value in no_intro_type.items():
     driver = webdriver.Firefox(service=service, options=options)
     driver.implicitly_wait(10)
 
-    # load website
-    driver.get("https://datomatic.no-intro.org")
-    print("Loaded no-intro datomatic ...")
+    try:
+        # load website
+        driver.get("https://datomatic.no-intro.org")
+        print("Loaded no-intro datomatic ...")
 
-    # select "DOWNLOAD"
-    driver.find_element(by="xpath", value="/html/body/div/header/nav/ul/li[3]/a").click()
+        # select "DOWNLOAD"
+        driver.find_element(by="xpath", value="/html/body/div/header/nav/ul/li[3]/a").click()
 
-    # select "daily"
-    driver.find_element(by="xpath", value="/html/body/div/header/table/tbody/tr/td/a[5]").click()
+        # select "daily"
+        driver.find_element(by="xpath", value="/html/body/div/header/table/tbody/tr/td/a[5]").click()
 
-    #set the type of dat file
-    if key == "standard" :
-        driver.find_element(by="xpath", value="//input[@name='dat_type' and @value='dat']").click()
-    if key == "parent-clone" :
-        driver.find_element(by="xpath", value="//input[@name='dat_type' and @value='pc']").click()
-    print(f"Set dat type to {key} ...")
+        #set the type of dat file
+        if key == "standard" :
+            driver.find_element(by="xpath", value="//input[@name='dat_type' and @value='dat']").click()
+        if key == "parent-clone" :
+            driver.find_element(by="xpath", value="//input[@name='dat_type' and @value='pc']").click()
+        print(f"Set dat type to {key} ...")
 
-    # select "Request"
-    if key == "standard" :
-        driver.find_element(by="xpath", value="/html/body/div/section/article/div/form/input[7]").click()
-    if key == "parent-clone" :
-        driver.find_element(by="xpath", value="/html/body/div/section/article/div/form/input[4]").click()
-    sleep(5)
+        # select "Request"
+        if key == "standard" :
+            driver.find_element(by="xpath", value="/html/body/div/section/article/div/form/input[7]").click()
+        if key == "parent-clone" :
+            driver.find_element(by="xpath", value="/html/body/div/section/article/div/form/input[4]").click()
+        sleep(5)
 
-    # retry loop for download
-    FOUND = False
-    NAME = None
-    MAX_RETRIES = 3
+        # retry loop for download
+        FOUND = False
+        NAME = None
+        MAX_RETRIES = 3
 
-    for attempt in range(MAX_RETRIES):
-        # select "Download"
-        driver.find_element(by="xpath", value="/html/body/div/section/article/div/form[2]/input").click()
-        print(f"Waiting for download to complete (Attempt {attempt + 1}/{MAX_RETRIES}) ...")
+        for attempt in range(MAX_RETRIES):
+            # select "Download"
+            driver.find_element(by="xpath", value="/html/body/div/section/article/div/form[2]/input").click()
+            print(f"Waiting for download to complete (Attempt {attempt + 1}/{MAX_RETRIES}) ...")
 
-        TIME_SLEPT = 0
-        while not FOUND and TIME_SLEPT <= 300:
-            for f in os.listdir(dir_path):
-                if "No-Intro Love Pack" in f and not f.endswith(".part"):
-                    try:
-                        zipfile.ZipFile(os.path.join(dir_path, f))
-                        NAME = f
-                        FOUND = True
-                        print("No-Intro zip file download completed ...")
-                        break
-                    except zipfile.BadZipfile:
-                        pass
+            TIME_SLEPT = 0
+            while not FOUND and TIME_SLEPT <= 300:
+                for f in os.listdir(dir_path):
+                    if "No-Intro Love Pack" in f and not f.endswith(".part"):
+                        try:
+                            zipfile.ZipFile(os.path.join(dir_path, f))
+                            NAME = f
+                            FOUND = True
+                            print("No-Intro zip file download completed ...")
+                            break
+                        except zipfile.BadZipfile:
+                            pass
+
+                if FOUND:
+                    break
+
+                # wait 5 seconds and check for download completion again
+                sleep(5)
+                TIME_SLEPT += 5
 
             if FOUND:
                 break
+            else:
+                print(f"Download timed out after 300 seconds (5 minutes). Retrying...")
 
-            # wait 5 seconds and check for download completion again
-            sleep(5)
-            TIME_SLEPT += 5
-
-        if FOUND:
-            break
-        else:
-            print(f"Download timed out after 300 seconds (5 minutes). Retrying...")
+    finally:
+        # clean up selenium
+        driver.quit()
 
     if not FOUND or NAME is None:
         raise FileNotFoundError(f"No-Intro {key} zip file not found after {MAX_RETRIES} attempts, download failed")
