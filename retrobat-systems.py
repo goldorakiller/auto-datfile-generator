@@ -60,6 +60,16 @@ EXCLUDED_KEYWORDS = {
     "magazines",
 }
 
+# Codes systeme RetroBat trop generiques/ambigus pour un rapprochement
+# automatique fiable ("flash" est un mot anglais courant qui matche plein
+# de choses sans rapport — Acorn Flash Media, Compact Flash, Touhou Flash
+# Project... aucun n'est le bon systeme) — pour en exclure un autre, il
+# suffit d'ajouter son code ici, meme mecanique que EXCLUDED_KEYWORDS mais
+# cote systeme RetroBat plutot que cote catalogue.
+EXCLUDED_SYSTEMS = {
+    "flash",
+}
+
 
 def is_excluded(raw_name):
     lowered = raw_name.lower()
@@ -207,15 +217,16 @@ def build():
     matched_count = 0
     for system in systems:
         candidates = []
-        for source, entries in catalogs.items():
-            for entry in find_matches(system["fullname"], entries):
-                candidates.append({
-                    "Source": source,
-                    "Name": entry["name"],
-                    "Version": entry["version"],
-                    "Url": entry["url"],
-                    "File": entry["file"],
-                })
+        if system["code"] not in EXCLUDED_SYSTEMS:
+            for source, entries in catalogs.items():
+                for entry in find_matches(system["fullname"], entries):
+                    candidates.append({
+                        "Source": source,
+                        "Name": entry["name"],
+                        "Version": entry["version"],
+                        "Url": entry["url"],
+                        "File": entry["file"],
+                    })
 
         if candidates:
             matched_count += 1
