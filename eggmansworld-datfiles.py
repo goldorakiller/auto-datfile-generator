@@ -40,16 +40,19 @@ def find_romvault_zip(assets):
 
 
 def build():
-    # Nettoie l'ancienne structure (un sous-dossier par collection, ex.
-    # "eggmansworld-datfiles/hvsc/") d'une version precedente du script —
-    # sinon l'ancienne ET la nouvelle ("Eggmansworld - Datfiles/" a plat)
-    # coexistent dans le repo.
-    shutil.rmtree("eggmansworld-datfiles", ignore_errors=True)
-
     resp = requests.get(RELEASES_API, params={"per_page": 100}, timeout=150)
     resp.raise_for_status()
     releases = resp.json()
     print(f"{len(releases)} collection(s) trouvee(s)")
+
+    # Nettoie l'ancienne structure (un dossier a la racine par collection,
+    # nomme d'apres le tag de la release, ex. "hvsc/", "laserdisc/") d'une
+    # version precedente du script — sinon l'ancienne ET la nouvelle
+    # ("Eggmansworld - Datfiles/" a plat) coexistent dans le repo. Le nom
+    # exact vient de la liste de releases elle-meme (pas code en dur) pour
+    # rester correct si Eggmansworld renomme/ajoute une collection.
+    for release in releases:
+        shutil.rmtree(release["tag_name"], ignore_errors=True)
 
     for release in releases:
         tag = release["tag_name"]
