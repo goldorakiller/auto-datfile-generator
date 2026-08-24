@@ -6,18 +6,11 @@
 EverDrive-Packs-Lists-Database/
 geckodriver.log
 
-# Fichiers individuels publiés par fournisseur (voir no-intro.py/redump.py/
-# tosec.py + .github/workflows/daily-rebuild.yml) : ceux-la DOIVENT etre
-# suivis, contrairement aux .xml/.zip de travail ignores ci-dessus.
-!/no-intro/*.dat
-!/redump/*.dat
-!/tosec/*.dat
-!/clean-cpc-db/*.dat
-!/whdload/*.dat
-!/pleasuredome-mame/*.xml
-!/pleasuredome-mame/*.dat
-!/pleasuredome-hbmame/*.xml
-!/pleasuredome-hbmame/*.dat
-!/visual-pinball/*.xml
-!/future-pinball/*.xml
-!/fbneo/*.dat
+# Fichiers individuels publiés par fournisseur (no-intro.py, redump.py,
+# tosec.py, whdload.py, pleasuredome-*.py, fbneo.py, eggmansworld-*.py,
+# ...) : chacun ecrit dans SON PROPRE sous-dossier (jamais a la racine, ou
+# vivent les manifestes .xml de travail qui eux doivent rester ignores) —
+# une regle generique plutot qu'une ligne par dossier, pour ne pas avoir a
+# toucher ce fichier a chaque nouvelle source ajoutee.
+!*/*.dat
+!*/*.xml

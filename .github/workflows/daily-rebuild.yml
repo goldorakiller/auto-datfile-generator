@@ -8,6 +8,15 @@ on:
     - cron:  '30 16 * * *'
   workflow_dispatch:
 
+# Un seul run a la fois : plusieurs push rapproches declenchaient des runs
+# qui se chevauchaient et se percutaient au moment de "git push" en fin de
+# job (constate en reel aout 2026). "cancel-in-progress: false" les met en
+# file plutot que d'en annuler un — chacun doit quand meme aboutir a une
+# release.
+concurrency:
+  group: daily-rebuild
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -62,6 +71,10 @@ jobs:
         if: ${{ ! cancelled() }}
         run: pipenv run python3 fbneo.py
 
+      - name: Download dats for Eggmansworld/Datfiles (all collections)
+        if: ${{ ! cancelled() }}
+        run: pipenv run python3 eggmansworld-datfiles.py
+
       - name: Build retrobat-systems.json (RetroBat system -> dat candidates)
         if: ${{ ! cancelled() }}
         run: pipenv run python3 retrobat-systems.py
@@ -77,18 +90,24 @@ jobs:
         #  run: pipenv run python3 dats-site.py
 
       - name: Commit and push individual dat files
-        # Publie chaque dat individuel (no-intro/, redump/, tosec/) dans le
-        # repo, pour que le manifeste XML puisse pointer dessus directement
+        # Publie chaque dat individuel (un sous-dossier par fournisseur) dans
+        # le repo, pour que chaque manifeste puisse pointer dessus directement
         # via raw.githubusercontent.com — le client (RBTools) n'a plus besoin
-        # de telecharger le zip complet pour en extraire un seul fichier.
+        # de telecharger un zip complet pour en extraire un seul fichier.
+        # "git add -A" + .gitignore (regle generique !*/*.dat, !*/*.xml)
+        # plutot qu'une liste de dossiers en dur : suit automatiquement une
+        # nouvelle source ajoutee sans repasser par ce fichier.
         # GITHUB_TOKEN ne redeclenche pas ce workflow (push sur "on: push") :
-        # pas de risque de boucle infinie.
+        # pas de risque de boucle infinie. rebase avant push : plusieurs runs
+        # peuvent se chevaucher si plusieurs commits arrivent coup sur coup.
         if: ${{ ! cancelled() }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add no-intro redump tosec whdload pleasuredome-mame pleasuredome-hbmame visual-pinball future-pinball fbneo
+          git add -A
           git diff --staged --quiet || git commit -m "Update individual dat files"
+          git fetch origin master
+          git rebase origin/master || git rebase --abort
           git push
 
       - name: Create release
