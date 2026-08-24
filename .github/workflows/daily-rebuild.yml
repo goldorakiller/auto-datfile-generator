@@ -42,6 +42,10 @@ jobs:
         if: ${{ ! cancelled() }}
         run: pipenv run python3 tosec.py
 
+      - name: Build retrobat-systems.json (RetroBat system -> dat candidates)
+        if: ${{ ! cancelled() }}
+        run: pipenv run python3 retrobat-systems.py
+
         # HTGD disabled for now
         #- name: Download dats and generate profile.xml for HTGD
         #  if: ${{ ! cancelled() }}
@@ -72,7 +76,7 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
-          artifacts: "*.xml,*.zip"
+          artifacts: "*.xml,*.zip,*.json"
           commit: master
           name: Daily_Rebuild
           makeLatest: true
