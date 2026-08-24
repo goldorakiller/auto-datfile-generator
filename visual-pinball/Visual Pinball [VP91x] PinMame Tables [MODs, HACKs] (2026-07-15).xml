@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP91x] PinMame Tables [MODs, HACKs]</name>
+		<description>Visual Pinball [VP91x] PinMame Tables [MODs, HACKs] (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="250 cc (Inder)(1992)(JPSalas)(1.0)[VP91x][FS VP91x N-MOD v1.1 Xenonph]">
+		<description>250 cc (Inder)(1992)(JPSalas)(1.0)[VP91x][FS VP91x N-MOD v1.1 Xenonph]</description>
+		<rom name="250cc (Inder 1992) FS VP91x N-MOD v1.1.vpt" size="22114304" crc="41379a2a" md5="ef0fe7d63c7483bf65111ced314e8850" sha1="86553fed9d62d6669c7f6f7c124e8f708de9da51" />
+		<rom name="medium_701_15_06_17_6_21_59_0.png" size="673332" crc="a5601751" md5="37e968ebe278590deee92bb40124da47" sha1="b87a8c7211a2240708f26805f784171a60f525e6" />
+	</machine>
+	<machine name="Algar (Williams)(1980)(PracticeDummy)(1.2.1)[VP912][FullScreen MOD v1.2.1 dboyrecords]">
+		<description>Algar (Williams)(1980)(PracticeDummy)(1.2.1)[VP912][FullScreen MOD v1.2.1 dboyrecords]</description>
+		<rom name="Algar_V_1_2_1_VP9 FS mod.vpt" size="20193280" crc="e968a20e" md5="2872e58f773eacef9efc1fb55c3ce1f0" sha1="f2f45ec77809b8cfb28a09e0c05741d6e3b7c594" />
+	</machine>
+	<machine name="Attack from Mars (Bally)(1995)(JPSalas)(2.4)[VP916][FullScreen 3-WAY-GI BMPR FD-Routine (teppotee) &amp; NIGHT MOD Aaron James v3.1]">
+		<description>Attack from Mars (Bally)(1995)(JPSalas)(2.4)[VP916][FullScreen 3-WAY-GI BMPR FD-Routine (teppotee) &amp; NIGHT MOD Aaron James v3.1]</description>
+		<rom name="Attack from Mars (2.0) screenshot.jpg" size="3327158" crc="5d4235f9" md5="980bd7a0fa34d2038f3f3fc582e27754" sha1="de9b2cda34b76462ba36661bdec6d335500ba613" />
+		<rom name="Attack from Mars (2.2) screenshot.jpg" size="877656" crc="d171fde1" md5="200c2b7f2e9c6e64184e4abe159a992a" sha1="3006039c548835ae7b1208ebaa3e2bebb7a182ae" />
+		<rom name="Attack from Mars (3.0) screenshot.jpg" size="2256490" crc="65100032" md5="a30ec55d8ef11fd6d6896407cc0ce076" sha1="6e9f3bd467412cb1b7af213d09758e69504c37c3" />
+		<rom name="Attack from Mars (3.1) screenshot.jpg" size="586292" crc="84ac2523" md5="7fa3b26a706eccc14b42384abbde7bf1" sha1="1e497b0e0ea45b075326ceffb750e3824aed127d" />
+		<rom name="Attack from Mars (Bally)(1995)(JPSalas)(2.4)[VP914][FullScreen NIGHT MOD Aaron James v1.0].vpt" size="28602368" crc="70aeda47" md5="d1d0adc57da39b6d3323d59a48d106b9" sha1="f0cff8e0e4efe9307b4fce3bf2d99485f85d3b90" />
+		<rom name="Attack from Mars (Bally)(1995)(JPSalas)(2.4)[VP915][FullScreen NIGHT MOD Aaron James v2.0].vpt" size="28942336" crc="b5ccba98" md5="0e1b66d2f9a89aac66b61fc74b61e108" sha1="edeaa208988e45acf877c7905a4a69d71dfd0a95" />
+		<rom name="Attack from Mars (Bally)(1995)(JPSalas)(2.4)[VP916][FullScreen 3-WAY-GI BMPR FD-Routine (teppotee) &amp; NIGHT MOD Aaron James v3.0].vpt" size="28426240" crc="4bb41c9b" md5="f4b960e948eeb78ae5d1d79f1cccc57c" sha1="553b9c2ad6a25d5ffdb3db42056d2411c8b5c564" />
+		<rom name="Attack from Mars (Bally)(1995)(JPSalas)(2.4)[VP916][FullScreen 3-WAY-GI BMPR FD-Routine (teppotee) &amp; NIGHT MOD Aaron James v3.1].vpt" size="28426240" crc="ae3957ea" md5="919cd3ecde42d801df4ccc71b2aa5aae" sha1="20362bc727d9c90cf637f7ea0cf8691fe72a3b1e" />
+		<rom name="Attack from Mars (Bally)(1995)(JPSalas)(2.4)[VP916][FullScreen NIGHT MOD Aaron James v2.1].vpt" size="29736960" crc="5e425502" md5="9b57fa9019a619a7614670d1e3efc08b" sha1="e4ad454359cacb6be0149a198c547ef6038d7098" />
+		<rom name="Attack from Mars (Bally)(1995)(JPSalas)(2.4)[VP916][FullScreen NIGHT MOD Aaron James v2.2].vpt" size="29736960" crc="36d2a34a" md5="df47687a4e50c8d8085da513724cb7ac" sha1="d1ead4f5ea2dbc1f3365a724cd76d27507da1757" />
+	</machine>
+	<machine name="Batman (Data East)(1991)(Lord Hiryu)(1.0)[VP915][FullScreen Alpha BMPR MOD teppotee v1.2]">
+		<description>Batman (Data East)(1991)(Lord Hiryu)(1.0)[VP915][FullScreen Alpha BMPR MOD teppotee v1.2]</description>
+		<rom name="Batman (Data East)(1991)(Lord Hiryu)(1.0)[VP915][FullScreen Alpha BMPR MOD teppotee v1.2].vpt" size="21315584" crc="68346fd9" md5="16164d5db68ee1ed05c2987fdae68fe4" sha1="b17107897115411b37ed97bd5476afb75074a444" />
+		<rom name="Batman screenshot.png" size="1050085" crc="fe1cd7f7" md5="d097b204ead134ee9a1025d885babf03" sha1="5fa2ef45f64c42cf893b7f13558e0414d39e19ba" />
+	</machine>
+	<machine name="Black Hole (Gottlieb)(1981)(PataTroX)(1.0)[VP912][FullScreen MOD Mostly Decaf v1.0]">
+		<description>Black Hole (Gottlieb)(1981)(PataTroX)(1.0)[VP912][FullScreen MOD Mostly Decaf v1.0]</description>
+		<rom name="Mediapack/Media/Visual Pinball/Backglass Images/Black Hole (Gottlieb 1981).png" size="1328376" crc="ab68270b" md5="a3d5c620ffbe2ce0f8a7865e1b81ca5a" sha1="999b0dff28f1f1c718323380d963a4f68741e0fb" />
+		<rom name="Mediapack/Media/Visual Pinball/Table Images/Black Hole (Gottlieb 1981).png" size="4582049" crc="5a1137f5" md5="ed2c0444854a00265c7d6afb724945c6" sha1="1d6ee0801e0e6c339de9ae930f1c815b48291c03" />
+		<rom name="Mediapack/Media/Visual Pinball/Wheel Images/Black Hole (Gottlieb 1981).png" size="25383" crc="e1948290" md5="e4f0758d87bb2d27ea78385019bcd2e7" sha1="f04b533eca2a9da03f09c3c8030539ada998a62f" />
+		<rom name="Mediapack/UltraVP/Black Hole (Gottlieb 1981).png" size="1328376" crc="ab68270b" md5="a3d5c620ffbe2ce0f8a7865e1b81ca5a" sha1="999b0dff28f1f1c718323380d963a4f68741e0fb" />
+		<rom name="Mediapack/UltraVP/Black Hole (Gottlieb 1981).uvp" size="20480" crc="b97b7e44" md5="1bf4538c9b7d523ea5906be95975cb59" sha1="91e37e36bb428f8584d2726e39b23556337d8f93" />
+		<rom name="Black Hole (Gottlieb)(1981)(PataTroX)(1.0)[VP912][FullScreen MOD Mostly Decaf v1.0].vpt" size="28024832" crc="efc56be6" md5="9ba373e709b848db615d1913bba3b299" sha1="a0dbe22457c986185a7066bd1ba2f7225be2e93b" />
+		<rom name="Black Hole screenshot.jpg" size="523252" crc="0192f4fe" md5="dba386d84d2013e507259fcdb9a91508" sha1="fc95a32788b66370c00b8219fbab1e4f16ce51af" />
+	</machine>
+	<machine name="Black Rose (Bally)(1992)(Lord Hiryu)(2.1)[VP912][FullScreen MOD rob046 v1.3]">
+		<description>Black Rose (Bally)(1992)(Lord Hiryu)(2.1)[VP912][FullScreen MOD rob046 v1.3]</description>
+		<rom name="Black Rose (Bally)(1992)(Lord Hiryu)(2.0)[VP912][FullScreen MOD rob046 v1.3].vpt" size="44531712" crc="daf755b1" md5="b3bd35b6a196b4a59fb781a4695c388c" sha1="e1a2577c6758401a907bb4728f80781f0c0d6b45" />
+		<rom name="Black Rose screenshot.jpg" size="525247" crc="4fe64982" md5="25b229ec835be0b32fc9f7d45de15a58" sha1="851ac79a070ec0e8779a2cf5e5c9616b232443c1" />
+		<rom name="Black_Rose_Guide_In_Depth.txt" size="32092" crc="88368bfc" md5="b5ccabd83dfbb59deb9c6ec3fcbbcc3c" sha1="453c4618d1ed8f06133f0ff5ada399242766f874" />
+		<rom name="Midway_Black_Rose_instruction_cards.pdf" size="68092" crc="5797f2d5" md5="3c95d30456d4540f96f471dfb7823fbb" sha1="152fbc386a5eded16dbb4016d645e23afe499778" />
+	</machine>
+	<machine name="Black Rose (Bally)(1992)(Lord Hiryu)(2.1)[VP912][MOD DT WS v1.3 rob046]">
+		<description>Black Rose (Bally)(1992)(Lord Hiryu)(2.1)[VP912][MOD DT WS v1.3 rob046]</description>
+		<rom name="Black_Rose_Guide_In_Depth.txt" size="32092" crc="88368bfc" md5="b5ccabd83dfbb59deb9c6ec3fcbbcc3c" sha1="453c4618d1ed8f06133f0ff5ada399242766f874" />
+		<rom name="black_rose_screenshot_43_v121.jpg" size="708869" crc="0239f1e1" md5="cde0d52a6f62173a56014a79115cfef7" sha1="0c6a3c969b528b83555c3210fab2b47d28e233a6" />
+		<rom name="Black_Rose_VP912_Mod_Desktop_v1.3.vpt" size="45436928" crc="298f7d5d" md5="a18d4d530d390d40649ed66e67936ab8" sha1="1b07195c5bb96c1b3ea8813e3289a5e40affe731" />
+		<rom name="Midway_Black_Rose_instruction_cards.pdf" size="68092" crc="5797f2d5" md5="3c95d30456d4540f96f471dfb7823fbb" sha1="152fbc386a5eded16dbb4016d645e23afe499778" />
+	</machine>
+	<machine name="Bram Stoker's Dracula (Williams)(1993)(JPSalas)(1.04)[VP91x][MOD GI Lighting and BMPR Physics v1.0.42 JimmyFingers]">
+		<description>Bram Stoker's Dracula (Williams)(1993)(JPSalas)(1.04)[VP91x][MOD GI Lighting and BMPR Physics v1.0.42 JimmyFingers]</description>
+		<rom name="Bram Stoker's Dracula_GI8_BMPR.vpt" size="44314624" crc="499980d0" md5="7600eb6471ebfe8d9a8f3dd23098a631" sha1="605216f4cd3c44c42e94651ba0adcc809c0888ff" />
+		<rom name="screenshot.png" size="1736507" crc="47dcf128" md5="d01c37c5b76387fabd11e6836d939c8b" sha1="cff125378e4251344bf6974a8805e1f4bd85c52a" />
+	</machine>
+	<machine name="BreakShot (Capcom)(1996)(Noah Fentz, UncleReamus)(1.2)[VP915][MOD DT WS v1.1 ICPjuggla, Herweh, OldSkoolGamer, Koadic]">
+		<description>BreakShot (Capcom)(1996)(Noah Fentz, UncleReamus)(1.2)[VP915][MOD DT WS v1.1 ICPjuggla, Herweh, OldSkoolGamer, Koadic]</description>
+		<rom name="BreakShot_VP915+_(Mod WS)1.1.vpt" size="19722240" crc="22f39583" md5="f4e3872813d063fc1813615e8357c4f1" sha1="fe6d8a645e355b27ca6792c798c01c46bd42429b" />
+	</machine>
+	<machine name="BreakShot (Capcom)(1996)(Noah Fentz, UncleReamus)(1.2)[VP915][MOD FS v1.1 ICPjuggla, Herweh, OldSkoolGamer, Koadic]">
+		<description>BreakShot (Capcom)(1996)(Noah Fentz, UncleReamus)(1.2)[VP915][MOD FS v1.1 ICPjuggla, Herweh, OldSkoolGamer, Koadic]</description>
+		<rom name="BreakShot_VP915+_(Mod FS)1.1.vpt" size="17940480" crc="faae3c79" md5="10b67519aa5541e9b7784b5fc1dd3b9a" sha1="93fe839643503782d6ad671f0fab56c6e7f19628" />
+	</machine>
+	<machine name="Cactus Canyon (Bally)(1998)(Lord Hiryu, MRCMRC, Sheltemke, The Wool, Grizz, Kodiac)(1.0)[VP916][FullScreen HIGH NOON NIGHT MOD Aaron James v1.2]">
+		<description>Cactus Canyon (Bally)(1998)(Lord Hiryu, MRCMRC, Sheltemke, The Wool, Grizz, Kodiac)(1.0)[VP916][FullScreen HIGH NOON NIGHT MOD Aaron James v1.2]</description>
+		<rom name="Cactus Canyon (Aaron James) screenshot.png" size="3968942" crc="c2dff30c" md5="5da0fb54790ed998a7861029fd0f6c46" sha1="5129cfc67c9a3e7c2162044303fdceaaec1d0e50" />
+		<rom name="Cactus Canyon (Bally)(1998)(Lord Hiryu, MRCMRC, Sheltemke, The Wool, Grizz, Kodiac)(1.0)[VP916][FullScreen HIGH NOON NIGHT MOD Aaron James v1.2].vpt" size="38510592" crc="e41c045f" md5="3470371c854debd9bfdc30b687bafdf2" sha1="024a9142424e2b5e08294bb999c295711d699565" />
+	</machine>
+	<machine name="Cactus Canyon (Bally)(1998)(sheltermke)(1.31[VP916][FullScreen][High Noon MOD]">
+		<description>Cactus Canyon (Bally)(1998)(sheltermke)(1.31[VP916][FullScreen][High Noon MOD]</description>
+		<rom name="Cactus Canyon (High Noon MOD).png" size="3260946" crc="9d486f7b" md5="9e39df0086a7893ab2e90bc7651d1d16" sha1="cff6f774f4bdfd272652c145675f43b87a2bfc9b" />
+		<rom name="Cactus Canyon(High Noon MOD)FS_1.31.vpt" size="61706240" crc="11b1b348" md5="aefd0827f612e12c301d1de604798265" sha1="daeede08d76a997a8e26c01b1889b820582f63cf" />
+	</machine>
+	<machine name="Circus Voltaire (Bally)(1997)(JPSalas, rosve)(1.0)[VP916][FullScreen JPSalas][B2S rosve][NIGHT MOD Aaron James v2.2]">
+		<description>Circus Voltaire (Bally)(1997)(JPSalas, rosve)(1.0)[VP916][FullScreen JPSalas][B2S rosve][NIGHT MOD Aaron James v2.2]</description>
+		<rom name="Circus Voltaire (Bally)(1997)(JPSalas, rosve)(1.0)[VP916][FullScreen JPSalas][B2S rosve][NIGHT MOD Aaron James v1.31]/Cirqus Voltaire Night Mod (Bally 1997)BACKGLASS.png" size="2045916" crc="c970bea7" md5="4035dd8b0b195458b2859a68e440026a" sha1="096da5df3019a6538cf6b648d28c133f33094b0f" />
+		<rom name="Circus Voltaire (Bally)(1997)(JPSalas, rosve)(1.0)[VP916][FullScreen JPSalas][B2S rosve][NIGHT MOD Aaron James v1.31]/Cirqus Voltaire Night Mod (Bally 1997)TABLE.png" size="3893821" crc="b9beef6f" md5="e9256277528a883142e4f6f6732ae495" sha1="8b66a158144e4ed3d4ec1ec596a0974bec0c9120" />
+		<rom name="Circus Voltaire (Bally)(1997)(JPSalas, rosve)(1.0)[VP916][FullScreen JPSalas][B2S rosve][NIGHT MOD Aaron James v1.31]/Cirqus Voltaire Night Mod (Bally 1997)WHEEL.png" size="217839" crc="b3bd3e05" md5="f38df22e4e67da11f11ec7c28efc76f5" sha1="ab1beddb4cba089e1fe433e7217c2946a468412a" />
+		<rom name="Circus Voltaire (Bally)(1997)(JPSalas, rosve)(1.0)[VP916][FullScreen JPSalas][B2S rosve][NIGHT MOD Aaron James v1.31]/Cirqus_Voltaire_Night_Mod_[aaron_james]_VP913_v1.31FS_B2S.exe" size="14124544" crc="eabd0de7" md5="ce2f033c4e3c659b33abb61e0e7aab6c" sha1="a9a1da75a8017b068da15ce488854f0b335827fe" />
+		<rom name="Circus Voltaire (Bally)(1997)(JPSalas, rosve)(1.0)[VP916][FullScreen JPSalas][B2S rosve][NIGHT MOD Aaron James v1.31]/Cirqus_Voltaire_Night_Mod_[aaron_james]_VP913_v1.31FS_B2S.vpt" size="23445504" crc="615ea605" md5="5c3a9594808c59818d1b170b96ab045f" sha1="3f4865c9478c0b82e7467b2046de2f8cd2685ab7" />
+		<rom name="Circus Voltaire (Bally)(1997)(JPSalas, rosve)(1.0)[VP916][FullScreen JPSalas][B2S rosve][NIGHT MOD Aaron James v2.0]/Cirqus_Voltaire_Night_Mod_[aaron_james]_VP916_2.0_FS_B2S.exe" size="14124544" crc="eabd0de7" md5="ce2f033c4e3c659b33abb61e0e7aab6c" sha1="a9a1da75a8017b068da15ce488854f0b335827fe" />
+		<rom name="Circus Voltaire (Bally)(1997)(JPSalas, rosve)(1.0)[VP916][FullScreen JPSalas][B2S rosve][NIGHT MOD Aaron James v2.0]/Cirqus_Voltaire_Night_Mod_[aaron_james]_VP916_2.0_FS_B2S.vpt" size="23117824" crc="641bb746" md5="af5a9a2b10db6960770ad63bca536d57" sha1="e0d393df66f373f217cab7a73c760c049a0c8d8c" />
+		<rom name="Circus Voltaire (Bally)(1997)(JPSalas, rosve)(1.0)[VP916][FullScreen JPSalas][B2S rosve][NIGHT MOD Aaron James v2.1]/Cirqus_Voltaire_Night_Mod_[aaron_james]_VP916_2.1_FS_B2S.exe" size="14124544" crc="eabd0de7" md5="ce2f033c4e3c659b33abb61e0e7aab6c" sha1="a9a1da75a8017b068da15ce488854f0b335827fe" />
+		<rom name="Circus Voltaire (Bally)(1997)(JPSalas, rosve)(1.0)[VP916][FullScreen JPSalas][B2S rosve][NIGHT MOD Aaron James v2.1]/Cirqus_Voltaire_Night_Mod_[aaron_james]_VP916_2.1_FS_B2S.vpt" size="23117824" crc="b038af0f" md5="f2027a6d8338b88dbae5c46c1a315f5c" sha1="9287ce54764fec9faeab385abdace894223f503a" />
+		<rom name="Circus Voltaire (Bally)(1997)(JPSalas, rosve)(1.0)[VP916][FullScreen JPSalas][B2S rosve][NIGHT MOD Aaron James v2.2]/Cirqus_Voltaire_Night_Mod_[aaron_james]_VP916_2.2_FS_B2S.exe" size="14124544" crc="eabd0de7" md5="ce2f033c4e3c659b33abb61e0e7aab6c" sha1="a9a1da75a8017b068da15ce488854f0b335827fe" />
+		<rom name="Circus Voltaire (Bally)(1997)(JPSalas, rosve)(1.0)[VP916][FullScreen JPSalas][B2S rosve][NIGHT MOD Aaron James v2.2]/Cirqus_Voltaire_Night_Mod_[aaron_james]_VP916_2.2_FS_B2S.vpt" size="23117824" crc="6279106d" md5="29d8b1b6776e28214d105dd0ab4474b4" sha1="76f7c836dc9bb2bd7bda5403f3b0962cf1a50422" />
+		<rom name="Cirqus Voltaire screenshot.jpg" size="937078" crc="732c0144" md5="4cc14d898068ccbc49e966e106d2f33c" sha1="0e4cb8c6843b1d3322ef3415edd8b40c983a28f4" />
+	</machine>
+	<machine name="Cirqus Voltaire (Bally)(1997)(JPSalas)[VP913][DT ColorDMD+dB2S MOD Xenonph v1.31b]">
+		<description>Cirqus Voltaire (Bally)(1997)(JPSalas)[VP913][DT ColorDMD+dB2S MOD Xenonph v1.31b]</description>
+		<rom name="Cirqus Voltaire (Bally 1997) dB2S DT VP913 ColorDMD Mod v1.31/0 B2S Backglass Server 1.3.0.2/B2SBackglassServer.dll" size="505856" crc="0c26a518" md5="3ceeb6bef828ab3b7509875232ab52f9" sha1="a6b87cab231cd0d272e88acd7a9de233fa4fde00" />
+		<rom name="Cirqus Voltaire (Bally 1997) dB2S DT VP913 ColorDMD Mod v1.31/0 B2S Backglass Server 1.3.0.2/B2SBackglassServerEXE.exe" size="251392" crc="6f9065c9" md5="d57766e59fb132a619c1a3129928816d" sha1="90b86636c490e755be2697d365837ef9d0e9f7a7" />
+		<rom name="Cirqus Voltaire (Bally 1997) dB2S DT VP913 ColorDMD Mod v1.31/0 B2S Backglass Server 1.3.0.2/B2SBackglassServerRegisterApp.exe" size="48640" crc="3ba41ea0" md5="08ad063fd087639f1fca87da6279b81d" sha1="f22be81bacfc2d90eda474b20e1f7eabdcfa8357" />
+		<rom name="Cirqus Voltaire (Bally 1997) dB2S DT VP913 ColorDMD Mod v1.31/0 B2S Backglass Server 1.3.0.2/B2SServerPluginInterface.dll" size="201728" crc="9a18f73f" md5="51238a3f4b3a34d96ca565791736dca6" sha1="9e2118c4a7900ca4a5276aa1475faee49030084b" />
+		<rom name="Cirqus Voltaire (Bally 1997) dB2S DT VP913 ColorDMD Mod v1.31/0 B2S Backglass Server 1.3.0.2/Readme.txt" size="2185" crc="2a6f41c8" md5="f39a667aec7532fa84fc655ccac2cc35" sha1="ee8bb5dcb7d3f197d622ae44e42d72068c079da2" />
+		<rom name="Cirqus Voltaire (Bally 1997) dB2S DT VP913 ColorDMD Mod v1.31/0 READ ME!!!.txt" size="2719" crc="09da50c9" md5="1ee760ada102f7a9daf669782be9995b" sha1="da6a28f0921fc501d9a703b8b897514af15f9e00" />
+		<rom name="Cirqus Voltaire (Bally 1997) dB2S DT VP913 ColorDMD Mod v1.31/b2s.exe" size="1027584" crc="87bae5a5" md5="baa0cea0731012ae4fe4935dde0feaed" sha1="193cc032530d75bc150e0a8c955d1bc07e62dcb2" />
+		<rom name="Cirqus Voltaire (Bally 1997) dB2S DT VP913 ColorDMD Mod v1.31/Cirqus Voltaire (Bally 1997) dB2S DT VP913 ColorDMD Mod v1.31.directB2S" size="15001097" crc="53f8f78e" md5="582f2ab68db8003ba103ea7d9cab019b" sha1="9947b832cfd20cc6160b351ef4debeafea9131e9" />
+		<rom name="Cirqus Voltaire (Bally 1997) dB2S DT VP913 ColorDMD Mod v1.31/Cirqus Voltaire (Bally 1997) dB2S DT VP913 ColorDMD Mod v1.31.vpt" size="28917760" crc="b5f31cb3" md5="43b0048399af503d26c5527082704d11" sha1="0f39753c2bfb71ad6a8b58be0555373b0624c483" />
+		<rom name="Cirqus Voltaire (Bally 1997) dB2S DT VP913 ColorDMD Mod v1.31/ScreenRes.txt" size="29" crc="fe0ae537" md5="d1fa9bf2219580ab9c18cb3a9d6a268d" sha1="4a3de40d63371bbf96f2fd016cdd4f421589f887" />
+		<rom name="cirqus-voltaire--bally-1997--db2s-dt-vp913-colordmd-mod-v131b.png" size="1591921" crc="057b6c3b" md5="de0967e05bc951ebff4031a7c60000ad" sha1="28a2fcf9d91bf21a523c9e5aaea4aa930e47e1cf" />
+	</machine>
+	<machine name="Creature from the Black Lagoon (Bally)(1992)(Unclewilly)(1.1)[VP912][FullScreen Alpha MOD MRCMRC v1.2]">
+		<description>Creature from the Black Lagoon (Bally)(1992)(Unclewilly)(1.1)[VP912][FullScreen Alpha MOD MRCMRC v1.2]</description>
+		<rom name="MRCMRC/Creature from the Black Lagoon (Bally)(1992)(unclewilly)(1.1)[VP912][FullScreen Alpha MOD MRCMRC v1.2].vpt" size="31969280" crc="06f5eb80" md5="e5da0d77889ac5574b7ac7d42ef774d5" sha1="00de71006d0b1f350452f2f1359dbf0d0df61821" />
+		<rom name="MRCMRC/Creature from the Black Lagoon (MRCMRC) screenshot.jpg" size="834671" crc="37b21770" md5="ba3649d5f2a24d871816b2527cffcd11" sha1="de22d82061e43554aaeee885438c6df3bb80fa57" />
+		<rom name="Creature from the Black Lagoon Rules &amp; Instructions.txt" size="45169" crc="c414f777" md5="a3a9e4737f9fd36ba20a027f60906bca" sha1="aed6ba1f1b653adc9df363543b14b5f85b2c1240" />
+	</machine>
+	<machine name="Creature from the Black Lagoon (Bally)(1992)(Unclewilly)(1.1)[VP912][FullScreen MOD rob046 v1.6]">
+		<description>Creature from the Black Lagoon (Bally)(1992)(Unclewilly)(1.1)[VP912][FullScreen MOD rob046 v1.6]</description>
+		<rom name="rob046/Creature from the Black Lagoon (Bally)(1992)(unclewilly)(1.1)[VP912][FullScreen MOD rob046 v1.6].vpt" size="32555008" crc="6ead168b" md5="357d89501a8126264c0702c544f00376" sha1="955c8aaf1173d2695c2dbcffbd1ab4c7ad7f0803" />
+		<rom name="rob046/Creature from the Black Lagoon (rob046) screenshot.jpg" size="356359" crc="c0ebab0e" md5="453a46233e679dd90f02786076724ee2" sha1="fff05b447997939a47a689b405a0e2667468c45c" />
+		<rom name="Creature from the Black Lagoon Rules &amp; Instructions.txt" size="45169" crc="c414f777" md5="a3a9e4737f9fd36ba20a027f60906bca" sha1="aed6ba1f1b653adc9df363543b14b5f85b2c1240" />
+	</machine>
+	<machine name="Creature from the Black Lagoon (Bally)(1992)(Unclewilly)(1.1)[VP915][FullScreen MOD rob046 v1.6, Nude MOD GeXXXy v1.0]">
+		<description>Creature from the Black Lagoon (Bally)(1992)(Unclewilly)(1.1)[VP915][FullScreen MOD rob046 v1.6, Nude MOD GeXXXy v1.0]</description>
+		<rom name="GeXXXy/Creature from the Black Lagoon (Bally)(1992)(unclewilly)(1.1)[VP915][FullScreen MOD rob046 v1.6, Nude MOD GeXXXy v1.0].vpt" size="34934784" crc="69ff2326" md5="73d2b24f2d2bf3a2bb8c100a641a58cb" sha1="10f61a005ad3e356b95e398a6a55a0eb9889095f" />
+		<rom name="GeXXXy/Creature From The Black Lagoon screenshot.png" size="2761028" crc="bc0a8dda" md5="a893c9fc8b2387b90fb6a6a8a8be0428" sha1="53247eb0d01ace7554de944dae83720d73351706" />
+		<rom name="GeXXXy/bg/CFTBL.png" size="1753825" crc="b0fc0d9c" md5="4ecd599a788a4146fed5c0851f9b9a63" sha1="207abb70bb80adf5928f94d47efd076b5106dc8b" />
+		<rom name="GeXXXy/wheel/CFTBL.png" size="214505" crc="1a97499e" md5="1042d845b2e3664036f9b794c3373f7e" sha1="9bf6af6896d8ad8620523066f28556605aff2df8" />
+		<rom name="Creature from the Black Lagoon Rules &amp; Instructions.txt" size="45169" crc="c414f777" md5="a3a9e4737f9fd36ba20a027f60906bca" sha1="aed6ba1f1b653adc9df363543b14b5f85b2c1240" />
+	</machine>
+	<machine name="Cyclopes (Game Plan)(1985)(Eala Dubh Sidhe, Destruk)(1.0)[VP912][FullScreen MOD rob046 v2.1]">
+		<description>Cyclopes (Game Plan)(1985)(Eala Dubh Sidhe, Destruk)(1.0)[VP912][FullScreen MOD rob046 v2.1]</description>
+		<rom name="Cyclopes (GamePlan)(1985)(Eala Dubh Sidhe, Destruk)(1.0)[VP912][FullScreen MOD rob046 v2.1].vpt" size="12247040" crc="75e490e1" md5="7bcd73f7e94a037e8446bc8ac3bd427f" sha1="8a7608efe4084ab7d0b03bf372e95d70a45de789" />
+		<rom name="Cyclopes screenshot.jpg" size="402037" crc="aabcfd64" md5="808bdf9fa0bcadfa643257de0c54d8c5" sha1="93d11232030d2f3a05032e10f5c79676ed6e8168" />
+		<rom name="cyclopes.nv" size="302" crc="e3a661d5" md5="9ed5adba873c34254276035d355c4a2d" sha1="a81fc191ed219be67afc7ba984f9aefbf3d6881c" />
+		<rom name="Read Me.txt" size="318" crc="71789d3b" md5="518eb3369cb1d124d2eea560c070428a" sha1="3db9780868e2ad6b066ea549818cedae2750e934" />
+	</machine>
+	<machine name="Demolition Man (Williams)(1994)(bmiki75, Aaron James, Teppotee)(1.0)[VP916][MOD DT v1.0 Batch]">
+		<description>Demolition Man (Williams)(1994)(bmiki75, Aaron James, Teppotee)(1.0)[VP916][MOD DT v1.0 Batch]</description>
+		<rom name="Demolition Man Teppotee DT Batch_MOD 1.0.vpt" size="28950528" crc="502e8fac" md5="9309739971e488b053b0bd7b53ac3216" sha1="ee2ae3900d9ee01527fa5b7851ac98b907ed1c1b" />
+		<rom name="demolition-man-teppotee-dt-batch_mod-10.jpg" size="732493" crc="4ed8d661" md5="7cb61b1eecd6ac1a22371f50ca295c7e" sha1="ec8bff36408f03b2813b3e889c067036909b62d2" />
+	</machine>
+	<machine name="Dungeons &amp; Dragons (Bally)(1987)(Destruk, Lander)(1.0)[VP909][MOD VP9 Gfx 2.0 Faralos]">
+		<description>Dungeons &amp; Dragons (Bally)(1987)(Destruk, Lander)(1.0)[VP909][MOD VP9 Gfx 2.0 Faralos]</description>
+		<rom name="D&amp;D VP9 Final.vpt" size="14486528" crc="6a97aa77" md5="70657ef5bb2d6d354e207a536642dd1e" sha1="ff70c5f5d356830c4106f15d45f33af2580500d2" />
+		<rom name="screenshot.jpg" size="220105" crc="dcacbf29" md5="bf37a79b54a6dfbc4c071952a75b19c9" sha1="aaa13a992cf7b52d925aa145fd3ad46ad5981a70" />
+	</machine>
+	<machine name="Elvira and the Party Monsters (Bally)(1989)(JPSalas)(1.2)[VP916][MOD FS Night &amp; Day LoadedWeapon][dB2S LW]">
+		<description>Elvira and the Party Monsters (Bally)(1989)(JPSalas)(1.2)[VP916][MOD FS Night &amp; Day LoadedWeapon][dB2S LW]</description>
+		<rom name="Elvira and the Party Monsters Day Mod.directb2s" size="14457570" crc="69008b0b" md5="f4c1c3d47c19825f8137658173ccd93f" sha1="17a213f84f5a20556c7f23e78f92e9bfed621ca5" />
+		<rom name="Elvira and the Party Monsters Day Mod.vpt" size="22876160" crc="b1a39a60" md5="51fb0dd8544f9fbc13718b29be3e6df7" sha1="9614385aedffc571c7dc7b710abdd814bbce17c9" />
+		<rom name="Elvira and the Party Monsters.directb2s" size="13183721" crc="a4893c79" md5="b9ee89a5c0e09e471670794ca316da45" sha1="3acab89b57ac81ea486726bd7f9ce466d5b3c0c5" />
+		<rom name="Elvira and the Party Monsters.vpt" size="19398656" crc="51596873" md5="823e10589ffe4aca9324afad218ba307" sha1="c0231153dd2944a178c5714aeee3238567a8f555" />
+		<rom name="screenshot.png" size="3318373" crc="9aef1ca8" md5="09f75d40a7fc32140c8eeedd79a35cb0" sha1="9a46e505109b6a348f1ca563d87d04dcd5c1b9d6" />
+	</machine>
+	<machine name="Elvis (Stern)(2004)(JPSalas, Aaron James)(1.0)[VP916][FullScreen Night MOD Aaron James v1.0 Teppotee help]">
+		<description>Elvis (Stern)(2004)(JPSalas, Aaron James)(1.0)[VP916][FullScreen Night MOD Aaron James v1.0 Teppotee help]</description>
+		<rom name="Elvis (Stern)(2004)(JPSalas, Aaron James)(1.0)[VP916][FullScreen Night MOD Aaron James v1.0 Teppotee help].vpt" size="45850624" crc="bb99daf3" md5="4e8402643d275b4aaafed726a8afce96" sha1="f3a341d2066fbdd2b6ec3538466e93b396fb251b" />
+		<rom name="Elvis screenshot.jpg" size="753897" crc="f3ecd930" md5="996203dc03f797b11449908f9231d5ec" sha1="7839d8d35e76dd1571f036d6ffcddb6105ec3993" />
+	</machine>
+	<machine name="Embryon (Bally)(1981)(PacDude)(1.1)[VP912][FullScreen MOD Kruge99 v1.0]">
+		<description>Embryon (Bally)(1981)(PacDude)(1.1)[VP912][FullScreen MOD Kruge99 v1.0]</description>
+		<rom name="Embryon (Bally)(1980)(PacDude)(1.1)[VP912][FullScreen MOD Kruge99 v1.0].vpt" size="7946240" crc="18862aa2" md5="c06dc3f89e38c1c9edb71bedb9305b9a" sha1="3a3918bbfc80029edb4ace16b870479892a94234" />
+		<rom name="Embryon screenshot.png" size="723410" crc="c55ac9f0" md5="6c01f997956583fd5ddb2e0474262f0a" sha1="61ac195e61a07fc15b235c02193578e5b073eeb3" />
+	</machine>
+	<machine name="F-14 Tomcat (Williams)(1987)(JPSalas, rosve)(1.00)[VP916][FS rosve][Day-Night MOD chinzman93]">
+		<description>F-14 Tomcat (Williams)(1987)(JPSalas, rosve)(1.00)[VP916][FS rosve][Day-Night MOD chinzman93]</description>
+		<rom name="F-14 Tomcat (Day MOD) screenshot.png" size="5695744" crc="8e21db0b" md5="a071606875d1b26fbddd9474b35d38f4" sha1="3101351844014479c53e026b342c8b2029720283" />
+		<rom name="F-14 Tomcat (Night MOD) screenshot.png" size="3298475" crc="a40e8d32" md5="14a49b9581572a632451cd9c8788c7e9" sha1="b7a036d1cdcdeeb738f4709edf7599a277eb5eff" />
+		<rom name="F-14 Tomcat (Williams)(1987)(JPSalas, rosve)(1.00)[VP916][FS rosve][Day MOD chinzman93 v1.0].vpt" size="11157504" crc="0891656e" md5="1951e90a24868bfa32cd0444eebf33c8" sha1="2442024b4b323570c88c4906e5c73f23bea83622" />
+		<rom name="F-14 Tomcat (Williams)(1987)(JPSalas, rosve)(1.00)[VP916][FS rosve][Day MOD chinzman93 v2.0].vpt" size="11194368" crc="590f1e4e" md5="ab12339e803811b6fb7a58a0702d81ed" sha1="616342d48201b982883d487225f433a19f894125" />
+		<rom name="F-14 Tomcat (Williams)(1987)(JPSalas, rosve)(1.00)[VP916][FS rosve][Night MOD chinzman93 v1.0].vpt" size="9961472" crc="c0530957" md5="f6655e6701f1366e4dfc902cb6634c26" sha1="baa9446885cc4b85a97f023fa8e854a4fc021608" />
+	</machine>
+	<machine name="Fathom (Bally)(1981)(Unclewilly, Grizz)[VP912][MOD DT Gfx v1.0 Batch]">
+		<description>Fathom (Bally)(1981)(Unclewilly, Grizz)[VP912][MOD DT Gfx v1.0 Batch]</description>
+		<rom name="Fathom Unclewilly DT Batch_MOD 1.0.vpt" size="18923520" crc="108fd6b9" md5="c9bc461ee741aaffdf3991baa0b1eaf4" sha1="97cdf7320953cb0697428876e8490bb3feb42669" />
+		<rom name="fathom-unclewilly-dt-batch_mod-10.jpg" size="861692" crc="4067cf1b" md5="c94b910c224511bb403c950c35c6ca87" sha1="284ad001d96540ca5ca486750964da5f4b4cd190" />
+	</machine>
+	<machine name="Fire! (Williams)(1987)(Unclewilly, randr, jimmy fingers)(1.0)[VP915][BMPR MOD]">
+		<description>Fire! (Williams)(1987)(Unclewilly, randr, jimmy fingers)(1.0)[VP915][BMPR MOD]</description>
+		<rom name="Fire! (Williams 1987)(uw randr JF)(BMPR)(1.0)(DT).vpt" size="75292672" crc="9dde1da8" md5="8c167c2543569a110b1d4cd82af218cb" sha1="e0c4b9bb0f32953dfc316bf071ed22e7f10086f8" />
+	</machine>
+	<machine name="Fire! (Williams)(1987)(Unclewilly, randr, jimmy fingers)(1.0)[VP915][BMPR MOD][Night mode MOD]">
+		<description>Fire! (Williams)(1987)(Unclewilly, randr, jimmy fingers)(1.0)[VP915][BMPR MOD][Night mode MOD]</description>
+		<rom name="Fire! (Williams 1987)(uw randr JF)(BMPR)(1.0)(NM)(DT).vpt" size="73494528" crc="aa61086c" md5="a389fb23b8dd7ef443b241118b33879f" sha1="43095758c2e32904df55d52dfc2e844ecd8cea3f" />
+	</machine>
+	<machine name="Fire! (Williams)(1987)(Unclewilly, randr, the wool)(1.0)[VP915][Night mode MOD]">
+		<description>Fire! (Williams)(1987)(Unclewilly, randr, the wool)(1.0)[VP915][Night mode MOD]</description>
+		<rom name="Fire! (Williams 1987)(uw randr wool)(1.0)(NM)(DT).vpt" size="73478144" crc="62ff7819" md5="2c0cce2f312a35d08beacf6794b704bc" sha1="ae434cd8edaa7645c2518b0d7c7509d6a4f0790f" />
+		<rom name="firedtnm.png" size="2933007" crc="ea5692a7" md5="797cb710b0f68f96ff68baa1b008a73d" sha1="66bea22ad2f1029568ff1452ecd4057040c675fd" />
+	</machine>
+	<machine name="Firepower (Williams)(1980)(UncleReamus, Noah Fentz)(1.02)[VP91x][Jimmy Fingers BMPR 1.0.2 MOD]">
+		<description>Firepower (Williams)(1980)(UncleReamus, Noah Fentz)(1.02)[VP91x][Jimmy Fingers BMPR 1.0.2 MOD]</description>
+		<rom name="Firepower_URNF_VP9_1.1.0.2_JF_BMPR_MOD.vpt" size="21090304" crc="4ee95fc5" md5="e619b1c1867b6cf5effe5b7a26ad5ea3" sha1="6e6e29fa18faeeb1ebb4033e85f540c50b771d29" />
+		<rom name="screenshot.jpg" size="1582760" crc="23c57ed4" md5="85308462cac532b3d9686c4a45e2bc21" sha1="7ca4f29c8a10318d0e028fa6f7b774a6deca84f0" />
+	</machine>
+	<machine name="Flash (Williams)(1979)(JPSalas)(1.2)[VP91x][FullScreen MOD CW Goss v1.2]">
+		<description>Flash (Williams)(1979)(JPSalas)(1.2)[VP91x][FullScreen MOD CW Goss v1.2]</description>
+		<rom name="Flash (Williams)(1979)(JPSalas)(1.2)[VP91x][FullScreen MOD CW Goss v1.2].vpt" size="16957440" crc="eca86fc0" md5="a6f821847e48f50f8a27d890f7b76b20" sha1="0a523c46661799a3180d51bb2de98ca567e56e24" />
+		<rom name="Flash screenshot.jpg" size="1885374" crc="5c358745" md5="b899ca7c37e84bc5e49ecd6a367701a2" sha1="0eae8c7f205d69115cd7d32f6b2a84aba2b02b43" />
+	</machine>
+	<machine name="Flintstones, The (Williams)(1994)(JPGPins)(2.1)[VP912][FullScreen MOD JimWeinstein v1.0]">
+		<description>Flintstones, The (Williams)(1994)(JPGPins)(2.1)[VP912][FullScreen MOD JimWeinstein v1.0]</description>
+		<rom name="Flintstones, The (JimWeinstein) screenshot.png" size="1017455" crc="47b55dcb" md5="272f7fe152e9d3cb8a38c98264c7855d" sha1="1f2854e21ee65beaa1a113c021716dcfe9384315" />
+		<rom name="Flintstones, The (Williams)(1994)(JPGPins)(2.1)[VP912][FullScreen MOD JimWeinstein v1.0].vpt" size="15790592" crc="2aa8fa60" md5="63d90c789f7eb8d562e626699da1aa40" sha1="694502ff1c4d60b05cc3640f02f1570943161d62" />
+	</machine>
+	<machine name="Flipper Football (Capcom)(1996)(32assassin)(1.0)[VPX05][DMD in playfield MOD 32assassin]">
+		<description>Flipper Football (Capcom)(1996)(32assassin)(1.0)[VPX05][DMD in playfield MOD 32assassin]</description>
+		<rom name="Flipper Football - DMD in playfield MOD.vpx" size="18993152" crc="a010adc5" md5="b0d6106847c073cf5786aa3df8f86b1b" sha1="00f4aa9fc2253aaa743ab7a856383fe84f980f37" />
+	</machine>
+	<machine name="Funhouse (Williams)(1990)(JPSalas, Alessio)(2.11)[VP91x][MOD NM Backglass edition Gfx v1.0 Thingamajiik]">
+		<description>Funhouse (Williams)(1990)(JPSalas, Alessio)(2.11)[VP91x][MOD NM Backglass edition Gfx v1.0 Thingamajiik]</description>
+		<rom name="fhscreenshot.jpg" size="684156" crc="9b7e9b99" md5="7fa959b4d78614e49e68f1765ca2b199" sha1="164a72e8ce18eb29fed104ddffad5f21030030f2" />
+		<rom name="Funhouse_1.0 v2.vpt" size="44404736" crc="dd3260e9" md5="91ed69cf70454ac6e394e491546e0b5a" sha1="b22c238e23f864a4f1733cd662e2852e4a9d80fe" />
+	</machine>
+	<machine name="Genesis (Gottlieb)(1986)(JPSalas, HauntFreaks)[VP912][MOD dB2S DT v1.01b Xenonph]">
+		<description>Genesis (Gottlieb)(1986)(JPSalas, HauntFreaks)[VP912][MOD dB2S DT v1.01b Xenonph]</description>
+		<rom name="0 B2S Backglass Server 1.3.0.2/B2SBackglassServer.dll" size="505856" crc="0c26a518" md5="3ceeb6bef828ab3b7509875232ab52f9" sha1="a6b87cab231cd0d272e88acd7a9de233fa4fde00" />
+		<rom name="0 B2S Backglass Server 1.3.0.2/B2SBackglassServerEXE.exe" size="251392" crc="6f9065c9" md5="d57766e59fb132a619c1a3129928816d" sha1="90b86636c490e755be2697d365837ef9d0e9f7a7" />
+		<rom name="0 B2S Backglass Server 1.3.0.2/B2SBackglassServerRegisterApp.exe" size="48640" crc="3ba41ea0" md5="08ad063fd087639f1fca87da6279b81d" sha1="f22be81bacfc2d90eda474b20e1f7eabdcfa8357" />
+		<rom name="0 B2S Backglass Server 1.3.0.2/B2SServerPluginInterface.dll" size="201728" crc="9a18f73f" md5="51238a3f4b3a34d96ca565791736dca6" sha1="9e2118c4a7900ca4a5276aa1475faee49030084b" />
+		<rom name="0 B2S Backglass Server 1.3.0.2/Readme.txt" size="2185" crc="2a6f41c8" md5="f39a667aec7532fa84fc655ccac2cc35" sha1="ee8bb5dcb7d3f197d622ae44e42d72068c079da2" />
+		<rom name="Images/Alternatives/bumper_off.png" size="45556" crc="821cfe18" md5="af27eba75c9a299cc7e1abfda9285c30" sha1="fad051e3c58541d590c2e28648df37bde0963172" />
+		<rom name="Images/Alternatives/bumper_on.png" size="51050" crc="737686af" md5="6143b6ff34d670ac972c71c56364336e" sha1="dabda902a55f4b3c490e263f0eba8e0f2663a23c" />
+		<rom name="Images/Alternatives/Plastic_Ramp_Rosa.png" size="17833" crc="247a5f69" md5="4fba5c09f1e1d48d4724872e4a4d69fd" sha1="ef14876a2757e73663f01dca94c99be3a7158e09" />
+		<rom name="Images/Original/bumper_off.png" size="33783" crc="98300e1f" md5="f85ee6f0bd9b071c40fadc41ae5d4df5" sha1="75be83a21756cbd3babaffa500bad177e86015e3" />
+		<rom name="Images/Original/bumper_on.png" size="38266" crc="05a1faa3" md5="e605b70117d0fa91f948f9373dd32c6c" sha1="d0a7074d76cbd4eba3b2c8419c491d06f1a88306" />
+		<rom name="Images/Original/Plastic_Ramp_Rosa.png" size="12598" crc="3d728f38" md5="98aac616a17187c40119c2820bc2093f" sha1="ff2507568e069dae322abfe1b16ed859bdd86d85" />
+		<rom name="0 READ ME!!!.txt" size="2719" crc="09da50c9" md5="1ee760ada102f7a9daf669782be9995b" sha1="da6a28f0921fc501d9a703b8b897514af15f9e00" />
+		<rom name="b2s.exe" size="1027584" crc="87bae5a5" md5="baa0cea0731012ae4fe4935dde0feaed" sha1="193cc032530d75bc150e0a8c955d1bc07e62dcb2" />
+		<rom name="genesis--gottlieb-1986--db2s-dt-vp912-jpsalas-v101b.png" size="1617722" crc="cbdc6baa" md5="aec04ae1bc06e50dd7f1fb2dd5fb40a7" sha1="93c43276c3fb478338941bd09f48a1cfb1cce2a5" />
+		<rom name="Genesis_VP912_1.01b.directb2s" size="16077766" crc="bbe082ee" md5="3c3eae1566d522f20605699a9898870a" sha1="355c8b1c89817ddb940ee4d296f31138ee83b76e" />
+		<rom name="Genesis_VP912_1.01b.vpt" size="21000192" crc="267bcab9" md5="3a1d0627d6212725ce366eedd4fe80aa" sha1="8ff94a1f85bac28db1bd0f70c998dc2bcc2b5fbb" />
+		<rom name="ScreenRes.txt" size="29" crc="ff85569f" md5="492897c611161509ae15de417dbfa96b" sha1="dbe9652bc4f0fb75030c948bd9a20707c4d9610b" />
+	</machine>
+	<machine name="Genie (Gottlieb)(1979)(Eala Dubh Sidhe, Compufox, Vidmouse)[VP912][MOD FS dB2S v1.0 Maceman]">
+		<description>Genie (Gottlieb)(1979)(Eala Dubh Sidhe, Compufox, Vidmouse)[VP912][MOD FS dB2S v1.0 Maceman]</description>
+		<rom name="Genie (Gottlieb 1979).vpt" size="46264320" crc="c32f393e" md5="c6a1cc1939d2b5c281dfabd57f5ba8b9" sha1="28a84f1daf36fa7e6d3625e6c9cd8c0bb8f721d4" />
+		<rom name="geniesnap.png" size="1129795" crc="adf7a7c9" md5="7d0acca0fa31a7dfc63c7e7facdda115" sha1="23866e10691f43a8133f9978678a319c9bff53f8" />
+	</machine>
+	<machine name="Getaway, The - High Speed II (Williams)(1992)(UncleReamus, Noah Fentz)(1.03)[VP912][FullScreen TnP][FullScreen MOD mistermixer v1.0]">
+		<description>Getaway, The - High Speed II (Williams)(1992)(UncleReamus, Noah Fentz)(1.03)[VP912][FullScreen TnP][FullScreen MOD mistermixer v1.0]</description>
+		<rom name="Getaway, The - Highspeed II (Williams)(1992)(UncleReamus, Noah Fentz)(1.03)[VP912][FullScreen TnP][FullScreen GI DARK UNL MOD mistermixer v1.0].vpt" size="16678912" crc="75b9a19e" md5="36fd4733b5799ee07bde7de58c40e3fc" sha1="a5b54c61c4a9c96a634ae4ecd41080febd359007" />
+		<rom name="Getaway, The - Highspeed II (Williams)(1992)(UncleReamus, Noah Fentz)(1.03)[VP912][FullScreen TnP][FullScreen GI NIGHT MOD LR mistermixer v1.0].vpt" size="17174528" crc="afd7913d" md5="4267c4537619ed20cdad9a74574ceb62" sha1="531d78173038bbc7fd8bad059bc857ba73980383" />
+		<rom name="Getaway, The - Highspeed II (Williams)(1992)(UncleReamus, Noah Fentz)(1.03)[VP912][FullScreen TnP][FullScreen GI NIGHT MOD mistermixer v1.0].vpt" size="25980928" crc="ad7f5376" md5="08cc9367b31ea3a827a86e6eb1cd8269" sha1="08c8fd57f46f75eae4eee05b8d1359b04c01200e" />
+		<rom name="Getaway, The - Highspeed II screenshot.jpg" size="1101371" crc="7e222dec" md5="e101af85d2eb060d4fbac1ffc6ffdd69" sha1="8484a2f204f00b4371b583c3a7f3da55df283bc8" />
+	</machine>
+	<machine name="Gilligan's Island (Bally)(1991)(epthegeek)(1.1)[VP913][MOD Desktop v1.21 rob046]">
+		<description>Gilligan's Island (Bally)(1991)(epthegeek)(1.1)[VP913][MOD Desktop v1.21 rob046]</description>
+		<rom name="Bally_Gilligan's_Island_instruction_cards.doc" size="42496" crc="8a0bb71e" md5="22f299cae19f748f6b2557a1c20a2937" sha1="6462b017fc6d1a6e89cff3a23535b3c320320684" />
+		<rom name="Bally_Gilligan's_Island_instruction_cards.pdf" size="82550" crc="34c601f9" md5="5cd6a17d35623ed4f3f97a223a7758bb" sha1="a93189b82e61e2ebae6f4a64f5af7be23db9d5d1" />
+		<rom name="Gilligans_Island_Mod_Desktop_VP913_v1.21.vpt" size="29626368" crc="be26d58e" md5="37a042d658384f98940bdf9d3388706b" sha1="f26f1cef8c1e31fb5606c6bd9ed5ad8005eaf10b" />
+		<rom name="screenshot.jpg" size="601165" crc="0f913ff5" md5="8ffcaa97e155a0c4ffd12f1f17b50f3e" sha1="72dcf24c0bbb1be059071114dfbc8e625690ef0e" />
+	</machine>
+	<machine name="Gilligan's Island (Bally)(1991)(JPSalas, Unclewilly, epthegeek)(1.1)[VP913][FullScreen MOD rob046 v1.21]">
+		<description>Gilligan's Island (Bally)(1991)(JPSalas, Unclewilly, epthegeek)(1.1)[VP913][FullScreen MOD rob046 v1.21]</description>
+		<rom name="Bally_Gilligan's_Island_instruction_cards.doc" size="42496" crc="8a0bb71e" md5="22f299cae19f748f6b2557a1c20a2937" sha1="6462b017fc6d1a6e89cff3a23535b3c320320684" />
+		<rom name="Bally_Gilligan's_Island_instruction_cards.pdf" size="82550" crc="34c601f9" md5="5cd6a17d35623ed4f3f97a223a7758bb" sha1="a93189b82e61e2ebae6f4a64f5af7be23db9d5d1" />
+		<rom name="Gilligan's Island (Bally)(1991)(JPSalas, unclewilly, epthegeek)(1.1)[VP913][FullScreen MOD rob046 v1.21].vpt" size="28958720" crc="ab807257" md5="7d79e6761d3113ea78e5299321e92499" sha1="44dd23a248ae02bbcfe4a12fce75b079dceca9cc" />
+		<rom name="Gilligan's Island screenshot.jpg" size="518886" crc="529e7405" md5="4a83bc4ab90912d75db576aeb9c65e01" sha1="caa95e7f6e3692a73bcd0d20f745c2023da1de4c" />
+	</machine>
+	<machine name="Goldeneye (SEGA)(1996)(Pingod, UncleReamus, Destruk, Kid Charlemagne)(2.0)[VP91x][MOD Desktop Alpha v1.2 The Trout]">
+		<description>Goldeneye (SEGA)(1996)(Pingod, UncleReamus, Destruk, Kid Charlemagne)(2.0)[VP91x][MOD Desktop Alpha v1.2 The Trout]</description>
+		<rom name="Goldeneye (Sega 1996) 4-3 Alpha.vpt" size="6225920" crc="c68a3bb1" md5="2869958001c961de54544531784abf59" sha1="f78e2681c51aebe851ae531a043253c8daa1deea" />
+		<rom name="screenshot.jpg" size="898834" crc="20bb289e" md5="94859ca2ae88d332022a77621690ddb9" sha1="293da0d55289571821880c09ee6bfa186b89b487" />
+	</machine>
+	<machine name="Goldeneye (SEGA)(1996)(Pingod, UncleReamus, Destruk, Kid Charlemagne)(2.0)[VP909][MOD Desktop Alpha v1.2 The Trout][MOD Gfx v1.0 PFace]">
+		<description>Goldeneye (SEGA)(1996)(Pingod, UncleReamus, Destruk, Kid Charlemagne)(2.0)[VP909][MOD Desktop Alpha v1.2 The Trout][MOD Gfx v1.0 PFace]</description>
+		<rom name="Goldeneye VP9 PFaceMod 1.0.0.vpt" size="5644800" crc="6f10dcbf" md5="69e777b6dba3fc4835499584fd196848" sha1="a529eceb107b31c95611e56e3a675afdc097df26" />
+	</machine>
+	<machine name="Goldeneye (SEGA)(1996)(Pingod, UncleReamus, Destruk, Kid Charlemagne)(2.0)[VP916][FullScreen MOD Trout v1.2][FullScreen ALPHA II MOD teppotee v1.5]">
+		<description>Goldeneye (SEGA)(1996)(Pingod, UncleReamus, Destruk, Kid Charlemagne)(2.0)[VP916][FullScreen MOD Trout v1.2][FullScreen ALPHA II MOD teppotee v1.5]</description>
+		<rom name="Goldeneye (SEGA)(1996)(Pingod, UncleReamus, Destruk)(1.0)[VP91x][FullScreen MOD Trout v1.2].vpt" size="5304320" crc="436b53e4" md5="1bbff32c54e012969245b71004ae0063" sha1="233ef3d6fd345077c6f57a0171c11ee9cdb31541" />
+		<rom name="Goldeneye (SEGA)(1996)(Pingod, UncleReamus, Destruk)(1.0)[VP916][FullScreen MOD Trout v1.2][FullScreen ALPHA II MOD teppotee v1.5].vpt" size="26107904" crc="fc9618fb" md5="0fb222008c548a1ffc08b939fe857664" sha1="e06c808a75879402bc3ab037a9f65c24db56a44e" />
+		<rom name="Goldeneye (teppotee) screenshot.png" size="3858592" crc="e4c8adad" md5="46778fa5b4c9525175858480ef88d044" sha1="6266132a768d7230aaec62c275f48db87c8be6bc" />
+		<rom name="Goldeneye (Trout) screenshot.jpg" size="937102" crc="7779dbf9" md5="441660040aa93ccd0670d237c649886e" sha1="c384b83875bb10008a5d1aa1a320c803f7b121a2" />
+	</machine>
+	<machine name="Guns N' Roses (Data East)(1994)(Lord Hiryu, JPSalas)(3.2)[VP912][FullScreen ALPHA B2B GI MOD teppotee v2.2]">
+		<description>Guns N' Roses (Data East)(1994)(Lord Hiryu, JPSalas)(3.2)[VP912][FullScreen ALPHA B2B GI MOD teppotee v2.2]</description>
+		<rom name="GNR_FS_alpha_B2B_GI_MOD_TT_2.2.vpt" size="10924032" crc="905e2ad8" md5="0052aa4693f4ea75365d72f49754dcff" sha1="73d32f2be714f354944590b0a44036d32c1d411c" />
+		<rom name="Guns N' Roses screenshot.png" size="1126525" crc="93d5cb91" md5="c99bcb924921eaaf5c5e6ae54cfdd4f1" sha1="672db3d19a75d8430ccf55e6a2d621df5ada85f1" />
+	</machine>
+	<machine name="Guns N' Roses (Data East)(1994)(Lord Hiryu, JPSalas)(3.2)[VP912][FullScreen ALPHA B2B GI MOD teppotee v2.2][MOD Desktop v1.3 Batch]">
+		<description>Guns N' Roses (Data East)(1994)(Lord Hiryu, JPSalas)(3.2)[VP912][FullScreen ALPHA B2B GI MOD teppotee v2.2][MOD Desktop v1.3 Batch]</description>
+		<rom name="GNR_DT_Batch_MOD_1.3.vpt" size="16580608" crc="667a81e7" md5="015350c6a72e494459200370b3f878d3" sha1="bb6a6149fc7b0ffc9cbee2735da4beaf51749854" />
+		<rom name="gnr_dt_batch_mod_12.jpg" size="799820" crc="fdb6578d" md5="8cb6d724e2225ae7c6fd75551ede1f6c" sha1="c3abbee298600d877ac9b862c791eec03c7a1066" />
+	</machine>
+	<machine name="Haunted House (Gottlieb)(1982)(JPSalas, rob046)(1.02)[VP91x][FullScreen MOD Koadic v6]">
+		<description>Haunted House (Gottlieb)(1982)(JPSalas, rob046)(1.02)[VP91x][FullScreen MOD Koadic v6]</description>
+		<rom name="Haunted House (Gottlieb)(1982)(JPSalas, rob046)(1.02)[VP91x][FullScreen MOD Koadic v5].vpt" size="19419136" crc="7aae7517" md5="571b54635ea578f7e2948aa4d86a5c3e" sha1="84225c7144a024d52fa9c686aaeb1cb647eee32a" />
+		<rom name="Haunted House (Gottlieb)(1982)(JPSalas, rob046)(1.02)[VP91x][FullScreen MOD Koadic v6].vpt" size="19619840" crc="c88d969a" md5="10c131a735a9982bada96bc9df642258" sha1="09779cede0b706cb76f7e38d0ca3345b5072fc9b" />
+		<rom name="Haunted House screenshot.jpg" size="1619474" crc="8a1f2402" md5="05a6c10b8a9b7ffb4a439cdfefcc1b51" sha1="44bf07534634cbc76b65b25fbf6eafc7ef4179c2" />
+	</machine>
+	<machine name="Haunted House (Gottlieb)(1982)(JPSalas, rob046, teppotee)[VP916][MOD DT NIGHT v1.0 Thingamajiik]">
+		<description>Haunted House (Gottlieb)(1982)(JPSalas, rob046, teppotee)[VP916][MOD DT NIGHT v1.0 Thingamajiik]</description>
+		<rom name="Haunted_House_VP916_NIGHT_MOD.vpt" size="19275776" crc="d3676265" md5="c2fd1f3ceac7cf00179479d1f0ed6df1" sha1="5f4d138a9a22ec9200bc65d8cc226ba87c7944b6" />
+		<rom name="hh-nitemod.png" size="996960" crc="47ea034c" md5="28e71ebb276f8aa3ea9eec2f6ed86147" sha1="8c80d97daad47537eacbb5a9806370934751b63a" />
+	</machine>
+	<machine name="Heavy Metal Meltdown (Bally)(1987)(dboyrecords, Destruk)[VP915][MOD Gfx v1.3 batch]">
+		<description>Heavy Metal Meltdown (Bally)(1987)(dboyrecords, Destruk)[VP915][MOD Gfx v1.3 batch]</description>
+		<rom name="Heavy Metal Meltdown Batch_MOD 1.3.vpt" size="29937664" crc="760dac98" md5="046425b32cf0b7b1d4732957317a9530" sha1="27d0235785b21b12a25231b793c38c295f6fadc9" />
+		<rom name="heavy-metal-meltdown-batch_mod-12.jpg" size="905129" crc="0c1ac319" md5="fe5bc864d598bfe89e8118d1fcb1d0f0" sha1="6a48167cafc409fa026885b50e820a5d76e7bc8d" />
+	</machine>
+	<machine name="Heavy Metal Meltdown (Bally)(1987)(HauntFreaks)[VP915][FS HauntFreaks][MOD NIGHT_MODE v1.1 batch]">
+		<description>Heavy Metal Meltdown (Bally)(1987)(HauntFreaks)[VP915][FS HauntFreaks][MOD NIGHT_MODE v1.1 batch]</description>
+		<rom name="Heavy Metal Meltdown Batch_NIGHT_MOD 1.1.vpt" size="29847552" crc="1b4e6716" md5="2774d7b54bba6688a633f349d66c34ff" sha1="f8e5c56a217c125229af329d8dda8fc4676cfe8d" />
+		<rom name="heavy-metal-meltdown-batch_night_mod-11.jpg" size="706466" crc="2e68d542" md5="7385307f1683a2e36c500578da67227a" sha1="4d230eb456179157302ef0b9de56f70addc688fa" />
+	</machine>
+	<machine name="Hurricane (Williams)(1991)(TAB)(1.2)[VP916][FS, WS MOD v1.1 ICPjuggla, JimmyFingers (BMPR Physics), OldSkoolGamer, Koadic]">
+		<description>Hurricane (Williams)(1991)(TAB)(1.2)[VP916][FS, WS MOD v1.1 ICPjuggla, JimmyFingers (BMPR Physics), OldSkoolGamer, Koadic]</description>
+		<rom name="Hurricane (FullScreen) screenshot.png" size="3701683" crc="adaf0b0a" md5="e689ff49f12cdfdc042e533f6cd6ed6c" sha1="1cc4dc643eafdee88396d0098b7adb8f76b4b707" />
+		<rom name="Hurricane (WideScreen) screenshot.png" size="4544934" crc="3ab7de04" md5="94c5e76fe1abbf5d35779b3e68abbfc4" sha1="642e7799ec76459b852dffa1d83184ffc88a7c5f" />
+		<rom name="Hurricane (Williams)(1991)(TAB)(1.0)[VP916][FullScreen MOD ICPjuggla, JimmyFingers (BMPR Physics), OldSkoolGamer, Koadic] v1.0.vpt" size="46342144" crc="ffdf7ecc" md5="9dc20c1efc7879ddbf359fee0546d958" sha1="12c953c2054dc9f52cf0093f793d4d354aad0676" />
+		<rom name="Hurricane (Williams)(1991)(TAB)(1.0)[VP916][FullScreen MOD ICPjuggla, JimmyFingers (BMPR Physics), OldSkoolGamer, Koadic] v1.1.vpt" size="48521216" crc="ad4e6faf" md5="b3a9325024cce757ef63e6202f742a3d" sha1="40d4dc40158600acf00fb9e3f54985678f1e1fc1" />
+		<rom name="Hurricane (Williams)(1991)(TAB)(1.0)[VP916][WideScreen MOD ICPjuggla, JimmyFingers (BMPR Physics), OldSkoolGamer, Koadic].vpt" size="48365568" crc="6c7d0860" md5="8189066d1755f96faf4429b50a455ee1" sha1="66cfa5b32890fe2752a329a9854ffcd0065a0eeb" />
+	</machine>
+	<machine name="Indiana Jones - The Pinball Adventure (Williams)(1993)(Lord Hiryu)(1.2)[VP916][WS+FS BMPR MOD teppotee v1.3]">
+		<description>Indiana Jones - The Pinball Adventure (Williams)(1993)(Lord Hiryu)(1.2)[VP916][WS+FS BMPR MOD teppotee v1.3]</description>
+		<rom name="FullScreen/Indiana Jones - The Pinball Adventure (FullScreen) screenshot.png" size="1250094" crc="20b8c5db" md5="bdf1680d7b86ecfdf733dde171631f86" sha1="7d6931711aca836498ae25d726aecec1da2c9f1d" />
+		<rom name="FullScreen/Indiana Jones - The Pinball Adventure (FullScreen)(Night) screenshot.png" size="921656" crc="b08469cb" md5="ed5286d724727b9353b7f265ccfb0cfe" sha1="9ab5f6f48a3619a123eaaeb81e2a693fc204df95" />
+		<rom name="FullScreen/Indiana Jones - The Pinball Adventure (Williams)(1993)(Lord Hiryu)(1.2)[VP916][FullScreen BMPR MOD teppotee v1.3].vpt" size="79122432" crc="cc92b4dd" md5="7f840e12c6a539fa1a590331bae8e1fe" sha1="bb4af264131a7273f2a916b1395399fa3208325c" />
+		<rom name="FullScreen/Indiana Jones - The Pinball Adventure (Williams)(1993)(Lord Hiryu)(1.2)[VP916][FullScreen BMPR NIGHT MOD teppotee v1.3].vpt" size="75096064" crc="be3b5292" md5="62b3e8d89be865dc09ad8ec7783d6956" sha1="bafa7282f92802eec84a57818ca6f26d392dbecd" />
+		<rom name="FullScreen/Indiana Jones - The Pinball Adventure (Williams)(1993)(Lord Hiryu)(1.2)[VP916][FullScreen MOD teppotee v1.0].vpt" size="78442496" crc="3e1e4a7f" md5="333c489e138634ca2f613634440417b0" sha1="75c045928a5207d9b1d9585848917df3bb782cf7" />
+		<rom name="FullScreen/Indiana Jones - The Pinball Adventure (Williams)(1993)(Lord Hiryu)(1.2)[VP916][FullScreen MOD teppotee v1.1].vpt" size="79245312" crc="37248683" md5="f75fb6c30dcd0439b347e95100d0bddd" sha1="5bff67fc6fe0f84757bcb3b2eaceb2fd29859b2c" />
+		<rom name="WideScreen/Indiana Jones - The Pinball Adventure (WideScreen) screenshot.png" size="4231439" crc="c9da3ade" md5="52618cfc19ef484becdc2f4ef158d73a" sha1="25fd1da3deb94da4dd9dc63c2be8f05af8c4955a" />
+		<rom name="WideScreen/Indiana Jones - The Pinball Adventure (Williams)(1993)(Lord Hiryu)(1.2)[VP916][WideScreen BMPR MOD teppotee v1.3].vpt" size="79122432" crc="990c59ff" md5="3f28461124da428da15f8133e54773c9" sha1="6942708ebbc8e898d1eeea9f48fbd1943196fb2b" />
+		<rom name="WideScreen/Indiana Jones - The Pinball Adventure (Williams)(1993)(Lord Hiryu)(1.2)[VP916][WideScreen MOD teppotee v1.0].vpt" size="78442496" crc="6b1482fd" md5="ff0828e9dd346988f4c1a6063d3ec88c" sha1="90db106ea545c0d8fae313ec14507a5cbc831a16" />
+		<rom name="WideScreen/Indiana Jones - The Pinball Adventure (Williams)(1993)(Lord Hiryu)(1.2)[VP916][WideScreen MOD teppotee v1.1].vpt" size="79245312" crc="e4666236" md5="beb1eabe0255b4bd8ab643880ef32ff9" sha1="ecdd42c3004a068522ae3278c4c35017b0c3be7e" />
+	</machine>
+	<machine name="Indianapolis 500 (Bally)(1995)(JPSalas)(1.0)[VP91x][FullScreen 8-step GI FS Lightning &amp; BMPR MOD JimmyFingers v1.1.1]">
+		<description>Indianapolis 500 (Bally)(1995)(JPSalas)(1.0)[VP91x][FullScreen 8-step GI FS Lightning &amp; BMPR MOD JimmyFingers v1.1.1]</description>
+		<rom name="Indianapolis 500 (Bally)(1995)(JPSalas)(1.0)[VP91x][FullScreen 8-step GI FS Lightning &amp; BMPR MOD JimmyFingers v1.1.1].vpt" size="48701440" crc="6ebff63c" md5="3b613f40410e426b017d130f54436876" sha1="c62cf8b956650d9fc619a38fa989e45a12e771a9" />
+		<rom name="Indianapolis 500 screenshot.png" size="1887324" crc="a117db09" md5="9c5c3cd1df22b77434444ce351939e1e" sha1="feeb08aad8be4a44d0040c3947504dbd979d3c1a" />
+	</machine>
+	<machine name="Indianapolis 500 (Bally)(1995)(JPSalas)(1.0)[VP912][Light MOD, BMPR Physics, GI8 and B2B v1.1.1 JimmyFingers)">
+		<description>Indianapolis 500 (Bally)(1995)(JPSalas)(1.0)[VP912][Light MOD, BMPR Physics, GI8 and B2B v1.1.1 JimmyFingers)</description>
+		<rom name="desktop-screen.png" size="2740197" crc="687aa259" md5="2800507955aeb287b4b9f675c1350cb2" sha1="e8475cf7288cc0366e0f9596bf795041f3168a98" />
+		<rom name="Indianapolis_500_GI8_BMPR.vpt" size="49479680" crc="84f341cf" md5="0cd672b169034511cbb6d26e949ddf85" sha1="aec374af6616cf36dd2500cf80f2504b3f1a3de3" />
+	</machine>
+	<machine name="Iron Man (Stern)(2010)(85vett)(1.04)[VP916][FullScreen 85vett][3D Model MOD Rascal v1.0]">
+		<description>Iron Man (Stern)(2010)(85vett)(1.04)[VP916][FullScreen 85vett][3D Model MOD Rascal v1.0]</description>
+		<rom name="Iron Man (Stern)(2010)(85vett)(1.04)[VP916][FullScreen 85vett][3D Model MOD Rascal v1.0].vpt" size="40599552" crc="be793f7f" md5="4ce55608a71ad2875b230cdc27dd43d7" sha1="66407a136d2cf4f6798fcee5e956176143c64f34" />
+		<rom name="Iron Man screenshot.png" size="3476222" crc="d9b0fc5e" md5="d4a041fedc9ab98fbda1178dcb668aaf" sha1="20738a6007143e8fc53955754ca507c785d6b5ac" />
+	</machine>
+	<machine name="Johnny Mnemonic (Williams)(1995)(PacDude, bmiki75)[VP916][MOD DT v1.0 Bolt]">
+		<description>Johnny Mnemonic (Williams)(1995)(PacDude, bmiki75)[VP916][MOD DT v1.0 Bolt]</description>
+		<rom name="Johnny Mnemonic (Williams 1995) DT VP916 Bolt MOD v1.0.vpt" size="37330944" crc="253b2e04" md5="21706c455df43994aef041cc009bf7f9" sha1="5adbb4a4dc798e98dd7c7cf2144d9ef0b23f40b9" />
+		<rom name="johnny-mnemonic--williams-1995--dt-vp916-bolt-mod-v10.png" size="1985627" crc="16d7e2c6" md5="156d7213136f6ba265c097d51c64c5b6" sha1="6f3597a2e1ac738a28e1ef010f8766a6aa0b4a5e" />
+	</machine>
+	<machine name="Jokerz! (Williams)(1988)[JPSalas, the Wool, Koadic)(1.4.5)[VP916][FullScreen Night MOD Aaron James v1.3]">
+		<description>Jokerz! (Williams)(1988)[JPSalas, the Wool, Koadic)(1.4.5)[VP916][FullScreen Night MOD Aaron James v1.3]</description>
+		<rom name="Jokerz! (Aaron James) screenshot.jpg" size="285373" crc="64f5536b" md5="ef3fb97621c40254c78e19812284d4ca" sha1="0269a19a12d11a1e5b232e0c56bf7054c1e8aa27" />
+		<rom name="Jokerz! (Williams)(1988)[JPSalas, the Wool, Koadic)(1.4.5)[VP916][FullScreen Night MOD Aaron James v1.3].vpt" size="26288128" crc="9742d32e" md5="e8aab43fc58a57cb03f9a7a03f588882" sha1="fb9c9ccb2096e6191f5fd4585836cdc798328d41" />
+	</machine>
+	<machine name="Junk Yard (Williams)(1996)(Aurian, Pingod, Destruk)(1.0)[VP912][FullSscreen MOD mfuegemann 1.3]">
+		<description>Junk Yard (Williams)(1996)(Aurian, Pingod, Destruk)(1.0)[VP912][FullSscreen MOD mfuegemann 1.3]</description>
+		<rom name="Junk Yard (Williams 1996) Backglass.png" size="2151469" crc="c58b18e0" md5="926c9c33668730cc9ba3c3aae4c30635" sha1="aeda821fb1614fc554d5853164184064975658c0" />
+		<rom name="Junk Yard (Williams 1996) Table.png" size="3462329" crc="4d944c1e" md5="5e97291d5460f12544dfd7068753425f" sha1="f05117f4efbbf598a7fdc0cef645ce2e9fc44c52" />
+		<rom name="Junk Yard (Williams 1996) Wheel.png" size="188836" crc="527fc04d" md5="14b209a8d1ac0aa5cc3347c81ce18895" sha1="5c650349e5f2cec24ec91f6cb1b45ba37b9c647a" />
+		<rom name="Junk Yard (Williams)(1996)(Destruk)(1.0)[VP912][FullSscreen MOD mfuegemann 1.3].vpt" size="12144640" crc="39550725" md5="c041dcb1120b617de14af19c849ae6b0" sha1="ab5de4fc8e316a3a52b31e62d2e00ee5f7a54531" />
+		<rom name="Junk Yard screenshot.jpg" size="715298" crc="c5c57f0d" md5="d9bba112e08ade820364105fad8fe895" sha1="cae477ce105338bc1da68a80323d1ab76bfec930" />
+		<rom name="JY_xml.txt" size="177" crc="e4c5a871" md5="8e0a2a9e6fd26b6274cdaa025cff6fde" sha1="49e47ed1ab5501cb4a934198a5268d695e973b0a" />
+	</machine>
+	<machine name="KISS (Bally)(1979)(JPSalas)(2.2)[VP912][FullScreen Iceman5000][B2S Westworld][MOD Westworld v1.0]">
+		<description>KISS (Bally)(1979)(JPSalas)(2.2)[VP912][FullScreen Iceman5000][B2S Westworld][MOD Westworld v1.0]</description>
+		<rom name="b2s.vbs" size="6795" crc="79e56d18" md5="317dae398559429c240f4d36faa893ce" sha1="7cd86b0772576c5e6fbe43e408eb4917ec8257cd" />
+		<rom name="How to install Kiss_VP91x_2.2_FS_B2S.txt" size="1205" crc="625c543e" md5="79349f92034cff19667bf74fdd83bef4" sha1="ba704055102ee8e47c3889c2a3342510b398ede7" />
+		<rom name="KISS screenshot.jpg" size="870202" crc="6c318d29" md5="5e7aaea70205f72b6fe255d74a5fbf48" sha1="ce854d53487212d04ed31b1bfd9f0e6e2efc1e1c" />
+		<rom name="Kiss_VP91x_2.2B2S.exe" size="2012672" crc="6854ae93" md5="d1ebf4b406a93b71599c13dafe3fdccd" sha1="211bbccd15426e2e4f76b868551f7ff6476f5470" />
+		<rom name="Kiss_VP91x_2.2B2S.vpt" size="11603968" crc="10823e17" md5="8d679153c30d8610e1635babf2a12657" sha1="45917da3097f1994bf96b878d11f58a46d2dfe6a" />
+		<rom name="ScreenRes.txt" size="31" crc="faced42c" md5="764d6edd35f30781edaa886d38d00869" sha1="f61f4145c6c92c96d40dc04f99ad3be964950b44" />
+	</machine>
+	<machine name="KISS (Bally)(1979)(JPSalas)(2.2)[VP915][MOD DT v1.2 batch]">
+		<description>KISS (Bally)(1979)(JPSalas)(2.2)[VP915][MOD DT v1.2 batch]</description>
+		<rom name="Music/KISS_01_Detroit Rock City.mp3" size="3646274" crc="3a017057" md5="299c2b289a3fc4f91dea62d2b0a89116" sha1="694c874721c7e34a2df1ef547140088c0fd40ea2" />
+		<rom name="Music/KISS_02_I Stole Your Love.mp3" size="2961239" crc="f0e38d7f" md5="eb96b80a718ab819bdfd2ca1787b4893" sha1="a40967c809ed4c58e73f22299d4cff3a227c2ce7" />
+		<rom name="Music/KISS_03_King of the Night Time World.mp3" size="3218284" crc="2579a160" md5="628d85cf56f152b03aaf1ec2ca4d691d" sha1="04f1697a4a746d2ce562ca50d52e390404ca9a10" />
+		<rom name="Music/KISS_04_I Love It Loud.mp3" size="4089311" crc="905e2c10" md5="4d3bc1bcd93889cb41c381138b247d82" sha1="099c757b6b27c69c3642a6ad0ee669df2908e0f8" />
+		<rom name="Music/KISS_05_Goin' Blind.mp3" size="3469478" crc="3fb813eb" md5="e93da932825f8a4317eb29507e9a5066" sha1="f83f59eb6b48360b2d8a9089aa6b3557a2fb3f13" />
+		<rom name="Music/KISS_06_Hotter Than Hell.mp3" size="3390901" crc="f79985b3" md5="ca01ae4fae51d1d27f1b74f6bcbbecc5" sha1="020eb63b6946e47a13db0ef3ade00b6d05b06bb1" />
+		<rom name="Music/KISS_07_Black Diamond.mp3" size="5026376" crc="26f669b0" md5="a142425e883e6d6dbabccca9ae99bcb4" sha1="d0341d6075dc0a8f1e22840b70650138e7a64017" />
+		<rom name="Music/KISS_08_Shout It out Loud.mp3" size="2736795" crc="1af149f1" md5="841087fb4d31164f7526236c9fba8310" sha1="ea5f8d2ad241621aa48b0f71b24f1799ef25f498" />
+		<rom name="Music/KISS_09_Calling Doctor Love.mp3" size="3642095" crc="b4711aed" md5="b71097a537c534153309677eb443c02b" sha1="dd24ace59c1530f176b580adbf5bf7305371c0b6" />
+		<rom name="Music/KISS_10_I Want You.mp3" size="2967091" crc="b8fd9cba" md5="bf5c96b76f7033a231e4158e759a8f02" sha1="81478bfbcf6c3a56546766f62424022fc39f28fc" />
+		<rom name="Music/KISS_11_Ladies Room.mp3" size="3329879" crc="81a1e43a" md5="913a93652e3ecbdc764b362e9540ab2f" sha1="0e9c2efbaafbfb4d5d02051ff51323d9ae2f5df5" />
+		<rom name="Music/KISS_12_Love Gun.mp3" size="3181086" crc="848c91d9" md5="fd4746065d80d10269f98e7242434f49" sha1="960b07119ae515beedbe751f17fbae5633c65068" />
+		<rom name="Music/KISS_13_Rock and Roll All Nite.mp3" size="2703359" crc="b841fed9" md5="93eee2d82159e89ac665f857a03da3b1" sha1="0563353c73050707df01fdbcca1ed9c908987f20" />
+		<rom name="Music/KISS_14_Rock Bottom.mp3" size="3768319" crc="dedb3ea2" md5="6fccc49eeb5c8fe215980638c6466678" sha1="ab61ea6b10544711b6032a00f0ea9dcd541ac4f7" />
+		<rom name="Music/KISS_15_God of Thunder.mp3" size="4117314" crc="bee09510" md5="ad7b1eaa85dbdfa13ee7ab4146a79ee4" sha1="ebe746592d0e29bb482e5d79c0b7adb314f8cade" />
+		<rom name="KISS_JPSalas_DT_Batch_MOD_1.1.vpt" size="9502720" crc="5f642a96" md5="64bc0a28eac121314ba3b279616b92b7" sha1="5834ee9563246c4752c5d67dcfcf7f5c91d0c782" />
+	</machine>
+	<machine name="Lethal Weapon 3 (Data East)(1992)(oooPLAYER1ooo)(2.0)[VP915][MOD NightMod v1.0 LoadedWeapon][MOD DT v1.0 Batch]">
+		<description>Lethal Weapon 3 (Data East)(1992)(oooPLAYER1ooo)(2.0)[VP915][MOD NightMod v1.0 LoadedWeapon][MOD DT v1.0 Batch]</description>
+		<rom name="Lethal Weapon 3 LW PLAYER1 DT Batch_MOD 1.0.vpt" size="42864640" crc="ef773869" md5="4ecc7f502d4767135fcf373b920f9001" sha1="b3e8a00928b7aee526471cbf0f424b1934397df0" />
+		<rom name="lethal-weapon-3-lw-player1-dt-batch_mod-10.jpg" size="738915" crc="8f4d9fbc" md5="63bc80b9042ba125bbab91d5e04680aa" sha1="4c4fb79ceced24565c6c1a0866743703d5f198b1" />
+	</machine>
+	<machine name="Lightning (Stern)(1981)(TAB, Kruge99, Mistermixer)(1.1)[VP915][MOD DT GI Dark v1.0 ver. a Xenonph]">
+		<description>Lightning (Stern)(1981)(TAB, Kruge99, Mistermixer)(1.1)[VP915][MOD DT GI Dark v1.0 ver. a Xenonph]</description>
+		<rom name="Lightning (Stern 1981) DT GI Dark MOD v1.0a.vpt" size="18681856" crc="16de9316" md5="f163051d5c7c46ac6bbe61019b353df9" sha1="f8c11b27126ef8b3c14764725a16f7bb2a9b4dc3" />
+		<rom name="lightning--stern-1981--dt-gi-dark-mod-v10a.png" size="1898662" crc="fa48ce8c" md5="807d715909f0514de0343cffc8f29a2d" sha1="dfca38064299e5bb03f5cf217f55775b518c58d2" />
+	</machine>
+	<machine name="Lightning (Stern)(1981)(TAB, Kruge99, Mistermixer)(1.1)[VP915][MOD DT GI Dark v1.0 ver. b Xenonph]">
+		<description>Lightning (Stern)(1981)(TAB, Kruge99, Mistermixer)(1.1)[VP915][MOD DT GI Dark v1.0 ver. b Xenonph]</description>
+		<rom name="Lightning (Stern 1981) DT GI Dark MOD v1.0b.vpt" size="19304448" crc="6728b35f" md5="a332cbd0d2b70d791d01b3326355e66e" sha1="8db42bf82672f625e70286a0f51ff03a07adae87" />
+		<rom name="lightning--stern-1981--dt-gi-dark-mod-v10b.png" size="1148556" crc="7cb1be7a" md5="2bf8e5321c62cc96c273474b2d92892d" sha1="a62788cfde54115dc10724db107eedd4cb2fefe6" />
+	</machine>
+	<machine name="Lord of the Rings, The (Stern)(2003)(JPSalas)(2.4)[VP91x][MOD WS HighRes v1.01 StevOz]">
+		<description>Lord of the Rings, The (Stern)(2003)(JPSalas)(2.4)[VP91x][MOD WS HighRes v1.01 StevOz]</description>
+		<rom name="lotr3.jpg" size="506601" crc="8a7a8d9a" md5="9a8aa3ec52c242dd0ac0c21a0204fda4" sha1="c29303627abe67c517c76f98609b5a348800f562" />
+		<rom name="LOTR_VP91x_2.4WSHR.vpt" size="63033344" crc="d28db12f" md5="af21a2773317b40719a4e7d7a1971092" sha1="a92506bc7e870388bda72e55f9d0bb1a59bed5c3" />
+	</machine>
+	<machine name="Mata Hari (Bally)(1978)(JPSalas)(1.0)[VP91x][FullScreen BMPR Momentum MOD JimmyFingers v1.01.1]">
+		<description>Mata Hari (Bally)(1978)(JPSalas)(1.0)[VP91x][FullScreen BMPR Momentum MOD JimmyFingers v1.01.1]</description>
+		<rom name="Mata Hari (Bally)(1978)(JPSalas)(1.0)[VP91x][FullScreen BMPR Momentum MOD JimmyFingers v1.01.1].vpt" size="22986752" crc="6c21ca4b" md5="8c2c734ed04a4a9911e70586fd83baa2" sha1="8de3e746057e0cb985a4e7a1c3513d63138d0a9d" />
+		<rom name="Mata Hari (JimmyFingers) screenshot.png" size="1347136" crc="6ca581be" md5="f5b8f33e3d47625b1cd3b67a38969f47" sha1="d43d4ce3ffc42703749c5dd07864530fa72967ab" />
+	</machine>
+	<machine name="Medieval Madness (Williams)(1997)(JPSalas)(2.4.3)[VP916][FullScreen Night MOD v1.2 Aaron James]">
+		<description>Medieval Madness (Williams)(1997)(JPSalas)(2.4.3)[VP916][FullScreen Night MOD v1.2 Aaron James]</description>
+		<rom name="Medieval Madness (Williams)(1997)(JPSalas)(2.4.3)[VP916][FullScreen Night MOD Aaron James v1.1].vpt" size="36786176" crc="81c28fe7" md5="f0ee9a6ba2339c4dc65e742341def591" sha1="0f082ff84ac326b2284b92f4c2bf200a28a3d125" />
+		<rom name="Medieval Madness (Williams)(1997)(JPSalas)(2.4.3)[VP916][FullScreen Night MOD Aaron James v1.2].vpt" size="36786176" crc="5a45f8c8" md5="49937381bd8e90f0c6dc4b94e7cd8a9f" sha1="550d189b0e67a8992e1bed3d097b3cfe33187c2f" />
+		<rom name="Medieval Madness screenshot.jpg" size="872720" crc="fc0f7474" md5="f3b5c7a5ae6060450670e8e7f42e03ae" sha1="4b8c47ecafdedba9eb46c9df659b828731f18186" />
+	</machine>
+	<machine name="Odisea Paris-Dakar (Peyper)(1987)(TAB, Destruk)(1.0)[VP912][MOD Fullscreen v1.0 dboyrecords][MOD FS2DT + dB2S v1.1 Xenonph]">
+		<description>Odisea Paris-Dakar (Peyper)(1987)(TAB, Destruk)(1.0)[VP912][MOD Fullscreen v1.0 dboyrecords][MOD FS2DT + dB2S v1.1 Xenonph]</description>
+		<rom name="01/B2SBackglassServer.dll" size="537600" crc="2645f597" md5="9a05bce3a63e7198f7abd8489781f0b6" sha1="4cc3b019778bfcc6048bc85ce259247a177bfa43" />
+		<rom name="01/B2SBackglassServerEXE.exe" size="280576" crc="8895284a" md5="007aa7e770792aed919f9acb2f77783c" sha1="b83c1733df9a7b56884350a1a29d4cc3f2db6ceb" />
+		<rom name="01/B2SBackglassServerRegisterApp.exe" size="48640" crc="3ba41ea0" md5="08ad063fd087639f1fca87da6279b81d" sha1="f22be81bacfc2d90eda474b20e1f7eabdcfa8357" />
+		<rom name="01/B2SServerPluginInterface.dll" size="201728" crc="9a18f73f" md5="51238a3f4b3a34d96ca565791736dca6" sha1="9e2118c4a7900ca4a5276aa1475faee49030084b" />
+		<rom name="02/dotNetFx40_Full_x86_x64.exe" size="50449456" crc="2bf60f61" md5="251743dfd3fda414570524bac9e55381" sha1="58da3d74db353aad03588cbb5cea8234166d8b99" />
+		<rom name="03/always-on-top.exe" size="203965" crc="2e0f1065" md5="474d3ccc8fd26131a5f948fce2cbe758" sha1="5bf8da535ef54a71e3740b2d1d0ce21322753400" />
+		<rom name="03/readme.txt" size="310" crc="771a4e35" md5="fade499d9d65be6cb349f9a9d0688546" sha1="47296b21fba0359963e208ef0640f8632c2eea2b" />
+		<rom name="04/Odisea Paris Dakar (Peyper 1987).directb2s" size="18488416" crc="b2d4a00f" md5="61709b362d0cd35e7505d1335484d0e3" sha1="6514f1c36f3969a64253cf0c3a9fb91589cbbf56" />
+		<rom name="04/Odisea Paris Dakar (Peyper 1987).vpt" size="1662976" crc="26526188" md5="4bfba9a76f9718182d8cc48bf11dfd07" sha1="7b75369d60e8aabda472e79abd90ca43ecbaf753" />
+		<rom name="04/ScreenRes.txt" size="29" crc="d4fa7011" md5="7120635a948cd3b006feb69ac1a329b2" sha1="80114283bf2444b20d221780da16bdbc7e8c2a5d" />
+		<rom name="odisea-paris-dakar-fs-db2s-mod-11.jpg" size="194775" crc="40f336ec" md5="2c6fcb3d8e033aa6ddbf14d0bb263d1e" sha1="385358deaef99ceb815cb633d712bf0c79949492" />
+		<rom name="READ THESE INSTRUCTIONS!!!.txt" size="3586" crc="bd8f3f33" md5="4ccc9434b6c2d5e1fd864867f1fd948a" sha1="19e95eaef0684467de46bff8adbdf291761158f3" />
+	</machine>
+	<machine name="Orbitor 1 (Stern)(1982)(Destruk, Skalar, Nitrodude, Inkochnito)(1.21)[VP91x][MOD WideScreen v1.0 user42]">
+		<description>Orbitor 1 (Stern)(1982)(Destruk, Skalar, Nitrodude, Inkochnito)(1.21)[VP91x][MOD WideScreen v1.0 user42]</description>
+		<rom name="Orbitor 1 VP9 1.0.vpt" size="2940928" crc="b0f7168a" md5="852f9b6d8f601118007ca6a7f5a37154" sha1="77a6ad52d0b89a14066be5fe53b846f380416846" />
+		<rom name="screenshot.jpg" size="340376" crc="92700cd5" md5="958cd2ac9346182740ac44da26cfeea1" sha1="4d82b09edf58f09049d8f2e04cc2e068de947c4b" />
+	</machine>
+	<machine name="Paragon (Bally)(1979)(PacDude, Bob5453)(2011a)[VP912][FullScreen MOD Kruge99 v1.0]">
+		<description>Paragon (Bally)(1979)(PacDude, Bob5453)(2011a)[VP912][FullScreen MOD Kruge99 v1.0]</description>
+		<rom name="Paragon (Bally)(1979)(PacDude, Bob5453)(2011a)[VP912][FullScreen MOD Kruge99 v1.0].vpt" size="9138176" crc="a60781c8" md5="d411ef48e4ce530bdb1d168edf97bdf8" sha1="ab9913c6bc522142b5f01e5d979e64e905424c15" />
+		<rom name="Paragon (Kruge99) screenshot.jpg" size="653088" crc="f7ae865d" md5="10ad3cf08162000e5d9f07a3dc159f74" sha1="4e4e1d0cba5f1635ddcf11acdecfb5037b65fa33" />
+	</machine>
+	<machine name="Paragon (Bally)(1979)(PacDude, JPSalas, Bob5453)(2012)[VP91x][FullScreen MOD LuvThatApex v1.0]">
+		<description>Paragon (Bally)(1979)(PacDude, JPSalas, Bob5453)(2012)[VP91x][FullScreen MOD LuvThatApex v1.0]</description>
+		<rom name="Paragon (Bally)(1979)(PacDude, JPSalas, Bob5453)(2012)[VP91x][FullScreen MOD Luvthatapex v1.0].vpt" size="16039936" crc="88726d7e" md5="734c77ff460edc7c389347e21deb1351" sha1="f8b6fd2fe93e6c556aaa3cbbefa5945220cf82dc" />
+		<rom name="Paragon (Luvthatapex) screenshot.png" size="1657781" crc="f32a5bcf" md5="e8b6e87b01ec652813fbe17deb66968c" sha1="0baa8c6b641b0a5c701e59a429aa757d4e697728" />
+	</machine>
+	<machine name="Phantom of the Opera, The (Data East)(1990)(Lord Hiryu)(1.0.0)[VP912][MOD Desktop 1610 2.03 rob046]">
+		<description>Phantom of the Opera, The (Data East)(1990)(Lord Hiryu)(1.0.0)[VP912][MOD Desktop 1610 2.03 rob046]</description>
+		<rom name="Increasing game volume.txt" size="406" crc="30702928" md5="3a7db0acc7cb433e2365a56c4c7862f3" sha1="aba5530bc681a54384bb443836d8130f2ea0e180" />
+		<rom name="Phantom_of_the_Opera_Instruction_Card.gif" size="37087" crc="50fc9fb9" md5="3ddfbb25d1099939b4f2adbff1e31543" sha1="b2da2920c82f9240c6d59a17b583f17332ee2157" />
+		<rom name="Phantom_of_the_Opera_LH_rob046_Mod_desktop_1610_v2.03.vpt" size="16908288" crc="f4f05f4e" md5="1c4e3f8f14917eaf22f7555f59da07eb" sha1="3fe2cb90ea986341497d991ff91e5bcd24294b20" />
+		<rom name="poto_screenshot1610.jpg" size="424056" crc="df5b8c03" md5="957f66a865f4b05b1d6eefe32346cd55" sha1="f0c57983c6438eef6ad7beb580389c5f352326e0" />
+	</machine>
+	<machine name="PIN-BOT (Williams)(1986)(Unclewilly)(1.0)[VP91x][FullScreen BMPR Physics MOD JimmyFingers v1.02.1]">
+		<description>PIN-BOT (Williams)(1986)(Unclewilly)(1.0)[VP91x][FullScreen BMPR Physics MOD JimmyFingers v1.02.1]</description>
+		<rom name="Pinbot screenshot.png" size="3737010" crc="85653b92" md5="905cb36c7145311f325ac8b9a31a07f8" sha1="16b7838f7a20eea1698aa1887c1241fe6433e055" />
+		<rom name="Pinbot.uw.V1.02.1_JF_91x_BMPR_MOD_FS.png" size="1541250" crc="50b1ade3" md5="a7c54b55b3d47b368d32ded0fa586914" sha1="cf69a025e954594267152e507482df80883a7856" />
+		<rom name="Pinbot.uw.V1.02.1_JF_91x_BMPR_MOD_FS.uvp" size="9728" crc="8257f984" md5="5e27197de9b7c66334f8e9c896f31e18" sha1="0551c426f94eb4880cd1777df8cc19369f9e4b76" />
+		<rom name="Pinbot.uw.V1.02.1_JF_91x_BMPR_MOD_FS.vpt" size="33775616" crc="90c3610e" md5="d1ea8af37edb0c8441882ae3d7ee6876" sha1="fb2930c560c755fae60ff40662b1ed67d5e4c728" />
+	</machine>
+	<machine name="Rescue 911 (Gottlieb)(1994)(Zedonius)(1.0HD)[VP912][Desktop MOD v2.2 rob46]">
+		<description>Rescue 911 (Gottlieb)(1994)(Zedonius)(1.0HD)[VP912][Desktop MOD v2.2 rob46]</description>
+		<rom name="Rescue 911_Mod_v2.2_desktop_VP912.vpt" size="22331392" crc="2db59e14" md5="8e3c764f3c3203471f2430e3f00121fe" sha1="5143b305b5f012e2169abf304fede516f9316a78" />
+		<rom name="Rescue_911_In_Depth_Rules.txt" size="24273" crc="928e4bd6" md5="254e083567a34cd6049f5fc53c118c7f" sha1="4266c1b1423116395b1d0e1a1dec9ffc809debd5" />
+		<rom name="Rescue_911_Rule_Card.txt" size="713" crc="a6b5276a" md5="abc317b445367d06f9720e74c05638a7" sha1="2332a5cdec133f598248e7b31a183879ab5d3101" />
+		<rom name="screenshot.jpg" size="567610" crc="57371fbe" md5="b2a6041030e8c86053280a0cfb853dd8" sha1="df40d6d35f3e09d8951fa0ba086de252b6882304" />
+	</machine>
+	<machine name="Rescue 911 (Gottlieb)(1994)(Zedonius)(1.0HD)[VP912][FullScreen MOD v2.2 rob46]">
+		<description>Rescue 911 (Gottlieb)(1994)(Zedonius)(1.0HD)[VP912][FullScreen MOD v2.2 rob46]</description>
+		<rom name="Rescue 911_Mod_v2.2_FS_VP912.vpt" size="21508096" crc="ffa0e14b" md5="ddc44853cbb6134f82b1fbb6c74855ee" sha1="3870c68b02623d09c7dcd79fe7564cdaf2e35720" />
+		<rom name="Rescue_911_In_Depth_Rules.txt" size="24273" crc="928e4bd6" md5="254e083567a34cd6049f5fc53c118c7f" sha1="4266c1b1423116395b1d0e1a1dec9ffc809debd5" />
+		<rom name="Rescue_911_Rule_Card.txt" size="713" crc="a6b5276a" md5="abc317b445367d06f9720e74c05638a7" sha1="2332a5cdec133f598248e7b31a183879ab5d3101" />
+		<rom name="screenshot.jpg" size="469422" crc="56da4a32" md5="c9a20e1cec011d2dd4a2ab4af67a91db" sha1="c135870e694a4b8d3fd251e0772242e893d4a026" />
+	</machine>
+	<machine name="Riverboat Gambler (Williams)(1990)(JPSalas)(1.1)[VP915][FullScreen MOD rob046 v1.1]">
+		<description>Riverboat Gambler (Williams)(1990)(JPSalas)(1.1)[VP915][FullScreen MOD rob046 v1.1]</description>
+		<rom name="Riverboat Gambler (Williams)(1990)(JPSalas)(1.1)[VP915][FullScreen MOD rob046 v1.1].vpt" size="17784832" crc="e073a5aa" md5="45e6e467c9d5b56fb0eccd5cb4c5cfed" sha1="c72bb04db4d1b2ebc32304c99bf9725dfd1c736f" />
+		<rom name="Riverboat Gambler Instruction Card.gif" size="20974" crc="3bdbebb4" md5="9c8897b176c1d40fa141979bbf1c44dd" sha1="c6186338acfdf099f336a0182f075a97bba48e84" />
+		<rom name="Riverboat Gambler screenhsot.jpg" size="335175" crc="698a3aaf" md5="520f164fe8e45610791cfb065e248cfb" sha1="6ccf9ba376893bcaaa52936bcc0100e77967f84c" />
+	</machine>
+	<machine name="RoboCop (Data East)(1989)(JPSalas)(5.0)[VP910][FullScreen rosve][FullScreen GI DARK MOD LEDWiz mistemixer v1.0]">
+		<description>RoboCop (Data East)(1989)(JPSalas)(5.0)[VP910][FullScreen rosve][FullScreen GI DARK MOD LEDWiz mistemixer v1.0]</description>
+		<rom name="RoboCop (Data East)(1989)(JPSalas)(5.0)[VP910][FullScreen rosve][FullScreen GI DARK MOD LEDWiz mistemixer v1.0].vpt" size="13021184" crc="9af1db1d" md5="dc395c87be40b8152e3b5fb74decbbe2" sha1="ae881919bcf4ed48413d504402166fb25d8cf15e" />
+		<rom name="RoboCop (Data East)(1989)(JPSalas)(5.0)[VP910][FullScreen rosve][FullScreen GI DARK MOD mistemixer v1.0].vpt" size="13021184" crc="fc30644a" md5="f470e2fd6888bba02070542ee05b07eb" sha1="1d457df2310136ade677fe7b4cf975d1789c8b84" />
+		<rom name="RoboCop screenshot.jpg" size="480257" crc="060ae5db" md5="940f87e2ba4b3cf14472c9819950c7d3" sha1="f8ad9bd3b0067dc3d397bdec9b4e9fa0d84fe3b4" />
+	</machine>
+	<machine name="Scared Stiff (Bally)(1996)(JPSalas)(1.4.4)[VP912][B2S rosve][FullScreen 8-step GI Lighting MOD JimmyFingers v1.0]">
+		<description>Scared Stiff (Bally)(1996)(JPSalas)(1.4.4)[VP912][B2S rosve][FullScreen 8-step GI Lighting MOD JimmyFingers v1.0]</description>
+		<rom name="Scared Stiff (Bally)(1996)(JPSalas)(1.4.4)[VP912][B2S rosve][FullScreen 8-step GI Lighting MOD JimmyFingers v1.0].vpt" size="44388352" crc="abf21259" md5="f7c4eb9c8e2f446f75645c5fccda851e" sha1="9e0f3580bc0a0713c441703c15a97f465faddbe6" />
+		<rom name="Scared Stiff (JimmyFingers) screenshot.png" size="1717783" crc="855748e4" md5="7c2c731cca83085f8b277e3a2aacc03b" sha1="b6c2540db85b6b756633a6e56c0d4595c8a472df" />
+	</machine>
+	<machine name="Scooby Doo! and KISS - Rock 'n Roll Mystery (HauntFreaks)(1.0)[VP915][MOD DT v1.0 Batch]">
+		<description>Scooby Doo! and KISS - Rock 'n Roll Mystery (HauntFreaks)(1.0)[VP915][MOD DT v1.0 Batch]</description>
+		<rom name="music/Kiss - Dont Touch My Ascot.mp3" size="1106638" crc="cc7a3bf3" md5="a5309151a1bb4af295f7be970d3e0876" sha1="cca8bd8516bbcf5a9f829bbf60db4944ba19fcb8" />
+		<rom name="music/Kiss - Foo Fighters - Detroit Rock City.mp3" size="4464332" crc="c6df5487" md5="4a72cce56ea60cd31fe8d131196e1bbe" sha1="657720d7dfe21e27e241a11c642a4e1a8caf2407" />
+		<rom name="music/Kiss - Lenny Kravitz - Deuce.mp3" size="4367033" crc="cc74e0d6" md5="6813238c849f0c2f8ed5c8d743311d97" sha1="627e26c812952ce76a545a5b21d1fd9e3b5368ea" />
+		<rom name="music/Kiss - Motorhead - shout it out loud.mp3" size="4062479" crc="db0b8b4f" md5="13c89e55ee131340ce1c419885e0ef42" sha1="ecb218006b50bd20f70ab5cf5578954191d4c99b" />
+		<rom name="music/Kiss - My Superhero - Scooby Doo Theme.mp3" size="1744670" crc="c9f934a5" md5="257ba399bcabd34a4f7de48c90499a1a" sha1="d1d905e9ca0f25a1855e0e2ff96d5e92b109db4c" />
+		<rom name="KISS - Scooby-Doo Hauntfreaks DT 1.0.vpt" size="67321856" crc="63ea79ab" md5="7d218c7b178b067e8c80a4924a787ff6" sha1="5751ec27dac07e007e8e2625d6820cb17c79d171" />
+		<rom name="kiss---scooby-doo-hauntfreaks-dt-10.jpg" size="839060" crc="24ad67bb" md5="1bc85d08406d816e7c163668c182f816" sha1="d98a9c0e03d1a84ced65b3fcdd3f139590c604d1" />
+	</machine>
+	<machine name="Seahawks Pinball (Xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD]">
+		<description>Seahawks Pinball (Xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD]</description>
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][Desktop]/16-8 NFL LOB DONE6 DT version sounds complete.vpt" size="8028160" crc="1985c039" md5="9750ac7ea603fd33f795623de30f3e37" sha1="5f68d0d1838fdf66367c640b29018ae8621833c8" />
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][Desktop]/nfl.nv" size="8238" crc="46fe0d51" md5="442e249c39169e4816a4bf0faa16427d" sha1="acbdc759102490f42bad0667b2dbf8318f9509ce" />
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][Desktop]/Seahawks Pinball.txt" size="2358" crc="1228c6a1" md5="6c7699a313326f58edb823fdc68bd3dd" sha1="b21f069e86d0fd3dfd3661d1cbf6f8802e1617c3" />
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][Desktop]/music/0How_'Bout_Them_Seahawks.mp3" size="10120000" crc="4332baf0" md5="45f51729740591edf5d0a455de5dae2a" sha1="d52d2c322c7aee746b401f8e12fbb4ab4b77f904" />
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][Desktop]/music/hawktown_funk.mp3" size="138515" crc="e8cf8864" md5="8ed9981d8126328d4256b99ba8433e24" sha1="1ab04fdca0b06cc486eb349b0eabead1314318ad" />
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][Desktop]/music/Seahawks Reign.mp3" size="1467539" crc="a9646298" md5="8cdcac6296e92554d9a895ede24d7b0c" sha1="64725b59d204d811812dc7120f1947b0a9ceff18" />
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][Desktop]/music/touchdown_seahawks.mp3" size="43048" crc="450f9b36" md5="0746e9e16ccc67710fa12de4d4cfcc2e" sha1="ca220e26d195f100258f965c405f54976f2a6f6e" />
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][FullScreen]/16-8 NFL LOB DONE6 FS version sounds complete.vpt" size="7061504" crc="c810d73a" md5="efd2d9a85ed4b957b5d9a25c88497e6e" sha1="174a2b6e4a269e3de36b84b8d8b91dfe68e25387" />
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][FullScreen]/nfl.nv" size="8238" crc="46fe0d51" md5="442e249c39169e4816a4bf0faa16427d" sha1="acbdc759102490f42bad0667b2dbf8318f9509ce" />
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][FullScreen]/Seahawks Pinball.txt" size="2358" crc="1228c6a1" md5="6c7699a313326f58edb823fdc68bd3dd" sha1="b21f069e86d0fd3dfd3661d1cbf6f8802e1617c3" />
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][FullScreen]/music/0How_'Bout_Them_Seahawks.mp3" size="10120000" crc="4332baf0" md5="45f51729740591edf5d0a455de5dae2a" sha1="d52d2c322c7aee746b401f8e12fbb4ab4b77f904" />
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][FullScreen]/music/hawktown_funk.mp3" size="138515" crc="e8cf8864" md5="8ed9981d8126328d4256b99ba8433e24" sha1="1ab04fdca0b06cc486eb349b0eabead1314318ad" />
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][FullScreen]/music/Seahawks Reign.mp3" size="1467539" crc="a9646298" md5="8cdcac6296e92554d9a895ede24d7b0c" sha1="64725b59d204d811812dc7120f1947b0a9ceff18" />
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][FullScreen]/music/touchdown_seahawks.mp3" size="43048" crc="450f9b36" md5="0746e9e16ccc67710fa12de4d4cfcc2e" sha1="ca220e26d195f100258f965c405f54976f2a6f6e" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]/Seahawks Pinball VPM9 DT NFL MOD v1.1.vpt" size="7643136" crc="98b2b5b3" md5="5c53c7135d1317a7ceaf5f8dbfd18954" sha1="e196b886a8c28905332f7abefaf6b055bb553f4e" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]/Seahawks Pinball.txt" size="3324" crc="9f6f0dd7" md5="184ebf7eb9f455ae3ec0a0ca74b227ad" sha1="05165850d583f393e8140d32a5a42177ac833458" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]/music/0How_'Bout_Them_Seahawks.mp3" size="10120000" crc="4332baf0" md5="45f51729740591edf5d0a455de5dae2a" sha1="d52d2c322c7aee746b401f8e12fbb4ab4b77f904" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]/music/hawktown_funk.mp3" size="134291" crc="a24067b8" md5="422b2b1a44f5dc568f66cb39b2d1cc8b" sha1="50b50f305709b6bf88242c7f4ef877989d8ece0f" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]/music/Seahawks Reign.mp3" size="1467539" crc="a9646298" md5="8cdcac6296e92554d9a895ede24d7b0c" sha1="64725b59d204d811812dc7120f1947b0a9ceff18" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]/music/touchdown_seahawks.mp3" size="43048" crc="450f9b36" md5="0746e9e16ccc67710fa12de4d4cfcc2e" sha1="ca220e26d195f100258f965c405f54976f2a6f6e" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]/nvram/nfl.nv" size="8238" crc="46fe0d51" md5="442e249c39169e4816a4bf0faa16427d" sha1="acbdc759102490f42bad0667b2dbf8318f9509ce" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]/rom/nfl/nfl_v100.u7" size="65536" crc="3fc766f8" md5="afcc7bd4be40f79d24f08223098e99f6" sha1="27341594e7d4a23146e6e6ec8ebdea125231cf91" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]/rom/nfl/nfl_v100.u17" size="1048576" crc="f36b72ed" md5="3cf0c7df7addf1b1ac4b0ce270c2a2ff" sha1="f8fcbdb31295d363d1e7ad98dc318ab52bcfc52b" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]/rom/nfl/nfl_v100.u21" size="1048576" crc="f5a6c053" md5="6e2af67726ba06b72d4b6d66cea4034c" sha1="30a9cda6c9d9c43f0f6690138cf74c39c79ba43e" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]/rom/nfl/nfl_v100.u36" size="1048576" crc="26dae8ac" md5="4265ebf28b4e80a5af00ac985b6c6b8c" sha1="ec18f13578c5c291b777344b2830cde2ecf3581c" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]/rom/nfl/nfl_v100.u37" size="1048576" crc="375d5a99" md5="6d33decbbba78d71f9e5fdf5c2bdb6fb" sha1="4b49c58968da645bd0ad60ed16744974b863164e" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]/rom/nfl/nfl_v101.cpu" size="131072" crc="eeb81a51" md5="fee722c6e532805f763a3367f5f11c42" sha1="c87e5f50cc95b1d0206abc3c132f5f3314a9253c" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]/rom/nfl/nfl_v102.dmd" size="524288" crc="fd7bc50a" md5="1f56ce9f20e21b25d538f3aaec0b4bb1" sha1="5c92af91e7e12024026a06002e6c6bf68230fcc0" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]/Seahawks Pinball (1.1)(FullScreen) screenshot.jpg" size="231026" crc="e75561e1" md5="ad93e7c35a034628656dc9a803273746" sha1="8acab9feb6646f6be3fefe26a4e376b1ccc03580" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]/Seahawks Pinball VPM9 FS NFL (Stern 2001) MOD v1.1.vpt" size="7155712" crc="290646ff" md5="ab6ee9fa3bd31fdeabba48aeb9812ab9" sha1="76f71502dfb128d42c061c1d21730e420b9a4849" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]/Seahawks Pinball.txt" size="2358" crc="1228c6a1" md5="6c7699a313326f58edb823fdc68bd3dd" sha1="b21f069e86d0fd3dfd3661d1cbf6f8802e1617c3" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]/music/0How_'Bout_Them_Seahawks.mp3" size="10120000" crc="4332baf0" md5="45f51729740591edf5d0a455de5dae2a" sha1="d52d2c322c7aee746b401f8e12fbb4ab4b77f904" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]/music/hawktown_funk.mp3" size="134291" crc="a24067b8" md5="422b2b1a44f5dc568f66cb39b2d1cc8b" sha1="50b50f305709b6bf88242c7f4ef877989d8ece0f" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]/music/Seahawks Reign.mp3" size="1467539" crc="a9646298" md5="8cdcac6296e92554d9a895ede24d7b0c" sha1="64725b59d204d811812dc7120f1947b0a9ceff18" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]/music/touchdown_seahawks.mp3" size="43048" crc="450f9b36" md5="0746e9e16ccc67710fa12de4d4cfcc2e" sha1="ca220e26d195f100258f965c405f54976f2a6f6e" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]/nvram/nfl.nv" size="8238" crc="46fe0d51" md5="442e249c39169e4816a4bf0faa16427d" sha1="acbdc759102490f42bad0667b2dbf8318f9509ce" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]/rom/nfl/nfl_v100.u7" size="65536" crc="3fc766f8" md5="afcc7bd4be40f79d24f08223098e99f6" sha1="27341594e7d4a23146e6e6ec8ebdea125231cf91" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]/rom/nfl/nfl_v100.u17" size="1048576" crc="f36b72ed" md5="3cf0c7df7addf1b1ac4b0ce270c2a2ff" sha1="f8fcbdb31295d363d1e7ad98dc318ab52bcfc52b" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]/rom/nfl/nfl_v100.u21" size="1048576" crc="f5a6c053" md5="6e2af67726ba06b72d4b6d66cea4034c" sha1="30a9cda6c9d9c43f0f6690138cf74c39c79ba43e" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]/rom/nfl/nfl_v100.u36" size="1048576" crc="26dae8ac" md5="4265ebf28b4e80a5af00ac985b6c6b8c" sha1="ec18f13578c5c291b777344b2830cde2ecf3581c" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]/rom/nfl/nfl_v100.u37" size="1048576" crc="375d5a99" md5="6d33decbbba78d71f9e5fdf5c2bdb6fb" sha1="4b49c58968da645bd0ad60ed16744974b863164e" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]/rom/nfl/nfl_v101.cpu" size="131072" crc="eeb81a51" md5="fee722c6e532805f763a3367f5f11c42" sha1="c87e5f50cc95b1d0206abc3c132f5f3314a9253c" />
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]/rom/nfl/nfl_v102.dmd" size="524288" crc="fd7bc50a" md5="1f56ce9f20e21b25d538f3aaec0b4bb1" sha1="5c92af91e7e12024026a06002e6c6bf68230fcc0" />
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]/Seahawks Pinball (1.2)(Desktop) screenshot.jpg" size="216434" crc="862a58a2" md5="b1c0e48f4b1d14b752e0bc8c5493e381" sha1="4cd5b04168693a8325b3d99d52c660fd32d3c957" />
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]/Seahawks Pinball VPM9 DT NFL MOD v1.2.vpt" size="7757824" crc="a1322645" md5="401f8c20923cd9cdad50bd36851bf208" sha1="6d502276ab1942fb2632c60d885c1105da5675ef" />
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]/Seahawks Pinball.txt" size="3324" crc="9f6f0dd7" md5="184ebf7eb9f455ae3ec0a0ca74b227ad" sha1="05165850d583f393e8140d32a5a42177ac833458" />
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]/music/0How_'Bout_Them_Seahawks.mp3" size="10120000" crc="4332baf0" md5="45f51729740591edf5d0a455de5dae2a" sha1="d52d2c322c7aee746b401f8e12fbb4ab4b77f904" />
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]/music/hawktown_funk.mp3" size="134291" crc="a24067b8" md5="422b2b1a44f5dc568f66cb39b2d1cc8b" sha1="50b50f305709b6bf88242c7f4ef877989d8ece0f" />
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]/music/Seahawks Reign.mp3" size="1467539" crc="a9646298" md5="8cdcac6296e92554d9a895ede24d7b0c" sha1="64725b59d204d811812dc7120f1947b0a9ceff18" />
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]/music/touchdown_seahawks.mp3" size="43048" crc="450f9b36" md5="0746e9e16ccc67710fa12de4d4cfcc2e" sha1="ca220e26d195f100258f965c405f54976f2a6f6e" />
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]/nvram/nfl.nv" size="8238" crc="46fe0d51" md5="442e249c39169e4816a4bf0faa16427d" sha1="acbdc759102490f42bad0667b2dbf8318f9509ce" />
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]/rom/nfl/nfl_v100.u7" size="65536" crc="3fc766f8" md5="afcc7bd4be40f79d24f08223098e99f6" sha1="27341594e7d4a23146e6e6ec8ebdea125231cf91" />
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]/rom/nfl/nfl_v100.u17" size="1048576" crc="f36b72ed" md5="3cf0c7df7addf1b1ac4b0ce270c2a2ff" sha1="f8fcbdb31295d363d1e7ad98dc318ab52bcfc52b" />
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]/rom/nfl/nfl_v100.u21" size="1048576" crc="f5a6c053" md5="6e2af67726ba06b72d4b6d66cea4034c" sha1="30a9cda6c9d9c43f0f6690138cf74c39c79ba43e" />
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]/rom/nfl/nfl_v100.u36" size="1048576" crc="26dae8ac" md5="4265ebf28b4e80a5af00ac985b6c6b8c" sha1="ec18f13578c5c291b777344b2830cde2ecf3581c" />
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]/rom/nfl/nfl_v100.u37" size="1048576" crc="375d5a99" md5="6d33decbbba78d71f9e5fdf5c2bdb6fb" sha1="4b49c58968da645bd0ad60ed16744974b863164e" />
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]/rom/nfl/nfl_v101.cpu" size="131072" crc="eeb81a51" md5="fee722c6e532805f763a3367f5f11c42" sha1="c87e5f50cc95b1d0206abc3c132f5f3314a9253c" />
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]/rom/nfl/nfl_v102.dmd" size="524288" crc="fd7bc50a" md5="1f56ce9f20e21b25d538f3aaec0b4bb1" sha1="5c92af91e7e12024026a06002e6c6bf68230fcc0" />
+	</machine>
+	<machine name="Shadow, The (Bally)(1994)(Megapin)(1.2)[VP916][FullScreen MOD teppotee v1.2]">
+		<description>Shadow, The (Bally)(1994)(Megapin)(1.2)[VP916][FullScreen MOD teppotee v1.2]</description>
+		<rom name="Shadow, The (Bally)(1994)(Megapin)(1.2)[VP916][FullScreen MOD teppotee v1.0].vpt" size="20856832" crc="47e2de52" md5="7f89e40ebdde20005afe61e8392fa00f" sha1="4b92f4666ee99c59f1056799f2d1b1fc69881725" />
+		<rom name="Shadow, The (Bally)(1994)(Megapin)(1.2)[VP916][FullScreen MOD teppotee v1.2].vpt" size="20877312" crc="7fa098ae" md5="80e85d84dd7face5d77893bc1adadf96" sha1="1c85ae6b682df5b79171d82fdb2ca62876c98eb0" />
+		<rom name="Shadow, The screenshot.png" size="865356" crc="461ac96a" md5="b4a04d3fe39f86f2385f734818583ce1" sha1="bc307d88b30b702afa1616a34e5d246cfedebb03" />
+	</machine>
+	<machine name="Sinbad (Gottlieb)(1978)(pinuck, kruge99)(1.0)[VP912][FullScreen pinuck, kruge99][DOF Arngrim v1.1]">
+		<description>Sinbad (Gottlieb)(1978)(pinuck, kruge99)(1.0)[VP912][FullScreen pinuck, kruge99][DOF Arngrim v1.1]</description>
+		<rom name="Sinbad (Gottlieb)(1978)(pinuck, kruge99)(1.0)[VP912][FullScreen pinuck, kruge99][DOF Arngrim v1.1].vpt" size="15273984" crc="06e966ee" md5="518319e6c947c04bc8191257691f6695" sha1="893ffdd35aea5f97497afd384430e4f2f92da2d8" />
+	</machine>
+	<machine name="Sorcerer (Williams)(1985)(UncleReamus, Noah Fentz)(1.0.0)[VP91x][FullScreen HIGH RES, BMPR PHYSICS MOD JimmyFingers v1.1.01]">
+		<description>Sorcerer (Williams)(1985)(UncleReamus, Noah Fentz)(1.0.0)[VP91x][FullScreen HIGH RES, BMPR PHYSICS MOD JimmyFingers v1.1.01]</description>
+		<rom name="Sorcerer (Williams)(1985)(UncleReamus, Noah Fentz)(1.0.0)[VP91x][FullScreen HIGH RES, BMPR PHYSICS MOD JimmyFingers v1.1.01].vpt" size="34443264" crc="3202a46a" md5="02a182d0d785deb8f3d6debb49822e43" sha1="dec703685f45a288c567f28ab92fef2e580ff601" />
+		<rom name="Sorcerer screenshot.png" size="2307235" crc="9115dd20" md5="d83e318efbe1546339059ebb8a1f64b0" sha1="00d6359d92ffea0ce18145d9be6e278300a0b480" />
+	</machine>
+	<machine name="Split Second (Stern)(1981)(TAB, Destruk, Inkochnito)(1.0)[VP916][FullScreen MOD Cesar v1.04][DOF arngrim v1.0]">
+		<description>Split Second (Stern)(1981)(TAB, Destruk, Inkochnito)(1.0)[VP916][FullScreen MOD Cesar v1.04][DOF arngrim v1.0]</description>
+		<rom name="Split Second (Stern)(1981)(Inkochnito, TAB, Destruk)[VP916][FullScreen MOD Cesar v1.04][DOF arngrim v1.0].vpt" size="3788800" crc="09522997" md5="a9a186c3119b16760f14876cc35ed8ed" sha1="433a24573ced7a6ec72160585a26f0b73773e777" />
+		<rom name="Split Second screenshot.jpg" size="1097068" crc="7e8d4508" md5="861cbbd257cb77a3cd590560b315f781" sha1="0155ae92baa8b8c50f13bcaa02cc50eea0a4ca4d" />
+	</machine>
+	<machine name="Star Trek - The Next Generation (Williams)(1993)(JPSalas)(1.21)[VP91x][FS MOD Night mode v1.0 dj-eon]">
+		<description>Star Trek - The Next Generation (Williams)(1993)(JPSalas)(1.21)[VP91x][FS MOD Night mode v1.0 dj-eon]</description>
+		<rom name="Star Trek The Next Generation (TNG) FS Night Mod v1.2.1.jpg" size="756529" crc="8facdbd0" md5="bd39bd3d39b700838f2f9317b64e3697" sha1="2399989322f8320d9e2507201d8d9fc58ee635f6" />
+		<rom name="STTNG_VP91x_v1.2.1FS_nightmod.vpt" size="13996032" crc="48545b67" md5="ef653b809eddb8a613f5a00f09a68ba6" sha1="f9b7a3e0a59d6281539a60bb2ad2d44191298e4c" />
+	</machine>
+	<machine name="Star Wars (Data East)(1992)(JPSalas)(1.0)[VP912][FullScreen MOD rob046 v1.2]">
+		<description>Star Wars (Data East)(1992)(JPSalas)(1.0)[VP912][FullScreen MOD rob046 v1.2]</description>
+		<rom name="Data_East_Star_Wars_instruction_cards.doc" size="84480" crc="cd91d751" md5="8499c6b02632e0f22795715950debc27" sha1="59552af7d43905490936b2749d81a9b6c4272ea8" />
+		<rom name="Data_East_Star_Wars_instruction_cards.pdf" size="73573" crc="5a7224ae" md5="5de873cef35aa15f50a42b21a1911a27" sha1="9ff8e5f70f0ac97607a62c440882cbddfa573c01" />
+		<rom name="Star Wars (Data East)(1992)(JPSalas)(1.0)[VP912][FullScreen MOD rob046 v1.2].vpt" size="20889600" crc="f9a73a2a" md5="9267eff1c793f35eaeb78877a48b02b9" sha1="5930c263d20947d7b6aeb8d9e244221d57d19ff9" />
+		<rom name="Star Wars screenshot.jpg" size="466634" crc="1e54bbd4" md5="06edf95d413a19c6c84cf26bb68defd1" sha1="e5e3cddc81c9ca430f4c94b4ea38eefde0cc3bff" />
+	</machine>
+	<machine name="Starship Troopers (SEGA)(1997)(rosve)(1.0)[VP916][FullScreen rosve][B2S rosve][Flasher MOD FINAL teppotee]">
+		<description>Starship Troopers (SEGA)(1997)(rosve)(1.0)[VP916][FullScreen rosve][B2S rosve][Flasher MOD FINAL teppotee]</description>
+		<rom name="Starship Troopers (SEGA)(1997)(rosve)(1.0)[VP916][FullScreen rosve][B2S rosve][Flasher MOD FINAL teppotee].vpt" size="39821312" crc="40f4afc4" md5="085c80f0bd9dca5d2f120e94c5db8f72" sha1="c34da78c9631a41eefc09c21c4b7de60beb1f152" />
+		<rom name="Starship Troopers (teppotee) screenshot.png" size="3977802" crc="91853031" md5="92911bb76e88097e8d75eeaf4d821c38" sha1="9b73583e2b2159c103dbfe7c5b3d3b6988640539" />
+	</machine>
+	<machine name="Street Fighter II (Gottlieb)(1993)(VV. AA.)(1.038)[VP915][FullScreen MOD toppotee v1.3]">
+		<description>Street Fighter II (Gottlieb)(1993)(VV. AA.)(1.038)[VP915][FullScreen MOD toppotee v1.3]</description>
+		<rom name="Street Fighter II (Gottlieb)(1996)(VV. AA.)(1.038)[VP915][FullScreen MOD toppotee v1.3].vpt" size="34586624" crc="f975bfa5" md5="feeb6901da2419ae5c35a7f183ff19b7" sha1="6f23666aae2db647920b5eb2c4da8dacc7eeeafc" />
+		<rom name="Street Fighter II screenshot.png" size="3323169" crc="42c8b237" md5="ef2432839750c0887cb48b366be6c215" sha1="8fa96bbafec6a5807bde9d8b925b94b7f17ed823" />
+	</machine>
+	<machine name="Swords of Fury (Williams)(1988)(TAB)(1.1)[VP914][FullScreen MOD Aaron James 1.0]">
+		<description>Swords of Fury (Williams)(1988)(TAB)(1.1)[VP914][FullScreen MOD Aaron James 1.0]</description>
+		<rom name="Swords of Fury (Williams)(1988)(TAB)(1.1)[VP914][FullScreen MOD Aaron James 1.0].vpt" size="5464064" crc="5cac0cb8" md5="83439c0049ae697135c03f7a1a8092ed" sha1="063733c11d5c9df557dd8d8eb5a36f906ae0d937" />
+		<rom name="Swords of Fury screenshot.png" size="3914444" crc="4a8f14ef" md5="7741805db2e1672dbb9489c5c307a8e0" sha1="a69ab8536a5723077691ddd97085f34dea695317" />
+	</machine>
+	<machine name="Tales of the Arabian Nights (Williams)(1996)(JPSalas, Grizz)(3.2)[VP91x][FullScreen MOD haddonfield Final 003]">
+		<description>Tales of the Arabian Nights (Williams)(1996)(JPSalas, Grizz)(3.2)[VP91x][FullScreen MOD haddonfield Final 003]</description>
+		<rom name="Tales of the Arabian Nights (Williams)(1996)(JPSalas, Grizz)(3.2)[VP91x][FullScreen MOD haddonfield Final 003].vpt" size="38858752" crc="7170226c" md5="53c0a1788be6ce88c68dfc3b45818df1" sha1="3fe35a9895fafaf7dc27a27d438228a8901b3b57" />
+		<rom name="Tales of the Arabian Nights screenshot.jpg" size="1267169" crc="cadd6870" md5="8fa7571017e759c581db64cdd0faff2f" sha1="4e03560ee92a4a5eb88369ef5507fca02bc0006d" />
+	</machine>
+	<machine name="Terminator 2 - Judgement Day (Williams)(1991)(UR, NF)(1.1RC)[VP916][MOD Chrome Edition FS tipoto v1.06]">
+		<description>Terminator 2 - Judgement Day (Williams)(1991)(UR, NF)(1.1RC)[VP916][MOD Chrome Edition FS tipoto v1.06]</description>
+		<rom name="Music/Arcade_Room.mp3" size="1924015" crc="912384be" md5="f043e526b8cd503024ba041c47eabf59" sha1="f67e686df340de437fbc67e4c77c33f3f227ce89" />
+		<rom name="Music/Info.txt" size="162" crc="b818d3a0" md5="41f01789fb7f99019fa3bd4395c012c1" sha1="f6dc36bdd2ddbde7c21651dcafd9a2ff8a3ba459" />
+		<rom name="Info_MutliLanguage.txt" size="3599" crc="c731475f" md5="3535ad30e35c7a911ce9aa826d57dd51" sha1="e69996f0c8261880f6c07c13da38e46cab9fdfbb" />
+		<rom name="Screenshot.jpg" size="921065" crc="931e3a81" md5="975f33ed6de760df07a43ae94ca36fc9" sha1="4a20688d767c7db0d1c82a0f6ce8be182169f10e" />
+		<rom name="T2_CE_Tipoto_1.06_FS.vpt" size="34983936" crc="082f7fcd" md5="efbacff355c86316be121278001ac6f7" sha1="659a6ce9b6233398cafcfa9ac0f8074c62cec61f" />
+		<rom name="Updates.txt" size="2226" crc="4f0cdaa0" md5="d7063b684dd2c443d40b855413065fc2" sha1="1fce39d60b6047c99c080965b3e278984ef81f05" />
+	</machine>
+	<machine name="Terminator 3 - Rise of the Machines (Stern)(2003)(GRONI, Leo)(1.0)[VP915][FullScreen BLUE &amp; RED LED GI MOD mistermixer v1.0]">
+		<description>Terminator 3 - Rise of the Machines (Stern)(2003)(GRONI, Leo)(1.0)[VP915][FullScreen BLUE &amp; RED LED GI MOD mistermixer v1.0]</description>
+		<rom name="Terminator 3 - Rise of the Machines (Stern)(2003)(GRONI, Leo)(1.0)[VP915][FullScreen BLUE &amp; RED LED GI MOD mistermixer v1.0].vpt" size="26603520" crc="495d3422" md5="e5b2135093b0ea1cc6961fc3e94b4a50" sha1="ab15c9676cfc961131a775a130663e1f76ff32f6" />
+		<rom name="Terminator 3 - Rise of the Machines screenshot.jpg" size="408696" crc="96df5d3d" md5="82f9f98e5b210901136b37c3afe7db11" sha1="a2aab89c30cd627d98bf98cdcbe1a947ec1ada84" />
+	</machine>
+	<machine name="The Who's Tommy Pinball Wizard (Data East)(1994)(Lord Hiryu)(1.0)[VP912]FullScreen Sally Simpson MOD Dup3d v1.01]">
+		<description>The Who's Tommy Pinball Wizard (Data East)(1994)(Lord Hiryu)(1.0)[VP912]FullScreen Sally Simpson MOD Dup3d v1.01]</description>
+		<rom name="Dup3d/Who's Tommy Pinball Wizard, The (Data East)(1994)(Lord Hiryu)(1.0)[VP912]FullScreen Sally Simpson MOD Dup3d v1.01].vpt" size="10805248" crc="c88773fb" md5="e31a9f3c94e6f2c2a8ca69e983d35687" sha1="fe4a99c4e860f6c65e6f4ec010ecdc2c45e7c407" />
+		<rom name="Dup3d/Who's Tommy Pinball Wizard, The (Dup3d) screenshot.jpg" size="643455" crc="ebf104cc" md5="34f66b6862cd62571c72f198b5a910ab" sha1="84ef30c9749d3bc6433b1d5fa14621b4a3fc01e6" />
+	</machine>
+	<machine name="The Who's Tommy Pinball Wizard (Data East)(1994)(Lord Hiryu)(1.0)[VP916]FullScreen teppotee][HD BMPR Night MOD teppotee, JimmyFingers v1.1]">
+		<description>The Who's Tommy Pinball Wizard (Data East)(1994)(Lord Hiryu)(1.0)[VP916]FullScreen teppotee][HD BMPR Night MOD teppotee, JimmyFingers v1.1]</description>
+		<rom name="teppotee/Who's Tommy Pinball Wizard, The (Data East)(1994)(Lord Hiryu)(1.0)[VP916]FullScreen teppotee][HD BMPR GI MOD teppotee, JimmyFingers v1.0].vpt" size="41533440" crc="9de59b14" md5="4ab0656c09183e2f1e6ba4bb220f66f9" sha1="239d614be19fbfea537ba391e85744caaa0cab03" />
+		<rom name="teppotee/Who's Tommy Pinball Wizard, The (Data East)(1994)(Lord Hiryu)(1.0)[VP916]FullScreen teppotee][HD BMPR Night MOD teppotee, JimmyFingers v1.1].vpt" size="53981184" crc="365c6a05" md5="c32025d1d812005da8f97e13e446a56c" sha1="f7e01206546faa26f66987e258bc786304836b97" />
+		<rom name="teppotee/Who's Tommy Pinball Wizard, The (GI) screenshot.png" size="3640240" crc="52f5aa21" md5="cd57c922ccd885bbc3cf79aa8e42f24a" sha1="7429b9f78b0e62ded65404bd92aef4066056710f" />
+		<rom name="teppotee/Who's Tommy Pinball Wizard, The (night) screenshot.png" size="3571128" crc="39ad84a4" md5="990ba2f946c4099324895d92f89faafd" sha1="133357ed118699b73a233f43021f3f60ec382aae" />
+	</machine>
+	<machine name="Theatre of Magic (Bally)(1995)(JPSalas)(2.02)[VP91x](FullScreen Mirror MOD Koadic v3 2.1]">
+		<description>Theatre of Magic (Bally)(1995)(JPSalas)(2.02)[VP91x](FullScreen Mirror MOD Koadic v3 2.1]</description>
+		<rom name="Theatre of Magic (Bally)(1995)(JPSalas)(2.02)[VP91x](FullScreen Mirror MOD Koadic v2 2.1].vpt" size="23142400" crc="a4c7cb8a" md5="bd88d38c7646f4dc7cf6595b69c1ec8e" sha1="cfdc15144f2e5ebc5818d31f09cd6460bbbd9258" />
+		<rom name="Theatre of Magic (Bally)(1995)(JPSalas)(2.02)[VP91x](FullScreen Mirror MOD Koadic v3 2.1].vpt" size="23445504" crc="3cbf938a" md5="1b5fce326efce3ef841429073f5cb2a9" sha1="729860201259ad2f5adf5bf4c63baef6851a5347" />
+		<rom name="Theatre of Magic (Bally)(1995)(JPSalas)(2.02)[VP91x](FullScreen Night Mode MOD unclewilly Final version].vpt" size="22960128" crc="d8477af5" md5="3f62071c5cc0ccad927f1223cc73854b" sha1="4c6db349f53ae6668c58d65766f124271c7ce2e9" />
+		<rom name="Theatre of Magic (Koadic) screenshot.jpg" size="2086935" crc="bdbc7b66" md5="31a5313dd3f462f0a2216ab1a15eaddf" sha1="58e6d978200b8f6f929d597ddde7a6e76c398c35" />
+		<rom name="Theatre of Magic (unclewilly) screenshot.jpg" size="1580949" crc="be9ef04f" md5="f8720986ef2f6dc95294fca5f671f93f" sha1="809b1dbe49be52cde8b2984ac4b1f3a416997315" />
+	</machine>
+	<machine name="Time Warp (Williams)(1979)(DesAngel, TAB, Gilrock)(4.0)[VP912][MOD Banana Flippers GrayGhost]">
+		<description>Time Warp (Williams)(1979)(DesAngel, TAB, Gilrock)(4.0)[VP912][MOD Banana Flippers GrayGhost]</description>
+		<rom name="TimeWarp_Desktop_BananaFlipper.vpt" size="36044800" crc="c8bfae03" md5="9c80dba0f3d30767a842bde6c8c2f9b7" sha1="f2965b352811c62b361d2081960e8c14c4d85477" />
+		<rom name="TimeWarp_Desktop_BananaFlipperOlder.vpt" size="36044800" crc="92fb5708" md5="c2173139848d549ad833fd5061dac074" sha1="37d231856c6088f28de90bd41bd465600075ec0b" />
+		<rom name="timewarpbananaflippers.png" size="1711638" crc="1a2d0c8c" md5="119d01d6cc3b241d4afd3b1262b4407f" sha1="5502d788ee91667bee8f08561e7731093351350f" />
+	</machine>
+	<machine name="Viking (Bally)(1979)(PacDude)(1.2)[VP912][FullScreen 2012 MOD v1.0 Kruge99]">
+		<description>Viking (Bally)(1979)(PacDude)(1.2)[VP912][FullScreen 2012 MOD v1.0 Kruge99]</description>
+		<rom name="Viking screenshot.jpg" size="958490" crc="507efe08" md5="7a4142739de4c1e072e9448e2969255b" sha1="de07c613ff9503a5061be03fe6da81ea36c74c50" />
+		<rom name="Viking_PD_1-2-vp91x-mod-FS-1.0.0.vpt" size="9965568" crc="3bfa9d29" md5="55440a64b36a41c2d0656722ffa1e80b" sha1="0a9694afc9d0000d78d9d2c2660a5fc8f2c693c0" />
+	</machine>
+	<machine name="Volcano (Gottlieb)(1981)(PataTroX)(1.0)[VP91x][FullScreen MOD PinKitty 1.0]">
+		<description>Volcano (Gottlieb)(1981)(PataTroX)(1.0)[VP91x][FullScreen MOD PinKitty 1.0]</description>
+		<rom name="Volcano (Gottlieb)(1981)(PataTroX)(1.0)[VP91x][FullScreen MOD PinKitty 1.0].vpt" size="1421312" crc="ed2b713f" md5="a99676a7e450678f3f340e980b56b03e" sha1="2058f142558d56e34f2acd615fb8026f3b53773e" />
+		<rom name="Volcano screenshot.jpg" size="190661" crc="be445d35" md5="0ff624700a75195ba5f6079b06555c41" sha1="b5b299a1e2ae825b9605dbaddfc7e1627efd57d6" />
+	</machine>
+	<machine name="White Water (Williams)(1993)(JPSalas, Grizz, Noah Fentz)(1.1.1)[VP916][FullScreen Night MOD Aaron James v1.0]">
+		<description>White Water (Williams)(1993)(JPSalas, Grizz, Noah Fentz)(1.1.1)[VP916][FullScreen Night MOD Aaron James v1.0]</description>
+		<rom name="Whitewater_Night_Mod_vp916_1.0_FS.vpt" size="56164352" crc="8f3b5577" md5="400d9753550ace9c2a55bd13c337ae0a" sha1="e813b770b5b4742a8404989738d29f08bdd6b97a" />
+		<rom name="whitewater_vp91x_11fs.jpg" size="4315738" crc="96ced3cc" md5="30b91365769d7048a9799685c82ce015" sha1="43934572d4881a682320b2f11af83d6769d944f1" />
+	</machine>
+	<machine name="X-Files (SEGA)(1997)(JPSalas)(1.01)[VP915][FullScreen GI BMPR MOD teppoteee v2.1]">
+		<description>X-Files (SEGA)(1997)(JPSalas)(1.01)[VP915][FullScreen GI BMPR MOD teppoteee v2.1]</description>
+		<rom name="X-Files_FS_GI_BMPR_MOD_2.1.vpt" size="37244928" crc="2cb3a478" md5="642101a099ad0f673705c36056fdc98f" sha1="3d8d4fedc975a9ef8099ea2ca363af6d6a30c921" />
+		<rom name="xfiles21.png" size="934262" crc="ef7a09e9" md5="90cfcf1ea26cf7c39243d9fdb3174af6" sha1="b1fd99329a5cbc5f4d9eef3d0e26b5efa7f0d5e5" />
+	</machine>
+</datafile>

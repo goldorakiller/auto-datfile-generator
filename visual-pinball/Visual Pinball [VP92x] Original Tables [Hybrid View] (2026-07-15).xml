@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP92x] Original Tables [Hybrid View]</name>
+		<description>Visual Pinball [VP92x] Original Tables [Hybrid View] (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="Trigon (2004)(shiva, Shadowsclassic, Itchigo, Rascal)(1.0)[VP920][HV]">
+		<description>Trigon (2004)(shiva, Shadowsclassic, Itchigo, Rascal)(1.0)[VP920][HV]</description>
+		<rom name="Trigon (2004) (Original) (shiva) (Rascal) (Shadowsclassic) (Itchigo) (1.0) (HV) [VP920].png" size="2710492" crc="bdf8085b" md5="457eda4230561c871178a498a854f6ef" sha1="8dda470ced05114772cfc573251b92842669231f" />
+		<rom name="Trigon (WIP).vpt" size="17391616" crc="d729a263" md5="49e591946209b721a31dcc6af67a831d" sha1="85110b21f4b8fda8585b5c9d3e44cd186d6efef2" />
+		<rom name="Trigon [WideScreen single HR v1].vpt" size="37834752" crc="1b0481d5" md5="d8bf7b32fb51125d463fc12d7f7c47e6" sha1="2e4e2efb7e5ea57922782fe0813e4e03a778f9b9" />
+		<rom name="Trigon [WideScreen single HR v2].vpt" size="39133184" crc="862680d2" md5="268885998b884bff0547708bb3098036" sha1="797977b0ab0b9f90c711b856fb9746b0d4da7b72" />
+		<rom name="Trigon [WideScreen single].vpt" size="34107392" crc="31be72b1" md5="854fcf0c2faa4119db4d7cd734108f25" sha1="312c5624c5d9d5751de088389778b0a93917a192" />
+	</machine>
+</datafile>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP9] PinMame Tables [WideScreen]</name>
+		<description>Visual Pinball [VP9] PinMame Tables [WideScreen] (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="Asteroid Annie and the Aliens (Gottlieb)(1980)(Pinuck)(1.1)[VP9][WideScreen]">
+		<description>Asteroid Annie and the Aliens (Gottlieb)(1980)(Pinuck)(1.1)[VP9][WideScreen]</description>
+		<rom name="Asteroid Annie VP9 WS 1.1.jpg" size="909881" crc="24c078bd" md5="7e9d46fa99f3f772d2c454037d84c7c5" sha1="3c19e63b4f1909b14789c9016304dabd7c50f9a6" />
+		<rom name="Asteroid Annie VP9 WS 1.1.vpt" size="24817664" crc="6681fb8f" md5="40bdde07ef45e81b84bd8e095cf6cb3d" sha1="b0bd48f7680508b89d75e52d63a3686e318e4b6f" />
+	</machine>
+	<machine name="Machine, The - Bride of Pin-bot (Williams)(1991)(Unclewilly)(1.01)[VP9][WideScreen]">
+		<description>Machine, The - Bride of Pin-bot (Williams)(1991)(Unclewilly)(1.01)[VP9][WideScreen]</description>
+		<rom name="BrideOfPinbot.uw.V1.01.WS.vpt" size="27768832" crc="0dbd2832" md5="9eedd878a7471f28f8f3f417a2d95703" sha1="839fd6ea0e632ee344154f24f7d079f20e133e22" />
+	</machine>
+	<machine name="Panthera (Gottlieb)(1980)(JPSalas, Serpiko)(2.01)[VP9][Widescreen v2.02 Zany]">
+		<description>Panthera (Gottlieb)(1980)(JPSalas, Serpiko)(2.01)[VP9][Widescreen v2.02 Zany]</description>
+		<rom name="GOTTLIEB - PANTHERA_VP9_2.02_WS.vpt" size="24080384" crc="6e748388" md5="999f0005e58500cd7495669ce4e74e64" sha1="d79fe5c0afb65fc15b421239123c2519e161bfb0" />
+	</machine>
+	<machine name="Robot (Zaccaria)(1985)(hmueck)(1.2)[VP9][WS]">
+		<description>Robot (Zaccaria)(1985)(hmueck)(1.2)[VP9][WS]</description>
+		<rom name="Robot WS 1.2.vpt" size="24465408" crc="d99e7f65" md5="d2ab8643deb81ffc2bd5ae1893a53df1" sha1="52e0f3705e5e6909b2d41a62728ca3d1de7f5dd3" />
+	</machine>
+	<machine name="Stellar Wars (Williams)(1979)(Kristian, Andre)(1.5)[VP9][Widescreen DarthMarino]">
+		<description>Stellar Wars (Williams)(1979)(Kristian, Andre)(1.5)[VP9][Widescreen DarthMarino]</description>
+		<rom name="Fonts/compstyl.ttf" size="41640" crc="963b556a" md5="64d930983e6ba65cfd2ec099ab7488f6" sha1="f4bbb29956843a0246e1be9bd28e3114fba14076" />
+		<rom name="Fonts/computer.ttf" size="39104" crc="a5d24216" md5="e0dacec61ffdd2bee694dc0928642f84" sha1="0bf87958eaa6daf3cf386cec98b09f4d46e8b228" />
+		<rom name="HOW TO TURN ON SWEEP SOUND.txt" size="441" crc="a24f7fe6" md5="b1ee529c71e307e7cd0977311b292344" sha1="8f8f1690c97c1ae6955b631661afaf0d7d0cd3e9" />
+		<rom name="Stellar Wars VP 16x9.vpt" size="14422016" crc="7c0437d4" md5="9caf551c4d121462f627f4cee22aa7ef" sha1="0ac351fff629c8f12442be7b3af3b373d44332b9" />
+		<rom name="stlwr_l2.nv" size="302" crc="5c932f89" md5="ace8472b72427eed29fbbe8723390e36" sha1="07db1535787f8d6b5f107da1a1d4c0cabd504469" />
+		<rom name="Williams_1979_Stellar_Wars_Adjustments_Manual.pdf" size="562842" crc="7cfb81e7" md5="976ddb130144c2e47f22aae2bcffae0a" sha1="52633bf41fd689eb9c49be68536b939067142f69" />
+	</machine>
+</datafile>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP99x] PinMame Tables [Hybrid View]</name>
+		<description>Visual Pinball [VP99x] PinMame Tables [Hybrid View] (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="24 (Stern)(2009)(Freneticamnesic, Rascal)(1.0)[VP990][HV]">
+		<description>24 (Stern)(2009)(Freneticamnesic, Rascal)(1.0)[VP990][HV]</description>
+		<rom name="24 (Stern) (2009) (freneticamnesic) (Rascal) (1.0) (HV) (VP990).png" size="2449967" crc="60109040" md5="5cc21171fdbf5b0c6d53f2a3de19c37b" sha1="a2d32f418337e4a12f19bb39da382ce86a5945d7" />
+		<rom name="24 (Stern) (2009) (freneticamnesic) (Rascal) (1.0) (HV) (VP990).vpt" size="128557056" crc="8f9914f8" md5="b1970ecc575cd8e71fbd93f4bd66a67e" sha1="2b640f46eed1ac9447b8a9610b5e199ecf5a4c9d" />
+	</machine>
+	<machine name="Grand Tour (Bally)(1964)(pbecker1946)[VP990][FullScreen + dB2s + Hybrid by Itchigo v1.0]">
+		<description>Grand Tour (Bally)(1964)(pbecker1946)[VP990][FullScreen + dB2s + Hybrid by Itchigo v1.0]</description>
+		<rom name="Grand Tour (Bally)(1964)(pbecker1946)[VP990][FullScreen + dB2s + Hybrid by Itchigo v1.0]/Grand Tour.directb2s" size="8064195" crc="6d77d332" md5="89d7e3c9d2c9e59c0798dd55bf0768d6" sha1="6e4475c5f2d46c414cb68b66cfed4b70d62524f3" />
+		<rom name="Grand Tour (Bally)(1964)(pbecker1946)[VP990][FullScreen + dB2s + Hybrid by Itchigo v1.0]/Grand Tour.vpt" size="23089152" crc="494837f8" md5="ed7d3c97475e880a5a231ac23c38dd24" sha1="cd9448821d768134c525bc5c03071a2097ad35ff" />
+		<rom name="Grand Tour screenshot.png" size="1207719" crc="aaa6053a" md5="13f33f208e05e9564e679a84fe2196e7" sha1="b53f5bfbeedac1029e343a218850df45e8b4eb8d" />
+	</machine>
+	<machine name="Sharkey's Shootout (Stern)(2000)(Freneticamnesic, Rascal)(1.0)[VP990][HV]">
+		<description>Sharkey's Shootout (Stern)(2000)(Freneticamnesic, Rascal)(1.0)[VP990][HV]</description>
+		<rom name="Sharkey's Shootout (2000) (Stern) (freneticamnesic) (Rascal) (1.0) (HV) [VP990].png" size="2590005" crc="cc333ffe" md5="cadaa950d19d5ec33567053978fa6312" sha1="ff59f8293f169740a3377ee0d5be696d9ae4e7bc" />
+		<rom name="Sharkey's Shootout (2000) (Stern) (freneticamnesic) (Rascal) (1.0) (HV) [VP990].vpt" size="85745664" crc="0b4e3761" md5="5613e5cce8c102416dd9f8a334f00b0c" sha1="dd65b229859908ce4d23eaace465f52b3a85654e" />
+	</machine>
+	<machine name="Transformers (Stern)(2011)(gtxjoe, Freneticamnesic, Rascal)(1.0)[VP990][HV]">
+		<description>Transformers (Stern)(2011)(gtxjoe, Freneticamnesic, Rascal)(1.0)[VP990][HV]</description>
+		<rom name="bgout_TF_intro.mp3" size="2872951" crc="591795f8" md5="e55d8e6c5dcde4913460b90721990aca" sha1="991d594f7d1d1475bc56dab5338d44ba0eeae39c" />
+		<rom name="Transformers (Stern) (2011) (gtxjoe) (freneticamnesic) (Rascal) (1.0) (HV) (VP990).png" size="2761858" crc="74ecab40" md5="90597c9781bbf14ceca16e3a576e9cba" sha1="20b2c0e2ada90002dad26fd714581537e05578bd" />
+		<rom name="Transformers (Stern) (2011) (gtxjoe) (freneticamnesic) (Rascal) (1.0) (HV) (VP990).vpt" size="50958336" crc="e16ff2d3" md5="f9231e0e63840df81fd41ffa07ab02a0" sha1="a7357887a350859c281adce646493be79e1b2bdc" />
+	</machine>
+	<machine name="WWF Royal Rumble (Data East)(1994)(Freneticamnesic, Rascal)(1.11)[VP990][HV]">
+		<description>WWF Royal Rumble (Data East)(1994)(Freneticamnesic, Rascal)(1.11)[VP990][HV]</description>
+		<rom name="WWF Royal Rumble! (Data East) (1994) (freneticamnesic) (Rascal) (1.0) (HV) (VP990).png" size="2571865" crc="94c7c5f0" md5="774a611b6d21f604d98ba344665e45dc" sha1="97881eddfffb1d982613adbc0008053e389a0624" />
+		<rom name="WWF Royal Rumble! (Data East) (1994) (freneticamnesic) (Rascal) (1.0) (HV) (VP990).vpt" size="59699200" crc="0793dd1d" md5="14393e4d41ac33be7bc6f2cc77778818" sha1="76ad25ce89c79116ad0864cd9a7aa4a1d41bb86a" />
+	</machine>
+</datafile>

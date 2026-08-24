@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP9] PinMame Tables [Flipperless]</name>
+		<description>Visual Pinball [VP9] PinMame Tables [Flipperless] (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="Bullseye (Gottlieb)(1994)(TAB, Destruk)(1.0)[VP9][Flipperless Redemption Game]">
+		<description>Bullseye (Gottlieb)(1994)(TAB, Destruk)(1.0)[VP9][Flipperless Redemption Game]</description>
+		<rom name="acreenshot.jpg" size="114683" crc="8b16c292" md5="569346fb1d6451d1b1b01d0b859d2f2e" sha1="a75069cc5fbff43e3048ae42a23f72cc46d4923c" />
+		<rom name="Bullseye VP9.vpt" size="2426880" crc="bc8a6ecf" md5="0d5251f71a55e6d4d9fa0fa7f29f8d6d" sha1="e38dc81b7ea960b4f3a780ec486c008684149d0e" />
+	</machine>
+	<machine name="Hyperball (Williams)(1981)(Gaston, Destruk, TAB, Kristian)(1.0)[VP9][Flipperless]">
+		<description>Hyperball (Williams)(1981)(Gaston, Destruk, TAB, Kristian)(1.0)[VP9][Flipperless]</description>
+		<rom name="Hyperball (Williams 1981).vpt" size="1761280" crc="f21a064f" md5="d1b66a00554d2412731de70626f49a8b" sha1="448a815138b646b73f2a95257f7dd015f5e79fff" />
+		<rom name="screenshot.jpg" size="156847" crc="18f24bc3" md5="528998e0b6991ab7b9738761d3bb9d21" sha1="fb383399f2239e4325cc5fe9e98b076ce03483a0" />
+	</machine>
+	<machine name="Nudge-It (Gottlieb)(1990)(Destruk)(1.0)[VP9][16-9 Destruk][FullScreen spanned][Flipperless]">
+		<description>Nudge-It (Gottlieb)(1990)(Destruk)(1.0)[VP9][16-9 Destruk][FullScreen spanned][Flipperless]</description>
+		<rom name="16-9 Nudge It.vpt" size="2055168" crc="33763ff9" md5="f686e846d5acb163b91eec667dc2c383" sha1="f4afcd06be817fdda63aa71ccbde8dae7396097d" />
+		<rom name="Nudge It screenshot.jpg" size="1004476" crc="d85ba8ac" md5="c7834f33315dab71a15591700f711ff9" sha1="fd840ea72e03db85b02051da81e1cf1f6d332d1a" />
+	</machine>
+	<machine name="Pentacup (Micropin Corporation)(1979)(Destruk)(1.0)[VP9][Counter Game]">
+		<description>Pentacup (Micropin Corporation)(1979)(Destruk)(1.0)[VP9][Counter Game]</description>
+		<rom name="Pentacup.vpt" size="2244096" crc="ff026af9" md5="b6769ebecfb1fe12edce4dcb35e512ac" sha1="ad96aafdbd42f0c4cfad09ac0bc4be0f8141be16" />
+		<rom name="screenshot.jpg" size="406407" crc="a6ea8554" md5="4f3cf4e3a4368763a4868b9fac9e152e" sha1="64e3fc59f2c45c9471bc87603d4290bae81e98e2" />
+	</machine>
+	<machine name="Pompeii (Bally)(1978)(Destruk, TAB)(1.0)[VP9][Bowling]">
+		<description>Pompeii (Bally)(1978)(Destruk, TAB)(1.0)[VP9][Bowling]</description>
+		<rom name="Pompeii.vpt" size="2851328" crc="b8e30830" md5="5e8ee1dfaf96c78e1cdd47d59362f26b" sha1="d53f191db1696c2829ff83b9130d217423145aff" />
+		<rom name="screenshot.jpg" size="1159611" crc="4a44bd08" md5="4a6d741a18610ed78833afc3c6fc4a5a" sha1="6762504ea6270ef19b69fb93e8598f95a5373644" />
+	</machine>
+	<machine name="Slugfest (Williams)(1991)(Destruk, TAB)(1.1)[VP9][Bat Game]">
+		<description>Slugfest (Williams)(1991)(Destruk, TAB)(1.1)[VP9][Bat Game]</description>
+		<rom name="screenshot.jpg" size="969927" crc="78e3dc6b" md5="9d7c6c999a8f5cc8310fd994297a0ad9" sha1="cf05493a1782563d67747fe784e82c1ad58bb872" />
+		<rom name="Slugfest VP9.vpt" size="4770816" crc="c19ad5e7" md5="e51111fc63770cff72947630966c93f0" sha1="e012b3770fc980761d55562732a23dd83eecd620" />
+	</machine>
+	<machine name="Wack-A-Doodle-Doo (SEGA)(1990)(Destruk, TAB)(1.0.0)[VP9x][Flipperless]">
+		<description>Wack-A-Doodle-Doo (SEGA)(1990)(Destruk, TAB)(1.0.0)[VP9x][Flipperless]</description>
+		<rom name="screenshot.jpg" size="127536" crc="dd18b6dc" md5="fadbcf6a129dd05495d1d9df3ce8010b" sha1="37be6e4d7049650ef66ad6b9fe0ea425d4dee5e6" />
+		<rom name="Wackadoo.vpt" size="1626624" crc="801afb64" md5="6be58ace3f73c2d2f770ea482b8b6526" sha1="cd7284e4205dc91b127021198882d276977baab2" />
+	</machine>
+</datafile>

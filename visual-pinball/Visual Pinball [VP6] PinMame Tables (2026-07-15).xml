@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP6] PinMame Tables</name>
+		<description>Visual Pinball [VP6] PinMame Tables (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="Earthshaker! (Williams)(1989)(Andre Needham)(0.9)[VP6][MOD 0.95b Dorsola]">
+		<description>Earthshaker! (Williams)(1989)(Andre Needham)(0.9)[VP6][MOD 0.95b Dorsola]</description>
+		<rom name="Earthshaker 0.95b (DMod).vpt" size="2019840" crc="6b125d21" md5="7a3b425ce21471d2924ddf0a5adfbfcb" sha1="380e730d4c52ea7053e30f5c98d4a322754a9a73" />
+		<rom name="eshake_revhistory.txt" size="2500" crc="dccbc83b" md5="76aa1fa7cd4e862a43b2c841fcba8dd6" sha1="98eaddb64de98451c9bae5157b5ff4eab0631596" />
+		<rom name="s11.vbs" size="31323" crc="9cce4690" md5="02cf1b17204ebc91ef01a9c466a4f651" sha1="2ce22cc61f8e4e6bf60e8ace30ee549364011a6f" />
+	</machine>
+	<machine name="Eight Ball (Bally)(1977)(Scapino)(1.0)[VP6]">
+		<description>Eight Ball (Bally)(1977)(Scapino)(1.0)[VP6]</description>
+		<rom name="speedfixvp/RunVP.bat" size="74" crc="445f8bd2" md5="5b377667959e4e37b74d1911f1091ea5" sha1="194e8e68b135b53a434484bdb64d9f4eb3548ba8" />
+		<rom name="speedfixvp/SpeedFixReadme.txt" size="647" crc="0a4971c7" md5="6382ed014bb6bc69d7608b840799bec0" sha1="f4d04891c1af43480bf5e51b0d99edaac136b3a5" />
+		<rom name="speedfixvp/turnoff.reg" size="250" crc="1eddc42c" md5="dbc9291c5dec41ff5a86376c8b0be73e" sha1="ff8866e8f5e5a6065962a9681d8fcb351ba18ea8" />
+		<rom name="speedfixvp/turnon.reg" size="250" crc="d5811789" md5="292d0225e6259e0ecb5101488ea7d4af" sha1="d1d04db14d953311800e5441b0c6d3a366a19c33" />
+		<rom name="EightBallScreen.jpg" size="181387" crc="b6cd681e" md5="e5870a6b3bdb9b82370d20a50670e82b" sha1="0c4998af71e62b3b617246c577c391b5e40e85e0" />
+		<rom name="ScapinosEightBallVPMv1_0.vpt" size="11214848" crc="20c1b3fd" md5="d936b0031298e6a24805103ee476a77c" sha1="4bbd726e0c3f5df7bf207c2843f9840afb700ee6" />
+		<rom name="ScapinosEightBallVPMv1_0ReadMe.txt" size="1399" crc="506a2261" md5="ed83dc47f3dd54b1440dcad2705cd56e" sha1="7b4c94398e1b8ad7cedf6057d896e360da2792a0" />
+	</machine>
+	<machine name="Fireball Classic (Bally)(1985)(Scapino)(1.0)[VP6]">
+		<description>Fireball Classic (Bally)(1985)(Scapino)(1.0)[VP6]</description>
+		<rom name="speedfixvp/RunVP.bat" size="74" crc="445f8bd2" md5="5b377667959e4e37b74d1911f1091ea5" sha1="194e8e68b135b53a434484bdb64d9f4eb3548ba8" />
+		<rom name="speedfixvp/SpeedFixReadme.txt" size="647" crc="0a4971c7" md5="6382ed014bb6bc69d7608b840799bec0" sha1="f4d04891c1af43480bf5e51b0d99edaac136b3a5" />
+		<rom name="speedfixvp/turnoff.reg" size="250" crc="1eddc42c" md5="dbc9291c5dec41ff5a86376c8b0be73e" sha1="ff8866e8f5e5a6065962a9681d8fcb351ba18ea8" />
+		<rom name="speedfixvp/turnon.reg" size="250" crc="d5811789" md5="292d0225e6259e0ecb5101488ea7d4af" sha1="d1d04db14d953311800e5441b0c6d3a366a19c33" />
+		<rom name="FireballClassicVPMv1_00.vpt" size="7524352" crc="89731a38" md5="a10fc4de21dd88f6c1648136a74b6c00" sha1="8ef9cb316bfdc3b3e4bd132ee37fedb0a8c12744" />
+		<rom name="ScapinoFireballClassicv1_00.jpg" size="199286" crc="7dfcc5ae" md5="65b60801d3d5911dc261b9a62b526278" sha1="d234d21a36d012325578a03c8ad6a484b3e9dece" />
+		<rom name="ScapinosFireballClassicVPMv1_0ReadMe.txt" size="1233" crc="7eff9a1f" md5="5215d23f2a392b1284bd7ea186618581" sha1="e16744fab1d18de6ef99b7b801a50d8ce503fc16" />
+	</machine>
+	<machine name="Magic (Stern)(1979)(Eala Dubh Sidhe, LuvThatApex)(1.0)[VP6]">
+		<description>Magic (Stern)(1979)(Eala Dubh Sidhe, LuvThatApex)(1.0)[VP6]</description>
+		<rom name="magic-VPM.vpt" size="5908992" crc="47c74f3b" md5="ca933f80f701506c2529e410dc650da7" sha1="1a2f771d405930ec0551e6c1c107c4035ac2f92b" />
+	</machine>
+	<machine name="Mary Shelley's Frankenstein (SEGA)(1995)(Krellan)(1.4)[VP6]">
+		<description>Mary Shelley's Frankenstein (SEGA)(1995)(Krellan)(1.4)[VP6]</description>
+		<rom name="Frankenstein 1.2.vpt" size="1903616" crc="4b6fc9e0" md5="e4f6d83596b9fb2df5c8d3193b1e99d5" sha1="64b5a3887e4b55539bc5f8acf962e08d1fb8aad3" />
+		<rom name="Frankenstein 1.4.vpt" size="2416640" crc="78321739" md5="b0d1162dc62ce2cb165782844bae84a4" sha1="039c2a43dd5ffba4dceda66248c1c655bb53c811" />
+	</machine>
+	<machine name="Operation Thunder (Gottlieb)(1992)(Scapino, Zaphod, Destruk)(2.2)[VP6]">
+		<description>Operation Thunder (Gottlieb)(1992)(Scapino, Zaphod, Destruk)(2.2)[VP6]</description>
+		<rom name="Operation Thunder (Gottlieb) (1992) (Zaphod &amp; Destruk &amp; Scapino) (2.0) Readme.txt" size="1034" crc="a91ea7b7" md5="9fb3ff84023417b86a5631d6ec31dc70" sha1="ee230460eb4620c485c03edcbce6e23f49dc450a" />
+		<rom name="Operation Thunder (Gottlieb) (1992) (Zaphod &amp; Destruk &amp; Scapino) (2.0).vpt" size="3005440" crc="40cd177f" md5="f965a1270ef40bc87464195f434abd90" sha1="d8379b036093593206d086fbd1e24977468463b6" />
+		<rom name="Operation Thunder (Gottlieb) (1992) (Zaphod &amp; Destruk &amp; Scapino) (2.1) Readme.txt" size="1607" crc="066267df" md5="ea28fc4b57cd516c57d66bdc7e980157" sha1="4573ca30619b37b1a07da53d2362afe0de1e175d" />
+		<rom name="Operation Thunder (Gottlieb) (1992) (Zaphod &amp; Destruk &amp; Scapino) (2.1).vpt" size="3009536" crc="ac4df37b" md5="0d0db1ecf0b0ed9e1d3bf9f352971ae2" sha1="5d6fae3c07b1cc7d821b054b8c27a76a9f5cc6bb" />
+		<rom name="Operation Thunder (Gottlieb) (1992) (Zaphod &amp; Destruk &amp; Scapino) (2.2).vpt" size="3008512" crc="930c802f" md5="9d681f307f655f7b3cfb0aacd4e0d8ff" sha1="90be30e79dda59ae1077bafcb57d6500160eb880" />
+		<rom name="Operation Thunder (Gottlieb) (1992) (Zaphod) (0.1 whiteboard).vpt" size="69632" crc="51a6346c" md5="98f2a16dca2d328afca59749f5eaa151" sha1="bae3f752747a2ac30233a0d244b91c5858664d61" />
+		<rom name="Operation Thunder (Gottlieb) (1992) Card.jpg" size="58148" crc="61ce7a9a" md5="5edf76bf05655339fb29cde41616c52f" sha1="edd1c3070b50dafaa30957ff9493854d28bb1ddb" />
+		<rom name="Operation Thunder (Gottlieb) (1992) Flyer - 1.jpg" size="546307" crc="7ea54a38" md5="c0502b405c3ef24f6184698afb78c102" sha1="cd4994a78747d079dba74db266f1f89466b8e4be" />
+		<rom name="Operation Thunder (Gottlieb) (1992) Flyer - 2.jpg" size="537630" crc="5711f6a4" md5="63b494e5f471387c9c9299de87a39fe6" sha1="17c6fcde00e7f1b30d02b91a8dea76876c35d291" />
+		<rom name="Operation Thunder (Gottlieb) (1992) Machine.jpg" size="62039" crc="33d30704" md5="1995e7c11072e375d4ba8b84d4b7fdcc" sha1="51c3f578eac158b4d9ff11bd49743c5127e47fdd" />
+		<rom name="Operation Thunder (Gottlieb) (1992) opthund.cfg" size="1390" crc="6c507564" md5="73d67a6a94ad68eec97aa587da7eaf71" sha1="5f3c29c0db6cf369266f5497729906961fe151a5" />
+		<rom name="Operation Thunder (Gottlieb) (1992) opthund.nv" size="8238" crc="6686855f" md5="63b5d0bae6bb5bb42d302f6ca2a377e2" sha1="5e3b55d595338b34740cd2fa05ec052a8ebe6dfc" />
+		<rom name="Operation Thunder (Gottlieb) (1992) Playfield - 1.jpg" size="79552" crc="9b55aea1" md5="476fe6998d9c971f28198a372d9f08bf" sha1="7e891b7e1199aad8d2a182788f120580edfc50d6" />
+		<rom name="Operation Thunder (Gottlieb) (1992) Playfield - 2.jpg" size="342260" crc="d542a64d" md5="cf607565d544c80e2e35206b1501c676" sha1="a4a7613bfdf94d6782b596c91b9d67cad0825792" />
+		<rom name="Operation Thunder (Gottlieb) (1992) Readme (2.2).txt" size="1852" crc="531988fc" md5="490b59b0826ec6bf27165f13272a10e0" sha1="3d8002c26462142ea1991d94b3b4ddcccc1cf5af" />
+		<rom name="Operation Thunder (Gottlieb) (1992) Screenshot (2.0).jpg" size="258135" crc="7ef4d2d9" md5="63ee3be3431353083c53b6c5fb945455" sha1="7b5cef8839ce03f54cc4c1f124dfe871d1acf73f" />
+		<rom name="Operation Thunder (Gottlieb) (1992) Screenshot (2.1).jpg" size="48937" crc="ce8143d3" md5="19677349334a5240d7921415e5ba957b" sha1="0fd12f7998fd9e859d4126fd5dad454f53d5096c" />
+		<rom name="Operation Thunder (Gottlieb) (1992) Screenshot (2.2).jpg" size="258135" crc="7ef4d2d9" md5="63ee3be3431353083c53b6c5fb945455" sha1="7b5cef8839ce03f54cc4c1f124dfe871d1acf73f" />
+		<rom name="Operation Thunder (Gottlieb) (1992) Script (2.1).txt" size="20828" crc="5df4b640" md5="c042e3fe1f8288f3bf12231b07ef0b91" sha1="10a685557e891949b5fd31d915f53856a5f7c78c" />
+	</machine>
+	<machine name="Star Trek (Bally)(1979)(Scapino)(1.1)[VP6]">
+		<description>Star Trek (Bally)(1979)(Scapino)(1.1)[VP6]</description>
+		<rom name="ScapinosStarTrekVPMv1_0.jpg" size="419773" crc="aebeb666" md5="eebd0724c0b48109d16842b1c386b4e7" sha1="3b0d25d591746a0ef337eb8e646ee4fc6060eaa9" />
+		<rom name="ScapinosStarTrekVPMv1_1.vpt" size="7892992" crc="031c66f2" md5="ab027d7fef5f26cf24cfd77e2a223f30" sha1="dc496b948b2692ebedb1a7979a610866298cf649" />
+		<rom name="ScapinosStarTrekVPMv1_1ReadMe.txt" size="1725" crc="d3449910" md5="62c9c4e32f786eeee83ddf47e617019d" sha1="2f08d1f783d9f97e7b4ad68d482a0c010a945007" />
+	</machine>
+</datafile>

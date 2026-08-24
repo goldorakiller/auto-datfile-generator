@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VPX07] PinMame Tables [Full Single Screen]</name>
+		<description>Visual Pinball [VPX07] PinMame Tables [Full Single Screen] (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="Addams Family, The (Bally)(1992)(Sliderpoint, g5k, 3rdaxis)(2.3.2)[VPX07][MOD FSS v2.6 Arconovum]">
+		<description>Addams Family, The (Bally)(1992)(Sliderpoint, g5k, 3rdaxis)(2.3.2)[VPX07][MOD FSS v2.6 Arconovum]</description>
+		<rom name="TAF_Clipboard 3 Day.png" size="3706764" crc="82383478" md5="a68d724b886ea9fb5a0540df5da0a697" sha1="8e46662a88187f35e5c58bf1e189730aaad6aa95" />
+		<rom name="TAF_Clipboard 3 Mid.png" size="3631971" crc="3d49b965" md5="08bbc4ac960eb05d3380b11235fdf06a" sha1="15ea91b4955f639f665b914b0db5e10957a56830" />
+		<rom name="TAF_Clipboard 3 Night.png" size="3376372" crc="eba20c9b" md5="29a3d70dfebf999f4f67d3cfb3f73686" sha1="c720d242b5293b47ab6ea391d075fe04e2699cd5" />
+		<rom name="The Addams Family (Bally1992) v2.3.2 R2.6[D&amp;N][FSS][DMD][CCX-PGI][SHD][10.7.2+].vpx" size="276762624" crc="e5d865aa" md5="1a349bc35c9ccf07578d94b225f9dfb2" sha1="bde1cdb7ccd8e1e14118dc0e5457f4747ee66ad4" />
+	</machine>
+	<machine name="Last Action Hero (Data East)(1993)(VPW, javier1515, ninuzzu, knorr, dark)(1.2)[VPX07][MOD FSS v2.6 Arconovum]">
+		<description>Last Action Hero (Data East)(1993)(VPW, javier1515, ninuzzu, knorr, dark)(1.2)[VPX07][MOD FSS v2.6 Arconovum]</description>
+		<rom name="Last Action Hero  Clipboard 1 Night.png" size="3529790" crc="bc9d9f36" md5="02a6db62b7faf66a4dc8367d5d4ff052" sha1="ae2ee53784e14b1ca52c448ca59403121597b622" />
+		<rom name="Last Action Hero (Data East 1993)v1.2R2.6[FSS][MODE1][DMD][10.7.2+].vpx" size="394346496" crc="1b11ed03" md5="3c8a688ac0cdf5f836d3f70e6a9adadc" sha1="6151321455b6b6349bf6e8d6433700cbccc47038" />
+	</machine>
+	<machine name="Tales from the Crypt (Data East)(1993)(VPW)(1.2.2)[VPX07][MOD FSS v2.6 Arconovum]">
+		<description>Tales from the Crypt (Data East)(1993)(VPW)(1.2.2)[VPX07][MOD FSS v2.6 Arconovum]</description>
+		<rom name="Tales from the Crypt (Data East 1993)v1.22R2.6[FSS][MODE1][DMD][10.7.2+].vpx" size="228052992" crc="a0559344" md5="e6745b6d172ae5aebca3310b7e2a49a4" sha1="c25fd0f4d013d1a3d47ccf43d63009e0f9001918" />
+		<rom name="Tales from the Crypt Clipboard 4 Night.png" size="4084468" crc="822e56a1" md5="fb5c571d33572a79be3200fa435795a4" sha1="d259d2c778dd3d18be89ad0b5f4e9229f14b31e6" />
+	</machine>
+</datafile>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP6] Original Tables</name>
+		<description>Visual Pinball [VP6] Original Tables (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="Afterburner (Subzero1970, Roland Scholz)(1.0)[VP6]">
+		<description>Afterburner (Subzero1970, Roland Scholz)(1.0)[VP6]</description>
+		<rom name="afterburner-redline.mp3" size="3934336" crc="43e6b573" md5="cd300d13670d25e2728344bcc3923d84" sha1="fa4cf49e95713f53284ee988fffc0a6b41bb3771" />
+		<rom name="afterburner.mp3" size="2561760" crc="a58a6e8d" md5="2a431bfd38cfd38d06fd4998ab72a695" sha1="ea015339596d1ae07aba87acd2020468b9510ce7" />
+		<rom name="Afterburner.vpt" size="2501632" crc="5a29e417" md5="5a48a8aec05504b8d922ebfe32125919" sha1="f5ff1d84119873b7a213b07594abbe85a2739e79" />
+		<rom name="screenshot.jpg" size="96990" crc="fca4ba9d" md5="7923ef5617d45295df53aa6ec2f6c22b" sha1="9014eab4b89418a6e0f6bbe1a348aeb1be166e88" />
+	</machine>
+	<machine name="Blake's 7 (Eala Dubh Sidhe)(RC1)[VP6]">
+		<description>Blake's 7 (Eala Dubh Sidhe)(RC1)[VP6]</description>
+		<rom name="old/Blake's 7 (Eala Dubh Sidhe)(RC1)[Tournament Edition].vpt" size="3330048" crc="73c68978" md5="79f6259eb7a6b6bc82fca66cdbedce8b" sha1="af75723d5ad65a62d12626853bd47e6164c727ea" />
+		<rom name="old/Blake's 7 (Eala Dubh Sidhe)(WIP2).vpt" size="2472448" crc="d8d39fd6" md5="d6f349f0d7fa7fb5f7ad3d9247c0c625" sha1="e1fd5aae0173caffe0d30d2433a3218d67742dc4" />
+		<rom name="Blakes Seven table notes.txt" size="2624" crc="3421bdb9" md5="43471ccfea8a7f1b02a985a112c1d46a" sha1="a3f2f1ba5ab03a710a25d275c9aaae54f32abbd7" />
+		<rom name="Blakes Seven.vpt" size="3326464" crc="d585a0e2" md5="c6d8a045b3a6be7c483ef62724623764" sha1="35edee02e4ce927caeacb1907881d3f0276d9e4b" />
+		<rom name="GOTHIC.ttf" size="61280" crc="f54af41b" md5="8917856b57da55472606a59f43b41588" sha1="035669a8e8a5b486c3300eb9ea7a6672bb7ac331" />
+		<rom name="screenshot.jpg" size="451430" crc="b8e02544" md5="62e9f2ee7ef256dd89395842b305d978" sha1="69c96acadfd1a0696b6854fa5f5b9e97b73a6493" />
+		<rom name="TRANA___.ttf" size="58232" crc="a65607b4" md5="66dc9095c3f6fb48dbe4874d7304ca47" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6" />
+		<rom name="WESTM.ttf" size="50312" crc="7ab2df32" md5="787588e6c611222861fa21b3ff9c12e4" sha1="8afe1419235c5a35a8c1b7f865e6f22a09929426" />
+	</machine>
+	<machine name="Crazy Loops (Schultz)(WIP14)[VP6]">
+		<description>Crazy Loops (Schultz)(WIP14)[VP6]</description>
+		<rom name="crazyloopsWIP14 schultz.jpg" size="102064" crc="2adb791c" md5="9a32833bc8b88349ecdf5dfc68cb4a8f" sha1="86772967921d384a20e172a7896f25e881e01f11" />
+		<rom name="crazyloopsWIP14.vpt" size="693760" crc="28bc5367" md5="a5acaaaf6de3ab26d653611159fada96" sha1="fab54ccb0739e6dfa81aa6e4223a7175d1b9fd30" />
+	</machine>
+	<machine name="Day of the Giants (Anthias)(1.0)[VP6]">
+		<description>Day of the Giants (Anthias)(1.0)[VP6]</description>
+		<rom name="dayofthegiants1.0.vpt" size="617472" crc="052b911b" md5="3e0a29a12a01a35b6fa32d1bea3c7113" sha1="76addb09ff06fb9d6415a7af655e26231d3c0ac1" />
+		<rom name="screenshot.png" size="1537550" crc="37c057a5" md5="a3886c61c0e854d0ecdab1c128356313" sha1="1308d825fe0e16b3229ccdd6ddc5d0bc45146224" />
+	</machine>
+	<machine name="Goblin Games (Anthias)(2.0)[VP6]">
+		<description>Goblin Games (Anthias)(2.0)[VP6]</description>
+		<rom name="gobl-in-games-screenshot.png" size="807424" crc="57b38530" md5="21c9f6eb3e075ebf3636864e4275f1f2" sha1="5c54354b9b7a43963a2b2ec0c5cc4e69e8f56d94" />
+		<rom name="Goblin Games V2.0.vpt" size="5605888" crc="d586c4ce" md5="af43498b72269a6e2dcb600414f0ef47" sha1="7c8402742323156da29fc79563c435c23413ab4c" />
+	</machine>
+	<machine name="Horse 'n Around (mrschultz)(WIP)[VP6]">
+		<description>Horse 'n Around (mrschultz)(WIP)[VP6]</description>
+		<rom name="horsenaround_WIP.vpt" size="203264" crc="d8020d29" md5="66df09b413b3b9b4c84b8db1894c2f21" sha1="1866a4dd509e253929662949789f03c3abb3ef4c" />
+	</machine>
+	<machine name="Inner City Life (Roland Scholz)(2.2)[VP6]">
+		<description>Inner City Life (Roland Scholz)(2.2)[VP6]</description>
+		<rom name="Inner City Life - Music Pack/Inner City Life - Main.mp3" size="4315536" crc="8fa11280" md5="df578d97724a34ba559c52beca49ed95" sha1="254901fad5388f381e7b442ffce8b1a923f19891" />
+		<rom name="Inner City Life - Music Pack/Inner City Life - Multiball.mp3" size="376128" crc="15dc1b48" md5="7b024cf239364f4599990dd8f223fcc6" sha1="80f0ae2a00dfe21b37ca2d30917eb7724c6bbbe4" />
+		<rom name="Inner City Life V2.52.txt" size="8315" crc="c1b3fc8f" md5="495b07f8e8665a8dd8e7a10b6b3ba04d" sha1="c5b8c438d1198863466d713ff0b2ce04793cee9c" />
+		<rom name="Inner City Life V2.52.vpt" size="3484672" crc="8bf24848" md5="40e3e405dd767a1373bcc2cb4edfc9f6" sha1="1a057f376345d914bfdfdb8757d38f1b0a68e33a" />
+	</machine>
+	<machine name="Jetsons, The (Stein)(630)[VP6]">
+		<description>Jetsons, The (Stein)(630)[VP6]</description>
+		<rom name="jetsons_music/jetsonsmainloop.mp3" size="1439033" crc="7bcc5cb8" md5="fffc6fbe54627fb69921d63893cc7528" sha1="3c99a3fa4987ce43ba8110f4b201cf5128eeb885" />
+		<rom name="jetsons_music/jetsonsmodes.mp3" size="334158" crc="7081ec20" md5="ddbd49987cff6efcea756ead3d653d43" sha1="adfddd04e84eb8dfcf748a2f9ac7eaedef013c4c" />
+		<rom name="jetsons_music/jetsonsmultiloop.mp3" size="285232" crc="2094be7e" md5="2f92497e62cc13de4100cf057002dd47" sha1="ffb4cb92c3e795fba677ef025a68024cb4071b5d" />
+		<rom name="capture.jpg" size="164709" crc="ea3ca0f5" md5="a7ded1fc878306965c4c74706e95e45f" sha1="45d78f2f5815d768110a9f51e3164248484366ee" />
+		<rom name="HandelGoth.ttf" size="33524" crc="9040b646" md5="5815c596d6baf88c0b8c19765d382fce" sha1="7b0893c85b01cd03b0d3283b937c19f8f4b3c2cb" />
+		<rom name="jetsons 630.vpt" size="6935552" crc="35e687dd" md5="a50c1406069f8c6abefb33d9683837de" sha1="44d8276de541df941748a237a60cd978f3db870d" />
+		<rom name="jetsons flyer.jpg" size="208196" crc="3a1ac1ee" md5="e3fef05b82b316ca346a1792a1928293" sha1="d658847ba5d17e24130a70254f74f79d7117f7bc" />
+		<rom name="jetsons history.txt" size="1457" crc="0a9ee71e" md5="407f4c0bfe404774aa5d5a164b358129" sha1="b6bf78d43954d5d0968e32e413bd5b7876cd43b8" />
+		<rom name="jetsons ruleset.txt" size="3465" crc="4c7083e6" md5="896048f3c1435fa715e4332d40922de1" sha1="e6c496063d2d8a30c31ddad84efbaccf36670728" />
+		<rom name="jetsons.ini" size="221" crc="90e1647c" md5="fcefff7c792232a58d925e92ed60c04a" sha1="d26a090e3fecdce1acd10aa9d012f3b19c86fe1e" />
+		<rom name="williamsfontwide.ttf" size="19304" crc="c3c010f1" md5="b2501f86b4d05becd30952e117c53de5" sha1="3b0458ab8b8679b760b3e177f5ab4ebd98001b2c" />
+	</machine>
+	<machine name="Man That's One Big Pig (Tii)(1.1)[VP6]">
+		<description>Man That's One Big Pig (Tii)(1.1)[VP6]</description>
+		<rom name="1.0/Big Pig.vpt" size="1357824" crc="cd22abc9" md5="1defe8225d4c75e5a7dd5b90fca59bbe" sha1="e07d1da8f89f8f081f9854aefd105b0f630556da" />
+		<rom name="1.1/Big Pig.vpt" size="1339904" crc="df44c1ea" md5="fa4164c12ef704fa710a1af8769d0f42" sha1="d316ab71b9279561b4ce4ecc8327afb1dfd85771" />
+		<rom name="Big Pig screenshot.jpg" size="89008" crc="efbdbf2e" md5="c0acd79a626f0cb1706b3fb52f41e86e" sha1="0cd74dab9c990d36482ebb9e6a11e890ba36a454" />
+	</machine>
+	<machine name="PIN-BOT 2002 (SER)(0.97a)[VP6]">
+		<description>PIN-BOT 2002 (SER)(0.97a)[VP6]</description>
+		<rom name="Pinbot 2002 (SER) (0.97a).vpt" size="12167168" crc="a22a7e50" md5="05bb5ff1e9d9a3f57637100886d97a5f" sha1="7af6193916052aabcb36d008f6fcc595b295fd69" />
+		<rom name="screenshot.jpg" size="65574" crc="d9f931cd" md5="0e441752cfa54825ca198728bf993108" sha1="4d004bf378d55ee3cb030aa98bda8b837cd07c54" />
+	</machine>
+	<machine name="Sirens of Titan, The (Anthias)(1.0)[VP6]">
+		<description>Sirens of Titan, The (Anthias)(1.0)[VP6]</description>
+		<rom name="screenshot.png" size="1632631" crc="9fa5a21f" md5="f40c9d3c53793e5d0dc8641214b6df21" sha1="1169ffced0abc014cb19e6ed154806fb10f8abc8" />
+		<rom name="SirensOfTitan.vpt" size="2810880" crc="8d3a9a76" md5="7198a8bc8989dd000f4b4784fb38bdc0" sha1="5fbcbe3d7bdde9b94bcdb8c4d15aba4d233735c6" />
+	</machine>
+	<machine name="War with the Gizmos (Anthias)(1.0)[VP6]">
+		<description>War with the Gizmos (Anthias)(1.0)[VP6]</description>
+		<rom name="LED.ttf" size="36440" crc="33c111f0" md5="ed7cfe0fd97f37e036bdf6f700bd3755" sha1="84e9673396e46832aa18a9bb7da020f807524dcb" />
+		<rom name="screenshot.png" size="1210778" crc="80172c70" md5="b9a4f8fd1d8727fd790f74472e95b70e" sha1="46ae00c8cf2781b54b083602c1563e84a1ae3611" />
+		<rom name="WarWithTheGizmos.vpt" size="1473536" crc="e9718524" md5="93839faf628f11c263f91bdf6b7ee5f7" sha1="37736501a48868e2ab22c7b7bcc3d577f81b0a24" />
+	</machine>
+	<machine name="Worm Holes (Al Rubin aka Rascal)(1.0.1)[VP6]">
+		<description>Worm Holes (Al Rubin aka Rascal)(1.0.1)[VP6]</description>
+		<rom name="screenshot.jpg" size="196546" crc="8714acd9" md5="a75d8c21d25120a7dc35e9fac1dfcb91" sha1="d11432620df38b4c3f92e54f71ecf77c33af42ae" />
+		<rom name="wormholes (unprotect) 1.0.1.vpt" size="6528512" crc="31cb387f" md5="47bbd4f24b301cc9803c1481e14d9169" sha1="1f33725c2d4dabd57c076b73a9e54b5cd5ee8a0f" />
+		<rom name="wormholes.vpt" size="6521856" crc="762e56e2" md5="dad2f60c19584ab451e2793e8e5b311e" sha1="fb912862c20e33135717b085ed507326c6a06956" />
+	</machine>
+</datafile>

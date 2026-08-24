@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP8] Original Tables [Flipperless]</name>
+		<description>Visual Pinball [VP8] Original Tables [Flipperless] (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="Big Ball Bowling (TAB, Destruk)(1.0)[VP8][Bowling]">
+		<description>Big Ball Bowling (TAB, Destruk)(1.0)[VP8][Bowling]</description>
+		<rom name="Big Ball Bowling.vpt" size="1377792" crc="738c3368" md5="a0631b83ef4bf901833492ee7c7e4271" sha1="618c83bec216cc4aec30c756dbe02b0c1549e6bc" />
+	</machine>
+	<machine name="Bingo Pinball (zzo38)(1.0)[VP8][Bingo]">
+		<description>Bingo Pinball (zzo38)(1.0)[VP8][Bingo]</description>
+		<rom name="Bingo Pinball (zzo38)(1.0)[VP8][Bingo].vpt" size="142336" crc="0df735ed" md5="290cb9f5e49118a81a27c19b6b703f55" sha1="141a7657ccd7f456d9af3cb59bc9c76f092ba455" />
+		<rom name="Bingo Pinball screenshot.png" size="107473" crc="23e309ca" md5="36b4f9d6be21ac2f6bc4ed55eb837d20" sha1="ccc3c2ca1cdcd0a9f61c498c06db379888003618" />
+		<rom name="license.txt" size="568" crc="5368fb66" md5="01e2524c48bfec32616f2446f0c664c2" sha1="375aab9a4481b622c5a7288d33ddabeeace50f1a" />
+	</machine>
+	<machine name="Block's Basketball (Jeff Block)(1.2p)[VP8][Others]">
+		<description>Block's Basketball (Jeff Block)(1.2p)[VP8][Others]</description>
+		<rom name="Fonts/alger.ttf" size="69504" crc="42bdc576" md5="2766d060d5ae2a1c102065956618af36" sha1="0f297993751d7709e60a9de21445a0b12030cdba" />
+		<rom name="Fonts/desdemon.ttf" size="54476" crc="69fc47f0" md5="7f91c468c9207bd7714bd29f46d9e28b" sha1="e8809e182499c8d49772c68f95247f3e8d54c8ae" />
+		<rom name="Fonts/mlsix.ttf" size="46864" crc="b67cae42" md5="83354c28e53518357444b8edc0e6c0ea" sha1="101d5b294f0bc1bd9544f7ab102085a7ecb2147f" />
+		<rom name="Music/Organ Charge, Crowd Cheering.wav" size="512684" crc="9dc43653" md5="803633212078a327db2a1c869c070dd6" sha1="ee596e1da5b336e54acb7b6da3aa1c2cade02064" />
+		<rom name="Block's Basketball - ReadMe v1.2.txt" size="4573" crc="0ac8fcfa" md5="f1c24c1103c4a226dc6e21ddc9878454" sha1="1b98a4d8d78609648325c8be08a0f4ca4dd41f4a" />
+		<rom name="Block's Basketball - v1.2p.vpt" size="2984960" crc="e74cd7a3" md5="c5d9747d6b7e4c33c720b2bf50dabbd8" sha1="8cacd757f5a1678600faac4998449f4b47adc049" />
+		<rom name="screenshot.jpg" size="72719" crc="d8baf88e" md5="47cd135d09814364a7d220a3d09baff3" sha1="ec645bac54fc4a7156805db376fc33f5335ce3db" />
+	</machine>
+	<machine name="Block's Bowling (Jeff Block)(1.0p)[VP8][Other]">
+		<description>Block's Bowling (Jeff Block)(1.0p)[VP8][Other]</description>
+		<rom name="Block's Bowling - ReadMe v1.0.txt" size="6137" crc="12600511" md5="1a66a342aa630135affbaaf1e08a8620" sha1="07dca48ab7f0f9734534e7b8c844edda09975f3d" />
+		<rom name="Block's Bowling - v1.0p.vpt" size="3045888" crc="15f8f09d" md5="2c70ba1dbbf8e31f825b9efa531a5c76" sha1="ddd08148dafa2a288526ffc79ec0424bd0719e00" />
+		<rom name="GoLong.ttf" size="6848" crc="056e4a65" md5="6a11ad5d20dd03075e163af15e6e8286" sha1="e81783fa3539807fea04be004305becdf21f2f71" />
+		<rom name="screenshot.jpg" size="69997" crc="cb905e6a" md5="af16f5800d849de9431bb0a73995c9f3" sha1="b4456f662339a1c52b1a4c08ed138c957e1f639d" />
+	</machine>
+	<machine name="Block's Quiz Show (Jeff Block)(1.0p)[VP8][Other]">
+		<description>Block's Quiz Show (Jeff Block)(1.0p)[VP8][Other]</description>
+		<rom name="Block's Quiz Show - ReadMe v1.0.txt" size="5230" crc="3a2242ea" md5="870e21c4203aa0e15b10a73ac100f7e6" sha1="d657808c20e275394ded3645b84bf8d3734ffbe3" />
+		<rom name="Block's Quiz Show - v1.0p.vpt" size="712192" crc="94f6a2fc" md5="edbf7e0a66efe696b1cfb688eba30e5d" sha1="0eed3da11a626f6ae2a92cbd11650869ef6281f7" />
+		<rom name="desdemon.ttf" size="54476" crc="69fc47f0" md5="7f91c468c9207bd7714bd29f46d9e28b" sha1="e8809e182499c8d49772c68f95247f3e8d54c8ae" />
+		<rom name="lsansuni.ttf" size="323980" crc="7e153d2e" md5="d7179850bdd2cfaf663c8254ea739e4d" sha1="db6014ff3defd38524999a69677de8387106fecc" />
+	</machine>
+	<machine name="Breakout! (Nottud)(1.0)[VP8][Game]">
+		<description>Breakout! (Nottud)(1.0)[VP8][Game]</description>
+		<rom name="Music/Temperature of loneliness.mp3" size="3133568" crc="c9f18f98" md5="b125735e77443663a6a459347324e2ef" sha1="aeb74625dedd0b8d8718d2140f7bfafe7df1fc5d" />
+		<rom name="Breakout! (Nottud)(1.0)[VP8][Game].vpt" size="7681024" crc="64c8694f" md5="3ff861f047dfcbc4cd2d63eae293f29d" sha1="8952a7b723119a84814260b187e743c9c819deb9" />
+		<rom name="Level Designer.exe" size="904192" crc="7a1df611" md5="e9bc2faecfda1bdb5a9bbd909f97cf69" sha1="5525a28344517deaa6902c381ad1f2458a7c1e48" />
+		<rom name="NewPicture10.jpg" size="53131" crc="7d0252cb" md5="3b5dff10cd0798ce926394ca9cb20654" sha1="3333775c909dfb3a9023de20afd70da6e2deaa15" />
+		<rom name="readme.txt" size="2427" crc="0b76be31" md5="460935b3ab61e95580be7c0a7e35d952" sha1="cf9dfe4706a25f82905952a22488ded5745942c1" />
+	</machine>
+	<machine name="Future Foosball (2006)(Rascal)(1.1a)[VP8][Other]">
+		<description>Future Foosball (2006)(Rascal)(1.1a)[VP8][Other]</description>
+		<rom name="Future Foosball (Rascal)(1.1a)[VP8][Other].vpt" size="5313024" crc="238671f4" md5="95f0a2f22bc451c7072178e4160f71e9" sha1="4eef3c0ecf3900370cf37357052a9ffb6e7fe140" />
+	</machine>
+	<machine name="Great OX (Block 2006)(1.0p)[VP8][Other]">
+		<description>Great OX (Block 2006)(1.0p)[VP8][Other]</description>
+		<rom name="Great OX - ReadMe v1.0.txt" size="9907" crc="54c927d1" md5="72a5596fc0f7fe961819ef067922ca83" sha1="fcc1c394e32ccc2e1e63636eb81fab6ffc6b0dfc" />
+		<rom name="Great OX Flyer.bmp" size="921654" crc="b7d5b4de" md5="a551e81e57001700afb684f79c199bc3" sha1="6aa374b5d77167f28765423eadbc98a6348fb71f" />
+		<rom name="Great OX screenshot.gif" size="157782" crc="6f6d85d1" md5="1c416fcf285223ae35a7ef35cb756321" sha1="c3ce06350e190c9ac981cc8a081e8d6f85df4f02" />
+		<rom name="Great OX v1.0p (Block 2006).vpt" size="2546688" crc="9dfe63f4" md5="c545131b26109f54c5273a0a96f2b8e7" sha1="1d23d54fffff5a878e9f0effb01697d919f158b6" />
+	</machine>
+	<machine name="Hell's Well (Block 2006)(1.1p)[VP8][Flipperless]">
+		<description>Hell's Well (Block 2006)(1.1p)[VP8][Flipperless]</description>
+		<rom name="1.0/Hell's Well - ReadMe v1.0.txt" size="5313" crc="565b26ad" md5="afbef178502c6d3ecc26a48f32ad12bd" sha1="af1ace1f04d786256529f7b6108fb5a3afcec8b5" />
+		<rom name="1.0/Hell's Well v1.0p (Block 2006).vpt" size="2214912" crc="381af98e" md5="a49d7c4770790b9d7fbd272e81c256e1" sha1="bebe7cf0c4bc475744f0785c31f4c5eb6d0ec6aa" />
+		<rom name="1.1/Hell's Well - ReadMe v1.1.txt" size="6447" crc="5c904257" md5="5e5dd16e5e0dc94d4b83468a08f31004" sha1="8b59c6e336fbc569f85c3cf6a46194c2416e4d75" />
+		<rom name="1.1/Hell's Well v1.1p (Block 2006).vpt" size="4970496" crc="551d6842" md5="f480a256c8ebbb3886d5596c02a940b3" sha1="dcc3b614ed7a78013233a4ffbdf690393d055653" />
+		<rom name="mlshq.TTF" size="84638" crc="6cb17ca4" md5="d78ef886536462c34f0a7dd2f8459b8e" sha1="0631fa1078ff0b3b446066f06f0bdf46a34b9de2" />
+		<rom name="screenshot.jpg" size="107030" crc="4dd8aeb3" md5="af90a4995396142b67cc10f8e0d2a022" sha1="5b2823f2c0e450c639718d341bc38ff00a13bbbb" />
+	</machine>
+	<machine name="Magic 7 (Koral)(1.0)[VP8][Slot Machine]">
+		<description>Magic 7 (Koral)(1.0)[VP8][Slot Machine]</description>
+		<rom name="important.txt" size="450" crc="7b687281" md5="569157cb86b949012ba9a53a98d42dd8" sha1="afffb936cba804e1c4864992a38a57c8e334a686" />
+		<rom name="Magic 7 (Koral)(1.0)[VP8][Slot Machine].vpt" size="9561088" crc="b050b1d2" md5="d8751f469ba8b496375e7e75ab9c2cba" sha1="3efd6e66c3a0e4fb1c9d8032bb32cc919a2b6489" />
+		<rom name="Magic 7 screenshot.jpg" size="144658" crc="24918d0e" md5="eada0efcace6d44902ceaeb51b08f9b2" sha1="b6657c42ee9f91a7ac0d63bd38f6b7354c7ac445" />
+	</machine>
+	<machine name="NASBAL Slot Car Racing (Jeff Block)(1.01p)[VP8][Other]">
+		<description>NASBAL Slot Car Racing (Jeff Block)(1.01p)[VP8][Other]</description>
+		<rom name="desdemon.TTF" size="54476" crc="69fc47f0" md5="7f91c468c9207bd7714bd29f46d9e28b" sha1="e8809e182499c8d49772c68f95247f3e8d54c8ae" />
+		<rom name="mlsgq.TTF" size="46657" crc="92717206" md5="8492b692963736b7bf7fad23f4d04555" sha1="3452682c6c397f8d50dd37db7282e9905eaa0a78" />
+		<rom name="NASBAL Slot Car Racing - ReadMe v1.01.txt" size="5691" crc="aab7ab65" md5="dd09205725309e5a0f45aa3412812446" sha1="e356156d188417bf3ee416c53d23f14c7c7f27f0" />
+		<rom name="NASBAL Slot Car Racing - v1.01p.vpt" size="619008" crc="21f95213" md5="f83c48eef53bc2a9bcea516b8f0e4840" sha1="da133414907ae263b908314671657360e6cacdce" />
+		<rom name="screenshot.jpg" size="71680" crc="2db3462a" md5="88fe83aa419cf7056970b7573a582ff2" sha1="bd8444f19b6307503deba3d5e0668bd46f45dbda" />
+	</machine>
+	<machine name="Over the Edge (Block 2006)(1.1p)[VP8][Flipperless]">
+		<description>Over the Edge (Block 2006)(1.1p)[VP8][Flipperless]</description>
+		<rom name="1.0/Over the Edge - ReadMe v1.0.txt" size="5465" crc="d961e87f" md5="94411e7eaefff53e5f021b945ef104b1" sha1="fd91e20ba393720d9f6b02eb0330bce2725b367a" />
+		<rom name="1.0/Over the Edge v1.01 (Block 2006).vpt" size="1445888" crc="6918cd71" md5="1868e19316a4f47aaada949ea4fb522e" sha1="a5a17c348ee4b47ebec4919f38e1c6a43dbbadf4" />
+		<rom name="1.0/Over the Edge v1.01p (Block 2006).vpt" size="1446912" crc="92f83a90" md5="dfb78478df6e2723fdcb3c7f4c3c738b" sha1="1421b95285e8d63cea01164f45ea572b255eeb39" />
+		<rom name="1.1/Over the Edge - ReadMe v1.1.txt" size="5981" crc="d1d795b2" md5="679269764f480dd8d6866e68136097e3" sha1="6ffb47f1541e9b19767a55a79a2295dd799e2e70" />
+		<rom name="1.1/Over the Edge v1.1p (Block 2006).vpt" size="1448960" crc="37414384" md5="05aebb184d6ffeb776a0b803f5f63172" sha1="10ca0f7b4cb797eef94488ad6f08a6faabe0da34" />
+		<rom name="Fonts/arial.ttf" size="367112" crc="34bad949" md5="5995c725ca5a13be62d3dc75c2fc59fc" sha1="056d20ac56be76d076480c2cab53811fefb91b73" />
+		<rom name="Fonts/arialbd.ttf" size="352224" crc="44068765" md5="ce4244a1fb311a47a5949948b2dc4eab" sha1="362b1fdf5cf78f14d03a5275c4b2f95cca10e54b" />
+		<rom name="Over the Edge screenshot.jpg" size="143851" crc="89a72193" md5="a3f31a0e8d59a6ebda50370c15e2fb2a" sha1="8c3fb2f5b28584d24c4530d478c6a1c24e112d39" />
+	</machine>
+	<machine name="Play Ball (Carl W. Kemp III)(v1)[VP8][Other]">
+		<description>Play Ball (Carl W. Kemp III)(v1)[VP8][Other]</description>
+		<rom name="Fonts/BANGLCOB.ttf" size="49080" crc="74def93e" md5="a2a099dad0d7a72f18073c51f2d6a020" sha1="cdbd6f589fe7d30ba2d18c5ab156ab75ddebb383" />
+		<rom name="Fonts/BANGLCOI.ttf" size="52828" crc="93dc9eaf" md5="81a3047c633b6b803fb4266055d1300a" sha1="19dda3459c960641a9d1f8910a69332fe1d0618d" />
+		<rom name="Fonts/BANGLCOR.ttf" size="47996" crc="1dac58f0" md5="8b63d01b673f667b5f90ec9e664c9c87" sha1="cd99ff91197bc4857137e337c7d7d218150e22f9" />
+		<rom name="Fonts/BANGLCOZ.ttf" size="53920" crc="380028dd" md5="3bb9bcef7d4d3c50074e5b588dd25a31" sha1="5fc2800656702e432ad7b55015c6eb65656c3c09" />
+		<rom name="Fonts/CIRCB___.ttf" size="59104" crc="f5ece37f" md5="c36253224bf01b20484ca6c41e016d59" sha1="00ea84cebde11dc60346d5f6f7b69a59f1801ea6" />
+		<rom name="Fonts/CIRCN___.ttf" size="57264" crc="4ae9b060" md5="a4176e9c19637721146670bd085521e4" sha1="243ac6e03988f576027e5ae600e63446c81033e5" />
+		<rom name="Fonts/CIRCWN__.ttf" size="60080" crc="e8e83feb" md5="5683f960a3c9b18e5fe06ca809473f6c" sha1="0af3c6995b078de9fb6ac9932e966f1b3a1d3689" />
+		<rom name="Play Ball (Carl W. Kemp III)(v1)[VP8][Other].vpt" size="5674496" crc="023300ed" md5="25b3305102aaf1d133c7c7d800a540d7" sha1="53c8cb7012ee8f41b68548eb2257344e70e9f8ee" />
+		<rom name="Play Ball screenshot.jpg" size="65076" crc="c3be3b31" md5="9a50eda4176f0420ce8b3bb3278f4cb5" sha1="a4c0723f887413e8a11b20da7b74c5cb567ae946" />
+	</machine>
+	<machine name="Reactions Bagatelle (tiltjlp)(2010)[VP8][Bagatelle]">
+		<description>Reactions Bagatelle (tiltjlp)(2010)[VP8][Bagatelle]</description>
+		<rom name="Reactions Bagatelle (2010) screenshot.jpg" size="614558" crc="aef48804" md5="451f36c6f82665808a0978aeb9edff00" sha1="dc17692911f0a58a8e70c36168379db45354801e" />
+		<rom name="Reactions Bagatelle (tiltjlp)(2010)[VP8][Bagatelle].vpt" size="1132032" crc="bb22380b" md5="e8e1fc0afb4e6d62b43faf05208f6d5c" sha1="39d866cd415a4b9f0b43b2a74d920620ddaa047e" />
+	</machine>
+	<machine name="Silver Shift (Block 2007)(1.0p)[VP8][Flipperless]">
+		<description>Silver Shift (Block 2007)(1.0p)[VP8][Flipperless]</description>
+		<rom name="arial.ttf" size="367112" crc="34bad949" md5="5995c725ca5a13be62d3dc75c2fc59fc" sha1="056d20ac56be76d076480c2cab53811fefb91b73" />
+		<rom name="arialbd.ttf" size="352224" crc="44068765" md5="ce4244a1fb311a47a5949948b2dc4eab" sha1="362b1fdf5cf78f14d03a5275c4b2f95cca10e54b" />
+		<rom name="ariblk.ttf" size="117028" crc="e67c3fa1" md5="3e7043e8125f1c8998347310f2c315bc" sha1="49560b47dac944923a6c918c75f27fbe8a3054c5" />
+		<rom name="screenshot.jpg" size="178336" crc="0477e366" md5="eedc76d4600efc9940428a13f2425a45" sha1="d6b16482c40af958c918abe658cd3995bd8c368d" />
+		<rom name="Silver Shift - ReadMe v1.0.txt" size="5081" crc="51567ed5" md5="79c238ad8310dd61fccd7beca88e5684" sha1="67763e1cc2e5f7c5c25da3506f01fb64dcff6a50" />
+		<rom name="Silver Shift - v1.0p (Block 2007).vpt" size="1360384" crc="9db58528" md5="24d8293c8fd00b33a909b084021b2056" sha1="ef5727107d5390360b82b03844d94d998b0a0fa6" />
+	</machine>
+	<machine name="Sky Carnival (Block 2006)(1.0p)[VP8][Flipperless]">
+		<description>Sky Carnival (Block 2006)(1.0p)[VP8][Flipperless]</description>
+		<rom name="edda.ttf" size="101336" crc="e9382d32" md5="717b72430f8dae8679ec2298a5f7e657" sha1="a75e1075ae90a3248513f69125fe41e5b116d692" />
+		<rom name="Jokerman.ttf" size="69752" crc="dc5bd5fd" md5="eec0608ff80827a878d7da11b3b71857" sha1="9fa168c738ae51b034bbc6941c8bb9e7cb009da1" />
+		<rom name="screenshot.jpg" size="104155" crc="3d295247" md5="e5ac2452766d05296f2694c95698cf27" sha1="cc31a8443b34ca8c7d7f56200cc85dec2277bc0a" />
+		<rom name="Sky Carnival - ReadMe v1.0.txt" size="4740" crc="0abc9100" md5="651bc903f2105e99e88517fb58001c7b" sha1="6bb99a96bf3f31ccb89e6117cdeaafd318f383bd" />
+		<rom name="Sky Carnival - v1.0p (Block 2006).vpt" size="2487808" crc="eb6dc636" md5="729a63c8d59ab010526ba460a53d239c" sha1="51788f85422808d5c4f7a4f93312ea5f0b37dcc9" />
+	</machine>
+	<machine name="Snuffy 2 (Tii)(1.0 Warning)[VP81][OTHER]">
+		<description>Snuffy 2 (Tii)(1.0 Warning)[VP81][OTHER]</description>
+		<rom name="Fonts/scifie.ttf" size="33356" crc="d9b3cb23" md5="b19cbee800dac7a126da1b16969f0d8f" sha1="85ba9b92185560ce6a0ad66e1e8c85e04bea31fb" />
+		<rom name="Snuffy 2 (Tii)(1.0 Warning)[VP81][OTHER].vpt" size="2696704" crc="18799e74" md5="4e32f3baf2eee7ef2b764bd383c89ef6" sha1="5583f2bcac2faf6bf0e05121def147d6ee828ec8" />
+		<rom name="Snuffy 2 screenshot.jpg" size="132154" crc="75652c6b" md5="dd68d0cd9172281e0f6f92914e41f378" sha1="cc4bada48f1922f00bfc3c7fe0990ba4f456a311" />
+	</machine>
+	<machine name="Super Aquanoid (zzo38)(1.0)[VP8][Arcade Game]">
+		<description>Super Aquanoid (zzo38)(1.0)[VP8][Arcade Game]</description>
+		<rom name="Super Aquanoid (zzo38)(1.0)[VP8][Arcade Game].vpt" size="687104" crc="b79328d2" md5="fc88166fd144181c411f7245a3b6a396" sha1="754ae6216ab9946a22c41fe37ddaa2a70b52ec74" />
+		<rom name="Super Aquanoid screenshot.png" size="201884" crc="8ffff78e" md5="59f31ead9ffefee1cbacdd390d12d3a7" sha1="5cdb9a2b5105e2a5f966f405a6c6d000da8f5d27" />
+	</machine>
+	<machine name="Weather Interface 3 (PunkyBoy05)(1.00)[VP8][Other]">
+		<description>Weather Interface 3 (PunkyBoy05)(1.00)[VP8][Other]</description>
+		<rom name="Weather Interface 3 (PunkyBoy05)(1.00)[VP8][Other].vpt" size="1617408" crc="a7535445" md5="6e13f7bb4565ba93ad6321ffb03d84b5" sha1="f2959c52f4d1b396650b36173f07c450819b5fc1" />
+		<rom name="Weather Interface 3 screenshot.jpg" size="40451" crc="8b96706e" md5="403eb8764061d6e6dc16fada118e6f35" sha1="4a1392c4329dcf8079260214a059f76e19be8fdd" />
+	</machine>
+	<machine name="World Cup 2010 - Hat Trick (Wizards_Hat)(1.01)[VP8][Flipperless]">
+		<description>World Cup 2010 - Hat Trick (Wizards_Hat)(1.01)[VP8][Flipperless]</description>
+		<rom name="World Cup 2010 - Hat Trick (Wizards_Hat)(1.0)[VP8][Flipperless].vpt" size="7284736" crc="52161be3" md5="a80ad2cf9b6e370fd980b93c243fd19f" sha1="db3e15fc359e2eedb7dbc40564a1da0fe4fdf961" />
+		<rom name="World Cup 2010 - Hat Trick (Wizards_Hat)(1.01)[VP8][Flipperless].vpt" size="7284736" crc="bfe9a290" md5="c68d61e85eee6600e4b3986ddbcf875c" sha1="ae74d9453c570c35784ec0f61b90855d5e073336" />
+		<rom name="World Cup 2010 - Hat Trick screenshot.jpg" size="165870" crc="df609080" md5="534f0b73bb3f82d8940d6691890ad46d" sha1="10cdd48b2081f4f5acc4c7bffb549f0eae4d5bb2" />
+	</machine>
+</datafile>

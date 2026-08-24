@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP91x] Recreated Tables</name>
+		<description>Visual Pinball [VP91x] Recreated Tables (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="4 Roses (Williams)(1962)(Redswal, Romolo)(1.1)[VP912]">
+		<description>4 Roses (Williams)(1962)(Redswal, Romolo)(1.1)[VP912]</description>
+		<rom name="4 Roses  (Williams 1962)VP912_v1.1.jpg" size="369043" crc="7952ed82" md5="8fe16f554cd52950a01bc5c2bc0e288d" sha1="216af0d2c179900db5ad85246379e3656087ca8b" />
+		<rom name="4 Roses  (Williams 1962)VP912_v1.1.vpt" size="4313088" crc="3718f0d9" md5="30dab21fb7415dcfa58d0835ec082ada" sha1="c2f259ba914abec8b630bafb18759d71d12c1fe1" />
+	</machine>
+	<machine name="Ace High (Gottlieb)(1957)(Furio)(1.42)[VP914]">
+		<description>Ace High (Gottlieb)(1957)(Furio)(1.42)[VP914]</description>
+		<rom name="Ace High (Gottlieb 1957) 1.41.vpt" size="4054528" crc="f5aaa4a8" md5="aaccdce778c1478535a95f83ba2c7124" sha1="287238af4ab3d8d81ce4938aa5752403de7f41c0" />
+		<rom name="Ace High (Gottlieb 1957) 1.42.vpt" size="4061184" crc="9f172aae" md5="ab867c8b80201b98e525aba7dc70cef1" sha1="795513db81df95b72538503682afafe3ed63dafa" />
+		<rom name="Ace High rules.jpg" size="80176" crc="b83202c4" md5="4a8c401b2e0ce4c3b42c994c943e5af0" sha1="79a7bdb982b051044966e35ba314ebcc82445adb" />
+		<rom name="Ace High screenshot.jpg" size="165815" crc="f4ce7799" md5="a4d614e4ec1e6c8c85455e0b3e5c249a" sha1="fa316ff03059ab4a6679ef5bcf0ca7862959057a" />
+	</machine>
+	<machine name="Ali Baba (SEGA Enterprises)(1973)(Romolo)(2.0)[VP912]">
+		<description>Ali Baba (SEGA Enterprises)(1973)(Romolo)(2.0)[VP912]</description>
+		<rom name="Ali Baba (SEGA Enterprises)(1973)(Romolo)(1.0)[VP912].vpt" size="4599808" crc="da2f5841" md5="2d1a95a06f055dec8eb13a4bb205e89e" sha1="2903095b26a7ec0c77a2087fe9e68a64c40498b0" />
+		<rom name="Ali Baba (Sega Enterprises, Ltd 1973)V2.0.vpt" size="5263360" crc="ab607370" md5="bbdab90f70c082d613e253e299595070" sha1="88297c6ce992b8f924f1dcbc949d18996beebb47" />
+		<rom name="Ali Baba (Sega Enterprises, Ltd 1973)V2.jpg" size="124437" crc="5c8be78c" md5="eeb16617ec59c5441ac9c37d10f0058b" sha1="d316f4fad702fcc0acb798afa0dd2d5806985ef7" />
+	</machine>
+	<machine name="Astro (Gottlieb)(1971)(eduguitar72)(1.0)[VP912]">
+		<description>Astro (Gottlieb)(1971)(eduguitar72)(1.0)[VP912]</description>
+		<rom name="Astro (Gottlieb)(1971)(eduguitar72)(1.0)[VP912].vpt" size="4456448" crc="e194a0e1" md5="f28022d2183a0cddda9aa372176c40e6" sha1="b7b76c24daaa73f6bb305539a45cc73551f4697a" />
+		<rom name="Astro screenshot.jpg" size="533776" crc="27950e2a" md5="88497ee975c1b89547048fa47fd58aae" sha1="371f0fcccfbc0f142f6e647572f208dff0d5d211" />
+	</machine>
+	<machine name="Auto Race (Gottlieb)(1956)(Furio)(2.4)[VP915]">
+		<description>Auto Race (Gottlieb)(1956)(Furio)(2.4)[VP915]</description>
+		<rom name="1.6/Auto Race (1.6) screenshot.jpg" size="587015" crc="a947385c" md5="9f4bdb9dd0f167cb14a723e06581d766" sha1="c9ff08a45e6aefa8b330bcf1765c149f03b2ca22" />
+		<rom name="1.6/Auto Race (Gottlieb)(1956)(Furio)(1.6)[VP912].vpt" size="2940928" crc="7bbdf2da" md5="a415c8bdc048f52cb0343dc71ac059e2" sha1="99898e7e27443239de801e6517d0069dc874324e" />
+		<rom name="2.1/Auto Race (2.1) screenshot.jpg" size="151170" crc="6c5a61ad" md5="fca722a5aaf8d6c5a22b2311fdd34ba3" sha1="3175e9b8b6f3116e75694326f1dd56ee37b72684" />
+		<rom name="2.1/Auto Race (Gottlieb)(1956)(Furio)(2.1)[VP912].vpt" size="4153344" crc="ba93c2e5" md5="a16b7e1dec06258fba2e2c647ea6d130" sha1="9c31b53ec1980a480a42066153e28a653553d208" />
+		<rom name="2.2/Auto Race (2.2) screenshot.jpg" size="148836" crc="fdf93191" md5="243fed4929820725d916b0a0f1629b70" sha1="9a939c7ff1bdc0fa90021566b1ec5fe364649201" />
+		<rom name="2.2/Auto Race (Gottlieb)(1956)(Furio)(2.2)[VP915].vpt" size="7523840" crc="5cf781b3" md5="2a4bebb0ed1f116d57d4d2fb9363f2a7" sha1="d845e586bf9a0521b6233ae06e38e34294e8689d" />
+		<rom name="2.3/Auto Race (Gottlieb)(1956)(Furio)(2.3)[VP915].vpt" size="4121600" crc="10d93739" md5="ef5aa8e626513595a65b96ed4bef4e06" sha1="e5b7e188792c8583920e52cb30dde0e71c9e9d02" />
+		<rom name="2.3/Auto Race Rules.JPG" size="35245" crc="d1a0dbf7" md5="6641833e624be4eadef00ae16f1f4935" sha1="f909f12b9159c90f77ec840e87f4e914d25ba874" />
+		<rom name="2.3/Auto Race screenshot.jpg" size="145807" crc="18bef573" md5="c6da61f2f4aaded0c7b79687d3fbf8a1" sha1="c215622f0ae087495f638bd7ff81fc6f45715e4e" />
+		<rom name="2.4/Auto Race (Gottlieb)(1956)(Furio)(2.4)[VP915].vpt" size="3776512" crc="ed6bd6b4" md5="96fad8d3eb2f2c5bd69bbf83b255764b" sha1="c166a6b5c416260a823a4a34c6284e13c4f5431b" />
+		<rom name="2.4/Auto Race screenshot.jpg" size="147668" crc="fb7a8b87" md5="4ca338b22b4beae0301982f6ddd3b924" sha1="2a1e208fcfe74ba59bb580eec3b3978879ed3cf8" />
+	</machine>
+	<machine name="Bally's Rocket (Bally)(1947)(Romolo)(1.0)[VP912]">
+		<description>Bally's Rocket (Bally)(1947)(Romolo)(1.0)[VP912]</description>
+		<rom name="Bally's Rocket (Bally)(1947)(Romolo)(1.0)[VP912].vpt" size="5660672" crc="20c5ba04" md5="56a93d8cf7c823b68f465ac308b6ca2f" sha1="6d00dc9d4ec61676132abb91c000fc6e080fe0c6" />
+		<rom name="Bally's Rocket screenshot.jpg" size="131804" crc="f044acd6" md5="aeb8d0b419865dd9afff05a55eda95a7" sha1="d56ec4409c90959567d8c649d5e51c6100de82a8" />
+	</machine>
+	<machine name="Barnacle Bill (Gottlieb)(1948)(Romolo)(1.0)[VP912]">
+		<description>Barnacle Bill (Gottlieb)(1948)(Romolo)(1.0)[VP912]</description>
+		<rom name="Barnacle Bill (Gottlieb)(1948)(Romolo)(1.0)[VP912].vpt" size="2785280" crc="06520cb0" md5="44715bfe36ec26cf6aaaaf85415f155c" sha1="19676d7ac0eda3116f76474a834696bc061a26d3" />
+		<rom name="Barnacle Bill screenshot.jpg" size="136864" crc="a8efa1de" md5="9698a79c9f731b0a4e33ee54a6e3c120" sha1="a49f66207f3272bce29f1d1d3081871857ac6516" />
+	</machine>
+	<machine name="Beatles, The - Yellow Submarine (Playmatic)(197x)(JPSalas)(beta1)[VP91x][mod by Maceman v1.0]">
+		<description>Beatles, The - Yellow Submarine (Playmatic)(197x)(JPSalas)(beta1)[VP91x][mod by Maceman v1.0]</description>
+		<rom name="Beatles, The - Yellow Submarine (Desktop) screenshot.jpg" size="1073628" crc="edc310b0" md5="46ce14578eedd0960bea4883485a8b64" sha1="e5a764d80ea183aec3bf8115b78a0de3347cf52d" />
+		<rom name="Beatles, The - Yellow Submarine (Playmatic)(197x)(JPSalas)(beta1)[VP91x][mod by Maceman v1.0].vpt" size="49225728" crc="fc18307e" md5="53eb13bf9e10a54a68812e2a5331114c" sha1="c631b646e68ee76658f63657c42bede249c522e3" />
+	</machine>
+	<machine name="Big Brave (Maresa)(1974)(JPSalas)(1.1.2)[VP915][dB2S]">
+		<description>Big Brave (Maresa)(1974)(JPSalas)(1.1.2)[VP915][dB2S]</description>
+		<rom name="1.0.0/Big Brave (1.0.0) screenshot.jpg" size="637439" crc="a224eae8" md5="9e0b8ad36db58c30784b28530c96d436" sha1="2f25ff165c9b6e47b6895fb934cf64ed59b5ae98" />
+		<rom name="1.0.0/Big Brave (Maresa 1974).vpt" size="21540864" crc="d221c1e0" md5="3668481998b313fcda0f7d31500a30cc" sha1="da91f8736a1c83184a5473143925b3758e8cf217" />
+		<rom name="1.1.0/Big Brave (1.1.0) screenshot.jpg" size="634369" crc="b38caaa2" md5="6cef8a97521dbd61beaf0b12d1345ed2" sha1="b91e05b78e255ef989784369f1a937cce556c17c" />
+		<rom name="1.1.0/Big Brave (Maresa 1974).vpt" size="22114304" crc="db22b7d4" md5="e59b2d39728391dc8e87f1de42875a4b" sha1="f6ca463dc5a38e4822120ec800ad4d013881ea1d" />
+		<rom name="1.1.1/Big Brave (Maresa 1974).vpt" size="22114304" crc="71078a94" md5="60451af43a44a12fc28c13a02bab4992" sha1="9acbc786c16497720648af40c181afb8260c6eb3" />
+		<rom name="1.1.2/Big Brave (Maresa 1974).directb2s" size="17640488" crc="cbcd861a" md5="b8f8ec9d86f63f3202c9177cec0167f4" sha1="00db70f9ace1eeaafe8b0da5c76dcfea458e752f" />
+		<rom name="1.1.2/Big Brave (Maresa 1974).vpt" size="22122496" crc="b19843ed" md5="89dc3e687e7e8d6ed332ec6cb6d0e749" sha1="27fb6cc6e68570809ae14320711a8c1127271d98" />
+		<rom name="1.1.2/bigbrave_pf.jpg" size="229438" crc="f842f536" md5="22bfca9aa80ba823640701e965d7c15e" sha1="31750990db50a732c1261b8f0d8cc9d831387d85" />
+	</machine>
+	<machine name="Big Daddy (Williams)(1963)(Leo Wanker, Humid)(1.0)[VP91x]">
+		<description>Big Daddy (Williams)(1963)(Leo Wanker, Humid)(1.0)[VP91x]</description>
+		<rom name="Big Daddy (Humid) screenshot.jpg" size="336332" crc="aaf6a4b2" md5="896eb8108b3d5c47a111aa252c72ac34" sha1="23379120e2a233b5599a2b474f8bf209457c3193" />
+		<rom name="Big Daddy (Williams)(1963)(Leo Wanker, Humid)(1.0)[VP91x].vpt" size="11210752" crc="aa3896c6" md5="253040f5daf5873b79f19a3836ef0992" sha1="e2f826f6f286c5ec2791d16dfa27076427842f7b" />
+	</machine>
+	<machine name="Big Horse (Maresa)(1975)(eduguitar72)(1.1)[VP912]">
+		<description>Big Horse (Maresa)(1975)(eduguitar72)(1.1)[VP912]</description>
+		<rom name="Big Horse (Maresa)(1975)(eduguitar72)(1.0)[VP912].vpt" size="2760704" crc="69492e35" md5="78e73ad6967c515ecb838f493d48a526" sha1="0fed4b7f9041e3b0ef82f8fa0395dc69d608300b" />
+		<rom name="Big Horse (Maresa)(1975)(eduguitar72)(1.1)[VP912].vpt" size="2772992" crc="43d326ab" md5="8e7e7c1704405ff72f10a4394e37be33" sha1="fdb0ff7150a9b0735f7c790a18c137efa8e8806e" />
+		<rom name="Big Horse screenshot.jpg" size="497482" crc="25d311a2" md5="b1b358a9b06556072c65c3d23e9f065a" sha1="493443571327ce2b615aa7036f1800586fb244de" />
+	</machine>
+	<machine name="Big Show (Bally)(1974)(eduguitar72)(1.0)[VP916]">
+		<description>Big Show (Bally)(1974)(eduguitar72)(1.0)[VP916]</description>
+		<rom name="Big Show (Bally)(1974)(eduguitar72)(1.0)[VP916].vpt" size="4583424" crc="b84e6ab3" md5="3be0b85f52d6d5ac9f768d8f6af75b7b" sha1="51c27bb9cf2aa719d26e0776cd1cca6f031e6fee" />
+		<rom name="Big Show screenshot.jpg" size="598795" crc="8db2c245" md5="573489a3c51847db8784e7180760123a" sha1="33f50afc0a10d6576e386076d3c811fdbc4bce90" />
+	</machine>
+	<machine name="Bronco (Chicago Coin)(1963)(Redswal, Romolo)(1.1)[VP912]">
+		<description>Bronco (Chicago Coin)(1963)(Redswal, Romolo)(1.1)[VP912]</description>
+		<rom name="Bronco (Chicago Coin)(1963)(Redswal [VP8], romolo2002)(1.1)[VP912].vpt" size="7917568" crc="587897a4" md5="e1f1f605d00421ba98ff7b1bb0b3f059" sha1="b498c4d2389fd512907fab3d9ce6420e4d193e86" />
+		<rom name="Bronco rules.jpg" size="100635" crc="0501932f" md5="c85d88482cedcd98fbed5d07c5f31bc6" sha1="78a3276d9362991f85900e1751dd4eb4aef2e977" />
+		<rom name="Bronco screenshot.jpg" size="336442" crc="256ec683" md5="1256aa46f7596176408a84748ef656f5" sha1="8d43f4936585f0bff8388803e4dd152d6fb3a0e8" />
+	</machine>
+	<machine name="Cabaret (Recreativos Franco)(1975)(eduguitar72)(1.2)[VP912]">
+		<description>Cabaret (Recreativos Franco)(1975)(eduguitar72)(1.2)[VP912]</description>
+		<rom name="Cabaret (Recreativos Franco)(1975)(eduguitar72)(1.0)[VP912].vpt" size="2846720" crc="f80dcd79" md5="d1cb8bc3974a681f199ebefb0053def9" sha1="e295c733c07fdc0ad3fdd97ab3cc5c81ffa928df" />
+		<rom name="Cabaret (Recreativos Franco)(1975)(eduguitar72)(1.1)[VP912].vpt" size="2826240" crc="92738906" md5="5ec3194b31738cd37af1d90ea226ba68" sha1="de4de67b2a9333403c173deac0fcace7de262ae5" />
+		<rom name="Cabaret (Recreativos Franco)(1975)(eduguitar72)(1.2)[VP912].vpt" size="2830336" crc="2966ca76" md5="18982eae27dcbaca5083002a41e40cd3" sha1="93bb1cd5f5b3f3ddb8f2ca773df98f1ab2bf2ba3" />
+		<rom name="Cabaret (Recreativos Franco)(1975)(eduguitar72)(2.0)[VP912].vpt" size="7307264" crc="378d88c3" md5="63f50c8aeed89dc81c4a39a89468d22e" sha1="e455c3ffe7a3bba7a5391422613359ccd5fc5305" />
+		<rom name="Cabaret screenshot.jpg" size="494964" crc="a6860716" md5="f213e4152226c292872c9428f727fa42" sha1="c05de33d19f86ca0f04316017671ea5ac1b6b8aa" />
+	</machine>
+	<machine name="Challenger (Gottlieb)(1971)(Romolo)(1.0)[VP912]">
+		<description>Challenger (Gottlieb)(1971)(Romolo)(1.0)[VP912]</description>
+		<rom name="Challenger (Gottlieb)(1971)(Romolo)(1.0)[VP912].vpt" size="3493888" crc="4d1640bd" md5="887dc5015221e72dabffed19e23a538a" sha1="b8bd16f9fd9bb47e520a1bee7e1e39de39f6f904" />
+		<rom name="Challenger screenshot.jpg" size="118164" crc="cbbeb894" md5="fccdd63b85451a5ecfd3ecd1662b941b" sha1="e308cb7e340189e24d2ef72029fc96b047b01c75" />
+	</machine>
+	<machine name="Check (Recel)(1975)(eduguitar72)(1.0a)[VP912]">
+		<description>Check (Recel)(1975)(eduguitar72)(1.0a)[VP912]</description>
+		<rom name="Check (Recel)(1975)(eduguitar72)(1.0)[VP912].vpt" size="3346432" crc="aa842d0b" md5="af5337a3e87b42ef0e7fa224bd8040ad" sha1="e0f3d448b8814ea954eded5bf43af072da6aa614" />
+		<rom name="Check (Recel)(1975)(eduguitar72)(1.0a)[VP912].vpt" size="3346432" crc="a0b758cd" md5="ed7a8ac495ed154d955a5fbb2ff9ef78" sha1="e23bc4d658fed665b48ffbb0b5473defebca2331" />
+		<rom name="Check screenshot.jpg" size="570035" crc="2bb431aa" md5="3b8a3e851d766be42f834ec73fb64f74" sha1="2a0cdc752699b9a840c31399473e6f41c56c3ba2" />
+	</machine>
+	<machine name="Check Mate (Recel)(1975)(1.1)[B2S 7he S4ge]">
+		<description>Check Mate (Recel)(1975)(1.1)[B2S 7he S4ge]</description>
+		<rom name="B2STableSettings.xml" size="522" crc="0770e91d" md5="cb2369c0c5c27737bc2e77fd76990ba8" sha1="fc23f87d1a83c180054c8d673d4e6c48b55fbb58" />
+		<rom name="Backglass.png" size="2485611" crc="d9e06613" md5="bffb7020ecf48301dfef07024d10ce85" sha1="3f60d3062fe9993cbb6cf00fd7eb3a4cfb4b7927" />
+		<rom name="Check Mate (Recel 1975) 1.1.directb2s" size="4321720" crc="617754a7" md5="24f77d46112fada16d11eb7be219a2c6" sha1="2d74abfb215eefabb0be9b031b9e84b79d6cd96b" />
+		<rom name="Check Mate (Recel 1975) 1.1.vpt" size="3518464" crc="af0696e7" md5="037aca90ad854a7eb1735fca92705ef6" sha1="01b6a86a6cc7f0ee2a386f0cfdacf6b7b14353aa" />
+		<rom name="ScreenRes.txt" size="78" crc="2e8885d2" md5="e14e6ffb49b2ac8aa90474a7ec88fba5" sha1="380682d78bc1a7293b4d55b63606ab9864be0ae2" />
+	</machine>
+	<machine name="Cross Town (Gottlieb)(1966)(pbecker1946)(1.0)[VP915]">
+		<description>Cross Town (Gottlieb)(1966)(pbecker1946)(1.0)[VP915]</description>
+		<rom name="Commentary.txt" size="4125" crc="118cf1a0" md5="5205803a210a1d4c31d11e5c1094c7de" sha1="daf8a46861dbcb5330ad49f33ff7661059ff62cf" />
+		<rom name="Cross Town (Gottlieb)(1966)(pbecker1946)(1.0)[VP915].vpt" size="30375936" crc="22330a4a" md5="a04b0567d2c3ea4ebcb4bdab686e47d4" sha1="23242527cd27ebb98c4e074a18bccae1517e574c" />
+		<rom name="Cross Town screenshot.jpg" size="977737" crc="60b168f2" md5="7bd600680d4554f45a371a4f50a98ae3" sha1="b75540e6ae6d5bc61386cdc5f35764636c305ddf" />
+	</machine>
+	<machine name="Crystal-Ball (Talleres del Llobregat)(1970)(eduguitar72)(1.0)[VP912]">
+		<description>Crystal-Ball (Talleres del Llobregat)(1970)(eduguitar72)(1.0)[VP912]</description>
+		<rom name="Crystal Ball (Talleres Llobregat)(1970)(eduguitar72)(1.0)[VP912].vpt" size="4313088" crc="6af8f0be" md5="a5323b9db471ec79f6ff3af58ca5f501" sha1="6893e9dbcb3ab0c770f34ba974616176cb30419e" />
+		<rom name="Crystal Ball screenshot.jpg" size="541377" crc="bf629a96" md5="f5892d05e73b7be837afa383ba47ede2" sha1="66602f6e248865c37beb4cb9dac8df84127512d2" />
+	</machine>
+	<machine name="Dardos (Maresa)(1969)(eduguitar72)(2.1)[VP912]">
+		<description>Dardos (Maresa)(1969)(eduguitar72)(2.1)[VP912]</description>
+		<rom name="1.0/Dardos (1.0) screenshot.jpg" size="505136" crc="b3c570e3" md5="8b615a7d1824561973a1bcbc05a4e1ea" sha1="c4e5ec27d81e70194dd0ac9fea9b661edbc17197" />
+		<rom name="1.0/Dardos (Maresa)(1969)(eduguitar72)(1.0)[VP912].vpt" size="3264512" crc="9cbde680" md5="4f352c46049ee349d24b13113e3f6639" sha1="8fd3a25c054ba25a57fac18e044d5f2dad45fa22" />
+		<rom name="1.0/Dardos (Maresa)(1969)(eduguitar72)(1.0a)[VP912].vpt" size="3264512" crc="a54e3e80" md5="c093a2c0b88045ffe4dc54a1e2380492" sha1="98c5f163d8ae129d878797bb7c7d4ba3b08d3274" />
+		<rom name="1.1/Dardos (1.1) screenshot.jpg" size="528009" crc="5f4a5274" md5="8ef30f5ac1442a867d7cab787f87970e" sha1="7e34fd5253e2807f2c8e818f30fa9e95dc0105da" />
+		<rom name="1.1/Dardos (Maresa)(1969)(eduguitar72)(1.1)[VP912].vpt" size="3342336" crc="ed28bcb5" md5="80665e9483aa1e2ff4fb19c93825bc58" sha1="216d1937bd9bbf788ddc91eb508f931d06bce196" />
+		<rom name="2.0/Dardos 2.0 (maresa 1970).vpt" size="2428928" crc="80c95615" md5="ab873179f040cc66d395436b7ab9ce9d" sha1="9d056929c2edaca1442d09db3663136aaa4f1999" />
+		<rom name="2.0/Dardos 2.0-newer (maresa 1970).vpt" size="2650112" crc="a1168465" md5="b3f21ac8274f570b79776bcd992b54a2" sha1="f4d73c56b8d332a078decf7b88206f887733eb3e" />
+		<rom name="2.1/Dardos 2.1 (maresa 1970).vpt" size="5767168" crc="2fb3c95f" md5="48970a2ab48817c054aa2bb430a5e8ea" sha1="2869f632871fb8a43d2a19ed0d14a4d9b2ac591d" />
+	</machine>
+	<machine name="Dimension (Gottlieb)(1971)(Furio)(1.3)[VP912]">
+		<description>Dimension (Gottlieb)(1971)(Furio)(1.3)[VP912]</description>
+		<rom name="Dimension (1.2) screenshot.jpg" size="142256" crc="d4d712b3" md5="d6b3f4e6d06b47e4bb07d2c32205eada" sha1="1cd5497c56db69687e28c859fed87fe3260ed786" />
+		<rom name="Dimension (1.3) screenshot.jpg" size="171019" crc="f74635c4" md5="5a8bba974f3478a975dd761546e8151f" sha1="2da51cbb8edad677901c696414037837ddf69b3e" />
+		<rom name="Dimension (Gottlieb)(1971)(Furio)(1.2)[VP912].vpt" size="2755072" crc="1d9aceb8" md5="fff69d258d243f759fddbc6fdebc4cd6" sha1="4887386945a2aba119d61c2938ae92ff1e0bfdd6" />
+		<rom name="Dimension (Gottlieb)(1971)(Furio)(1.3)[VP912].vpt" size="2715648" crc="333ec58a" md5="6a641572446bde568059e16cb3b15ed9" sha1="8b965ba5ae1fb882076156661b0da6d1d056bd84" />
+	</machine>
+	<machine name="El Dorado (Maresa)(1975)(RobertoMF)(1.10)[VP916]">
+		<description>El Dorado (Maresa)(1975)(RobertoMF)(1.10)[VP916]</description>
+		<rom name="El Dorado (Maresa)(1975)(RobertoMF)(1.00)[VP916].vpt" size="12718080" crc="bd128273" md5="c40be413269387664f774faad20c6ee2" sha1="23b77ec6595baf2c5f7ab7b0dd1181fcd87e064d" />
+		<rom name="El Dorado (Maresa)(1975)(RobertoMF)(1.10)[VP916].vpt" size="13504512" crc="3470c40b" md5="9e3f4d2060e1c9e9e59fcae0e0148bdb" sha1="6f88d46e3c8a25fb93f84494f7eff4bd71fec542" />
+		<rom name="El Dorado screenshot.jpg" size="736773" crc="3c32a011" md5="a0adc4641fe101de1f3e652d81c56f4e" sha1="d18bb2e0afa655501a184dbfded06143375783be" />
+	</machine>
+	<machine name="El Gran Chaparral (Emagar)(1976)(eduguitar72)(1.1)[VP912]">
+		<description>El Gran Chaparral (Emagar)(1976)(eduguitar72)(1.1)[VP912]</description>
+		<rom name="El Gran Chaparral (Emagar)(1976)(eduguitar72)(1.0)[VP912].vpt" size="2646016" crc="c312cb6f" md5="70febdc3c281a8d7b636513284f39400" sha1="a5106d879d0d33695185901fd9aacb2be5778553" />
+		<rom name="El Gran Chaparral (Emagar)(1976)(eduguitar72)(1.0a)[VP912].vpt" size="2646016" crc="99838b13" md5="91789f60ddf89cfeb95998773340087a" sha1="293170721edc0b91dc967823444441e23ffa0f0a" />
+		<rom name="El Gran Chaparral (Emagar)(1976)(eduguitar72)(1.1)[VP912].vpt" size="2662400" crc="ac3003dd" md5="d66f7ec8d20f1ec7a4e28dbf780992cf" sha1="8e56763ec1dbc83c674ce43eb6c75723541e084c" />
+		<rom name="El Gran Chaparral screenshot.jpg" size="488017" crc="790c5b68" md5="9bd7e4c4305817328620470773cd0155" sha1="152a6d690c8c8ccb98542e2e4211b54db6ebf9f7" />
+	</machine>
+	<machine name="Fairy (Playmatic)(1973)(eduguitar72)(2.0)[VP912]">
+		<description>Fairy (Playmatic)(1973)(eduguitar72)(2.0)[VP912]</description>
+		<rom name="Fairy (Playmatic)(1973)(eduguitar72)(1.0)[VP912].vpt" size="4096000" crc="c5c92946" md5="43ea91ccc30ca83e3531e8e4deb69e13" sha1="a6563af343d56e3be8d2eda76c01e8e9bd757705" />
+		<rom name="Fairy (Playmatic)(1973)(eduguitar72)(1.0a)[VP912].vpt" size="4096000" crc="2b5b2003" md5="a470a98cdb9d33f169ebadf71a5f2f09" sha1="6790de366c069d3ecd73bdefbd6f9e721bd1d891" />
+		<rom name="Fairy (Playmatic)(1973)(eduguitar72)(2.0)[VP912].vpt" size="5496832" crc="84c8695e" md5="dfa2807e800bf3211f31d95a0ef21481" sha1="829ecdb56fa5652a609fcbd1a6efb03dc17e7f56" />
+		<rom name="Fairy flyer.jpg" size="1166854" crc="1aa624ad" md5="ab9729c3aecb954cf9719e5e1d3882ab" sha1="f9114a49789308c5df5fccd1ede4e10810ea5d39" />
+		<rom name="Fairy screenshot.jpg" size="487272" crc="e7ab90ef" md5="d5ee1157aa7ac19d6857f62b79fc1d4b" sha1="e8cacde82efb7a1c6e569fbcd7ce227d7a8f7a6f" />
+	</machine>
+	<machine name="Festival Pop (Marsa)(1973)(eduguitar72)(1.1)[VP912]">
+		<description>Festival Pop (Marsa)(1973)(eduguitar72)(1.1)[VP912]</description>
+		<rom name="1.0/FestivalPop (marsa)vb.vpt" size="2531328" crc="d0b791a5" md5="d7b0aba6ea8493c6e539868a4a976f8c" sha1="0ee1d467e745ec958c89d7fe7ffff5a74863296a" />
+		<rom name="1.1/FestivalPop (marsa).vpt" size="2547712" crc="b06859ca" md5="5a754f20194ac4473b4a8eb16a2e90da" sha1="87066e3472e6bcd9839573926182d2100111bd09" />
+		<rom name="2.0/FestivalPop (Marsa 1973) 2.0.vpt" size="5967872" crc="eb423f4a" md5="3e235c5dc08849db68b6d9233b21b435" sha1="0acf7deb7acabb26cb9915a228a00a9636f1d9ec" />
+		<rom name="screenshot.jpg" size="595495" crc="9b368c92" md5="6fda35b001dab7cbcd8baf7bdc0d585b" sha1="a2b0b3e1975ba617b2d0c0611ed907fb69ac6a7e" />
+	</machine>
+	<machine name="Flip Flop (Bally)(1974)(Ash, Humid)(1.5)[VP91x]">
+		<description>Flip Flop (Bally)(1974)(Ash, Humid)(1.5)[VP91x]</description>
+		<rom name="Flip Flop (Bally)(1974)(Ash, Humid)(1.0)[VP91x].vpt" size="11915264" crc="2211b77e" md5="3c3074ce2d64e48e275d70f7fd13877b" sha1="4efffb838af5ccfa0548c763b87cb63b23bc3693" />
+		<rom name="Flip Flop (Bally)(1974)(Ash, Humid)(1.01)[VP91x].vpt" size="11915264" crc="ce166167" md5="fa7679b3296256d2bca9bf94b0fe590f" sha1="f8b683f8f274638f903ad5c1a84f496d76298bc4" />
+		<rom name="Flip Flop (Bally)(1974)(Ash, Humid)(1.5)[VP91x].vpt" size="11915264" crc="ffe18e21" md5="45bd0f6b7ff52abeee57fc3669cd340c" sha1="a6d60df173e37a3017e6b83188727b85cf455a7e" />
+		<rom name="Flip Flop (Humid) screenshot.jpg" size="281016" crc="79657709" md5="e0949e2864c906e1ba0edff3233c1fe6" sha1="42e5805a7c761775360dd589cd42bf7fcc9836aa" />
+	</machine>
+	<machine name="Flipper Fair (Gottlieb)(1961)(Robair, Furio)(3.2)[VP912]">
+		<description>Flipper Fair (Gottlieb)(1961)(Robair, Furio)(3.2)[VP912]</description>
+		<rom name="Flipper Fair (Gottlieb)(1961)(Robair, Furio)(3.1)[VP912].vpt" size="2904064" crc="18c0ec14" md5="08028db0693000d5e73698b2bdeec1dc" sha1="da68359270d72e6fb82ee295ea6ed2d4596cc142" />
+		<rom name="Flipper Fair (Gottlieb)(1961)(Robair, Furio)(3.2)[VP912].vpt" size="3127296" crc="a1ef45da" md5="bd16ad1846179423e6ade8f8975c593d" sha1="d8a1a83c19d4758c1f69d3b96c8ff80a4f527f9b" />
+		<rom name="Flipper Fair screenshot.jpg" size="155185" crc="b12993ff" md5="ba1875719ee0b2fecf281335138f5b8b" sha1="9f172cd92c83b4aba0de36fb97a342e83836af02" />
+	</machine>
+	<machine name="Flying High (Gottlieb)(1953)(Furio)(2.5)[VP914]">
+		<description>Flying High (Gottlieb)(1953)(Furio)(2.5)[VP914]</description>
+		<rom name="Flying High (Gottlieb)(1953)(Furio)(2.5)[VP914].vpt" size="3487744" crc="b71004ca" md5="d98e850c6cec70e12e6b37502f041563" sha1="a0b23872a702f6525c65f5aba228c11056d727a3" />
+		<rom name="Flying High screenshot.jpg" size="152142" crc="ca40fd4a" md5="211753cfc3583063b13a9ff9f9de090f" sha1="75ab3876aad320d8dca6b50d1a6441bd9c960a0c" />
+	</machine>
+	<machine name="Four Million B.C. (Bally)(1971)(starman)(1.0.3)[VP912]">
+		<description>Four Million B.C. (Bally)(1971)(starman)(1.0.3)[VP912]</description>
+		<rom name="Four Million B.C. (Bally)(1971)(starman)(1.0.3)[VP912].vpt" size="19013632" crc="291bffcd" md5="216d81c40c8f8af753115e95ee14f960" sha1="cc1ac3adadf5619acfafb24c13e105b679a3cfba" />
+		<rom name="Four Million B.C. (starman)(1.0.3) Rules + Notes.txt" size="2128" crc="03e46857" md5="c19d36fcc102ec25a10760953c9480ac" sha1="9d9600c70b580fd29e9a9ecb4940f162747a3fc4" />
+	</machine>
+	<machine name="Four Stars (Gottlieb)(1952)(Furio)(3.41)[VP912]">
+		<description>Four Stars (Gottlieb)(1952)(Furio)(3.41)[VP912]</description>
+		<rom name="Four Stars (Gottlieb)(1952)(Furio)(3.3)[VP912].vpt" size="3975680" crc="fc45897c" md5="4b532fb9b5bb2c8c058197f700e168dc" sha1="44edbc96a8d3930b5f96d90f51a0ded04f094546" />
+		<rom name="Four Stars (Gottlieb)(1952)(Furio)(3.4)[VP912].vpt" size="3978752" crc="c2b2dfd2" md5="94ebb2924b44e729421cd7fea1abfbe6" sha1="821b67cca753bc3305ac556316e87ab600713acb" />
+		<rom name="Four Stars (Gottlieb)(1952)(Furio)(3.41)[VP912].vpt" size="3978752" crc="c2b2dfd2" md5="94ebb2924b44e729421cd7fea1abfbe6" sha1="821b67cca753bc3305ac556316e87ab600713acb" />
+		<rom name="Four Stars screenshot.jpg" size="162598" crc="9e0aab52" md5="232bfe45b4ea53059c4c0b8f439bbc5d" sha1="e8f9def1b718aebf90f25992a8038d968bb264de" />
+	</machine>
+	<machine name="Galaxie (Gottlieb)(1971)(eduguitar72)(1.1)[VP916]">
+		<description>Galaxie (Gottlieb)(1971)(eduguitar72)(1.1)[VP916]</description>
+		<rom name="Galaxie (Gottlieb)(1971)(eduguitar72)(1.0)[VP916].vpt" size="6066176" crc="84d62886" md5="de44528ab1c3f495dae1f8d5e1d5a122" sha1="4fc54d6ea33b498cb0f165150da9af653e40e97e" />
+		<rom name="Galaxie (Gottlieb)(1971)(eduguitar72)(1.1)[VP916].vpt" size="6062080" crc="b302f8c8" md5="b4352b50295c21421b4fc031f303267f" sha1="52d75e091a68fd9f48816f6fb89e3071c5a40178" />
+		<rom name="Galaxie screenshot.jpg" size="570436" crc="f0b3a493" md5="94acad7f507fe8781f0f588f3b535f2d" sha1="5317fe2729fbc9315615a42b0e842ab6eadcf572" />
+	</machine>
+	<machine name="Geisha (Playmatic)(1973)(cparades)(0.1)[VP915]">
+		<description>Geisha (Playmatic)(1973)(cparades)(0.1)[VP915]</description>
+		<rom name="Geisha (Playmatic)(1973)(cparades)(0.1)[VP915].vpt" size="27213824" crc="8ffd019e" md5="678f98936f8235be1257fac141000909" sha1="077c71a6d612fe47cead02cdbd1da67e3b26a3d4" />
+		<rom name="Geisha screenshot.png" size="1667276" crc="ab83a39e" md5="df11aa672f370f9b1dcb3a6dde160b5a" sha1="1eb84024839fd0d0da51a8267547b3e180a58f5d" />
+	</machine>
+	<machine name="Gran Domino (Iberomatic S.A.)(1973)(eduguitar72)(2.0)[VP912]">
+		<description>Gran Domino (Iberomatic S.A.)(1973)(eduguitar72)(2.0)[VP912]</description>
+		<rom name="Gran Domino (Iberomatic)(1973)(eduguitar72)(1.0)[VP912].vpt" size="2883584" crc="5b50ae9a" md5="7aae1feea64c689189419bb319f77fab" sha1="a18d776b20b57d94f7b7a95750ad0e8e8ad7f387" />
+		<rom name="Gran Domino (Iberomatic)(1973)(eduguitar72)(1.1)[VP912].vpt" size="2887680" crc="0aa6edcf" md5="cfc0b2e98a211d527730c7ae5408d69c" sha1="6a7e1208259d435ae24ce5f17e795518bb4650a3" />
+		<rom name="Gran Domino (Iberomatic)(1973)(eduguitar72)(1.2)[VP912].vpt" size="2904064" crc="8f58a8d2" md5="07c80c7e9bcd00b443c602c3191c246f" sha1="880ffc278561110de72fa1f7de433b4292d3f187" />
+		<rom name="Gran Domino (Iberomatic)(1973)(eduguitar72)(2.0).vpt" size="3452928" crc="e5b4608a" md5="b866e71aabb5f579ea7e23825c203c23" sha1="b24a3c8c08b754b253fcc5b12590671493c4b356" />
+		<rom name="Gran Domino screenshot.jpg" size="515402" crc="5116e37c" md5="d14e04982aea34440aa877b561a60ac0" sha1="f1c7b94c0810039736cdc8d7d3fe5d3a4e8d44f3" />
+	</machine>
+	<machine name="Green Pastures (Gottlieb)(1954)(Furio)(1.1)[VP916]">
+		<description>Green Pastures (Gottlieb)(1954)(Furio)(1.1)[VP916]</description>
+		<rom name="Green Pastures (Gottlieb)(1954)(Furio)(1.1)[VP916].vpt" size="3079168" crc="602462bc" md5="aaf98c49cfbf4b514a059e015ebba101" sha1="637d546548db6a7db36840784a5f79cb62b6e270" />
+		<rom name="Green Pastures (Gottlieb)(1954)(Furio)(1.02)[VP916].vpt" size="3100672" crc="95533ba0" md5="044e15650d718b311fa7861ed0ff0189" sha1="26b0bf2b6d5647df256e7eb612a859e900c80b70" />
+		<rom name="Green Pastures screenshot.jpg" size="201770" crc="470e55b1" md5="5597bb59bf0e55b29f0912dd703c36cc" sha1="d4d37be0ba80cba2c0238538688e39f80546f4a8" />
+	</machine>
+	<machine name="Gypsy Queen (Gottlieb)(1955)(Furio)(2.92)[VP912]">
+		<description>Gypsy Queen (Gottlieb)(1955)(Furio)(2.92)[VP912]</description>
+		<rom name="Gypsy Queen (Gottlieb)(1955)(Furio)(2.92)[VP912].vpt" size="3106304" crc="7b3a8a96" md5="179a1a5929ce87bfef1ee669a754121b" sha1="40ade67ef6901c4780bcc994a8f425fdb62646e1" />
+		<rom name="Gypsy Queen screenshot.jpg" size="193715" crc="33f5b4ec" md5="6d5961e3e038f1f17687b8d4852db7c5" sha1="51e8a2f6cf8a8d69d70e66d070b777a46346ef86" />
+	</machine>
+	<machine name="Happy Days (Gottlieb)(1952)(Robair, Furio)(4.6)[VP914]">
+		<description>Happy Days (Gottlieb)(1952)(Robair, Furio)(4.6)[VP914]</description>
+		<rom name="4.0/Happy Days (4.0) screenshot.jpg" size="139474" crc="dacb038a" md5="73c228e3cb9d934356d688901def2748" sha1="037075ab2418c8b053893f86c2baa99263741f9d" />
+		<rom name="4.0/Happy Days (Gottlieb)(1952)(Robair, Furio)(4.0)[VP912].vpt" size="3320320" crc="90f10126" md5="53ef2d18d60689f9a70eace5a19849f4" sha1="19586abe911bae29e8f86eed878b0f905778c745" />
+		<rom name="4.4/Happy Days (4.4) screenshot.jpg" size="143336" crc="e3866bdd" md5="7c1689a3b9e24730be5f27e8bd3f84e2" sha1="ccddbcd199f7bee6ab82569b9467be7c20da4471" />
+		<rom name="4.4/Happy Days (Gottlieb)(1952)(Robair, Furio)(4.4)[VP912].vpt" size="3739648" crc="4e7fe6e3" md5="93c9e048b5b93368275c730549d69f2a" sha1="5f01c42ab3fb8fdfa92ad2478b5df75654dc908c" />
+		<rom name="4.5/Happy Days (Gottlieb)(1952)(Robair, Furio)(4.5)[VP914].vpt" size="2899968" crc="9823b8e3" md5="2943f9ca3bb3f26eef5f7cf5f1de37d2" sha1="c14a664d0e8d6ea08905e6105513a215d6731af0" />
+		<rom name="4.6/Happy Days (Gottlieb)(1952)(Robair, Furio)(4.6)[VP914].vpt" size="2910208" crc="0731faef" md5="81fe8895ea23abf21d26415829f5a6e9" sha1="265c3f0f151ed4b678a2867c011c3bd2e13dd253" />
+		<rom name="4.6/Happy Days screenshot.jpg" size="141775" crc="bad2e489" md5="212257bf802c65b1672e1a2df8ceb7f7" sha1="3c8dcbb84b67bb327afeb0ed0a6e0c4d9866bf1d" />
+	</machine>
+	<machine name="Hit The Deck (Gottlieb)(1978)(Eala Dubh Sidhe, JPSalas)(1.0)[VP911]">
+		<description>Hit The Deck (Gottlieb)(1978)(Eala Dubh Sidhe, JPSalas)(1.0)[VP911]</description>
+		<rom name="Hit The Deck (Gottlieb)(1978)(Eala Dubh Sidhe, JPSalas)(1.0)[VP911].vpt" size="10911744" crc="d2ef924e" md5="4a8900f437ef2e0b35ab28ba4530685d" sha1="e3572e1e93c7800dff2ea06537c1867cf601f99e" />
+		<rom name="Hit The Deck (JPSalas) screenshot.jpg" size="563728" crc="1f20b7aa" md5="502aefd369bfe1ebf8c49113c4054967" sha1="5d600552af76d7117d649afbf79f7c97d7616dc0" />
+	</machine>
+	<machine name="Hot Shot (Gottlieb)(1973)(Loserman)(2.1)[VP91x]">
+		<description>Hot Shot (Gottlieb)(1973)(Loserman)(2.1)[VP91x]</description>
+		<rom name="Hot Shot (Gottlieb) (1973) (Loserman!) v2.1-SS.directb2s" size="38174122" crc="b179353d" md5="80f2db9377a75caa5c5359101da1f5bd" sha1="3fe62c97f5c7f0eb2215220e9a2a7bb7b5cacdd3" />
+		<rom name="Hot Shot (Gottlieb) (1973) (Loserman!) v2.1-SS.vpt" size="21213184" crc="18ad24ad" md5="a44e7f2442f6d52380a1a5bf3546fcc6" sha1="afd81ea3699a271425b05360ad6155d2ebd43cc2" />
+		<rom name="HotShot-Readme.txt" size="1767" crc="04cac667" md5="862a2d83b7e9dbbf12521fb620d38dc0" sha1="c43c195ef4b58995a92f11b64a17b5e0dc94bbf9" />
+		<rom name="screenshot.png" size="762744" crc="471ebd0c" md5="f520a7c93e30f2486d5d29d2d7e9212b" sha1="493329a0acd6a2ed8492c270b547d0c1957748d7" />
+	</machine>
+	<machine name="Jolly Ride (Playmatic)(1974)(eduguitar72)(2.0)[VP916]">
+		<description>Jolly Ride (Playmatic)(1974)(eduguitar72)(2.0)[VP916]</description>
+		<rom name="jolly image.png" size="1360215" crc="62b60dc9" md5="1443d3b458f54de72252622d81e5647b" sha1="f5ceb6cc10e0f6174d65ce0799563f77845fb14a" />
+		<rom name="Jolly Ride 2.0 (Playmatic 1974).vpt" size="6987776" crc="a5e8c42d" md5="6a93cbc555d8a73c24d33a1d146c4c8b" sha1="c6e1226f25e819be93e623c90ccedbd60134d6c2" />
+		<rom name="Jolly Ride (Playmatic)(1974)(eduguitar72)(1.0)[VP916].vpt" size="5054464" crc="df15efbb" md5="ecb4e540b3737c735a11f7074a946e5b" sha1="72d4d1cf339b36a134456938fd5676b3b71d79a2" />
+		<rom name="Jolly Ride (Playmatic)(1974)(eduguitar72)(1.01)[VP916].vpt" size="5054464" crc="9a6cbc6d" md5="5f8da9ef74f73cb964f447d599da8c97" sha1="0272db9ce785871ffb490c48f92189f2c2a81768" />
+		<rom name="Jolly Ride (Playmatic)(1974)(eduguitar72)(1.02)[VP916].vpt" size="5054464" crc="5cab993e" md5="85d1b36da064f4ac1acc36a6a5773712" sha1="1982c51aa161cec499d4d11c6a035338d278067f" />
+		<rom name="Jolly Ride screenshot.jpg" size="494661" crc="7b75ecb2" md5="7282c142301afe8fb219c1403f70d746" sha1="bb37212abbf623a12fd9614bdd503b8c6e1fd8a8" />
+		<rom name="jolyBack.jpg" size="360401" crc="55bb0bc6" md5="09a1fce5867cf8818c7c9ee1479629fb" sha1="85ac0f051bb93dd2f3c70542d00ae7c2cebf92f7" />
+	</machine>
+	<machine name="Jungle (Gottlieb)(1972)(Loserman)(2.1)[VP91x]">
+		<description>Jungle (Gottlieb)(1972)(Loserman)(2.1)[VP91x]</description>
+		<rom name="Jungle (Gottlieb) (1972) (Loserman!) v2.1-SS.directb2s" size="4106760" crc="a184a64b" md5="79c8c75cc4e143961540dddddab8ac1d" sha1="2f247899b5fed667b8690df14724467630f2d6e9" />
+		<rom name="Jungle (Gottlieb) (1972) (Loserman!) v2.1-SS.vpt" size="26890240" crc="c77ef5c0" md5="0d87a5bdf289ee9b392812b01733bd66" sha1="335406271489a3f3e49a826956ac6d23d2e9a6c8" />
+		<rom name="Jungle-Readme.txt" size="1867" crc="344a736b" md5="4b5ad4d1a2fcc46e64596e3a6db615f4" sha1="0ddadca8386c7a9d62e9da7e6bda5df08a3706ed" />
+		<rom name="jungle.png" size="1838848" crc="4c728862" md5="d1475de5f16dfd9551d1d9b55a57303f" sha1="ccb743340c4c2d66561ff01225dd8de446b352a6" />
+	</machine>
+	<machine name="King, The (Alben)(1960)(Romolo)(1.0)[VP912]">
+		<description>King, The (Alben)(1960)(Romolo)(1.0)[VP912]</description>
+		<rom name="King, The (Alben)(1960)(Romolo)(1.0)[VP912].vpt" size="5103616" crc="28424c3f" md5="9507ce05d2034ae54e951081b7d91e7f" sha1="6700dc7083ad935e25fd019c1651e3f968382515" />
+		<rom name="King, The screenshot.jpg" size="161449" crc="fb78e5bf" md5="3c7ee91053519ea636e0ca3db5095a86" sha1="5e77b6df46f1632a6f2faaa6e398e876f53d77fa" />
+	</machine>
+	<machine name="Kings &amp; Queens (Gottlieb)(1965)(Unclewilly, sast05)(1.04)[VP91x]">
+		<description>Kings &amp; Queens (Gottlieb)(1965)(Unclewilly, sast05)(1.04)[VP91x]</description>
+		<rom name="1.02/Kings &amp; Queens (1.02) screenshot.jpg" size="1494315" crc="c1e5bb79" md5="35737a355d7f168706953bf52a637008" sha1="354fa2fdaaa9dbe55c5828024ed4da85412e28d2" />
+		<rom name="1.02/Kings &amp; Queens (Gottlieb)(1965)(unclewilly)(1.02)[VP91x].vpt" size="18292736" crc="3b79e100" md5="8eb1713f9fedf539ed58f27fd71d599c" sha1="a60c4830f7b2c8159d5788e71accf71e4fcc387f" />
+		<rom name="1.04/Kings &amp; Queens (1.04) screenshot.jpg" size="1333871" crc="78ac0e78" md5="0e08f7c59a7a461efcbb614886904c6c" sha1="200c7076f6f4a917076e0b336cd7f593e21dbede" />
+		<rom name="1.04/Kings &amp; Queens (Gottlieb)(1965)(unclewilly, sast05)(1.04)[VP91x].vpt" size="18870272" crc="dc251121" md5="f9aa33e3287242ad03a7a7a8ff207f80" sha1="858e524a10ac2d2e6900e86f220baa90f5ad0661" />
+	</machine>
+	<machine name="Kings (Williams)(1957)(Duglis, Furio)(1.21)[VP916]">
+		<description>Kings (Williams)(1957)(Duglis, Furio)(1.21)[VP916]</description>
+		<rom name="Kings (Williams)(1957)(Duglis, Furio)(1.2)[VP916].vpt" size="4701184" crc="1b15e37a" md5="667a6d33f9344a37a20d5d988757bdb4" sha1="62f50e516800b92afa3bd4194f4cec32b29e6b32" />
+		<rom name="Kings (Williams)(1957)(Duglis, Furio)(1.21)[VP916].vpt" size="4701184" crc="d3b999f7" md5="e75411a5be9c93c4f1c58db4b692a25c" sha1="7d50875713d2f1f028be186595a1d4dc7a757e65" />
+		<rom name="Kings screenshot.jpg" size="200040" crc="fe053d5c" md5="b91e8e6dd4b8df0ad6ea0fc0bdca4547" sha1="0cc16548a4a5c86b90cf2ddb0e125f407f8f2a64" />
+	</machine>
+	<machine name="Kuwait (Maresa)(1973)(akiles50000)(1.1)[VP916]">
+		<description>Kuwait (Maresa)(1973)(akiles50000)(1.1)[VP916]</description>
+		<rom name="Kuwait (Maresa)(1973)(akiles50000)(1.0)[VP916].vpt" size="21401600" crc="a007fbf6" md5="6c4c098bb9eb25c080e9b1d513c4d24b" sha1="809434c9e43d2f0eab8737ad13b9ae692caf757d" />
+		<rom name="Kuwait (Maresa)(1973)(akiles50000)(1.1)[VP916].vpt" size="21401600" crc="14656a38" md5="58e878a47d140b3f88a3e6bc8a9b8402" sha1="8a103385bcc0dab69d8d908e5bc240361d13f120" />
+		<rom name="Kuwait screenshot.jpg" size="450862" crc="55957c17" md5="328fc6f55a89631c29f5b664b49b20b0" sha1="d0b70bc2ed75e6b43c00ef7bd4da0d970b543e02" />
+	</machine>
+	<machine name="Lancers (Gottlieb)(1961)(Fernando)(2.0)[VP912]">
+		<description>Lancers (Gottlieb)(1961)(Fernando)(2.0)[VP912]</description>
+		<rom name="Lancers (Gottlieb)(1961)(Fernando)(2.0)[VP912].vpt" size="6896640" crc="c69eab1f" md5="64657343c20d55bb752ff1e0d9493a6b" sha1="c6af7cdcf1f9eb2bc9d16792b09132c365a6f57e" />
+		<rom name="Lancers screenshot.jpg" size="623310" crc="a7269ca9" md5="9656c087d481d618638af588c348be7f" sha1="8ae35882e5a0b8fd08471ddadefa190624e42615" />
+	</machine>
+	<machine name="Magic (Playmatic)(1973)(eduguitar72)(2.0)[VP912]">
+		<description>Magic (Playmatic)(1973)(eduguitar72)(2.0)[VP912]</description>
+		<rom name="Magic 1.0 (Playmatic 1973).vpt" size="6410240" crc="a0f8e375" md5="1fa1fbec3fa57f3f785dde2e97b75d0a" sha1="da87985a2edc81ad3432bf42af721e4fee22e041" />
+		<rom name="Magic 2.0 (Playmatic 1973).vpt" size="6230016" crc="f4efc20a" md5="e6a495e91e3fe4e50220b1fc7ea88ba5" sha1="dc689b0a61b55591296b9df5eeaaf94b0c888b1c" />
+		<rom name="Magic 2.0-newer (Playmatic 1973)_.vpt" size="6475776" crc="fd153b81" md5="d82fac419bdc66a8660d1b28cceb7347" sha1="70a090ca2727296b53d8f6d0d1d6c99086e80dcf" />
+		<rom name="Magic flyer.jpg" size="1110452" crc="92498b77" md5="39f30908f3c9397ef20d3598fd16ff1a" sha1="65a6c71bccc7babbc7ab3d0d9084b792be64a443" />
+		<rom name="Magic screenshot.jpg" size="580650" crc="9d1f772d" md5="9d059ff90758ea023d742b51c60ebda1" sha1="d11373dd8024b51e823fb8da5b71e0e5d066fcaa" />
+	</machine>
+	<machine name="Magnotron (Gottlieb)(1974)(Loserman76)(2.1)[VP91x]">
+		<description>Magnotron (Gottlieb)(1974)(Loserman76)(2.1)[VP91x]</description>
+		<rom name="Magnotron (Gottlieb) (1974) (Loserman!) v2.1-SS.directb2s" size="3721767" crc="e40720de" md5="81639de4a19d033f446c84dd9b2903a1" sha1="841b1ee4f04aefc28453da07d0c7957dd9595ddb" />
+		<rom name="Magnotron (Gottlieb) (1974) (Loserman!) v2.1-SS.vpt" size="23281664" crc="1358f6f8" md5="81a8ae5ac3e1db1b3064ceb5ad099697" sha1="a5599976cf76176f724f1d6e21f4ed8541165e06" />
+		<rom name="Magnotron-Readme.txt" size="1915" crc="01a0ee3b" md5="e9682a563aad4885f66940bc42b27805" sha1="c930f0af774549b5dfde6ff4e4e02e57815e4a72" />
+		<rom name="screenshot.png" size="1787855" crc="c65f7537" md5="a6c6645a771f891aa54ff81f35004362" sha1="c180e50e2582258bf89cefe480d9ffd0f1b7b7e9" />
+	</machine>
+	<machine name="Metropolis (Maresa)(1981)(eduguitar72)(2.0a)[VP912]">
+		<description>Metropolis (Maresa)(1981)(eduguitar72)(2.0a)[VP912]</description>
+		<rom name="1.x/Metropolis (1.x) screenshot.jpg" size="532228" crc="0c1091b7" md5="f687d187e5d56d306d182ae93edb61da" sha1="3c9541a140407b6504d6e7b08ff93f22736160f0" />
+		<rom name="1.x/Metropolis (Maresa)(1981)(eduguitar72)(1.0)[VP912].vpt" size="6422528" crc="d9171144" md5="d70d5cd7d1f8197370c6d9bc03d99b2b" sha1="963653948b4e94325d38b178528a9d8d80b488c0" />
+		<rom name="1.x/Metropolis (Maresa)(1981)(eduguitar72)(1.1)[VP912].vpt" size="6418432" crc="f8a99dc5" md5="b7056e2515329a93cdcf7d343c8efcb9" sha1="80bbecd96a188542d3cbe3ca0bee3f1dda16876b" />
+		<rom name="2.x/Metropolis (2.x) screenshot.jpg" size="590685" crc="cd28867c" md5="4a4d19960220d07d14431e40b41ed0d8" sha1="7ac84b4a25d5d2c134b4ea863c903e0bf0001a24" />
+		<rom name="2.x/Metropolis (Maresa)(1981)(eduguitar72)(2.0)[VP912].vpt" size="9035776" crc="83a7d77b" md5="fdca487ce6bd15ad40c9d81606870518" sha1="ed809f9085cd73a26965bfaef902101c0d8d8199" />
+		<rom name="2.x/Metropolis (Maresa)(1981)(eduguitar72)(2.0a)[VP912].vpt" size="9035776" crc="c2fb348d" md5="65951430ca33da5f841baa877c48eefb" sha1="3dd8d55fa3d47eea7608f04a7276f74db6f9e50d" />
+	</machine>
+	<machine name="Now (Gottlieb)(1971)(eduguitar72)(1.0)[VP912]">
+		<description>Now (Gottlieb)(1971)(eduguitar72)(1.0)[VP912]</description>
+		<rom name="Now (Gottieb)(1971)(eduguitar72)(1.0)[VP912].vpt" size="3321856" crc="f808c1a0" md5="de9865ec58280123a17fd418ccdbe314" sha1="d5b539778342d2fa92cc16c15d66001bbeac1881" />
+		<rom name="Now screenshot.jpg" size="549021" crc="3acfe46b" md5="6cdc4fd7cb64dbfbc5bbda3624a2d5e4" sha1="e217e30e661521d3ca02a92c626314b012bcd257" />
+	</machine>
+	<machine name="Old Chicago (Bally)(1976)(Loserman76)(2.0)[VP91x]">
+		<description>Old Chicago (Bally)(1976)(Loserman76)(2.0)[VP91x]</description>
+		<rom name="Old Chicago (Bally) (1975) (Loserman!) VP9-v2.0.directb2s" size="2818991" crc="55d9636d" md5="f69ee5f1a5ea15bfc28318aaf99b80b7" sha1="5b5e1d1279b36a12614bab9148463a321cc0e962" />
+		<rom name="Old Chicago (Bally) (1975) (Loserman!) VP9-v2.0.vpt" size="14376960" crc="21dae42c" md5="401c816a7977a61eec4fb9e258810967" sha1="6b33f1a131d91b301623dd6d09838c08b62a4a88" />
+		<rom name="screenshot.png" size="1942624" crc="48ade438" md5="4383741be4470e965e000a3f063f58e0" sha1="f2168338b3b104a5246c4c34dd19d77458184f8a" />
+	</machine>
+	<machine name="Olympics (Gottlieb)(1962)(Itchigo, Bodydump, Bent98)(1.0)[VP916]">
+		<description>Olympics (Gottlieb)(1962)(Itchigo, Bodydump, Bent98)(1.0)[VP916]</description>
+		<rom name="46_gSd.jpg" size="235083" crc="4cef4564" md5="19da06c92f3a769fefd671b7ccb8cd39" sha1="92a40e943c4d7a1492f1d45a0a7bf2ff73fcc2a4" />
+		<rom name="Olympics VP 9.16 dt.vpt" size="22749184" crc="e62c09fa" md5="6ec6230ade297962a4fc0e1be4e4c48f" sha1="2bf7e92eb1d5b5d0730dc43611aa1af5ad75dea9" />
+	</machine>
+	<machine name="Pinball (Stern)(1977)(Itchigo, Destruk, martinB)(1.0)[VP91x]">
+		<description>Pinball (Stern)(1977)(Itchigo, Destruk, martinB)(1.0)[VP91x]</description>
+		<rom name="Pinball Desktop.vpt" size="9166848" crc="ecc664b5" md5="c524b5dd6fe9b82d2d121d1db936f9f8" sha1="3154f98ab97ea46407a3c35874bd0ccd2fe98759" />
+		<rom name="screenshot.jpg" size="758445" crc="e5747edf" md5="206e75c4ce9dab51f34c7b608db97aa7" sha1="04c9456234b21a189a7f06c34bfd369578944b5a" />
+	</machine>
+	<machine name="Rally (Dama (Milan))(1970)(eduguitar72)(1.0)[VP912]">
+		<description>Rally (Dama (Milan))(1970)(eduguitar72)(1.0)[VP912]</description>
+		<rom name="Rally (Dama (Milan))(1970)(eduguitar72)(1.0)[VP912].vpt" size="3518464" crc="5850d440" md5="13f8ce60838c5726c5a1b91ec2844040" sha1="222d61624a2019dd60438482040c9b4f466443b8" />
+		<rom name="Rally screenshot.jpg" size="499221" crc="4824239a" md5="706eb579cf882bbc17174e747711b7ae" sha1="e386c24aee9a449659c217b0eabbc987ad09621a" />
+	</machine>
+	<machine name="Red Show (Zaccaria)(1975)(Romolo)(1.0)[VP912]">
+		<description>Red Show (Zaccaria)(1975)(Romolo)(1.0)[VP912]</description>
+		<rom name="Red Show (Zaccaria)(1975)(Romolo)(1.0)[VP912].vpt" size="7098368" crc="bdfbe1cc" md5="1d50198f20ac891c769ca489e04965f9" sha1="5740e610dbea1b0fcee604e0b31ab720d539b567" />
+		<rom name="Red Show screenshot.jpg" size="117059" crc="ad50a993" md5="48a35c5ae8a6083a52ea3601a30cf5bb" sha1="9b88847ab8137ecc361a7a9be84ab6a4865e9a57" />
+	</machine>
+	<machine name="Robin Hood (Playmatic)(1974)(eduguitar72)(2.0)[VP912]">
+		<description>Robin Hood (Playmatic)(1974)(eduguitar72)(2.0)[VP912]</description>
+		<rom name="Robin Hood (Playmatic)(1974)(eduguitar72)(1.0)[VP912].vpt" size="4026368" crc="681fa052" md5="45cff97813e306ae05cf4d59367b930e" sha1="e9c9bf4558bb84a94e65bc980c47ef81fbc24718" />
+		<rom name="Robin Hood (Playmatic)(1974)(eduguitar72)(1.1)[VP912].vpt" size="4042752" crc="0fed35f3" md5="c38c1f3233f643cc2f3ff99b846f8a73" sha1="64a10fa1c2ac63d18e0db6ca6469b576da9ca718" />
+		<rom name="Robin Hood (Playmatic)(1974)(eduguitar72)(2.0)[VP912].vpt" size="4235264" crc="844c596d" md5="be0a76c8018db4e3bb9edc738fe1eec6" sha1="2cc14e9d0dc92f0244098d8267ba1eea6c968fb1" />
+		<rom name="Robin Hood screenshot.jpg" size="577181" crc="0543a5bd" md5="1726dd6bbf644c4017181d11ab97561a" sha1="73a8bc933937d9b2fbfe7ea45f653a1fc9609b82" />
+	</machine>
+	<machine name="RockMakers (Bally)(1968)(Wim Kuijpers)(1.0)[VP912][Stereo sound]">
+		<description>RockMakers (Bally)(1968)(Wim Kuijpers)(1.0)[VP912][Stereo sound]</description>
+		<rom name="rock-makers-flyer.png" size="1297321" crc="e86041c3" md5="0363b534c29b8103dda85bb30999c2c2" sha1="07f14f6ac84cc9b6394b0374b8e910b56e3ca79f" />
+		<rom name="rockmakers.vpt" size="23728128" crc="d508428b" md5="e413fd158529945e1f0e9ede3926ff12" sha1="8f01aa9602814ab710996969c4932c3a0e02ea38" />
+	</machine>
+	<machine name="Royal Flush (Gottlieb)(1957)(Furio)(1.32)[VP915]">
+		<description>Royal Flush (Gottlieb)(1957)(Furio)(1.32)[VP915]</description>
+		<rom name="flyer.jpg" size="1727347" crc="1d329e0e" md5="4182de74507b4241a3b54bc210c8008d" sha1="40579f64dd9fbe4eb4b4807aa62df3fcb667a6df" />
+		<rom name="Royal Flush (Gottlieb 1957).vpt" size="3454464" crc="9ab9b1a1" md5="b09e60122d1c2da2212bb0f583f92512" sha1="6eb7787c8b83307142cecb6b29ffd7b53a724a7d" />
+		<rom name="screenshot.jpg" size="198456" crc="124b909a" md5="f5cb84e56a38aac7d4f6a9dd337636ab" sha1="528d0b3aade2d73030d0035e70ae5bc3bf98ce81" />
+	</machine>
+	<machine name="Satin Doll (Williams)(1975)(Itchigo, Chinzman93 (graphics))(1.0)[VP915]">
+		<description>Satin Doll (Williams)(1975)(Itchigo, Chinzman93 (graphics))(1.0)[VP915]</description>
+		<rom name="Satin_Doll Desktop_1.0_Itchigo-Chinzman93.vpt" size="26857472" crc="ae479166" md5="3556611640ab2b3fdd3c227344a4f3df" sha1="8c4e799830a2401c67b38972203c3fa1021f460b" />
+		<rom name="screenshot.jpg" size="487010" crc="6f99f9e2" md5="658d16a2ceb559edd363c2995293f908" sha1="16abb803ce4b949c723e2045d7eef70d9a598446" />
+	</machine>
+	<machine name="Serenade (Playmatic)(1969)(eduguitar72)(2.0)[VP912]">
+		<description>Serenade (Playmatic)(1969)(eduguitar72)(2.0)[VP912]</description>
+		<rom name="Serenade (Playmatic)(1969)(eduguitar72)(1.0)[VP912].vpt" size="3223552" crc="e65980d6" md5="8c08a29fe05be9951c66f60074c19ea5" sha1="c5c898fec38564abb12db6d14884639b7abffbf2" />
+		<rom name="Serenade (Playmatic)(1969)(eduguitar72)(2.0)[VP912].vpt" size="3915776" crc="e7eb10f4" md5="7c7942d1ddb8d0d5865f8d2e1ce570c8" sha1="776fb3c82b0d521156df1792f7cbec8a5799006d" />
+		<rom name="Serenade (Playmatic)(1969)(eduguitar72)(2.0-newer)[VP912].vpt" size="4456448" crc="2ee02958" md5="0ef13b275caca189127dc00833000549" sha1="01223840beca9715c5a2e16cb4e83c30f5777f68" />
+		<rom name="Serenade flyer.jpg" size="888095" crc="4e4a5938" md5="f5d69adbd2eb6189061ebf889ba085fc" sha1="1fe4b4666fd2f4fdc7cf8794bbc3c283ffebdd54" />
+		<rom name="Serenade screenshot.jpg" size="523611" crc="592c6f9e" md5="b853ab2bb701c4195c377bb83f17cda6" sha1="bdeab55d19959e7ae4189837b4c40c49f04c7f6b" />
+	</machine>
+	<machine name="Shangri-La (Williams)(1967)(Bodydump)(1.0)[VP916]">
+		<description>Shangri-La (Williams)(1967)(Bodydump)(1.0)[VP916]</description>
+		<rom name="Shangri-La (Williams)(1967)(Bodydump)(1.0)[VP916].vpt" size="18489344" crc="ed187517" md5="f576f54f38eb4a98c9b08bbf47fbe8b5" sha1="14e380c189bc14037d06faf8d7455c686cfb7263" />
+		<rom name="Shangri-La screenshot.jpg" size="670444" crc="d8468c7e" md5="8f7727d41ee2ed088be164de694a8604" sha1="8e7e1c2e87a4f56f9948a85cb69cc768fbcf5a50" />
+	</machine>
+	<machine name="Show Boat (Genco)(1957)(Furio)(1.4)[VP915]">
+		<description>Show Boat (Genco)(1957)(Furio)(1.4)[VP915]</description>
+		<rom name="Show Boat (Genco)(1957)(Furio)(1.4)[VP915].vpt" size="3930112" crc="840e5ef3" md5="483a576e8760c9010ae51c4983234d22" sha1="cfbba64286e4f842d92234186222671886870ed1" />
+		<rom name="Show Boat screenshot.jpg" size="157455" crc="ee2dbd0d" md5="887a1b1c24cf12360212360aac327c13" sha1="00e86b105b6db6c8425e6d7270ff4794e3eed0aa" />
+	</machine>
+	<machine name="South Pacific (Genco)(1950)(Justincasekazoo)(1.0)[VP912][Desktop]">
+		<description>South Pacific (Genco)(1950)(Justincasekazoo)(1.0)[VP912][Desktop]</description>
+		<rom name="1_22_07_14_7_25_45_0.jpg" size="196219" crc="5f242a85" md5="4f86eb0fbf93b1c2a8d5a87c1b17801b" sha1="af275007e8300d9de5ca16dc2100897e6eb3ad9d" />
+		<rom name="South Pacific V1.0.vpt" size="6246400" crc="90152b79" md5="5ebe8314397b58a222d839868537e0d8" sha1="fa4f8686dc39ee85a727209a7c7523ebd8c37c6f" />
+	</machine>
+	<machine name="Space Race (Recel)(1977)(eduguitar72)(1.0a)[VP912]">
+		<description>Space Race (Recel)(1977)(eduguitar72)(1.0a)[VP912]</description>
+		<rom name="Space Race (Recel)(1977)(eduguitar72)(1.0)[VP912].vpt" size="2293760" crc="ed7acccb" md5="e53c46a5f79d0790b852d47fcb3293be" sha1="b4ae6d856df2af6f4258da0188de0d123f1cff69" />
+		<rom name="Space Race (Recel)(1977)(eduguitar72)(1.0a)[VP912].vpt" size="2293760" crc="4544cc2d" md5="b7dc3ac3d24d92ae7b70dba55e4a56bb" sha1="be8082ee02044cba8202b6edb3989a3429dd72a3" />
+		<rom name="Space Race flyer.jpg" size="1270224" crc="78fba87c" md5="7c1ddbbd81b116550c3b40a4cb696d6f" sha1="402fcc2284e0f1db4482f431b739853b46740665" />
+		<rom name="Space Race screenshot.jpg" size="555461" crc="68dab64b" md5="10dc3672fadb1e39a2ec20d67c735331" sha1="4cb414631d47d1f80ee3cef486abc590618966c0" />
+	</machine>
+	<machine name="Space Shuttle (Williams)(1984)(rosve)(1.2)[VP914]">
+		<description>Space Shuttle (Williams)(1984)(rosve)(1.2)[VP914]</description>
+		<rom name="Space Shuttle (Williams)(1984)(rosve)(1.0)[VP914].vpt" size="33124352" crc="81bbeae5" md5="1f2a7b0bb44d74f8e1f974f3a0a6ba3a" sha1="d9e0cf01cf5bac5f1727ef307f9e919c3c580be3" />
+		<rom name="Space Shuttle (Williams)(1984)(rosve)(1.1)[VP914].vpt" size="33144832" crc="7c11f7fc" md5="3b7ecb603845558671aa3889a2d7905a" sha1="98f1956b2bc04347b332f0aea5470ac32e145336" />
+		<rom name="Space Shuttle (Williams)(1984)(rosve)(1.2)[VP914].vpt" size="32927744" crc="73c5137d" md5="faa055679612c212e5116ba840e24a26" sha1="f4ef81d011621eadf5832ebd7a8e2d060f994a25" />
+		<rom name="Space Shuttle flyer 1.jpg" size="971330" crc="32bb6e09" md5="b0bd3f2aa01613c01afc43d3e941145c" sha1="0c08c0494c3675cbc684bc3567d4a275260d0a6b" />
+		<rom name="Space Shuttle flyer 2.jpg" size="3163611" crc="a04201fb" md5="367a96974a63c34052b8347ef6006c8f" sha1="bea2f847f049d41a75db594b16347a0ee8985a84" />
+		<rom name="Space Shuttle flyer 3.jpg" size="1233489" crc="0e2275ab" md5="610c85ba99212d9700c9038f52d95d9a" sha1="0be19082ba74a269fbcabcf629abd55fc8cb6633" />
+	</machine>
+	<machine name="Spin Out (Gottlieb)(1975)(Loserman76)(1.0)[VP916]">
+		<description>Spin Out (Gottlieb)(1975)(Loserman76)(1.0)[VP916]</description>
+		<rom name="Spin Out (Gottlieb)(1975)(Loserman!)(1.0)[VP916].vpt" size="35491840" crc="02f44731" md5="e4f35fd3992e4fe8423471c715f33a18" sha1="1e2f8f5b12c026d32fa6f48c05ca39d7633bcd8b" />
+		<rom name="Spin Out screenshot.png" size="2531897" crc="92afeee6" md5="eef4ac81195f3a24516389ed128f24ea" sha1="9fb66507a3f738e5c186188bdfe37491e7a8e3ba" />
+	</machine>
+	<machine name="Spring Fever (Talleres del Llobregat S.A. (Automaticos))(1973)(eduguitar72)(2.0)[VP914]">
+		<description>Spring Fever (Talleres del Llobregat S.A. (Automaticos))(1973)(eduguitar72)(2.0)[VP914]</description>
+		<rom name="Spring Fever (Talleres del Llobregat S.A. (Automaticos))(1973)(eduguitar72)(1.0)[VP914].vpt" size="2920448" crc="f41328de" md5="91c526a8abc26e959153ec8f497dd2e8" sha1="a4bc838af7411850fa8a385074f4ec972aacdcd7" />
+		<rom name="Spring Fever (Talleres del Llobregat S.A. (Automaticos))(1973)(eduguitar72)(1.0a)[VP914].vpt" size="2920448" crc="dc7086e6" md5="7e0f946ebc7cf577461f54a81f85d844" sha1="260ad004b21d64688855861ca713744b97e9bca4" />
+		<rom name="Spring Fever (Talleres del Llobregat S.A. (Automaticos))(1973)(eduguitar72)(1.1)[VP914].vpt" size="2904064" crc="45834a4c" md5="c44a474c7384c4b2dd4fe630bda86abf" sha1="3bbd6af59839ed5e859e8c7a92af618bfb59d1f7" />
+		<rom name="Spring Fever (Talleres del Llobregat S.A. (Automaticos))(1973)(eduguitar72)(1.2)[VP914].vpt" size="2957312" crc="3181fc6a" md5="d69ccd9f399c0b1b91384a371e1b2f5a" sha1="2a7a0575576eb32c2ed57562a31cb62d41ce553f" />
+		<rom name="Spring Fever (Talleres del Llobregat S.A. (Automaticos))(1973)(eduguitar72)(2.0)[VP914].vpt" size="3371008" crc="e5f56a40" md5="ea08869918fd6849130a7240eafc10eb" sha1="4649a9fb0d8033726e974f460a084bfd6b44ad8e" />
+		<rom name="Spring Fever screenshot 2.0.jpg" size="525392" crc="54f5b13a" md5="97dcdcbf3158a1d97badc616235c97bc" sha1="107f081897c4625d8de0f20dd83fac7b997d9b72" />
+		<rom name="Spring Fever screenshot.jpg" size="510489" crc="35c40556" md5="dcc52a9c06a57b317019e79658189641" sha1="0272871548fa8f1ec71b1ca34e60fde054a97126" />
+	</machine>
+	<machine name="Sprint Girl (Ami)(1976)(eduguitar72)(1.0)[VP912]">
+		<description>Sprint Girl (Ami)(1976)(eduguitar72)(1.0)[VP912]</description>
+		<rom name="Sprint Girl (Ami)(1976)(eduguitar72)(1.0)[VP912].vpt" size="3649536" crc="2710d6ca" md5="36e3ecabe462397dadf847ff3b04a72c" sha1="41e4873cab09d7cb1fdf8e79f76825aa7cd3fd26" />
+		<rom name="Sprint Girl screenshot.jpg" size="505929" crc="4878d979" md5="1a9501cd76edda34fdf30a3e1dbab063" sha1="8f7fa00dd47e0d0857418efa02c7299318f935cb" />
+	</machine>
+	<machine name="Struggle Buggies (Williams)(1953)(Furio)(1.21 Deluxe)[VP912]">
+		<description>Struggle Buggies (Williams)(1953)(Furio)(1.21 Deluxe)[VP912]</description>
+		<rom name="1.20/Struggle Buggies (1.20) screenshot.jpg" size="163542" crc="5f2743f7" md5="22e7df4d429a81a606d543386a012892" sha1="94e7042906db28b195770d161801913957fe1e5e" />
+		<rom name="1.20/Struggle Buggies (Williams)(1953)(Furio)(1.20 Deluxe)[VP912].vpt" size="2820096" crc="e7789359" md5="22129025298b1b6346a6d7b7c453dbf6" sha1="8b8098e4f7566ceb22741aaa4dc3f8e68e05ade4" />
+		<rom name="1.21/Struggle Buggies (1.21) screenshot.jpg" size="166155" crc="3c8acf44" md5="657cc1199e78e45eaf2c5bb51be1e6bf" sha1="9eb97691e99d7ecf6ace6c1b344334fd54745ef7" />
+		<rom name="1.21/Struggle Buggies (Williams)(1953)(Furio)(1.21 Deluxe)[VP912].vpt" size="2820096" crc="28a79d2d" md5="51fe5701fbb68323e5653b49884be47a" sha1="0054286a537067c0390c25a65af4d5992f787648" />
+		<rom name="1.21/Struggle Buggies deluxe (Williams 1953) 1.21.vpt" size="2820096" crc="6aaf5c8a" md5="d1c830f28d01defeff07074794bb1c10" sha1="b13ce9d01481ea7db889d7f43ff1b624a97660a1" />
+	</machine>
+	<machine name="Super Jumbo (Gottlieb)(1954)(Romolo)(1.0)[VP912]">
+		<description>Super Jumbo (Gottlieb)(1954)(Romolo)(1.0)[VP912]</description>
+		<rom name="Super Jumbo (Gottlieb 1954)Vp912.jpg" size="126657" crc="877fbd0d" md5="7338e5e4503caf15d974f67269e3c06f" sha1="950bd2a9d2cf3a38d4a7400848ffb8eba2d86d7a" />
+		<rom name="Super Jumbo (Gottlieb 1954)Vp912.vpt" size="3551232" crc="fe6e6423" md5="28ed0b425372734a9ceac950e99e3746" sha1="c6ee294ce05eb8ab8459f400ed07c5b3f22b02ee" />
+	</machine>
+	<machine name="Super Jumping (Alben)(1957)(Romolo)(1.0)[VP912]">
+		<description>Super Jumping (Alben)(1957)(Romolo)(1.0)[VP912]</description>
+		<rom name="Super Jumping (Alben 1957)Vp912.jpg" size="100608" crc="bbbc0436" md5="51fb25330f9d71972c163d7bc363567a" sha1="ea2c93e39f0191ed6e36163d5e746ae02e98ed0a" />
+		<rom name="Super Jumping (Alben 1957)Vp912.vpt" size="4059136" crc="09ffcd7e" md5="6b30127cf2f76ea67c3acd721390ed1a" sha1="c1bce70483d7f5a09db450d5a9884fcd1c95e34e" />
+	</machine>
+	<machine name="Surfer (Gottlieb)(1976)(Conram29)(1.0)[VP914][B2S Conram29]">
+		<description>Surfer (Gottlieb)(1976)(Conram29)(1.0)[VP914][B2S Conram29]</description>
+		<rom name="Surfer (Gottlieb)(1976)(Conram29)(1.0)[VP914][B2S Conram29]/b2s.vbs" size="7527" crc="61185a8d" md5="5ddacb102a1b7f0504cda365bc45efcb" sha1="8a355a7b9ec0334e73a36e6bb783f8876d8be533" />
+		<rom name="Surfer (Gottlieb)(1976)(Conram29)(1.0)[VP914][B2S Conram29]/How to install Surfer.txt" size="1293" crc="e31865c3" md5="37754d7d5eda761b09a1eca07629bddf" sha1="1954a974290d3fa3fae732eeb2a39ef43c267377" />
+		<rom name="Surfer (Gottlieb)(1976)(Conram29)(1.0)[VP914][B2S Conram29]/ScreenRes.txt" size="32" crc="fe64e682" md5="06f8e437121d1f038a95b861a069224b" sha1="a66dc4ddd2546c356b087efbcdbddd8c0c03a5d0" />
+		<rom name="Surfer (Gottlieb)(1976)(Conram29)(1.0)[VP914][B2S Conram29]/Surfer.exe" size="2171904" crc="fa1053d7" md5="1d93c378bb4b0ffb3d0f6fc33947d8a0" sha1="08cf644b143626b95f50f36a58a56355ea082306" />
+		<rom name="Surfer (Gottlieb)(1976)(Conram29)(1.0)[VP914][B2S Conram29]/Surfer.vpt" size="24113152" crc="914b5d0b" md5="e0f7acddb4252f677613e3d2c776f7ac" sha1="67cac160d5983b1df65c59ee2caf1868c69f40ce" />
+		<rom name="Surfer screenshot.jpg" size="174377" crc="48c96d4a" md5="c9388de38d7780475d3a128120cd1da7" sha1="4e24d82ac0b8b0beaef899cdf26978db40c1a047" />
+	</machine>
+	<machine name="Target Alpha (Gottlieb)(1976)(LuvThatApex, Lynwood Dillman)(RC 06-15-12)[VP912]">
+		<description>Target Alpha (Gottlieb)(1976)(LuvThatApex, Lynwood Dillman)(RC 06-15-12)[VP912]</description>
+		<rom name="screenshot.jpg" size="1498847" crc="1fea6591" md5="23c3d031d90aa8cb1a528a4a0d7e8216" sha1="4dfd28963dbcd48e92075a43ca96161ce4994344" />
+		<rom name="Target Alpha RC 06-15-12.vpt" size="11026432" crc="87e73421" md5="1b07f651ebdf43a5d126cf48124d3c37" sha1="5a8b41a2c594fbab158af8507a8a1f31e3bcb6d4" />
+	</machine>
+	<machine name="Triple Strike (Williams)(1975)(Rawd)(1.5.0)[VP91x]">
+		<description>Triple Strike (Williams)(1975)(Rawd)(1.5.0)[VP91x]</description>
+		<rom name="Triple Strike (1.5.0) screenshot.jpg" size="1039174" crc="5c7873f1" md5="a7bfc6cb73089c3b52fa35769e1beeec" sha1="012723ee6163701affbe4d1266ab2d17585d5032" />
+		<rom name="Triple Strike (Williams)(1975)(Rawd)(1.5.0)[VP91x].vpt" size="18444288" crc="16f4e0da" md5="eac733747538fe7c97cf062bcef87ba8" sha1="008a583d1c20a30c70d02595371df8fc5bd90bb5" />
+		<rom name="Triple Strike flyer.jpg" size="1969327" crc="4e76bfa7" md5="cf832cc81045a6bac805c02c4c8ff85f" sha1="9171b01f43c0a3596ede96edc1b3a05fbd08a07a" />
+	</machine>
+	<machine name="Universe (Gottlieb)(1959)(pbecker1946)(1.0)[VP916]">
+		<description>Universe (Gottlieb)(1959)(pbecker1946)(1.0)[VP916]</description>
+		<rom name="Commentary.txt" size="5497" crc="7dbae24b" md5="587f780e69dccf7abc69f5a886714ffa" sha1="f3940b63730c0b0d0e08e11d4ac35e9c4128abb7" />
+		<rom name="Universe (Gottlieb)(1959)(pbecker1946)(1.0)[VP912].vpt" size="32588288" crc="0e0c1816" md5="e90c5f9fe676cd7e3ef383cbe09e44ae" sha1="a414249c47b33498ef2370440a87a1acee3725c5" />
+		<rom name="Universe flyer.jpg" size="1496174" crc="f962c6c0" md5="b2f178347da56b44639bd7297e79a46d" sha1="4a388a35a594243f8879ff0b2dc339f82ddbf654" />
+		<rom name="Universe screenshot.jpg" size="1029354" crc="b1191eb1" md5="fbfbc7165747891d94bae4d3f8535a2b" sha1="036f5deb62d2b8f4f83fec2415febce2c6444712" />
+	</machine>
+	<machine name="Vector Pinball (Dozing Cat Software)(2010)(sophira)(1.0)[VP915]">
+		<description>Vector Pinball (Dozing Cat Software)(2010)(sophira)(1.0)[VP915]</description>
+		<rom name="Vector Pinball (sophira)(1.0)[VP915].vpt" size="12152832" crc="fed05ac4" md5="eba10745d1219fab4c7703058cbf6b22" sha1="1e5e714b94e38c8b31a9628933f00adcf99e794d" />
+		<rom name="Vector Pinball readme.txt" size="1260" crc="cf58190f" md5="d92c0728f97f311ebf0deca2f157bc02" sha1="d95070fe903c5c84482bdb1882e01d9262f8b8a6" />
+		<rom name="Vector Pinball screenshot.png" size="138687" crc="1e19feef" md5="a1eb5c00e315cedd3537cee18db5c433" sha1="fd2177681bcdc10534e0b947d353ab255fa65f89" />
+	</machine>
+	<machine name="Venus 5 (Recreativos Franco)(1973)(eduguitar72)(2.1)[VP912]">
+		<description>Venus 5 (Recreativos Franco)(1973)(eduguitar72)(2.1)[VP912]</description>
+		<rom name="venus5-fp3338.jpg" size="45220" crc="afc7549e" md5="5d77c35b196e16019e0e09b8c119b109" sha1="9e15404b9903dfcf1837374c349c63bc17621a05" />
+		<rom name="venus5.png" size="1360682" crc="29e0ac42" md5="68051602972977bd3a36017245ec7969" sha1="e718cc22ee3d5e97ee02c056eecd57cd9b519a54" />
+		<rom name="Venus 5 (Recreativos Franco)(1973)(eduguitar72)(1.0)[VP912].vpt" size="9621504" crc="638b397b" md5="2269f761006091d9f1b68dac326cd07e" sha1="c85b995c2fb8164b9fcc5ff6ea7ffc724b722b66" />
+		<rom name="Venus 5 (Recreativos Franco)(1973)(eduguitar72)(1.1)[VP912].vpt" size="9621504" crc="b5ec2dae" md5="a316a05a8ca7b188ffaff3f7286d9008" sha1="6d9f772368343796a5740033209eed914d515364" />
+		<rom name="Venus 5 (Recreativos Franco)(1973)(eduguitar72)(1.2)[VP912].vpt" size="9637888" crc="fd17f4cd" md5="fb714a9821d28ed140fc94a27236971b" sha1="c54e2999e1f21a7d687144c9682c247171c25481" />
+		<rom name="Venus 5 screenshot.jpg" size="503423" crc="f656c7ca" md5="b4b7e933d5107095d832682c5a74de3b" sha1="104a4c2fb2b1533ce226db05a65cc0ece5251f0d" />
+		<rom name="Venus 5 2.0 (Recreativos Franco 1973).vpt" size="4812800" crc="081eb7e7" md5="596098ef6de3b8047bd05bb5d31bb1b8" sha1="a02508ccfdf931ee0398422d74950949bbc98ab0" />
+		<rom name="Venus 5 2.0 Mod Extraball  (Recreativos Franco 1973).vpt" size="4816896" crc="bf1e8fa1" md5="335cc3c9b2d988d1eff8a23a83b59e43" sha1="72c208f876db10c4813858540a61e5dcdfd62b59" />
+		<rom name="Venus 5 2.0-later (Recreativos Franco 1973).vpt" size="4648960" crc="77823b45" md5="512b066a3c84b6c07bba664c35a13f1c" sha1="da77085c53c3237de14c01f340196ff0e2571573" />
+		<rom name="Venus 5 2.0-later Mod Extraball (Recreativos Franco 1973).vpt" size="4653056" crc="c6e12d0f" md5="d06e2ac8c4af052e8bde1082dc5aa58b" sha1="f23af76fe93adafc711930ca082c4c76af117d43" />
+		<rom name="Venus 5 2.1 (Recreativos Franco 1973).vpt" size="4804608" crc="6baec5cc" md5="848f4a47ddbea7e84d4abcce2fc9c55c" sha1="75ab467e7e486b8bb33d15c2bfe17958eefe2261" />
+		<rom name="Venus 5 2.1 Mod Extraball (Recreativos Franco 1973).vpt" size="5537792" crc="b28d411b" md5="1c99578a2cc3885be5016b5d73096f86" sha1="810bc44fbf9c436b3ca6e2a86158cf64a4fd492e" />
+	</machine>
+	<machine name="Volley (Gottlieb)(1976)(Loserman76)(3.0)[VP91x]">
+		<description>Volley (Gottlieb)(1976)(Loserman76)(3.0)[VP91x]</description>
+		<rom name="screenshot.png" size="1794742" crc="530948d3" md5="9f71bfdec70735516f54adcf03ae714d" sha1="04925334ff97ac2ebb54db51da5f25c3baffe57b" />
+		<rom name="Volley (Gottlieb) (1976) (Loserman!, Bodydump)-v3.0-SS.directb2s" size="3737345" crc="ad91da60" md5="6069cdea7221bc941a165d3bab4f3f55" sha1="403c238b5dcc9443b3fbb060cae668aef7e045dd" />
+		<rom name="Volley (Gottlieb) (1976) (Loserman!, Bodydump)-v3.0-SS.vpt" size="29229056" crc="92876347" md5="a5ff340b39f972fb0c899ccd40b768f7" sha1="2b82c6e0a606c1bc8ffdd5af2824632040d448cb" />
+		<rom name="Volley-Readme.txt" size="1951" crc="fc58b2f2" md5="7ceea061d2575e57aa6fe60f156a48c5" sha1="be1af7d162780a33fdc4b2bb0cff152e8a79e790" />
+	</machine>
+</datafile>

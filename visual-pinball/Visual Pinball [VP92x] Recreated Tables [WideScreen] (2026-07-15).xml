@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP92x] Recreated Tables [WideScreen]</name>
+		<description>Visual Pinball [VP92x] Recreated Tables [WideScreen] (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="Jack in the Box (Gottlieb)(1973)(Wim Kuijpers)(1.0)[VP920][Four players][Widescreen]">
+		<description>Jack in the Box (Gottlieb)(1973)(Wim Kuijpers)(1.0)[VP920][Four players][Widescreen]</description>
+		<rom name="jackinthebox.vpt" size="9342976" crc="dd245603" md5="aa8e33e29554e08d69d006e77d321f3e" sha1="9bec9cf4a7cf8c45cb43e3609e1103e6d9f45f3a" />
+		<rom name="screenshot.png" size="1737879" crc="ae6434bb" md5="a89e41f4ca58ee9d435acd6813accf94" sha1="b9b4ed6735b2e8b5c6588bda8cc68b2797773119" />
+	</machine>
+	<machine name="Star Pool (Williams)(1974)(Eala Dubh Sidhe)(RC1)[VP92x][WideScreen DarthMarino]">
+		<description>Star Pool (Williams)(1974)(Eala Dubh Sidhe)(RC1)[VP92x][WideScreen DarthMarino]</description>
+		<rom name="Alternate Ball Color Option.txt" size="282" crc="95fea75b" md5="e9f4e221a85a38a3c5001dc13b64c898" sha1="9dcd34e9160b36da20e77a8b21b934156bf28a07" />
+		<rom name="screenshot.jpg" size="137831" crc="8060cb8c" md5="2e8b13ae4de753ba66779712ab369484" sha1="43a4cd9e88c4c95f56a26a888773107d314ad518" />
+		<rom name="Star Pool VP9 16X9.vpt" size="26402816" crc="d624c460" md5="d6f25c25d2fec1ee75b48fa4708a03c6" sha1="a7a0fe4efa92cea781aef5489e4fb73d3b270b52" />
+	</machine>
+</datafile>

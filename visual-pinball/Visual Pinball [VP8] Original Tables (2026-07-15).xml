@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP8] Original Tables</name>
+		<description>Visual Pinball [VP8] Original Tables (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="4th Fireworks (2009)(Rascal)(1.0)[VP8]">
+		<description>4th Fireworks (2009)(Rascal)(1.0)[VP8]</description>
+		<rom name="fireworks.vpt" size="3063296" crc="58a9c472" md5="9eda3d31b9b364fff64d7f8c5b7a29a5" sha1="55e10f5b503b5b82a1add68f65ec04c9feb0ef63" />
+	</machine>
+	<machine name="Addams Family, The (TV version) (Bob5453)(1.1)[VP8][2009 Edition]">
+		<description>Addams Family, The (TV version) (Bob5453)(1.1)[VP8][2009 Edition]</description>
+		<rom name="Addams Family, The (TV version) (2009)(1.0) screenshot.jpg" size="422605" crc="8a40e347" md5="e5cf009c8618df83316a5e6c42861d15" sha1="68951bbffa23745f0c1f57dc00fa24ee60c4615e" />
+		<rom name="Addams Family, The (TV version) (2009)(1.1) screenshot.jpg" size="437275" crc="72398ea3" md5="e892ef7c8ad607d5f6e3abb8d8316cee" sha1="b7dab2c3953fb79527165a56422927758c73fa79" />
+		<rom name="TAF TV 2009 VP8 1.0.vpt" size="11988992" crc="acf96824" md5="c37295a9d8adca47b2b3470b2c05aad4" sha1="33fe639102db56f9fe81864186b35c6cdcfc8184" />
+		<rom name="TAF TV 2009 VP8 1.1.vpt" size="11203584" crc="414a6694" md5="9ea42895eb0827fc935c0e6330b860db" sha1="a7d68505d86e933efeef36dbefe0bd52e3a9f2e9" />
+	</machine>
+	<machine name="Addams Family, The (TV version) (Bob5453)(2007)[VP8]">
+		<description>Addams Family, The (TV version) (Bob5453)(2007)[VP8]</description>
+		<rom name="TAF TV 2007.vpt" size="9648640" crc="b5da4835" md5="f349238e7057dfd82dc8646f153140c5" sha1="6b33911018eb5bc2358b9e8e61a4e7531f9c8e1f" />
+		<rom name="TAF_TV_2007  by Bob5453.jpg" size="250781" crc="7c1748d0" md5="02cf7361777ef84975c0d51216c97b85" sha1="89350d6d3900dc642d686b019c15aaeece4a6446" />
+	</machine>
+	<machine name="Afterburner (Subzero1970, Roland Scholz, Scapino)(2.0a)">
+		<description>Afterburner (Subzero1970, Roland Scholz, Scapino)(2.0a)</description>
+		<rom name="AfterBurnerMusicPack/afterburner-redline.mp3" size="1966496" crc="df984c3b" md5="c43b59f6fb94cfed4f4389cbb267b7e3" sha1="94c9cc34ebe5f0c261cc5688566c0b43bdc33326" />
+		<rom name="AfterBurnerMusicPack/afterburner.mp3" size="2561760" crc="a58a6e8d" md5="2a431bfd38cfd38d06fd4998ab72a695" sha1="ea015339596d1ae07aba87acd2020468b9510ce7" />
+		<rom name="Afterburner.txt" size="2246" crc="1a44ac0f" md5="a25d72f4ca078217f9291ca848f724ab" sha1="5cde25ba7de169b52870f6fad49cbba548c85c9c" />
+		<rom name="AfterBurnerV2_0a.vpt" size="3847680" crc="bc8e9232" md5="b206bec9c7187c93259948adc860d040" sha1="ac809d311ed346549b71e0fdbb89296c022a04c3" />
+		<rom name="readme.txt" size="2253" crc="487d86d3" md5="e88af1c80c9c7b1052a275a86b88c23f" sha1="516f909aaae5270cb579f0af08421061f3a84581" />
+		<rom name="screenshot.jpg" size="268023" crc="e985da8c" md5="b850849b08a8e67acdd5ca3e8c8fe209" sha1="68bbd7c4be255d590f368751f7de273d06a93666" />
+	</machine>
+	<machine name="American Idol Season 7 (Rick 2006)(1.0a)[VP8]">
+		<description>American Idol Season 7 (Rick 2006)(1.0a)[VP8]</description>
+		<rom name="Music Pack 1/AI(1).mp3" size="10132536" crc="61456718" md5="642debc8e6d02cbfce67ddb760fb65ab" sha1="7fe5c6529363aaf960cf4beeb737f6217c63eec5" />
+		<rom name="Music Pack 1/AI(4).mp3" size="8237697" crc="ca906796" md5="e2019f0a847d4bcc830cd0fb36fdf088" sha1="1d2a693ce528bd6df53e721fc95eeacf1774ae80" />
+		<rom name="Music Pack 1/AI(7).mp3" size="8866560" crc="d30bb5c9" md5="1d74e84fe7ff4fe42512b427ed199033" sha1="be58732237d4fb663a930ad8994da6a74cc40b99" />
+		<rom name="Music Pack 1/AI(10).mp3" size="5036170" crc="0b28beb4" md5="9bfb5358afabf10ce486fcdb01de5ce7" sha1="b7e4618eb37468f3c82b26c545d43d9443e22e5e" />
+		<rom name="Music Pack 1/AI(13).mp3" size="2971481" crc="1c0c2bc6" md5="c5ec2668529682a6e4e38983b8442e34" sha1="ec60cfa2b83c98c7d69ebd5e46ca477a7573b541" />
+		<rom name="Music Pack 1/New Text Document.txt" size="83" crc="224617c0" md5="b092ea3b8645f908b4f3cfdd1abf3eea" sha1="099a377ec80afd2e2a5adedce2195f98d0f7b8fb" />
+		<rom name="Music Pack 2/AI(2).mp3" size="2689872" crc="f79986cf" md5="1cea965f11b5301ed1cc8b31087c62c2" sha1="35de99914c52675222abb61eb512590634ce436d" />
+		<rom name="Music Pack 2/AI(3).mp3" size="8429561" crc="34080694" md5="d1e85ffca996f40bbfecc5d458059ad8" sha1="85a0abe8e3b2ff1223d6ed4f08959e3ded881c42" />
+		<rom name="Music Pack 2/AI(5).mp3" size="3167422" crc="54f5b3b1" md5="1637355cec1f0128cae3e661c5401f40" sha1="ccd61ce51d54e079bc972844b76ff16e1bad636d" />
+		<rom name="Music Pack 2/AI(6).mp3" size="3394522" crc="418f187a" md5="09793e267928ca196f70ba2bc0b525cb" sha1="b3387828c587250c976885faab4cb0b2deb7d6b1" />
+		<rom name="Music Pack 2/AI(8).mp3" size="8725003" crc="cb3daf8d" md5="6edba1a63d9ca38867426318855986a6" sha1="766b9b41f0251d086cc273046d85e2413dae64dc" />
+		<rom name="Music Pack 2/AI(9).mp3" size="3031751" crc="a5ce5fa6" md5="d7ab3929416d5d5d3c3732eed371bba7" sha1="30e11220d0dd5a8cbb2ce50e5a0c120dc047ee59" />
+		<rom name="Music Pack 2/AI(11).mp3" size="3143599" crc="8447d68d" md5="8f81e5bfcd46b664f8917ecfeba9c8f4" sha1="5803001ac2b493517f228cbc3a377af2879561e3" />
+		<rom name="Music Pack 2/AI(12).mp3" size="5105802" crc="60fbf8c1" md5="8fcbdb09b04ab1537e284efe46a16136" sha1="a9554dccb8866b086928f1d23104d2547a94a620" />
+		<rom name="Music Pack 2/AI(14).mp3" size="2179265" crc="fc49d87e" md5="0f640b6ca91fb141cb96c9b25d8f6622" sha1="3c423342004dec45830191ed51dcf14735e5f6dd" />
+		<rom name="Music Pack 2/AI(15).mp3" size="4885264" crc="4ee09566" md5="b8343c59af3750e97411034fbe2af251" sha1="927a4b261cfd17e4a047111dd695cf32cfc7f949" />
+		<rom name="Music Pack 2/New Text Document.txt" size="88" crc="594059ad" md5="d40c0594a230a500c01d8c233e5b82d7" sha1="1c6dc2d92037fc3ecd9f15439d3731d9622af17d" />
+		<rom name="American Idol Season 7 (By Rick 2006).vpt" size="19561472" crc="89d82a5c" md5="737e1a14aac693228c61268c0f278a89" sha1="8b2385a2eb365e5cb081d704a31f3fffacebd94f" />
+		<rom name="American Idol Season 7 (By Rick 2006)_a.vpt" size="19561472" crc="8388eeda" md5="dd177ee867a45d52f0fa96043493bd10" sha1="06da0fd3b76080ab35ec9a7ef021a4000dd1b3d7" />
+		<rom name="screenshot.jpg" size="160745" crc="8314f3ba" md5="ea9a75ebbc8df10919ec1e12e19bf143" sha1="01e561d69bf89d8fa5e3c657944688fe0117e555" />
+	</machine>
+	<machine name="AntiGrav Pinball (Jeff Block)(1.6p)[VP8]">
+		<description>AntiGrav Pinball (Jeff Block)(1.6p)[VP8]</description>
+		<rom name="1.4/AntiGrav Pinball - v1.4.vpt" size="602112" crc="602f9f84" md5="263e0527d5ce0c123beeeabcf4de2a42" sha1="da699de45a74c65eea9fdb2b01270c80d789254f" />
+		<rom name="1.6p/AntiGrav Pinball (1.6) screenshot.gif" size="40928" crc="69c3d2ce" md5="c02bca4ef03e71950d6ffb590d26b2d4" sha1="72a1384678772343979c767d573965ab5afd20d3" />
+		<rom name="1.6p/AntiGrav Pinball - Readme v1.6.txt" size="4871" crc="54570c59" md5="d3a2617c8f13ec25c659061628145a39" sha1="8d54bcaca04509239c9330312b00dcef14e5c1b1" />
+		<rom name="1.6p/AntiGrav Pinball - v1.6p.vpt" size="630272" crc="d1e950d1" md5="a28531f9dce0cce3fb0806731bc5c80c" sha1="441f3a5640f898290e4ed4f5e8f98973c511fefa" />
+		<rom name="1.6/AntiGrav Pinball - v1.6.vpt" size="630272" crc="5f7c1eac" md5="386ba03379a92c97b76398cc435c4367" sha1="a9e4ea95e50ad50d4b705dfd20d357b34457b551" />
+		<rom name="Fonts/desdemon.ttf" size="54476" crc="69fc47f0" md5="7f91c468c9207bd7714bd29f46d9e28b" sha1="e8809e182499c8d49772c68f95247f3e8d54c8ae" />
+		<rom name="Fonts/mlsjh.ttf" size="48104" crc="ceaaf4ad" md5="3e32df3c7b216ec0524c90592744186b" sha1="dbc56840f62690b7d23e99367b99ab6e4bb8e8fe" />
+	</machine>
+	<machine name="Astronomer (Gridiron)(6.2)[VP8]">
+		<description>Astronomer (Gridiron)(6.2)[VP8]</description>
+		<rom name="astronomer.jpg" size="387501" crc="25020346" md5="6bab8fa9f47eabcb77b99df1bbb5bf91" sha1="02ecc06aed0900e76fc0b193cd60a3d415ceec51" />
+		<rom name="AstronomerV6.2.vpt" size="10678272" crc="4662db63" md5="dcead714233fc07301cb7dcf0163c057" sha1="bcb3ab4ee8b08d6cebb22684248776a794e0b336" />
+	</machine>
+	<machine name="AtmosFear (Rockinghorse)(2.0)[VP8]">
+		<description>AtmosFear (Rockinghorse)(2.0)[VP8]</description>
+		<rom name="Fonts/trana___.ttf" size="58232" crc="a65607b4" md5="66dc9095c3f6fb48dbe4874d7304ca47" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6" />
+		<rom name="ver1/AtmosFear (1.0) screenshot.jpg" size="98363" crc="01c7d32f" md5="7fe1fb55841a475bd3a587d20ec0753c" sha1="0c56a301faf67674a70d8e0d6f73ffd7f24b0c20" />
+		<rom name="ver1/AtmosFear - Ver1.vpt" size="8297984" crc="bfc1ad10" md5="aa29581b5b0a40863fe2e1119f7552bf" sha1="00539d72092e5c0d3299b69736224786a0cc35db" />
+		<rom name="ver2/AtmosFear (2.0) screenshot.jpg" size="93574" crc="3b0b6a08" md5="a230c74ddb4552c8e37e5b50a22e0f5e" sha1="b76599d21ac609daa48f5815c0e58e32c5988cfe" />
+		<rom name="ver2/AtmosFear - Ver2.vpt" size="8318464" crc="8f21bb92" md5="e7da32d0984a5e619e734141d6027b79" sha1="d057c40a80bd2cafbbbf15d16e09333ff4c9d9c7" />
+		<rom name="Rules.rtf" size="2226" crc="7cb18b5e" md5="491415c27e54ad5260ae400c3b022e85" sha1="87fa9eb48ca7cd883e2b287dac45e1b2c1804698" />
+	</machine>
+	<machine name="Attack &amp; Revenge from Mars (JPSalas)(1.1.0)[VP8]">
+		<description>Attack &amp; Revenge from Mars (JPSalas)(1.1.0)[VP8]</description>
+		<rom name="Attack_Revenge_from_Mars_JP_1.1.vpt" size="9204224" crc="61f63671" md5="9abb32725527adfe00b2a5c0668b01bd" sha1="39147e51351b7ba3ad1d79dd3b54d656ef6517a8" />
+	</machine>
+	<machine name="Banjo-Kazooie - The Pinball Adventure (Theguyoverthere)(2.2.2)[VP8]">
+		<description>Banjo-Kazooie - The Pinball Adventure (Theguyoverthere)(2.2.2)[VP8]</description>
+		<rom name="Music/BanjoKazooieIntro.mp3" size="1531889" crc="cbfe9182" md5="533bbfc6df5673eb64a577f03053c068" sha1="ecfb19b4763cad1de7afbed554ef8b983ca70b86" />
+		<rom name="Music/barbeque song.mp3" size="1422442" crc="81d86e44" md5="733ece03696a9121cacc603029794cca" sha1="d916e5ac16eabbae94173418d3e71aa0e4094aa8" />
+		<rom name="Music/final fight.mp3" size="2870682" crc="b79c8132" md5="e554d5f959805e449c3bf6aac65bab35" sha1="1e8afc9f2a074027a32ccc9b3424ab673ff59c12" />
+		<rom name="Music/fp race.mp3" size="922980" crc="3e468ff5" md5="8485e219f60595c2a79794ec836c6a25" sha1="55d3feb7fc3c104c4801d65130d6744d9f59c7b6" />
+		<rom name="Music/GruntildasLair.mp3" size="1803971" crc="7c20dc1a" md5="7c83670fee1125c64e8f4237e5793f30" sha1="151129d867e931cb9de953a6a2985cefdc9a3443" />
+		<rom name="Music/gruntys furnace fun.mp3" size="2088680" crc="8760d35b" md5="353053566ffb853a07d080c8045e5ce2" sha1="f739028b9ccc9f17d659dffee43e953152977da2" />
+		<rom name="Music/gv maze.mp3" size="846928" crc="4cda612d" md5="5d83b7039511c6814abc589e710518bc" sha1="14928a7cd918b4f44c248bce50e7da5fe39d1b94" />
+		<rom name="Music/Mansion.mp3" size="1223810" crc="9634de78" md5="0c2f6229d2e7b66709dcd7d1797c1b7b" sha1="04f492defb08bd51d1c786e2b2bbed95007798b6" />
+		<rom name="Music/MumbosMountain.mp3" size="1984982" crc="d6d51036" md5="9ead6ff9b5bd4b316715d4baebcb3ff5" sha1="f5df3d6622189b5c7e0836ab4a8874db70deee2b" />
+		<rom name="Music/vile.mp3" size="858243" crc="3e78ae8d" md5="24c09cff92572c33a69f2115d6da4b6f" sha1="90e749576e4662416f98c6ee1214c71fca2d053c" />
+		<rom name="Banjo-Kazooie Pinball ver 2.2.2.vpt" size="13321216" crc="61940bf0" md5="1e088e068847ff2926952214af94864a" sha1="858acac0321fc4b4341994501bfbc9313b28beb6" />
+		<rom name="Banjo-Kazooie_Rules3.rtf" size="59661" crc="a3ff85e0" md5="949eeb658c452cf327baaf62639efcac" sha1="48fc6f137c84dd87f8c3d783d383e8d72da47f7d" />
+		<rom name="BanjoKazooieIntro.mp3" size="1531889" crc="cbfe9182" md5="533bbfc6df5673eb64a577f03053c068" sha1="ecfb19b4763cad1de7afbed554ef8b983ca70b86" />
+		<rom name="barbeque song.mp3" size="1422442" crc="81d86e44" md5="733ece03696a9121cacc603029794cca" sha1="d916e5ac16eabbae94173418d3e71aa0e4094aa8" />
+		<rom name="BK Pin README.txt" size="2924" crc="e58a4729" md5="e917cdd4162d51c4481d37066525b283" sha1="dff54041b1b9bb24276198772b6869adcec58f07" />
+		<rom name="final fight.mp3" size="2641998" crc="72be72ad" md5="14a22a7f1a106c97b2fd938679926075" sha1="d84b26b35487dc7365828e44f6e4ae78a37bb7d7" />
+		<rom name="fp race.mp3" size="922980" crc="3e468ff5" md5="8485e219f60595c2a79794ec836c6a25" sha1="55d3feb7fc3c104c4801d65130d6744d9f59c7b6" />
+		<rom name="GruntildasLair.mp3" size="1803971" crc="7c20dc1a" md5="7c83670fee1125c64e8f4237e5793f30" sha1="151129d867e931cb9de953a6a2985cefdc9a3443" />
+		<rom name="gruntys furnace fun.mp3" size="1825460" crc="4e66cc31" md5="e884b7bcb5339592ff88043988bf8779" sha1="9f361e1b0f7df0188579d63c76c00e7da5490fea" />
+		<rom name="gv maze.mp3" size="846928" crc="4cda612d" md5="5d83b7039511c6814abc589e710518bc" sha1="14928a7cd918b4f44c248bce50e7da5fe39d1b94" />
+		<rom name="lithograph.TTF" size="49152" crc="763826be" md5="d499249cdcb31960e6ba1cd9d6eea088" sha1="82f91b0c82ee8ea289f729625961ad5ebdc51758" />
+		<rom name="Mansion.mp3" size="2425126" crc="328a391a" md5="9bb53698f71b1be1d8dc4181b091e7cb" sha1="a4657b508f13b4fd2057a3fbea4497b9fc9e3bac" />
+		<rom name="MumbosMountain.mp3" size="2155182" crc="70c93c28" md5="8046865ce31730d940febb22e86a0e98" sha1="ea24f3d925a3ef590e1fc69ee335e02ed7f8d3d7" />
+		<rom name="vile.mp3" size="858243" crc="3e78ae8d" md5="24c09cff92572c33a69f2115d6da4b6f" sha1="90e749576e4662416f98c6ee1214c71fca2d053c" />
+	</machine>
+	<machine name="Banjo-Kazooie - The Pinball Adventure (Theguyoverthere, Faralos (GFX))(2.4 Fancy version)[VP8]">
+		<description>Banjo-Kazooie - The Pinball Adventure (Theguyoverthere, Faralos (GFX))(2.4 Fancy version)[VP8]</description>
+		<rom name="Music/BanjoKazooieIntro.mp3" size="1531889" crc="cbfe9182" md5="533bbfc6df5673eb64a577f03053c068" sha1="ecfb19b4763cad1de7afbed554ef8b983ca70b86" />
+		<rom name="Music/barbeque song.mp3" size="1422442" crc="81d86e44" md5="733ece03696a9121cacc603029794cca" sha1="d916e5ac16eabbae94173418d3e71aa0e4094aa8" />
+		<rom name="Music/final fight.mp3" size="2870682" crc="b79c8132" md5="e554d5f959805e449c3bf6aac65bab35" sha1="1e8afc9f2a074027a32ccc9b3424ab673ff59c12" />
+		<rom name="Music/fp race.mp3" size="922980" crc="3e468ff5" md5="8485e219f60595c2a79794ec836c6a25" sha1="55d3feb7fc3c104c4801d65130d6744d9f59c7b6" />
+		<rom name="Music/GruntildasLair.mp3" size="1803971" crc="7c20dc1a" md5="7c83670fee1125c64e8f4237e5793f30" sha1="151129d867e931cb9de953a6a2985cefdc9a3443" />
+		<rom name="Music/gruntys furnace fun.mp3" size="2088680" crc="8760d35b" md5="353053566ffb853a07d080c8045e5ce2" sha1="f739028b9ccc9f17d659dffee43e953152977da2" />
+		<rom name="Music/gv maze.mp3" size="846928" crc="4cda612d" md5="5d83b7039511c6814abc589e710518bc" sha1="14928a7cd918b4f44c248bce50e7da5fe39d1b94" />
+		<rom name="Music/Mansion.mp3" size="1223810" crc="9634de78" md5="0c2f6229d2e7b66709dcd7d1797c1b7b" sha1="04f492defb08bd51d1c786e2b2bbed95007798b6" />
+		<rom name="Music/MumbosMountain.mp3" size="1984982" crc="d6d51036" md5="9ead6ff9b5bd4b316715d4baebcb3ff5" sha1="f5df3d6622189b5c7e0836ab4a8874db70deee2b" />
+		<rom name="Music/vile.mp3" size="858243" crc="3e78ae8d" md5="24c09cff92572c33a69f2115d6da4b6f" sha1="90e749576e4662416f98c6ee1214c71fca2d053c" />
+		<rom name="Banjo-Kazooie Pinball 2.4.vpt" size="19193344" crc="991ab3e0" md5="14520d18564f8eaebff7cd42b0cf3c31" sha1="4024bc178b489cf17cf2ded4a4e3e3b1b0c1d4d4" />
+		<rom name="Guide to Banjo-Kazooie Pinball.doc" size="1226240" crc="acf8a0f0" md5="0f9852891683507f5452746bb75dc244" sha1="ced216044795cd958c68f356098c974d549572ed" />
+		<rom name="lithograph.ttf" size="49152" crc="763826be" md5="d499249cdcb31960e6ba1cd9d6eea088" sha1="82f91b0c82ee8ea289f729625961ad5ebdc51758" />
+		<rom name="screenshot.png" size="1543977" crc="da04a6d4" md5="f868afcd3b6b1ccdf200a30e04aa3aa8" sha1="9dce87e1fb73b27622caf532191b3db4ab9e740a" />
+	</machine>
+	<machine name="Blazing Trail (StevOz)(2.0c)[VP8]">
+		<description>Blazing Trail (StevOz)(2.0c)[VP8]</description>
+		<rom name="old/Blazing Trail (SteveOz)(1.1).vpt" size="3533824" crc="884a5041" md5="d663d6252b1879ece11f4b8379b223b4" sha1="297cf3ba219dea6d3a514068e7786e6381c72169" />
+		<rom name="old/Blazing Trail (SteveOz)(1.2).vpt" size="3534336" crc="fd2f76b2" md5="40fe1a015bd8f5f8c0b194f138158e55" sha1="2ec2d9038a8d7071e651c7f67ff1ee23e4143395" />
+		<rom name="old/Blazing Trail (SteveOz)(1.3).vpt" size="3705856" crc="ee79acd4" md5="124e9e4fec33e9027b4eca53c4c4cd23" sha1="af47ea407b262506bcb3d2cbd245a34d7d382fdd" />
+		<rom name="old/Blazing Trail (SteveOz)(1.3a).vpt" size="3705856" crc="48ceb589" md5="21788d085a8c894bde608d16055d5e7c" sha1="f9f8f3abdca5d1d21b7c69002bd2a469d77d4e39" />
+		<rom name="old/Blazing Trail (SteveOz)(1.5).vpt" size="3724288" crc="6407de6e" md5="3cde4215a473223bc57c5641bcf53914" sha1="b2a2c7e9447c3c1fd546af1fd755104f52175e46" />
+		<rom name="old/Blazing Trail (SteveOz)(2.0).vpt" size="3733504" crc="475a3918" md5="608eae56c4714d1f4b09245f2240986a" sha1="d7a5ee7f29719b0b4b052cfe90d3659184980c1b" />
+		<rom name="old/Blazing Trail (SteveOz)(2.0)[Tournament Edition].vpt" size="3728384" crc="655ede63" md5="fc3b495ec20f16ee4d253c24055fb259" sha1="1d4e8141a8b6292baa7475d6da015d441e491d2a" />
+		<rom name="old/Blazing Trail (SteveOz)(2.0a).vpt" size="3733504" crc="8ac07c21" md5="78a5a7a1835cb72bd99abedc0706d439" sha1="d441377ae5946fbaf2f8eceeb59159d9fea93eeb" />
+		<rom name="old/Blazing Trail screenshot.jpg" size="126324" crc="268f7f01" md5="788f6f5b29490d0fc4f54accbe39ef39" sha1="55d159a2bbe45e6033596bf1894aef17ae2ef258" />
+		<rom name="Blazing2.vpt" size="3835904" crc="4eced041" md5="2913478556c43858a42ab727ec60873d" sha1="9c8df1ca5dd3f549e13465d48fd5627181eae1d2" />
+		<rom name="goudysto.ttf" size="48356" crc="09484b4c" md5="cb1a9d8c8e33d221e26a0d8247856c5e" sha1="bcb1dade9b17af311bbabe45b56720168bba386c" />
+		<rom name="Sheriff.mp3" size="911276" crc="64472f54" md5="eb5571fa334f03ac227a691c272120d9" sha1="879058043f81c424da9bcbd274fcea93aae766ec" />
+	</machine>
+	<machine name="Bleach (Anthias)(1.0)[VP8]">
+		<description>Bleach (Anthias)(1.0)[VP8]</description>
+		<rom name="Bleach (Anthias)(1.0).vpt" size="16009216" crc="84ecd1dc" md5="a2fa869b9c057950f138a7864ae1ca00" sha1="c358e00e29e9f3c0b92103d746791aa0b6fbaaa4" />
+		<rom name="Bleach screenshot.jpg" size="226036" crc="63e6732a" md5="aa13c378d9bc694ddacc583efc1d018e" sha1="6138dd1261a3b3ab4553466d7bcf3846ce95f1f6" />
+	</machine>
+	<machine name="Blues Brothers, The (Rockinghorse, Rockit)(1980 version)[VP8]">
+		<description>Blues Brothers, The (Rockinghorse, Rockit)(1980 version)[VP8]</description>
+		<rom name="Blues Brothers, The screenshot.jpg" size="212168" crc="797ed8a8" md5="3a18ea2839c0b3afb45d7b53f79426cc" sha1="761dd7b295ee64a2bbeda16920dd6dc36428d185" />
+		<rom name="bluesbrothers1980.vpt" size="22251008" crc="0689a0bf" md5="f5a98195b19be7d6f01adc06d8f0748c" sha1="63387bf3d2b4e774b527fe3a3d08d9054823d62d" />
+	</machine>
+	<machine name="Bob's Nemesis (tiltjlp)(3.0)[VP8]">
+		<description>Bob's Nemesis (tiltjlp)(3.0)[VP8]</description>
+		<rom name="Bob's Nemesis3.vpt" size="752128" crc="bcc52d51" md5="2470aa6639c6a4ecd23f9a85337cfe31" sha1="8a6ac4f3626412388f2090fc7d6050ab52c80764" />
+		<rom name="Bob's Nemesis (3.0) screenshot.jpg" size="380379" crc="ffb0ed53" md5="49d5e6499416cd6c1add2f99649b6e68" sha1="da48e10dcc513ee6b68c5973a39211d86c7be58b" />
+	</machine>
+	<machine name="Breakers! (Timelord)(Alpha 92a release)[VP8]">
+		<description>Breakers! (Timelord)(Alpha 92a release)[VP8]</description>
+		<rom name="Breakers ! Alpha 92 release.vpt" size="9366016" crc="af3788d7" md5="80c12bf6db77640f46b1da516907b595" sha1="08bb0ca0f5a058f6c36d2df96c484bda17985b51" />
+		<rom name="Breakers ! Alpha 92a.vpt" size="9366016" crc="2736eedc" md5="540e8e52ee75aec0644c8a2523072580" sha1="c51c9b64ca0296d2c8d755f8d766152e5f8399d2" />
+		<rom name="screenshot.jpg" size="815637" crc="e1d0768b" md5="4189ef7fca7b6eeb8e3c2f5fdccfb8cb" sha1="de0dc2ce286f482a1ede39dd7e687b4367089e15" />
+	</machine>
+	<machine name="Charlie and the Chocolate Factory (Rascal)(1.0c)[VP8]">
+		<description>Charlie and the Chocolate Factory (Rascal)(1.0c)[VP8]</description>
+		<rom name="1.0b/Charlie and the Chocolate Factory.vpt" size="10809344" crc="869fac4a" md5="f64e70d9abf3da9b0f02d36907d40dc0" sha1="94a1d53c696684aac098aa1648f274ceb0e5afe1" />
+		<rom name="1.0c/Charlie and the Chocolate Factory.vpt" size="10809344" crc="044a3423" md5="87ed123dac94cb8ab6a25afc5ee929aa" sha1="8ed7c120beb05d4e9b0b7626031c46cae5fc2c47" />
+		<rom name="screenshot.jpg" size="311730" crc="f7168ebc" md5="34fda1a45a205fe5b181e25825dc92cf" sha1="a10e44e3bab746b83472dd93a7220a220e8cb447" />
+	</machine>
+	<machine name="Crazy Loops (mrschultz)(wip14)[VP8]">
+		<description>Crazy Loops (mrschultz)(wip14)[VP8]</description>
+		<rom name="(wip10) screenshot.jpg" size="107354" crc="d1c5e9eb" md5="5e60503e33c542f956ef3e67d127219f" sha1="200ec70f66df101803c2f381c5b99e6a1c90d429" />
+		<rom name="(wip12) screenshot.jpg" size="243388" crc="2ed85d58" md5="9fc9b0fda42163b10fff2b70ad1d6a7e" sha1="c65cc4a844bc6a5e20f027538e7c25e117521b87" />
+		<rom name="(wip14) screenshot.jpg" size="102064" crc="2adb791c" md5="9a32833bc8b88349ecdf5dfc68cb4a8f" sha1="86772967921d384a20e172a7896f25e881e01f11" />
+		<rom name="crazyloopsWIP5.vpt" size="130560" crc="2986ebf9" md5="2edf19aee817c6b5e2edfc090387a012" sha1="6ebac4a6d51687c368e3a9d3d0fe7c8804590320" />
+		<rom name="crazyloopsWIP9.vpt" size="142336" crc="defd65c7" md5="e0294ee6aedada196ca0ab436ce3b9f3" sha1="030d8d87cd973b33ba72d264dcb26bb01571a98f" />
+		<rom name="crazyloopsWIP10.vpt" size="256512" crc="a718953f" md5="c09c8309c982caa1b6f719ac5e68efeb" sha1="85b7edae370f416f5f013cfea1c6d1619e50d03e" />
+		<rom name="crazyloopsWIP12.vpt" size="471552" crc="da74fbd8" md5="fa808b6078403498385df1474626b60a" sha1="8ceac1dbf16ec4d813548d6a22d775fac6d420d9" />
+		<rom name="crazyloopsWIP13.vpt" size="471552" crc="5ff2299a" md5="2144397dff19957c4f4aa0d6fb52ef5e" sha1="d6ba71cc286286d049346dbdda9bd929f31f33fc" />
+		<rom name="crazyloopsWIP14.vpt" size="693760" crc="28bc5367" md5="a5acaaaf6de3ab26d653611159fada96" sha1="fab54ccb0739e6dfa81aa6e4223a7175d1b9fd30" />
+	</machine>
+	<machine name="Daffy Duck (Bob5453)(2008)[VP8]">
+		<description>Daffy Duck (Bob5453)(2008)[VP8]</description>
+		<rom name="Daffy Duck (2008) screenshot.jpg" size="251681" crc="0069b2c9" md5="8b65e8e9042599397d6add15209be7d7" sha1="809f6facfba2013b0e3f830b54e94580aa3e2ebb" />
+		<rom name="Daffy Duck (Bob5453)(2008).vpt" size="9661952" crc="750bc3e0" md5="d4e1f3b80b46dc0162cdbcbaaf1a3fde" sha1="07d127fc85e8c6b13e51b33f7c853422941899af" />
+	</machine>
+	<machine name="Dark Age of Camelot (Rockinghorse)(1.0)[VP8]">
+		<description>Dark Age of Camelot (Rockinghorse)(1.0)[VP8]</description>
+		<rom name="Dark Age of Camelot.vpt" size="3831808" crc="250303d9" md5="ae308e21b2b66aea922ccc0f0870af32" sha1="e83d7932bdbeafe5ef08ced74e30bdf449d1b443" />
+		<rom name="screenshot.jpg" size="76586" crc="9bc0a097" md5="78cabb48b6b7d53dd41d5a7404cad551" sha1="2ec6704bb3d84226038a567571a3d6994aa7402e" />
+	</machine>
+	<machine name="Don't Lose Your Marbles (SheltieMom, tiltjlp)(2.0)[VP8]">
+		<description>Don't Lose Your Marbles (SheltieMom, tiltjlp)(2.0)[VP8]</description>
+		<rom name="Marbles.vpt" size="3036160" crc="95639510" md5="075bad5938957793d42ff1d215b1ce35" sha1="d15d7df2ee7e09bf16b85feebc9b8155b5fda1ef" />
+		<rom name="MarbleStory.rtf" size="7526" crc="145068ca" md5="95957db919027b0e4f95d74a6433ba7d" sha1="86ae24576fa41e7d278dbdef552a636025c29da8" />
+		<rom name="screenshot.jpg" size="516254" crc="2447a85c" md5="cc7e9699c6fd55f214effbf91dda0022" sha1="86fe66beebcb8cbefdff22133e25ecc17e2a54cb" />
+	</machine>
+	<machine name="Double Decker (Block 2006)(1.0p)[VP8]">
+		<description>Double Decker (Block 2006)(1.0p)[VP8]</description>
+		<rom name="Double Decker - ReadMe v1.0.txt" size="6567" crc="3e8d278d" md5="9d62b28ebceee015137799c5483bc9b5" sha1="c21e1a040e8772570769abcf0d277b58ea0f782b" />
+		<rom name="Double Decker - v1.0p (Block 2006).vpt" size="1445888" crc="2213d73a" md5="0cfe7d552d2ed88b88d49c8820d3cf01" sha1="325eeb906246d368e98d1777d9b11d9f2fa21d42" />
+		<rom name="Double Decker screenshot.jpg" size="152841" crc="083f9824" md5="7155d1d87dd5f6cbdb8dca4ee9059a32" sha1="d2d257a871cdd4c747f95cb3505e06c5e6f543f1" />
+	</machine>
+	<machine name="Escape From Monkey Island (Ian Taylor)(1.00RC)[VP8]">
+		<description>Escape From Monkey Island (Ian Taylor)(1.00RC)[VP8]</description>
+		<rom name="MusicalPack/EFMI_Axl.wav" size="704308" crc="205a6454" md5="24af762831e3e8e4fe114478d196c86a" sha1="d45d83c879e205104c7b25089ef7e2c055d23f1a" />
+		<rom name="MusicalPack/EFMI_CombatIntro.mp3" size="25504" crc="ee846376" md5="847a428a260830de9a028c91abe349c5" sha1="4eb227197f7813740f9b3b5f167d1ef52fbbda1e" />
+		<rom name="MusicalPack/EFMI_Dive.mp3" size="368636" crc="e26a55e1" md5="c981bae01e12b409442a5d57018d3b5d" sha1="2253b50af638a08b951861de05fb9f935cdf18ed" />
+		<rom name="MusicalPack/EFMI_GraveDigger.mp3" size="333788" crc="ae531928" md5="d3a6245b88228add4e3319eea3f0f664" sha1="d18a9d89063c7a538f89c816557ac91ef8fac43e" />
+		<rom name="MusicalPack/EFMI_Hiscore.mp3" size="355762" crc="5dcc0201" md5="ad0fe4df7856f4c3c23e91426cf90bff" sha1="bceb4cff77470851aa9c6e64f6f9d204b09cc36f" />
+		<rom name="MusicalPack/EFMI_Intro.mp3" size="89804" crc="59c15320" md5="613cb951b814707b5c686f54ac3c4d3a" sha1="c2aa49519051fbb345ecc2c2b6aaf00df627b071" />
+		<rom name="MusicalPack/EFMI_MonkeyTheme.mp3" size="1035572" crc="23cb17b2" md5="a43fb9f434748c24fe38b5564cbfd1be" sha1="b27c49c2d28225e912d273936389bc3128a136dd" />
+		<rom name="MusicalPack/EFMI_Multiball.mp3" size="396268" crc="271141e2" md5="9691c2f8e53adbaf134b327151fd2d3f" sha1="98160cba41c730d67a762e05e10e594292555709" />
+		<rom name="MusicalPack/EFMI_Ship.mp3" size="592306" crc="a35e5ee2" md5="8bb1b62040f3b72fc375e18698227a65" sha1="97a8e659490a01d43ae5bb75b768850fbec720df" />
+		<rom name="MusicalPack/EFMI_slowmove120.wav" size="705772" crc="786ab9ed" md5="1299af9399ed97c1a9c5505a4fbecf55" sha1="96925f038c25da44aae02b4c453c35b0077febe1" />
+		<rom name="MusicalPack/EFMI_Spit.mp3" size="389674" crc="3effb9cf" md5="8c20a324c87d90d22ba0febf610687e1" sha1="05409f5fcc7a0d1acd9cba29d86c43c7a9f5dd6d" />
+		<rom name="MusicalPack/EFMI_Spooky.mp3" size="389674" crc="438cf299" md5="96ebf31952038d1feae3d278db80e422" sha1="8eb26fc0592450680f14d7902289c83fdde62246" />
+		<rom name="MusicalPack/EFMI_Sword.mp3" size="347598" crc="94417f16" md5="716ea0eac454ea697f1715bc4f52509e" sha1="1879a8d910fc8b2260a102e985558473e44a6cfd" />
+		<rom name="MusicalPack/EFMI_Ultimate.mp3" size="512886" crc="2b6447ca" md5="97fa29ff560820538c6bf7abc2df5bde" sha1="d8f4288891b2b7ecfbf0edf5d98aedd2386115eb" />
+		<rom name="MusicalPack/EFMI_Voodoo.mp3" size="222940" crc="444e3d83" md5="ca8a93cc08a1926a66f681f1ef37b29d" sha1="8e88b3e16e84f5490b1c503184c7ba47e8b2caa3" />
+		<rom name="Monkey Island Rulesheet and Instructions V 1.00RC.txt" size="5814" crc="056fc836" md5="8a3394dfceb044e0f3c7966c26c0f06b" sha1="46283a6a57d9ea9bef803d5a5aec230db82df733" />
+		<rom name="Monkey Island V1.00RC.vpt" size="50311680" crc="e33cb337" md5="8f46312a871328ac392aa532f32ee84a" sha1="e9f31c1d3d4a747d061a2a0381133e416d20342d" />
+		<rom name="screenshot.jpg" size="139024" crc="b3644427" md5="0b264376a73c8fac41e803064fea1934" sha1="63807b349273fa14a268125667384d6251082819" />
+		<rom name="WILLIAMS.ttf" size="23548" crc="02e83ad1" md5="a50ceaf415b07a0c9e467b03f2127a82" sha1="a3285aedc5d4d42e7bf6a06713562bc94a165f97" />
+	</machine>
+	<machine name="Fight Night (Chris La Mantia)(2.1)[VP8]">
+		<description>Fight Night (Chris La Mantia)(2.1)[VP8]</description>
+		<rom name="Fight Night (2.1) readme.txt" size="16012" crc="6b607a4e" md5="b5300f2a390e33992bb47822b88ec119" sha1="b70f73e36a04498d5b9456616de8f3f19a13e8e0" />
+		<rom name="Fight Night (2.1) rev history.txt" size="16271" crc="504227d7" md5="8b0c565c2f638e1fda22d784044a80d0" sha1="904e6ee60d211e008fa561ff4ed586476d6b265b" />
+		<rom name="Fight Night (2.1) screenshot.jpg" size="138419" crc="f7c38b40" md5="cb23ebf2408636ea17b19b8878c04072" sha1="f680380323a26d3d835f28ac0523b3a06bc5264f" />
+		<rom name="Fight Night (Chris La Mantia)(2.1).vpt" size="7034880" crc="8d2ade6e" md5="ff1a7535f565c8e62f9e7cff77e51edc" sha1="e274d5ba23306e70e6b1d8737605c4d77338e4cc" />
+		<rom name="modinfo.txt" size="1009" crc="aa869b0f" md5="15826860778beb3379c66b77b96fdf26" sha1="7ca8f8c81752e5eccb654f942e7bec60d7bb9a8a" />
+	</machine>
+	<machine name="Fire Power Tribute (Anthias)(1.0)">
+		<description>Fire Power Tribute (Anthias)(1.0)</description>
+		<rom name="Fire Power Tribute (Anthias)(1.0).vpt" size="2274304" crc="907c9890" md5="a418ffcfc8a948c59f0ffad3a399d3cf" sha1="d9bfa9e3d5f6c3820ef9e4e294b92a8ef8158768" />
+		<rom name="Fire Power Tribute (Anthias)(1.0)[Tournament edition].vpt" size="2278912" crc="1f49681c" md5="9eedbb3f57d3790dca33686d64bcc934" sha1="b103191f7959a7d868cc0065c1c42d5c47a71952" />
+		<rom name="Fire Power Tribute screenshot.jpg" size="97411" crc="35a4af16" md5="6bf0b1645197bc92c6ce7681993a988c" sha1="b712d422a88cfb34168bbe52cb9a0fb0a9ca74bc" />
+		<rom name="trana___.ttf" size="58232" crc="a65607b4" md5="66dc9095c3f6fb48dbe4874d7304ca47" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6" />
+	</machine>
+	<machine name="Four Horsemen, The (Noah Fentz)(0.90)[VP8]">
+		<description>Four Horsemen, The (Noah Fentz)(0.90)[VP8]</description>
+		<rom name="Four Horsemen, The (Noah Fentz)(0.90).vpt" size="42331648" crc="623c4a44" md5="5bae98b678b7ed94fadf6e4fe5eb0e05" sha1="c28778dd34e529bc41f767fb71800b8f396af570" />
+		<rom name="Four Horsemen, The screenshot.jpg" size="588408" crc="595ed8a3" md5="c609d3ef855285de5827d70d81171a1e" sha1="de7781afdf1fb73655034ac3c681b9f2b7d9c4bc" />
+	</machine>
+	<machine name="Ghostbusters (IcePagoda)(1.0)[VP8]">
+		<description>Ghostbusters (IcePagoda)(1.0)[VP8]</description>
+		<rom name="ghostbus.ttf" size="643816" crc="94f0b508" md5="8143362f7b0a2ff209689bc02df054d0" sha1="20f60d72a992a8323be8b9f252bcd88dac6036ed" />
+		<rom name="Ghostbusters (Ice Pagoda) screenshot.jpg" size="383151" crc="c2228722" md5="97aef9d6e28d355a9cd78581b5e43ae5" sha1="9a8fd071df081e4e60132767ad7ba78be47b2ad0" />
+		<rom name="Ghostbusters (Ice Pagoda)(1.0).vpt" size="50438144" crc="8a5eb692" md5="4a5d1caaf0b3bed4310635c9acbe49d8" sha1="0afe13bc5eb8c96a774e321a45854d10af85a42f" />
+		<rom name="Ghostbusters rules.rtf" size="1067" crc="d59c27d7" md5="afbc593433e79eeb6694cf3a5ae9544e" sha1="0892d9c6fc1f21ac018cf95f348aea88fbe4cf5e" />
+	</machine>
+	<machine name="Guitar Hero Tribute (Giovani Deitos)(1.0)[VP8]">
+		<description>Guitar Hero Tribute (Giovani Deitos)(1.0)[VP8]</description>
+		<rom name="guitar_hero_tribute.jpg" size="149558" crc="1395a860" md5="53fa33a1ad039884110d76557d4c8054" sha1="fdeaecf4f04c2d39944aa3d4081e19e11f9c810d" />
+		<rom name="guitar_hero_tribute.vpt" size="25600000" crc="a0deb995" md5="f859049622e9ff9245b49ffd1d09b489" sha1="e9f98a2f354baf21a45b25f98da4e268c8ea7b79" />
+	</machine>
+	<machine name="Hat Trick (Wizards Hat)(1.0)[VP8]">
+		<description>Hat Trick (Wizards Hat)(1.0)[VP8]</description>
+		<rom name="Hat Trick 1.0.vpt" size="3867136" crc="282d698c" md5="1e4adc44c965ae25e763b1a0de1c52bf" sha1="48759de478d454cf33bdfbf5445159f579d42fcd" />
+		<rom name="Hat_Trick_1.0.jpg" size="186892" crc="fcbb95d3" md5="f4158c14a1a6ad772cf33131586177d0" sha1="66bd0527773b11ca73c6ca5b29d8241321533e0d" />
+		<rom name="screenshot.jpg" size="271271" crc="48364f61" md5="1e2376686d15527d011a1f5cc8845148" sha1="bec18de648fa480ded08d145e6331c936c709138" />
+	</machine>
+	<machine name="Head to Head Pinball (Jeff Block)(1.0p)[VP8]">
+		<description>Head to Head Pinball (Jeff Block)(1.0p)[VP8]</description>
+		<rom name="coprgtb.ttf" size="61552" crc="b783d93f" md5="c277b2c27239a1c8de888444341d1c62" sha1="1a4a190d2e949d5e16f1349e775fc4764e32e821" />
+		<rom name="desdemon.ttf" size="54476" crc="69fc47f0" md5="7f91c468c9207bd7714bd29f46d9e28b" sha1="e8809e182499c8d49772c68f95247f3e8d54c8ae" />
+		<rom name="Head to Head Pinball (Jeff Block) (1.0p).vpt" size="1138176" crc="91c22b9c" md5="6927e5f1ace65e90f73dd5b234a29299" sha1="1f68d0b27e04c4e1e2daf41d5a564d57e29bd189" />
+		<rom name="Head to Head Pinball concept.txt" size="5596" crc="13ad707b" md5="8d75ec244226d32e71b6fbe647e0fe98" sha1="97ae822462a2ffbf842ccd2523b7de60517a57be" />
+		<rom name="Head to Head Pinball readme.txt" size="7503" crc="668cfdb7" md5="c84c1f85a9d98004837c49f3d1b14993" sha1="130d7b589b12bf5b0624757e9d9f2535c896ddbf" />
+		<rom name="Head to Head Pinball screenshot.gif" size="113423" crc="45bc2ebd" md5="3f3bd88d2aaa12baa904eb619acf3e69" sha1="90c19cf347d8132379d551bba9e53b3b5b7b2f4d" />
+	</machine>
+	<machine name="Heavy Metal Hunters (PinFrancy)(1.0)[VP8]">
+		<description>Heavy Metal Hunters (PinFrancy)(1.0)[VP8]</description>
+		<rom name="Music/ACDC.mp3" size="3444373" crc="87c8ff44" md5="7e0cd418cd4b89cd412d77c53f76f584" sha1="5fe024d4850d82aad66bf6c7d09e59f107ea7a95" />
+		<rom name="Heavy Metal Hunters1.0.vpt" size="19347968" crc="f0a8aa56" md5="654cbec20c0fc23e4b422a1322957529" sha1="c77b0961f98162bf8e32be14d3e9df990176fc36" />
+		<rom name="heavy metal hunters_by_PinFrancy.jpg" size="464742" crc="77348b0c" md5="33e03fe1414d7e0d20e4cf4e2e20020f" sha1="f0d7c6fcdab70cf4ae1e10f8d2e3ef0d26b9864f" />
+		<rom name="Music.txt" size="53" crc="42dd7f13" md5="e3b53375cd08bc2bb110e7ea91d51412" sha1="4a4beb6a62dd3643fcdf5fbc1f1adf09da1c294a" />
+	</machine>
+	<machine name="Hermit's Invader Fall, The (The Hermit)(1.2)[VP8]">
+		<description>Hermit's Invader Fall, The (The Hermit)(1.2)[VP8]</description>
+		<rom name="1.0/Hermit's Invader Fall, The (1.0) ReadMe.txt" size="2746" crc="20283666" md5="a8aa7b3ef759d6351484ad40ca8ee0fc" sha1="2f665b55fdb27d88293915d7e373b69e1000e380" />
+		<rom name="1.0/Hermit's Invader Fall, The (1.0) screenshot.jpg" size="40187" crc="eb751b4a" md5="b498df7b0a5c4bf686a5475e085915c0" sha1="0427866f2bfc8ec27417ffa6b1ae9f01686e0a66" />
+		<rom name="1.0/Hermit's Invader Fall, The (The Hermit)(1.0).vpt" size="3473408" crc="dfed1f3c" md5="ae9fcc61b3f3e6854023b7adeaf8f951" sha1="d0f6b05742a2a1336955eb5bf2866153c9c5dcb5" />
+		<rom name="1.1/Hermit's Invader Fall, The (1.1) ReadMe.txt" size="3046" crc="eaa19b93" md5="8a1e775d6a336df74feeee0cd01340fb" sha1="e91b7a781c204fcedc080ad20e168a94a92abd47" />
+		<rom name="1.1/Hermit's Invader Fall, The (1.1) screenshot.jpg" size="124060" crc="cd2f17e6" md5="ff080f9c95914fcae1e71f279d43407a" sha1="ba528d5016398ab0005f9302ce7296734aa4bbd6" />
+		<rom name="1.1/Hermit's Invader Fall, The (The Hermit)(1.1).vpt" size="3604480" crc="de91acdc" md5="2b8788ef2d0fd1bf1de03bfae0ead929" sha1="19af18719f3714074f104c4eb262e9d1cc0ed4a2" />
+		<rom name="1.2/Hermit's Invader Fall, The (1.2) ReadMe.txt" size="3853" crc="05d4a33d" md5="204dd56271c61b0ce1db20a65f1149ff" sha1="3c70ff623645f822b26808b088fb493211ffa947" />
+		<rom name="1.2/Hermit's Invader Fall, The (1.2) screenshot.jpg" size="131778" crc="96b39299" md5="905b96966d288e3f0228c196732616ad" sha1="f804d804fe939688c74ee6da3b09b81a56e434cb" />
+		<rom name="1.2/Hermit's Invader Fall, The (The Hermit)(1.2).vpt" size="3603456" crc="8b728f28" md5="1a872d8d435967456a3136df0e18ef1c" sha1="d146edd5de1257ca1eacd441e901b6f05b5aa189" />
+		<rom name="digiru__.ttf" size="31376" crc="35f17b31" md5="a7e5c807368c4358797ff7d684d3a265" sha1="a508d43667048b31cc438c0569ce087523e9918f" />
+	</machine>
+	<machine name="ICS Pinball (HungryBay101)(0.1.7 beta BUG PATCH 8-1)[VP8]">
+		<description>ICS Pinball (HungryBay101)(0.1.7 beta BUG PATCH 8-1)[VP8]</description>
+		<rom name="ICS Pinball (HungryBay101)(0.1.7 beta BUG PATCH 8-1) (NOMUSIC).exe" size="12109108" crc="f78bd755" md5="e3dc779bf1d49a046919e3cbb5aa19a4" sha1="6dbb104a56d8195f739539e464f14bcf7775a68f" />
+		<rom name="ICS Pinball (HungryBay101)(0.1.7 beta BUG PATCH 8-1).exe" size="67930065" crc="5e3cacaf" md5="1100b330614f12909e79720e2c9114c7" sha1="70c3e9a10233467e23a75869bde205d57589d32d" />
+		<rom name="ICS Pinball screenshot.jpg" size="261864" crc="293f0441" md5="1fe3f88ceed5c152ecdaf9aac5b86cc2" sha1="6c4459ebb1051f3cd1f379849957d00d9a89efd3" />
+	</machine>
+	<machine name="ICS Pinball (HungryBay101)(0.1.8)[VP8]">
+		<description>ICS Pinball (HungryBay101)(0.1.8)[VP8]</description>
+		<rom name="cache.txt" size="24" crc="fcfd388b" md5="a56a02ce9ebd79ea6293c7d688327933" sha1="ac1cfdaaa5b0ae8df5d4db6b43686b447fc16fba" />
+		<rom name="eula.rtf" size="5189" crc="170932ba" md5="c8a94c6f7b3e6ff6cf7c20af36375918" sha1="85872fc9f672a2e535143e688ea20a1c80d494af" />
+		<rom name="ICS pinball home edition NO MUSIC.vpt" size="27577856" crc="b4f80160" md5="db3f281f16a73bfd232b43967a251f37" sha1="a0903ab485df137a7103137fc4b734a40d4dea69" />
+		<rom name="ICSProm.exe" size="253377" crc="d7e54fdb" md5="6eea29b119386e45dbfd52f512c53013" sha1="46e77350592a4d457e36ef7fd5de2ec199868fc1" />
+		<rom name="ICSPromversion.txt" size="17" crc="a688f272" md5="7ca69c9b80937a7b4bfe2c3a1a185c40" sha1="4a490d0dbb0c369e8eb6c0fd17e191e2c70c6cf3" />
+		<rom name="readme.rtf" size="3757" crc="a7c9dc0a" md5="7a411b9be6ad13d56d42ecb917e86de3" sha1="7c8fe28894a1c013bb235e6adb217dd13b4d418a" />
+		<rom name="screenshot.jpg" size="274779" crc="c6134c4e" md5="8055ff76e342bfdcc41b34b22ea238d6" sha1="9e5dc31d288981fc4a1b6be7012c3134868c2597" />
+	</machine>
+	<machine name="Ike Godsey's Country Store (tiltjlp)(1.0)[VP8]">
+		<description>Ike Godsey's Country Store (tiltjlp)(1.0)[VP8]</description>
+		<rom name="Godsey's Country Store.vpt" size="2781184" crc="44c0f83c" md5="1df2a408cab8c731cae4d0059b77db86" sha1="4711b524adf7cdb8faccf70a7bc3f6746a4a759e" />
+		<rom name="Godseys_Country_Store tiltjlp.jpg" size="167873" crc="f0727584" md5="768daf358ca215db998999f46c15328e" sha1="9a771a4df15b8239fa4d97aad84c103de119de48" />
+	</machine>
+	<machine name="Incredible Crash Dummies (RockingHorse, Anthias)(2.0)[VP8]">
+		<description>Incredible Crash Dummies (RockingHorse, Anthias)(2.0)[VP8]</description>
+		<rom name="2.0/Incredible Crash Dummies (2.0) screenshot.jpg" size="207987" crc="04b4dd4c" md5="3e3b8374701b2bec1ccb2f398a41c95a" sha1="f84781ed76e5582fde34a5a366c7a2f719e1c99b" />
+		<rom name="2.0/Incredible Crash Dummies (RockingHorse, Anthias)(2.0).vpt" size="3504640" crc="dc6bbefc" md5="5b1f32ce3ddcd877e4160ce212f2c2d0" sha1="75b833430c7526fcf4765f6458ecea0bcff91cdd" />
+		<rom name="CrashTestDummiesMusicPack/Crash Dummies Theme.mp3" size="742423" crc="9ec01843" md5="5834db77511d7cf9c7a9730ed6e869b6" sha1="5fb6aaa67d7fec4481013116a67a3e2f43060f7d" />
+		<rom name="CrashTestDummiesMusicPack/David.mp3" size="808043" crc="529b7c4d" md5="27e2c04ba739e94d7d8663fb75431081" sha1="94c53981ce58980a0db497e2ee9f9dfba2be9d39" />
+		<rom name="CrashTestDummiesMusicPack/FolsomPrisonBlues.mp3" size="2612581" crc="7380603e" md5="33374871e4b8558963e4c83f77059293" sha1="3daf694bf88e836f63190af7ec63f6d932acfd11" />
+		<rom name="fonts/babybloc.ttf" size="13448" crc="78835e8a" md5="36bb23245100151cf4a4c42cd258fba9" sha1="b8e35e6777e47bef46cf0944f426ea321d125452" />
+		<rom name="fonts/gstarirm.ttf" size="48188" crc="9b403f2f" md5="0862bf5b685d76b7e20804e562505390" sha1="0eec250daba54e626985ceba5fb94c0851cbaed6" />
+		<rom name="fonts/trana___.ttf" size="58232" crc="a65607b4" md5="66dc9095c3f6fb48dbe4874d7304ca47" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6" />
+		<rom name="Incredible Crash Dummies rules.txt" size="2502" crc="f59ca13d" md5="96133fd3311dae07150d594d5111463c" sha1="0940c592d35ba6bfb561b81f08424fcbd41aa6a3" />
+	</machine>
+	<machine name="Initial D Pinball Stage (Neo)(1.3a)[VP8]">
+		<description>Initial D Pinball Stage (Neo)(1.3a)[VP8]</description>
+		<rom name="1.1/Music/DMultiball.mp3" size="3747320" crc="4a290e2d" md5="90b633dde7cf53308afc9f70c383697a" sha1="e8f9c6ed9f1b6ec809d92222278b1121ec8a2256" />
+		<rom name="1.1/Music/DMultiballReady.mp3" size="1624923" crc="84f3a0ca" md5="fe99ed4af0dd20e419ac3be6aea29ba0" sha1="eaf9da087f6acf7d194dfc4efc0d87e75f8513e9" />
+		<rom name="1.1/Music/Initial D Autocross Challenge.mp3" size="3171790" crc="a8b27828" md5="0953cd032c4fd6db1331813aefafa643" sha1="c80c79757a4b8e17390ab3672fa05db24ddfafed" />
+		<rom name="1.1/Music/Initial D Battle FC.mp3" size="4792320" crc="1dfee33f" md5="00f6bd39af034900729a9472352f192f" sha1="f656a699bd9ad46ea71e5866ac184fcbc74f65fa" />
+		<rom name="1.1/Music/Initial D Battle FD.mp3" size="4561087" crc="b75d8663" md5="ed11f03abdec5c35cd7821a3d920be59" sha1="d7be4040f7ba6a6cd528475601202548b6cecc65" />
+		<rom name="1.1/Music/Initial D Battle R32.mp3" size="4628608" crc="fc60ebfc" md5="91f7d6c31335c550b50c99b85e586879" sha1="95da96688bce1d34ddbdc6d9b226a7b5f5ee0459" />
+		<rom name="1.1/Music/Initial D Blazing Beat.mp3" size="4595585" crc="74d9eb35" md5="38f905f4cad95696460f8f4edea8420d" sha1="ad5e5756daf280f17041ea81a676d78d1c92376b" />
+		<rom name="1.1/Music/Initial D Dancin In My Dreams.mp3" size="3937594" crc="0dd1411f" md5="54ac5f6f476847c19f18846b639cdefe" sha1="3428fd029032fe227c1b4cdf0451f4a7f5bddaf2" />
+		<rom name="1.1/Music/Initial D Don't you wanna be free.mp3" size="3883008" crc="84993433" md5="626d9cb5b421cb48613158c216b85753" sha1="2b0b29f5bd8b0ad651e9c3b1da319e668189784e" />
+		<rom name="1.1/Music/Initial D End of Ball.mp3" size="73877" crc="2ed0a182" md5="79155a4dc5a04f481aff34903e642dbe" sha1="d01534d15e24da99acd372260fe5b8dbbf4671d8" />
+		<rom name="1.1/Music/Initial D End.mp3" size="1318559" crc="c56089ae" md5="464133025caccba6966250d5dc5d289a" sha1="30656388f4a894f08ca5b0a6d3bf5a00883c7780" />
+		<rom name="1.1/Music/Initial D Gamble Rumble.mp3" size="4298838" crc="0f275cba" md5="22718b7845fdce8339bba99c6f491adf" sha1="21c15f0e6ddd7b20d25f9d4da40be07049983f4d" />
+		<rom name="1.1/Music/Initial D Gumtape Deathmatch.mp3" size="4599539" crc="f5a2b3bc" md5="ef1ca5632f279c230f6e694a9002d384" sha1="2a3d4ea13b001f6a8843a90f1ec6bc1c6d9410fb" />
+		<rom name="1.1/Music/Initial D Intro.mp3" size="1678422" crc="0b28cace" md5="1667ecc12f84c27dc70db90336ad462c" sha1="bb6bed992fde18238b51527d647e32d24d51eb9c" />
+		<rom name="1.1/Music/Initial D Iroha Challenge.mp3" size="4763648" crc="fdc4c383" md5="e634353d5965591a3fcce9d2a2396ae9" sha1="d837fb8eb2bc12c69a0759fcc0a2d693b732f418" />
+		<rom name="1.1/Music/Initial D Main Music.mp3" size="4995346" crc="d194ccb4" md5="85821c11436a80949d1b5f7b0d6dd4da" sha1="9070bbebe0d327f968e5dac953089482e70a8072" />
+		<rom name="1.1/Music/Initial D Myogi Challenge.mp3" size="1453978" crc="28b71967" md5="b43165610ccb1b11a32a475ad7609e46" sha1="5a8dc8a4b46918e040dd5f77b3bb5abecf288d99" />
+		<rom name="1.1/Music/Initial D Sudden Death.mp3" size="1981443" crc="1813a2d9" md5="ef20970ea695a27fd05b82053bb51229" sha1="2397b9f1db5f92c796eb408a7869554b25874355" />
+		<rom name="1.1/Music/Initial D The Race Is Over.mp3" size="5048320" crc="e1581ec9" md5="d9612e4cfd16cfc639d81736b1321d11" sha1="515345688a3f08a0c37fa7f456fb5d0ff4bc203a" />
+		<rom name="1.1/Music/Initial D Tofu Delivery.mp3" size="4380110" crc="66f437d2" md5="64978d90c9ee71f56fbd47a15d36d88b" sha1="1d9f3ba5eb7536e08faf1d4ca908fd04d56b44f5" />
+		<rom name="1.1/Music/Initial D Tour of Gunma.mp3" size="1253358" crc="86a03560" md5="2c86d777feff15310bd9ba9f088ad57e" sha1="705fcecba561f84b96c0baff919bb05dd118ce5c" />
+		<rom name="1.1/Initial D 1.1.vbs" size="322568" crc="48f22e91" md5="ceae8a14a36456fc8ee00b6a91b81d9a" sha1="81285d86ad068e6c0ab9df551eb8caee2600a71a" />
+		<rom name="1.1/Initial D Pinball Stage 1.1.vpt" size="7871488" crc="0ba31bb5" md5="580e4d92c3f4fcc204d314bf25d0372d" sha1="a96cf440c19e464a24ba26050591834502b2887c" />
+		<rom name="1.1/Initial D readme.txt" size="4207" crc="b89305ea" md5="ec8f2c5c4809054b641c49f762e95cbe" sha1="3fe76819e78ba87334854fd3922c32fb738b2829" />
+		<rom name="1.1/Initial D Rulesheet Text.doc" size="800768" crc="03a09145" md5="54daf4455d6c137c657894648e55b135" sha1="82481ce016a63d69aa5ffe115389e309b8517362" />
+		<rom name="1.1/Initial D Rulesheet Text.txt" size="14619" crc="da63f66f" md5="b1bdd606d2a96c16c20ee4469a290669" sha1="66e1d43e40a6799c8b2817c84cdbbe2cb5f4f12c" />
+		<rom name="1.1/screenshot.jpg" size="79255" crc="367bb5d3" md5="088d62b31e27a38170745a7120a78460" sha1="bc869a3761c623dfbce184312d10d4763951a042" />
+		<rom name="1.2/Initial D 1.2.vbs" size="338977" crc="c45f0d14" md5="0155f4a309ab938c2385b6ac263b1fd0" sha1="85b36223e7d61506305c97696820b73c519135f5" />
+		<rom name="1.2/Initial D Pinball Stage 1.2.vpt" size="8205312" crc="679df4b0" md5="9e2a8754c274585420db0c86a215921c" sha1="eab3971d5952ccbedc658382fde9f3a2fec1101c" />
+		<rom name="1.2/Initial D readme.txt" size="5497" crc="abc46422" md5="b903692228be1e82c312a14e4865891e" sha1="36fd35dfcd3c55416344be99b7ae636827fcb8f0" />
+		<rom name="1.2/Initial D Rulesheet Text.txt" size="14604" crc="9e98ba83" md5="a698db3b5533d47a4528784f3a70f970" sha1="282221c0b622b6b2d9b1a9cd679224432cdece68" />
+		<rom name="1.2/screenshot.jpg" size="81106" crc="917c8153" md5="0ab45af5ac01b203de75a28f6dc86850" sha1="d3a2b97c2f918bbdb42b2000e4370cbd8f602835" />
+		<rom name="1.3/Music/DMultiball.mp3" size="1543210" crc="a72802d8" md5="de6dfbee2ec262ff4fe9d532a31948b4" sha1="797310b420eb45ccc2ed7e85ddd4d6679e346154" />
+		<rom name="1.3/Music/DMultiballReady.mp3" size="1218456" crc="808ef2ba" md5="dbd00ad91e8bbb1b43b638c7de299209" sha1="4f12438de6e50adf901aaf14edfdb79df82741f5" />
+		<rom name="1.3/Music/Initial D Autocross Challenge.mp3" size="1037270" crc="1798559d" md5="93c9932bccb7caa44664b6de09ad74ff" sha1="b7e3343c8c7bdfe1b1dadc48e13f671a0805442a" />
+		<rom name="1.3/Music/Initial D Battle FC.mp3" size="1097456" crc="da188905" md5="3ee97a5a3e63310240d3712a7f4d0824" sha1="c89ec31fd808a0ca0510e0adf5ba0bdc52c5d9e5" />
+		<rom name="1.3/Music/Initial D Battle FD.mp3" size="1294629" crc="58025580" md5="330fed9eefee6f66dcd4bec518ed50ad" sha1="9da87b7c77b94813806dba7ce2fd4c99e2a518d7" />
+		<rom name="1.3/Music/Initial D Battle R32.mp3" size="1059527" crc="9a80fff2" md5="53079f9b90f87fb939f2999464bbeecd" sha1="21710c7425177cfdf36b3137288b98e8a4707dc3" />
+		<rom name="1.3/Music/Initial D Blazing Beat.mp3" size="1667971" crc="3e44d4ab" md5="a08bf43c06faf145f4af2e64b3c06f89" sha1="eabad9f78c83833bf01305abe52a38e3dd1abd1b" />
+		<rom name="1.3/Music/Initial D Dancin In My Dreams.mp3" size="1814047" crc="7ebd8c2a" md5="e18efa9e619acfd7b8e264c93053d56a" sha1="c2dcb641bbc434ce7c18806ef91e0a5d4918e9ed" />
+		<rom name="1.3/Music/Initial D Don't you wanna be free.mp3" size="1624398" crc="644e3275" md5="0066bc0a05e45a7835058a07356a4e25" sha1="4a053b0a4d36cda10c6d08ef3b70bf50de40727c" />
+		<rom name="1.3/Music/Initial D End of Ball.mp3" size="56323" crc="080fb564" md5="09511544346707f1351bf4832abaac1d" sha1="a8a21109e9684fdbb9772f63b984bbe6a88a20dc" />
+		<rom name="1.3/Music/Initial D End.mp3" size="988682" crc="d9c56a1f" md5="f63ecfd073ec740ad628a6326429cf16" sha1="67f684941db349ec5b21a530fa56aad3a12710d5" />
+		<rom name="1.3/Music/Initial D Gamble Rumble.mp3" size="2028045" crc="f9a43374" md5="ad91357ecfedcce1c150c657a17ad3fa" sha1="40f37893d674f1e7957966affe6d8933fd269e32" />
+		<rom name="1.3/Music/Initial D Gumtape Deathmatch.mp3" size="1082723" crc="9e28ad4f" md5="541a663a87f026c9209dc7459a4e91ba" sha1="41ad92b16ee3335a5a581b712a9de7d643965f32" />
+		<rom name="1.3/Music/Initial D Intro.mp3" size="1259732" crc="9a1dbfd8" md5="c02d815add42b0dc571028b5153d925a" sha1="482a3af3aee926bfdef54d8c6d53032cec322bb3" />
+		<rom name="1.3/Music/Initial D Iroha Challenge.mp3" size="1181780" crc="1fea7555" md5="e996d922ec9b496276be05aa2953eac3" sha1="eab8f0f96a6b7a22fe36d65117a9f08409a30833" />
+		<rom name="1.3/Music/Initial D Joy.mp3" size="1285123" crc="473c8a2c" md5="da6061bd027939ed591853c7d29b21e3" sha1="06ff21119c28dee4112b56802ddd98c07b38d303" />
+		<rom name="1.3/Music/Initial D Main Music.mp3" size="1976323" crc="440b92be" md5="f88c33032e0246a3187c976b7f9224fc" sha1="74093d5c9e0b4e532ead7e28bd959edaf7cd050c" />
+		<rom name="1.3/Music/Initial D Myogi Challenge.mp3" size="1091399" crc="daa7ae00" md5="6788722afa918605f8a7a49c13ccc213" sha1="9e5a8510c1d18d4327dda7733aff6122071ba0e7" />
+		<rom name="1.3/Music/Initial D Sudden Death.mp3" size="1078962" crc="ce0c2615" md5="b6391c343f30d25ca3d71faddd3ca511" sha1="de5c2be6c08ba0bcd2ff2bbe0b4f9795097a84bb" />
+		<rom name="1.3/Music/Initial D The Race Is Over.mp3" size="2402429" crc="d962bf99" md5="6fa25156483325ddd7fed1983d3d2577" sha1="a8b8d0a5320ac44ab2210488b38248ab5f71ae2b" />
+		<rom name="1.3/Music/Initial D Tofu Delivery.mp3" size="892447" crc="ac7cdfef" md5="153159dfad5e5b29cdbfd6ef53095426" sha1="95dbc2fbad4b6ce6bb2c5df75f0a1ef0824c8b77" />
+		<rom name="1.3/Music/Initial D Tour of Gunma.mp3" size="1345622" crc="ee4e789b" md5="a32f2a17acd0935c281d8680c211a36f" sha1="613d728b0964ef6c2e2d619b51af9296cf5747fa" />
+		<rom name="1.3a/Initial D Pinball Stage 1.3.vpt" size="8381952" crc="0c2a7074" md5="648ae66d3374dc0c0997bf9a6c97351c" sha1="1389c8995db5c206e7b33edd716676f4cabb113e" />
+		<rom name="1.3a/Initial D readme.txt" size="6330" crc="058abbcd" md5="51d47a4b67134b0f301084ab22fdce42" sha1="b3792b0d9134fb27ab3141ae8d439102cc5913fc" />
+		<rom name="1.3a/Initial D Rulesheet Text.txt" size="15884" crc="f35e345c" md5="653ee47e59ae27341b3f0b4402994201" sha1="c3618535cbe62f933f78bece5416e3e41b14225c" />
+		<rom name="1.3a/Initial_D_Pinball_Stage_1.3.jpg" size="176004" crc="d6721d1a" md5="62918273c72ba49b6098cc2077d54633" sha1="a56bde553feb9bbbfeffe445f2183e1a12c4f593" />
+		<rom name="1.3/Initial D Music Pack 1 readme.txt" size="451" crc="0b6ce168" md5="dba264d3594f59cdd4d7d2d0d5ebcd27" sha1="4f9ddb9db3418b4e0c111d489ac9e241985160db" />
+		<rom name="1.3/Initial D Music Pack 2 readme.txt" size="588" crc="47d364c4" md5="6966d6b2c243cf4f4dbde2771f8f3066" sha1="3844d1725096d1b542c7d1af24482f54ac69eeb8" />
+		<rom name="1.3/Initial D Pinball Stage 1.3.vpt" size="8381440" crc="d47d7330" md5="9aeca576e96943ca630301efc8d71ae1" sha1="01489c4e7651563314a3be639ae42f9633f3f98f" />
+		<rom name="1.3/Initial D readme.txt" size="7204" crc="ad823cee" md5="522c8162210e6004a6628de653f44b6e" sha1="530045a1f19abac2f5404d787d2f95c7ff7c4d32" />
+		<rom name="1.3/Initial D Rulesheet Text.txt" size="16333" crc="8f39ddae" md5="db11542f722e89e342baee5ce45a00c0" sha1="01ab18f32915e1199ad8f71e990201bc6619b2b6" />
+		<rom name="1.3/Initial_D_Pinball_Stage_1.3.jpg" size="115719" crc="cd622c7e" md5="3891717b931b48f626bff4ffd018d21d" sha1="f5feeff740c94e0b31dd6e1a1c1f4d04072155d2" />
+		<rom name="Fonts/digir___.ttf" size="37736" crc="7cd2c10e" md5="1c8da74ab3536f3974b2c1f58e1be9af" sha1="dd58a9176b945cd8bb3f27b9e092e50d8a1f0383" />
+		<rom name="Fonts/hemihead.ttf" size="24440" crc="c87c69b8" md5="ed43a6aae7b02c27f4db3a11c6449c94" sha1="bf4b48a0993251bdf290dc2381a847f2f6a55661" />
+	</machine>
+	<machine name="Inner City Life (Roland Scholz)(2.61)[VP8]">
+		<description>Inner City Life (Roland Scholz)(2.61)[VP8]</description>
+		<rom name="Inner City Life - Alternative Music Pack/Inner City Life - Attract Alternative.mp3" size="2102984" crc="bfe87ceb" md5="d7cb9756f0e7404d49b43c2c56f0f4b4" sha1="0c8a5b871c9839564381c9bf5948511b407b66f4" />
+		<rom name="Inner City Life - Alternative Music Pack/Inner City Life - Main Alternative.mp3" size="3037799" crc="d2508703" md5="f6863551fefdc2f8ef7e62ffcf2b6a8e" sha1="01fc9538dd4e798ee89c04fd8b5f441101fbfa5d" />
+		<rom name="Inner City Life - Alternative Music Pack/Inner City Life - Multiball Alternative.mp3" size="1271990" crc="0555d4b7" md5="57481c78a2976dab4c219a911feec952" sha1="0030c9c4735539bf6378b32cdefd6df9dac8ad3d" />
+		<rom name="Inner City Life - Music Pack/Inner City Life - Main.mp3" size="4315536" crc="8fa11280" md5="df578d97724a34ba559c52beca49ed95" sha1="254901fad5388f381e7b442ffce8b1a923f19891" />
+		<rom name="Inner City Life - Music Pack/Inner City Life - Multiball.mp3" size="376128" crc="15dc1b48" md5="7b024cf239364f4599990dd8f223fcc6" sha1="80f0ae2a00dfe21b37ca2d30917eb7724c6bbbe4" />
+		<rom name="Inner City Life V2.61.txt" size="8470" crc="4607347c" md5="6fdb940e1ffec6047ffa234e05164b03" sha1="ec2282fa69c70ce21f49f479febadb3d0e50e90f" />
+		<rom name="Inner City Life V2.61.vpt" size="3529216" crc="9cca9930" md5="55285e6c6e243f7f9fd6e2331de186ee" sha1="37b89ebd5f12a2954b56f2057a6e11fcc7af886f" />
+		<rom name="InnerCityLife.jpg" size="100694" crc="ab92acd4" md5="32a70c626c5776ffc0ff1681e6bbe343" sha1="72cd59206955373d4bf9fba9f0015216f2381438" />
+	</machine>
+	<machine name="Ivy Tech (Al Rubin)(1.0a)[VP8]">
+		<description>Ivy Tech (Al Rubin)(1.0a)[VP8]</description>
+		<rom name="Ivy Tech screenshot.jpg" size="303203" crc="37b45398" md5="9ebbc5a00646683474623657f0951fa4" sha1="b834a0e29da7002ef823a9a0a14c9e6759cfac62" />
+		<rom name="Ivy Tech.vpt" size="5033984" crc="d4b1237d" md5="793e14ea88f0aafd4b8aa9cc594f9f40" sha1="9674c43faaccf4017a6d8cf704b606213f03ddd4" />
+	</machine>
+	<machine name="Jupiter (Mark1)(1.0)[VP8]">
+		<description>Jupiter (Mark1)(1.0)[VP8]</description>
+		<rom name="Jupiter (VP).jpg" size="180954" crc="a633fa54" md5="0bb0d0f72ddf78fb22b54b8bf0039a6f" sha1="5afc118a7a6e0ce6e89abcb90414da07ec9dcacb" />
+		<rom name="Jupiter (VP).vpt" size="10762240" crc="67122b43" md5="93bcc43606fabbcb7fc5543ed64737c8" sha1="6a0868e61a8966255d17bad46b83236d47cf44fc" />
+		<rom name="jupiter.txt" size="726" crc="da79eb43" md5="6c9facaaed491bdff3d02ac9381dcf84" sha1="56f29092f84da50c018570db56c9336d58e31191" />
+		<rom name="trekrfr.ttf" size="37512" crc="7899a144" md5="e5a9345346d8098f4835e5fa61521674" sha1="5efab173f76893cf6b8a61a02c2541bc024b223a" />
+	</machine>
+	<machine name="Kill the Dragon (Giovani Deitos)(final)[VP8]">
+		<description>Kill the Dragon (Giovani Deitos)(final)[VP8]</description>
+		<rom name="Music/dragon.mp3" size="5220020" crc="c5375a64" md5="0bad12a4ec5329cb0cb9a49e5719ed0e" sha1="840ee05c45b64b5eeff1ac393839ddb0cf2f688f" />
+		<rom name="instructions.txt" size="76" crc="6b134e43" md5="3d260fab9b4093b00d5e88b610e7bce2" sha1="d8dd93ce353116ea7ec15e4efc41f1b138babe4d" />
+		<rom name="kill the dragon.vpt" size="2443776" crc="8ae4cf32" md5="2fa31feddf318de19e7a3aaa95f530b7" sha1="12eb929c4f3304044ae33526a69af8c253cf7e0d" />
+		<rom name="screenshot.jpg" size="183424" crc="d8790f33" md5="fcc7baac47b8b152a1844cc2a262c458" sha1="fcdd693827a75d1b430b274ddd9c38c31c0437a1" />
+	</machine>
+	<machine name="Kingdom Hearts (DesAngel, Eala Dubh Sidhe)(1.0a)[VP8]">
+		<description>Kingdom Hearts (DesAngel, Eala Dubh Sidhe)(1.0a)[VP8]</description>
+		<rom name="KingdomHearts-music/KH-attract.mp3" size="703008" crc="6deedd9c" md5="d97f9f6cf3d68cdb7cc63b6f13cfd851" sha1="d26b0c075245460e6c4648bcdb0f33f4a36dd56d" />
+		<rom name="KingdomHearts-music/KH-gameover.mp3" size="198949" crc="fde301ee" md5="b05517e6ef295b07e02749a2327482e4" sha1="3068fefb9903b511e7d4d571dfe3b7b3e5a1362c" />
+		<rom name="KingdomHearts-music/KH-highscore.mp3" size="610639" crc="89f3e384" md5="66d247341139cdc2d17d34bd3fbc2ec3" sha1="16fac16d6f8480a65614e41e20817aa5a926b5f9" />
+		<rom name="KingdomHearts-music/KH-main.mp3" size="6181199" crc="17be5f62" md5="8de445126c73198c20ed4da81c5c1917" sha1="481f5c690d7b13b8e50d3818d9682fd0b1234c09" />
+		<rom name="KingdomHearts-music/KH-multiball.mp3" size="3025189" crc="9814dc8b" md5="665fd81f2e5d2c92aeed45a882827224" sha1="e34befc3b555f43fc21af190314e2fc622f804c5" />
+		<rom name="WIP/Kingdom Hearts (Eala Dubh Sidhe)(v1).vpt" size="9404928" crc="cdb52267" md5="3a9fd241692cf4f1aa771bce5e186f7f" sha1="c6f53fa48fe5591c2d12d27663f4b745bd88d93d" />
+		<rom name="WIP/Kingdom Hearts (Eala Dubh Sidhe)(v2).vpt" size="12754432" crc="966999a5" md5="3c2e91b2e1d7bea4e75d8f0820e12a6a" sha1="f9a780d7ab35977c27c3fb902f07d8287ddd154c" />
+		<rom name="WIP/Kingdom Hearts (Eala Dubh Sidhe)(v3).vpt" size="8096768" crc="f91b4e61" md5="f1a9f0dd8a3e6ac7abba088a08a93798" sha1="9c2f40c583e038c81fafe5284d3b117a4fa84e0d" />
+		<rom name="WIP/Kingdom Hearts (Eala Dubh Sidhe)(v4).vpt" size="7265792" crc="c1aaa68d" md5="d85f577971df6b3704e19790f3a12502" sha1="bd243054921964551056431e2b41c030b804d04e" />
+		<rom name="WIP/Kingdom Hearts (Eala Dubh Sidhe)(v5).vpt" size="8256512" crc="f60f8610" md5="03adcf52cdf6bd24983156006a583c1a" sha1="9e64c7360cfa535c1708c2df8ddf6f87e4668d63" />
+		<rom name="WIP/Kingdom Hearts (Eala Dubh Sidhe)(v6).vpt" size="14326272" crc="4675a4a1" md5="53d05283918bd81d54ab5a237be8cf50" sha1="39fdd5401c19bb71111c40cf0cac574a5807eef4" />
+		<rom name="WIP/Kingdom Hearts (Eala Dubh Sidhe)(v7).vpt" size="13944832" crc="0315126f" md5="444d174776384d5b7ba97612db4bc8d7" sha1="c20bdaed2324537ac1e5c422ba6f9eb608928c36" />
+		<rom name="WIP/Kingdom Hearts (v1) screenshot.jpg" size="335858" crc="c84c1ed4" md5="699fdea8c86aad34a0b08d577005503a" sha1="a7f4125f92409dccd2985c196168f321e7ad06ee" />
+		<rom name="WIP/Kingdom Hearts (v2) screenshot.jpg" size="336807" crc="93151d3a" md5="5fdb631f5953ef423a7a12c19177f225" sha1="7202a06110a8ba095ff9b0d7db5042f231e5bb39" />
+		<rom name="WIP/Kingdom Hearts (v3) screenshot.jpg" size="366330" crc="344bcc3c" md5="b84bd93eca573d16fb026fdd4f7bfa08" sha1="9c7ceda562cb7569260af7b3683a732f7fa9a68a" />
+		<rom name="Kingdom Hearts 1.0.vpt" size="13814784" crc="9e420b14" md5="9c73f3cc40c02fcbc4973362c5a9c43b" sha1="90224a67f9cb3667b5e0f3462be7d20ddc0b0038" />
+		<rom name="Kingdom Hearts 1.0a.vpt" size="13814784" crc="13e402bd" md5="ff286a1d393939780202e2a60317bfad" sha1="76b598ccb3c639df50eec4521633351a1b9b836b" />
+		<rom name="Kingdom Hearts (table notes).txt" size="1979" crc="f09c7b67" md5="e9c5c6b56037cc45782edbced9d6c487" sha1="05f7c271aa209e23b26cd0d5e426f0817b65ed9b" />
+		<rom name="screenshot.jpg" size="442395" crc="bcf50d86" md5="3f8d639fa4a78dbb1bfa97bac7d101cc" sha1="db197e02d69f072290e91f953a3293466554e894" />
+	</machine>
+	<machine name="Legends (Wizard Hat)(1.0)[VP8]">
+		<description>Legends (Wizard Hat)(1.0)[VP8]</description>
+		<rom name="Legends_1.0.jpg" size="185550" crc="e130a2c4" md5="e7b8218717a9ddd417612202e4525a2d" sha1="6869bb81ef82a0c08618ea19d02ea01ecbe22632" />
+		<rom name="Legends_1.0.vpt" size="4876288" crc="6b785f1d" md5="666939aad327a918ec7ce490edf5d1e2" sha1="5f467a835af94894e10d169b7f02f5b4d49057ac" />
+	</machine>
+	<machine name="Mars Attacks (Bob5453)(2007 edition)[VP8]">
+		<description>Mars Attacks (Bob5453)(2007 edition)[VP8]</description>
+		<rom name="Mars Attacks 2007.vpt" size="7300608" crc="1e151743" md5="fd25be5dd0dc6e3466c99ab250c8587a" sha1="8da1534e2641cebc3aae337af042ee79f03726fd" />
+		<rom name="MarsAttacks2007.jpg" size="217200" crc="01358507" md5="e46834e3dd32beb3ecff7f4f45bfd341" sha1="112589c1c997be0979c526cc62b8fc9ab12a7714" />
+	</machine>
+	<machine name="Marvel Heroes (Faralos, Wizards Hat)(1.1)[VP8][Zizzle Edition]">
+		<description>Marvel Heroes (Faralos, Wizards Hat)(1.1)[VP8][Zizzle Edition]</description>
+		<rom name="Marvel Docs.rtf" size="1507" crc="4806fef1" md5="60a052a5079bc07da90ba8d5d0a09bd3" sha1="be473f10191c5d20ad734eae100d846c88c2d1f8" />
+		<rom name="Marvel Zizzle table 1.1.vpcache" size="8226956" crc="dfbae8fd" md5="20c4e56d8503b822604d772779f72221" sha1="b34009f3c9a40ab272c988326ac42a2b9d2a3b60" />
+		<rom name="Marvel Zizzle table 1.1.vpt" size="5460992" crc="2c5e8b8a" md5="88eda8adcaecbfb3fc29925e3aba8fbc" sha1="9aa108b26f1ea230a8b7b53b29292b70c2b05ff2" />
+		<rom name="screenshot.jpg" size="164059" crc="4ae2cf61" md5="21bda1f70964f3206384372177b2d448" sha1="e5297da4f8ae7240e1e54945c4ab720b610416e5" />
+	</machine>
+	<machine name="Mindcrime (AR)(1.0)[VP8]">
+		<description>Mindcrime (AR)(1.0)[VP8]</description>
+		<rom name="Mindcrime rules.txt" size="766" crc="88cd0de3" md5="878125128d6a0bab99b0f6b0da4fa8f5" sha1="ef16a344f79077f963a393f534568a183ad3ed82" />
+		<rom name="Mindcrime.jpg" size="97619" crc="78c957d4" md5="72c2150fdac18042432579739792c6a8" sha1="0063c9d336ce8d14fcb970f04335ec2c7f080062" />
+		<rom name="MINDCRIME.vpt" size="5810176" crc="7957fa03" md5="12710148ad4c9c11b9e1025a40defcdd" sha1="b877868567ae8a9cc77cf5ae4d5e0be0a5ede873" />
+		<rom name="MINDCRIME_a.vpt" size="5810176" crc="b5f22c43" md5="7fc5ad3fdec10c5115c31d56f930e46c" sha1="165c87217791ab75856ed810016a0b8516bcf0f3" />
+		<rom name="Mod.txt" size="291" crc="f581899e" md5="657ccba5bc128ecf278177686b34f97d" sha1="82e79b64d7d9db3714ff2361ec62bd5c4e563997" />
+	</machine>
+	<machine name="moemon (Unknown)(1.0)[VP8]">
+		<description>moemon (Unknown)(1.0)[VP8]</description>
+		<rom name="moemon.jpg" size="51476" crc="bbabd284" md5="275ecd3c542002655c5b5b7a2ab6875a" sha1="5128243f85f0001f426d86062e0bb91bd86a0878" />
+		<rom name="moemon.vbs" size="27190" crc="9356c7b6" md5="b98668c5bdf768585c28a4f85679e4a5" sha1="789583955e190ee191a03301f1cf03c65d2937ad" />
+		<rom name="moemon.vpt" size="746496" crc="08e05c38" md5="2a7fa6466bec257bd20d1cedf9bb2724" sha1="e432b66b010bc8d537f4d5fb723960d4b65200a5" />
+	</machine>
+	<machine name="Mortal Kombat Arcade (3dman)(1.5)[VP8]">
+		<description>Mortal Kombat Arcade (3dman)(1.5)[VP8]</description>
+		<rom name="mortal kombat arcade 1.5.vpt" size="5744128" crc="c976340e" md5="2eaf8d4c54f1d271175ab394fb44e5e4" sha1="60420e5fb3e4c75cdab92f7f80da58b07055d0ae" />
+	</machine>
+	<machine name="Motorin' (Stevan)(1.1)[VP8]">
+		<description>Motorin' (Stevan)(1.1)[VP8]</description>
+		<rom name="Fonts/williamsfontwide.ttf" size="19304" crc="c3c010f1" md5="b2501f86b4d05becd30952e117c53de5" sha1="3b0458ab8b8679b760b3e177f5ab4ebd98001b2c" />
+		<rom name="Motorin1_1.jpg" size="164784" crc="97cb5830" md5="7b7d6348ddd1ee29b7defae205401e3d" sha1="b9a6e25410688d6fbe82ce089f0eb2bba1b556df" />
+		<rom name="Motorin 1.1.vpt" size="9220096" crc="d39f729e" md5="3db4954a0e627fc23f6d03e058cfff38" sha1="d0bc51794d05b4d3e2ec6ad196e215c3583360b0" />
+		<rom name="Motorin_readme.txt" size="2445" crc="d528ad5b" md5="c1bcdf8c2d4857e27e6ce27c4fbee580" sha1="29b5d98e9e76121525569001830429e9b6b574bd" />
+	</machine>
+	<machine name="New Year's Eve 2011 (Patrick, tiltjlp)(2.0)[VP8]">
+		<description>New Year's Eve 2011 (Patrick, tiltjlp)(2.0)[VP8]</description>
+		<rom name="newyear.vpt" size="183296" crc="b6a32f0a" md5="b3a48e3d5de6c8f4bce2c5db68ab8fb2" sha1="3edefe708e2c4417263d312dc6489978168914d7" />
+	</machine>
+	<machine name="Night Vision (Jeff Block)(1.2p)[VP8]">
+		<description>Night Vision (Jeff Block)(1.2p)[VP8]</description>
+		<rom name="1.0/Night Vision (1.0) screenshot.jpg" size="50196" crc="5af1daff" md5="e2b98737b80d62e6077d418dc012b9b6" sha1="870789c2349b8945856a3ecf87a41870270e1525" />
+		<rom name="1.0/Night Vision - ReadMe v1.0.txt" size="5203" crc="47b204f8" md5="12665fc7eab7d1f6427f59b42a46382f" sha1="474de5ef0800cd45f74cab353c1ebb7e90a7ceda" />
+		<rom name="1.0/Night Vision - v1.0p.vpt" size="1042944" crc="5b6e5e94" md5="73ddbd2fbe3097d9512f554a33f32d79" sha1="9982143426aba11c0226b8c5c69e52264be2a333" />
+		<rom name="1.2/Night Vision (1.2) screenshot.jpg" size="50101" crc="7fc701d2" md5="839f0772db134927aa3c50faeb051f18" sha1="0b720287543a70d0a62f075e8d42b5e6f0f6d8b6" />
+		<rom name="1.2/Night Vision - ReadMe v1.2.txt" size="5768" crc="63de27ed" md5="4652d4027a15d9ad345f8c5946dded0e" sha1="d3ae9361982191dc8f91960516d1ebd06cdc2ecc" />
+		<rom name="1.2/Night Vision - v1.2p.vpt" size="1047040" crc="69ccc355" md5="7c447c44ec12aae26f83f9d58d6207f8" sha1="b40e00b9b602ea78d6c5e5c64d637cccfef0368d" />
+		<rom name="Fonts/desdemon.ttf" size="54476" crc="69fc47f0" md5="7f91c468c9207bd7714bd29f46d9e28b" sha1="e8809e182499c8d49772c68f95247f3e8d54c8ae" />
+		<rom name="Fonts/mlsbo.ttf" size="41976" crc="3bf08e88" md5="a9496ca8e549a79be1cfd532b84c24f9" sha1="a2209c4d2f4c385df8a29a576509a2883dbf93e1" />
+		<rom name="Fonts/mlsbq.ttf" size="42276" crc="ed3746f3" md5="277851933b744d94f0fd2706ff9899d2" sha1="f0e1fdb6380c798be2cdf0ccca7d30bb0eb7339f" />
+	</machine>
+	<machine name="Parasite Dolls (Anthias)(1.0)[VP8]">
+		<description>Parasite Dolls (Anthias)(1.0)[VP8]</description>
+		<rom name="Parasite Dolls (Anthias)(1.0).vpt" size="8397824" crc="3d569649" md5="e681c335759bacb40c296caf182dd117" sha1="f9265817921e420f7e5ea1f13381ab87bd8b2e77" />
+		<rom name="Parasite Dolls screenshot.jpg" size="130273" crc="36f66f35" md5="65c02c7abf3ef85802c7ed4ce28a0c19" sha1="da1779475cf0fa47d4022dbaedbcba4e12305b8a" />
+		<rom name="trana___.ttf" size="58232" crc="a65607b4" md5="66dc9095c3f6fb48dbe4874d7304ca47" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6" />
+	</machine>
+	<machine name="Party (The Wizards_Hat)(1.47)[VP8]">
+		<description>Party (The Wizards_Hat)(1.47)[VP8]</description>
+		<rom name="party 1.47 by Wizards_Hat.jpg" size="175841" crc="295164a0" md5="7175123630230d8c6d4acac03b1fe86e" sha1="2900af6c39c7f55433e38b2da4d42f06a2ae1252" />
+		<rom name="Party_1.47 by Wizards_Hat.vpt" size="7940096" crc="4e37da00" md5="7480771c87bda48441610a08c86b6673" sha1="86dc355ad258d0625e143f04f7c38ed161d3a82f" />
+	</machine>
+	<machine name="Pass It On No. 1 (Roland Scholz)(1.1)[VP8]">
+		<description>Pass It On No. 1 (Roland Scholz)(1.1)[VP8]</description>
+		<rom name="Music/PassItOn1Music.txt" size="394" crc="3fb338b2" md5="8aa62fd0bee1a3e0038e924c05b4a1eb" sha1="f92e34887bf24f54343c754111d428cc21c2aa41" />
+		<rom name="Music/piomain.MP3" size="3561146" crc="6b86aa44" md5="e165d8e628d5840bbf8705913778ed50" sha1="97c40f176c03a34d9076fc617c3d9ddce30a6891" />
+		<rom name="Music/piomultiball.MP3" size="986931" crc="5811c676" md5="69c4529adc3269dbb0cc8fdf994fb444" sha1="8e4245f7de0f7442efeeb180169d507d2e0fef1c" />
+		<rom name="Pass It On No. 1 v1.1.txt" size="1971" crc="02acd388" md5="fb799cfa0fa08420fd3f77ffa861490d" sha1="3f5f118867533b74bf67363f778283fb09e4f7fa" />
+		<rom name="Pass It On No. 1 V1.1.vpt" size="7971840" crc="a2d080bd" md5="aff4f5b06b437c0405ee9af6cefa8c65" sha1="eee57555cac57268030f83649c4b83b8f36bc622" />
+		<rom name="pio-final.avi" size="3701014" crc="f656bc14" md5="b595cf531af02d4ec0c3240777e09343" sha1="73d4b7b28df1b31a3043c213a68d790c2ab18aa0" />
+	</machine>
+	<machine name="Pass It On No. 1 (Roland Scholz)(1.1)[VP8][New font]">
+		<description>Pass It On No. 1 (Roland Scholz)(1.1)[VP8][New font]</description>
+		<rom name="fonts/Digirtu_.ttf" size="27492" crc="56545158" md5="aa6d6a4705c8670a71ae21ec08744af5" sha1="08f84389d8f6c59682afd0393449a3fca995b4f2" />
+		<rom name="Music/PassItOn1Music.txt" size="394" crc="3fb338b2" md5="8aa62fd0bee1a3e0038e924c05b4a1eb" sha1="f92e34887bf24f54343c754111d428cc21c2aa41" />
+		<rom name="Music/piomain.MP3" size="3561146" crc="6b86aa44" md5="e165d8e628d5840bbf8705913778ed50" sha1="97c40f176c03a34d9076fc617c3d9ddce30a6891" />
+		<rom name="Music/piomultiball.MP3" size="986931" crc="5811c676" md5="69c4529adc3269dbb0cc8fdf994fb444" sha1="8e4245f7de0f7442efeeb180169d507d2e0fef1c" />
+		<rom name="Pass It On No. 1 V1.1.vpt" size="7972352" crc="4ae6a95e" md5="4bef63b1e8b0297a543ae7e21a8a3b9c" sha1="cecae1307d5cb8520fc0a9a3523a29a25dd4e3fc" />
+		<rom name="read me.txt" size="54" crc="81ebc8bc" md5="aefc6f3767fc168a39803657395feeeb" sha1="9676acffacbb07091a9e3cfa45e79ec523b95a56" />
+		<rom name="screenshot.jpg" size="97364" crc="6a686141" md5="b5ffa9a3b2a64df3150a43f34ddd79b7" sha1="f37faacb21cab65fcbce6abc70514c20df1cf235" />
+	</machine>
+	<machine name="Peanuts (Faralos)(1.0)[VP8]">
+		<description>Peanuts (Faralos)(1.0)[VP8]</description>
+		<rom name="Peanuts by Faralos.jpg" size="132234" crc="1e7e649f" md5="c8d4c232ce8beadb4b798455db22d9c1" sha1="77a61422626ccc2af9e8479c2b48dc5638a4b1d2" />
+		<rom name="Peanuts.vpt" size="10437632" crc="a084db40" md5="c4a19a932578f55ef3724dc5d9fd0168" sha1="8844844fd75dfc238106405dff4268d0b6c15f53" />
+	</machine>
+	<machine name="Pirate's Riot (Forchia)(1.2)[VP8]">
+		<description>Pirate's Riot (Forchia)(1.2)[VP8]</description>
+		<rom name="Pirates Riot V1.2_VP8.vpt" size="12817920" crc="47648aad" md5="539803204b6e64892350a2c625c653ed" sha1="8a7e1dc4f90c7a7fb205bdd60b1997b8b4aed931" />
+	</machine>
+	<machine name="Pirates of the Caribbean - Dead Man's Chest (Faralos)(3.0)[VP8][Zizzle Edition]">
+		<description>Pirates of the Caribbean - Dead Man's Chest (Faralos)(3.0)[VP8][Zizzle Edition]</description>
+		<rom name="POTC 3.0.vpt" size="4056576" crc="0ddb4a33" md5="2c11720cbae346cea6ab92d95611839d" sha1="fa8bde273bc8d229e51cf8b5fc30f3e2c44fbd7f" />
+		<rom name="screenshot.jpg" size="91696" crc="630b489b" md5="911f1ea18876169fefb4a1f2d09d55c5" sha1="9a30ca44e4c7dce8930463ad0298d19b8a88052e" />
+	</machine>
+	<machine name="Pirates of the Caribbean - Dead Man's Chest (Faralos, Wizard's Hat)(3.4)[VP8][Zizzle Edition]">
+		<description>Pirates of the Caribbean - Dead Man's Chest (Faralos, Wizard's Hat)(3.4)[VP8][Zizzle Edition]</description>
+		<rom name="NEW POTC 3.4 with everything.vpt" size="5124608" crc="13eb8582" md5="01ca6ea5b19137e80e4435bc6e4e6fb7" sha1="402ed78e4339919a3cd3cf44113909e0b9b5af09" />
+		<rom name="POTC Docs.rtf" size="1498" crc="88fea682" md5="66804d0c261f5bf700ec0628d2680cce" sha1="27379d67c502a54655fe5f52f58474762d6f207c" />
+		<rom name="screenshot.jpg" size="135866" crc="b50894e2" md5="39165f82fa835371e08443bf58abb046" sha1="312d3fab6e275b1b381727a3665aca2c0db9fb50" />
+	</machine>
+	<machine name="Rising Steps (Jeff Block)(1.3p)[VP8]">
+		<description>Rising Steps (Jeff Block)(1.3p)[VP8]</description>
+		<rom name="0.5/Rising Steps (Block 2003) - v0.5p.vpt" size="2616320" crc="d9ca6ceb" md5="520038622a7f97d365ae61fceb09fcd8" sha1="85f6aea1699357276291434ee8f8ad8450b4cc5b" />
+		<rom name="0.5/Rising Steps - ReadMe v0.5.txt" size="5765" crc="fc3cd055" md5="e96ee1d56b320933d0a4da5a7793f866" sha1="009870951665b97bf559ac5c042c6aa1551b4b84" />
+		<rom name="1.2/Rising Steps (Block 2003) - v1.2p.vpt" size="4353024" crc="135981ad" md5="aafbde4c34d3e2d6127384aa7fede337" sha1="3aec1f7ee2e889a75eccfe66c9d6776c5905f26c" />
+		<rom name="1.2/Rising Steps - ReadMe v1.2.txt" size="6679" crc="e88958f5" md5="070c9ca0f390f0314d56bb11bb1228b9" sha1="abd3b151ba54df6cabd76d93b34a3b9b72519802" />
+		<rom name="1.3/Rising Steps (Block 2003) - v1.3p.vpt" size="4600320" crc="e135d225" md5="13ef5cb17dd32b203782f2b105610846" sha1="b3ef1a6cf716d15403ce2eadcb8e499a83e98e34" />
+		<rom name="1.3/Rising Steps - ReadMe v1.3.txt" size="7162" crc="866f5620" md5="5a5ee7d2ffc1b87bd3d7885926bf99e2" sha1="39cafc1b8cbfaec284630b6afd3f7150a8446014" />
+		<rom name="1.3/screenshot.jpg" size="124645" crc="8823273c" md5="b4e0a3983257600f5994a33721e1d727" sha1="4250790eeaf865e8f9d23a1242f7a757ea808f18" />
+		<rom name="Fonts/desdemon.ttf" size="54476" crc="69fc47f0" md5="7f91c468c9207bd7714bd29f46d9e28b" sha1="e8809e182499c8d49772c68f95247f3e8d54c8ae" />
+		<rom name="Fonts/mlsai.ttf" size="49842" crc="387d9407" md5="b94c5784c3c6de49a2a4b5ff53683a71" sha1="b858dd94c14d253c4259b35f90fc7b1504d4d749" />
+		<rom name="Fonts/mlshb.ttf" size="66453" crc="cc55666b" md5="942ea2c4ddf6b40736d3adbc9e2f1c40" sha1="23c7604c9a041b98351d8476eb45587db2ff3bbd" />
+		<rom name="Fonts/mlsit.ttf" size="93628" crc="dd558e56" md5="93bc0006e26c59d596d58ef02dd355bb" sha1="980eafd166a3e2cec9e2e029c886ff4e6a0726aa" />
+		<rom name="Fonts/mlsiu.ttf" size="52072" crc="94771613" md5="9e50d41e402c32b7354801ab410555ca" sha1="36951ee32adc8fd30b6fe2871e67d04c195ce7c5" />
+		<rom name="Fonts/mlsjf.ttf" size="58032" crc="905a3342" md5="6feec61c4297ee3ddd7f3cfc890168c9" sha1="d12eb9401ff5e1abdfab18dab2f4ca501ffdee1a" />
+		<rom name="Fonts/sylfaen.ttf" size="221676" crc="6c2ebcf0" md5="311496e8ad04abe016d9f23d3f5f1896" sha1="ee46f7f35f9b3f24a1418af884824bb9c41e7036" />
+		<rom name="screenshot.gif" size="137272" crc="0206265b" md5="34552167dc3a8f229b0c0553692e9cec" sha1="dbe9397ed6c06bac64cfd1ff9d2a177d2f49a6bb" />
+	</machine>
+	<machine name="Rube Goldberg (Itchigo, Faralos)(1.2a)[VP8]">
+		<description>Rube Goldberg (Itchigo, Faralos)(1.2a)[VP8]</description>
+		<rom name="1.0/Rube Goldberg.vpt" size="8364032" crc="aac24bd1" md5="3479938b8b9b4a7784b279097157f1c9" sha1="7b324a28f511ce29dfadec2a52c2811eeaccf33a" />
+		<rom name="1.0/screenshot.jpg" size="91624" crc="56881e30" md5="e6882478804a1ac89da74be1f131340d" sha1="90a0de94e0e7f6ce542eab3277fecdfbfa7266e1" />
+		<rom name="1.1/Rube Goldberg.vpt" size="11197440" crc="3fd36c2e" md5="627dd4868acb17b6387224b3940fc4b6" sha1="b343184d1cd0242aef336b0584f5eacadad5461f" />
+		<rom name="1.1/screenshot.jpg" size="96980" crc="23b0f2dc" md5="3feea44cfb4d491851584bd0e4b72471" sha1="b1ff768d0556f85e0605921d9d2db6b9dd9502ac" />
+		<rom name="1.2/Rube Goldberg.vpt" size="11195392" crc="5816a306" md5="bf144bb0890a605729ed01c4ba18ca04" sha1="9f2ca4e620a77af37afa7682dee1fac45f2b2e7c" />
+		<rom name="1.2/Rube Goldberg_a.vpt" size="11195392" crc="2380608f" md5="23330272b2461269dadaf57ef9485abb" sha1="8e20a376307fa94e636f386a4c42393842e9c4e3" />
+		<rom name="1.2/screenshot.jpg" size="121619" crc="2120e2a4" md5="18ad9704d557a00f26435ff60f3b853b" sha1="cf48b1a35196723c1c1d6decb86dd51c66ac950a" />
+		<rom name="Alpha/Rube Goldberg.vpt" size="1305088" crc="ac361272" md5="0c3afa01985edc864501caebdec04feb" sha1="50d6017a39b94da836ebbfa9d449a207b62d3d9a" />
+		<rom name="WIP1/Rube Goldberg.vpt" size="5512192" crc="397042d9" md5="e0b2147f9b22264717531f6a6c0ffd21" sha1="fe4aa663084be482685a30b05daa8caa0c4aebdb" />
+		<rom name="WIP1/screenshot.jpg" size="91773" crc="0fff38af" md5="48e0961f772aa8c5460720fdb328f690" sha1="29dd75f018bec85036651e25c07789c0c5790c94" />
+		<rom name="WIP2/Rube Goldberg.vpt" size="5947904" crc="e662ef60" md5="1a8eb451e1cdd270d5050cceaf23f82a" sha1="5ce9e6552ad9df1cb1f3119206b75601a5317b09" />
+		<rom name="WIP2/screenshot.jpg" size="91773" crc="0fff38af" md5="48e0961f772aa8c5460720fdb328f690" sha1="29dd75f018bec85036651e25c07789c0c5790c94" />
+		<rom name="WIP3/Rube Goldberg.vpt" size="7910400" crc="1daf721e" md5="96d8319122bfb39806bc74673be72a9d" sha1="13074b67edcbb056df00204775e7246503efdc6c" />
+		<rom name="WIP3/screenshot.jpg" size="95803" crc="e349571a" md5="9bab3f5b9e9317ca026a9560fffe6925" sha1="9de0ec27c7b875884fe0346a796209b9cff37a4a" />
+	</machine>
+	<machine name="Saddle up! (Koral)(1.0)[VP8]">
+		<description>Saddle up! (Koral)(1.0)[VP8]</description>
+		<rom name="Saddle-up!_v1.0.vpt" size="70159360" crc="c13a88a1" md5="f57ee26caff608044b98ba719f490278" sha1="cc5aed32bcdaecc318304eed76eb08cb9fe8aec2" />
+		<rom name="screenshot.jpg" size="309769" crc="01f37356" md5="9c0273eec752d7bd7fb110907bd7e776" sha1="9c7ced958d47f33d2995711eb4c6f08f12d69cd8" />
+	</machine>
+	<machine name="Samantha Fox (3Dman)(2.4)[VP8]">
+		<description>Samantha Fox (3Dman)(2.4)[VP8]</description>
+		<rom name="music/Samantha Fox - Touch Me (Ext).mp3" size="7144910" crc="a89e8175" md5="fc1ef80209b732738acfeddf26e99d20" sha1="f13128ef83315ba8fb4974ec1daae436a99bafe9" />
+		<rom name="music/Samantha Fox - Touch Me.mp3" size="3577858" crc="51ac6c98" md5="e7b1bd818822832907f938b7abf5613c" sha1="1d1b90d4e33814b1c0ec984ca6532d547b3ad13d" />
+		<rom name="$put music in folder music.txt" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="samantha Fox 2.4.jpg" size="160962" crc="5b92fbe5" md5="62a2accefd242e31311dbce310f9e9f2" sha1="f1258d8b4110044fb6b95ef172ca7c0b45a8b333" />
+		<rom name="samantha Fox 2.4.vpt" size="17921024" crc="33ed3363" md5="abd5c9f385303c79752c8cf046be5ca8" sha1="3b49412862326c69072a4c5263e914ae8a870050" />
+		<rom name="solution fr-uk &amp; code.txt" size="1461" crc="696f9655" md5="6952491ed20fb693158c73e4670931db" sha1="7c61f07d91f27af06102a4993717c97ad6a2228e" />
+	</machine>
+	<machine name="Samurai Pizza Cats (Fuhred)(1.0)[VP8]">
+		<description>Samurai Pizza Cats (Fuhred)(1.0)[VP8]</description>
+		<rom name="fonts/bonzai.ttf" size="23004" crc="8e2745ea" md5="f6fffebac6d2661dc083e4e47d9b4243" sha1="be72d14a4f6f68c6622ea4f5a12a09162b977932" />
+		<rom name="fonts/Digir___0.ttf" size="37736" crc="7cd2c10e" md5="1c8da74ab3536f3974b2c1f58e1be9af" sha1="dd58a9176b945cd8bb3f27b9e092e50d8a1f0383" />
+		<rom name="notes for spc pinball.txt" size="2770" crc="3d90e5a8" md5="c2328a6cf503de7ecf95e3dced794bb5" sha1="b641a35e27ace3d9c449e5cb2b6f4b23558e93ac" />
+		<rom name="samurai pinball.vpt" size="7479296" crc="77fd79d6" md5="d8f918db31f325e1f6a28865912651c1" sha1="0ba384ad83ce81ff9533f56969fb9ab2233d28a9" />
+		<rom name="spc pinball screenshot.jpg" size="602510" crc="3d1a2b22" md5="a9e80e152722c4c57cd83b8fc26e3036" sha1="57da5235610e06b08aee114d84903ef612700959" />
+	</machine>
+	<machine name="Snow White and the Seven Dwarfs (Rascal)(1.0.1)[VP8]">
+		<description>Snow White and the Seven Dwarfs (Rascal)(1.0.1)[VP8]</description>
+		<rom name="screenshot.jpg" size="287432" crc="7f5aad85" md5="049001f7dde7bf48d707c5db13ff6fc8" sha1="19d84515d10afd3d5e0d2468a0883466429e97de" />
+		<rom name="snowwhite.vpt" size="17959936" crc="19ca15e3" md5="f85e58dce2de606c45d3bf694d8c557a" sha1="4ae42a42313d5c13c88f5d42bbcfcfd85cc018b3" />
+	</machine>
+	<machine name="Spear of Destiny (Rockinghorse, Hakyoku Seiken, IcePagoda, Cygnusia)(2.1)[VP8]">
+		<description>Spear of Destiny (Rockinghorse, Hakyoku Seiken, IcePagoda, Cygnusia)(2.1)[VP8]</description>
+		<rom name="OldGermen.ttf" size="117376" crc="ee7a070d" md5="c514672c0c44e861bde4bb4e670a5301" sha1="c1bf290a5b8e2e884ebd7d071b287c17690878b3" />
+		<rom name="Spear of Destiny (2.1) screenshot.jpg" size="122846" crc="2c310e47" md5="6d6276af25becb248db42f79d73682f3" sha1="ecc2fc45da2fdab3a09012bcf6dfa6bfb1ac7e70" />
+		<rom name="SpearofDestiny.vpt" size="14671872" crc="3aa5f071" md5="42df42f3d339e54926622be2a404c019" sha1="40261eda47d960beed9b12f24b93e8137ae1ceaa" />
+		<rom name="TRANA___.TTF" size="58232" crc="a65607b4" md5="66dc9095c3f6fb48dbe4874d7304ca47" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6" />
+	</machine>
+	<machine name="Spheres (Block 2006)(1.3p)[VP8]">
+		<description>Spheres (Block 2006)(1.3p)[VP8]</description>
+		<rom name="1.0/Spheres (1.0p) screenshot.gif" size="144277" crc="076d4934" md5="d1cbbce790fd532a04154145a8dbccc5" sha1="4a3c3c8db1cd9cfda3de90eadc11fc2be05bf6f0" />
+		<rom name="1.0/Spheres - ReadMe v1.0.txt" size="7189" crc="da2ca53f" md5="66c5322fcb313fd0569a0d0b69bdda0b" sha1="1ed750e38e49adcbdf7118cdf576304e6f458e2c" />
+		<rom name="1.0/Spheres - v1.0p (Block 2006).vpt" size="1716736" crc="399a888f" md5="a4c9a566aa4382a5d296e301567b432d" sha1="610a4808b753c567abab9a1bcf459c0209934509" />
+		<rom name="1.1/Spheres (1.1p) screenshot.jpg" size="162981" crc="5ec27a6f" md5="e1ac9a3506a5c338ea921cfbf06265d4" sha1="57c3ecf644e2198b42c2ec8d7990e796d3757452" />
+		<rom name="1.1/Spheres - ReadMe v1.1.txt" size="7344" crc="31c61868" md5="5b5d1b86b5f3f019bba8911b89ce4582" sha1="b64d52958c591330f1c5669bb5257eb135bf6243" />
+		<rom name="1.1/Spheres - v1.1p (Block 2006).vpt" size="1720832" crc="ed68880d" md5="e5a763ce944dfde3142d2de1b5a46ff5" sha1="748362c1f6f2c2466fb147b9500188431b6b3075" />
+		<rom name="1.2/Spheres - ReadMe v1.2.txt" size="7825" crc="858183d2" md5="75ba159bc818b3973a262a6ae15b97d0" sha1="26404bb414a9007a7836a7d0dd6d987c9f5add25" />
+		<rom name="1.2/Spheres - v1.2p (Block 2006).vpt" size="1721344" crc="935501cb" md5="f50137f510155bca62a596c39cd35576" sha1="fa532df192dcc7bd2b94e525bdfe77683a239c8c" />
+		<rom name="1.3/Spheres - ReadMe v1.3.txt" size="9157" crc="ef01927c" md5="05ae716a5d6c86a4e6d498fbb4dfee6d" sha1="d05031bb83239b9022d674b73fa36fe21435c9c7" />
+		<rom name="1.3/Spheres - v1.3p (Block 2006).vpt" size="1724928" crc="18cbb335" md5="e9d83edd4474318cbb069af13599bcf8" sha1="e4ee512a648dfbcabd00c4158dd5c8dcc3baa158" />
+	</machine>
+	<machine name="Spider-Man (Bob5453)(2008)[VP8]">
+		<description>Spider-Man (Bob5453)(2008)[VP8]</description>
+		<rom name="Music/FlyingCondor.mp3" size="5261411" crc="0a2da7cb" md5="15f3420fac3ff46f29120db97e316d44" sha1="7e10235ca3987aedd850499e08f77c23b3bef487" />
+		<rom name="Music/Spiderman01234.mp3" size="1869794" crc="34dac64f" md5="62ec89444b43027134322794dc89a2a7" sha1="2ccfaeb7c15b7ea13977901286436f7f1a87bd60" />
+		<rom name="Music/SpidermanNewer.mp3" size="2633168" crc="d45a1131" md5="75127ce6f7c10f880569b4c25d9d73e8" sha1="48c9d8d0015a9e1bfc28057750d835540f49c740" />
+		<rom name="Music/SpidermanRamones.mp3" size="2027724" crc="12743fb6" md5="f2fcc8bb991861e01c33134f9fdadc39" sha1="bcefdb3a7ee10690f1a5f8e454fed8eef12b3585" />
+		<rom name="Digir___.ttf" size="37736" crc="7cd2c10e" md5="1c8da74ab3536f3974b2c1f58e1be9af" sha1="dd58a9176b945cd8bb3f27b9e092e50d8a1f0383" />
+		<rom name="screenshot.jpg" size="249709" crc="fbf8b5b7" md5="c95865dd3e0e75569fbb7c650d013e2a" sha1="379034a1971b781b7ceb6da151a4d222af2e4675" />
+		<rom name="Spiderman 2008.vpt" size="15406592" crc="c6d6a372" md5="a952c412c7622341fee9dacb77bf21c1" sha1="3249a0f6bd3efc1799a1b3881221bbdfb57b4d98" />
+	</machine>
+	<machine name="Star Wars (Spirod)(1.0)[VP8](MultiBall)">
+		<description>Star Wars (Spirod)(1.0)[VP8](MultiBall)</description>
+		<rom name="Star Wars (MultiBall).vpt" size="3046912" crc="558a9689" md5="d966c4f6ab1b71f32a9219894fe5f5c0" sha1="8820ed9875781e4727d68f770da34b46c0b1f4cb" />
+		<rom name="Star Wars.png" size="1179576" crc="f41f8133" md5="aa8bf7ed7f4e89de084c8ac37d2e0f4a" sha1="c0880b41017a53fb39b629c5ce0bed13205cd469" />
+	</machine>
+	<machine name="Station (Tii)(1.0)[VP8]">
+		<description>Station (Tii)(1.0)[VP8]</description>
+		<rom name="105STATION.vpt" size="6036992" crc="79fb2fde" md5="0afa7eb8a08b2a1bc8663ee10a988c0a" sha1="a58d0b525e45fe0ca696fcc9e884b1652cc93f6d" />
+		<rom name="argentum.ttf" size="17620" crc="2a36d8e5" md5="66b131047274b4644829866f1b057a9a" sha1="15bc7d038ea75546d29596e72b3d2ffd389b67a5" />
+		<rom name="screenshot.jpg" size="231643" crc="a97a1467" md5="bbb8a3e91efa774086f96f3ab9cd640d" sha1="281291e26ee4b06ebec746b0fca2f3d2794429d6" />
+	</machine>
+	<machine name="SyncoBob (Muppets Edition) (2007) (Bob5453)[VP8]">
+		<description>SyncoBob (Muppets Edition) (2007) (Bob5453)[VP8]</description>
+		<rom name="SyncoBob_Muppets 2007.vpt" size="6064640" crc="81b7287b" md5="ddf86755eaaf4ac30de9e5d6ecc4d94b" sha1="73347efd6dcb6b6ce92de1ed9a03dcf0621590d3" />
+		<rom name="SyncoBob_Muppets_2007.jpg" size="239466" crc="6034d497" md5="d3a4dcb130fe765d16f9664427dcb81b" sha1="112d092da11c98dffe97704cbce945b27bf8668b" />
+	</machine>
+	<machine name="Three Stooges, The (Bob5453)(2009)[VP8]">
+		<description>Three Stooges, The (Bob5453)(2009)[VP8]</description>
+		<rom name="screenshot.jpg" size="254332" crc="9df1627b" md5="a3a10737cf07a50a0896c20b984029a9" sha1="787499df6ebbf4aa9c442e8347e45b39d90ced2d" />
+		<rom name="The Three Stooges 2009.vpt" size="16439296" crc="a59dabef" md5="c4d2b1fab95a46bc911e960b209cf0bf" sha1="ef303d4dbb3f7bfda96a6ff9da88b709cf8b3580" />
+		<rom name="williamsfontwide.ttf" size="19304" crc="c3c010f1" md5="b2501f86b4d05becd30952e117c53de5" sha1="3b0458ab8b8679b760b3e177f5ab4ebd98001b2c" />
+	</machine>
+	<machine name="Tomb Raider 1 (3dman)(12.5)[VP8]">
+		<description>Tomb Raider 1 (3dman)(12.5)[VP8]</description>
+		<rom name="$$$solutions/FR/$$$codes.txt" size="2838" crc="41d0c57f" md5="fd80130c80575a4ddf5095b20f3496e7" sha1="78dd3d687daf0109024dab420169674f82974e5a" />
+		<rom name="$$$solutions/FR/$$$solution dur + bonus 1 &amp; 2.txt" size="6484" crc="5c691c1d" md5="28a1cdc9413612d41d16ec9a1fe3edea" sha1="f4c7c5949bc4a47339d4dbfc044603ec35ba9884" />
+		<rom name="$$$solutions/FR/$$$solution facile.txt" size="2389" crc="e4334df9" md5="1e6bdb724809188c6ba7f8b01685f890" sha1="a6829c9723a49840345746fb17906bf07b795273" />
+		<rom name="$$$solutions/FR/$$$solution normal + bonus 1.txt" size="3797" crc="54926564" md5="20f8c302704a0900c5c4b3aef8c27774" sha1="7ab3aceca3b03017047ca26fcc84088f82b34e6a" />
+		<rom name="$$$solutions/FR/$$$solution superbonus Monument St Francis  + code.txt" size="663" crc="551983cc" md5="3ecf70e8efbe94f2ed2f6d5058629282" sha1="edaddd6a9a5fe69e7b9d30ec77f547ee49b141c5" />
+		<rom name="$$$solutions/FR/astuces.txt" size="2469" crc="93e83822" md5="ca56fc132ec8dff8a95dcd424a756683" sha1="8ff731ff32d9ea61c7972d9f6ad373d4abab030a" />
+		<rom name="$$$solutions/FR/erreur connues.txt" size="904" crc="e56a9756" md5="9f9be3b4c167bd3cf50cbf0720138880" sha1="20ec6747b2cf14f8f02995b4ed03dd851de19446" />
+		<rom name="$$$solutions/FR/erreur volontaires.txt" size="2614" crc="b0f90317" md5="cca2049fe064c0860e904a6055905a10" sha1="3ff7d5ebdf164fdc08e06aecbdc0635364babf48" />
+		<rom name="$$$solutions/UK/$$$codes.txt" size="1716" crc="a8451720" md5="d79aff05cf7b5ab1e0a0ca75daaa410d" sha1="04207de0dc30dbb2cb2b778500595e0ffdb1fd5d" />
+		<rom name="$$$solutions/UK/$$$solution easy.txt" size="2063" crc="6cecd3f2" md5="4ce4f4ed2b40c95bdb089231ceb1420f" sha1="02f0d77ab76dae3fe72df62813756d98d8e58b70" />
+		<rom name="$$$solutions/UK/$$$solution hard + bonus 1&amp;2.txt" size="5079" crc="659e3b35" md5="070176dc506e4895fb0fe9551766ca19" sha1="0e2eed1edb7cc7b82d1c5c210a1f62c2c04ce214" />
+		<rom name="$$$solutions/UK/$$$solution normal + bonus 1.txt" size="2923" crc="7d2ffd16" md5="f321bb2daff47028af4c44b7a921524e" sha1="a43c7deb036f6750b134e9ae0ca5ca5a23be9084" />
+		<rom name="$$$solutions/UK/$$$solution superbonus St. Francis' Folly + code.txt" size="453" crc="e4fd0c76" md5="c8c2ed4006b14a21d51cff17a6e5f061" sha1="609c895683cd825c55f6902617d99c8b05798af4" />
+		<rom name="$$$solutions/UK/Known Bugs.txt" size="466" crc="c7c2eedf" md5="5a1131491130d28def39bdb9a6712df7" sha1="348cdfc45a950f49d0910bb5a504138179331394" />
+		<rom name="$$$solutions/UK/no Bugs.txt" size="2281" crc="854eeeb6" md5="6be26a7506a0f953a12eb627753f6b44" sha1="eb753fd82fbbe5a0b4903b9c833bc393bd624f00" />
+		<rom name="$$$solutions/UK/tips.txt" size="2184" crc="13082466" md5="5355cc4e37462f598fdf4b7fa9c8a84c" sha1="fdc6800990935bd8d4b846d411e0d81efb862809" />
+		<rom name="music/00.mp3" size="773959" crc="934236ef" md5="445cfd843b96032bfe65d9566a6200fc" sha1="5178eaaa6b22885cdf53f9418f5292f1e7f48e9f" />
+		<rom name="music/11.mp3" size="704995" crc="4f3cb9fb" md5="6f208b7f76c695cce7520ebf9e1dd7eb" sha1="d2daa5ddc0b4b508728d10175b6dabecb1514879" />
+		<rom name="music/033.mp3" size="105642" crc="ed810327" md5="e25491b003f94d920552b5d73f507a4c" sha1="e8d14ac2d03d035b9829fccb27388adad8cdcb69" />
+		<rom name="music/035.mp3" size="160394" crc="9261cfcf" md5="ec58c5b130efd815a949d89a35f3160e" sha1="5093cb53ff6a7526593d2c917562142366b5ec2d" />
+		<rom name="music/055.mp3" size="130510" crc="8adcd224" md5="98047f3b4c4cfc84b7c6c5d01a33fea1" sha1="0c71f07b813bb5141ff5ea9e5ba86c209680c905" />
+		<rom name="music/063.mp3" size="248166" crc="4d812b5f" md5="3110d4e42a44a435e1cacbcde00043a3" sha1="68f8105e1b57f5a755e2cf592ea633e47ba5dd89" />
+		<rom name="music/Cistern.mp3" size="433322" crc="1dc369af" md5="484b5eb55f4aa0dce9600a892d8294e8" sha1="718fb3f2eb7ed460df0bb4a5a443d279856151db" />
+		<rom name="music/Coliseum.mp3" size="602595" crc="21ff75e7" md5="ca2d9a96663a40680c5e198d84d1e7a5" sha1="71d32ce4deb6489c8483825b225d1b592ae537c2" />
+		<rom name="music/end.mp3" size="603849" crc="e2e24d77" md5="332cb3143f281e885ba3236aa308e784" sha1="b549ab784732a993b7fbfe4a8d9d2d14658726c8" />
+		<rom name="music/Khamoon.mp3" size="621194" crc="75fd3d65" md5="c33e8ce1be6054db0917d8c51f1a9e1d" sha1="dbf9a4edf219ab150269009866b5235668162cd3" />
+		<rom name="music/Lost Valley 2.mp3" size="532169" crc="b6a986ea" md5="21f16371c173a3686bfef3599fc46552" sha1="77d3800cba545b64a87747ed5ad80e3e54c5941b" />
+		<rom name="music/St Francis.mp3" size="498523" crc="251a4ae8" md5="d21fd3b2e138bf33ab79a2f4c0ddf40e" sha1="846ee90991e4e813f5ea761659e40b4d42a0e084" />
+		<rom name="music/Tomb Raider Theme.mp3" size="7783799" crc="ef198b47" md5="e380fc010332e9929ac98f650bab93b4" sha1="8c6f88e406175ba363126a140462188b8ffdac4d" />
+		<rom name="music/Vilcabamba.mp3" size="420156" crc="92365b13" md5="24b2d9e78161e48650c9864a0ae1fcf4" sha1="c7fca9c70af5fa1061440d3f966861825be18357" />
+		<rom name="old version &amp; demo/script nouveau.vpt" size="367616" crc="b24cef6b" md5="13a9e4c3abe22812f8b8913b84fddde3" sha1="cb6e6830909e5e40f2e620c32386b8b962529d7e" />
+		<rom name="old version &amp; demo/tomb raider 1 test levels rotate.jpg" size="48992" crc="7dd5c170" md5="901ee9c8ea38b313f3c328104f9b5967" sha1="a8053eaf271395746942b80332fef33940ef75a1" />
+		<rom name="old version &amp; demo/tomb raider 1  0.0 original.vpt" size="5046272" crc="1cdd3621" md5="65c1609ff63fab56926b3b7e245b6c31" sha1="492b0bba175e72931e1e2290dd457d48eead706f" />
+		<rom name="old version &amp; demo/tomb raider 1  1.0.vpt" size="3274240" crc="a51d0e15" md5="0d6616d46e7b01301d1678ea93a2389a" sha1="ca44031bc77a591fe2f824a138a0da1fc43ea173" />
+		<rom name="old version &amp; demo/tomb raider 2 1.0.vpt" size="1138688" crc="fab3035b" md5="7ea3ebf747318c0e88171a1a02895cb8" sha1="72c7e97bf7d7740bca23109a356fe0b0b4a8d8c1" />
+		<rom name="superbonus/superbonus.vpt" size="1068032" crc="daad1956" md5="19ea9c2a9fd212ad57cc04aa9748bb38" sha1="751a4d1f0a080f05977aca2f3a3e5e1b7c3c53ed" />
+		<rom name="$put font in folder font (windows).txt" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="$put music in folder music.txt" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BookmanOs.ttf" size="71448" crc="64776d37" md5="3534a22a201a1a8ad65fb9a92c50c2a5" sha1="21c1060789fa6f9216cee76c9278775f1dd92958" />
+		<rom name="regles.txt" size="761" crc="bb325a47" md5="f36959e7ec111f81827b885af150ad17" sha1="8530c13b0a762b60d9984869536d1d93b290abd9" />
+		<rom name="remerciement.txt" size="1079" crc="d2f7ffdc" md5="b67adcc229608fa293c2bd1c32e8cf4d" sha1="62fe265c7eb018652573b5e074e9c9aa4f86bc4f" />
+		<rom name="rules in table info.txt" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="thanks.txt" size="758" crc="27e2e1be" md5="095471fd923e4f0477bf1aac349dae75" sha1="00a96180b45564e6241662be7451a3f81c9831c8" />
+		<rom name="tomb raider 1  12.5.jpg" size="176850" crc="e954a755" md5="206f865d7a77931f759ef3188eae0bcd" sha1="0fb59e043685c2d4825581706f2682c461c12b60" />
+		<rom name="tomb raider 1  12.5.vpt" size="21096448" crc="6d0f0407" md5="4e19f0dfa3590e646eabb50ef84708b3" sha1="39643252d959554c8c6ddf841afc814fecbc9557" />
+	</machine>
+	<machine name="TUD (Tii)(1.1)[VP8]">
+		<description>TUD (Tii)(1.1)[VP8]</description>
+		<rom name="1.0/104TUD.vpt" size="4059648" crc="1767f184" md5="4fc52d3cd7fba31fce9533600088bc88" sha1="ead723f73c8058893fa070c53bc95ebcd916ff6e" />
+		<rom name="1.1/104TUD.vpt" size="4085760" crc="1d242a6c" md5="06222e81ce4d03501326e24fe3c35c3d" sha1="2fe5462039339a0574b9219546943d5483b8022f" />
+		<rom name="1.01/104TUD.vpt" size="4059648" crc="aa656ccb" md5="42cd7bfcc2d0d9b083d3a4bd7d54d555" sha1="d47f2465122f69f1e49879aa78671c6430cf1768" />
+		<rom name="BlackoakStd.otf" size="43648" crc="f800819c" md5="94baa365bc30c58d1916690da5762752" sha1="8b9a4707ccd09e50ac12ef14a2d6d5322a0746f2" />
+		<rom name="TUD.jpg" size="119966" crc="a0999bb6" md5="f35d2674d010f86b316225ed8c8d5965" sha1="367a9f0ec8b6ac87496c3d68b926eb836c0aae62" />
+	</machine>
+	<machine name="Ultimate Spider-Man (Bob5453)(2008)[VP8]">
+		<description>Ultimate Spider-Man (Bob5453)(2008)[VP8]</description>
+		<rom name="Music/USAP1.mp3" size="3434403" crc="8c7a61aa" md5="9dd367986642db1694dee95cbe73630d" sha1="09f69c59984dbe399b025e4de3f3d6fbc7731f16" />
+		<rom name="Music/USAP2.mp3" size="3673476" crc="de001c55" md5="4a1d3412b5b808401738610dd5a5929a" sha1="4ae4b07c5a28d87265db87b19601316324d0dae6" />
+		<rom name="Music/USAP3.mp3" size="3810566" crc="5aeef4f2" md5="6ffd75c8bb4b12dc2a5d3a3f68122c75" sha1="1d836b4899017cb6c28462d343d08a735a7cd905" />
+		<rom name="screenshot.jpg" size="255263" crc="769c38b5" md5="c48ffd03d060c3729c93061f885fd76b" sha1="97957f0208f2b9c20d635842cdab7ec046f0cabe" />
+		<rom name="Ultimate Spiderman 2008.vpt" size="9583616" crc="8ae6e785" md5="bfcfcb36e5eb073a70c51f4420f3172a" sha1="0278650c96d0c0498e00d14f0ecb55f3517983ae" />
+	</machine>
+	<machine name="V.P. Tribute (Itchigo)(1.0)[VP8]">
+		<description>V.P. Tribute (Itchigo)(1.0)[VP8]</description>
+		<rom name="screenshot.jpg" size="160038" crc="cc92146a" md5="f87000e5dd2539eeaffb9151588a49fa" sha1="ca2d0fd970856eaf5eb63d41a4f393c5bba037c8" />
+		<rom name="V.P TRIBUTE.vpt" size="10057728" crc="f347d8ef" md5="da856f8862729e94b2bf36f0665cf56a" sha1="a59194b727bcd1a233c23e81d619c5cac1b5d72f" />
+	</machine>
+	<machine name="Vertigo (Jeff Block)(1.0p)[VP8]">
+		<description>Vertigo (Jeff Block)(1.0p)[VP8]</description>
+		<rom name="Fonts/arial.ttf" size="311636" crc="7c959725" md5="6e7385fb7d6ceddf07b5a41e0bc2712d" sha1="49f0ee6148e6b674a60450d86faaddbb97d798f3" />
+		<rom name="Fonts/ArialNb.ttf" size="139128" crc="543a1293" md5="942e436ed77c4d65f95d6ed4b916a0f4" sha1="8c055280f10eff53d00b0ec17687e21252d3bee4" />
+		<rom name="Fonts/desdemon.ttf" size="54476" crc="69fc47f0" md5="7f91c468c9207bd7714bd29f46d9e28b" sha1="e8809e182499c8d49772c68f95247f3e8d54c8ae" />
+		<rom name="Fonts/lsansuni.ttf" size="323980" crc="7e153d2e" md5="d7179850bdd2cfaf663c8254ea739e4d" sha1="db6014ff3defd38524999a69677de8387106fecc" />
+		<rom name="Fonts/Pinball.ttf" size="23548" crc="02e83ad1" md5="a50ceaf415b07a0c9e467b03f2127a82" sha1="a3285aedc5d4d42e7bf6a06713562bc94a165f97" />
+		<rom name="Fonts/vingy.ttf" size="36352" crc="cfcda8a6" md5="b71d7931bcce942af6e1c589f2346da5" sha1="1c45378ddd8e7b95ccc2b7c95c4e2fef2a532eed" />
+		<rom name="Vertigo (Block 2004) - v1.0p.vpt" size="2024448" crc="74636e63" md5="5b225d9fc04f35dc79c5457f4b313de2" sha1="1ae6e0800c147577e6efa63794558ac366ddc41d" />
+		<rom name="Vertigo - ReadMe v1.0.txt" size="5813" crc="ad60de9e" md5="92f0b6c54f4a4a33cbd3bdf4a69264af" sha1="ada917cafb4cdf7c7c3a2ef3835c8d8384b335a6" />
+	</machine>
+	<machine name="Wallace &amp; Gromit (Eala Dubh Sidhe)(RC1b)[VP8]">
+		<description>Wallace &amp; Gromit (Eala Dubh Sidhe)(RC1b)[VP8]</description>
+		<rom name="Fonts/trana___.ttf" size="58232" crc="a65607b4" md5="66dc9095c3f6fb48dbe4874d7304ca47" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6" />
+		<rom name="Music/W&amp;G-ballend.mp3" size="113266" crc="4c8cfe9f" md5="621090d2aee3dd5ecbd621886244c5ec" sha1="12a1be7185adc881e6b8950307f858f5fc3e8664" />
+		<rom name="Music/W&amp;G-ballwaiting.mp3" size="443454" crc="eba7704e" md5="4689535305402e54eda03b1daff62152" sha1="5e17783ee99e9a7a9e139a1202a8eb5d6a89f426" />
+		<rom name="Music/W&amp;G-extraball.mp3" size="236564" crc="9e498cf5" md5="316dff65341150c58f173714d071211e" sha1="0298ff641f1cb4b5dfd706d323586374a9142919" />
+		<rom name="Music/W&amp;G-finalmode.mp3" size="3236675" crc="5064b99d" md5="49e139c8e3b99402cc5dce38bff2722d" sha1="561cbe5fbfe400bb801206ca0b87b0560a73d436" />
+		<rom name="Music/W&amp;G-gameover.mp3" size="712202" crc="dc0c4f80" md5="0253f3d863182a97a635357338257855" sha1="2ca2343f07bba40f9165c0fa6fe7b6f10c62f3e6" />
+		<rom name="Music/W&amp;G-gamestart.mp3" size="127895" crc="854ab282" md5="a2a34ebf8e8cbdb35583abc294fe685d" sha1="42d4810c66211701499cccdc3e74df5100061b44" />
+		<rom name="Music/W&amp;G-highscore.mp3" size="763611" crc="f0c914ec" md5="00a630d8e9fe8115feedd8cf9166abed" sha1="cf70bbb31d0edd3e666ad4fbf1304fbd6daa6a0d" />
+		<rom name="Music/W&amp;G-maintheme.mp3" size="784509" crc="4c26f264" md5="ed3513c9bfb1da3be7a4ca4d69f83e65" sha1="fdd0bbbb54172fceb8015e2d771c08a8a44df00d" />
+		<rom name="Music/W&amp;G-mode1.mp3" size="784927" crc="f74e2d36" md5="8fea8cae00c1ffad737fc20be1adfea1" sha1="cd07a4b13cea2e7c48d53eb9cf4d7aae54737e85" />
+		<rom name="Music/W&amp;G-mode2.mp3" size="757760" crc="cd1901da" md5="e05c81993179c7495d38bef5e122da4c" sha1="92a45c8562ed0a08ab0377e4961b77fb42e69978" />
+		<rom name="Music/W&amp;G-mode3.mp3" size="748146" crc="fe69dcff" md5="088345527dfdc50c0e6459cd1adf868d" sha1="4efe2bb2c9382ffad1c406dc301dd8b378bedcd3" />
+		<rom name="Music/W&amp;G-multiball.mp3" size="1813524" crc="d49d94d8" md5="11db9a0ad31083182b4e4e7fcf9f49dd" sha1="f4ff2318eda1aee1fe87162808e56b0143b2d232" />
+		<rom name="Music/W&amp;G-multiballend.mp3" size="156316" crc="e864a27b" md5="9767c33e276f520fc0c8aa84731446cd" sha1="8a5ae96826cec36fe56d7dea0715109a66835381" />
+		<rom name="Music/W&amp;G-multiballready.mp3" size="858906" crc="1c1177da" md5="f4891954ba1b7143c322c6bc671bf88f" sha1="c540477ef931d4b779e181fec7c893699cecbaa4" />
+		<rom name="Music/W&amp;G-roundend.mp3" size="40960" crc="1281bf65" md5="9e435e958508d335ddb0b01ed7a943ef" sha1="9dded0a27df144ba0d7f819eadaf11bd136d3241" />
+		<rom name="Music/W&amp;G-special2.mp3" size="150883" crc="fa409136" md5="7538d49ea677697a1ba7ed41b566094b" sha1="a918aebeeb997466946b11515367348450d80050" />
+		<rom name="Music/W&amp;G-special.mp3" size="294243" crc="dad6b641" md5="588edd5c2b1919b2e47b0393f506480e" sha1="a762dde08d9a52e11503aa73bbd089a2a327dc8a" />
+		<rom name="Music/W&amp;G-toast.mp3" size="338546" crc="5d22963f" md5="6020e6b22b77b7c1a5a0a9d9c5240cea" sha1="660799a24721591980921c61aadf8406fc378c59" />
+		<rom name="screenshot.jpg" size="552214" crc="3c87e756" md5="b2769a2b2d5bb24106465fe6ce0186ea" sha1="43dd7cea603d6e5b4aa28ef191d2501c0f0b336a" />
+		<rom name="Wallace &amp; Gromit table notes.txt" size="4216" crc="d4fdd053" md5="7dfbc4a2665367f64adef29890c2a4b2" sha1="589d5a1b2c3732a9f76fa8ca7ef27f868f76cb52" />
+		<rom name="Wallace And Gromit RC1b.vpt" size="13953536" crc="9855799e" md5="5c887d62c68242701b3298ed9852517e" sha1="e6dc0522ccb3141b4a0f25e2de12680417466997" />
+	</machine>
+	<machine name="War of the Worlds, The (AR)(1.0)[VP8][Source table DEADPLANET Tii]">
+		<description>War of the Worlds, The (AR)(1.0)[VP8][Source table DEADPLANET Tii]</description>
+		<rom name="Mod.txt" size="306" crc="03834348" md5="81cb6216bf13600634da35bab83867cf" sha1="a6e2334b59684b8c23dbc6edd5a17b601bd5d835" />
+		<rom name="WarOfTheWorlds1952.jpg" size="332304" crc="fbc664e9" md5="f9832e038ae0dc71decb1ecf15288b36" sha1="1c47d54e79b43e5b41005917057fa2e3e39b522b" />
+		<rom name="WarOfTheWorlds1952.txt" size="758" crc="4193e03d" md5="ac136dad5795368b9a593fcafeff9449" sha1="dc3cebc4098b9d8dbb77e111a1c162589274a048" />
+		<rom name="WarOfTheWorlds1952.vpt" size="4461568" crc="7f239abd" md5="66756c9ad8cacc99051c15d775e1864e" sha1="ab49c13bbcd4f5b129f5ecf6a38f90e08b9da698" />
+	</machine>
+	<machine name="World Cup 98 (10 years and more) (3dman)(1.0)[VP8]">
+		<description>World Cup 98 (10 years and more) (3dman)(1.0)[VP8]</description>
+		<rom name="434px-BRA-FRA_1998-07-12.svg.png" size="48511" crc="2ffdf4b6" md5="82f43eef2ad3e524e427a64e733c1a3e" sha1="65aea07be0c918e0056216026fd4bccb7ca3fe4a" />
+		<rom name="rules  regles.txt" size="542" crc="2c9a4bdd" md5="cc43583e81ee3fdb1360f1e4487e2cd2" sha1="d5f7d43bb76a6beeea1f48bb6b94472c30d843bd" />
+		<rom name="world cup 98 10 years and more.vpt" size="3845120" crc="70b01eb3" md5="455a4aea05fabf0b3bcc1ffaa77e80a5" sha1="8ebb2c7cc4f97c0c8f1967201543461b1dcdf0c8" />
+		<rom name="world_cup_98_10_years_and_more.jpg" size="185336" crc="77f085e8" md5="1a2c4e811937dc476edde6ced064c143" sha1="f5a4d01834bf70bb3721435eefdce8fda5b3c110" />
+	</machine>
+	<machine name="World Cup 2010 Hat-Trick (The Wizards Hat)(1.0a)[VP8]">
+		<description>World Cup 2010 Hat-Trick (The Wizards Hat)(1.0a)[VP8]</description>
+		<rom name="2010_World_Cup_-_Hat_Trick_(v1.0).vpt" size="7284736" crc="52161be3" md5="a80ad2cf9b6e370fd980b93c243fd19f" sha1="db3e15fc359e2eedb7dbc40564a1da0fe4fdf961" />
+		<rom name="2010_World_Cup_-_Hat_Trick_(v1.0a).vpt" size="7284736" crc="bfe9a290" md5="c68d61e85eee6600e4b3986ddbcf875c" sha1="ae74d9453c570c35784ec0f61b90855d5e073336" />
+		<rom name="World Cup 2010 Hat-Trick screenshot.jpg" size="263485" crc="f920c70e" md5="980a272d4a9f8b48ccb0b5ba7944b893" sha1="abfaf096093ab72f6e0ff50ccf9540d49328978f" />
+	</machine>
+	<machine name="World of Warcraft - The Ashbringer (MscMaster)(Beta 2.0)[VP8]">
+		<description>World of Warcraft - The Ashbringer (MscMaster)(Beta 2.0)[VP8]</description>
+		<rom name="beta1/screenshot.jpg" size="129550" crc="7e595119" md5="4dfb051bc0a8a7c3fe3a42eb7e6e0e1e" sha1="7aac8961434a4a1d79c34422c9d7dcec1d190a22" />
+		<rom name="beta1/The_Ashbringer.vpt" size="19823104" crc="2a672ac0" md5="15e4afcfc142655aa372d9cac68b4487" sha1="ce9d4796e101502c0db570ea7cb0e4d3fe0c319e" />
+		<rom name="beta2/screenshot.jpg" size="171830" crc="3949dfec" md5="ee65f3aaee642f840fe25bc4465bc280" sha1="40445567d705ef42f3aa0c7278eb490e53857051" />
+		<rom name="beta2/The_Ashbringer.vpt" size="29762560" crc="cdc69a99" md5="0ed4aaee7bd491c80959afd739664d5b" sha1="34174a6590685266ae18e5d6e19bd8db2afe0bb7" />
+	</machine>
+	<machine name="World's Fair 1962 (Itchigo)(1.0)[VP8]">
+		<description>World's Fair 1962 (Itchigo)(1.0)[VP8]</description>
+		<rom name="screenshot.jpg" size="390800" crc="8cfab95d" md5="783fa3333e868feceeb882fe7df4e8c5" sha1="dfcf6c963e1bbfb603e6f9958ceecb0a0f6c41c0" />
+		<rom name="Worlds Fair 1962.vpt" size="7928832" crc="232873c0" md5="bb1ce6fb4957f5182ffbfd6bc20a2dce" sha1="1c61d7ecc7d2953e5c5d2b65f25554999151c689" />
+		<rom name="Worlds_Fair.bmp" size="2359350" crc="da30a9b4" md5="127ae08a49355a1bedb84128051f6d34" sha1="320121f9458b20b09f717e2d113b8c49edc470f5" />
+	</machine>
+	<machine name="WW2USBomber (Kiaininja)(1.0)[VP8]">
+		<description>WW2USBomber (Kiaininja)(1.0)[VP8]</description>
+		<rom name="censored/US-Bomber_Screen.jpg" size="176166" crc="e52f8e9b" md5="db22df7f5979bb17374bcf378e78a1b0" sha1="0c847a03bdefda9c1533bbc74ed3beecf4ca8dc7" />
+		<rom name="censored/WW2USBomber_censored v1.0 (Kiaininja).vpt" size="17526272" crc="757c0a49" md5="e7210ce287e4fa6a3c24a025cddd0e84" sha1="31a53ea50c35769d01428bca15801e94bff61759" />
+		<rom name="uncensored/WW2USBomber_uncensored v1.0 (Kiaininja).vpt" size="17935360" crc="0446ae21" md5="46df9f2048a3778bd21a242163416de8" sha1="9188c11daa0fc41440dcd5883fa92fefd4478393" />
+		<rom name="uncensored/XUS-Bomber_Screen.jpg" size="180498" crc="eca25547" md5="2639a488bc7ff0f9e89d8bfec2d0442e" sha1="a934a7aa8ac38585cc66be3c788126267509b647" />
+	</machine>
+	<machine name="Zen (Faralos)(1.4)[VP8]">
+		<description>Zen (Faralos)(1.4)[VP8]</description>
+		<rom name="1.3/Zen.vpt" size="4932608" crc="fe985133" md5="c09ca4df4a5a6fb6dfcf43670a34e0cc" sha1="f5e77ffc1da3d9714d11caf62235d7afafd79f1d" />
+		<rom name="1.4/Zen.vpt" size="4932608" crc="34665f0a" md5="c5532fcbf3ce47b9fe02882a05b2b46b" sha1="ee75a7a208fc07493a7b8a3116199262883b0b74" />
+		<rom name="Zen screenshot.jpg" size="504980" crc="d9e631e5" md5="ee06f2e12f3fec1467d065285fb374d4" sha1="fba6370365d54327209b35547a2ecdff60feecdd" />
+	</machine>
+</datafile>

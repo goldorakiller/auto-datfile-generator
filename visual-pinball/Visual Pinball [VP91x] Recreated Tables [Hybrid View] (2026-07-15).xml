@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP91x] Recreated Tables [Hybrid View]</name>
+		<description>Visual Pinball [VP91x] Recreated Tables [Hybrid View] (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="Baseball (Gottlieb)(1970)(Sabbath, Rascal)(1.0)[VP912][WideScreen Sabbath][HV]">
+		<description>Baseball (Gottlieb)(1970)(Sabbath, Rascal)(1.0)[VP912][WideScreen Sabbath][HV]</description>
+		<rom name="Baseball (1970) (Gottlieb) (Rascal) (Sabbat) (1.0) (HV) VP916.png" size="2252117" crc="81913269" md5="b65f3feb23687059f7b6eec22a372e4f" sha1="ed76824009f77cdc82433e3d079d48621462c1b1" />
+		<rom name="Baseball (1970) (Gottlieb) (Rascal) (Sabbat) (1.0) (HV) vp916.vpt" size="22134784" crc="3778dc66" md5="7c98e453051ac5691b9060773ed3ea4e" sha1="6a8057053c81e5c9380fae59507475856c0b71e7" />
+	</machine>
+	<machine name="Flying Turns (Midway)(1964)(Rascal)(1.0)[VP916][HV]">
+		<description>Flying Turns (Midway)(1964)(Rascal)(1.0)[VP916][HV]</description>
+		<rom name="Flying Turns (1964) (Midway) (Rascal) (1.0) (HV) 1.0 vp916.png" size="3606502" crc="8c9c1f22" md5="2fabcef3d19fb7d4ed8ecc54e8eb1aa3" sha1="c0e6f19a5706204f6259daf6958d01ae95800ec0" />
+		<rom name="Flying Turns (1964) (Midway) (Rascal) (1.0) (HV) 1.0 vp916.vpt" size="93200384" crc="11f9bd3e" md5="2a55c05e56af1101788b0045f5aebffb" sha1="d0bb1530925fea6cf1c659cefb6451907062293f" />
+	</machine>
+	<machine name="Lightning Ball (Gottlieb)(1959)(pbecker1946)(1.0)[VP916][FullScreen+dB2S Itchigo]">
+		<description>Lightning Ball (Gottlieb)(1959)(pbecker1946)(1.0)[VP916][FullScreen+dB2S Itchigo]</description>
+		<rom name="Commentary.txt" size="5099" crc="1f16dccd" md5="bf8ad1f7a134264eb60589a938e4ecf3" sha1="bda006781c393d633f809028cd0fb6f56945de8b" />
+		<rom name="Flyer.jpg" size="268501" crc="fd02549c" md5="273a7f092698b8637b8bb1a9393af7d9" sha1="03be6c1b67e8eb6ff987f0c6afa9a0e74bf56524" />
+		<rom name="Lightning Ball screenshot.png" size="2028001" crc="8ba0d5af" md5="c178174df84143fdcc2f9995d9dbcfb8" sha1="4269ca18f0ab91ab8027a98bd412111fe4823d26" />
+		<rom name="Lightning Ball.directb2s" size="6817789" crc="ad643e30" md5="1bde038f03c605c54f6a91af6efe4dc9" sha1="70960d32698050823f9668b6f8db3b609b15ab7f" />
+		<rom name="Lightning Ball.vpt" size="32264192" crc="2dd9ca57" md5="84df241c1ea16a4ee7db9e518bbc1c62" sha1="45b024eccabed0534b9ef389f7bc67e3064fd527" />
+		<rom name="Readme.txt" size="2185" crc="2a6f41c8" md5="f39a667aec7532fa84fc655ccac2cc35" sha1="ee8bb5dcb7d3f197d622ae44e42d72068c079da2" />
+	</machine>
+	<machine name="Sea Wolf (Williams)(1959)(pbecker1946)(1.0)[VP916][FullScreen+dB2S v1.0 Itchigo]">
+		<description>Sea Wolf (Williams)(1959)(pbecker1946)(1.0)[VP916][FullScreen+dB2S v1.0 Itchigo]</description>
+		<rom name="Readme.txt" size="2185" crc="2a6f41c8" md5="f39a667aec7532fa84fc655ccac2cc35" sha1="ee8bb5dcb7d3f197d622ae44e42d72068c079da2" />
+		<rom name="Seawolf.directb2s" size="3061433" crc="cfd9ed56" md5="fab3b02049409d6b1d1f127a61ae14b3" sha1="c5aa8e25a97e32d515d87e24c03e3e8b80cda7aa" />
+		<rom name="Seawolf.jpg" size="1155030" crc="d497280e" md5="2c803806bf443efe26a216ffbb2198bf" sha1="0a31f435a72579f817fa8322eebf00b5116d2f5c" />
+		<rom name="SeaWolf.vpt" size="30068736" crc="fc7b246e" md5="8792e43227d01921d6f49dcb6618c200" sha1="137a4aa63841ba1f8d3d7137da90a43e60f85e83" />
+	</machine>
+	<machine name="Sky-Line (Gottlieb)(1965)(pbecker1946)(1.0)[VP916][FullScreen+dB2S Itchigo]">
+		<description>Sky-Line (Gottlieb)(1965)(pbecker1946)(1.0)[VP916][FullScreen+dB2S Itchigo]</description>
+		<rom name="Readme.txt" size="2185" crc="2a6f41c8" md5="f39a667aec7532fa84fc655ccac2cc35" sha1="ee8bb5dcb7d3f197d622ae44e42d72068c079da2" />
+		<rom name="Skyline Gottlieb 1965 Pbecker1946 FS B2S Itchigo 1.0.jpg" size="1136205" crc="071c560f" md5="51c5028daab5f0f140b4c45147bc49df" sha1="10b4ece2c3baae02b1118577df3493a4b24f6434" />
+		<rom name="Skyline.directb2s" size="3027532" crc="20ea7c94" md5="4cee7793e305742545d10a26df58e768" sha1="a91bdb43d9ab9cf5e05c4f979bb480c8c86d8d37" />
+		<rom name="SkyLine.vpt" size="23543808" crc="f73231b6" md5="b7a92a7e5c489d0c525379e3039d70ad" sha1="b50dca06901482e5e0bd11c0e248ed22ec912468" />
+	</machine>
+	<machine name="Triple Strike (Williams)(1975)(Rawd, Rascal)(1.0)[VP9][HV]">
+		<description>Triple Strike (Williams)(1975)(Rawd, Rascal)(1.0)[VP9][HV]</description>
+		<rom name="Triple Strike (1975) (Williams) (Rascal) (Rawd) (1.0) (HV) vp916.png" size="2014277" crc="cda936a4" md5="237ebfefb84a96efb7365c203762d3e7" sha1="c730a6efdc76284342f9ca83384e0bf93e325e2a" />
+		<rom name="Triple Strike (1975) (Williams) (Rascal) (Rawd) (1.0) (HV) vp916.vpt" size="22704128" crc="1f09e515" md5="aae55c070713095643d30db74ee4c4af" sha1="76da97cc56c06177eb852a9b0193b3f11e83ef71" />
+	</machine>
+</datafile>

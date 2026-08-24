@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP91x] Original Tables</name>
+		<description>Visual Pinball [VP91x] Original Tables (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="$25,000 Pyramid, The (Multiball Edition) (Michael Youngblood)(1.0)[VP912]">
+		<description>$25,000 Pyramid, The (Multiball Edition) (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="Music/$25,000 Pyramid Bonus.mp3" size="615561" crc="c038faed" md5="dc64f33526b330e6d78f74a1fc35e605" sha1="e1b37ac82772e4875c14aff043b94061d71867af" />
+		<rom name="Music/$25,000 Pyramid Intro.mp3" size="845078" crc="fa0cc061" md5="bde34941402634122442636fd2406095" sha1="be04ba311a06c53eaf88f1303859b976214644ca" />
+		<rom name="Music/New Pyramid.mp3" size="1561299" crc="4a6db18a" md5="38622ed960a84607507b1d50312f9846" sha1="b4ae26a1a83f893f4c409447b8a49494cbbb2cc9" />
+		<rom name="Music/The $10,000 Pyramid.mp3" size="3197116" crc="59cf4ef9" md5="d604b698579348d87fec34eb2e48174f" sha1="5e82daddebc98bb5d60de2e1c75a51a6c7555b46" />
+		<rom name="Music/The $25,000 Pyramid, Multiball Edition.txt" size="634" crc="b667a3fe" md5="ddc1c8bfe1e24c3bed1f91c2cd1a1325" sha1="3c0906514176ad10c987b92d6d437fe12f25858b" />
+		<rom name="Music/The $25,000 Pyramid.mp3" size="4305237" crc="b07e4f49" md5="889eb31a77f907e0dfa4551a9dc39c0a" sha1="adf3812410d6f40d1ec590947174e7c6658bc468" />
+		<rom name="style-7_digital-7/digital-7 (italic).ttf" size="23344" crc="916d25de" md5="7c6e146fe91c1b2633316a6aee97a9af" sha1="ba2f68370fa15d2b855d2bf6851d21b13b70dc87" />
+		<rom name="style-7_digital-7/digital-7 (mono italic).ttf" size="22984" crc="4bb62187" md5="f6e67539e25adbf860808313c8e75ce5" sha1="b44189e1acc6432ffff0a905711354067d5d5f46" />
+		<rom name="style-7_digital-7/digital-7 (mono).ttf" size="34404" crc="3616fd93" md5="58045dabdc3a361cb9bb9faf2f1dd1f3" sha1="dabe381cb194d25d64f7f32d8925c1509b95ec08" />
+		<rom name="style-7_digital-7/digital-7.ttf" size="34360" crc="2c86551d" md5="1e670d88b23c7ab956f1829e3828a210" sha1="7e1cf55ecbeaaa82465624ffb32b54e85453325c" />
+		<rom name="style-7_digital-7/readme.txt" size="2377" crc="0f7b3e35" md5="6684f2fbf9a830f35d179b3682795407" sha1="5ad0eceb913a915dc86e2a68b79e4b62a8a1e5e7" />
+		<rom name="$25,000 Pyramid.txt" size="364" crc="0c1ce1f2" md5="60cb01dff5a21e68cbb56734357e5c63" sha1="477052ae26361abfa93a52095756707fa6712dfa" />
+		<rom name="screenshot.jpg" size="183504" crc="94fae42b" md5="18e01333bae1392da4c9e05c58998456" sha1="1d5c5af73428f8cb649a08bd950b215fe29446cc" />
+		<rom name="The $25,0000 Pyramid, Multiball Edition.vpt" size="28585984" crc="6c67e6ca" md5="69f153e906cf5d0b0f9e97816855d33b" sha1="9e5226e698d23251967ea079e2a31372a2627d15" />
+	</machine>
+	<machine name="$ale of the Century (Multiball Edition) (Michael Youngblood)(1.0)[VP912]">
+		<description>$ale of the Century (Multiball Edition) (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="Music/$ale of the Century, Multiball Edition.txt" size="595" crc="917c20f8" md5="1d4f4ed4e12692205d8f5cc4f18a08ea" sha1="20701fb1217cac33f3510a8a17c53629d0fce484" />
+		<rom name="Music/Fremantle Media.mp3" size="227799" crc="0b2c2a7b" md5="f13c4360948a563c609bc3dad1ce4567" sha1="d2119bcc5c64850e4edfb8b1c70e9ee2c8ccbb67" />
+		<rom name="Music/Reg Grundy Productions, Inc..mp3" size="93749" crc="e6f13cd0" md5="67e59ca2fd57c23bb9ba5f06b6dca5b7" sha1="f3e5b3b9e3d31c9b3aea05776a61343b35555ace" />
+		<rom name="Music/Sale Bonus.mp3" size="793877" crc="7f357236" md5="224e1aca5a643ade324141167607d988" sha1="268420837f00a1d03660d17941eb785a47826c8b" />
+		<rom name="Music/Sale of the Century - 1969.mp3" size="5571299" crc="0e2edb31" md5="6056236d792193dd5fc6da57868d0747" sha1="7faa0bb53e2e3a737979650507d8767f24363b1c" />
+		<rom name="Music/Sale of the Century - Australia.mp3" size="1256026" crc="6805cd25" md5="df3542fc5deee584b71008a7ac85ba82" sha1="9b1bc9dc01e77d62af77d9a0f9e8eb8eb3b8f3f8" />
+		<rom name="Music/Sale of the Century Intro.mp3" size="926510" crc="249a6571" md5="658b4e1389ae7758ad5df9d651739348" sha1="ad7ffdf825b1cd0cfbb7f6bb7231bcbbafdb9a09" />
+		<rom name="Music/Sale of the Century.mp3" size="10412652" crc="13ab2d7b" md5="b14df099a60a8f16f906c256f9aeda57" sha1="690fb2cccc07de2a542a059bceb260ab758fb673" />
+		<rom name="$ale of the Century, Multiball Edition.vpt" size="86446080" crc="b9103f22" md5="962cf57220dbe259c4d1f1f125b1b0db" sha1="9ab89b6cfc098fed9f4942c3ed7f70a3a49c5588" />
+		<rom name="$ale of the Century.txt" size="310" crc="d7982b81" md5="eebf03a4c7e0ecf847edcb038b745b1f" sha1="3d3ef9c0c7da41e6ff9d89b14d57c3091af01407" />
+		<rom name="screenshot.jpg" size="707222" crc="d9d7afbf" md5="dc5fb76c2dedb9fc424a794e903ae98d" sha1="fed37075933dc47510212e9153c105b3aabd54e3" />
+	</machine>
+	<machine name="1942 (BillyRJSE)(2.4)[VP91x]">
+		<description>1942 (BillyRJSE)(2.4)[VP91x]</description>
+		<rom name="1.x/1942 (1.x) screenshot.jpg" size="242338" crc="0e3ae6ab" md5="eec176753a33bd82701d8dfff666a262" sha1="bac0e0e57ebb98cc5d53cc354410bedb15ec5d2a" />
+		<rom name="1.x/1942 (BillyRJSE)(1.1)[VP91x].vpt" size="26477056" crc="110012f4" md5="f849e5c2ef506a752115000c1f07283e" sha1="a7b6cd39f305ed3280228d968c90434a66351061" />
+		<rom name="1.x/1942 (BillyRJSE)(1.2)[VP91x].vpt" size="27156480" crc="abbfbf80" md5="3a401e8990fbb6f9f382aca89ed5ae30" sha1="ac3c7054e94f62c96136ddfc5b5eb3931c7f6e7d" />
+		<rom name="1.x/1942 (BillyRJSE)(1.3)[VP91x].vpt" size="27160576" crc="d086d7ab" md5="8a5616acd9523d0629faa5978ba80fc3" sha1="437d4a587c553e94a2e7b11bcc21c135da75fab3" />
+		<rom name="1.x/1942 (BillyRJSE)(1.4)[VP91x].vpt" size="27160576" crc="448ffe5e" md5="74878c26b81066bf3ac4b110810c1b41" sha1="efdad13664cb5b12cc10bb48a8862698b09948af" />
+		<rom name="1.x/1942 (BillyRJSE)(1.4a)[VP91x].vpt" size="27160576" crc="8761c35c" md5="b4cf6be4cb02f86cf7863e34d95d3731" sha1="93baa0195b3ef9fce3ce874dd90f78d3db8cabfa" />
+		<rom name="2.x/1942 (2.x) screenshot.jpg" size="259330" crc="58c38b40" md5="100924f2a4e1a48498a46cd52553a926" sha1="85c5f1cb522872f6d9283bae92dd634ee8cf5f52" />
+		<rom name="2.x/1942 (BillyRJSE)(2.0)[VP91x].vpt" size="31719424" crc="fa02ce6d" md5="e69e6569018aba7b7b04426b6c0c9255" sha1="e3e39ce96b44158e07c8c59ce4a95c5d53050601" />
+		<rom name="2.x/1942 (BillyRJSE)(2.2)[VP91x].vpt" size="31723520" crc="3e514c03" md5="f919457df60d0d3ea1dd6bf62aecc537" sha1="5d5b82f1aa74081c1ec6045834a404a054b8ce6c" />
+		<rom name="2.x/1942 (BillyRJSE)(2.2a)[VP91x].vpt" size="31723520" crc="524c46e3" md5="8d2f92b69261fed08325970e076d409c" sha1="44df0c544aac5aa013098f7c191b9e7bbbadaf34" />
+		<rom name="2.x/1942 (BillyRJSE)(2.4)[VP91x].vpt" size="31752192" crc="1506cf9c" md5="54e8801e5103dea126a10ac8fda8a813" sha1="23f4d312facbfdd3997318ab11836bc061cb0a91" />
+	</machine>
+	<machine name="AC-DC (Destruk, Black, JPSalas, Shooby Doo, Grizz)(1.02)[VP912][Music template MOD]">
+		<description>AC-DC (Destruk, Black, JPSalas, Shooby Doo, Grizz)(1.02)[VP912][Music template MOD]</description>
+		<rom name="Music/ACDC - Back In Black.mp3" size="4086933" crc="40e837db" md5="0f4c80ae05b6ab5b3439d3015dbe5c33" sha1="ebb40412d58b14255098ac43c56dc93078dff6f3" />
+		<rom name="Music/ACDC - Cold Hearted Man.mp3" size="3491341" crc="4eb0a26f" md5="d9386a4ce220664cb09f29a31c9049b3" sha1="87f094723f6f3bb4d239a841f1120e60aee9104d" />
+		<rom name="Music/ACDC - Givin The Dog A Bone.mp3" size="3392285" crc="de9605ec" md5="bdd4a0f85081a3f7021de68245ecb364" sha1="7b7620242cd39080403abb6eae64f14a01e2270f" />
+		<rom name="Music/ACDC - Guns For Hire.mp3" size="3279018" crc="6c1c46ab" md5="bc35005fe1c2f8aeceff59f69d4eec62" sha1="e83b0cddc4d77297beaad56afc34de716fa4a337" />
+		<rom name="Music/ACDC - Have A Drink On Me.mp3" size="3821947" crc="e8e66259" md5="8077bf5fc9f55c61c9b324c8d258f4a5" sha1="340bc8555772efe5e458ce3af7d572cf9f971116" />
+		<rom name="Music/ACDC - Hell Ain't A Bad Place To Be.mp3" size="4068543" crc="32a79c4b" md5="90a9725dd7f96511f0d15da8d66218e1" sha1="ae7c188389d7d7f3fa70f0086a37ace6fd13c27e" />
+		<rom name="Music/ACDC - Hells Bells.mp3" size="5000592" crc="bc9e93b2" md5="eb9f6a3f3da42d29bb68bda2d0ac095f" sha1="2116ad2202d12ce23c3a01ab2b3246c0fbd1cbe3" />
+		<rom name="Music/ACDC - Highway To Hell.mp3" size="3336696" crc="b96bc46f" md5="22e6ea9f07732cf248903ffa4b9863bb" sha1="729e6d27c11423826fb081152f2001cc5b4495bd" />
+		<rom name="Music/ACDC - If You Want Blood (You've Got It).mp3" size="4264148" crc="e7124525" md5="e2692dc184b0a82c8ace3ae634b3d637" sha1="ad1ec24d59d820b7fa9f7d1706ed6a74319986c3" />
+		<rom name="Music/ACDC - Let Me Put My Love Into You.mp3" size="4092784" crc="36c2dd7d" md5="75182ec22b9e6a90897e7f1357a25932" sha1="173a7d6d665711b7cb0a133998f70044205572a5" />
+		<rom name="Music/ACDC - Let There Be Rock.mp3" size="5864931" crc="e0ae07c4" md5="23b953fe1a426fa79d81076faa7474b9" sha1="90223f54fafdb4d62a8edb6cc0910e782a71c924" />
+		<rom name="Music/ACDC - Rock N Roll Train.mp3" size="4186407" crc="8a5b33dc" md5="04fed1d75fe0ca7f6978c4be0aa26161" sha1="e8f2372bf344342ef7a38db92a20b9983b8dcc28" />
+		<rom name="Music/ACDC - Thunderstruck.mp3" size="4687958" crc="4527a06c" md5="375a409368b92efeb4c0d7bd6223912a" sha1="9c636860d1d545dbd69ee58694a40fb4f2daffcf" />
+		<rom name="Music/ACDC - TNT.mp3" size="3459576" crc="5bd8a276" md5="bf4f1225d6a90da30b9bc4098175c951" sha1="21eef3e2fa0c692352935070e83bfe2727829cfd" />
+		<rom name="Music/ACDC - Touch Too Much.mp3" size="4262476" crc="dd08cee5" md5="d92ae8847c2c1c66d9aea454a99dfb99" sha1="312db037bfa2ebb54b70d496601770fb73f7e298" />
+		<rom name="Music/ACDC - War Machine.mp3" size="3039109" crc="140ddae7" md5="a36891220bc1cf1fd412590d37086a74" sha1="3a9d671726ea59de4d6a5aeac0da5a8d4df6fd7e" />
+		<rom name="Music/ACDC - Whole Lotta Rosie.mp3" size="5344572" crc="2b7dea0b" md5="de592af5735c0dc79a17a8a5bedea050" sha1="92dfcc9838b140a982fbbac495539f9361ceb5ce" />
+		<rom name="Music/ACDC - You Shook Me All Night Long.mp3" size="3365117" crc="be5d67ac" md5="5ac1a0d91e1228da7180799c985f7a94" sha1="ce8e59f70833f710db4ba394bfb64cdd2672647c" />
+		<rom name="AC-DC_VP912.jpg" size="385393" crc="2fb6d7b8" md5="d92a314d525de4f4511024c50fbd65d4" sha1="708fbe17d480df2cd8421c2ef26db725be38bf75" />
+		<rom name="ACDC_VP912.vpt" size="23736320" crc="7782ecc4" md5="8c38ba16f42d3f748e051a856739ac92" sha1="9e7e574620e0a91f51441aee2314f36c04e549ec" />
+	</machine>
+	<machine name="Attack &amp; Revenge from Mars (JPSalas)(2.3.0)[VP91x]">
+		<description>Attack &amp; Revenge from Mars (JPSalas)(2.3.0)[VP91x]</description>
+		<rom name="ARFM 2.3 DT.jpg" size="526547" crc="fa1ba42d" md5="4f0d75e13183a3ccc3c60a4e61f2f7c5" sha1="e3413266e0b54a1cca276133f492ab715aaeeebf" />
+		<rom name="ARFM_VP91x_v2.3.vpt" size="16384000" crc="03ec319d" md5="e29cc29922455751d6948ad51c6023cf" sha1="9b03585ac9dfb16aef7db377fc884c92613a5634" />
+	</machine>
+	<machine name="Bad Brains (Destruk, Black, JPSalas, Shooby Doo)(1.0)[VP912][Music Template MOD]">
+		<description>Bad Brains (Destruk, Black, JPSalas, Shooby Doo)(1.0)[VP912][Music Template MOD]</description>
+		<rom name="Music/At The Movies.mp3" size="2355631" crc="2d0ec8c4" md5="cd7281cc97aac2f29eddc3c742b2c36e" sha1="bdaf6ed0d2e8bbc0c5f7c0a87881e607c83bb429" />
+		<rom name="Music/Attitude.mp3" size="1373427" crc="d4c5a925" md5="ce554829889dc7e2092a27e5a0b2efb2" sha1="9d0e9e1c042326ecffed26ecdbfbd5ca4dfcc4a8" />
+		<rom name="Music/Banned in D.C.mp3" size="1923043" crc="ba24d41e" md5="8dac6a4c61ae2b520f1ee647489616e8" sha1="cc80f810a8004e5d84983df16e9109cd97578b95" />
+		<rom name="Music/Big Takeover.mp3" size="2346018" crc="681a5528" md5="365bc4e63c1b70c0ecbf522f6b87669c" sha1="c4bbbaf666270005709d4013e66bcab3d85644c0" />
+		<rom name="Music/Coptic Times.mp3" size="1792222" crc="00173e6c" md5="4e3f141e5dd79534494c02b57908c24c" sha1="9856980fc0ce2032b1ff6768d49a2d65b14fa7fd" />
+		<rom name="Music/F.V.K.mp3" size="1296522" crc="b3d0049d" md5="74c476b6bb3c44739b8c2ccdd5db8842" sha1="0ca9ba1620ab0a43c6035f975a1f9d9336addcfc" />
+		<rom name="Music/How Low Can a Punk Get.mp3" size="2136202" crc="1aed3bf1" md5="bd85489050f9dd24edcc6be9202407c2" sha1="db98d95da23cc2d269c500eb0d783a57825ef747" />
+		<rom name="Music/I And I Survive.mp3" size="4613446" crc="21c7b715" md5="153e4481119b401c3f40ce13d5555e3e" sha1="c98fee905869a41444338813bab6631019a1e55e" />
+		<rom name="Music/I.mp3" size="1823151" crc="abb616ac" md5="9c0a9704ad694b643f2f8b09f0e8be21" sha1="2fb3be1ff4c90a0731a741edbc65001cd019e7d7" />
+		<rom name="Music/Jam.mp3" size="949198" crc="d1a4ccb1" md5="9ccb016c4a033f78b0be9dc47939ba87" sha1="7a77d50a4cb77bf3de0aae88387a21ad4f0e1ad9" />
+		<rom name="Music/Just Another Damn Song.mp3" size="1764636" crc="051b38d5" md5="6d5e4ef7721b6463fbfdeda8921acb58" sha1="d44c6f312e710319d7bf4029739ff116138ba113" />
+		<rom name="Music/Pay To Cum.mp3" size="1815209" crc="bc7657ba" md5="cd8b60ad3265f03bb58afca6543e216a" sha1="3434e9507a5a4c815ac049a01f277d3bdb8493be" />
+		<rom name="Music/Rally Round Jah Throne.mp3" size="3583595" crc="dd8fdda9" md5="303dc1169475a827112421b7d4151402" sha1="f89ba205bca54de4b0b7fbb80edd8f680ebd05ed" />
+		<rom name="Music/Riot Squad.mp3" size="2047595" crc="efee7c30" md5="b99ae39fff833f83862206ba22423ccd" sha1="0238b9c7738f250c8e42411d451d7f8eda6ebcdd" />
+		<rom name="Music/Rock for Light.mp3" size="2213525" crc="dbfb0121" md5="c47263eba940088856611c985acf2322" sha1="cd3440a1c995985af28c2ae8437a390653a6981d" />
+		<rom name="Music/Sailin' On.mp3" size="1494635" crc="22c5d631" md5="a9e8ae419948127f7b302ba04a965a3b" sha1="009434cde3b890048185e4bb5344d4c502089df7" />
+		<rom name="Music/Supertouch.mp3" size="2471823" crc="e3832f62" md5="9857e10945d5b1e00e622ddb5e76279b" sha1="c38b516937c67bde7e7149f5dba34763c1c5b8df" />
+		<rom name="Music/The Meek Shall Inherit The Earth.mp3" size="3387154" crc="0367f37d" md5="c9fe9901e60a14ba780e9f3368aab67b" sha1="816785761bf3839a422acd9fd0ee07b9128aac32" />
+		<rom name="Bad Brains (Destruk, Black, JPSalas, Shooby Doo)(1.0)[VP912][Music Template MOD].vpt" size="26112000" crc="d15fd816" md5="0165ac3bcf825fc3c402c293d93f0542" sha1="b86c6971ea70d61033c4ab334d5cc763a483f36a" />
+		<rom name="Bad Brains screenshot.jpg" size="861586" crc="dd7052be" md5="1423c53eddf19d6b43087bde29a135b5" sha1="b842d66657a452b8cb6ce4f661c3f1c2edca7ad5" />
+		<rom name="Music Table Rules.txt" size="15529" crc="8faae3f7" md5="aa387c36dff7bdecd40a4b43c777795f" sha1="b9641ad97a7ecb22ca70b570e18d62371de7d391" />
+	</machine>
+	<machine name="Breakers! (Timelord)(Alpha 94)[VP915]">
+		<description>Breakers! (Timelord)(Alpha 94)[VP915]</description>
+		<rom name="Breakers !(VP9) Alpha 94.vpt" size="10199040" crc="4f9243e8" md5="fc0e32659257b0678c9147297f3d1dfc" sha1="5b4df0163c0a24b57eb71f87f39828b341b22735" />
+		<rom name="Breakers! Alpha 94a.jpg" size="881333" crc="2ff3a547" md5="783400ea5eb7a8aa08efe8bafa13a7ab" sha1="5afaba5e4b06063ea95bbeba3a79917d19de8c2e" />
+	</machine>
+	<machine name="Distant World (Itchigo)(1.0 final)[VP912]">
+		<description>Distant World (Itchigo)(1.0 final)[VP912]</description>
+		<rom name="old/1.0/Distant World (1.0x) screenshot.png" size="1326307" crc="d85155b9" md5="a2caa913e8d373156af190289b66437c" sha1="5ce9cbd995789985596fede831999bb999011738" />
+		<rom name="old/1.0/Distant World (Itchigo)(1.0)[VP91x].vpt" size="31797248" crc="01fab681" md5="19b6e7e81bf44b3227fdbdf3f4e9721e" sha1="f05b68cd156e214e295c40c179973119391049aa" />
+		<rom name="old/Beta/Distant World (Itchigo)(11-26 W mb)[VP91x].vpt" size="13721600" crc="50bdf11b" md5="2e02777c8e3dd875c614fb4fdf42730f" sha1="104fb426a9d165d2be6d213d299f68747f4657b3" />
+		<rom name="old/Beta/Distant World (Itchigo)(11-30 W mb)[VP91x].vpt" size="13754368" crc="413d2d8b" md5="dc40d6aaa5f97075f72a0481c73f6301" sha1="e9bca0a849d4c9c736722b9d61d3ca1304b7344f" />
+		<rom name="old/Beta/Distant World (Itchigo)(12-03 W mb)[VP91x].vpt" size="13799424" crc="8ff2f152" md5="700974a3ebf6475f98112444ad754388" sha1="fb2f26bd50b051d2b84e61b541d70662a5e7609c" />
+		<rom name="Distant_World_Desktop.vpt" size="31797248" crc="691e5263" md5="ab7b6d6a27b0937dc8b8383fe1b9489a" sha1="30f75ae95f281e19653cfd7fcca520865ae17915" />
+		<rom name="screenshot.jpg" size="425303" crc="0b113b8c" md5="f8e66575e8aabe80f59998b7f1be2039" sha1="bef58d2641fc6ee4e67ff081380bb2aaca7024bf" />
+	</machine>
+	<machine name="Double Flash (Justin Case Kazoo)(1.0)[VP91x]">
+		<description>Double Flash (Justin Case Kazoo)(1.0)[VP91x]</description>
+		<rom name="Double Flush (Whitewood) 1.0.jpg" size="116341" crc="2dd7e5fb" md5="a8150a41fcf2b90366fe21c2c6c5e47e" sha1="5809115f5b8942831962817383be7596e61862db" />
+		<rom name="Double Flush.vpt" size="4657152" crc="1cf07d37" md5="4c73b937fb9a1f64e8337a97babc566d" sha1="59212f916aaed459bf2aaa3b9300497809516c13" />
+	</machine>
+	<machine name="Double Nuggets (Paul Lohman)(1.0)[VP912]">
+		<description>Double Nuggets (Paul Lohman)(1.0)[VP912]</description>
+		<rom name="Double Nuggets (Paul Lohman)(1.0)[VP912].vpt" size="4986368" crc="46e2670c" md5="8b86164d20e015b265fd2018b366a8d5" sha1="c2afa4b571a92025c0f776e6c905e1976f2a893a" />
+		<rom name="Double Nuggets screenshot.jpg" size="846113" crc="e7c36fc9" md5="9e4f7d9145ea94de3013e83ffcb0e85e" sha1="e0d033b0cc3aa1e67c565f09e413fc987359d481" />
+	</machine>
+	<machine name="Four-In-Line (Justin Case Kazoo)(1.0)[VP912]">
+		<description>Four-In-Line (Justin Case Kazoo)(1.0)[VP912]</description>
+		<rom name="Four-In-Line (Justin Case Kazoo)(1.0)[VP912].vpt" size="3883008" crc="fbcb45c8" md5="8700d47c52f5f5d52913f133fbbe8499" sha1="b05412bb28ce57b7985fb6b43d0b37b424a6f280" />
+		<rom name="Four-In-Line screenshot.png" size="285803" crc="eca09b1e" md5="3daf39bf74c59d53ed988687cbb26380" sha1="7b8a55955c4a4c435d1642f37b0a7a7c80b438da" />
+	</machine>
+	<machine name="Galaxy Pinball 2 (Improved) (Michael Youngblood)(3.0)[VP912]">
+		<description>Galaxy Pinball 2 (Improved) (Michael Youngblood)(3.0)[VP912]</description>
+		<rom name="(Improved)/Galaxy Pinball 2 (Improved) (Michael Youngblood)(3.0)[VP912].vpt" size="19243008" crc="d48758df" md5="72807b7b8c48476616ff4a67c8d77fe2" sha1="6b8d8b894f63b1ba1e3b0dfb6adb2c5c6437e02a" />
+		<rom name="(Improved)/Galaxy Pinball 2 (Improved) readme.txt" size="394" crc="6737ccaa" md5="149ce8c3eb439a2874598b754612cb03" sha1="1dad2467c5a5c1b9ce704c8947eb0958e0adddf2" />
+		<rom name="(Improved)/Galaxy Pinball 2 (Improved) screenshot.jpg" size="94481" crc="9b06f06b" md5="6dcb32320f5bf8d5c193f131877e15ff" sha1="3b8dcc9121fde7e710e8ef7f9ebbeb4be4a1a7af" />
+		<rom name="(Improved)/music/Paramount 100.mp3" size="229876" crc="981c3d01" md5="ab4fd44a5abbfb32c9688c2eea014f35" sha1="1994c5829f4efb21a2cdd744280f798256ccae94" />
+		<rom name="(Improved)/music/Star Trek Motion Picture.mp3" size="1336049" crc="599b82e8" md5="052cd7ec4718243c8f2bf43f666eb147" sha1="3ac351b37c972b8dec5b728f1deae8bffb4ac573" />
+		<rom name="(Improved)/music/Star Trek Theme.mp3" size="993070" crc="d81ca452" md5="775afbc05460b49a58fa21efa85cbacd" sha1="6400753b9585800c6af6b06cd1771c9ed1216bf3" />
+		<rom name="(Improved)/music/Star Trek Voyager Extended.mp3" size="3378927" crc="7bec68cf" md5="ce78ea69b5140386be4371402aefe2a0" sha1="1df47609e00e4682aabd92937442e0b5880d42e3" />
+	</machine>
+	<machine name="Galaxy Pinball 5 - Future City Under Siege (Michael Youngblood)(1.0)[VP916]">
+		<description>Galaxy Pinball 5 - Future City Under Siege (Michael Youngblood)(1.0)[VP916]</description>
+		<rom name="Music/Brad Fiedel - The Terminator Theme.mp3" size="5563772" crc="00eaa3a4" md5="7dd684ddec5d640d9ee08ce43e315675" sha1="14f3654ef793e5633ab1fea211a8e6137cdb909e" />
+		<rom name="Music/Buck Rodgers in the 25th Century.mp3" size="1135332" crc="157b1674" md5="4d055d31d8650a081d1ad90ea06c35ce" sha1="41698526159a8ea6ba04b6fa4b45f788fc200aef" />
+		<rom name="Music/Galaxy Pinball 5, Future City Under Seige.txt" size="594" crc="3a9f3904" md5="6ada30e6d8cfa792ba5f193824ea462e" sha1="9eca908f872260dc1bc0e492faf371256ecea060" />
+		<rom name="Music/Golden Earings - Twilight Zone.mp3" size="10621262" crc="cb575da0" md5="6b7b6ec12c59fe11ca8150c5c8b97a4f" sha1="cd9b8e3ea8176413360223dadf16f5a67cdf6cac" />
+		<rom name="Music/Star Wars Main Theme.mp3" size="7429758" crc="67757417" md5="10cbc297a33f93e4304ecb4fdcde3e7e" sha1="663fda1b900fc14b04ba8452f13f18adbe8f06a8" />
+		<rom name="Music/Universal Studios Theme.mp3" size="917508" crc="b0c424b1" md5="a6834595fc057bf71ab624268475340a" sha1="cdff441597ef161343f8f2e41ced3e0282348515" />
+		<rom name="Music/V The Series Theme.mp3" size="1968349" crc="cdcabc0a" md5="b805bb409db09b7fa39be6fc66212fcd" sha1="d052d2f1cafffca150890724b683e3fda381cf55" />
+		<rom name="Galaxy Pinball 5 - Future City Under Siege (Michael Youngblood)(1.0)[VP916].vpt" size="32649216" crc="a2084c1e" md5="8a6ba184ae628495b01e39a14ee67264" sha1="4dd84dd046befab98f86c402fc64951a091902fc" />
+		<rom name="Galaxy Pinball 5 - Future City Under Siege readme.txt" size="2241" crc="283e23ef" md5="500c41ce7a9b5f5a734c1b43a4d173ec" sha1="292b1f8395e1d49a79824f054f5c789fefd47ce0" />
+		<rom name="Galaxy Pinball 5 - Future City Under Siege screenshot.jpg" size="177872" crc="711dc9c9" md5="e5ab600f30a0d9a55d94310f36114f07" sha1="15083ff229df26ebd067ad746516061b8ed196e6" />
+		<rom name="Star Trek Next Extra Bold Font.txt" size="295" crc="69f6245e" md5="4374ce04c9bd3972035f19ca79ae5d58" sha1="090ed5b393900aa2419ae5c56ade4934a66ba13e" />
+		<rom name="star-trek-next-extra-bold-bt-1361531025.ttf" size="39224" crc="06ffd5c1" md5="c338e85a506eea2624d3a7a287eb0261" sha1="b47e03ed85fea54c5badbc7e0eca2648c1cac4ab" />
+	</machine>
+	<machine name="Grateful Dead (JPSalas, Grizz)(1.0)[VP912][MOD Destruk VP Music Template]">
+		<description>Grateful Dead (JPSalas, Grizz)(1.0)[VP912][MOD Destruk VP Music Template]</description>
+		<rom name="Music/GD - Alabama Getaway.mp3" size="3474205" crc="87c13dec" md5="92c1673a65ef626c1550acf5d38cb012" sha1="9186361b769f4cd23d097ef0e9ac383ee6e65093" />
+		<rom name="Music/GD - Bertha.mp3" size="5502979" crc="0cc235b2" md5="4a23eb50e35b886b76f6824ff86f24e4" sha1="94cdff2051504e23ce9a15094e24b979bd4619ee" />
+		<rom name="Music/GD - Black Peter.mp3" size="5501307" crc="d6676d99" md5="1315b1e281ddcea0e081432f1611a7f6" sha1="fbc7d536649e60ab6c45c8df3c1830fd81cebe2e" />
+		<rom name="Music/GD - Box Of Rain.mp3" size="5122218" crc="bc65af6b" md5="9645703bd7492810e170bd5594a087c5" sha1="8bac6667a34746a90d47ff0c1cf6170883cc7fb0" />
+		<rom name="Music/GD - Cassidy.mp3" size="4389117" crc="42cf6e99" md5="902f135a934784871817022c9c507a67" sha1="b4c1ea2d5c40fb7a50ff16a9e5a8d6e358b7332a" />
+		<rom name="Music/GD - China Cat Sunflower.mp3" size="3556961" crc="084443df" md5="26dfb29d58a8ccdb3c626af7be00b2cb" sha1="55c9263f117528592bd85aceefb1b0fbcad6c13e" />
+		<rom name="Music/GD - Fire On The Mountain.mp3" size="3661032" crc="23201eea" md5="ab75853fe4471c65dd509ad40ffd3045" sha1="c673c8fcce305499cfa5c4db72cf9661bbed6079" />
+		<rom name="Music/GD - Jack Straw.mp3" size="6027935" crc="cceb1330" md5="0e42888431368e8ea52ab3d1aa20d70f" sha1="d7a4637807c469d5b0a3792abff357faf94c01bc" />
+		<rom name="Music/GD - Me and My Uncle.mp3" size="2948830" crc="0043e44a" md5="ddc4b29cffb917dfb6df3f75e5798a43" sha1="7822054c3e007227b68a8f643759885bee5c7886" />
+		<rom name="Music/GD - Morning Dew.mp3" size="5117202" crc="d3370a97" md5="ed868475e231ecd41641dfbe33ffbac2" sha1="e8011b8a02b9abf723db4273166bb015cd41005c" />
+		<rom name="Music/GD - Ripple.mp3" size="4008775" crc="e5b083dd" md5="5ee920827db1b9b6a9c6b80428a416d1" sha1="db4ebc760a428550a94522f755df3a437c91f470" />
+		<rom name="Music/GD - Shakedown Street.mp3" size="4792448" crc="baf095b5" md5="95738fec4ea99960edb82d59681a0838" sha1="d57fd37a687241b3be494dcba99366a719ac7719" />
+		<rom name="Music/GD - Stella Blue.mp3" size="6182580" crc="c5d3f9d5" md5="e439784f2736701873668cec40f09270" sha1="4cc3cdde743799b97bf948b0186182138ed9f8b1" />
+		<rom name="Music/GD - Sugar Magnolia.mp3" size="3186231" crc="54f75c08" md5="7fea79f0cc20264af67c90722586e450" sha1="e09badf31f8ebe5599fc1d572f1f4ae23601a9a9" />
+		<rom name="Music/GD - The Mountain.mp3" size="3659361" crc="487993df" md5="fbbabf16f2c6cd8d60dd6c006e49655d" sha1="6d9fa7c3864475c3ca48b895e25acf4c90e3c0bf" />
+		<rom name="Music/GD - Touch Of Grey.mp3" size="5604961" crc="d738a95d" md5="384ebf4d98fef468e1a6fb54ff42a309" sha1="61e010d7fbf09aee13c7ec09d80c67d9f0f00d35" />
+		<rom name="Music/GD - Uncle Johns Band.mp3" size="4578453" crc="cc900e57" md5="432cdb61d1a83a07a1bde99aa3e717e7" sha1="c940013dfadde2ab5cdc98a3ad34a9b58907905a" />
+		<rom name="Music/GD - When I Paint My Masterpiece.mp3" size="5691060" crc="b35cb582" md5="d3d4530e73e913dadb82a20b3467a859" sha1="e4db002ccd19e076d10774f230e06742529e1f07" />
+		<rom name="gratefuldead_vp912.jpg" size="433533" crc="1cfec0c5" md5="6c904dca7a63363542c6889b016d9b93" sha1="30b24f5e82009fc5700095304d8e9e5201602874" />
+		<rom name="GratefulDead_VP912.vpt" size="25546752" crc="01b9c0e8" md5="c5876fb8622f39355abaf52ff439c8de" sha1="3ba42687548d089f229a4e7d7ccd596c57296f2c" />
+	</machine>
+	<machine name="High Rollers (Multiball Edition) (Michael Youngblood)(1.0)[VP912]">
+		<description>High Rollers (Multiball Edition) (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="Music/High Roller Bonus.mp3" size="784911" crc="6ced5d76" md5="c716d00663e69ce0546a96962e71a40b" sha1="e285c54536585ae6d1e39dbcf7c83d15b85db68d" />
+		<rom name="Music/High Roller Prize Cue.mp3" size="1325710" crc="d145f830" md5="d7a783776a5822185bb93c5634515dd5" sha1="d730c5bd67867fd0371364f38ff00d00943cdc6d" />
+		<rom name="Music/High Rollers 1974.mp3" size="3453124" crc="4eac589a" md5="0593bdc9e005617f6b57c6269cdc28dc" sha1="633f31590733bebf1a05a47064156d4581d335c2" />
+		<rom name="Music/High Rollers 1987.mp3" size="4006941" crc="cb5ef1a5" md5="7b5725e6b717eb6c99e75712923dec03" sha1="94d747ef0692949a6dd3749af2083ab6aa92cd39" />
+		<rom name="Music/High Rollers Intro.mp3" size="767097" crc="907f0c39" md5="e40bdfddba33d1570bad6d8bf6692e10" sha1="1bcc0436042647a915c7e1027f5c3ac30928a4c8" />
+		<rom name="Music/High Rollers, Multiball Edition.txt" size="617" crc="ac17cfeb" md5="41f559c359c4de412aad2f0820b3e0b7" sha1="b51d111b8145f12dd0956a062e888f4d67ae7370" />
+		<rom name="Music/MGM Lion Roar.mp3" size="338205" crc="e3c5fa32" md5="0ed3a457cd61cb319cb6a0c281fd17ca" sha1="49362cefe11eaaa45aec93c53a854766483d69b8" />
+		<rom name="High Rollers (Multiball Edition) (Michael Youngblood)(1.0)[VP912].vpt" size="91037696" crc="889a2a45" md5="1c93e6b68b71413821f50a71b5934fac" sha1="2d0f46d1e86b27b0f009ad681786576de7b64ad0" />
+		<rom name="High Rollers (Multiball Edition) screenshot.jpg" size="151429" crc="ff1277d8" md5="dd8d9d6258b5c058e2168aa542efd204" sha1="6f65d9fd0769f82bdc8423bef63bf7427a07eb84" />
+		<rom name="License.txt" size="1433" crc="802eb779" md5="14eeb4edaf551cf36f6f9a4bbd9082d1" sha1="e568471ed95b9d819c75fb0876adb66c2a55f3d8" />
+		<rom name="Peignot  Font.txt" size="277" crc="8aa7c798" md5="d786d686c22ffce8abf78989ce92eb1e" sha1="fea9fa9ad730441e8b5c85cf4e34bcb3e35b9d0f" />
+		<rom name="Peignot.ttf" size="51728" crc="c7139a54" md5="1f302b4757aa3b078a731e3a3c7b6552" sha1="8e7385afd9e7316e608d8968578ef94cee7f0566" />
+	</machine>
+	<machine name="Image (Furio)(3.21)[VP912]">
+		<description>Image (Furio)(3.21)[VP912]</description>
+		<rom name="comunicazione.txt" size="749" crc="e8b6ae86" md5="537adf6786eb4f305ad5c61b3a97fe69" sha1="7555037a7bdd25af19ae3a7e268252e919122c56" />
+		<rom name="Image 3.2.vpt" size="6851072" crc="72628147" md5="354bccdc2ca578dea21432a0f5464d13" sha1="be23c389a4a6bf4cff94f8b70c565903eb7e0e29" />
+		<rom name="Image 3.21.vpt" size="6904320" crc="b02dc85c" md5="ef32b128a2d2068205b238d2282fe4d9" sha1="37838e0304773f3ed64ec40995984a6ce32ae798" />
+		<rom name="screenshot.jpg" size="202872" crc="cc25cd66" md5="7f4648eb2aaadadfc0e981e1030af096" sha1="12bea52c11b34c28b14cd1baba87e838cb3aad1e" />
+	</machine>
+	<machine name="Initial D Pinball Stage (Neo)(1.0)[VP91x]">
+		<description>Initial D Pinball Stage (Neo)(1.0)[VP91x]</description>
+		<rom name="Fonts/digir___.ttf" size="37736" crc="7cd2c10e" md5="1c8da74ab3536f3974b2c1f58e1be9af" sha1="dd58a9176b945cd8bb3f27b9e092e50d8a1f0383" />
+		<rom name="Fonts/hemihead.ttf" size="24440" crc="c87c69b8" md5="ed43a6aae7b02c27f4db3a11c6449c94" sha1="bf4b48a0993251bdf290dc2381a847f2f6a55661" />
+		<rom name="Music/DMultiball.mp3" size="1543210" crc="a72802d8" md5="de6dfbee2ec262ff4fe9d532a31948b4" sha1="797310b420eb45ccc2ed7e85ddd4d6679e346154" />
+		<rom name="Music/DMultiballReady.mp3" size="1218456" crc="808ef2ba" md5="dbd00ad91e8bbb1b43b638c7de299209" sha1="4f12438de6e50adf901aaf14edfdb79df82741f5" />
+		<rom name="Music/Initial D Autocross Challenge.mp3" size="1037270" crc="1798559d" md5="93c9932bccb7caa44664b6de09ad74ff" sha1="b7e3343c8c7bdfe1b1dadc48e13f671a0805442a" />
+		<rom name="Music/Initial D Battle FC.mp3" size="1097456" crc="da188905" md5="3ee97a5a3e63310240d3712a7f4d0824" sha1="c89ec31fd808a0ca0510e0adf5ba0bdc52c5d9e5" />
+		<rom name="Music/Initial D Battle FD.mp3" size="1294629" crc="58025580" md5="330fed9eefee6f66dcd4bec518ed50ad" sha1="9da87b7c77b94813806dba7ce2fd4c99e2a518d7" />
+		<rom name="Music/Initial D Battle R32.mp3" size="1059527" crc="9a80fff2" md5="53079f9b90f87fb939f2999464bbeecd" sha1="21710c7425177cfdf36b3137288b98e8a4707dc3" />
+		<rom name="Music/Initial D Blazing Beat.mp3" size="1667971" crc="3e44d4ab" md5="a08bf43c06faf145f4af2e64b3c06f89" sha1="eabad9f78c83833bf01305abe52a38e3dd1abd1b" />
+		<rom name="Music/Initial D Dancin In My Dreams.mp3" size="1814047" crc="7ebd8c2a" md5="e18efa9e619acfd7b8e264c93053d56a" sha1="c2dcb641bbc434ce7c18806ef91e0a5d4918e9ed" />
+		<rom name="Music/Initial D Don't you wanna be free.mp3" size="1624398" crc="644e3275" md5="0066bc0a05e45a7835058a07356a4e25" sha1="4a053b0a4d36cda10c6d08ef3b70bf50de40727c" />
+		<rom name="Music/Initial D End of Ball.mp3" size="56323" crc="080fb564" md5="09511544346707f1351bf4832abaac1d" sha1="a8a21109e9684fdbb9772f63b984bbe6a88a20dc" />
+		<rom name="Music/Initial D End.mp3" size="988682" crc="d9c56a1f" md5="f63ecfd073ec740ad628a6326429cf16" sha1="67f684941db349ec5b21a530fa56aad3a12710d5" />
+		<rom name="Music/Initial D Gamble Rumble.mp3" size="2028045" crc="f9a43374" md5="ad91357ecfedcce1c150c657a17ad3fa" sha1="40f37893d674f1e7957966affe6d8933fd269e32" />
+		<rom name="Music/Initial D Gumtape Deathmatch.mp3" size="1082723" crc="9e28ad4f" md5="541a663a87f026c9209dc7459a4e91ba" sha1="41ad92b16ee3335a5a581b712a9de7d643965f32" />
+		<rom name="Music/Initial D Intro.mp3" size="1259732" crc="9a1dbfd8" md5="c02d815add42b0dc571028b5153d925a" sha1="482a3af3aee926bfdef54d8c6d53032cec322bb3" />
+		<rom name="Music/Initial D Iroha Challenge.mp3" size="1181780" crc="1fea7555" md5="e996d922ec9b496276be05aa2953eac3" sha1="eab8f0f96a6b7a22fe36d65117a9f08409a30833" />
+		<rom name="Music/Initial D Joy.mp3" size="1285123" crc="473c8a2c" md5="da6061bd027939ed591853c7d29b21e3" sha1="06ff21119c28dee4112b56802ddd98c07b38d303" />
+		<rom name="Music/Initial D Main Music.mp3" size="1976323" crc="440b92be" md5="f88c33032e0246a3187c976b7f9224fc" sha1="74093d5c9e0b4e532ead7e28bd959edaf7cd050c" />
+		<rom name="Music/Initial D Myogi Challenge.mp3" size="1091399" crc="daa7ae00" md5="6788722afa918605f8a7a49c13ccc213" sha1="9e5a8510c1d18d4327dda7733aff6122071ba0e7" />
+		<rom name="Music/Initial D Sudden Death.mp3" size="1078962" crc="ce0c2615" md5="b6391c343f30d25ca3d71faddd3ca511" sha1="de5c2be6c08ba0bcd2ff2bbe0b4f9795097a84bb" />
+		<rom name="Music/Initial D The Race Is Over.mp3" size="2402429" crc="d962bf99" md5="6fa25156483325ddd7fed1983d3d2577" sha1="a8b8d0a5320ac44ab2210488b38248ab5f71ae2b" />
+		<rom name="Music/Initial D Tofu Delivery.mp3" size="892447" crc="ac7cdfef" md5="153159dfad5e5b29cdbfd6ef53095426" sha1="95dbc2fbad4b6ce6bb2c5df75f0a1ef0824c8b77" />
+		<rom name="Music/Initial D Tour of Gunma.mp3" size="1345622" crc="ee4e789b" md5="a32f2a17acd0935c281d8680c211a36f" sha1="613d728b0964ef6c2e2d619b51af9296cf5747fa" />
+		<rom name="Initial D Pinball Stage vp91x.vpt" size="13590528" crc="86d2a7cf" md5="6f43cf49faca959e3bfd666ebc3b8337" sha1="c3c97f7ea29f867a6d34355628f351eb3784da90" />
+		<rom name="Initial D readme.txt" size="6230" crc="d83ce813" md5="e97c93f5e0bfcaf418d40fdbf1b06d26" sha1="1125ce84f357a111ddfecf77d0c026c11f781564" />
+		<rom name="Initial D Rulesheet text.txt" size="9223" crc="5508195b" md5="9829cf99c8e274e8c58096f82b03cbb3" sha1="096cdc04c9d130885a0f86583feacb9b91cd5895" />
+		<rom name="screenshot.jpg" size="329912" crc="29c427fa" md5="0686c1e4a8108241daf8baf35c14b08e" sha1="36562a365194b5412e481657146593e5b493a869" />
+	</machine>
+	<machine name="JackPot (Multiball Edition) (Michael Youngblood)(1.0)[VP912]">
+		<description>JackPot (Multiball Edition) (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="Music/Blankety Blanks.mp3" size="2157201" crc="6f856f73" md5="75bbc24168f83dcea4c6677c5b075043" sha1="3e5a5c3d6eece2c41bff3463ef32c7c8c8ea516b" />
+		<rom name="Music/Jackpot 1974.mp3" size="1195585" crc="49026bec" md5="5e794075ef69f867b90c199c9567c2de" sha1="2163880d8483d6092b17d7cca5ca291c2174ebbb" />
+		<rom name="Music/Jackpot Bonus.mp3" size="671274" crc="a7d1e9e0" md5="493037dd56935c1f37fd1bda87a816b2" sha1="3168f702a601d1907086eb7590e6e5b851b0d026" />
+		<rom name="Music/Jackpot Intro.mp3" size="784449" crc="539714d3" md5="8c07c2b8302849bb2cb2ce84d00d04f5" sha1="7cd254ea87b20df2b0e60694a8f60bbb65c871ce" />
+		<rom name="Music/Jackpot USA Network.mp3" size="2329946" crc="e1000d0b" md5="27f428afb54e151f25ce0481f557ef47" sha1="c3767d51116797b927699c6fc5c944a3055e50f3" />
+		<rom name="Music/Jackpot, Multiball Edition.txt" size="581" crc="e4f09a11" md5="36f8c4cb3473ffb8511184fbd33796e4" sha1="c2d41d67e1904dba0c9de8c7be02ac62690cd814" />
+		<rom name="Music/Winning Streak.mp3" size="3588977" crc="cb7d80e8" md5="0c5887cc991da890c4822539101d8e14" sha1="12781627161681e62364c22752b9620f48197e2b" />
+		<rom name="Demoized Font.txt" size="278" crc="08cf8a45" md5="b62d816cf63ec55bb140f6f7f04344f2" sha1="d774aa26990d82479daa3bbd59711c8011ada0cb" />
+		<rom name="Demonized.ttf" size="32172" crc="884385f6" md5="3ebe147325dcc4fd763b3f677784bd8b" sha1="e1c18badf2c6790b30cb2e7edf95c7395f36758b" />
+		<rom name="Demonized.txt" size="5136" crc="2505a2e2" md5="359ac7c80573d3e1708c251a336a25e9" sha1="04e60d5857ac8759d9d112e49685250666bcf228" />
+		<rom name="JackPot (Multiball Edition) (Michael Youngblood)(1.0)[VP912].vpt" size="92102656" crc="57ce8458" md5="f632f4df8c45c985302c903ae4a612ca" sha1="acb173a50d9f671ec68bf10a8764efc1fdaf4c62" />
+		<rom name="JackPot (Multiball Edition) screenshot.jpg" size="189989" crc="82a8d113" md5="9d540dc1fdf976f4103c1a24ba19d07f" sha1="1e171f18ddfe1f9d37ee91b791ff0346354583bd" />
+	</machine>
+	<machine name="Jeopardy! (Multiball Edition) (Michael Youngblood)(1.0)[VP912]">
+		<description>Jeopardy! (Multiball Edition) (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="Music/CBS Television.mp3" size="142459" crc="12a85b20" md5="af7d33e4ffdfeb07cdcb0fa714aabbf6" sha1="3341b11af297ae73ecffefea260cd669f26e478f" />
+		<rom name="Music/Jeopardy 1997.mp3" size="2075311" crc="f0553fc8" md5="059ed898e3cd518cf038d6fb4d8dc47f" sha1="3d589344898f96358159cc3551eb091f276c77d5" />
+		<rom name="Music/Jeopardy 2001.mp3" size="2755621" crc="5fce15b2" md5="7270cffe8dc7ddda6631e9805f0d1e06" sha1="75a16223a51632affdfa020ab654753d803bc8f6" />
+		<rom name="Music/Jeopardy 2008.mp3" size="3180726" crc="72ff98fd" md5="7d026a164bc15cfcecc370abde13ad05" sha1="88fd70256d375870fb3fd885e55440ce82fa5c85" />
+		<rom name="Music/Jeopardy Bonus.mp3" size="593982" crc="56e11f9b" md5="5c7bd502af76435604d2bc37d9b35957" sha1="30f4bb8952f90723b0bebe36a2652d20d3b84e1d" />
+		<rom name="Music/Jeopardy Multiball.mp3" size="2848817" crc="fecc3424" md5="56c5a4ddf5590f379eb38b1bce421191" sha1="68a3f6d6a36234259039184424709f3b8b9607fc" />
+		<rom name="Music/Jeopardy.txt" size="537" crc="a27937c3" md5="a4046cd98a5fe8924305ec30fd9b794b" sha1="c6f6c0fbb4ed437e4e2ec6841fe118ce22e0c4cb" />
+		<rom name="Music/Sony Pictures Television.mp3" size="144749" crc="2c76db3f" md5="2e3879c65aea63a1d9ba1f4164f8e52e" sha1="286b262bfa65628bdca7a2e2f67457173bfe75c8" />
+		<rom name="Gyparody Font.txt" size="273" crc="b11e36fa" md5="5de84f7f899a4dd6858f57ada1dc0557" sha1="cc2f44d099961455f5de71592f70ddbcbebfc967" />
+		<rom name="gyparody.ttf" size="23932" crc="ab93b729" md5="43cbe0c4070437c1a6417c2b28d66fae" sha1="a29e895635136b0aafcc1fe8eda1e543b6f0ea8c" />
+		<rom name="Jeopardy! (Multiball Edition) (Michael Youngblood)(1.0)[VP912].vpt" size="30171136" crc="a42a403c" md5="4bf7be082ec7834ca46ceea38c40b67a" sha1="7da5cc51f76ae8172db56a7cbb9d58d54995b524" />
+		<rom name="Jeopardy! (Multiball Edition) screenshot.jpg" size="167332" crc="be280ac6" md5="80b3dad48349fb0df3cb76004e366b21" sha1="724941cf36208b811edc9b11e2624c231a1a48e6" />
+		<rom name="READ_ME.TXT" size="3901" crc="f08cffd3" md5="660b470897cc669dc9423ea20d34401c" sha1="e148bacc8ed8a23eaae4df0190267aab015901e8" />
+	</machine>
+	<machine name="Joker's Wild, The (Multiball Edition) (Michael Youngblood)(1.0)[VP912]">
+		<description>Joker's Wild, The (Multiball Edition) (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="Music/Jack Barry's Entrance.mp3" size="200712" crc="4b5bea6e" md5="3c0a44bc4a8082028e97ca16b1e219bd" sha1="8e2df104f51235b839c8db2f2765c46eb3e24b93" />
+		<rom name="Music/Joker's Wild Prize Cue.mp3" size="2017427" crc="f1525fed" md5="39724c007e0da4d9cc5ef482d149987b" sha1="80d8d090804ddda76f282843f3cb6135b0258af8" />
+		<rom name="Music/Perry and Kingsley - The Savers.mp3" size="2520296" crc="87503f81" md5="2a3b3a86f7df1325e3ad06c2949f58c2" sha1="5ef40db41806cda27fd7392848d036c24cd2edc7" />
+		<rom name="Music/The Funky Joker Savers.mp3" size="4265516" crc="554d496e" md5="cfe0a8ea57bfd9e2b52be039b2932393" sha1="65dcadd8fd1eaf197ed9d8da03bfc86cab2b9e32" />
+		<rom name="Music/The Joker's Wild Closing.mp3" size="3365364" crc="78ea47f4" md5="4e02c49f00dac61f7356bc1a1c28cc75" sha1="8a04ae776fe6283d9eba7a4bbe7e408a7a7a9248" />
+		<rom name="Music/The Joker's Wild Contestant Cue.mp3" size="796610" crc="8db4cea4" md5="970fccbea18fd6541f28ab96055ebb8c" sha1="cc145f6b33d023c64285a5f306096f13af4b8bb5" />
+		<rom name="Music/The Jokers Wild - 1978.mp3" size="1665580" crc="f9115f7e" md5="e8c4a38179825b896b0d651733db52b6" sha1="4e48f93b06f4d4b39ca458be0f143357bc4e5268" />
+		<rom name="Davida Font.txt" size="267" crc="512b234e" md5="63a76d3e0c4f8a2bdb282720987746bd" sha1="95f7d2793fe67af3d4fbeaf3184e13ec6157987b" />
+		<rom name="davida.ttf" size="55016" crc="4bdfccb7" md5="6e55f63fdadd354a4447318609295087" sha1="8037556954f77c708960e81dd6fae3ef00c1b20e" />
+		<rom name="Joker's Wild, The (Multiball Edition) (Michael Youngblood)(1.0)[VP912].vpt" size="33103872" crc="a85821b6" md5="a8e1337f03e34fe0c1c040cb4e8014d3" sha1="1cee8c3884ecb7a233152f415f09268f4f7fa08f" />
+		<rom name="Joker's Wild, The (Multiball Edition) screenshot.jpg" size="151069" crc="10b3d56d" md5="0abfcc8e81ceaa59cc2f5e1049e8a973" sha1="291b1161a2572f14fcafa111f5faa8fd5c5f16d6" />
+		<rom name="The Joker's Wild.txt" size="548" crc="527bcc3f" md5="be14cf0f208a7fdc3d21a8d972558058" sha1="e01fe47d007d0c616a4e8564553067caa572901c" />
+	</machine>
+	<machine name="Klingon vs Romulan (Itchigo, Faralos)(1.0)[VP912]">
+		<description>Klingon vs Romulan (Itchigo, Faralos)(1.0)[VP912]</description>
+		<rom name="Klingon vs Romulan v1.vpt" size="77619200" crc="e61c2f15" md5="dc7f0f8ad92ec6c11df47cfaed01a530" sha1="9bc50e53f60abeae3697a5194e6faaf9ab429ca2" />
+		<rom name="screenshot.jpg" size="118855" crc="b5059ad8" md5="6399e91c991943c37d726624f026035d" sha1="1fe5d0f64fa89be2a4bae9d2f2683074c41ef275" />
+	</machine>
+	<machine name="Mike Vegas 3 (Michael Youngblood)(1.0)[VP912]">
+		<description>Mike Vegas 3 (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="Music/Card Sharks Theme 1978.mp3" size="1084732" crc="ad5333c9" md5="baf0e35d2fa1ccf996545f867eace8ba" sha1="a119b5ab57c5b3cc317242347a8cbf43e90343f2" />
+		<rom name="Music/Gambit.mp3" size="2407443" crc="b45ce404" md5="07d2f313abaae85ad5fefc52d1fc5bdf" sha1="f2c43a8b637c19c7961d00be6316fe4abca2427f" />
+		<rom name="Music/High Rollers 74.mp3" size="2365735" crc="32fc55ab" md5="fd8c84b6c36ee4731c774b88a164c2cf" sha1="1aa28c77ca2506e183998747f668a4a31f0e5530" />
+		<rom name="Music/High Rollers (Exit Cue).mp3" size="325296" crc="726faa98" md5="d07f230c487c9d54d8fdc42670d789ce" sha1="cbe76e4ca3717b9a5bebd08f18cac83c8f7770a5" />
+		<rom name="Music/High Rollers (Win Cue ).mp3" size="419338" crc="888dc287" md5="afa4bbf545836d90a966c5b5fbc7c5ea" sha1="22d3f73dbd76048465930eff8d5fcfdff38ab278" />
+		<rom name="Music/Las Vegas Gambit Theme.mp3" size="8117102" crc="3feb100d" md5="cb66c9532ce86e1ca001ed7ae594fb04" sha1="ceafa3ac2a8e6991a887bb626670cb269e79c7a9" />
+		<rom name="Music/Mike's End Theme.mp3" size="826722" crc="cf8893d4" md5="5728ccde7f1b2390a22cecd05c090cb9" sha1="bd9fd6c2f4c565de3e86d6ec24c719e5eca7f172" />
+		<rom name="Music/The Joker's Wild.mp3" size="2073076" crc="e9e4a7db" md5="815ce6b70b56df2a820953342206f3f3" sha1="7bd5fcbda7fc0e6193fbd6937b43dd3f881f6d5d" />
+		<rom name="Music/Viva Las Vegas.mp3" size="2261088" crc="68b2f195" md5="b303d4847a17d74ef9f252a28000307e" sha1="4e6387f5792489c3aef410385df9820602c41a04" />
+		<rom name="Mike Vegas 3 Read Me.txt" size="718" crc="d223e49a" md5="887b5d02881da982b47511e70edfc544" sha1="032836bb3aaa3ddaab3347e25f5271bb8f965f28" />
+		<rom name="Mike Vegas 3 screenshot.jpg" size="109753" crc="e57fb6c6" md5="fc1bafff296d6a627f450bc094687325" sha1="cf58e29c6390a5ba7ab52454009062e9a1dc4d60" />
+		<rom name="Mike Vegas 3.vpt" size="29372416" crc="85935b27" md5="b75175d0ab744cbe88947d016da4b04e" sha1="eaa75193775a23bd13a4ce0914d630d3d9b42844" />
+	</machine>
+	<machine name="Mike Vegas (Multiball Edition) (Michael Youngblood)(1.0)[VP914]">
+		<description>Mike Vegas (Multiball Edition) (Michael Youngblood)(1.0)[VP914]</description>
+		<rom name="Music/Dealer's Choice.mp3" size="5903254" crc="3ef7da56" md5="700d004cbc2e9c51af79db9fd584413d" sha1="553e28ea1434726a223e838650f22f3eb4c536ea" />
+		<rom name="Music/Disco Jeopardy 1978.mp3" size="4077896" crc="13ca5494" md5="02b9a52fdcc74fbc7ccd5ebf25b677c2" sha1="f431e9501d294e6815de0dd1fc8a6760d3672da2" />
+		<rom name="Music/Doctor In The House.mp3" size="4972041" crc="c2291028" md5="b5a60c4acaa786cb44b4c154b2e4dfd8" sha1="c3ef70ac4a8e44db2c8dcff500997f31205f29a1" />
+		<rom name="Music/Hollywood Squares 1986.mp3" size="3304047" crc="f39921c9" md5="45493fd32e91019234c5a028f2294f03" sha1="21b31955498dc16d1703601212a27059277ce146" />
+		<rom name="Music/Hollywood Squares Secret Square Win.mp3" size="340837" crc="cec7f2e9" md5="689fbcd2c6059d5107be8dc95be7e60d" sha1="d24cba11cdaafd3f6183e4b81112b2a8c0bb477d" />
+		<rom name="Music/Las Vegas Gambit.mp3" size="4241878" crc="68d6f944" md5="f27cf595b5a659997a1d2ea65909e9d2" sha1="8018f7e433bada9bdcc3d061680e19a32ea14537" />
+		<rom name="Music/Mike Vegas, Multiball Edition.txt" size="571" crc="70c53515" md5="7e9d7bcdce27447d373e23069e9e758b" sha1="495a2f35430bdfe5842786ee02afa45f6d7f6b47" />
+		<rom name="AARDC___.TTF" size="29088" crc="e266ec30" md5="9911a64aae3b9a314c5a3cf2d738b808" sha1="9b00f6e1c6f3d7b6906f629a5f83c276ee3b3057" />
+		<rom name="Aardvark Cafe readme.txt" size="151" crc="4672cbed" md5="6a92b88810ad52c394a75009162f0ccb" sha1="1b2a72d917a3567276a6e03eb4bbe869fa9d4533" />
+		<rom name="Gyparody Font.txt" size="281" crc="b87abb16" md5="1634718b9638cfbfba5d1a7be6a0d0eb" sha1="00d933f53d5d94c8f5795db729e18be94eb59c00" />
+		<rom name="Mike Vegas Pinball.vpt" size="45944832" crc="2135dd17" md5="eff6e4cfb4f7f347e6e36802d10966d7" sha1="ecab23c88b8e5fcdcfa8113e883597a13d8fc03f" />
+		<rom name="Mike Vegas, Multiball Edition.jpg" size="318843" crc="318dcda2" md5="01ba5f92f5ae2358ab744ea481d874e8" sha1="bb983d8dd47323eda18cf1d297b4a940b8b97884" />
+	</machine>
+	<machine name="Mike's Pinball 4 (Michael Youngblood)(1.1)[VP912]">
+		<description>Mike's Pinball 4 (Michael Youngblood)(1.1)[VP912]</description>
+		<rom name="Music/Hollywood Squares 1986.mp3" size="1997843" crc="171b5bff" md5="1f0b469d83379a39bd39aacda2182f7a" sha1="31dc58e0ed9ff1a5d6f4bd1de1e3df791b464ae0" />
+		<rom name="Music/Hollywood Squares Disco Win.mp3" size="127476" crc="b9b09997" md5="cae51fc85b84db76d116eb8c1cb4647a" sha1="d8957bfa1eb51cd11d654435f067db0923c1fd10" />
+		<rom name="Music/Hollywood Squares Disco.mp3" size="4226820" crc="4da006e5" md5="3947864d767e605f896c2f8eda6e5d55" sha1="8e1c82e076f2995c300e63724f33559103ff917c" />
+		<rom name="Music/Let's Make a Deal.mp3" size="5575574" crc="08e3b445" md5="e627146804d519f2af2192e76d6a784b" sha1="9da2b7d827f27cecf6dd9b28535b7ddbf15a7344" />
+		<rom name="Music/Wheel of Fortune 1975 Funk.mp3" size="4977057" crc="099656a7" md5="f46c98641ac30e09ab4b5e3284556294" sha1="f601b6aa26c8bbd1c78080e92b91407cc42f5635" />
+		<rom name="Mike's Pinball 4 Read Me.txt" size="503" crc="14c1d66a" md5="1ff4327f667493d14dc468537e961bf6" sha1="6fa9a6929bb23363ad309d9643898288034aa0f6" />
+		<rom name="Mike's Pinball 4 screenshot.jpg" size="115384" crc="08e1ed8e" md5="690abe386900505841ad72bff25ec1be" sha1="5a0a0634af275131eba89be84dba076d46c8a3da" />
+		<rom name="Mike's Pinball 4_10.vpt" size="18292736" crc="bc649c08" md5="6c1c3dde83592fe46994ce33c6eb3684" sha1="ff092a6ada4db80278a3d30644c037536c51823a" />
+		<rom name="Mike's Pinball 4_11.vpt" size="18296832" crc="a8e5d640" md5="a01cb4b22a2c8c36ae7cf42d8b5e4947" sha1="4705f482d1002b33539731d097159f3ab70e2135" />
+	</machine>
+	<machine name="Mike's Pinball 5 (Michael Youngblood)(1.0)[VP912]">
+		<description>Mike's Pinball 5 (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="Music/Dealer's Choice.mp3" size="5903254" crc="3ef7da56" md5="700d004cbc2e9c51af79db9fd584413d" sha1="553e28ea1434726a223e838650f22f3eb4c536ea" />
+		<rom name="Music/Doctor In The House.mp3" size="4972041" crc="c2291028" md5="b5a60c4acaa786cb44b4c154b2e4dfd8" sha1="c3ef70ac4a8e44db2c8dcff500997f31205f29a1" />
+		<rom name="Music/The $64,000 Question.mp3" size="7090676" crc="9de0fded" md5="37fce4cea080a895556577df7b577aee" sha1="b823cbbe333790c8cc77e72672758f9f9ccc23c5" />
+		<rom name="Music/The New Treasure Hunt.mp3" size="2913174" crc="7a9bb676" md5="a37d896d20e70ac6bd176e6c2860c2fb" sha1="91b6dfd85bc8b6cf782e45479cbc80c5c006bbb9" />
+		<rom name="Music/Tic Tac Dough Win.mp3" size="111594" crc="a97b3d07" md5="a719104111066e18169728e5f572e84c" sha1="fbec5ea6a620a682d59a29dbd9037bbe626203d9" />
+		<rom name="Mike's Pinball 5.pg" size="110810" crc="6643d55d" md5="e7481d60be3ed4f2437e67d3d1ce7dd1" sha1="301c87a85083adb6a8416a44e85277a2a614ca93" />
+		<rom name="Mike's Pinball 5.txt" size="548" crc="e667164f" md5="33eeddb21dc97dfbf4e05aa2bad972a7" sha1="92ec97007f34c905dfcf6d2e6f7bd4151f236b0c" />
+		<rom name="Mike's Pinball 5.vpt" size="23330816" crc="5dc27ca0" md5="18c9e4ceda127896ab3835494fd6c1c0" sha1="7012826766743c2b4dbc31e8a07b2bd6e0953d71" />
+	</machine>
+	<machine name="Monty Python and the Holy Grail (Itchigo, Faralos)(1.0)[VP912]">
+		<description>Monty Python and the Holy Grail (Itchigo, Faralos)(1.0)[VP912]</description>
+		<rom name="Monty Python And The Holy Grail.vpt" size="44539904" crc="2671f20f" md5="7c1a27cc1e09309caa89b7f6d5cf53b1" sha1="f0956e69ef33deff56ece08f9a2c6d5731616b58" />
+		<rom name="screenshot.jpg" size="150190" crc="21ca70a8" md5="55cdbfb978144e3965597c4e752c3eb8" sha1="f6d42b64709c996b757d9c7deac8a7ab20a8bb27" />
+	</machine>
+	<machine name="Mystical Colors (Justin Case Kazoo)(1.0)[VP912]">
+		<description>Mystical Colors (Justin Case Kazoo)(1.0)[VP912]</description>
+		<rom name="Mystical Colors (Justin Case Kazoo)(1.0)[VP912].vpt" size="3514368" crc="3e274483" md5="640014e8f34821e294b52940fb352482" sha1="13bd7d3925fc089808b89a21d608d0eb90d3907c" />
+		<rom name="Mystical Colors screenshot.png" size="270198" crc="ee6b3d31" md5="c7f5be8ea4653a18126af9aac9541d8d" sha1="789e16efa62855b74e1f43fcedb514ed694e0257" />
+	</machine>
+	<machine name="NASCAR Jackpot 3 (Michael Youngblood)(1.0)[VP912]">
+		<description>NASCAR Jackpot 3 (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="Music/Nascar Bonus.mp3" size="442617" crc="38153097" md5="d2b00dd1ced5ab24051fee18308a8e66" sha1="79fc56d67ca7d82e6284402b1b89c46d097ab6d7" />
+		<rom name="Music/Nascar on Speed.mp3" size="4737148" crc="f09c2a2a" md5="bc735c91c8e4b2a12b9fdbfc1419ed00" sha1="05a7cc7f59234f919bf057f45bd7a62148851e09" />
+		<rom name="Music/Nascar Theme Main.mp3" size="7565896" crc="87e3a9a0" md5="700403fa44f192d601b2b6b24dc74785" sha1="5a1c461a6ec0d5d49135fe4557197d029dbd18f5" />
+		<rom name="Music/Nascar Theme.mp3" size="3868211" crc="c404a2c3" md5="38f38286cea031b7e98655b90f8dcaf6" sha1="c50f121aba888370bb2f37578c88dcea13cf2081" />
+		<rom name="Music/ZZ Top - La Grange.mp3" size="7150026" crc="4a032663" md5="be1b8f0d9c7ab4e0751d6e57e7da76bc" sha1="8bd77a3b0be81c0ee5abf6ed21a9e0e91fd1734c" />
+		<rom name="Nascar Jackpot 3.jpg" size="430246" crc="da445471" md5="22e4eebe294373495b27918f76f8cb9b" sha1="60818c54997e7c0dd44316b8bfb38df0eafb219e" />
+		<rom name="Nascar Jackpot 3.txt" size="521" crc="6724191b" md5="8b44e4e57c41c4cc12f763b5a90c40ae" sha1="7ab8a1c59ac9800eb3dc0dced68d11f5ef5eb542" />
+		<rom name="Nascar Jackpot 3.vpt" size="32051200" crc="920804a9" md5="0470cf3a496ba89f1ed9561fa121029c" sha1="748c7695e8ca5aee9fc824f9a62817d0d7d6bf29" />
+	</machine>
+	<machine name="NES Pinball (The Raven)(1.04b)[VP91x]">
+		<description>NES Pinball (The Raven)(1.04b)[VP91x]</description>
+		<rom name="1.0/NES_Pinball_VP91x.vpt" size="3563520" crc="d863bba5" md5="22c99bacecc3580848e7eb848c1674aa" sha1="e297a2b94bf3d5c25c625aa197275609a3f28a23" />
+		<rom name="1.02/NES_Pinball_VP91x_v102.vpt" size="3600384" crc="e97075bf" md5="a1edf654232880c464d71c58c4cc05c1" sha1="f9b4268c2be828f5a02ebc76070f07966c41359f" />
+		<rom name="1.02/version_history.txt" size="1343" crc="9ac94466" md5="fa4f6c54b2b7b9b490dd7317bb73e6fe" sha1="185fa9654067d4ae676fe073be385aa9def177b6" />
+		<rom name="1.03/NES_Pinball_VP91x_v103.vpt" size="3600384" crc="e97075bf" md5="a1edf654232880c464d71c58c4cc05c1" sha1="f9b4268c2be828f5a02ebc76070f07966c41359f" />
+		<rom name="1.03/version_history.txt" size="1544" crc="7e566db0" md5="1da73169034fb554f49dc35b6d1c7959" sha1="88286f43b61ce17a3aba6762571e554696d31c25" />
+		<rom name="1.04a/README.txt" size="250" crc="6551c41a" md5="301c68f9a9d892edb6d96748267ba72f" sha1="b852058a482affc601667158ecd75ad6fd966697" />
+		<rom name="1.04b/NES_Pinball_VP91x_v104_FINAL.vpt" size="3543040" crc="f44b0782" md5="2715341e088cd54ec5cc51e85cbab9e6" sha1="73aacd7efc1ccc8b29d3e3460f50b68dfc8ac9cb" />
+		<rom name="1.04/NES_Pinball_VP91x_v104_FINAL.vpt" size="3543040" crc="62615fc8" md5="5b854fb81e61e05bcd8c0c8b5cbf7878" sha1="7b97a87b08730b4368b68dda643f669339312c3d" />
+		<rom name="1.04/version_history.txt" size="1819" crc="e42ac0c4" md5="05f24e005c37acc39c58931676695cdc" sha1="bef11812aa6433d96c610cba9607a589e15df445" />
+		<rom name="common/back.jpg" size="81413" crc="f13ab3ab" md5="a5afdd23015ac234184de7d39852c5b5" sha1="d57d238ae8f58ab660c4df1807b5769fb66bb8a1" />
+		<rom name="common/front.jpg" size="66192" crc="731ce762" md5="a81309158651b154ee0f384b94b436cd" sha1="5b9c376e9b5b0872a61a67b39bd50eec67e1c27d" />
+		<rom name="common/Pinball_-_1985_-_Nintendo.pdf" size="539262" crc="7b791d0c" md5="2ea3f47945c0d62e27391379f42aa23c" sha1="be9097d12ebf444f0af97595c9c1dbf846e007d3" />
+		<rom name="NES Pinball The_Raven VP9.1x v1.xx 4-3.jpg" size="258002" crc="8c107a12" md5="85b5b0ac18aedd8d0112b5e7ce62d87e" sha1="7913f97610a7832703e4ae51e4adedac4d31a1f2" />
+	</machine>
+	<machine name="Pharaohs (faralos)(V1 2011)[VP912]">
+		<description>Pharaohs (faralos)(V1 2011)[VP912]</description>
+		<rom name="Pharaohs (faralos)(V1 2011)[VP912].vpt" size="58089472" crc="720195e4" md5="391e0b3316366ad16a05eb04c307c8e4" sha1="13351fb73faaec245e5360e18ecbbb0c114b9ed3" />
+		<rom name="Pharaohs Original Pic.JPG" size="112734" crc="cabfc470" md5="ca61405d6430450a25258721e58e2a77" sha1="b9e1fc08d18e009151de6b11ce0cc31cbc7360fd" />
+		<rom name="Pharaohs screenshot.jpg" size="166490" crc="9b6bddf6" md5="4bab70090c0d65450d0402e471d94320" sha1="9023b733497dcaeff1ec58ffe533cdfd3db8a451" />
+	</machine>
+	<machine name="Pirates - Wolves of The Seas (JPSalas)(1.05)[VP91x]">
+		<description>Pirates - Wolves of The Seas (JPSalas)(1.05)[VP91x]</description>
+		<rom name="music/m_4windsHQ.mp3" size="3424113" crc="a05af44f" md5="1fd1bf6a169d7da63aa2d85005d92dc9" sha1="4b9fc17433884e79ee3aec6087eed37eb10c34d0" />
+		<rom name="music/m_endthemeHQ.mp3" size="7189405" crc="9daaa64c" md5="7cfaf040ad9a9897e0172b6db28e5c2b" sha1="cf28a4c81100d2502908171806f92b71f15b14ac" />
+		<rom name="music/m_mainthemeHQ.mp3" size="1305871" crc="108d6089" md5="e0aef923b2901d0c99eadab897a38505" sha1="07675c9efbe769f25b10991313f47b3bc794a575" />
+		<rom name="music/m_multiball2HQ.mp3" size="2376396" crc="3064e99a" md5="6e2747ec53e08c73c19ce5386731d804" sha1="10e702fba364c760fca7102adcab3cfd09ff9f75" />
+		<rom name="music/m_multiballHQ.mp3" size="1029871" crc="6a642e8e" md5="551b732039672eb5c812f04bb1f19082" sha1="7f0e2734912747a1865f0a5ddf74e52b3603717b" />
+		<rom name="music/m_plunger2HQ.mp3" size="174847" crc="7c07f88b" md5="7a227d312c35d3e85a45b438ded16ce2" sha1="1fa99c5e7856d0991bd0bdd035dbf583313cdf1f" />
+		<rom name="music/m_plungerHQ.mp3" size="125198" crc="8a67db30" md5="e4fad2afceb479ff9e8d9462cb81ffc5" sha1="3c925df847a336716d874bbac254b3b03f5b2654" />
+		<rom name="music/m_theme2HQ.mp3" size="1098991" crc="f8988e36" md5="dbc7daa3d698db652005ff71f92760e3" sha1="dc6062a5e140d137e69c50640d4291d6779d3d90" />
+		<rom name="music/m_theme3HQ.mp3" size="1615615" crc="441c7ca8" md5="c3ea38ff0ef5cb69f46552969ebd508e" sha1="e4d55d83cb0151d55c6fa1a9191495d8ffa0a9f5" />
+		<rom name="music/m_theme4HQ.mp3" size="1544145" crc="8bb413b3" md5="e069cd47a1e1c9fb3468504a2c7ca7a5" sha1="e6e516ea80757d0d10194320c501d7e419518f11" />
+		<rom name="music/m_theme5HQ.mp3" size="3186655" crc="e9be3925" md5="3323646581454d04c8df7cfaac0ac8d2" sha1="55f089ea7ae71412a86f26e6ebaf450aa777a1c7" />
+		<rom name="music/m_themeHQ.mp3" size="820063" crc="d0255bb0" md5="887eba4319f00357a696f2ef53feff79" sha1="793328a2bb17016b5a15b689b5be4ffee7f1d232" />
+		<rom name="music/m_tortugaHQ.mp3" size="3033456" crc="4f343785" md5="6770c17120e825efdcf7003d11a1c2c6" sha1="ac4aa5da56eb194cb0b634915bcf7685fc1a824a" />
+		<rom name="Pirates_Wolves_of_the_Seas_VP9_1.00.vpt" size="58159104" crc="e206aa89" md5="c03c6feedcc8658dd20623219914495f" sha1="b5b95be520408b7fbfd25b2630eb85d900c96b25" />
+		<rom name="Pirates_Wolves_of_the_Seas_VP9_1.01.vpt" size="58159104" crc="9fc92171" md5="9edb5c3eda02de98cba561e2a4b37b8b" sha1="8c0ea8fb1fa78a213fb243ccc5c45f06ae4ff56e" />
+		<rom name="Pirates_Wolves_of_the_Seas_VP9_1.05.vpt" size="43905024" crc="615d69ff" md5="f44dde48d6dccff47d074ee4078dc68d" sha1="706cb94897d534517d278dfda1900a7814e390d7" />
+		<rom name="Pirates_WOTS.pdf" size="928680" crc="3db71aac" md5="fc231ab31673dd747058dec206514335" sha1="74140367b99ffbc1f5638668191bf753f7671962" />
+		<rom name="Pirates_WOTS_spa.pdf" size="936516" crc="4b08aa67" md5="aa5664b923a0ab8423f6e687cdae1883" sha1="cc775137528c553ac7bcf038100e08e94d3a6467" />
+		<rom name="screenshot.jpg" size="1090850" crc="a874f575" md5="8eaea01f01db0417a084f56d435758f0" sha1="4bb1fbe735f826c2229f189a6c7d4e31dd22ce99" />
+	</machine>
+	<machine name="Pirates - Wolves of The Seas (JPSalas)(1.05)[VP91x][2020 Edition]">
+		<description>Pirates - Wolves of The Seas (JPSalas)(1.05)[VP91x][2020 Edition]</description>
+		<rom name="music/m_4windsHQ.mp3" size="3424113" crc="a05af44f" md5="1fd1bf6a169d7da63aa2d85005d92dc9" sha1="4b9fc17433884e79ee3aec6087eed37eb10c34d0" />
+		<rom name="music/m_endthemeHQ.mp3" size="7189405" crc="9daaa64c" md5="7cfaf040ad9a9897e0172b6db28e5c2b" sha1="cf28a4c81100d2502908171806f92b71f15b14ac" />
+		<rom name="music/m_mainthemeHQ.mp3" size="1305871" crc="108d6089" md5="e0aef923b2901d0c99eadab897a38505" sha1="07675c9efbe769f25b10991313f47b3bc794a575" />
+		<rom name="music/m_multiball2HQ.mp3" size="2376396" crc="3064e99a" md5="6e2747ec53e08c73c19ce5386731d804" sha1="10e702fba364c760fca7102adcab3cfd09ff9f75" />
+		<rom name="music/m_multiballHQ.mp3" size="1029871" crc="6a642e8e" md5="551b732039672eb5c812f04bb1f19082" sha1="7f0e2734912747a1865f0a5ddf74e52b3603717b" />
+		<rom name="music/m_plunger2HQ.mp3" size="174847" crc="7c07f88b" md5="7a227d312c35d3e85a45b438ded16ce2" sha1="1fa99c5e7856d0991bd0bdd035dbf583313cdf1f" />
+		<rom name="music/m_plungerHQ.mp3" size="125198" crc="8a67db30" md5="e4fad2afceb479ff9e8d9462cb81ffc5" sha1="3c925df847a336716d874bbac254b3b03f5b2654" />
+		<rom name="music/m_theme2HQ.mp3" size="1098991" crc="f8988e36" md5="dbc7daa3d698db652005ff71f92760e3" sha1="dc6062a5e140d137e69c50640d4291d6779d3d90" />
+		<rom name="music/m_theme3HQ.mp3" size="1615615" crc="441c7ca8" md5="c3ea38ff0ef5cb69f46552969ebd508e" sha1="e4d55d83cb0151d55c6fa1a9191495d8ffa0a9f5" />
+		<rom name="music/m_theme4HQ.mp3" size="1544145" crc="8bb413b3" md5="e069cd47a1e1c9fb3468504a2c7ca7a5" sha1="e6e516ea80757d0d10194320c501d7e419518f11" />
+		<rom name="music/m_theme5HQ.mp3" size="3186655" crc="e9be3925" md5="3323646581454d04c8df7cfaac0ac8d2" sha1="55f089ea7ae71412a86f26e6ebaf450aa777a1c7" />
+		<rom name="music/m_themeHQ.mp3" size="820063" crc="d0255bb0" md5="887eba4319f00357a696f2ef53feff79" sha1="793328a2bb17016b5a15b689b5be4ffee7f1d232" />
+		<rom name="music/m_tortugaHQ.mp3" size="3033456" crc="4f343785" md5="6770c17120e825efdcf7003d11a1c2c6" sha1="ac4aa5da56eb194cb0b634915bcf7685fc1a824a" />
+		<rom name="Pirates_Wolves_of_the_Seas_VP9_1.05.vpt" size="44371968" crc="b8d08475" md5="e9f15568e7c0b1dae5ca9b63da055012" sha1="0a7c0674d67fc5d5002af09ee8e825617d4835aa" />
+		<rom name="Pirates_WOTS.pdf" size="928680" crc="3db71aac" md5="fc231ab31673dd747058dec206514335" sha1="74140367b99ffbc1f5638668191bf753f7671962" />
+		<rom name="Pirates_WOTS_spa.pdf" size="936516" crc="4b08aa67" md5="aa5664b923a0ab8423f6e687cdae1883" sha1="cc775137528c553ac7bcf038100e08e94d3a6467" />
+	</machine>
+	<machine name="Planet Jackpot 2 (Michael Youngblood)(1.0)[VP912]">
+		<description>Planet Jackpot 2 (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="Music/Hot Potato Close.mp3" size="7546548" crc="9bc603e4" md5="f8f340290a1e462d8279fa2f57c7fcc9" sha1="5b2af39d131612bc4ca1fae228d2215e5259b776" />
+		<rom name="Music/Hot Potato.mp3" size="5271980" crc="94ef4ecf" md5="e638d46f7d7b4c335a8e8cc65d03b3fe" sha1="95bc04504f9e50aa69fab1fd4d7474c490cea44d" />
+		<rom name="Music/Knockout Promotional Cue.mp3" size="4168197" crc="675cf1ab" md5="fdada2b471c67930a6719921e5f42b53" sha1="7e28e942758d5816042fc4d81b9e433a87a0400d" />
+		<rom name="Music/Knockout.mp3" size="6090931" crc="f12bf7e2" md5="5f6f0c3382ffcc8981d6582216d1f5ad" sha1="f6e8d18beae55119f2cfc51f380c3ae569e7743b" />
+		<rom name="Music/Planet Jackpot 2.txt" size="551" crc="62743f76" md5="0fda506df1602330ecc38ce7ec7481a5" sha1="b509cec93029e99d915c9bbc1960f9d951fff3aa" />
+		<rom name="Music/Tic Tac Dough Prize Cue.mp3" size="6097945" crc="21c52dab" md5="70ac93ba5f45d94e36ee493cbdfba2cc" sha1="264389e6cb459b2e9ae68c59c10a5f521f243f08" />
+		<rom name="radio space/RADIOBM.FON" size="7472" crc="dbfda0ca" md5="bcea72ec74bf109731f0e2df3d851799" sha1="92a26cbed3d308b61a0df823a795f33ca380b6ad" />
+		<rom name="radio space/Radiof.ttf" size="45632" crc="106bda8e" md5="dc3876f523f17336bdf2ea7c51a1e657" sha1="a620a962c77c4542a5e3d7fd1f9c32e5f07fc7ac" />
+		<rom name="radio space/radiof.txt" size="378" crc="a2a0a3a4" md5="c2bdd3077618cc36a8e698f204c23ef8" sha1="93cb6174473c60a79f136c6d917966c1f8fa42bc" />
+		<rom name="radio space/Radiofb.ttf" size="33428" crc="948594c6" md5="57c55638ca79d9a4c292b3846fb66c9d" sha1="a353180def5f376d5ea3780a42aab6268ed04ea8" />
+		<rom name="radio space/Radiofbi.ttf" size="29532" crc="b9038486" md5="12aab6388a7563bee677cbbfc76d92f7" sha1="ae59fad1ab001900ac7de7123100c7a7257f1b88" />
+		<rom name="radio space/Radiofc.ttf" size="34528" crc="6ea6021c" md5="64488619c81e028665ed1dfc104baa76" sha1="55cf6458f3138bb1e404a56467aefde5674d3c73" />
+		<rom name="radio space/Radiofi.ttf" size="29808" crc="73be3e41" md5="10ed65845bf738ce2e89449d890584ae" sha1="3300e216ca4a1035c180b0f52b4667d8f7b65e2c" />
+		<rom name="Planet Jackpot 2 (Michael Youngblood)(1.0)[VP912].vpt" size="26923008" crc="6e8f69b5" md5="cd0f9681e9e28b85e6e04d1ce84386ad" sha1="780c831eae415b67a4b3d8a77ab973efb7cda19b" />
+		<rom name="Planet Jackpot 2 screenshot.jpg" size="186394" crc="afb7f9b6" md5="d9ccde01bb7d148ceddeabd340852b2b" sha1="e0d458f293e84ce5cdbae4c1abc929f21179459b" />
+		<rom name="Planet Jackpot 2 Text.txt" size="1093" crc="1f38bc91" md5="f9df31764078435761a1225fe536c76d" sha1="1f47c9c523358b75f0043f7cfc045999ea076f60" />
+		<rom name="Planet Jackpot 2.txt" size="347" crc="a0bfbea2" md5="92edb1c99727764edf7dbb822afca349" sha1="5dc8c9e4992d486cdfcb97f1e9a412795cc7b76b" />
+	</machine>
+	<machine name="President Barack Obama (Michael Youngblood)(1.0)[VP912]">
+		<description>President Barack Obama (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="Music/american national anthem.mp3" size="666643" crc="3e72d062" md5="7f1017ca28cc35257b1d275cf3d3c9de" sha1="9536223cc058ecdde6fca231dfdbfe75e9a62efb" />
+		<rom name="Music/Bruce Springsteen - We Take Care of Our Own.mp3" size="3777096" crc="8fffab3e" md5="c60b27d83bef3c1b38e377f5811a547c" sha1="fc1260d7387cfb399d218f805672c5ef9f8ea134" />
+		<rom name="Music/Hail to the Chief.mp3" size="6049122" crc="7c8126d4" md5="bd99ff7fec35bfc6a6b11a4902e1dba5" sha1="9c72b78a0a46885db4cd3dfbc0703052d10c9d6d" />
+		<rom name="Music/Signed, Sealed, Delivered (I'm Yours) - Stevie Wonder.mp3" size="7583450" crc="ede6e545" md5="8bbe0ddc9731b3dd10463ea76ba4eb83" sha1="3847d9237162fd29fb4b34eb7123d79b3d280f07" />
+		<rom name="Music/Solid as Barack - Ashford and Simpson.mp3" size="7596407" crc="07dfe5cb" md5="21c481344538d7ede753a6e977635824" sha1="422d3e2b0133f64a899ef9dc9ec676dc3a613742" />
+		<rom name="President Barack Obama (Michael Youngblood)(1.0)[VP912] .vpt" size="71983104" crc="750993fa" md5="cbc71bc45e2cbc57606ddf1051c3ed48" sha1="aced38a124655b4f79ddd44afaa1c29ddad96130" />
+		<rom name="President Barack Obama readme.txt" size="563" crc="e9dcb7d0" md5="c95379f24f57af4b64cf50456936d15e" sha1="bc89ebf36d4a1ad8d3ea042e74efdb1d6af640c0" />
+		<rom name="President Barack Obama screenshot.jpg" size="112986" crc="c4a3adf4" md5="47bcbc19e755c059e9da3cce340244d2" sha1="3c7ec589c9b1b35c1edf0dd49db4c3f260c0f7a5" />
+	</machine>
+	<machine name="Press your Luck (Multiball Edition) (Michael Youngblood)(1.0)[VP912]">
+		<description>Press your Luck (Multiball Edition) (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="Music/Freemantle Media.mp3" size="211199" crc="57acaa24" md5="56de924ee3c808c1d684b462ddc07a0a" sha1="43bdf789161ddcca22a5a12ff51265233f89f997" />
+		<rom name="Music/Press Your Luck - Prize Cue.mp3" size="3389715" crc="3b339fb1" md5="37bbbf99ad1c8385dcf1e5d3b6ee1791" sha1="b4809503df3bedff47a106d05513fd451044f4d0" />
+		<rom name="Music/Press Your Luck Bonus.mp3" size="347053" crc="72ef305a" md5="cf35292af838b926865b8a9b928065a3" sha1="f22e1ed521d6279f4bc48d1bf53a5d170444ae54" />
+		<rom name="Music/Press Your Luck Main and Close.mp3" size="2892657" crc="616bcac6" md5="8af95286ce2ecd72e6cdc7cb3db7cb2d" sha1="3e54ebeb72430791fe3b278949cb50283ae4522c" />
+		<rom name="Music/Press Your Luck Oppening.mp3" size="620710" crc="61db7de7" md5="7488f1613b206801257ac626af35ed7c" sha1="7687431feeaa5f8064726a2897d25fc785bd2f1a" />
+		<rom name="Music/Press Your Luck.txt" size="554" crc="19142180" md5="4e63c42f1cf75615c692f7478bd51a78" sha1="e584a21a48a8be353b034265656fa219e674a49a" />
+		<rom name="Music/Second Chance.mp3" size="2754004" crc="edf959a9" md5="e14d046139b827332ef887e6ed73fa9f" sha1="ec98362b3c2c31450abd0f6317923e5baf5a7398" />
+		<rom name="Ff-ship.ttf" size="59312" crc="44780928" md5="d4d59aedaf5b04ca29da867984d7cc2b" sha1="5c5f6b5d5a46f05fe18e1358937d5812e0bf4627" />
+		<rom name="Final Frontier Ship Font.txt" size="303" crc="17238d5b" md5="dfa3f352c8c2ebee9c54a9897008418e" sha1="62d6dc442519f43546e0a6020e5ad32cbf4a351c" />
+		<rom name="Press your Luck (Multiball Edition) (Michael Youngblood)(1.0)[VP912].vpt" size="41537536" crc="b04d772c" md5="c0c25c96accf2d741cbd98d72615f420" sha1="12364878248ccf754d5c08a11eef18cfea069aba" />
+		<rom name="Press Your Luck (Multiball Edition) screenshot.jpg" size="177232" crc="d6a9dc5c" md5="dfd5e75a03ea762f5c55eefd3acee324" sha1="4187cfd72b43ad885ba7b38ba8ac34c3550b8df9" />
+	</machine>
+	<machine name="Price is Right, The (Multiball Edition) (Michael Youngblood)(1.0)[VP912]">
+		<description>Price is Right, The (Multiball Edition) (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="Music/Come On Down 1976.mp3" size="1637906" crc="cace6caa" md5="f3e054f566bbf47d8488b5974fbc25f6" sha1="e198c3cd48c296790d00cfba4672f5571459a41d" />
+		<rom name="Music/The Price is Right 1972.mp3" size="3281644" crc="2a5d7ddb" md5="b125b6e16d11d70dbd3d21498f23c846" sha1="29a2baf7ace9832789e761948f528ff288d329e0" />
+		<rom name="Music/The Price is Right 2007.mp3" size="2181019" crc="f7ffa408" md5="bdcb61a612496b67db9e8f32ea265ad2" sha1="b61e751ea3f023d78fcf90b137320b4a79a416d8" />
+		<rom name="Music/The Price is Right Classic.mp3" size="1387888" crc="089e5697" md5="6f366b5e07d408fedd434aa705ad9f76" sha1="1f1c11dd2f975e95314560372584314f3dce8b22" />
+		<rom name="Music/The Price is Right Opening.mp3" size="1307468" crc="e105d322" md5="95efb80e8a1d9c466f8f38fdc452d4d5" sha1="5ca6e4e943834b837a9f251f5a5a5f5bb328bd54" />
+		<rom name="Music/The Price is Right Showdown.mp3" size="275604" crc="da5e0296" md5="4463515bb210b909367cadceb678ede1" sha1="55157ff8cd6c55cc61fda83d57e9733745c13b28" />
+		<rom name="Music/The Price is Right Walking.mp3" size="2394022" crc="af5cee78" md5="df94fbad879756ecfadf0e7322020164" sha1="0279bb27f6ef2c1680cf51e74d281451c59b4827" />
+		<rom name="Price is Right, The (Multiball Edition) (Michael Youngblood)(1.0)[VP912].vpt" size="38649856" crc="4ca93d27" md5="88984c8507e5342ee75cb722e499afac" sha1="e69337912fe331550f8c8064f83182e35e8a8046" />
+		<rom name="Price is Right, The (Multiball Edition) screenshot.jpg" size="173662" crc="383e0a04" md5="a82a1d38f560ecd177011067412e425a" sha1="6b6aea3bb2ba86719d94b07c0f22c5f2b2097139" />
+		<rom name="pricedow.ttf" size="36552" crc="f177ca2d" md5="cbf904b7799e328f5ad0fea07bffb223" sha1="cf1750bf9ca44b5dfee5b99d55ec8326f4b9d23e" />
+		<rom name="Pricedown Font.txt" size="395" crc="dde7719f" md5="a38426fc59a4535ace131d84f728ac68" sha1="c645ac2a64de06c63caa56cfa2c93b964869fcfb" />
+		<rom name="read_me.html" size="9159" crc="b2b72fd7" md5="45d533fbbba849b4c60ca93214006cc5" sha1="789a40d90cc0f58e8c05432e7ee259c0617d9473" />
+		<rom name="The Price is Right.txt" size="620" crc="be3e88f1" md5="45efe117733cf40a542980dc569ed5c3" sha1="ffa8a7e21b335ed4e255b3fbd62729a74fcc4094" />
+	</machine>
+	<machine name="Price is Right, The - Hi Lo (Michael Youngblood )(1.0)[VP912]">
+		<description>Price is Right, The - Hi Lo (Michael Youngblood )(1.0)[VP912]</description>
+		<rom name="The Price is Right, Hi Lo/The Price is Right 1974 Consolation Cue.mp3" size="11045520" crc="59ff73cd" md5="b702e5ee8c394e0beba2a352c00dcec6" sha1="8e293ccd78ce05b50292461cfdbb39a7e9d49496" />
+		<rom name="The Price is Right, Hi Lo/The Price is Right Hi Lo Bonus.mp3" size="3530808" crc="fe91ab67" md5="7f2274fb05f98e53e8b39501f6af9b9c" sha1="92367d6dec54af81986e1bbb9fa97b99e9f81f1a" />
+		<rom name="The Price is Right, Hi Lo/The Price is Right Hi Lo Intro Theme.mp3" size="2050416" crc="987e1efe" md5="c3cf98cc729678c10573fed65c6d0852" sha1="3ecf711d6ec24660b59f3bfd39cc4051d7a510f7" />
+		<rom name="The Price is Right, Hi Lo/The Price is Right Hi Lo Theme.mp3" size="11310696" crc="a6cc4626" md5="9574d0b8e45fa23d4811f4a68d9134d9" sha1="21d6aad2d7ede36b9fb54f26e34086369b6a8baa" />
+		<rom name="The Price is Right, Hi Lo/The Price is Right Main Theme 3.mp3" size="3151411" crc="4d75befa" md5="1cc2845b416049fb8f625c288c671af0" sha1="42b8a2bc27913c7a1dfa5853714673cce2f9c2e8" />
+		<rom name="The Price is Right, Hi Lo/The Price is Right Mediteranean Cruise.mp3" size="545017" crc="8622b5a1" md5="a5f0560ea67558afe992fe0b0b291e93" sha1="fa121c406182f452dde1743918911e3247d3e868" />
+		<rom name="The Price is Right, Hi Lo/The Price is Right Ticket Plug 2.mp3" size="748146" crc="4dfd250b" md5="4aebedbef975ee7f30f937d02597516e" sha1="a97d230b30ada5807f1f72f036be867e22203c3f" />
+		<rom name="The Price is Right, Hi Lo/The Price is Right Trumpet Replay.mp3" size="308034" crc="06a36282" md5="c2079de550000a328e7bb4b62a8f09da" sha1="39059e678c4741556390005798e00d87f3d37cb8" />
+		<rom name="The Price is Right, Hi Lo/The Price is Right, Hi Lo.txt" size="606" crc="fcf70959" md5="ca17c51d8ad8d40591fe60e719898e4c" sha1="c6e09fff95123ffb83927abbb55f7d1b91b8a0e8" />
+		<rom name="HI-LO.TTF" size="22708" crc="dc9d90d0" md5="6c5e07bcce832dcb1227135a4f48a6d2" sha1="dc75217327dd651a6c77746943164b023fceeda4" />
+		<rom name="The Price is Right, Hi Lo (2).txt" size="208" crc="df119724" md5="02bbee148e4ea9c6db60c6ca5a0c1654" sha1="13e39c4f9a2d8c9240aa6bc40203f7821108acc2" />
+		<rom name="The Price is Right, Hi Lo.jpg" size="407150" crc="cb0493b7" md5="e94704cf1c85a4cdf3d6b62031299301" sha1="8dbf2a7d046fbd84fd6eeaf97ba788e496e6a749" />
+		<rom name="The Price is Right, Hi Lo.txt" size="810" crc="d0bfd91f" md5="b69555f67946573161a9a1ad642ae92c" sha1="76ed9a44bb4ef7e8048ade9a771a881c982ade0f" />
+		<rom name="The Price is Right, Hi Lo.vpt" size="64880640" crc="1e5cf825" md5="9dc20e17f6656208acf78626b1eea756" sha1="811157200b42fc5033261215c1a694906900352d" />
+	</machine>
+	<machine name="Primus (Logan812)(1.01)[VP912][Destruk Music Template MOD]">
+		<description>Primus (Logan812)(1.01)[VP912][Destruk Music Template MOD]</description>
+		<rom name="Music/Primus - American Life.mp3" size="4217634" crc="4f0ac7ee" md5="d5351d6b099b7c917ff6ce0d49969932" sha1="d00e59b2e3ce8b1beac59d5a8e6f1f4861613991" />
+		<rom name="Music/Primus - Bob.mp3" size="4482846" crc="003166d8" md5="81263fb87041e5149f1e7cb46e693857" sha1="ff5fd466b7a83d65dbc98a6f79d72a95a13173e4" />
+		<rom name="Music/Primus - Bobs Party Time Lounge.mp3" size="4015327" crc="b185ed10" md5="2713805766ad259d1b0078835e17b90d" sha1="2cdf7e20c02349a9b5019685ff5d4714c60c6dad" />
+		<rom name="Music/Primus - Extinction Burst.mp3" size="4659365" crc="b46dd3d2" md5="78ef8c6b150d4efb03e583ba8f98d9f3" sha1="ec42dfb4d897f5b0e794aaa1c20a5f2ddb683213" />
+		<rom name="Music/Primus - Frizzle Fry.mp3" size="5518578" crc="930365be" md5="ad498b983f66c317e94af762718afc08" sha1="854899f3b33a4c4441c394eef4bce883704eac46" />
+		<rom name="Music/Primus - Hamburger Train.mp3" size="7859146" crc="335e34a5" md5="7b0214fc3b33187209412039dfdf885f" sha1="71ad5c25ee7a3c513bc2f018eeef22b31d5e1d07" />
+		<rom name="Music/Primus - Harold of the Rocks.mp3" size="6027735" crc="a5c29000" md5="ea52e2e6c09fb4ea82c3fc34400097f1" sha1="3249dd40cbba1440c5af35cf08401974827f148a" />
+		<rom name="Music/Primus - Here Come the Bastards.mp3" size="2649051" crc="ee291b87" md5="5d3f3be2e081d0c0c1b8596f9eb77526" sha1="2bc30ae04e284924fc923bee147be0e6c4ae50d6" />
+		<rom name="Music/Primus - Jerry Was a Race Car Driver.mp3" size="2957515" crc="3ff20326" md5="20c143b2706663ac289152c5afd56717" sha1="8f71b7e37f1607b3563b062355bb70171f315179" />
+		<rom name="Music/Primus - John the Fisherman.mp3" size="3472776" crc="4626c266" md5="664f945ff5f14d8d3497676371fd7978" sha1="0314bf56b6e0962a026dbdc360db51fe46559547" />
+		<rom name="Music/Primus - Mrs Blaileen.mp3" size="3202269" crc="576950db" md5="ad4b2a906b46961c94e229eb9ed77e02" sha1="6b6dd0136849f85dcd2118f7c4eb295dbae253e8" />
+		<rom name="Music/Primus - My Friend Fats.mp3" size="7607641" crc="49e64999" md5="a2133c8ad6680c9e36ae5d722d4b4b98" sha1="d6367c0c26fa0b8b82d503c88f7358b1e58a898d" />
+		<rom name="Music/Primus - Nature Boy.mp3" size="5338004" crc="5219d5b3" md5="636d7131651fbcbaacf92a8515f0ce49" sha1="aacc98c1a0f87673fdf86fdf188ace8d58329228" />
+		<rom name="Music/Primus - Pilchers Squad.mp3" size="1830611" crc="3f21a3ce" md5="2b396bc61f1c32d3546438dcb60505f3" sha1="2b04ce04b323a9207dfc93c886c2fa0c1d7f9f4c" />
+		<rom name="Music/Primus - Professor Nutbutter.mp3" size="6512136" crc="6811d4d5" md5="b95ddb3d078debc9bb2e2848064d1908" sha1="b1874dd9325d1ff6f25e5da06d07fe00ba496a1d" />
+		<rom name="Music/Primus - The Air Is Getting Slippery.mp3" size="2418177" crc="1bb6f6b6" md5="bac1bcfb23234fcb600382fd726b803c" sha1="438f2513ab107f16ee1bec1bb86b5f661afa7652" />
+		<rom name="Music/Primus - Tommy the Cat.mp3" size="4085559" crc="0f8fa5b3" md5="e59d6a6a4d00be8194fb34219537177e" sha1="40a266ae8e6d697e8b73b50d1ebc60e8f3b57f29" />
+		<rom name="Music/Primus - Wynonas Big Brown Beaver.mp3" size="4199125" crc="10b12412" md5="67c1a28ed1d9f50e94185887ba8fcfa0" sha1="b3977fa2dda16fede3570e55856fe1a04160df71" />
+		<rom name="Music/READ ME.txt" size="224" crc="9ac1606f" md5="2d9b2b689d7c914ef8bebba1ced9464e" sha1="523df4886fb317518fb533056d79ec14642b77ba" />
+		<rom name="Primus (Logan812)(1.0)[VP912][destruk Music Template MOD].vpt" size="36491264" crc="72c66413" md5="692435922c514b2237ed03b0913a7cf7" sha1="74e82c20ee0da0d2efa313acf064b674d31add06" />
+		<rom name="Primus (Logan812)(1.01)[VP912][destruk Music Template MOD].vpt" size="36491264" crc="399477ed" md5="51b867a981ddeabada8e880ebbe4191b" sha1="b04a49b7ce2d7e1b4273a8af106c1e4182c5ed51" />
+		<rom name="Primus screenshot.jpg" size="338088" crc="fcc0ba8b" md5="e5d386a13b69566973e32e3b31321ee9" sha1="403c4aae7699b9be3e27bfc8bb4e8e5b4287a25b" />
+		<rom name="Read Me + Rules.txt" size="15275" crc="4c5be5e3" md5="566be6615bd8579a3ae3ab6e403956be" sha1="e59f543acb9a5c0c710ed17e4058c75716cd7971" />
+		<rom name="READ ME FOR MUSIC FILES.txt" size="1119" crc="f8f00876" md5="665891defd2d876fb0c0a7ff19d00f67" sha1="a9aeb2655802cf6e8073bcfd920cf56cd212260b" />
+	</machine>
+	<machine name="Royal Flushed 2 - The Mississippi Gambler (Michael Youngblood)(1.0)[VP912]">
+		<description>Royal Flushed 2 - The Mississippi Gambler (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="Music/Bonus Music.mp3" size="104906" crc="2c4e7a24" md5="c675684a602708081329b32669fff352" sha1="2cc516c1a5525d323bc924ee93eb5d19b1d1f3c5" />
+		<rom name="Music/Creedence Clearwater Revival - Proud Mary.mp3" size="2557545" crc="3ffe801a" md5="05c8aad2a6f9d4dd72ab9301e2ca03b7" sha1="201a1ca67bc24c494de2a2535591a59090d5c6be" />
+		<rom name="Music/Mississippi Queen.mp3" size="11810944" crc="32a64f94" md5="926f818710cfb4876553163b74ae3c33" sha1="1a2a72afc9a49640a32c1e07edecca64a73f6fe5" />
+		<rom name="Music/Mtn-MQ.mp3" size="10274816" crc="9f7e72c6" md5="0751d1dff16ec480a852a404597185e3" sha1="9fcedb1efef6f8516bbb7bbf51c29327cc7336c5" />
+		<rom name="Music/Sea Cruise - Frankie Ford.mp3" size="3847313" crc="78384adb" md5="5ef431cb68aa29cec579f1c77f51f728" sha1="05788472e56a0267ceb32ca0ab89d50ce4a1de34" />
+		<rom name="Royal Flushed 2 - The Mississippi Gambler (Michael Youngblood)(1.0)[VP912].vpt" size="20807680" crc="3d95d7f8" md5="2c5e53933593fba92c69f45ccc2f43bc" sha1="83506b75ed6163415c41cea4e621a8ab560f46fa" />
+		<rom name="Royal Flushed 2 - The Mississippi Gambler readme.txt" size="517" crc="133f17e9" md5="00dd46b3b0bff29eb612fdd39b1e244f" sha1="01754c164d77dbbf2dc67a280772cd9e2d310124" />
+		<rom name="Royal Flushed 2 - The Mississippi Gambler screenshot.jpg" size="421058" crc="e667d5ac" md5="c1f7796b9eacab0cd70b95b8d2ddd31f" sha1="6c9e78fa1c9bf29095bd886ac2b6930b1e6cc4e2" />
+	</machine>
+	<machine name="Rugby (mfuegemann)(1.0)[VP91x]">
+		<description>Rugby (mfuegemann)(1.0)[VP91x]</description>
+		<rom name="Rugby (mfuegemann )(1.0)[VP91x].vpt" size="17756160" crc="0f41e141" md5="7001bc1ff96e73daa5dacc716ca476c6" sha1="209430c60d8f6d300115aceff5af66ed17226429" />
+		<rom name="Rugby screenshot.png" size="1027687" crc="9fbbd255" md5="c430fbb59c8624cbd006753eb6abc8b3" sha1="a89e47cd58ee348e6ab456e718adbbf8dfb91d84" />
+	</machine>
+	<machine name="Rush 2112 (JPSalas, Grizz)(1.0)[VP912][Music Template MOD]">
+		<description>Rush 2112 (JPSalas, Grizz)(1.0)[VP912][Music Template MOD]</description>
+		<rom name="RUSH_VPTable_Support_Files/Music/A Passage to Bangkok.mp3" size="8589060" crc="ca1dc821" md5="896ea94096dd8ada672122fc73fb8b33" sha1="50ff00f1af43757643c5c7bffee58b066fd42923" />
+		<rom name="RUSH_VPTable_Support_Files/Music/Closer To The Heart.mp3" size="6957184" crc="3adf16e0" md5="bf4f91ff0ef31c9a78233742fa7054fb" sha1="469dbfca34942cf9c2455c7e6412236841bc7c01" />
+		<rom name="RUSH_VPTable_Support_Files/Music/Distant Early Warning.mp3" size="11939968" crc="acea381a" md5="30824cd961d1ad1019e7d980b7025af6" sha1="e9f03e08f830091bddb4fa709704fbd742aa387b" />
+		<rom name="RUSH_VPTable_Support_Files/Music/Fly By Night.mp3" size="8108160" crc="e894a535" md5="b945bfaed6332e38c77660f128f07487" sha1="dcd6937b52e7edc4b3bc165e864a8dd706907049" />
+		<rom name="RUSH_VPTable_Support_Files/Music/Force Ten.mp3" size="10891392" crc="f5cff597" md5="747c7c3f1f1026ba21d8946f2e3dc387" sha1="06ed4174004a6a5a3e7bb5ac5300a9b4e22266b9" />
+		<rom name="RUSH_VPTable_Support_Files/Music/Freewill.mp3" size="12925056" crc="df07d6ee" md5="5bbd2752cbbdb6164adcac4d4cce649e" sha1="aef20cd01a21a68a8e8b84ea997fb976293c72e9" />
+		<rom name="RUSH_VPTable_Support_Files/Music/Limelight.mp3" size="10420352" crc="d730b855" md5="40281bbd3a890a9ceeb14bf245ef858d" sha1="56445ad277e98d3ab7216d6e7b29daa7a7ad9bde" />
+		<rom name="RUSH_VPTable_Support_Files/Music/Mystic Rhythms.mp3" size="13287747" crc="0ac83ff5" md5="587d8f0a34598ec4bd5c74040e6bc212" sha1="874d23b70f84ca6c794d670a46e2de1db0a72b84" />
+		<rom name="RUSH_VPTable_Support_Files/Music/New World Man.mp3" size="8941696" crc="a6743eb0" md5="77136d11baf7f4bf81b4ddcf71f94c35" sha1="d06f8c84dc9d91ff8e6658f9dabe5938b46ffd24" />
+		<rom name="RUSH_VPTable_Support_Files/Music/Red Sector A.mp3" size="11709748" crc="5cabdd83" md5="ca573e44101c61f9726a50d54161e32a" sha1="fd52c77300f8c7ea69e12d767aec9ec8872911e2" />
+		<rom name="RUSH_VPTable_Support_Files/Music/Subdivisions.mp3" size="13398144" crc="78c5f69a" md5="a5f55a3365428e4d423cb6a83ec74b99" sha1="d2342a456773e6a9f76244dfbbdf7faf4088c3a5" />
+		<rom name="RUSH_VPTable_Support_Files/Music/The Big Money.mp3" size="13416576" crc="05245982" md5="2cf07780a9f0e04fb52490cd0b4edab3" sha1="f0c8255511ba21bb482da8da0f9f12ccc5669f6f" />
+		<rom name="RUSH_VPTable_Support_Files/Music/The Spirit Of Radio.mp3" size="11913344" crc="484306d9" md5="c26d171f7d567e1feb1a894ca7362234" sha1="bbbce81d4f77710ced2c9e37efa6658ebed1f43b" />
+		<rom name="RUSH_VPTable_Support_Files/Music/The Temples Of Syrus.mp3" size="16220288" crc="49fb8799" md5="4b345ad0b3e25a706a2ed25c3da3c5cd" sha1="cf6335d34e31514f1f2c262fa60a58f136355aa0" />
+		<rom name="RUSH_VPTable_Support_Files/Music/Tom Sawyer.mp3" size="10963072" crc="683a5a29" md5="a8560315f62e1472abfee007c34ff61e" sha1="dd44b8ea1cde89a4d710dff8457662519275c6e2" />
+		<rom name="RUSH_VPTable_Support_Files/Music/Vital Signs.mp3" size="11269223" crc="24dff1ef" md5="9e11ee68472d347d7363b1b4e9eb4214" sha1="4ede008e29f1cda5e5d1fa36ba839f5b00acac46" />
+		<rom name="RUSH_VPTable_Support_Files/Music/Working Man.mp3" size="17252480" crc="43961e66" md5="119540dbe210999caefb6883b73be24f" sha1="c347d2d07807702603fd41b5dcece749a04ff956" />
+		<rom name="RUSH_VPTable_Support_Files/Music/YYZ.mp3" size="10594219" crc="5d83ae3b" md5="b9829773287b9ab0595aaaf13a1b0af7" sha1="61b53671b91fb815f7502aaffad9c4394ba0b152" />
+		<rom name="Rush2112 screenshot.jpg" size="345511" crc="2bf2b294" md5="d11aaa49997a24eba457889c678c2437" sha1="a4cf0330bfad7abfb8a61d86168a7f561675f073" />
+		<rom name="Rush2112_VP912.vpt" size="24211456" crc="0e412056" md5="30d22a9eba0554eefa41946e1c5262d0" sha1="102f6fab9b7dfa52da6d1c6ba808cb19b7623ae6" />
+	</machine>
+	<machine name="Sabbath 70s (JPSalas, Grizz)(1.0)[VP912][Music Template MOD]">
+		<description>Sabbath 70s (JPSalas, Grizz)(1.0)[VP912][Music Template MOD]</description>
+		<rom name="Music/BS70 - Am I Going Insane.mp3" size="4107413" crc="42b51ff1" md5="7f2210299e8b63f3c96b5b96b82105d5" sha1="33f757141ade6f55d1b4f551ab06d11088637ec7" />
+		<rom name="Music/BS70 - Black Sabbath.mp3" size="6106930" crc="33befd12" md5="b274d318ec558a37defbd0982297ba50" sha1="5c59f87db0527553e55100b2a71511848e59727d" />
+		<rom name="Music/BS70 - Changes.mp3" size="4533313" crc="ad21baa9" md5="3b23df1698eae87563e4de22a7cfe8ce" sha1="2c9ee913ba39666b802a385f4e600725160fa450" />
+		<rom name="Music/BS70 - Children Of The Grave.mp3" size="5085437" crc="5bfd5cd6" md5="89e1404b47d39445680dcbaf8eb51246" sha1="b3669a6f7ceccfb4e46b2ad765349839fbe8681e" />
+		<rom name="Music/BS70 - Electric Funeral.mp3" size="4687958" crc="6e85e431" md5="567795308968677b6f7e8a24d124923a" sha1="b4296992de632ac18a83e47a27f624b51dd9f570" />
+		<rom name="Music/BS70 - Fairies Wear Boots.mp3" size="5990319" crc="f8799072" md5="2266f452cf36f5df78ae29dc24d82b8b" sha1="2d1654f6492e17abf728b6864443f8b87d8d602d" />
+		<rom name="Music/BS70 - Hand Of Doom.mp3" size="6845881" crc="a603dfd6" md5="977997ca89e177504986c00f878e4ccd" sha1="85addbc46527b254c0489dd71b3ae646781b045a" />
+		<rom name="Music/BS70 - Iron Man.mp3" size="5711958" crc="113fe9ed" md5="2828703b5e56f4116cf75b6cbbc0bd5b" sha1="40d0914b9214353ea2b908ecb6c8a79af2933fe1" />
+		<rom name="Music/BS70 - Megalomania.mp3" size="9378296" crc="20e1f781" md5="d3e84bcc62396ff8bb54e0fc7568421b" sha1="981411088efce7c349d5277f058685e23206a8f4" />
+		<rom name="Music/BS70 - N.I.B..mp3" size="5875798" crc="8105f2d1" md5="b62570942a90dcc89c4a879eb9e1fe25" sha1="6f4b699a89fbc051645423a12bff621b91f28057" />
+		<rom name="Music/BS70 - Paranoid.mp3" size="2767018" crc="ba45c37a" md5="69935931e26f7b68ed90aa38df2379e8" sha1="a0fcd3e4d6ffe1dcb7fb09031767e3738d82ae57" />
+		<rom name="Music/BS70 - Rat Salad.mp3" size="2411335" crc="4cd4197e" md5="9ad73980114b3a1b062cd15fef8b62da" sha1="70a19503eb7a5bdec849fa0a94bf98616ab45ffb" />
+		<rom name="Music/BS70 - Sabbath Bloody Sabbath.mp3" size="5525966" crc="e5722c67" md5="df8c7dcdd83f6f1a35d2641bde698076" sha1="6af67f39048cd41bdfb9c2487d196a6761092df8" />
+		<rom name="Music/BS70 - Snowblind.mp3" size="5276863" crc="3a7f27b6" md5="42d9cd88b1e0ff3af50ac54e744804fb" sha1="cca05ae6d60214125669aa1dcfe74d7257fb78e0" />
+		<rom name="Music/BS70 - Sweet Leaf.mp3" size="4883145" crc="646e785c" md5="9cc93eec60d293f8c69b191574cb142c" sha1="fd2ca63e483c1a891b215ca06c99ad097329cab2" />
+		<rom name="Music/BS70 - The Wizard.mp3" size="4239488" crc="212db3a8" md5="c4d5169039b6b9285fb950d2def6e8f7" sha1="746f65c8fdb48db95b376163a735bcfce93bb6e1" />
+		<rom name="Music/BS70 - Tomorrow's Dream.mp3" size="3067112" crc="45bcf4f0" md5="088b0ea8e1b02d3960201e0e6bc3d04e" sha1="49f67d7f145abf15b868357b9c4d3c42a0b61145" />
+		<rom name="Music/BS70 - War Pigs.mp3" size="7647945" crc="99a90052" md5="898db71fe428b7e306847e4dc412f9b9" sha1="b7247b599019e0a67e34a95ded0334b7cf0f2185" />
+		<rom name="Sabbath70s_VP912.vpt" size="20426752" crc="5535fd83" md5="5768756f6ebcd0521fa91a79521177bd" sha1="c78ec00058f49de6ef6bf6ebae5ede2758497da0" />
+		<rom name="Sabbath 70s screenshot.jpg" size="351119" crc="724ceadf" md5="0455caa6e5761f2428b2fb5345b8f303" sha1="c88b8a34f261e8adb397e161b58e1b539f070e1b" />
+	</machine>
+	<machine name="Sabbath 80s (JPSalas, Grizz)(1.0)[VP912][Music Template MOD]">
+		<description>Sabbath 80s (JPSalas, Grizz)(1.0)[VP912][Music Template MOD]</description>
+		<rom name="Music/BS80 - After All (The Dead).mp3" size="5479155" crc="8a1e4e7f" md5="224fe7ee2064bcb7d2867eaae2c5168b" sha1="054fc5deae48b497c4bba8df71bdb3dda86a628a" />
+		<rom name="Music/BS80 - Children Of The Sea.mp3" size="5361290" crc="60ab68fc" md5="02886540d0e1a18b38c4e407aee77c87" sha1="bbd9c9a8eca89a344537a92ff5828bf2fb1c3ef1" />
+		<rom name="Music/BS80 - Die Young.mp3" size="4560899" crc="e9a9c6c4" md5="7ac7b65de171a52c2d48389d27096f64" sha1="50eeab9b4f6e600af43bf4aa7f446039199abbc1" />
+		<rom name="Music/BS80 - Ear In The Wall.mp3" size="3918495" crc="fd5abc95" md5="f383926d8d12a818a28abd3c88fbe18a" sha1="e659ca19fc4daf4b89e4354efc3388056f4d8da5" />
+		<rom name="Music/BS80 - Falling Off The Edge Of The World.mp3" size="4881891" crc="bf2e31e7" md5="e806ca795db61d180869b8e9b40406f3" sha1="2b544b569d7efecc232e1cd33aa549408f71f791" />
+		<rom name="Music/BS80 - Heaven And Hell.mp3" size="6706283" crc="bbea510c" md5="891dc7d1bbadbc1247b1776c259b6629" sha1="3f0fd7f46c049e916d05a2234d3715f90539102c" />
+		<rom name="Music/BS80 - I.mp3" size="5018564" crc="b934e83f" md5="86ef354b11e5aa0f38414cf16efd2bf9" sha1="5869f4512446b75dfbffad850c39d894dc0d0588" />
+		<rom name="Music/BS80 - Lady Evil.mp3" size="4234890" crc="36a68308" md5="8a84a53c3060dbd27761866cb97e46bc" sha1="e479f4a1d69d3ba2fb66238d4864c5904476d139" />
+		<rom name="Music/BS80 - Lonely Is The World.mp3" size="5620843" crc="79eaaa56" md5="8eb4e0010fdf26aca836b24a7c8fefb2" sha1="27a30af72c63a8d60115f14b58d02c3fbd6afdfa" />
+		<rom name="Music/BS80 - Neon Knights.mp3" size="3719129" crc="6165b4d0" md5="49db237bb49436d24430e924ee79f6a9" sha1="59f12282da8af5a8289cbbac009d561334ffb33e" />
+		<rom name="Music/BS80 - Shadow Of The Wind.mp3" size="5448226" crc="cb76574b" md5="ad3e18f5b276d1ba8542b5c079c87d6a" sha1="e671e64fdeb3b9306ffffba8639ee8d423398d3d" />
+		<rom name="Music/BS80 - The Devil Cried.mp3" size="5780086" crc="caa74ab8" md5="4aa5a17e449e7964de274bd63e063441" sha1="eb1352c3d9ff6f2c527365a1aa28ee5ffef9fc61" />
+		<rom name="Music/BS80 - The Mob Rules.mp3" size="3138584" crc="954be3a1" md5="4de56fc520ad20c43689ba143a5f8823" sha1="abb302a09a7b7bef59efc04470764388b99cdefb" />
+		<rom name="Music/BS80 - Time Machine.mp3" size="4092784" crc="d8292cc6" md5="eb9193fe461364077a6713609d898f9d" sha1="22c61dfe827a692e2775768b6b230400f608d497" />
+		<rom name="Music/BS80 - Turn Up The Night.mp3" size="3560722" crc="b50e63a9" md5="370771d0f99f77e0a4972f0bc2fcd22f" sha1="491e1e856dd20a4422fb6c0267c2d62d7e2a4f77" />
+		<rom name="Music/BS80 - TV Crimes.mp3" size="3877117" crc="4c33a194" md5="00326ccda5ecd052efccd31a0f52a195" sha1="c7b918f4a638e52b0f6831117335c6ce1fd429d8" />
+		<rom name="Music/BS80 - Voodoo.mp3" size="4397477" crc="1d3a62e6" md5="617ecfda229f210a464d2d96111f3ed4" sha1="4848ceda47a7e73c3ceaeef074ff4ea2e0b6dfa7" />
+		<rom name="Music/BS80 - Walk Away.mp3" size="4258296" crc="28ea7513" md5="c270125cd86b203cdfcdb0c4b759ebb2" sha1="7e5d9807c042205cc1f5c7557fd11e77d8b1d848" />
+		<rom name="Sabbath80s_VP912.vpt" size="26054656" crc="c25f15dd" md5="762a777f78888e7a1aea0d92b403d857" sha1="83db96862aa7983fd66c71fa0b2749c9053fb306" />
+		<rom name="Sabbath 80s screenshot.jpg" size="341929" crc="e3f48a86" md5="0f5435f3cfdb5ed0404c56f1062986ab" sha1="24b541a853fb74e66b9418bf878157338ab67682" />
+	</machine>
+	<machine name="Scarface - Balls and Power (JPSalas, Rascal, hassanchop)(1.0)[VP914]">
+		<description>Scarface - Balls and Power (JPSalas, Rascal, hassanchop)(1.0)[VP914]</description>
+		<rom name="Music/scarface_EE.mp3" size="2238170" crc="a40fac02" md5="126d196bd0fcafa494af551b20c5def5" sha1="5030f13cfc4de2bfd2747756dd41c3dcf367a474" />
+		<rom name="Music/scarface_MB.mp3" size="2927385" crc="1d5eb6a7" md5="f27d53f93af0b9e085d77ac01f111757" sha1="7ce482bf005631a92464d2493155718dac085525" />
+		<rom name="Music/scarface_ME1.mp3" size="737697" crc="b1e6a1f9" md5="0c23b3ef0a8d40e6b9b2bb73bbae2bd1" sha1="4569f9486965e1b5988a734a168b6838cedefc1c" />
+		<rom name="Music/scarface_ME2.mp3" size="808750" crc="8267727e" md5="17b58ac90b7ba7ebfb29f63c2bc6b80d" sha1="e4903b3bca92650179b4708e25c81b0d55c8e757" />
+		<rom name="Music/scarface_ME3.mp3" size="868518" crc="e838271d" md5="377f471d801290f91e4aa1f093df2bca" sha1="738da0c4a265ae3f6ac7adf6bc77561a2d3a9022" />
+		<rom name="Music/scarface_ME4.mp3" size="835917" crc="38b86c6d" md5="b93e2c24417aa854d62e51f8e6bf2f20" sha1="ba13fe70d801ba9e972ca6fc6230ad750170c007" />
+		<rom name="Music/scarface_ME5.mp3" size="818781" crc="844eb10e" md5="d7d6c5dd547fd869a79239007cde3042" sha1="6cefa9371fc659cfc21238eca8d8bcea3a24fa04" />
+		<rom name="Music/scarface_ME6.mp3" size="813765" crc="aeabcbd9" md5="feb3a8c2a8518a92023997a5625d0038" sha1="0427b13a95f12b0d0500b075c1960eee166654e5" />
+		<rom name="Music/scarface_ME7.mp3" size="813347" crc="ce84b88c" md5="1a645aba19e2ab18d2cc8f2249cd3ee0" sha1="56dd2c7a3e3fec499317121a7f145dcdcf30b95b" />
+		<rom name="Music/scarface_ME8.mp3" size="731845" crc="b34b1d63" md5="b0b5c165d505b45ecb674feb04a97247" sha1="0f48bf6e313cc8f721d76c94643407f3a2bc3996" />
+		<rom name="Music/scarface_ME9.mp3" size="809168" crc="420ea4d9" md5="78d8afe82a072d3ed36d8eb60923ed03" sha1="314bac8e4aa1eda19f51b111c2e088b1125ef5b4" />
+		<rom name="Music/scarface_ME10.mp3" size="3583163" crc="5b68eea0" md5="85e6105ce8d503bfa10fa1666fdabc65" sha1="d16a175e2b8a188aedbf57c6b4917160dabcfa4c" />
+		<rom name="Music/scarface_ME11.mp3" size="4124838" crc="f60338d9" md5="d0989e4f50bcea395360cd767aef3c17" sha1="4b2964e5b7f2e2b2af51c2130115746ade319c76" />
+		<rom name="Music/scarface_NOE.mp3" size="1943927" crc="fc08585e" md5="32e439cc877a000c0f3170dc22039951" sha1="78b923d998c4294924db0b28e415d67e3704250e" />
+		<rom name="Music/scarface_SEH.mp3" size="4955741" crc="4dc17dc3" md5="62a418ed37dad08a90f02327f28e4315" sha1="38c6b8aa3fbc6556d835c533629964870e5cdd36" />
+		<rom name="Music/scarface_SEHU.mp3" size="629445" crc="4b093ea1" md5="6c176ccaa45b9b0d12ec1dd1a1a0a213" sha1="e82e4339fb0dcb56ebb3a03f8c36df69870362d3" />
+		<rom name="Music/scarface_SEY.mp3" size="3489958" crc="dc4ac12c" md5="2f17d1cf36fcd6686d578a9cfe15aa6c" sha1="a32127a6754f88c17eeba4d0b22b946d5da2699f" />
+		<rom name="Scarface-Balls_and_Power-reglas y estrategia.docx" size="21076" crc="cad628e3" md5="3bd1401e74d396e9254f247655a20107" sha1="f44a14f764319e8326964b68b7374b882ace9af4" />
+		<rom name="Scarface-Balls_and_Power-rules and strategies.docx" size="17731" crc="4199d105" md5="69a488ba57e8fb69c856a81454b5a0c6" sha1="882d220b7b74315166d6e9fe2a474011ee5f4403" />
+		<rom name="Scarface-Balls_and_Power_VP914_v1.0.vpt" size="45576192" crc="464fa64a" md5="f76bb08b27853b1b0c6ec15459aa3184" sha1="4ee042e72225520dec6ca52673fe87254ac7685e" />
+		<rom name="Scarface-Balls_and_Power_VP914_v1.0_censored.vpt" size="45613056" crc="f801add4" md5="40d5b38e38f1901f53d45c4f29a7984f" sha1="a1e8821e60b0349bf8ee6be7137d0bdb5ddd9970" />
+		<rom name="scarface-balls_and_power_vp914_v10.jpg" size="523972" crc="27c39b4e" md5="942b85d6426e695031c16efee342c6d8" sha1="d816e04ba065e2835380b8cf6c9ee9e30aae0c82" />
+	</machine>
+	<machine name="Scarface - Balls and Power (JPSalas, Rascal, hassanchop)(1.1)[VP916][DOF arngrim]">
+		<description>Scarface - Balls and Power (JPSalas, Rascal, hassanchop)(1.1)[VP916][DOF arngrim]</description>
+		<rom name="Music/scarface_EE.mp3" size="2238170" crc="a40fac02" md5="126d196bd0fcafa494af551b20c5def5" sha1="5030f13cfc4de2bfd2747756dd41c3dcf367a474" />
+		<rom name="Music/scarface_MB.mp3" size="2927385" crc="1d5eb6a7" md5="f27d53f93af0b9e085d77ac01f111757" sha1="7ce482bf005631a92464d2493155718dac085525" />
+		<rom name="Music/scarface_ME1.mp3" size="737697" crc="b1e6a1f9" md5="0c23b3ef0a8d40e6b9b2bb73bbae2bd1" sha1="4569f9486965e1b5988a734a168b6838cedefc1c" />
+		<rom name="Music/scarface_ME2.mp3" size="808750" crc="8267727e" md5="17b58ac90b7ba7ebfb29f63c2bc6b80d" sha1="e4903b3bca92650179b4708e25c81b0d55c8e757" />
+		<rom name="Music/scarface_ME3.mp3" size="868518" crc="e838271d" md5="377f471d801290f91e4aa1f093df2bca" sha1="738da0c4a265ae3f6ac7adf6bc77561a2d3a9022" />
+		<rom name="Music/scarface_ME4.mp3" size="835917" crc="38b86c6d" md5="b93e2c24417aa854d62e51f8e6bf2f20" sha1="ba13fe70d801ba9e972ca6fc6230ad750170c007" />
+		<rom name="Music/scarface_ME5.mp3" size="818781" crc="844eb10e" md5="d7d6c5dd547fd869a79239007cde3042" sha1="6cefa9371fc659cfc21238eca8d8bcea3a24fa04" />
+		<rom name="Music/scarface_ME6.mp3" size="813765" crc="aeabcbd9" md5="feb3a8c2a8518a92023997a5625d0038" sha1="0427b13a95f12b0d0500b075c1960eee166654e5" />
+		<rom name="Music/scarface_ME7.mp3" size="813347" crc="ce84b88c" md5="1a645aba19e2ab18d2cc8f2249cd3ee0" sha1="56dd2c7a3e3fec499317121a7f145dcdcf30b95b" />
+		<rom name="Music/scarface_ME8.mp3" size="731845" crc="b34b1d63" md5="b0b5c165d505b45ecb674feb04a97247" sha1="0f48bf6e313cc8f721d76c94643407f3a2bc3996" />
+		<rom name="Music/scarface_ME9.mp3" size="809168" crc="420ea4d9" md5="78d8afe82a072d3ed36d8eb60923ed03" sha1="314bac8e4aa1eda19f51b111c2e088b1125ef5b4" />
+		<rom name="Music/scarface_ME10.mp3" size="3583163" crc="5b68eea0" md5="85e6105ce8d503bfa10fa1666fdabc65" sha1="d16a175e2b8a188aedbf57c6b4917160dabcfa4c" />
+		<rom name="Music/scarface_ME11.mp3" size="4124838" crc="f60338d9" md5="d0989e4f50bcea395360cd767aef3c17" sha1="4b2964e5b7f2e2b2af51c2130115746ade319c76" />
+		<rom name="Music/scarface_NOE.mp3" size="1943927" crc="fc08585e" md5="32e439cc877a000c0f3170dc22039951" sha1="78b923d998c4294924db0b28e415d67e3704250e" />
+		<rom name="Music/scarface_SEH.mp3" size="4955741" crc="4dc17dc3" md5="62a418ed37dad08a90f02327f28e4315" sha1="38c6b8aa3fbc6556d835c533629964870e5cdd36" />
+		<rom name="Music/scarface_SEHU.mp3" size="629445" crc="4b093ea1" md5="6c176ccaa45b9b0d12ec1dd1a1a0a213" sha1="e82e4339fb0dcb56ebb3a03f8c36df69870362d3" />
+		<rom name="Music/scarface_SEY.mp3" size="3489958" crc="dc4ac12c" md5="2f17d1cf36fcd6686d578a9cfe15aa6c" sha1="a32127a6754f88c17eeba4d0b22b946d5da2699f" />
+		<rom name="Scarface screenshot.png" size="3347167" crc="f1198aac" md5="7c3ebb3de84908dadaa1a9f03e841f47" sha1="3b1fae1d62a04b2c86be06b754efde0ec1d2aeb5" />
+		<rom name="Scarface_B2S_1.0DOF1.0_FS.vpt" size="46526464" crc="c7bf4c83" md5="54678cf0221a143a13897e492d2aca9b" sha1="0612dae737c13996fc340ae9387016624d559171" />
+		<rom name="Scarface_B2S_1.0DOF1.1_FS.vpt" size="46518272" crc="63bb76d8" md5="41d375abb6edf95d6f6e7b02bf85eac3" sha1="6a3d6f41a179eccd9fd9f7dfd0372eedeedfae66" />
+	</machine>
+	<machine name="Scrabble (Multiball Edition) (Michael Youngblood)(1.0)[VP912]">
+		<description>Scrabble (Multiball Edition) (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="Music/Scrabble 1984.mp3" size="4266399" crc="ab0a40b4" md5="aa1547abfa1008d4988d2d0031a55a63" sha1="c694f48a5d46092e2d51f8573e880fe719184a1a" />
+		<rom name="Music/Scrabble 1993.mp3" size="3066734" crc="1984f58d" md5="dfd48331c62aa78f99b3f96f41a37fce" sha1="38f0aa181780e13bc2e7c8f56650b8dc6da04e9b" />
+		<rom name="Music/Scrabble Contestant Cue.mp3" size="365838" crc="b02db151" md5="10ef4aa8a0e48e5b7b7df77d29f4d9cc" sha1="87879e7783c1332e1ac7e8c42f33a1c9d8f7d00b" />
+		<rom name="Music/Scrabble Intro.mp3" size="1234605" crc="be8a1c60" md5="d1d0dd0117893dcf6dce11a481be2591" sha1="4bd1a6da7b96820d4dcfcd4077f90376219d1651" />
+		<rom name="Music/Scrabble, Multiball Edition.txt" size="597" crc="3e033ffe" md5="da67da77fbbd28fa7d8d15f46e86dd6b" sha1="898adfa9357fa8d7a586311225dbd01e38fc8c42" />
+		<rom name="Scrabble (Multiball Edition) (Michael Youngblood)(1.0)[VP912].vpt" size="61616128" crc="5b4f15d1" md5="ee3d6768b37e485c90f489638933514a" sha1="d14e7d3bfb2e4647d8c8e85950e080517b507d87" />
+		<rom name="Scrabble (Multiball Edition) screenshot.jpg" size="157973" crc="70d8189b" md5="31cf60d4b02d046d3c1a5ff58fdad2b1" sha1="19be8c85972894670a75028c78b1f45c13d6053e" />
+		<rom name="Scrabble.txt" size="310" crc="1aee009e" md5="980ad0ea9f92b032055bfd93d254c046" sha1="8e7df87c7683f758e7af2012f724d73b1ade45e4" />
+	</machine>
+	<machine name="Silver Ball 2 (Michael Youngblood)(1.0)[VP912]">
+		<description>Silver Ball 2 (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="fonts/data-latin.ttf" size="21116" crc="0be62095" md5="26f230d3a1a1b950e7cde6b84b18cb43" sha1="3c73d45b7be945732867a83930b9f1ae0982c305" />
+		<rom name="music/Elton John - Pinball Wizzard.mp3" size="6683765" crc="55725782" md5="e4b80388acc36519614e6f0794cce9f2" sha1="aa86153c2d3b75fb328da70f14934519f3df8f60" />
+		<rom name="music/MMM Comercial Prize Plug.mp3" size="6387358" crc="651895f7" md5="366b7a8b1030c586615bc2ae0bd588b5" sha1="f67efebb39613a7b3cfe329ee4139316db4c7f25" />
+		<rom name="music/Silver Ball 2.txt" size="605" crc="c91c4328" md5="cb35ea4f2b501898b76d812ebc63903e" sha1="6de7b8b95186eb8611b314c344920ba1b745b2d3" />
+		<rom name="music/Silver Ball Intro.mp3" size="2162033" crc="44ce9ba4" md5="db8fcb9e542493966c5da3b7ba025390" sha1="5efef8057a7a246ae8347617ee01c0b99bdf653b" />
+		<rom name="music/The Magnificent Marble Machine.mp3" size="6148732" crc="2b33b27f" md5="a7e080e00716a9923e36b4832a6130ef" sha1="d52071a060a23a88c7e9f5533c59d423ab31403c" />
+		<rom name="music/The Who - Pinball Wizzard.mp3" size="7968942" crc="29da1cf3" md5="285329b6f75913b76f16d7a645880d14" sha1="489bf724aecb84e78cf944b7e58b41ef020e8551" />
+		<rom name="Silver Ball 2 (Michael Youngblood)(1.0)[VP912].vpt" size="24043520" crc="898d0a72" md5="fe7cb4f25e7e90b1813e757c93dc0b33" sha1="2c9044b562bc38cb1cba1f0c190c368b41a97584" />
+		<rom name="Silver Ball 2 screenshot.jpg" size="152760" crc="a4ff9e3c" md5="7650f442c719e215e975b088f1d4dd18" sha1="b7d3651b3b8c8865730b2b1520474394714d7c6f" />
+		<rom name="Silver Ball 2.txt" size="1016" crc="a7196f6e" md5="af921aba64519f88d23fe249842bfe3c" sha1="f1845498c998c374bfe75f3fe0ffe20e826fbff4" />
+		<rom name="Silver Ball 2a.txt" size="344" crc="38fc71d9" md5="843bd7613e0c45c534db70dc2e461052" sha1="ae19369c6c5ebcc15b293d4ca34a35b8ed62c8b8" />
+	</machine>
+	<machine name="Smooth Hot Ride (Michael Youngblood)(1.0)[VP912]">
+		<description>Smooth Hot Ride (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="Music/Aretha Faranklin - Freeway of Love.mp3" size="8209135" crc="0636560f" md5="af2591999b27ff2bed3b9bfc6e2d6936" sha1="29e023a369a270615a936248ee1301aec5f7d922" />
+		<rom name="Music/Curtis Mayfield - Diamond In the Back.mp3" size="6921919" crc="37917ac9" md5="4a61901694f57162daff4023f198f8ff" sha1="37c7131295eb9970092bb8168021df4e888f7f48" />
+		<rom name="Music/Knight Rider Bonus.mp3" size="529135" crc="df731101" md5="1baf6dc5149a470319f174ed42acda2b" sha1="d168215462c7a71ffb24a6c6c0fbe65744b1f12b" />
+		<rom name="Music/Low Rider - War.mp3" size="7535385" crc="0130ea2f" md5="f327f421cb4391a8b33a8fb305f7067b" sha1="9b92ac59734688895a087ea19c74fb86f35109a4" />
+		<rom name="Music/Natalie Cole - Pink Cadilac.mp3" size="6292374" crc="fafcaea7" md5="0d8881dc1be68fccd69a3e96c890c727" sha1="f80ac09c60c60f5d329a3b227421bd8f2261daf9" />
+		<rom name="Music/Steppenwolf - Magic Carpet Ride.mp3" size="7874768" crc="fa7ab072" md5="da73df14ab32922ab42cb37171d43bdd" sha1="020ca26e15af1715893838279c21e344d11cd6b6" />
+		<rom name="Music/ZZ Top - La Grange.mp3" size="7150026" crc="4a032663" md5="be1b8f0d9c7ab4e0751d6e57e7da76bc" sha1="8bd77a3b0be81c0ee5abf6ed21a9e0e91fd1734c" />
+		<rom name="screenshot.jpg" size="104859" crc="4cd036a7" md5="8ed5c8c4739d4ca17f67483148c417d8" sha1="95e779e2d5a1077585efc2ff03b2c015176dfb2e" />
+		<rom name="Smooth Hot Ride.txt" size="581" crc="a03ab0fe" md5="a0196db9485764a5075bb69c2f9345f2" sha1="b25225a8469d90203dc697e7e4c88b381eb99d03" />
+		<rom name="Smooth Hot Ride.vpt" size="29556736" crc="8d6aabb7" md5="38745238ff14fc07448f7c1c602aa842" sha1="8a643721a5903605898396c555fb354e78e92bee" />
+	</machine>
+	<machine name="Spider-Man (JPSalas)(1.1.1)[VP91x]">
+		<description>Spider-Man (JPSalas)(1.1.1)[VP91x]</description>
+		<rom name="Spider-Man (JPSalas)(1.1.1)[VP91x]/JP's_Spider-Man_VP91x_1.1.1.vpt" size="25501696" crc="89528663" md5="e100b36ad36646fb5234007368b256b5" sha1="4559141f6e6d0fb62adbb06eb3849f9e208b1960" />
+		<rom name="Spider-Man (JPSalas)(1.1.1)[VP91x]/Spider-Man (1.1.1) screenshot.jpg" size="537192" crc="3cb9c483" md5="e267979d6260d3b1ac4773ba1852958c" sha1="bebaf6602abfd006aae2a01ef6c8c6e575f4350d" />
+		<rom name="Spider-Man (JPSalas)(1.1.1)[VP91x]/Spider-Man_Reglas_de_juego_ESP.pdf" size="560733" crc="890ae5d6" md5="8614b22ebad1a02826b61cabe05835dd" sha1="9f67ad142fb1fcdda5c5bde308f8ae036e4adf2a" />
+		<rom name="Spider-Man (JPSalas)(1.1.1)[VP91x]/Spider-Man_Rules_ENU.pdf" size="557246" crc="36ffab03" md5="e5b11f2173721cd21e7b59efb4571813" sha1="c2a96ee9cfa6ea44207459fb16474c80c013f8ca" />
+	</machine>
+	<machine name="Terminator Killing Machine (Francesco)(1.0)[VP916]">
+		<description>Terminator Killing Machine (Francesco)(1.0)[VP916]</description>
+		<rom name="vpfonts/8-PM____.TTF" size="134000" crc="d4ecdb83" md5="3f75821653e1a8efb00810891edd9739" sha1="e0188d8becc068c8f9ee3d76a42da878c9f5560c" />
+		<rom name="vpfonts/AARDC___.TTF" size="48916" crc="0dfe2e9e" md5="c40732de3192e0f633ce2f007f4a9349" sha1="722a2639a085832592e33b716630135ac62f60e9" />
+		<rom name="vpfonts/Abduction.ttf" size="45092" crc="85939e39" md5="e13dd9a1550dcce637f754344d1c8611" sha1="b5b84c1a67058524126db723f999a4646864066d" />
+		<rom name="vpfonts/african.TTF" size="47596" crc="97a10b6c" md5="a19c1325b7b93513f1665d1f9ee8bc48" sha1="725a39f334fec0f4f175572e3635fa62196519a8" />
+		<rom name="vpfonts/AGENCY.TTF" size="57280" crc="a3d97cd8" md5="f9b9a4fce362a3a9111c138859ccb422" sha1="f78d52507605ef41d7778299cf57019c2018a674" />
+		<rom name="vpfonts/AGENCYB.TTF" size="59012" crc="ef78e62f" md5="f0d9cc320ea56aec6a4d5e2651115af0" sha1="ba572d9230f002f82c4154c3d8029015ef84f8b5" />
+		<rom name="vpfonts/alger.TTF" size="69504" crc="42bdc576" md5="2766d060d5ae2a1c102065956618af36" sha1="0f297993751d7709e60a9de21445a0b12030cdba" />
+		<rom name="vpfonts/ALIEESB_.TTF" size="17920" crc="baa3cc94" md5="3667c3af7fa1a4248bb5a9e44c153091" sha1="c131c67eee052c6ef93e0d6e425a5c652e2562d3" />
+		<rom name="vpfonts/ALIEN5.TTF" size="23692" crc="e98e7615" md5="6423b3fed5cd4cb1066078ff08be5002" sha1="04d0ebc5ef8ac2b83991963134f84b193df6d011" />
+		<rom name="vpfonts/AMERUNCN.TTF" size="51160" crc="a0220635" md5="a3834d3cc8e7b63c74c97609e2babb4d" sha1="717018adbee3bd4df802c8bff77d3b1bf5fa2274" />
+		<rom name="vpfonts/AMPH.TTF" size="43044" crc="bf3aa4c1" md5="0af35a7f2800a425af4ca1fd0f9bde23" sha1="221e04d207f36789b788598d93a4ca19c6527211" />
+		<rom name="vpfonts/AMUSAF__.TTF" size="22464" crc="60e47cb3" md5="f85352bcd62c022e35ff21e232111ee3" sha1="77305c113ab57b08dcde0c16963115b0b17f4b4d" />
+		<rom name="vpfonts/ANASTAS.TTF" size="34724" crc="24d8338c" md5="b86006d7843ee0e0f354c03497a65215" sha1="9adf0c4c88e4cb816f99579bbb7a7e745fae690d" />
+		<rom name="vpfonts/andyb.TTF" size="63396" crc="223ee157" md5="775c3814e9c1f228d495333e07580d59" sha1="b6a2486f54c72520a0a9f92e25db1f59853badf8" />
+		<rom name="vpfonts/annifont.ttf" size="37552" crc="97cd3db4" md5="2c64bb417056f321f9d7e61190e703aa" sha1="b8c3aa7ce4fd927626cb8aa2fa4c985bbef81604" />
+		<rom name="vpfonts/Another_.ttf" size="60536" crc="4e3f2290" md5="d7f3e56f3255cae11eeb2951357e2844" sha1="966fd7b0c89916ff682e16d343cf7f7c18aa1fee" />
+		<rom name="vpfonts/ARGENTUM.TTF" size="17620" crc="2a36d8e5" md5="66b131047274b4644829866f1b057a9a" sha1="15bc7d038ea75546d29596e72b3d2ffd389b67a5" />
+		<rom name="vpfonts/arial.ttf" size="311636" crc="7c959725" md5="6e7385fb7d6ceddf07b5a41e0bc2712d" sha1="49f0ee6148e6b674a60450d86faaddbb97d798f3" />
+		<rom name="vpfonts/Arialn.ttf" size="123976" crc="1166b365" md5="f0a7ff15e2b7456fb1b2565755e20ae2" sha1="d9fdae64204fe10917aff30aa1244ad521a2ab91" />
+		<rom name="vpfonts/ariblk.ttf" size="262176" crc="041709b9" md5="faae65b2a502111c22f8e48013008840" sha1="9f39ba1ddb6c05eaef227b31d1699e1200ea6712" />
+		<rom name="vpfonts/ASTUTE.TTF" size="35216" crc="4f6f94e2" md5="c45e46d602c767d53446a32051781229" sha1="ea0a1b07b65f180c2d476222ff03c423a647a781" />
+		<rom name="vpfonts/Atari raster.ttf" size="45644" crc="9a0cc2ac" md5="f29e77f43f9f0724d5faac08f7a1bbcb" sha1="a086711e7d014159a5caabcbeffbb4fbae22148a" />
+		<rom name="vpfonts/aucoin eb.ttf" size="67464" crc="409369dd" md5="caa90b465607a4d1e3fabcc2ecf5ef8d" sha1="506db779e6f97e3105757fe785524fc2addbb660" />
+		<rom name="vpfonts/augsburg.TTF" size="65208" crc="28c4366f" md5="e7fc42f49a5249beab44c9fe8735b476" sha1="2519a906ec5f1ff9aec9c7696e0a10dddc0764e7" />
+		<rom name="vpfonts/avante.TTF" size="22668" crc="4d7fd42b" md5="a88e25fe8402ef8b0a2f6a92eea38922" sha1="ae7d342c2472cb74d903c55301be872b69b950ae" />
+		<rom name="vpfonts/BALLSONT.TTF" size="101072" crc="4e33b384" md5="cf09c98cfea69fc76842ec3efefc48bc" sha1="817746994f3500c2d6f3801d8117f70f9043dbf9" />
+		<rom name="vpfonts/Banff.ttf" size="38252" crc="3cab846b" md5="126522f663cf8db80950447f8ef3b5cd" sha1="f84be8652faacb7622a6cea2d9242e52e2752b53" />
+		<rom name="vpfonts/BANGN___.TTF" size="60220" crc="baf533a6" md5="9f587d4beb89caf30e73a02316fffaf2" sha1="d3fff69986db95780f8f5abbae5a98b86953e72a" />
+		<rom name="vpfonts/BARBW___.TTF" size="118916" crc="7b3404dd" md5="04c9f19f359de5a8f8f5745947fd0ae7" sha1="dfaa540ba255ec76aed83067ae298d24539eaa36" />
+		<rom name="vpfonts/BATTLEST.TTF" size="28856" crc="f8aaf212" md5="8ff7a9ff59065ffbb2560e098047e805" sha1="97157579755a4b6486d12b0b643a59525bb2a936" />
+		<rom name="vpfonts/BENGUIAB.TTF" size="49004" crc="1155d844" md5="4870bf90f6f563bc6dfb837b51ef801b" sha1="af05ac4eb35d3a856f42e575923c6f2e4100d407" />
+		<rom name="vpfonts/BIMINI__.TTF" size="40484" crc="b34189b0" md5="66ba22f8801ef7bd70f847e8a384a7d0" sha1="c7dcd88c080b01cdc3c1eed417a2ee3a1e084b76" />
+		<rom name="vpfonts/BINNERN.TTF" size="53492" crc="e92f6e48" md5="678fdb7097fa2a8eac8dc3ab58aa8906" sha1="170924c5d2f000ef7b58dfa54c24cd5d4a928eaa" />
+		<rom name="vpfonts/Biometri.ttf" size="97216" crc="74fb601a" md5="eba37e256da1a3f7d2dad16a08f3bbfe" sha1="7e6ab125e0ae7d4c82be4ff8fb3dcc6543b39b5f" />
+		<rom name="vpfonts/Blkchcry.ttf" size="56732" crc="42c627ed" md5="753833d2833e9f73b56cffae357cf95f" sha1="893a162d547fb7be51604699642d3f9bd9af6857" />
+		<rom name="vpfonts/bloodcyr.ttf" size="120184" crc="5e88e259" md5="55b9d867bab0be9213426fa479a94b1b" sha1="75a5b37604c1769deaf240cef7d73e84c13025cf" />
+		<rom name="vpfonts/Bloodfea.TTF" size="62168" crc="e1bc5993" md5="f6047d67d59fd392f87838fa7e6507c0" sha1="cfa1988faf454991f0601c88df3346379fac3df7" />
+		<rom name="vpfonts/bloodrac.ttf" size="50120" crc="66893b8e" md5="1e07bf79529fb5078152838ad2c5a565" sha1="fb0f4410696b6a0aa6dd1c75544ccb0861bfcac4" />
+		<rom name="vpfonts/BLOODY.TTF" size="45264" crc="da071b3b" md5="d1a746a818a459b74bed44bb69837495" sha1="38165945befb4bd99a04f9ef841a1dfde99e88ac" />
+		<rom name="vpfonts/BNJdigital.ttf" size="2892" crc="9648b7b9" md5="5a3ec3d3c85f67d7fbf20635e2436d9c" sha1="f1c423264ea6b5bbd2d3b7bc91af4a5c0303deeb" />
+		<rom name="vpfonts/Bones.ttf" size="76360" crc="f1310f81" md5="a7d83a4f1e2e2f99f7ae21f1aec30e58" sha1="de46d4e910cc9e404862ddfec8b0dfb5c9f5376b" />
+		<rom name="vpfonts/BONZAI.TTF" size="23004" crc="8e2745ea" md5="f6fffebac6d2661dc083e4e47d9b4243" sha1="be72d14a4f6f68c6622ea4f5a12a09162b977932" />
+		<rom name="vpfonts/bookosb.ttf" size="143368" crc="ce4356a2" md5="a2ad419cbc4f489bc5caa1ef90e0df53" sha1="4d5babff3e234439665c40f8b707fd52398cb9e7" />
+		<rom name="vpfonts/BRADHITC.TTF" size="105296" crc="66d17504" md5="0252223e8c36008b595f5e379ad5e524" sha1="bc773a38f567c9ecec65485bc588065f2215a386" />
+		<rom name="vpfonts/BRITANIC.TTF" size="35360" crc="b214926b" md5="8be4a2f403c2dc27187d892cca388e24" sha1="7cc410a9333fd41aa97143e16fcc8b701253a604" />
+		<rom name="vpfonts/BROADWAY.TTF" size="71520" crc="e2e03ba1" md5="41aa628f4f2f8e6c9f1e1f239c075b81" sha1="799eba38ac6490eaf1b8a2565f48eaf624e8ea6e" />
+		<rom name="vpfonts/CALIST.TTF" size="70828" crc="fb3f6ca4" md5="2568e173df3a278bff48d9926aa656f6" sha1="86d400039481710a6134ceaba7a3f9e9b44c9f86" />
+		<rom name="vpfonts/CARDS.TTF" size="42064" crc="a3d1cbf2" md5="bcfa084f8632f268e6f54caae6dfbb7f" sha1="0b2d4f93aac3915f357ba4d37f3d8f8476c75f6d" />
+		<rom name="vpfonts/Celticmd.TTF" size="127916" crc="432e0cda" md5="90fd385f9cabf817ed0504aa58d5b9a0" sha1="2a1f598ecf49eb786234cd8f57f9c30f2310a5f1" />
+		<rom name="vpfonts/CHILLER.TTF" size="96452" crc="36e33837" md5="b1b2e2db2eef02d230247a474d1d66a6" sha1="4b53fa1bded6c26212e27041afabf457808ef316" />
+		<rom name="vpfonts/CNTDWNN.TTF" size="64384" crc="14195ec5" md5="102077badcb3d3551f749d257eac746a" sha1="432c5452cc3ef27653329d4136d6b5f9265da9a2" />
+		<rom name="vpfonts/COLLEGE.TTF" size="11336" crc="f56f5de4" md5="f9846a1309de5645385743a1ae8c61ad" sha1="735d351707752bccb18b0500ab8e3404a2383ea1" />
+		<rom name="vpfonts/COLLEGEB.TTF" size="11476" crc="5be53654" md5="4d4fda0c044747ee3871f5842f76e000" sha1="f2bcbd8328968c3cd6ef63361d9fcdde33c25d41" />
+		<rom name="vpfonts/COLLEGES.TTF" size="5960" crc="6a86ffbc" md5="0a667fe3fed65ed5096536abb69a591c" sha1="51a26d90673f4ae0553e51243c0bdf033aa0c39f" />
+		<rom name="vpfonts/COMIC6.TTF" size="11868" crc="c4fb235e" md5="3bbef31d8c5fa5da181a4ae91017a4a9" sha1="3c49651b3a52167b3afd827516a169fc62761e9e" />
+		<rom name="vpfonts/comic.ttf" size="126364" crc="ac81e7e6" md5="a50f9c96a76356e3d01013e0b042989f" sha1="d17fae7a6628e2bc4c31a2074b666a775eed9055" />
+		<rom name="vpfonts/comicbd.ttf" size="111476" crc="8520cb41" md5="81d64ec3675c4adc14e9ad2c5c8103a7" sha1="5518f0bdebe7212d10492ab6f4fff9b0230c3cbe" />
+		<rom name="vpfonts/COMPSTYL.TTF" size="41640" crc="963b556a" md5="64d930983e6ba65cfd2ec099ab7488f6" sha1="f4bbb29956843a0246e1be9bd28e3114fba14076" />
+		<rom name="vpfonts/COMPUTER.TTF" size="39104" crc="a5d24216" md5="e0dacec61ffdd2bee694dc0928642f84" sha1="0bf87958eaa6daf3cf386cec98b09f4d46e8b228" />
+		<rom name="vpfonts/COOLVETI.TTF" size="42204" crc="3f6a49e4" md5="c92a76c78cce1709863e6007a1e6e8e8" sha1="f17ee19d6c4dee1194c25215d3c5f34c8d6524b0" />
+		<rom name="vpfonts/copper.TTF" size="31680" crc="77988818" md5="488a27d167416b90b3defc4ba12e3e16" sha1="6c33cccfe7d283b4b6ef7133b9b89a37d548012e" />
+		<rom name="vpfonts/COPRGTB.TTF" size="61552" crc="b783d93f" md5="c277b2c27239a1c8de888444341d1c62" sha1="1a4a190d2e949d5e16f1349e775fc4764e32e821" />
+		<rom name="vpfonts/COPRGTL.TTF" size="57224" crc="319b4d65" md5="13c596c0b79552874adcc23525de43b4" sha1="aae564f108aeb7410bd3a7551a40d0da9728c465" />
+		<rom name="vpfonts/CORONET.TTF" size="84460" crc="afaa52e7" md5="faa174bfadcc755c9933d1df31d41cfe" sha1="fc662feaf23404483b4f87ce810835f83aaa2450" />
+		<rom name="vpfonts/courbd.ttf" size="312920" crc="8a4c2bab" md5="53540286132e62b055ed9d953c1acc15" sha1="7d50aa03b66b633e3c1f7e08de0f58f6eef6a0f7" />
+		<rom name="vpfonts/CREEPY__.TTF" size="69376" crc="e3bc7e89" md5="0d7ce96ecd8ecc2642e1302f3a63f6b8" sha1="07f3578648f7c84ad3047376ae64a3077bf49920" />
+		<rom name="vpfonts/cry.ttf" size="24132" crc="5fe05ac5" md5="6dc18381d104ac45599a04c4a684b28a" sha1="dd396b21b72519716a58c7d8818bfd1035dd6b97" />
+		<rom name="vpfonts/Cupertnn.TTF" size="43752" crc="d8173fcd" md5="23d3447af31d643392366c18bebf7838" sha1="a99ff0d15e956800d929c5ca918d9df7167ec751" />
+		<rom name="vpfonts/DDDRNDSQ.TTF" size="33024" crc="53a1d679" md5="5da632f5a5bc6a5dd34abccf2f031de0" sha1="844cc1ef367b9e78087d878c9401a5b383d0e03f" />
+		<rom name="vpfonts/DEADJIM.TTF" size="8076" crc="fd131073" md5="349d1e95b71926e25463ff87985cf79a" sha1="0fb49970295b4ac642701908c80d9dba75afbaca" />
+		<rom name="vpfonts/Denslow.ttf" size="67704" crc="64316158" md5="029a136250017faa86634bbd18a43054" sha1="cf358218e55dcfb46bb3a53970995ef465740a81" />
+		<rom name="vpfonts/desdemon.TTF" size="54476" crc="69fc47f0" md5="7f91c468c9207bd7714bd29f46d9e28b" sha1="e8809e182499c8d49772c68f95247f3e8d54c8ae" />
+		<rom name="vpfonts/DIENASTY.TTF" size="39532" crc="abc01ab1" md5="5ea29d471972e56ec7b73b390f3af7f0" sha1="4545647247007fa9935947b21bb49397fdd1ecc8" />
+		<rom name="vpfonts/DIGIFACE.TTF" size="34860" crc="7bbef353" md5="5a680984516580719b624ddeb84de5f4" sha1="02d184d8a6db1e0ac6a77273090d14a097aa012f" />
+		<rom name="vpfonts/Digir___.ttf" size="37736" crc="7cd2c10e" md5="1c8da74ab3536f3974b2c1f58e1be9af" sha1="dd58a9176b945cd8bb3f27b9e092e50d8a1f0383" />
+		<rom name="vpfonts/Digireu_.TTF" size="31136" crc="b4aefc58" md5="4e827477bed45d7f8c9299008153bb11" sha1="7746fcecdfaadf8518fee4dfb8c460d387b4723b" />
+		<rom name="vpfonts/Digirtu_.ttf" size="27492" crc="56545158" md5="aa6d6a4705c8670a71ae21ec08744af5" sha1="08f84389d8f6c59682afd0393449a3fca995b4f2" />
+		<rom name="vpfonts/DIGIRU__.TTF" size="31376" crc="35f17b31" md5="a7e5c807368c4358797ff7d684d3a265" sha1="a508d43667048b31cc438c0569ce087523e9918f" />
+		<rom name="vpfonts/DISTGORG.TTF" size="31848" crc="66182eb6" md5="052829b30de3f1e117dcec88483bed89" sha1="156618482ea618c6cee2b90633424b3cec3afcbb" />
+		<rom name="vpfonts/DMDFONT.FON" size="5952" crc="970a8af1" md5="90ba389c54bf86f5652bda070d8379e2" sha1="c8c23d7695e3f379863c7630ed5a92c41379bb4c" />
+		<rom name="vpfonts/doom.ttf" size="29368" crc="44088fbc" md5="d398da6faddf8911ef608f1e8ee6ed37" sha1="b51b465ea398a52f096faa980b6306f7c434d5ca" />
+		<rom name="vpfonts/dotcom.TTF" size="17224" crc="27dcb551" md5="2ab0496111566dfc84ba8675767d4c96" sha1="deb56ae4e9d36103b9c36148e32563fde79bfdfd" />
+		<rom name="vpfonts/DOTMAT.TTF" size="30212" crc="bcabdddf" md5="e780dc7bf8f4afff3f867b1640daeebb" sha1="0897c516850a1fbeb74b24b5683eb591f7fb9eda" />
+		<rom name="vpfonts/dungeon.ttf" size="67904" crc="0118d622" md5="2153e089fa4643da0f31b5c1f8cdc5a8" sha1="cab59d237e6da2ef70960925f8daa0835eabe529" />
+		<rom name="vpfonts/EARTH.TTF" size="22776" crc="b27518dd" md5="d06dcb01659a62736a37c145b59b5197" sha1="b1b201771f092781f685cabd2d55b65b1fb68097" />
+		<rom name="vpfonts/Eclipse.ttf" size="15816" crc="3da584b9" md5="ffc2af5a25f0eace10db51617f2e3f09" sha1="8d69baad9acc311ff97f3dec0fd6f74f5549e3ad" />
+		<rom name="vpfonts/EDUNDOT.TTF" size="84628" crc="2167df41" md5="e068d61714569f160ad99f0461c0ad7b" sha1="c7ca77fd5e453100c0940c42d4b15e7895e2118b" />
+		<rom name="vpfonts/EMBOSST1.TTF" size="44780" crc="512103aa" md5="8c0c9d0380da3c0e6adf633abc776ddf" sha1="016c90f74dccdf8a4648ff2b781f1ee03025f037" />
+		<rom name="vpfonts/Eras000.ttf" size="32580" crc="2ecbbb53" md5="ee84c1ff63e990ec2f5399a52618a09f" sha1="26fd69d155e133fb70fb12a948a2aca0dfd1cdf0" />
+		<rom name="vpfonts/EXCEL.TTF" size="11436" crc="459a4f80" md5="69ac5637946128584b6dbcccd629f525" sha1="0f06c1ab35b92ecbb8df3975687ec4cdeba84360" />
+		<rom name="vpfonts/F1.FON" size="28896" crc="2454d50c" md5="5ff960f00f6df3d4dba35893eef7721a" sha1="d3e7d0e3e2de7585029fae63cfd3a2004582ae77" />
+		<rom name="vpfonts/Fadeb___.ttf" size="53876" crc="e056e6aa" md5="2d98e6a056c8e85151ddea9ec443a76f" sha1="b62c07dd89c8eda79ff93cc834093de74a3da9f9" />
+		<rom name="vpfonts/fcbswfte.ttf" size="33908" crc="8ad2e2e1" md5="14b06966f20d547f4d09e0540ddc5bab" sha1="d6462d53e0b2a34eac7563f1d6d9bbcd5945d566" />
+		<rom name="vpfonts/Figaro.ttf" size="37888" crc="26290578" md5="14ea7d043ed2e5fc530d2ca73fd56f5a" sha1="92ef6fd134602d7a1c35dd896274f6486c85de18" />
+		<rom name="vpfonts/FinalNew.ttf" size="19812" crc="07879de9" md5="e51fb96ce7dced66c4c8ee5048316f7a" sha1="86fe891b82a490b91da23148043a8777866bb50f" />
+		<rom name="vpfonts/FMOF.TTF" size="53640" crc="c2ce5a82" md5="a8d6f0e45109837ba0b840849fa159a0" sha1="e84785c806cd5b8c6d876ecf23e5162b64403e0b" />
+		<rom name="vpfonts/FONTS___.TTF" size="43156" crc="fb7a253c" md5="e6d009ab2ea3b918df8787768b96293a" sha1="1a06e69889c164de71675ddede2a7442a1328fa2" />
+		<rom name="vpfonts/FONTT___.TTF" size="62452" crc="3a68a8e6" md5="aefdb81c3eafbb34a3b291227b408cd2" sha1="be3cec97de12c3ca249362c7fb694aaa6142610e" />
+		<rom name="vpfonts/FutabaB1.ttf" size="44808" crc="9d25bc5c" md5="492d79096599acd155ee13bd9857ba47" sha1="8c3965da7d73b6bdfffc1477cdd5cc14ef9bf59d" />
+		<rom name="vpfonts/FUTRFW.TTF" size="39052" crc="4f52572c" md5="0d4430ecda415769e1e7989ab0182344" sha1="22a841cdef347ca654b0621ddaca629cc2a14c9a" />
+		<rom name="vpfonts/futuran.TTF" size="37688" crc="61dbcea5" md5="f9f02ed05aa86534c3842d44cb20d6c4" sha1="1bcd70a20cff464c22ac4c9519fb9f72dd9be22a" />
+		<rom name="vpfonts/GARA.TTF" size="196588" crc="da8a5c69" md5="2bf40ab72ea4897a3fd9b6e48b233a19" sha1="7f9de5f971ba244ba9e8ef2dfe8115081507f294" />
+		<rom name="vpfonts/georgia.ttf" size="142964" crc="2e09794a" md5="f4b306eed95aa7d274840533be635532" sha1="5d69d55862471d18f1c22132a44f05291134cbf4" />
+		<rom name="vpfonts/GLIMSTIC.TTF" size="75592" crc="56de84cb" md5="f76f5039c397f966febd79e32a7cae31" sha1="fe8850137f2021d2b13dff1201571158d0df7090" />
+		<rom name="vpfonts/GoLong.ttf" size="6848" crc="056e4a65" md5="6a11ad5d20dd03075e163af15e6e8286" sha1="e81783fa3539807fea04be004305becdf21f2f71" />
+		<rom name="vpfonts/GOODFISB.TTF" size="51112" crc="b5fdd69d" md5="465e0a597aacbf4aae15a2589fda954f" sha1="862e6694a555f560e969bafc33215d0e07e5abdb" />
+		<rom name="vpfonts/GOODFISH.TTF" size="55856" crc="15fcb648" md5="6c32ea7a7a00811fadbcf82f93f289bc" sha1="d368b4a08cff7a482e841d3cfb49b2659f54c7ad" />
+		<rom name="vpfonts/GOTHIC.TTF" size="61280" crc="f54af41b" md5="8917856b57da55472606a59f43b41588" sha1="035669a8e8a5b486c3300eb9ea7a6672bb7ac331" />
+		<rom name="vpfonts/GOTTLIEB.TTF" size="2508" crc="65115886" md5="62b06e1b2029dabfcbec85a9e312bca5" sha1="76f6eede4bd05a0d2418640e3a6224b6ac1aaab9" />
+		<rom name="vpfonts/goudysto.TTF" size="48356" crc="09484b4c" md5="cb1a9d8c8e33d221e26a0d8247856c5e" sha1="bcb1dade9b17af311bbabe45b56720168bba386c" />
+		<rom name="vpfonts/GSTBINRM.TTF" size="29080" crc="19ab563c" md5="7fd03c34aacbb6dc751dfa07539fd981" sha1="011fccb77f92562f7bf26949f1123fd08b03095a" />
+		<rom name="vpfonts/hallown.TTF" size="57948" crc="8d6a7d06" md5="4f95308a3e3ca267fc5b52cdb201de02" sha1="7cfbd90d1bf63d9baa864b5ec3e313d3bf1e7408" />
+		<rom name="vpfonts/HandelGoth.ttf" size="33536" crc="2005c69d" md5="6e73e2aaa6671253deb7c28bc179d89b" sha1="6d28dda33f42ce9601a990c5cf072e1d690170a1" />
+		<rom name="vpfonts/Happy.ttf" size="28452" crc="44ee9137" md5="cd7b89069ff59db7c9e6ac94114f478f" sha1="cd8628b2ca337d1f8e34c01903fe3c86b25c38fc" />
+		<rom name="vpfonts/HARLOW.TTF" size="71624" crc="0062c60c" md5="32a3fdeb9206c063324bc5bfe41b6832" sha1="667a07b23eda8c3d6fc3ffc1b7082cdfbb4b9407" />
+		<rom name="vpfonts/HARRYP__.TTF" size="27432" crc="dec4d00e" md5="181ef9a7aee45c119e68f294e8426a3a" sha1="ed60497634abc65c23c4a22f83950865893757de" />
+		<rom name="vpfonts/HEMIHEAD.TTF" size="24440" crc="c87c69b8" md5="ed43a6aae7b02c27f4db3a11c6449c94" sha1="bf4b48a0993251bdf290dc2381a847f2f6a55661" />
+		<rom name="vpfonts/Highlander.ttf" size="17828" crc="84ebded6" md5="a0f29ffff1acd895bb8dd7f81d852f36" sha1="86cd2188b1d616c6a063c821d6392cd76d1a117c" />
+		<rom name="vpfonts/HIGHSPEE.TTF" size="66760" crc="5fb98dbd" md5="5f652ebcea0b79b0360e4c64ad5d6c95" sha1="e55bbea4a02920e6d426faf8fb61b4eff2cd3fd2" />
+		<rom name="vpfonts/HONDAN.TTF" size="32608" crc="57f15917" md5="85469fcbe931e8a73501de47576e5ec8" sha1="f70cbbb50bf93e6fbfd6ab01e48f6ae193be6c8a" />
+		<rom name="vpfonts/hotdog.TTF" size="21084" crc="aa9cbbb6" md5="722289c6ef0c75f70a05fd7f514cee6d" sha1="e32f6bd2c64dda829ae1acae44737c78765fa7fa" />
+		<rom name="vpfonts/IMPACT.TTF" size="136048" crc="638a4ccc" md5="55672033552559c3a89d999b5badd8c0" sha1="807b5e24d402fcdac6f9e9d97be071285ad27958" />
+		<rom name="vpfonts/IMPRESS.TTF" size="92392" crc="11cef541" md5="601c2357cd67502c2ed3b0ee2cb959be" sha1="37b719c3844fc541a62ca1cb27a8f0687576d769" />
+		<rom name="vpfonts/Itckrist.ttf" size="54132" crc="43c6891f" md5="5d0684caf9aff9baee3a21c0d05c664d" sha1="61e64c4e8975403f7d4a073dc8ddfb602acab0b5" />
+		<rom name="vpfonts/JOYSTIX.TTF" size="47060" crc="697c3446" md5="45c6126a088ec964c786071280ee67c4" sha1="d2e9bbfe5e51253482acedf06e0d387b755cead3" />
+		<rom name="vpfonts/jpfont.ttf" size="56440" crc="b91e001d" md5="712f3284d2c9800cdcd489e46b98dae4" sha1="c2756c222734e781a6326aae8c85dd1dedf5e9a3" />
+		<rom name="vpfonts/Kitchenpolice.TTF" size="30524" crc="2ea0fae5" md5="ba46b70464b3b247d80fc7f560dc1ab0" sha1="2b708949cb0cbde646d55d603ee417e68b7ffce1" />
+		<rom name="vpfonts/La Bamba LET.ttf" size="39265" crc="e60c6e8e" md5="8666001912c7b3b7ad4d5326ab121b6f" sha1="6e22d73b18e5c4f8b6b651fbff7e8eab14c2f051" />
+		<rom name="vpfonts/LASER4.TTF" size="13856" crc="8e26c202" md5="ae8052a5df63286a7abe53b8d944b080" sha1="bcb1c679b862c62dc436b8e60b6453c906be777c" />
+		<rom name="vpfonts/LCDGRID.TTF" size="29008" crc="7fbdda34" md5="326143c1ef6e7dc2957f4293cc58ac2e" sha1="3ce3b17ddcc07756f851ff08ec9f2c73c8106d81" />
+		<rom name="vpfonts/LED.ttf" size="32368" crc="8bb9cccf" md5="941981e889de59e543f3fa469822a352" sha1="5de776ed3038467bc45ed06040dc30fa9b3b4e8c" />
+		<rom name="vpfonts/LIBEL.TTF" size="53500" crc="700f4a6d" md5="07ac1b4c6f743ac79438d4144ead1f4e" sha1="6f9920523215f816b3460d91e1c0511323503452" />
+		<rom name="vpfonts/LOKICOLA.TTF" size="57104" crc="a1076a7f" md5="2ebdcbc9946219e929e10c06d273a14d" sha1="1c71a2bc3036008775d6173153cff7a71d4bb98f" />
+		<rom name="vpfonts/LSANSUNI.TTF" size="304932" crc="796df05a" md5="26c724b3b181aad246aa1321eaa9ea21" sha1="8aae6e177d3dbf683732d23f8fc2f6383c5c1dae" />
+		<rom name="vpfonts/MATISSE.TTF" size="55240" crc="fad6749a" md5="ecf665ef7aa7551d8e7603ad8d56c26e" sha1="87f8e8e9164e2a16481ef792a1f21bdcbaae857a" />
+		<rom name="vpfonts/Merscrb.ttf" size="36668" crc="67596e13" md5="bb583949722f0d2725083f5ec13ae51a" sha1="a8606dc8ef6240820bed906d605fdd78f5fdd750" />
+		<rom name="vpfonts/metro_b.ttf" size="76420" crc="3f6728e0" md5="3cc0f1b0d99fafed96eba0abda5a2783" sha1="e513e51102ce3e7c5cb6b6ff0e255f6a4bb196e3" />
+		<rom name="vpfonts/MK3.TTF" size="37616" crc="c0e2cfd9" md5="958ed4dd2c165ac7422bb70dc3ab3e71" sha1="abdc3fd4bf4fe28bf45b8081012cd9d8109abc9f" />
+		<rom name="vpfonts/mlsgi.TTF" size="51324" crc="b4497671" md5="7ba38c29d3a2ee5c5494ce85ac34058c" sha1="a4fec9a6137eb59ff7fa51f105a1e9fd5aba8b32" />
+		<rom name="vpfonts/mlsgo.TTF" size="64694" crc="0e5fa439" md5="20f7b9ef4d32ec57186e7a60bf5e5521" sha1="26348bae9d28884846135eb203bc30be119f84ac" />
+		<rom name="vpfonts/mlsjh.TTF" size="48104" crc="ceaaf4ad" md5="3e32df3c7b216ec0524c90592744186b" sha1="dbc56840f62690b7d23e99367b99ab6e4bb8e8fe" />
+		<rom name="vpfonts/MO.TTF" size="69500" crc="0144344d" md5="e127ebd29429bfc7b8fb5cf1b1626f26" sha1="22139d5ea27e5efed4a48e751b6c9482e6a56de2" />
+		<rom name="vpfonts/MORPHEUS.TTF" size="68044" crc="597d6049" md5="f54b3fda53fbffc530a3b9a70d271990" sha1="c874b05abaea08ec4829a08668fc9fc7b892feca" />
+		<rom name="vpfonts/MS Sans Serif.fon" size="64656" crc="32ec85e8" md5="1b42ba7845a2e4aaa7ca60ad2a5d9789" sha1="c278252d15c47c16ee1742095e20610018a2b53b" />
+		<rom name="vpfonts/MTCORSVA.TTF" size="157360" crc="95d57791" md5="b98f57ac686fc135914a844ec0ce8d49" sha1="77ddc3e97898d7363ba296925181ac5430c38cb1" />
+		<rom name="vpfonts/News Gothic BT.TTF" size="37264" crc="0a9a0e84" md5="0eac4a194bd7e73bcb4853577000db71" sha1="b982889bf83308b9b0cd2f575974931e5f2d2e7b" />
+		<rom name="vpfonts/Old Trek.ttf" size="27796" crc="2d5c93a1" md5="49b5a5fa1160b9ed90ad07bb68ed7fad" sha1="91311503e4beb3376e0220af7f113b40a929c0f6" />
+		<rom name="vpfonts/OLDENG.TTF" size="68632" crc="612b0cb8" md5="51e06c6c7b1bc20fe7523eed523117af" sha1="35b6f13163ef452f7d1cc9a96fb0d83ca2a5f4a5" />
+		<rom name="vpfonts/OldTown.TTF" size="20076" crc="bebc01e6" md5="14be17ce1310c0f1929fa72399ecb7c8" sha1="40bac43e5a4946d055f7840103e8102a17706e3a" />
+		<rom name="vpfonts/ORBITBN.TTF" size="49644" crc="0c100899" md5="baf011b3f51317bacdcafb37564db950" sha1="993650346aaa9e42d39fb8a3068376a7c7563f18" />
+		<rom name="vpfonts/Orient.ttf" size="8840" crc="1bc04e28" md5="ca0cb8a525af232eee15f1c5facd4fd1" sha1="0a7970613f23869999b17bc4fd6bb88825e8c0cb" />
+		<rom name="vpfonts/PARISR__.TTF" size="49824" crc="2f732538" md5="f738b413c61a3abf3e560dd531b2afaa" sha1="3cc339c3025ff6c01b2262a7ab12a42a3dd04692" />
+		<rom name="vpfonts/Patriot.ttf" size="45656" crc="d1c25915" md5="907a040185012b3b5477ab63a2d6f628" sha1="81ab001c06f00804f4750ad18477e64d011746ea" />
+		<rom name="vpfonts/personal.ttf" size="26740" crc="2313d2d5" md5="96bad917094b89f2faf714e7b44e383b" sha1="983a452903604d6b42321a8815dd44306a4f23ea" />
+		<rom name="vpfonts/phorfeit.ttf" size="18772" crc="bea426ac" md5="917ae8e3ecb46354a84a2afe75c5c2ee" sha1="5b7313d123c136dbb62ad81ad3147ae00389ac02" />
+		<rom name="vpfonts/Pinball.ttf" size="23548" crc="02e83ad1" md5="a50ceaf415b07a0c9e467b03f2127a82" sha1="a3285aedc5d4d42e7bf6a06713562bc94a165f97" />
+		<rom name="vpfonts/PinballFull.ttf" size="14956" crc="2e57d33e" md5="4c45684d4ce1cbdbfc87bc107dcb1dde" sha1="31b88286de6728e73cc0c94045c61c6f7e24d91f" />
+		<rom name="vpfonts/PLACCOND.TTF" size="35328" crc="799470fc" md5="7b323b28e211471e522afb033f9abe1c" sha1="5aa558d46ae45b7dc5dfef7fcdae86412fb39b21" />
+		<rom name="vpfonts/POMPC.TTF" size="41228" crc="7b10e39d" md5="0fec7b5dab2ce3703fa320b2f78fdabf" sha1="ad125e45bb4fb898767d866728220e560be46d6c" />
+		<rom name="vpfonts/potterfuseletter.TTF" size="27276" crc="8acb89c0" md5="e73f052d6bbc1096460c732f2ed73845" sha1="1fe58acf3ead90431175d7d48caf75fb49df30b3" />
+		<rom name="vpfonts/PumpDemi.ttf" size="31808" crc="8374e456" md5="992862b92aabbb2b28df3298fc106c5f" sha1="0bedcae720339174e887b638a0de2edf3e7bf338" />
+		<rom name="vpfonts/PunchLabel.TTF" size="29868" crc="e53de39a" md5="586299b123b46ba6a27b7c186b9a3399" sha1="a55b154fd1dbddcfd460bc96408ae5e7cc63b2ee" />
+		<rom name="vpfonts/PYXID.TTF" size="58140" crc="1b1582e0" md5="403bd8961bbe03699569784188e81fe4" sha1="a494f9cfafc716d350e5d225460b212017f56848" />
+		<rom name="vpfonts/quartz.TTF" size="57860" crc="2915b2ed" md5="55f96a010646b90457e9bc03d43e2b67" sha1="74d93c590b5de2e4ee03fd3d3cc8ea64439131cc" />
+		<rom name="vpfonts/Radio.ttf" size="14552" crc="0bf7fdc3" md5="a96b9fb39d462fbeb57bbc109033f86e" sha1="6d1975773c0eb63eae099d5a7012ae54ce3dcd6d" />
+		<rom name="vpfonts/ransom.TTF" size="71996" crc="20234f63" md5="e3d314cb0ca9960a6c8ce55da63ed435" sha1="bedf94e8e079e890e7b31cc63112f5ec62410659" />
+		<rom name="vpfonts/Rf7.fon" size="58832" crc="581dd136" md5="c9c4012a4dd1c373f853cabbcdff8c6d" sha1="7c030e403e4c0998593755766696ba92843aa5a1" />
+		<rom name="vpfonts/ROCKFONT.TTF" size="60488" crc="f3d41959" md5="d5c6dabda4fd0c2973e45e30a01fcab0" sha1="657bad9ec0463313389f3851d0b5702fd5b62534" />
+		<rom name="vpfonts/romantic.ttf" size="56236" crc="bd4b2a36" md5="d77e80136373bc1c5b2b68f23d7abb5a" sha1="c6d215eacbb41a4c1ba6ec77abc8048757307580" />
+		<rom name="vpfonts/ROOSTHEA.TTF" size="19416" crc="6da32960" md5="8ffa7dd3afb9767697955a398fc997f0" sha1="0b7cdcb3931190925b7f680fbd9b5fa6265e26e7" />
+		<rom name="vpfonts/sandoval.ttf" size="40712" crc="dab4cede" md5="7ff955de41cdfa448690ed94bcf94d2a" sha1="501f885f9a7fb0104b000dd7f47a12cae9e1bb65" />
+		<rom name="vpfonts/scifie.ttf" size="33356" crc="d9b3cb23" md5="b19cbee800dac7a126da1b16969f0d8f" sha1="85ba9b92185560ce6a0ad66e1e8c85e04bea31fb" />
+		<rom name="vpfonts/scifieo.ttf" size="48928" crc="85e76468" md5="9664773786e1e1592185414f52938140" sha1="641e7c371c451ea9111006f69a6b031fac3d9993" />
+		<rom name="vpfonts/SF CHROM.TTF" size="39252" crc="98415ad1" md5="0d26ded91450fe62cd940525ef0be145" sha1="1e5515e4d3935d43bbb3cbe8a2323eb4ee65875d" />
+		<rom name="vpfonts/SF Comic Script.ttf" size="42888" crc="b70537fb" md5="6051b41cc5c495d20fba952b9799b09e" sha1="e9298aafcb66485eff59c992f6fb37d365d5caea" />
+		<rom name="vpfonts/SFATAR~1.TTF" size="22400" crc="6eb3f4d1" md5="c493fede9be21fb89eb0f9075bc4829c" sha1="cabda089e35db2a1b14a6ecd9f5801ab1fe3b373" />
+		<rom name="vpfonts/Silicon.TTF" size="57292" crc="eb3f67f9" md5="7825b770ca1507a5d34ab7ba9ff97c35" sha1="5627d8d5e6a0c245c93ea341fb6053a0913f2326" />
+		<rom name="vpfonts/smalle.fon" size="26112" crc="b796879f" md5="abc2dda06ac9d95b210a3a805d724391" sha1="f696b1221ce83c5b9a01ffc53a4a07e10fa31226" />
+		<rom name="vpfonts/SNAP.TTF" size="33616" crc="86c3f2d0" md5="d0725db773b460ed3a456370c80f875d" sha1="b19a0377792d280ee39e029110d274902ecf6773" />
+		<rom name="vpfonts/SOUVNRL.TTF" size="54420" crc="abdd6379" md5="11b94b67c7402dceba89abf889c66a7a" sha1="2b91334febf08accb084d88d6a59bdd1921422f1" />
+		<rom name="vpfonts/SPACE AG.TTF" size="26736" crc="ea1d9ed0" md5="ce43c6569134811c6828717671d38916" sha1="e12400246111da1a1b62ad9efdf8846b8e35a910" />
+		<rom name="vpfonts/SQUEALER.TTF" size="9216" crc="945d0401" md5="9e93a5ecbb80e006c91fa76d20dcf8e8" sha1="de07079e3f2088218fec0c7825500972dad56d38" />
+		<rom name="vpfonts/STAC222N.TTF" size="126680" crc="4f51ffd7" md5="596561750fdbadca0e5809256ee03be0" sha1="50db63d55ff40ec9a0b2a409a8948d589ffbdcfd" />
+		<rom name="vpfonts/STAGECOA.TTF" size="36044" crc="e19af1d8" md5="2998838342c43d687b762610a031006e" sha1="5f4ade99f115186085fd1088b1acbd0a38ef34f3" />
+		<rom name="vpfonts/Starjedi.TTF" size="25656" crc="fcaba86d" md5="af7c07faaff0d16720c25db7990579e2" sha1="795839dd1b9630949c56f447529140608bb894b7" />
+		<rom name="vpfonts/stonehen.TTF" size="41116" crc="5c95e648" md5="27b376bde158d71e22b0019a746a8cae" sha1="7d98c811e5a07dcc2af9508ebec017412ed252bf" />
+		<rom name="vpfonts/Sumdumgo.TTF" size="31276" crc="5bf52601" md5="df171e11537d60631ca6de7c2c5c528a" sha1="2a2076137087926856d8311b7288adc54c08de5e" />
+		<rom name="vpfonts/SWATRG__.TTF" size="32164" crc="8177a3b1" md5="94e33f36470650aedcd04eb2f61946aa" sha1="feb08026ae1dd9537866dcb55f0005b9a08b2225" />
+		<rom name="vpfonts/SYMBOL.TTF" size="69464" crc="d54e4e47" md5="52a49b64c8be90d99fbc2ceb3c770648" sha1="89ea47e3c86a2f6728af51770923ff3cd351b19f" />
+		<rom name="vpfonts/TAHOMA.TTF" size="249012" crc="2bfa7b82" md5="07ebf1d971eb077b6749098c702b9fe7" sha1="5108be91dd80d9b42ecf3b9b48587a82c0dbe0f8" />
+		<rom name="vpfonts/TAHOMABD.TTF" size="243684" crc="249edace" md5="f793779a938d146e45851f90db29e3e2" sha1="68d37782a8391dcf62e1301dbd1d1c127615409e" />
+		<rom name="vpfonts/Taito Brasil FIXED.ttf" size="32644" crc="de29be59" md5="873d5368f1794dcf3a8fa3344cb1dd07" sha1="c81d9eee957625fcd02e687473377870ee06a020" />
+		<rom name="vpfonts/TANGLEWO.TTF" size="57040" crc="c9ff1e23" md5="bbb5f0614d73d85cfe8d23f32bc47e56" sha1="19a72937b3b1770e8b77a43326ee5a7d060ce91e" />
+		<rom name="vpfonts/TEKTON.PFB" size="24253" crc="1565b82b" md5="45c01085d83f36a464476f5fc2e65259" sha1="da2c4e68e1fe13301e91dc773d6fad698d563c4d" />
+		<rom name="vpfonts/TEKTON.PFM" size="1754" crc="df6fdc21" md5="4c996428371c808a2f75a860a82f46a7" sha1="fd26f5c1bbae1c3d54610b30bbae2b2c8f070b55" />
+		<rom name="vpfonts/termina2.ttf" size="31984" crc="e6811bd1" md5="c060511a5406475216dc43700e09a066" sha1="00fe31bcf40225aa0df495dfa1c099a032d644f2" />
+		<rom name="vpfonts/THEAA.TTF" size="50120" crc="3fe219e0" md5="7460cb03f778f012bfe9616b6a587575" sha1="d90e2550bf2f9535652897db2cef990ed80cad13" />
+		<rom name="vpfonts/times.ttf" size="349636" crc="7062a65e" md5="29034d5f147b8eb811a8e0a5ccf98bd7" sha1="2251d3ac8a3132db411aa1cb8661bc2a9cd0e946" />
+		<rom name="vpfonts/timesbd.ttf" size="334944" crc="6ffc29d6" md5="c49cfe1c7e6b37dbce154687aec3f35c" sha1="be20d12107bad44f5db954537e1e0b841430fbdf" />
+		<rom name="vpfonts/TO______.TTF" size="57748" crc="583a7e1d" md5="71b3a7dba00a560448999dc9aa8ca00e" sha1="6872d44fbb1617d6098612b1bc469f5fc2acac89" />
+		<rom name="vpfonts/TOT1.FON" size="27360" crc="e5687190" md5="37ca6911eb026d2d9d134d2cf8c51a01" sha1="773ad2c6dffa40293972fce9bc1d62750fc0096c" />
+		<rom name="vpfonts/TRANA___.TTF" size="58232" crc="a65607b4" md5="66dc9095c3f6fb48dbe4874d7304ca47" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6" />
+		<rom name="vpfonts/UNICORN.TTF" size="47868" crc="8fd736c4" md5="d48b68e875e2ac23e7ec58b4b95b6e7a" sha1="37dec9aa577c5ce4ba7e299a7ea7b51276d8fa3a" />
+		<rom name="vpfonts/Vectorb.ttf" size="29784" crc="87806f09" md5="a75df1070f5fc3b905a759bda2303449" sha1="3f6ceba45707361c3c93412ebbef7f75069f38a2" />
+		<rom name="vpfonts/VERDANAZ.TTF" size="153324" crc="de97c0a8" md5="f7310c29df0070530c48a47f2dca9014" sha1="09aff891c626fe7d3b878f40a6376073b90d4fde" />
+		<rom name="vpfonts/Victorian.TTF" size="51446" crc="d1d1737c" md5="dd290d0bc07e711660491fb4713b79c0" sha1="1cbd17bb3d98b6c6839bda631f193d564e4556c0" />
+		<rom name="vpfonts/vikingn.ttf" size="52552" crc="23ddd959" md5="63fcaee854aebdfac2a7feabee0e81f7" sha1="c7bbc9d3596a83b83bba52e051867a4405f26617" />
+		<rom name="vpfonts/VISITOR.TTF" size="12084" crc="4b093090" md5="6f41fbcfef715b703fb03814c3383008" sha1="477181badc1e3aac22a3c2899c18977c2419e42b" />
+		<rom name="vpfonts/Vixarasc.ttf" size="18124" crc="880547fc" md5="55ef1c91fd5be35e66da8e6cad0bdfd3" sha1="4fd5451c4614233d55577586813952f93d7a5275" />
+		<rom name="vpfonts/WESTM.TTF" size="50312" crc="7ab2df32" md5="787588e6c611222861fa21b3ff9c12e4" sha1="8afe1419235c5a35a8c1b7f865e6f22a09929426" />
+		<rom name="vpfonts/williamsfontwide.ttf" size="19304" crc="c3c010f1" md5="b2501f86b4d05becd30952e117c53de5" sha1="3b0458ab8b8679b760b3e177f5ab4ebd98001b2c" />
+		<rom name="vpfonts/WINGDING.TTF" size="81000" crc="0613a062" md5="e991cc888d4fb544fe0a88d065ab6efc" sha1="071b3cfc58598fcf558d2d0b4acecb61f9fd433c" />
+		<rom name="vpfonts/WINGDNG2.TTF" size="59696" crc="1de4aa42" md5="cc20de18a53d14be3a3598f03cec292b" sha1="c9a5e2377430acbb660b10600e1b854615e2bb13" />
+		<rom name="vpfonts/WINGDNG3.TTF" size="29236" crc="950d7130" md5="c749f65c05c531bf369669b6e9f79eac" sha1="6669122f9627a637704cf012a8cc18705d2e0a8a" />
+		<rom name="backglass-terminator.jpg" size="252145" crc="52744182" md5="1a1bb879340e3330df80514bf9307684" sha1="a35eb367b35c2f5545b3045dfb2bc44bd38207fa" />
+		<rom name="INSTRUCTION.txt" size="248" crc="4883c100" md5="b423652621829bafbb95185151834595" sha1="87346147c851ccc77e06d96f12e2d908121f9b7e" />
+		<rom name="TERMINATOR.png" size="1711261" crc="25bf6f38" md5="d75e587b87b6ec812c047b33cdf38cb2" sha1="1345a9bde2c4407c98f82c1124b2f6e51f279a20" />
+		<rom name="TERMINATOR.vpt" size="32182272" crc="739efd9b" md5="06027013d9bcda91935680eabaf25288" sha1="4fd75660742bd33d1e70981680e07d869fe52c66" />
+	</machine>
+	<machine name="Terminator, The (Matthew Marino, John Krukowski)(1.01)[VP911]">
+		<description>Terminator, The (Matthew Marino, John Krukowski)(1.01)[VP911]</description>
+		<rom name="1.0/The Terminator VP9.vpt" size="27074560" crc="103a30ec" md5="0033c5b8357b99ad0bdd94123a16571b" sha1="9399a079f4da89c4f9712eeb7002626288a5cacf" />
+		<rom name="1.0/The Terminator.jpg" size="330376" crc="90a2196b" md5="1d82ebf1e3dfda0ea906a30c9d1f6faf" sha1="7fe049fa888e8dcd56438bffc31d0f947f9ab28b" />
+		<rom name="1.01/Terminator, The screenshot.jpg" size="687423" crc="26133539" md5="3009f947c84c2c23175b11cbbdc32027" sha1="a8c8be09ad0e550ab942d62006d068a662d50dcc" />
+		<rom name="1.01/The Terminator VP9 v101.vpt" size="27078656" crc="44010588" md5="16603e518bab783a7337880b7ac32bb6" sha1="4497fd3801a5890adc25a3f7f216ddf610753acd" />
+		<rom name="FONT/digiread.ttf" size="31144" crc="651591e7" md5="2f2b9f073de482ec7d55728981b5ee66" sha1="106908d15d70e7f32489d627dbc0da5386da8aa5" />
+		<rom name="MUSIC/TerminatorFactoryFight.mp3" size="1120549" crc="1076435e" md5="71ded39c96301dddb1cec7ad0d5a3356" sha1="931e197e8cac3de72bb4b97030483e42e6f9ed27" />
+		<rom name="MUSIC/TerminatorGameOver.mp3" size="1308212" crc="45728d19" md5="e4e8758a2315e0b517da671f83a85c9c" sha1="119d747b7b5ab55e41104aa77d17eee293bc7974" />
+		<rom name="MUSIC/TerminatorTrack1.mp3" size="541675" crc="9be9b80c" md5="7b3aa8e82f0ee1fcd2ae15d2b3f2885f" sha1="ee56eac838a39bdd0742085dbcaee4e23542dff2" />
+		<rom name="MUSIC/TerminatorTrack2.mp3" size="2827494" crc="583e4bf2" md5="55f0e7315ea7f0353c0167db627d7d03" sha1="9c7476991f4c750cff1845c9e556e016e802bc08" />
+		<rom name="MUSIC/TerminatorTrack3.mp3" size="1207902" crc="9cef4cec" md5="2a0f89a1a219a7b34b764fbfc58ace5e" sha1="e748620570ef1e6abfe2c7728f3490d0a449e052" />
+		<rom name="MUSIC/TerminatorTrack4.mp3" size="1797642" crc="d3b1ccdc" md5="d7e476d87b641a47eabae748ef5dbe31" sha1="4e4cf44534cdbeaff5c8d431e03aa4b7f64343c7" />
+		<rom name="MUSIC/TerminatorTrack5.mp3" size="1653029" crc="310da9ac" md5="bfde022ffde1191f400b57b5156da883" sha1="613b3a98fe72532d929ec75ad223f75671af74bf" />
+		<rom name="MUSIC/TerminatorTrack6.mp3" size="1231726" crc="159ae42e" md5="72f5e55333c6edd5dcdb07f7c9042dd5" sha1="9813c3bf943bd8adcfba6ef72be3b561e86e01d1" />
+		<rom name="MUSIC/TerminatorTrack7.mp3" size="2753515" crc="e92266cb" md5="d4df968faa3daea6c3d60625cfdedc43" sha1="54eede08015c40eb9e65bc42c6592401b590e134" />
+		<rom name="MUSIC/TerminatorTrack8.mp3" size="1849469" crc="7e986ed3" md5="1ad122ffb0ca206dca2615effa6ecc23" sha1="ffb1d03c7f13a0893eb6ffbffc1bd62fc320280c" />
+		<rom name="MUSIC/TerminatorTrack9.mp3" size="580608" crc="d254a475" md5="1b003105f5f14a5c84afd9eedd5216d9" sha1="7ea5e22cab01af96b178b3b188a9eccdc9a75b31" />
+		<rom name="MUSIC/TerminatorTruck.mp3" size="502073" crc="da450b93" md5="6a8226595d689081f2256da78430790a" sha1="07c3ecb736527f840b0b8f38791a206c11c0fedf" />
+		<rom name="Installation Instructions.txt" size="381" crc="d5745f49" md5="2391f44a00e9c6fe92921953e75ef58a" sha1="2bb3cb76459c796071b57e6ea7c8023c2e86c9dc" />
+		<rom name="Rules.pdf" size="119669" crc="65cc2e6d" md5="7b609309a5a0af07ebaba19f28a0d18c" sha1="dc6d19bae2265a6206d94d6ce7a2e1ba2486210b" />
+	</machine>
+	<machine name="Van Halen Pinball (eyes0fblue)(1.02)[VP91x][Destruk VP Music Template MOD]">
+		<description>Van Halen Pinball (eyes0fblue)(1.02)[VP91x][Destruk VP Music Template MOD]</description>
+		<rom name="Sounds/VH -  Ice Cream Man.mp3" size="3199749" crc="53c438c1" md5="ed53e4020e58c5cbd38b36956809c927" sha1="6e3b0706295356dd128b5601ead4d0d4fa016a6b" />
+		<rom name="Sounds/VH - (Oh) Pretty Woman.mp3" size="2803742" crc="5ca40e8e" md5="9907d7102d35f226389fa7c714e707e7" sha1="a46ce51f5800799c7dd2857f4e3dc1da329232db" />
+		<rom name="Sounds/VH - Beautiful Girls.mp3" size="3789289" crc="63805d75" md5="166973d430f6b907424ec7e514235a71" sha1="7731aecf5275af5d23eea61359d63fd7d0fd66f4" />
+		<rom name="Sounds/VH - Cabo Wabo.mp3" size="6784603" crc="d39be94b" md5="2afb6ebd2277d298ec14686e6e37b8b3" sha1="cc7a026c8452b38b6979257156e1dff636180a21" />
+		<rom name="Sounds/VH - Dance the Night Away.mp3" size="3035502" crc="5ed2eb8e" md5="9c8384b6ff31a4278d69ec3d84573ca3" sha1="fc82d19ec1f346bc9367d331e92bd12dc867eb90" />
+		<rom name="Sounds/VH - Dancing In The Street.mp3" size="3603142" crc="2beffcb9" md5="9c14a149efa574b0ab38ef4dfb47cc04" sha1="fe81fb7090f51621a4d67379ea7eef467f859444" />
+		<rom name="Sounds/VH - Dreams.mp3" size="4706133" crc="1be42e2e" md5="b8eb5437e7896e03ad838bfb0079e667" sha1="bc4176cc1a53c55aee9057aea537a4fec6946112" />
+		<rom name="Sounds/VH - Everybody Wants Some!!.mp3" size="4941694" crc="592ae90e" md5="75dfee2e68c235d65584620f1a391856" sha1="c8ec0f73e51aa536755f51da2563b11f2469f47d" />
+		<rom name="Sounds/VH - Finish What Ya Started.mp3" size="4240903" crc="c1d7abc0" md5="fb01ded2e8d7a1a3ca4d140857f2aea3" sha1="2a77e1e725c722c86ecae3736b7fad50a15e5973" />
+		<rom name="Sounds/VH - Hot for Teacher.mp3" size="4556926" crc="cc8654cb" md5="165b19a9335e989f898e39651e4f9d7c" sha1="f76ec1c7c70da976f24604fe49d0a434f47e2e0d" />
+		<rom name="Sounds/VH - Jamie's Cryin'.mp3" size="3369875" crc="60577132" md5="8b9757030563ffd019af6ee088129988" sha1="f17de2aaec8fc7a49c659974d821a944b3dd6330" />
+		<rom name="Sounds/VH - Jump.mp3" size="3898218" crc="94a90ba4" md5="f55510a9ba4cf79719a24e739a82987e" sha1="66d3525a59a450323533115b295314f98955c52e" />
+		<rom name="Sounds/VH - Panama.mp3" size="3376617" crc="06c3b1c4" md5="accb4518a059aaf63a86cc8864fe52ac" sha1="989e7fff55c189849e96858730cdb6e1355cf2c6" />
+		<rom name="Sounds/VH - Poundcake.mp3" size="5137210" crc="ba604da6" md5="a8e8b3c01fb8acbf58c86a70788fac7d" sha1="7cb1ee7fc32678cbd069aee3c148c1719af3473d" />
+		<rom name="Sounds/VH - Right Now.mp3" size="5145572" crc="536e4dfc" md5="0e8eccd9541fbd0bbe2cf73ccb4c8c20" sha1="cf96a5743a3bd85d55c9edf660a02c8621334170" />
+		<rom name="Sounds/VH - Runnin' With The Devil.mp3" size="3472898" crc="ede42bed" md5="31f549919305531da0c4c7921418c3b0" sha1="f4aa343cc68228a50c8da3b33c0bd48bedb78cdc" />
+		<rom name="Sounds/VH - When It's Love.mp3" size="5437939" crc="3ec67636" md5="8204f2c03ec6eb1284dc8a0c65270ce9" sha1="37d0632455406be2bf73c53bbf009029632c8ac6" />
+		<rom name="Sounds/VH - You Really Got Me.mp3" size="2527889" crc="ff338350" md5="92e0253d34e6743c8d556154d73b7c8c" sha1="19db38a1fb4bc4b40acd5bb6d6af93e70077eb31" />
+		<rom name="Van Halen 1.02.vpt" size="18300928" crc="a1921768" md5="5426c9ddf5013ceabee72a3bd5c52d71" sha1="5e2efef58230839a10dbbe84c67f8091d81531d0" />
+		<rom name="Van Halen Flyer.jpg" size="288552" crc="53eabbfd" md5="39561d2846e1cfae32b2c8a3c83ae72d" sha1="e527fda2187973f85c3c03cd453ae9a7c873b700" />
+		<rom name="van-halen102.jpg" size="317083" crc="37ad15df" md5="e5356457d86e662fe63c85e65bb9662d" sha1="da6c6210c6d389c5a649e4ed3f9e849c57c2f032" />
+	</machine>
+	<machine name="VP Music Template (Destruk, Black, JPSalas, Shooby Doo)(1.02)[VP912]">
+		<description>VP Music Template (Destruk, Black, JPSalas, Shooby Doo)(1.02)[VP912]</description>
+		<rom name="Game Flyer.jpg" size="1275828" crc="aa867d5e" md5="9343b8d73200dbe7577ff00d03f34180" sha1="2b4bb3255c23b817fa034ff6af2cee7e9097eabf" />
+		<rom name="Modding.txt" size="7242" crc="14b50d74" md5="42a884966df076de62a1db87d64e0c2c" sha1="b54ba1ac163b9bdcb19c808117695532fcd41857" />
+		<rom name="Music Table Rules.txt" size="15529" crc="8faae3f7" md5="aa387c36dff7bdecd40a4b43c777795f" sha1="b9641ad97a7ecb22ca70b570e18d62371de7d391" />
+		<rom name="Screenshot 4-3.jpg" size="1543564" crc="b02c82df" md5="ee6175d241e4bd126bfe8e33e4756526" sha1="d578fd127f5d015c58a018aa1f9898bd1b955a0f" />
+		<rom name="screenshot.jpg" size="1543564" crc="b02c82df" md5="ee6175d241e4bd126bfe8e33e4756526" sha1="d578fd127f5d015c58a018aa1f9898bd1b955a0f" />
+		<rom name="VP Music Template.vpt" size="20643840" crc="78282c8c" md5="6d54cfc57f0d901cb3a257c0f798bf63" sha1="dd80a09424373edfadfaa73f87359c879edddda1" />
+	</machine>
+	<machine name="Wall-E (Faralos)(1.01)(2011)[VP912]">
+		<description>Wall-E (Faralos)(1.01)(2011)[VP912]</description>
+		<rom name="screenshot.jpg" size="761954" crc="324542af" md5="9d425c1c09a1ee79d43b654a6ad73f02" sha1="dd0e1759448b27e88cfb38776bac1961a583e177" />
+		<rom name="Wall-E v1 2011.vpt" size="94105600" crc="bfac229f" md5="b51fc75a43b16a173f3589d91893f448" sha1="f22ae96af64015a77fd623ae931bde56f3dc8dd0" />
+		<rom name="Wall-E v101 2011.vpt" size="94105600" crc="e31578e6" md5="a4fe5c85e1f8d2e89507998de17f2916" sha1="cf9f04a2b0a97892e57b2d0b88464a387c604870" />
+	</machine>
+	<machine name="Wheel of Fortune (Multiball Edition) (Michael Youngblood)(1.0)[VP912]">
+		<description>Wheel of Fortune (Multiball Edition) (Michael Youngblood)(1.0)[VP912]</description>
+		<rom name="Music/CBS Television.mp3" size="142459" crc="12a85b20" md5="af7d33e4ffdfeb07cdcb0fa714aabbf6" sha1="3341b11af297ae73ecffefea260cd669f26e478f" />
+		<rom name="Music/Sony Pictures Television.mp3" size="144749" crc="2c76db3f" md5="2e3879c65aea63a1d9ba1f4164f8e52e" sha1="286b262bfa65628bdca7a2e2f67457173bfe75c8" />
+		<rom name="Music/Wheel of Fortune 1983.mp3" size="2723776" crc="d97b66f6" md5="ab14552596cf7ece9ac6bb826754fd7a" sha1="706862490baffd73eeebca8fc77341bc50adae5f" />
+		<rom name="Music/Wheel of Fortune - Happy Wheels.mp3" size="3376066" crc="0917b7f2" md5="5b6d5933959409d0153ade34e0be6527" sha1="a206b875f202ec91b3cd301b1321924e9d19047c" />
+		<rom name="Music/Wheel of Fortune Bonus.mp3" size="536113" crc="1ddd2e36" md5="0e6865360f9f67f1151c65c19d00ff07" sha1="3aed9149e317da56839d34a496c8fae25f2cf6f0" />
+		<rom name="Music/Wheel of Fortune Closing 2.mp3" size="1003387" crc="4f4d68e0" md5="153609bfd09e5736b5a2fcebd70e4dd2" sha1="4f7a001e67c4e457d407758e3f1eaa7967227d40" />
+		<rom name="Music/Wheel of Fortune Closing.mp3" size="3376454" crc="1d1a6a1a" md5="672edb3c7320187c839fa27fa39c9eda" sha1="d00192827357894102137125268d7a0c608d9337" />
+		<rom name="Music/Wheel of Fortune Multiball.mp3" size="2017394" crc="b3a4bb3e" md5="17b5b8f235cb0d47cd23d76c9470e72b" sha1="29b5b7a7307eaa7864d4dd6ca406471f2386efc8" />
+		<rom name="Music/Wheel of Fortune Opening.mp3" size="1164053" crc="2503c3af" md5="5c9988b15f33ed1619497a1b99ddd61a" sha1="a7de8f2b5926313f8e4f9e92703850a0b0694c93" />
+		<rom name="SF Fortune Wheel v1.0/Readme.txt" size="2615" crc="5ba8998a" md5="2f0f165ede5bd0bd7c99d79632d9d181" sha1="246b4671d1fcaa2ff532881f69ab6c37da6418e1" />
+		<rom name="SF Fortune Wheel v1.0/SF Fortune Wheel Bold Italic.ttf" size="18156" crc="aabc6f8a" md5="090edffa651cdb4505520c6176c963b4" sha1="b16cf1c897d44c8168a9a6a487b7b2e98922a2ab" />
+		<rom name="SF Fortune Wheel v1.0/SF Fortune Wheel Bold.ttf" size="17548" crc="9affc58c" md5="77f4bf0324c00ae48984338ffbcd5592" sha1="29e554e567147ecd3434e04686e8d60697a2bc7b" />
+		<rom name="SF Fortune Wheel v1.0/SF Fortune Wheel Condensed Italic.ttf" size="19204" crc="596070ef" md5="6cc05511de490e1e7f3f92c77b090aba" sha1="0a2550e76eea52215a5f07c87f26173a8e3f9442" />
+		<rom name="SF Fortune Wheel v1.0/SF Fortune Wheel Condensed.ttf" size="18048" crc="53bdc3d7" md5="8bf521a1c2b1141d99913c40b4c89412" sha1="7329108352cdc11153fba97b8f81b4b41bde5ab2" />
+		<rom name="SF Fortune Wheel v1.0/SF Fortune Wheel Extended Italic.ttf" size="18312" crc="c1ec45cd" md5="a1999f2f162b1dd1b275a62540689f34" sha1="65245350a3c5e564e1f86f242d09b93c83b88616" />
+		<rom name="SF Fortune Wheel v1.0/SF Fortune Wheel Extended.ttf" size="17988" crc="2a1c912c" md5="6ee83d3c3aec127e14022aa70739e257" sha1="973079598b22fd2d914f9bfe40e0b589a795962b" />
+		<rom name="SF Fortune Wheel v1.0/SF Fortune Wheel Italic.ttf" size="18276" crc="89e1e818" md5="dee972691adfb3ffa4efb9712ae0ed6a" sha1="404ab42a353d0ee857a99b8d0b3f573fcdffeb3c" />
+		<rom name="SF Fortune Wheel v1.0/SF Fortune Wheel Sample.jpg" size="15612" crc="a703bfe3" md5="84ee96cd8b145d465085a5241267d1ba" sha1="46f6a9d300862783d245bec661e34709f7bed84d" />
+		<rom name="SF Fortune Wheel v1.0/SF Fortune Wheel.ttf" size="17704" crc="27fa4e62" md5="65a61ccc7da06fb2a5ab3e40a42e80c2" sha1="318771a099d4c0efec6f74f2dc59c0ea18ff9e89" />
+		<rom name="Chesterfield Regular.TTF" size="44484" crc="e4efe73b" md5="dbb6fa03542efa6c684559538cafec37" sha1="7fb537f43b4bf1c190bff073405f8e003c653c3e" />
+		<rom name="SFWheel and Chesterfield Fonts.txt" size="309" crc="2b8c0941" md5="51bd7168529984ef7713217c8bafc8d8" sha1="8fb101885f66ef9e5637e57756801231e322b67e" />
+		<rom name="Wheel of Fortune, Multiball Edition.jpg" size="704795" crc="5c4d7848" md5="f39c6f3d1e3d2a02229c0c73ba51970a" sha1="ffacb5b695bebea19d3ad339883e40fa61566f9f" />
+		<rom name="Wheel of Fortune, Multiball Edition.vpt" size="35643392" crc="2246d6f3" md5="ffcff76a7377a691c25219d3b94206bb" sha1="39b9e3e3b2883fbf142c1c80a2fef9fbbef75fc3" />
+		<rom name="Wheel of Fortune.txt" size="596" crc="24123b2d" md5="1d9153a579b3faca717afcc050bc9f16" sha1="c6673ed81f7697bebbe3eba57fea2b291d39b0e9" />
+	</machine>
+	<machine name="Wrath of Olympus (JPSalas, T-800)(1.0)[VP912]">
+		<description>Wrath of Olympus (JPSalas, T-800)(1.0)[VP912]</description>
+		<rom name="Wrath of Olympus (JPSalas, T-800)(1.0)[VP912].vpt" size="41205760" crc="a8aa414b" md5="46d055085ae2ea52a6a5f7e8ebf33a5d" sha1="9ad12a73997fd1fd53a939bd23061e05ce26c98c" />
+		<rom name="Wrath of Olympus ruleset v1.0.pdf" size="660710" crc="33f8c20c" md5="a1cfe22f9d421fec4080055735707025" sha1="1a82bb4a02495086d3d48aa33ebb27c64ab2d76a" />
+		<rom name="Wrath of Olympus screenshot.jpg" size="332890" crc="5bbcfe29" md5="d13f14c2490f99d3da894a406ddb987b" sha1="0e26ce87a6ef0f67351c32e43f1cd4f9687fb648" />
+	</machine>
+	<machine name="Yellow Submarine (IAmThanos)(1.0)[VP915]">
+		<description>Yellow Submarine (IAmThanos)(1.0)[VP915]</description>
+		<rom name="Yellow Submarine (IAmThanos)(1.0)[VP915].vpt" size="25366528" crc="7b4a343b" md5="e00103c782b127dcb9540b887f7ef296" sha1="3734247a30dfbd1ae9970386f5f2870771854864" />
+		<rom name="Yellow Submarine screenshot.png" size="930733" crc="f666961b" md5="a5ca8c8493d66b6a736ee1e7dd5b0767" sha1="1d4ffde507f1e4c8dc851d68cbf5e743daacfb44" />
+	</machine>
+</datafile>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP91x] Recreated Tables [MODs, HACKs]</name>
+		<description>Visual Pinball [VP91x] Recreated Tables [MODs, HACKs] (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="100 Yards, The (EM Marchant)(1952)(Patrick, tiltjlp)(1.0)[VP912][MOD Gfx Romolo]">
+		<description>100 Yards, The (EM Marchant)(1952)(Patrick, tiltjlp)(1.0)[VP912][MOD Gfx Romolo]</description>
+		<rom name="The 100 yards (E. M. Marchant 1952)_MOD.vpt" size="1957888" crc="4278a719" md5="2b937848ab2aedb93345414ba86b50aa" sha1="5775090a8c0ad0caa84906ce7633b11f23df063f" />
+		<rom name="The 100 yards _MOD_SS.jpg" size="129784" crc="319ac3ad" md5="381fb51eb6b62802767f65ca32efbe3f" sha1="8aac89955e33e81bd486226a41cbe1817bd44c8a" />
+	</machine>
+	<machine name="Ace High (Gottlieb)(1957)(Furio, Shadowclassics, Baloo42)(1.3)[VP915][Realism Series]">
+		<description>Ace High (Gottlieb)(1957)(Furio, Shadowclassics, Baloo42)(1.3)[VP915][Realism Series]</description>
+		<rom name="Ace High (Gottlieb 1957) VP9_v1.3.vpt" size="15204352" crc="bf2e94dd" md5="1dbbe39fa9df69fd712be2f1771be078" sha1="33188f1bc399b009572c0382048eb1828666265b" />
+		<rom name="screenshot.jpg" size="770071" crc="ec46d36f" md5="dc30ea800b898ebf74483a332282cafb" sha1="42d1a73a67d2d5a678c1fe435b2840de82fa4189" />
+	</machine>
+	<machine name="Bo Bo (Williams)(1961)(Duglis)[VP912][MOD gfx Romolo]">
+		<description>Bo Bo (Williams)(1961)(Duglis)[VP912][MOD gfx Romolo]</description>
+		<rom name="Bo Bo (Williams 1961)SS.jpg" size="183679" crc="1da3bcae" md5="4f24aff02c0d798fbff896e17de6968f" sha1="a5b12f4943e15804f26f58bd3e717a342e759ef3" />
+		<rom name="Bo Bo (Williams 1961)Vp912MOD.vpt" size="5615616" crc="60ca6706" md5="c3b7e8c5d36697d12407e75eaa792c62" sha1="bc0b52f354d6548f22d1a04ec76928360f7f4128" />
+	</machine>
+	<machine name="Lady Luck (Recel)(1976)(Herweh, Lucasbuck)[VP916][FS Herweh, Lucasbuck][MOD DT v1.3 Batch]">
+		<description>Lady Luck (Recel)(1976)(Herweh, Lucasbuck)[VP916][FS Herweh, Lucasbuck][MOD DT v1.3 Batch]</description>
+		<rom name="Lady Luck Lucasbuck Herweh DT Batch_MOD 1.3.vpt" size="29958144" crc="a8fc519c" md5="b8de2a4599aa203cdc5754de0ffeb872" sha1="cf2d764f47f0a8bdcd86a965e94cb7620b9d1729" />
+		<rom name="lady-luck-lucasbuck-herweh-dt-batch_mod-13.jpg" size="986241" crc="de234290" md5="50e239b9ffef49ee0681eb9630cb72db" sha1="a170b738017873219ab20f00362c3e8c8e50e55f" />
+	</machine>
+	<machine name="Nags (Williams)(1960)(Duglis, Romolo)(1.0 MOD)[VP912]">
+		<description>Nags (Williams)(1960)(Duglis, Romolo)(1.0 MOD)[VP912]</description>
+		<rom name="NAGS (Williams)(1960)(Duglis, Romolo)(1.0 MOD)[VP912].vpt" size="12500992" crc="c8eb981a" md5="13cd73f65e61680098d44194ae8fa7a0" sha1="675d2ce0a1e8c9e9faa46ac78ca3a128cfdf5ec7" />
+		<rom name="NAGS Notes.txt" size="228" crc="9e4c2b38" md5="623dac1afe12ce4d31c5bfe5aead4a1e" sha1="3bbfa817e63c302895bc9b5d72126481979cc7e4" />
+		<rom name="NAGS screenshot.jpg" size="375652" crc="e6503ab0" md5="0dccbf61f0986b8464cd723bcb1dfe77" sha1="abd6936fda68bf6dff09b39c2dc06e64bfbabde2" />
+	</machine>
+</datafile>

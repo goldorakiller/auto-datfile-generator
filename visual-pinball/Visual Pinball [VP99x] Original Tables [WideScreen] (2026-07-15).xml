@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP99x] Original Tables [WideScreen]</name>
+		<description>Visual Pinball [VP99x] Original Tables [WideScreen] (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="Pinball Universe (Rosve)(1.1)(2014)[VP990][WideScreen Rosve]">
+		<description>Pinball Universe (Rosve)(1.1)(2014)[VP990][WideScreen Rosve]</description>
+		<rom name="Pinball Universe (Rosve) (2014) (WS) 1.1 vp990.png" size="1034635" crc="6bf27850" md5="db56fd9bd3714c46c287644cad25fc2e" sha1="98ed55dbdc18ae175f7a871e9fd96e3eb3f2c81c" />
+		<rom name="Pinball Universe (Rosve) (2014) (WS) (1.0).vpt" size="61710336" crc="53da605c" md5="d45986aec86d1de2aa04ee7e4e3cecbb" sha1="f441fa9bfece60f54523c19deb69debdb5427308" />
+		<rom name="Pinball Universe (Rosve) (2014) (WS) (1.1).vpt" size="61710336" crc="b39f4a91" md5="5662d95de279505fae889634f557ca38" sha1="6a3fa34583227c132bf636ff852f1ea959f74127" />
+	</machine>
+	<machine name="Terminator, The (Matthew Marino, John Krukowski)(1.0.5)[VP991][WideScreen]">
+		<description>Terminator, The (Matthew Marino, John Krukowski)(1.0.5)[VP991][WideScreen]</description>
+		<rom name="1.04/The Terminator WS.vpt" size="28196864" crc="85a9da80" md5="d52052ce4ffa8414ce8bd4813f675215" sha1="44051c8e4f085096ca90a052946417db42218252" />
+		<rom name="1.05/The Terminator WS.vpt" size="28196864" crc="6c78fe2e" md5="08c0f3e0c860648580e2247c6d299239" sha1="84cc42e6a8d8f49b61a11a682c80968187639238" />
+		<rom name="FONT/digiread.ttf" size="31144" crc="651591e7" md5="2f2b9f073de482ec7d55728981b5ee66" sha1="106908d15d70e7f32489d627dbc0da5386da8aa5" />
+		<rom name="MUSIC/TerminatorFactoryFight.mp3" size="1120549" crc="1076435e" md5="71ded39c96301dddb1cec7ad0d5a3356" sha1="931e197e8cac3de72bb4b97030483e42e6f9ed27" />
+		<rom name="MUSIC/TerminatorGameOver.mp3" size="1308212" crc="45728d19" md5="e4e8758a2315e0b517da671f83a85c9c" sha1="119d747b7b5ab55e41104aa77d17eee293bc7974" />
+		<rom name="MUSIC/TerminatorTrack1.mp3" size="541675" crc="9be9b80c" md5="7b3aa8e82f0ee1fcd2ae15d2b3f2885f" sha1="ee56eac838a39bdd0742085dbcaee4e23542dff2" />
+		<rom name="MUSIC/TerminatorTrack2.mp3" size="2827494" crc="583e4bf2" md5="55f0e7315ea7f0353c0167db627d7d03" sha1="9c7476991f4c750cff1845c9e556e016e802bc08" />
+		<rom name="MUSIC/TerminatorTrack3.mp3" size="1207902" crc="9cef4cec" md5="2a0f89a1a219a7b34b764fbfc58ace5e" sha1="e748620570ef1e6abfe2c7728f3490d0a449e052" />
+		<rom name="MUSIC/TerminatorTrack4.mp3" size="1797642" crc="d3b1ccdc" md5="d7e476d87b641a47eabae748ef5dbe31" sha1="4e4cf44534cdbeaff5c8d431e03aa4b7f64343c7" />
+		<rom name="MUSIC/TerminatorTrack5.mp3" size="1653029" crc="310da9ac" md5="bfde022ffde1191f400b57b5156da883" sha1="613b3a98fe72532d929ec75ad223f75671af74bf" />
+		<rom name="MUSIC/TerminatorTrack6.mp3" size="1231726" crc="159ae42e" md5="72f5e55333c6edd5dcdb07f7c9042dd5" sha1="9813c3bf943bd8adcfba6ef72be3b561e86e01d1" />
+		<rom name="MUSIC/TerminatorTrack7.mp3" size="2753515" crc="e92266cb" md5="d4df968faa3daea6c3d60625cfdedc43" sha1="54eede08015c40eb9e65bc42c6592401b590e134" />
+		<rom name="MUSIC/TerminatorTrack8.mp3" size="1849469" crc="7e986ed3" md5="1ad122ffb0ca206dca2615effa6ecc23" sha1="ffb1d03c7f13a0893eb6ffbffc1bd62fc320280c" />
+		<rom name="MUSIC/TerminatorTrack9.mp3" size="580608" crc="d254a475" md5="1b003105f5f14a5c84afd9eedd5216d9" sha1="7ea5e22cab01af96b178b3b188a9eccdc9a75b31" />
+		<rom name="MUSIC/TerminatorTruck.mp3" size="502073" crc="da450b93" md5="6a8226595d689081f2256da78430790a" sha1="07c3ecb736527f840b0b8f38791a206c11c0fedf" />
+		<rom name="Installation Instructions.txt" size="381" crc="d5745f49" md5="2391f44a00e9c6fe92921953e75ef58a" sha1="2bb3cb76459c796071b57e6ea7c8023c2e86c9dc" />
+		<rom name="Rules.pdf" size="119669" crc="65cc2e6d" md5="7b609309a5a0af07ebaba19f28a0d18c" sha1="dc6d19bae2265a6206d94d6ce7a2e1ba2486210b" />
+		<rom name="screenshot.jpg" size="1049758" crc="826c19b2" md5="afe5cfb7832ed193ca922aef791a7908" sha1="6076fc5e2818a728f96df83132e296eb5e29228e" />
+	</machine>
+	<machine name="TMNT (StevOz)(1.02)[VP991][WideScreen SteveOz]">
+		<description>TMNT (StevOz)(1.02)[VP991][WideScreen SteveOz]</description>
+		<rom name="TMNT (StevOz)(1.01)[VP990][WideScreen StevOz].vpt" size="24825856" crc="f3f23b77" md5="ae79ee5e791dcd540fd8f81ed769bdee" sha1="7fb49b3138d98eb8a642fab23302cde4e14f6c5d" />
+		<rom name="TMNT (StevOz)(1.02)[VP991][WideScreen StevOz].vpt" size="25206784" crc="ccdcff5e" md5="b3a69305af5b13a88b055374d909d7dd" sha1="84e86016d911069d1669e9eea2131d9e3cb6bb4e" />
+		<rom name="TMNT screenshot.jpg" size="495259" crc="4c6274fa" md5="ff1937330070cf5ca98686f7a51e482c" sha1="c487b70fa16e48bb69862d1b1a4d4b088c29a65d" />
+		<rom name="TNMTCowabunga.mp3" size="1821998" crc="f3e371f5" md5="35832b12214c375c665b507dda2d2cab" sha1="13b12551766874a1f27de3066e189ec954219a0c" />
+	</machine>
+</datafile>

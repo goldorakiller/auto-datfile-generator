@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VPX0-VPX06] Original Tables [WideScreen]</name>
+		<description>Visual Pinball [VPX0-VPX06] Original Tables [WideScreen] (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="Atari Centipede Pinball (Mitchell (aka Dunard Garaus))(1.2.7)[VPX06][Widescreen 16.9]">
+		<description>Atari Centipede Pinball (Mitchell (aka Dunard Garaus))(1.2.7)[VPX06][Widescreen 16.9]</description>
+		<rom name="Atari Centipede Pinball Info's.png" size="19352" crc="c712bcf2" md5="43c566b0125c9c3d6a9d86e7b40a08b0" sha1="42e3f26ea329ef829b658567244967caa55348d6" />
+		<rom name="Atari Centipede Pinball v1.2.7 (Widescreen 16.9).vpt" size="4218880" crc="f7fe59ac" md5="39105e877a463d2331d44326e19b6639" sha1="e238628e6d624a633ef14413b61a85e2e1d437e1" />
+		<rom name="screenshot--24-.png" size="1059016" crc="20290d99" md5="023690cd7139d627416cc70468159629" sha1="cc81eb394073fa8b7969c5425ae77a6e25019b99" />
+	</machine>
+	<machine name="Galaga (OctoChris)(1.5)[VPX06][Widescreen]">
+		<description>Galaga (OctoChris)(1.5)[VPX06][Widescreen]</description>
+		<rom name="assets/Mothership_Background_Image.png" size="198" crc="24cd39aa" md5="cef31cf2b71b1c686e3d3d9acf7fe539" sha1="264a7d3eb6621f626d3804e2a3c54674f6584b3a" />
+		<rom name="assets/Mothership_Defeated_Frame_1.png" size="198" crc="07b7e0ef" md5="e3fde60d63f259cdb5979edcd5c8f185" sha1="8036cf53a00553a6196ccf6b54133449ab54605d" />
+		<rom name="assets/Mothership_Defeated_Frame_2.png" size="164" crc="6ea45b5f" md5="e32a01cf58edbaab2aa167df03e2326b" sha1="b5398b69284ac095859637de97cca11da51e0048" />
+		<rom name="assets/OctoChris_DMD_Logo.png" size="3856" crc="04d6687c" md5="bd12a40a8196f36adb2d01b9cb4db5be" sha1="94606e77e841d4d23382d5125b458767027dfa55" />
+		<rom name="game_widescreen.vpx" size="26562560" crc="e6a0c7b6" md5="6d2aa8ad1a9ff4b010f052513d1bcb97" sha1="b2fd663f53c2e9c95c3079a151a58e23cb100d73" />
+	</machine>
+</datafile>

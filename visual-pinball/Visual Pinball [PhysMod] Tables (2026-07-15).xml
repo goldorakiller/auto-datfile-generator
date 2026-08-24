@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [PhysMod] Tables</name>
+		<description>Visual Pinball [PhysMod] Tables (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="Avengers, The (Stern)(2012)(Marmon)(1.0)[PhysMOD2]">
+		<description>Avengers, The (Stern)(2012)(Marmon)(1.0)[PhysMOD2]</description>
+		<rom name="Avengers (Physmod2) screenshot.png" size="2054067" crc="dbabb0ec" md5="17698b3600cdf889dc28b75b1a15dd47" sha1="c5db6b253e3efbf49025460017d22067d329c5f3" />
+		<rom name="avengers_pro_physmod.vpt" size="44646400" crc="cc4fd6db" md5="864bb0f3c2993295cbc01e6ba5be8cdc" sha1="48db5ee07a5f0b3127ba0bdf41da0f1ba1ee1b91" />
+		<rom name="changes.txt" size="1234" crc="ceacce82" md5="bcdf0a1f0e543a9c38c0a3c64b644e85" sha1="313fb12b08fed25ea5e81d4c25edbcbb7d8cfb5e" />
+		<rom name="VPinball2.exe" size="1814016" crc="07ab6d1f" md5="066feed6bee69beb8f6529366d97bd47" sha1="88aef778669f634d27deb6481e92f592a7b62f9e" />
+	</machine>
+</datafile>

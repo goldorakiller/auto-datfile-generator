@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP6] Original Tables [Flipperless]</name>
+		<description>Visual Pinball [VP6] Original Tables [Flipperless] (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="Continental (hung)(1.0)[VP6]">
+		<description>Continental (hung)(1.0)[VP6]</description>
+		<rom name="Bingo2.vpt" size="4322816" crc="ae3b0ec2" md5="4bab49ace612f537f365e3fce049a7d0" sha1="3a20bdff50f20660ed611c419a101725ad2e5143" />
+		<rom name="Continental_Instructions_ver_0.7.03.txt" size="4012" crc="328e0d16" md5="40e7e5c3757321b06fe106a20b839f1b" sha1="9a8a1cecd6a13fa6beb32407e0280a4340d693d8" />
+	</machine>
+</datafile>

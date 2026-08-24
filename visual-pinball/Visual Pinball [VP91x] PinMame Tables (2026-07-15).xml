@@ -1,0 +1,1398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP91x] PinMame Tables</name>
+		<description>Visual Pinball [VP91x] PinMame Tables (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="250 cc (Inder)(1992)(JPSalas)(1.1)[VP91x]">
+		<description>250 cc (Inder)(1992)(JPSalas)(1.1)[VP91x]</description>
+		<rom name="250 cc screenshot.jpg" size="554562" crc="bafeacd7" md5="d6c03b763b2ddd56ddc8677a441c3272" sha1="6cfee76f56bddb4d04df7f179e86226f0101ffc5" />
+		<rom name="250cc_VP91x_1.1.vpt" size="8716288" crc="c7fc147a" md5="791de1653b1a56cb9bb465f3277d9bd7" sha1="3c74004515fe04cf12536d57bda49c7999adf908" />
+	</machine>
+	<machine name="AC-DC (Francesco Pinball)(1.0)[VP912]">
+		<description>AC-DC (Francesco Pinball)(1.0)[VP912]</description>
+		<rom name="vpfonts/8-PM____.TTF" size="134000" crc="d4ecdb83" md5="3f75821653e1a8efb00810891edd9739" sha1="e0188d8becc068c8f9ee3d76a42da878c9f5560c" />
+		<rom name="vpfonts/AARDC___.TTF" size="48916" crc="0dfe2e9e" md5="c40732de3192e0f633ce2f007f4a9349" sha1="722a2639a085832592e33b716630135ac62f60e9" />
+		<rom name="vpfonts/Abduction.ttf" size="45092" crc="85939e39" md5="e13dd9a1550dcce637f754344d1c8611" sha1="b5b84c1a67058524126db723f999a4646864066d" />
+		<rom name="vpfonts/african.TTF" size="47596" crc="97a10b6c" md5="a19c1325b7b93513f1665d1f9ee8bc48" sha1="725a39f334fec0f4f175572e3635fa62196519a8" />
+		<rom name="vpfonts/AGENCY.TTF" size="57280" crc="a3d97cd8" md5="f9b9a4fce362a3a9111c138859ccb422" sha1="f78d52507605ef41d7778299cf57019c2018a674" />
+		<rom name="vpfonts/AGENCYB.TTF" size="59012" crc="ef78e62f" md5="f0d9cc320ea56aec6a4d5e2651115af0" sha1="ba572d9230f002f82c4154c3d8029015ef84f8b5" />
+		<rom name="vpfonts/alger.TTF" size="69504" crc="42bdc576" md5="2766d060d5ae2a1c102065956618af36" sha1="0f297993751d7709e60a9de21445a0b12030cdba" />
+		<rom name="vpfonts/ALIEESB_.TTF" size="17920" crc="baa3cc94" md5="3667c3af7fa1a4248bb5a9e44c153091" sha1="c131c67eee052c6ef93e0d6e425a5c652e2562d3" />
+		<rom name="vpfonts/ALIEN5.TTF" size="23692" crc="e98e7615" md5="6423b3fed5cd4cb1066078ff08be5002" sha1="04d0ebc5ef8ac2b83991963134f84b193df6d011" />
+		<rom name="vpfonts/AMERUNCN.TTF" size="51160" crc="a0220635" md5="a3834d3cc8e7b63c74c97609e2babb4d" sha1="717018adbee3bd4df802c8bff77d3b1bf5fa2274" />
+		<rom name="vpfonts/AMPH.TTF" size="43044" crc="bf3aa4c1" md5="0af35a7f2800a425af4ca1fd0f9bde23" sha1="221e04d207f36789b788598d93a4ca19c6527211" />
+		<rom name="vpfonts/AMUSAF__.TTF" size="22464" crc="60e47cb3" md5="f85352bcd62c022e35ff21e232111ee3" sha1="77305c113ab57b08dcde0c16963115b0b17f4b4d" />
+		<rom name="vpfonts/ANASTAS.TTF" size="34724" crc="24d8338c" md5="b86006d7843ee0e0f354c03497a65215" sha1="9adf0c4c88e4cb816f99579bbb7a7e745fae690d" />
+		<rom name="vpfonts/andyb.TTF" size="63396" crc="223ee157" md5="775c3814e9c1f228d495333e07580d59" sha1="b6a2486f54c72520a0a9f92e25db1f59853badf8" />
+		<rom name="vpfonts/annifont.ttf" size="37552" crc="97cd3db4" md5="2c64bb417056f321f9d7e61190e703aa" sha1="b8c3aa7ce4fd927626cb8aa2fa4c985bbef81604" />
+		<rom name="vpfonts/Another_.ttf" size="60536" crc="4e3f2290" md5="d7f3e56f3255cae11eeb2951357e2844" sha1="966fd7b0c89916ff682e16d343cf7f7c18aa1fee" />
+		<rom name="vpfonts/ARGENTUM.TTF" size="17620" crc="2a36d8e5" md5="66b131047274b4644829866f1b057a9a" sha1="15bc7d038ea75546d29596e72b3d2ffd389b67a5" />
+		<rom name="vpfonts/arial.ttf" size="311636" crc="7c959725" md5="6e7385fb7d6ceddf07b5a41e0bc2712d" sha1="49f0ee6148e6b674a60450d86faaddbb97d798f3" />
+		<rom name="vpfonts/Arialn.ttf" size="123976" crc="1166b365" md5="f0a7ff15e2b7456fb1b2565755e20ae2" sha1="d9fdae64204fe10917aff30aa1244ad521a2ab91" />
+		<rom name="vpfonts/ariblk.ttf" size="262176" crc="041709b9" md5="faae65b2a502111c22f8e48013008840" sha1="9f39ba1ddb6c05eaef227b31d1699e1200ea6712" />
+		<rom name="vpfonts/ASTUTE.TTF" size="35216" crc="4f6f94e2" md5="c45e46d602c767d53446a32051781229" sha1="ea0a1b07b65f180c2d476222ff03c423a647a781" />
+		<rom name="vpfonts/Atari raster.ttf" size="45644" crc="9a0cc2ac" md5="f29e77f43f9f0724d5faac08f7a1bbcb" sha1="a086711e7d014159a5caabcbeffbb4fbae22148a" />
+		<rom name="vpfonts/aucoin eb.ttf" size="67464" crc="409369dd" md5="caa90b465607a4d1e3fabcc2ecf5ef8d" sha1="506db779e6f97e3105757fe785524fc2addbb660" />
+		<rom name="vpfonts/augsburg.TTF" size="65208" crc="28c4366f" md5="e7fc42f49a5249beab44c9fe8735b476" sha1="2519a906ec5f1ff9aec9c7696e0a10dddc0764e7" />
+		<rom name="vpfonts/avante.TTF" size="22668" crc="4d7fd42b" md5="a88e25fe8402ef8b0a2f6a92eea38922" sha1="ae7d342c2472cb74d903c55301be872b69b950ae" />
+		<rom name="vpfonts/BALLSONT.TTF" size="101072" crc="4e33b384" md5="cf09c98cfea69fc76842ec3efefc48bc" sha1="817746994f3500c2d6f3801d8117f70f9043dbf9" />
+		<rom name="vpfonts/Banff.ttf" size="38252" crc="3cab846b" md5="126522f663cf8db80950447f8ef3b5cd" sha1="f84be8652faacb7622a6cea2d9242e52e2752b53" />
+		<rom name="vpfonts/BANGN___.TTF" size="60220" crc="baf533a6" md5="9f587d4beb89caf30e73a02316fffaf2" sha1="d3fff69986db95780f8f5abbae5a98b86953e72a" />
+		<rom name="vpfonts/BARBW___.TTF" size="118916" crc="7b3404dd" md5="04c9f19f359de5a8f8f5745947fd0ae7" sha1="dfaa540ba255ec76aed83067ae298d24539eaa36" />
+		<rom name="vpfonts/BATTLEST.TTF" size="28856" crc="f8aaf212" md5="8ff7a9ff59065ffbb2560e098047e805" sha1="97157579755a4b6486d12b0b643a59525bb2a936" />
+		<rom name="vpfonts/BENGUIAB.TTF" size="49004" crc="1155d844" md5="4870bf90f6f563bc6dfb837b51ef801b" sha1="af05ac4eb35d3a856f42e575923c6f2e4100d407" />
+		<rom name="vpfonts/BIMINI__.TTF" size="40484" crc="b34189b0" md5="66ba22f8801ef7bd70f847e8a384a7d0" sha1="c7dcd88c080b01cdc3c1eed417a2ee3a1e084b76" />
+		<rom name="vpfonts/BINNERN.TTF" size="53492" crc="e92f6e48" md5="678fdb7097fa2a8eac8dc3ab58aa8906" sha1="170924c5d2f000ef7b58dfa54c24cd5d4a928eaa" />
+		<rom name="vpfonts/Biometri.ttf" size="97216" crc="74fb601a" md5="eba37e256da1a3f7d2dad16a08f3bbfe" sha1="7e6ab125e0ae7d4c82be4ff8fb3dcc6543b39b5f" />
+		<rom name="vpfonts/Blkchcry.ttf" size="56732" crc="42c627ed" md5="753833d2833e9f73b56cffae357cf95f" sha1="893a162d547fb7be51604699642d3f9bd9af6857" />
+		<rom name="vpfonts/bloodcyr.ttf" size="120184" crc="5e88e259" md5="55b9d867bab0be9213426fa479a94b1b" sha1="75a5b37604c1769deaf240cef7d73e84c13025cf" />
+		<rom name="vpfonts/Bloodfea.TTF" size="62168" crc="e1bc5993" md5="f6047d67d59fd392f87838fa7e6507c0" sha1="cfa1988faf454991f0601c88df3346379fac3df7" />
+		<rom name="vpfonts/bloodrac.ttf" size="50120" crc="66893b8e" md5="1e07bf79529fb5078152838ad2c5a565" sha1="fb0f4410696b6a0aa6dd1c75544ccb0861bfcac4" />
+		<rom name="vpfonts/BLOODY.TTF" size="45264" crc="da071b3b" md5="d1a746a818a459b74bed44bb69837495" sha1="38165945befb4bd99a04f9ef841a1dfde99e88ac" />
+		<rom name="vpfonts/BNJdigital.ttf" size="2892" crc="9648b7b9" md5="5a3ec3d3c85f67d7fbf20635e2436d9c" sha1="f1c423264ea6b5bbd2d3b7bc91af4a5c0303deeb" />
+		<rom name="vpfonts/Bones.ttf" size="76360" crc="f1310f81" md5="a7d83a4f1e2e2f99f7ae21f1aec30e58" sha1="de46d4e910cc9e404862ddfec8b0dfb5c9f5376b" />
+		<rom name="vpfonts/BONZAI.TTF" size="23004" crc="8e2745ea" md5="f6fffebac6d2661dc083e4e47d9b4243" sha1="be72d14a4f6f68c6622ea4f5a12a09162b977932" />
+		<rom name="vpfonts/bookosb.ttf" size="143368" crc="ce4356a2" md5="a2ad419cbc4f489bc5caa1ef90e0df53" sha1="4d5babff3e234439665c40f8b707fd52398cb9e7" />
+		<rom name="vpfonts/BRADHITC.TTF" size="105296" crc="66d17504" md5="0252223e8c36008b595f5e379ad5e524" sha1="bc773a38f567c9ecec65485bc588065f2215a386" />
+		<rom name="vpfonts/BRITANIC.TTF" size="35360" crc="b214926b" md5="8be4a2f403c2dc27187d892cca388e24" sha1="7cc410a9333fd41aa97143e16fcc8b701253a604" />
+		<rom name="vpfonts/BROADWAY.TTF" size="71520" crc="e2e03ba1" md5="41aa628f4f2f8e6c9f1e1f239c075b81" sha1="799eba38ac6490eaf1b8a2565f48eaf624e8ea6e" />
+		<rom name="vpfonts/CALIST.TTF" size="70828" crc="fb3f6ca4" md5="2568e173df3a278bff48d9926aa656f6" sha1="86d400039481710a6134ceaba7a3f9e9b44c9f86" />
+		<rom name="vpfonts/CARDS.TTF" size="42064" crc="a3d1cbf2" md5="bcfa084f8632f268e6f54caae6dfbb7f" sha1="0b2d4f93aac3915f357ba4d37f3d8f8476c75f6d" />
+		<rom name="vpfonts/Celticmd.TTF" size="127916" crc="432e0cda" md5="90fd385f9cabf817ed0504aa58d5b9a0" sha1="2a1f598ecf49eb786234cd8f57f9c30f2310a5f1" />
+		<rom name="vpfonts/CHILLER.TTF" size="96452" crc="36e33837" md5="b1b2e2db2eef02d230247a474d1d66a6" sha1="4b53fa1bded6c26212e27041afabf457808ef316" />
+		<rom name="vpfonts/CNTDWNN.TTF" size="64384" crc="14195ec5" md5="102077badcb3d3551f749d257eac746a" sha1="432c5452cc3ef27653329d4136d6b5f9265da9a2" />
+		<rom name="vpfonts/COLLEGE.TTF" size="11336" crc="f56f5de4" md5="f9846a1309de5645385743a1ae8c61ad" sha1="735d351707752bccb18b0500ab8e3404a2383ea1" />
+		<rom name="vpfonts/COLLEGEB.TTF" size="11476" crc="5be53654" md5="4d4fda0c044747ee3871f5842f76e000" sha1="f2bcbd8328968c3cd6ef63361d9fcdde33c25d41" />
+		<rom name="vpfonts/COLLEGES.TTF" size="5960" crc="6a86ffbc" md5="0a667fe3fed65ed5096536abb69a591c" sha1="51a26d90673f4ae0553e51243c0bdf033aa0c39f" />
+		<rom name="vpfonts/COMIC6.TTF" size="11868" crc="c4fb235e" md5="3bbef31d8c5fa5da181a4ae91017a4a9" sha1="3c49651b3a52167b3afd827516a169fc62761e9e" />
+		<rom name="vpfonts/comic.ttf" size="126364" crc="ac81e7e6" md5="a50f9c96a76356e3d01013e0b042989f" sha1="d17fae7a6628e2bc4c31a2074b666a775eed9055" />
+		<rom name="vpfonts/comicbd.ttf" size="111476" crc="8520cb41" md5="81d64ec3675c4adc14e9ad2c5c8103a7" sha1="5518f0bdebe7212d10492ab6f4fff9b0230c3cbe" />
+		<rom name="vpfonts/COMPSTYL.TTF" size="41640" crc="963b556a" md5="64d930983e6ba65cfd2ec099ab7488f6" sha1="f4bbb29956843a0246e1be9bd28e3114fba14076" />
+		<rom name="vpfonts/COMPUTER.TTF" size="39104" crc="a5d24216" md5="e0dacec61ffdd2bee694dc0928642f84" sha1="0bf87958eaa6daf3cf386cec98b09f4d46e8b228" />
+		<rom name="vpfonts/COOLVETI.TTF" size="42204" crc="3f6a49e4" md5="c92a76c78cce1709863e6007a1e6e8e8" sha1="f17ee19d6c4dee1194c25215d3c5f34c8d6524b0" />
+		<rom name="vpfonts/copper.TTF" size="31680" crc="77988818" md5="488a27d167416b90b3defc4ba12e3e16" sha1="6c33cccfe7d283b4b6ef7133b9b89a37d548012e" />
+		<rom name="vpfonts/COPRGTB.TTF" size="61552" crc="b783d93f" md5="c277b2c27239a1c8de888444341d1c62" sha1="1a4a190d2e949d5e16f1349e775fc4764e32e821" />
+		<rom name="vpfonts/COPRGTL.TTF" size="57224" crc="319b4d65" md5="13c596c0b79552874adcc23525de43b4" sha1="aae564f108aeb7410bd3a7551a40d0da9728c465" />
+		<rom name="vpfonts/CORONET.TTF" size="84460" crc="afaa52e7" md5="faa174bfadcc755c9933d1df31d41cfe" sha1="fc662feaf23404483b4f87ce810835f83aaa2450" />
+		<rom name="vpfonts/courbd.ttf" size="312920" crc="8a4c2bab" md5="53540286132e62b055ed9d953c1acc15" sha1="7d50aa03b66b633e3c1f7e08de0f58f6eef6a0f7" />
+		<rom name="vpfonts/CREEPY__.TTF" size="69376" crc="e3bc7e89" md5="0d7ce96ecd8ecc2642e1302f3a63f6b8" sha1="07f3578648f7c84ad3047376ae64a3077bf49920" />
+		<rom name="vpfonts/cry.ttf" size="24132" crc="5fe05ac5" md5="6dc18381d104ac45599a04c4a684b28a" sha1="dd396b21b72519716a58c7d8818bfd1035dd6b97" />
+		<rom name="vpfonts/Cupertnn.TTF" size="43752" crc="d8173fcd" md5="23d3447af31d643392366c18bebf7838" sha1="a99ff0d15e956800d929c5ca918d9df7167ec751" />
+		<rom name="vpfonts/DDDRNDSQ.TTF" size="33024" crc="53a1d679" md5="5da632f5a5bc6a5dd34abccf2f031de0" sha1="844cc1ef367b9e78087d878c9401a5b383d0e03f" />
+		<rom name="vpfonts/DEADJIM.TTF" size="8076" crc="fd131073" md5="349d1e95b71926e25463ff87985cf79a" sha1="0fb49970295b4ac642701908c80d9dba75afbaca" />
+		<rom name="vpfonts/Denslow.ttf" size="67704" crc="64316158" md5="029a136250017faa86634bbd18a43054" sha1="cf358218e55dcfb46bb3a53970995ef465740a81" />
+		<rom name="vpfonts/desdemon.TTF" size="54476" crc="69fc47f0" md5="7f91c468c9207bd7714bd29f46d9e28b" sha1="e8809e182499c8d49772c68f95247f3e8d54c8ae" />
+		<rom name="vpfonts/DIENASTY.TTF" size="39532" crc="abc01ab1" md5="5ea29d471972e56ec7b73b390f3af7f0" sha1="4545647247007fa9935947b21bb49397fdd1ecc8" />
+		<rom name="vpfonts/DIGIFACE.TTF" size="34860" crc="7bbef353" md5="5a680984516580719b624ddeb84de5f4" sha1="02d184d8a6db1e0ac6a77273090d14a097aa012f" />
+		<rom name="vpfonts/Digir___.ttf" size="37736" crc="7cd2c10e" md5="1c8da74ab3536f3974b2c1f58e1be9af" sha1="dd58a9176b945cd8bb3f27b9e092e50d8a1f0383" />
+		<rom name="vpfonts/Digireu_.TTF" size="31136" crc="b4aefc58" md5="4e827477bed45d7f8c9299008153bb11" sha1="7746fcecdfaadf8518fee4dfb8c460d387b4723b" />
+		<rom name="vpfonts/Digirtu_.ttf" size="27492" crc="56545158" md5="aa6d6a4705c8670a71ae21ec08744af5" sha1="08f84389d8f6c59682afd0393449a3fca995b4f2" />
+		<rom name="vpfonts/DIGIRU__.TTF" size="31376" crc="35f17b31" md5="a7e5c807368c4358797ff7d684d3a265" sha1="a508d43667048b31cc438c0569ce087523e9918f" />
+		<rom name="vpfonts/DISTGORG.TTF" size="31848" crc="66182eb6" md5="052829b30de3f1e117dcec88483bed89" sha1="156618482ea618c6cee2b90633424b3cec3afcbb" />
+		<rom name="vpfonts/DMDFONT.FON" size="5952" crc="970a8af1" md5="90ba389c54bf86f5652bda070d8379e2" sha1="c8c23d7695e3f379863c7630ed5a92c41379bb4c" />
+		<rom name="vpfonts/doom.ttf" size="29368" crc="44088fbc" md5="d398da6faddf8911ef608f1e8ee6ed37" sha1="b51b465ea398a52f096faa980b6306f7c434d5ca" />
+		<rom name="vpfonts/dotcom.TTF" size="17224" crc="27dcb551" md5="2ab0496111566dfc84ba8675767d4c96" sha1="deb56ae4e9d36103b9c36148e32563fde79bfdfd" />
+		<rom name="vpfonts/DOTMAT.TTF" size="30212" crc="bcabdddf" md5="e780dc7bf8f4afff3f867b1640daeebb" sha1="0897c516850a1fbeb74b24b5683eb591f7fb9eda" />
+		<rom name="vpfonts/dungeon.ttf" size="67904" crc="0118d622" md5="2153e089fa4643da0f31b5c1f8cdc5a8" sha1="cab59d237e6da2ef70960925f8daa0835eabe529" />
+		<rom name="vpfonts/EARTH.TTF" size="22776" crc="b27518dd" md5="d06dcb01659a62736a37c145b59b5197" sha1="b1b201771f092781f685cabd2d55b65b1fb68097" />
+		<rom name="vpfonts/Eclipse.ttf" size="15816" crc="3da584b9" md5="ffc2af5a25f0eace10db51617f2e3f09" sha1="8d69baad9acc311ff97f3dec0fd6f74f5549e3ad" />
+		<rom name="vpfonts/EDUNDOT.TTF" size="84628" crc="2167df41" md5="e068d61714569f160ad99f0461c0ad7b" sha1="c7ca77fd5e453100c0940c42d4b15e7895e2118b" />
+		<rom name="vpfonts/EMBOSST1.TTF" size="44780" crc="512103aa" md5="8c0c9d0380da3c0e6adf633abc776ddf" sha1="016c90f74dccdf8a4648ff2b781f1ee03025f037" />
+		<rom name="vpfonts/Eras000.ttf" size="32580" crc="2ecbbb53" md5="ee84c1ff63e990ec2f5399a52618a09f" sha1="26fd69d155e133fb70fb12a948a2aca0dfd1cdf0" />
+		<rom name="vpfonts/EXCEL.TTF" size="11436" crc="459a4f80" md5="69ac5637946128584b6dbcccd629f525" sha1="0f06c1ab35b92ecbb8df3975687ec4cdeba84360" />
+		<rom name="vpfonts/F1.FON" size="28896" crc="2454d50c" md5="5ff960f00f6df3d4dba35893eef7721a" sha1="d3e7d0e3e2de7585029fae63cfd3a2004582ae77" />
+		<rom name="vpfonts/Fadeb___.ttf" size="53876" crc="e056e6aa" md5="2d98e6a056c8e85151ddea9ec443a76f" sha1="b62c07dd89c8eda79ff93cc834093de74a3da9f9" />
+		<rom name="vpfonts/fcbswfte.ttf" size="33908" crc="8ad2e2e1" md5="14b06966f20d547f4d09e0540ddc5bab" sha1="d6462d53e0b2a34eac7563f1d6d9bbcd5945d566" />
+		<rom name="vpfonts/Figaro.ttf" size="37888" crc="26290578" md5="14ea7d043ed2e5fc530d2ca73fd56f5a" sha1="92ef6fd134602d7a1c35dd896274f6486c85de18" />
+		<rom name="vpfonts/FinalNew.ttf" size="19812" crc="07879de9" md5="e51fb96ce7dced66c4c8ee5048316f7a" sha1="86fe891b82a490b91da23148043a8777866bb50f" />
+		<rom name="vpfonts/FMOF.TTF" size="53640" crc="c2ce5a82" md5="a8d6f0e45109837ba0b840849fa159a0" sha1="e84785c806cd5b8c6d876ecf23e5162b64403e0b" />
+		<rom name="vpfonts/FONTS___.TTF" size="43156" crc="fb7a253c" md5="e6d009ab2ea3b918df8787768b96293a" sha1="1a06e69889c164de71675ddede2a7442a1328fa2" />
+		<rom name="vpfonts/FONTT___.TTF" size="62452" crc="3a68a8e6" md5="aefdb81c3eafbb34a3b291227b408cd2" sha1="be3cec97de12c3ca249362c7fb694aaa6142610e" />
+		<rom name="vpfonts/FutabaB1.ttf" size="44808" crc="9d25bc5c" md5="492d79096599acd155ee13bd9857ba47" sha1="8c3965da7d73b6bdfffc1477cdd5cc14ef9bf59d" />
+		<rom name="vpfonts/FUTRFW.TTF" size="39052" crc="4f52572c" md5="0d4430ecda415769e1e7989ab0182344" sha1="22a841cdef347ca654b0621ddaca629cc2a14c9a" />
+		<rom name="vpfonts/futuran.TTF" size="37688" crc="61dbcea5" md5="f9f02ed05aa86534c3842d44cb20d6c4" sha1="1bcd70a20cff464c22ac4c9519fb9f72dd9be22a" />
+		<rom name="vpfonts/GARA.TTF" size="196588" crc="da8a5c69" md5="2bf40ab72ea4897a3fd9b6e48b233a19" sha1="7f9de5f971ba244ba9e8ef2dfe8115081507f294" />
+		<rom name="vpfonts/georgia.ttf" size="142964" crc="2e09794a" md5="f4b306eed95aa7d274840533be635532" sha1="5d69d55862471d18f1c22132a44f05291134cbf4" />
+		<rom name="vpfonts/GLIMSTIC.TTF" size="75592" crc="56de84cb" md5="f76f5039c397f966febd79e32a7cae31" sha1="fe8850137f2021d2b13dff1201571158d0df7090" />
+		<rom name="vpfonts/GoLong.ttf" size="6848" crc="056e4a65" md5="6a11ad5d20dd03075e163af15e6e8286" sha1="e81783fa3539807fea04be004305becdf21f2f71" />
+		<rom name="vpfonts/GOODFISB.TTF" size="51112" crc="b5fdd69d" md5="465e0a597aacbf4aae15a2589fda954f" sha1="862e6694a555f560e969bafc33215d0e07e5abdb" />
+		<rom name="vpfonts/GOODFISH.TTF" size="55856" crc="15fcb648" md5="6c32ea7a7a00811fadbcf82f93f289bc" sha1="d368b4a08cff7a482e841d3cfb49b2659f54c7ad" />
+		<rom name="vpfonts/GOTHIC.TTF" size="61280" crc="f54af41b" md5="8917856b57da55472606a59f43b41588" sha1="035669a8e8a5b486c3300eb9ea7a6672bb7ac331" />
+		<rom name="vpfonts/GOTTLIEB.TTF" size="2508" crc="65115886" md5="62b06e1b2029dabfcbec85a9e312bca5" sha1="76f6eede4bd05a0d2418640e3a6224b6ac1aaab9" />
+		<rom name="vpfonts/goudysto.TTF" size="48356" crc="09484b4c" md5="cb1a9d8c8e33d221e26a0d8247856c5e" sha1="bcb1dade9b17af311bbabe45b56720168bba386c" />
+		<rom name="vpfonts/GSTBINRM.TTF" size="29080" crc="19ab563c" md5="7fd03c34aacbb6dc751dfa07539fd981" sha1="011fccb77f92562f7bf26949f1123fd08b03095a" />
+		<rom name="vpfonts/hallown.TTF" size="57948" crc="8d6a7d06" md5="4f95308a3e3ca267fc5b52cdb201de02" sha1="7cfbd90d1bf63d9baa864b5ec3e313d3bf1e7408" />
+		<rom name="vpfonts/HandelGoth.ttf" size="33536" crc="2005c69d" md5="6e73e2aaa6671253deb7c28bc179d89b" sha1="6d28dda33f42ce9601a990c5cf072e1d690170a1" />
+		<rom name="vpfonts/Happy.ttf" size="28452" crc="44ee9137" md5="cd7b89069ff59db7c9e6ac94114f478f" sha1="cd8628b2ca337d1f8e34c01903fe3c86b25c38fc" />
+		<rom name="vpfonts/HARLOW.TTF" size="71624" crc="0062c60c" md5="32a3fdeb9206c063324bc5bfe41b6832" sha1="667a07b23eda8c3d6fc3ffc1b7082cdfbb4b9407" />
+		<rom name="vpfonts/HARRYP__.TTF" size="27432" crc="dec4d00e" md5="181ef9a7aee45c119e68f294e8426a3a" sha1="ed60497634abc65c23c4a22f83950865893757de" />
+		<rom name="vpfonts/HEMIHEAD.TTF" size="24440" crc="c87c69b8" md5="ed43a6aae7b02c27f4db3a11c6449c94" sha1="bf4b48a0993251bdf290dc2381a847f2f6a55661" />
+		<rom name="vpfonts/Highlander.ttf" size="17828" crc="84ebded6" md5="a0f29ffff1acd895bb8dd7f81d852f36" sha1="86cd2188b1d616c6a063c821d6392cd76d1a117c" />
+		<rom name="vpfonts/HIGHSPEE.TTF" size="66760" crc="5fb98dbd" md5="5f652ebcea0b79b0360e4c64ad5d6c95" sha1="e55bbea4a02920e6d426faf8fb61b4eff2cd3fd2" />
+		<rom name="vpfonts/HONDAN.TTF" size="32608" crc="57f15917" md5="85469fcbe931e8a73501de47576e5ec8" sha1="f70cbbb50bf93e6fbfd6ab01e48f6ae193be6c8a" />
+		<rom name="vpfonts/hotdog.TTF" size="21084" crc="aa9cbbb6" md5="722289c6ef0c75f70a05fd7f514cee6d" sha1="e32f6bd2c64dda829ae1acae44737c78765fa7fa" />
+		<rom name="vpfonts/IMPACT.TTF" size="136048" crc="638a4ccc" md5="55672033552559c3a89d999b5badd8c0" sha1="807b5e24d402fcdac6f9e9d97be071285ad27958" />
+		<rom name="vpfonts/IMPRESS.TTF" size="92392" crc="11cef541" md5="601c2357cd67502c2ed3b0ee2cb959be" sha1="37b719c3844fc541a62ca1cb27a8f0687576d769" />
+		<rom name="vpfonts/Itckrist.ttf" size="54132" crc="43c6891f" md5="5d0684caf9aff9baee3a21c0d05c664d" sha1="61e64c4e8975403f7d4a073dc8ddfb602acab0b5" />
+		<rom name="vpfonts/JOYSTIX.TTF" size="47060" crc="697c3446" md5="45c6126a088ec964c786071280ee67c4" sha1="d2e9bbfe5e51253482acedf06e0d387b755cead3" />
+		<rom name="vpfonts/jpfont.ttf" size="56440" crc="b91e001d" md5="712f3284d2c9800cdcd489e46b98dae4" sha1="c2756c222734e781a6326aae8c85dd1dedf5e9a3" />
+		<rom name="vpfonts/Kitchenpolice.TTF" size="30524" crc="2ea0fae5" md5="ba46b70464b3b247d80fc7f560dc1ab0" sha1="2b708949cb0cbde646d55d603ee417e68b7ffce1" />
+		<rom name="vpfonts/La Bamba LET.ttf" size="39265" crc="e60c6e8e" md5="8666001912c7b3b7ad4d5326ab121b6f" sha1="6e22d73b18e5c4f8b6b651fbff7e8eab14c2f051" />
+		<rom name="vpfonts/LASER4.TTF" size="13856" crc="8e26c202" md5="ae8052a5df63286a7abe53b8d944b080" sha1="bcb1c679b862c62dc436b8e60b6453c906be777c" />
+		<rom name="vpfonts/LCDGRID.TTF" size="29008" crc="7fbdda34" md5="326143c1ef6e7dc2957f4293cc58ac2e" sha1="3ce3b17ddcc07756f851ff08ec9f2c73c8106d81" />
+		<rom name="vpfonts/LED.ttf" size="32368" crc="8bb9cccf" md5="941981e889de59e543f3fa469822a352" sha1="5de776ed3038467bc45ed06040dc30fa9b3b4e8c" />
+		<rom name="vpfonts/LIBEL.TTF" size="53500" crc="700f4a6d" md5="07ac1b4c6f743ac79438d4144ead1f4e" sha1="6f9920523215f816b3460d91e1c0511323503452" />
+		<rom name="vpfonts/LOKICOLA.TTF" size="57104" crc="a1076a7f" md5="2ebdcbc9946219e929e10c06d273a14d" sha1="1c71a2bc3036008775d6173153cff7a71d4bb98f" />
+		<rom name="vpfonts/LSANSUNI.TTF" size="304932" crc="796df05a" md5="26c724b3b181aad246aa1321eaa9ea21" sha1="8aae6e177d3dbf683732d23f8fc2f6383c5c1dae" />
+		<rom name="vpfonts/MATISSE.TTF" size="55240" crc="fad6749a" md5="ecf665ef7aa7551d8e7603ad8d56c26e" sha1="87f8e8e9164e2a16481ef792a1f21bdcbaae857a" />
+		<rom name="vpfonts/Merscrb.ttf" size="36668" crc="67596e13" md5="bb583949722f0d2725083f5ec13ae51a" sha1="a8606dc8ef6240820bed906d605fdd78f5fdd750" />
+		<rom name="vpfonts/metro_b.ttf" size="76420" crc="3f6728e0" md5="3cc0f1b0d99fafed96eba0abda5a2783" sha1="e513e51102ce3e7c5cb6b6ff0e255f6a4bb196e3" />
+		<rom name="vpfonts/MK3.TTF" size="37616" crc="c0e2cfd9" md5="958ed4dd2c165ac7422bb70dc3ab3e71" sha1="abdc3fd4bf4fe28bf45b8081012cd9d8109abc9f" />
+		<rom name="vpfonts/mlsgi.TTF" size="51324" crc="b4497671" md5="7ba38c29d3a2ee5c5494ce85ac34058c" sha1="a4fec9a6137eb59ff7fa51f105a1e9fd5aba8b32" />
+		<rom name="vpfonts/mlsgo.TTF" size="64694" crc="0e5fa439" md5="20f7b9ef4d32ec57186e7a60bf5e5521" sha1="26348bae9d28884846135eb203bc30be119f84ac" />
+		<rom name="vpfonts/mlsjh.TTF" size="48104" crc="ceaaf4ad" md5="3e32df3c7b216ec0524c90592744186b" sha1="dbc56840f62690b7d23e99367b99ab6e4bb8e8fe" />
+		<rom name="vpfonts/MO.TTF" size="69500" crc="0144344d" md5="e127ebd29429bfc7b8fb5cf1b1626f26" sha1="22139d5ea27e5efed4a48e751b6c9482e6a56de2" />
+		<rom name="vpfonts/MORPHEUS.TTF" size="68044" crc="597d6049" md5="f54b3fda53fbffc530a3b9a70d271990" sha1="c874b05abaea08ec4829a08668fc9fc7b892feca" />
+		<rom name="vpfonts/MS Sans Serif.fon" size="64656" crc="32ec85e8" md5="1b42ba7845a2e4aaa7ca60ad2a5d9789" sha1="c278252d15c47c16ee1742095e20610018a2b53b" />
+		<rom name="vpfonts/MTCORSVA.TTF" size="157360" crc="95d57791" md5="b98f57ac686fc135914a844ec0ce8d49" sha1="77ddc3e97898d7363ba296925181ac5430c38cb1" />
+		<rom name="vpfonts/News Gothic BT.TTF" size="37264" crc="0a9a0e84" md5="0eac4a194bd7e73bcb4853577000db71" sha1="b982889bf83308b9b0cd2f575974931e5f2d2e7b" />
+		<rom name="vpfonts/Old Trek.ttf" size="27796" crc="2d5c93a1" md5="49b5a5fa1160b9ed90ad07bb68ed7fad" sha1="91311503e4beb3376e0220af7f113b40a929c0f6" />
+		<rom name="vpfonts/OLDENG.TTF" size="68632" crc="612b0cb8" md5="51e06c6c7b1bc20fe7523eed523117af" sha1="35b6f13163ef452f7d1cc9a96fb0d83ca2a5f4a5" />
+		<rom name="vpfonts/OldTown.TTF" size="20076" crc="bebc01e6" md5="14be17ce1310c0f1929fa72399ecb7c8" sha1="40bac43e5a4946d055f7840103e8102a17706e3a" />
+		<rom name="vpfonts/ORBITBN.TTF" size="49644" crc="0c100899" md5="baf011b3f51317bacdcafb37564db950" sha1="993650346aaa9e42d39fb8a3068376a7c7563f18" />
+		<rom name="vpfonts/Orient.ttf" size="8840" crc="1bc04e28" md5="ca0cb8a525af232eee15f1c5facd4fd1" sha1="0a7970613f23869999b17bc4fd6bb88825e8c0cb" />
+		<rom name="vpfonts/PARISR__.TTF" size="49824" crc="2f732538" md5="f738b413c61a3abf3e560dd531b2afaa" sha1="3cc339c3025ff6c01b2262a7ab12a42a3dd04692" />
+		<rom name="vpfonts/Patriot.ttf" size="45656" crc="d1c25915" md5="907a040185012b3b5477ab63a2d6f628" sha1="81ab001c06f00804f4750ad18477e64d011746ea" />
+		<rom name="vpfonts/personal.ttf" size="26740" crc="2313d2d5" md5="96bad917094b89f2faf714e7b44e383b" sha1="983a452903604d6b42321a8815dd44306a4f23ea" />
+		<rom name="vpfonts/phorfeit.ttf" size="18772" crc="bea426ac" md5="917ae8e3ecb46354a84a2afe75c5c2ee" sha1="5b7313d123c136dbb62ad81ad3147ae00389ac02" />
+		<rom name="vpfonts/Pinball.ttf" size="23548" crc="02e83ad1" md5="a50ceaf415b07a0c9e467b03f2127a82" sha1="a3285aedc5d4d42e7bf6a06713562bc94a165f97" />
+		<rom name="vpfonts/PinballFull.ttf" size="14956" crc="2e57d33e" md5="4c45684d4ce1cbdbfc87bc107dcb1dde" sha1="31b88286de6728e73cc0c94045c61c6f7e24d91f" />
+		<rom name="vpfonts/PLACCOND.TTF" size="35328" crc="799470fc" md5="7b323b28e211471e522afb033f9abe1c" sha1="5aa558d46ae45b7dc5dfef7fcdae86412fb39b21" />
+		<rom name="vpfonts/POMPC.TTF" size="41228" crc="7b10e39d" md5="0fec7b5dab2ce3703fa320b2f78fdabf" sha1="ad125e45bb4fb898767d866728220e560be46d6c" />
+		<rom name="vpfonts/potterfuseletter.TTF" size="27276" crc="8acb89c0" md5="e73f052d6bbc1096460c732f2ed73845" sha1="1fe58acf3ead90431175d7d48caf75fb49df30b3" />
+		<rom name="vpfonts/PumpDemi.ttf" size="31808" crc="8374e456" md5="992862b92aabbb2b28df3298fc106c5f" sha1="0bedcae720339174e887b638a0de2edf3e7bf338" />
+		<rom name="vpfonts/PunchLabel.TTF" size="29868" crc="e53de39a" md5="586299b123b46ba6a27b7c186b9a3399" sha1="a55b154fd1dbddcfd460bc96408ae5e7cc63b2ee" />
+		<rom name="vpfonts/PYXID.TTF" size="58140" crc="1b1582e0" md5="403bd8961bbe03699569784188e81fe4" sha1="a494f9cfafc716d350e5d225460b212017f56848" />
+		<rom name="vpfonts/quartz.TTF" size="57860" crc="2915b2ed" md5="55f96a010646b90457e9bc03d43e2b67" sha1="74d93c590b5de2e4ee03fd3d3cc8ea64439131cc" />
+		<rom name="vpfonts/Radio.ttf" size="14552" crc="0bf7fdc3" md5="a96b9fb39d462fbeb57bbc109033f86e" sha1="6d1975773c0eb63eae099d5a7012ae54ce3dcd6d" />
+		<rom name="vpfonts/ransom.TTF" size="71996" crc="20234f63" md5="e3d314cb0ca9960a6c8ce55da63ed435" sha1="bedf94e8e079e890e7b31cc63112f5ec62410659" />
+		<rom name="vpfonts/Rf7.fon" size="58832" crc="581dd136" md5="c9c4012a4dd1c373f853cabbcdff8c6d" sha1="7c030e403e4c0998593755766696ba92843aa5a1" />
+		<rom name="vpfonts/ROCKFONT.TTF" size="60488" crc="f3d41959" md5="d5c6dabda4fd0c2973e45e30a01fcab0" sha1="657bad9ec0463313389f3851d0b5702fd5b62534" />
+		<rom name="vpfonts/romantic.ttf" size="56236" crc="bd4b2a36" md5="d77e80136373bc1c5b2b68f23d7abb5a" sha1="c6d215eacbb41a4c1ba6ec77abc8048757307580" />
+		<rom name="vpfonts/ROOSTHEA.TTF" size="19416" crc="6da32960" md5="8ffa7dd3afb9767697955a398fc997f0" sha1="0b7cdcb3931190925b7f680fbd9b5fa6265e26e7" />
+		<rom name="vpfonts/sandoval.ttf" size="40712" crc="dab4cede" md5="7ff955de41cdfa448690ed94bcf94d2a" sha1="501f885f9a7fb0104b000dd7f47a12cae9e1bb65" />
+		<rom name="vpfonts/scifie.ttf" size="33356" crc="d9b3cb23" md5="b19cbee800dac7a126da1b16969f0d8f" sha1="85ba9b92185560ce6a0ad66e1e8c85e04bea31fb" />
+		<rom name="vpfonts/scifieo.ttf" size="48928" crc="85e76468" md5="9664773786e1e1592185414f52938140" sha1="641e7c371c451ea9111006f69a6b031fac3d9993" />
+		<rom name="vpfonts/SF CHROM.TTF" size="39252" crc="98415ad1" md5="0d26ded91450fe62cd940525ef0be145" sha1="1e5515e4d3935d43bbb3cbe8a2323eb4ee65875d" />
+		<rom name="vpfonts/SF Comic Script.ttf" size="42888" crc="b70537fb" md5="6051b41cc5c495d20fba952b9799b09e" sha1="e9298aafcb66485eff59c992f6fb37d365d5caea" />
+		<rom name="vpfonts/SFATAR~1.TTF" size="22400" crc="6eb3f4d1" md5="c493fede9be21fb89eb0f9075bc4829c" sha1="cabda089e35db2a1b14a6ecd9f5801ab1fe3b373" />
+		<rom name="vpfonts/Silicon.TTF" size="57292" crc="eb3f67f9" md5="7825b770ca1507a5d34ab7ba9ff97c35" sha1="5627d8d5e6a0c245c93ea341fb6053a0913f2326" />
+		<rom name="vpfonts/smalle.fon" size="26112" crc="b796879f" md5="abc2dda06ac9d95b210a3a805d724391" sha1="f696b1221ce83c5b9a01ffc53a4a07e10fa31226" />
+		<rom name="vpfonts/SNAP.TTF" size="33616" crc="86c3f2d0" md5="d0725db773b460ed3a456370c80f875d" sha1="b19a0377792d280ee39e029110d274902ecf6773" />
+		<rom name="vpfonts/SOUVNRL.TTF" size="54420" crc="abdd6379" md5="11b94b67c7402dceba89abf889c66a7a" sha1="2b91334febf08accb084d88d6a59bdd1921422f1" />
+		<rom name="vpfonts/SPACE AG.TTF" size="26736" crc="ea1d9ed0" md5="ce43c6569134811c6828717671d38916" sha1="e12400246111da1a1b62ad9efdf8846b8e35a910" />
+		<rom name="vpfonts/SQUEALER.TTF" size="9216" crc="945d0401" md5="9e93a5ecbb80e006c91fa76d20dcf8e8" sha1="de07079e3f2088218fec0c7825500972dad56d38" />
+		<rom name="vpfonts/STAC222N.TTF" size="126680" crc="4f51ffd7" md5="596561750fdbadca0e5809256ee03be0" sha1="50db63d55ff40ec9a0b2a409a8948d589ffbdcfd" />
+		<rom name="vpfonts/STAGECOA.TTF" size="36044" crc="e19af1d8" md5="2998838342c43d687b762610a031006e" sha1="5f4ade99f115186085fd1088b1acbd0a38ef34f3" />
+		<rom name="vpfonts/Starjedi.TTF" size="25656" crc="fcaba86d" md5="af7c07faaff0d16720c25db7990579e2" sha1="795839dd1b9630949c56f447529140608bb894b7" />
+		<rom name="vpfonts/stonehen.TTF" size="41116" crc="5c95e648" md5="27b376bde158d71e22b0019a746a8cae" sha1="7d98c811e5a07dcc2af9508ebec017412ed252bf" />
+		<rom name="vpfonts/Sumdumgo.TTF" size="31276" crc="5bf52601" md5="df171e11537d60631ca6de7c2c5c528a" sha1="2a2076137087926856d8311b7288adc54c08de5e" />
+		<rom name="vpfonts/SWATRG__.TTF" size="32164" crc="8177a3b1" md5="94e33f36470650aedcd04eb2f61946aa" sha1="feb08026ae1dd9537866dcb55f0005b9a08b2225" />
+		<rom name="vpfonts/SYMBOL.TTF" size="69464" crc="d54e4e47" md5="52a49b64c8be90d99fbc2ceb3c770648" sha1="89ea47e3c86a2f6728af51770923ff3cd351b19f" />
+		<rom name="vpfonts/TAHOMA.TTF" size="249012" crc="2bfa7b82" md5="07ebf1d971eb077b6749098c702b9fe7" sha1="5108be91dd80d9b42ecf3b9b48587a82c0dbe0f8" />
+		<rom name="vpfonts/TAHOMABD.TTF" size="243684" crc="249edace" md5="f793779a938d146e45851f90db29e3e2" sha1="68d37782a8391dcf62e1301dbd1d1c127615409e" />
+		<rom name="vpfonts/Taito Brasil FIXED.ttf" size="32644" crc="de29be59" md5="873d5368f1794dcf3a8fa3344cb1dd07" sha1="c81d9eee957625fcd02e687473377870ee06a020" />
+		<rom name="vpfonts/TANGLEWO.TTF" size="57040" crc="c9ff1e23" md5="bbb5f0614d73d85cfe8d23f32bc47e56" sha1="19a72937b3b1770e8b77a43326ee5a7d060ce91e" />
+		<rom name="vpfonts/TEKTON.PFB" size="24253" crc="1565b82b" md5="45c01085d83f36a464476f5fc2e65259" sha1="da2c4e68e1fe13301e91dc773d6fad698d563c4d" />
+		<rom name="vpfonts/TEKTON.PFM" size="1754" crc="df6fdc21" md5="4c996428371c808a2f75a860a82f46a7" sha1="fd26f5c1bbae1c3d54610b30bbae2b2c8f070b55" />
+		<rom name="vpfonts/termina2.ttf" size="31984" crc="e6811bd1" md5="c060511a5406475216dc43700e09a066" sha1="00fe31bcf40225aa0df495dfa1c099a032d644f2" />
+		<rom name="vpfonts/THEAA.TTF" size="50120" crc="3fe219e0" md5="7460cb03f778f012bfe9616b6a587575" sha1="d90e2550bf2f9535652897db2cef990ed80cad13" />
+		<rom name="vpfonts/times.ttf" size="349636" crc="7062a65e" md5="29034d5f147b8eb811a8e0a5ccf98bd7" sha1="2251d3ac8a3132db411aa1cb8661bc2a9cd0e946" />
+		<rom name="vpfonts/timesbd.ttf" size="334944" crc="6ffc29d6" md5="c49cfe1c7e6b37dbce154687aec3f35c" sha1="be20d12107bad44f5db954537e1e0b841430fbdf" />
+		<rom name="vpfonts/TO______.TTF" size="57748" crc="583a7e1d" md5="71b3a7dba00a560448999dc9aa8ca00e" sha1="6872d44fbb1617d6098612b1bc469f5fc2acac89" />
+		<rom name="vpfonts/TOT1.FON" size="27360" crc="e5687190" md5="37ca6911eb026d2d9d134d2cf8c51a01" sha1="773ad2c6dffa40293972fce9bc1d62750fc0096c" />
+		<rom name="vpfonts/TRANA___.TTF" size="58232" crc="a65607b4" md5="66dc9095c3f6fb48dbe4874d7304ca47" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6" />
+		<rom name="vpfonts/UNICORN.TTF" size="47868" crc="8fd736c4" md5="d48b68e875e2ac23e7ec58b4b95b6e7a" sha1="37dec9aa577c5ce4ba7e299a7ea7b51276d8fa3a" />
+		<rom name="vpfonts/Vectorb.ttf" size="29784" crc="87806f09" md5="a75df1070f5fc3b905a759bda2303449" sha1="3f6ceba45707361c3c93412ebbef7f75069f38a2" />
+		<rom name="vpfonts/VERDANAZ.TTF" size="153324" crc="de97c0a8" md5="f7310c29df0070530c48a47f2dca9014" sha1="09aff891c626fe7d3b878f40a6376073b90d4fde" />
+		<rom name="vpfonts/Victorian.TTF" size="51446" crc="d1d1737c" md5="dd290d0bc07e711660491fb4713b79c0" sha1="1cbd17bb3d98b6c6839bda631f193d564e4556c0" />
+		<rom name="vpfonts/vikingn.ttf" size="52552" crc="23ddd959" md5="63fcaee854aebdfac2a7feabee0e81f7" sha1="c7bbc9d3596a83b83bba52e051867a4405f26617" />
+		<rom name="vpfonts/VISITOR.TTF" size="12084" crc="4b093090" md5="6f41fbcfef715b703fb03814c3383008" sha1="477181badc1e3aac22a3c2899c18977c2419e42b" />
+		<rom name="vpfonts/Vixarasc.ttf" size="18124" crc="880547fc" md5="55ef1c91fd5be35e66da8e6cad0bdfd3" sha1="4fd5451c4614233d55577586813952f93d7a5275" />
+		<rom name="vpfonts/WESTM.TTF" size="50312" crc="7ab2df32" md5="787588e6c611222861fa21b3ff9c12e4" sha1="8afe1419235c5a35a8c1b7f865e6f22a09929426" />
+		<rom name="vpfonts/williamsfontwide.ttf" size="19304" crc="c3c010f1" md5="b2501f86b4d05becd30952e117c53de5" sha1="3b0458ab8b8679b760b3e177f5ab4ebd98001b2c" />
+		<rom name="vpfonts/WINGDING.TTF" size="81000" crc="0613a062" md5="e991cc888d4fb544fe0a88d065ab6efc" sha1="071b3cfc58598fcf558d2d0b4acecb61f9fd433c" />
+		<rom name="vpfonts/WINGDNG2.TTF" size="59696" crc="1de4aa42" md5="cc20de18a53d14be3a3598f03cec292b" sha1="c9a5e2377430acbb660b10600e1b854615e2bb13" />
+		<rom name="vpfonts/WINGDNG3.TTF" size="29236" crc="950d7130" md5="c749f65c05c531bf369669b6e9f79eac" sha1="6669122f9627a637704cf012a8cc18705d2e0a8a" />
+		<rom name="AC-DC.png" size="954616" crc="c1d68fed" md5="e73ba732ff069672ef63ef4cf10d78c1" sha1="a39168776078deaf94daf330d04e357ab245d056" />
+		<rom name="AC-DC.vpt" size="55328768" crc="13bdd4b7" md5="57ff1d16f168807b2e89dbc15a984082" sha1="b5a5cb95be65aa00beb71c8c822882a1ed33a963" />
+		<rom name="Francesco v1.0.jpg" size="234807" crc="6cc9dc3d" md5="758cf0202686d5725a07967032d50870" sha1="c8e51d226da1f46f4b169cffc46dc5a6b455bd55" />
+		<rom name="INSTRUCTION.txt" size="248" crc="4883c100" md5="b423652621829bafbb95185151834595" sha1="87346147c851ccc77e06d96f12e2d908121f9b7e" />
+	</machine>
+	<machine name="Addams Family, The (Bally)(1992)(melon)(2.0)[VP91x]">
+		<description>Addams Family, The (Bally)(1992)(melon)(2.0)[VP91x]</description>
+		<rom name="screenshot.jpg" size="860603" crc="3283c772" md5="585af325129c0236ee3bdd12269988aa" sha1="0b19c2b4149f79a38626eacedc9369ec6b465a4d" />
+		<rom name="TAF VP91X 2.0.vpt" size="19247104" crc="ae4e60b8" md5="7622f86fcc7c4fed61de35d3172ecb41" sha1="41463344990e6a63a9803c16ba0accbb84549d2b" />
+	</machine>
+	<machine name="Adventures of Rocky and Bullwinkle and Friends, The (Data East)(1993)(mfuegemann)(1.0)[VP916]">
+		<description>Adventures of Rocky and Bullwinkle and Friends, The (Data East)(1993)(mfuegemann)(1.0)[VP916]</description>
+		<rom name="Adventures of Rocky and Bullwinkle and Friends, The (Data East)(1993)(mfuegemann)(1.0)[VP916].vpt" size="16818176" crc="6bec2de6" md5="4856cc041d6e23126f426a9b2e94dc2d" sha1="5120bf7a52f1f0905a61ee47b2ad9a05718d4c24" />
+		<rom name="Adventures of Rocky and Bullwinkle and Friends, The screenshot.png" size="1658412" crc="862fc98c" md5="b12f961bf62c617de4b5af996c19a4cb" sha1="dda127fabbc3509bccb77190a9aec52da12652ad" />
+	</machine>
+	<machine name="Airborne (Capcom)(1996)(Bodydump, Jimmyfingers)(1.0)[VP912]">
+		<description>Airborne (Capcom)(1996)(Bodydump, Jimmyfingers)(1.0)[VP912]</description>
+		<rom name="Airborne (Capcom)(1996)(Bodydump Jimmyfingers)(1.0)(DT).vpt" size="32223232" crc="f904c190" md5="97d01aa39e1e285cd577272de827b066" sha1="e07def0de33bfa6969775c68164c826725642109" />
+		<rom name="airborne--capcom-1996-dt.jpg" size="552615" crc="7987692c" md5="60415d752951c33bf128b010b673c411" sha1="a5e5698b56ee0f880537a6f26c555efa0e8c351c" />
+	</machine>
+	<machine name="Ali (Stern)(1980)(JPSalas)(1.3)[VP91x]">
+		<description>Ali (Stern)(1980)(JPSalas)(1.3)[VP91x]</description>
+		<rom name="Ali_VP91x_1.3.vpt" size="9416704" crc="013e71f3" md5="b35b9a02d69da16ec023cd471e3a52ea" sha1="84c8d82ec5aa72a856305a091c601d2285bd8986" />
+		<rom name="screenshot.jpg" size="494510" crc="e68e37e1" md5="c9bfe0229c6ecd5d6c16de36dfa3a7e2" sha1="1ff96df563a479157e7d7cb606fe1ec2d9e86d3d" />
+	</machine>
+	<machine name="Attack from Mars (Bally)(1995)(JPSalas)(2.4.0)[VP914]">
+		<description>Attack from Mars (Bally)(1995)(JPSalas)(2.4.0)[VP914]</description>
+		<rom name="AFM_vp914_v2.4.vpt" size="28663808" crc="720b66cc" md5="225396c57634b8f9371d4770e0ee96b3" sha1="a45e78267c07e3d119d04f6e2a20116260002685" />
+		<rom name="afm_vp914_v24.jpg" size="651371" crc="8154d76b" md5="b5c93fc421c175c8ddc4147b6fb17853" sha1="cb5c0bb67f8c80f78fa1cccb6014b2e975c95a37" />
+	</machine>
+	<machine name="Attack from Mars (Bally)(1995)(JPSalas)(Beta2)[VP916]">
+		<description>Attack from Mars (Bally)(1995)(JPSalas)(Beta2)[VP916]</description>
+		<rom name="afm_vp916_beta2.jpg" size="835733" crc="094dfdba" md5="a9915277924f657b0a3dd6ada6fa3175" sha1="7e9761ad56b0b2900be1fba1777bc5cc1d699aad" />
+		<rom name="AFM_VP916_Beta2.vpt" size="33615872" crc="a578a991" md5="86feb2d9fb49fb5b2ce53ce61805552e" sha1="531de49030c68cd0f542ab3a1a834f21d7769fbf" />
+		<rom name="readme.txt" size="1784" crc="aa180530" md5="c38874689b72f25348b03caddaa2be83" sha1="e1becf9ebb53f1fd6720c223583b8fc6cbbe8062" />
+	</machine>
+	<machine name="Avro Arrow Redux (kruge99)(1.0.1)[VP912][Fly High TAB table]">
+		<description>Avro Arrow Redux (kruge99)(1.0.1)[VP912][Fly High TAB table]</description>
+		<rom name="Avro-Arrow-Redux-VP912-4x3-1.0.1.vpt" size="17674240" crc="fab7c5e5" md5="3fd982393b57538985ad0a8f641d90ad" sha1="4b0a6a124cd6c3c0ab9896feddc86406b4f633dc" />
+		<rom name="screenshot.jpg" size="981823" crc="97f1c9ae" md5="4aaa589e5aaf02733b7722c56ba65f0e" sha1="f87e74ca745bb4479e8496df61210c3098a0ab3e" />
+	</machine>
+	<machine name="Back to the Future (Data East)(1990)(JPSalas, Groni)(1.0)[VP911]">
+		<description>Back to the Future (Data East)(1990)(JPSalas, Groni)(1.0)[VP911]</description>
+		<rom name="Back_to_the_Future_VP911_v1.0.vpt" size="12496896" crc="05bd81a7" md5="4af89729fb00ef9d0fe71498756da1ca" sha1="22341cb84887e171c51453e9e3399927dbf51aa0" />
+		<rom name="screenshot.jpg" size="624435" crc="96d1d735" md5="1fa889616124899b36e54387233e08be" sha1="dba71ab322f020a9e75f4a71dd39fb1ff2aeff25" />
+	</machine>
+	<machine name="Bad Cats (Williams)(1989)(JPSalas)(1.1.3)[VP915]">
+		<description>Bad Cats (Williams)(1989)(JPSalas)(1.1.3)[VP915]</description>
+		<rom name="Bad-Cats_VP915_1.1.3.vpt" size="24227840" crc="3b167a80" md5="007524b2c572a66c207be55fed7286e4" sha1="fcec1029fd4e6bd8ed22cef8bbd4a98ea4ddef6c" />
+		<rom name="bad-cats_vp915_113.jpg" size="800169" crc="73bfefa0" md5="1e18512f1063c03e246a22292ab9fcbe" sha1="77e6f0cbc2ea8be01107b6b9b80e583dc3b743b6" />
+	</machine>
+	<machine name="Bally Game Show, The (Bally)(1990)(JPSalas)(1.02)[VP911]">
+		<description>Bally Game Show, The (Bally)(1990)(JPSalas)(1.02)[VP911]</description>
+		<rom name="screenshot.jpg" size="662705" crc="73b5e637" md5="866e3d20ce59da71840e708fc2ed04d2" sha1="63be0556f03f931b841c9b403e6c200a4eeb6fb4" />
+		<rom name="The_Bally_Game_Show_VP911_1.02.vpt" size="11952128" crc="53e5708d" md5="fdc928035562c0d1ae44966820f9d1df" sha1="64565130f938d9fd7d0443d37be9b92fc5ef69d6" />
+	</machine>
+	<machine name="Big Bang Bar (Capcom)(1996)(Unclewilly, Grizz)(1.0)[VP91x]">
+		<description>Big Bang Bar (Capcom)(1996)(Unclewilly, Grizz)(1.0)[VP91x]</description>
+		<rom name="Big Bang Bar (Capcom)(1996)(unclewilly, Grizz)(1.0)[VP91x].vpt" size="38260736" crc="4ee4fe35" md5="92f2454f391e8c39634dd70d2948a261" sha1="e18af0431651f905c78ebb3f057206667fb472f8" />
+		<rom name="Big Bang Bar screenshot.jpg" size="1677576" crc="fdba1020" md5="c980e719e9673944b2a9fc23d0e6227a" sha1="6656245cb881becac39da9570fd6b4bbea4ee0ee" />
+	</machine>
+	<machine name="Black Knight (Williams)(1980)(JPSalas)(2.2.1)[VP91x]">
+		<description>Black Knight (Williams)(1980)(JPSalas)(2.2.1)[VP91x]</description>
+		<rom name="Black_Knight_vp91x_2.2.1_4x3.vpt" size="12656640" crc="d2c59fb9" md5="06d84eeb3f7bd2c418a5d3aadfc84abd" sha1="2359f128d312927987edf34ccdbe0fe4e3dab8e2" />
+		<rom name="screenshot.jpg" size="679432" crc="016133fb" md5="1c13f364336cebc0959495eb68e9b319" sha1="d46470095ed1ff282baf5456c9f040f31e41b7eb" />
+	</machine>
+	<machine name="Blackwater 100 (Bally)(1988)(Sindbad)(1.2.0)[VP915]">
+		<description>Blackwater 100 (Bally)(1988)(Sindbad)(1.2.0)[VP915]</description>
+		<rom name="Blackwater 100 (Bally 1988) (VP9.x DX9 DT 1.2.0).vpt" size="25677824" crc="cdd89194" md5="ea9bb983887d742776a06771cfe4d81e" sha1="007e196c65650d8ca19f3f36a950b1e6f82f47d1" />
+		<rom name="screenshot.jpg" size="1578921" crc="9a253ab2" md5="225b63adf25011daf69499e43326101f" sha1="6f62941687f9cc6250ceab25e616e723fd07903d" />
+	</machine>
+	<machine name="Bram Stoker's Dracula (Williams)(1993)(JPSalas, jimmyfingers)(1.04)[VP91x]">
+		<description>Bram Stoker's Dracula (Williams)(1993)(JPSalas, jimmyfingers)(1.04)[VP91x]</description>
+		<rom name="Bram-Stokers-Dracula_Rules.htm" size="53151" crc="4afe0f43" md5="819e0f647f37086342a02b6ea16d3da0" sha1="66ee27f05e419c670c9df69fce978cf6f1f45981" />
+		<rom name="Bram-Stokers-Dracula_vp91x_1.04.vpt" size="18255872" crc="33838051" md5="d0e781c18ec089698c451b905642317d" sha1="3b61038a56252cd563f30c4e81904ee44f1c189d" />
+		<rom name="screenshot.jpg" size="564889" crc="514418ad" md5="48992e8da066b7003af387f32b82a76e" sha1="2e027763c4f0dadd8a72b29df10ad1798fd4e604" />
+	</machine>
+	<machine name="Champion Pub, The (Bally)(1998)(Destruk, UncleReamus)(1.1)[VP915][VP91x conversion mfuegemann v1.41]">
+		<description>Champion Pub, The (Bally)(1998)(Destruk, UncleReamus)(1.1)[VP915][VP91x conversion mfuegemann v1.41]</description>
+		<rom name="Champion Pub (Bally)(1998)(Destruk, UncleReamus)(1.1)[VP915][VP91x conversion mfuegemann v1.23].vpt" size="22704128" crc="677b4b82" md5="7a3ffba2b14e15307280cb3e05b1762f" sha1="426ca91e83ced77c432adb7da5b389b365f37307" />
+		<rom name="Champion Pub (Bally)(1998)(Destruk, UncleReamus)(1.1)[VP915][VP91x conversion mfuegemann v1.31].vpt" size="23269376" crc="3ed6f10a" md5="dc412a803e52c6c9af190e5cf11bf65c" sha1="a20d2dec141e04579170e1ab628120a2321fce49" />
+		<rom name="Champion Pub (Bally)(1998)(Destruk, UncleReamus)(1.1)[VP915][VP91x conversion mfuegemann v1.41].vpt" size="23470080" crc="c35a401e" md5="1b098f4a7e2d4ce481bcc5a6dc9276f6" sha1="62dc58bce906c8767620bf5b67d31dc25d0092a2" />
+	</machine>
+	<machine name="Charlie's Angels (Gottlieb)(1978)(TAB, Destruk)(1.01)[VP91x]">
+		<description>Charlie's Angels (Gottlieb)(1978)(TAB, Destruk)(1.01)[VP91x]</description>
+		<rom name="Charlie's Angels (Gottlieb)(1978)(TAB, Destruk)(1.01)[VP91x].vpt" size="6448640" crc="f6ffeafd" md5="a645fd62020ae28e6c1c4438f78d83c2" sha1="d5c6dfecece2dda62bf61993ef68ad93bebfd5cd" />
+		<rom name="Charlie's Angels screenshot.jpg" size="148733" crc="ff27513b" md5="1f7ac78f55e3e3f27600b41007367b92" sha1="5bd02c81e272e30cdb788593db67523c6530e7d1" />
+	</machine>
+	<machine name="Cirqus Voltaire (Bally)(1997)(JPSalas)(1.31)[VP913]">
+		<description>Cirqus Voltaire (Bally)(1997)(JPSalas)(1.31)[VP913]</description>
+		<rom name="Cirqus Voltaire (Bally)(1997)(JPSalas)(1.31)[VP913].vpt" size="27787264" crc="e8920861" md5="4335283c5ffea7a19caa7c755b5218df" sha1="d06e708d085ff87c90ae20282a9ef5bf55415531" />
+		<rom name="Cirqus Voltaire screenshot.jpg" size="664115" crc="543bb9b7" md5="133c93c3b3fe3475551490b60ee3b19c" sha1="f013cb1070577f6fb50bf6f4b9a26722a2ca0870" />
+	</machine>
+	<machine name="Class of 1812 (Gottlieb)(1991)(JPSalas)(1.0)[VP912]">
+		<description>Class of 1812 (Gottlieb)(1991)(JPSalas)(1.0)[VP912]</description>
+		<rom name="Class of 1812 (Gottlieb)(1991)(JPSalas)(1.0)[VP912].vpt" size="31334400" crc="c68b651d" md5="4ec04b589bd7a42076a7c04024110cb0" sha1="c528057955a2c4330c62db6cba56213d14e4a591" />
+		<rom name="Class of 1812 screenshot.jpg" size="656193" crc="7ac905ca" md5="a5f98aa95c122b9a74b16203abdfa8b1" sha1="a102e95ae61ed3e195cfbd560e01b27734bb1caa" />
+	</machine>
+	<machine name="Close Encounters of the Third Kind (Gottlieb)(1978)(Serpiko)(1.0)[VP91x]">
+		<description>Close Encounters of the Third Kind (Gottlieb)(1978)(Serpiko)(1.0)[VP91x]</description>
+		<rom name="GOTTLIEB - CLOSE ENCOUNTERS_VP9_1.0.vpt" size="18391040" crc="13e7a342" md5="224f6ee78867d9a76ad4397c72451637" sha1="18b85f1b3e710d04bb0203552940febbe75c9527" />
+		<rom name="screenshot.png" size="851549" crc="e9caa955" md5="310d65fa278442b9eba3479f0860a7fb" sha1="89ae5e41e9ea60062efa50e21dbcc0df3074d6f0" />
+	</machine>
+	<machine name="Comet (Williams)(1985)(Unclewilly)(2.0)[VP912]">
+		<description>Comet (Williams)(1985)(Unclewilly)(2.0)[VP912]</description>
+		<rom name="Comet (Williams)(1985)(unclewilly)(2.0)[VP912].vpt" size="18735104" crc="70dcfe5c" md5="8c8010c7ee6190947df4a6f14877dbad" sha1="0e6d231e17d703029e6ca561f273eb28e204cd18" />
+		<rom name="Comet screenshot.jpg" size="1443110" crc="55daffef" md5="56102ad1ddc35b2415061a196946eea0" sha1="34dbc494c7747c0f4bff0dfc8f69bdb0f1455425" />
+	</machine>
+	<machine name="Congo (Williams)(1995)(JPSalas, bodydump)(1.01)[VP91x]">
+		<description>Congo (Williams)(1995)(JPSalas, bodydump)(1.01)[VP91x]</description>
+		<rom name="Congo (Williams)(1995)(JPSalas, bodydump)(1.01)[VP91x].vpt" size="15818752" crc="abb541c1" md5="ff2516a50c38859ab40112d740d4af3e" sha1="953595bf3e01978d93fe055a4281b3db717daa7c" />
+		<rom name="Congo screenshot.jpg" size="558107" crc="38377cd1" md5="afd37df2176fe891fc2ee681799a4d70" sha1="ebd94fbeb7e019df66765e038f4cbbaec806c273" />
+	</machine>
+	<machine name="Cosmic (Taito do Brasil)(1980)(j.accioly)(1.0)[VP916]">
+		<description>Cosmic (Taito do Brasil)(1980)(j.accioly)(1.0)[VP916]</description>
+		<rom name="Cosmic (Taito do Brasil)(1980)(j.accioly)(1.0)[VP916].vpt" size="5111808" crc="f4bcfec0" md5="c9cce3ee06da5bfaa64989c8d238ac4f" sha1="b103b116c1ffa4bdf11ef9fe871a5c88230da440" />
+		<rom name="Cosmic screenshot.jpg" size="438845" crc="2e32de77" md5="44a7ff27e5111bb7822f0bacf26b76ee" sha1="716090ec508dd37798fe0a552fe3e8cfb90528c5" />
+	</machine>
+	<machine name="Cosmic Princess (Stern)(1979)(JPSalas)(1.0.2)[VP91x]">
+		<description>Cosmic Princess (Stern)(1979)(JPSalas)(1.0.2)[VP91x]</description>
+		<rom name="Cosmic Princess (Stern)(1979)(JPSalas)(1.0.2)[VP91x].vpt" size="9969664" crc="12db2fe6" md5="2e9dd8ee459a31623f89d64e67507f4d" sha1="a41360c89ee9a61663ef59669a7f273212ff7848" />
+		<rom name="Cosmic Princess screenshot.jpg" size="600718" crc="97820342" md5="f813e6a9bbf05df594662d8dc63adb10" sha1="5f69bc795a17f35d9804b935209ec7aca4464e43" />
+	</machine>
+	<machine name="Cue Ball Wizard (Gottlieb)(1992)(JPSalas)(1.21a)[VP91x]">
+		<description>Cue Ball Wizard (Gottlieb)(1992)(JPSalas)(1.21a)[VP91x]</description>
+		<rom name="Cue Ball Wizard (Gottlieb)(1992)(JPSalas)(1.21a)[VP91x].vpt" size="12734464" crc="99654506" md5="fa4028e74fc07ef76ebd8f57fcb07198" sha1="4ac925168bbf2039c12fbdb9d20e16718119f306" />
+		<rom name="Cue Ball Wizard screenshot.jpg" size="561848" crc="37d89347" md5="2883d3b89e2a4e5a1816d09a49164d65" sha1="0a2e1198bb949030cefc61856d9f74abceb4854b" />
+	</machine>
+	<machine name="Cyclone (Williams)(1988)(melon)(2.0)[VP91x]">
+		<description>Cyclone (Williams)(1988)(melon)(2.0)[VP91x]</description>
+		<rom name="Cyclone (Williams)(1988)(melon)(2.0)[VP91x].vpt" size="18452480" crc="3bc5f804" md5="c72be14ecd6a4f02b3f1063f2bab210c" sha1="9395bedeff229ebce8eb9ef641f339ca84029da7" />
+		<rom name="Cyclone screenshot.jpg" size="690415" crc="da8e436d" md5="39e57defe0004b92ac6ee9ae4158cbc7" sha1="10b9af766c822e9b7d94346650f89b826ef21475" />
+	</machine>
+	<machine name="Dark Rider (Geiger Automatenbau)(1984)(TAB, Todd, Thingamajiik)(1.0)[VP915][Conversion Kit Bally STAR TREK Table]">
+		<description>Dark Rider (Geiger Automatenbau)(1984)(TAB, Todd, Thingamajiik)(1.0)[VP915][Conversion Kit Bally STAR TREK Table]</description>
+		<rom name="dark-rider.png" size="1088895" crc="cba8673f" md5="caff96c2f6b38121d2d926b1ba16b6fc" sha1="580a4392c08eef85e98b6f575b96e2c564ea5f28" />
+		<rom name="FS Geiger - Dark Rider VP9 1.0.0.vpt" size="4292608" crc="162b49cb" md5="52bc8b7014834852e7d1eab5aa250d30" sha1="140377d3c9b57000acd7eba485609f3902e71abb" />
+	</machine>
+	<machine name="Deadly Weapon (Gottlieb)(1990)(Bodydump)(1.0)[VP914][DDesktop]">
+		<description>Deadly Weapon (Gottlieb)(1990)(Bodydump)(1.0)[VP914][DDesktop]</description>
+		<rom name="Deadly Weapon (Gottlieb)(1990)(Bodydump)(1.0)(DT)(9.14).vpt" size="25956352" crc="6f4d6a9a" md5="4681b6f0051d857ed8250fcdfa6f6572" sha1="9e2a20e0d51f411d3a1bf5492a8bc6acf099c2af" />
+		<rom name="deadweapdt.jpg" size="555510" crc="618b328f" md5="d1298e1e1a71e7f59fcb6a54b38b540c" sha1="6b0ddc59fac0df966a4b538f56dbee42cf656dda" />
+	</machine>
+	<machine name="Diamond Lady (Gottlieb)(1988)(JPSalas)(1.0)[VP91x]">
+		<description>Diamond Lady (Gottlieb)(1988)(JPSalas)(1.0)[VP91x]</description>
+		<rom name="Diamond_Lady_VP91x_1.0.vpt" size="12083200" crc="d0df2e77" md5="41e409b426bfefad4d34dd327732024a" sha1="3bd9ba105dd8ca60d92cbf521e1c0a0aee38cd59" />
+		<rom name="screenshot.jpg" size="463933" crc="a1ef958e" md5="7a4804cb657d0b2a7067120acf73792e" sha1="1232b6f83f5a006508310b0fbd816f1159565cd7" />
+	</machine>
+	<machine name="Diner (Williams)(1990)(tamoore, Bodydump, the wool)(1.0)[VP912][WideScreen][B2S Rosve]">
+		<description>Diner (Williams)(1990)(tamoore, Bodydump, the wool)(1.0)[VP912][WideScreen][B2S Rosve]</description>
+		<rom name="b2s.vbs" size="7527" crc="61185a8d" md5="5ddacb102a1b7f0504cda365bc45efcb" sha1="8a355a7b9ec0334e73a36e6bb783f8876d8be533" />
+		<rom name="B2S_SetUp.exe" size="52736" crc="bd2ca485" md5="2b6060fa009f3092f47f14e7dd3cf512" sha1="f8027e8e135d2d6f9679719b4eb53c5e42e2c108" />
+		<rom name="Diner_WS_B2S.exe" size="28448256" crc="870a267b" md5="1c69dbe233ea671bf33d936bbe316ad8" sha1="faf2b7116f054295d1d8ba8cc08509e842ec2a17" />
+		<rom name="Diner_WS_B2S.vpt" size="27017216" crc="8b2c3e98" md5="f8a616b0bf13e6a2437256f603f71c80" sha1="bbea1f1629920d5ed609bfcf288e5a864f7775e5" />
+		<rom name="ScreenRes.txt" size="24" crc="1f74f727" md5="9ab0956d5e17d79de28811c56c337fe2" sha1="8ec97ad34ebf3cfec25ae539f91ed10d9591dda3" />
+		<rom name="screenshot.jpg" size="438578" crc="aa30797a" md5="1115023e26063dc4e76fd67ac2b48c7b" sha1="7f2910c6a4cd337bc28d4b187b04663902fb61f3" />
+	</machine>
+	<machine name="Dr. Dude (Midway)(1990)(bmiki75, Rascal)(2.0)[VP912][High Resolution]">
+		<description>Dr. Dude (Midway)(1990)(bmiki75, Rascal)(2.0)[VP912][High Resolution]</description>
+		<rom name="s11.vbs" size="4647" crc="e263f83d" md5="93c1149e0cb02ef28cd8695ff262a5ec" sha1="86d9051bbbac1fb545efe25b76103e254340278e" />
+		<rom name="screenshot.jpg" size="527215" crc="8825b9e4" md5="0a883177a6e2184dd77a7a28e096b1ee" sha1="f3b7df91039f26a212a100efb482a55b9321a4b1" />
+		<rom name="VP912_43_DrDude_HR.vpt" size="25743360" crc="d8cdc79b" md5="47204d1500d17f4366b741d08b7ca205" sha1="c443e84794956cc0f5b5f943fe642571ff0ffe19" />
+	</machine>
+	<machine name="Earthshaker! (Williams)(1989)(bmiki75, Serpiko)(2.0.1)[Hi-Res][VP912]">
+		<description>Earthshaker! (Williams)(1989)(bmiki75, Serpiko)(2.0.1)[Hi-Res][VP912]</description>
+		<rom name="Earthshaker (Williams)(1989)(bmiki75, Serpiko)(2.0.1)[Hi-Res][VP912].vpt" size="25337856" crc="e5e06bf3" md5="e982c4cd1fdf020745d6d946a6506951" sha1="c6eb92b2bd4d854d02cb6a80d858c511070f1eaa" />
+		<rom name="Earthshaker screenshot.jpg" size="577453" crc="829e6bfc" md5="b2440c6ec169a288eea7d31df1b21b30" sha1="6095de37f0582a1d012f3f32d51472c8fc28b951" />
+	</machine>
+	<machine name="Eight Ball Deluxe (Bally)(1981)(JPSalas)(1.2)[VP91x]">
+		<description>Eight Ball Deluxe (Bally)(1981)(JPSalas)(1.2)[VP91x]</description>
+		<rom name="Eight Ball Deluxe (Bally)(1984)(JPSalas)(1.2)[VP91x].vpt" size="8593408" crc="454a5dab" md5="3825d2421e2f3daec99547fa35e491eb" sha1="13391c49a7e57eecbb988a2bfa9cfb661507d121" />
+		<rom name="Eight Ball Deluxe screenshot.jpg" size="530365" crc="96e0f266" md5="cffc7901ea7d61e6ae77717eabb0e6b1" sha1="cf4f5c1754f31cc0a9ac2e3d448c896e2039376f" />
+	</machine>
+	<machine name="Elvira and the Party Monsters (Bally)(1989)(JPSalas)(1.1)[VP91x]">
+		<description>Elvira and the Party Monsters (Bally)(1989)(JPSalas)(1.1)[VP91x]</description>
+		<rom name="Elvira and the Party Monsters (Bally)(1989)(JPSalas)(1.1)[VP91x].vpt" size="13721600" crc="1c10eb44" md5="e5c2ccbe9176ea5ac9935a9ac14bf72c" sha1="0863d630228cba3fd19c313b9d11342361cdf855" />
+		<rom name="Elvira and the Party Monsters screenshot.jpg" size="612168" crc="48b0bfff" md5="d698bc8eff1564c7b6d3ebf5fdbc7c15" sha1="3f28a91f9db38ce4c28cc23dfaa189da29122839" />
+	</machine>
+	<machine name="Fathom (Bally)(1981)(Unclewilly, grizz)(2.0)[VP912]">
+		<description>Fathom (Bally)(1981)(Unclewilly, grizz)(2.0)[VP912]</description>
+		<rom name="DayTextures43/BumpCap43.bmp" size="492760" crc="2f9ec383" md5="1dd466d81284a47e1222b474f8fe15e2" sha1="7b15e617c19227baf29e1dfc8aa5a14e4d0e80b7" />
+		<rom name="DayTextures43/BumpCap43On.bmp" size="492760" crc="c93974c8" md5="d2f5a20e67754c73ad72059d4a54defc" sha1="5d0f2473914b07ecf8a7af61340ab758587c8834" />
+		<rom name="DayTextures43/pf.jpg" size="305924" crc="20b03fce" md5="d1d7d010be324a8110d77f7e205ad29c" sha1="aeea703cc4a3f0772b1ba583bdb422ee62c938d4" />
+		<rom name="DayTextures43/pfA.jpg" size="342716" crc="b41e2bc5" md5="8929bbd4547eedf7b3e220416f0fcf56" sha1="e77d0323dde23f813605c4c1c594250aff163df0" />
+		<rom name="DayTextures43/pfB.jpg" size="337247" crc="d3f4bf50" md5="44d003ec1af7f55c87d16f0f20e3dc47" sha1="a410325e12a3e39073824455cdcc1a9bdecb096e" />
+		<rom name="DayTextures43/pfOn.jpg" size="417176" crc="5c9ac310" md5="c3ec23986e40ec17a202309c98107ae3" sha1="2235d39ea941e4cde894ae43da532e00c3d4ddcf" />
+		<rom name="DayTextures43/Plastics.jpg" size="210321" crc="93940000" md5="4b79ef8d8393da90d7e4e44578e19611" sha1="e3d425d3cd64cbd1fc1b2443425971e40d05c203" />
+		<rom name="DayTextures43/PlasticsOn.jpg" size="271584" crc="ecade2a3" md5="2648d72c70eeafd82ec40614c4458eae" sha1="1a12b62e9828b29afddcba6df911f5e0a51ce65c" />
+		<rom name="Fathom.uw.V2.0.Loafer.vp9.10.vpt" size="15171584" crc="78933582" md5="639ea5e1c23eacda7b544e603cc9da1e" sha1="8d6f70af430a5d9ad76015e1c5403e83357d78b3" />
+		<rom name="screenshot.jpg" size="1347606" crc="a473e873" md5="5d8259bafec511c6fa4be00161e1c91f" sha1="acba1fff80a8e6137b1e1c859e96661618ddc107" />
+	</machine>
+	<machine name="Fire! (Williams)(1987)(Unclewilly, randr, the wool)(1.0)[VP915]">
+		<description>Fire! (Williams)(1987)(Unclewilly, randr, the wool)(1.0)[VP915]</description>
+		<rom name="Fire! (Williams 1987)(uw randr wool)(1.0)(DT).vpt" size="75276288" crc="4746caef" md5="d8f3a58765ed1672e40870a646caea6c" sha1="8fcb15196ea0ceff7f193a69fe047e6b922028f9" />
+		<rom name="firedt.png" size="3095976" crc="2f829a7d" md5="050773463d8f5be419121c778ff67ad3" sha1="2687a8070a7079bf44af2b0f84810ec6184e96c4" />
+	</machine>
+	<machine name="Firepower (Williams)(1980)(UncleReamus, Noah Fentz)(1.1)[VP91x]">
+		<description>Firepower (Williams)(1980)(UncleReamus, Noah Fentz)(1.1)[VP91x]</description>
+		<rom name="Firepower_URNF_VP9_1.1.0.vpt" size="14409728" crc="94645136" md5="ce62f53942178e628cbce55c7ad7c7d5" sha1="d6b6d50f732e6cb9dcf702d20e440e61d79cebad" />
+		<rom name="screenshot.jpg" size="1582760" crc="23c57ed4" md5="85308462cac532b3d9686c4a45e2bc21" sha1="7ca4f29c8a10318d0e028fa6f7b774a6deca84f0" />
+	</machine>
+	<machine name="Flash 3179 (CW Goss)(1.0)[VP91x][Source table JPSalas Williams Flash]">
+		<description>Flash 3179 (CW Goss)(1.0)[VP91x][Source table JPSalas Williams Flash]</description>
+		<rom name="Flash3179_VP91x_1.2.vpt" size="14143488" crc="94558e8c" md5="8e67167f9426e67e41816a7bcfa2dad5" sha1="60add4f05d8721b70997686a29a9b99b70434ac4" />
+		<rom name="flash-3179.jpg" size="1253985" crc="b106b300" md5="2ff08f6d404e6a1fe7163b5bd1e36ad1" sha1="4dc166273fb77ce15de8788854cf363cbd32447a" />
+	</machine>
+	<machine name="Flash (Williams)(1979)(JPSalas)(1.2)[VP91x]">
+		<description>Flash (Williams)(1979)(JPSalas)(1.2)[VP91x]</description>
+		<rom name="Flash_VP91x_1.2.vpt" size="12607488" crc="caab632f" md5="87f360aaa6ed471aa888561aa507127d" sha1="54e2727204a162372add0ecfe04350ba7408d30d" />
+		<rom name="screenshot.jpg" size="575702" crc="3919250b" md5="742d229a624008523236a0dd851bd3f1" sha1="12194d4c4d1aa565e274226e9fc31e591599053b" />
+	</machine>
+	<machine name="Flintstones, The (Williams)(1994)(JPSalas)(1.02)[VP91x]">
+		<description>Flintstones, The (Williams)(1994)(JPSalas)(1.02)[VP91x]</description>
+		<rom name="Flintstones_VP91x_1.02.vpt" size="14700544" crc="41aa89c3" md5="76da323d9659ee077ace5f09a87d6705" sha1="e33d52a884edb02ae43ad6f0c505393a501a6478" />
+		<rom name="screenshot.jpg" size="596965" crc="c2c076b6" md5="3fae8f0a0152fcfaea8f7d6a83d935c6" sha1="5ae37766824ffea32b4607bc4cd5613283560da2" />
+	</machine>
+	<machine name="Flipper Football (Capcom)(1996)(JPSalas)(1.0)[VP91x]">
+		<description>Flipper Football (Capcom)(1996)(JPSalas)(1.0)[VP91x]</description>
+		<rom name="Flipper_Football_VP91x_1.0.vpt" size="29827072" crc="3df21b0d" md5="75dfc68c79a71298fe8ca1e38e325290" sha1="1b502a1855581a902cf6a87cfee3be3fefb39258" />
+		<rom name="screenshot.jpg" size="594199" crc="c3370014" md5="11dbf83c434920933200e2c41843e9bc" sha1="b31d4df1f442f15ed8aa1317cefb4b0e8079eb21" />
+	</machine>
+	<machine name="Freddy - A Nightmare on Elm Street (Gottlieb)(1994)(Unclewilly, hassanchop, grizz)(1.01)[VP91x]">
+		<description>Freddy - A Nightmare on Elm Street (Gottlieb)(1994)(Unclewilly, hassanchop, grizz)(1.01)[VP91x]</description>
+		<rom name="Freddy A Nightmare On Elm Street (Gottlieb) (1994).nv" size="8238" crc="aa06d20c" md5="a1532a67f97a33b54b2fd86a9ca10d6f" sha1="4a2f8c0b1bdac52ce39d5b4f90a3873275de0f4e" />
+		<rom name="Freddy A Nightmare On Elm Street.V1.01.vp9.1x.vpt" size="26718208" crc="b54edc64" md5="f19f2097263f20c7edfab2e61e3e8f5c" sha1="811d86a6bb524985d5958f2d39214d89abc71596" />
+		<rom name="freddy.nv" size="8238" crc="f4c3a84f" md5="8c890da202a0ed85606966911f833422" sha1="c81772faafa7031c63f9e0d73665bb580ba48ca6" />
+		<rom name="screenshot.jpg" size="1245972" crc="58c2ae60" md5="c7dbfda12b4b4b99d56d36c5bc594a67" sha1="513edc07be5e6c7cd6d68b0d655d4d6fa1a4902b" />
+	</machine>
+	<machine name="Freefall (Stern)(1981)(JPSalas)(1.0.1)[VP91x]">
+		<description>Freefall (Stern)(1981)(JPSalas)(1.0.1)[VP91x]</description>
+		<rom name="Freefall_VP91x_v1.0.1.vpt" size="29245440" crc="2f435a3b" md5="9028ceae1cc26147a6f2099a42ebf8aa" sha1="09e460aeb79e6173b301442eb585f2c2cefc985f" />
+		<rom name="freefall_vp91x_v10.jpg" size="633106" crc="80fce2c1" md5="837dcff8fbabd52e83d7ca62dafe4279" sha1="3cf35d1e63ca7638dd10f74ad39e1b1a576c88ca" />
+	</machine>
+	<machine name="Frontier (Bally)(1980)(Ezepov)(1.0.0)[VP91x]">
+		<description>Frontier (Bally)(1980)(Ezepov)(1.0.0)[VP91x]</description>
+		<rom name="Frontier_9.1_1.0.0_4x3.vpt" size="9076736" crc="f86f73db" md5="c41240b54afc9d3d766c9a8c8d9311e7" sha1="5e209ee1a1c3654f9103e3622a98d9987a01efad" />
+		<rom name="frontier_91_100_4x3.jpg" size="1810135" crc="d113b12f" md5="8664a8a87e7d25c3cc169aebb858f4e1" sha1="0331db6ae979411fcd94aff68fd735285e575db5" />
+	</machine>
+	<machine name="Funhouse (Williams)(1990)(JPSalas)(2.1.1)[VP91x]">
+		<description>Funhouse (Williams)(1990)(JPSalas)(2.1.1)[VP91x]</description>
+		<rom name="Funhouse_vp91x_2.1.1.vpt" size="12374016" crc="e358a3f8" md5="8c8f385a536cabac3e49c68913a73832" sha1="5919e353c0c29b0593d2e1f5f3d9fc94acecff12" />
+		<rom name="screenshot.jpg" size="596514" crc="92184239" md5="6705fcee0e6aebb43d4edaa56917c0e2" sha1="d8c5d7e6dc593dc605f148e5086ef39c48131c98" />
+	</machine>
+	<machine name="Future Spa (Bally)(1979)(JPSalas)(1.2)[VP91x]">
+		<description>Future Spa (Bally)(1979)(JPSalas)(1.2)[VP91x]</description>
+		<rom name="Future-Spa_VP91x_v1.2.vpt" size="13488128" crc="a32107fb" md5="be225582a5203b8c071e6c794a1f2a52" sha1="7ed42d4d7d8cbfaaf8f57d2ae4ff2920f426c22f" />
+		<rom name="screenshot.jpg" size="600839" crc="7a9efd57" md5="f743ca933008185586a03b71bd9a5a47" sha1="d2a2b53674bad0446d2a647276f8dcb08995658e" />
+	</machine>
+	<machine name="Genesis (Gottlieb)(1986)(JPSalas)(1.01)[VP912]">
+		<description>Genesis (Gottlieb)(1986)(JPSalas)(1.01)[VP912]</description>
+		<rom name="Images/Alternatives/bumper_off.png" size="45556" crc="821cfe18" md5="af27eba75c9a299cc7e1abfda9285c30" sha1="fad051e3c58541d590c2e28648df37bde0963172" />
+		<rom name="Images/Alternatives/bumper_on.png" size="51050" crc="737686af" md5="6143b6ff34d670ac972c71c56364336e" sha1="dabda902a55f4b3c490e263f0eba8e0f2663a23c" />
+		<rom name="Images/Alternatives/Plastic_Ramp_Rosa.png" size="17833" crc="247a5f69" md5="4fba5c09f1e1d48d4724872e4a4d69fd" sha1="ef14876a2757e73663f01dca94c99be3a7158e09" />
+		<rom name="Images/Original/bumper_off.png" size="33783" crc="98300e1f" md5="f85ee6f0bd9b071c40fadc41ae5d4df5" sha1="75be83a21756cbd3babaffa500bad177e86015e3" />
+		<rom name="Images/Original/bumper_on.png" size="38266" crc="05a1faa3" md5="e605b70117d0fa91f948f9373dd32c6c" sha1="d0a7074d76cbd4eba3b2c8419c491d06f1a88306" />
+		<rom name="Images/Original/Plastic_Ramp_Rosa.png" size="12598" crc="3d728f38" md5="98aac616a17187c40119c2820bc2093f" sha1="ff2507568e069dae322abfe1b16ed859bdd86d85" />
+		<rom name="Genesis_VP912_1.01.vpt" size="20254720" crc="932cd503" md5="8b088cbdd64aff2c1a4c0bcbdf15a42f" sha1="595a7a4a11ac88694540950084017e05d8ac16d8" />
+		<rom name="screenshot.jpg" size="527138" crc="0105cbd1" md5="50dad5a80bfdadeb0d1b8d30c8717369" sha1="19caea22bdeb9669cdd422b72056063b7c8801fd" />
+	</machine>
+	<machine name="Genie (Gottlieb)(1979)(Compufox, Eala Dubh Sidhe, Maceman)(1.4)[VP912]">
+		<description>Genie (Gottlieb)(1979)(Compufox, Eala Dubh Sidhe, Maceman)(1.4)[VP912]</description>
+		<rom name="Genie (Gottlieb 1979).vpt" size="51838976" crc="f3fb2489" md5="3c4ca9fd3b93aa8e0268397d35480197" sha1="1863d4b718d6fb012a9b22d0965c7292eb2fd805" />
+		<rom name="geniesnap.png" size="1904857" crc="c04f452a" md5="33782f8d86142ac3042162a58e7f8e54" sha1="644b2c121c14a4d7d3804c506576bd9d2e61e29c" />
+	</machine>
+	<machine name="Gorgar (Williams)(1979)(drumndav AKA daveboy6)(1.0)[VP912]">
+		<description>Gorgar (Williams)(1979)(drumndav AKA daveboy6)(1.0)[VP912]</description>
+		<rom name="Gorgar_v1.0_vp9x_(Williams1979)_drumndav.vpt" size="22118400" crc="c601d964" md5="f10659d29f4536e8f16947ba65a502db" sha1="c7c0c7f55aeba1c2a5c0ef09be8fa4af5f27013f" />
+		<rom name="Gorgar_v1.0_vp9x_(Williams1979)_drumndav_info.txt" size="6572" crc="e38da846" md5="9eba9d94a19a3e7fefe9800c268586c3" sha1="370c74eeb809d0bf4b4cf7d84585dd5a3ba431f8" />
+		<rom name="Gorgar_v1.0_vp9x_(Williams1979)_drumndav_screenshot.jpg" size="409063" crc="14e65019" md5="403187a4ab0a008879e17a7eed526be6" sha1="0587f097005d4b6f4fee30e359826512a8867953" />
+		<rom name="gorgar_v10_vp9x_-williams1979-_drumndav_screenshot.jpg" size="409063" crc="14e65019" md5="403187a4ab0a008879e17a7eed526be6" sha1="0587f097005d4b6f4fee30e359826512a8867953" />
+	</machine>
+	<machine name="Gorgar (Williams)(1979)(UncleReamus, Noah Fentz)(1.0.4)[VP91x]">
+		<description>Gorgar (Williams)(1979)(UncleReamus, Noah Fentz)(1.0.4)[VP91x]</description>
+		<rom name="Gorgar_UR_NF_V1.0.4.vpt" size="21364736" crc="9db36624" md5="67a123e6904e0dc13d1b36678c357718" sha1="8b04f00cd27190772b642b6c4e03a980f66dd54a" />
+		<rom name="screenshot.jpg" size="765240" crc="1ed9b2f2" md5="c4f1dfd1f21dfa4a45d622fa5c30f93d" sha1="8e7a0f1a69e62b7ad9782031758a22104eda9b57" />
+	</machine>
+	<machine name="Harlem Globetrotters on Tour (Bally)(1979)(JPSalas)(2.3)[VP91x]">
+		<description>Harlem Globetrotters on Tour (Bally)(1979)(JPSalas)(2.3)[VP91x]</description>
+		<rom name="Harlem_Globetrotters_VP91x_2.3.vpt" size="10330112" crc="40446f3b" md5="5a47fbba70a5bf31df6fb1dee6082ea4" sha1="0c6cdb404d0dad2096bcff169d344a2095f4691f" />
+		<rom name="screenshot.jpg" size="656579" crc="54e3185e" md5="74da2e410c12932a82e69988b045dd41" sha1="fbe5d71e8deaa3b4dc67b6833ae6a730ee457784" />
+	</machine>
+	<machine name="Harley Davidson (Bally)(1991)(JPSalas)(1.1)[VP912]">
+		<description>Harley Davidson (Bally)(1991)(JPSalas)(1.1)[VP912]</description>
+		<rom name="Harley Davidson screenshot.jpg" size="539452" crc="edc5133f" md5="c75fb125b94e3c5462ae3e0593609279" sha1="304c1860ad3e02043bc537b14769050446ee990d" />
+		<rom name="Harley_Davidson_VP91x_1.1.vpt" size="13336576" crc="edeb3f01" md5="56c0e2a24793849b46b589ce3eadc15d" sha1="f3e6a033f74fb5d3bf7fc2454c37a31609a05a6c" />
+	</machine>
+	<machine name="Haunted House (Gottlieb)(1982)(JPSalas)(1.1)[VP915]">
+		<description>Haunted House (Gottlieb)(1982)(JPSalas)(1.1)[VP915]</description>
+		<rom name="haunted_house_vp91x_v10.jpg" size="367821" crc="108ef20b" md5="39a472e7640315c293469e8bd952f7f9" sha1="2b112a5feb67204b93c54977b0281706aa33dbe5" />
+		<rom name="Haunted_House_VP915_v1.1.vpt" size="19644416" crc="13349421" md5="7e17234ba81307624cf37c5c7ada3864" sha1="aecf7c1f3d22481a32dac68892cfb74d1f828878" />
+	</machine>
+	<machine name="High Speed (Williams)(1986)(Kruge99)(1.05)[VP912]">
+		<description>High Speed (Williams)(1986)(Kruge99)(1.05)[VP912]</description>
+		<rom name="HS-1.0.5-VP912-4x3.vpt" size="17502208" crc="7ceb4f4a" md5="fb3761e886669bb30a4ff98d3e6354e7" sha1="e98bc9c89de8a6b5358043e73e392cb577232527" />
+		<rom name="screenshot.png" size="1137054" crc="e02ebfeb" md5="e30878f7ad95a352a714a7466758ac16" sha1="d160621f69fadcc85a8f8afca500ede09d18061a" />
+	</machine>
+	<machine name="Indianapolis 500 (Bally)(1995)(JPSalas)(1.1)[VP91x]">
+		<description>Indianapolis 500 (Bally)(1995)(JPSalas)(1.1)[VP91x]</description>
+		<rom name="Indianapolis-500_VP91x_1.1.vpt" size="16564224" crc="3adc5300" md5="7014b8c784f510dfff6a432a3952dae3" sha1="95d54ac488d3216248258ee4eb23e9a54078fb42" />
+		<rom name="screenshot.jpg" size="618188" crc="0d73f556" md5="25d3f91ee03e7a8c7fb272493a580ed4" sha1="e26320484eb7ee63acfa4844f8b624fffdef4a26" />
+	</machine>
+	<machine name="Iron Man (Stern)(2010)(85vett)(1.04)[VP916][Desktop version coolball]">
+		<description>Iron Man (Stern)(2010)(85vett)(1.04)[VP916][Desktop version coolball]</description>
+		<rom name="Iron Man (Stern)(2010)(85vett)(1.04)[VP916][Desktop version coolball].vpt" size="22327296" crc="f337f140" md5="33797b61734e85352378a4fde0058d33" sha1="14fcb98ec5dd8ff899f8ad4c14a2513a803ca9a7" />
+		<rom name="Iron Man screenshot.jpg" size="577102" crc="b09080e3" md5="3f192f011bc10e025663111a24f61db9" sha1="c0be5f2ab760d2db0b4ecf010b57875d667e824e" />
+	</machine>
+	<machine name="Jack-Bot (Williams)(1995)(JPSalas)(1.1.1)[VP91x]">
+		<description>Jack-Bot (Williams)(1995)(JPSalas)(1.1.1)[VP91x]</description>
+		<rom name="Jack-Bot_JP_VP9.hta" size="2766" crc="9643694e" md5="707a6a3a503b3149cd958e11567fd7b7" sha1="0bc047729e489626ce0ba869460ad80123c011af" />
+		<rom name="Jack-Bot_VP91x_1.1.1.vpt" size="12247040" crc="73a9335d" md5="b8a55e47cc184887fb3b47133a5e55b7" sha1="676e666d4e9a7692573866c9793ede3c0be26dd5" />
+		<rom name="screenshot.jpg" size="554428" crc="4f376d1a" md5="72173af9e249636192bca7582e5d9b39" sha1="91d75115e827f727086f3d21624e2fbaf7eef8c5" />
+	</machine>
+	<machine name="Johnny Mnemonic (Williams)(1995)(bmiki75)(1.0.4)[VP912][Lo-res edition]">
+		<description>Johnny Mnemonic (Williams)(1995)(bmiki75)(1.0.4)[VP912][Lo-res edition]</description>
+		<rom name="screenshot.jpg" size="1736589" crc="be8e4291" md5="090c0c9d45f830384831dfe5e51c781e" sha1="a2f8e6ef634ca9cbc8c07dd142ba17816d67b3a8" />
+		<rom name="VP912_43_LR_WILLIAMS - JM_V1.0.4.vpt" size="31555584" crc="7e50193c" md5="dc18e9ea633a0d712eb8a27adb196a8a" sha1="56a8a4501064153811b010664cf5bd1a2d08dcc7" />
+	</machine>
+	<machine name="Jokerz! (Williams)(1988)(JPSalas)(1.4.5)[VP91x]">
+		<description>Jokerz! (Williams)(1988)(JPSalas)(1.4.5)[VP91x]</description>
+		<rom name="Jokerz!_VP91x_1.4.5.vpt" size="12767232" crc="f242bc73" md5="bdc7454f9bc415950881f54409429578" sha1="f2f618077d36b55932fc845de35b940e23428f17" />
+		<rom name="screenshot.jpg" size="616023" crc="453b9605" md5="b46dcb0249b24d7dcbb2260db2e9c069" sha1="106b7e8ef4448af1bb9b2c8c74a09aca9774ddb1" />
+	</machine>
+	<machine name="Jurassic Park (Data East)(1993)(bmiki75)(1.0.5)[VP912]">
+		<description>Jurassic Park (Data East)(1993)(bmiki75)(1.0.5)[VP912]</description>
+		<rom name="screenshot.jpg" size="498709" crc="02f4d005" md5="e6390906fba628e65f0d80fde69afb90" sha1="37216e2ac11f3d2e87bfe0b75fb924389a1c488a" />
+		<rom name="VP912_4-3_Jurassic_Park_v1.0.5.vpt" size="35098624" crc="97e77d56" md5="9a4667b12e94d1de462f36b3f3242bc2" sha1="f853a10ed3f197733202aa496491df5c7e6c8653" />
+	</machine>
+	<machine name="Kings of Steel (Bally)(1984)(chinzman93)(1.2)[VP916]">
+		<description>Kings of Steel (Bally)(1984)(chinzman93)(1.2)[VP916]</description>
+		<rom name="Kings of Steel (Bally)(1984)(chinzman93)(1.2)(DT)(9.16).vpt" size="16343040" crc="5cc872b0" md5="e194e91fc648dce26629bae3cb84f9c8" sha1="8a316b71635a6c3eac89a6ff8edeb92d0c26c634" />
+		<rom name="kosdt.png" size="873237" crc="3ac2aac8" md5="59b5ba22d702b2a6f664ffe6a279cfee" sha1="b54c4e9f675dc8eed07ff96360a8b208227a116d" />
+	</machine>
+	<machine name="KISS (Bally)(1979)(JPSalas)(2.2)[VP91x]">
+		<description>KISS (Bally)(1979)(JPSalas)(2.2)[VP91x]</description>
+		<rom name="KISS_VP91x_2.2.vpt" size="8527872" crc="fa697006" md5="0f28601c115e1faa8599e83f75cf1f26" sha1="ed5fa639228371ccb5610301142760bb91578a87" />
+		<rom name="screenshot.jpg" size="665613" crc="af379231" md5="6f59660ccfc215ee2ba2481c84a97622" sha1="0f05882d5e658b921b2a1adfc679f8c8ae8e9747" />
+	</machine>
+	<machine name="KISS (Bally)(1979)(JPSalas, Ezepov)(1.0.0)[VP91x]">
+		<description>KISS (Bally)(1979)(JPSalas, Ezepov)(1.0.0)[VP91x]</description>
+		<rom name="KISS_9.1_1.0.0_4x3.vpt" size="9203712" crc="3a52c51b" md5="02567fb4cb0500040324e9574a27e67b" sha1="a64de6c7c16716077fda8e777aaa90afff92be35" />
+		<rom name="kiss_91_100_4x3.jpg" size="755310" crc="002b6fd1" md5="65545ad908df081baa338638244ab673" sha1="395487441545c2b15bc795e7d8967195e9d389f1" />
+	</machine>
+	<machine name="Laser Cue (Williams)(1984)(MRCMRC)(1.0)[VP91]">
+		<description>Laser Cue (Williams)(1984)(MRCMRC)(1.0)[VP91]</description>
+		<rom name="Laser_Cue_v1_0_MRCMRC.vpt" size="15470592" crc="2ac63274" md5="87e87231ccc2d0c2803c6c03ff385411" sha1="962dee47e57883901187afa0d0fb56c46efa1623" />
+	</machine>
+	<machine name="Lectronamo (Stern)(1978)(Destruk, TAB, Skalar, Nedo, Ezepov)(1.0)[VP910]">
+		<description>Lectronamo (Stern)(1978)(Destruk, TAB, Skalar, Nedo, Ezepov)(1.0)[VP910]</description>
+		<rom name="Lectronamo (Stern)(1978)(Destruk, TAB, Skalar, Nedo, Ezepov)(1.0)[VP910].vpt" size="6746112" crc="f31d0f4a" md5="6c7f171b3e03084e46863951d088c516" sha1="2d23d28442e1bcd97e6957dc60590a035d960eba" />
+		<rom name="Lectronamo screenshot.jpg" size="463282" crc="d2e74f83" md5="6ae708d037c49bb659e68cb64fbf1cc6" sha1="73945860f5d8ce453e3a61ed2db0ae7acd315cc4" />
+	</machine>
+	<machine name="Lord of the Rings, The (Stern)(2003)(JPSalas)(2.4)[VP91x]">
+		<description>Lord of the Rings, The (Stern)(2003)(JPSalas)(2.4)[VP91x]</description>
+		<rom name="JPSalas/Lord of the Rings, The (Stern)(2003)(JPSalas)(2.3)[VP91x].vpt" size="30494720" crc="424ad443" md5="3abffee7691045c32f89ca462d35503d" sha1="2d01757d5125f8fd6fe73196bdc7507ec3b9e036" />
+		<rom name="JPSalas/Lord of the Rings, The (Stern)(2003)(JPSalas)(2.4)[VP91x].vpt" size="48918528" crc="25e035b0" md5="16f07aaae2e7133a522c0c1e260d79f3" sha1="c43bdc40ffa17147bdbff4dc0f87850a3228c023" />
+		<rom name="JPSalas/Lord of the Rings, The screenshot.jpg" size="558986" crc="300ef5bb" md5="7b540df78b44c8de2ef9a3c62f12b693" sha1="0feb72a01d95fa0c33f994860fe2b8eacf50442b" />
+	</machine>
+	<machine name="Lost World, The - Jurassic Park (SEGA)(1997)(powerfufi)(3.0)[VP912]">
+		<description>Lost World, The - Jurassic Park (SEGA)(1997)(powerfufi)(3.0)[VP912]</description>
+		<rom name="Jurassic Park 2 - The Lost World powerfufi.vpt" size="11423744" crc="3c362409" md5="ee6e1dc9e6f8e514633ab0d3a732df81" sha1="259d0a5fdd2e0e4d828d913cfca4df8dc2133ffc" />
+		<rom name="the-lost-world-jurassic-park-by-powerfufi.jpg" size="237668" crc="0e94ee29" md5="05c099fadaec5534da46fbc765d4e194" sha1="da77aad7a9f657762c6e5afed1ad26d6b75ace91" />
+	</machine>
+	<machine name="Lunelle (Taito do Brasil)(1982)(Joao Accioly)(1.1)[VP916]">
+		<description>Lunelle (Taito do Brasil)(1982)(Joao Accioly)(1.1)[VP916]</description>
+		<rom name="Fonts/Benguiat_Bold.ttf" size="67421" crc="c227c8ab" md5="96e87024e9b0929927858646d4005a17" sha1="077a06332d46697a9bcf33e5bc8d0d37ed4935aa" />
+		<rom name="Lunelle (Taito do Brasil)(1982)(j.accioly)(1.0)[VP916].vpt" size="5025792" crc="28877f43" md5="db843d90d811bc0710f4868699e1c8c7" sha1="b09f7f66fd1a684116f5fdb0e5b2dfde9071a04d" />
+		<rom name="Lunelle (Taito do Brasil)(1982)(j.accioly)(1.1)[VP916].vpt" size="5033984" crc="ab389e10" md5="148438a462c1328f181d1768e16de5bf" sha1="b15860a13bee901b92a86373e4cfd989045ed42a" />
+		<rom name="Lunelle screenshot.jpg" size="437974" crc="66da98f6" md5="84f2dc3aca37ee0948f4ac00bdbd3517" sha1="1e857549c31e0ffd7a518c091ed76deeafba588a" />
+		<rom name="Read me.txt" size="244" crc="bf236073" md5="81713c68838a8a8a007b6e239b481509" sha1="ca7bc7850bd7cd3146cf8d3fecf84aebee8dc364" />
+	</machine>
+	<machine name="Magic (Stern)(1979)(mfuegemann)(1.3)[VP916]">
+		<description>Magic (Stern)(1979)(mfuegemann)(1.3)[VP916]</description>
+		<rom name="Magic (Stern)(1979)(mfuegemann)(1.3)[VP916].vpt" size="18075648" crc="e7779a72" md5="360a427b16cc13b3e54cbf6a410bafea" sha1="d4857d4f29d2f16182aca581ff3b48c89db4cb0e" />
+		<rom name="Magic screenshot.jpg" size="489274" crc="7d413b90" md5="31e05adc06b71e8ba24460f736e0cecd" sha1="3cd81402a9203f60e604864f968fba99d90e37f5" />
+	</machine>
+	<machine name="Mary Shelley's Frankenstein (SEGA)(1995)(bmiki75)(1.0.3)[Hi-Res][VP912]">
+		<description>Mary Shelley's Frankenstein (SEGA)(1995)(bmiki75)(1.0.3)[Hi-Res][VP912]</description>
+		<rom name="screenshot.jpg" size="1958591" crc="e5a5ea98" md5="191ca8cdab5a012c451f73f8728130d3" sha1="9c743a1e432c90f912846cfe37591047c45746af" />
+		<rom name="VP912_4-3_Frankenstein_v1.0.3.vpt" size="41320448" crc="296805eb" md5="afe5d11dec2e6973c0b39756512b7428" sha1="8fdb3243cace192a40c0df592c07e7aad692ff9a" />
+	</machine>
+	<machine name="Medieval Madness (Williams)(1997)(JPSalas)(2.4.3)[VP915]">
+		<description>Medieval Madness (Williams)(1997)(JPSalas)(2.4.3)[VP915]</description>
+		<rom name="Medieval-Madness_VP91x_2.4.3.vpt" size="46919680" crc="43e22b9e" md5="9bf39018d2e47b2b641dffce17e819fe" sha1="e5af053a49a8245e870db4b22a43b2031b3acb49" />
+		<rom name="medieval-madness_vp91x_243.jpg" size="758069" crc="5eac8f91" md5="825604328f4a698fc6b750a51efd8865" sha1="c7f11024ff82527ef46a9b67eccfe8c74843d3e1" />
+	</machine>
+	<machine name="Metal Man (Inder)(1992)(JPSalas)(1.0.1)[VP912]">
+		<description>Metal Man (Inder)(1992)(JPSalas)(1.0.1)[VP912]</description>
+		<rom name="Metal-Man_VP912_1.0.1.vpt" size="22990848" crc="3146357f" md5="2de5307db90a963d0fa648f8e685526a" sha1="8356b2bb2a9519e84573096244fc92084f827d3a" />
+		<rom name="metalman.jpg" size="636012" crc="80f27065" md5="fcd40d4eee04c7597627d3921b1c2ed4" sha1="2ded7736aa0576aabcf5a8f97bdba0deb971011c" />
+	</machine>
+	<machine name="Mystic (Bally)(1980)(rob046, epthegeek (pf redraw))(1.63)[VP912][Desktop]">
+		<description>Mystic (Bally)(1980)(rob046, epthegeek (pf redraw))(1.63)[VP912][Desktop]</description>
+		<rom name="Mystic Rules.txt" size="987" crc="47817d33" md5="c64e05b947979c83ce89d8cf35d7f8cb" sha1="16eeb812d991fd0431ed5d2e5b4198e141ca2607" />
+		<rom name="mystic_1610_screenshot.jpg" size="536135" crc="e3879be0" md5="e2f63ba17f76603a40b5a856bff7ebc9" sha1="2558ed1e2a25bb324e2f743273baaab4c6d36d7f" />
+		<rom name="Mystic_VP912_rob046_Desktop_v1.63.vpt" size="15781888" crc="b8a71926" md5="0967344b6ec61039a1fa92798dbd904b" sha1="0fa8c3807599f19ebf16f9392673424cb9527d3d" />
+		<rom name="mysticb.nv" size="302" crc="2127fe80" md5="9183d79e9d976b86c1abb24588c476c3" sha1="7528381a5ac3ea7e16e96f3dcb9830d21c322266" />
+		<rom name="READ ME (Use this NVRAM).txt" size="261" crc="e04248fc" md5="e66e79885b390b3e6ff32b0de57a3deb" sha1="9d74ae3086606e29f8a798a0519217c37d73efe2" />
+	</machine>
+	<machine name="NBA Fastbreak (Bally)(1997)(bmiki75)(2.0.5)[VP912]">
+		<description>NBA Fastbreak (Bally)(1997)(bmiki75)(2.0.5)[VP912]</description>
+		<rom name="screenshot.jpg" size="375215" crc="104d8ea2" md5="997ba1bf139be87ad7583f2e07022a0f" sha1="dfbca87373f69bff63a52ea724473216691268ca" />
+		<rom name="VP12_43_NBA Fastbreak V2.0.5.vpt" size="25890816" crc="3c8873eb" md5="2fd624775be985cb626f60dfd3ba2890" sha1="03e153cda9313ad29142731b17049ad522dc26fa" />
+	</machine>
+	<machine name="NBA Fastbreak (Bally)(1997)(JPSalas)(1.0.0)[VP915]">
+		<description>NBA Fastbreak (Bally)(1997)(JPSalas)(1.0.0)[VP915]</description>
+		<rom name="nba-fastbreak_vp915.jpg" size="733882" crc="d50922bd" md5="ba8830b43f653f4625beb9fec278f1e2" sha1="e0c990e53a6e7d52022f9db6e61ca61c7ee99d89" />
+		<rom name="NBA-Fastbreak_VP915.vpt" size="32702464" crc="9f62d0ea" md5="b0c86b3849802b2f31bf578dfd3ecb40" sha1="109756c3f5fb2002a6df25640279a30be91b5be1" />
+	</machine>
+	<machine name="Night Rider (Bally)(1977)(TAB, saste5)(1.0.5)[VP910]">
+		<description>Night Rider (Bally)(1977)(TAB, saste5)(1.0.5)[VP910]</description>
+		<rom name="Night Rider (Bally)(1977)(TAB, saste5)(1.0.5)[VP910].vpt" size="8495104" crc="0a371f3b" md5="ff52cdab1f87b6a9b9bbcc0d16728b95" sha1="2886a9f24e259c2d0808d1928d2aa71721c15e22" />
+		<rom name="Night Rider screenshot.jpg" size="148663" crc="0772c45c" md5="7bb9f02d1902b337b1a6cff316125a02" sha1="54ffadd100d303ce855e6deea425fce9dd2c2040" />
+	</machine>
+	<machine name="Nitro Ground Shaker (Bally)(1980)(Eala Dubh Sidhe)(RC1a)[VP915][Desktop]">
+		<description>Nitro Ground Shaker (Bally)(1980)(Eala Dubh Sidhe)(RC1a)[VP915][Desktop]</description>
+		<rom name="ngs-screenshot.jpg" size="2575020" crc="f498253f" md5="ea397b2532c2140d13f7bc0283e0cbea" sha1="b4b8f2f02b945cbd6f557d040bc963567eb23568" />
+		<rom name="Nitro Ground Shaker (Bally 1980) VP9.15 Desktop RC1a.vpt" size="20320256" crc="0f21bfea" md5="0ff329230850095664c297e9d6af457b" sha1="d2d06e8f869fb60a273e301e4af7df07253c20c3" />
+	</machine>
+	<machine name="No Fear - Dangerous Sports (Williams)(1995)(JPSalas, Grizz, hassanchop)(1.0)[VP91x]">
+		<description>No Fear - Dangerous Sports (Williams)(1995)(JPSalas, Grizz, hassanchop)(1.0)[VP91x]</description>
+		<rom name="No-Fear_vp91x_1.0.vpt" size="11395072" crc="faf483dc" md5="a8e82b9ba45a947374afea6a40a2321c" sha1="7947850b2582b18d458ba5a76150fcdf1ea0e259" />
+		<rom name="screenshot.jpg" size="552496" crc="572d6444" md5="627c485445c85e9bc11ef19eac68f4a4" sha1="734e8ba6ec45177c77247c99644016b452905130" />
+	</machine>
+	<machine name="Oba Oba (Taito do Brasil)(1979)(Joao Accioly)(1.1)[VP916]">
+		<description>Oba Oba (Taito do Brasil)(1979)(Joao Accioly)(1.1)[VP916]</description>
+		<rom name="Fonts/Castle Bold_1.ttf" size="75976" crc="f0289d4f" md5="c166556ade3f8814d7321f870ce597bb" sha1="564395d97f5b396ca1c46b2ea7088a72c7e435a1" />
+		<rom name="Oba oba (Taito do Brasil)(1978)(j.accioly)(1.1)[VP916].vpt" size="5656576" crc="029ca763" md5="5f648e5e6a729e412779dc0a196bdb17" sha1="b7b5d575a7aa66847b973aa49dd7904817ad354a" />
+		<rom name="Oba Oba screenshot.jpg" size="455436" crc="e872ab54" md5="64153ae7393374b966e5b78267e4d62f" sha1="9e7df1b0edf734f2c0faa991952aef6e1daaa6a0" />
+		<rom name="Read me.txt" size="244" crc="bf236073" md5="81713c68838a8a8a007b6e239b481509" sha1="ca7bc7850bd7cd3146cf8d3fecf84aebee8dc364" />
+	</machine>
+	<machine name="Party Zone, The (Bally)(1991)(JPSalas)(1.2.3)[VP91x]">
+		<description>Party Zone, The (Bally)(1991)(JPSalas)(1.2.3)[VP91x]</description>
+		<rom name="Party_Zone_VP91x_1.2.3.vpt" size="17924096" crc="d4f05323" md5="5997216221dc5c7a1941919dc3d5af97" sha1="57d8188d90179c0adcbfd4c8aaf536a656b946f7" />
+		<rom name="PZ_JP_VP9.hta" size="15842" crc="f155dd9c" md5="03601a8128c69f00edb38ee17c7af9a4" sha1="1ed1b84823cbb8bc3ffdd557339491fbd8186762" />
+		<rom name="screenshot.jpg" size="631538" crc="67a9d62b" md5="8c9d7b4a078ff4ed743c9d5b63b35410" sha1="e0fd873daf9c8c47d6f6ebf457cd2229fe1369cd" />
+	</machine>
+	<machine name="Pirates of the Caribbean on Stranger Tides (Francesco Pinball)(1.01)[VP912]">
+		<description>Pirates of the Caribbean on Stranger Tides (Francesco Pinball)(1.01)[VP912]</description>
+		<rom name="1.0/POC.vpt" size="59252736" crc="204da62a" md5="6541a0bc4772813da1e384e54897d765" sha1="7fb44e75146456347aaf8587aefada7f5796d8a0" />
+		<rom name="1.01/POC.vpt" size="59322368" crc="7f4f0efb" md5="c42bc6801fd12ca3d8a44a637cfdd213" sha1="abe2df2ce73e5870a5524c9be4ff27b16ad8f5ba" />
+		<rom name="vpfonts/8-PM____.TTF" size="134000" crc="d4ecdb83" md5="3f75821653e1a8efb00810891edd9739" sha1="e0188d8becc068c8f9ee3d76a42da878c9f5560c" />
+		<rom name="vpfonts/AARDC___.TTF" size="48916" crc="0dfe2e9e" md5="c40732de3192e0f633ce2f007f4a9349" sha1="722a2639a085832592e33b716630135ac62f60e9" />
+		<rom name="vpfonts/Abduction.ttf" size="45092" crc="85939e39" md5="e13dd9a1550dcce637f754344d1c8611" sha1="b5b84c1a67058524126db723f999a4646864066d" />
+		<rom name="vpfonts/african.TTF" size="47596" crc="97a10b6c" md5="a19c1325b7b93513f1665d1f9ee8bc48" sha1="725a39f334fec0f4f175572e3635fa62196519a8" />
+		<rom name="vpfonts/AGENCY.TTF" size="57280" crc="a3d97cd8" md5="f9b9a4fce362a3a9111c138859ccb422" sha1="f78d52507605ef41d7778299cf57019c2018a674" />
+		<rom name="vpfonts/AGENCYB.TTF" size="59012" crc="ef78e62f" md5="f0d9cc320ea56aec6a4d5e2651115af0" sha1="ba572d9230f002f82c4154c3d8029015ef84f8b5" />
+		<rom name="vpfonts/alger.TTF" size="69504" crc="42bdc576" md5="2766d060d5ae2a1c102065956618af36" sha1="0f297993751d7709e60a9de21445a0b12030cdba" />
+		<rom name="vpfonts/ALIEESB_.TTF" size="17920" crc="baa3cc94" md5="3667c3af7fa1a4248bb5a9e44c153091" sha1="c131c67eee052c6ef93e0d6e425a5c652e2562d3" />
+		<rom name="vpfonts/ALIEN5.TTF" size="23692" crc="e98e7615" md5="6423b3fed5cd4cb1066078ff08be5002" sha1="04d0ebc5ef8ac2b83991963134f84b193df6d011" />
+		<rom name="vpfonts/AMERUNCN.TTF" size="51160" crc="a0220635" md5="a3834d3cc8e7b63c74c97609e2babb4d" sha1="717018adbee3bd4df802c8bff77d3b1bf5fa2274" />
+		<rom name="vpfonts/AMPH.TTF" size="43044" crc="bf3aa4c1" md5="0af35a7f2800a425af4ca1fd0f9bde23" sha1="221e04d207f36789b788598d93a4ca19c6527211" />
+		<rom name="vpfonts/AMUSAF__.TTF" size="22464" crc="60e47cb3" md5="f85352bcd62c022e35ff21e232111ee3" sha1="77305c113ab57b08dcde0c16963115b0b17f4b4d" />
+		<rom name="vpfonts/ANASTAS.TTF" size="34724" crc="24d8338c" md5="b86006d7843ee0e0f354c03497a65215" sha1="9adf0c4c88e4cb816f99579bbb7a7e745fae690d" />
+		<rom name="vpfonts/andyb.TTF" size="63396" crc="223ee157" md5="775c3814e9c1f228d495333e07580d59" sha1="b6a2486f54c72520a0a9f92e25db1f59853badf8" />
+		<rom name="vpfonts/annifont.ttf" size="37552" crc="97cd3db4" md5="2c64bb417056f321f9d7e61190e703aa" sha1="b8c3aa7ce4fd927626cb8aa2fa4c985bbef81604" />
+		<rom name="vpfonts/Another_.ttf" size="60536" crc="4e3f2290" md5="d7f3e56f3255cae11eeb2951357e2844" sha1="966fd7b0c89916ff682e16d343cf7f7c18aa1fee" />
+		<rom name="vpfonts/ARGENTUM.TTF" size="17620" crc="2a36d8e5" md5="66b131047274b4644829866f1b057a9a" sha1="15bc7d038ea75546d29596e72b3d2ffd389b67a5" />
+		<rom name="vpfonts/arial.ttf" size="311636" crc="7c959725" md5="6e7385fb7d6ceddf07b5a41e0bc2712d" sha1="49f0ee6148e6b674a60450d86faaddbb97d798f3" />
+		<rom name="vpfonts/Arialn.ttf" size="123976" crc="1166b365" md5="f0a7ff15e2b7456fb1b2565755e20ae2" sha1="d9fdae64204fe10917aff30aa1244ad521a2ab91" />
+		<rom name="vpfonts/ariblk.ttf" size="262176" crc="041709b9" md5="faae65b2a502111c22f8e48013008840" sha1="9f39ba1ddb6c05eaef227b31d1699e1200ea6712" />
+		<rom name="vpfonts/ASTUTE.TTF" size="35216" crc="4f6f94e2" md5="c45e46d602c767d53446a32051781229" sha1="ea0a1b07b65f180c2d476222ff03c423a647a781" />
+		<rom name="vpfonts/Atari raster.ttf" size="45644" crc="9a0cc2ac" md5="f29e77f43f9f0724d5faac08f7a1bbcb" sha1="a086711e7d014159a5caabcbeffbb4fbae22148a" />
+		<rom name="vpfonts/aucoin eb.ttf" size="67464" crc="409369dd" md5="caa90b465607a4d1e3fabcc2ecf5ef8d" sha1="506db779e6f97e3105757fe785524fc2addbb660" />
+		<rom name="vpfonts/augsburg.TTF" size="65208" crc="28c4366f" md5="e7fc42f49a5249beab44c9fe8735b476" sha1="2519a906ec5f1ff9aec9c7696e0a10dddc0764e7" />
+		<rom name="vpfonts/avante.TTF" size="22668" crc="4d7fd42b" md5="a88e25fe8402ef8b0a2f6a92eea38922" sha1="ae7d342c2472cb74d903c55301be872b69b950ae" />
+		<rom name="vpfonts/BALLSONT.TTF" size="101072" crc="4e33b384" md5="cf09c98cfea69fc76842ec3efefc48bc" sha1="817746994f3500c2d6f3801d8117f70f9043dbf9" />
+		<rom name="vpfonts/Banff.ttf" size="38252" crc="3cab846b" md5="126522f663cf8db80950447f8ef3b5cd" sha1="f84be8652faacb7622a6cea2d9242e52e2752b53" />
+		<rom name="vpfonts/BANGN___.TTF" size="60220" crc="baf533a6" md5="9f587d4beb89caf30e73a02316fffaf2" sha1="d3fff69986db95780f8f5abbae5a98b86953e72a" />
+		<rom name="vpfonts/BARBW___.TTF" size="118916" crc="7b3404dd" md5="04c9f19f359de5a8f8f5745947fd0ae7" sha1="dfaa540ba255ec76aed83067ae298d24539eaa36" />
+		<rom name="vpfonts/BATTLEST.TTF" size="28856" crc="f8aaf212" md5="8ff7a9ff59065ffbb2560e098047e805" sha1="97157579755a4b6486d12b0b643a59525bb2a936" />
+		<rom name="vpfonts/BENGUIAB.TTF" size="49004" crc="1155d844" md5="4870bf90f6f563bc6dfb837b51ef801b" sha1="af05ac4eb35d3a856f42e575923c6f2e4100d407" />
+		<rom name="vpfonts/BIMINI__.TTF" size="40484" crc="b34189b0" md5="66ba22f8801ef7bd70f847e8a384a7d0" sha1="c7dcd88c080b01cdc3c1eed417a2ee3a1e084b76" />
+		<rom name="vpfonts/BINNERN.TTF" size="53492" crc="e92f6e48" md5="678fdb7097fa2a8eac8dc3ab58aa8906" sha1="170924c5d2f000ef7b58dfa54c24cd5d4a928eaa" />
+		<rom name="vpfonts/Biometri.ttf" size="97216" crc="74fb601a" md5="eba37e256da1a3f7d2dad16a08f3bbfe" sha1="7e6ab125e0ae7d4c82be4ff8fb3dcc6543b39b5f" />
+		<rom name="vpfonts/Blkchcry.ttf" size="56732" crc="42c627ed" md5="753833d2833e9f73b56cffae357cf95f" sha1="893a162d547fb7be51604699642d3f9bd9af6857" />
+		<rom name="vpfonts/bloodcyr.ttf" size="120184" crc="5e88e259" md5="55b9d867bab0be9213426fa479a94b1b" sha1="75a5b37604c1769deaf240cef7d73e84c13025cf" />
+		<rom name="vpfonts/Bloodfea.TTF" size="62168" crc="e1bc5993" md5="f6047d67d59fd392f87838fa7e6507c0" sha1="cfa1988faf454991f0601c88df3346379fac3df7" />
+		<rom name="vpfonts/bloodrac.ttf" size="50120" crc="66893b8e" md5="1e07bf79529fb5078152838ad2c5a565" sha1="fb0f4410696b6a0aa6dd1c75544ccb0861bfcac4" />
+		<rom name="vpfonts/BLOODY.TTF" size="45264" crc="da071b3b" md5="d1a746a818a459b74bed44bb69837495" sha1="38165945befb4bd99a04f9ef841a1dfde99e88ac" />
+		<rom name="vpfonts/BNJdigital.ttf" size="2892" crc="9648b7b9" md5="5a3ec3d3c85f67d7fbf20635e2436d9c" sha1="f1c423264ea6b5bbd2d3b7bc91af4a5c0303deeb" />
+		<rom name="vpfonts/Bones.ttf" size="76360" crc="f1310f81" md5="a7d83a4f1e2e2f99f7ae21f1aec30e58" sha1="de46d4e910cc9e404862ddfec8b0dfb5c9f5376b" />
+		<rom name="vpfonts/BONZAI.TTF" size="23004" crc="8e2745ea" md5="f6fffebac6d2661dc083e4e47d9b4243" sha1="be72d14a4f6f68c6622ea4f5a12a09162b977932" />
+		<rom name="vpfonts/bookosb.ttf" size="143368" crc="ce4356a2" md5="a2ad419cbc4f489bc5caa1ef90e0df53" sha1="4d5babff3e234439665c40f8b707fd52398cb9e7" />
+		<rom name="vpfonts/BRADHITC.TTF" size="105296" crc="66d17504" md5="0252223e8c36008b595f5e379ad5e524" sha1="bc773a38f567c9ecec65485bc588065f2215a386" />
+		<rom name="vpfonts/BRITANIC.TTF" size="35360" crc="b214926b" md5="8be4a2f403c2dc27187d892cca388e24" sha1="7cc410a9333fd41aa97143e16fcc8b701253a604" />
+		<rom name="vpfonts/BROADWAY.TTF" size="71520" crc="e2e03ba1" md5="41aa628f4f2f8e6c9f1e1f239c075b81" sha1="799eba38ac6490eaf1b8a2565f48eaf624e8ea6e" />
+		<rom name="vpfonts/CALIST.TTF" size="70828" crc="fb3f6ca4" md5="2568e173df3a278bff48d9926aa656f6" sha1="86d400039481710a6134ceaba7a3f9e9b44c9f86" />
+		<rom name="vpfonts/CARDS.TTF" size="42064" crc="a3d1cbf2" md5="bcfa084f8632f268e6f54caae6dfbb7f" sha1="0b2d4f93aac3915f357ba4d37f3d8f8476c75f6d" />
+		<rom name="vpfonts/Celticmd.TTF" size="127916" crc="432e0cda" md5="90fd385f9cabf817ed0504aa58d5b9a0" sha1="2a1f598ecf49eb786234cd8f57f9c30f2310a5f1" />
+		<rom name="vpfonts/CHILLER.TTF" size="96452" crc="36e33837" md5="b1b2e2db2eef02d230247a474d1d66a6" sha1="4b53fa1bded6c26212e27041afabf457808ef316" />
+		<rom name="vpfonts/CNTDWNN.TTF" size="64384" crc="14195ec5" md5="102077badcb3d3551f749d257eac746a" sha1="432c5452cc3ef27653329d4136d6b5f9265da9a2" />
+		<rom name="vpfonts/COLLEGE.TTF" size="11336" crc="f56f5de4" md5="f9846a1309de5645385743a1ae8c61ad" sha1="735d351707752bccb18b0500ab8e3404a2383ea1" />
+		<rom name="vpfonts/COLLEGEB.TTF" size="11476" crc="5be53654" md5="4d4fda0c044747ee3871f5842f76e000" sha1="f2bcbd8328968c3cd6ef63361d9fcdde33c25d41" />
+		<rom name="vpfonts/COLLEGES.TTF" size="5960" crc="6a86ffbc" md5="0a667fe3fed65ed5096536abb69a591c" sha1="51a26d90673f4ae0553e51243c0bdf033aa0c39f" />
+		<rom name="vpfonts/COMIC6.TTF" size="11868" crc="c4fb235e" md5="3bbef31d8c5fa5da181a4ae91017a4a9" sha1="3c49651b3a52167b3afd827516a169fc62761e9e" />
+		<rom name="vpfonts/comic.ttf" size="126364" crc="ac81e7e6" md5="a50f9c96a76356e3d01013e0b042989f" sha1="d17fae7a6628e2bc4c31a2074b666a775eed9055" />
+		<rom name="vpfonts/comicbd.ttf" size="111476" crc="8520cb41" md5="81d64ec3675c4adc14e9ad2c5c8103a7" sha1="5518f0bdebe7212d10492ab6f4fff9b0230c3cbe" />
+		<rom name="vpfonts/COMPSTYL.TTF" size="41640" crc="963b556a" md5="64d930983e6ba65cfd2ec099ab7488f6" sha1="f4bbb29956843a0246e1be9bd28e3114fba14076" />
+		<rom name="vpfonts/COMPUTER.TTF" size="39104" crc="a5d24216" md5="e0dacec61ffdd2bee694dc0928642f84" sha1="0bf87958eaa6daf3cf386cec98b09f4d46e8b228" />
+		<rom name="vpfonts/COOLVETI.TTF" size="42204" crc="3f6a49e4" md5="c92a76c78cce1709863e6007a1e6e8e8" sha1="f17ee19d6c4dee1194c25215d3c5f34c8d6524b0" />
+		<rom name="vpfonts/copper.TTF" size="31680" crc="77988818" md5="488a27d167416b90b3defc4ba12e3e16" sha1="6c33cccfe7d283b4b6ef7133b9b89a37d548012e" />
+		<rom name="vpfonts/COPRGTB.TTF" size="61552" crc="b783d93f" md5="c277b2c27239a1c8de888444341d1c62" sha1="1a4a190d2e949d5e16f1349e775fc4764e32e821" />
+		<rom name="vpfonts/COPRGTL.TTF" size="57224" crc="319b4d65" md5="13c596c0b79552874adcc23525de43b4" sha1="aae564f108aeb7410bd3a7551a40d0da9728c465" />
+		<rom name="vpfonts/CORONET.TTF" size="84460" crc="afaa52e7" md5="faa174bfadcc755c9933d1df31d41cfe" sha1="fc662feaf23404483b4f87ce810835f83aaa2450" />
+		<rom name="vpfonts/courbd.ttf" size="312920" crc="8a4c2bab" md5="53540286132e62b055ed9d953c1acc15" sha1="7d50aa03b66b633e3c1f7e08de0f58f6eef6a0f7" />
+		<rom name="vpfonts/CREEPY__.TTF" size="69376" crc="e3bc7e89" md5="0d7ce96ecd8ecc2642e1302f3a63f6b8" sha1="07f3578648f7c84ad3047376ae64a3077bf49920" />
+		<rom name="vpfonts/cry.ttf" size="24132" crc="5fe05ac5" md5="6dc18381d104ac45599a04c4a684b28a" sha1="dd396b21b72519716a58c7d8818bfd1035dd6b97" />
+		<rom name="vpfonts/Cupertnn.TTF" size="43752" crc="d8173fcd" md5="23d3447af31d643392366c18bebf7838" sha1="a99ff0d15e956800d929c5ca918d9df7167ec751" />
+		<rom name="vpfonts/DDDRNDSQ.TTF" size="33024" crc="53a1d679" md5="5da632f5a5bc6a5dd34abccf2f031de0" sha1="844cc1ef367b9e78087d878c9401a5b383d0e03f" />
+		<rom name="vpfonts/DEADJIM.TTF" size="8076" crc="fd131073" md5="349d1e95b71926e25463ff87985cf79a" sha1="0fb49970295b4ac642701908c80d9dba75afbaca" />
+		<rom name="vpfonts/Denslow.ttf" size="67704" crc="64316158" md5="029a136250017faa86634bbd18a43054" sha1="cf358218e55dcfb46bb3a53970995ef465740a81" />
+		<rom name="vpfonts/desdemon.TTF" size="54476" crc="69fc47f0" md5="7f91c468c9207bd7714bd29f46d9e28b" sha1="e8809e182499c8d49772c68f95247f3e8d54c8ae" />
+		<rom name="vpfonts/DIENASTY.TTF" size="39532" crc="abc01ab1" md5="5ea29d471972e56ec7b73b390f3af7f0" sha1="4545647247007fa9935947b21bb49397fdd1ecc8" />
+		<rom name="vpfonts/DIGIFACE.TTF" size="34860" crc="7bbef353" md5="5a680984516580719b624ddeb84de5f4" sha1="02d184d8a6db1e0ac6a77273090d14a097aa012f" />
+		<rom name="vpfonts/Digir___.ttf" size="37736" crc="7cd2c10e" md5="1c8da74ab3536f3974b2c1f58e1be9af" sha1="dd58a9176b945cd8bb3f27b9e092e50d8a1f0383" />
+		<rom name="vpfonts/Digireu_.TTF" size="31136" crc="b4aefc58" md5="4e827477bed45d7f8c9299008153bb11" sha1="7746fcecdfaadf8518fee4dfb8c460d387b4723b" />
+		<rom name="vpfonts/Digirtu_.ttf" size="27492" crc="56545158" md5="aa6d6a4705c8670a71ae21ec08744af5" sha1="08f84389d8f6c59682afd0393449a3fca995b4f2" />
+		<rom name="vpfonts/DIGIRU__.TTF" size="31376" crc="35f17b31" md5="a7e5c807368c4358797ff7d684d3a265" sha1="a508d43667048b31cc438c0569ce087523e9918f" />
+		<rom name="vpfonts/DISTGORG.TTF" size="31848" crc="66182eb6" md5="052829b30de3f1e117dcec88483bed89" sha1="156618482ea618c6cee2b90633424b3cec3afcbb" />
+		<rom name="vpfonts/DMDFONT.FON" size="5952" crc="970a8af1" md5="90ba389c54bf86f5652bda070d8379e2" sha1="c8c23d7695e3f379863c7630ed5a92c41379bb4c" />
+		<rom name="vpfonts/doom.ttf" size="29368" crc="44088fbc" md5="d398da6faddf8911ef608f1e8ee6ed37" sha1="b51b465ea398a52f096faa980b6306f7c434d5ca" />
+		<rom name="vpfonts/dotcom.TTF" size="17224" crc="27dcb551" md5="2ab0496111566dfc84ba8675767d4c96" sha1="deb56ae4e9d36103b9c36148e32563fde79bfdfd" />
+		<rom name="vpfonts/DOTMAT.TTF" size="30212" crc="bcabdddf" md5="e780dc7bf8f4afff3f867b1640daeebb" sha1="0897c516850a1fbeb74b24b5683eb591f7fb9eda" />
+		<rom name="vpfonts/dungeon.ttf" size="67904" crc="0118d622" md5="2153e089fa4643da0f31b5c1f8cdc5a8" sha1="cab59d237e6da2ef70960925f8daa0835eabe529" />
+		<rom name="vpfonts/EARTH.TTF" size="22776" crc="b27518dd" md5="d06dcb01659a62736a37c145b59b5197" sha1="b1b201771f092781f685cabd2d55b65b1fb68097" />
+		<rom name="vpfonts/Eclipse.ttf" size="15816" crc="3da584b9" md5="ffc2af5a25f0eace10db51617f2e3f09" sha1="8d69baad9acc311ff97f3dec0fd6f74f5549e3ad" />
+		<rom name="vpfonts/EDUNDOT.TTF" size="84628" crc="2167df41" md5="e068d61714569f160ad99f0461c0ad7b" sha1="c7ca77fd5e453100c0940c42d4b15e7895e2118b" />
+		<rom name="vpfonts/EMBOSST1.TTF" size="44780" crc="512103aa" md5="8c0c9d0380da3c0e6adf633abc776ddf" sha1="016c90f74dccdf8a4648ff2b781f1ee03025f037" />
+		<rom name="vpfonts/Eras000.ttf" size="32580" crc="2ecbbb53" md5="ee84c1ff63e990ec2f5399a52618a09f" sha1="26fd69d155e133fb70fb12a948a2aca0dfd1cdf0" />
+		<rom name="vpfonts/EXCEL.TTF" size="11436" crc="459a4f80" md5="69ac5637946128584b6dbcccd629f525" sha1="0f06c1ab35b92ecbb8df3975687ec4cdeba84360" />
+		<rom name="vpfonts/F1.FON" size="28896" crc="2454d50c" md5="5ff960f00f6df3d4dba35893eef7721a" sha1="d3e7d0e3e2de7585029fae63cfd3a2004582ae77" />
+		<rom name="vpfonts/Fadeb___.ttf" size="53876" crc="e056e6aa" md5="2d98e6a056c8e85151ddea9ec443a76f" sha1="b62c07dd89c8eda79ff93cc834093de74a3da9f9" />
+		<rom name="vpfonts/fcbswfte.ttf" size="33908" crc="8ad2e2e1" md5="14b06966f20d547f4d09e0540ddc5bab" sha1="d6462d53e0b2a34eac7563f1d6d9bbcd5945d566" />
+		<rom name="vpfonts/Figaro.ttf" size="37888" crc="26290578" md5="14ea7d043ed2e5fc530d2ca73fd56f5a" sha1="92ef6fd134602d7a1c35dd896274f6486c85de18" />
+		<rom name="vpfonts/FinalNew.ttf" size="19812" crc="07879de9" md5="e51fb96ce7dced66c4c8ee5048316f7a" sha1="86fe891b82a490b91da23148043a8777866bb50f" />
+		<rom name="vpfonts/FMOF.TTF" size="53640" crc="c2ce5a82" md5="a8d6f0e45109837ba0b840849fa159a0" sha1="e84785c806cd5b8c6d876ecf23e5162b64403e0b" />
+		<rom name="vpfonts/FONTS___.TTF" size="43156" crc="fb7a253c" md5="e6d009ab2ea3b918df8787768b96293a" sha1="1a06e69889c164de71675ddede2a7442a1328fa2" />
+		<rom name="vpfonts/FONTT___.TTF" size="62452" crc="3a68a8e6" md5="aefdb81c3eafbb34a3b291227b408cd2" sha1="be3cec97de12c3ca249362c7fb694aaa6142610e" />
+		<rom name="vpfonts/FutabaB1.ttf" size="44808" crc="9d25bc5c" md5="492d79096599acd155ee13bd9857ba47" sha1="8c3965da7d73b6bdfffc1477cdd5cc14ef9bf59d" />
+		<rom name="vpfonts/FUTRFW.TTF" size="39052" crc="4f52572c" md5="0d4430ecda415769e1e7989ab0182344" sha1="22a841cdef347ca654b0621ddaca629cc2a14c9a" />
+		<rom name="vpfonts/futuran.TTF" size="37688" crc="61dbcea5" md5="f9f02ed05aa86534c3842d44cb20d6c4" sha1="1bcd70a20cff464c22ac4c9519fb9f72dd9be22a" />
+		<rom name="vpfonts/GARA.TTF" size="196588" crc="da8a5c69" md5="2bf40ab72ea4897a3fd9b6e48b233a19" sha1="7f9de5f971ba244ba9e8ef2dfe8115081507f294" />
+		<rom name="vpfonts/georgia.ttf" size="142964" crc="2e09794a" md5="f4b306eed95aa7d274840533be635532" sha1="5d69d55862471d18f1c22132a44f05291134cbf4" />
+		<rom name="vpfonts/GLIMSTIC.TTF" size="75592" crc="56de84cb" md5="f76f5039c397f966febd79e32a7cae31" sha1="fe8850137f2021d2b13dff1201571158d0df7090" />
+		<rom name="vpfonts/GoLong.ttf" size="6848" crc="056e4a65" md5="6a11ad5d20dd03075e163af15e6e8286" sha1="e81783fa3539807fea04be004305becdf21f2f71" />
+		<rom name="vpfonts/GOODFISB.TTF" size="51112" crc="b5fdd69d" md5="465e0a597aacbf4aae15a2589fda954f" sha1="862e6694a555f560e969bafc33215d0e07e5abdb" />
+		<rom name="vpfonts/GOODFISH.TTF" size="55856" crc="15fcb648" md5="6c32ea7a7a00811fadbcf82f93f289bc" sha1="d368b4a08cff7a482e841d3cfb49b2659f54c7ad" />
+		<rom name="vpfonts/GOTHIC.TTF" size="61280" crc="f54af41b" md5="8917856b57da55472606a59f43b41588" sha1="035669a8e8a5b486c3300eb9ea7a6672bb7ac331" />
+		<rom name="vpfonts/GOTTLIEB.TTF" size="2508" crc="65115886" md5="62b06e1b2029dabfcbec85a9e312bca5" sha1="76f6eede4bd05a0d2418640e3a6224b6ac1aaab9" />
+		<rom name="vpfonts/goudysto.TTF" size="48356" crc="09484b4c" md5="cb1a9d8c8e33d221e26a0d8247856c5e" sha1="bcb1dade9b17af311bbabe45b56720168bba386c" />
+		<rom name="vpfonts/GSTBINRM.TTF" size="29080" crc="19ab563c" md5="7fd03c34aacbb6dc751dfa07539fd981" sha1="011fccb77f92562f7bf26949f1123fd08b03095a" />
+		<rom name="vpfonts/hallown.TTF" size="57948" crc="8d6a7d06" md5="4f95308a3e3ca267fc5b52cdb201de02" sha1="7cfbd90d1bf63d9baa864b5ec3e313d3bf1e7408" />
+		<rom name="vpfonts/HandelGoth.ttf" size="33536" crc="2005c69d" md5="6e73e2aaa6671253deb7c28bc179d89b" sha1="6d28dda33f42ce9601a990c5cf072e1d690170a1" />
+		<rom name="vpfonts/Happy.ttf" size="28452" crc="44ee9137" md5="cd7b89069ff59db7c9e6ac94114f478f" sha1="cd8628b2ca337d1f8e34c01903fe3c86b25c38fc" />
+		<rom name="vpfonts/HARLOW.TTF" size="71624" crc="0062c60c" md5="32a3fdeb9206c063324bc5bfe41b6832" sha1="667a07b23eda8c3d6fc3ffc1b7082cdfbb4b9407" />
+		<rom name="vpfonts/HARRYP__.TTF" size="27432" crc="dec4d00e" md5="181ef9a7aee45c119e68f294e8426a3a" sha1="ed60497634abc65c23c4a22f83950865893757de" />
+		<rom name="vpfonts/HEMIHEAD.TTF" size="24440" crc="c87c69b8" md5="ed43a6aae7b02c27f4db3a11c6449c94" sha1="bf4b48a0993251bdf290dc2381a847f2f6a55661" />
+		<rom name="vpfonts/Highlander.ttf" size="17828" crc="84ebded6" md5="a0f29ffff1acd895bb8dd7f81d852f36" sha1="86cd2188b1d616c6a063c821d6392cd76d1a117c" />
+		<rom name="vpfonts/HIGHSPEE.TTF" size="66760" crc="5fb98dbd" md5="5f652ebcea0b79b0360e4c64ad5d6c95" sha1="e55bbea4a02920e6d426faf8fb61b4eff2cd3fd2" />
+		<rom name="vpfonts/HONDAN.TTF" size="32608" crc="57f15917" md5="85469fcbe931e8a73501de47576e5ec8" sha1="f70cbbb50bf93e6fbfd6ab01e48f6ae193be6c8a" />
+		<rom name="vpfonts/hotdog.TTF" size="21084" crc="aa9cbbb6" md5="722289c6ef0c75f70a05fd7f514cee6d" sha1="e32f6bd2c64dda829ae1acae44737c78765fa7fa" />
+		<rom name="vpfonts/IMPACT.TTF" size="136048" crc="638a4ccc" md5="55672033552559c3a89d999b5badd8c0" sha1="807b5e24d402fcdac6f9e9d97be071285ad27958" />
+		<rom name="vpfonts/IMPRESS.TTF" size="92392" crc="11cef541" md5="601c2357cd67502c2ed3b0ee2cb959be" sha1="37b719c3844fc541a62ca1cb27a8f0687576d769" />
+		<rom name="vpfonts/Itckrist.ttf" size="54132" crc="43c6891f" md5="5d0684caf9aff9baee3a21c0d05c664d" sha1="61e64c4e8975403f7d4a073dc8ddfb602acab0b5" />
+		<rom name="vpfonts/JOYSTIX.TTF" size="47060" crc="697c3446" md5="45c6126a088ec964c786071280ee67c4" sha1="d2e9bbfe5e51253482acedf06e0d387b755cead3" />
+		<rom name="vpfonts/jpfont.ttf" size="56440" crc="b91e001d" md5="712f3284d2c9800cdcd489e46b98dae4" sha1="c2756c222734e781a6326aae8c85dd1dedf5e9a3" />
+		<rom name="vpfonts/Kitchenpolice.TTF" size="30524" crc="2ea0fae5" md5="ba46b70464b3b247d80fc7f560dc1ab0" sha1="2b708949cb0cbde646d55d603ee417e68b7ffce1" />
+		<rom name="vpfonts/La Bamba LET.ttf" size="39265" crc="e60c6e8e" md5="8666001912c7b3b7ad4d5326ab121b6f" sha1="6e22d73b18e5c4f8b6b651fbff7e8eab14c2f051" />
+		<rom name="vpfonts/LASER4.TTF" size="13856" crc="8e26c202" md5="ae8052a5df63286a7abe53b8d944b080" sha1="bcb1c679b862c62dc436b8e60b6453c906be777c" />
+		<rom name="vpfonts/LCDGRID.TTF" size="29008" crc="7fbdda34" md5="326143c1ef6e7dc2957f4293cc58ac2e" sha1="3ce3b17ddcc07756f851ff08ec9f2c73c8106d81" />
+		<rom name="vpfonts/LED.ttf" size="32368" crc="8bb9cccf" md5="941981e889de59e543f3fa469822a352" sha1="5de776ed3038467bc45ed06040dc30fa9b3b4e8c" />
+		<rom name="vpfonts/LIBEL.TTF" size="53500" crc="700f4a6d" md5="07ac1b4c6f743ac79438d4144ead1f4e" sha1="6f9920523215f816b3460d91e1c0511323503452" />
+		<rom name="vpfonts/LOKICOLA.TTF" size="57104" crc="a1076a7f" md5="2ebdcbc9946219e929e10c06d273a14d" sha1="1c71a2bc3036008775d6173153cff7a71d4bb98f" />
+		<rom name="vpfonts/LSANSUNI.TTF" size="304932" crc="796df05a" md5="26c724b3b181aad246aa1321eaa9ea21" sha1="8aae6e177d3dbf683732d23f8fc2f6383c5c1dae" />
+		<rom name="vpfonts/MATISSE.TTF" size="55240" crc="fad6749a" md5="ecf665ef7aa7551d8e7603ad8d56c26e" sha1="87f8e8e9164e2a16481ef792a1f21bdcbaae857a" />
+		<rom name="vpfonts/Merscrb.ttf" size="36668" crc="67596e13" md5="bb583949722f0d2725083f5ec13ae51a" sha1="a8606dc8ef6240820bed906d605fdd78f5fdd750" />
+		<rom name="vpfonts/metro_b.ttf" size="76420" crc="3f6728e0" md5="3cc0f1b0d99fafed96eba0abda5a2783" sha1="e513e51102ce3e7c5cb6b6ff0e255f6a4bb196e3" />
+		<rom name="vpfonts/MK3.TTF" size="37616" crc="c0e2cfd9" md5="958ed4dd2c165ac7422bb70dc3ab3e71" sha1="abdc3fd4bf4fe28bf45b8081012cd9d8109abc9f" />
+		<rom name="vpfonts/mlsgi.TTF" size="51324" crc="b4497671" md5="7ba38c29d3a2ee5c5494ce85ac34058c" sha1="a4fec9a6137eb59ff7fa51f105a1e9fd5aba8b32" />
+		<rom name="vpfonts/mlsgo.TTF" size="64694" crc="0e5fa439" md5="20f7b9ef4d32ec57186e7a60bf5e5521" sha1="26348bae9d28884846135eb203bc30be119f84ac" />
+		<rom name="vpfonts/mlsjh.TTF" size="48104" crc="ceaaf4ad" md5="3e32df3c7b216ec0524c90592744186b" sha1="dbc56840f62690b7d23e99367b99ab6e4bb8e8fe" />
+		<rom name="vpfonts/MO.TTF" size="69500" crc="0144344d" md5="e127ebd29429bfc7b8fb5cf1b1626f26" sha1="22139d5ea27e5efed4a48e751b6c9482e6a56de2" />
+		<rom name="vpfonts/MORPHEUS.TTF" size="68044" crc="597d6049" md5="f54b3fda53fbffc530a3b9a70d271990" sha1="c874b05abaea08ec4829a08668fc9fc7b892feca" />
+		<rom name="vpfonts/MS Sans Serif.fon" size="64656" crc="32ec85e8" md5="1b42ba7845a2e4aaa7ca60ad2a5d9789" sha1="c278252d15c47c16ee1742095e20610018a2b53b" />
+		<rom name="vpfonts/MTCORSVA.TTF" size="157360" crc="95d57791" md5="b98f57ac686fc135914a844ec0ce8d49" sha1="77ddc3e97898d7363ba296925181ac5430c38cb1" />
+		<rom name="vpfonts/News Gothic BT.TTF" size="37264" crc="0a9a0e84" md5="0eac4a194bd7e73bcb4853577000db71" sha1="b982889bf83308b9b0cd2f575974931e5f2d2e7b" />
+		<rom name="vpfonts/Old Trek.ttf" size="27796" crc="2d5c93a1" md5="49b5a5fa1160b9ed90ad07bb68ed7fad" sha1="91311503e4beb3376e0220af7f113b40a929c0f6" />
+		<rom name="vpfonts/OLDENG.TTF" size="68632" crc="612b0cb8" md5="51e06c6c7b1bc20fe7523eed523117af" sha1="35b6f13163ef452f7d1cc9a96fb0d83ca2a5f4a5" />
+		<rom name="vpfonts/OldTown.TTF" size="20076" crc="bebc01e6" md5="14be17ce1310c0f1929fa72399ecb7c8" sha1="40bac43e5a4946d055f7840103e8102a17706e3a" />
+		<rom name="vpfonts/ORBITBN.TTF" size="49644" crc="0c100899" md5="baf011b3f51317bacdcafb37564db950" sha1="993650346aaa9e42d39fb8a3068376a7c7563f18" />
+		<rom name="vpfonts/Orient.ttf" size="8840" crc="1bc04e28" md5="ca0cb8a525af232eee15f1c5facd4fd1" sha1="0a7970613f23869999b17bc4fd6bb88825e8c0cb" />
+		<rom name="vpfonts/PARISR__.TTF" size="49824" crc="2f732538" md5="f738b413c61a3abf3e560dd531b2afaa" sha1="3cc339c3025ff6c01b2262a7ab12a42a3dd04692" />
+		<rom name="vpfonts/Patriot.ttf" size="45656" crc="d1c25915" md5="907a040185012b3b5477ab63a2d6f628" sha1="81ab001c06f00804f4750ad18477e64d011746ea" />
+		<rom name="vpfonts/personal.ttf" size="26740" crc="2313d2d5" md5="96bad917094b89f2faf714e7b44e383b" sha1="983a452903604d6b42321a8815dd44306a4f23ea" />
+		<rom name="vpfonts/phorfeit.ttf" size="18772" crc="bea426ac" md5="917ae8e3ecb46354a84a2afe75c5c2ee" sha1="5b7313d123c136dbb62ad81ad3147ae00389ac02" />
+		<rom name="vpfonts/Pinball.ttf" size="23548" crc="02e83ad1" md5="a50ceaf415b07a0c9e467b03f2127a82" sha1="a3285aedc5d4d42e7bf6a06713562bc94a165f97" />
+		<rom name="vpfonts/PinballFull.ttf" size="14956" crc="2e57d33e" md5="4c45684d4ce1cbdbfc87bc107dcb1dde" sha1="31b88286de6728e73cc0c94045c61c6f7e24d91f" />
+		<rom name="vpfonts/PLACCOND.TTF" size="35328" crc="799470fc" md5="7b323b28e211471e522afb033f9abe1c" sha1="5aa558d46ae45b7dc5dfef7fcdae86412fb39b21" />
+		<rom name="vpfonts/POMPC.TTF" size="41228" crc="7b10e39d" md5="0fec7b5dab2ce3703fa320b2f78fdabf" sha1="ad125e45bb4fb898767d866728220e560be46d6c" />
+		<rom name="vpfonts/potterfuseletter.TTF" size="27276" crc="8acb89c0" md5="e73f052d6bbc1096460c732f2ed73845" sha1="1fe58acf3ead90431175d7d48caf75fb49df30b3" />
+		<rom name="vpfonts/PumpDemi.ttf" size="31808" crc="8374e456" md5="992862b92aabbb2b28df3298fc106c5f" sha1="0bedcae720339174e887b638a0de2edf3e7bf338" />
+		<rom name="vpfonts/PunchLabel.TTF" size="29868" crc="e53de39a" md5="586299b123b46ba6a27b7c186b9a3399" sha1="a55b154fd1dbddcfd460bc96408ae5e7cc63b2ee" />
+		<rom name="vpfonts/PYXID.TTF" size="58140" crc="1b1582e0" md5="403bd8961bbe03699569784188e81fe4" sha1="a494f9cfafc716d350e5d225460b212017f56848" />
+		<rom name="vpfonts/quartz.TTF" size="57860" crc="2915b2ed" md5="55f96a010646b90457e9bc03d43e2b67" sha1="74d93c590b5de2e4ee03fd3d3cc8ea64439131cc" />
+		<rom name="vpfonts/Radio.ttf" size="14552" crc="0bf7fdc3" md5="a96b9fb39d462fbeb57bbc109033f86e" sha1="6d1975773c0eb63eae099d5a7012ae54ce3dcd6d" />
+		<rom name="vpfonts/ransom.TTF" size="71996" crc="20234f63" md5="e3d314cb0ca9960a6c8ce55da63ed435" sha1="bedf94e8e079e890e7b31cc63112f5ec62410659" />
+		<rom name="vpfonts/Rf7.fon" size="58832" crc="581dd136" md5="c9c4012a4dd1c373f853cabbcdff8c6d" sha1="7c030e403e4c0998593755766696ba92843aa5a1" />
+		<rom name="vpfonts/ROCKFONT.TTF" size="60488" crc="f3d41959" md5="d5c6dabda4fd0c2973e45e30a01fcab0" sha1="657bad9ec0463313389f3851d0b5702fd5b62534" />
+		<rom name="vpfonts/romantic.ttf" size="56236" crc="bd4b2a36" md5="d77e80136373bc1c5b2b68f23d7abb5a" sha1="c6d215eacbb41a4c1ba6ec77abc8048757307580" />
+		<rom name="vpfonts/ROOSTHEA.TTF" size="19416" crc="6da32960" md5="8ffa7dd3afb9767697955a398fc997f0" sha1="0b7cdcb3931190925b7f680fbd9b5fa6265e26e7" />
+		<rom name="vpfonts/sandoval.ttf" size="40712" crc="dab4cede" md5="7ff955de41cdfa448690ed94bcf94d2a" sha1="501f885f9a7fb0104b000dd7f47a12cae9e1bb65" />
+		<rom name="vpfonts/scifie.ttf" size="33356" crc="d9b3cb23" md5="b19cbee800dac7a126da1b16969f0d8f" sha1="85ba9b92185560ce6a0ad66e1e8c85e04bea31fb" />
+		<rom name="vpfonts/scifieo.ttf" size="48928" crc="85e76468" md5="9664773786e1e1592185414f52938140" sha1="641e7c371c451ea9111006f69a6b031fac3d9993" />
+		<rom name="vpfonts/SF CHROM.TTF" size="39252" crc="98415ad1" md5="0d26ded91450fe62cd940525ef0be145" sha1="1e5515e4d3935d43bbb3cbe8a2323eb4ee65875d" />
+		<rom name="vpfonts/SF Comic Script.ttf" size="42888" crc="b70537fb" md5="6051b41cc5c495d20fba952b9799b09e" sha1="e9298aafcb66485eff59c992f6fb37d365d5caea" />
+		<rom name="vpfonts/SFATAR~1.TTF" size="22400" crc="6eb3f4d1" md5="c493fede9be21fb89eb0f9075bc4829c" sha1="cabda089e35db2a1b14a6ecd9f5801ab1fe3b373" />
+		<rom name="vpfonts/Silicon.TTF" size="57292" crc="eb3f67f9" md5="7825b770ca1507a5d34ab7ba9ff97c35" sha1="5627d8d5e6a0c245c93ea341fb6053a0913f2326" />
+		<rom name="vpfonts/smalle.fon" size="26112" crc="b796879f" md5="abc2dda06ac9d95b210a3a805d724391" sha1="f696b1221ce83c5b9a01ffc53a4a07e10fa31226" />
+		<rom name="vpfonts/SNAP.TTF" size="33616" crc="86c3f2d0" md5="d0725db773b460ed3a456370c80f875d" sha1="b19a0377792d280ee39e029110d274902ecf6773" />
+		<rom name="vpfonts/SOUVNRL.TTF" size="54420" crc="abdd6379" md5="11b94b67c7402dceba89abf889c66a7a" sha1="2b91334febf08accb084d88d6a59bdd1921422f1" />
+		<rom name="vpfonts/SPACE AG.TTF" size="26736" crc="ea1d9ed0" md5="ce43c6569134811c6828717671d38916" sha1="e12400246111da1a1b62ad9efdf8846b8e35a910" />
+		<rom name="vpfonts/SQUEALER.TTF" size="9216" crc="945d0401" md5="9e93a5ecbb80e006c91fa76d20dcf8e8" sha1="de07079e3f2088218fec0c7825500972dad56d38" />
+		<rom name="vpfonts/STAC222N.TTF" size="126680" crc="4f51ffd7" md5="596561750fdbadca0e5809256ee03be0" sha1="50db63d55ff40ec9a0b2a409a8948d589ffbdcfd" />
+		<rom name="vpfonts/STAGECOA.TTF" size="36044" crc="e19af1d8" md5="2998838342c43d687b762610a031006e" sha1="5f4ade99f115186085fd1088b1acbd0a38ef34f3" />
+		<rom name="vpfonts/Starjedi.TTF" size="25656" crc="fcaba86d" md5="af7c07faaff0d16720c25db7990579e2" sha1="795839dd1b9630949c56f447529140608bb894b7" />
+		<rom name="vpfonts/stonehen.TTF" size="41116" crc="5c95e648" md5="27b376bde158d71e22b0019a746a8cae" sha1="7d98c811e5a07dcc2af9508ebec017412ed252bf" />
+		<rom name="vpfonts/Sumdumgo.TTF" size="31276" crc="5bf52601" md5="df171e11537d60631ca6de7c2c5c528a" sha1="2a2076137087926856d8311b7288adc54c08de5e" />
+		<rom name="vpfonts/SWATRG__.TTF" size="32164" crc="8177a3b1" md5="94e33f36470650aedcd04eb2f61946aa" sha1="feb08026ae1dd9537866dcb55f0005b9a08b2225" />
+		<rom name="vpfonts/SYMBOL.TTF" size="69464" crc="d54e4e47" md5="52a49b64c8be90d99fbc2ceb3c770648" sha1="89ea47e3c86a2f6728af51770923ff3cd351b19f" />
+		<rom name="vpfonts/TAHOMA.TTF" size="249012" crc="2bfa7b82" md5="07ebf1d971eb077b6749098c702b9fe7" sha1="5108be91dd80d9b42ecf3b9b48587a82c0dbe0f8" />
+		<rom name="vpfonts/TAHOMABD.TTF" size="243684" crc="249edace" md5="f793779a938d146e45851f90db29e3e2" sha1="68d37782a8391dcf62e1301dbd1d1c127615409e" />
+		<rom name="vpfonts/Taito Brasil FIXED.ttf" size="32644" crc="de29be59" md5="873d5368f1794dcf3a8fa3344cb1dd07" sha1="c81d9eee957625fcd02e687473377870ee06a020" />
+		<rom name="vpfonts/TANGLEWO.TTF" size="57040" crc="c9ff1e23" md5="bbb5f0614d73d85cfe8d23f32bc47e56" sha1="19a72937b3b1770e8b77a43326ee5a7d060ce91e" />
+		<rom name="vpfonts/TEKTON.PFB" size="24253" crc="1565b82b" md5="45c01085d83f36a464476f5fc2e65259" sha1="da2c4e68e1fe13301e91dc773d6fad698d563c4d" />
+		<rom name="vpfonts/TEKTON.PFM" size="1754" crc="df6fdc21" md5="4c996428371c808a2f75a860a82f46a7" sha1="fd26f5c1bbae1c3d54610b30bbae2b2c8f070b55" />
+		<rom name="vpfonts/termina2.ttf" size="31984" crc="e6811bd1" md5="c060511a5406475216dc43700e09a066" sha1="00fe31bcf40225aa0df495dfa1c099a032d644f2" />
+		<rom name="vpfonts/THEAA.TTF" size="50120" crc="3fe219e0" md5="7460cb03f778f012bfe9616b6a587575" sha1="d90e2550bf2f9535652897db2cef990ed80cad13" />
+		<rom name="vpfonts/times.ttf" size="349636" crc="7062a65e" md5="29034d5f147b8eb811a8e0a5ccf98bd7" sha1="2251d3ac8a3132db411aa1cb8661bc2a9cd0e946" />
+		<rom name="vpfonts/timesbd.ttf" size="334944" crc="6ffc29d6" md5="c49cfe1c7e6b37dbce154687aec3f35c" sha1="be20d12107bad44f5db954537e1e0b841430fbdf" />
+		<rom name="vpfonts/TO______.TTF" size="57748" crc="583a7e1d" md5="71b3a7dba00a560448999dc9aa8ca00e" sha1="6872d44fbb1617d6098612b1bc469f5fc2acac89" />
+		<rom name="vpfonts/TOT1.FON" size="27360" crc="e5687190" md5="37ca6911eb026d2d9d134d2cf8c51a01" sha1="773ad2c6dffa40293972fce9bc1d62750fc0096c" />
+		<rom name="vpfonts/TRANA___.TTF" size="58232" crc="a65607b4" md5="66dc9095c3f6fb48dbe4874d7304ca47" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6" />
+		<rom name="vpfonts/UNICORN.TTF" size="47868" crc="8fd736c4" md5="d48b68e875e2ac23e7ec58b4b95b6e7a" sha1="37dec9aa577c5ce4ba7e299a7ea7b51276d8fa3a" />
+		<rom name="vpfonts/Vectorb.ttf" size="29784" crc="87806f09" md5="a75df1070f5fc3b905a759bda2303449" sha1="3f6ceba45707361c3c93412ebbef7f75069f38a2" />
+		<rom name="vpfonts/VERDANAZ.TTF" size="153324" crc="de97c0a8" md5="f7310c29df0070530c48a47f2dca9014" sha1="09aff891c626fe7d3b878f40a6376073b90d4fde" />
+		<rom name="vpfonts/Victorian.TTF" size="51446" crc="d1d1737c" md5="dd290d0bc07e711660491fb4713b79c0" sha1="1cbd17bb3d98b6c6839bda631f193d564e4556c0" />
+		<rom name="vpfonts/vikingn.ttf" size="52552" crc="23ddd959" md5="63fcaee854aebdfac2a7feabee0e81f7" sha1="c7bbc9d3596a83b83bba52e051867a4405f26617" />
+		<rom name="vpfonts/VISITOR.TTF" size="12084" crc="4b093090" md5="6f41fbcfef715b703fb03814c3383008" sha1="477181badc1e3aac22a3c2899c18977c2419e42b" />
+		<rom name="vpfonts/Vixarasc.ttf" size="18124" crc="880547fc" md5="55ef1c91fd5be35e66da8e6cad0bdfd3" sha1="4fd5451c4614233d55577586813952f93d7a5275" />
+		<rom name="vpfonts/WESTM.TTF" size="50312" crc="7ab2df32" md5="787588e6c611222861fa21b3ff9c12e4" sha1="8afe1419235c5a35a8c1b7f865e6f22a09929426" />
+		<rom name="vpfonts/williamsfontwide.ttf" size="19304" crc="c3c010f1" md5="b2501f86b4d05becd30952e117c53de5" sha1="3b0458ab8b8679b760b3e177f5ab4ebd98001b2c" />
+		<rom name="vpfonts/WINGDING.TTF" size="81000" crc="0613a062" md5="e991cc888d4fb544fe0a88d065ab6efc" sha1="071b3cfc58598fcf558d2d0b4acecb61f9fd433c" />
+		<rom name="vpfonts/WINGDNG2.TTF" size="59696" crc="1de4aa42" md5="cc20de18a53d14be3a3598f03cec292b" sha1="c9a5e2377430acbb660b10600e1b854615e2bb13" />
+		<rom name="vpfonts/WINGDNG3.TTF" size="29236" crc="950d7130" md5="c749f65c05c531bf369669b6e9f79eac" sha1="6669122f9627a637704cf012a8cc18705d2e0a8a" />
+		<rom name="INSTRUCTION.txt" size="248" crc="4883c100" md5="b423652621829bafbb95185151834595" sha1="87346147c851ccc77e06d96f12e2d908121f9b7e" />
+		<rom name="Pirates of the Carribean on Stranger Tides screenshot.jpg" size="296331" crc="829851f8" md5="afd26220f62a2699687ffd13e1e72995" sha1="b07c91f263e2be04bf7da2db2f0d6f34f5f4ac97" />
+		<rom name="POC.png" size="1836298" crc="28a45659" md5="1fb3d0c3b3af2787013a7a75e7eec80d" sha1="99902fbee946f720ef4644df3ac9ad792d59c22d" />
+	</machine>
+	<machine name="Playboy (Stern)(2002)(85vett, LuvThatApex, Aaron James)(1.04)[VP916][FullScreen 85vett, LuvThatApex]">
+		<description>Playboy (Stern)(2002)(85vett, LuvThatApex, Aaron James)(1.04)[VP916][FullScreen 85vett, LuvThatApex]</description>
+		<rom name="Playboy (Stern 2002) 1.04 high res.vpt" size="51122176" crc="61cc3f03" md5="a8a31c749618b5db3cdc0ddee27fa7af" sha1="b295c2338a1d30bfa8b5f27439ccac128e63144a" />
+		<rom name="Playboy (Stern 2002) 1.04 low res.vpt" size="48361472" crc="b1304b69" md5="e15464c2b4284a68d14b31ee55d93824" sha1="c94cbb31388ee2a75c00b14d10b85dd0dc4e05e8" />
+		<rom name="Playboy screenshot.png" size="3082597" crc="0a6d52f4" md5="c837b55cb38ae37d548c82bce2b99885" sha1="a8eeac91f95fcdab2347bc6c01fd267dfbadc145" />
+	</machine>
+	<machine name="Polar Explorer (Taito do Brasil)(1983)(Joao Accioly)(1.0)[VP916]">
+		<description>Polar Explorer (Taito do Brasil)(1983)(Joao Accioly)(1.0)[VP916]</description>
+		<rom name="Polar Explorer (Taito do Brasil)(1982)(Joao Accioly)(1.0)[VP916].vpt" size="5812224" crc="c3c2f341" md5="b50094ceae3a8fd6d9e9e4f5b7a955b5" sha1="cb382b393568e59fd560d77c689ad8a562767b3d" />
+		<rom name="Polar Explorer screenshot.jpg" size="498065" crc="077b310e" md5="9fdd222fd6aeca3896ddc3adcdf04605" sha1="07b8cf5ec1ed09cfa6903587a163ec794997cf12" />
+	</machine>
+	<machine name="Popeye Saves the Earth (Bally)(1994)(1.3a)[VP921][Desktop]">
+		<description>Popeye Saves the Earth (Bally)(1994)(1.3a)[VP921][Desktop]</description>
+		<rom name="Popeye_Desktop_1_3a.vpt" size="12513280" crc="58f939f4" md5="05a86cc1d40543cc69f9f84485b17246" sha1="aba78aeaeebf8b393201684e899ea013bf5e5227" />
+		<rom name="popeye_desktop_screenshot.jpg" size="452761" crc="ccfbdd19" md5="f7576d4afb364e392be5baa4cf484e51" sha1="b38dd8c267636a57d1807ac3ef033e89d22fa044" />
+	</machine>
+	<machine name="Q-Bert's Quest (Gottlieb)(1983)(TAB, Destruk, Serpiko)(3.07)[VP915]">
+		<description>Q-Bert's Quest (Gottlieb)(1983)(TAB, Destruk, Serpiko)(3.07)[VP915]</description>
+		<rom name="Q Bert's Quest_VP9_3.07.vpt" size="29908992" crc="a3ed05af" md5="162f61760df4aeabd8a72a5b23cf056c" sha1="1d0947a3ec167fb7ad07ce512284ee3231ff9583" />
+		<rom name="qbert.png" size="783957" crc="92233b90" md5="38b1153ce250b06103c8777bf43f9d03" sha1="6ecc78a51424808db12b78a7de620c9b569ff3fb" />
+	</machine>
+	<machine name="Radical! (Bally)(1990)(JPSalas, Grizz, hassanchop)(1.01)[VP91x]">
+		<description>Radical! (Bally)(1990)(JPSalas, Grizz, hassanchop)(1.01)[VP91x]</description>
+		<rom name="Radical!-rulesheet.html" size="22774" crc="ec238843" md5="2601659585ae13297441487ed54f114c" sha1="0ba1946f27c43bf258033a342787a9b12e342617" />
+		<rom name="Radical_VP91x_1.0.1.vpt" size="13627392" crc="3387c845" md5="e89777d7dd154d0b1e387f6251c2f63e" sha1="c61632f4612a287c2a99ed9b39fa415f9bafad08" />
+		<rom name="screenshot.jpg" size="602317" crc="e93ea5a6" md5="014ec9238d7069939f468ea46dc55d87" sha1="0a23321c1af6cdf96636bf0b51f3477d8a1bff87" />
+	</machine>
+	<machine name="RAVINE (Francesco Pinball)(1.02)[VP912]">
+		<description>RAVINE (Francesco Pinball)(1.02)[VP912]</description>
+		<rom name="1.00/RAVINE.png" size="1779640" crc="d0cc74eb" md5="7d8aee802949461c118e412aff29f1ef" sha1="66b69ef50d2eb5072088a0538be9dff42b5d381f" />
+		<rom name="1.00/RAVINE.vpt" size="29777920" crc="8fab47da" md5="0f03e665f9a3c9db7b57a5e5b616d7fe" sha1="675203e1dce9d92935befde720b3517ead400888" />
+		<rom name="1.01/RAVINE.png" size="1378751" crc="cf3fe7cd" md5="40a3de96505752a82af082c23c275374" sha1="2ee931844c613ff65ebd7e39993a1ad72e3d40b0" />
+		<rom name="1.01/RAVINE.vpt" size="29777920" crc="9b0530c2" md5="76231b434dcdd5ec86389709ead973a5" sha1="098267ce3ebfb7d708b4cbd320d3ff32bbb13512" />
+		<rom name="1.02/RAVINE.png" size="1879779" crc="1d251dde" md5="d92144961fe31e18c18c9937721e6009" sha1="24cf609af15d2643a290bcfd9d873cde55ca80fb" />
+		<rom name="1.02/RAVINE.vpt" size="29777920" crc="0d4d629b" md5="74e168bccc26c381ae9b12612795dce5" sha1="2031e46ad98496c6ef142c7f60d46ceda9152310" />
+		<rom name="vpfonts/8-PM____.TTF" size="134000" crc="d4ecdb83" md5="3f75821653e1a8efb00810891edd9739" sha1="e0188d8becc068c8f9ee3d76a42da878c9f5560c" />
+		<rom name="vpfonts/AARDC___.TTF" size="48916" crc="0dfe2e9e" md5="c40732de3192e0f633ce2f007f4a9349" sha1="722a2639a085832592e33b716630135ac62f60e9" />
+		<rom name="vpfonts/Abduction.ttf" size="45092" crc="85939e39" md5="e13dd9a1550dcce637f754344d1c8611" sha1="b5b84c1a67058524126db723f999a4646864066d" />
+		<rom name="vpfonts/african.TTF" size="47596" crc="97a10b6c" md5="a19c1325b7b93513f1665d1f9ee8bc48" sha1="725a39f334fec0f4f175572e3635fa62196519a8" />
+		<rom name="vpfonts/AGENCY.TTF" size="57280" crc="a3d97cd8" md5="f9b9a4fce362a3a9111c138859ccb422" sha1="f78d52507605ef41d7778299cf57019c2018a674" />
+		<rom name="vpfonts/AGENCYB.TTF" size="59012" crc="ef78e62f" md5="f0d9cc320ea56aec6a4d5e2651115af0" sha1="ba572d9230f002f82c4154c3d8029015ef84f8b5" />
+		<rom name="vpfonts/alger.TTF" size="69504" crc="42bdc576" md5="2766d060d5ae2a1c102065956618af36" sha1="0f297993751d7709e60a9de21445a0b12030cdba" />
+		<rom name="vpfonts/ALIEESB_.TTF" size="17920" crc="baa3cc94" md5="3667c3af7fa1a4248bb5a9e44c153091" sha1="c131c67eee052c6ef93e0d6e425a5c652e2562d3" />
+		<rom name="vpfonts/ALIEN5.TTF" size="23692" crc="e98e7615" md5="6423b3fed5cd4cb1066078ff08be5002" sha1="04d0ebc5ef8ac2b83991963134f84b193df6d011" />
+		<rom name="vpfonts/AMERUNCN.TTF" size="51160" crc="a0220635" md5="a3834d3cc8e7b63c74c97609e2babb4d" sha1="717018adbee3bd4df802c8bff77d3b1bf5fa2274" />
+		<rom name="vpfonts/AMPH.TTF" size="43044" crc="bf3aa4c1" md5="0af35a7f2800a425af4ca1fd0f9bde23" sha1="221e04d207f36789b788598d93a4ca19c6527211" />
+		<rom name="vpfonts/AMUSAF__.TTF" size="22464" crc="60e47cb3" md5="f85352bcd62c022e35ff21e232111ee3" sha1="77305c113ab57b08dcde0c16963115b0b17f4b4d" />
+		<rom name="vpfonts/ANASTAS.TTF" size="34724" crc="24d8338c" md5="b86006d7843ee0e0f354c03497a65215" sha1="9adf0c4c88e4cb816f99579bbb7a7e745fae690d" />
+		<rom name="vpfonts/andyb.TTF" size="63396" crc="223ee157" md5="775c3814e9c1f228d495333e07580d59" sha1="b6a2486f54c72520a0a9f92e25db1f59853badf8" />
+		<rom name="vpfonts/annifont.ttf" size="37552" crc="97cd3db4" md5="2c64bb417056f321f9d7e61190e703aa" sha1="b8c3aa7ce4fd927626cb8aa2fa4c985bbef81604" />
+		<rom name="vpfonts/Another_.ttf" size="60536" crc="4e3f2290" md5="d7f3e56f3255cae11eeb2951357e2844" sha1="966fd7b0c89916ff682e16d343cf7f7c18aa1fee" />
+		<rom name="vpfonts/ARGENTUM.TTF" size="17620" crc="2a36d8e5" md5="66b131047274b4644829866f1b057a9a" sha1="15bc7d038ea75546d29596e72b3d2ffd389b67a5" />
+		<rom name="vpfonts/arial.ttf" size="311636" crc="7c959725" md5="6e7385fb7d6ceddf07b5a41e0bc2712d" sha1="49f0ee6148e6b674a60450d86faaddbb97d798f3" />
+		<rom name="vpfonts/Arialn.ttf" size="123976" crc="1166b365" md5="f0a7ff15e2b7456fb1b2565755e20ae2" sha1="d9fdae64204fe10917aff30aa1244ad521a2ab91" />
+		<rom name="vpfonts/ariblk.ttf" size="262176" crc="041709b9" md5="faae65b2a502111c22f8e48013008840" sha1="9f39ba1ddb6c05eaef227b31d1699e1200ea6712" />
+		<rom name="vpfonts/ASTUTE.TTF" size="35216" crc="4f6f94e2" md5="c45e46d602c767d53446a32051781229" sha1="ea0a1b07b65f180c2d476222ff03c423a647a781" />
+		<rom name="vpfonts/Atari raster.ttf" size="45644" crc="9a0cc2ac" md5="f29e77f43f9f0724d5faac08f7a1bbcb" sha1="a086711e7d014159a5caabcbeffbb4fbae22148a" />
+		<rom name="vpfonts/aucoin eb.ttf" size="67464" crc="409369dd" md5="caa90b465607a4d1e3fabcc2ecf5ef8d" sha1="506db779e6f97e3105757fe785524fc2addbb660" />
+		<rom name="vpfonts/augsburg.TTF" size="65208" crc="28c4366f" md5="e7fc42f49a5249beab44c9fe8735b476" sha1="2519a906ec5f1ff9aec9c7696e0a10dddc0764e7" />
+		<rom name="vpfonts/avante.TTF" size="22668" crc="4d7fd42b" md5="a88e25fe8402ef8b0a2f6a92eea38922" sha1="ae7d342c2472cb74d903c55301be872b69b950ae" />
+		<rom name="vpfonts/BALLSONT.TTF" size="101072" crc="4e33b384" md5="cf09c98cfea69fc76842ec3efefc48bc" sha1="817746994f3500c2d6f3801d8117f70f9043dbf9" />
+		<rom name="vpfonts/Banff.ttf" size="38252" crc="3cab846b" md5="126522f663cf8db80950447f8ef3b5cd" sha1="f84be8652faacb7622a6cea2d9242e52e2752b53" />
+		<rom name="vpfonts/BANGN___.TTF" size="60220" crc="baf533a6" md5="9f587d4beb89caf30e73a02316fffaf2" sha1="d3fff69986db95780f8f5abbae5a98b86953e72a" />
+		<rom name="vpfonts/BARBW___.TTF" size="118916" crc="7b3404dd" md5="04c9f19f359de5a8f8f5745947fd0ae7" sha1="dfaa540ba255ec76aed83067ae298d24539eaa36" />
+		<rom name="vpfonts/BATTLEST.TTF" size="28856" crc="f8aaf212" md5="8ff7a9ff59065ffbb2560e098047e805" sha1="97157579755a4b6486d12b0b643a59525bb2a936" />
+		<rom name="vpfonts/BENGUIAB.TTF" size="49004" crc="1155d844" md5="4870bf90f6f563bc6dfb837b51ef801b" sha1="af05ac4eb35d3a856f42e575923c6f2e4100d407" />
+		<rom name="vpfonts/BIMINI__.TTF" size="40484" crc="b34189b0" md5="66ba22f8801ef7bd70f847e8a384a7d0" sha1="c7dcd88c080b01cdc3c1eed417a2ee3a1e084b76" />
+		<rom name="vpfonts/BINNERN.TTF" size="53492" crc="e92f6e48" md5="678fdb7097fa2a8eac8dc3ab58aa8906" sha1="170924c5d2f000ef7b58dfa54c24cd5d4a928eaa" />
+		<rom name="vpfonts/Biometri.ttf" size="97216" crc="74fb601a" md5="eba37e256da1a3f7d2dad16a08f3bbfe" sha1="7e6ab125e0ae7d4c82be4ff8fb3dcc6543b39b5f" />
+		<rom name="vpfonts/Blkchcry.ttf" size="56732" crc="42c627ed" md5="753833d2833e9f73b56cffae357cf95f" sha1="893a162d547fb7be51604699642d3f9bd9af6857" />
+		<rom name="vpfonts/bloodcyr.ttf" size="120184" crc="5e88e259" md5="55b9d867bab0be9213426fa479a94b1b" sha1="75a5b37604c1769deaf240cef7d73e84c13025cf" />
+		<rom name="vpfonts/Bloodfea.TTF" size="62168" crc="e1bc5993" md5="f6047d67d59fd392f87838fa7e6507c0" sha1="cfa1988faf454991f0601c88df3346379fac3df7" />
+		<rom name="vpfonts/bloodrac.ttf" size="50120" crc="66893b8e" md5="1e07bf79529fb5078152838ad2c5a565" sha1="fb0f4410696b6a0aa6dd1c75544ccb0861bfcac4" />
+		<rom name="vpfonts/BLOODY.TTF" size="45264" crc="da071b3b" md5="d1a746a818a459b74bed44bb69837495" sha1="38165945befb4bd99a04f9ef841a1dfde99e88ac" />
+		<rom name="vpfonts/BNJdigital.ttf" size="2892" crc="9648b7b9" md5="5a3ec3d3c85f67d7fbf20635e2436d9c" sha1="f1c423264ea6b5bbd2d3b7bc91af4a5c0303deeb" />
+		<rom name="vpfonts/Bones.ttf" size="76360" crc="f1310f81" md5="a7d83a4f1e2e2f99f7ae21f1aec30e58" sha1="de46d4e910cc9e404862ddfec8b0dfb5c9f5376b" />
+		<rom name="vpfonts/BONZAI.TTF" size="23004" crc="8e2745ea" md5="f6fffebac6d2661dc083e4e47d9b4243" sha1="be72d14a4f6f68c6622ea4f5a12a09162b977932" />
+		<rom name="vpfonts/bookosb.ttf" size="143368" crc="ce4356a2" md5="a2ad419cbc4f489bc5caa1ef90e0df53" sha1="4d5babff3e234439665c40f8b707fd52398cb9e7" />
+		<rom name="vpfonts/BRADHITC.TTF" size="105296" crc="66d17504" md5="0252223e8c36008b595f5e379ad5e524" sha1="bc773a38f567c9ecec65485bc588065f2215a386" />
+		<rom name="vpfonts/BRITANIC.TTF" size="35360" crc="b214926b" md5="8be4a2f403c2dc27187d892cca388e24" sha1="7cc410a9333fd41aa97143e16fcc8b701253a604" />
+		<rom name="vpfonts/BROADWAY.TTF" size="71520" crc="e2e03ba1" md5="41aa628f4f2f8e6c9f1e1f239c075b81" sha1="799eba38ac6490eaf1b8a2565f48eaf624e8ea6e" />
+		<rom name="vpfonts/CALIST.TTF" size="70828" crc="fb3f6ca4" md5="2568e173df3a278bff48d9926aa656f6" sha1="86d400039481710a6134ceaba7a3f9e9b44c9f86" />
+		<rom name="vpfonts/CARDS.TTF" size="42064" crc="a3d1cbf2" md5="bcfa084f8632f268e6f54caae6dfbb7f" sha1="0b2d4f93aac3915f357ba4d37f3d8f8476c75f6d" />
+		<rom name="vpfonts/Celticmd.TTF" size="127916" crc="432e0cda" md5="90fd385f9cabf817ed0504aa58d5b9a0" sha1="2a1f598ecf49eb786234cd8f57f9c30f2310a5f1" />
+		<rom name="vpfonts/CHILLER.TTF" size="96452" crc="36e33837" md5="b1b2e2db2eef02d230247a474d1d66a6" sha1="4b53fa1bded6c26212e27041afabf457808ef316" />
+		<rom name="vpfonts/CNTDWNN.TTF" size="64384" crc="14195ec5" md5="102077badcb3d3551f749d257eac746a" sha1="432c5452cc3ef27653329d4136d6b5f9265da9a2" />
+		<rom name="vpfonts/COLLEGE.TTF" size="11336" crc="f56f5de4" md5="f9846a1309de5645385743a1ae8c61ad" sha1="735d351707752bccb18b0500ab8e3404a2383ea1" />
+		<rom name="vpfonts/COLLEGEB.TTF" size="11476" crc="5be53654" md5="4d4fda0c044747ee3871f5842f76e000" sha1="f2bcbd8328968c3cd6ef63361d9fcdde33c25d41" />
+		<rom name="vpfonts/COLLEGES.TTF" size="5960" crc="6a86ffbc" md5="0a667fe3fed65ed5096536abb69a591c" sha1="51a26d90673f4ae0553e51243c0bdf033aa0c39f" />
+		<rom name="vpfonts/COMIC6.TTF" size="11868" crc="c4fb235e" md5="3bbef31d8c5fa5da181a4ae91017a4a9" sha1="3c49651b3a52167b3afd827516a169fc62761e9e" />
+		<rom name="vpfonts/comic.ttf" size="126364" crc="ac81e7e6" md5="a50f9c96a76356e3d01013e0b042989f" sha1="d17fae7a6628e2bc4c31a2074b666a775eed9055" />
+		<rom name="vpfonts/comicbd.ttf" size="111476" crc="8520cb41" md5="81d64ec3675c4adc14e9ad2c5c8103a7" sha1="5518f0bdebe7212d10492ab6f4fff9b0230c3cbe" />
+		<rom name="vpfonts/COMPSTYL.TTF" size="41640" crc="963b556a" md5="64d930983e6ba65cfd2ec099ab7488f6" sha1="f4bbb29956843a0246e1be9bd28e3114fba14076" />
+		<rom name="vpfonts/COMPUTER.TTF" size="39104" crc="a5d24216" md5="e0dacec61ffdd2bee694dc0928642f84" sha1="0bf87958eaa6daf3cf386cec98b09f4d46e8b228" />
+		<rom name="vpfonts/COOLVETI.TTF" size="42204" crc="3f6a49e4" md5="c92a76c78cce1709863e6007a1e6e8e8" sha1="f17ee19d6c4dee1194c25215d3c5f34c8d6524b0" />
+		<rom name="vpfonts/copper.TTF" size="31680" crc="77988818" md5="488a27d167416b90b3defc4ba12e3e16" sha1="6c33cccfe7d283b4b6ef7133b9b89a37d548012e" />
+		<rom name="vpfonts/COPRGTB.TTF" size="61552" crc="b783d93f" md5="c277b2c27239a1c8de888444341d1c62" sha1="1a4a190d2e949d5e16f1349e775fc4764e32e821" />
+		<rom name="vpfonts/COPRGTL.TTF" size="57224" crc="319b4d65" md5="13c596c0b79552874adcc23525de43b4" sha1="aae564f108aeb7410bd3a7551a40d0da9728c465" />
+		<rom name="vpfonts/CORONET.TTF" size="84460" crc="afaa52e7" md5="faa174bfadcc755c9933d1df31d41cfe" sha1="fc662feaf23404483b4f87ce810835f83aaa2450" />
+		<rom name="vpfonts/courbd.ttf" size="312920" crc="8a4c2bab" md5="53540286132e62b055ed9d953c1acc15" sha1="7d50aa03b66b633e3c1f7e08de0f58f6eef6a0f7" />
+		<rom name="vpfonts/CREEPY__.TTF" size="69376" crc="e3bc7e89" md5="0d7ce96ecd8ecc2642e1302f3a63f6b8" sha1="07f3578648f7c84ad3047376ae64a3077bf49920" />
+		<rom name="vpfonts/cry.ttf" size="24132" crc="5fe05ac5" md5="6dc18381d104ac45599a04c4a684b28a" sha1="dd396b21b72519716a58c7d8818bfd1035dd6b97" />
+		<rom name="vpfonts/Cupertnn.TTF" size="43752" crc="d8173fcd" md5="23d3447af31d643392366c18bebf7838" sha1="a99ff0d15e956800d929c5ca918d9df7167ec751" />
+		<rom name="vpfonts/DDDRNDSQ.TTF" size="33024" crc="53a1d679" md5="5da632f5a5bc6a5dd34abccf2f031de0" sha1="844cc1ef367b9e78087d878c9401a5b383d0e03f" />
+		<rom name="vpfonts/DEADJIM.TTF" size="8076" crc="fd131073" md5="349d1e95b71926e25463ff87985cf79a" sha1="0fb49970295b4ac642701908c80d9dba75afbaca" />
+		<rom name="vpfonts/Denslow.ttf" size="67704" crc="64316158" md5="029a136250017faa86634bbd18a43054" sha1="cf358218e55dcfb46bb3a53970995ef465740a81" />
+		<rom name="vpfonts/desdemon.TTF" size="54476" crc="69fc47f0" md5="7f91c468c9207bd7714bd29f46d9e28b" sha1="e8809e182499c8d49772c68f95247f3e8d54c8ae" />
+		<rom name="vpfonts/DIENASTY.TTF" size="39532" crc="abc01ab1" md5="5ea29d471972e56ec7b73b390f3af7f0" sha1="4545647247007fa9935947b21bb49397fdd1ecc8" />
+		<rom name="vpfonts/DIGIFACE.TTF" size="34860" crc="7bbef353" md5="5a680984516580719b624ddeb84de5f4" sha1="02d184d8a6db1e0ac6a77273090d14a097aa012f" />
+		<rom name="vpfonts/Digir___.ttf" size="37736" crc="7cd2c10e" md5="1c8da74ab3536f3974b2c1f58e1be9af" sha1="dd58a9176b945cd8bb3f27b9e092e50d8a1f0383" />
+		<rom name="vpfonts/Digireu_.TTF" size="31136" crc="b4aefc58" md5="4e827477bed45d7f8c9299008153bb11" sha1="7746fcecdfaadf8518fee4dfb8c460d387b4723b" />
+		<rom name="vpfonts/Digirtu_.ttf" size="27492" crc="56545158" md5="aa6d6a4705c8670a71ae21ec08744af5" sha1="08f84389d8f6c59682afd0393449a3fca995b4f2" />
+		<rom name="vpfonts/DIGIRU__.TTF" size="31376" crc="35f17b31" md5="a7e5c807368c4358797ff7d684d3a265" sha1="a508d43667048b31cc438c0569ce087523e9918f" />
+		<rom name="vpfonts/DISTGORG.TTF" size="31848" crc="66182eb6" md5="052829b30de3f1e117dcec88483bed89" sha1="156618482ea618c6cee2b90633424b3cec3afcbb" />
+		<rom name="vpfonts/DMDFONT.FON" size="5952" crc="970a8af1" md5="90ba389c54bf86f5652bda070d8379e2" sha1="c8c23d7695e3f379863c7630ed5a92c41379bb4c" />
+		<rom name="vpfonts/doom.ttf" size="29368" crc="44088fbc" md5="d398da6faddf8911ef608f1e8ee6ed37" sha1="b51b465ea398a52f096faa980b6306f7c434d5ca" />
+		<rom name="vpfonts/dotcom.TTF" size="17224" crc="27dcb551" md5="2ab0496111566dfc84ba8675767d4c96" sha1="deb56ae4e9d36103b9c36148e32563fde79bfdfd" />
+		<rom name="vpfonts/DOTMAT.TTF" size="30212" crc="bcabdddf" md5="e780dc7bf8f4afff3f867b1640daeebb" sha1="0897c516850a1fbeb74b24b5683eb591f7fb9eda" />
+		<rom name="vpfonts/dungeon.ttf" size="67904" crc="0118d622" md5="2153e089fa4643da0f31b5c1f8cdc5a8" sha1="cab59d237e6da2ef70960925f8daa0835eabe529" />
+		<rom name="vpfonts/EARTH.TTF" size="22776" crc="b27518dd" md5="d06dcb01659a62736a37c145b59b5197" sha1="b1b201771f092781f685cabd2d55b65b1fb68097" />
+		<rom name="vpfonts/Eclipse.ttf" size="15816" crc="3da584b9" md5="ffc2af5a25f0eace10db51617f2e3f09" sha1="8d69baad9acc311ff97f3dec0fd6f74f5549e3ad" />
+		<rom name="vpfonts/EDUNDOT.TTF" size="84628" crc="2167df41" md5="e068d61714569f160ad99f0461c0ad7b" sha1="c7ca77fd5e453100c0940c42d4b15e7895e2118b" />
+		<rom name="vpfonts/EMBOSST1.TTF" size="44780" crc="512103aa" md5="8c0c9d0380da3c0e6adf633abc776ddf" sha1="016c90f74dccdf8a4648ff2b781f1ee03025f037" />
+		<rom name="vpfonts/Eras000.ttf" size="32580" crc="2ecbbb53" md5="ee84c1ff63e990ec2f5399a52618a09f" sha1="26fd69d155e133fb70fb12a948a2aca0dfd1cdf0" />
+		<rom name="vpfonts/EXCEL.TTF" size="11436" crc="459a4f80" md5="69ac5637946128584b6dbcccd629f525" sha1="0f06c1ab35b92ecbb8df3975687ec4cdeba84360" />
+		<rom name="vpfonts/F1.FON" size="28896" crc="2454d50c" md5="5ff960f00f6df3d4dba35893eef7721a" sha1="d3e7d0e3e2de7585029fae63cfd3a2004582ae77" />
+		<rom name="vpfonts/Fadeb___.ttf" size="53876" crc="e056e6aa" md5="2d98e6a056c8e85151ddea9ec443a76f" sha1="b62c07dd89c8eda79ff93cc834093de74a3da9f9" />
+		<rom name="vpfonts/fcbswfte.ttf" size="33908" crc="8ad2e2e1" md5="14b06966f20d547f4d09e0540ddc5bab" sha1="d6462d53e0b2a34eac7563f1d6d9bbcd5945d566" />
+		<rom name="vpfonts/Figaro.ttf" size="37888" crc="26290578" md5="14ea7d043ed2e5fc530d2ca73fd56f5a" sha1="92ef6fd134602d7a1c35dd896274f6486c85de18" />
+		<rom name="vpfonts/FinalNew.ttf" size="19812" crc="07879de9" md5="e51fb96ce7dced66c4c8ee5048316f7a" sha1="86fe891b82a490b91da23148043a8777866bb50f" />
+		<rom name="vpfonts/FMOF.TTF" size="53640" crc="c2ce5a82" md5="a8d6f0e45109837ba0b840849fa159a0" sha1="e84785c806cd5b8c6d876ecf23e5162b64403e0b" />
+		<rom name="vpfonts/FONTS___.TTF" size="43156" crc="fb7a253c" md5="e6d009ab2ea3b918df8787768b96293a" sha1="1a06e69889c164de71675ddede2a7442a1328fa2" />
+		<rom name="vpfonts/FONTT___.TTF" size="62452" crc="3a68a8e6" md5="aefdb81c3eafbb34a3b291227b408cd2" sha1="be3cec97de12c3ca249362c7fb694aaa6142610e" />
+		<rom name="vpfonts/FutabaB1.ttf" size="44808" crc="9d25bc5c" md5="492d79096599acd155ee13bd9857ba47" sha1="8c3965da7d73b6bdfffc1477cdd5cc14ef9bf59d" />
+		<rom name="vpfonts/FUTRFW.TTF" size="39052" crc="4f52572c" md5="0d4430ecda415769e1e7989ab0182344" sha1="22a841cdef347ca654b0621ddaca629cc2a14c9a" />
+		<rom name="vpfonts/futuran.TTF" size="37688" crc="61dbcea5" md5="f9f02ed05aa86534c3842d44cb20d6c4" sha1="1bcd70a20cff464c22ac4c9519fb9f72dd9be22a" />
+		<rom name="vpfonts/GARA.TTF" size="196588" crc="da8a5c69" md5="2bf40ab72ea4897a3fd9b6e48b233a19" sha1="7f9de5f971ba244ba9e8ef2dfe8115081507f294" />
+		<rom name="vpfonts/georgia.ttf" size="142964" crc="2e09794a" md5="f4b306eed95aa7d274840533be635532" sha1="5d69d55862471d18f1c22132a44f05291134cbf4" />
+		<rom name="vpfonts/GLIMSTIC.TTF" size="75592" crc="56de84cb" md5="f76f5039c397f966febd79e32a7cae31" sha1="fe8850137f2021d2b13dff1201571158d0df7090" />
+		<rom name="vpfonts/GoLong.ttf" size="6848" crc="056e4a65" md5="6a11ad5d20dd03075e163af15e6e8286" sha1="e81783fa3539807fea04be004305becdf21f2f71" />
+		<rom name="vpfonts/GOODFISB.TTF" size="51112" crc="b5fdd69d" md5="465e0a597aacbf4aae15a2589fda954f" sha1="862e6694a555f560e969bafc33215d0e07e5abdb" />
+		<rom name="vpfonts/GOODFISH.TTF" size="55856" crc="15fcb648" md5="6c32ea7a7a00811fadbcf82f93f289bc" sha1="d368b4a08cff7a482e841d3cfb49b2659f54c7ad" />
+		<rom name="vpfonts/GOTHIC.TTF" size="61280" crc="f54af41b" md5="8917856b57da55472606a59f43b41588" sha1="035669a8e8a5b486c3300eb9ea7a6672bb7ac331" />
+		<rom name="vpfonts/GOTTLIEB.TTF" size="2508" crc="65115886" md5="62b06e1b2029dabfcbec85a9e312bca5" sha1="76f6eede4bd05a0d2418640e3a6224b6ac1aaab9" />
+		<rom name="vpfonts/goudysto.TTF" size="48356" crc="09484b4c" md5="cb1a9d8c8e33d221e26a0d8247856c5e" sha1="bcb1dade9b17af311bbabe45b56720168bba386c" />
+		<rom name="vpfonts/GSTBINRM.TTF" size="29080" crc="19ab563c" md5="7fd03c34aacbb6dc751dfa07539fd981" sha1="011fccb77f92562f7bf26949f1123fd08b03095a" />
+		<rom name="vpfonts/hallown.TTF" size="57948" crc="8d6a7d06" md5="4f95308a3e3ca267fc5b52cdb201de02" sha1="7cfbd90d1bf63d9baa864b5ec3e313d3bf1e7408" />
+		<rom name="vpfonts/HandelGoth.ttf" size="33536" crc="2005c69d" md5="6e73e2aaa6671253deb7c28bc179d89b" sha1="6d28dda33f42ce9601a990c5cf072e1d690170a1" />
+		<rom name="vpfonts/Happy.ttf" size="28452" crc="44ee9137" md5="cd7b89069ff59db7c9e6ac94114f478f" sha1="cd8628b2ca337d1f8e34c01903fe3c86b25c38fc" />
+		<rom name="vpfonts/HARLOW.TTF" size="71624" crc="0062c60c" md5="32a3fdeb9206c063324bc5bfe41b6832" sha1="667a07b23eda8c3d6fc3ffc1b7082cdfbb4b9407" />
+		<rom name="vpfonts/HARRYP__.TTF" size="27432" crc="dec4d00e" md5="181ef9a7aee45c119e68f294e8426a3a" sha1="ed60497634abc65c23c4a22f83950865893757de" />
+		<rom name="vpfonts/HEMIHEAD.TTF" size="24440" crc="c87c69b8" md5="ed43a6aae7b02c27f4db3a11c6449c94" sha1="bf4b48a0993251bdf290dc2381a847f2f6a55661" />
+		<rom name="vpfonts/Highlander.ttf" size="17828" crc="84ebded6" md5="a0f29ffff1acd895bb8dd7f81d852f36" sha1="86cd2188b1d616c6a063c821d6392cd76d1a117c" />
+		<rom name="vpfonts/HIGHSPEE.TTF" size="66760" crc="5fb98dbd" md5="5f652ebcea0b79b0360e4c64ad5d6c95" sha1="e55bbea4a02920e6d426faf8fb61b4eff2cd3fd2" />
+		<rom name="vpfonts/HONDAN.TTF" size="32608" crc="57f15917" md5="85469fcbe931e8a73501de47576e5ec8" sha1="f70cbbb50bf93e6fbfd6ab01e48f6ae193be6c8a" />
+		<rom name="vpfonts/hotdog.TTF" size="21084" crc="aa9cbbb6" md5="722289c6ef0c75f70a05fd7f514cee6d" sha1="e32f6bd2c64dda829ae1acae44737c78765fa7fa" />
+		<rom name="vpfonts/IMPACT.TTF" size="136048" crc="638a4ccc" md5="55672033552559c3a89d999b5badd8c0" sha1="807b5e24d402fcdac6f9e9d97be071285ad27958" />
+		<rom name="vpfonts/IMPRESS.TTF" size="92392" crc="11cef541" md5="601c2357cd67502c2ed3b0ee2cb959be" sha1="37b719c3844fc541a62ca1cb27a8f0687576d769" />
+		<rom name="vpfonts/Itckrist.ttf" size="54132" crc="43c6891f" md5="5d0684caf9aff9baee3a21c0d05c664d" sha1="61e64c4e8975403f7d4a073dc8ddfb602acab0b5" />
+		<rom name="vpfonts/JOYSTIX.TTF" size="47060" crc="697c3446" md5="45c6126a088ec964c786071280ee67c4" sha1="d2e9bbfe5e51253482acedf06e0d387b755cead3" />
+		<rom name="vpfonts/jpfont.ttf" size="56440" crc="b91e001d" md5="712f3284d2c9800cdcd489e46b98dae4" sha1="c2756c222734e781a6326aae8c85dd1dedf5e9a3" />
+		<rom name="vpfonts/Kitchenpolice.TTF" size="30524" crc="2ea0fae5" md5="ba46b70464b3b247d80fc7f560dc1ab0" sha1="2b708949cb0cbde646d55d603ee417e68b7ffce1" />
+		<rom name="vpfonts/La Bamba LET.ttf" size="39265" crc="e60c6e8e" md5="8666001912c7b3b7ad4d5326ab121b6f" sha1="6e22d73b18e5c4f8b6b651fbff7e8eab14c2f051" />
+		<rom name="vpfonts/LASER4.TTF" size="13856" crc="8e26c202" md5="ae8052a5df63286a7abe53b8d944b080" sha1="bcb1c679b862c62dc436b8e60b6453c906be777c" />
+		<rom name="vpfonts/LCDGRID.TTF" size="29008" crc="7fbdda34" md5="326143c1ef6e7dc2957f4293cc58ac2e" sha1="3ce3b17ddcc07756f851ff08ec9f2c73c8106d81" />
+		<rom name="vpfonts/LED.ttf" size="32368" crc="8bb9cccf" md5="941981e889de59e543f3fa469822a352" sha1="5de776ed3038467bc45ed06040dc30fa9b3b4e8c" />
+		<rom name="vpfonts/LIBEL.TTF" size="53500" crc="700f4a6d" md5="07ac1b4c6f743ac79438d4144ead1f4e" sha1="6f9920523215f816b3460d91e1c0511323503452" />
+		<rom name="vpfonts/LOKICOLA.TTF" size="57104" crc="a1076a7f" md5="2ebdcbc9946219e929e10c06d273a14d" sha1="1c71a2bc3036008775d6173153cff7a71d4bb98f" />
+		<rom name="vpfonts/LSANSUNI.TTF" size="304932" crc="796df05a" md5="26c724b3b181aad246aa1321eaa9ea21" sha1="8aae6e177d3dbf683732d23f8fc2f6383c5c1dae" />
+		<rom name="vpfonts/MATISSE.TTF" size="55240" crc="fad6749a" md5="ecf665ef7aa7551d8e7603ad8d56c26e" sha1="87f8e8e9164e2a16481ef792a1f21bdcbaae857a" />
+		<rom name="vpfonts/Merscrb.ttf" size="36668" crc="67596e13" md5="bb583949722f0d2725083f5ec13ae51a" sha1="a8606dc8ef6240820bed906d605fdd78f5fdd750" />
+		<rom name="vpfonts/metro_b.ttf" size="76420" crc="3f6728e0" md5="3cc0f1b0d99fafed96eba0abda5a2783" sha1="e513e51102ce3e7c5cb6b6ff0e255f6a4bb196e3" />
+		<rom name="vpfonts/MK3.TTF" size="37616" crc="c0e2cfd9" md5="958ed4dd2c165ac7422bb70dc3ab3e71" sha1="abdc3fd4bf4fe28bf45b8081012cd9d8109abc9f" />
+		<rom name="vpfonts/mlsgi.TTF" size="51324" crc="b4497671" md5="7ba38c29d3a2ee5c5494ce85ac34058c" sha1="a4fec9a6137eb59ff7fa51f105a1e9fd5aba8b32" />
+		<rom name="vpfonts/mlsgo.TTF" size="64694" crc="0e5fa439" md5="20f7b9ef4d32ec57186e7a60bf5e5521" sha1="26348bae9d28884846135eb203bc30be119f84ac" />
+		<rom name="vpfonts/mlsjh.TTF" size="48104" crc="ceaaf4ad" md5="3e32df3c7b216ec0524c90592744186b" sha1="dbc56840f62690b7d23e99367b99ab6e4bb8e8fe" />
+		<rom name="vpfonts/MO.TTF" size="69500" crc="0144344d" md5="e127ebd29429bfc7b8fb5cf1b1626f26" sha1="22139d5ea27e5efed4a48e751b6c9482e6a56de2" />
+		<rom name="vpfonts/MORPHEUS.TTF" size="68044" crc="597d6049" md5="f54b3fda53fbffc530a3b9a70d271990" sha1="c874b05abaea08ec4829a08668fc9fc7b892feca" />
+		<rom name="vpfonts/MS Sans Serif.fon" size="64656" crc="32ec85e8" md5="1b42ba7845a2e4aaa7ca60ad2a5d9789" sha1="c278252d15c47c16ee1742095e20610018a2b53b" />
+		<rom name="vpfonts/MTCORSVA.TTF" size="157360" crc="95d57791" md5="b98f57ac686fc135914a844ec0ce8d49" sha1="77ddc3e97898d7363ba296925181ac5430c38cb1" />
+		<rom name="vpfonts/News Gothic BT.TTF" size="37264" crc="0a9a0e84" md5="0eac4a194bd7e73bcb4853577000db71" sha1="b982889bf83308b9b0cd2f575974931e5f2d2e7b" />
+		<rom name="vpfonts/Old Trek.ttf" size="27796" crc="2d5c93a1" md5="49b5a5fa1160b9ed90ad07bb68ed7fad" sha1="91311503e4beb3376e0220af7f113b40a929c0f6" />
+		<rom name="vpfonts/OLDENG.TTF" size="68632" crc="612b0cb8" md5="51e06c6c7b1bc20fe7523eed523117af" sha1="35b6f13163ef452f7d1cc9a96fb0d83ca2a5f4a5" />
+		<rom name="vpfonts/OldTown.TTF" size="20076" crc="bebc01e6" md5="14be17ce1310c0f1929fa72399ecb7c8" sha1="40bac43e5a4946d055f7840103e8102a17706e3a" />
+		<rom name="vpfonts/ORBITBN.TTF" size="49644" crc="0c100899" md5="baf011b3f51317bacdcafb37564db950" sha1="993650346aaa9e42d39fb8a3068376a7c7563f18" />
+		<rom name="vpfonts/Orient.ttf" size="8840" crc="1bc04e28" md5="ca0cb8a525af232eee15f1c5facd4fd1" sha1="0a7970613f23869999b17bc4fd6bb88825e8c0cb" />
+		<rom name="vpfonts/PARISR__.TTF" size="49824" crc="2f732538" md5="f738b413c61a3abf3e560dd531b2afaa" sha1="3cc339c3025ff6c01b2262a7ab12a42a3dd04692" />
+		<rom name="vpfonts/Patriot.ttf" size="45656" crc="d1c25915" md5="907a040185012b3b5477ab63a2d6f628" sha1="81ab001c06f00804f4750ad18477e64d011746ea" />
+		<rom name="vpfonts/personal.ttf" size="26740" crc="2313d2d5" md5="96bad917094b89f2faf714e7b44e383b" sha1="983a452903604d6b42321a8815dd44306a4f23ea" />
+		<rom name="vpfonts/phorfeit.ttf" size="18772" crc="bea426ac" md5="917ae8e3ecb46354a84a2afe75c5c2ee" sha1="5b7313d123c136dbb62ad81ad3147ae00389ac02" />
+		<rom name="vpfonts/Pinball.ttf" size="23548" crc="02e83ad1" md5="a50ceaf415b07a0c9e467b03f2127a82" sha1="a3285aedc5d4d42e7bf6a06713562bc94a165f97" />
+		<rom name="vpfonts/PinballFull.ttf" size="14956" crc="2e57d33e" md5="4c45684d4ce1cbdbfc87bc107dcb1dde" sha1="31b88286de6728e73cc0c94045c61c6f7e24d91f" />
+		<rom name="vpfonts/PLACCOND.TTF" size="35328" crc="799470fc" md5="7b323b28e211471e522afb033f9abe1c" sha1="5aa558d46ae45b7dc5dfef7fcdae86412fb39b21" />
+		<rom name="vpfonts/POMPC.TTF" size="41228" crc="7b10e39d" md5="0fec7b5dab2ce3703fa320b2f78fdabf" sha1="ad125e45bb4fb898767d866728220e560be46d6c" />
+		<rom name="vpfonts/potterfuseletter.TTF" size="27276" crc="8acb89c0" md5="e73f052d6bbc1096460c732f2ed73845" sha1="1fe58acf3ead90431175d7d48caf75fb49df30b3" />
+		<rom name="vpfonts/PumpDemi.ttf" size="31808" crc="8374e456" md5="992862b92aabbb2b28df3298fc106c5f" sha1="0bedcae720339174e887b638a0de2edf3e7bf338" />
+		<rom name="vpfonts/PunchLabel.TTF" size="29868" crc="e53de39a" md5="586299b123b46ba6a27b7c186b9a3399" sha1="a55b154fd1dbddcfd460bc96408ae5e7cc63b2ee" />
+		<rom name="vpfonts/PYXID.TTF" size="58140" crc="1b1582e0" md5="403bd8961bbe03699569784188e81fe4" sha1="a494f9cfafc716d350e5d225460b212017f56848" />
+		<rom name="vpfonts/quartz.TTF" size="57860" crc="2915b2ed" md5="55f96a010646b90457e9bc03d43e2b67" sha1="74d93c590b5de2e4ee03fd3d3cc8ea64439131cc" />
+		<rom name="vpfonts/Radio.ttf" size="14552" crc="0bf7fdc3" md5="a96b9fb39d462fbeb57bbc109033f86e" sha1="6d1975773c0eb63eae099d5a7012ae54ce3dcd6d" />
+		<rom name="vpfonts/ransom.TTF" size="71996" crc="20234f63" md5="e3d314cb0ca9960a6c8ce55da63ed435" sha1="bedf94e8e079e890e7b31cc63112f5ec62410659" />
+		<rom name="vpfonts/Rf7.fon" size="58832" crc="581dd136" md5="c9c4012a4dd1c373f853cabbcdff8c6d" sha1="7c030e403e4c0998593755766696ba92843aa5a1" />
+		<rom name="vpfonts/ROCKFONT.TTF" size="60488" crc="f3d41959" md5="d5c6dabda4fd0c2973e45e30a01fcab0" sha1="657bad9ec0463313389f3851d0b5702fd5b62534" />
+		<rom name="vpfonts/romantic.ttf" size="56236" crc="bd4b2a36" md5="d77e80136373bc1c5b2b68f23d7abb5a" sha1="c6d215eacbb41a4c1ba6ec77abc8048757307580" />
+		<rom name="vpfonts/ROOSTHEA.TTF" size="19416" crc="6da32960" md5="8ffa7dd3afb9767697955a398fc997f0" sha1="0b7cdcb3931190925b7f680fbd9b5fa6265e26e7" />
+		<rom name="vpfonts/sandoval.ttf" size="40712" crc="dab4cede" md5="7ff955de41cdfa448690ed94bcf94d2a" sha1="501f885f9a7fb0104b000dd7f47a12cae9e1bb65" />
+		<rom name="vpfonts/scifie.ttf" size="33356" crc="d9b3cb23" md5="b19cbee800dac7a126da1b16969f0d8f" sha1="85ba9b92185560ce6a0ad66e1e8c85e04bea31fb" />
+		<rom name="vpfonts/scifieo.ttf" size="48928" crc="85e76468" md5="9664773786e1e1592185414f52938140" sha1="641e7c371c451ea9111006f69a6b031fac3d9993" />
+		<rom name="vpfonts/SF CHROM.TTF" size="39252" crc="98415ad1" md5="0d26ded91450fe62cd940525ef0be145" sha1="1e5515e4d3935d43bbb3cbe8a2323eb4ee65875d" />
+		<rom name="vpfonts/SF Comic Script.ttf" size="42888" crc="b70537fb" md5="6051b41cc5c495d20fba952b9799b09e" sha1="e9298aafcb66485eff59c992f6fb37d365d5caea" />
+		<rom name="vpfonts/SFATAR~1.TTF" size="22400" crc="6eb3f4d1" md5="c493fede9be21fb89eb0f9075bc4829c" sha1="cabda089e35db2a1b14a6ecd9f5801ab1fe3b373" />
+		<rom name="vpfonts/Silicon.TTF" size="57292" crc="eb3f67f9" md5="7825b770ca1507a5d34ab7ba9ff97c35" sha1="5627d8d5e6a0c245c93ea341fb6053a0913f2326" />
+		<rom name="vpfonts/smalle.fon" size="26112" crc="b796879f" md5="abc2dda06ac9d95b210a3a805d724391" sha1="f696b1221ce83c5b9a01ffc53a4a07e10fa31226" />
+		<rom name="vpfonts/SNAP.TTF" size="33616" crc="86c3f2d0" md5="d0725db773b460ed3a456370c80f875d" sha1="b19a0377792d280ee39e029110d274902ecf6773" />
+		<rom name="vpfonts/SOUVNRL.TTF" size="54420" crc="abdd6379" md5="11b94b67c7402dceba89abf889c66a7a" sha1="2b91334febf08accb084d88d6a59bdd1921422f1" />
+		<rom name="vpfonts/SPACE AG.TTF" size="26736" crc="ea1d9ed0" md5="ce43c6569134811c6828717671d38916" sha1="e12400246111da1a1b62ad9efdf8846b8e35a910" />
+		<rom name="vpfonts/SQUEALER.TTF" size="9216" crc="945d0401" md5="9e93a5ecbb80e006c91fa76d20dcf8e8" sha1="de07079e3f2088218fec0c7825500972dad56d38" />
+		<rom name="vpfonts/STAC222N.TTF" size="126680" crc="4f51ffd7" md5="596561750fdbadca0e5809256ee03be0" sha1="50db63d55ff40ec9a0b2a409a8948d589ffbdcfd" />
+		<rom name="vpfonts/STAGECOA.TTF" size="36044" crc="e19af1d8" md5="2998838342c43d687b762610a031006e" sha1="5f4ade99f115186085fd1088b1acbd0a38ef34f3" />
+		<rom name="vpfonts/Starjedi.TTF" size="25656" crc="fcaba86d" md5="af7c07faaff0d16720c25db7990579e2" sha1="795839dd1b9630949c56f447529140608bb894b7" />
+		<rom name="vpfonts/stonehen.TTF" size="41116" crc="5c95e648" md5="27b376bde158d71e22b0019a746a8cae" sha1="7d98c811e5a07dcc2af9508ebec017412ed252bf" />
+		<rom name="vpfonts/Sumdumgo.TTF" size="31276" crc="5bf52601" md5="df171e11537d60631ca6de7c2c5c528a" sha1="2a2076137087926856d8311b7288adc54c08de5e" />
+		<rom name="vpfonts/SWATRG__.TTF" size="32164" crc="8177a3b1" md5="94e33f36470650aedcd04eb2f61946aa" sha1="feb08026ae1dd9537866dcb55f0005b9a08b2225" />
+		<rom name="vpfonts/SYMBOL.TTF" size="69464" crc="d54e4e47" md5="52a49b64c8be90d99fbc2ceb3c770648" sha1="89ea47e3c86a2f6728af51770923ff3cd351b19f" />
+		<rom name="vpfonts/TAHOMA.TTF" size="249012" crc="2bfa7b82" md5="07ebf1d971eb077b6749098c702b9fe7" sha1="5108be91dd80d9b42ecf3b9b48587a82c0dbe0f8" />
+		<rom name="vpfonts/TAHOMABD.TTF" size="243684" crc="249edace" md5="f793779a938d146e45851f90db29e3e2" sha1="68d37782a8391dcf62e1301dbd1d1c127615409e" />
+		<rom name="vpfonts/Taito Brasil FIXED.ttf" size="32644" crc="de29be59" md5="873d5368f1794dcf3a8fa3344cb1dd07" sha1="c81d9eee957625fcd02e687473377870ee06a020" />
+		<rom name="vpfonts/TANGLEWO.TTF" size="57040" crc="c9ff1e23" md5="bbb5f0614d73d85cfe8d23f32bc47e56" sha1="19a72937b3b1770e8b77a43326ee5a7d060ce91e" />
+		<rom name="vpfonts/TEKTON.PFB" size="24253" crc="1565b82b" md5="45c01085d83f36a464476f5fc2e65259" sha1="da2c4e68e1fe13301e91dc773d6fad698d563c4d" />
+		<rom name="vpfonts/TEKTON.PFM" size="1754" crc="df6fdc21" md5="4c996428371c808a2f75a860a82f46a7" sha1="fd26f5c1bbae1c3d54610b30bbae2b2c8f070b55" />
+		<rom name="vpfonts/termina2.ttf" size="31984" crc="e6811bd1" md5="c060511a5406475216dc43700e09a066" sha1="00fe31bcf40225aa0df495dfa1c099a032d644f2" />
+		<rom name="vpfonts/THEAA.TTF" size="50120" crc="3fe219e0" md5="7460cb03f778f012bfe9616b6a587575" sha1="d90e2550bf2f9535652897db2cef990ed80cad13" />
+		<rom name="vpfonts/times.ttf" size="349636" crc="7062a65e" md5="29034d5f147b8eb811a8e0a5ccf98bd7" sha1="2251d3ac8a3132db411aa1cb8661bc2a9cd0e946" />
+		<rom name="vpfonts/timesbd.ttf" size="334944" crc="6ffc29d6" md5="c49cfe1c7e6b37dbce154687aec3f35c" sha1="be20d12107bad44f5db954537e1e0b841430fbdf" />
+		<rom name="vpfonts/TO______.TTF" size="57748" crc="583a7e1d" md5="71b3a7dba00a560448999dc9aa8ca00e" sha1="6872d44fbb1617d6098612b1bc469f5fc2acac89" />
+		<rom name="vpfonts/TOT1.FON" size="27360" crc="e5687190" md5="37ca6911eb026d2d9d134d2cf8c51a01" sha1="773ad2c6dffa40293972fce9bc1d62750fc0096c" />
+		<rom name="vpfonts/TRANA___.TTF" size="58232" crc="a65607b4" md5="66dc9095c3f6fb48dbe4874d7304ca47" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6" />
+		<rom name="vpfonts/UNICORN.TTF" size="47868" crc="8fd736c4" md5="d48b68e875e2ac23e7ec58b4b95b6e7a" sha1="37dec9aa577c5ce4ba7e299a7ea7b51276d8fa3a" />
+		<rom name="vpfonts/Vectorb.ttf" size="29784" crc="87806f09" md5="a75df1070f5fc3b905a759bda2303449" sha1="3f6ceba45707361c3c93412ebbef7f75069f38a2" />
+		<rom name="vpfonts/VERDANAZ.TTF" size="153324" crc="de97c0a8" md5="f7310c29df0070530c48a47f2dca9014" sha1="09aff891c626fe7d3b878f40a6376073b90d4fde" />
+		<rom name="vpfonts/Victorian.TTF" size="51446" crc="d1d1737c" md5="dd290d0bc07e711660491fb4713b79c0" sha1="1cbd17bb3d98b6c6839bda631f193d564e4556c0" />
+		<rom name="vpfonts/vikingn.ttf" size="52552" crc="23ddd959" md5="63fcaee854aebdfac2a7feabee0e81f7" sha1="c7bbc9d3596a83b83bba52e051867a4405f26617" />
+		<rom name="vpfonts/VISITOR.TTF" size="12084" crc="4b093090" md5="6f41fbcfef715b703fb03814c3383008" sha1="477181badc1e3aac22a3c2899c18977c2419e42b" />
+		<rom name="vpfonts/Vixarasc.ttf" size="18124" crc="880547fc" md5="55ef1c91fd5be35e66da8e6cad0bdfd3" sha1="4fd5451c4614233d55577586813952f93d7a5275" />
+		<rom name="vpfonts/WESTM.TTF" size="50312" crc="7ab2df32" md5="787588e6c611222861fa21b3ff9c12e4" sha1="8afe1419235c5a35a8c1b7f865e6f22a09929426" />
+		<rom name="vpfonts/williamsfontwide.ttf" size="19304" crc="c3c010f1" md5="b2501f86b4d05becd30952e117c53de5" sha1="3b0458ab8b8679b760b3e177f5ab4ebd98001b2c" />
+		<rom name="vpfonts/WINGDING.TTF" size="81000" crc="0613a062" md5="e991cc888d4fb544fe0a88d065ab6efc" sha1="071b3cfc58598fcf558d2d0b4acecb61f9fd433c" />
+		<rom name="vpfonts/WINGDNG2.TTF" size="59696" crc="1de4aa42" md5="cc20de18a53d14be3a3598f03cec292b" sha1="c9a5e2377430acbb660b10600e1b854615e2bb13" />
+		<rom name="vpfonts/WINGDNG3.TTF" size="29236" crc="950d7130" md5="c749f65c05c531bf369669b6e9f79eac" sha1="6669122f9627a637704cf012a8cc18705d2e0a8a" />
+		<rom name="INSTRUCTION.txt" size="248" crc="4883c100" md5="b423652621829bafbb95185151834595" sha1="87346147c851ccc77e06d96f12e2d908121f9b7e" />
+	</machine>
+	<machine name="Red &amp; Ted's Road Show (Williams)(1994)(JPSalas, Bent98, Bodydump)(1.0)[VP911]">
+		<description>Red &amp; Ted's Road Show (Williams)(1994)(JPSalas, Bent98, Bodydump)(1.0)[VP911]</description>
+		<rom name="Roadshow_VP911_1.01.vpt" size="18427904" crc="f631d54b" md5="6ba04d2850af02e70ccb86f98696d7b6" sha1="45669dfe570ef487c580d139ecad4680a1e57a1c" />
+		<rom name="screenshot.jpg" size="687448" crc="c7bbb0c8" md5="2c26480650b6fc3d5c7fe76c18918eab" sha1="70319458113b0107d102ad38951c58f75ac1f4ae" />
+	</machine>
+	<machine name="Rescue 911 (Gottlieb)(1994)(Zedonius)(1.0)[VP912][Hi-Res graphics]">
+		<description>Rescue 911 (Gottlieb)(1994)(Zedonius)(1.0)[VP912][Hi-Res graphics]</description>
+		<rom name="Rescue 911 Desktop.vpt" size="21925888" crc="8a6c792a" md5="5f2c864ac81c7cb527a67c08c6d1656a" sha1="54d6d148a918e1bec36b4226fbdf662271a8e645" />
+		<rom name="screenshot.jpg" size="737336" crc="93c93bce" md5="89367b5f679f8bb2586b8ef657ce03ad" sha1="97d0b01df5ddd5a33d33f5ba113d5be976f5687e" />
+	</machine>
+	<machine name="Ripley's Believe It or Not! (Stern)(2004)(JPSalas)(2.0)[VP912]">
+		<description>Ripley's Believe It or Not! (Stern)(2004)(JPSalas)(2.0)[VP912]</description>
+		<rom name="Ripleys_Believe_It_or_Not_VP912_2.0.vpt" size="35287040" crc="77d9df89" md5="0e6e91f42279700f3c7a5b1281952123" sha1="0ffe023daced2af207094d0f8e229843a1c8898a" />
+		<rom name="ripleys_believe_it_or_not_vp912_20.jpg" size="340996" crc="9b6dde14" md5="12598848775cb287256b76e838505ea6" sha1="ab4fdc6fb4e898ce8a7850a0b96d60690e831d2b" />
+	</machine>
+	<machine name="Rock On (Allied Leisure Industries)(1975)(TAB, Destruk, Gaston, Itchigo)(1.0)[VP914]">
+		<description>Rock On (Allied Leisure Industries)(1975)(TAB, Destruk, Gaston, Itchigo)(1.0)[VP914]</description>
+		<rom name="Rock On Allied Leisure 1975 Desktop Itchigo.jpeg" size="263850" crc="d9a45472" md5="2378636b5b3b5816144848e65c982529" sha1="acdd64dfb4e1db7ba91a2e246901a247e6f8fee5" />
+		<rom name="Rock On Desktop.vpt" size="8626176" crc="5ebce1b0" md5="d3c6d1187d976871f45c22d41ceed2ae" sha1="df07682d8d35448ce57f4727d005365ac2c3431c" />
+	</machine>
+	<machine name="Royal Flush Deluxe (Gottlieb)(1983)(Grizz, Unclewilly)(2.0)[VP91x]">
+		<description>Royal Flush Deluxe (Gottlieb)(1983)(Grizz, Unclewilly)(2.0)[VP91x]</description>
+		<rom name="Royal-Flush-Deluxev2.0.43.vp91x.-JR.vpt" size="17539072" crc="3efa0f1b" md5="51c23a4b78e62915f93e3a09cefdcf53" sha1="1ff564db6cb369a6d88ab39468007ebd21697bef" />
+		<rom name="screenshot.png" size="1854452" crc="ec6597e4" md5="64b203bb3d53a6c2b4ee3752cb6dc815" sha1="4545d8ba4372e4bbb25a3977ddc3262b71d61f3c" />
+	</machine>
+	<machine name="Scared Stiff (Bally)(1996)(JPSalas)(1.4.4)[VP91x]">
+		<description>Scared Stiff (Bally)(1996)(JPSalas)(1.4.4)[VP91x]</description>
+		<rom name="Scared_Stiff_VP91x_1.4.4.vpt" size="21446656" crc="cb701130" md5="8a86567f7bd21a0726431bfa196ce11e" sha1="a7ccc6648de651093a6a2cac0505f6fa394391e6" />
+		<rom name="screenshot.jpg" size="635880" crc="cef97292" md5="f32f5415d4c520ad1acc492cd4ebd44e" sha1="89a59412c037df6c821fc8527ab995557193191f" />
+	</machine>
+	<machine name="Scooby Doo! and KISS - Rock 'n Roll Mystery (HauntFreaks)(1.0)[VP915]">
+		<description>Scooby Doo! and KISS - Rock 'n Roll Mystery (HauntFreaks)(1.0)[VP915]</description>
+		<rom name="KISS-scooby-doo1.0db2s HauntFreaks/dB2S.jpg" size="100292" crc="cd2176b2" md5="ad066c910c9f7561021852380902cc70" sha1="661c529c2b6f62cdb3d723f1266b8d121122c1b5" />
+		<rom name="KISS-scooby-doo1.0db2s HauntFreaks/KISS-scooby-doo1.0.directb2s" size="17303593" crc="5938c566" md5="5d36912a61a0e6a856bf93ac06f609ba" sha1="e2879d3faea65e8500a8aeb46d9071bb2761915a" />
+		<rom name="music/Kiss - Dont Touch My Ascot.mp3" size="1106638" crc="cc7a3bf3" md5="a5309151a1bb4af295f7be970d3e0876" sha1="cca8bd8516bbcf5a9f829bbf60db4944ba19fcb8" />
+		<rom name="music/Kiss - Foo Fighters - Detroit Rock City.mp3" size="4464332" crc="c6df5487" md5="4a72cce56ea60cd31fe8d131196e1bbe" sha1="657720d7dfe21e27e241a11c642a4e1a8caf2407" />
+		<rom name="music/Kiss - Lenny Kravitz - Deuce.mp3" size="4367033" crc="cc74e0d6" md5="6813238c849f0c2f8ed5c8d743311d97" sha1="627e26c812952ce76a545a5b21d1fd9e3b5368ea" />
+		<rom name="music/Kiss - Motorhead - shout it out loud.mp3" size="4062479" crc="db0b8b4f" md5="13c89e55ee131340ce1c419885e0ef42" sha1="ecb218006b50bd20f70ab5cf5578954191d4c99b" />
+		<rom name="music/Kiss - My Superhero - Scooby Doo Theme.mp3" size="1744670" crc="c9f934a5" md5="257ba399bcabd34a4f7de48c90499a1a" sha1="d1d905e9ca0f25a1855e0e2ff96d5e92b109db4c" />
+		<rom name="KISS-scooby-doo1.0.vpt" size="52547584" crc="baeb8e08" md5="bffcdfafd49cdfd126baa63dff377d13" sha1="85e465291ef12effc6d6d028f73244769e5516c9" />
+		<rom name="screenshot.jpg" size="479261" crc="3b495196" md5="f4ae4fb8a0e1ddcd9da11c2daa4a2e76" sha1="e1bbd79171ebfa8600b59a40da696d1ad3cce0f7" />
+	</machine>
+	<machine name="Screech (Inder)(1976)(TAB, Destruk)(2.0.1)[VP91x]">
+		<description>Screech (Inder)(1976)(TAB, Destruk)(2.0.1)[VP91x]</description>
+		<rom name="Screech.vpt" size="6160384" crc="555099d4" md5="dcc87a109f5665a959e5dcd733fa78a8" sha1="52220fc62b47d0e896fe6ac17a0f59a06af9c847" />
+		<rom name="screenshot.jpg" size="158506" crc="fc3aeac5" md5="3e69d519bc7629f3ed4896f78f6ec340" sha1="d33b18ede470ea70b1625f5472ba4e0fce7d9924" />
+	</machine>
+	<machine name="Seawitch (Stern)(1980)(Unclewilly)(1.0)[VP910]">
+		<description>Seawitch (Stern)(1980)(Unclewilly)(1.0)[VP910]</description>
+		<rom name="NightMod/BS.jpg" size="13330" crc="b0d52040" md5="802764486de424e2a272484aada60283" sha1="af1edaa2d517f8de7e2f9bd4b4e0729780a7c50f" />
+		<rom name="NightMod/BSA.jpg" size="13326" crc="af80cdc4" md5="a0f240ac119e9942442a42f57f87aac7" sha1="040b7ffcc50a0ba39f242aeec3259ae95f5fd751" />
+		<rom name="NightMod/BSB.jpg" size="13328" crc="18f53944" md5="25b8029fd6f9c2252705e26f15751bb9" sha1="9ce3e6cb0c4ff50c048a9568b80a49c6c8011ba4" />
+		<rom name="NightMod/BSON.jpg" size="13330" crc="11eadba2" md5="efd191eb3564a59608374c844f36536f" sha1="37aea6f579ec06dc1f57af30e11f08b313dc20f3" />
+		<rom name="NightMod/DT.jpg" size="26650" crc="33f9645e" md5="c06466bef8ca4c94bbe0fc03c22c2361" sha1="461b5a503f03be70f7292726fe4b8c9529bd8cfb" />
+		<rom name="NightMod/LeftRail.jpg" size="61239" crc="31cb6ac2" md5="9363233626cc8dbc9969138307b7257b" sha1="1c2404d738e8231e9d3268723c1f14a9414fcdd4" />
+		<rom name="NightMod/pf.jpg" size="857271" crc="022c2f81" md5="b93d6d421e9b45897eb503a2e39d28a2" sha1="5109bb8e2fe281f5cd4402844d2ba166b1c5adbb" />
+		<rom name="NightMod/pfa.jpg" size="588273" crc="c5c02fd4" md5="7ff789a5ddc0d90995acc9e3170a6190" sha1="84763c7e10fc4be63f7947a1bd10b4264c0eb8b3" />
+		<rom name="NightMod/pfb.jpg" size="584132" crc="9d2ae202" md5="9e03cec60431d8e9b034948c9a262b13" sha1="f3d7891b3dc54465ce14bded0dd1bfbf024fe627" />
+		<rom name="NightMod/pfOn.jpg" size="1033634" crc="c36cfdb1" md5="d1294ac8c414f7d5b57750b7d37ea154" sha1="478baec704ea7842c41e1d3e0df7302d7289dbe9" />
+		<rom name="NightMod/plastics.jpg" size="704977" crc="f83b10d4" md5="473c10f103467fa6fdd74f57c54c9d9b" sha1="93369be7cac81e916408c6da183cb62ca46f28af" />
+		<rom name="NightMod/plasticsOn.jpg" size="928842" crc="1f44881b" md5="50841a15e590297ff68dda25368bf2f8" sha1="24da2cc8d57ec2d23d807893a2c4e90a4cfc2cfb" />
+		<rom name="NightMod/rightrail.jpg" size="60963" crc="8a032337" md5="66d747e56271531cd5c286190f5e9eec" sha1="e6f83e5478358b5ec2360bbdaa619157538fd9af" />
+		<rom name="NightMod/scratched metal.jpg" size="16561" crc="4f9c50a5" md5="14235e97d158aae3bc56c7df0d0bad7e" sha1="8c43bd9bc67b78fd5648b9668e414efdecc948a6" />
+		<rom name="NightMod/shinymetal.jpg" size="13681" crc="73f1d38b" md5="db01e8cce296447964464d19ca2a21ce" sha1="4a68902f82bd8b5601b11a31a9dc17b2581cb91b" />
+		<rom name="NightMod/spinnerback.jpg" size="33377" crc="cf2bab58" md5="633d991466a209669f62213ad82c7528" sha1="e8242dfb8fa7c744d64f7ba65494dbd8d665370b" />
+		<rom name="NightMod/spinnerfront.jpg" size="38302" crc="59102680" md5="4fb5e1114a04dfcb1bf17f1ed91f0a0b" sha1="68152abfe9cdbbd5b939a66fc65bfcd857ee6422" />
+		<rom name="NightMod/standuptargetStar.bmp" size="25724" crc="92d25000" md5="60e9a2fa263193e0c077eb9ec67b68fa" sha1="1b754716c31a99fe5d9cc98a315123a3ae8916c3" />
+		<rom name="Seawitch (Stern)(1980)(unclewilly)(1.0)[VP910].vpt" size="12348928" crc="2cfd85ed" md5="8e7a7ab9f83425af7063caa3618afa82" sha1="0fe8e5c02e5234581ab1ce65ea3d8c7d90512c5e" />
+	</machine>
+	<machine name="Shark (Taito do Brasil)(1982)(Joao Accioly)(1.1)[VP9]">
+		<description>Shark (Taito do Brasil)(1982)(Joao Accioly)(1.1)[VP9]</description>
+		<rom name="Fonts/Benguiat_Bold_1.ttf" size="67421" crc="c227c8ab" md5="96e87024e9b0929927858646d4005a17" sha1="077a06332d46697a9bcf33e5bc8d0d37ed4935aa" />
+		<rom name="Shark (Taito do Brasil)(1982)(Joao Accioly)(1.1)[VP916][versao Fipermatic].vpt" size="3440640" crc="9b9092b0" md5="e01d788f4e3b6932240c949076b12470" sha1="671db952f5c0f4ad2e8cde5908acbaf227f01180" />
+		<rom name="Shark Read me.txt" size="244" crc="bf236073" md5="81713c68838a8a8a007b6e239b481509" sha1="ca7bc7850bd7cd3146cf8d3fecf84aebee8dc364" />
+		<rom name="Shark screenshot.jpg" size="458003" crc="51dd5387" md5="4e3e86cc9ea61ab87858fb0e715d3377" sha1="d2eb259688b688f03c0d03c6e974ed4ad6962b84" />
+	</machine>
+	<machine name="Sharkey's Shootout (Stern)(2000)(Freneticamnesic)(1.0)[VP915][Desktop Batch]">
+		<description>Sharkey's Shootout (Stern)(2000)(Freneticamnesic)(1.0)[VP915][Desktop Batch]</description>
+		<rom name="Sharkey's Shootout DT 1.0.vpt" size="74534912" crc="95551c05" md5="f5a1eb23178e1b5d68c21aa50eecafd0" sha1="4bcc40dc3672cb2360130762e3ca2836b6c75e2d" />
+		<rom name="sharkey-s-shootout-dt-10.jpg" size="800615" crc="6b6602e4" md5="8f99e3dd85c56c82fff9760d8fb6b916" sha1="eedf48b308f8a793e67c89514f37d0da6a77148b" />
+	</machine>
+	<machine name="Sharpshooter (Game Plan)(1979)(Bodydump)(1.1)[VP914]">
+		<description>Sharpshooter (Game Plan)(1979)(Bodydump)(1.1)[VP914]</description>
+		<rom name="Sharpshooter (Game Plan)(1979)(Bodydump)(1.1)[VP914].vpt" size="22913024" crc="ab602c51" md5="510bbccbe44605d463292e6a0734d58d" sha1="8fc569305f725351b4a76216c4e41b4741d4c0aa" />
+		<rom name="Sharpshooter screenshot.jpg" size="691832" crc="61049e7e" md5="7d3c71415409c92cc56ad8e5e2095a5c" sha1="1c599a32fe7a2ccbc19c40fa2f1f48883fe7661f" />
+	</machine>
+	<machine name="Shock (Taito do Brasil)(1979)(Joao Accioly)(1.2)[VP9]">
+		<description>Shock (Taito do Brasil)(1979)(Joao Accioly)(1.2)[VP9]</description>
+		<rom name="Fonts/neon2_0.ttf" size="98696" crc="a58717c2" md5="89c8113d4206edb49b477a3939c86fe5" sha1="d43525093c870f45a0eecdb1efef199be13b32b3" />
+		<rom name="Shock (Taito do Brasil)(1979)(Joao Accioly)(1.0)[VP916].vpt" size="13099008" crc="d8962faf" md5="6cd5fb682faafb0dfc6c2fb119e19658" sha1="81bc572617001ebf07e13dc8387f0f90a1ba1f73" />
+		<rom name="Shock Read me.txt" size="244" crc="bf236073" md5="81713c68838a8a8a007b6e239b481509" sha1="ca7bc7850bd7cd3146cf8d3fecf84aebee8dc364" />
+		<rom name="Shock screenshot.jpg" size="457451" crc="eaae2a31" md5="9f240c7f2627796c845ab1c016f6ac52" sha1="98c86944033825463e34a5ae9d62c1f77694bac0" />
+	</machine>
+	<machine name="Sinbad (Gottlieb)(1978)(pinuck, kruge99)(1.0)[VP912]">
+		<description>Sinbad (Gottlieb)(1978)(pinuck, kruge99)(1.0)[VP912]</description>
+		<rom name="screenshot.jpg" size="273347" crc="4cc26efb" md5="a4b0bc8a24f4abef78f5771583d7360d" sha1="b475de53160473badea87edf7e1815edc9a499b3" />
+		<rom name="Sinbad_VP912_4x3_1.0.vpt" size="15527936" crc="4ef0053c" md5="78a96a012b527964e93dc54bd67879f3" sha1="701e5a9bf5966b02afc0ab878e8331702367d428" />
+	</machine>
+	<machine name="Sopranos, The (Stern)(2005)(JPSalas, bodydump)(1.0.1)[VP915]">
+		<description>Sopranos, The (Stern)(2005)(JPSalas, bodydump)(1.0.1)[VP915]</description>
+		<rom name="sopranos_vp915.jpg" size="423942" crc="60f8f72a" md5="e7a4db7b76ec0056a31e1b0f1f98f769" sha1="64ea369e54440ce294b2ec5b98db674c5acd2d72" />
+		<rom name="Sopranos_VP915_v1.0.1.vpt" size="45740032" crc="a2df7d6f" md5="46b560ae29f99a1be65b7ecb8625a2cd" sha1="d08f992be0110960a289f3140467aafd983592fc" />
+	</machine>
+	<machine name="Sorcerer (Williams)(1985)(UncleReamus, Noah Fentz)(1.1)[VP91x]">
+		<description>Sorcerer (Williams)(1985)(UncleReamus, Noah Fentz)(1.1)[VP91x]</description>
+		<rom name="Sorcerer_LargeTextures/FlashersPF.jpg" size="2371355" crc="3f6cffae" md5="3f91cdb0098cbb0c15114de1114edd33" sha1="75a3bb23da235bd5b96f81970b7e6b88346e9e77" />
+		<rom name="Sorcerer_LargeTextures/FlashersPlastics.jpg" size="1173360" crc="d850d1b6" md5="7de216c5cfae713e7b17c305b1ef7b62" sha1="9ce4c0493f2e19444aba13eadb9c82c71bda0602" />
+		<rom name="Sorcerer_LargeTextures/GIOff.jpg" size="1827313" crc="4bdde709" md5="30c8a79cd48190770a5682a45d9f835d" sha1="490502b9217053e3aefa99af277ef73ee1c1cbc5" />
+		<rom name="Sorcerer_LargeTextures/LightsOff(Original).jpg" size="2290942" crc="0c9496f0" md5="84f433cb51864a0da37a241c4a7eab3b" sha1="59c7568747c5e5a9d2f70d43f3b03b6a2a58e11f" />
+		<rom name="Sorcerer_LargeTextures/LightsOn(Original).jpg" size="2417500" crc="a5a6f574" md5="d9613d452e50a219b8a176a5766b786a" sha1="77c15afe8e2d143ec22d477b780a9b0a67c192b5" />
+		<rom name="Sorcerer_LargeTextures/LightsOnA(Original).jpg" size="2403957" crc="22602842" md5="fdc5aba7630fe531603c6ad5b3bea8c7" sha1="19aeb5146b5c42ccaa9e4356331653584e2d8723" />
+		<rom name="Sorcerer_LargeTextures/LightsOnB(Original).jpg" size="2387533" crc="b4a1fce1" md5="6412baa1aafaf1b8ea86e109eab1a0ff" sha1="c2fc3293028120c31eec8669cca1faa3dc5dc1b4" />
+		<rom name="Sorcerer_LargeTextures/Metals.jpg" size="117077" crc="3a843e3a" md5="132e3ccb99c1a5d68962e9cdbcc09c5a" sha1="38e43ab84b7b326d3c64f14638e6629e87825f9c" />
+		<rom name="Sorcerer_LargeTextures/PlasticsGIOff.jpg" size="978572" crc="b064b910" md5="906c219cb0cfce4236acc85aa1dcdde3" sha1="013efec9b526d4fdca9ca13cf9cf91ca2a302001" />
+		<rom name="Sorcerer_LargeTextures/SorcererBackdrop.jpg" size="516202" crc="6fce8313" md5="79c84523e0e6a33f9fd0e590cf926260" sha1="d0d144b48d88d75abcca423535fd8b46239f015f" />
+		<rom name="Sorcerer_LargeTextures/SorcererPlastics.jpg" size="1154048" crc="ca603833" md5="24d715be62aa05019b0642f26665a4e4" sha1="c1e981eeca68880eaa8587c2faec30b0e6653bd8" />
+		<rom name="screenshot.jpg" size="1544027" crc="1c428d0b" md5="598f97a3a3900273f0ebb0c655b62521" sha1="b401c633e952e13f713bcaeee0ffbc6991b11f9f" />
+		<rom name="Sorcerer_UR_VP9_v1.1.0.vpt" size="17784832" crc="5036462d" md5="36711aea9d69e7f7e962ce9f5ac13823" sha1="30f048ba2b5d68eafb46970ed41ac3e13b4998cf" />
+	</machine>
+	<machine name="Spectra IV (The Valley Company)(1978)(Destruk, TAB)(1.0.1)[VP912]">
+		<description>Spectra IV (The Valley Company)(1978)(Destruk, TAB)(1.0.1)[VP912]</description>
+		<rom name="screenshot.jpg" size="330714" crc="62bce2fc" md5="5344bf174c22d6be577e9a420bc56de0" sha1="c38a0778ae8ad4cfad51ab44ef97675ac4b56ee7" />
+		<rom name="Spectra IV.vpt" size="5996544" crc="be7732b8" md5="72a6064d415ab65d36bb79f06aa288fb" sha1="aa36a1556af185224c0e7fbb115da6022f04f41c" />
+		<rom name="spectra.nv" size="302" crc="a69064fa" md5="06f66f1c8c72a4db3dd1f2176113148e" sha1="1d336408923ae2b09fb6cfcb2a8462dd4f8de769" />
+	</machine>
+	<machine name="Star God (Zaccaria)(1980)(LuvThatApex, Ezepov)(1.0.0)[VP91x]">
+		<description>Star God (Zaccaria)(1980)(LuvThatApex, Ezepov)(1.0.0)[VP91x]</description>
+		<rom name="screenshot.jpg" size="475111" crc="e989ad10" md5="55e369227802bcddec8f3dc58ace71fa" sha1="673d55ac1166397f6fad301a20d600393e5d5b63" />
+		<rom name="Star_God_9.1_1.0.0_4x3.vpt" size="8970240" crc="0b731702" md5="175aeab71af7a0227f865425cc220332" sha1="756ec9779713a9b6f0bf7c3fc7fa7f54e7bc17ff" />
+	</machine>
+	<machine name="Star Trek 25th Anniversary (Data East)(1992)(JPSalas)(1.05)[VP91x]">
+		<description>Star Trek 25th Anniversary (Data East)(1992)(JPSalas)(1.05)[VP91x]</description>
+		<rom name="screenshot.jpg" size="488657" crc="ac71de8d" md5="8b8b24b711b5ffb0af4ec0361dd4b911" sha1="219a94496a28bfa97c92cb3e24d6f058b1e02a98" />
+		<rom name="Star_Trek_25th_Anniversary_VP91x_v1.05.vpt" size="13791232" crc="86ef4496" md5="cb2bfa680c660c529bd1e841a54cef31" sha1="24ce6e9ac3bb8c387bf97ea1ae196622fb3608db" />
+	</machine>
+	<machine name="Star Trek (Bally)(1979)(JPSalas)(1.1)[VP91x]">
+		<description>Star Trek (Bally)(1979)(JPSalas)(1.1)[VP91x]</description>
+		<rom name="screenshot.jpg" size="638480" crc="b02eaec5" md5="30a739f5a5b0dffc889a6d06981afb7b" sha1="f5fd6d1b08afc8116162788b2efd9824c5f8e402" />
+		<rom name="Star-Trek_VP91x_1.1.vpt" size="10141696" crc="da06622f" md5="bd4a5293151d8331fe544465b26ec6ba" sha1="f2b64b0af9f72c27fdd05586fd7b70c339fa32fd" />
+	</machine>
+	<machine name="Star Trek (Bally)(1979)(UncleReamus, Noah Fentz)(1.0.1)[VP912]">
+		<description>Star Trek (Bally)(1979)(UncleReamus, Noah Fentz)(1.0.1)[VP912]</description>
+		<rom name="screenshot.jpg" size="584850" crc="fb9da6fa" md5="3e59adf7a58fa2e2f6e344442624529a" sha1="ab6b70530352c8b0c2d9bb4ed993b9277b23353a" />
+		<rom name="StarTrek_UR_NF_Desktop_V1.0.1.vpt" size="15597568" crc="a830cc89" md5="24b3966ee528d26ac80e349b493a9f18" sha1="0951d0c61d70a11f9c4a0bf3be6554039afc0dcd" />
+	</machine>
+	<machine name="Star Trek - The Next Generation (Williams)(1993)(JPSalas)(1.2)[VP91x]">
+		<description>Star Trek - The Next Generation (Williams)(1993)(JPSalas)(1.2)[VP91x]</description>
+		<rom name="screenshot.jpg" size="562193" crc="832bed3b" md5="632b14283c865480896d70ad25a6b103" sha1="110fa67b0b4225efdf06c4fe141e9bd65962caa6" />
+		<rom name="STTNG_VP91x_v1.2.vpt" size="14204928" crc="4206712e" md5="32f099b33b34a10c77c358b326d08423" sha1="2e09b385383dc77bf1d0c3f92a2e32dd149a8a44" />
+	</machine>
+	<machine name="Star Wars Trilogy Special Edition, The (SEGA)(1997)(JPSalas, Magnox, Subzero1970, WTiger)(1.0.2)[VP915]">
+		<description>Star Wars Trilogy Special Edition, The (SEGA)(1997)(JPSalas, Magnox, Subzero1970, WTiger)(1.0.2)[VP915]</description>
+		<rom name="Star_Wars_Trilogy_VP915_v1.0.2.vpt" size="32714752" crc="af670a15" md5="b7f4294a742e8ec99c7023d4d724a10f" sha1="e28f1a95101774fee3d82011b05b12d84cb3f90a" />
+		<rom name="star_wars_trilogy_vp915_v10.jpg" size="297646" crc="3d37eaf6" md5="f2549e71d1cb690b4d4abd1b4e92e9ae" sha1="ea92d8ac3819af2d79dee2f9163e701e4d4ff6c3" />
+	</machine>
+	<machine name="Stargate (Gottlieb)(1995)(hmueck)(1.3)[VP912]">
+		<description>Stargate (Gottlieb)(1995)(hmueck)(1.3)[VP912]</description>
+		<rom name="screenshot.jpg" size="258372" crc="1eb430b0" md5="907137f09c36ebab570d0325b4b7150e" sha1="4e0b01affdcbec221a54ba59c198d712b26dede5" />
+		<rom name="Stargate 1.3.vpt" size="39641088" crc="cd7f4086" md5="5e443fe0586f152fac0433bde130c7de" sha1="e6006157b641be700a873211d34afaa0a5fd656a" />
+	</machine>
+	<machine name="Stars (Stern)(1978)(LuvThatApex, Destruk, Martin Brunker, Ezepov)(1.0.0)[VP91x]">
+		<description>Stars (Stern)(1978)(LuvThatApex, Destruk, Martin Brunker, Ezepov)(1.0.0)[VP91x]</description>
+		<rom name="screenshot.jpg" size="447721" crc="80f91606" md5="c659f27c6c23e676939d2b646fba70d8" sha1="7c4a5f14b93e172434c48bbc95e926fb1c60d947" />
+		<rom name="Stars_9.1_1.0.0_4x3.vpt" size="8335360" crc="638ac395" md5="07f03ea13f2108f13d343f062d950f77" sha1="13352abded62d50fb6e7492837c315fca33a7ad6" />
+	</machine>
+	<machine name="Tales from the Crypt (Data East)(1993)(JPSalas)(2.1.1)[VP912]">
+		<description>Tales from the Crypt (Data East)(1993)(JPSalas)(2.1.1)[VP912]</description>
+		<rom name="screenshot.jpg" size="688119" crc="3b39398a" md5="fa9add50657c326e31d6e77a1afa9d9b" sha1="a71018bfa06505afdf0064ec8bf7897ce5d41d2f" />
+		<rom name="TFTC_VP91x_2.1.1.vpt" size="25944064" crc="7217ed8c" md5="085064bcb6183fc2f4d16d13ca6a58f5" sha1="bd7f0a97319ed567ab7a051282408cc40dfa0cc0" />
+	</machine>
+	<machine name="Tales of the Arabian Nights (Williams)(1996)(JPSalas)(Beta1)[VP916]">
+		<description>Tales of the Arabian Nights (Williams)(1996)(JPSalas)(Beta1)[VP916]</description>
+		<rom name="Lightmaps-fuzzel/blueA.png" size="15518" crc="153a591d" md5="741fcc1ddcc0162e448a91c4609ae0b9" sha1="4fe5198712d24f6c4aabf10867c742a13c35770e" />
+		<rom name="Lightmaps-fuzzel/blueB.png" size="14202" crc="3f67936b" md5="88d411bc3a04416e74a1034b51d85268" sha1="2dca5c263949db0ac231ab668220e8076635842d" />
+		<rom name="Lightmaps-fuzzel/blueOn.png" size="16584" crc="fea13684" md5="7a978419e4a43d7ff4d9e638e0228368" sha1="39c23d82e40dc40e772fc09f0726f4283d309488" />
+		<rom name="Lightmaps-fuzzel/greenA.png" size="15793" crc="00b91382" md5="f88d46a896d96f3103308c7876aac5e9" sha1="75a9b7289ed8563ea8386c2196e5249f4cd5e168" />
+		<rom name="Lightmaps-fuzzel/greenB.png" size="14472" crc="527f3402" md5="bb31148d320c900f7e128b8f07f42144" sha1="78eecf10c2fe5b843b26347a9c959a15fba372fd" />
+		<rom name="Lightmaps-fuzzel/greenOn.png" size="16786" crc="ab093deb" md5="f146d3c238e044883cc0f7cf2e1ce8fb" sha1="9dbd37b53cff795a466f0342933ae597b11ad5fa" />
+		<rom name="Lightmaps-fuzzel/redA.png" size="15748" crc="c074d385" md5="7ec7911b774c9fe9993afcd93dac5771" sha1="865e4042a4b2ad55898adcf511ff88fbbba1cbbe" />
+		<rom name="Lightmaps-fuzzel/redB.png" size="14424" crc="c4576bbd" md5="64281f95f389f11008ef93d17d43a16c" sha1="c697208e87d101e7797964e37bec5fb02a05073c" />
+		<rom name="Lightmaps-fuzzel/redOn.png" size="16699" crc="588731fa" md5="dd032e619e7979dc9655a244d21ef251" sha1="5b3694d47a7da5dc9e8f96ad54f8fe609cfdda10" />
+		<rom name="Lightmaps-fuzzel/yellowA.png" size="21972" crc="9b901df4" md5="b9b21f86332169c2be2039cba326ccf1" sha1="3173e5b337c5f16c6d9a28e84e9a4ffaccd3c3d9" />
+		<rom name="Lightmaps-fuzzel/yellowB.png" size="20286" crc="fa3fce24" md5="7895cf32b76bad5cdc6fdbfae1be3a1a" sha1="44d12ce8770ac386980eaa752a2f16e3d3a2891d" />
+		<rom name="Lightmaps-fuzzel/yellowOn.png" size="23892" crc="174697fd" md5="c8e0f83706b80fa6c2cc653f8f4f7412" sha1="24b97851d71843a3ae05d819d745b3f1295c21a4" />
+		<rom name="totan_vp916_beta1.jpg" size="879750" crc="4081beb7" md5="077b891a735739a4f305b03756d87f99" sha1="a48485c2fa269920224d5c58e3e715ac89c2fa23" />
+		<rom name="TOTAN_VP916_Beta1.vpt" size="31367168" crc="e0faa6ef" md5="41ce726ea6b3c3a39df21c81747226a3" sha1="4f0fa1e98911f71b161b5d446b9bd64d3c0c11d8" />
+		<rom name="VP916-video_settings.jpg" size="74989" crc="483de698" md5="5b4da86e7091a33714a496b4125df98d" sha1="ee813796d8c6e107b53ccead3552ca1cb6b35dec" />
+	</machine>
+	<machine name="Tales of the Arabian Nights (Williams)(1996)(JPSalas, Grizz)(3.4.0)[VP91x][Classic]">
+		<description>Tales of the Arabian Nights (Williams)(1996)(JPSalas, Grizz)(3.4.0)[VP91x][Classic]</description>
+		<rom name="TOTAN_VP91x_3.4_Classic.vpt" size="33951744" crc="a684b47d" md5="c186335d271441d1c18d979a2910ed2b" sha1="1539147a0d215aece9c354d35b4a2d876843fbac" />
+		<rom name="totan_vp91x_33_classic.jpg" size="448109" crc="cd74d7cb" md5="55f005ce88d4effe20cde31c50eba71a" sha1="87e0d8e217b8d14185dbed62d40210b194f51416" />
+	</machine>
+	<machine name="Tales of the Arabian Nights (Williams)(1996)(JPSalas, Grizz)(3.4.0)[VP91x][Enhanced]">
+		<description>Tales of the Arabian Nights (Williams)(1996)(JPSalas, Grizz)(3.4.0)[VP91x][Enhanced]</description>
+		<rom name="TOTAN_VP91x_3.4_Enhanced.vpt" size="33464320" crc="33a8b0eb" md5="5744b1a609039b6d1910d4cc23bde376" sha1="2a5b5b01fd0ea3d234f45334705e524afc83093c" />
+		<rom name="totan_vp91x_33_enhanced.jpg" size="451588" crc="5f807091" md5="d0fae50a8cd1cad2c81a1349bcf772eb" sha1="7ff0031b0fed8344e332fbbfac18e84e8295c187" />
+	</machine>
+	<machine name="Taxi (Williams)(1988)(JPSalas)(2.1.2)[VP912]">
+		<description>Taxi (Williams)(1988)(JPSalas)(2.1.2)[VP912]</description>
+		<rom name="Taxi_VP912_v2.1.2.vpt" size="22102016" crc="f45f1c49" md5="b0293c2fccb68f43ef6f368ab61c2b15" sha1="c2d5ce2aeb021e76d168afc79ab691611a6c7582" />
+		<rom name="taxi_vp912_v212.jpg" size="426419" crc="26d93196" md5="c315db0f8aac414d550e2215f720f8f1" sha1="7de339db0a9b66724a0c9fdce98b8f1b24ea2920" />
+	</machine>
+	<machine name="Theatre of Magic (Bally)(1995)(JPSalas)(2.1.1)[VP91x]">
+		<description>Theatre of Magic (Bally)(1995)(JPSalas)(2.1.1)[VP91x]</description>
+		<rom name="screenshot.jpg" size="564153" crc="0fc886a5" md5="e6083f03461205a0fa11d0fc92ec9dc1" sha1="37dc9f86d8b3a27ff9b81a27226a4743aa2050a3" />
+		<rom name="TOM_vp91x_2.1.1.vpt" size="16965632" crc="f41490cb" md5="29570949c03910115360bddf7196ecc1" sha1="a05188aa81a7ea77d48043d48f301f81ebb5995d" />
+	</machine>
+	<machine name="Time Machine (Data East)(1988)(JPSalas)(1.0.1)[VP91x]">
+		<description>Time Machine (Data East)(1988)(JPSalas)(1.0.1)[VP91x]</description>
+		<rom name="screenshot.jpg" size="1044372" crc="aa4cf787" md5="c6b31c3e82569b501a362f829fab6221" sha1="e5514c421eae3a3cca9d997baa95905da85baee0" />
+		<rom name="Time_Machine_VP91x_1.0.1.vpt" size="10969088" crc="f2016946" md5="a54d5ce56c634638340f30a8d1d3d799" sha1="9fc518b87a0f8a39ae34082b35599c29332b0842" />
+	</machine>
+	<machine name="Trailer (Playmatic)(1985)(MRCMRC)(1.0)[VP912]">
+		<description>Trailer (Playmatic)(1985)(MRCMRC)(1.0)[VP912]</description>
+		<rom name="trailer2.jpg" size="372991" crc="6823dafb" md5="86d8bbe2c9a20f95bfcc15d875111b0f" sha1="08d6abbee9da56a140f05a23af1d71413635eca1" />
+		<rom name="Trailer_v1_0_byMRCMRC.vpt" size="8433664" crc="886f534f" md5="886d105ffad97186d1c9cc1652142c84" sha1="fd378d5f60a0b17b45416e106ccf49731c87c532" />
+	</machine>
+	<machine name="Trident (Stern)(1979)(Destruk, Martin Brunker, Ezepov)(1.0.0)[VP91x]">
+		<description>Trident (Stern)(1979)(Destruk, Martin Brunker, Ezepov)(1.0.0)[VP91x]</description>
+		<rom name="screenshot.jpg" size="500301" crc="4c4bb08c" md5="9c49c809afdcd7add663f82b0ee0a763" sha1="70fbd7f5819911f349887bf78c1fe717c6169d49" />
+		<rom name="Trident_9.1_1.0.0_4x3.vpt" size="9191424" crc="ff7d65ac" md5="f9ab95e40fcb3ae60e62f17b67e57476" sha1="862c1662a8092673b3a7fab72d37704d227ca23b" />
+	</machine>
+	<machine name="Twister (SEGA)(1996)(xio, The Wool, JimmyFingers)(1.02)[VP912][BMPR]">
+		<description>Twister (SEGA)(1996)(xio, The Wool, JimmyFingers)(1.02)[VP912][BMPR]</description>
+		<rom name="screenshot.jpg" size="455733" crc="eaae35e6" md5="2dbf37374a2c421ef2d9ce47b649d070" sha1="9cabe2b95551740089cb253e714fb05015285def" />
+		<rom name="Twister VP912 BMPR v1.02.vpt" size="36044800" crc="46ab1127" md5="23577cadd1a2bc31b39ae7534f7ffdac" sha1="bd8984a9d0e853f1068d570bbe48580e4a6f3d55" />
+	</machine>
+	<machine name="Vortex (Taito do Brasil)(1983)(Dox, Maloti, Destruk, Ezepov)(1.0)[VP910]">
+		<description>Vortex (Taito do Brasil)(1983)(Dox, Maloti, Destruk, Ezepov)(1.0)[VP910]</description>
+		<rom name="Vortex (Taito)(1983)(Dox, Maloti, Destruk, Ezepov)(1.0)[VP910].vpt" size="7962624" crc="f81bc35c" md5="5d8dcb546c816e51fe018a8882ede180" sha1="1bd58b47b026e1f60b5cbe753cf0d3f20af852b9" />
+		<rom name="Vortex screenshot.jpg" size="508483" crc="b12fffee" md5="5741cad8cd4b4f00e6e8767eca4b097b" sha1="0647d9eff5213a80bfdceb14fe7c09fc4c19f426" />
+	</machine>
+	<machine name="White Water (Williams)(1993)(JPSalas, Grizz, Noah Fentz)(1.1.1)[VP91x]">
+		<description>White Water (Williams)(1993)(JPSalas, Grizz, Noah Fentz)(1.1.1)[VP91x]</description>
+		<rom name="Whitewater_vp91x_1.1.1.vpt" size="40996864" crc="539ac99b" md5="ae3f5b07349e1a394d88b2eaf54ee5ee" sha1="265ad2043d27702fb39349aad8786e9ed04b8ecd" />
+		<rom name="whitewater_vp91x_11.jpg" size="586704" crc="d62a3d0e" md5="8db5ae7b6fd8fdd8c3cdd2d790fc720e" sha1="ca89c2615848494413b9c481647a47385b06f06e" />
+	</machine>
+	<machine name="World Cup Soccer (Bally)(1994)(bmiki75)(1.0.5)[VP912]">
+		<description>World Cup Soccer (Bally)(1994)(bmiki75)(1.0.5)[VP912]</description>
+		<rom name="4-3_World Cup Soccer 94 (Bally 1994)_v1.0.5.vpt" size="25661440" crc="ab3e382a" md5="820a0efe98b0aaa6e7836c5a0cccb357" sha1="a588e3e7bd65d7cd44db6bf643fdec691f86043d" />
+		<rom name="screenshot.jpg" size="331595" crc="c413c273" md5="f9fe48e5d979936c9043bdcdfe0238a2" sha1="136487147fab892ef88a7d106cb216fb21047602" />
+	</machine>
+	<machine name="World Cup Soccer (Bally)(1994)(bmiki75)(1.0.5)[VP912][Lo-res edition]">
+		<description>World Cup Soccer (Bally)(1994)(bmiki75)(1.0.5)[VP912][Lo-res edition]</description>
+		<rom name="4-3_LR_World Cup Soccer 94 (Bally 1994)_v1.0.5.vpt" size="19742720" crc="29178b1b" md5="a519a435b48229aaa82ce2b1e670257d" sha1="f317cb56079c64a15920f8aa3de91957c6a55d8e" />
+	</machine>
+	<machine name="X-Files (SEGA)(1997)(JPSalas)(1.01)[VP91x]">
+		<description>X-Files (SEGA)(1997)(JPSalas)(1.01)[VP91x]</description>
+		<rom name="screenshot.jpg" size="463772" crc="d459387e" md5="b0ff41a97aad4dad723b98501e2d91f5" sha1="71613ea87495eb028a78a8e0f936b46012ca38a9" />
+		<rom name="X-Files_vp91x_1.01.vpt" size="9162752" crc="16b3914c" md5="18c6176f5058811c92485deff6c68706" sha1="26e7c8dc7f68bdd3e1456dfc74f9fb0dfc1b8f2e" />
+	</machine>
+	<machine name="Zarza (Taito do Brasil)(1982)(Joao Accioly)(1.0)[VP9]">
+		<description>Zarza (Taito do Brasil)(1982)(Joao Accioly)(1.0)[VP9]</description>
+		<rom name="Zarza (Taito do Brasil)(1982)(Joao Accioly)(1.0)[VP916].vpt" size="5963776" crc="c0b6a3bd" md5="a906cb3cfabde499c4c6fd9e3ae401cd" sha1="f0bc0e463c7302abc9093ece09cb8d0a77945000" />
+		<rom name="Zarza screenshot.jpg" size="463037" crc="01778afd" md5="8238aedaea97ad9f88a92b19344e7f6f" sha1="044febe8288a5162defe0858cc4a2aad946717d6" />
+	</machine>
+</datafile>

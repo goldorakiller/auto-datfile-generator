@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VPX08] Original Tables [Flipperless]</name>
+		<description>Visual Pinball [VPX08] Original Tables [Flipperless] (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="Bingo Bob Marley (2025)(alan30)(0.9)[VPX08][Flipperless][Source Table Joker Wild HSM, updon719]">
+		<description>Bingo Bob Marley (2025)(alan30)(0.9)[VPX08][Flipperless][Source Table Joker Wild HSM, updon719]</description>
+		<rom name="BOB.directb2s" size="8617935" crc="46dcc120" md5="8187445176b30708ae21e5517bcbaef3" sha1="083022a24752b127ef1d36d5b5e08801bd8b6859" />
+		<rom name="BOB.ini" size="94" crc="14cb03a8" md5="3e1957e536f7b81323d33a8236625f36" sha1="772c7e67a06e60ceb46c91502d0511f054951249" />
+		<rom name="BOB.vpx" size="38936576" crc="2383d0f0" md5="f400c22e27b4174bd5e8f589fb796f44" sha1="cde465dbb7a6d746cae5215e42ed9b24c61f6007" />
+	</machine>
+	<machine name="Piggy Bank Blitz (2023)(hungrybay)(2.1.0)[VPX08][Flipperless]">
+		<description>Piggy Bank Blitz (2023)(hungrybay)(2.1.0)[VPX08][Flipperless]</description>
+		<rom name="PiggyBankBlitzDMD/2minutes.gif" size="65377" crc="6be36cc6" md5="e35ec0d9b3d4725af865761d4b504cf4" sha1="dabd7fd7e7705d18f0093da100decf16b47abe42" />
+		<rom name="PiggyBankBlitzDMD/10seconds.gif" size="61239" crc="42202699" md5="f40867a48a487a375cd422c8ed870c6b" sha1="1e5446229c032d3d27365e22a22c8d84e462c528" />
+		<rom name="PiggyBankBlitzDMD/30seconds.gif" size="72632" crc="fcbf904a" md5="9a888ec0d62ed9eb5524dc5738e46bc9" sha1="29a9c2a07f0d510f2c280f2840b90a2d8285ce88" />
+		<rom name="PiggyBankBlitzDMD/60seconds.gif" size="73932" crc="c0b4ad5c" md5="a01be13598f156f090789af28d0ac27f" sha1="8ee5f0644efede387e867e08d91f13e88d3afe25" />
+		<rom name="PiggyBankBlitzDMD/bg.png" size="7303" crc="2671ad75" md5="ca3ae87dd6ec908ecc07d619d631eba3" sha1="ae2cb8025809e59b57ca69033782692fc2cd8ebd" />
+		<rom name="PiggyBankBlitzDMD/biggercoins.gif" size="57921" crc="4ec4ad43" md5="08c308fa9c2d52b00eecff219e033d1c" sha1="8ff9b2d9b1cc831f78a8b6def18a7fc60d8cbccb" />
+		<rom name="PiggyBankBlitzDMD/blackcurtain.gif" size="19315" crc="0a62bfa2" md5="81a9b19afab6e07418f23a2cdfc20f33" sha1="2181a085c60758d8c11fe6f562b21bb6d665a211" />
+		<rom name="PiggyBankBlitzDMD/blackhole.gif" size="30429" crc="89d02427" md5="a33443f9fb5cc4b23565ac848cf1d6cf" sha1="a3cdf0f6ca99a8fe8e3d751cbbdcc5197863cbc6" />
+		<rom name="PiggyBankBlitzDMD/blindspot.gif" size="55832" crc="a7619414" md5="15ab81d599fe6f93a136fb4f2caf5c4a" sha1="e2636156461c3880c192b801f5a9d0126536fdad" />
+		<rom name="PiggyBankBlitzDMD/bombsaway.gif" size="37601" crc="c3b0154c" md5="f730fb5cdcf1e471c3cfb440afe52432" sha1="44d5e843de4fe2cd6fe5bd4c455d3c3db3df5d67" />
+		<rom name="PiggyBankBlitzDMD/clockfreeze.gif" size="30739" crc="163f9514" md5="fc8ffe0330f3f6822778ed417f5ca463" sha1="bb413c782e555cba5d414a64cb8cd80edf3fdc91" />
+		<rom name="PiggyBankBlitzDMD/coinmultiplier.gif" size="70522" crc="24db96b6" md5="49905d9442a995e123193b6450321811" sha1="f32d954f684526029147b7106ea84dffa7bf01d6" />
+		<rom name="PiggyBankBlitzDMD/coinshower.gif" size="62106" crc="104c77fa" md5="7c2966dbc3f70721c67d5c0fa00d7f42" sha1="4d6d880945bb72505ca765c6996badeba9c3c541" />
+		<rom name="PiggyBankBlitzDMD/confusion.gif" size="55677" crc="d75dbcf8" md5="90b185a3e51de8af4c2de9e4380ad67b" sha1="b8eb6784a2bd7e02ac266766f35b053e60c3db9b" />
+		<rom name="PiggyBankBlitzDMD/devilpiggy.gif" size="70341" crc="bab87045" md5="8618c826146edee9ac989c11c8380e00" sha1="59953b3dd9c36fbc8cb7cecb0802ab03a7c71ff0" />
+		<rom name="PiggyBankBlitzDMD/disco.gif" size="50931" crc="ea03640e" md5="fa99ce85876f75e3c45d7b380a2d1f4b" sha1="ffc06a7588454917928ff94a39e8f9097c0dcb00" />
+		<rom name="PiggyBankBlitzDMD/dollar.gif" size="67693" crc="d0daad80" md5="1bac04a2e6d76d9a86969e8e08e585ac" sha1="736452a44cb7365b01ad303015e4cb03bb6bd0fb" />
+		<rom name="PiggyBankBlitzDMD/dollarsnatcher.gif" size="20669" crc="0880eca6" md5="2b09d4704342a2cfc5d08688c3f0ede9" sha1="17a098ddfdf4df60a7691f155b44331dc34b3809" />
+		<rom name="PiggyBankBlitzDMD/electropiggy.gif" size="79699" crc="097613db" md5="a2c13cf99f79534de665a66146299285" sha1="c07e7fd8577daae2e8dfe4a8e015822dc63a13dc" />
+		<rom name="PiggyBankBlitzDMD/getready.gif" size="36946" crc="35820fa1" md5="d51fd2650324a3c7e1a2daf8917850c2" sha1="3ab0298fbd5f872967647c9acc105d7dc043e978" />
+		<rom name="PiggyBankBlitzDMD/goldenpiggy.gif" size="51114" crc="ba1fe3f9" md5="f46ca7b2e23e959b2dcaca054c281afe" sha1="379b3cd1ff298f4e96aa73f22d4e7357c1045b8d" />
+		<rom name="PiggyBankBlitzDMD/halfdollar.gif" size="40459" crc="a99fad88" md5="3c5d476799a421041ad7dd319cd2db7a" sha1="18f0008221010a20e659e5530e7e5286f9eb6d5d" />
+		<rom name="PiggyBankBlitzDMD/hurrahX.gif" size="45717" crc="ff388f94" md5="c1b3b9f6595568ac365c1dfde23f2bac" sha1="fc53e4b28c7f42a38ce66d3b23595f0d23001220" />
+		<rom name="PiggyBankBlitzDMD/intro_1.gif" size="68216" crc="4602335c" md5="1f47675073207aa39ed1b557008b9d0d" sha1="c5ed3876cd51398ee387ec2b5b91e2c51ddaf2d6" />
+		<rom name="PiggyBankBlitzDMD/intro_2.gif" size="37082" crc="a9728a54" md5="838ec836012246d441b0b5de62ca6173" sha1="e13f808af0d3c94f851c3d143367226743bbf64f" />
+		<rom name="PiggyBankBlitzDMD/intro_3.gif" size="23866" crc="113a4538" md5="3a7e67a2eb9158e47fd6221c5922602d" sha1="2e8425fcce01ba78b45c1b4e47f0657b710e2923" />
+		<rom name="PiggyBankBlitzDMD/intro_4.gif" size="6034" crc="671ca179" md5="f8cb417d1741102b3847571ea97b995b" sha1="f7cf8d90212526af5025433d35641aa2e012b725" />
+		<rom name="PiggyBankBlitzDMD/intro_5.gif" size="6716" crc="05a61554" md5="c3b43b4d3a0fd53e8060ef1c58b4572b" sha1="71b0f6612f807cb5a465a5ea4c757f813bdfc477" />
+		<rom name="PiggyBankBlitzDMD/intro_6.gif" size="6392" crc="e738f200" md5="9f707119169b18df7f923f9ec9db3638" sha1="50d1143bd2173203655158458b4c21eac46f7707" />
+		<rom name="PiggyBankBlitzDMD/itsamystery.gif" size="23518" crc="43e039f6" md5="a493484fef99d00b6ea5628749d69853" sha1="9ff461c4c23d1c5e1ed5cb923bc85b53d6af5aa7" />
+		<rom name="PiggyBankBlitzDMD/lasers.gif" size="77769" crc="ca8fce13" md5="716e2f1227a613973e5f02b7cc1f1ea6" sha1="4507575ad01a43329bd945523393d96eceb21f3e" />
+		<rom name="PiggyBankBlitzDMD/lastHurrah.gif" size="53453" crc="475607c7" md5="48e987d5f5c315ab9e5de31590b91e6d" sha1="e672019589fa776c87ce06f2b35b5a5f50a3aba6" />
+		<rom name="PiggyBankBlitzDMD/lightning.gif" size="37458" crc="076962a0" md5="c70916d196c6d042d04a265835c99724" sha1="1465d211d9bd7ca08291d2aaaff2436a0f4d3cf0" />
+		<rom name="PiggyBankBlitzDMD/magnet.gif" size="54626" crc="536a68e9" md5="5f468acb9df3052a9cd8dd59eb11e434" sha1="953b840e8f10c36858e1ce227e206c14a66beb0e" />
+		<rom name="PiggyBankBlitzDMD/movepiggy.gif" size="205403" crc="d84db0f0" md5="5bc5dd70606bcba5c3234176ecf5042a" sha1="10a52af3d2137e33774f438858612f9a8d187ac1" />
+		<rom name="PiggyBankBlitzDMD/paralysis.gif" size="36773" crc="14cc970c" md5="a430b56b89feb275b2e7dad37abea5e0" sha1="8b8e0c1d00062fe86d42069c2e6d79aec969a3c4" />
+		<rom name="PiggyBankBlitzDMD/pennypincher.gif" size="45126" crc="ea15006b" md5="cf389fd7c4bff3612366b8f8fc17b527" sha1="35b2bb67277dc115597fa4276bca36dfecf0aa47" />
+		<rom name="PiggyBankBlitzDMD/press_start.png" size="559" crc="f45f0b85" md5="f3ef09c4d3dc7e6459a99a710d7c6125" sha1="3df8f111abf7d8ccc9f58434608fe52e361ab2ab" />
+		<rom name="PiggyBankBlitzDMD/quarter.gif" size="43823" crc="6d87986d" md5="876b94d4f22305e0252eba35ed5498a6" sha1="2d2c58401575ef8c3452fca4b76e3d1fcd5a3264" />
+		<rom name="PiggyBankBlitzDMD/smhintro-hurrah.gif" size="9001" crc="a4e539b8" md5="503a5720b789740ff931c99f215f8629" sha1="66e48bd033686b74ce17c6962ba02353b36671ae" />
+		<rom name="PiggyBankBlitzDMD/smhintro-mega.gif" size="8875" crc="6dd7ce8a" md5="7d7eb35ea68949f6ba9cb414e5ac81a3" sha1="7c8458ce1b219815acd36b7dfa5b549870b359fd" />
+		<rom name="PiggyBankBlitzDMD/smhintro-super.gif" size="8831" crc="93724196" md5="d62dbdf85a8c44ed7324fbd5be2ae243" sha1="8d7042b0a9e61edf0a0999728025286253ac3c06" />
+		<rom name="PiggyBankBlitzDMD/supermegahurrah.gif" size="180738" crc="bf52b632" md5="da1d5370d3c12f60369359e96ea69d97" sha1="f1b972545308acd444608c60fc4cbeb69a78f595" />
+		<rom name="PiggyBankBlitzDMD/sys80.fnt" size="7070" crc="023232c9" md5="a90c6ce6a810591eed9ab8e371b2a6c2" sha1="c57b6c2e5e35212c9811aa20e32ad7b4d84f4344" />
+		<rom name="PiggyBankBlitzDMD/sys80.png" size="1170" crc="dbb813ea" md5="55a52ed6f7e8233dc26e442f8924cb32" sha1="50332c1fc708fd46702ee53e9e68bea386a88d8d" />
+		<rom name="PiggyBankBlitzDMD/sys80_1.fnt" size="7072" crc="76acf72a" md5="6f64e01571a8e57738ff5efa6875c71a" sha1="c3c8ea204f3affc996a4f4f844c4f0fda0787239" />
+		<rom name="PiggyBankBlitzDMD/sys80_1.png" size="10117" crc="79b5560b" md5="14151814791ebbe1f8376414d38037de" sha1="a165073e6d881eb849caf556742c8152caca4711" />
+		<rom name="PiggyBankBlitzDMD/TeenyTinyPixls5.fnt" size="11132" crc="3ce97118" md5="3e97e34b9166a549d25e3ddae179a64c" sha1="f0509bbda6570c6054d9b9b6e76c4e4deb74eeaf" />
+		<rom name="PiggyBankBlitzDMD/teenytinypixls5.png" size="784" crc="a21fbf51" md5="3ff808d9b957abe5f6abb69ccd475719" sha1="e5a60ba1fbd8200526f462c0377d5c90229a21c1" />
+		<rom name="PiggyBankBlitzDMD/timeup.gif" size="56847" crc="6868b182" md5="6318fa12bdcc835afaef034ece537bc9" sha1="e33bceacfc688320a322eeeec6262f5bfa5471ff" />
+		<rom name="PiggyBankBlitzDMD/warpspeed.gif" size="62742" crc="ef5671b2" md5="841bfb6f2bda7db9dc0341d35178b666" sha1="55393203e211b52059d3731146e7af8995053ab8" />
+		<rom name="Piggy Bank Blitz 2.0.vpx" size="72646656" crc="45dba610" md5="7d452dee87376e66783e1e25ec236c3b" sha1="0230b836f8f21efe552750a5a3a4ff0ec80342fb" />
+		<rom name="Piggy Bank Blitz 2.1.0.directb2s" size="4984505" crc="34a8e984" md5="a967772d90a5e98c3ca70d28a8b0a3c0" sha1="17d1ef0d76637babd2c8770a8ef38fa59e43d8ae" />
+		<rom name="Piggy Bank Blitz 2.1.0.vpx" size="47276032" crc="adb75336" md5="15e38da7faca45dd3c83bb493f2d12ab" sha1="4b4c205b06ecffb9a5628af16bcbae5833564316" />
+		<rom name="Piggy Bank Blitz 2.1.pdf" size="5043775" crc="e2dd08cb" md5="13606f9ee214e4ee4400155ab2bb556c" sha1="fdf137ca91cc8b9bfe56ed91bca284399d5b49b3" />
+		<rom name="PiggyBankBlitz_B2S_Underlay.png" size="2850075" crc="1d7069f0" md5="5f2ccdade74e4543578b37948d0a7523" sha1="eb77136b0b80de12d1a670d4fedbccb69fb58946" />
+		<rom name="PiggyBankBlitz_staticBackglass.png" size="2006732" crc="77d9997f" md5="405878c378b0c0df94c86b8f2d6a3ea0" sha1="39b1f64cf9028b9f34880779354f658cf9fff85e" />
+		<rom name="piggyBankBlitz_wheel.png" size="4825475" crc="11f1a233" md5="f408369f52dba18b9a2f126add0e8902" sha1="891aebf71a868589c6aad5922e6c4f9bfdc1168d" />
+	</machine>
+</datafile>

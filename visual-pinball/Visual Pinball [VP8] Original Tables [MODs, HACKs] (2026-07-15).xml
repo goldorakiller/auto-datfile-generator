@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP8] Original Tables [MODs, HACKs]</name>
+		<description>Visual Pinball [VP8] Original Tables [MODs, HACKs] (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="Bomb Squad (Gerson Agena)(beta 0.1)[MOD Tweaked by Ike Savage]">
+		<description>Bomb Squad (Gerson Agena)(beta 0.1)[MOD Tweaked by Ike Savage]</description>
+		<rom name="Bomb.Squad.Tweaks.jpg" size="169665" crc="7d4282a8" md5="cd2155a1618a30e58042380131f65747" sha1="123d9150b05a599e62ad108c9bc771c2a7a464a9" />
+		<rom name="BombSquadBeta01.Tweaks.vpt" size="1216512" crc="da4b2ed5" md5="61836fef1d26c9b77caf5fdb68cc4b3a" sha1="adf471e3910786ddd1db86c8e32a56013d340a67" />
+	</machine>
+	<machine name="Fight Night (Chris La Mantia)(2.2)[VP8][MOD Graphics v3.0 Nealtron]">
+		<description>Fight Night (Chris La Mantia)(2.2)[VP8][MOD Graphics v3.0 Nealtron]</description>
+		<rom name="2.2/Fight Night Readme.txt" size="16012" crc="6b607a4e" md5="b5300f2a390e33992bb47822b88ec119" sha1="b70f73e36a04498d5b9456616de8f3f19a13e8e0" />
+		<rom name="2.2/Fight Night RevHistory.txt" size="16764" crc="116ca53e" md5="d907b38cce0de266bbaf0e95c0f10f6c" sha1="7670ecb87b341cd62c8cfd0027c94a7214ee3bae" />
+		<rom name="2.2/Fight Night screenshot.jpg" size="315313" crc="9c4966cc" md5="feb854484390b1e5a989c7a4daf4146f" sha1="12598252baaca1a8517769b81692bb9779f142eb" />
+		<rom name="2.2/modinfo.txt" size="1009" crc="aa869b0f" md5="15826860778beb3379c66b77b96fdf26" sha1="7ca8f8c81752e5eccb654f942e7bec60d7bb9a8a" />
+		<rom name="2.2/VP8 Fight Night (MOD 2.2).vpt" size="12344320" crc="5f4629ae" md5="c3aa6f2bdabd8ec73c09ef9d57eecbea" sha1="0879bb7b8fae64ca309a9ab3e04d9f8d7c85916c" />
+		<rom name="3.0/Fight Night screenshot.jpg" size="315313" crc="9c4966cc" md5="feb854484390b1e5a989c7a4daf4146f" sha1="12598252baaca1a8517769b81692bb9779f142eb" />
+		<rom name="3.0/VP8 Fight Night (MOD 3.0).vpt" size="12380160" crc="2f3fee85" md5="a35e77a944ac4c4465fd6bbc60257bb5" sha1="c56314e645519663f0d42648452ca00a6089499d" />
+		<rom name="Fonts/Pinball.ttf" size="23548" crc="02e83ad1" md5="a50ceaf415b07a0c9e467b03f2127a82" sha1="a3285aedc5d4d42e7bf6a06713562bc94a165f97" />
+		<rom name="Fonts/williamsfontwide.ttf" size="19304" crc="c3c010f1" md5="b2501f86b4d05becd30952e117c53de5" sha1="3b0458ab8b8679b760b3e177f5ab4ebd98001b2c" />
+	</machine>
+	<machine name="Gyruss, The (StevOz)(1.5)[VP8][MOD Autoplay clafoti]">
+		<description>Gyruss, The (StevOz)(1.5)[VP8][MOD Autoplay clafoti]</description>
+		<rom name="gyruss4-1.5.1-Auto.vpt" size="5720576" crc="3f43e222" md5="1fa90b0d204315bc5e36cc2ba1fb604f" sha1="539c313af41f9a198b8b687474d2f54b5c4b9f98" />
+		<rom name="gyruss.mp3" size="3788554" crc="117d8b3c" md5="ab78d9837dfb36a630194162993cfac2" sha1="e0e8586609031f54f8db0591e4f6d8c92f113c14" />
+		<rom name="TheGyruss-1.5.0.vpt" size="6036992" crc="6ddb53b9" md5="002b4209fa5a6d25d9f89161d4364c2f" sha1="50e5556e36672135ee4673afabea0c2c383d1e16" />
+		<rom name="verdana.ttf" size="171792" crc="fc35447f" md5="562fa31bba08b3f71cb71257ddb880d5" sha1="6f337486783479802cc4c4ea9ff50c46551dae7f" />
+	</machine>
+	<machine name="Peanuts (Faralos)(1.0)[VP8][mod button A play &amp; VP8 by Decidetto]">
+		<description>Peanuts (Faralos)(1.0)[VP8][mod button A play &amp; VP8 by Decidetto]</description>
+		<rom name="PeanutsVP8 modded.vpt" size="10999296" crc="cf515f8e" md5="731ac9ebd8e3f74e90a848908a27ebb9" sha1="8d172a93af88a1e6bfdcafd2e44e4d2c3dfbf57b" />
+		<rom name="screenshot.jpg" size="128304" crc="1fc924fb" md5="f0c333fc040a071fc35c97abe9719001" sha1="2c0076a97433977ce5181438801a0d11f2b07270" />
+	</machine>
+</datafile>

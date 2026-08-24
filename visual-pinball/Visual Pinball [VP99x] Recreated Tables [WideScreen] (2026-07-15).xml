@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP99x] Recreated Tables [WideScreen]</name>
+		<description>Visual Pinball [VP99x] Recreated Tables [WideScreen] (2026-07-15)</description>
+		<version></version>
+		<date>2026-07-15</date>
+		<author></author>
+	</header>
+	<machine name="Iron Maiden (2019)(Siggi)(1.0)[VPX05][Source Table FirePower DarthMarino, WED21]">
+		<description>Iron Maiden (2019)(Siggi)(1.0)[VPX05][Source Table FirePower DarthMarino, WED21]</description>
+		<rom name="Music/Iron Maiden - 22 Acacia Avenue.mp3" size="12684507" crc="6717ece4" md5="7380eedbc75673cd25f00acecda76c9e" sha1="615261f9dcb4d87262f88afe4fd3e8352b4117db" />
+		<rom name="Music/Iron Maiden - Aces High.mp3" size="8724791" crc="b787d066" md5="20b92a6d867bda5a9c88d1c9d0a9d8bb" sha1="1eb3538cbca1abd607a6d36937c67917e4c9b585" />
+		<rom name="Music/Iron Maiden - Children Of The Damned.mp3" size="8798328" crc="f412ab7c" md5="f377352bdf25e4fec7b0a9a877001c34" sha1="7e73dbc56c12a04908815fbe92c629bfe09b6483" />
+		<rom name="Music/Iron Maiden - Rainmaker.mp3" size="7318497" crc="d7673e17" md5="b78bd186bf9adae0037d7892c3d73ff2" sha1="e0328a538e752187a4696bab833f00086f6d3e5a" />
+		<rom name="Music/Iron Maiden - The Trooper.mp3" size="8073566" crc="bd01d48b" md5="4af3fb2dfc2db2d7f3daaf5e3f67174f" sha1="508afc72478eb852a1800c83f51da6d5dfb4a28f" />
+		<rom name="Music/Iron Maiden - The Wicker Man.mp3" size="8818970" crc="2c2f79e5" md5="e2dc6defb753ea296434a03d763c341a" sha1="59804d87249de039dba9f955375fe4733a47f081" />
+		<rom name="Iron Maiden Mod 1.0.vpx" size="48013312" crc="adf4f8c2" md5="584940e8773d54d2eb516a8b5c10e3eb" sha1="658da4fa875b12499cf10de732b805bc96dc13c1" />
+		<rom name="screenshot.png" size="3231765" crc="e3834835" md5="2a98bdbe53aa191f0d952795a555247b" sha1="66ef807a780bfc5ae1bb804b97198eb01b168655" />
+	</machine>
+	<machine name="Jet Spin (Gottlieb)(1977)(Loserman76, GNance)(1.0)[VP99x][WideScreen Loserman76]">
+		<description>Jet Spin (Gottlieb)(1977)(Loserman76, GNance)(1.0)[VP99x][WideScreen Loserman76]</description>
+		<rom name="Jet Spin (Gottlieb) (1977).vpt" size="42352640" crc="92301bea" md5="13ec56b235abbf6592a8948137b19d7c" sha1="2163269116448228526dc04abe0d786b9d64aa39" />
+		<rom name="screenshot.png" size="2887554" crc="bace8ce9" md5="a1f4b3294a61c01bf2d3153ddd9370f8" sha1="7c9bebde152d15d2e188a115768a96483be1ac8f" />
+	</machine>
+</datafile>
