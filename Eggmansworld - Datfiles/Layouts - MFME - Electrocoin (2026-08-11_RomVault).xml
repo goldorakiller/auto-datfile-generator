@@ -1,0 +1,732 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Layouts - MFME - Electrocoin</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Bar X (Electrocoin)">
+		<rom name="4-80-barx.bin" size="32768" crc="2a992d0d" sha1="1f7dda66e25666973c023fb0d8af71d473197075"/>
+		<rom name="a20510.bin" size="4096" crc="b4a458a6" sha1="acda6eece0c9e011bfb147a2f696dbdaa53ea9aa"/>
+		<rom name="a2058.bin" size="4096" crc="7b564e66" sha1="eaec8efb566f9a017eb66cd2f4d8673971ab5db5"/>
+		<rom name="a21010.bin" size="4096" crc="384b6bcf" sha1="e9beba847b613ae881a3c7be637c2c38b8c1410f"/>
+		<rom name="a2104.bin" size="4096" crc="2b94fedd" sha1="d5da5604b1db9fadbae0a6bb7a1d76b1d80a19df"/>
+		<rom name="a2108.bin" size="4096" crc="f7b97d0f" sha1="a21512cf92a61fcdd9856f017fce06d280c222b7"/>
+		<rom name="a25_5.bin" size="4096" crc="48fa6392" sha1="6486c6ce08819eceeb9edc6e7d5a2a3c65c6cd76"/>
+		<rom name="a410p-.bin" size="4096" crc="0f1020f1" sha1="e29cd3954f3cd0ae5c4a113f8922bd1f3be0e740"/>
+		<rom name="a410p.bin" size="4096" crc="6c19d237" sha1="9fa79bd0ab78685fed974e5b82ec419381337252"/>
+		<rom name="Bar_X_(Electrocoin)_[C01_4-80jp].fml" size="593086" crc="9fc980a3" sha1="be52f1a06b58480b5e526bb056a63cc5917051aa"/>
+		<rom name="Bar_X_(Electrocoin)_[C01_4-80jp].gam" size="313" crc="53e625c3" sha1="7587fc7ab7f6d01be980bbe1b4270cd5d41a1239"/>
+		<rom name="Bar_X_(Electrocoin)_[C01_4-80jp].jpg" size="26458" crc="26d1fe48" sha1="b8e9e1557090535e8c0c3eae6843991cec308581"/>
+		<rom name="Bar_X_(Electrocoin)_[C01_4-80jp].ram" size="8192" crc="09a609d0" sha1="555a22b27207000aa27bf4c70ee47eb7c62e0a9c"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_10jp].fml" size="2047092" crc="bfa411b6" sha1="571e42d0522306aeef2c440b44bfce5486235ccb"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_10jp].gam" size="286" crc="8c9f3266" sha1="fff763982c317ae4d170ccf0df8936d1308785ce"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_10jp].jpg" size="29048" crc="824e92db" sha1="8876b82612f9f0839e1ea9dac7fd1e4e95b9761e"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_10jp].ram" size="8192" crc="478d0666" sha1="88f952736a9d3d64b9338a28bd856e5b5e005b2e"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_4-80jp].fml" size="2062584" crc="21edc2cb" sha1="7a7e5817448a189d3baa20568e5a04daa54bf18b"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_4-80jp].gam" size="299" crc="002c499f" sha1="5c3703e1d6177f43e4bc52e9a09359bbea1c789c"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_4-80jp].jpg" size="28579" crc="9b2bf393" sha1="981d9fced74cace27a2d8d2d2c307cb1f2cdbd3a"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_4-80jp].ram" size="8192" crc="b417f3ad" sha1="14ddc29757ac7b4e2ebaa61319401a8eafe46a40"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_4jp].fml" size="5433217" crc="216c5402" sha1="053d4497ed8f7f9c6e0902f39ed81dcfcba6c161"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_4jp].gam" size="272" crc="9e124827" sha1="1eb6bde6031684d889cebce43dad7e94cab9d560"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_4jp].jpg" size="193179" crc="dc9f8d15" sha1="2d773ea1f5d83a78158b060a7bceadd813d91495"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_4jp].ram" size="8192" crc="f866cc03" sha1="dee2c71bf4e5555847e4bff46f7e4fc5a624285b"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_4jp].txt" size="690" crc="c0059c1b" sha1="fe61c71d04e53b7b889afff1aebf24241655c0da"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_5jp].fml" size="2059269" crc="d6da5612" sha1="ae94a21f3bb5cee2295a2f732e1c193592131547"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_5jp].gam" size="298" crc="0494dfcb" sha1="d39b07a6e410dd9ed2123803dca84527b2d31896"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_5jp].jpg" size="29259" crc="9f2a6b9e" sha1="10294508f467a9a84a6cb1682541cdc2a7c4d2f3"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_5jp].ram" size="8192" crc="90a8afc9" sha1="8bbc758afe2191a1850bcae033fbcafd23f93e9e"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_8jp].fml" size="2055270" crc="c92680a2" sha1="dd65ccc1f9c9ad81746cb92a367f9aeb990df2b2"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_8jp].gam" size="292" crc="97e91fa0" sha1="37309730fbae3e1c00ced68afec05cb3d993e291"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_8jp].jpg" size="29074" crc="e2c8da0b" sha1="b018646d61f7e8f63d7e991b46f15c892a764c99"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx01_8jp].ram" size="8192" crc="2565bc17" sha1="650b6c4bee1c12fcd02c03ab992e0e9aeb8b5513"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx02_10jp].fml" size="5504814" crc="51017c4f" sha1="c91960090f52822c3d4d8ce546d59a93c664269e"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx02_10jp].gam" size="261" crc="d03de7d7" sha1="34c893baa5ec60f04d953294a3b0a94b42a296ea"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx02_10jp].jpg" size="30696" crc="748390db" sha1="f3c5d5531ce6c87a77ed9da78c9bcb2d562baa7a"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx02_10jp].ram" size="8192" crc="92cd5487" sha1="8876f48f353aa1f22b93f57e3a96c356ff30e06b"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx02_5jp].fml" size="5503789" crc="64afebf4" sha1="7204513c00c696a05da6d322b4852fda44b78ef5"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx02_5jp].gam" size="279" crc="75ff6e22" sha1="56bdfa84ebdba4a65e852dc083b3b29ba972df7d"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx02_5jp].jpg" size="189714" crc="46b95c9c" sha1="3b95e6a65c9ed4edbbfe73f0527dba0ac64c8a61"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx02_5jp].ram" size="8192" crc="3d82f14f" sha1="fc62a2046bce741f0e3a7f84919a3ba3fe81ca21"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx02_5jp].txt" size="816" crc="58064dbd" sha1="834f4d3e316c559e40f8ae45d1d6f92031c00a2c"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx02_8jp].fml" size="5456712" crc="4966d555" sha1="9c9633c0c11fca1e685bc156931476e7822ad834"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx02_8jp].gam" size="253" crc="db899ffb" sha1="6947123bf80194beb5d992a18c1f5617cc684b05"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx02_8jp].jpg" size="220581" crc="68fd345c" sha1="edba901568328d16afd2c4c554d06e019df94414"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx02_8jp].ram" size="8192" crc="6b1ff301" sha1="2e4bc84c707fb9aed1f3a2c97f73ba16ab098a8a"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx02_8jp].txt" size="690" crc="c0059c1b" sha1="fe61c71d04e53b7b889afff1aebf24241655c0da"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx03_10jp].fml" size="5503483" crc="bc77eefc" sha1="0135183a6e0033f8aeaf7aabebafe37e21fd3c00"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx03_10jp].gam" size="261" crc="b944ecb2" sha1="16572482361913209561ab5c16ea1d200cb0cc84"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx03_10jp].jpg" size="25482" crc="928ffc0a" sha1="cab2b588e1462099d5eb3b3fe2d098151c7f7af1"/>
+		<rom name="Bar_X_(Electrocoin)_[Dx03_10jp].ram" size="8192" crc="04190415" sha1="981b65e8da743de7c83bfd28488ac8db5e1c8407"/>
+		<rom name="barx-snd.bin" size="8192" crc="b530d91f" sha1="f4e70e05d11e92a82f4bf8d78859b2a94fa5f22b"/>
+		<rom name="barx05.bin" size="131072" crc="374a83a1" sha1="6151e6d2e7cdd3997dc009dd4a11a1e8fd405ac5"/>
+		<rom name="barx15.bin" size="131072" crc="a58dba57" sha1="50131ac706c5b0baa793e79e7a0b42eb28c2c61d"/>
+		<rom name="barx20.bin" size="131072" crc="28aa25dd" sha1="0d55cfeda96e821c3488f4f4279394f23fa76885"/>
+		<rom name="barx24c.bin" size="4096" crc="a513263e" sha1="f83008ff34bc67bcf15f5433cfe2f6051763b75f"/>
+		<rom name="barx34c.bin" size="4096" crc="d105cbaa" sha1="a38ed5fa437fbdd2d9efc575fe05a94180dbd90f"/>
+		<rom name="barx44c.bin" size="4096" crc="bd8c9431" sha1="b8393ec87969541ff56243b7ea1e5c908d8bf027"/>
+		<rom name="barx5a2.bin" size="4096" crc="0f1839b9" sha1="ab0f0dfa887d9c113a4971392b12a768b5b5977f"/>
+		<rom name="barx5a3.bin" size="4096" crc="82bf22c7" sha1="0b31c0f38181f3523776b44b211ee6b2f0fde341"/>
+		<rom name="barx5a4.bin" size="4096" crc="7baa7ac3" sha1="b8124ed5be68f9c4e81977018003f707064bbd58"/>
+		<rom name="barx5ft.bin" size="32768" crc="6a549ff3" sha1="02766642c5aee5fa3f1e0d9d7a0ec30192e597f1"/>
+		<rom name="barx6.bin" size="4096" crc="522950ec" sha1="89daf57b53d4752a4f5f4f0bef8d976a9fc877ce"/>
+		<rom name="barx6_2.bin" size="32768" crc="626c4fb6" sha1="810a7cd4a2229990c343e5d857f9086f77fdb1b6"/>
+		<rom name="barx6a3.bin" size="4096" crc="8884d188" sha1="64716d214ada873cca64a511fa569e96f1ade062"/>
+		<rom name="barxprog2.bin" size="4096" crc="f7abc4ee" sha1="6996471bb45f7ad58ea28dcbe1270b7f7d844be7"/>
+		<rom name="barxprog3.bin" size="4096" crc="7febfb4e" sha1="a9777db5a7ce43ab86fbdd1169a0fa129fda7774"/>
+		<rom name="barxprog4.bin" size="4096" crc="b1a6924e" sha1="e20f71073a74d0e26bb7abfa03b0bf5e977a4bfd"/>
+		<rom name="barxsnd.bin" size="4096" crc="7d37fda1" sha1="fb906615067887d9daecdbc741cfa4ac710c4627"/>
+		<rom name="bx2010a2.bin" size="4096" crc="6a28ea78" sha1="bcdeabff309346103050f1da427913a23198c699"/>
+		<rom name="bx2010a3.bin" size="4096" crc="21903339" sha1="7b515269a08ed3f181e1cd35bf4896a011f77806"/>
+		<rom name="bx2010a4.bin" size="4096" crc="1d29d010" sha1="b3f7a8b839770402b463d8ec72787c6ddade34bd"/>
+		<rom name="bx2010ha.bin" size="4096" crc="db267418" sha1="d4cc325aba62b0da5f63af37c64ea959ca77d91e"/>
+		<rom name="bx503cas.bin" size="32768" crc="ac974ac2" sha1="d317730506c075b108c68b3fc5628837b12863fe"/>
+		<rom name="bx54a2.bin" size="4096" crc="5b2d42ec" sha1="abc394cad55786df99d8bea7a4497a338ec180d8"/>
+		<rom name="bx54a3.bin" size="4096" crc="96cb0c73" sha1="6fa1fc61cb2761871999516c6663b3948b35f6dc"/>
+		<rom name="bx54a4.bin" size="4096" crc="7dc2d19e" sha1="ad012de848b586ae8355ea300edce96d0f0ce2a8"/>
+		<rom name="bx5pa2.bin" size="4096" crc="a77bcdb4" sha1="bdb3fc19a933d609cea2a2a2dfc98d3589765484"/>
+		<rom name="bx5pa3.bin" size="4096" crc="2f3c45ed" sha1="f18aba5ceb9385e37b5857ba28f80230388d0cd2"/>
+		<rom name="bx5pa4.bin" size="4096" crc="34b4d7cb" sha1="b2ff3c79e635fff8f02edc9c953cc619fb409aa5"/>
+		<rom name="bxc16c.bin" size="32768" crc="356964c3" sha1="68522a0d379ab49f5975e0628f3e813cfe3287a3"/>
+		<rom name="bxpal" size="3200" crc="e30cd1ff" sha1="4a1ee1703a677143412aa367cfe7d7d346812d87"/>
+		<rom name="iss146.bin" size="32768" crc="7b0055a6" sha1="1d6282a8f1ce7cbfce4a0dbaa6b7006b3b8bbe78"/>
+		<rom name="iss354.bin" size="32768" crc="0da15b8e" sha1="435451f7c428beaacf182d112214482503dec483"/>
+		<rom name="iss9007.bin" size="32768" crc="c73b7c4e" sha1="2d1fecb8efd4b80d1249034efc5ea9c1d3cb660b"/>
+		<rom name="iss9011.bin" size="32768" crc="7b69ff3c" sha1="f13e71fa2ae997fd2c80ca060cdbe2115468df6b"/>
+		<rom name="iss9015.bin" size="32768" crc="fd2fabe8" sha1="2a0261c39187746a53ff7c32a759ba1311ec56a9"/>
+		<rom name="iss9016.bin" size="32768" crc="e8ebafd0" sha1="fa9fc04d04f9ac2360c66727afaf567527e95e01"/>
+		<rom name="iss9201.bin" size="32768" crc="35cf9280" sha1="d271a89178b026c2847b8f192c72f8ce841a1548"/>
+		<rom name="iss9204.bin" size="32768" crc="e8ced9c9" sha1="a028c2bf35add11c2ff3b98cf34925acb99ef1c4"/>
+		<rom name="iss9207.bin" size="32768" crc="f646702a" sha1="9e2e7da0edaecd021861145b6abd1498fc3b563a"/>
+		<rom name="iss9208.bin" size="32768" crc="b4c3c98a" sha1="10aeeca8c7b2923e3768f82c672229898c51062d"/>
+		<rom name="issa091.bin" size="32768" crc="6748c76c" sha1="115b6f30971fbbbd67ece3eeba66431c7440267e"/>
+		<rom name="issa092.bin" size="32768" crc="82c4e44d" sha1="a253779c3666eb1c3b4a45f22478b2310a23540a"/>
+		<rom name="issa096.bin" size="32768" crc="8536c23d" sha1="3acca3016dd5a8a183f646095856fffca9d0fd9c"/>
+		<rom name="issa097.bin" size="32768" crc="0650275f" sha1="eb06a7b245103aeb53973897128063b04e599fde"/>
+		<rom name="issa122.bin" size="32768" crc="23724454" sha1="fb2b903f367677dee8b5bc975148fb2a03494ba6"/>
+		<rom name="issa793.bin" size="32768" crc="e3de7b43" sha1="5d33d39f59e30510ac89d9a03979f17a4a3707eb"/>
+		<rom name="issa794.bin" size="32768" crc="47334130" sha1="08204545d20fa017321183126a856446b08e09b9"/>
+		<rom name="issa795.bin" size="32768" crc="d24936fd" sha1="f0efa2d30c71285d31ae2c47ce2baef3bb72bc66"/>
+		<rom name="issa796.bin" size="32768" crc="0d5c020d" sha1="f41e015773c908228f55f1ce3e35b22ad4b6bf33"/>
+		<rom name="issa797.bin" size="32768" crc="57cf216a" sha1="070297c07404f92928581d73751e82158e9567d7"/>
+		<rom name="issa798.bin" size="32768" crc="c15f25e2" sha1="b7a32876a7f8512451d911f0611cbdc8a083a79e"/>
+		<rom name="issa799.bin" size="32768" crc="9682ca8c" sha1="a6846bff4aaa9ccf997f7049300b62138a405e20"/>
+		<rom name="issa800.bin" size="32768" crc="55ab4892" sha1="7b71d6c70f6f2083b2cce93198a74034502f61fa"/>
+		<rom name="issa801.bin" size="32768" crc="4823d2ec" sha1="df9cbea4c96411fb5d7707627ea2fc3aca0681cf"/>
+		<rom name="issa802.bin" size="32768" crc="5408417a" sha1="1a45271ae593bb071a4fa0053cae8b10bd1ba49a"/>
+		<rom name="issa803.bin" size="32768" crc="748981a0" sha1="bbad9f0ea44883e458710b15e2652b0e76dc873d"/>
+		<rom name="issa804.bin" size="32768" crc="a6730955" sha1="7ebf9967b9e40ca89da8951a1711d592ef87160d"/>
+		<rom name="issa805.bin" size="32768" crc="8c1cf7f4" sha1="0ff139c38d68a66b40c8ac611bf05cb3a9d852fa"/>
+		<rom name="issa806.bin" size="32768" crc="a1aee26b" sha1="966e595029b5518ddee422afae6d633da0e8e4e4"/>
+		<rom name="issa807.bin" size="32768" crc="b9332da4" sha1="622a94a1c5226cf42263b0642e695e1af71c611c"/>
+		<rom name="issa808.bin" size="32768" crc="3b8fda84" sha1="74cfaef125900d89b8c936a7cb3668fd7642fbfe"/>
+		<rom name="issa809.bin" size="32768" crc="58c10603" sha1="653c0afb57feda9d4a02f6590aacb9cf63b931c9"/>
+		<rom name="issa810.bin" size="32768" crc="aafff06c" sha1="0ae798d965299b2b9f10d3707877ede722c0eb7a"/>
+		<rom name="issa811.bin" size="32768" crc="ac2ceda1" sha1="3299f07db8670bffbcfbbdfc1fd44179f5a5ccf6"/>
+		<rom name="issa812.bin" size="32768" crc="8a1e9002" sha1="3c82e3761007feaa61a2c029951c6e3336224a1c"/>
+		<rom name="issa813.bin" size="32768" crc="0ea31930" sha1="16d38501dba2079e4d573beca5f1216820bac1bc"/>
+		<rom name="issa814.bin" size="32768" crc="50e4f6ff" sha1="84758c19e36b03af2f6f2645ebb685795d667f9f"/>
+		<rom name="issa815.bin" size="32768" crc="a3b72d9e" sha1="f08fe4372392ff72301dafca972953e779a546c4"/>
+		<rom name="issa816.bin" size="32768" crc="7b79e1dd" sha1="ec2fc0a60bd90addbd79a1620e97f290907dbd5c"/>
+		<rom name="issa817.bin" size="32768" crc="05006125" sha1="6b71c68579f8ec9b3bb0ba208df69c2125ebb9e7"/>
+		<rom name="issa818.bin" size="32768" crc="3aee13d9" sha1="3645a83c6c9f40b5ed356ce45129fe860aba907d"/>
+		<rom name="issa819.bin" size="32768" crc="76f10c3a" sha1="bcdb9c82e9b14c2e351bf6caeb44173c2376e48e"/>
+		<rom name="issa820.bin" size="32768" crc="9c04f02a" sha1="c0bf63fe00679025a56d867b216f84ec4536d06c"/>
+		<rom name="issa821.bin" size="32768" crc="cb72cc59" sha1="c1c12a921a9b57a252ad00eaadbba35073b9b64d"/>
+		<rom name="issa822.bin" size="32768" crc="97e04639" sha1="fc769882bb9a96de0d1121c7ceae60960b654915"/>
+		<rom name="issa823.bin" size="32768" crc="a306982b" sha1="e0a442145728c563ed9020346db32e89a3dac985"/>
+		<rom name="issa824.bin" size="32768" crc="14b24861" sha1="f90850d0bb38ade91dcdd7aaa29c916341d3f65f"/>
+		<rom name="issa825.bin" size="32768" crc="5543a633" sha1="3cfcea2c123b90704e69e5ce9f06920022911802"/>
+		<rom name="issa826.bin" size="32768" crc="809f651f" sha1="86c2f813dba787b2774b49ed272f825725ec3712"/>
+		<rom name="issa827.bin" size="32768" crc="90714254" sha1="b9610d220ecfedf26c3c4942f0dbb569841cdf56"/>
+		<rom name="issa828.bin" size="32768" crc="f8695abf" sha1="2837d6a6b69dd27070cbf1309b51f02b0df98a94"/>
+		<rom name="issa829.bin" size="32768" crc="cab2e171" sha1="e6f9e91350dd41ec3c12fc221a59529277f47b2b"/>
+		<rom name="issa830.bin" size="32768" crc="9c0984cf" sha1="bc80f0e31c726bd03aaeaa3cd9b0f99a8fecf79b"/>
+		<rom name="issa831.bin" size="32768" crc="4baceee5" sha1="23f5acba763d7ba49f017c0cf1a4a11f21febe63"/>
+		<rom name="issa832.bin" size="32768" crc="2148f157" sha1="6b948797b5032e4b4968af55f71e03bbf78f7434"/>
+		<rom name="issa833.bin" size="32768" crc="50d050f3" sha1="59ad7193aef694be6b8905a233828f292ebd5d5b"/>
+		<rom name="issa834.bin" size="32768" crc="819c1c27" sha1="863830eed8dc3e7e92321c163d26ae3a9b97a649"/>
+		<rom name="issa835.bin" size="32768" crc="a8674b53" sha1="5808991783779a9aca730d8a1fde70552f2c9bf5"/>
+		<rom name="issa836.bin" size="32768" crc="47df4193" sha1="3a4e05e1fcc0cf6471fa40751e8f80548ebc09cc"/>
+		<rom name="issa837.bin" size="32768" crc="cce0c4a9" sha1="a7e30dd7de82bf36e8b442eded6b07a9df24c7a6"/>
+		<rom name="issa838.bin" size="32768" crc="a9fdedb4" sha1="8d987939a7779e896e4af560b2a39ca9b1fb3ac7"/>
+		<rom name="issa839.bin" size="32768" crc="d58f6e4f" sha1="cb91aa8db2b4730b25e7e5da7d03d9637fbec59c"/>
+		<rom name="issa840.bin" size="32768" crc="1025caf3" sha1="859081242091976c222729199eb3fec6f6c45621"/>
+		<rom name="issa841.bin" size="32768" crc="b1685ed8" sha1="42995a5219ec697b5e760c25b9bddace41ebded8"/>
+		<rom name="issa842.bin" size="32768" crc="20dca8c1" sha1="46b76df179fc306cfd0054f723fc9763f3b46a84"/>
+		<rom name="issa843.bin" size="32768" crc="15b6f976" sha1="fef5db76d61fda4e62e50fd891e4981cc0323a22"/>
+		<rom name="issa844.bin" size="32768" crc="6e07e53b" sha1="b2bd1613fbaf0e0f3b009347c30073f2fec91784"/>
+		<rom name="issa845.bin" size="32768" crc="422f6ccb" sha1="fe5eaaa98c30a6d4ec72d5f9e276afe7359a1db7"/>
+		<rom name="issa846.bin" size="32768" crc="c8938b90" sha1="819ac3de9a0ca19469f60d26e363c292faa10abf"/>
+		<rom name="issa847.bin" size="32768" crc="dc56de4b" sha1="a4cce8bba89ae1d803b7fe050dc2e9bde1383f7c"/>
+		<rom name="issa848.bin" size="32768" crc="8410fe03" sha1="6ee50e699b67ac73cb38ab8aa9d3f6efb6865918"/>
+		<rom name="issa849.bin" size="32768" crc="3cf53845" sha1="e6e9dc3a8757e95647db2f64912ea5ad88cfcd60"/>
+		<rom name="issa850.bin" size="32768" crc="ed830402" sha1="8fa389e9f04c446864784736c4bc08006cb37304"/>
+		<rom name="issa851.bin" size="32768" crc="cf79dc09" sha1="7f4bf280431a800ae742507cb944c2c01bc54d15"/>
+		<rom name="issa852.bin" size="32768" crc="3b4a2615" sha1="b466e15d2dfce81f2a89ab9a5b41b32158f109f1"/>
+		<rom name="issa853.bin" size="32768" crc="5d0c39c2" sha1="debe88d7f8d35ba621388d5a21a6e5358faafa06"/>
+		<rom name="issa854.bin" size="32768" crc="ce227e95" sha1="83cee7b83e66cea40a5b7f6025e010f45309c64b"/>
+		<rom name="issa855.bin" size="32768" crc="0dd7873b" sha1="bc64924cbfc16289c6e7365c0b3276d9a940a917"/>
+		<rom name="issa856.bin" size="32768" crc="0477e51f" sha1="53c7a5fab006b8545f1aeed562920a099cbdb73e"/>
+		<rom name="issa857.bin" size="32768" crc="a1d646ef" sha1="4cdb39d4623d514b0cec673aa5523f128797b152"/>
+		<rom name="issa858.bin" size="32768" crc="228533f5" sha1="e89d5078e319d48b7d313b4f54c1d18d0b29598b"/>
+		<rom name="issa859.bin" size="32768" crc="f782eab9" sha1="791a07d3cb2c77c9a22eb4d9cbf949049bab9bf7"/>
+		<rom name="issa860.bin" size="32768" crc="6d4ff59a" sha1="fc404e037bd63adc8de4b6cc857958007406dc8c"/>
+		<rom name="issa861.bin" size="32768" crc="1b8fd981" sha1="70221f793c092534bc8c0825aa759aa548d01c98"/>
+		<rom name="issa862.bin" size="32768" crc="ceface32" sha1="4a869b83ffd5c59a7cc64b1ee088fc788f57ff0f"/>
+		<rom name="issa863.bin" size="32768" crc="1a7fa7d2" sha1="06855a05102ff757a397b2c438b8c60cb66477c8"/>
+		<rom name="issa864.bin" size="32768" crc="08869eee" sha1="6df205a743d64799635075170eb752ece35ff9af"/>
+		<rom name="issa865.bin" size="32768" crc="5b487e21" sha1="aa9dbc1491e0a82f7634ddf73f9df3cffc85a1d9"/>
+		<rom name="issa866.bin" size="32768" crc="d23d2999" sha1="7616d5ab8d9b371a625b9fb667b6807333f89c6e"/>
+		<rom name="issa867.bin" size="32768" crc="1e8b47ff" sha1="2328e0b39ad1d0bc40e2f403d59cf4c5793dd1fa"/>
+		<rom name="issa868.bin" size="32768" crc="e2616b21" sha1="32b0dcadd5a1fbde41426fdf03a1a7515384c685"/>
+		<rom name="issa869.bin" size="32768" crc="1bce989f" sha1="704f165ca34e4df3e0699ebc7867294df860edb3"/>
+		<rom name="issa870.bin" size="32768" crc="592f94f7" sha1="f845c5324a1c49e1ca4dc0538b422de30f669d95"/>
+		<rom name="issa871.bin" size="32768" crc="aed724b8" sha1="9ccb4c1a10e86610ac6c241df31a0d2513985127"/>
+		<rom name="issa872.bin" size="32768" crc="957536b1" sha1="4ca031ba9b3bd5e178abe7951498f8202fa4cd48"/>
+		<rom name="issa873.bin" size="32768" crc="171cdb19" sha1="f0f7cb81b220d757c5dadbe9e2cc0dbc6aa02962"/>
+		<rom name="issa874.bin" size="32768" crc="704f999c" sha1="259430d175c22a33f222ab1138159b8fc838c98f"/>
+		<rom name="issb121.bin" size="32768" crc="2a992d0d" sha1="1f7dda66e25666973c023fb0d8af71d473197075"/>
+		<rom name="sbx5nc.10" size="32768" crc="beb7254a" sha1="137e91e0b92d970d09d165a42b890a5d31d795d9"/>
+		<rom name="sbxup" size="32768" crc="f8d7e9db" sha1="7dea1f7215070a8a413af63d0e379b2e228e63d7"/>
+		<rom name="sbxup_10" size="32768" crc="3c932de3" sha1="2c1e09436a5895aa738567843c7f25ed047dc9ac"/>
+	</game>
+	<game name="Bar X 7even (Electrocoin)">
+		<rom name="Bar_X_7even_(Electrocoin)_[Dx01_25jp].fml" size="2140030" crc="93244999" sha1="12074254b31fd4fdcd800f6860f17ceb6d144492"/>
+		<rom name="Bar_X_7even_(Electrocoin)_[Dx01_25jp].gam" size="265" crc="0b8de25b" sha1="469c357351dfc1722a721b0b78ffdf11fdddd8a6"/>
+		<rom name="Bar_X_7even_(Electrocoin)_[Dx01_25jp].jpg" size="28391" crc="2d230845" sha1="75e22e566ecf5fe79c79898c700581fc5adecf61"/>
+		<rom name="Bar_X_7even_(Electrocoin)_[Dx01_25jp].ram" size="8192" crc="03464488" sha1="02f19000b4864fb1e1c5f06657f67ae1504fd212"/>
+		<rom name="ce3wls31930.bin" size="32768" crc="c23455a4" sha1="3dd638d94a5d67861a68ee891e1142c4dcb1d381"/>
+		<rom name="conceptsound.bin" size="4088" crc="a717e790" sha1="3079d0c2aa5bb160b871cc3ba8113b88c83d46f9"/>
+		<rom name="issa943" size="32768" crc="e13a597f" sha1="ab833fb8cc9529fc307b0252b922a77911802abe"/>
+		<rom name="issa945" size="32768" crc="9c251b36" sha1="319a82e9f0a5cd0e3c9d72ddb8203a9363cc3936"/>
+		<rom name="issa998" size="32768" crc="7314e2a8" sha1="3a108bf2ba0173ecab85fe7110174f5db8f75e17"/>
+		<rom name="issc330" size="32768" crc="4a8231ff" sha1="470813fff14eeff3caad2cde710d4d1361231299"/>
+		<rom name="mk3v64.bin" size="393216" crc="1342d2ce" sha1="a2a7ae673ab03cf212b0a7ebb84f89c54ce930a0"/>
+	</game>
+	<game name="Bar X Extreme (Electrocoin)">
+		<rom name="95009254.bin" size="1048576" crc="9beca141" sha1="29c017094b0162bf11f32efd5cf4abe4ce26be4b"/>
+		<rom name="95009255.bin" size="1048576" crc="22ec5663" sha1="01655900110c3082e026275efebf511b5dd53765"/>
+		<rom name="95428440.lo" size="524288" crc="09a68749" sha1="4a1590a4d8d4b006c74b9851523ddf61214b7f44"/>
+		<rom name="95428441.hi" size="524288" crc="bd145a9b" sha1="daabde452165e57606f09f47380df5ebf755db37"/>
+		<rom name="95428460.lo" size="524288" crc="1d883c5b" sha1="d3a371b96d177c1f0ac7aa73f2a8dce925304e36"/>
+		<rom name="95428461.hi" size="524288" crc="e2ee8f51" sha1="a87df732e13fc00d7ce1368856cac2909680774b"/>
+		<rom name="95428466.lo" size="524288" crc="7a937936" sha1="2937d9f6dcc686a873e20663137c793daa1f5010"/>
+		<rom name="95428467.hi" size="524288" crc="e7d4a226" sha1="62387446ff59a7bd47a641bd3ae921a5bc245122"/>
+		<rom name="95428590.lo" size="524288" crc="2dd6f14d" sha1="e6969a64a07f39c54eb7daefad8cd8e71f53d3c3"/>
+		<rom name="95428591.hi" size="524288" crc="5370f126" sha1="326c0b0669be521cbdd43895ace3670ff359a426"/>
+		<rom name="95428632.lo" size="524288" crc="f0034fa6" sha1="3f5f3e73a7e6411c52d9a4a67438485041ab6059"/>
+		<rom name="95428633.hi" size="524288" crc="41cfb095" sha1="8fbd26ed3156fb521d717981b4dcd6d158db1882"/>
+		<rom name="95428678.lo" size="524288" crc="37d2b4d2" sha1="46b0e4409b4ddf9ed835b042a6304c6b2c0e51d9"/>
+		<rom name="95428679.hi" size="524288" crc="70c6f34b" sha1="bc2d1748cb933d058700cb6a1477b1d63e22ed88"/>
+		<rom name="95429460.lo" size="524288" crc="34a72e07" sha1="035a572d704a4a28e4f3255ab29535fd87943821"/>
+		<rom name="95429461.hi" size="524288" crc="642e2e21" sha1="4e895413878b45564f50e059ac545db78eac48b3"/>
+		<rom name="95429466.lo" size="524288" crc="232aed14" sha1="7d960f08a3ee4c48a9b16e62bc54ea0cf568b83e"/>
+		<rom name="95429467.hi" size="524288" crc="d08989ba" sha1="334dcc6d449f3dec07993a5b6e424fdd58f3a969"/>
+		<rom name="95429590.lo" size="524288" crc="925d0bf5" sha1="5054970dc237ddbdcf964944c9057c5e231e00ee"/>
+		<rom name="95429591.hi" size="524288" crc="b4527ddd" sha1="4d425d8596d38baae3e3e1f1f730f6322e397b69"/>
+		<rom name="95429632.lo" size="524288" crc="a362ffcd" sha1="a7f5ffb630004bfd68ab41a4f5c1f415e6e89c42"/>
+		<rom name="95429633.hi" size="524288" crc="41e93ce9" sha1="f025a734aef9e051cc2f3b7d7fe66a58ded3a471"/>
+		<rom name="95429678.lo" size="524288" crc="26e29376" sha1="af1ccc7c79bb97f7b6f32c4b05764bb9f1e300d6"/>
+		<rom name="95429679.hi" size="524288" crc="dc1f8fb7" sha1="6618e1434e495a32f59612a65b895baf7fa413f3"/>
+		<rom name="Bar_X_Extreme_(Electrocoin)_[C01_70jp].fml" size="959968" crc="f887eec4" sha1="798f1ed1112aea075181785463df32bcf36a9128"/>
+		<rom name="Bar_X_Extreme_(Electrocoin)_[C01_70jp].gam" size="620" crc="3936fd65" sha1="903968ee3c54c91e22f95dc16981b42e86eb0a83"/>
+		<rom name="Bar_X_Extreme_(Electrocoin)_[C01_70jp].jpg" size="25743" crc="bb5d5d9e" sha1="92c89f7f4209664cdc3a6a3d4a65d6ea37b964a8"/>
+		<rom name="Bar_X_Extreme_(Electrocoin)_[C01_70jp].ram" size="65536" crc="41d102e4" sha1="d420e20c72a5ac1e0ad2a66eb02bb9388dd60fc7"/>
+		<rom name="Bar_X_Extreme_(Electrocoin)_[Dx01_70jp].fml" size="3659411" crc="2803077f" sha1="d716e7755140298225c5cab9ab046373b63b0139"/>
+		<rom name="Bar_X_Extreme_(Electrocoin)_[Dx01_70jp].gam" size="712" crc="d1a2b46f" sha1="74cacf5301ebd5a916b939bac07feca8a45b744d"/>
+		<rom name="Bar_X_Extreme_(Electrocoin)_[Dx01_70jp].jpg" size="116595" crc="26f39d32" sha1="4ec636c61542efa65fd34264cd44266c1bfc9ffe"/>
+		<rom name="Bar_X_Extreme_(Electrocoin)_[Dx01_70jp].ram" size="65536" crc="e3b230fd" sha1="dd4a7c9b46b4c094ff0f133ee17765fb69dff0c3"/>
+		<rom name="Bar_X_Extreme_(Electrocoin)_[Dx01_70jp].txt" size="907" crc="8e10d33c" sha1="19b3e3e4ca40e426cbc33825478203b342e70404"/>
+	</game>
+	<game name="Big 7 (Electrocoin)">
+		<rom name="b710.bin" size="32768" crc="0cdae404" sha1="e8d713e172e5ff37e31e68d096fac77fbe676006"/>
+		<rom name="b75p4.bin" size="32768" crc="27ad1971" sha1="4c1248d5815143dc0b23ada909c4f1fc16a1a18b"/>
+		<rom name="b78ac.bin" size="32768" crc="454e9ac5" sha1="a700a399632fa546473503f8e7e8dc3abc966ee6"/>
+		<rom name="b7rb5.bin" size="32768" crc="cc59283a" sha1="63d53f6f5e9c16df77a430443aade18722d7bcd7"/>
+		<rom name="big 7 8 1-0.bin" size="32768" crc="164fd1e6" sha1="25be8962f8b7a6a78345dd60319a391c583b6b2f"/>
+		<rom name="big7 v1.2 3c.bin" size="16384" crc="5dde9e42" sha1="38933dc17441d52902515adb434e1391b81b7385"/>
+		<rom name="big7 v1.2 4c.bin" size="16384" crc="59d92041" sha1="aea90dbd2eb45e9de4a997a0e73e3cf447881e78"/>
+		<rom name="big7 v1.2 4t.bin" size="16384" crc="d522608f" sha1="b930a8a908df6f25e75b523a032a19c6de45e1b6"/>
+		<rom name="big7 v1.2 5c.bin" size="16384" crc="33f73eba" sha1="e652946957de7359088f4d71e86458e03ab51e9b"/>
+		<rom name="Big7 v1.2 £4C.bin" size="16384" crc="59d92041" sha1="aea90dbd2eb45e9de4a997a0e73e3cf447881e78"/>
+		<rom name="Big7 v1.2 £4T.bin" size="16384" crc="d522608f" sha1="b930a8a908df6f25e75b523a032a19c6de45e1b6"/>
+		<rom name="big7.bin" size="32768" crc="12a08de2" sha1="cce3526d3b47567d240739111ed4b7e2ba994de6"/>
+		<rom name="big76c.bin" size="32768" crc="12048afc" sha1="a9da4d65efd794ebdb3daad0615a5c6a81135763"/>
+		<rom name="big78t.bin" size="32768" crc="310ffd92" sha1="1cfc3801bb04d4e3d4c2d6e271c3ac71c49d466b"/>
+		<rom name="big7snd.bin" size="8192" crc="b530d91f" sha1="f4e70e05d11e92a82f4bf8d78859b2a94fa5f22b"/>
+		<rom name="big7snd1.bin" size="4096" crc="18a655bb" sha1="aee658ff52a34f3d9225e8165ecaf6907be5ea73"/>
+		<rom name="Big7Sound.bin" size="8192" crc="b530d91f" sha1="f4e70e05d11e92a82f4bf8d78859b2a94fa5f22b"/>
+		<rom name="Big_7_(Electrocoin)_[Dx01_4jp] [blacklisted].fml" size="4414720" crc="75896b0f" sha1="7eb5947ecb62dcdee6f7166566f22b11a4901fd2"/>
+		<rom name="Big_7_(Electrocoin)_[Dx01_4jp] [blacklisted].gam" size="332" crc="027d22da" sha1="15712b89eed5985d46d1a4283e8838eecbc7d413"/>
+		<rom name="Big_7_(Electrocoin)_[Dx01_4jp] [blacklisted].jpg" size="277374" crc="9a3dd6fa" sha1="740cddddb407b4d367777a5d41e3b6d663219939"/>
+		<rom name="Big_7_(Electrocoin)_[Dx01_4jp] [blacklisted].ram" size="8192" crc="b0ddc111" sha1="54a756d3c09d222472aed5bcc995548e23a3b788"/>
+		<rom name="Big_7_(Electrocoin)_[Dx01_4jp] [blacklisted].txt" size="335" crc="ab954321" sha1="bbb0e53c789ce4e570fe33b80f9d09eac93a1c37"/>
+		<rom name="Big_7_(Electrocoin)_[Dx01_alt_4jp] [blacklisted].fml" size="4424657" crc="1a4fe243" sha1="687d625edec6c2fd9a096558cfa92a03e834628c"/>
+		<rom name="Big_7_(Electrocoin)_[Dx01_alt_4jp] [blacklisted].gam" size="328" crc="ae6086c1" sha1="51586e326408666aa6ad7413d7ae62ade702d970"/>
+		<rom name="Big_7_(Electrocoin)_[Dx01_alt_4jp] [blacklisted].jpg" size="277374" crc="9a3dd6fa" sha1="740cddddb407b4d367777a5d41e3b6d663219939"/>
+		<rom name="Big_7_(Electrocoin)_[Dx01_alt_4jp] [blacklisted].ram" size="8192" crc="5bbec628" sha1="d6550f31b14c10181df3e7f8cdb31be18b23a86f"/>
+		<rom name="Big_7_(Electrocoin)_[Dx01_alt_4jp] [blacklisted].txt" size="335" crc="ab954321" sha1="bbb0e53c789ce4e570fe33b80f9d09eac93a1c37"/>
+		<rom name="bigcon10.bin" size="32768" crc="b1176841" sha1="ef23a61355ff194b1dd2c54bc94b175272a8058d"/>
+		<rom name="bigcon8c.bin" size="32768" crc="5b586abc" sha1="8cabb266db4e0453e081ce6ff3ee0c850b66bede"/>
+		<rom name="bigcon8t.bin" size="32768" crc="809e2ec5" sha1="15a1da75f24c167089051645362c9f53be54e16e"/>
+		<rom name="casino big 7 rom eleco.bin" size="32768" crc="89b15183" sha1="ca27d864b2def763b31f69232eacbb1ecf792420"/>
+		<rom name="genbig.bin" size="32768" crc="025b129f" sha1="07d53f8780fca7b90243c01f5892f3c0622ca387"/>
+		<rom name="iss179.rom" size="32768" crc="ef34fa31" sha1="4cd19c50449af95d8448266b8fca6ff94437c22d"/>
+		<rom name="iss2017.rom" size="32768" crc="165dc63c" sha1="f820bc99755f38a911357e705075d24d3aac43b7"/>
+		<rom name="iss2019.rom" size="32768" crc="475b224a" sha1="c837aa0c73cf5947b6b4d106d4f0967da040e5dc"/>
+		<rom name="iss3025.rom" size="32768" crc="26c9382a" sha1="8c4fe06a8e5171e6f2c91b0aee14484aca386a9c"/>
+		<rom name="iss3027.rom" size="32768" crc="7dc5ccbe" sha1="2e904f6dced08ed38c4e5c0adfa6904b80a0a0fa"/>
+		<rom name="iss3033.rom" size="32768" crc="52e6c6b7" sha1="9ff5c6cca014735f8cffffb56a85657b0941e9f8"/>
+		<rom name="iss3034.rom" size="32768" crc="7f27bf12" sha1="1fb7ca712cb801f67da6a9b50eddc3992972534e"/>
+		<rom name="iss3035.rom" size="32768" crc="8612b896" sha1="31fb781a4dd2f82e77dc87d37be378974983ade4"/>
+		<rom name="iss3049.rom" size="32768" crc="b820d03e" sha1="80e0208a31468ace7d75ce10f88c2267c0eb92b4"/>
+		<rom name="iss3050.rom" size="32768" crc="cff49d4c" sha1="3a6c58f942cbd716218468a8061d1f3f7be6ea13"/>
+		<rom name="iss3051.rom" size="32768" crc="3b5b37d1" sha1="56070c1f7d00b7b3984590d4824da88850ff6a9f"/>
+		<rom name="iss3052.rom" size="32768" crc="4f3512bb" sha1="f9b3dd180143fc40f7b737aed23b78920ac5d267"/>
+		<rom name="iss3053.rom" size="32768" crc="99ba426a" sha1="b0545b3ae649d89a14da61e56ac3899896a37e82"/>
+		<rom name="iss3054.rom" size="32768" crc="9598d331" sha1="194339222b97ff8d97aa1d49e5fecc666a67ea49"/>
+		<rom name="iss3055.rom" size="32768" crc="3c4eb15c" sha1="3bb7bdf206fc0fc4310df86733b459e1558aea4f"/>
+		<rom name="iss3056.rom" size="32768" crc="202a820e" sha1="a9b2c9f7995b4e1b0d4e8009a026174f0352d15f"/>
+		<rom name="iss3057.rom" size="32768" crc="db7b5c05" sha1="c4ef81636766154a7b65be42d7689d32a0a922e7"/>
+		<rom name="iss3058.rom" size="32768" crc="a772f630" sha1="8e60a08bfe884ef51893c51f11e9a4d2024f6e2f"/>
+		<rom name="iss3059.rom" size="32768" crc="3b217d60" sha1="7b39df64ce1cff64e737fe9c78e6de3cb3546336"/>
+		<rom name="iss3060.rom" size="32768" crc="29a1f750" sha1="33a0de2f240228842c93e39939c28a5d6bba669e"/>
+		<rom name="iss3061.rom" size="32768" crc="f1a7da0b" sha1="0ffed598ba8a5dfb83c8b05a80f3499cb00686ec"/>
+		<rom name="iss3062.rom" size="32768" crc="bff8c7e7" sha1="db23240eafea82e540a410b135f32c64260fba2e"/>
+		<rom name="iss3063.rom" size="32768" crc="c3471a8c" sha1="edde9a96ec380f95ad2fc473f78fc5d34fd1769d"/>
+		<rom name="iss3064.rom" size="32768" crc="a635c5bc" sha1="476e1fffbddefa230b96b0e1d3bb50f9ef08b24a"/>
+		<rom name="iss3065.rom" size="32768" crc="bd2315f8" sha1="365f87e6ef68f330d47e7d614f02b3775758ac4c"/>
+		<rom name="iss3066.rom" size="32768" crc="ccfb82e0" sha1="08095517eb0bd8931286567171c307603b0cdeff"/>
+		<rom name="iss3067.rom" size="32768" crc="4543588f" sha1="dd888f113fb2a326565e73514d682db43ad545b7"/>
+		<rom name="iss3068.rom" size="32768" crc="2329e40e" sha1="c5072f40b334eedb3a62a234b2f49498165b30d2"/>
+		<rom name="iss3220.rom" size="32768" crc="005a926b" sha1="8fcbf14e44a61f3db96c500c8f9912ab1dbe9c39"/>
+		<rom name="iss3221.rom" size="32768" crc="ed6d729b" sha1="c897a9d58731cd82fdf8d4ee492ea5fe5542f3e8"/>
+		<rom name="iss3222.rom" size="32768" crc="d5f340d6" sha1="0b9aba173cdec3c9a54038e042902420c78ae1b2"/>
+		<rom name="iss3223.rom" size="32768" crc="b5c9465d" sha1="c51270c597bd6264e6440cdad726d032e8df45e6"/>
+		<rom name="iss3224.rom" size="32768" crc="6f776b1f" sha1="027689cf24bbf2386d9710c7e13329988168c253"/>
+		<rom name="iss3225.rom" size="32768" crc="3fb0b783" sha1="b65deadcb5fc1b50064d7f6cfc8fe141051074fb"/>
+		<rom name="iss3226.rom" size="32768" crc="c9ee61ff" sha1="bd5fb65ed2f1e3a23325aee98b420f6c263bf0c1"/>
+		<rom name="iss3227.rom" size="32768" crc="a4065969" sha1="1aa88869ed17844b993bf3138e616b60198e6603"/>
+		<rom name="iss3228.rom" size="32768" crc="1893a5dc" sha1="6e5069ddf3356742f7edf8ac04cd9d0897ac436c"/>
+		<rom name="iss3229.rom" size="32768" crc="b9368f58" sha1="614cd2940e2429923945e42411ff59b52d4fff9c"/>
+		<rom name="iss3230.rom" size="32768" crc="9bf662c8" sha1="7909d1e4775d9efad299cbce7b86dda2d3a21bed"/>
+		<rom name="iss3231.rom" size="32768" crc="4862536a" sha1="d5d80467c798dd3361c8ac367a1b2734741cc8f8"/>
+		<rom name="iss3232.rom" size="32768" crc="7c5b1a26" sha1="292ababf9be8303724b0cff12004202ac8cee674"/>
+		<rom name="iss3233.rom" size="32768" crc="b753592b" sha1="e0414808276c76e609ac4fb006b08952528603d3"/>
+		<rom name="iss3234.rom" size="32768" crc="6e96db38" sha1="ae569a37c866183a08706d0b50254822382cd156"/>
+		<rom name="iss3235.rom" size="32768" crc="672f3f29" sha1="7497cf5fa3cd9e5652dbbd4c691b8bdc0943a9e5"/>
+		<rom name="iss3236.rom" size="32768" crc="3eb8a0b4" sha1="f41c76fac44bfd9c9275e2cf45e8bd16d72b800b"/>
+		<rom name="iss3237.rom" size="32768" crc="db876c46" sha1="f986407029e1c35651daea1fde87f8a3bb1b1965"/>
+		<rom name="iss3238.rom" size="32768" crc="c7d1d398" sha1="3b37b9596bc3771a6f1a698bee4dce8d642d982f"/>
+		<rom name="iss3239.rom" size="32768" crc="f62450a6" sha1="d2c88483cb0d3a83a2974550e8e8e71642bb28ce"/>
+		<rom name="iss382.bin" size="32768" crc="706d87dd" sha1="9c066ca8d5119d15bd09c07110fc66c1fe890a0c"/>
+		<rom name="iss513.rom" size="32768" crc="ca302c47" sha1="9fb9cdd140baa0ec36250b4ebd0a25450348075f"/>
+	</game>
+	<game name="Card Sharp (Electrocoin)">
+		<rom name="CARD6C.BIN" size="30332" crc="0521fef6" sha1="b739de2d678a832930dd896af58a23936da8a3b2"/>
+		<rom name="Card_Sharp_(Electrocoin)_[C01_6jp].fml" size="1969583" crc="ae7ed635" sha1="10cfdcf6818a9d8b0bd30f4c2579a914e641dad7"/>
+		<rom name="Card_Sharp_(Electrocoin)_[C01_6jp].gam" size="401" crc="6ce3bcc8" sha1="cf137249fb8198f44fe00dd7701d3b7bc9c2c4fb"/>
+		<rom name="Card_Sharp_(Electrocoin)_[C01_6jp].jpg" size="287114" crc="202de32b" sha1="ca589295944117eb5a68827c3e1e437223bada12"/>
+		<rom name="Card_Sharp_(Electrocoin)_[C01_6jp].ram" size="8192" crc="e0cb4cb1" sha1="04a015c1cd7a308370a215b434001b3558488b16"/>
+		<rom name="Card_Sharp_(Electrocoin)_[C01_6jp].txt" size="502" crc="c0381fd3" sha1="6bbb5414551586fdff9ee074cdd4f38a1918a452"/>
+		<rom name="laby10" size="65536" crc="a8b58fc3" sha1="16e940b04fa85ff85a29197b4e45c8a39f5cad19"/>
+	</game>
+	<game name="Crown Jester (Electrocoin)">
+		<rom name="crown_jester.bin" size="32768" crc="38805a4c" sha1="fe7f6ab23a63f3149c8e0c19782fc15733386e26"/>
+		<rom name="Crown_Jester_(Electrocoin)_[Dx01_4-80jp].fml" size="9565923" crc="99a12e48" sha1="659761ec951c984ed21c29ba40b0c6a4a8b4610b"/>
+		<rom name="Crown_Jester_(Electrocoin)_[Dx01_4-80jp].gam" size="303" crc="2f103d20" sha1="f1295ea343c9eb123da5a79de5cdbd496935e7b8"/>
+		<rom name="Crown_Jester_(Electrocoin)_[Dx01_4-80jp].jpg" size="15780" crc="685e876f" sha1="e0126eb638c5f8a2414918f656df5e13cda2a1bb"/>
+		<rom name="Crown_Jester_(Electrocoin)_[Dx01_4-80jp].ram" size="8192" crc="24193140" sha1="0a1a7d38d6f8b02753ab85bb8de79d63a7da2dc3"/>
+		<rom name="Crown_Jester_(Electrocoin)_[Dx02_2-40jp].fml" size="15806572" crc="9c964803" sha1="031afa22bd6a705e44cbd7e0a81fa2e46b25a8d8"/>
+		<rom name="Crown_Jester_(Electrocoin)_[Dx02_2-40jp].gam" size="285" crc="0d484ceb" sha1="2b4e207bed34b73f32b4116042a922fd6fb39b3b"/>
+		<rom name="Crown_Jester_(Electrocoin)_[Dx02_2-40jp].jpg" size="710299" crc="bffea011" sha1="9453db6a848e67a0371e6125bd70c4fc840be780"/>
+		<rom name="Crown_Jester_(Electrocoin)_[Dx02_2-40jp].ram" size="8192" crc="43b39dff" sha1="5d2c6b558617e27afe2d73e880126e7980d595c7"/>
+		<rom name="Crown_Jester_(Electrocoin)_[Dx02_2-40jp].txt" size="902" crc="578c73bb" sha1="06314ba5def9d35b010aaf25c5bcf9c13ba24f30"/>
+		<rom name="Crown_Jester_(Electrocoin)_[Dx03_2-40jp].fml" size="16157597" crc="eb20e4c5" sha1="d52b0579c21163aa6eede45f5360630282256293"/>
+		<rom name="Crown_Jester_(Electrocoin)_[Dx03_2-40jp].gam" size="287" crc="bf97eab5" sha1="e7ddbe1d59c7eb8ce82297a69c42841ccc9af895"/>
+		<rom name="Crown_Jester_(Electrocoin)_[Dx03_2-40jp].jpg" size="711930" crc="3acdb83e" sha1="91c2efcf7953e9f672eff22b8ebce17e6d66e68a"/>
+		<rom name="Crown_Jester_(Electrocoin)_[Dx03_2-40jp].ram" size="8192" crc="49780450" sha1="04d2676f7de95bde3e6f0dd487a391b4c917df11"/>
+		<rom name="Crown_Jester_(Electrocoin)_[Dx03_2-40jp].txt" size="902" crc="578c73bb" sha1="06314ba5def9d35b010aaf25c5bcf9c13ba24f30"/>
+		<rom name="ec_cj_ukn.bin" size="32768" crc="8cc10664" sha1="4de4ca3ffae4963d64ef82829421f47458845d77"/>
+	</game>
+	<game name="Darts Marathon (Electrocoin)">
+		<rom name="Darts_Marathon_(Electrocoin)_[C01_70jp].fml" size="768717" crc="5578acd4" sha1="c2104b006f3f41de8b148a98345507deda0281be"/>
+		<rom name="Darts_Marathon_(Electrocoin)_[C01_70jp].gam" size="537" crc="408264ae" sha1="f32f8ea552954a30f434943a9de799e5fd984b76"/>
+		<rom name="Darts_Marathon_(Electrocoin)_[C01_70jp].jpg" size="238723" crc="23d769df" sha1="8417119ae75ed4ca91eb812204ceef9b7bf741cd"/>
+		<rom name="Darts_Marathon_(Electrocoin)_[C01_70jp].ram" size="65536" crc="19ab5ddc" sha1="03ea9995bd64459ec5b60e20a4c33aab949f6aeb"/>
+		<rom name="Darts_Marathon_(Electrocoin)_[C01_70jp].txt" size="441" crc="87bda86b" sha1="28c5beee695c683389fcbd53583ec77648112fa1"/>
+		<rom name="Darts_Marathon_(Electrocoin)_[Dx01_70jp].fml" size="9719936" crc="dc250d60" sha1="8ee0d94495016d272f15d8b7e00a5e33c7e22ec2"/>
+		<rom name="Darts_Marathon_(Electrocoin)_[Dx01_70jp].gam" size="493" crc="0417970c" sha1="7fa522e1f86e7c65937fc602ef87fc0308c5c18f"/>
+		<rom name="Darts_Marathon_(Electrocoin)_[Dx01_70jp].jpg" size="213282" crc="95d9753e" sha1="f52424044bd466ab797f78b236bca0517789e838"/>
+		<rom name="Darts_Marathon_(Electrocoin)_[Dx01_70jp].ram" size="65536" crc="a0b12ede" sha1="1d89bc3a2c91694b7ef0b5211f4d01f286bca32b"/>
+		<rom name="Darts_Marathon_(Electrocoin)_[Dx01_70jp].txt" size="421" crc="fa82c374" sha1="69b3de3adef13e129a9ec6f2478233a90203ad85"/>
+		<rom name="tj1.bin" size="524288" crc="81ad3fb9" sha1="f6dbc1cd88d40134174db1b65323e64388f9e864"/>
+		<rom name="tj2.bin" size="524288" crc="88ca4fc0" sha1="d721d012f9a331755d017e1d6b823d86a7457c04"/>
+		<rom name="tjs.bin" size="1048576" crc="e1cbad25" sha1="cfada7be9041831b2dc89da0cf2dae905c936070"/>
+	</game>
+	<game name="Gold Streak (Electrocoin)">
+		<rom name="Gold_Streak_(Electrocoin)_[C01_70jp].fml" size="835613" crc="bd133a60" sha1="4fbb90c8c7821a32951447425e1b3846f7652f65"/>
+		<rom name="Gold_Streak_(Electrocoin)_[C01_70jp].gam" size="563" crc="7eb2f75d" sha1="d60260e01e97ef7a4639f8cfba55f32ef0429a4d"/>
+		<rom name="Gold_Streak_(Electrocoin)_[C01_70jp].jpg" size="34785" crc="8a18bc7f" sha1="7a1db9fb84a2d639d8384d88a484894ba7748170"/>
+		<rom name="Gold_Streak_(Electrocoin)_[C01_70jp].ram" size="65536" crc="49c07352" sha1="4ef5bd6ba384a19a51b7ebf044427d89e3dd87dc"/>
+		<rom name="goldstreak_hi.bin" size="524288" crc="53f28043" sha1="45a8f43a8180d329f13c859eb4601655e96ede55"/>
+		<rom name="goldstreak_lo.bin" size="524288" crc="ee86fb42" sha1="182f5162289e9670ddf5fd282095a0d19ea412b1"/>
+		<rom name="goldstreak_sound.bin" size="1048576" crc="c0515b6f" sha1="8ce60245117173f634dd76f119916bde609480fb"/>
+	</game>
+	<game name="Labyrinth (Electrocoin)">
+		<rom name="lab1v8.bin" size="32768" crc="16f0eeac" sha1="9e28a6ae9176f730234dd8a7a8e50bad2904b611"/>
+		<rom name="lab2v8.bin" size="32768" crc="14d7c58b" sha1="e6b19523d96c9c1f39b743f8c52791465ab79637"/>
+		<rom name="laby10" size="65536" crc="a8b58fc3" sha1="16e940b04fa85ff85a29197b4e45c8a39f5cad19"/>
+		<rom name="Labyrinth WDX 1.0.0 (24Jul2019) (Tommy c) [Electrocoin].txt" size="563" crc="2fc4129d" sha1="5e158e76e136477e73f0ebcfad97ced3c6364123"/>
+		<rom name="Labyrinth_(Electrocoin)_[C01_6jp].fml" size="491487" crc="e5693868" sha1="7d0ac5ac6369f9aa2dd8537d4bf816ca5a41e0c5"/>
+		<rom name="Labyrinth_(Electrocoin)_[C01_6jp].gam" size="284" crc="bf5311eb" sha1="02891b31a9393f3efaa18852dde81f4d10389093"/>
+		<rom name="Labyrinth_(Electrocoin)_[C01_6jp].jpg" size="33343" crc="57f6bb12" sha1="830a75e8e89239faf5df60d63c2418085b7d0adf"/>
+		<rom name="Labyrinth_(Electrocoin)_[C01_6jp].ram" size="8192" crc="d9e1c500" sha1="a23436f4bbfb40d7ad6df163902834bd81e4efa4"/>
+		<rom name="Labyrinth_(Electrocoin)_[Dx01_6jp].fml" size="8705720" crc="5720c725" sha1="bf1d7db9f757f3570343104e3c418f16279ec2f9"/>
+		<rom name="Labyrinth_(Electrocoin)_[Dx01_6jp].gam" size="313" crc="e2bfd397" sha1="5aa01c313a349c906d84bcd8040e684dba95c6b6"/>
+		<rom name="Labyrinth_(Electrocoin)_[Dx01_6jp].jpg" size="170431" crc="8579ff07" sha1="9adb245182972079c0a325355169946afe725122"/>
+		<rom name="Labyrinth_(Electrocoin)_[Dx01_6jp].ram" size="8192" crc="535e86fe" sha1="721f70fa770c0d7cd3a96e7f0632dd1d6720bf35"/>
+	</game>
+	<game name="Let&apos;s Play Darts (Electrocoin)">
+		<rom name="electrocoin_lpd_hi.bin" size="524288" crc="00cf3459" sha1="ec82b497d81d3d853933c3f3329fbe595b01ebd3"/>
+		<rom name="electrocoin_lpd_lo.bin" size="524288" crc="1e687c27" sha1="27e51f5119768cc75f7d8f3d70eaddc4f748c82c"/>
+		<rom name="electrocoin_lpd_sound.bin" size="1048576" crc="bc6fd420" sha1="af40136f17259fd5f13342f62913b97c59c95bfe"/>
+		<rom name="Let&apos;s_Play_Darts_(Electrocoin)_[C01_70jp].fml" size="1397760" crc="9150abd9" sha1="276092f186a88326e1ae4dfb25fcfa1bb344ddcc"/>
+		<rom name="Let&apos;s_Play_Darts_(Electrocoin)_[C01_70jp].gam" size="499" crc="2c62c121" sha1="04a83f644c1c7d3bed544eb50f324dbcc90d7ead"/>
+		<rom name="Let&apos;s_Play_Darts_(Electrocoin)_[C01_70jp].jpg" size="278096" crc="bb94aa64" sha1="4d0120c49c4ec119f0f56f7e9a46650f8183e84e"/>
+		<rom name="Let&apos;s_Play_Darts_(Electrocoin)_[C01_70jp].ram" size="65536" crc="92eb271b" sha1="31c87282ca47eba8ec7233a5a58d440c8d1d6c8c"/>
+		<rom name="Let&apos;s_Play_Darts_(Electrocoin)_[C01_70jp].txt" size="291" crc="801dcf2d" sha1="4941663d3d0bb4e5add04b0c6b8eb6b6944ac918"/>
+		<rom name="Let&apos;s_Play_Darts_(Electrocoin)_[Dx01_35jp].fml" size="13883417" crc="662917d0" sha1="8800e39ddb4be7cdda85f9342a0392c6b0898c77"/>
+		<rom name="Let&apos;s_Play_Darts_(Electrocoin)_[Dx01_35jp].gam" size="505" crc="41a0bbed" sha1="adf3350f6fa940a3b0c7a6d4911bc9cef5e6526d"/>
+		<rom name="Let&apos;s_Play_Darts_(Electrocoin)_[Dx01_35jp].jpg" size="184627" crc="0f1bb434" sha1="42339a5ca4295c38c1e8e256155b924b358f241b"/>
+		<rom name="Let&apos;s_Play_Darts_(Electrocoin)_[Dx01_35jp].ram" size="65536" crc="212e445c" sha1="674bd87d9d07c7bd4495be80ce5c0929afca77e8"/>
+		<rom name="Let&apos;s_Play_Darts_(Electrocoin)_[Dx01_35jp].txt" size="545" crc="fbe2a132" sha1="cc6ecd649b7bb1fd36808b969da67b63beec50b9"/>
+		<rom name="Let&apos;s_Play_Darts_(Electrocoin)_[Dx01_70jp].fml" size="14270658" crc="bb852cc6" sha1="a7ee449b71eb90244d8c6ad8757db3b2a81e9796"/>
+		<rom name="Let&apos;s_Play_Darts_(Electrocoin)_[Dx01_70jp].gam" size="505" crc="0e05e85d" sha1="e52b7e214474d273f4036f20f3ef3d838aca6ff9"/>
+		<rom name="Let&apos;s_Play_Darts_(Electrocoin)_[Dx01_70jp].jpg" size="185650" crc="e1a236c6" sha1="2e44b64b51392952d78bd2973f4df424e16ea8ea"/>
+		<rom name="Let&apos;s_Play_Darts_(Electrocoin)_[Dx01_70jp].ram" size="65536" crc="05efaabb" sha1="18e28e41a4eccc72f20df694d0889387188c4311"/>
+		<rom name="Let&apos;s_Play_Darts_(Electrocoin)_[Dx01_70jp].txt" size="545" crc="fbe2a132" sha1="cc6ecd649b7bb1fd36808b969da67b63beec50b9"/>
+	</game>
+	<game name="Lucky Leprechaun (Electrocoin)">
+		<rom name="hi.bin" size="524288" crc="c7d8ba06" sha1="8832282ed34967ce8ce4fa1ed5da6d440afd3b89"/>
+		<rom name="lo.bin" size="524288" crc="53c1c267" sha1="a0e8587d54db9cfdf7138778fbf06cac881d4bc1"/>
+		<rom name="Lucky_Leprechaun_(Electrocoin)_[C01_70jp].fml" size="1469955" crc="5b1173b2" sha1="b2053b26aca1476c833c71954194e5dcabf4220f"/>
+		<rom name="Lucky_Leprechaun_(Electrocoin)_[C01_70jp].gam" size="559" crc="0a03cb88" sha1="12d1aa01c41283fcae37717cf99f887d8ec0b2ed"/>
+		<rom name="Lucky_Leprechaun_(Electrocoin)_[C01_70jp].jpg" size="192873" crc="9f5b8079" sha1="6521bd83ed49c72110ef7187cf36338eba98801f"/>
+		<rom name="Lucky_Leprechaun_(Electrocoin)_[C01_70jp].ram" size="65536" crc="ce519191" sha1="c06010ef2ebadee737eb67ab41a54cb3443d0ed7"/>
+		<rom name="Lucky_Leprechaun_(Electrocoin)_[C01_70jp].txt" size="759" crc="473c4bb8" sha1="a92ca7dd3bc46e8925953722b25f445899d73c81"/>
+		<rom name="snd.bin" size="1048576" crc="9b4a251d" sha1="0067ba7f045720c8c78b152644447f6210ca4959"/>
+	</game>
+	<game name="Magic 10 (Concept - Electrocoin)">
+		<rom name="ce3wls31930.bin" size="32768" crc="c23455a4" sha1="3dd638d94a5d67861a68ee891e1142c4dcb1d381"/>
+		<rom name="conceptsound.bin" size="4088" crc="a717e790" sha1="3079d0c2aa5bb160b871cc3ba8113b88c83d46f9"/>
+		<rom name="Magic_10_(Electrocoin_-_Concept)_[Dx01_25jp] [blacklisted].fml" size="2952170" crc="7603850b" sha1="7ee7c44a9347cd04b96a9d2edd8386113b5260f7"/>
+		<rom name="Magic_10_(Electrocoin_-_Concept)_[Dx01_25jp] [blacklisted].gam" size="341" crc="5bbc1c24" sha1="c02ea576cc3623fa2712e88a9080e99e4a8e6f05"/>
+		<rom name="Magic_10_(Electrocoin_-_Concept)_[Dx01_25jp] [blacklisted].jpg" size="125513" crc="39cd1fc6" sha1="3a20fc2b4d816add5c543d21fc070d6554e21da2"/>
+		<rom name="Magic_10_(Electrocoin_-_Concept)_[Dx01_25jp] [blacklisted].ram" size="8192" crc="013570d9" sha1="155c90efbfdc8bcc3a3b22679d4db570dc6d216a"/>
+	</game>
+	<game name="Magic 7s (Concept - Electrocoin)">
+		<rom name="ce3wjf31925.bin" size="32768" crc="d211217a" sha1="139b1d39f49bd4b022d4c97a5dcaef0449f3f24e"/>
+		<rom name="conceptsound.bin" size="4088" crc="a717e790" sha1="3079d0c2aa5bb160b871cc3ba8113b88c83d46f9"/>
+		<rom name="issa933" size="32768" crc="ebb6b015" sha1="1c02663f1193b9aa92183ac46146c49cdb9fa420"/>
+		<rom name="issa934" size="32768" crc="522c9ed5" sha1="ae3f2760f10f8d884500d9fa67169bde9913fd52"/>
+		<rom name="issa935" size="32768" crc="407c02d0" sha1="f6f0216c7f39da462649711259a692dd519191e4"/>
+		<rom name="issa936" size="32768" crc="a1e74625" sha1="2b6e77c7031c646713c9af9aa6ba66c47982def7"/>
+		<rom name="issa937" size="32768" crc="d293c379" sha1="9cf85813475f821b87d7fee74ce7c1bd9f943ce5"/>
+		<rom name="issa938" size="32768" crc="cd8b6b24" sha1="6e7a5fb90b1d0520d3ea24074cb2e0224d84b3d8"/>
+		<rom name="issa939" size="32768" crc="5427927f" sha1="da5a33a078da47ef3730bb2e24c240d9e416895e"/>
+		<rom name="issa940" size="32768" crc="7255ad02" sha1="bc433974cd6250805277eed113d63ed9475ff2bd"/>
+		<rom name="issa941" size="32768" crc="02d9eeea" sha1="dbde3b1792b7b25261021ef30e9669c1eeb65ff2"/>
+		<rom name="issa942" size="32768" crc="761b4ad6" sha1="306c4b0af936582233ef98fa647e69a6b23948b6"/>
+		<rom name="issa944" size="32768" crc="46abcf90" sha1="d151d4badaaa8c2c140e4eddbd4f3a9b2456f3c1"/>
+		<rom name="issa946" size="32768" crc="a1086dae" sha1="33207d400f02f93b4360c37a01a719893c6ae7c8"/>
+		<rom name="issa947" size="32768" crc="d2ace438" sha1="c87e9c7c6debc534d488543a6991bfbd284119e6"/>
+		<rom name="issa948" size="32768" crc="e7b26788" sha1="d6460f1254746248ddf639c958f13b34eeb0db3e"/>
+		<rom name="issa949" size="32768" crc="39553f21" sha1="6b06d2e8fdf375f8727471f66545ece8bf40cd1d"/>
+		<rom name="issa950" size="32768" crc="f323803d" sha1="a334e6e0c130c1192ffd3018ae691928cbc6123c"/>
+		<rom name="issa951" size="32768" crc="4437bd3d" sha1="6a3020c4d826167e434b079407e2a83e52193bf5"/>
+		<rom name="issa952" size="32768" crc="db3ece7e" sha1="ee298113780466ad01183c7d4135ff4bcd4a4d73"/>
+		<rom name="issa953" size="32768" crc="be22b80a" sha1="a69b489382087276e44c95fa68777f6707dad1f6"/>
+		<rom name="issa954" size="32768" crc="9b9ef183" sha1="8a784f669e3f44734f315988328fa6ecd4d05769"/>
+		<rom name="issa955" size="32768" crc="1d589cdb" sha1="def29aa1ce198d17ffe9384481f275e02696131a"/>
+		<rom name="issa956" size="32768" crc="e55e3f4b" sha1="b6a5bc30bd490b4db92e7a4417c5e7775930ef85"/>
+		<rom name="issa957" size="32768" crc="0115f3e9" sha1="fc443ceab666fbac0b7abb26dff7802be5eb57db"/>
+		<rom name="issa958" size="32768" crc="05bfa8a7" sha1="ff28d391669be6060d4aa8813d5c76d41460acf0"/>
+		<rom name="issa959" size="32768" crc="15155b9b" sha1="015e088b95ed5e762004918392b12442655dee2e"/>
+		<rom name="issa960" size="32768" crc="ab6527cd" sha1="9ccafa117efde2e2940af0ccfa4bda578999d22f"/>
+		<rom name="issa961" size="32768" crc="9112dbce" sha1="0b8ff8e9e3583db35d5e3bd177b971d786b01f54"/>
+		<rom name="issa962" size="32768" crc="4983813d" sha1="d338bab5a18ac52b397f611a3c56ef2b31ec68ac"/>
+		<rom name="issa963" size="32768" crc="367d0c84" sha1="104d24c92a76fd28b39464d7c22a1528ff17fa84"/>
+		<rom name="issa964" size="32768" crc="3d97a784" sha1="d14564292dcc253711bccae59edcdd21f7d9fcdb"/>
+		<rom name="issa965" size="32768" crc="bfa13545" sha1="c235de4b223bf8daa26d948b0f7e707a1794ca8d"/>
+		<rom name="issa966" size="32768" crc="13a2e85c" sha1="33cbc8757db492e92687e7008ca31425b6fe8d1c"/>
+		<rom name="issa967" size="32768" crc="6b781c77" sha1="10c70edd2f02dd888c3931f97b2731c4cc503e94"/>
+		<rom name="issa968" size="32768" crc="1cf678d8" sha1="99827a46fccf341085da877a39104eb5d1e51b68"/>
+		<rom name="issa969" size="32768" crc="f8b218c7" sha1="f58e5ad680226201c6e3fec277d9fc4907e918f1"/>
+		<rom name="issa970" size="32768" crc="e7297102" sha1="216a7a52a10a4bc78fc78ac5fe0185ecae7467d7"/>
+		<rom name="issa971" size="32768" crc="9a375d99" sha1="e0e9bde17ff0570e7bac7aecf0d0db1e4bb71fd7"/>
+		<rom name="issa972" size="32768" crc="2eec15a7" sha1="396d23f8b3b22119df254249bb3db0cc60248020"/>
+		<rom name="issa973" size="32768" crc="9d54fb14" sha1="4d209c65468d43a4ccc7a30a2182f7bbe30a4b4a"/>
+		<rom name="issa974" size="32768" crc="e28680cf" sha1="f0d15dc5a362967bebe1a70fb71860aaaf1cc48d"/>
+		<rom name="issa975" size="32768" crc="75568fd7" sha1="09e16ad200bc0af4818ef6d9fdacd67a1e359b3e"/>
+		<rom name="issa976" size="32768" crc="0019933a" sha1="891df20d970380f76248f2c562dc82babbf78eb3"/>
+		<rom name="issa977" size="32768" crc="ba347b31" sha1="e5d61ce699687cd411f1baf89f9de649388837bb"/>
+		<rom name="issa978" size="32768" crc="630ab687" sha1="e5dc589d8118adc848aa22e8758a17544fcf272d"/>
+		<rom name="issa979" size="32768" crc="d8ebade9" sha1="60e21dd0e4639214db384f7a645849ca79637ac0"/>
+		<rom name="issa980" size="32768" crc="2f9f870e" sha1="eb6578ffeb510e0fb76296bc1c22b322643db26f"/>
+		<rom name="issa981" size="32768" crc="41cf7c23" sha1="0f9da4143bb568cf99fe5db9752a5790ca089db6"/>
+		<rom name="issa982" size="32768" crc="771bc3ac" sha1="f4c56b7b534a1e290f3880089f5cefaf9213fe79"/>
+		<rom name="issa983" size="32768" crc="581ef88a" sha1="eaca5c5551506aac5ca94236509c6d6ad6ccd1ae"/>
+		<rom name="issa984" size="32768" crc="4cbdc18c" sha1="1250223e5d2703dce0aa3b43e84da4324c90afdd"/>
+		<rom name="issa985" size="32768" crc="542b94fd" sha1="778ca3baef947e0fd58037940edf6e9ac80a6ac8"/>
+		<rom name="issa986" size="32768" crc="26716482" sha1="6c6d5008b0a956b9458b232789644cc29a6d8ea8"/>
+		<rom name="issa987" size="32768" crc="b0934975" sha1="5ae813d2aa2fa0afcd11d76d308ee23dcbafe9de"/>
+		<rom name="issa988" size="32768" crc="0e5d421e" sha1="b61fc2d7651dc684168be2f0c8f0739a442a062c"/>
+		<rom name="issa989" size="32768" crc="a469a2f8" sha1="351f6e2849b2d5778fb96c96b2bb356f4b02787c"/>
+		<rom name="issa990" size="32768" crc="ad90f5a5" sha1="2b09f7eb46f054550c5f638bc83708231c34e189"/>
+		<rom name="issa998" size="32768" crc="7314e2a8" sha1="3a108bf2ba0173ecab85fe7110174f5db8f75e17"/>
+		<rom name="Magic_7s_(Concept_-_Electrocoin)_[Dx01_25jp].fml" size="1533045" crc="c1a7a3a6" sha1="8d476ae86c1d388fb67b5d9c377e7b8e37b9587f"/>
+		<rom name="Magic_7s_(Concept_-_Electrocoin)_[Dx01_25jp].gam" size="323" crc="9c834f70" sha1="b73926d36c4170252ee58c418a7d13973bf73af7"/>
+		<rom name="Magic_7s_(Concept_-_Electrocoin)_[Dx01_25jp].jpg" size="104958" crc="9d301bfd" sha1="11d1ba81bedf9d38be7846bf1b5366d0885c3ef9"/>
+		<rom name="Magic_7s_(Concept_-_Electrocoin)_[Dx01_25jp].ram" size="8192" crc="81e941f5" sha1="a2e2d99eb7961e6d798af924670f9feb9d1ed063"/>
+		<rom name="Magic_7s_(Concept_-_Electrocoin)_[Dx01_25jp].txt" size="837" crc="3be1f3b4" sha1="2f54776e15a4670f66f3237816067daf3d386ed9"/>
+		<rom name="Magic_7s_(Concept_-_Electrocoin)_[Dx02_25jp].fml" size="2150150" crc="1530e5a2" sha1="9d29a296bc0cae8a667f1e41c31c85872d2c9795"/>
+		<rom name="Magic_7s_(Concept_-_Electrocoin)_[Dx02_25jp].gam" size="277" crc="2fbf2d98" sha1="6a81f845fff046ebd2196d5a209ddf12abf9bd2a"/>
+		<rom name="Magic_7s_(Concept_-_Electrocoin)_[Dx02_25jp].jpg" size="25652" crc="82de0257" sha1="39e358f29d5913b8e7381512cf6db1c779fea6e6"/>
+		<rom name="Magic_7s_(Concept_-_Electrocoin)_[Dx02_25jp].ram" size="8192" crc="c12f5085" sha1="0785a3392b979107821ced6272d343f5217b974d"/>
+		<rom name="qrst0peu" size="32768" crc="a1ca176f" sha1="90dc3204091c6328764122dc583e47ea8ac314e4"/>
+	</game>
+	<game name="Poundstretcher (Concept - Electrocoin)">
+		<rom name="Poundstretcher_(Concept_-_Electrocoin)_[C01_70jp].fml" size="974553" crc="1c7327f8" sha1="2372347e8b9a3542f223ddc381dcdb0d53f67710"/>
+		<rom name="Poundstretcher_(Concept_-_Electrocoin)_[C01_70jp].gam" size="265" crc="3c0be431" sha1="d6f3d4f07f11a0c4d50e3ce268fddd97191b3110"/>
+		<rom name="Poundstretcher_(Concept_-_Electrocoin)_[C01_70jp].jpg" size="108340" crc="7d3a434c" sha1="5b53c43c4a631a928f7524895e01a123f03c230a"/>
+		<rom name="Poundstretcher_(Concept_-_Electrocoin)_[C01_70jp].ram" size="8192" crc="72d1d674" sha1="c2375923772422583f2633e57c58c6aa8a05dca6"/>
+		<rom name="Poundstretcher_(Concept_-_Electrocoin)_[C01_70jp].txt" size="387" crc="8db24245" sha1="e711228ec2ca3f9befa37557309739d5d11e16d6"/>
+		<rom name="PoundStretcher_Game.bin" size="32768" crc="37a80b01" sha1="575ea402f35f5cbde2ee0332a3c7449df85324e6"/>
+		<rom name="PoundStretcher_Sound..bin" size="8192" crc="b530d91f" sha1="f4e70e05d11e92a82f4bf8d78859b2a94fa5f22b"/>
+		<rom name="ps_game.bin" size="32768" crc="37a80b01" sha1="575ea402f35f5cbde2ee0332a3c7449df85324e6"/>
+		<rom name="ps_sound.bin" size="8192" crc="b530d91f" sha1="f4e70e05d11e92a82f4bf8d78859b2a94fa5f22b"/>
+	</game>
+	<game name="Pyramid (Electrocoin)">
+		<rom name="5p_pyramid_switchable.bin" size="65536" crc="7509a0f7" sha1="9af4b155e122be9c6a2262dc2258d147355f8c29"/>
+		<rom name="pyramid 5p 3.bin" size="65536" crc="06a047d8" sha1="4a1a15f1ab9defd3a0c5f2d333beae0daa16c6a4"/>
+		<rom name="pyramid.bin" size="65536" crc="370a6d2c" sha1="ea4f899adeca734529b19ba8de0e371841982c20"/>
+		<rom name="Pyramid_(Electrocoin)_[C01_3jp].fml" size="508382" crc="7773ebd9" sha1="170742fcd1faa4365149c87c0cd54c61ec06de60"/>
+		<rom name="Pyramid_(Electrocoin)_[C01_3jp].gam" size="365" crc="5227e813" sha1="d763a9632f89a247825a93122f672a6c0635c91d"/>
+		<rom name="Pyramid_(Electrocoin)_[C01_3jp].jpg" size="29907" crc="8e6d86ce" sha1="a4d2608171f278de41968262f49503266a57d3e6"/>
+		<rom name="Pyramid_(Electrocoin)_[C01_3jp].ram" size="8192" crc="13334916" sha1="7de461f325034d1cbdf40619362d4ed4eb79083e"/>
+		<rom name="Pyramid_(Electrocoin)_[C01_6jp].fml" size="508376" crc="77a94ca8" sha1="47620d0e7d25bded50d70645ca1cf2a05990fac4"/>
+		<rom name="Pyramid_(Electrocoin)_[C01_6jp].gam" size="373" crc="470f7f98" sha1="b11d5ce71b25104eb75454edf8949daad03a012c"/>
+		<rom name="Pyramid_(Electrocoin)_[C01_6jp].jpg" size="32886" crc="a73bb53f" sha1="3f6f9e3c541f4bd3b1d32894a1178ea9bfa37e1a"/>
+		<rom name="Pyramid_(Electrocoin)_[C01_6jp].ram" size="8192" crc="b56b549d" sha1="d8cad49dc834065772921f36a5614601f30829c4"/>
+		<rom name="Pyramid_(Electrocoin)_[Dx01_3jp].fml" size="4941863" crc="54f32e14" sha1="852b3288066f85a01d95ed76eb8a8efe0632b686"/>
+		<rom name="Pyramid_(Electrocoin)_[Dx01_3jp].gam" size="291" crc="8cb4c8fd" sha1="673b2ad86a89a9128f71272f59ae4bc500b9494c"/>
+		<rom name="Pyramid_(Electrocoin)_[Dx01_3jp].jpg" size="200438" crc="232810a4" sha1="4469ece02f206f60cb4a4ec82bf66134a21da26f"/>
+		<rom name="Pyramid_(Electrocoin)_[Dx01_3jp].ram" size="8192" crc="239ddfb4" sha1="1a13da7b70a3610344c15814b3ce24e56a1d38e0"/>
+		<rom name="Pyramid_(Electrocoin)_[Dx01_3jp].txt" size="271" crc="7043612c" sha1="a910710400ffa55efff40d8e63f1cfab848e9ac6"/>
+		<rom name="Pyramid_(Electrocoin)_[Dx01_6jp].fml" size="5267124" crc="241b0d67" sha1="7c10109ac682d7251e58a04574b5eb55205442ea"/>
+		<rom name="Pyramid_(Electrocoin)_[Dx01_6jp].gam" size="309" crc="71709573" sha1="b65e0a8cdbf96886e0e6553830cc82f21a687355"/>
+		<rom name="Pyramid_(Electrocoin)_[Dx01_6jp].jpg" size="200438" crc="232810a4" sha1="4469ece02f206f60cb4a4ec82bf66134a21da26f"/>
+		<rom name="Pyramid_(Electrocoin)_[Dx01_6jp].ram" size="8192" crc="d64327d4" sha1="30c8ea38754ca95a193d6affb5999f8eee1883cb"/>
+		<rom name="Pyramid_(Electrocoin)_[Dx01_6jp].txt" size="271" crc="7043612c" sha1="a910710400ffa55efff40d8e63f1cfab848e9ac6"/>
+	</game>
+	<game name="Random Gold (Concept - Electrocoin)">
+		<rom name="AUDIO.BIN" size="8192" crc="b530d91f" sha1="f4e70e05d11e92a82f4bf8d78859b2a94fa5f22b"/>
+		<rom name="crggs52025p.bin" size="32768" crc="50fcc2a1" sha1="6c03805ecc04ad6b8a35bb706551f477328c0a1f"/>
+		<rom name="GAME.BIN" size="32768" crc="36f005b5" sha1="da459ef3f6e881a90884ec16aff816b522f1bade"/>
+		<rom name="Random_Gold_(Concept_Electrocoin)_[C01_25jp].fml" size="765077" crc="5ddd77a8" sha1="e5be1aa3ebf02d2d54cba0a2facb491bb0669cff"/>
+		<rom name="Random_Gold_(Concept_Electrocoin)_[C01_25jp].gam" size="267" crc="f48c1b5b" sha1="eabc2cee7a0f3237b0c1c4e6564c7d7dfae8dc64"/>
+		<rom name="Random_Gold_(Concept_Electrocoin)_[C01_25jp].jpg" size="106970" crc="692511e5" sha1="e57ff6194a0320a6cc168ce597c0a3a35e727dec"/>
+		<rom name="Random_Gold_(Concept_Electrocoin)_[C01_25jp].ram" size="8192" crc="6c4cb546" sha1="4051c2dd9a65eb19cf0aab16ca7defb893cdc6ce"/>
+		<rom name="Random_Gold_(Concept_Electrocoin)_[C01_25jp].txt" size="887" crc="0b6908db" sha1="14eef1e7c11a293848fdbc5e6b46d4fec479bcad"/>
+		<rom name="Random_Gold_(Concept_Electrocoin)_[C01_70jp].db" size="51" crc="457598ab" sha1="b94f7907ee51718343360197e48880cdb8fcd150"/>
+		<rom name="Random_Gold_(Concept_Electrocoin)_[C01_70jp].fml" size="769021" crc="4de5173e" sha1="e13c8c2d8f10770ad77df3f1f031eec96efd0df3"/>
+		<rom name="Random_Gold_(Concept_Electrocoin)_[C01_70jp].gam" size="253" crc="4e32af67" sha1="af847b1dc80e2a4ec0264a5c7beeb322acfcaa85"/>
+		<rom name="Random_Gold_(Concept_Electrocoin)_[C01_70jp].jpg" size="113044" crc="61e2db35" sha1="df99dac4b458b95e118ef9f0a753524464396abd"/>
+		<rom name="Random_Gold_(Concept_Electrocoin)_[C01_70jp].ram" size="8192" crc="ed91ac6b" sha1="3872316ef1337ea046bcb0749796cf13fa6a8a20"/>
+		<rom name="Random_Gold_(Concept_Electrocoin)_[C01_70jp].txt" size="389" crc="4b4d79ef" sha1="d90fe027784c879d61c6bd53939233353d3d8aa7"/>
+		<rom name="Random_Gold_(Concept_Electrocoin)_[Dx01_70jp] [blacklisted].fml" size="5216040" crc="7e36c6e8" sha1="08b3436bae1b544f1238ef5e5ad0b15487417085"/>
+		<rom name="Random_Gold_(Concept_Electrocoin)_[Dx01_70jp] [blacklisted].gam" size="322" crc="ac0b0529" sha1="c95c3392edf2aa0aacdac4c8958f45a7c57b84bf"/>
+		<rom name="Random_Gold_(Concept_Electrocoin)_[Dx01_70jp] [blacklisted].jpg" size="85279" crc="eaa31f56" sha1="4a0697e1eb2c6924113dc9c4bf78ce8d0b095a25"/>
+		<rom name="rg_game.bin" size="32768" crc="36f005b5" sha1="da459ef3f6e881a90884ec16aff816b522f1bade"/>
+		<rom name="rg_sound.bin" size="8192" crc="b530d91f" sha1="f4e70e05d11e92a82f4bf8d78859b2a94fa5f22b"/>
+	</game>
+	<game name="Red White &amp; Blue 7 (Electrocoin)">
+		<rom name="red white and blue 10 pound m27c512.BIN" size="65536" crc="818779f6" sha1="a63a09e813b3cef9f5f64beb81a447c345afdbee"/>
+		<rom name="red white and blue tms27c040.BIN" size="524288" crc="c9125220" sha1="faf80460ef6ce629570e3c077f4c9c256c31db4e"/>
+		<rom name="Red_White_&amp;_Blue_7_(Electrocoin)_[Dx01_10jp].fml" size="4433487" crc="dffc80ad" sha1="d4e6cf1c14243077f2544906910fb6afd3dc8b86"/>
+		<rom name="Red_White_&amp;_Blue_7_(Electrocoin)_[Dx01_10jp].gam" size="283" crc="868cb9a1" sha1="c8655f6960e392a0884088267c520dcef74521ec"/>
+		<rom name="Red_White_&amp;_Blue_7_(Electrocoin)_[Dx01_10jp].jpg" size="179264" crc="5b530898" sha1="c4974644ca8d03ec2ca1a6c1f0861e7ddae5d1cc"/>
+		<rom name="Red_White_&amp;_Blue_7_(Electrocoin)_[Dx01_10jp].ram" size="8192" crc="a936a3f9" sha1="c0a71459f3caf5c6d7f59c486620a3340472de7e"/>
+		<rom name="Red_White_&amp;_Blue_7_(Electrocoin)_[Dx01_10jp].txt" size="431" crc="aff0b9dd" sha1="1f490e4422e5e8041d4f8a61ed19715de6cd8285"/>
+		<rom name="rwb20.bin" size="65536" crc="818779f6" sha1="a63a09e813b3cef9f5f64beb81a447c345afdbee"/>
+		<rom name="rwbsnd.bin" size="524288" crc="c9125220" sha1="faf80460ef6ce629570e3c077f4c9c256c31db4e"/>
+	</game>
+	<game name="Secret Castle (Electrocoin)">
+		<rom name="scastle1.bin" size="65536" crc="e6abb596" sha1="35518c46f1ddf1d3a85af13e4ba8bee07e804f64"/>
+		<rom name="Secret_Castle_(Electrocoin)_[C01_10jp].fml" size="488323" crc="d2502ae2" sha1="df82af18874209a9efc1deeb5ba1d2c85567598a"/>
+		<rom name="Secret_Castle_(Electrocoin)_[C01_10jp].gam" size="370" crc="d35f68f5" sha1="69945a94b4aa0ce418c58adf1b82770f90ed6f60"/>
+		<rom name="Secret_Castle_(Electrocoin)_[C01_10jp].jpg" size="33348" crc="8ff443a1" sha1="336eea4b10c733d4c15a5aea536dccecdddb9d4e"/>
+		<rom name="Secret_Castle_(Electrocoin)_[C01_10jp].ram" size="8192" crc="7647503d" sha1="90d632f1f113a1f437e48abf21265f14eff3e8f2"/>
+	</game>
+	<game name="Sphinx (Electrocoin)">
+		<rom name="sphinx v4_2__5_10-hacked.bin" size="65536" crc="a98f931c" sha1="23fb4ce5ed71b09babc011198b2294c0f8935c68"/>
+		<rom name="sphinx v4_2__5_10.bin" size="65536" crc="a98f931c" sha1="23fb4ce5ed71b09babc011198b2294c0f8935c68"/>
+		<rom name="sphinx10c.bin" size="57344" crc="e2bf11a0" sha1="f267385dbb06b2be8bcad7ae5e5804f5bb467f6d"/>
+		<rom name="sphinx4h.bin" size="65536" crc="3da7fd5d" sha1="3941c35c4183f87f4dc42f70c2a9b3035834077e"/>
+		<rom name="sphinx4p.bin" size="65536" crc="624fdbc8" sha1="18ef046acda949fdaff00961c9e878137747b1e6"/>
+		<rom name="sphinx5p.bin" size="65536" crc="b4b49259" sha1="a26172b659b739564b25dcc0f3f31f131a144d52"/>
+		<rom name="sphinx8c.bin" size="57344" crc="f8e110fc" sha1="4f55b5de87151f9127b84ffcf7f6f2e3ce34469f"/>
+		<rom name="Sphinx_(Electrocoin)_[Dx01_6jp].fml" size="3569880" crc="7ec8e742" sha1="65429a9535bedf44d5cc882b60b3044c6ebd08f0"/>
+		<rom name="Sphinx_(Electrocoin)_[Dx01_6jp].gam" size="290" crc="914671cd" sha1="5c71e4d35dc34e7a49a2fb5331d57bade07682f2"/>
+		<rom name="Sphinx_(Electrocoin)_[Dx01_6jp].jpg" size="35197" crc="c3d797af" sha1="d656e083e35a64b14c7b9505392159698a2c1d4b"/>
+		<rom name="Sphinx_(Electrocoin)_[Dx01_6jp].ram" size="8192" crc="36b0295f" sha1="a90c5aaaef4079cb7c14ea92dc75b993afed6446"/>
+		<rom name="Sphinx_(Electrocoin)_[Dx01_8jp].fml" size="2549969" crc="baeedf96" sha1="ab940f2d678ee033ae55a652324e684c05ca733a"/>
+		<rom name="Sphinx_(Electrocoin)_[Dx01_8jp].gam" size="314" crc="32520bc3" sha1="26cbf9188764b9ccf641c217491397ac595e9f01"/>
+		<rom name="Sphinx_(Electrocoin)_[Dx01_8jp].jpg" size="17634" crc="e799fdd0" sha1="ffc26fd8caf51f3c1b650913dd039a06c2583458"/>
+		<rom name="Sphinx_(Electrocoin)_[Dx01_8jp].ram" size="8192" crc="889703da" sha1="9358b603827d43c57ec711c57cc9096f05598d7e"/>
+	</game>
+	<game name="Super Bar X (Electrocoin)">
+		<rom name="4-80-barx.bin" size="32768" crc="2a992d0d" sha1="1f7dda66e25666973c023fb0d8af71d473197075"/>
+		<rom name="barx-snd.bin" size="8192" crc="b530d91f" sha1="f4e70e05d11e92a82f4bf8d78859b2a94fa5f22b"/>
+		<rom name="sbx_01.bin" size="32768" crc="71e42e5c" sha1="03a073f5764e0a816aa35617fef64b9a21b401fe"/>
+		<rom name="sbx_10.bin" size="32768" crc="9347535b" sha1="1bd517ec58f5e272139b8f120fee03fcfe4bfb66"/>
+		<rom name="sbx_11.bin" size="32768" crc="df85e20e" sha1="66dc2a844d8810b27b28dcd7d8cdf060bdb84e64"/>
+		<rom name="sbx_15.bin" size="32768" crc="80c2d523" sha1="1252bf66987aa9ac610c3e9f0919f29a6ad6cc52"/>
+		<rom name="sbx_61.bin" size="32768" crc="0b4adc73" sha1="02b43eb9c843d237a40bd0acc62a56fe39ad3a13"/>
+		<rom name="sbx_62.bin" size="32768" crc="dbf384eb" sha1="fcb82fc5ef92ce8cc419b879cb1943d87e9830e8"/>
+		<rom name="Super_Bar_X_(Electrocoin)_[Dx01_4-80jp].fml" size="2394487" crc="240c76f5" sha1="db7b124508de8a81525d70b4a1a9867486bfe519"/>
+		<rom name="Super_Bar_X_(Electrocoin)_[Dx01_4-80jp].gam" size="263" crc="af6930c2" sha1="aee0cd3d509782c6f9305b4b48e43776c6a0096b"/>
+		<rom name="Super_Bar_X_(Electrocoin)_[Dx01_4-80jp].jpg" size="28760" crc="e6f38985" sha1="c92d00812200ed2b87cea025efbba0ba9a91061b"/>
+		<rom name="Super_Bar_X_(Electrocoin)_[Dx01_4-80jp].ram" size="8192" crc="282cafa7" sha1="344e25ca8bc8d15a07c4f4611b328710d8f2da11"/>
+	</game>
+	<game name="Super Big 7 (Electrocoin)">
+		<rom name="big7 v1.2 3c.bin" size="16384" crc="5dde9e42" sha1="38933dc17441d52902515adb434e1391b81b7385"/>
+		<rom name="big7 v1.2 4c.bin" size="16384" crc="59d92041" sha1="aea90dbd2eb45e9de4a997a0e73e3cf447881e78"/>
+		<rom name="big7 v1.2 4t.bin" size="16384" crc="d522608f" sha1="b930a8a908df6f25e75b523a032a19c6de45e1b6"/>
+		<rom name="big7 v1.2 5c.bin" size="16384" crc="33f73eba" sha1="e652946957de7359088f4d71e86458e03ab51e9b"/>
+		<rom name="big7 v1.2_4c.bin" size="16384" crc="59d92041" sha1="aea90dbd2eb45e9de4a997a0e73e3cf447881e78"/>
+		<rom name="big7 v1.2_4t.bin" size="16384" crc="d522608f" sha1="b930a8a908df6f25e75b523a032a19c6de45e1b6"/>
+		<rom name="big7sound.bin" size="8192" crc="b530d91f" sha1="f4e70e05d11e92a82f4bf8d78859b2a94fa5f22b"/>
+		<rom name="iss197.rom" size="32768" crc="45d975c8" sha1="1ef7693fb000b85f661ebd06512f916297d0662c"/>
+		<rom name="sb7 5c 3025.bin" size="32768" crc="26c9382a" sha1="8c4fe06a8e5171e6f2c91b0aee14484aca386a9c"/>
+		<rom name="sb7-srb sound.bin" size="32768" crc="5e44f70a" sha1="4fb3aff6b3faf35773eb03166f8206527b04044a"/>
+		<rom name="sb7.58" size="32768" crc="0876d8bf" sha1="b15584c7c994d29010652cdf8d9c79b661e01b01"/>
+		<rom name="sb710d" size="32768" crc="9d9d14fe" sha1="acc4c92a800d0891ebace8a60d04df09b43bfb1c"/>
+		<rom name="sb73.8" size="131072" crc="01353cd1" sha1="5f603280096ce5ad3f7bbe5548deb2452a7168e7"/>
+		<rom name="sb73.9" size="131072" crc="f253f61d" sha1="28bd8628681fef865e984b9284a5e445b3b0cce7"/>
+		<rom name="sb78ac" size="32768" crc="1eee47a4" sha1="ebf5a535cddc50299ed07a2c424b4a46f5cf2b27"/>
+		<rom name="sbig.710" size="32768" crc="1220cea2" sha1="97a8f6d1221acc1a6c3f84dd8e14693a40bd8de7"/>
+		<rom name="sbig78d" size="32768" crc="bd5af5f2" sha1="d1efaf21aad9869f593a9cb3732a7d120f2ff55b"/>
+		<rom name="sbig78t" size="32768" crc="598b2bc3" sha1="e9bc7dac5328e1973e56a4d8f3929d9cb7c606f1"/>
+		<rom name="Super_Big_7_(Electrocoin)_[C01_3jp].fml" size="1743934" crc="d19c7640" sha1="0c4c58b895c5fafc236a7b79f954c6e7a913f6bd"/>
+		<rom name="Super_Big_7_(Electrocoin)_[C01_3jp].gam" size="280" crc="b1803a25" sha1="27d32fd7db882b944d6adf1cecc3c09f5bb8a64f"/>
+		<rom name="Super_Big_7_(Electrocoin)_[C01_3jp].jpg" size="35577" crc="d44677d2" sha1="5b7a3ac401c83c148324f6b9c85061a88711be40"/>
+		<rom name="Super_Big_7_(Electrocoin)_[C01_3jp].ram" size="8192" crc="3f023abc" sha1="6c1d9bfdd12826a86701a759fd13bfb8b16fbe89"/>
+		<rom name="Super_Big_7_(Electrocoin)_[C01_4jp].fml" size="1743911" crc="09947fc3" sha1="a9cf967cb4452cba729740355391b734e40277d4"/>
+		<rom name="Super_Big_7_(Electrocoin)_[C01_4jp].gam" size="280" crc="19a3b686" sha1="e9c855dafe354beac221098d885dad3593b816f8"/>
+		<rom name="Super_Big_7_(Electrocoin)_[C01_4jp].jpg" size="35628" crc="9c322ead" sha1="69d784968b522b493a6edfc0e964d0c477f94eaa"/>
+		<rom name="Super_Big_7_(Electrocoin)_[C01_4jp].ram" size="8192" crc="1bad3ad0" sha1="ee74eb89a0e6cc6ab3008624b6c8e0c38f658274"/>
+		<rom name="Super_Big_7_(Electrocoin)_[C01_5jp].fml" size="1743912" crc="2438e0ce" sha1="eaef49eb952f6c23306cbada32a208b262673097"/>
+		<rom name="Super_Big_7_(Electrocoin)_[C01_5jp].gam" size="280" crc="ab8e5b3d" sha1="45db9164bafcd54ebbb29aa424df4c3a773cfc9c"/>
+		<rom name="Super_Big_7_(Electrocoin)_[C01_5jp].jpg" size="35612" crc="c02633a0" sha1="68616d6725c67143b257b90a2552b1c924274744"/>
+		<rom name="Super_Big_7_(Electrocoin)_[C01_5jp].ram" size="8192" crc="575cb159" sha1="11617c77a4ce9d6dd910b305cc2a5ffde6abb46b"/>
+		<rom name="Super_Big_7_(Electrocoin)_[C01_Alt_4jp].fml" size="1743914" crc="a8848a76" sha1="7d83406adbd4d4851cbbfdd4642b36ebe9ff601a"/>
+		<rom name="Super_Big_7_(Electrocoin)_[C01_Alt_4jp].gam" size="285" crc="492a432c" sha1="8278405b5442f97887b653aa4fd99c9c19425aae"/>
+		<rom name="Super_Big_7_(Electrocoin)_[C01_Alt_4jp].jpg" size="36408" crc="e1a1a14d" sha1="1f0209906f827e80dfe9cb9a69de70eebc4af64f"/>
+		<rom name="Super_Big_7_(Electrocoin)_[C01_Alt_4jp].ram" size="8192" crc="24a85e29" sha1="cd7ef98ce96803033aea1e6b9f628026409eafdd"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx01_4jp].fml" size="5371013" crc="288f6c2a" sha1="41b579b9111c638f26d0634b3278872ddf8171f4"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx01_4jp].gam" size="295" crc="6f8568df" sha1="9f6c45d029c2313bd8df3a6909d467f40629c20a"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx01_4jp].jpg" size="31328" crc="b1e47641" sha1="3b93aef7905b840e976293875c8f484fbdc3d84e"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx01_4jp].ram" size="8192" crc="749d873d" sha1="af5b6d1fdc2c344827f0640c0a3e0f2cb0222241"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx01_Alt_4jp].fml" size="5371017" crc="43909fd4" sha1="51ccd72aaeba2aaa3f9d5c71b36ea685846c7c82"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx01_Alt_4jp].gam" size="301" crc="1c2c80d0" sha1="ff8e35087cf6faf80f68629d3fd0237f5b1d62c5"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx01_Alt_4jp].jpg" size="31561" crc="36858b77" sha1="7fa7bde4525b8b9871061f7b8f1d68a6553e1f29"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx01_Alt_4jp].ram" size="8192" crc="08a81019" sha1="6c9b6772d7dc13480561fceaa0e55d35c13d9856"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx02_4jp] [blacklisted].gam" size="334" crc="05597b63" sha1="49cb133474e936dc751d66fb17860b741d4b487b"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx02_4jp] [blacklisted].ram" size="8192" crc="2eb76283" sha1="499ba37d8e0d4e8d98c9b1dbc0e4d171bcadff03"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx02_4jp].fml" size="5380886" crc="d8fd8460" sha1="2be5251134451dd736b23bb69e482ed3f84ee163"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx02_4jp].jpg" size="30207" crc="1afb1e4d" sha1="7cdc0068439733fb18924ea9862042be4b7011d5"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx02_Alt_4jp] [blacklisted].gam" size="295" crc="5e391f2e" sha1="f4dc7938dfeb02444d4575d180724eb3e78ee9a5"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx02_Alt_4jp] [blacklisted].ram" size="8192" crc="4bdcd5b0" sha1="e764b86bcb46e2eb85172d60e9ed054e546abf96"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx02_Alt_4jp].fml" size="5388367" crc="24c64c86" sha1="48cb3f00d792fdc49028529de0a933df3304f606"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx02_Alt_4jp].jpg" size="30572" crc="9dceab6d" sha1="84e7d7e074b1df7766260c9243ab0f605c848f90"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx03_4jp] [blacklisted].gam" size="290" crc="f2752ae6" sha1="115176ba9c37fe65122eb151b4c52347ea160ff5"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx03_4jp] [blacklisted].ram" size="8192" crc="976a5da0" sha1="2342bfba1e7bfdd17d3311fb46cac6c1be155c87"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx03_4jp].fml" size="4414720" crc="75896b0f" sha1="7eb5947ecb62dcdee6f7166566f22b11a4901fd2"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx03_4jp].jpg" size="26015" crc="5c292c26" sha1="66ed0dd11c5b6a6c69d0b33ff88ac38fab08bc58"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx03_Alt_4jp] [blacklisted].gam" size="295" crc="86e06a23" sha1="fdaf199712a4d38fe7e20dbc092ee1da54d6b6cf"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx03_Alt_4jp] [blacklisted].ram" size="8192" crc="9a65b1f8" sha1="56fa0d1b5219f56757bb73be2323ad4885d4efd4"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx03_Alt_4jp].fml" size="4424657" crc="1a4fe243" sha1="687d625edec6c2fd9a096558cfa92a03e834628c"/>
+		<rom name="Super_Big_7_(Electrocoin)_[Dx03_Alt_4jp].jpg" size="26771" crc="3e35a055" sha1="a1f82d53b0312486741f408c3ff761d6dc066d68"/>
+	</game>
+	<game name="Super Red Bar (Electrocoin)">
+		<rom name="c4waf442050.bin" size="32768" crc="935540f7" sha1="7a43219a1d577f64e523d810529574bbf8df37bb"/>
+		<rom name="c4wms442025p.bin" size="32768" crc="d91207c5" sha1="78205ec726364f3a1d35f9d79152be08a6cdc028"/>
+		<rom name="conceptsound.bin" size="4088" crc="a717e790" sha1="3079d0c2aa5bb160b871cc3ba8113b88c83d46f9"/>
+		<rom name="iss3037.rom" size="32768" crc="b1984539" sha1="b8ff3690e47d10ef2d15ccc9198715a83d75a428"/>
+		<rom name="iss3038.rom" size="32768" crc="890109fe" sha1="69c47284497ad3488cff8f36b1ec615bf043fc5f"/>
+		<rom name="iss3039.rom" size="32768" crc="25179e39" sha1="6dd59e5eb3bb769d0018ae2691422108260a2c87"/>
+		<rom name="iss3041.rom" size="32768" crc="eefe3086" sha1="971e71026b8d519fa424180ecf029b6ba9abf5c2"/>
+		<rom name="iss3042.rom" size="32768" crc="e5f69b11" sha1="8de839b74dd3eea85b956ae0cb1d535926ce9489"/>
+		<rom name="iss3043.rom" size="32768" crc="276fa423" sha1="a69962ad6fa38d45b36da6bcff95f69f7175fff0"/>
+		<rom name="iss3044.rom" size="32768" crc="9ce127a6" sha1="2f223b37d0c6aca27b001c0ec81e413ff04dca86"/>
+		<rom name="iss3045.rom" size="32768" crc="a79742a3" sha1="42950e9e61bdf134753cd3fdc6e65446586530fd"/>
+		<rom name="iss3047.rom" size="32768" crc="6f9defbe" sha1="52c9791225373f109f63d5476a5b19aaeceb5058"/>
+		<rom name="iss3048.rom" size="32768" crc="f26fcfe5" sha1="0176366fb46d897a5e106611da885065655df576"/>
+		<rom name="iss3256.rom" size="32768" crc="e9909913" sha1="b53466238b8e39a45cdbc09dd18e19aab9044027"/>
+		<rom name="iss3257.rom" size="32768" crc="27837c49" sha1="4408a2066ae427b6f66b2d2be3928d85213c3dcf"/>
+		<rom name="iss3258.rom" size="32768" crc="5a8214b9" sha1="40cf50468157020ffd52f69308210cb93d94e6ab"/>
+		<rom name="iss3259.rom" size="32768" crc="170a2827" sha1="2d5f9991468e999c3874f04ef0396abc18c5de1d"/>
+		<rom name="iss3260.rom" size="32768" crc="5f27fa81" sha1="27d4463211f824abfb3a09270b38ddb68da75691"/>
+		<rom name="iss3261.rom" size="32768" crc="38dbbb65" sha1="184dc9257db5cbf255fc997547be72c27ad9179b"/>
+		<rom name="iss3262.rom" size="32768" crc="a51a240a" sha1="fce1a96b15726bd08acd487c61776f7f805880c6"/>
+		<rom name="iss3263.rom" size="32768" crc="e672b24d" sha1="f33b750b2ede7d107684cea05903266ae98d8203"/>
+		<rom name="iss3264.rom" size="32768" crc="a6c6efb7" sha1="9ea95ee91745008edd1bed3c83e40325d92d6fb0"/>
+		<rom name="iss3265.rom" size="32768" crc="10948d89" sha1="bb503c895777dee197ad8fba49c3b52a5380a06e"/>
+		<rom name="iss3266.rom" size="32768" crc="8228a9bf" sha1="42f44bc7708703905f55143107395c7c10d4e150"/>
+		<rom name="iss3267.rom" size="32768" crc="5398a151" sha1="e1d37141707c703b5f6c13fd839bfd3c2da632a3"/>
+		<rom name="rbar5v08.hex" size="65536" crc="2d772256" sha1="95da82a1024bc33e08d3834a8987ff8995c1aa31"/>
+		<rom name="srb15_iss3040.bin" size="32768" crc="530c52a8" sha1="65cc627baadd6385c314a4477475c69c1b213a5d"/>
+		<rom name="srb58.bin" size="32768" crc="b2855bc7" sha1="c9bc47250077050fb689fc552abc0f60c2acb8ea"/>
+		<rom name="srb_10cash_ver153.bin" size="32768" crc="96f966f9" sha1="82a87f8eb4914ed7fcc90751b119f72dda29532e"/>
+		<rom name="Super_Red_Bar_(Concept roms)_(Electrocoin)_[Dx01_25jp].fml" size="8192613" crc="01ed3fcb" sha1="393b672bd1eb0f20a6b06479351fbbe18cfcbbd6"/>
+		<rom name="Super_Red_Bar_(Concept roms)_(Electrocoin)_[Dx01_25jp].gam" size="341" crc="16e7302b" sha1="e1ed0530cff9e1e903e2df1b135ba77647c25be7"/>
+		<rom name="Super_Red_Bar_(Concept roms)_(Electrocoin)_[Dx01_25jp].jpg" size="246118" crc="f06ed698" sha1="9ba654f6642ee7898ee15f41e1daed3b27c5c833"/>
+		<rom name="Super_Red_Bar_(Concept roms)_(Electrocoin)_[Dx01_25jp].ram" size="8192" crc="146dbbbf" sha1="0d0adc049122e31dc80029572f97c0419d46d7f4"/>
+		<rom name="Super_Red_Bar_(Concept roms)_(Electrocoin)_[Dx01_25jp].txt" size="865" crc="da6e6705" sha1="c3be2ae26dd6c8d807573cd68cd7e878e7f86a31"/>
+		<rom name="Super_Red_Bar_(Electrocoin)_[Dx02_70jp].fml" size="2255180" crc="eebb342a" sha1="ca0cc3d7a6f2a978589b14d33dfb4b8b40f39ee6"/>
+		<rom name="Super_Red_Bar_(Electrocoin)_[Dx02_70jp].gam" size="311" crc="0abd39fe" sha1="5637ab5c54243f5f1f72ab8ab93b90ffb4632921"/>
+		<rom name="Super_Red_Bar_(Electrocoin)_[Dx02_70jp].jpg" size="179698" crc="0c6ed6e9" sha1="c47301225f50b08d322debbd383ef98269500b50"/>
+		<rom name="Super_Red_Bar_(Electrocoin)_[Dx02_70jp].ram" size="8192" crc="119e7cba" sha1="d845d5888c35bf9cd2004e20a599593c9341368b"/>
+		<rom name="Super_Red_Bar_(Electrocoin)_[Dx02_70jp].txt" size="924" crc="e904d23a" sha1="c20a6f9bd86544938aa262a43b07a6f0396b2169"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx01_15jp].fml" size="8048361" crc="27776347" sha1="5d4274ad59fe88b14180feb6c9d0c250f6465cbb"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx01_15jp].gam" size="330" crc="3929e260" sha1="a9f7ade79bef38a7777a4c9067a18963abc63c3f"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx01_15jp].jpg" size="219547" crc="3366a2bb" sha1="491fbc66bb52259da337e85cdefce041d92444b0"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx01_15jp].ram" size="8192" crc="9c24d104" sha1="0ca259fa598e4ae1d862e776f3f68b7c4b9f8086"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx01_15jp].txt" size="1315" crc="bbb56822" sha1="0dc9d2b57f53986f53e3489fea6ef40a9d0880b8"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx02_1jp].fml" size="8011892" crc="9d779b37" sha1="d695b5d797ddbff55d495599507a9559841e1baa"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx02_1jp].gam" size="373" crc="d23e4083" sha1="fd57409bec7a552c98a4b3707deb0545b9e04a95"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx02_1jp].jpg" size="444367" crc="a92648b9" sha1="badd1d3fd7f0a597fd99a87d40f31a431706abd7"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx02_1jp].ram" size="8192" crc="a0f27e5f" sha1="d597c42809ca11428e1b174fec00889bb4f12419"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx02_1jp].txt" size="463" crc="a78dcaf4" sha1="bb9511d5f2e072c729fd00ea51aec4741d37fb3d"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx02_2jp].fml" size="7990870" crc="cea067a8" sha1="a30607313fa3f707f73e7398c8fb0bda17ce202c"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx02_2jp].gam" size="284" crc="7bdc3484" sha1="f39cb994ed9785a1328ade0cd79bbe32f266223c"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx02_2jp].jpg" size="444367" crc="a92648b9" sha1="badd1d3fd7f0a597fd99a87d40f31a431706abd7"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx02_2jp].ram" size="8192" crc="6b37bd1f" sha1="917576cb1334dc3c2cbe10feec1e25a0fd32d9e9"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx02_2jp].txt" size="463" crc="a78dcaf4" sha1="bb9511d5f2e072c729fd00ea51aec4741d37fb3d"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx02_5jp].fml" size="8051871" crc="758b0d47" sha1="7c298346529624b7834885a03a5ed10b0ddbbf4e"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx02_5jp].gam" size="327" crc="9c450fe2" sha1="f135601682e3db6fbf00512ca5b07f7b84356f09"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx02_5jp].jpg" size="219160" crc="92b6360e" sha1="cc95bede5de0482bb43a8fcede3bc59ec690ba20"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx02_5jp].ram" size="8192" crc="8a696ad1" sha1="2b0d731ba079c16b8f267802288163a8791f2748"/>
+		<rom name="Super_Red_Bar_(MAB_Kit)_(Electrocoin)_[Dx02_5jp].txt" size="307" crc="d34db16b" sha1="1db6374763565eec36376177b4d4d90ce7ca6283"/>
+	</game>
+</datafile>

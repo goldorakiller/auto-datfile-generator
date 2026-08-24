@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Extras - Emulators - BFMulator - BFMulator 2.07 (Re-Animator)</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="BFMulator207">
+		<rom name="BFMulator.exe" size="1212416" crc="6e38eae1" sha1="2cb794c4f3d92444d46acb9815cee420f6d3b4d9"/>
+		<rom name="FreeImage.dll" size="737280" crc="69340bf1" sha1="8dbdbb92e3d4f5f8f29e2b2618eb71c15e8ba01d"/>
+		<rom name="history.txt" size="9133" crc="d47504a7" sha1="13c3bfce42179e8d2c418d5a87836f627f0218f5"/>
+	</game>
+</datafile>

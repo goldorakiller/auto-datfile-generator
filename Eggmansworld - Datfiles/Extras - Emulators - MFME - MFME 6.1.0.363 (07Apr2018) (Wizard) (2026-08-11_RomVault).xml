@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Extras - Emulators - MFME - MFME 6.1.0.363 (07Apr2018) (Wizard)</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="directx_installer_Jun2010_redist">
+		<rom name="directx_installer_Jun2010_redist.exe" size="100275120" crc="7bbcf06f" sha1="7e5d2e5e1a13fbc47f990cc55cbdb428cd12f759"/>
+	</game>
+	<game name="MFME 6.1.0.363-Win7">
+		<rom name="DefaultMasks/ReelGradientMask.bmp" size="522214" crc="094ecf8e" sha1="16e3c6698a10547c228b8ab474b817ff1d64c216"/>
+		<rom name="DefaultMasks/ReelLampMask.bmp" size="108734" crc="752ae60e" sha1="e3df9d90adb0d44c43cb70b4fd3887c7ddbef1cf"/>
+		<rom name="DefaultMasks/Thumbs.db" size="7680" crc="c292907f" sha1="95ba45a2a6251a351820088f365780a7f0da1e4b"/>
+		<rom name="DefaultSounds/10pSlide.wav" size="60834" crc="96c57522" sha1="f92d854f017d154c9ae0a2351629876515ba48d7"/>
+		<rom name="DefaultSounds/20pSlide.wav" size="60834" crc="96c57522" sha1="f92d854f017d154c9ae0a2351629876515ba48d7"/>
+		<rom name="DefaultSounds/50pSlide.wav" size="60834" crc="96c57522" sha1="f92d854f017d154c9ae0a2351629876515ba48d7"/>
+		<rom name="DefaultSounds/ADDER5/Eclipse/HopperCoin1.wav" size="190346" crc="6a1a0e1d" sha1="6f7c1ade28cbd061f7179eb4c147f70d6cd89445"/>
+		<rom name="DefaultSounds/ADDER5/Eclipse/HopperMotor1.wav" size="17990" crc="c27e6ad8" sha1="cd29b43f4acd4dd2e40a49c907ea785018af3376"/>
+		<rom name="DefaultSounds/BellOff.wav" size="13702" crc="c2a0ace7" sha1="f26a91c46089635aa214f152330b75892bdebb18"/>
+		<rom name="DefaultSounds/BellOn.wav" size="97512" crc="d9088cd0" sha1="a4af119db1fdf63cf410ef27db13f5c022761823"/>
+		<rom name="DefaultSounds/ButtonDown.wav" size="3264" crc="c4f21ed3" sha1="cdb40079f4c0ce29793dd2a16fb53bec421ba1fd"/>
+		<rom name="DefaultSounds/ButtonUp.wav" size="2638" crc="d893a1f9" sha1="ae019c3258f01fdc847a4902bf550432c67aeb48"/>
+		<rom name="DefaultSounds/Buzzer.wav" size="9082" crc="fdf63f49" sha1="4a65cd52f4ba634c3fa419ce7707337cc9da7dcc"/>
+		<rom name="DefaultSounds/CoinDropReject.wav" size="12018" crc="719c31a5" sha1="3f356d3508ac2d2cd2c8293d8e40034f78b92646"/>
+		<rom name="DefaultSounds/CoinIn.wav" size="60816" crc="266594be" sha1="224464d31a8bd2fe2b1b53a59660c6f03cb9c2a5"/>
+		<rom name="DefaultSounds/CoinInDrop.wav" size="21286" crc="4b9bef49" sha1="ffde5b0a714785c772c8062d56ebae304f9c4ac3"/>
+		<rom name="DefaultSounds/CoinInRejected.wav" size="88144" crc="35c2d964" sha1="37f8acd9778cbc81f11c08f129f3f726cc9964f4"/>
+		<rom name="DefaultSounds/CoinInS10.wav" size="60816" crc="266594be" sha1="224464d31a8bd2fe2b1b53a59660c6f03cb9c2a5"/>
+		<rom name="DefaultSounds/CoinInS10Token.wav" size="60816" crc="266594be" sha1="224464d31a8bd2fe2b1b53a59660c6f03cb9c2a5"/>
+		<rom name="DefaultSounds/CoinInSwitch.wav" size="33008" crc="f892026e" sha1="0646e2157ea1d6996909b26e560b5193eff8da32"/>
+		<rom name="DefaultSounds/HopperCoin1.wav" size="25936" crc="5e6a8196" sha1="2b6785096da1b9139140a9286e56e208be5d9c28"/>
+		<rom name="DefaultSounds/HopperCoin2.wav" size="24290" crc="389f4552" sha1="20d2187d4ae844dd8726eb6f723b5118c4c46738"/>
+		<rom name="DefaultSounds/HopperMotor1.wav" size="86884" crc="2b181654" sha1="d826ef5ce08a1cf8ca69523416fdfd6829ac985e"/>
+		<rom name="DefaultSounds/HopperMotor2.wav" size="86884" crc="2b181654" sha1="d826ef5ce08a1cf8ca69523416fdfd6829ac985e"/>
+		<rom name="DefaultSounds/LockoutOff.wav" size="9204" crc="91662bf3" sha1="97bb2ddd2186b410dc7848ebdc4a6748c0b2c9cc"/>
+		<rom name="DefaultSounds/LockoutOn.wav" size="11994" crc="1aeb8e51" sha1="dddd90b8fb4091420a4b98b97d869d561ae922f2"/>
+		<rom name="DefaultSounds/meter.wav" size="9260" crc="825ed27e" sha1="d4c70ecc12d3be10d5a07784b6d07e9e3880e39a"/>
+		<rom name="DefaultSounds/MiscSlide.wav" size="63898" crc="067ab1da" sha1="4dee3153c5a4cdf9d286387232fa89fbf381fa28"/>
+		<rom name="DefaultSounds/MiscSounds/20p_new.wav" size="105978" crc="8bf79af3" sha1="b1febe30b83e171dd609c5011d70b46078e5bc78"/>
+		<rom name="DefaultSounds/MiscSounds/HopperCoin2.wav" size="111428" crc="3a7cd6d6" sha1="8d29bfd99fe91cc261e1d8e9022c1bba3a2fa2bf"/>
+		<rom name="DefaultSounds/MiscSounds/Payout.wav" size="74276" crc="6d0b08dc" sha1="4b10090044e137c5bf065bc545385b47c1387949"/>
+		<rom name="DefaultSounds/MiscSounds/Payout2.wav" size="84928" crc="f99f80b7" sha1="6c6b6b32e86452ed6b3297020ac7002cea322c3a"/>
+		<rom name="DefaultSounds/MiscSounds/Payout3.wav" size="105978" crc="f9f3bf78" sha1="ddc9b2ee549cc8764cacecacf6c25f3da161c0cb"/>
+		<rom name="DefaultSounds/MiscSounds/Token_new.wav" size="81920" crc="2ef946a4" sha1="faf257e63810f84e71f8e0fd73a9067a5b84d12e"/>
+		<rom name="DefaultSounds/MiscSounds/£1_new.wav" size="74276" crc="8fb1ca9c" sha1="983b1e439f1251680d6546be4bd6101b365065d2"/>
+		<rom name="DefaultSounds/MotorOn.wav" size="481324" crc="73b8c20e" sha1="d1bdf707afe393153e48301694e573d44a2ce5c1"/>
+		<rom name="DefaultSounds/MPU4/Genesis/HopperCoin1.wav" size="190346" crc="6a1a0e1d" sha1="6f7c1ade28cbd061f7179eb4c147f70d6cd89445"/>
+		<rom name="DefaultSounds/MPU4/Genesis/HopperMotor1.wav" size="17990" crc="c27e6ad8" sha1="cd29b43f4acd4dd2e40a49c907ea785018af3376"/>
+		<rom name="DefaultSounds/MPU5/Genesis/HopperCoin1.wav" size="190346" crc="6a1a0e1d" sha1="6f7c1ade28cbd061f7179eb4c147f70d6cd89445"/>
+		<rom name="DefaultSounds/MPU5/Genesis/HopperMotor1.wav" size="17990" crc="c27e6ad8" sha1="cd29b43f4acd4dd2e40a49c907ea785018af3376"/>
+		<rom name="DefaultSounds/NoteIn.wav" size="156204" crc="7b842236" sha1="19d18a2b547885a4f01a2c47f611ed36236d83f0"/>
+		<rom name="DefaultSounds/NoteInReject.wav" size="96688" crc="a69a599f" sha1="703d6187f35a1b1c044534c0a826d91afd1dd4e1"/>
+		<rom name="DefaultSounds/NoteInStack.wav" size="254880" crc="615eda1d" sha1="abe07a5cf9eaea9e190374af381d8d1d97d122cd"/>
+		<rom name="DefaultSounds/PoundSlide.wav" size="60834" crc="96c57522" sha1="f92d854f017d154c9ae0a2351629876515ba48d7"/>
+		<rom name="DefaultSounds/PROCONN/ButtonDown.wav" size="13992" crc="ab9e2406" sha1="fc8db5a1e0b759a5a7df38809bf12af80d913eed"/>
+		<rom name="DefaultSounds/PROCONN/ButtonUp.wav" size="29848" crc="5d4cf304" sha1="df6293c73750e34c7ba51e5163e49c9599317551"/>
+		<rom name="DefaultSounds/Readme.txt" size="3118" crc="2cd0dc4b" sha1="4d61868c975b4adbcdad8beaa644d3c62a09184a"/>
+		<rom name="DefaultSounds/S1Locked.wav" size="7596" crc="3ef4b3b8" sha1="9384d9503e201c417fb6907b30935511b4875476"/>
+		<rom name="DefaultSounds/SCORPION4/Eclipse/HopperCoin1.wav" size="190346" crc="6a1a0e1d" sha1="6f7c1ade28cbd061f7179eb4c147f70d6cd89445"/>
+		<rom name="DefaultSounds/SCORPION4/Eclipse/HopperMotor1.wav" size="17990" crc="c27e6ad8" sha1="cd29b43f4acd4dd2e40a49c907ea785018af3376"/>
+		<rom name="DefaultSounds/SCORPION5/Eclipse/HopperCoin1.wav" size="190346" crc="6a1a0e1d" sha1="6f7c1ade28cbd061f7179eb4c147f70d6cd89445"/>
+		<rom name="DefaultSounds/SCORPION5/Eclipse/HopperMotor1.wav" size="17990" crc="c27e6ad8" sha1="cd29b43f4acd4dd2e40a49c907ea785018af3376"/>
+		<rom name="DefaultSounds/SolenoidOff.wav" size="17766" crc="ff3171a1" sha1="cc9840193bc6e21337dcbdcdeb52ad57090a4db6"/>
+		<rom name="DefaultSounds/SolenoidOn.wav" size="5450" crc="2c0c13d8" sha1="d7e478cede532a4468e3158a3e974d4209437cfd"/>
+		<rom name="DefaultSounds/stepper.wav" size="41484" crc="44305994" sha1="1bf2b6138b3480c90bd0436dd6fb75cd6638fbd1"/>
+		<rom name="DefaultSounds/TokenSlide.wav" size="84928" crc="9dad2fb2" sha1="cd6d260ae5083ec6d4b9f5dc51253e275d6defff"/>
+		<rom name="DefaultSounds/Wiper.wav" size="117804" crc="99ac538b" sha1="a5f677b33e306810b76dbe83464e71d21d8e8fee"/>
+		<rom name="MFME 6.1.0.363 (07Apr2018) (Wizard).txt" size="643" crc="cc5661d6" sha1="517b61e9df858589338a00932e2ef9463a087037"/>
+		<rom name="MFME.exe" size="1786368" crc="bc5a3c6c" sha1="74657f752393288f361b001133978f7a49227183"/>
+		<rom name="PacDrive.dll" size="69120" crc="3d18803e" sha1="2466f05e9e02a4caf08481589e31bba721d736a8"/>
+		<rom name="tips.txt" size="2441" crc="b70b1239" sha1="528a333af31f794cadebf5a99088665b9deea07c"/>
+	</game>
+	<game name="MFME 6.1.0.363-WinXP">
+		<rom name="DefaultMasks/ReelGradientMask.bmp" size="522214" crc="094ecf8e" sha1="16e3c6698a10547c228b8ab474b817ff1d64c216"/>
+		<rom name="DefaultMasks/ReelLampMask.bmp" size="108734" crc="752ae60e" sha1="e3df9d90adb0d44c43cb70b4fd3887c7ddbef1cf"/>
+		<rom name="DefaultMasks/Thumbs.db" size="7680" crc="c7f0640e" sha1="c09a7c8f9f8bef14dcfa0d8343272a516b014b08"/>
+		<rom name="DefaultSounds/10pSlide.wav" size="60834" crc="96c57522" sha1="f92d854f017d154c9ae0a2351629876515ba48d7"/>
+		<rom name="DefaultSounds/20pSlide.wav" size="60834" crc="96c57522" sha1="f92d854f017d154c9ae0a2351629876515ba48d7"/>
+		<rom name="DefaultSounds/50pSlide.wav" size="60834" crc="96c57522" sha1="f92d854f017d154c9ae0a2351629876515ba48d7"/>
+		<rom name="DefaultSounds/ACEVIDEO/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/ADDER5/Eclipse/HopperCoin1.wav" size="190346" crc="6a1a0e1d" sha1="6f7c1ade28cbd061f7179eb4c147f70d6cd89445"/>
+		<rom name="DefaultSounds/ADDER5/Eclipse/HopperMotor1.wav" size="17990" crc="c27e6ad8" sha1="cd29b43f4acd4dd2e40a49c907ea785018af3376"/>
+		<rom name="DefaultSounds/ASTRASYSA1/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/BellOff.wav" size="13702" crc="c2a0ace7" sha1="f26a91c46089635aa214f152330b75892bdebb18"/>
+		<rom name="DefaultSounds/BellOn.wav" size="97512" crc="d9088cd0" sha1="a4af119db1fdf63cf410ef27db13f5c022761823"/>
+		<rom name="DefaultSounds/BLACKBOX/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/ButtonDown.wav" size="3264" crc="c4f21ed3" sha1="cdb40079f4c0ce29793dd2a16fb53bec421ba1fd"/>
+		<rom name="DefaultSounds/ButtonUp.wav" size="2638" crc="d893a1f9" sha1="ae019c3258f01fdc847a4902bf550432c67aeb48"/>
+		<rom name="DefaultSounds/Buzzer.wav" size="9082" crc="fdf63f49" sha1="4a65cd52f4ba634c3fa419ce7707337cc9da7dcc"/>
+		<rom name="DefaultSounds/CoinDropReject.wav" size="12018" crc="719c31a5" sha1="3f356d3508ac2d2cd2c8293d8e40034f78b92646"/>
+		<rom name="DefaultSounds/CoinIn.wav" size="60816" crc="266594be" sha1="224464d31a8bd2fe2b1b53a59660c6f03cb9c2a5"/>
+		<rom name="DefaultSounds/CoinInDrop.wav" size="21286" crc="4b9bef49" sha1="ffde5b0a714785c772c8062d56ebae304f9c4ac3"/>
+		<rom name="DefaultSounds/CoinInRejected.wav" size="88144" crc="35c2d964" sha1="37f8acd9778cbc81f11c08f129f3f726cc9964f4"/>
+		<rom name="DefaultSounds/CoinInS10.wav" size="60816" crc="266594be" sha1="224464d31a8bd2fe2b1b53a59660c6f03cb9c2a5"/>
+		<rom name="DefaultSounds/CoinInS10Token.wav" size="60816" crc="266594be" sha1="224464d31a8bd2fe2b1b53a59660c6f03cb9c2a5"/>
+		<rom name="DefaultSounds/CoinInSwitch.wav" size="33008" crc="f892026e" sha1="0646e2157ea1d6996909b26e560b5193eff8da32"/>
+		<rom name="DefaultSounds/ELECTROCOIN/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/EPOCH/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/HopperCoin1.wav" size="25936" crc="5e6a8196" sha1="2b6785096da1b9139140a9286e56e208be5d9c28"/>
+		<rom name="DefaultSounds/HopperCoin2.wav" size="24290" crc="389f4552" sha1="20d2187d4ae844dd8726eb6f723b5118c4c46738"/>
+		<rom name="DefaultSounds/HopperMotor1.wav" size="86884" crc="2b181654" sha1="d826ef5ce08a1cf8ca69523416fdfd6829ac985e"/>
+		<rom name="DefaultSounds/HopperMotor2.wav" size="86884" crc="2b181654" sha1="d826ef5ce08a1cf8ca69523416fdfd6829ac985e"/>
+		<rom name="DefaultSounds/IGTS+/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/IGTS2000/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/IMPACT/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/INDER/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/LockoutOff.wav" size="9204" crc="91662bf3" sha1="97bb2ddd2186b410dc7848ebdc4a6748c0b2c9cc"/>
+		<rom name="DefaultSounds/LockoutOn.wav" size="11994" crc="1aeb8e51" sha1="dddd90b8fb4091420a4b98b97d869d561ae922f2"/>
+		<rom name="DefaultSounds/M1AB/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/M1VIDEO/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/MACH2000A/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/MACH2000E/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/MACH2000S/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/meter.wav" size="9260" crc="825ed27e" sha1="d4c70ecc12d3be10d5a07784b6d07e9e3880e39a"/>
+		<rom name="DefaultSounds/MiscSlide.wav" size="63898" crc="067ab1da" sha1="4dee3153c5a4cdf9d286387232fa89fbf381fa28"/>
+		<rom name="DefaultSounds/MiscSounds/20p_new.wav" size="105978" crc="8bf79af3" sha1="b1febe30b83e171dd609c5011d70b46078e5bc78"/>
+		<rom name="DefaultSounds/MiscSounds/HopperCoin2.wav" size="111428" crc="3a7cd6d6" sha1="8d29bfd99fe91cc261e1d8e9022c1bba3a2fa2bf"/>
+		<rom name="DefaultSounds/MiscSounds/Payout.wav" size="74276" crc="6d0b08dc" sha1="4b10090044e137c5bf065bc545385b47c1387949"/>
+		<rom name="DefaultSounds/MiscSounds/Payout2.wav" size="84928" crc="f99f80b7" sha1="6c6b6b32e86452ed6b3297020ac7002cea322c3a"/>
+		<rom name="DefaultSounds/MiscSounds/Payout3.wav" size="105978" crc="f9f3bf78" sha1="ddc9b2ee549cc8764cacecacf6c25f3da161c0cb"/>
+		<rom name="DefaultSounds/MiscSounds/Token_new.wav" size="81920" crc="2ef946a4" sha1="faf257e63810f84e71f8e0fd73a9067a5b84d12e"/>
+		<rom name="DefaultSounds/MiscSounds/£1_new.wav" size="74276" crc="8fb1ca9c" sha1="983b1e439f1251680d6546be4bd6101b365065d2"/>
+		<rom name="DefaultSounds/MMM/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/MotorOn.wav" size="481324" crc="73b8c20e" sha1="d1bdf707afe393153e48301694e573d44a2ce5c1"/>
+		<rom name="DefaultSounds/MPS2/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/MPU2/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/MPU3/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/MPU4/Genesis/HopperCoin1.wav" size="190346" crc="6a1a0e1d" sha1="6f7c1ade28cbd061f7179eb4c147f70d6cd89445"/>
+		<rom name="DefaultSounds/MPU4/Genesis/HopperMotor1.wav" size="17990" crc="c27e6ad8" sha1="cd29b43f4acd4dd2e40a49c907ea785018af3376"/>
+		<rom name="DefaultSounds/MPU4PLASMA/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/MPU4VIDEO/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/MPU5/Genesis/HopperCoin1.wav" size="190346" crc="6a1a0e1d" sha1="6f7c1ade28cbd061f7179eb4c147f70d6cd89445"/>
+		<rom name="DefaultSounds/MPU5/Genesis/HopperMotor1.wav" size="17990" crc="c27e6ad8" sha1="cd29b43f4acd4dd2e40a49c907ea785018af3376"/>
+		<rom name="DefaultSounds/NoteIn.wav" size="156204" crc="7b842236" sha1="19d18a2b547885a4f01a2c47f611ed36236d83f0"/>
+		<rom name="DefaultSounds/NoteInReject.wav" size="96688" crc="a69a599f" sha1="703d6187f35a1b1c044534c0a826d91afd1dd4e1"/>
+		<rom name="DefaultSounds/NoteInStack.wav" size="254880" crc="615eda1d" sha1="abe07a5cf9eaea9e190374af381d8d1d97d122cd"/>
+		<rom name="DefaultSounds/PCLMAXI/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/PHOENIX/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/PLUTO5/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/PoundSlide.wav" size="60834" crc="96c57522" sha1="f92d854f017d154c9ae0a2351629876515ba48d7"/>
+		<rom name="DefaultSounds/PROCONN/ButtonDown.wav" size="13992" crc="ab9e2406" sha1="fc8db5a1e0b759a5a7df38809bf12af80d913eed"/>
+		<rom name="DefaultSounds/PROCONN/ButtonUp.wav" size="29848" crc="5d4cf304" sha1="df6293c73750e34c7ba51e5163e49c9599317551"/>
+		<rom name="DefaultSounds/Readme.txt" size="3118" crc="2cd0dc4b" sha1="4d61868c975b4adbcdad8beaa644d3c62a09184a"/>
+		<rom name="DefaultSounds/S1Locked.wav" size="7596" crc="3ef4b3b8" sha1="9384d9503e201c417fb6907b30935511b4875476"/>
+		<rom name="DefaultSounds/SCORPION1/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/SCORPION2/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/SCORPION4/Eclipse/HopperCoin1.wav" size="190346" crc="6a1a0e1d" sha1="6f7c1ade28cbd061f7179eb4c147f70d6cd89445"/>
+		<rom name="DefaultSounds/SCORPION4/Eclipse/HopperMotor1.wav" size="17990" crc="c27e6ad8" sha1="cd29b43f4acd4dd2e40a49c907ea785018af3376"/>
+		<rom name="DefaultSounds/SCORPION5/Eclipse/HopperCoin1.wav" size="190346" crc="6a1a0e1d" sha1="6f7c1ade28cbd061f7179eb4c147f70d6cd89445"/>
+		<rom name="DefaultSounds/SCORPION5/Eclipse/HopperMotor1.wav" size="17990" crc="c27e6ad8" sha1="cd29b43f4acd4dd2e40a49c907ea785018af3376"/>
+		<rom name="DefaultSounds/SolenoidOff.wav" size="17766" crc="ff3171a1" sha1="cc9840193bc6e21337dcbdcdeb52ad57090a4db6"/>
+		<rom name="DefaultSounds/SolenoidOn.wav" size="5450" crc="2c0c13d8" sha1="d7e478cede532a4468e3158a3e974d4209437cfd"/>
+		<rom name="DefaultSounds/spACE/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/SRU/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/stepper.wav" size="41484" crc="44305994" sha1="1bf2b6138b3480c90bd0436dd6fb75cd6638fbd1"/>
+		<rom name="DefaultSounds/SYS1/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/SYS5/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/SYS83/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/SYS85/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/SYSTEM80/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DefaultSounds/TokenSlide.wav" size="84928" crc="9dad2fb2" sha1="cd6d260ae5083ec6d4b9f5dc51253e275d6defff"/>
+		<rom name="DefaultSounds/Wiper.wav" size="117804" crc="99ac538b" sha1="a5f677b33e306810b76dbe83464e71d21d8e8fee"/>
+		<rom name="MFME 6.1.0.363 (07Apr2018) (Wizard).txt" size="643" crc="cc5661d6" sha1="517b61e9df858589338a00932e2ef9463a087037"/>
+		<rom name="MFME.exe" size="1778176" crc="103a6eb8" sha1="f34d40bd4ede29429a6be06a4a519dc65cf9b4fd"/>
+		<rom name="PacDrive.dll" size="69120" crc="3d18803e" sha1="2466f05e9e02a4caf08481589e31bba721d736a8"/>
+		<rom name="tips.txt" size="2441" crc="b70b1239" sha1="528a333af31f794cadebf5a99088665b9deea07c"/>
+	</game>
+</datafile>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>eXoDOS Linux Patch</name>
+		<description>Mixed (Archive as File)</description>
+		<category>Computer</category>
+		<version>6.04</version>
+		<date>2024-11-28</date>
+		<author>eXo (dat by Eggman)</author>
+		<homepage>https://www.retro-exo.com/</homepage>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<romvault forcepacking="fileonly" />
+	</header>
+	<game name="Content">
+		<description>Content</description>
+		<rom name="!DOS_linux_metadata.zip" size="67478811" crc="42eb0ce1" sha1="f61a17e726a99d8d6b16fceb7d715503ea89a889"/>
+		<rom name="XODOS_linux_Metadata.zip" size="227902480" crc="cebfe1f2" sha1="529dcd4d74f037d3ac9a4e83a28009779b868a1c"/>
+	</game>
+	<game name="eXo">
+		<description>eXo</description>
+		<rom name="util/" size="0" crc="00000000"/>
+		<rom name="util/eXoMerge.bsh" size="14894" crc="ee422a3f" sha1="ca1c6e650bd48032c3d0d24d6378903a6f1b63d1"/>
+		<rom name="util/install_dependencies.bsh" size="24404" crc="eb342828" sha1="53e6282adb4c62075d88dbeea310a895ecc97aff"/>
+		<rom name="util/Setup eXoDOS.bsh" size="43274" crc="0cd49bae" sha1="0c466c437ec4c289ea519e0943259036aeee6cae"/>
+		<rom name="util/utilDOS_linux.zip" size="2442697950" crc="b09d9dc4" sha1="ae847e1063b7f983d649f1e1da16b2b93bf5db98"/>
+	</game>
+	<rom name="eXoDOS Linux ReadMe.txt" size="29140" crc="279e1010" sha1="687fe58d327b214eca636874443938e93a666ca4"/>
+	<rom name="eXoMerge.command" size="20392" crc="51ebfe21" sha1="c34e86fedf1328587afbe20c8fea9732bb548df7"/>
+	<rom name="install_dependencies.command" size="19677" crc="804cbc3b" sha1="5a9f77e503e4514084d93f5c3812705cc5589d8a"/>
+	<rom name="Setup eXoDOS.command" size="47011" crc="5f7e2de5" sha1="cd0abcb7099df275b7c2a568840d34fdf9f65ad9"/>
+</datafile>

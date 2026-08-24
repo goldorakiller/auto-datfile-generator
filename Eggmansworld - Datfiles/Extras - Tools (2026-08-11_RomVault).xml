@@ -1,0 +1,747 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Extras - Tools</name>
+		<description></description>
+		<category>Laserdisc</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Cyberlink.PowerDVD.Ultra.v18.0.1529.62.Multilingual.Incl.Keymaker-CORE">
+		<description>Cyberlink.PowerDVD.Ultra.v18.0.1529.62.Multilingual.Incl.Keymaker-CORE</description>
+		<rom name="core.nfo" size="8726" crc="07e61331" sha1="7284db1f6a492faea0d18c1da0d767800ab42f1f"/>
+		<rom name="cr-6f9x0.zip" size="50230952" crc="5c311e37" sha1="d240085cb9dbc1652ec5a2fa3768e78c0618359b"/>
+		<rom name="cr-6f9x1.zip" size="50018058" crc="9b32bab7" sha1="63f8475d9cea54e889b8cf324477e74e8ffcf404"/>
+		<rom name="cr-6f9x2.zip" size="50018059" crc="bed33a25" sha1="38f0d6b9ed6d2fd1e91a98825e59f6a4d2bcf322"/>
+		<rom name="cr-6f9x3.zip" size="50018059" crc="a9cf2cc1" sha1="7372b11b11177e135d4c4751a20d5b61bbefd04d"/>
+		<rom name="cr-6f9x4.zip" size="25979325" crc="32da6305" sha1="c3972aaf11cb0467302b2e879ce5f18824136e8b"/>
+		<rom name="FILE_ID.DIZ" size="351" crc="074428d3" sha1="c8f6dcedf32443dcd0d8a8742d34177020544257"/>
+	</game>
+	<game name="Dexter Firmware source (Matt Ownby)">
+		<description>Dexter Firmware source (Matt Ownby)</description>
+		<rom name="DexterBuilder-main/LICENSE" size="1498" crc="9909a2a1" sha1="15bfd7d6447ae3d76a45d8486424c7d88bac4595"/>
+		<rom name="DexterBuilder-main/README.md" size="1715" crc="a179027b" sha1="8ab36e492392a2e7495d5e32ee20dbbd89caffa9"/>
+		<rom name="DexterBuilder-main/scripts/build_all.sh" size="167" crc="1ba21267" sha1="56ee10f8a026d7daa3669c3e2f8c82d680e391d3"/>
+		<rom name="DexterBuilder-main/scripts/build_aux_bootloader.sh" size="536" crc="a75679b0" sha1="8ce145e81d2ec0646072ffe9891a50146b53b96d"/>
+		<rom name="DexterBuilder-main/scripts/build_aux_firmware.sh" size="395" crc="9a98976a" sha1="edcfcd1de69410c9f6d00ce1134901977afa64a0"/>
+		<rom name="DexterBuilder-main/scripts/build_ldp_abstract.sh" size="402" crc="1f79a5a7" sha1="e86b6792670dd1eb7553539ead8ef2cbbdd71b4e"/>
+		<rom name="DexterBuilder-main/scripts/build_ldp_interpreters.sh" size="413" crc="08207a15" sha1="c104d698ec306d98d8f1c5803777b233ab242828"/>
+		<rom name="DexterBuilder-main/scripts/build_main_bootloader.sh" size="501" crc="cfa82c25" sha1="3f0b8bc162cdb1fde77b629189021a6ad3f2029d"/>
+		<rom name="DexterBuilder-main/scripts/build_main_firmware.sh" size="398" crc="bef83c38" sha1="cca6633d81945761867b25731a35defc69acbc6d"/>
+		<rom name="DexterBuilder-main/scripts/common.sh" size="827" crc="48c73b37" sha1="856e94dc1cb68ab14f9bf09cc145bd46000b3a65"/>
+		<rom name="DexterFirmware-main/.gitignore" size="187" crc="ab4ea5de" sha1="47f37e31846883bc15372b78898e4a35d6fd47f3"/>
+		<rom name="DexterFirmware-main/AuxAVR/CMakeLists.txt" size="126" crc="bc8aae29" sha1="e3ea0fcdc63403b0a1cb3b9f1c6be3d655b779a8"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/asm-macros.h" size="262" crc="7e7ba2eb" sha1="eaecc0aa798ce96759205a63eed0da3c420241ac"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/build.h" size="85" crc="32481a1c" sha1="dfbf98ab7064a9e7bf6147e64e7d4d4471ce947e"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/CMakeLists.txt" size="1585" crc="88eba85e" sha1="71102204130b4cee65f100afb97eb0dc91daab01"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/crc.c" size="591" crc="8206cd86" sha1="76399cecd76641c3ccbf5dfa5a0bdc34d6b8982e"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/crc.h" size="289" crc="ac9cfb7b" sha1="500bc734a9235e0308234c02ffd2bb553cf8abcd"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/csync_isr.s" size="6739" crc="377cbbf9" sha1="1963d765a6b0b499850efd340414da80a2ad495a"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/datatypes.h" size="84" crc="fb649022" sha1="52a056edffaa04af98105ae217f91fc84f28a895"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/protocol.c" size="5536" crc="be83be57" sha1="cde52118594fef27fcba5eaacc3f754eddf2e4f9"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/protocol.h" size="483" crc="b4438641" sha1="43a08d50e48da6d528b0e60ac3a54659e5308957"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/serial.c" size="3086" crc="9450a53b" sha1="1600cfce699e63f09e5673165cbbf737cea7586d"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/serial.h" size="452" crc="bb0534e6" sha1="795c5e34914cfafeea23b1597ad01d899752a06e"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/serial_packet.c" size="5029" crc="2e7caffc" sha1="8ab3becce9d5c6c665eb17de36630baff0d2253a"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/serial_packet.h" size="1371" crc="b692e38b" sha1="86504f3136180b25a65073d2db626012dafaef7d"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/strings.c" size="658" crc="07dc9fcd" sha1="5db10c19b4a86cb42a7d2a34eb0a057c5709982b"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/strings.h" size="294" crc="4bf4f596" sha1="4d7f2307a40453ab3ec41a26e3001a1068486d21"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/util.s" size="1976" crc="88ebbf97" sha1="2ac48c2c2d8e500c9ddde5e9f9977bb5f1cfac05"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/v1.h" size="561" crc="c5ad592e" sha1="fee3ff0bcaf08ab19fbe3366c734cfb733317f05"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/v2.h" size="1262" crc="63e7aae0" sha1="5841d20eb9e2228ec9b739e80e6c06893e16a109"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/v3.h" size="1584" crc="1b429669" sha1="3ec1e7071d658b3500b87bad13f53bdd5b3d4282"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/vbi_inject.c" size="2335" crc="2fc3b1d9" sha1="0e6d2609ace08b6a87e2a583deb0bc16830ff2fc"/>
+		<rom name="DexterFirmware-main/AuxAVR/src/vbi_inject.h" size="2528" crc="b3c38eb9" sha1="0527b45d91e592ff879347ab5032dccf45fab744"/>
+		<rom name="DexterFirmware-main/Bootloader/CMakeLists.txt" size="326" crc="1786c1fd" sha1="176714619658a5994f096d88eefeefad1977f1b1"/>
+		<rom name="DexterFirmware-main/Bootloader/scripts/.gitattributes" size="13" crc="e0df961f" sha1="4530ec6b766b801a0f452b3364a33c37184676b1"/>
+		<rom name="DexterFirmware-main/Bootloader/scripts/efuse328.bin" size="1" crc="d56f2b94" sha1="a42c6cf1de3abfdea9b95f34687cbbe92b9a7383"/>
+		<rom name="DexterFirmware-main/Bootloader/scripts/efuse644.bin" size="1" crc="660951ba" sha1="ab461f6b8a6842a473257a2561c1fbdf91bdfe77"/>
+		<rom name="DexterFirmware-main/Bootloader/scripts/hfuse328.bin" size="1" crc="b404d447" sha1="aebf649a518267a39abe60e3efbc13354fd94273"/>
+		<rom name="DexterFirmware-main/Bootloader/scripts/hfuse644.bin" size="1" crc="2bbb30e2" sha1="897f9399aebb2b6163b8175b8e50c52b54aeda2d"/>
+		<rom name="DexterFirmware-main/Bootloader/scripts/lfuse328.bin" size="1" crc="f1db8832" sha1="73b74736664ad85828ce1be2e29fb4a68d24402b"/>
+		<rom name="DexterFirmware-main/Bootloader/scripts/lfuse644.bin" size="1" crc="f1db8832" sha1="73b74736664ad85828ce1be2e29fb4a68d24402b"/>
+		<rom name="DexterFirmware-main/Bootloader/scripts/lock328.bin" size="1" crc="79d3d2d4" sha1="42099b4af021e53fd8fd4e056c2568d7c2e3ffa8"/>
+		<rom name="DexterFirmware-main/Bootloader/scripts/lock644.bin" size="1" crc="79d3d2d4" sha1="42099b4af021e53fd8fd4e056c2568d7c2e3ffa8"/>
+		<rom name="DexterFirmware-main/Bootloader/scripts/write_328p.sh" size="262" crc="73112f09" sha1="4d4286315e6a0200938213156771278478b9a37d"/>
+		<rom name="DexterFirmware-main/Bootloader/scripts/write_328p_loop.sh" size="100" crc="6575fa8d" sha1="3dc4e4190f8d3bc02e65af260a414ab83a9649c4"/>
+		<rom name="DexterFirmware-main/Bootloader/scripts/write_644p.sh" size="413" crc="8a15c2c9" sha1="3d51ed42335c208316736208f436c1b148d1e18d"/>
+		<rom name="DexterFirmware-main/Bootloader/scripts/write_644p_loop.sh" size="100" crc="9d7d7eb9" sha1="a3ed95d70d6d8554548e8111af8c4b7fe7ddcfea"/>
+		<rom name="DexterFirmware-main/Bootloader/src/bootloader.c" size="2690" crc="07a3f093" sha1="a04f8a36fab15f251c9226b23d06fbb80beb1770"/>
+		<rom name="DexterFirmware-main/Bootloader/src/bootloader.h" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DexterFirmware-main/Bootloader/src/CMakeLists.txt" size="1654" crc="c2286c32" sha1="82bcbf0e934a39a2d718613f535166028219babb"/>
+		<rom name="DexterFirmware-main/Bootloader/src/crc.c" size="591" crc="8206cd86" sha1="76399cecd76641c3ccbf5dfa5a0bdc34d6b8982e"/>
+		<rom name="DexterFirmware-main/Bootloader/src/crc.h" size="289" crc="ac9cfb7b" sha1="500bc734a9235e0308234c02ffd2bb553cf8abcd"/>
+		<rom name="DexterFirmware-main/Bootloader/src/platform.h" size="220" crc="c7cff81c" sha1="449ca90737e94636ffc4483c1244c87a4c3733aa"/>
+		<rom name="DexterFirmware-main/Bootloader/src/platform_aux.h" size="938" crc="eb2fabb8" sha1="6df037db6e74611e9213e39809a2c6dff21c9c0a"/>
+		<rom name="DexterFirmware-main/Bootloader/src/platform_main.h" size="820" crc="443a5600" sha1="4cc2760bcc2d44d9c202acc71b6610d7acb442e1"/>
+		<rom name="DexterFirmware-main/Bootloader/src/program.c" size="980" crc="d2204684" sha1="83af630906693c5bbe0ab8db3c0ec6228b65d859"/>
+		<rom name="DexterFirmware-main/Bootloader/src/program.h" size="364" crc="b1992cb8" sha1="c7fcbfc08e0f03f254fb7d1ad92400d10c7b18cf"/>
+		<rom name="DexterFirmware-main/Bootloader/src/protocol.c" size="6496" crc="d78b9c58" sha1="634889f6c91667692c17a09f424e7aa571797d97"/>
+		<rom name="DexterFirmware-main/Bootloader/src/protocol.h" size="388" crc="31c92b39" sha1="e77c10c2065d866887218a105924f1899997e129"/>
+		<rom name="DexterFirmware-main/Bootloader/src/serial.c" size="2981" crc="aff08f41" sha1="7442a3ce7ca6bdfa3b3c198f4cbf5cddedef4fa2"/>
+		<rom name="DexterFirmware-main/Bootloader/src/serial.h" size="403" crc="abbf2f4f" sha1="4ec31ceef5c19cfca5565b010e79717b7d467967"/>
+		<rom name="DexterFirmware-main/Bootloader/src/strings.c" size="548" crc="2c2110a7" sha1="c58082a8f3f222cf9919da184be0f5b861020bca"/>
+		<rom name="DexterFirmware-main/Bootloader/src/strings.h" size="258" crc="d5932c9f" sha1="da0f8479174d8bdb566a3f1d65979b035c7ead93"/>
+		<rom name="DexterFirmware-main/LICENSE" size="1498" crc="9909a2a1" sha1="15bfd7d6447ae3d76a45d8486424c7d88bac4595"/>
+		<rom name="DexterFirmware-main/MainAVR/CMakeLists.txt" size="128" crc="3ced11b8" sha1="62b05100765834e53757f1da4e1f29a92d5b1961"/>
+		<rom name="DexterFirmware-main/MainAVR/src/autodetect.c" size="3598" crc="59ba5f1d" sha1="281a7c4e0420fcf923a5d05a693395a19f98572c"/>
+		<rom name="DexterFirmware-main/MainAVR/src/autodetect.h" size="290" crc="b0eab7a0" sha1="217deb3d492478502636f1f478e83177d93083f4"/>
+		<rom name="DexterFirmware-main/MainAVR/src/buttons.c" size="5586" crc="a28ef477" sha1="b213c929544aba086c6e77fb47a17d1a7c2f37fe"/>
+		<rom name="DexterFirmware-main/MainAVR/src/buttons.h" size="102" crc="4f845739" sha1="f3e428093e421397f6459c1d431febdabf684f3d"/>
+		<rom name="DexterFirmware-main/MainAVR/src/CMakeLists.txt" size="2708" crc="83c65ff5" sha1="431c8dbd8ac11731038aaa9bc80e1e48214833a8"/>
+		<rom name="DexterFirmware-main/MainAVR/src/common-asm.h" size="533" crc="7c66937d" sha1="c47e247efd9ece9e65388781f2b9c34cdc4a3b30"/>
+		<rom name="DexterFirmware-main/MainAVR/src/common-ldp.c" size="6101" crc="3f886294" sha1="db9d8ef41b4caedaf4bc7e175d1f06220055426e"/>
+		<rom name="DexterFirmware-main/MainAVR/src/common-ldp.h" size="511" crc="ee973c2d" sha1="b13530ea7c579031bf3126ac70a21c1c0f20296b"/>
+		<rom name="DexterFirmware-main/MainAVR/src/common.h" size="640" crc="0c264987" sha1="1f42bd8ce70e41ee95606c8526c8b321dc88e74f"/>
+		<rom name="DexterFirmware-main/MainAVR/src/crc.c" size="591" crc="8206cd86" sha1="76399cecd76641c3ccbf5dfa5a0bdc34d6b8982e"/>
+		<rom name="DexterFirmware-main/MainAVR/src/crc.h" size="289" crc="ac9cfb7b" sha1="500bc734a9235e0308234c02ffd2bb553cf8abcd"/>
+		<rom name="DexterFirmware-main/MainAVR/src/deferred_eeprom_write.c" size="1061" crc="1964b604" sha1="dad7baa3364c87afa9baa34176303c4007da79e6"/>
+		<rom name="DexterFirmware-main/MainAVR/src/deferred_eeprom_write.h" size="388" crc="59579549" sha1="27a2b19ad763d2c62e379d9f916db9f01f1161a9"/>
+		<rom name="DexterFirmware-main/MainAVR/src/idle.c" size="390" crc="f820ac06" sha1="fb920c7d3eaf9476507af49dc0717cb84977472e"/>
+		<rom name="DexterFirmware-main/MainAVR/src/idle.h" size="372" crc="d194c5fc" sha1="b20bf96fdadca3e0a5783aca905b7ae0765b6dd8"/>
+		<rom name="DexterFirmware-main/MainAVR/src/ldp1000-common.h" size="1285" crc="4a775a7e" sha1="1b2006260b5419060eccea3cffcfeae320262b5e"/>
+		<rom name="DexterFirmware-main/MainAVR/src/ldp1000-main-asm.s" size="735" crc="07b8634e" sha1="257f08ccf5e0a51a0c834df81e665a5928741916"/>
+		<rom name="DexterFirmware-main/MainAVR/src/ldp1000-main.c" size="10235" crc="094cd0bf" sha1="242c9b20717d14dab64e2893be77d719b29aa3b7"/>
+		<rom name="DexterFirmware-main/MainAVR/src/ldp1000-main.h" size="272" crc="cbc39b5e" sha1="2438f012a5a309960e3ddbab9f29e42a91422459"/>
+		<rom name="DexterFirmware-main/MainAVR/src/ldp1000_callbacks.c" size="4938" crc="3c53f2e0" sha1="0fe77f42c9b00bc7fec804e640155a8857b7623e"/>
+		<rom name="DexterFirmware-main/MainAVR/src/ldp1000_callbacks.h" size="1139" crc="e6c9c7b5" sha1="0087c394490058baa8b410e5a36bbdf2920b3581"/>
+		<rom name="DexterFirmware-main/MainAVR/src/ldp_stub.c" size="236" crc="c558d7e5" sha1="2997c6ee6f9ed6f2b7ad21cbfbb30dc74f880bc0"/>
+		<rom name="DexterFirmware-main/MainAVR/src/ldp_stub.h" size="28" crc="4c2138f6" sha1="cc5725d2aef57d984525a8bfc3e690b463b2180e"/>
+		<rom name="DexterFirmware-main/MainAVR/src/ldv1000-common.h" size="1298" crc="c8f404c6" sha1="837286fbcaf68b0d218e5333532cf0bc5d5f5fff"/>
+		<rom name="DexterFirmware-main/MainAVR/src/ldv1000-main-asm.s" size="6391" crc="f03eef62" sha1="7729ee75076f9eb2c96577bc91419cf148a64dde"/>
+		<rom name="DexterFirmware-main/MainAVR/src/ldv1000-main.c" size="5310" crc="38ceb595" sha1="68148e4cd103eba480d41b5a29ad1f5ff4bf69fa"/>
+		<rom name="DexterFirmware-main/MainAVR/src/ldv1000-main.h" size="1024" crc="c9dcd95c" sha1="cd65db2e4f741eba644069167042b37ebe5bd561"/>
+		<rom name="DexterFirmware-main/MainAVR/src/ldv1000_callbacks.c" size="2861" crc="c1096e25" sha1="6e92c8b90a02c89f19452968f367173d534fec30"/>
+		<rom name="DexterFirmware-main/MainAVR/src/ldv1000_callbacks.h" size="484" crc="d7b723b9" sha1="0a2407f0d120d2d281bd94d3270b6fc3aa3910f1"/>
+		<rom name="DexterFirmware-main/MainAVR/src/ldv1000super-main.c" size="5162" crc="6c7293f3" sha1="fb5db04a37b025bb80bc308701e696c8361e0021"/>
+		<rom name="DexterFirmware-main/MainAVR/src/ldv1000super-main.h" size="1044" crc="114c4cbf" sha1="c6f7c82a28cac3dd1c900d0876f4bed6170a7aed"/>
+		<rom name="DexterFirmware-main/MainAVR/src/led_blinker.c" size="1552" crc="bdbe4807" sha1="790e06372c1745693ca3773802a84073e79a99b9"/>
+		<rom name="DexterFirmware-main/MainAVR/src/led_blinker.h" size="96" crc="3be92a65" sha1="9fce219771c713460c471513d6958997d0006b9d"/>
+		<rom name="DexterFirmware-main/MainAVR/src/led_driver.c" size="3959" crc="ca9aec7b" sha1="53713d8b7dbcac188059ac673862922daa33feb8"/>
+		<rom name="DexterFirmware-main/MainAVR/src/led_driver.h" size="518" crc="1cdfebf4" sha1="d92fadcf1713b656bd1d533d2bf1683343fceebb"/>
+		<rom name="DexterFirmware-main/MainAVR/src/pr7820-callbacks.c" size="2140" crc="e0c23d03" sha1="298c165cd7babfe4fc77ba33691a4209d6dce267"/>
+		<rom name="DexterFirmware-main/MainAVR/src/pr7820-callbacks.h" size="466" crc="18371f97" sha1="75a8261a3d80859b7b5c88edfbdec16bd29cca03"/>
+		<rom name="DexterFirmware-main/MainAVR/src/pr7820-main.c" size="3098" crc="9341b911" sha1="b17046d626222736bf98e65fb18e6a928131e295"/>
+		<rom name="DexterFirmware-main/MainAVR/src/pr7820-main.h" size="95" crc="eaade829" sha1="4515331570eb7d41167f4f6fe893795a66c7ffbb"/>
+		<rom name="DexterFirmware-main/MainAVR/src/pr8210-callbacks.c" size="3132" crc="d56d2408" sha1="6aa6acc743a9be761dffc70e94a7ac5e2b985ad0"/>
+		<rom name="DexterFirmware-main/MainAVR/src/pr8210-callbacks.h" size="606" crc="922dd060" sha1="3efe1b5a392dd204b800625bb0bb04afd4495076"/>
+		<rom name="DexterFirmware-main/MainAVR/src/pr8210-common.h" size="1181" crc="bd808ad4" sha1="4942b421e4253e95021aa5961691a1f24f6939a4"/>
+		<rom name="DexterFirmware-main/MainAVR/src/pr8210-main-asm.s" size="1279" crc="7979c747" sha1="f353f7c64d6e02cbbb3ed832740c2480daa42af8"/>
+		<rom name="DexterFirmware-main/MainAVR/src/pr8210-main.c" size="13343" crc="062de3d1" sha1="c90bc1896de8c695fc1d0ae7d71e4243a4ead11b"/>
+		<rom name="DexterFirmware-main/MainAVR/src/pr8210-main.h" size="298" crc="484997a2" sha1="392d42061a6e80ec8094db925e7465355d87c674"/>
+		<rom name="DexterFirmware-main/MainAVR/src/protocol.c" size="13928" crc="d77d02fa" sha1="44f9c5b00cdb93bb9c8429d85d31bd05f1e02f27"/>
+		<rom name="DexterFirmware-main/MainAVR/src/protocol.h" size="1967" crc="9025f5d2" sha1="f8bbdf67d13752fc1e0f26dc78eba0b2e6955210"/>
+		<rom name="DexterFirmware-main/MainAVR/src/rev.h" size="183" crc="2ce1a643" sha1="fe0b58e1290d650a8c9367b09a2820d5cc44a303"/>
+		<rom name="DexterFirmware-main/MainAVR/src/rev1.h" size="770" crc="1a4c1bb0" sha1="e573dfdf27275506405f6e8beb7deb4afd72b54a"/>
+		<rom name="DexterFirmware-main/MainAVR/src/rev2.h" size="4991" crc="14807527" sha1="7b5e920fd8cd4b030b613fdc350c6e9620bb05d4"/>
+		<rom name="DexterFirmware-main/MainAVR/src/rev3.h" size="7617" crc="69ce93dc" sha1="58c488df86433800da1784cfd588cd6a6dcd2b52"/>
+		<rom name="DexterFirmware-main/MainAVR/src/serial.c" size="5067" crc="473680ee" sha1="4e2ff2cf467106979c586a3aeae5815c9c4a23a6"/>
+		<rom name="DexterFirmware-main/MainAVR/src/serial.h" size="1086" crc="3a4b7cbf" sha1="1e6eff5017927aad20aa63a5f9f141f554d137c6"/>
+		<rom name="DexterFirmware-main/MainAVR/src/serial2.c" size="6310" crc="3f655257" sha1="bddfd351aee16fc0f16ab7e1f41e75ef64c865b9"/>
+		<rom name="DexterFirmware-main/MainAVR/src/serial2.h" size="503" crc="3eb0b2ea" sha1="2061529148c066248c3226ec01f18fc907ceeb46"/>
+		<rom name="DexterFirmware-main/MainAVR/src/settings.c" size="15310" crc="5a2a953c" sha1="23f9fb682b9d5af6c2ae534b3be2858decb08bc8"/>
+		<rom name="DexterFirmware-main/MainAVR/src/settings.h" size="3100" crc="b4f049ba" sha1="fb1f775038231388a59fb594cad49392981869f2"/>
+		<rom name="DexterFirmware-main/MainAVR/src/strings.c" size="4506" crc="abc5cdd4" sha1="e889e0b2c3e2e1d6699417eb966eb3760bdd50a9"/>
+		<rom name="DexterFirmware-main/MainAVR/src/strings.h" size="1451" crc="926567d7" sha1="a2c268362d2b8af9f334b481b620ae76fc1a33fe"/>
+		<rom name="DexterFirmware-main/MainAVR/src/timer-global.c" size="758" crc="979888e6" sha1="91fbe2b9e7260f17d176a9d0fef7dd0f1009ad75"/>
+		<rom name="DexterFirmware-main/MainAVR/src/timer-global.h" size="966" crc="53f36ad5" sha1="4ad7c0a013d48c77621a1210778c86d2ce9ca54d"/>
+		<rom name="DexterFirmware-main/MainAVR/src/timer1.c" size="180" crc="8342762b" sha1="b5738e16a78c55379ace6e6a1215e35b12f44381"/>
+		<rom name="DexterFirmware-main/MainAVR/src/timer1.h" size="164" crc="02cf79ad" sha1="60c5202d705489eedd92cdd826c8d27c093ad020"/>
+		<rom name="DexterFirmware-main/MainAVR/src/timer1_asm.s" size="400" crc="ff674f97" sha1="8c50582e39e05128a9d8ee4b2fa40aa947d2e54b"/>
+		<rom name="DexterFirmware-main/MainAVR/src/util.c" size="682" crc="f89c7a41" sha1="3335b2954e1d49af44e856121b44a275f29b3654"/>
+		<rom name="DexterFirmware-main/MainAVR/src/util.h" size="386" crc="f2f30220" sha1="82721c4c41b6e69bb41f35c2ad94349ca333051f"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vbi_inject.c" size="7325" crc="f5778608" sha1="802cab57b0b41b3a01807bad57f7cfafa071fc91"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vbi_inject.h" size="848" crc="a12ce143" sha1="c107f94000c6dc2eaec7cac9d868591480c4c42e"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vip9500sg-callbacks.c" size="2718" crc="331ca162" sha1="33a67fa74a9341714ae48a765ce121f81f313912"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vip9500sg-callbacks.h" size="128" crc="558e10d7" sha1="ae65e56deceec445640c93c27ca3c33c0056414a"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vip9500sg-main.c" size="4419" crc="167b7960" sha1="aa885ec2eae6abd81997132195a27bd3505a56a0"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vip9500sg-main.h" size="108" crc="1bd5f62e" sha1="becfa531e4bf547a2ccc4bf9ae1fea79d4c895d5"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vldp-avr.c" size="6360" crc="0142157e" sha1="fd71dfd5c38671b01c50cfaf69c0e4d61e6e2f78"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vldp-avr.h" size="825" crc="74526ad3" sha1="464d3836966efcce64cdc10f87b141e3c81066c8"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vp931-callbacks.c" size="3299" crc="34defcf0" sha1="d39733306687cccd5c809c00e5e39db9b933c57c"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vp931-callbacks.h" size="337" crc="5be1eec2" sha1="12d2815b0dfc37f6c89d9e38463fca8b6dd92ed2"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vp931-common.h" size="575" crc="e3aeaa26" sha1="19bcba77e149d2306d900f71da41dee47bb7d367"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vp931-main-asm.s" size="6430" crc="c160d358" sha1="2686f13ca5733af802a58fe8d258221e126c7d34"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vp931-main.c" size="7432" crc="b9320729" sha1="09971ac0d94a2b1f0cdb5af1cea43f3c22e533b0"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vp931-main.h" size="1112" crc="e003e576" sha1="b7d44d2d902508aa3447aa5280af3e8518c08f14"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vp932-callbacks.c" size="1659" crc="45c07ad1" sha1="1e19b2f39d65df974a2302e3d695a5d06978b3dc"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vp932-callbacks.h" size="354" crc="edb19d7b" sha1="42daa268aa950caf76e7602f0f68ef6a69eedb77"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vp932-main-asm.s" size="551" crc="bc13a4cc" sha1="4c6ab1f90806a585bb761abb66fcc5f50b78165e"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vp932-main.c" size="4104" crc="ccc2c1fe" sha1="e5d37a38b0a5336a907b11af59bad04e1692437b"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vp932-main.h" size="143" crc="ea92d311" sha1="c74e7e3332b0b68978e4556e59ee430392d4b74f"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vsync.c" size="174" crc="fd180a76" sha1="2b65a60ae090e05df29de905dd288d6e0c9e6b5f"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vsync.h" size="280" crc="1df7074f" sha1="98f49d06de44de20ba7826870e1370ff587082c4"/>
+		<rom name="DexterFirmware-main/MainAVR/src/vsync_asm.s" size="456" crc="35b7d64e" sha1="6277d2407affc90cc79e3ecb5c2176f2e9341b15"/>
+		<rom name="DexterFirmware-main/README.md" size="2650" crc="37f2ffa0" sha1="4f067d79197d6c843f7894933568cf5298e8593c"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/.github/workflows/pr.yml" size="1611" crc="ef84125f" sha1="587bed2282a9ecc325a6168f042f8686b6ec2d98"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/CMakeLists.txt" size="1471" crc="056ba9ff" sha1="04c798d970c16eca898653c2b506afd2ee4d8e9a"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/include/ldp-in/datatypes.h" size="511" crc="8774b81a" sha1="b24aa208b157f0cd2baf68851d56877c150ff137"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/include/ldp-in/ld700-interpreter.h" size="2192" crc="3576eadf" sha1="7897ad9d3525e777a1f61e3214c3fca5b436720f"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/include/ldp-in/ldp1000-interpreter.h" size="6052" crc="9b2f3990" sha1="0bd1e34a0ea1b9e8f52bda8504c5c18aae822a89"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/include/ldp-in/ldv1000-interpreter.h" size="4145" crc="0673edde" sha1="c448ba30eeca6e7943d02de0c285996c73c45fa8"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/include/ldp-in/pr7820-interpreter.h" size="2359" crc="87686d08" sha1="bea189be5ba736689549c70f7fbeda9b95392c7d"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/include/ldp-in/pr8210-interpreter.h" size="3031" crc="414a33f1" sha1="8cbbbcf8cb87f58c2ced63fc7680cdf0a89e46d1"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/include/ldp-in/vip9500sg-interpreter.h" size="3132" crc="b5d816d4" sha1="65c9e948ec70ea0c7e41f04c5d39b5d4a4707ae9"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/include/ldp-in/vp931-interpreter.h" size="1760" crc="660e35a2" sha1="e75ff04543e1e6cce0b735349e8ce22d425d6440"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/include/ldp-in/vp932-interpreter.h" size="1956" crc="d3ce5b67" sha1="0382ac8bc9971ed097677280c7ba79653da33bc1"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/ldp_in-config-version.cmake.in" size="613" crc="36bf5f03" sha1="0c915da29ca72e0a643e1efc8967b79ec1479576"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/ldp_in-config.cmake" size="172" crc="e9546201" sha1="1d8f74f41d6a74e88443a90a362373ae1515d771"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/mull.yml" size="139" crc="d9f8268c" sha1="80457c969d5a725f813701aa0bd94137781579dc"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/README.md" size="500" crc="70382fa0" sha1="c1217a0fbc2f8c6b39ac34917b193f44dfecb566"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/src/CMakeLists.txt" size="1343" crc="215cc66d" sha1="7ced82be0247f885e4082b4542fc1ddb265166fe"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/src/ld700-interpreter.c" size="3997" crc="72a63d03" sha1="9c418b43699c5bd427d038aab714faf4a2fce31e"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/src/ldp1000-interpreter.c" size="27849" crc="d38e66b4" sha1="26edec669aba52db6cf1f40bca76ce37bad67437"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/src/ldv1000-interpreter.c" size="20895" crc="41235a76" sha1="d50db1270d7d1ced8851b800f1fc244525b3813a"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/src/pr7820-interpreter.c" size="7145" crc="61ee41aa" sha1="a768b382eb5a1d4ca7982561b6773a1668adab89"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/src/pr8210-interpreter.c" size="7401" crc="abd6cbe0" sha1="e272e1157d63f21b99d433a3bca8e985500e47e0"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/src/vip9500sg-interpreter.c" size="12407" crc="944bbe05" sha1="2a61e17984505056e3c8a61c2dfbd98e4e7e6154"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/src/vp931-interpreter.c" size="5307" crc="f537c2ac" sha1="e3ac3bcdb7532d9141219091b7bc4c313fcc0cce"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/src/vp932-interpreter.c" size="7755" crc="4605a8e1" sha1="b973d777b2f1ef153422e7baaa63e0fbed244fae"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/CMakeLists.txt" size="612" crc="37ee5c26" sha1="31134e71892ea271ba780b9e507b428433ffd925"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/ld700_test_interface.h" size="515" crc="9e076aba" sha1="c2fd59cc7f8878cc406768cd861b0b3999e749e1"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/ld700_tests.cpp" size="3429" crc="50941539" sha1="8604d2d5b8cfb2247d7aae8e9b2c66febc3f1f27"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/ldp1000_test_interface.h" size="920" crc="6dc19d0b" sha1="9b90fa5a83f46ae21b4c3d39498cc154679aaab9"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/ldp1000_tests.cpp" size="42498" crc="85dde7e7" sha1="758be775f47b2172412c69432a024446b5f75d39"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/ldv1000_supermode_tests.cpp" size="4611" crc="7560b7bb" sha1="e96676c508186b587e38b4861902d41cda6693a6"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/ldv1000_test_interface.h" size="931" crc="397b4cb2" sha1="59f1170acad2b5209348d9c90390894be9c1de86"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/ldv1000_test_wrapper.h" size="2497" crc="df6d605c" sha1="99153a147798b0a2ac9fb0136dd84f7bec3501ec"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/ldv1000_tests.cpp" size="16185" crc="4582576f" sha1="25d0993b733fd7e3ab331f0db9bb9e0f8396ad38"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/mocks.h" size="5857" crc="f129ee2c" sha1="7a9ca35dab077895e68244aa6884f772b2591a87"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/pr7820_test_interface.h" size="406" crc="b32e7856" sha1="052d0d5d6082fee0531f8ad9f779c4c9f0ce114a"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/pr7820_tests.cpp" size="3852" crc="7aa40a6e" sha1="135422121747611a7cb10dc2512f5d1feddcc1fd"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/pr8210_test_interface.h" size="595" crc="5c0c5795" sha1="4983130c6fafde65ee708041ae1ee03494b5e57a"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/pr8210_tests.cpp" size="14747" crc="ef900799" sha1="774defcf879b850106c7326ec31e381a3d76343d"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/stdafx.h" size="1138" crc="24bf6682" sha1="1551f2ab374ec045953387b63528d2741f750d5b"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/vip9500sg_test_interface.h" size="608" crc="e0aaaafa" sha1="44f5c2a73fe9e5d6413558589ab72a6f943bd1c6"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/vip9500sg_tests.cpp" size="12458" crc="c4f6c971" sha1="ad8bd2346b089e660dc5c01168db7c908ce3f471"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/vp931_test_interface.h" size="427" crc="b96b89f3" sha1="2f0e8b17a11bd59a81274231a264ff92105e12bd"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/vp931_tests.cpp" size="5429" crc="33129b51" sha1="78e9cef9206b7c8eba29030412fac64b22c6df39"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/vp932_test_interface.h" size="528" crc="3b0dbb4c" sha1="86476acf12fb77e1f42f825decdadb66d717144a"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/tests/vp932_tests.cpp" size="11500" crc="6254e7ad" sha1="5d11d073190486d6237afc9df2f58e579ef6f6ed"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/.clang-format" size="116" crc="67ed3374" sha1="c93dba71d153bf06f8e73ac7389cd9e129029f1f"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/.github/ISSUE_TEMPLATE/00-bug_report.yml" size="2064" crc="64938fbb" sha1="e10130ae9d222ae17b7a94475817a9c5db3a322e"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/.github/ISSUE_TEMPLATE/10-feature_request.yml" size="1058" crc="f5beabc2" sha1="22bcfd07be50b6f59aedc1fc860aaf3586088942"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/.github/ISSUE_TEMPLATE/config.yml" size="175" crc="2f662e8e" sha1="6eaffc1003bb225ed6429a0a02d5d684e0d77742"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/.github/workflows/gtest-ci.yml" size="790" crc="3b6f5f3c" sha1="17e7a019fde02e1a432aabf6ea63d552f8758df5"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/.gitignore" size="1605" crc="3b440733" sha1="ede2c86c12951847e7037acd7ad9d3198dd83411"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/BUILD.bazel" size="6488" crc="fc0971ff" sha1="07e13db0913d655ecb16044b8fc140069215993d"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/ci/linux-presubmit.sh" size="4533" crc="99282a89" sha1="e08480de9e329e2b033dd81cc7051c97dffd0d0b"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/ci/macos-presubmit.sh" size="2699" crc="fbb76c1b" sha1="16d89899cccf16e6249f8dd361a7cef472056cc2"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/ci/windows-presubmit.bat" size="1563" crc="9f42a903" sha1="0dd75ffa85f02bd1a29bc2f8211649681a126675"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/CMakeLists.txt" size="819" crc="853245f0" sha1="a0887ff3d7f117f1ece9dd512a55ddfb8c35a85e"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/CONTRIBUTING.md" size="5688" crc="85df61e0" sha1="1293bb159250ba89d1c0154dde3be702e5857e9f"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/CONTRIBUTORS" size="2261" crc="789007e6" sha1="295b242f899fc3b3b3619427afafbfb4945bd695"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/_config.yml" size="18" crc="38631c1d" sha1="e7185992ba486cdc68ff601572485884415e139a"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/_data/navigation.yml" size="1200" crc="ac57f3f5" sha1="6d9faeac79b672f1ed3a8de2217bad61c9ca4cd0"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/_layouts/default.html" size="2317" crc="9ea422e3" sha1="5687c932a584d0c9f2134eada1399c61ff471e64"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/_sass/main.scss" size="2915" crc="81bb4b43" sha1="952bd24c6a7bf80ad02cd181fef20be5aadf7fa0"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/advanced.md" size="88688" crc="f5bc4ed5" sha1="157aaaa9550302f6144b932755cfff20179be293"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/assets/css/style.scss" size="56" crc="b2c35a42" sha1="5fad167fb4ebd937550c7f233c9c22724044b6c8"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/community_created_documentation.md" size="342" crc="a494374b" sha1="267f2f39354ace89cdaa3b9670dd0d200d6eff7a"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/faq.md" size="29898" crc="4d5b3682" sha1="984feb3ca9a4876253924ddcfeb460e2a4d2f354"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/gmock_cheat_sheet.md" size="7382" crc="3419bc3b" sha1="ab7958b2f11d67560a439cfeac71841191f8b0ff"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/gmock_cook_book.md" size="147349" crc="ad1032c8" sha1="05ec067ff65d3db9069a7dd9a834b241f093e5c6"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/gmock_faq.md" size="14980" crc="dd2b64bc" sha1="3d696e222e6589b58c1028b2522451e64ed2ac1a"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/gmock_for_dummies.md" size="29196" crc="b7c4aff7" sha1="9928302c459d5b9771ef0d231bdda89e07a89937"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/index.md" size="1034" crc="e4fed59f" sha1="0b8fbb05baf989a56d4becaf8307b257967134c7"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/pkgconfig.md" size="4981" crc="0664327e" sha1="d014301f71a942fc15debdd1fd200eeeeace04ca"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/platforms.md" size="343" crc="9032a634" sha1="3332a60f55b1f3522d7d3b4b607315513da0c908"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/primer.md" size="19166" crc="0dc0bf6d" sha1="644ff19c298af1eac5a71a10f556bd3067c13946"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/quickstart-bazel.md" size="5600" crc="2ad66c5c" sha1="63dbcb3cac93f984530dad7db2c8e6bad94dc132"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/quickstart-cmake.md" size="5097" crc="2b78f770" sha1="0b46605a7aeaa80373086eda007ff167fe15cb6d"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/reference/actions.md" size="6872" crc="2b5e7b27" sha1="e18e7771ca2ded4f21d674c652a905417f03f180"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/reference/assertions.md" size="21535" crc="1bebe6d4" sha1="6f23938d4dbdfbe70ce2c0315610adf31ec1e2c8"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/reference/matchers.md" size="20993" crc="b7be4d7b" sha1="cb9a585298a4d5857a07f9a905ee0d2b85c17926"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/reference/mocking.md" size="21139" crc="fe7e24b5" sha1="49c91af900df5765a08d946acb370c7934b8f0cd"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/reference/testing.md" size="43875" crc="6a3d8523" sha1="cea8440a75e23eb2794cea6de94eb91bfac1830d"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/docs/samples.md" size="1116" crc="e282792e" sha1="6d836ed1f31e0fd9662712097de80fcf735dec09"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/cmake/gmock.pc.in" size="347" crc="cc3f9709" sha1="4b02067d7cac0f0f8c9d37bff53499bbac42fb50"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/cmake/gmock_main.pc.in" size="354" crc="e239798c" sha1="0640eb8936044a61d913431436e07ac936c74418"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/CMakeLists.txt" size="7882" crc="ce24c2f5" sha1="c9754db136c6993c3e0c9d457801b480020138fd"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/docs/README.md" size="139" crc="ec24d888" sha1="0a67344cd9f71237529a6035bde7e34df15a4c59"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock-actions.h" size="87946" crc="74a3e583" sha1="0be8ee31aa6e9e807ea4dddf4d5cdf3eecba415f"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock-cardinalities.h" size="6118" crc="5e25829d" sha1="e29287cd47dce3770c08285e9ef9eb441d8a35e9"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock-function-mocker.h" size="25756" crc="a5e7d8be" sha1="c2012d75febc5952e1434bbf2ec3b27ca1716d55"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock-matchers.h" size="210247" crc="d107a3eb" sha1="ec8a9fdadba1ccaee0f35f17c2e648b808e2bbee"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock-more-actions.h" size="38344" crc="b10c8ff9" sha1="1b77e192ffecb6f0a9ad4df8dd56252ecc0a901e"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock-more-matchers.h" size="4499" crc="689093df" sha1="c338e65e146155bc0a260df64d5f1c7c88693afd"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock-nice-strict.h" size="10858" crc="426d8675" sha1="945e109a0ac55895087ebcd37de932c33b6d6370"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock-spec-builders.h" size="82067" crc="2c3d4571" sha1="79a5ba930d27a82689742ed796f8c29438e97773"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock.h" size="3723" crc="283d22eb" sha1="3c3a0a5cf70aee31198e7e3d3359bd4576224fb9"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/include/gmock/internal/custom/gmock-generated-actions.h" size="314" crc="5b03dacf" sha1="7c20a89e384803a1c1aa92f0a82bd1876293a28b"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/include/gmock/internal/custom/gmock-matchers.h" size="1918" crc="deb3a255" sha1="c55ad80a46c830864f74798dc8d2e428d89a5726"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/include/gmock/internal/custom/gmock-port.h" size="1953" crc="598e9c1e" sha1="3d6bf95960135cdf84aa8613950df3aa192e1fa2"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/include/gmock/internal/custom/README.md" size="510" crc="9c3c522e" sha1="b15d47a7d02806b2cd866237641b52033c0dbbbf"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/include/gmock/internal/gmock-internal-utils.h" size="19372" crc="2d26e90c" sha1="4705626c7cd9aae828b51e3c688466cba0c45789"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/include/gmock/internal/gmock-port.h" size="6070" crc="8277ee1d" sha1="87b261c8faf91967d0c2732df734d79f80e99516"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/include/gmock/internal/gmock-pp.h" size="13491" crc="ce229026" sha1="76b74fb8b74e3184a31361d01c1e0374054972d9"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/README.md" size="1538" crc="9f90c2c9" sha1="fa6a7d172bdd1df5796f27082eb89cdd93104d54"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/src/gmock-all.cc" size="2107" crc="5b2f8b75" sha1="7776114274f3755381b08310001b04c477cfd601"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/src/gmock-cardinalities.cc" size="5330" crc="cfd0ec94" sha1="4d597010f310582989b8bd6dabb481a35defdc59"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/src/gmock-internal-utils.cc" size="9428" crc="3e76a416" sha1="6a30c5d08807fd50eaa468ff65f3ee04aa1e7830"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/src/gmock-matchers.cc" size="18555" crc="4248cb69" sha1="bc16ee7529b6b6ce14ff6de951a96d20b4edeac2"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/src/gmock-spec-builders.cc" size="29334" crc="6b2a15a9" sha1="efc3365d38471edfe4b12d308e71933c2f0cdb3d"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/src/gmock.cc" size="8547" crc="5e8a12bd" sha1="052e9bfa6cb1fa572d366e4ec75b5791dbbee991"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/src/gmock_main.cc" size="3092" crc="347dbfb3" sha1="d51316c4738181f42d5a21ff6827a70ddc5eeb13"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/BUILD.bazel" size="3294" crc="614b463f" sha1="dc7f6fb64a373dc7c3f4b881ac4a7eac4989ffd4"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock-actions_test.cc" size="72915" crc="ac6beffc" sha1="819ebb4e244e3febb6cdb3bf3a59250e2a4a4e80"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock-cardinalities_test.cc" size="12138" crc="efd5b017" sha1="57a4ff8b9d466793ae91175aa85bd9fb37d7c0df"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock-function-mocker_test.cc" size="34994" crc="6cba9afe" sha1="c441c987c909b21629a9c2b4edc598cb7ec008c0"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock-internal-utils_test.cc" size="28429" crc="97d7812b" sha1="8dd607746ac46a0df35a5ab8f8c9f3883c78791f"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock-matchers-arithmetic_test.cc" size="53878" crc="eb64b64a" sha1="986de5ae35caf10521613bf3db8d6a6d1ae85aac"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock-matchers-comparisons_test.cc" size="77929" crc="8b9aec99" sha1="c46fa2d5469b7febe9f8c4b9ed1682ad181cddb1"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock-matchers-containers_test.cc" size="101563" crc="f632ab57" sha1="05f9a5aae62a9fdd4aa6c5dbfa6b9842f95d4e30"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock-matchers-misc_test.cc" size="61926" crc="cfb3cc0d" sha1="b724974c382d6588f72f5061fe733fc25eaba81b"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock-matchers_test.h" size="6273" crc="5a7d756d" sha1="acfcaf36931501ad240f5c0eef9074327a98a95b"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock-more-actions_test.cc" size="53624" crc="ce13e6c1" sha1="b9737c9aebd4a2dfe071f22e6b16f216c71b6df2"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock-nice-strict_test.cc" size="15676" crc="b062deeb" sha1="ad3c185b5ead20cfc05d933d16d5bb6cc2db0bd9"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock-port_test.cc" size="1977" crc="5398dbda" sha1="5eb21a7eb6a874ec085f9b7c848cbede22a53e4c"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock-pp-string_test.cc" size="8788" crc="48040e07" sha1="f6eee2218127072db8ddb721ed0ef9768ab8a744"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock-pp_test.cc" size="3517" crc="9ffb1fce" sha1="1b7e146a1546812b96a6cd0c58b1027a24c8893f"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock-spec-builders_test.cc" size="74737" crc="4501ce1a" sha1="eb0218d1eed380489733b25b7a07e3924b245888"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock_all_test.cc" size="2491" crc="0e88b9ee" sha1="29025cf0651729d5318cef4dd2eed63ed967e15d"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock_ex_test.cc" size="3300" crc="daa07d08" sha1="87834d4738a376019bb58c61785bc0096856b319"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock_leak_test.py" size="4070" crc="6f16cec7" sha1="d2e1862afc7bb138aff1bd3c33a2486649245b61"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock_leak_test_.cc" size="3284" crc="da4209ab" sha1="ba3b136c45fbd12de244ad4b6afe2a2a5a0ca513"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock_link2_test.cc" size="1875" crc="84f18afe" sha1="256c772ea13d82f474171fd7ba5a1229b890d844"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock_link_test.cc" size="1875" crc="de90b59e" sha1="896e408c3331539dab05e330bd3c44b9b7a8e189"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock_link_test.h" size="19569" crc="90813ae5" sha1="27e2e0dbdf272204374d4972f84f34cd9dfe67dc"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock_output_test.py" size="6334" crc="ae9c542b" sha1="611a5ee9c453f72bb4b58e0aa23af33ad30cf68c"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock_output_test_.cc" size="8440" crc="bbdb0914" sha1="5183167e78d2fd67f686b46afc8c924cbfec9747"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock_output_test_golden.txt" size="13661" crc="600c44e5" sha1="59c85b33ed923fc0f084bf92b838ddac865261f4"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock_stress_test.cc" size="7249" crc="353f1c82" sha1="61502400e7d27169c6b345fea0af872eefe1535c"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock_test.cc" size="6414" crc="4825cc79" sha1="1b2d820dba6a5b4edff512532f3e97d054c6fc0b"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googlemock/test/gmock_test_utils.py" size="3108" crc="4a519a59" sha1="0d0ec7be9b3180d088422f80331432ea750f86eb"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/cmake/Config.cmake.in" size="284" crc="8afb557d" sha1="982b8941dc8933bf8f3a3cba5b062f189b73f37f"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/cmake/gtest.pc.in" size="311" crc="37fac454" sha1="75fee537417cca7bec450f163f56e9a8126be5cc"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/cmake/gtest_main.pc.in" size="354" crc="cd99ae4d" sha1="66061b30491d19f34fdee3bde5c1c3475ca95cd9"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/cmake/internal_utils.cmake" size="13882" crc="890e206c" sha1="ba4b47cda18569608437a9c9227116bd71314bfa"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/cmake/libgtest.la.in" size="499" crc="d3305d98" sha1="b0ca137e48bb5f86f120b2dd104cd6f64f5143ae"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/CMakeLists.txt" size="11960" crc="11fae92e" sha1="245a4bf50687551461381f14a9c070e08455e76f"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/docs/README.md" size="139" crc="ec24d888" sha1="0a67344cd9f71237529a6035bde7e34df15a4c59"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-assertion-result.h" size="8503" crc="56f90038" sha1="b123d30e9bd2252309666e8a3f3a8f0a6019c712"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-death-test.h" size="14910" crc="181e320f" sha1="eae0c6f0b42ca3396ed0ba7327b92a356157259c"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-matchers.h" size="33067" crc="d7d0d49b" sha1="13809d0fb2e52af1dc9c1841bf6bec143bebd832"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-message.h" size="9203" crc="0939d9de" sha1="52411745a552b6bf58185b1dfca2df09cda39e89"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-param-test.h" size="24008" crc="acf0ab04" sha1="6d94a4c02d7a798c3058d53ddef4338f824c847d"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-printers.h" size="40511" crc="5352a5fc" sha1="9584a6346af89fc4e5ec9425b9f40823e116d132"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-spi.h" size="12843" crc="ed29fc66" sha1="5ddfbf73e84dc49ce9976c833285718a62aaedc6"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-test-part.h" size="7164" crc="fab02aa5" sha1="5c670a0480ff3be721acc55616234dbf836a5e00"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-typed-test.h" size="15889" crc="2d7a4319" sha1="6056310811140911680fd0544dcd600e276b101c"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest.h" size="91459" crc="b8b774ba" sha1="eb3f2be203e0dbdb2f8904c76f607a26b65cefce"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest_pred_impl.h" size="12783" crc="af151999" sha1="83cc3ae86bc6a2c333d27c90ea09ba4115385ccb"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest_prod.h" size="2502" crc="f6c8813a" sha1="39b1060af29c6f64c922f2528dd513ba21b95eb0"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/custom/gtest-port.h" size="1873" crc="93ce47ea" sha1="2e34313fddfb052d52f4e5477245ed8f53744d4e"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/custom/gtest-printers.h" size="2094" crc="de0f55e7" sha1="a4eaa1517aa6a77c0a17fb3155ec9df905f54a13"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/custom/gtest.h" size="1858" crc="bdd79634" sha1="15c867ba9510524d93aabd0536d31f9a001d0bcd"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/custom/README.md" size="1269" crc="cd0d8b76" sha1="8b8428793f542061117b24abcc84531ad550c806"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/gtest-death-test-internal.h" size="13929" crc="b40a4d17" sha1="c89cba1f303cb87363c76c2500ff028393e71ec5"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/gtest-filepath.h" size="10339" crc="51bf1483" sha1="10fddbb675ecac012bdf65d348923e21d49434b0"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/gtest-internal.h" size="63416" crc="a59db342" sha1="28e5b68c76cbe86292de6f8e3dbb13f49b1a0dc2"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/gtest-param-util.h" size="38172" crc="231bf282" sha1="6799599a85c4662eb54a8b1ce5ffeeba13ad895d"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/gtest-port-arch.h" size="4305" crc="cc9e8f78" sha1="ec1056f214abed223d56711e790e7512c34f3474"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/gtest-port.h" size="90033" crc="83ed302a" sha1="2dab336856d94fc921357d9166e4a3784f21479d"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/gtest-string.h" size="7323" crc="9f1e2350" sha1="d2d3580415afe8fd51f6099392c4f9b775bb11aa"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/gtest-type-util.h" size="7349" crc="678d9c2a" sha1="b0c94f1d1f83967b2fc72c0c45b9e5898f6cb355"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/README.md" size="8961" crc="8bdd3af8" sha1="ceb53b702ef88735a402ccd2da41c7b79954de67"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/prime_tables.h" size="4327" crc="aee70d63" sha1="49b30826c47401368b2ae15307b765887bc28253"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/sample1.cc" size="2471" crc="f691c429" sha1="37e696ad170818c5e6d2cf4e4677bfa8bb7a4d1f"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/sample1.h" size="1919" crc="5f550d32" sha1="99d455a0f8163e8a4566288520aa40125d594650"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/sample10_unittest.cc" size="4961" crc="cc6e7d34" sha1="126460468a86b41603516b8dc40c01cd3089eed5"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/sample1_unittest.cc" size="5108" crc="d762aced" sha1="d579944d2da8ae68314172cf746aa1d1cfd3c312"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/sample2.cc" size="2258" crc="6fb88b27" sha1="5fd1475a7e93c091b79405a48532dbdb798b0d9f"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/sample2.h" size="2981" crc="61855255" sha1="e17dd3e3e904d89675017951324e395aff6c0f72"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/sample2_unittest.cc" size="3908" crc="35143679" sha1="bb5deedafbb90cc1078e53cd5bc1a609bac6d091"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/sample3-inl.h" size="5376" crc="679ad987" sha1="f7363a4d39648ead0b26eeba50d25abdee4ce39a"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/sample3_unittest.cc" size="5352" crc="ee56abd9" sha1="4fb7b9aa215bff389dab65c81b5d055ba7688601"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/sample4.cc" size="2105" crc="2d7a1451" sha1="81b6f7ad851a68aae86525ac6d8edbec095fb3a1"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/sample4.h" size="2132" crc="eb70bd48" sha1="e919921723cdf71abb0d234470df025714b77396"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/sample4_unittest.cc" size="1995" crc="f8349a64" sha1="521200f38fea8ea771424875559a0f9bec1b6ebc"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/sample5_unittest.cc" size="6578" crc="f9f2c755" sha1="7b44649f33782e25023083181abf9dce08a54335"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/sample6_unittest.cc" size="8858" crc="d87d6a94" sha1="4c36b7fb60cf513839f949edd0e731f5fad18a2c"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/sample7_unittest.cc" size="4616" crc="b08e4d5d" sha1="765bd6742af07a1094b78eb8a9aff360b8d9719f"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/sample8_unittest.cc" size="6210" crc="4503acef" sha1="2e8c2ff3e8009fb2744ce981a0d4798350dfa437"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/samples/sample9_unittest.cc" size="5834" crc="7c537fad" sha1="3d0258ecd31b7284832e7dadf8bfe6ffec03cb70"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/src/gtest-all.cc" size="2201" crc="c5b4c487" sha1="c5295f4071dbf2bcda39869956d3b06c207b1205"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/src/gtest-assertion-result.cc" size="3009" crc="7a400327" sha1="b03c7f9fddc859eb665c574383e52b316f8e3154"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/src/gtest-death-test.cc" size="62742" crc="3c12dbe9" sha1="00be2fc21171b8c35cc4dfa2dfc415767eb068ac"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/src/gtest-filepath.cc" size="15732" crc="73bc5c36" sha1="bb9569c0d31afa435d6ca770f2baba5c7a7dc9a9"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/src/gtest-internal-inl.h" size="47929" crc="e5828dd9" sha1="d5d20e606cf73af3505ea33ee30c0dfa4266e0c3"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/src/gtest-matchers.cc" size="3724" crc="749167e8" sha1="aa2110ac1e47de10cf812d9c88b2120b14b2f566"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/src/gtest-port.cc" size="47960" crc="69d8957a" sha1="a2b691c7d487c7a1c4596703c8d8e80493208cb4"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/src/gtest-printers.cc" size="18551" crc="2dace420" sha1="96b0c9bfab4ebb4da8d7676a6e10ff1b637c4472"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/src/gtest-test-part.cc" size="4028" crc="ec866eef" sha1="61f2d3cb956bc17871873cceae412ee1e5087f9b"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/src/gtest-typed-test.cc" size="3823" crc="10720f78" sha1="d78121271d39f0dc738e2daa23082d767283dec9"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/src/gtest.cc" size="259551" crc="d471b19f" sha1="4848752d5ce97d37749f81d47ed73ef333ab2d8e"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/src/gtest_main.cc" size="2430" crc="85a73ff1" sha1="f377d58b270fd52a48cf0fb0d7f78371da8bc65c"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/BUILD.bazel" size="15469" crc="e3ca42b7" sha1="9b097f2920f9e666a9f59f1366282afb38ad72e6"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-break-on-failure-unittest.py" size="6926" crc="a7284fa7" sha1="1e542c0c0ab2e1ab96f351bc078328e823d2bcec"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-break-on-failure-unittest_.cc" size="3252" crc="9f6dee88" sha1="70222f53bece56460856cc0590b84f7f29279b5b"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-catch-exceptions-test.py" size="10424" crc="bc72abf4" sha1="3df5fa8aa8ce0a5dcbb0aa284bc93eb1b3f8287b"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-catch-exceptions-test_.cc" size="8380" crc="c0f9ae7a" sha1="2e1c4048bbac4b0080eabd3f308f01aaf849bd4d"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-color-test.py" size="5054" crc="e62ef868" sha1="847013b0b7c47c6f93504fe8818e0a0c4ec5723e"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-color-test_.cc" size="2503" crc="47f6e2c9" sha1="8e4a438d66af435fc829e620e0a934593da64cef"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-death-test-test.cc" size="47815" crc="9cbc90a9" sha1="1118abfe5c5ca2092b16674cfef243b52993077f"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-death-test_ex_test.cc" size="3559" crc="88426b8a" sha1="a6dd9411639d33184c3136ef0ae50055cb022263"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-env-var-test.py" size="4173" crc="38466090" sha1="5cc7baaf6254b3ae0bd842c942c2e60431de2a6e"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-env-var-test_.cc" size="3702" crc="d53d7e8a" sha1="9f8d909f425c2e551bfb1028efa1503b0791cce2"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-failfast-unittest.py" size="14376" crc="915d56bd" sha1="08df1add842d64dd27d3406ee243f6b730050425"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-failfast-unittest_.cc" size="5594" crc="99eb1754" sha1="262e30f96cda478964a9a50b4892b33e0a76065b"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-filepath-test.cc" size="23708" crc="db5c20ba" sha1="c7d03a4c47dcc42e259d63d7bab0414936cd84e1"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-filter-unittest.py" size="23285" crc="a62d0074" sha1="b5f0f94ac910ff350f9795b470fed48967f4099a"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-filter-unittest_.cc" size="3435" crc="ce7d8dc8" sha1="68ff07ff79c73256398fa5ad6746befc1800c02e"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-global-environment-unittest.py" size="4889" crc="6563a1de" sha1="019cffdf086ab10b28afffdc39aeaf9bda30fb12"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-global-environment-unittest_.cc" size="2286" crc="8c478972" sha1="7260373f2af63ba20015678f4cfb6b3e914eb677"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-json-outfiles-test.py" size="5829" crc="b2573101" sha1="55dc9542219235144195d15be5578a9c869173a2"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-json-output-unittest.py" size="27270" crc="06a0f991" sha1="9a05b5b423ad48e9897a177f36b472cd08c85673"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-list-tests-unittest.py" size="6555" crc="d1274e42" sha1="0555b196a53d3543320a2078c1640e774926dc1b"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-list-tests-unittest_.cc" size="4743" crc="05f3631e" sha1="02219bcf4c67c99b126ddd90fc6b81968341413b"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-listener-test.cc" size="24343" crc="bb820dfb" sha1="086e0fa8c43f87fb8ec7136da35c2c85e7a6c070"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-message-test.cc" size="5830" crc="e4e49f66" sha1="2ac7beb8f5ee90eafe29caa3e260657100f13ebc"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-options-test.cc" size="7977" crc="5f56a8eb" sha1="97942d5c96b2e3e34249b1fb12fe24f2813f557b"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-output-test-golden-lin.txt" size="43086" crc="d44641f0" sha1="c6af56cf77ee295656c328ee9db249164a101c0c"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-output-test.py" size="12645" crc="8969ce99" sha1="8a0d8bdb2e1cf8fea074e8de7e549194eb2e7101"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-output-test_.cc" size="36397" crc="b3667881" sha1="029f7626afef184e879da889da9ba8de67192166"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-param-test-invalid-name1-test.py" size="2398" crc="ca977839" sha1="459ff973d4beef9d44093d9db74257c02f220bce"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-param-test-invalid-name1-test_.cc" size="1995" crc="395afb91" sha1="f8bff61a803f417895755ef188f5d81b3893d1d0"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-param-test-invalid-name2-test.py" size="2352" crc="942a3ec8" sha1="bfbb451246889c5926b637c2f4c3bf4c87e3e6ef"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-param-test-invalid-name2-test_.cc" size="2129" crc="6b5640a0" sha1="848b9a3d7fdf373faf6d04c9aa1dbb9bed8e018e"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-param-test-test.cc" size="42922" crc="54db549f" sha1="ac1f20cde4a9e12b85ae66173fb7533b3c253594"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-param-test-test.h" size="2280" crc="08f17501" sha1="2c78e385c52d8e0223ab42a13503a1c284fa8202"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-param-test2-test.cc" size="2768" crc="1b96f126" sha1="30990aa201b692c7fe069ba21ee01858490ca734"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-port-test.cc" size="41136" crc="e8632105" sha1="084407a60a82d81446c48fe712716103fb67355c"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-printers-test.cc" size="65858" crc="f8c7a65c" sha1="588dd5e126715219afa7a91b97775de5e9b0a04c"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-setuptestsuite-test.py" size="2294" crc="fd59e0bc" sha1="9287bb648019067061d1a77f8ce0ac6ba7ce0e1e"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-setuptestsuite-test_.cc" size="1936" crc="785c1f4a" sha1="2b7402d76751cbbc7b53b6d4fb2bbc146065dc9a"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-shuffle-test.py" size="12701" crc="de4cdbcd" sha1="a76869f8608887c063ea9d90db6479be6a7ea82f"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-shuffle-test_.cc" size="3192" crc="3f86ab21" sha1="60ed67cc06f2c150cca91667edd09fa31be94575"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-test-part-test.cc" size="7834" crc="aab5e29a" sha1="93412c94783ad8b109430beedaf185f594fee17c"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-throw-on-failure-test.py" size="5495" crc="20e1650c" sha1="29473a93eb8569cb575e44a2a40badbd88909a76"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-throw-on-failure-test_.cc" size="3013" crc="dc8569bb" sha1="b837b9fe88acfc285fa3d2772f806e9eef6239aa"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-uninitialized-test.py" size="2501" crc="b5bc7280" sha1="5f832dd5f931789db3719d67ac7ed21a9f8ceca1"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/googletest-uninitialized-test_.cc" size="1875" crc="88cbf5d9" sha1="3fd92d87590f400d71a3a81b4ae77338d35eb41d"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest-typed-test2_test.cc" size="1954" crc="caaf169c" sha1="331b85cb6da7e45ce2bee2bb52e0d83258d0d72a"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest-typed-test_test.cc" size="14090" crc="ceca796e" sha1="71b55b6691d0d3a9e3e1e3fd0384710087d28925"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest-typed-test_test.h" size="2393" crc="d30601d1" sha1="24bdb84f0dbb26fd2607ae61de86fdec6e0a3ebc"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest-unittest-api_test.cc" size="13047" crc="ef213a43" sha1="cb3cf4068f44c110838783cffd2fbccbad230b8c"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_all_test.cc" size="2239" crc="ac7e51df" sha1="d969264e5ae269fa709a33479c273e0895d11b12"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_assert_by_exception_test.cc" size="3842" crc="c100b6fb" sha1="a35b680083ff14dae20be9569ea57eafc8ed5bf7"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_dirs_test.cc" size="2939" crc="26c510fc" sha1="e8fa0abea99e13b1ec3dd5b109c70b195e32ce9c"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_environment_test.cc" size="6409" crc="3f2d96fe" sha1="5961b9412b0f3eb75b520134ded968e7125c003e"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_help_test.py" size="6390" crc="9a02089c" sha1="9240a5c1f04d351caf225d08cc7f3e3ebd75a7e6"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_help_test_.cc" size="2090" crc="4306774f" sha1="600795939a9fff889bc4ec382e5ccd1202510df8"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_json_test_utils.py" size="2488" crc="da891b62" sha1="d57ba5e65b5726e3528a4f196845467e27e623cb"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_list_output_unittest.py" size="9497" crc="c36a1382" sha1="83671d2810ae78ccd5938956ed37678606d55009"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_list_output_unittest_.cc" size="3197" crc="ad844fb5" sha1="5982d5cd1419e8ed3eb78b609a58fa0c8a1038f4"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_main_unittest.cc" size="1839" crc="6b553a49" sha1="bf67bdcfb5b74980f9152516fe82542af1e6ba45"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_no_test_unittest.cc" size="2403" crc="f188661f" sha1="b1cb74a4b4a379d6290d393f225eaff5a07c33fa"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_pred_impl_unittest.cc" size="69752" crc="23a7095b" sha1="85bfd9b6091fd1e877a350a6d84b231a5f85a627"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_premature_exit_test.cc" size="4312" crc="19ecadaf" sha1="df220ed3b8a2043199267103f1259f9b73d3eb47"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_prod_test.cc" size="2147" crc="9f4d4dce" sha1="c0211967557545ea9f09acb7ced733e8a715b91c"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_repeat_test.cc" size="7698" crc="e971db42" sha1="f697e089350a5d69c5a49cdcbcaad24cb37874ea"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_skip_check_output_test.py" size="2417" crc="c1fc6789" sha1="a9617b69bd4ce6b6ba16d1fc78533b6261e186e9"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_skip_environment_check_output_test.py" size="2231" crc="5a6e66ca" sha1="ef1be1516d204649ee50aefe0e32a8ca0a25d17f"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_skip_in_environment_setup_test.cc" size="2070" crc="e0dd8851" sha1="ecac1c094e25011e66f0cfefe855749a891b0230"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_skip_test.cc" size="2001" crc="a5b2323c" sha1="eff6d6d6c19adc136d1dc8e8e924dec761635924"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_sole_header_test.cc" size="2173" crc="5350fd5e" sha1="e6b67afe86680acdf72b07d29107ad0d46f1a0af"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_stress_test.cc" size="9369" crc="232d7430" sha1="941d38dd8e7f6fe3202f7c509ac6d07a2834fce5"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_test_macro_stack_footprint_test.cc" size="3871" crc="2f97fc40" sha1="c35398f319338ddce5ad05aa1393066946ba5e14"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_test_utils.py" size="8146" crc="45b3af24" sha1="d8e3709c3e3ed41bcdc1da37522594f49c10fe27"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_testbridge_test.py" size="2495" crc="e3484387" sha1="eebe4282795bbd160bb4c30991a5582fb80cba22"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_testbridge_test_.cc" size="1922" crc="3f6ebed3" sha1="46d0b93454fdd220a9cbcfa6d754fa9f8373284c"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_throw_on_failure_ex_test.cc" size="3395" crc="8e8961eb" sha1="3be55177529282a8a9932389f29503be5954bb63"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_unittest.cc" size="264406" crc="a4da6b1d" sha1="bcb6f53dfec1a58109374adbab77144727dbef11"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_xml_outfile1_test_.cc" size="1955" crc="77b0e2f3" sha1="7bd21fd2791e6619632752d08eb05e365e65c2b6"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_xml_outfile2_test_.cc" size="2835" crc="4ff9f6be" sha1="0e9ed2afb05d95c71f949cf3c1d2390eda441a3b"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_xml_outfiles_test.py" size="5961" crc="030bb0a5" sha1="910de479681a638fe7739bad9c784da0caad9772"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_xml_output_unittest.py" size="23085" crc="0cd1fc63" sha1="756ebdbf79f9a2952caa0d4a647ec9d43fe4dada"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_xml_output_unittest_.cc" size="6434" crc="66f1c51b" sha1="3e165fbf685549d6bcdca3d1b1db31975c1f3499"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/gtest_xml_test_utils.py" size="10192" crc="8fe68d3f" sha1="f2050820c18e3df7b494323e132a4017671b19c5"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/production.cc" size="1675" crc="dc37b018" sha1="15194f1e2ab38f3ca7d7a33b4acee2c5b4956d76"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest/test/production.h" size="2131" crc="de68afca" sha1="5102f81a250b7d8265b791d9d7fd4f8422076916"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/googletest_deps.bzl" size="1124" crc="6b06b6a4" sha1="d4cd975f01f7049c9bc709d8bf11a0c961cfb130"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/LICENSE" size="1475" crc="f88d0b9e" sha1="5a2314153eadadc69258a9429104cd11804ea304"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/README.md" size="5814" crc="9d7056a2" sha1="db4097ce2cc33c2b856a4ca50a4b79c5f17edae7"/>
+		<rom name="Laserdisc Player Command Interpreters-master/LaserdiscPlayerCommandInterpreters-master/thirdparty/googletest-1.14.0/WORKSPACE" size="1159" crc="daba4438" sha1="4971062c1801f1e9b3170c17986d9ada4423f666"/>
+		<rom name="LaserdiscPlayerAbstract-main/.github/workflows/pr.yml" size="1612" crc="ce66e9f8" sha1="3096f6ef9f7bccfb2a7e8ba173cdafacb1ace4fd"/>
+		<rom name="LaserdiscPlayerAbstract-main/.gitignore" size="187" crc="ab4ea5de" sha1="47f37e31846883bc15372b78898e4a35d6fd47f3"/>
+		<rom name="LaserdiscPlayerAbstract-main/CMakeLists.txt" size="1503" crc="f37c4856" sha1="249fcdcbeea5d58872933cb4132f165f11883701"/>
+		<rom name="LaserdiscPlayerAbstract-main/include/ldp-abst/datatypes.h" size="84" crc="fb649022" sha1="52a056edffaa04af98105ae217f91fc84f28a895"/>
+		<rom name="LaserdiscPlayerAbstract-main/include/ldp-abst/field.h" size="454" crc="9c0f392b" sha1="690bc4cd3d694269be5a80f7f3f7bfac29c304b3"/>
+		<rom name="LaserdiscPlayerAbstract-main/include/ldp-abst/ldp_search_delay.h" size="465" crc="8f747f54" sha1="a69d215ec21eaf8cf81d33c61c38f11b08561814"/>
+		<rom name="LaserdiscPlayerAbstract-main/include/ldp-abst/ldpc.h" size="8038" crc="44b17b2c" sha1="9f3fdecb221dd61b9dfdabc82be46e30bfe685cf"/>
+		<rom name="LaserdiscPlayerAbstract-main/include/ldp-abst/VBICompact.h" size="7496" crc="0d3fadba" sha1="49f407f7655d58aaca77f609555a35a244988dee"/>
+		<rom name="LaserdiscPlayerAbstract-main/include/ldp-abst/VBIMini.h" size="394" crc="5be56c1a" sha1="f146a8f3d87b0b5a1079836993b631884eb92d4a"/>
+		<rom name="LaserdiscPlayerAbstract-main/ldp_abst-config-version.cmake.in" size="623" crc="57af3ebd" sha1="0ae3d8c0b2d9a23e2bb15f8cce7013cb4b3080e6"/>
+		<rom name="LaserdiscPlayerAbstract-main/ldp_abst-config.cmake" size="176" crc="d08c8ff7" sha1="453efbf24de8d077b82a621125157b0c9d14a916"/>
+		<rom name="LaserdiscPlayerAbstract-main/LICENSE" size="1498" crc="9909a2a1" sha1="15bfd7d6447ae3d76a45d8486424c7d88bac4595"/>
+		<rom name="LaserdiscPlayerAbstract-main/mull.yml" size="139" crc="d9f8268c" sha1="80457c969d5a725f813701aa0bd94137781579dc"/>
+		<rom name="LaserdiscPlayerAbstract-main/README.md" size="138" crc="a5759cac" sha1="19c24d575583c485702ffb4766f739eca82de731"/>
+		<rom name="LaserdiscPlayerAbstract-main/src/CMakeLists.txt" size="1060" crc="a61d7a4a" sha1="dd0b00162f8ee2f8bd1cdb423a218e1509f5e76f"/>
+		<rom name="LaserdiscPlayerAbstract-main/src/ldp_search_delay.c" size="419" crc="39109930" sha1="e81b2a85488fb92c23ba71bf8c703a829344444c"/>
+		<rom name="LaserdiscPlayerAbstract-main/src/ldpc.c" size="19301" crc="75abf6ec" sha1="106c68e2be9e29dcbdff737cca5bfac7edc0af31"/>
+		<rom name="LaserdiscPlayerAbstract-main/src/VBICompact.c" size="17772" crc="ec5bffd7" sha1="638aa6fa5b3ef5adf0cac60c1f51a124cb8f68a6"/>
+		<rom name="LaserdiscPlayerAbstract-main/tests/CMakeLists.txt" size="493" crc="132f9dae" sha1="05efdb9de9ee4facdb59012e01e401d66ba34cb4"/>
+		<rom name="LaserdiscPlayerAbstract-main/tests/ldpc_tests.cpp" size="47539" crc="cf04f0a8" sha1="609de9c074809c25c13e6d211a57f510e91e29cb"/>
+		<rom name="LaserdiscPlayerAbstract-main/tests/mpo_deleter.h" size="691" crc="b8489fe1" sha1="44403c2ab9599dd65279146b4f554c3be9a8a797"/>
+		<rom name="LaserdiscPlayerAbstract-main/tests/stdafx.h" size="865" crc="59bc435c" sha1="360d84e0820dbe8142f58961e67cbdd8466aaf7a"/>
+		<rom name="LaserdiscPlayerAbstract-main/tests/vbi_test.cpp" size="53416" crc="1e56dbe1" sha1="08113f158625b8d28f8dfafc1a3bc5008e422de0"/>
+		<rom name="LaserdiscPlayerAbstract-main/tests/VBIParse.cpp" size="38119" crc="9571bcd5" sha1="bca56170422ed7d0a68948c67f3e144c9e56fb56"/>
+		<rom name="LaserdiscPlayerAbstract-main/tests/VBIParse.h" size="7565" crc="e4d3cc69" sha1="3bdbe9b3161531bc4674b5eba86304855c7f7bd8"/>
+		<rom name="LaserdiscPlayerAbstract-main/tests/VideoStandard.h" size="185" crc="6009bd04" sha1="f73526c7fdbb856d92fcae19452b920b0aeaa347"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/.clang-format" size="116" crc="67ed3374" sha1="c93dba71d153bf06f8e73ac7389cd9e129029f1f"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/.github/ISSUE_TEMPLATE/00-bug_report.yml" size="2064" crc="64938fbb" sha1="e10130ae9d222ae17b7a94475817a9c5db3a322e"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/.github/ISSUE_TEMPLATE/10-feature_request.yml" size="1058" crc="f5beabc2" sha1="22bcfd07be50b6f59aedc1fc860aaf3586088942"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/.github/ISSUE_TEMPLATE/config.yml" size="175" crc="2f662e8e" sha1="6eaffc1003bb225ed6429a0a02d5d684e0d77742"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/.github/workflows/gtest-ci.yml" size="790" crc="3b6f5f3c" sha1="17e7a019fde02e1a432aabf6ea63d552f8758df5"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/.gitignore" size="1605" crc="3b440733" sha1="ede2c86c12951847e7037acd7ad9d3198dd83411"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/BUILD.bazel" size="6488" crc="fc0971ff" sha1="07e13db0913d655ecb16044b8fc140069215993d"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/ci/linux-presubmit.sh" size="4533" crc="99282a89" sha1="e08480de9e329e2b033dd81cc7051c97dffd0d0b"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/ci/macos-presubmit.sh" size="2699" crc="fbb76c1b" sha1="16d89899cccf16e6249f8dd361a7cef472056cc2"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/ci/windows-presubmit.bat" size="1563" crc="9f42a903" sha1="0dd75ffa85f02bd1a29bc2f8211649681a126675"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/CMakeLists.txt" size="819" crc="853245f0" sha1="a0887ff3d7f117f1ece9dd512a55ddfb8c35a85e"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/CONTRIBUTING.md" size="5688" crc="85df61e0" sha1="1293bb159250ba89d1c0154dde3be702e5857e9f"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/CONTRIBUTORS" size="2261" crc="789007e6" sha1="295b242f899fc3b3b3619427afafbfb4945bd695"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/_config.yml" size="18" crc="38631c1d" sha1="e7185992ba486cdc68ff601572485884415e139a"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/_data/navigation.yml" size="1200" crc="ac57f3f5" sha1="6d9faeac79b672f1ed3a8de2217bad61c9ca4cd0"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/_layouts/default.html" size="2317" crc="9ea422e3" sha1="5687c932a584d0c9f2134eada1399c61ff471e64"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/_sass/main.scss" size="2915" crc="81bb4b43" sha1="952bd24c6a7bf80ad02cd181fef20be5aadf7fa0"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/advanced.md" size="88688" crc="f5bc4ed5" sha1="157aaaa9550302f6144b932755cfff20179be293"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/assets/css/style.scss" size="56" crc="b2c35a42" sha1="5fad167fb4ebd937550c7f233c9c22724044b6c8"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/community_created_documentation.md" size="342" crc="a494374b" sha1="267f2f39354ace89cdaa3b9670dd0d200d6eff7a"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/faq.md" size="29898" crc="4d5b3682" sha1="984feb3ca9a4876253924ddcfeb460e2a4d2f354"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/gmock_cheat_sheet.md" size="7382" crc="3419bc3b" sha1="ab7958b2f11d67560a439cfeac71841191f8b0ff"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/gmock_cook_book.md" size="147349" crc="ad1032c8" sha1="05ec067ff65d3db9069a7dd9a834b241f093e5c6"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/gmock_faq.md" size="14980" crc="dd2b64bc" sha1="3d696e222e6589b58c1028b2522451e64ed2ac1a"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/gmock_for_dummies.md" size="29196" crc="b7c4aff7" sha1="9928302c459d5b9771ef0d231bdda89e07a89937"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/index.md" size="1034" crc="e4fed59f" sha1="0b8fbb05baf989a56d4becaf8307b257967134c7"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/pkgconfig.md" size="4981" crc="0664327e" sha1="d014301f71a942fc15debdd1fd200eeeeace04ca"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/platforms.md" size="343" crc="9032a634" sha1="3332a60f55b1f3522d7d3b4b607315513da0c908"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/primer.md" size="19166" crc="0dc0bf6d" sha1="644ff19c298af1eac5a71a10f556bd3067c13946"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/quickstart-bazel.md" size="5600" crc="2ad66c5c" sha1="63dbcb3cac93f984530dad7db2c8e6bad94dc132"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/quickstart-cmake.md" size="5097" crc="2b78f770" sha1="0b46605a7aeaa80373086eda007ff167fe15cb6d"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/reference/actions.md" size="6872" crc="2b5e7b27" sha1="e18e7771ca2ded4f21d674c652a905417f03f180"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/reference/assertions.md" size="21535" crc="1bebe6d4" sha1="6f23938d4dbdfbe70ce2c0315610adf31ec1e2c8"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/reference/matchers.md" size="20993" crc="b7be4d7b" sha1="cb9a585298a4d5857a07f9a905ee0d2b85c17926"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/reference/mocking.md" size="21139" crc="fe7e24b5" sha1="49c91af900df5765a08d946acb370c7934b8f0cd"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/reference/testing.md" size="43875" crc="6a3d8523" sha1="cea8440a75e23eb2794cea6de94eb91bfac1830d"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/docs/samples.md" size="1116" crc="e282792e" sha1="6d836ed1f31e0fd9662712097de80fcf735dec09"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/cmake/gmock.pc.in" size="347" crc="cc3f9709" sha1="4b02067d7cac0f0f8c9d37bff53499bbac42fb50"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/cmake/gmock_main.pc.in" size="354" crc="e239798c" sha1="0640eb8936044a61d913431436e07ac936c74418"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/CMakeLists.txt" size="7882" crc="ce24c2f5" sha1="c9754db136c6993c3e0c9d457801b480020138fd"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/docs/README.md" size="139" crc="ec24d888" sha1="0a67344cd9f71237529a6035bde7e34df15a4c59"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock-actions.h" size="87946" crc="74a3e583" sha1="0be8ee31aa6e9e807ea4dddf4d5cdf3eecba415f"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock-cardinalities.h" size="6118" crc="5e25829d" sha1="e29287cd47dce3770c08285e9ef9eb441d8a35e9"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock-function-mocker.h" size="25756" crc="a5e7d8be" sha1="c2012d75febc5952e1434bbf2ec3b27ca1716d55"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock-matchers.h" size="210247" crc="d107a3eb" sha1="ec8a9fdadba1ccaee0f35f17c2e648b808e2bbee"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock-more-actions.h" size="38344" crc="b10c8ff9" sha1="1b77e192ffecb6f0a9ad4df8dd56252ecc0a901e"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock-more-matchers.h" size="4499" crc="689093df" sha1="c338e65e146155bc0a260df64d5f1c7c88693afd"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock-nice-strict.h" size="10858" crc="426d8675" sha1="945e109a0ac55895087ebcd37de932c33b6d6370"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock-spec-builders.h" size="82067" crc="2c3d4571" sha1="79a5ba930d27a82689742ed796f8c29438e97773"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/include/gmock/gmock.h" size="3723" crc="283d22eb" sha1="3c3a0a5cf70aee31198e7e3d3359bd4576224fb9"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/include/gmock/internal/custom/gmock-generated-actions.h" size="314" crc="5b03dacf" sha1="7c20a89e384803a1c1aa92f0a82bd1876293a28b"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/include/gmock/internal/custom/gmock-matchers.h" size="1918" crc="deb3a255" sha1="c55ad80a46c830864f74798dc8d2e428d89a5726"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/include/gmock/internal/custom/gmock-port.h" size="1953" crc="598e9c1e" sha1="3d6bf95960135cdf84aa8613950df3aa192e1fa2"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/include/gmock/internal/custom/README.md" size="510" crc="9c3c522e" sha1="b15d47a7d02806b2cd866237641b52033c0dbbbf"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/include/gmock/internal/gmock-internal-utils.h" size="19372" crc="2d26e90c" sha1="4705626c7cd9aae828b51e3c688466cba0c45789"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/include/gmock/internal/gmock-port.h" size="6070" crc="8277ee1d" sha1="87b261c8faf91967d0c2732df734d79f80e99516"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/include/gmock/internal/gmock-pp.h" size="13491" crc="ce229026" sha1="76b74fb8b74e3184a31361d01c1e0374054972d9"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/README.md" size="1538" crc="9f90c2c9" sha1="fa6a7d172bdd1df5796f27082eb89cdd93104d54"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/src/gmock-all.cc" size="2107" crc="5b2f8b75" sha1="7776114274f3755381b08310001b04c477cfd601"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/src/gmock-cardinalities.cc" size="5330" crc="cfd0ec94" sha1="4d597010f310582989b8bd6dabb481a35defdc59"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/src/gmock-internal-utils.cc" size="9428" crc="3e76a416" sha1="6a30c5d08807fd50eaa468ff65f3ee04aa1e7830"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/src/gmock-matchers.cc" size="18555" crc="4248cb69" sha1="bc16ee7529b6b6ce14ff6de951a96d20b4edeac2"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/src/gmock-spec-builders.cc" size="29334" crc="6b2a15a9" sha1="efc3365d38471edfe4b12d308e71933c2f0cdb3d"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/src/gmock.cc" size="8547" crc="5e8a12bd" sha1="052e9bfa6cb1fa572d366e4ec75b5791dbbee991"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/src/gmock_main.cc" size="3092" crc="347dbfb3" sha1="d51316c4738181f42d5a21ff6827a70ddc5eeb13"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/BUILD.bazel" size="3294" crc="614b463f" sha1="dc7f6fb64a373dc7c3f4b881ac4a7eac4989ffd4"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock-actions_test.cc" size="72915" crc="ac6beffc" sha1="819ebb4e244e3febb6cdb3bf3a59250e2a4a4e80"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock-cardinalities_test.cc" size="12138" crc="efd5b017" sha1="57a4ff8b9d466793ae91175aa85bd9fb37d7c0df"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock-function-mocker_test.cc" size="34994" crc="6cba9afe" sha1="c441c987c909b21629a9c2b4edc598cb7ec008c0"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock-internal-utils_test.cc" size="28429" crc="97d7812b" sha1="8dd607746ac46a0df35a5ab8f8c9f3883c78791f"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock-matchers-arithmetic_test.cc" size="53878" crc="eb64b64a" sha1="986de5ae35caf10521613bf3db8d6a6d1ae85aac"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock-matchers-comparisons_test.cc" size="77929" crc="8b9aec99" sha1="c46fa2d5469b7febe9f8c4b9ed1682ad181cddb1"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock-matchers-containers_test.cc" size="101563" crc="f632ab57" sha1="05f9a5aae62a9fdd4aa6c5dbfa6b9842f95d4e30"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock-matchers-misc_test.cc" size="61926" crc="cfb3cc0d" sha1="b724974c382d6588f72f5061fe733fc25eaba81b"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock-matchers_test.h" size="6273" crc="5a7d756d" sha1="acfcaf36931501ad240f5c0eef9074327a98a95b"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock-more-actions_test.cc" size="53624" crc="ce13e6c1" sha1="b9737c9aebd4a2dfe071f22e6b16f216c71b6df2"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock-nice-strict_test.cc" size="15676" crc="b062deeb" sha1="ad3c185b5ead20cfc05d933d16d5bb6cc2db0bd9"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock-port_test.cc" size="1977" crc="5398dbda" sha1="5eb21a7eb6a874ec085f9b7c848cbede22a53e4c"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock-pp-string_test.cc" size="8788" crc="48040e07" sha1="f6eee2218127072db8ddb721ed0ef9768ab8a744"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock-pp_test.cc" size="3517" crc="9ffb1fce" sha1="1b7e146a1546812b96a6cd0c58b1027a24c8893f"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock-spec-builders_test.cc" size="74737" crc="4501ce1a" sha1="eb0218d1eed380489733b25b7a07e3924b245888"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock_all_test.cc" size="2491" crc="0e88b9ee" sha1="29025cf0651729d5318cef4dd2eed63ed967e15d"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock_ex_test.cc" size="3300" crc="daa07d08" sha1="87834d4738a376019bb58c61785bc0096856b319"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock_leak_test.py" size="4070" crc="6f16cec7" sha1="d2e1862afc7bb138aff1bd3c33a2486649245b61"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock_leak_test_.cc" size="3284" crc="da4209ab" sha1="ba3b136c45fbd12de244ad4b6afe2a2a5a0ca513"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock_link2_test.cc" size="1875" crc="84f18afe" sha1="256c772ea13d82f474171fd7ba5a1229b890d844"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock_link_test.cc" size="1875" crc="de90b59e" sha1="896e408c3331539dab05e330bd3c44b9b7a8e189"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock_link_test.h" size="19569" crc="90813ae5" sha1="27e2e0dbdf272204374d4972f84f34cd9dfe67dc"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock_output_test.py" size="6334" crc="ae9c542b" sha1="611a5ee9c453f72bb4b58e0aa23af33ad30cf68c"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock_output_test_.cc" size="8440" crc="bbdb0914" sha1="5183167e78d2fd67f686b46afc8c924cbfec9747"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock_output_test_golden.txt" size="13661" crc="600c44e5" sha1="59c85b33ed923fc0f084bf92b838ddac865261f4"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock_stress_test.cc" size="7249" crc="353f1c82" sha1="61502400e7d27169c6b345fea0af872eefe1535c"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock_test.cc" size="6414" crc="4825cc79" sha1="1b2d820dba6a5b4edff512532f3e97d054c6fc0b"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googlemock/test/gmock_test_utils.py" size="3108" crc="4a519a59" sha1="0d0ec7be9b3180d088422f80331432ea750f86eb"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/cmake/Config.cmake.in" size="284" crc="8afb557d" sha1="982b8941dc8933bf8f3a3cba5b062f189b73f37f"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/cmake/gtest.pc.in" size="311" crc="37fac454" sha1="75fee537417cca7bec450f163f56e9a8126be5cc"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/cmake/gtest_main.pc.in" size="354" crc="cd99ae4d" sha1="66061b30491d19f34fdee3bde5c1c3475ca95cd9"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/cmake/internal_utils.cmake" size="13882" crc="890e206c" sha1="ba4b47cda18569608437a9c9227116bd71314bfa"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/cmake/libgtest.la.in" size="499" crc="d3305d98" sha1="b0ca137e48bb5f86f120b2dd104cd6f64f5143ae"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/CMakeLists.txt" size="11960" crc="11fae92e" sha1="245a4bf50687551461381f14a9c070e08455e76f"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/docs/README.md" size="139" crc="ec24d888" sha1="0a67344cd9f71237529a6035bde7e34df15a4c59"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-assertion-result.h" size="8503" crc="56f90038" sha1="b123d30e9bd2252309666e8a3f3a8f0a6019c712"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-death-test.h" size="14910" crc="181e320f" sha1="eae0c6f0b42ca3396ed0ba7327b92a356157259c"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-matchers.h" size="33067" crc="d7d0d49b" sha1="13809d0fb2e52af1dc9c1841bf6bec143bebd832"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-message.h" size="9203" crc="0939d9de" sha1="52411745a552b6bf58185b1dfca2df09cda39e89"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-param-test.h" size="24008" crc="acf0ab04" sha1="6d94a4c02d7a798c3058d53ddef4338f824c847d"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-printers.h" size="40511" crc="5352a5fc" sha1="9584a6346af89fc4e5ec9425b9f40823e116d132"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-spi.h" size="12843" crc="ed29fc66" sha1="5ddfbf73e84dc49ce9976c833285718a62aaedc6"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-test-part.h" size="7164" crc="fab02aa5" sha1="5c670a0480ff3be721acc55616234dbf836a5e00"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest-typed-test.h" size="15889" crc="2d7a4319" sha1="6056310811140911680fd0544dcd600e276b101c"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest.h" size="91459" crc="b8b774ba" sha1="eb3f2be203e0dbdb2f8904c76f607a26b65cefce"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest_pred_impl.h" size="12783" crc="af151999" sha1="83cc3ae86bc6a2c333d27c90ea09ba4115385ccb"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/gtest_prod.h" size="2502" crc="f6c8813a" sha1="39b1060af29c6f64c922f2528dd513ba21b95eb0"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/custom/gtest-port.h" size="1873" crc="93ce47ea" sha1="2e34313fddfb052d52f4e5477245ed8f53744d4e"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/custom/gtest-printers.h" size="2094" crc="de0f55e7" sha1="a4eaa1517aa6a77c0a17fb3155ec9df905f54a13"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/custom/gtest.h" size="1858" crc="bdd79634" sha1="15c867ba9510524d93aabd0536d31f9a001d0bcd"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/custom/README.md" size="1269" crc="cd0d8b76" sha1="8b8428793f542061117b24abcc84531ad550c806"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/gtest-death-test-internal.h" size="13929" crc="b40a4d17" sha1="c89cba1f303cb87363c76c2500ff028393e71ec5"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/gtest-filepath.h" size="10339" crc="51bf1483" sha1="10fddbb675ecac012bdf65d348923e21d49434b0"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/gtest-internal.h" size="63416" crc="a59db342" sha1="28e5b68c76cbe86292de6f8e3dbb13f49b1a0dc2"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/gtest-param-util.h" size="38172" crc="231bf282" sha1="6799599a85c4662eb54a8b1ce5ffeeba13ad895d"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/gtest-port-arch.h" size="4305" crc="cc9e8f78" sha1="ec1056f214abed223d56711e790e7512c34f3474"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/gtest-port.h" size="90033" crc="83ed302a" sha1="2dab336856d94fc921357d9166e4a3784f21479d"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/gtest-string.h" size="7323" crc="9f1e2350" sha1="d2d3580415afe8fd51f6099392c4f9b775bb11aa"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/include/gtest/internal/gtest-type-util.h" size="7349" crc="678d9c2a" sha1="b0c94f1d1f83967b2fc72c0c45b9e5898f6cb355"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/README.md" size="8961" crc="8bdd3af8" sha1="ceb53b702ef88735a402ccd2da41c7b79954de67"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/prime_tables.h" size="4327" crc="aee70d63" sha1="49b30826c47401368b2ae15307b765887bc28253"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/sample1.cc" size="2471" crc="f691c429" sha1="37e696ad170818c5e6d2cf4e4677bfa8bb7a4d1f"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/sample1.h" size="1919" crc="5f550d32" sha1="99d455a0f8163e8a4566288520aa40125d594650"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/sample10_unittest.cc" size="4961" crc="cc6e7d34" sha1="126460468a86b41603516b8dc40c01cd3089eed5"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/sample1_unittest.cc" size="5108" crc="d762aced" sha1="d579944d2da8ae68314172cf746aa1d1cfd3c312"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/sample2.cc" size="2258" crc="6fb88b27" sha1="5fd1475a7e93c091b79405a48532dbdb798b0d9f"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/sample2.h" size="2981" crc="61855255" sha1="e17dd3e3e904d89675017951324e395aff6c0f72"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/sample2_unittest.cc" size="3908" crc="35143679" sha1="bb5deedafbb90cc1078e53cd5bc1a609bac6d091"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/sample3-inl.h" size="5376" crc="679ad987" sha1="f7363a4d39648ead0b26eeba50d25abdee4ce39a"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/sample3_unittest.cc" size="5352" crc="ee56abd9" sha1="4fb7b9aa215bff389dab65c81b5d055ba7688601"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/sample4.cc" size="2105" crc="2d7a1451" sha1="81b6f7ad851a68aae86525ac6d8edbec095fb3a1"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/sample4.h" size="2132" crc="eb70bd48" sha1="e919921723cdf71abb0d234470df025714b77396"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/sample4_unittest.cc" size="1995" crc="f8349a64" sha1="521200f38fea8ea771424875559a0f9bec1b6ebc"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/sample5_unittest.cc" size="6578" crc="f9f2c755" sha1="7b44649f33782e25023083181abf9dce08a54335"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/sample6_unittest.cc" size="8858" crc="d87d6a94" sha1="4c36b7fb60cf513839f949edd0e731f5fad18a2c"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/sample7_unittest.cc" size="4616" crc="b08e4d5d" sha1="765bd6742af07a1094b78eb8a9aff360b8d9719f"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/sample8_unittest.cc" size="6210" crc="4503acef" sha1="2e8c2ff3e8009fb2744ce981a0d4798350dfa437"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/samples/sample9_unittest.cc" size="5834" crc="7c537fad" sha1="3d0258ecd31b7284832e7dadf8bfe6ffec03cb70"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/src/gtest-all.cc" size="2201" crc="c5b4c487" sha1="c5295f4071dbf2bcda39869956d3b06c207b1205"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/src/gtest-assertion-result.cc" size="3009" crc="7a400327" sha1="b03c7f9fddc859eb665c574383e52b316f8e3154"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/src/gtest-death-test.cc" size="62742" crc="3c12dbe9" sha1="00be2fc21171b8c35cc4dfa2dfc415767eb068ac"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/src/gtest-filepath.cc" size="15732" crc="73bc5c36" sha1="bb9569c0d31afa435d6ca770f2baba5c7a7dc9a9"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/src/gtest-internal-inl.h" size="47929" crc="e5828dd9" sha1="d5d20e606cf73af3505ea33ee30c0dfa4266e0c3"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/src/gtest-matchers.cc" size="3724" crc="749167e8" sha1="aa2110ac1e47de10cf812d9c88b2120b14b2f566"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/src/gtest-port.cc" size="47960" crc="69d8957a" sha1="a2b691c7d487c7a1c4596703c8d8e80493208cb4"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/src/gtest-printers.cc" size="18551" crc="2dace420" sha1="96b0c9bfab4ebb4da8d7676a6e10ff1b637c4472"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/src/gtest-test-part.cc" size="4028" crc="ec866eef" sha1="61f2d3cb956bc17871873cceae412ee1e5087f9b"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/src/gtest-typed-test.cc" size="3823" crc="10720f78" sha1="d78121271d39f0dc738e2daa23082d767283dec9"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/src/gtest.cc" size="259551" crc="d471b19f" sha1="4848752d5ce97d37749f81d47ed73ef333ab2d8e"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/src/gtest_main.cc" size="2430" crc="85a73ff1" sha1="f377d58b270fd52a48cf0fb0d7f78371da8bc65c"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/BUILD.bazel" size="15469" crc="e3ca42b7" sha1="9b097f2920f9e666a9f59f1366282afb38ad72e6"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-break-on-failure-unittest.py" size="6926" crc="a7284fa7" sha1="1e542c0c0ab2e1ab96f351bc078328e823d2bcec"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-break-on-failure-unittest_.cc" size="3252" crc="9f6dee88" sha1="70222f53bece56460856cc0590b84f7f29279b5b"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-catch-exceptions-test.py" size="10424" crc="bc72abf4" sha1="3df5fa8aa8ce0a5dcbb0aa284bc93eb1b3f8287b"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-catch-exceptions-test_.cc" size="8380" crc="c0f9ae7a" sha1="2e1c4048bbac4b0080eabd3f308f01aaf849bd4d"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-color-test.py" size="5054" crc="e62ef868" sha1="847013b0b7c47c6f93504fe8818e0a0c4ec5723e"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-color-test_.cc" size="2503" crc="47f6e2c9" sha1="8e4a438d66af435fc829e620e0a934593da64cef"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-death-test-test.cc" size="47815" crc="9cbc90a9" sha1="1118abfe5c5ca2092b16674cfef243b52993077f"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-death-test_ex_test.cc" size="3559" crc="88426b8a" sha1="a6dd9411639d33184c3136ef0ae50055cb022263"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-env-var-test.py" size="4173" crc="38466090" sha1="5cc7baaf6254b3ae0bd842c942c2e60431de2a6e"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-env-var-test_.cc" size="3702" crc="d53d7e8a" sha1="9f8d909f425c2e551bfb1028efa1503b0791cce2"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-failfast-unittest.py" size="14376" crc="915d56bd" sha1="08df1add842d64dd27d3406ee243f6b730050425"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-failfast-unittest_.cc" size="5594" crc="99eb1754" sha1="262e30f96cda478964a9a50b4892b33e0a76065b"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-filepath-test.cc" size="23708" crc="db5c20ba" sha1="c7d03a4c47dcc42e259d63d7bab0414936cd84e1"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-filter-unittest.py" size="23285" crc="a62d0074" sha1="b5f0f94ac910ff350f9795b470fed48967f4099a"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-filter-unittest_.cc" size="3435" crc="ce7d8dc8" sha1="68ff07ff79c73256398fa5ad6746befc1800c02e"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-global-environment-unittest.py" size="4889" crc="6563a1de" sha1="019cffdf086ab10b28afffdc39aeaf9bda30fb12"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-global-environment-unittest_.cc" size="2286" crc="8c478972" sha1="7260373f2af63ba20015678f4cfb6b3e914eb677"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-json-outfiles-test.py" size="5829" crc="b2573101" sha1="55dc9542219235144195d15be5578a9c869173a2"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-json-output-unittest.py" size="27270" crc="06a0f991" sha1="9a05b5b423ad48e9897a177f36b472cd08c85673"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-list-tests-unittest.py" size="6555" crc="d1274e42" sha1="0555b196a53d3543320a2078c1640e774926dc1b"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-list-tests-unittest_.cc" size="4743" crc="05f3631e" sha1="02219bcf4c67c99b126ddd90fc6b81968341413b"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-listener-test.cc" size="24343" crc="bb820dfb" sha1="086e0fa8c43f87fb8ec7136da35c2c85e7a6c070"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-message-test.cc" size="5830" crc="e4e49f66" sha1="2ac7beb8f5ee90eafe29caa3e260657100f13ebc"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-options-test.cc" size="7977" crc="5f56a8eb" sha1="97942d5c96b2e3e34249b1fb12fe24f2813f557b"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-output-test-golden-lin.txt" size="43086" crc="d44641f0" sha1="c6af56cf77ee295656c328ee9db249164a101c0c"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-output-test.py" size="12645" crc="8969ce99" sha1="8a0d8bdb2e1cf8fea074e8de7e549194eb2e7101"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-output-test_.cc" size="36397" crc="b3667881" sha1="029f7626afef184e879da889da9ba8de67192166"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-param-test-invalid-name1-test.py" size="2398" crc="ca977839" sha1="459ff973d4beef9d44093d9db74257c02f220bce"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-param-test-invalid-name1-test_.cc" size="1995" crc="395afb91" sha1="f8bff61a803f417895755ef188f5d81b3893d1d0"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-param-test-invalid-name2-test.py" size="2352" crc="942a3ec8" sha1="bfbb451246889c5926b637c2f4c3bf4c87e3e6ef"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-param-test-invalid-name2-test_.cc" size="2129" crc="6b5640a0" sha1="848b9a3d7fdf373faf6d04c9aa1dbb9bed8e018e"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-param-test-test.cc" size="42922" crc="54db549f" sha1="ac1f20cde4a9e12b85ae66173fb7533b3c253594"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-param-test-test.h" size="2280" crc="08f17501" sha1="2c78e385c52d8e0223ab42a13503a1c284fa8202"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-param-test2-test.cc" size="2768" crc="1b96f126" sha1="30990aa201b692c7fe069ba21ee01858490ca734"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-port-test.cc" size="41136" crc="e8632105" sha1="084407a60a82d81446c48fe712716103fb67355c"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-printers-test.cc" size="65858" crc="f8c7a65c" sha1="588dd5e126715219afa7a91b97775de5e9b0a04c"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-setuptestsuite-test.py" size="2294" crc="fd59e0bc" sha1="9287bb648019067061d1a77f8ce0ac6ba7ce0e1e"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-setuptestsuite-test_.cc" size="1936" crc="785c1f4a" sha1="2b7402d76751cbbc7b53b6d4fb2bbc146065dc9a"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-shuffle-test.py" size="12701" crc="de4cdbcd" sha1="a76869f8608887c063ea9d90db6479be6a7ea82f"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-shuffle-test_.cc" size="3192" crc="3f86ab21" sha1="60ed67cc06f2c150cca91667edd09fa31be94575"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-test-part-test.cc" size="7834" crc="aab5e29a" sha1="93412c94783ad8b109430beedaf185f594fee17c"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-throw-on-failure-test.py" size="5495" crc="20e1650c" sha1="29473a93eb8569cb575e44a2a40badbd88909a76"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-throw-on-failure-test_.cc" size="3013" crc="dc8569bb" sha1="b837b9fe88acfc285fa3d2772f806e9eef6239aa"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-uninitialized-test.py" size="2501" crc="b5bc7280" sha1="5f832dd5f931789db3719d67ac7ed21a9f8ceca1"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/googletest-uninitialized-test_.cc" size="1875" crc="88cbf5d9" sha1="3fd92d87590f400d71a3a81b4ae77338d35eb41d"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest-typed-test2_test.cc" size="1954" crc="caaf169c" sha1="331b85cb6da7e45ce2bee2bb52e0d83258d0d72a"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest-typed-test_test.cc" size="14090" crc="ceca796e" sha1="71b55b6691d0d3a9e3e1e3fd0384710087d28925"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest-typed-test_test.h" size="2393" crc="d30601d1" sha1="24bdb84f0dbb26fd2607ae61de86fdec6e0a3ebc"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest-unittest-api_test.cc" size="13047" crc="ef213a43" sha1="cb3cf4068f44c110838783cffd2fbccbad230b8c"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_all_test.cc" size="2239" crc="ac7e51df" sha1="d969264e5ae269fa709a33479c273e0895d11b12"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_assert_by_exception_test.cc" size="3842" crc="c100b6fb" sha1="a35b680083ff14dae20be9569ea57eafc8ed5bf7"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_dirs_test.cc" size="2939" crc="26c510fc" sha1="e8fa0abea99e13b1ec3dd5b109c70b195e32ce9c"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_environment_test.cc" size="6409" crc="3f2d96fe" sha1="5961b9412b0f3eb75b520134ded968e7125c003e"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_help_test.py" size="6390" crc="9a02089c" sha1="9240a5c1f04d351caf225d08cc7f3e3ebd75a7e6"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_help_test_.cc" size="2090" crc="4306774f" sha1="600795939a9fff889bc4ec382e5ccd1202510df8"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_json_test_utils.py" size="2488" crc="da891b62" sha1="d57ba5e65b5726e3528a4f196845467e27e623cb"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_list_output_unittest.py" size="9497" crc="c36a1382" sha1="83671d2810ae78ccd5938956ed37678606d55009"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_list_output_unittest_.cc" size="3197" crc="ad844fb5" sha1="5982d5cd1419e8ed3eb78b609a58fa0c8a1038f4"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_main_unittest.cc" size="1839" crc="6b553a49" sha1="bf67bdcfb5b74980f9152516fe82542af1e6ba45"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_no_test_unittest.cc" size="2403" crc="f188661f" sha1="b1cb74a4b4a379d6290d393f225eaff5a07c33fa"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_pred_impl_unittest.cc" size="69752" crc="23a7095b" sha1="85bfd9b6091fd1e877a350a6d84b231a5f85a627"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_premature_exit_test.cc" size="4312" crc="19ecadaf" sha1="df220ed3b8a2043199267103f1259f9b73d3eb47"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_prod_test.cc" size="2147" crc="9f4d4dce" sha1="c0211967557545ea9f09acb7ced733e8a715b91c"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_repeat_test.cc" size="7698" crc="e971db42" sha1="f697e089350a5d69c5a49cdcbcaad24cb37874ea"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_skip_check_output_test.py" size="2417" crc="c1fc6789" sha1="a9617b69bd4ce6b6ba16d1fc78533b6261e186e9"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_skip_environment_check_output_test.py" size="2231" crc="5a6e66ca" sha1="ef1be1516d204649ee50aefe0e32a8ca0a25d17f"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_skip_in_environment_setup_test.cc" size="2070" crc="e0dd8851" sha1="ecac1c094e25011e66f0cfefe855749a891b0230"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_skip_test.cc" size="2001" crc="a5b2323c" sha1="eff6d6d6c19adc136d1dc8e8e924dec761635924"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_sole_header_test.cc" size="2173" crc="5350fd5e" sha1="e6b67afe86680acdf72b07d29107ad0d46f1a0af"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_stress_test.cc" size="9369" crc="232d7430" sha1="941d38dd8e7f6fe3202f7c509ac6d07a2834fce5"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_test_macro_stack_footprint_test.cc" size="3871" crc="2f97fc40" sha1="c35398f319338ddce5ad05aa1393066946ba5e14"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_test_utils.py" size="8146" crc="45b3af24" sha1="d8e3709c3e3ed41bcdc1da37522594f49c10fe27"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_testbridge_test.py" size="2495" crc="e3484387" sha1="eebe4282795bbd160bb4c30991a5582fb80cba22"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_testbridge_test_.cc" size="1922" crc="3f6ebed3" sha1="46d0b93454fdd220a9cbcfa6d754fa9f8373284c"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_throw_on_failure_ex_test.cc" size="3395" crc="8e8961eb" sha1="3be55177529282a8a9932389f29503be5954bb63"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_unittest.cc" size="264406" crc="a4da6b1d" sha1="bcb6f53dfec1a58109374adbab77144727dbef11"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_xml_outfile1_test_.cc" size="1955" crc="77b0e2f3" sha1="7bd21fd2791e6619632752d08eb05e365e65c2b6"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_xml_outfile2_test_.cc" size="2835" crc="4ff9f6be" sha1="0e9ed2afb05d95c71f949cf3c1d2390eda441a3b"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_xml_outfiles_test.py" size="5961" crc="030bb0a5" sha1="910de479681a638fe7739bad9c784da0caad9772"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_xml_output_unittest.py" size="23085" crc="0cd1fc63" sha1="756ebdbf79f9a2952caa0d4a647ec9d43fe4dada"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_xml_output_unittest_.cc" size="6434" crc="66f1c51b" sha1="3e165fbf685549d6bcdca3d1b1db31975c1f3499"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/gtest_xml_test_utils.py" size="10192" crc="8fe68d3f" sha1="f2050820c18e3df7b494323e132a4017671b19c5"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/production.cc" size="1675" crc="dc37b018" sha1="15194f1e2ab38f3ca7d7a33b4acee2c5b4956d76"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest/test/production.h" size="2131" crc="de68afca" sha1="5102f81a250b7d8265b791d9d7fd4f8422076916"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/googletest_deps.bzl" size="1124" crc="6b06b6a4" sha1="d4cd975f01f7049c9bc709d8bf11a0c961cfb130"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/LICENSE" size="1475" crc="f88d0b9e" sha1="5a2314153eadadc69258a9429104cd11804ea304"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/README.md" size="5814" crc="9d7056a2" sha1="db4097ce2cc33c2b856a4ca50a4b79c5f17edae7"/>
+		<rom name="LaserdiscPlayerAbstract-main/thirdparty/googletest-1.14.0/WORKSPACE" size="1159" crc="daba4438" sha1="4971062c1801f1e9b3170c17986d9ada4423f666"/>
+	</game>
+	<game name="Virtual CloneDrive Setup v5.5.20.exe">
+		<description>Virtual CloneDrive Setup v5.5.20.exe</description>
+		<rom name="Virtual CloneDrive Setup v5.5.20.exe" size="1804880" crc="acb3b34d" sha1="b869a7c4f1f8e2ceeb9b248ccc41782f005b02a1"/>
+	</game>
+</datafile>

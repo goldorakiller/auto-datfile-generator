@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>eXoDemoScene 1.1Linux Patch</name>
+		<description>Mixed (Archive as File)</description>
+		<category>Computer</category>
+		<version>1.1</version>
+		<date>2025-05-09</date>
+		<author>eXo (dat by Eggman)</author>
+		<homepage>https://www.retro-exo.com/</homepage>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<romvault forcepacking="fileonly" />
+	</header>
+	<game name="Content">
+		<description>Content</description>
+		<rom name="!DemoScene_linux_metadata.zip" size="23424130" crc="66aff416" sha1="aa4d79e7723e744f2dc1a5103fa4b33cd6038804"/>
+		<rom name="XODemoScene_linux_Metadata.zip" size="227902480" crc="8008339d" sha1="829f6032be875e0fb58b48c68973ebd65a99076b"/>
+	</game>
+	<game name="eXo">
+		<description>eXo</description>
+		<rom name="util/" size="0" crc="00000000"/>
+		<rom name="util/install_dependencies.bsh" size="24404" crc="eb342828" sha1="53e6282adb4c62075d88dbeea310a895ecc97aff"/>
+		<rom name="util/Setup eXoDemoScene.bsh" size="42716" crc="d673e5fa" sha1="3c1988bd0963f33c0ef5636617633f0f9d772fcb"/>
+		<rom name="util/utilDSN_linux.zip" size="1583218075" crc="033def1b" sha1="50568b1aa4b81a4f0cc0bc0ba99b0042cb6481c5"/>
+	</game>
+	<rom name="eXoDemoScene Linux ReadMe.txt" size="27020" crc="f38fb225" sha1="f56ec7eb23090169b5a04e8d513a984882ff5991"/>
+	<rom name="install_dependencies.command" size="19677" crc="804cbc3b" sha1="5a9f77e503e4514084d93f5c3812705cc5589d8a"/>
+	<rom name="Setup eXoDemoScene.command" size="47081" crc="7637382b" sha1="39acce869cd16c1b250f771ebdcda804d407f550"/>
+</datafile>

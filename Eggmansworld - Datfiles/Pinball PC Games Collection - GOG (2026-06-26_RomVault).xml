@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Pinball PC Games Collection - GOG</name>
+		<description></description>
+		<category>Arcade</category>
+		<version></version>
+		<date>2026-06-26</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="dream_pinball_3d">
+		<rom name="dream_pinball_3d/dream_pinball_Manual.zip" size="7272923" crc="628b07b9" sha1="f285a8c034db4aee8f8fea2be73fa627d30b70d0"/>
+		<rom name="dream_pinball_3d/dream_pinball_glossary.zip" size="59185" crc="48be903d" sha1="c799197d6008282fc88e9fe5bcf88b61d50d6c1b"/>
+		<rom name="dream_pinball_3d/setup_dream_pinball_3d_1.0_(21111).exe" size="371097272" crc="455905bb" sha1="3fe9403a2b590a8293ba771dd630ab78d4902e19"/>
+	</game>
+	<game name="epic_pinball_the_complete_collection">
+		<rom name="epic_pinball_the_complete_collection/setup_epic_pinball_2.1hf_(16882).exe" size="18358136" crc="1f38c35d" sha1="1eccd8216ffe6292acbef7dc4244aa48f2990fcd"/>
+	</game>
+	<game name="pinball_dreams_deluxe">
+		<rom name="pinball_dreams_deluxe/setup_pinball_dreams_2.1.0.20.exe" size="54707032" crc="ec9e6154" sha1="1b19ea92c3f8fea75bdb4686e18f74f54192fb79"/>
+	</game>
+	<game name="pinball_fantasies_deluxe">
+		<rom name="pinball_fantasies_deluxe/setup_pinball_fantasies_2.1.0.17.exe" size="39933776" crc="0c221d7e" sha1="21eb3edbd0e9e5ae6c97edbb3b9e2b16b9e4ef6c"/>
+	</game>
+	<game name="pinball_illusions">
+		<rom name="pinball_illusions/setup_pinball_illusions_2.1.0.19.exe" size="150068680" crc="f9df6ef9" sha1="d478cb3d3a83b47c5137a902c0dbcc074f065f88"/>
+	</game>
+	<game name="pinball_spire">
+		<rom name="pinball_spire/setup_pinball_spire_1.02.01_(64bit)_(81263).exe" size="487967016" crc="3f197182" sha1="e55d83bf6737bad0746375788c59ed7ef9360748"/>
+	</game>
+	<game name="pinball_world">
+		<rom name="pinball_world/pinball_world_manual.zip" size="22933520" crc="9bcba342" sha1="0ebcf97ff1c1429c0c9599341ea0eacf4b447771"/>
+		<rom name="pinball_world/pinball_world_soundtrack.zip" size="72730686" crc="506c043b" sha1="dddd8f0277a08984d038cb29063eb3d59e198d1f"/>
+		<rom name="pinball_world/setup_pinball_world_1.0_(28044).exe" size="42775792" crc="5c2f5c88" sha1="3c925e4a2cb7733e94ccf8f319bed5b4ecaf2734"/>
+	</game>
+	<game name="pro_pinball_big_race_usa">
+		<rom name="pro_pinball_big_race_usa/pro_pinball_brusa_manual.zip" size="795902" crc="29afe731" sha1="6adb81f4f96cd774c5df7224e5dae042324e4484"/>
+		<rom name="pro_pinball_big_race_usa/setup_pro_pinball_-_big_race_usa_1.0_(19163).exe" size="407046080" crc="98f0db69" sha1="df94c4bb4ee6915500e3963b10db1c85553845b2"/>
+	</game>
+	<game name="pro_pinball_fantastic_journey">
+		<rom name="pro_pinball_fantastic_journey/pro_pinball_fj_manual.zip" size="649896" crc="603d874f" sha1="8695a9b167a3687722a05e6c12e99f9968fa2100"/>
+		<rom name="pro_pinball_fantastic_journey/setup_pro_pinball_-_fantastic_journey_1.0_(19164).exe" size="501806504" crc="162522e8" sha1="c9f645dda8ab1d5822a51a1b7e008755ea25e42a"/>
+	</game>
+	<game name="pro_pinball_timeshock">
+		<rom name="pro_pinball_timeshock/pro_pinball_ts_manual.zip" size="5120942" crc="f2cff65e" sha1="b4a5780d8b7564c46adaee1bec78df54226dd3b0"/>
+		<rom name="pro_pinball_timeshock/pro_pinball_ts_tech_manual.zip" size="545259" crc="05d9ebc8" sha1="38e5f1d981861211808a1ba7c971fb7dd24ae15a"/>
+		<rom name="pro_pinball_timeshock/setup_pro_pinball_timeshock_2.0.0.4.exe" size="604508224" crc="a81b39b4" sha1="a65a02b1cea2d6eff3949eab59f2152638d98392"/>
+	</game>
+	<game name="pure_pinball_2">
+		<rom name="pure_pinball_2/pure_pinball_2_manual.zip" size="4263870" crc="f9fb9d44" sha1="b79e9470ae1f837b7184c6ffcae5e3b9a99a97ee"/>
+		<rom name="pure_pinball_2/pure_pinball_2_soundtrack.zip" size="31877610" crc="9c9e2e69" sha1="2e3f764610ba1d408ca7003e93709aeb16de1ba6"/>
+		<rom name="pure_pinball_2/setup_pure_pinball_2.0_2.0_(19118).exe" size="244306392" crc="d4e08b8a" sha1="395fc4ffb9a22d927f9dc4d7ebf0db21106f3529"/>
+	</game>
+	<game name="zombie_rollerz_pinball_heroes">
+		<rom name="zombie_rollerz_pinball_heroes/setup_zombie_rollerz_pinball_heroes_1.0.6_(64bit)_(53756)-1.bin" size="309139364" crc="69630320" sha1="3ebeecf87a166844849cfa966dcaca2c299291a2"/>
+		<rom name="zombie_rollerz_pinball_heroes/setup_zombie_rollerz_pinball_heroes_1.0.6_(64bit)_(53756).exe" size="843368" crc="2769d9ab" sha1="1517f290eb3d9443f50f7143b65365466cfde60f"/>
+	</game>
+</datafile>

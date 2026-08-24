@@ -1,0 +1,840 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Layouts - MFME - Impulse Gaming</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Cash Ahoy (Impulse)">
+		<rom name="c_ahoy 5pound.g0" size="131072" crc="dc7a5c0d" sha1="d6068e72ab3025c601752f18f144917a6da1d5df"/>
+		<rom name="c_ahoy 5pound.g1" size="131072" crc="fb92b892" sha1="3cfe1486ee6b312259efda4a1eeb4d415b0c9dc1"/>
+		<rom name="c_ahoy.g0" size="131072" crc="20be6dfc" sha1="abda6674c7663f3136d270fbec5b214f3d7e33ee"/>
+		<rom name="c_ahoy.g1" size="131072" crc="a363f246" sha1="3c609d803e6f9b43717e38e7c9264d6a1a115837"/>
+		<rom name="cahoy.s0" size="524288" crc="28512eb3" sha1="60b34bcbd840740fab45d16f9ac9784a917a6c5d"/>
+		<rom name="cahoy.s1" size="524288" crc="bc70d9c3" sha1="b2b66956e5cbb53999386429bd32ddac32980289"/>
+		<rom name="Cash_Ahoy_(Impulse)_[C01_15jp].fml" size="1337484" crc="69b0e07e" sha1="3ac41a99327befb9bf9e9da4e701e7355be9f70d"/>
+		<rom name="Cash_Ahoy_(Impulse)_[C01_15jp].gam" size="280" crc="ddee616e" sha1="74a3954ee8b88ceb7c1eae286503a0b376214bc3"/>
+		<rom name="Cash_Ahoy_(Impulse)_[C01_15jp].jpg" size="38028" crc="490e9474" sha1="f3a1aa97119a18d6da4ae2cc54b9bf648487baac"/>
+		<rom name="Cash_Ahoy_(Impulse)_[C01_15jp].png" size="154561" crc="c3b3fc73" sha1="e941c23c1b1aee3666a862a15a119735f3f072bc"/>
+		<rom name="Cash_Ahoy_(Impulse)_[C01_15jp].ram" size="65536" crc="3c2deafe" sha1="b790fd61c08d212dd97d828ce139c89c78eb3a91"/>
+		<rom name="Cash_Ahoy_(Impulse)_[C01_15jp].txt" size="229" crc="b723cb7e" sha1="8607eaf547acac4f96dba2822d6755f3945fc6ef"/>
+		<rom name="Cash_Ahoy_(Impulse)_[Dx01_15jp].fml" size="16049845" crc="5640d10f" sha1="439f9812129e81aa54479260566f1a5d868bfd51"/>
+		<rom name="Cash_Ahoy_(Impulse)_[Dx01_15jp].gam" size="321" crc="7206bf49" sha1="a7a2756c96f9dbaf35a7aa3e9a08ea617cda2fac"/>
+		<rom name="Cash_Ahoy_(Impulse)_[Dx01_15jp].jpg" size="462479" crc="0f712231" sha1="bd921633811d303fe6139b66d112bdba2c857c8f"/>
+		<rom name="Cash_Ahoy_(Impulse)_[Dx01_15jp].ram" size="65536" crc="278ccdfe" sha1="e15a2092dc4d63b643cbdc4f49e74df4c3de8abc"/>
+		<rom name="Cash_Ahoy_(Impulse)_[Dx01_15jp].txt" size="654" crc="99c57228" sha1="7c001eb10fff5855625f75868f16e6726ee76e0a"/>
+		<rom name="Cash_Ahoy_(Impulse)_[Dx01_5jp].fml" size="15887538" crc="e1eded24" sha1="23c080b02142602f77a903050e00e96147a724b9"/>
+		<rom name="Cash_Ahoy_(Impulse)_[Dx01_5jp].gam" size="340" crc="2e0c130d" sha1="36f44868ad870314b58f8ff50f657cf57a207092"/>
+		<rom name="Cash_Ahoy_(Impulse)_[Dx01_5jp].jpg" size="462479" crc="0f712231" sha1="bd921633811d303fe6139b66d112bdba2c857c8f"/>
+		<rom name="Cash_Ahoy_(Impulse)_[Dx01_5jp].ram" size="65536" crc="f22eb607" sha1="54ed923727609dae9637e032b076e2af045c7e8b"/>
+		<rom name="Cash_Ahoy_(Impulse)_[Dx01_5jp].txt" size="654" crc="99c57228" sha1="7c001eb10fff5855625f75868f16e6726ee76e0a"/>
+	</game>
+	<game name="Dambuster (Impulse)">
+		<rom name="d bus.g" size="131072" crc="9ad29064" sha1="4b2525e8058fcd4e520b381d8705bd642b793121"/>
+		<rom name="d bus.g0" size="131072" crc="c466f4fb" sha1="cf9041fd6b87498f6a6492995ae43f43b22dbf6a"/>
+		<rom name="d bus.g1" size="131072" crc="f8cb1930" sha1="f3854a13a60ad776b60c107f3bc200d5307b9ea2"/>
+		<rom name="d bus.g2" size="131072" crc="895ef2cc" sha1="094ae9365fda2da71e5ff5df3ee7ea548069647b"/>
+		<rom name="d bus.s0" size="524288" crc="dcf93e70" sha1="c005daa041bcc2bb8c4aa422593599a530390b28"/>
+		<rom name="d bus.s1" size="524288" crc="d6ebc176" sha1="c554358839463d706f93e4eee4462d91a3961a59"/>
+		<rom name="Dambuster_(Impulse)_[C01_25jp].fml" size="1748079" crc="f762b654" sha1="b472a5b7a08dedc6aa64018a5afd8bf82241a6c6"/>
+		<rom name="Dambuster_(Impulse)_[C01_25jp].gam" size="436" crc="29db244d" sha1="1ba7d192abaf6da18d05f38516e4c425234da150"/>
+		<rom name="Dambuster_(Impulse)_[C01_25jp].jpg" size="684779" crc="d3ecc4ca" sha1="a9f7a884db7d8d18b953e1a6c6997686cbfd1469"/>
+		<rom name="Dambuster_(Impulse)_[C01_25jp].ram" size="65536" crc="bd260f7d" sha1="1b308d43a996a221a8ce007eda8eed4e09c06f59"/>
+		<rom name="Dambuster_(Impulse)_[C01_25jp].txt" size="120" crc="d28d488f" sha1="1ee37b022e08915b7f753530a3119f9891671eca"/>
+		<rom name="dambusters.g0" size="131072" crc="c466f4fb" sha1="cf9041fd6b87498f6a6492995ae43f43b22dbf6a"/>
+		<rom name="dambusters.g1" size="131072" crc="f8cb1930" sha1="f3854a13a60ad776b60c107f3bc200d5307b9ea2"/>
+		<rom name="dambusters.g2" size="131072" crc="895ef2cc" sha1="094ae9365fda2da71e5ff5df3ee7ea548069647b"/>
+		<rom name="dambusters.g3" size="131072" crc="9ad29064" sha1="4b2525e8058fcd4e520b381d8705bd642b793121"/>
+		<rom name="dambusters.s0" size="524288" crc="dcf93e70" sha1="c005daa041bcc2bb8c4aa422593599a530390b28"/>
+		<rom name="dambusters.s1" size="524288" crc="d6ebc176" sha1="c554358839463d706f93e4eee4462d91a3961a59"/>
+		<rom name="gdb03_0.bin" size="131072" crc="592ca38c" sha1="56c6fcc31dacbdeb405dd0ff516f6d82d6156771"/>
+		<rom name="gdb03_1.bin" size="131072" crc="d8fa7624" sha1="e804e95560e28e8d8042e5f89718c918cb8eea7f"/>
+		<rom name="gdb03_2.bin" size="131072" crc="b96b18af" sha1="5da89f22a9c2d5243eca981533e74979d4626c63"/>
+		<rom name="gdb03_3.bin" size="131072" crc="cf2e70aa" sha1="fa06b4519a3ddf15cceeb0934f1f87d36d18b8a6"/>
+		<rom name="gdb04_0.bin" size="131072" crc="592ca38c" sha1="56c6fcc31dacbdeb405dd0ff516f6d82d6156771"/>
+		<rom name="gdb04_1.bin" size="131072" crc="3364221c" sha1="d778765e757bbca5e702910d8bcf6c5b760e616d"/>
+		<rom name="gdb04_2.bin" size="131072" crc="b96b18af" sha1="5da89f22a9c2d5243eca981533e74979d4626c63"/>
+		<rom name="gdb04_3.bin" size="131072" crc="cf2e70aa" sha1="fa06b4519a3ddf15cceeb0934f1f87d36d18b8a6"/>
+		<rom name="gdb05_0.bin" size="131072" crc="7376398b" sha1="1912ae95520d1f55d9dfcfdf1e8516ad31e281b8"/>
+		<rom name="gdb05_1.bin" size="131072" crc="3fa379d0" sha1="5d30b32ea48535b895356a7598689009eb1ab187"/>
+		<rom name="gdb05_2.bin" size="131072" crc="28acae49" sha1="74bb8eaa2c75689a1caff60ee996ec9b7774655d"/>
+		<rom name="gdb05_3.bin" size="131072" crc="a3ada8e4" sha1="6f3db1ba20c2daf16b60bceb6069b994be27c5ca"/>
+		<rom name="gdb06_0.bin" size="131072" crc="7376398b" sha1="1912ae95520d1f55d9dfcfdf1e8516ad31e281b8"/>
+		<rom name="gdb06_1.bin" size="131072" crc="d43d2de8" sha1="5928ecd25761f13a542dcea7fda5d4802c77a267"/>
+		<rom name="gdb06_2.bin" size="131072" crc="28acae49" sha1="74bb8eaa2c75689a1caff60ee996ec9b7774655d"/>
+		<rom name="gdb06_3.bin" size="131072" crc="a3ada8e4" sha1="6f3db1ba20c2daf16b60bceb6069b994be27c5ca"/>
+		<rom name="gdb16_1.bin" size="131072" crc="e38c8ecd" sha1="a8b8b0ddacfa58ee3e10bd45240a685f5757a4d2"/>
+		<rom name="i03ndb01.g0.bin" size="131072" crc="98cff98c" sha1="cf04296bb4500949a9e0c4062d4b18cf9cae778d"/>
+		<rom name="i03ndb01.g1.bin" size="131072" crc="7c315d54" sha1="d55dd55aa64375c3778184a397480f7674eae511"/>
+		<rom name="i03ndb01.g2.bin" size="131072" crc="85fae0e7" sha1="0cd8488e2cdd15fb9e0530142af66be320065bde"/>
+		<rom name="i03ndb01.g3.bin" size="131072" crc="c2299aba" sha1="7d5cc03142274e32c6b392ef31595fde99e11fa8"/>
+		<rom name="i03ndb15.g0" size="131072" crc="940dcb90" sha1="7a397a799469d1eba171b5dafc2d4e8b7cad380b"/>
+		<rom name="i03ndb15.g1" size="131072" crc="0812daf5" sha1="fb3217c1c591efedb52b5ddc1a91ada814dcd57f"/>
+		<rom name="i03ndb15.g2" size="131072" crc="ca022f43" sha1="9a8ffcb6335acec5b0ab04e5087ee447297cdaff"/>
+		<rom name="i03ndb15.g3" size="131072" crc="b04bbf28" sha1="99464461cae08473a6b9aa1a5918c5ecc69f18e3"/>
+		<rom name="i03pdb02.g0.bin" size="131072" crc="98cff98c" sha1="cf04296bb4500949a9e0c4062d4b18cf9cae778d"/>
+		<rom name="i03pdb02.g1.bin" size="131072" crc="97af096c" sha1="47291335c2392a563165ab372e28518873d15a20"/>
+		<rom name="i03pdb02.g2.bin" size="131072" crc="85fae0e7" sha1="0cd8488e2cdd15fb9e0530142af66be320065bde"/>
+		<rom name="i03pdb02.g3.bin" size="131072" crc="c2299aba" sha1="7d5cc03142274e32c6b392ef31595fde99e11fa8"/>
+	</game>
+	<game name="Double Impact (Impulse)">
+		<rom name="d_imp 5pound.g0" size="524288" crc="82fa1341" sha1="3c7eac065e97d8734e18e94b53b293a7ffbe05a3"/>
+		<rom name="d_imp 5pound.g1" size="524288" crc="9c36fe52" sha1="1f2aa87f420e89a1aed21245019f363feedbf3de"/>
+		<rom name="Double_Impact_(Impulse)_[Dx01_15jp].fml" size="8350848" crc="0d177e74" sha1="2c653511cf4c186a7edbcb4c06715a37589aa21d"/>
+		<rom name="Double_Impact_(Impulse)_[Dx01_15jp].gam" size="390" crc="e0bbcd4b" sha1="f66bcd8f67728d30d6b8af3d7966800c45f2bf33"/>
+		<rom name="Double_Impact_(Impulse)_[Dx01_15jp].jpg" size="247916" crc="02752089" sha1="8c38873ea4be29ca0373c9a97b97049abd2501a6"/>
+		<rom name="Double_Impact_(Impulse)_[Dx01_15jp].png" size="1116528" crc="77c5d2d0" sha1="4b08384dd9a443c169337581a64ef375141a95ce"/>
+		<rom name="Double_Impact_(Impulse)_[Dx01_15jp].ram" size="65536" crc="46649249" sha1="d4c20de4c9bd0c60edfd41849ebb5e6413837c66"/>
+		<rom name="Double_Impact_(Impulse)_[Dx01_15jp].txt" size="1349" crc="186760dd" sha1="6eef9ba55a9f4d75f098fdb758b6e7e422216b09"/>
+		<rom name="doubleimpact_snd0.bin" size="524288" crc="d83b2a30" sha1="1bf94b246941dfd3b8c84249085e6f93072da432"/>
+		<rom name="doubleimpact_snd1.bin" size="524288" crc="3f4bb32a" sha1="af2f8e7f341dec0ffaae4c3b2efca847cddd8a11"/>
+	</game>
+	<game name="Flashback (Impulse)">
+		<rom name="flashback sound 1 imp99fl01.bin" size="524288" crc="4ff8b006" sha1="bfe7b83b1bcc81f5980263db26e0c3dd8074518b"/>
+		<rom name="flashback sound 2 imp99fl01.bin" size="524288" crc="acaa4b38" sha1="6960e29181f67ca77fee9f6bce84dfa6bea4bdf7"/>
+		<rom name="flashback0.bin" size="131072" crc="5d752b23" sha1="fad5d8e284ba94c2fb8772495df4de153df5edf1"/>
+		<rom name="flashback1.bin" size="131072" crc="4c52c4cc" sha1="28133f2e1e6f179625c402c7ce1e535a56c93411"/>
+		<rom name="Flashback_(Impulse)_[C01_15jp].fml" size="575488" crc="33913ab8" sha1="652cfbf540c8c6c351ad97051e998924e27fbb01"/>
+		<rom name="Flashback_(Impulse)_[C01_15jp].gam" size="466" crc="d71c812e" sha1="615a997ef9f1fc5f4c0c3cc2d7cfe13e8f62a3b3"/>
+		<rom name="Flashback_(Impulse)_[C01_15jp].jpg" size="36508" crc="4df5ccbb" sha1="15f565215879b0af4d926e62741541c3805388a7"/>
+		<rom name="Flashback_(Impulse)_[C01_15jp].ram" size="65536" crc="a217f6d2" sha1="fda687d8d4012abe51994061bacff936bd469dd9"/>
+		<rom name="Flashback_(Impulse)_[C02_15jp].fml" size="575499" crc="7fa98c6a" sha1="3a6f2cd23238b2afa82ea868814cf536ba570059"/>
+		<rom name="Flashback_(Impulse)_[C02_15jp].gam" size="473" crc="8a257eab" sha1="e7dcd2cd43607fa2c4d69b78551f515f7156815e"/>
+		<rom name="Flashback_(Impulse)_[C02_15jp].png" size="147005" crc="a9c1612a" sha1="23bf9421143e1a09463b86b1d055b24f0ea16503"/>
+		<rom name="Flashback_(Impulse)_[C02_15jp].ram" size="65536" crc="985f2e4f" sha1="8e16119e5c82734b3fae265935d39295329e3f16"/>
+		<rom name="Flashback_(Impulse)_[C02_15jp].txt" size="321" crc="cd7050e3" sha1="e61d1b964e60fdc06ec6576a38c2295e280584fc"/>
+		<rom name="Flashback_(Impulse)_[Dx01_15jp].fml" size="10744409" crc="8e266fca" sha1="99d4f4db0b71e88dd0a0225ab1a43c3eacac5c39"/>
+		<rom name="Flashback_(Impulse)_[Dx01_15jp].gam" size="383" crc="2e447419" sha1="c25326137c754f7f27dffd5eed41d6677d65c97e"/>
+		<rom name="Flashback_(Impulse)_[Dx01_15jp].jpg" size="569701" crc="1a47d2fe" sha1="5c552dc14c7f393a6ad6cbf0b77b9ef18943800c"/>
+		<rom name="Flashback_(Impulse)_[Dx01_15jp].ram" size="65536" crc="22051373" sha1="52b14273a2cb2b3672c1955188b1011373a707c9"/>
+		<rom name="Flashback_(Impulse)_[Dx01_15jp].txt" size="940" crc="50f64005" sha1="ed7c3728600e9223d4ebb282b6c4632c0a4eed3d"/>
+		<rom name="Flashback_(Impulse)_[Dx01_25jp].fml" size="11043506" crc="bdceefec" sha1="bb0c0fd6e89d9b4c93923b2ef5c8590c6fb45161"/>
+		<rom name="Flashback_(Impulse)_[Dx01_25jp].gam" size="328" crc="7c5ec87a" sha1="eb5896dde9d461234ab2baab204999e4de0fde0b"/>
+		<rom name="Flashback_(Impulse)_[Dx01_25jp].jpg" size="470417" crc="e05eae74" sha1="4690a08bfaa0b0f543d67cd04bdb34a7a65441fc"/>
+		<rom name="Flashback_(Impulse)_[Dx01_25jp].ram" size="65536" crc="8128d045" sha1="5a240d1e558a9120bb056876a0a545dbd307bb9a"/>
+		<rom name="Flashback_(Impulse)_[Dx01_25jp].txt" size="940" crc="50f64005" sha1="ed7c3728600e9223d4ebb282b6c4632c0a4eed3d"/>
+		<rom name="Flashback_(Impulse)_[Dx01_5jp].fml" size="10935552" crc="78bc9951" sha1="7f92dce92a28108eee916b0814a6091870f8aa2e"/>
+		<rom name="Flashback_(Impulse)_[Dx01_5jp].gam" size="419" crc="f677fd23" sha1="00b32b3220d46d56a4d009c4b231e51e0c3e16c5"/>
+		<rom name="Flashback_(Impulse)_[Dx01_5jp].jpg" size="470417" crc="e05eae74" sha1="4690a08bfaa0b0f543d67cd04bdb34a7a65441fc"/>
+		<rom name="Flashback_(Impulse)_[Dx01_5jp].ram" size="65536" crc="4cc99026" sha1="9425c2e5c66160a5b0969115f95e1343167b1694"/>
+		<rom name="Flashback_(Impulse)_[Dx01_5jp].txt" size="940" crc="50f64005" sha1="ed7c3728600e9223d4ebb282b6c4632c0a4eed3d"/>
+		<rom name="flashbacksnd1.bin" size="524288" crc="acaa4b38" sha1="6960e29181f67ca77fee9f6bce84dfa6bea4bdf7"/>
+		<rom name="flashbacksnd2.bin" size="524288" crc="4ff8b006" sha1="bfe7b83b1bcc81f5980263db26e0c3dd8074518b"/>
+		<rom name="i99nfl34.g0" size="131072" crc="dd32eeb0" sha1="811a7f5b03cb24552282ba19962b99b794afcab5"/>
+		<rom name="i99nfl34.g1" size="131072" crc="11c465e1" sha1="76504ebc31b3824a2bfb80c9967fa5774604380a"/>
+		<rom name="i99nfl34.g2" size="131072" crc="e05997ec" sha1="b69cb3a62b6a28983ea24eb02464dd5f2f73d0a2"/>
+		<rom name="i99nfl34.g3" size="131072" crc="b08851c5" sha1="3d0734bf934728afd10cce9d19b6877384a15a17"/>
+	</game>
+	<game name="Fortune &apos;n&apos; Glory (Impulse)">
+		<rom name="f_n_g.s0" size="524288" crc="e257502d" sha1="5be9ea39299582c0c68feeb9537d887c7562b293"/>
+		<rom name="f_n_g.s1" size="524288" crc="87e2f4bd" sha1="b515b294384dbfa24bf3d7a561a572aa9c041831"/>
+		<rom name="f_n_gl.g0" size="131072" crc="ea112032" sha1="2e06447058f5d697fc4263348106342faf9c41ab"/>
+		<rom name="f_n_gl.g1" size="131072" crc="c35cbb80" sha1="401e81a8ec2c23b3494f4603a4f9f6fb5f83c4dd"/>
+		<rom name="Fortune_&apos;n&apos;_Glory_(Impulse)_[C01_15jp].fml" size="2027634" crc="86d40fa1" sha1="19fbf96dec60128360889cf2dedf531ffcd0cd7b"/>
+		<rom name="Fortune_&apos;n&apos;_Glory_(Impulse)_[C01_15jp].gam" size="363" crc="41cd5cbc" sha1="692a53d210485ef5f2a741c34935a403d99c3b6a"/>
+		<rom name="Fortune_&apos;n&apos;_Glory_(Impulse)_[C01_15jp].jpg" size="33430" crc="f73b60d9" sha1="a3e96bb33c3039da994ffc2d6a7adf993bf8187a"/>
+		<rom name="Fortune_&apos;n&apos;_Glory_(Impulse)_[C01_15jp].png" size="556389" crc="07f32ef1" sha1="3774dc47b130a9c2394365602a67f2d5776e7a12"/>
+		<rom name="Fortune_&apos;n&apos;_Glory_(Impulse)_[C01_15jp].ram" size="65536" crc="c05b192c" sha1="63df30a76a5f8e22cb34fac6c0033c918d33d061"/>
+		<rom name="Fortune_&apos;n&apos;_Glory_(Impulse)_[C01_15jp].txt" size="773" crc="62a9fc67" sha1="0c5760414343a1113e1f00bca252d8308c65efa6"/>
+		<rom name="Fortune_&apos;n&apos;_Glory_(Impulse)_[Dx01_15jp].fml" size="11411377" crc="0e83603e" sha1="8a9affc6658c4e07c2377607ded4408b2c33e3f9"/>
+		<rom name="Fortune_&apos;n&apos;_Glory_(Impulse)_[Dx01_15jp].gam" size="336" crc="32af4abe" sha1="0e01b4113f39a6cffdd8e7961238db2bf9261098"/>
+		<rom name="Fortune_&apos;n&apos;_Glory_(Impulse)_[Dx01_15jp].jpg" size="563307" crc="129f2586" sha1="a12cbccb1f2227be085090e104382d86e14d5e35"/>
+		<rom name="Fortune_&apos;n&apos;_Glory_(Impulse)_[Dx01_15jp].ram" size="65536" crc="8f8af4fd" sha1="b9b4226de70773a3abf06202082196821b510249"/>
+		<rom name="Fortune_&apos;n&apos;_Glory_(Impulse)_[Dx01_15jp].txt" size="1371" crc="a6390c28" sha1="30446385ee3a009b1b9413f72c19db4778cb4341"/>
+		<rom name="Fortune_&apos;n&apos;_Glory_(Impulse)_[Dx01_5jp].fml" size="11253101" crc="bd346ccf" sha1="9aad49908205a0d1a4494125afacb52750c32bf2"/>
+		<rom name="Fortune_&apos;n&apos;_Glory_(Impulse)_[Dx01_5jp].gam" size="348" crc="4dcc1c4e" sha1="819e5921446ddd04b9558ecb78b85cff9eeca2b0"/>
+		<rom name="Fortune_&apos;n&apos;_Glory_(Impulse)_[Dx01_5jp].jpg" size="494293" crc="c32c227d" sha1="9401bdf22bc352831d16ce8af6f2cb326cc0914f"/>
+		<rom name="Fortune_&apos;n&apos;_Glory_(Impulse)_[Dx01_5jp].ram" size="65536" crc="41d0cf60" sha1="c8075019dde4fc80f317b9a1e6366b3a9eaa5dc9"/>
+		<rom name="Fortune_&apos;n&apos;_Glory_(Impulse)_[Dx01_5jp].txt" size="1371" crc="a6390c28" sha1="30446385ee3a009b1b9413f72c19db4778cb4341"/>
+		<rom name="i01nfg35.g0" size="131072" crc="99fd5271" sha1="331ae4edafb13caae93a2a4e3f9bc53a56a081fa"/>
+		<rom name="i01nfg35.g1" size="131072" crc="ce7012d0" sha1="b2496ee23a135920bceab5a2b8fbbc5d06ffcaa2"/>
+		<rom name="i01pfg36.g0" size="131072" crc="99fd5271" sha1="331ae4edafb13caae93a2a4e3f9bc53a56a081fa"/>
+		<rom name="i01pfg36.g1" size="131072" crc="25ee46e8" sha1="44f86e9fad5ecf22a02d124b9792828f4b0e0791"/>
+	</game>
+	<game name="Frantic (Impulse)">
+		<rom name="Frantic_(Impulse)_[C01_25jp].fml" size="705073" crc="dabc4363" sha1="d4b9275d8545547f80668e2becf01df761f7df90"/>
+		<rom name="Frantic_(Impulse)_[C01_25jp].gam" size="416" crc="2228486e" sha1="d22fdddfa85f371ccd79cd392ae9bd434353ba72"/>
+		<rom name="Frantic_(Impulse)_[C01_25jp].jpg" size="40765" crc="55cef7f9" sha1="23584f57faab361be46c6307775a66fe265c522a"/>
+		<rom name="Frantic_(Impulse)_[C01_25jp].png" size="161574" crc="497de294" sha1="70b1a64d50864ebda8e333228a27221833c715a5"/>
+		<rom name="Frantic_(Impulse)_[C01_25jp].ram" size="65536" crc="618650db" sha1="8a7a83db18d641d76aa58a5d8aa651f5eedca9a4"/>
+		<rom name="Frantic_(Impulse)_[C01_25jp].txt" size="378" crc="bba62d77" sha1="74079ab2cbd663292f13949f20a63cc6e0b2fb94"/>
+		<rom name="i01nfr06.g0" size="131072" crc="523edd45" sha1="b519009982213aba84c11498782f8eda6c91a62e"/>
+		<rom name="i01nfr06.g1" size="131072" crc="c43e874a" sha1="2f984df79cdfd9da2001417a2bdf217b061ee092"/>
+		<rom name="i01nfr06.g2" size="131072" crc="954920c3" sha1="c58ec622bafd08a33b0d2000019b88ffb1859cd2"/>
+		<rom name="i01nfr06.g3" size="131072" crc="f29fb08f" sha1="522c7bf9684397b3c6ae2cbf61b2f3e3becea8c9"/>
+	</game>
+	<game name="Full Moon Fever (Impulse)">
+		<rom name="fmfg051n.p0" size="131072" crc="9d567300" sha1="f492144f6fe68d549fb60372c5fb7adb4c54eb20"/>
+		<rom name="fmfg051n.p1" size="131072" crc="211396e2" sha1="01447cddc981024d15c18c083ee37db688ef7d60"/>
+		<rom name="fmfg051n.p2" size="131072" crc="0f8cc6ad" sha1="7fe5b6a5fc40e448f4f67b36f9210d3cabeb3532"/>
+		<rom name="fmfg051n.p3" size="131072" crc="495f776a" sha1="a5c9071dc40c22570c5fbe81efcba8620fa6e25b"/>
+		<rom name="fmoon.s0" size="524288" crc="e8b06465" sha1="269c2f271f5338dea6aed0be7ef49ba2ae2025c3"/>
+		<rom name="fmoon.s1" size="524288" crc="4781c1bd" sha1="a9f66ad2b111c75edf29d4ea65c546a969504bb6"/>
+		<rom name="Full_Moon_Fever_(Impulse)_[C01_15jp].fml" size="615500" crc="eef44428" sha1="0e6ec2d6d752a193b41c96e808c8fbac6adeaa61"/>
+		<rom name="Full_Moon_Fever_(Impulse)_[C01_15jp].gam" size="437" crc="41f70f87" sha1="b3d34b91eba8265eb5e1c081c400d2529d18ba85"/>
+		<rom name="Full_Moon_Fever_(Impulse)_[C01_15jp].jpg" size="37394" crc="5cdcfa90" sha1="ae064ccaa97e72d224c29d9191f6e6a2ff180071"/>
+		<rom name="Full_Moon_Fever_(Impulse)_[C01_15jp].ram" size="65536" crc="d2c66c21" sha1="0d22485520a80d55391896d69dbd1d77af121773"/>
+		<rom name="Full_Moon_Fever_(Impulse)_[Dx01_25jp].fml" size="13535336" crc="cecbd33a" sha1="831b6aa53bf28d6b89ffd53461999c4acb4fc25d"/>
+		<rom name="Full_Moon_Fever_(Impulse)_[Dx01_25jp].gam" size="369" crc="e07a88df" sha1="95baa1cf60a965e8c72abec1d81e8e0784c67573"/>
+		<rom name="Full_Moon_Fever_(Impulse)_[Dx01_25jp].jpg" size="61355" crc="ecf74f7c" sha1="8d174fde3e4172df9633c7f75005f7a3ec153fe0"/>
+		<rom name="Full_Moon_Fever_(Impulse)_[Dx01_25jp].png" size="1182482" crc="7011c0c0" sha1="644ce89d793c16127dc089c8c15e1f3d06b29ca4"/>
+		<rom name="Full_Moon_Fever_(Impulse)_[Dx01_25jp].ram" size="65536" crc="1f89815c" sha1="046cd469520fbc4008a99172cd9ea5d56b6b4547"/>
+		<rom name="Full_Moon_Fever_(Impulse)_[Dx01_25jp].txt" size="112" crc="c415e6fd" sha1="59f1c6ed89ee39d89a39f62e032dc83319b1f1e3"/>
+		<rom name="Full_Moon_Fever_(Impulse)_[Dx02_5jp].fml" size="13466006" crc="d827b8f3" sha1="5497990a561b2e0ac074790b55136f24aa44b956"/>
+		<rom name="Full_Moon_Fever_(Impulse)_[Dx02_5jp].gam" size="367" crc="74c23972" sha1="30f3e1b7d36e089743b0a43bcef2d4454399c240"/>
+		<rom name="Full_Moon_Fever_(Impulse)_[Dx02_5jp].jpg" size="1144674" crc="738ca3e8" sha1="a69d5c1e5926651cef4fcf3acb5752ae5d009244"/>
+		<rom name="Full_Moon_Fever_(Impulse)_[Dx02_5jp].ram" size="65536" crc="55c2dc01" sha1="ea64c917182b6293c81e4af73e4904fb931d33dc"/>
+		<rom name="Full_Moon_Fever_(Impulse)_[Dx02_5jp].txt" size="33" crc="1efdb153" sha1="772210b94f78164fdde3595fb6008ef53e3600fc"/>
+		<rom name="i00pff19.g0" size="131072" crc="2296fec8" sha1="b109f714d3ffbb4b4124cc1b48ed73076936f2c4"/>
+		<rom name="i00pff19.g1" size="131072" crc="25855b60" sha1="64682b7a4ba77c0b991ef53779865b6e2baa713c"/>
+		<rom name="i00pff19.g2" size="131072" crc="7545e2ee" sha1="ce64c0f17cab55f9c8ac3b7eff68f245a65a6808"/>
+		<rom name="i00pff19.g3" size="131072" crc="d34de35f" sha1="cc144e67153a329034cc54673c7c363c94be1b61"/>
+	</game>
+	<game name="Funny Money (Maygay - Impulse)">
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[C01_25jp].fml" size="592708" crc="003bde42" sha1="20a8f19a50f672dd4def1492e8581c145f79a01e"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[C01_25jp].gam" size="400" crc="2f8ee385" sha1="9b94e44652483c35fb755fbef6f1adac8ebabd33"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[C01_25jp].jpg" size="31658" crc="1e290e21" sha1="f11415407ad76069f437d08b4b2a16ee6b62aacc"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[C01_25jp].png" size="454243" crc="6aa99927" sha1="8ce086d83a5eb3d6e7c59301ab8d003e19902917"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[C01_25jp].ram" size="65536" crc="a0792411" sha1="f02057e669da5cbe299194749f50f16c8f9a79c5"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[C01_25jp].txt" size="1053" crc="8871f3c0" sha1="366c723238da362ad2cf1301366976e4a4166391"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[Dx01_15jp].fml" size="8163712" crc="1b51e5e3" sha1="9facd2e248e1cda77cfbd3483166cc3bfe321e4f"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[Dx01_15jp].gam" size="407" crc="4256da19" sha1="9f3af9cba48818e09020b9a47281287ed93591d4"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[Dx01_15jp].jpg" size="213597" crc="86c547a4" sha1="d65dafb3255c176d3e426bab25b2084f1f5519b1"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[Dx01_15jp].png" size="908527" crc="aba8568a" sha1="f050b59de420221b2c84b25fa97993c3a34d04ef"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[Dx01_15jp].ram" size="65536" crc="4b3dec2a" sha1="a791a79b2da108ceddb5c8f41f00b8ba16595e8c"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[Dx01_15jp].txt" size="739" crc="2bd7f913" sha1="0a41d914994dc485b04bc2ec077138ab54a08ee2"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[Dx01_5jp].fml" size="8107054" crc="505956e9" sha1="901c5647ee9deb75dadabd585661ff69a35d3eb3"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[Dx01_5jp].gam" size="406" crc="59753c89" sha1="d76785e4344910f787bc96ca4cdda526e0fa3e05"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[Dx01_5jp].jpg" size="210407" crc="ec487d7b" sha1="3be3ad9f6efffaa7c4fbc16badd6cce28d9ecefa"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[Dx01_5jp].png" size="910074" crc="9b0de765" sha1="43f6c8d1a857df05f5e345b1cd1d90d67bc00660"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[Dx01_5jp].ram" size="65536" crc="10b14edf" sha1="b7a391f2d23cf6e50d19a38335f1fb67a975d6ed"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[Dx01_5jp].txt" size="303" crc="96ce8362" sha1="070d31e67f06dd4023b43d6c83101f3748e79d79"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[Dx02_25jp].fml" size="8160251" crc="f1137d6a" sha1="01a64c807015761d53a223a905f6203032adb80c"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[Dx02_25jp].gam" size="410" crc="ada4432e" sha1="f2c0ae4485c3be2649a45dd0cc3087b13ea68055"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[Dx02_25jp].jpg" size="255487" crc="415eeaef" sha1="48c9bcf1478dbb9bab5db518fa0ab79e7f6c998d"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[Dx02_25jp].ram" size="65536" crc="373978b2" sha1="360c1431d20f27af7d011e4a0161a36b6afddeef"/>
+		<rom name="Funny_Money_(Maygay_-_Impulse)_[Dx02_25jp].txt" size="457" crc="c8a0a8f8" sha1="252d0b6bb65c9f24dbc90d33d9cd5a989763d4af"/>
+		<rom name="funnymoneysound0.bin" size="524288" crc="81354590" sha1="f11e46ed0dadf98ffc2476ee993708cc15ffc7bd"/>
+		<rom name="funnymoneysound1.bin" size="524288" crc="65b728e1" sha1="aa5b8b20d33ffd834e58fa872e27594846a7567b"/>
+		<rom name="gfm24_0.bin" size="131072" crc="682e19f1" sha1="26f77ddb1e534c33475fef2504d6b751a51aa71c"/>
+		<rom name="gfm24_1.bin" size="131072" crc="fdab3e70" sha1="984374ca54ab68e1044b9102b71feadb8f80d24d"/>
+		<rom name="gfm24_2.bin" size="131072" crc="1811820b" sha1="9bb85243347d235cd05819f12fc98b4c5565b060"/>
+		<rom name="gfm24_3.bin" size="131072" crc="f3fb667e" sha1="a188f34953911f9ca06018ed4c90dba709392be2"/>
+		<rom name="gfm25_0.bin" size="131072" crc="682e19f1" sha1="26f77ddb1e534c33475fef2504d6b751a51aa71c"/>
+		<rom name="gfm25_1.bin" size="131072" crc="16356a48" sha1="f056634ca772cc81ebb40448a116481448a02e7f"/>
+		<rom name="gfm25_2.bin" size="131072" crc="1811820b" sha1="9bb85243347d235cd05819f12fc98b4c5565b060"/>
+		<rom name="gfm25_3.bin" size="131072" crc="f3fb667e" sha1="a188f34953911f9ca06018ed4c90dba709392be2"/>
+		<rom name="i99nfm18.g0" size="131072" crc="f71f8222" sha1="51a7cdd47b674a639cb9de4e1252f17da9b583d9"/>
+		<rom name="i99nfm18.g1" size="131072" crc="bc998d7b" sha1="6e52ca91b1fc83345a76a2c68053ff0c9a996856"/>
+		<rom name="i99nfm20.g0" size="131072" crc="f71f8222" sha1="51a7cdd47b674a639cb9de4e1252f17da9b583d9"/>
+		<rom name="i99nfm20.g1" size="131072" crc="b0d4234a" sha1="125cbaf66272da301ffb8984f4c0ea4f54a32aec"/>
+		<rom name="i99nfm22.g0" size="131072" crc="3a838ae7" sha1="a0331d7bb8929305da4edafe320d5b40419bb3d3"/>
+		<rom name="i99nfm22.g1" size="131072" crc="a0dfb558" sha1="631850f51bee85eb4e5d5329a61ded048d2c3f82"/>
+		<rom name="i99nfm22.g2" size="131072" crc="3f204dd8" sha1="18e9c23bbb8935262a6ec7ff0dfd9897801858d5"/>
+		<rom name="i99nfm22.g3" size="131072" crc="74a1c7fa" sha1="aab57fdccf15ea0709655e245323ca2ecaf392bb"/>
+		<rom name="i99pfm19.g0" size="131072" crc="f71f8222" sha1="51a7cdd47b674a639cb9de4e1252f17da9b583d9"/>
+		<rom name="i99pfm19.g1" size="131072" crc="5707d943" sha1="c64a29bfeb80ff4d8a7cef03261b40aea7e0b354"/>
+		<rom name="i99pfm21.g0" size="131072" crc="f71f8222" sha1="51a7cdd47b674a639cb9de4e1252f17da9b583d9"/>
+		<rom name="i99pfm21.g1" size="131072" crc="5b4a7772" sha1="428a51a604c74baec068c50e9daf5355ab469483"/>
+		<rom name="i99pfm23.g0" size="131072" crc="3a838ae7" sha1="a0331d7bb8929305da4edafe320d5b40419bb3d3"/>
+		<rom name="i99pfm23.g1" size="131072" crc="4b41e160" sha1="9e2ab7d182a5cfc27a1cfdcc1a85395ef2a11105"/>
+		<rom name="i99pfm23.g2" size="131072" crc="3f204dd8" sha1="18e9c23bbb8935262a6ec7ff0dfd9897801858d5"/>
+		<rom name="i99pfm23.g3" size="131072" crc="74a1c7fa" sha1="aab57fdccf15ea0709655e245323ca2ecaf392bb"/>
+	</game>
+	<game name="Geronimo (Impulse)">
+		<rom name="geronimo.s0" size="524288" crc="5959edf8" sha1="97437b91f96e90ac807bb0e57245455aa94b020a"/>
+		<rom name="geronimo.s1" size="524288" crc="c485d5cd" sha1="8cf8d2ac5773e898fdbbea8c8f7db38c119cba62"/>
+		<rom name="Geronimo_(Impulse)_[C01_15jp].fml" size="570962" crc="ba29151b" sha1="83f6fffce22ebb2b2345da49326933b2d53ae216"/>
+		<rom name="Geronimo_(Impulse)_[C01_15jp].gam" size="429" crc="7a88aa44" sha1="c279a1112836c67a48192c0c45c54fca757a337d"/>
+		<rom name="Geronimo_(Impulse)_[C01_15jp].jpg" size="41608" crc="ee58904c" sha1="98736eeb97064fc262e9c22a330a8335a2fb46ea"/>
+		<rom name="Geronimo_(Impulse)_[C01_15jp].png" size="142480" crc="5b8f45ee" sha1="98bd4db568df3ca72a6bdc84be9bb59af428d5f1"/>
+		<rom name="Geronimo_(Impulse)_[C01_15jp].ram" size="65536" crc="39dc0bc1" sha1="6aaa4832925a36f6918766c7dc12c188076774e4"/>
+		<rom name="Geronimo_(Impulse)_[C01_15jp].txt" size="222" crc="e647f5da" sha1="49d870c1a79ccc14be508fa545fcfdb7612e5083"/>
+		<rom name="Geronimo_(Impulse)_[Dx01_15jp].fml" size="16261325" crc="32efbbc8" sha1="bff3d31e45d43e340ac232c6059bf2dd2a49901e"/>
+		<rom name="Geronimo_(Impulse)_[Dx01_15jp].gam" size="348" crc="9ad86ce4" sha1="3c43735e3ba3b25dbec1749bd324c429ecb04264"/>
+		<rom name="Geronimo_(Impulse)_[Dx01_15jp].jpg" size="432914" crc="81f900ef" sha1="24dbcad944717c6d916a1d159f2a8e5f2795f669"/>
+		<rom name="Geronimo_(Impulse)_[Dx01_15jp].ram" size="65536" crc="325a9e73" sha1="f9564fa2e1301c0813120d511aaab41588d8d2c1"/>
+		<rom name="Geronimo_(Impulse)_[Dx01_15jp].txt" size="1008" crc="7e036ae9" sha1="d874c40793c5967002f4da1307701ca9de4b4e95"/>
+		<rom name="Geronimo_(Impulse)_[Dx01_25jp].fml" size="16181383" crc="14b30a27" sha1="f0b0d90c8669126d0c0572d1a8e3d0118b8ae259"/>
+		<rom name="Geronimo_(Impulse)_[Dx01_25jp].gam" size="349" crc="432619c6" sha1="0e700045f0e837883d604d2cdc45b538ded302a0"/>
+		<rom name="Geronimo_(Impulse)_[Dx01_25jp].jpg" size="387723" crc="4a7bd0f3" sha1="d3c8d4677de147184b00f973856c182d8f9f2579"/>
+		<rom name="Geronimo_(Impulse)_[Dx01_25jp].ram" size="65536" crc="24b1c9ec" sha1="0cdccea0a49407ed6da8a5a76a8e317225f86c34"/>
+		<rom name="Geronimo_(Impulse)_[Dx01_25jp].txt" size="1008" crc="7e036ae9" sha1="d874c40793c5967002f4da1307701ca9de4b4e95"/>
+		<rom name="Geronimo_(Impulse)_[Dx01_5jp].fml" size="16070437" crc="999e2747" sha1="f71f952ae9e62e1be4bdbe48253cea3b1f978864"/>
+		<rom name="Geronimo_(Impulse)_[Dx01_5jp].gam" size="348" crc="9d119517" sha1="5d95ca3738b76d7e2b3cedd6f9abf41b1901ff12"/>
+		<rom name="Geronimo_(Impulse)_[Dx01_5jp].jpg" size="433685" crc="b4330883" sha1="639971508dc5f59b2e684cb54e7e493a4d714ea2"/>
+		<rom name="Geronimo_(Impulse)_[Dx01_5jp].ram" size="65536" crc="b2435dfb" sha1="fb6f3164b1ab28d2ca7b69b62a2837fd6dda3e86"/>
+		<rom name="Geronimo_(Impulse)_[Dx01_5jp].txt" size="1008" crc="7e036ae9" sha1="d874c40793c5967002f4da1307701ca9de4b4e95"/>
+		<rom name="i00nge10.g0" size="131072" crc="4dcac10e" sha1="65b83b8d0a46c9d1bc52b7eb4848627b65816b23"/>
+		<rom name="i00nge10.g1" size="131072" crc="444487ba" sha1="a6d5d0ee05f286fd869eabed25bedbaf3c937669"/>
+		<rom name="i00nge10.g2" size="131072" crc="309c31cc" sha1="225ea8a01cb131c178a16bfd75aaf6ce8f7a2322"/>
+		<rom name="i00nge10.g3" size="131072" crc="0aeb3fad" sha1="9a971b2c20bec55362bfeec3222162d42a49dfa7"/>
+	</game>
+	<game name="Globe Trotter (Impulse)">
+		<rom name="ggt01_0.bin" size="131072" crc="b6bd9dbd" sha1="66495fd09540a72ea75bd8f812c811e3dc0af4a6"/>
+		<rom name="ggt01_1.bin" size="131072" crc="acdc7470" sha1="df37eeaa1ed582704acac8e41c4624286e9fa4a1"/>
+		<rom name="ggt01_2.bin" size="131072" crc="753fbb4b" sha1="abc29ad272198a92411c5a6c7f20a10a099a0be3"/>
+		<rom name="ggt01_3.bin" size="131072" crc="90ca1e16" sha1="502a6f37dddf92c9889afa85158ad170432f3cd8"/>
+		<rom name="ggt02_0.bin" size="131072" crc="b6bd9dbd" sha1="66495fd09540a72ea75bd8f812c811e3dc0af4a6"/>
+		<rom name="ggt02_1.bin" size="131072" crc="47422048" sha1="95b5dc29268d16cf54ee998c0e0c229876205db5"/>
+		<rom name="ggt02_2.bin" size="131072" crc="753fbb4b" sha1="abc29ad272198a92411c5a6c7f20a10a099a0be3"/>
+		<rom name="ggt02_3.bin" size="131072" crc="90ca1e16" sha1="502a6f37dddf92c9889afa85158ad170432f3cd8"/>
+		<rom name="Globe_Trotter_(Impulse)_[C01_25jp].fml" size="617482" crc="aab34b54" sha1="be282dd9a3a4aa6be7572c7916b952af3e63cfc6"/>
+		<rom name="Globe_Trotter_(Impulse)_[C01_25jp].gam" size="387" crc="dfcc0400" sha1="2190042b56a7e6bbd28ee45737d02e5b4f91e9d1"/>
+		<rom name="Globe_Trotter_(Impulse)_[C01_25jp].jpg" size="292550" crc="d876de97" sha1="4b5a84ed8879bf28299a5905e13a2c97df314cf7"/>
+		<rom name="Globe_Trotter_(Impulse)_[C01_25jp].ram" size="65536" crc="b2dcfa5b" sha1="ff5feaa22366da7dc3cef29898be50a24d2b6087"/>
+		<rom name="Globe_Trotter_(Impulse)_[C01_25jp].txt" size="1222" crc="df2d17ca" sha1="3be6149dddfdf0b006e9850ed00e12938b173fd7"/>
+		<rom name="i03ngt03.g0" size="131072" crc="3d460af9" sha1="77e37a9357b6f1597b9f48da89c6ccdd00740372"/>
+		<rom name="i03ngt03.g1" size="131072" crc="aec67606" sha1="4c5bb72859770993ca48f41ffea7d20d6aa0f743"/>
+		<rom name="i03ngt03.g3" size="131072" crc="3c6e101d" sha1="f054d883a47416a466d89c1fd225ab2a7cd29105"/>
+		<rom name="i03ngt03.p2" size="131072" crc="ffbe5287" sha1="e5aeb05bf9d59c531a09796959728669bb159a18"/>
+		<rom name="i03pgt04.g1" size="131072" crc="4558223e" sha1="194812b2fbe796406b1d50fb92dc3ec678a71981"/>
+	</game>
+	<game name="Grid Runner (Impulse)">
+		<rom name="grd_g0_imp99ngr14.bin" size="131072" crc="72c88762" sha1="2eae7a41b1575f067ccf98a8ac1f29dcbae6784c"/>
+		<rom name="grd_g1_imp99ngr14.bin" size="131072" crc="dccc3982" sha1="ab4b939fb26eb5576e9bfa0fa0388442819b2b72"/>
+		<rom name="grid031p.p0" size="131072" crc="02eae1b1" sha1="68311fc3237da30cf96b42ae0cf16342ecf9cb45"/>
+		<rom name="grid031p.p1" size="131072" crc="c33cbe0f" sha1="4565288a67713f51313d4a3a5573d449470f20f8"/>
+		<rom name="grid031p.p2" size="131072" crc="0f2e2461" sha1="51c8ee2bb352c7fe5af928017a2698debfe3aa26"/>
+		<rom name="grid031p.p3" size="131072" crc="78aa85ae" sha1="65587da39d0d62d2dd34422df182dcad15fe734c"/>
+		<rom name="Grid_Runner_(Impulse)_[C01_15jp].fml" size="2651928" crc="6ff1bd0d" sha1="db49c2b5b343df84f1c088d30190e58cc6826245"/>
+		<rom name="Grid_Runner_(Impulse)_[C01_15jp].gam" size="383" crc="1d388b9c" sha1="ea65da41852087b97b9f7fd297a013042e8bd5a5"/>
+		<rom name="Grid_Runner_(Impulse)_[C01_15jp].jpg" size="39367" crc="b570b050" sha1="139dd6a59115389368facf1dfc4728e6ddb2f0dc"/>
+		<rom name="Grid_Runner_(Impulse)_[C01_15jp].png" size="135456" crc="d2df9e2d" sha1="0392ff7653135f11eade61b07dd86c23504be5b4"/>
+		<rom name="Grid_Runner_(Impulse)_[C01_15jp].ram" size="65536" crc="86cfad69" sha1="18ebf70ba964cc023eb779ab734fb0cc71483dcf"/>
+		<rom name="Grid_Runner_(Impulse)_[C01_15jp].txt" size="1129" crc="a928fbe7" sha1="6cbb479b34c52352b2d2c0bee2c02fe54c36793f"/>
+		<rom name="Grid_Runner_(Impulse)_[C01_alt2_15jp].fml" size="2652146" crc="60f083b8" sha1="6d6ea1cf46971a5f20d7df25f578b48e82a4f1ae"/>
+		<rom name="Grid_Runner_(Impulse)_[C01_alt2_15jp].gam" size="401" crc="71a6b17b" sha1="f2d12cc2fff57533c685b7b39c6b965845e1ed2d"/>
+		<rom name="Grid_Runner_(Impulse)_[C01_alt2_15jp].ram" size="65536" crc="dae9a79f" sha1="498e6e6400b3260c83aa500724b811b24060325c"/>
+		<rom name="Grid_Runner_(Impulse)_[C01_alt_15jp].fml" size="2652146" crc="60f083b8" sha1="6d6ea1cf46971a5f20d7df25f578b48e82a4f1ae"/>
+		<rom name="Grid_Runner_(Impulse)_[C01_alt_15jp].gam" size="398" crc="4e29be45" sha1="28c1fe4db32f37ad87337825e23d8ada25088ab6"/>
+		<rom name="Grid_Runner_(Impulse)_[C01_alt_15jp].png" size="135456" crc="d2df9e2d" sha1="0392ff7653135f11eade61b07dd86c23504be5b4"/>
+		<rom name="Grid_Runner_(Impulse)_[C01_alt_15jp].ram" size="65536" crc="b61910cb" sha1="9a20fa6eaae1e129c14dd5c6319d86e913be594c"/>
+		<rom name="Grid_Runner_(Impulse)_[C01_alt_15jp].txt" size="1129" crc="a928fbe7" sha1="6cbb479b34c52352b2d2c0bee2c02fe54c36793f"/>
+		<rom name="Grid_Runner_(Impulse)_[Dx01_15jp].fml" size="15388190" crc="490093c0" sha1="e5e56576074c4614834b1e2eb2a7bbbc3174d401"/>
+		<rom name="Grid_Runner_(Impulse)_[Dx01_15jp].gam" size="394" crc="3cd79acf" sha1="80c441715f3051f1194a76402b1c7a529f1b0e6d"/>
+		<rom name="Grid_Runner_(Impulse)_[Dx01_15jp].jpg" size="25140" crc="630194e5" sha1="664f5150b8120f4c9973dc43ba150bd09ee0d893"/>
+		<rom name="Grid_Runner_(Impulse)_[Dx01_15jp].ram" size="65536" crc="89f40ac2" sha1="d0eade7a0d1926c40d78c8fce16bc2e73be78757"/>
+		<rom name="gridrunnersound0.bin" size="524288" crc="dc8f0bbb" sha1="a375eff2fa5d109491479e050c5267ae73f63ebc"/>
+		<rom name="gridrunnersound1.bin" size="524288" crc="d965860b" sha1="ceaabf092777c50035baf13545a0280047d530ae"/>
+	</game>
+	<game name="Grid Runner Club (Impulse) [c]">
+		<rom name="clubgridrunner.g0" size="131072" crc="0ee9aa47" sha1="d85d04d3bb6bd2f379caf202592165beeb54e946"/>
+		<rom name="clubgridrunner.g1" size="131072" crc="d3881c7f" sha1="ad7646979ad8a1b62cf8cf96566b0c49791c8803"/>
+		<rom name="clubgridrunner.s0" size="1048576" crc="b5ffb8dc" sha1="2591777fcf98ae4ee57cf0743015be2c81265abe"/>
+		<rom name="gr_data.p0" size="131072" crc="c2d4e843" sha1="adc7b91e4cfea56cad4fbc554b6d90b7f05c0c0e"/>
+		<rom name="gr_data.p1" size="131072" crc="d3881c7f" sha1="ad7646979ad8a1b62cf8cf96566b0c49791c8803"/>
+		<rom name="gr_nondata.p0" size="131072" crc="0ee9aa47" sha1="d85d04d3bb6bd2f379caf202592165beeb54e946"/>
+		<rom name="grid1-1n.p0" size="131072" crc="3d8c469b" sha1="2f46143c62157a72beefb015b4ab664d4d4b5895"/>
+		<rom name="grid1-1n.p1" size="131072" crc="1dfc84ec" sha1="7e9655df68011beac3cf5aac4d70614564b5a63c"/>
+		<rom name="grid1-1p.p0" size="131072" crc="8ee19357" sha1="5d47c2a32f78fe90e5d6c98b0f5709e88ee12f4f"/>
+		<rom name="grid1-1p.p1" size="131072" crc="1dfc84ec" sha1="7e9655df68011beac3cf5aac4d70614564b5a63c"/>
+		<rom name="grid3-3n.p1" size="131072" crc="26c8d7cb" sha1="fadeea78abc0b90c7527acaff5f08f9f24e8b67a"/>
+		<rom name="grid3-4p.p1" size="131072" crc="410f5571" sha1="38536c41f103ec94e866cad4d7d80d4b66028b2e"/>
+		<rom name="Grid_Runner_Club_(Impulse)_[C01_250jp]_[c].fml" size="5523596" crc="0714b27f" sha1="c9e23e3059da1b237b5806a337846308ae6cc023"/>
+		<rom name="Grid_Runner_Club_(Impulse)_[C01_250jp]_[c].gam" size="309" crc="b00d983f" sha1="5ee89e995f18a1f62b8272133308c3617b0c5577"/>
+		<rom name="Grid_Runner_Club_(Impulse)_[C01_250jp]_[c].jpg" size="355944" crc="f6294581" sha1="6a8ff9df84009307d6dc30b896209802a2f48e9b"/>
+		<rom name="Grid_Runner_Club_(Impulse)_[C01_250jp]_[c].ram" size="65536" crc="923a14c7" sha1="89518753785b18286feb6c40f73b33484d9f354d"/>
+		<rom name="Grid_Runner_Club_(Impulse)_[C01_250jp]_[c].txt" size="354" crc="caeefcb0" sha1="e2c995f4e6d0993ff33b35828c21ced339342802"/>
+	</game>
+	<game name="Heavens Above (Impulse)">
+		<rom name="Heavens_Above_(Impulse)_[C01_25jp].fml" size="1185931" crc="24bc7454" sha1="862d6bcbdd45ad8907057b66b5f9bb9f98502d51"/>
+		<rom name="Heavens_Above_(Impulse)_[C01_25jp].gam" size="335" crc="32bae0af" sha1="0e6ebf03273a0ec884ed2f5f48e700d9961747b8"/>
+		<rom name="Heavens_Above_(Impulse)_[C01_25jp].jpg" size="477598" crc="0b3fa7db" sha1="4261024072abb6c5fc8a3f5143e63749e4f62e62"/>
+		<rom name="Heavens_Above_(Impulse)_[C01_25jp].ram" size="65536" crc="ba191a04" sha1="39f9d4fb328e988e3dd552811cbb1137862570d1"/>
+		<rom name="Heavens_Above_(Impulse)_[C01_25jp].txt" size="454" crc="e7978067" sha1="2361400de374245b403295accd37a2aa943d21f1"/>
+		<rom name="i02nha05.g0" size="131072" crc="3dd8672f" sha1="d88cdf2e056d145eba98d9bcc6c26f89dbc97369"/>
+		<rom name="i02nha05.g1" size="131072" crc="9873ebd1" sha1="7b8f890dc8f4309ee04ed73209054222938696d8"/>
+		<rom name="i02nha05.g2" size="131072" crc="ad48d982" sha1="8281abb862c2da5650fa0e126a61f690ef943a54"/>
+		<rom name="i02nha05.g3" size="131072" crc="ee793d9f" sha1="b53df0207645bf0652f247a9f1599766c1703167"/>
+		<rom name="i02pha06.g0" size="131072" crc="3dd8672f" sha1="d88cdf2e056d145eba98d9bcc6c26f89dbc97369"/>
+		<rom name="i02pha06.g1" size="131072" crc="73edbfe9" sha1="a564e8664c61c785fe5a6b0c89996bdb9b1bdfac"/>
+		<rom name="i02pha06.g2" size="131072" crc="ad48d982" sha1="8281abb862c2da5650fa0e126a61f690ef943a54"/>
+		<rom name="i02pha06.g3" size="131072" crc="ee793d9f" sha1="b53df0207645bf0652f247a9f1599766c1703167"/>
+	</game>
+	<game name="High Voltage (Impulse)">
+		<rom name="High_Voltage_(Impulse)_[C01_15jp].fml" size="529736" crc="8f1733d3" sha1="484896138a9541455f8117147d5d81a569b7b4de"/>
+		<rom name="High_Voltage_(Impulse)_[C01_15jp].gam" size="346" crc="2df5af5d" sha1="a530fd9b8e1926e4d1846e5174ac8f00d8d042cc"/>
+		<rom name="High_Voltage_(Impulse)_[C01_15jp].jpg" size="30903" crc="2d391528" sha1="9e6ac364c51a4c3fcda7e7e2f70915ef6c0187a8"/>
+		<rom name="High_Voltage_(Impulse)_[C01_15jp].png" size="347738" crc="4a396130" sha1="3a5254196111fc3644abd7fdcf372c1b64d1d77c"/>
+		<rom name="High_Voltage_(Impulse)_[C01_15jp].ram" size="65536" crc="4d15ee98" sha1="30e7145c5950518ae5745cbaeb46456acab0997f"/>
+		<rom name="High_Voltage_(Impulse)_[C01_15jp].txt" size="607" crc="9cb7dfec" sha1="a61a0e817f59f345b867ef9fc933a666d843a350"/>
+		<rom name="High_Voltage_(Impulse)_[Dx01_15jp].fml" size="13788724" crc="aa9eaf56" sha1="bdc604e27c19ecbf93080a842f71a22e9cffc2a8"/>
+		<rom name="High_Voltage_(Impulse)_[Dx01_15jp].gam" size="364" crc="6bb31710" sha1="55275341a2dd2d32e5654bcb4130aea6544549f8"/>
+		<rom name="High_Voltage_(Impulse)_[Dx01_15jp].jpg" size="580698" crc="551ac153" sha1="cabbc159305099448b9f501e55f1048fbc1757be"/>
+		<rom name="High_Voltage_(Impulse)_[Dx01_15jp].ram" size="65536" crc="031dad82" sha1="14e5bb80dbce319b9eb7f7b20c31851015926a8e"/>
+		<rom name="High_Voltage_(Impulse)_[Dx01_25jp].fml" size="10485772" crc="8e6eb72a" sha1="594567550e77f2087d2cf2ea864250f9f10812ff"/>
+		<rom name="High_Voltage_(Impulse)_[Dx01_25jp].gam" size="348" crc="29687d67" sha1="c308f49d388dce5168e6937dd3498ee28a034abb"/>
+		<rom name="High_Voltage_(Impulse)_[Dx01_25jp].ram" size="65536" crc="d32ae951" sha1="52b2507b61b72532ebbe81a8042e8c2070068f88"/>
+		<rom name="High_Voltage_(Impulse)_[Dx01_25jp].txt" size="1628" crc="9e3e8194" sha1="8a2575a32d2d18bb768aa64a1173f279a56fbb7b"/>
+		<rom name="High_Voltage_(Impulse)_[Dx01_5jp].fml" size="10350302" crc="243f80fb" sha1="31798cb8743ebb2bf6fa18c8d34bd7fe406a931d"/>
+		<rom name="High_Voltage_(Impulse)_[Dx01_5jp].gam" size="347" crc="21c998f4" sha1="f9acc9ac8ea9dfdc8a03971c1eefb58a8fc5174c"/>
+		<rom name="High_Voltage_(Impulse)_[Dx01_5jp].jpg" size="530300" crc="8b1fd73c" sha1="8002f44b1d53a264a16bda96b340baca3c2b1400"/>
+		<rom name="High_Voltage_(Impulse)_[Dx01_5jp].ram" size="65536" crc="6337552f" sha1="5cac4cbf3a8961a5ea8f1af60a492836c72ec18b"/>
+		<rom name="hvg0.bin" size="131072" crc="1a022252" sha1="1f1c4263459688e4418f98358b05e0f917c2a356"/>
+		<rom name="hvg1.bin" size="131072" crc="9fc52bcd" sha1="eefdb1f8f7af993363efa2b666b887bed89f038d"/>
+		<rom name="hvg2.bin" size="131072" crc="8bbeba8d" sha1="d5f39c5acd6ffe11c0b2427b950dd3c8320792ec"/>
+		<rom name="hvg3.bin" size="131072" crc="a6b747f6" sha1="6e194a2c0cef6fb812fbd68df5779a36633b0290"/>
+		<rom name="hvs0.bin" size="524288" crc="a50f8fa5" sha1="bde27c5b536cdc97384adb3c2eb842d1c31eddde"/>
+		<rom name="hvs1.bin" size="524288" crc="22412ebf" sha1="36fa6da835f2a1f005d08b8e1c6bde9b0fb3ef6b"/>
+	</game>
+	<game name="Hog Money (Impulse)">
+		<rom name="Hog_Money_(Impulse)_[C01_15jp].fml" size="1860090" crc="12f7abf1" sha1="6c9b54cbdc5210893fbd5b85a219ea8e9ba2c7e3"/>
+		<rom name="Hog_Money_(Impulse)_[C01_15jp].gam" size="284" crc="57ae375a" sha1="c35b9f488e36f4d8781d1f3bb2d01bc5198dffe5"/>
+		<rom name="Hog_Money_(Impulse)_[C01_15jp].jpg" size="450769" crc="b0fcca0d" sha1="c7ace957d0f2d232eaa3d9a12fee5343aaa33dba"/>
+		<rom name="Hog_Money_(Impulse)_[C01_15jp].ram" size="65536" crc="0d1943ca" sha1="daf8b55b7a625e14eaf576372e60f7e3d8497570"/>
+		<rom name="Hog_Money_(Impulse)_[C01_15jp].txt" size="1323" crc="171c2618" sha1="1decd878335a65fcfc35ea4182c21096b7669dca"/>
+		<rom name="HOGMONEY_GAME_0 (TMS27C010A).BIN" size="131072" crc="d50ece2f" sha1="5c24aa66f5511a5d7bec94ce967dea62241f3a91"/>
+		<rom name="HOGMONEY_GAME_1 (TMS27C010A).BIN" size="131072" crc="436a1491" sha1="95650cd2156bee3bdffe901daf1e103e797d82fc"/>
+		<rom name="HOGMONEY_SOUND_0 (M27C4001).BIN" size="524288" crc="c979288f" sha1="7c81aaf3d0001b3442f24e533644239dd4c1f887"/>
+		<rom name="HOGMONEY_SOUND_1 (M27C4001).BIN" size="524288" crc="db2e56ce" sha1="2f1af7a9ba3e43006bcb2ddc99c5d007434ee5b9"/>
+		<rom name="i99nhm14.g0" size="131072" crc="51022b50" sha1="47cb0d9b4a6012f87e12f07e2adcdd841d1e336a"/>
+		<rom name="i99nhm14.g1" size="131072" crc="dcdbabc3" sha1="7ee8529787f68de5973fad385b5821c523a87294"/>
+	</game>
+	<game name="Holy Smoke (Impulse)">
+		<rom name="ghs01_0.bin" size="131072" crc="24fc4a8e" sha1="8aa72da2ad7ad3a1e495543d236da1edb579e78e"/>
+		<rom name="ghs01_1.bin" size="131072" crc="cbb41228" sha1="b8f84a560b516e7fd27303939172a53b29cc48da"/>
+		<rom name="ghs01_2.bin" size="131072" crc="f4d8bab6" sha1="05e0bcc8c4d176688238214c65ecbd28459ed874"/>
+		<rom name="ghs01_3.bin" size="131072" crc="2257930b" sha1="fea484dbb7c0595898390174c4d3824024ac7980"/>
+		<rom name="ghs02_0.bin" size="131072" crc="24fc4a8e" sha1="8aa72da2ad7ad3a1e495543d236da1edb579e78e"/>
+		<rom name="ghs02_1.bin" size="131072" crc="202a4610" sha1="1242de214337158afa3169254bdadda1e18adeed"/>
+		<rom name="ghs02_2.bin" size="131072" crc="f4d8bab6" sha1="05e0bcc8c4d176688238214c65ecbd28459ed874"/>
+		<rom name="ghs02_3.bin" size="131072" crc="2257930b" sha1="fea484dbb7c0595898390174c4d3824024ac7980"/>
+		<rom name="ghs03_0.bin" size="131072" crc="56ba8e31" sha1="d04111d8befb34ecef97f8d76db0b47b6c80de73"/>
+		<rom name="ghs03_1.bin" size="131072" crc="e17a51dd" sha1="2b61c23ee492f902ee10a4679141f4c112cc3e05"/>
+		<rom name="ghs03_2.bin" size="131072" crc="8c18d2df" sha1="c1c6168f939da795fc50d8226444f8b5a0e225a2"/>
+		<rom name="ghs03_3.bin" size="131072" crc="73af813e" sha1="c4d6b05b9caae9fed06a232902265cb21a59d481"/>
+		<rom name="ghs04_0.bin" size="131072" crc="56ba8e31" sha1="d04111d8befb34ecef97f8d76db0b47b6c80de73"/>
+		<rom name="ghs04_1.bin" size="131072" crc="0ae405e5" sha1="b091034ff39a3dfae398cd40617d2d684712aca6"/>
+		<rom name="ghs04_2.bin" size="131072" crc="8c18d2df" sha1="c1c6168f939da795fc50d8226444f8b5a0e225a2"/>
+		<rom name="ghs04_3.bin" size="131072" crc="73af813e" sha1="c4d6b05b9caae9fed06a232902265cb21a59d481"/>
+		<rom name="ghs05_0.bin" size="131072" crc="fedfef71" sha1="1892eb516dd40f8997b22ba24d25e7bf90b50b06"/>
+		<rom name="ghs05_1.bin" size="131072" crc="496629ae" sha1="03450593593d6550323857b07cc6d2e7aaa5bd7b"/>
+		<rom name="ghs05_2.bin" size="131072" crc="f75125ad" sha1="6e54270fcbdc1d586a91aff50116260a6d8cea3c"/>
+		<rom name="ghs05_3.bin" size="131072" crc="4f76ce51" sha1="453a8e10fe1661bd2b40cc399db8cbc6a45f16e9"/>
+		<rom name="ghs06_0.bin" size="131072" crc="fedfef71" sha1="1892eb516dd40f8997b22ba24d25e7bf90b50b06"/>
+		<rom name="ghs06_1.bin" size="131072" crc="a2f87d96" sha1="d561c84b0d9ff58cb0aeca158c816931a2abcfad"/>
+		<rom name="ghs06_2.bin" size="131072" crc="f75125ad" sha1="6e54270fcbdc1d586a91aff50116260a6d8cea3c"/>
+		<rom name="ghs06_3.bin" size="131072" crc="4f76ce51" sha1="453a8e10fe1661bd2b40cc399db8cbc6a45f16e9"/>
+		<rom name="ghs07_0.bin" size="131072" crc="e121f95a" sha1="497bc333fd36416a7583170ec60bf8e0dd46bbbf"/>
+		<rom name="ghs07_1.bin" size="131072" crc="62e04e1c" sha1="c52ed2a116eb2d9057449cc42e7c1d97ad92521d"/>
+		<rom name="ghs07_2.bin" size="131072" crc="b6983794" sha1="29e7c59c6a004d6f05cacf52315c8595748113a3"/>
+		<rom name="ghs07_3.bin" size="131072" crc="80888695" sha1="56896a99a5b7db590e30c7275180d9e5dc892fe6"/>
+		<rom name="ghs08_0.bin" size="131072" crc="e121f95a" sha1="497bc333fd36416a7583170ec60bf8e0dd46bbbf"/>
+		<rom name="ghs08_1.bin" size="131072" crc="897e1a24" sha1="d9704372e737418aeb6c36b5441f620f3d61c50e"/>
+		<rom name="ghs08_2.bin" size="131072" crc="b6983794" sha1="29e7c59c6a004d6f05cacf52315c8595748113a3"/>
+		<rom name="ghs08_3.bin" size="131072" crc="80888695" sha1="56896a99a5b7db590e30c7275180d9e5dc892fe6"/>
+		<rom name="ghs09_0.bin" size="131072" crc="6e56b7a5" sha1="d1cb2b4b40e950ca3be6a44f1a03d8e0d357c35f"/>
+		<rom name="ghs09_1.bin" size="131072" crc="5e4c2a31" sha1="740e3625e6c035f50da912957d7a25e1c66eb617"/>
+		<rom name="ghs09_2.bin" size="131072" crc="b5e00b7a" sha1="6d0d5fdd4378ec7a323fa41b65fd7dc645ec948c"/>
+		<rom name="ghs09_3.bin" size="131072" crc="2193d414" sha1="4db02bf3a8c76f0fbe55fc6531c9fa9027cd1f06"/>
+		<rom name="ghs10_0.bin" size="131072" crc="6e56b7a5" sha1="d1cb2b4b40e950ca3be6a44f1a03d8e0d357c35f"/>
+		<rom name="ghs10_1.bin" size="131072" crc="b5d27e09" sha1="02778f7ee009b1c3affb1a9abcca39f04c9d8925"/>
+		<rom name="ghs10_2.bin" size="131072" crc="b5e00b7a" sha1="6d0d5fdd4378ec7a323fa41b65fd7dc645ec948c"/>
+		<rom name="ghs10_3.bin" size="131072" crc="2193d414" sha1="4db02bf3a8c76f0fbe55fc6531c9fa9027cd1f06"/>
+		<rom name="h smoke.g0" size="131072" crc="dc3d37f5" sha1="f9bf1ff7f97044f66ded4886ad8e81ee47376c7e"/>
+		<rom name="h smoke.g1" size="131072" crc="c6eba9e8" sha1="4c79b9e193d3d5f0ceaaad0ba28ae35ef671d033"/>
+		<rom name="h smoke.g2" size="131072" crc="28faa741" sha1="97009cd81086a910a0888cb7ed0e61c55f8d4571"/>
+		<rom name="h smoke.g3" size="131072" crc="bf4d199a" sha1="c43597ff62f0609ad9faf576cc75f0aa7b583de7"/>
+		<rom name="h smoke.g4" size="131072" crc="bf4d199a" sha1="c43597ff62f0609ad9faf576cc75f0aa7b583de7"/>
+		<rom name="h smoke.s0" size="524288" crc="42258aaf" sha1="3ed3d9726f65fdf259bbc45b66fc946dbef9fe35"/>
+		<rom name="Holy_Smoke_(Impulse)_[C01_25jp].fml" size="517424" crc="6398f550" sha1="0b52a815d88215d00922bfc6b249328ce8317fd3"/>
+		<rom name="Holy_Smoke_(Impulse)_[C01_25jp].gam" size="348" crc="4a49b17f" sha1="95a3b11a2688d4dc35729a5f53cf10a675a3c26c"/>
+		<rom name="Holy_Smoke_(Impulse)_[C01_25jp].jpg" size="400140" crc="af1ebc4d" sha1="2cbba0a14e859fe9c31a985b2615e5c8d2dcff7f"/>
+		<rom name="Holy_Smoke_(Impulse)_[C01_25jp].ram" size="65536" crc="5a9109b3" sha1="63d5885e00effcb14d2f325fedc81f47f3d399aa"/>
+		<rom name="Holy_Smoke_(Impulse)_[C01_25jp].txt" size="1135" crc="7a745be9" sha1="269ccbeaabf4697b6ef9b47590d52ff501624634"/>
+		<rom name="Holy_Smoke_(Impulse)_[Dx01_25jp].fml" size="14128169" crc="650b4d79" sha1="266960f2608094e82e28d8bd65e26d374704abff"/>
+		<rom name="Holy_Smoke_(Impulse)_[Dx01_25jp].gam" size="361" crc="2fabafbc" sha1="93971eb3c8dfeb3795bd58d94aac60622e3f4478"/>
+		<rom name="Holy_Smoke_(Impulse)_[Dx01_25jp].jpg" size="267247" crc="d27f9d91" sha1="d831bca3a3a2223dff052c4934828ea3dcb4a0f9"/>
+		<rom name="Holy_Smoke_(Impulse)_[Dx01_25jp].ram" size="65536" crc="d4cffe98" sha1="6945972dd3d09312598d9c2dbb6868766b6b2d14"/>
+		<rom name="Holy_Smoke_(Impulse)_[Dx01_25jp].txt" size="1453" crc="76278e6f" sha1="259063496cd56b738c0f5f1b19b5575d6363a36e"/>
+		<rom name="i02hs00.s0" size="524288" crc="83449704" sha1="e3150df9f7d8a727868d071418b40e637cce3d3f"/>
+		<rom name="i02hs00.s1" size="524288" crc="fdd2996b" sha1="1a06b31da5acc80468f4a15a52bdec11d3026c0b"/>
+		<rom name="i02nhs17.g0" size="131072" crc="d8c1ad68" sha1="564634c0561e3ede17448d898f3361e0d39afea4"/>
+		<rom name="i02nhs17.g1" size="131072" crc="17ed0656" sha1="721e42fc0a36d109d5986326f72e77cbf3d0ce1c"/>
+		<rom name="i02nhs17.g2" size="131072" crc="229b5205" sha1="bcaf197fb02aa3941e478d5698cec6453147eddd"/>
+		<rom name="i02nhs17.g3" size="131072" crc="fffbfc18" sha1="1cd9a6937b62ef8d861eaa95b8d0173292222119"/>
+		<rom name="i02phs12.g1" size="131072" crc="2d75fdd0" sha1="85703c9f62d97bfe5d0407f1844d8f76239dbda8"/>
+		<rom name="i02phs18.g1" size="131072" crc="fc73526e" sha1="126750d9d18ee77c4b491b28c3e5858115428495"/>
+	</game>
+	<game name="Hot Dogs (Impulse)">
+		<rom name="Hot_Dogs_(Impulse)_[C01_25jp].fml" size="552232" crc="07e27bd6" sha1="0c8bfa070369c70c5a46c6edfc89451eada7c298"/>
+		<rom name="Hot_Dogs_(Impulse)_[C01_25jp].gam" size="312" crc="e75f5441" sha1="1d161b1059d0aa8d77e89f8f6b65a044d2c4f46d"/>
+		<rom name="Hot_Dogs_(Impulse)_[C01_25jp].jpg" size="257815" crc="e3802dd0" sha1="a514100b3413087fa522384bd27ba191212b50f4"/>
+		<rom name="Hot_Dogs_(Impulse)_[C01_25jp].ram" size="65536" crc="f082e77d" sha1="0055aa3a69094904f685a343179cf141e01a5d02"/>
+		<rom name="Hot_Dogs_(Impulse)_[C01_25jp].txt" size="1056" crc="7dbb8daf" sha1="db58d0483548a7c3350da1d339510dc56d751ae5"/>
+		<rom name="i02nht04.g0" size="131072" crc="80ef03f7" sha1="00be10668f4d6e1ddad3997b3b45bfe814c59289"/>
+		<rom name="i02nht04.g1" size="131072" crc="633e8071" sha1="5c259e6241007cf0e7e7ee70b771834138e03c8f"/>
+		<rom name="i02nht04.g2" size="131072" crc="7dd6ab73" sha1="5263834b9f566979f68d1efb2eb8c8b53e62da19"/>
+		<rom name="i02nht04.g3" size="131072" crc="1e7e309e" sha1="1e34fc88e88f3a65d70d0cdb6cfdda7e7cd0f5cf"/>
+		<rom name="i02pht05.g0" size="131072" crc="80ef03f7" sha1="00be10668f4d6e1ddad3997b3b45bfe814c59289"/>
+		<rom name="i02pht05.g1" size="131072" crc="88a0d449" sha1="9bbceaaeb42802cfe661877327c94004663c7f2b"/>
+		<rom name="i02pht05.g2" size="131072" crc="7dd6ab73" sha1="5263834b9f566979f68d1efb2eb8c8b53e62da19"/>
+		<rom name="i02pht05.g3" size="131072" crc="1e7e309e" sha1="1e34fc88e88f3a65d70d0cdb6cfdda7e7cd0f5cf"/>
+	</game>
+	<game name="Hubble Bubble (Impulse)">
+		<rom name="ghb01_0.bin" size="131072" crc="8dbe4c7a" sha1="f84089a6d8fc048e0721eb1375050e8ff553f852"/>
+		<rom name="ghb01_1.bin" size="131072" crc="ad78b0d2" sha1="fe5f38d8cbb892f5e5149d340dee24a8b2ccec45"/>
+		<rom name="ghb01_2.bin" size="131072" crc="c31cdd3d" sha1="07793b5e90364ca2d655ecb7562c8b6948d0e83c"/>
+		<rom name="ghb01_3.bin" size="131072" crc="052fbc2f" sha1="e198639752ae790a8c9bd1b67b7805479d88bf4c"/>
+		<rom name="Hubble_Bubble_(Impulse)_[C01_10jp].fml" size="771613" crc="6c10c9f0" sha1="6a54580ae01d3ce81b3ebbb9626a883d563f9867"/>
+		<rom name="Hubble_Bubble_(Impulse)_[C01_10jp].gam" size="321" crc="ed9196f0" sha1="84713bf6737cbbc1e9ec54cbc603949aa4b2310d"/>
+		<rom name="Hubble_Bubble_(Impulse)_[C01_10jp].jpg" size="331138" crc="b39c9052" sha1="fb95465b58eb5529af2ed64cd5a92d3a6f3a0a3d"/>
+		<rom name="Hubble_Bubble_(Impulse)_[C01_10jp].ram" size="65536" crc="efc39548" sha1="1bac37ba9de42fcbf21f344d4dd975d740a5f992"/>
+		<rom name="Hubble_Bubble_(Impulse)_[C01_10jp].txt" size="484" crc="eec4f63b" sha1="cee333e22046e6cdba237922249da59f49b459fd"/>
+	</game>
+	<game name="Hysteria (Impulse)">
+		<rom name="Hysteria_(Impulse)_[Dx01_25jp].fml" size="10260963" crc="d5697145" sha1="f4b6a2d65a79502bf98122d58400c9f900b985ca"/>
+		<rom name="Hysteria_(Impulse)_[Dx01_25jp].gam" size="311" crc="1452121c" sha1="ba981feec0c61f563dbffe919be8a80d9b9c51cc"/>
+		<rom name="Hysteria_(Impulse)_[Dx01_25jp].jpg" size="366890" crc="4c55f130" sha1="2e2f5aeac595f03e37631802c426a050e8c1bdb0"/>
+		<rom name="Hysteria_(Impulse)_[Dx01_25jp].ram" size="65536" crc="26a287b1" sha1="7820445f195e33e96dd0c8481f219a875ffb83e1"/>
+		<rom name="Hysteria_(Impulse)_[Dx01_25jp].txt" size="477" crc="fc158717" sha1="e602deb429dd4dd2d1b3838880dc71da39327691"/>
+		<rom name="Hysteria_(Impulse)_[Dx01_5jp].fml" size="10844957" crc="169c6d1f" sha1="d2bfdba3d06c0455ccb15cc22b5397e8e0b3e580"/>
+		<rom name="Hysteria_(Impulse)_[Dx01_5jp].gam" size="310" crc="51e73420" sha1="4481fa96a12ba997c8094d9784743661257f2d09"/>
+		<rom name="Hysteria_(Impulse)_[Dx01_5jp].jpg" size="367386" crc="e4e9dcce" sha1="316a59d7d5e28d8a01eed82ef78971b5c0ea0c4b"/>
+		<rom name="Hysteria_(Impulse)_[Dx01_5jp].ram" size="65536" crc="3a3fb15b" sha1="107664990fccd7b4adce010299648079739961e1"/>
+		<rom name="Hysteria_(Impulse)_[Dx01_5jp].txt" size="476" crc="df36d028" sha1="515e06cc3cb574bea540335bcdfc47e845e58d6b"/>
+		<rom name="i01nhy13.g0" size="131072" crc="fb370893" sha1="aea6c410f7426e2a3bdd54c784d0f48e22e212be"/>
+		<rom name="i01nhy13.g1" size="131072" crc="73434105" sha1="1b908589b12d6f8feeb8f1415e38589ae11b103f"/>
+		<rom name="i01nhy13.g2" size="131072" crc="70f52648" sha1="8233c2185034be43a0818f137fa20ddf09543b18"/>
+		<rom name="i01nhy13.g3" size="131072" crc="6c469fa8" sha1="fe3ae2a2e72fcf54982b30205526e6cf5a11d113"/>
+	</game>
+	<game name="Manic Miner (Impulse)">
+		<rom name="m_miner.g0" size="524288" crc="3ed1051f" sha1="702edbdc1e3bccb3786d23aba752078ca9e71541"/>
+		<rom name="m_miner.g1" size="524288" crc="04e0d2f2" sha1="c674190622d58409e6b18af5ed5934c39a580870"/>
+		<rom name="Manic_Miner_[C01_15jp].fml" size="1989907" crc="05766a55" sha1="b6e6385cfd2abafcd88f9b48c5ea0c8026dbcdd8"/>
+		<rom name="Manic_Miner_[C01_15jp].gam" size="267" crc="1a2f4e2c" sha1="216c9b322ca22dfae786fd84065a640f4f22387c"/>
+		<rom name="Manic_Miner_[C01_15jp].jpg" size="188815" crc="0c955e4b" sha1="8a6de1499a04f89b007494afd4076dbb11f6a249"/>
+		<rom name="Manic_Miner_[C01_15jp].ram" size="65536" crc="c3641b39" sha1="a2b91ab096e3c80ca2f27a518fa7b9076118323a"/>
+		<rom name="Manic_Miner_[C01_15jp].txt" size="428" crc="3d88df85" sha1="ea5917a276aea02f1f3985ff9f2dd4024716267a"/>
+	</game>
+	<game name="Monkey Business (Impulse)">
+		<rom name="monkey.g0" size="131072" crc="e7b6699e" sha1="071221d8e22bebcdec8b80ad71d9da6e4e7e6a1f"/>
+		<rom name="monkey.g1" size="131072" crc="81378710" sha1="c047dbbbc3d6dac291955fc56f78dd7330045770"/>
+		<rom name="monkey.s0" size="524288" crc="d5d317d5" sha1="c4967f5cba0ee50c8dc15c4ed5b13d7544a7268f"/>
+		<rom name="monkey.s1" size="524288" crc="e5d94b23" sha1="ffac76d6d4ebb16eaaf0ed2f07f7e5af035ee88b"/>
+		<rom name="Monkey_Business_(Impulse)_[C01_25jp].fml" size="2690290" crc="54199b5b" sha1="e2d89c1e0c1c8bd3ca085f7625bdad886f9389f6"/>
+		<rom name="Monkey_Business_(Impulse)_[C01_25jp].gam" size="320" crc="d9c733a2" sha1="d593aab6f4a05a05adb9650319ec0d5e4473ff87"/>
+		<rom name="Monkey_Business_(Impulse)_[C01_25jp].jpg" size="121771" crc="710f4f0f" sha1="1ebe3a8bc126d0900a323c3e40947329e6628bcd"/>
+		<rom name="Monkey_Business_(Impulse)_[C01_25jp].ram" size="65536" crc="5e7ce5cf" sha1="c5300ddea228c294ffee8cf6ff5e979c9ecbeaec"/>
+		<rom name="Monkey_Business_(Impulse)_[C01_25jp].txt" size="315" crc="ec3b2ad5" sha1="bbbd5795f534a6c9f22ac5f83828b3a3b29b3716"/>
+		<rom name="Monkey_Business_(Impulse)_[Dx01_25jp].fml" size="7144040" crc="5cdeb69f" sha1="8313d5ba5ec5f7292262b9f00a85bcc49f9e765c"/>
+		<rom name="Monkey_Business_(Impulse)_[Dx01_25jp].gam" size="345" crc="c0a2a75d" sha1="130fba881941386c5b566c4b4afa098782f1ea5d"/>
+		<rom name="Monkey_Business_(Impulse)_[Dx01_25jp].jpg" size="146011" crc="467f34d0" sha1="943ae6117eefc88c992d1a46e97361e9834e4bda"/>
+		<rom name="Monkey_Business_(Impulse)_[Dx01_25jp].ram" size="65536" crc="b66f699b" sha1="fffa06da582e41c4bd1a11e560d52899b216d466"/>
+		<rom name="Monkey_Business_(Impulse)_[Dx01_25jp].txt" size="570" crc="4241f15f" sha1="a6855aa22eb7f76ec9e849e9889a4eda8df7864d"/>
+		<rom name="Monkey_Business_(Impulse)_[Dx01_5jp].fml" size="7126028" crc="14ccc915" sha1="580c07222a8a86674a913eb89225d0dd43da34c7"/>
+		<rom name="Monkey_Business_(Impulse)_[Dx01_5jp].gam" size="346" crc="a2c5f4f7" sha1="a7366315f0469cc59cfdbcf27efc1bd93ff0548a"/>
+		<rom name="Monkey_Business_(Impulse)_[Dx01_5jp].jpg" size="269953" crc="e481f7f9" sha1="c90196ccd7208130dd994bbc5a3378a011484a7e"/>
+		<rom name="Monkey_Business_(Impulse)_[Dx01_5jp].ram" size="65536" crc="5f065e3d" sha1="850705cbce215e31039ed66f98476fc5d64ef15c"/>
+		<rom name="Monkey_Business_(Impulse)_[Dx01_5jp].txt" size="590" crc="dbc5e4fc" sha1="90335daa34f3b188c3370be05f0865147edc941f"/>
+		<rom name="Monkey_Business_(Impulse)_[Dx02_25jp].fml" size="21151113" crc="09818996" sha1="b14c804052ee16fab14baa156cd899117da4a25d"/>
+		<rom name="Monkey_Business_(Impulse)_[Dx02_25jp].gam" size="327" crc="0aa79fc7" sha1="591e5913f4e88a3f1a3f44e1105d588049b5fabc"/>
+		<rom name="Monkey_Business_(Impulse)_[Dx02_25jp].jpg" size="169927" crc="d0410b5d" sha1="f35702b04eda378cdf9dd0d8b7a2dc91bd06cd8a"/>
+		<rom name="Monkey_Business_(Impulse)_[Dx02_25jp].ram" size="65536" crc="7d622f10" sha1="80a0a78f9344b8d85b536ac39aa83a7af5818ae3"/>
+		<rom name="Monkey_Business_(Impulse)_[Dx02_25jp].txt" size="1129" crc="a3d8a9b4" sha1="f5661e921a8ad713b202d2464b73dced7c260237"/>
+	</game>
+	<game name="Mortal Wombat (Impulse)">
+		<rom name="gmw01_0.bin" size="131072" crc="716f2870" sha1="205203591bb30e46946252f3a9cf21f5bed9515c"/>
+		<rom name="gmw01_1.bin" size="131072" crc="01a823cd" sha1="644bc17b5e78bcea5a3fe9460efd3581edf903c0"/>
+		<rom name="gmw01_2.bin" size="131072" crc="5bff3688" sha1="ffe895b9e186514e263d78bdea5b0fb0fb3979f7"/>
+		<rom name="gmw01_3.bin" size="131072" crc="5af3b59b" sha1="8e356b172fee4cba05057f7a8873ee71f7073daa"/>
+		<rom name="gmw02_0.bin" size="131072" crc="716f2870" sha1="205203591bb30e46946252f3a9cf21f5bed9515c"/>
+		<rom name="gmw02_1.bin" size="131072" crc="ea3677f5" sha1="138c5b331de6fc0d0d266f21c48eed79e85b4422"/>
+		<rom name="gmw02_2.bin" size="131072" crc="5bff3688" sha1="ffe895b9e186514e263d78bdea5b0fb0fb3979f7"/>
+		<rom name="gmw02_3.bin" size="131072" crc="5af3b59b" sha1="8e356b172fee4cba05057f7a8873ee71f7073daa"/>
+		<rom name="gmw03_0.bin" size="131072" crc="9040f24b" sha1="cd0f4fc66ab2013f5a83141e5670146df0cd63ea"/>
+		<rom name="gmw03_1.bin" size="131072" crc="189c0e1d" sha1="f6b69c7263ffcf1bffcbadb17996f84927de560a"/>
+		<rom name="gmw03_2.bin" size="131072" crc="ffdf1ef9" sha1="d1a3f5231bbc3859b69e922e128e6033cd593db9"/>
+		<rom name="gmw03_3.bin" size="131072" crc="9b371f55" sha1="09ddfc076fc697f1751960b7d3f90fab6fefae1f"/>
+		<rom name="gmw04_0.bin" size="131072" crc="9040f24b" sha1="cd0f4fc66ab2013f5a83141e5670146df0cd63ea"/>
+		<rom name="gmw04_1.bin" size="131072" crc="f3025a25" sha1="1a1f409f9ddb7b076cc283f3285a745d9cbbb99a"/>
+		<rom name="gmw04_2.bin" size="131072" crc="ffdf1ef9" sha1="d1a3f5231bbc3859b69e922e128e6033cd593db9"/>
+		<rom name="gmw04_3.bin" size="131072" crc="9b371f55" sha1="09ddfc076fc697f1751960b7d3f90fab6fefae1f"/>
+		<rom name="gmw06.g1" size="131072" crc="d3b92e82" sha1="102ad5de29d9f29a327dd9e0d363b7abecaa1600"/>
+		<rom name="gmw11_0.bin" size="131072" crc="e78dea15" sha1="fd9634b6edf6283b500edbc0f33cc807c214ff2b"/>
+		<rom name="gmw11_1.bin" size="131072" crc="94cd95e8" sha1="3bff6ce830bb94132d31b7ec77a7e5042329fbc7"/>
+		<rom name="gmw11_2.bin" size="131072" crc="e56b924e" sha1="ca57f9b586576a213fea0491383d99659628a93e"/>
+		<rom name="gmw11_3.bin" size="131072" crc="f3b39634" sha1="0795e1cda5b77b9c184178c15f8bbc399ed49771"/>
+		<rom name="gmw12_1.bin" size="131072" crc="7f53c1d0" sha1="f0a8318ef7dd7a53ad5bc04f26f0e9263b6bd2c4"/>
+		<rom name="mortal w.g0" size="131072" crc="81bfe12b" sha1="40de7c9cf6f8a997a1edd81d321f2ef8694b1830"/>
+		<rom name="mortal w.g1" size="131072" crc="38277aba" sha1="223c89f0e897149852adf85b8eade89b360a01f1"/>
+		<rom name="mortal w.g2" size="131072" crc="ec8d75db" sha1="39234583136d7c6b8cebadefa5ba0e02ec0d4abe"/>
+		<rom name="mortal w.g3" size="131072" crc="33a696a6" sha1="2ab9f1e248b21ca262d8bf771cea0f177de03118"/>
+		<rom name="mortal.snd" size="524288" crc="34a24e83" sha1="df464ffdaf3225beecd9facdb86a87ed501c261e"/>
+		<rom name="Mortal_Wombat_(Impulse)_[C01_25jp].fml" size="1198343" crc="9bc234af" sha1="3f9aa09777f470540bd64d4405893cbdb34dc0f6"/>
+		<rom name="Mortal_Wombat_(Impulse)_[C01_25jp].gam" size="408" crc="a85d8d8e" sha1="e38465d520b70c36df8d9a56880ccbd3534a0574"/>
+		<rom name="Mortal_Wombat_(Impulse)_[C01_25jp].jpg" size="216418" crc="5ee0c948" sha1="ed6f599ba5f431f0e1d06548b2374930bd1f6729"/>
+		<rom name="Mortal_Wombat_(Impulse)_[C01_25jp].ram" size="65536" crc="71705466" sha1="a390fdf683d8c85b9d674015d732e71b15ea9c4c"/>
+		<rom name="Mortal_Wombat_(Impulse)_[C01_25jp].txt" size="693" crc="c39ba932" sha1="930c9501badfa0ad75531cc972b190c1443682bb"/>
+		<rom name="Mortal_Wombat_(Impulse)_[C01_alt_25jp].fml" size="1198354" crc="cf2b8849" sha1="14b510da82059cdb976ee38e0bf1a925449f0584"/>
+		<rom name="Mortal_Wombat_(Impulse)_[C01_alt_25jp].gam" size="402" crc="610b1cb7" sha1="b60f1ff46d969eb7dfc3f8462205ee7df88fcff5"/>
+		<rom name="Mortal_Wombat_(Impulse)_[C01_alt_25jp].jpg" size="216418" crc="5ee0c948" sha1="ed6f599ba5f431f0e1d06548b2374930bd1f6729"/>
+		<rom name="Mortal_Wombat_(Impulse)_[C01_alt_25jp].ram" size="65536" crc="3b610702" sha1="ed768b821c97aa0c0067a8fe15c757e5fed4402a"/>
+		<rom name="Mortal_Wombat_(Impulse)_[C01_alt_25jp].txt" size="693" crc="c39ba932" sha1="930c9501badfa0ad75531cc972b190c1443682bb"/>
+		<rom name="Mortal_Wombat_(Impulse)_[Dx01_25jp].fml" size="15824747" crc="b8c076b9" sha1="0d0b108354bc5dff03d6c663a5998850b8498e1f"/>
+		<rom name="Mortal_Wombat_(Impulse)_[Dx01_25jp].gam" size="397" crc="dd8d002f" sha1="cc0b6fc16e6af9d653078dfae2546e34e43fe256"/>
+		<rom name="Mortal_Wombat_(Impulse)_[Dx01_25jp].jpg" size="566953" crc="333c97e7" sha1="ba527b98b16d1da4831909fb8c2ff8ffb73785ae"/>
+		<rom name="Mortal_Wombat_(Impulse)_[Dx01_25jp].ram" size="65536" crc="b9d43500" sha1="479e90ff985a83b24eb5e498c8d2eaf9de5ff9fb"/>
+		<rom name="Mortal_Wombat_(Impulse)_[Dx01_25jp].txt" size="1794" crc="f7532f04" sha1="362bf96b02a3fef4bd9cd1c5ec6b2c6fbba39d06"/>
+		<rom name="Mortal_Wombat_(Impulse)_[Dx01_5jp].fml" size="16031943" crc="32c99aa7" sha1="b168db72b153438bb45939f9fa78072fe798b9e4"/>
+		<rom name="Mortal_Wombat_(Impulse)_[Dx01_5jp].gam" size="398" crc="d91f7e57" sha1="e9d2c3d06e56e7373b04fa3215b3a7a1bfde6380"/>
+		<rom name="Mortal_Wombat_(Impulse)_[Dx01_5jp].jpg" size="566953" crc="333c97e7" sha1="ba527b98b16d1da4831909fb8c2ff8ffb73785ae"/>
+		<rom name="Mortal_Wombat_(Impulse)_[Dx01_5jp].ram" size="65536" crc="48feb54c" sha1="f5b58182ac7c3e3998dc4196db1f37e57d80179a"/>
+		<rom name="Mortal_Wombat_(Impulse)_[Dx01_5jp].txt" size="1794" crc="f7532f04" sha1="362bf96b02a3fef4bd9cd1c5ec6b2c6fbba39d06"/>
+		<rom name="mwsnd0.bin" size="524288" crc="34a24e83" sha1="df464ffdaf3225beecd9facdb86a87ed501c261e"/>
+		<rom name="mwsnd1.bin" size="524288" crc="2762c09a" sha1="c5e3982df2fc097329f80b446aa8cfd0ef55bb2b"/>
+	</game>
+	<game name="Mummy Talks (Impulse)">
+		<rom name="gmt02_0.bin" size="131072" crc="55310f3f" sha1="1d7816724cb21580b4dac9c01cbb6c7d80c6d4c3"/>
+		<rom name="gmt02_1.bin" size="131072" crc="9cb83e4e" sha1="0f9cce89ea5ef8deb57d7afb6a5cd8a5628fbb93"/>
+		<rom name="gmt02_2.bin" size="131072" crc="d9c969b6" sha1="be151f43a783b46dffdbe3afaa396e61b95c0f4f"/>
+		<rom name="gmt02_3.bin" size="131072" crc="6520bdb9" sha1="90120121b90877423b6c48cf65ebd691b6a61403"/>
+		<rom name="gmt03_0.bin" size="131072" crc="55310f3f" sha1="1d7816724cb21580b4dac9c01cbb6c7d80c6d4c3"/>
+		<rom name="gmt03_1.bin" size="131072" crc="77266a76" sha1="c4f2d8814021fe3556466234825fe9e16f3b9b14"/>
+		<rom name="gmt03_2.bin" size="131072" crc="d9c969b6" sha1="be151f43a783b46dffdbe3afaa396e61b95c0f4f"/>
+		<rom name="gmt03_3.bin" size="131072" crc="6520bdb9" sha1="90120121b90877423b6c48cf65ebd691b6a61403"/>
+		<rom name="gmt06_0.bin" size="131072" crc="4bc654a3" sha1="94eb79244d44d643be825dcb9ef7848d110815ac"/>
+		<rom name="gmt06_1.bin" size="131072" crc="a9fc1e2b" sha1="dc787d6a2845c0bb48239a12ab9a631c68939683"/>
+		<rom name="gmt06_2.bin" size="131072" crc="c67de26e" sha1="25ceb20f132b0baa1f8b9ffbfa483a9d350ddb87"/>
+		<rom name="gmt06_3.bin" size="131072" crc="305cfb61" sha1="40f54f2cd54d42ce5d74fa1689f14f3a6f97466f"/>
+		<rom name="gmt07_0.bin" size="131072" crc="4bc654a3" sha1="94eb79244d44d643be825dcb9ef7848d110815ac"/>
+		<rom name="gmt07_1.bin" size="131072" crc="42624a13" sha1="c3c20a8c6fffd120abcdfece9676d0db08609666"/>
+		<rom name="gmt07_2.bin" size="131072" crc="c67de26e" sha1="25ceb20f132b0baa1f8b9ffbfa483a9d350ddb87"/>
+		<rom name="gmt07_3.bin" size="131072" crc="305cfb61" sha1="40f54f2cd54d42ce5d74fa1689f14f3a6f97466f"/>
+		<rom name="gmt13_1.bin" size="131072" crc="3149f7e2" sha1="62adef43346fcc46a0fe2d7d41cc190fb6e35749"/>
+		<rom name="i02nmt04.g0.bin" size="131072" crc="57d828d5" sha1="169958de3c7b26891c4e1e66f58b49e61bd0e521"/>
+		<rom name="i02nmt04.g1.bin" size="131072" crc="3649a285" sha1="a69a4299fe23e3b6b5aeb4409071ce6156eeca96"/>
+		<rom name="i02nmt04.g2.bin" size="131072" crc="d1b74cc3" sha1="58f54cf9ab15d3f0012adaf11d3211440534d612"/>
+		<rom name="i02nmt04.g3.bin" size="131072" crc="29a59239" sha1="e526b89e6cf4be62c0e2761eff48b8c2455e03f7"/>
+		<rom name="i02pmt05.g0.bin" size="131072" crc="57d828d5" sha1="169958de3c7b26891c4e1e66f58b49e61bd0e521"/>
+		<rom name="i02pmt05.g1.bin" size="131072" crc="ddd7f6bd" sha1="39ebd89ccc7ce1d7dc27db4843b7f5ce4bc8a004"/>
+		<rom name="i02pmt05.g2.bin" size="131072" crc="d1b74cc3" sha1="58f54cf9ab15d3f0012adaf11d3211440534d612"/>
+		<rom name="i02pmt05.g3.bin" size="131072" crc="29a59239" sha1="e526b89e6cf4be62c0e2761eff48b8c2455e03f7"/>
+		<rom name="Mummy_Talks_(Impulse)_[Dx01_5jp].fml" size="5739144" crc="0fa6e4e6" sha1="7fa63c8a4f583f650b9e1ae19ae586a7edf6de02"/>
+		<rom name="Mummy_Talks_(Impulse)_[Dx01_5jp].gam" size="384" crc="3121bb95" sha1="74a9b15f5453f99ea572fd3369359362e9b38ea7"/>
+		<rom name="Mummy_Talks_(Impulse)_[Dx01_5jp].jpg" size="29700" crc="5220f5d8" sha1="be2914beb7acbab054e7771364deeba9f652a219"/>
+		<rom name="Mummy_Talks_(Impulse)_[Dx01_5jp].png" size="1658948" crc="4f62232f" sha1="465ab1b82ff6338db770e1edc103098bb74a9230"/>
+		<rom name="Mummy_Talks_(Impulse)_[Dx01_5jp].ram" size="65536" crc="30a182d0" sha1="409297ec3cc3f36c55fe6ece9893043d58dceac9"/>
+		<rom name="Mummy_Talks_(Impulse)_[Dx01_5jp].txt" size="721" crc="e009221a" sha1="4fab095a2de8482d76a61ebb22080510d0f5e3d9"/>
+		<rom name="mummytal.g0" size="524288" crc="443c5607" sha1="5c83124ebdde55608ffd94707692e005e12d5bde"/>
+		<rom name="mummytal.g1" size="524288" crc="d5d9b807" sha1="da931bc562a86d6957729d81cf49b4d651d91024"/>
+		<rom name="mummytal.g2" size="524288" crc="7237b6f9" sha1="f89e894868f3ac0c84c333b853bd0a8cf6f728f2"/>
+		<rom name="mummytal.g3" size="524288" crc="8569eb03" sha1="8e13ad5fda3c95a99e684ce931d05d5b1ad48d95"/>
+		<rom name="mummytalk_p0.bin" size="131072" crc="0e9a946e" sha1="2ed28050cc244f602d10ec0f31fabbb43690f0de"/>
+		<rom name="mummytalk_p1.bin" size="131072" crc="dad7a3da" sha1="24284d95327ee6b072c35a6ca1ff60700d14796b"/>
+		<rom name="mummytalk_p2.bin" size="131072" crc="b6eea806" sha1="0616d5a87007ff0bff8a88b0e002f175e4ec9343"/>
+		<rom name="mummytalk_p3.bin" size="131072" crc="c6124a08" sha1="391898403113fbc0f05728de48a089d1d045c7b1"/>
+		<rom name="mummytalks_snd0.bin" size="524288" crc="b5606e2d" sha1="6afd9aa9a6a4255d39480b131177c0a2a0d4e64b"/>
+		<rom name="mummytalks_snd1.bin" size="524288" crc="0d95c670" sha1="8c9b920559371222d12945675d488189f846904c"/>
+	</game>
+	<game name="Reactor (Impulse)">
+		<rom name="i00pre23.g0" size="131072" crc="71ecf58b" sha1="0ee06c3ad8f7f8b840cd49221d0a7da8da2d1b05"/>
+		<rom name="i00pre23.g1" size="131072" crc="4bf53794" sha1="6402d620ab81a5e4c32b1e294a941b6f55e4fc9d"/>
+		<rom name="i00pre23.g2" size="131072" crc="97ec88f4" sha1="69ba1c3807c6a441f937854c1ddf1f2a12d80120"/>
+		<rom name="i00pre23.g3" size="131072" crc="5326102d" sha1="06a39cdf078a8c3e32f48884b9943382f12b84d3"/>
+		<rom name="Reactor_(Impulse)_[C01_15jp].fml" size="1790712" crc="8abb7b46" sha1="4e489497b16aa19d936c0fc01cf43299e74fdba2"/>
+		<rom name="Reactor_(Impulse)_[C01_15jp].gam" size="321" crc="eb1a9ed2" sha1="45100a660e9729291d7ce72900a75d8c11b33323"/>
+		<rom name="Reactor_(Impulse)_[C01_15jp].jpg" size="444458" crc="664c01ef" sha1="83304b6c93946173f2d0d9b7a2ca8944d476eafe"/>
+		<rom name="Reactor_(Impulse)_[C01_15jp].ram" size="65536" crc="382d4e01" sha1="3866f1b9f7c08cfe5237836dcae37bf33b454862"/>
+		<rom name="Reactor_(Impulse)_[C01_15jp].txt" size="574" crc="6b9bf5c4" sha1="74bc243e56ea9b6071de389d5d4f242375304eeb"/>
+	</game>
+	<game name="Round The Twist (Impulse)">
+		<rom name="grt02_0.bin" size="131072" crc="23f6f4dd" sha1="6f1d243c61b851a1d3519c108dd14d7d7b199efe"/>
+		<rom name="grt02_1.bin" size="131072" crc="7e7da84e" sha1="8a967ea00f0ed1840dc0e455c6a326552fdf2a24"/>
+		<rom name="grt02_2.bin" size="131072" crc="0a5249f2" sha1="aba49163251eaff631190ac2e0ee0a23b90322a7"/>
+		<rom name="grt02_3.bin" size="131072" crc="215ee1c8" sha1="b3d9ffe3d18829bca84699666bbd2a8098696827"/>
+		<rom name="Round_The_Twist_(Impulse)_[C01_25jp].fml" size="574458" crc="1deba35a" sha1="7510f0709f075bf34ba22a5223419a694a5874ea"/>
+		<rom name="Round_The_Twist_(Impulse)_[C01_25jp].gam" size="327" crc="b898cea4" sha1="e307ed9de6ed59cd5141115f064d3175a342a759"/>
+		<rom name="Round_The_Twist_(Impulse)_[C01_25jp].jpg" size="323506" crc="c4a68578" sha1="938c401692a0d85af7c77ce78839aa3a3eee11c1"/>
+		<rom name="Round_The_Twist_(Impulse)_[C01_25jp].ram" size="65536" crc="bcfc5ee5" sha1="93fdfb3cd2716c65948f3b87c88c81b527ac9edb"/>
+		<rom name="Round_The_Twist_(Impulse)_[C01_25jp].txt" size="1003" crc="ebfee347" sha1="7d1b5eb081927c52b8b6813dcc1f846b60436c27"/>
+	</game>
+	<game name="Royal Roulette (Impulse)">
+		<rom name="grr09_0.bin" size="131072" crc="271be228" sha1="59ba40f2b27cb018904cd399fb478ee11fa3d204"/>
+		<rom name="grr09_1.bin" size="131072" crc="3332763c" sha1="3a127b6b2c1df261156577ad194339ad742bec4b"/>
+		<rom name="grr09_2.bin" size="131072" crc="26cdfb40" sha1="fef75914c3268e997e73ca353524126a379df8e1"/>
+		<rom name="grr09_3.bin" size="131072" crc="6d9eae8d" sha1="df0975f622772f35c0130245bfeb6037dfaf8c63"/>
+		<rom name="royal r.s0" size="524288" crc="a1060eac" sha1="47b0383e4c0eb714eaba55014fbc5597233a5d53"/>
+		<rom name="royal r.s1" size="524288" crc="c0caaeb8" sha1="79efa22844137a0326b5887df186a3220cd2577b"/>
+		<rom name="Royal_Roulette_(Impulse)_[Dx01_25jp].fml" size="10426926" crc="5c066ce2" sha1="549c8af94dd15189a39b10d907119946fdc773db"/>
+		<rom name="Royal_Roulette_(Impulse)_[Dx01_25jp].gam" size="400" crc="7b8152a0" sha1="c081330809474b77b7a777aa052a9cb87d84cb3d"/>
+		<rom name="Royal_Roulette_(Impulse)_[Dx01_25jp].jpg" size="409077" crc="fa3e9143" sha1="9f1837d359098a7c1818d5590a88a045117ba346"/>
+		<rom name="Royal_Roulette_(Impulse)_[Dx01_25jp].ram" size="65536" crc="106f9b90" sha1="c3e331a142123e78603f927f58c0639b79114fcd"/>
+		<rom name="Royal_Roulette_(Impulse)_[Dx01_25jp].txt" size="410" crc="5020a5fd" sha1="c0eba05dcceda6a0222317f49e8f2f724758b11a"/>
+	</game>
+	<game name="Spartacash (Impulse)">
+		<rom name="spartacash.g0" size="131072" crc="8b20876d" sha1="ce5ee4da44eb7d958afe859ac70b00b6b7c20b1b"/>
+		<rom name="spartacash.g1" size="131072" crc="0e021d03" sha1="edc404c3c2323311f1ea8ce18c30f2e149114e78"/>
+		<rom name="spartacash.s0" size="524288" crc="b5b2ca48" sha1="3c2e9e26248364dad79be2a670e958a780b7d518"/>
+		<rom name="spartacash.s1" size="524288" crc="f7b54b67" sha1="69dae4730be3bc30c3772794209b9746c4e53f27"/>
+		<rom name="Spartacash_(Impulse)_[C01_15jp].fml" size="549154" crc="fa9d7d8d" sha1="54ef8f766ee1e021495a8ca6ac4fb68e51f0c948"/>
+		<rom name="Spartacash_(Impulse)_[C01_15jp].gam" size="407" crc="a72095ca" sha1="bbfdd49263f4a8d122b3f7e544d92134357b06d3"/>
+		<rom name="Spartacash_(Impulse)_[C01_15jp].jpg" size="41667" crc="a2e1675f" sha1="210708e5ba6c2dd84002d35efccdc5c9b8485192"/>
+		<rom name="Spartacash_(Impulse)_[C01_15jp].png" size="171603" crc="846ad3d8" sha1="0d5c12189a7a194357049fedab24d34d6408f5ca"/>
+		<rom name="Spartacash_(Impulse)_[C01_15jp].ram" size="65536" crc="558ab2f6" sha1="f24c26e50eceac911686bd0ad51dd878829aac87"/>
+		<rom name="Spartacash_(Impulse)_[C01_15jp].txt" size="249" crc="a288a754" sha1="c174f7ee940415a2d978ab8c1ab875b8a45b00b2"/>
+		<rom name="Spartacash_(Impulse)_[Dx01_15jp].fml" size="12039429" crc="042a0025" sha1="6eac616029f6aa0d706438ac7b8c8bc832ce2d2e"/>
+		<rom name="Spartacash_(Impulse)_[Dx01_15jp].gam" size="329" crc="ffb3ffe6" sha1="e52f0c554a1a934d426c7bd9ebdbf46064c271c2"/>
+		<rom name="Spartacash_(Impulse)_[Dx01_15jp].jpg" size="555074" crc="58a7dd94" sha1="f3f5cf7944f6f67b23b5ce4101d1129bc4f37b8f"/>
+		<rom name="Spartacash_(Impulse)_[Dx01_15jp].ram" size="65536" crc="deb697a2" sha1="c63a6017d8d9d5694924431278a034fc2ef31e43"/>
+		<rom name="Spartacash_(Impulse)_[Dx01_15jp].txt" size="416" crc="de9c6135" sha1="e81bdcc995d3a2038b4f532c6edb6903ad1fe8ff"/>
+		<rom name="Spartacash_(Impulse)_[Dx01_5jp].fml" size="12268053" crc="794f73b8" sha1="ecd228435aa2d2a9b7d256b98f8ba4ea6288c4f9"/>
+		<rom name="Spartacash_(Impulse)_[Dx01_5jp].gam" size="341" crc="b35d7023" sha1="3b6c3cd25a72959b5277bd72ac59dcecb45f091a"/>
+		<rom name="Spartacash_(Impulse)_[Dx01_5jp].jpg" size="555074" crc="58a7dd94" sha1="f3f5cf7944f6f67b23b5ce4101d1129bc4f37b8f"/>
+		<rom name="Spartacash_(Impulse)_[Dx01_5jp].ram" size="65536" crc="e33005fe" sha1="30fd7904d0aa7cb06063459d721e6d9feca18ad4"/>
+	</game>
+	<game name="Spartacash (UK) (Impulse)">
+		<rom name="Spartacash 5p GAM 01.bin" size="131072" crc="8b20876d" sha1="ce5ee4da44eb7d958afe859ac70b00b6b7c20b1b"/>
+		<rom name="Spartacash 5p GAM 02.bin" size="131072" crc="0e021d03" sha1="edc404c3c2323311f1ea8ce18c30f2e149114e78"/>
+		<rom name="Spartacash SND 01.bin" size="524288" crc="b5b2ca48" sha1="3c2e9e26248364dad79be2a670e958a780b7d518"/>
+		<rom name="Spartacash SND 02.bin" size="524288" crc="f7b54b67" sha1="69dae4730be3bc30c3772794209b9746c4e53f27"/>
+		<rom name="Spartacash_(UK)_(Impulse)_[Dx02_15jp].fml" size="12202457" crc="862b09a6" sha1="0d6505bd74bc62c207aacd793b712cac199954f9"/>
+		<rom name="Spartacash_(UK)_(Impulse)_[Dx02_15jp].gam" size="386" crc="84543d1f" sha1="2d4edd82923cfb46deb9f74a1b21b659a477720f"/>
+		<rom name="Spartacash_(UK)_(Impulse)_[Dx02_15jp].jpg" size="545946" crc="b51f2992" sha1="4330c1047f1412a143ffd927e2e19c2ddfb07668"/>
+		<rom name="Spartacash_(UK)_(Impulse)_[Dx02_15jp].ram" size="65536" crc="1bb09301" sha1="e114c9ebed25cdd06fa31fdb6cc670a065133461"/>
+		<rom name="Spartacash_(UK)_(Impulse)_[Dx02_15jp].txt" size="524" crc="08332d20" sha1="d2fa7b605ebe31fdce2709061b057666118a49aa"/>
+	</game>
+	<game name="Spin &apos;n&apos; Tonic (Impulse)">
+		<rom name="Spin_&apos;n&apos;_Tonic_(Impulse)_[C01_25jp].fml" size="586660" crc="2aeaec22" sha1="4548580413905524ba2d45d1a7827b7a424e0710"/>
+		<rom name="Spin_&apos;n&apos;_Tonic_(Impulse)_[C01_25jp].gam" size="394" crc="5ea1227b" sha1="b270e8751c6f35875a095280ab58db155f59c45f"/>
+		<rom name="Spin_&apos;n&apos;_Tonic_(Impulse)_[C01_25jp].jpg" size="34631" crc="65936264" sha1="8e3e1fb5d6494d6e926ca5ba06e71c191406dba4"/>
+		<rom name="Spin_&apos;n&apos;_Tonic_(Impulse)_[C01_25jp].png" size="165889" crc="b0ac4d76" sha1="92b89dd57b79d7b349ff15447a16a1301b6130f3"/>
+		<rom name="Spin_&apos;n&apos;_Tonic_(Impulse)_[C01_25jp].ram" size="65536" crc="bf07d568" sha1="f0e178c9d294a5583831171c3fa396d414013e60"/>
+		<rom name="Spin_&apos;n&apos;_Tonic_(Impulse)_[C01_25jp].txt" size="311" crc="4115c23e" sha1="0808234174bcc82f3fcc0706913b92c139870daa"/>
+		<rom name="Spin_&apos;n&apos;_Tonic_(Impulse)_[Dx01_25jp].fml" size="20478894" crc="0b6e9412" sha1="169c48ac9c5d02980a40248ab1995dfc10d87e18"/>
+		<rom name="Spin_&apos;n&apos;_Tonic_(Impulse)_[Dx01_25jp].gam" size="388" crc="54c139ed" sha1="ccbdb7a0cb5dd30bf0d5e5feb85563e125750b21"/>
+		<rom name="Spin_&apos;n&apos;_Tonic_(Impulse)_[Dx01_25jp].jpg" size="1621932" crc="ede0dece" sha1="f21c482a8ad3247adf4093bc2df4cc6060257807"/>
+		<rom name="Spin_&apos;n&apos;_Tonic_(Impulse)_[Dx01_25jp].ram" size="65536" crc="78c62c8f" sha1="ec82ff427e9293463aaca5b2bbfa9e1f7fda3aed"/>
+		<rom name="Spin_&apos;n&apos;_Tonic_(Impulse)_[Dx01_25jp].txt" size="213" crc="844c3794" sha1="51e4cc0a188767b00752f822f6f222841f8342b5"/>
+		<rom name="spin_tonic.g0" size="131072" crc="709e17a1" sha1="a8e2cccf8f514b80afe8256fcb98b634e241da24"/>
+		<rom name="spin_tonic.g1" size="131072" crc="e85bb405" sha1="bdf4faaf35f51d2a44dbf3172971d7cea990c0df"/>
+		<rom name="spin_tonic.g2" size="131072" crc="ef43aa53" sha1="ab4ab8ce78d8c2f8ea1700bfdece22e8d4f70a43"/>
+		<rom name="spin_tonic.g3" size="131072" crc="b00806ab" sha1="3a55f0f237eecda244b17d34d93ad2463ab05c4f"/>
+		<rom name="spin_tonic.s0" size="524288" crc="b86de357" sha1="21aa8176ea0541ccb646f7bc499c1f8a8b24e56a"/>
+		<rom name="spin_tonic.s1" size="524288" crc="8b8d9534" sha1="0f74260adf5cb8798c1521228d069426a7f5b3c7"/>
+	</game>
+	<game name="Spin On It (Impulse)">
+		<rom name="i00nsi14.g0" size="131072" crc="395c722f" sha1="7a1a12b1927fb87b101d0e3ad54e664f34a7f540"/>
+		<rom name="i00nsi14.g1" size="131072" crc="ef4fe4b4" sha1="3e3d73a0b2e736823575f2d3f6148a7458d14baa"/>
+		<rom name="Spin_On_It_(Impulse)_[C01_15jp].fml" size="438300" crc="b651cd77" sha1="1d1969f3d538d0f22ac66c6bcd1b7acea5f6a59e"/>
+		<rom name="Spin_On_It_(Impulse)_[C01_15jp].gam" size="333" crc="3b93db33" sha1="43922a9c9acff3d4ebc048f03e65d7cb9c3ca14f"/>
+		<rom name="Spin_On_It_(Impulse)_[C01_15jp].jpg" size="182937" crc="5ab89675" sha1="f4bfd11694762544360b4f0a7be3d262a07405d0"/>
+		<rom name="Spin_On_It_(Impulse)_[C01_15jp].ram" size="65536" crc="aee70d63" sha1="7a6fcd36f6cb6e0bfd4ee80abe539fcb5c5b9e3e"/>
+		<rom name="Spin_On_It_(Impulse)_[C01_15jp].txt" size="506" crc="beb984d1" sha1="2acdde59451b4b473f5e661ba94997602c27d4b7"/>
+		<rom name="Spin_On_It_(Impulse)_[C01_alt_15jp].fml" size="446595" crc="5fdc723a" sha1="a64b0a7165208cff3349cf4b1d0ecfcdf9dd1d97"/>
+		<rom name="Spin_On_It_(Impulse)_[C01_alt_15jp].gam" size="340" crc="e61ccb61" sha1="b1034be5614f5640ba75d6223006a584bee0175d"/>
+		<rom name="Spin_On_It_(Impulse)_[C01_alt_15jp].jpg" size="182937" crc="5ab89675" sha1="f4bfd11694762544360b4f0a7be3d262a07405d0"/>
+		<rom name="Spin_On_It_(Impulse)_[C01_alt_15jp].ram" size="65536" crc="da88ba13" sha1="1f29c5774dd9fdba5ff0b3f5b90bf1cdbe24edb7"/>
+		<rom name="Spin_On_It_(Impulse)_[C01_alt_15jp].txt" size="506" crc="beb984d1" sha1="2acdde59451b4b473f5e661ba94997602c27d4b7"/>
+		<rom name="Spin_On_It_(Impulse)_[C02_15jp].fml" size="1963480" crc="821f6afa" sha1="6bf513b27ee5f53a50d518d02d6b96f8fddefcb2"/>
+		<rom name="Spin_On_It_(Impulse)_[C02_15jp].gam" size="344" crc="8825d2d2" sha1="d41c015a0d8868b220a22ccfffe04d8466cbf142"/>
+		<rom name="Spin_On_It_(Impulse)_[C02_15jp].jpg" size="61528" crc="a94c3757" sha1="b7306ba77b3b82e03512c1b3f3d7f3958f39d104"/>
+		<rom name="Spin_On_It_(Impulse)_[C02_15jp].ram" size="65536" crc="295250c7" sha1="9cbe0dab4de8b243ae7ea1e58d2f7c8fd1a1c658"/>
+		<rom name="Spin_On_It_(Impulse)_[C02_15jp].txt" size="334" crc="1b55077a" sha1="ae8b67bfd3a102509fb5e4194d119d7eaa53b5f9"/>
+		<rom name="Spin_On_It_(Impulse)_[Dx01_15jp].fml" size="10852544" crc="cda255db" sha1="0b2af48afc30f1f812d289b22c724ea3c3a5c15b"/>
+		<rom name="Spin_On_It_(Impulse)_[Dx01_15jp].gam" size="352" crc="e41bb30f" sha1="59060cf96c0551b004a4697b6384e04c4c09f0bf"/>
+		<rom name="Spin_On_It_(Impulse)_[Dx01_15jp].jpg" size="201353" crc="c1796bbb" sha1="87a71ca377ee8fd2a18b87b32d75a93486f26cfd"/>
+		<rom name="Spin_On_It_(Impulse)_[Dx01_15jp].ram" size="65536" crc="14f3ea12" sha1="bf9b9697eec99a2e0327f2ca782c34d3d167b128"/>
+		<rom name="Spin_On_It_(Impulse)_[Dx01_15jp].txt" size="320" crc="be255bdc" sha1="bd66a982c2458a145bf51ab5b8f9608c933d40cf"/>
+		<rom name="spinonit.sn0" size="524288" crc="ad92e501" sha1="adea1d2751c0fbf4637d5eb2b1003995c829413d"/>
+		<rom name="spinonit.sn1" size="524288" crc="e052ff0c" sha1="afa2b2f4d51c95352d6fd1d69af87fef07c2f039"/>
+	</game>
+	<game name="Trailblazer (Impulse)">
+		<rom name="tblazeg0.bin" size="131072" crc="e99555e7" sha1="c9da6a483ba1ee69f9f899d3809b1f3f9f00ab4a"/>
+		<rom name="tblazeg1.bin" size="131072" crc="99620ac9" sha1="cb8e7399393bcef134cd3f052048ead787bf0e9f"/>
+		<rom name="tblazesnd0.bin" size="524288" crc="aeda9c96" sha1="c51467cccea17ab3090dae6a51affc8232be1775"/>
+		<rom name="tblazesnd1.bin" size="524288" crc="2dd241eb" sha1="4d3a9d6ac4d8dd47394f864e2b7d4c0aea05f0e5"/>
+		<rom name="trail blazer g0.bin" size="131072" crc="e99555e7" sha1="c9da6a483ba1ee69f9f899d3809b1f3f9f00ab4a"/>
+		<rom name="trail blazer sound 0 27c040.BIN" size="524288" crc="aeda9c96" sha1="c51467cccea17ab3090dae6a51affc8232be1775"/>
+		<rom name="trail blazer sound 1 27c040.BIN" size="524288" crc="2dd241eb" sha1="4d3a9d6ac4d8dd47394f864e2b7d4c0aea05f0e5"/>
+		<rom name="Trailblazer_(Impulse)_[C01_15jp].fml" size="489360" crc="6ced5594" sha1="76330e2cfb2bd58ece793771f12a4fbd0c627ee0"/>
+		<rom name="Trailblazer_(Impulse)_[C01_15jp].gam" size="332" crc="bfdd4b7d" sha1="170003f0e21b7f799df0c28b1bc8297e05918db5"/>
+		<rom name="Trailblazer_(Impulse)_[C01_15jp].jpg" size="486095" crc="e5216e19" sha1="b9c6707b525d7cde713c9119c9c890ab0b8f0223"/>
+		<rom name="Trailblazer_(Impulse)_[C01_15jp].ram" size="65536" crc="abfa65f0" sha1="2249ef938fe62829333cfcf9eea75ba0c5d9ade4"/>
+		<rom name="Trailblazer_(Impulse)_[Dx01_15jp].fml" size="11077739" crc="0472e9a5" sha1="b0e0bf3eb29a2613d5bbbcbd100e65d9e62d3c56"/>
+		<rom name="Trailblazer_(Impulse)_[Dx01_15jp].gam" size="346" crc="e4a290e3" sha1="bb52473b46282679d04e8d90eb39b3f917eb9f29"/>
+		<rom name="Trailblazer_(Impulse)_[Dx01_15jp].jpg" size="189062" crc="4593c7d2" sha1="f028dde9a50fd78a685975c1b24aaa421517cbaf"/>
+		<rom name="Trailblazer_(Impulse)_[Dx01_15jp].ram" size="65536" crc="ba17c6c8" sha1="59051f6a7741ac155bc467b501e188046b3b96f3"/>
+		<rom name="Trailblazer_(Impulse)_[Dx01_15jp].txt" size="483" crc="c9e78dd6" sha1="831176d8e2a3bca3916383874719d3fc3927fe7f"/>
+		<rom name="Trailblazer_(Impulse)_[Dx01_alt_15jp].fml" size="489461" crc="6d2faf4e" sha1="c842d6908c53217aacad8efede16ee56dafac874"/>
+		<rom name="Trailblazer_(Impulse)_[Dx01_alt_15jp].gam" size="301" crc="0b62502b" sha1="1853c7eeb398099aa19a6ec145747ad2562f1a65"/>
+		<rom name="Trailblazer_(Impulse)_[Dx01_alt_15jp].jpg" size="486095" crc="e5216e19" sha1="b9c6707b525d7cde713c9119c9c890ab0b8f0223"/>
+		<rom name="Trailblazer_(Impulse)_[Dx01_alt_15jp].ram" size="65536" crc="d466403c" sha1="d6950d4a614711adddf3d5800c958a7f31a8a782"/>
+		<rom name="Trailblazer_(Impulse)_[Dx01_alt_15jp].txt" size="833" crc="fcc5ca6b" sha1="33f5b6e1c69d2bba5fd55d971d7a83169b77edad"/>
+	</game>
+	<game name="Tree Amigos (Impulse)">
+		<rom name="tram03.p0" size="131072" crc="37126cd6" sha1="4b745925ea9b051aacbb0670270df292d0ebc006"/>
+		<rom name="tram03.p1" size="131072" crc="a351e80d" sha1="ecad15c4faf47a47bd2ac8b2581f6ff7fe103ab1"/>
+		<rom name="tram03.p2" size="131072" crc="a807a84e" sha1="d39ea0e2b2d7105597fdb5c6e661afd062dbc6f6"/>
+		<rom name="tram03.p3" size="131072" crc="fdffa62c" sha1="f92107b09a1c52d92ba62193a443aa1456d85a92"/>
+		<rom name="tram03p.p0" size="131072" crc="37126cd6" sha1="4b745925ea9b051aacbb0670270df292d0ebc006"/>
+		<rom name="tram03p.p1" size="131072" crc="bcc21a76" sha1="7f81645edb498f47f7636561b7db2b5fe6010cdd"/>
+		<rom name="tram03p.p2" size="131072" crc="a807a84e" sha1="d39ea0e2b2d7105597fdb5c6e661afd062dbc6f6"/>
+		<rom name="tram03p.p3" size="131072" crc="fdffa62c" sha1="f92107b09a1c52d92ba62193a443aa1456d85a92"/>
+		<rom name="Tree_Amigos_(Impulse)_[C01_25jp].fml" size="2087345" crc="ee4e987d" sha1="8b2081add1aab507e38c818ff7f021face20e29b"/>
+		<rom name="Tree_Amigos_(Impulse)_[C01_25jp].gam" size="299" crc="ab892c2f" sha1="453026e2b154b42f6a5371fe8c0916e7a8663ec9"/>
+		<rom name="Tree_Amigos_(Impulse)_[C01_25jp].jpg" size="350407" crc="352d8816" sha1="506742e554fe99dfab0489d75329780787d4a252"/>
+		<rom name="Tree_Amigos_(Impulse)_[C01_25jp].ram" size="65536" crc="3eaec798" sha1="bcc0054548adf64e3fe7af92bc16bd054cd054ae"/>
+		<rom name="Tree_Amigos_(Impulse)_[C01_25jp].txt" size="622" crc="3abb100c" sha1="6a508f311f2824f759db52073711ec3d6175cbe0"/>
+		<rom name="Tree_Amigos_(Impulse)_[Pdx01_25jp].fml" size="18844843" crc="1c142c71" sha1="6732bfbf6b87cd1e09277729c842ccfc2a73d185"/>
+		<rom name="Tree_Amigos_(Impulse)_[Pdx01_25jp].gam" size="324" crc="2ff36c1e" sha1="d2511c0730973c91cd2886ed3acebbc620a5ecd0"/>
+		<rom name="Tree_Amigos_(Impulse)_[Pdx01_25jp].jpg" size="298153" crc="9585794e" sha1="4975a1e8d823fd88a17233492798a2cca1766fe8"/>
+		<rom name="Tree_Amigos_(Impulse)_[Pdx01_25jp].ram" size="65536" crc="c34acf04" sha1="9662ee65bc6b2c9b0d6c60cb41a230029ba78c2d"/>
+		<rom name="Tree_Amigos_(Impulse)_[Pdx01_25jp].txt" size="1054" crc="dd70fc12" sha1="13343da91d9c3535851abbbc086cdfd75006b60e"/>
+	</game>
+	<game name="Wildfire (Maygay - Impulse)">
+		<rom name="gwf05_0.bin" size="131072" crc="40f34e50" sha1="ff36e548e1a2c648792d67d1161d4998f50fc320"/>
+		<rom name="gwf05_1.bin" size="131072" crc="0d3b44a0" sha1="d4b9fbbbba7f93c8b19d6683369609781f7e34e5"/>
+		<rom name="gwf05_2.bin" size="131072" crc="7392da1c" sha1="d314c7787cad2c986af052f704fdbfe84a2354f5"/>
+		<rom name="gwf05_3.bin" size="131072" crc="5353e8db" sha1="c2c3899355b11a706aa8e2653b2df144768852af"/>
+		<rom name="gwf06_0.bin" size="131072" crc="40f34e50" sha1="ff36e548e1a2c648792d67d1161d4998f50fc320"/>
+		<rom name="gwf06_1.bin" size="131072" crc="e6a51098" sha1="b811ef4541811a8a5384df6179eab3aeaab73c99"/>
+		<rom name="gwf06_2.bin" size="131072" crc="7392da1c" sha1="d314c7787cad2c986af052f704fdbfe84a2354f5"/>
+		<rom name="gwf06_3.bin" size="131072" crc="5353e8db" sha1="c2c3899355b11a706aa8e2653b2df144768852af"/>
+		<rom name="i02nwf09.g0" size="131072" crc="75963a25" sha1="5ef8f5b52dc19c1e20321e90bb1fc9c27ef48ac1"/>
+		<rom name="i02nwf09.g1" size="131072" crc="33cd9c60" sha1="065e131a4f23b9412df5e017bbeb8523db91ae16"/>
+		<rom name="i02nwf09.g2" size="131072" crc="9078cd39" sha1="1878601a84cdf2581ca8888a3ccbb52aeef7018e"/>
+		<rom name="i02nwf09.g3" size="131072" crc="7c9caa7f" sha1="85611354759fba08cc2d800ebe398636511bfe97"/>
+		<rom name="i02pwf10.g1" size="131072" crc="d853c858" sha1="c1d6eaed0d85a14f35a47ed320fef2b153de22d8"/>
+		<rom name="Wildfire_(Impulse)_[Dx01_5jp].fml" size="10514905" crc="59bf45df" sha1="0ece1875f781557089f195378d1c983fde97da4f"/>
+		<rom name="Wildfire_(Impulse)_[Dx01_5jp].gam" size="380" crc="6bf3d857" sha1="9821ece665ac6e5af6d9a21b89ee315e36643009"/>
+		<rom name="Wildfire_(Impulse)_[Dx01_5jp].jpg" size="181406" crc="7cad1250" sha1="2dfe69d6eaf9f7b3278c2cb2b33b337eb8a7a429"/>
+		<rom name="Wildfire_(Impulse)_[Dx01_5jp].ram" size="65536" crc="2f0b3cfc" sha1="67de4eed5282d80040f4cae70c671969402d6ad9"/>
+		<rom name="Wildfire_(Impulse)_[Dx01_5jp].txt" size="285" crc="28a3bc07" sha1="f6e25d348df42b9215facc705267299e5b83445d"/>
+		<rom name="wildfiregame0.bin" size="131072" crc="091bd766" sha1="13144682ac9d79695e788595f04fcca7ca194cd6"/>
+		<rom name="wildfiregame1.bin" size="131072" crc="e4edcdc7" sha1="46480720463cd0254bdb683d740ae0defcbdfae5"/>
+		<rom name="wildfiregame2.bin" size="131072" crc="065104a8" sha1="187661dd827d7df9eef78f16f050853b691d5afa"/>
+		<rom name="wildfiregame3.bin" size="131072" crc="52f01008" sha1="f8e1de3cfb0c0737eef71aafe993a4c07f731cb6"/>
+		<rom name="wildfiresnd0.bin" size="524288" crc="b1de9522" sha1="f233b45edcda1438e2d18e97a11acf4dc39d46c5"/>
+		<rom name="wildfiresnd1.bin" size="524288" crc="fa2ae839" sha1="7df7a3ee86c77a156f4bd99ce6748a13e000aca5"/>
+	</game>
+	<game name="Wipeout (Impulse)">
+		<rom name="i00nwo14.g0" size="131072" crc="d1f446f4" sha1="c0cf204c08f26a2231fc5a7f61d876d487fb41d7"/>
+		<rom name="i00nwo14.g1" size="131072" crc="e5bf8da5" sha1="6c6594a9258302449563de249caf34a10efdbd3c"/>
+		<rom name="i00nwo18.g0" size="131072" crc="12c623e5" sha1="3473adea1b4e93f1d848a8af996a7e18b3c0ee21"/>
+		<rom name="i00nwo18.g1" size="131072" crc="1c768ee3" sha1="19aed3ef546597b51e2c781791cf225e364da5c5"/>
+		<rom name="i00nwo18.g2" size="131072" crc="7914c95c" sha1="8c3a212cf4dd8bbbd58aad77052dda81719308f1"/>
+		<rom name="i00nwo18.g3" size="131072" crc="0c45a675" sha1="155c458620aa2ea8aaf4ff18a09b62df3f50b508"/>
+		<rom name="Wipe_Out_(Impulse)_[Dx01_15jp].fml" size="5626827" crc="8351cb50" sha1="925372095eb70bc67f5d71903c54830fb86de73e"/>
+		<rom name="Wipe_Out_(Impulse)_[Dx01_15jp].gam" size="372" crc="3da472ce" sha1="4f4aa85d4d9e3b560f4c8f00a4cadd955cec7296"/>
+		<rom name="Wipe_Out_(Impulse)_[Dx01_15jp].jpg" size="266999" crc="040def21" sha1="b8fb96cd58a6dcab6976dcde6c09e30189f4d2b0"/>
+		<rom name="Wipe_Out_(Impulse)_[Dx01_15jp].ram" size="65536" crc="fd5642ff" sha1="b80445b4ed94abdc85c0be835d9159b9824f0aec"/>
+		<rom name="Wipe_Out_(Impulse)_[Dx01_15jp].txt" size="498" crc="eb0cb99c" sha1="dd7f6337b1ead8a42baef3080bd843bc663192e0"/>
+		<rom name="Wipe_Out_(Impulse)_[Dx01_25jp].fml" size="4397751" crc="f87b4610" sha1="7255ff9d5c4d9c985565efdd08a2ab62e5120844"/>
+		<rom name="Wipe_Out_(Impulse)_[Dx01_25jp].gam" size="387" crc="b781ecc6" sha1="1c6c67c5e57429b3a5c4f4f47a5d6f4186b2e99c"/>
+		<rom name="Wipe_Out_(Impulse)_[Dx01_25jp].jpg" size="26002" crc="5de2706f" sha1="d79778b794333de7c3ed5c49b3ba6a176e2e3ff8"/>
+		<rom name="Wipe_Out_(Impulse)_[Dx01_25jp].png" size="1900960" crc="fa251cd4" sha1="53fa0fe91e1c6891c8b1d991df1f8cbb52cf4260"/>
+		<rom name="Wipe_Out_(Impulse)_[Dx01_25jp].ram" size="65536" crc="11b75488" sha1="3769473f0d473aba015b0780a64f9ab8d89767f6"/>
+		<rom name="Wipe_Out_(Impulse)_[Dx01_25jp].txt" size="644" crc="ca713377" sha1="4f202e88925c982365f976920bcb178f7f16fa7a"/>
+		<rom name="wipeoutsnd0.bin" size="524288" crc="c8d75e9d" sha1="fff911ad015f09cac5b92033a01de3775f47d87d"/>
+		<rom name="wipeoutsnd1.bin" size="524288" crc="8e2332db" sha1="c363bc254eb59f5fdee623bad49439a4cb19c746"/>
+	</game>
+</datafile>

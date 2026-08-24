@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Extras - Emulators - MFME - MFME 1.1 to 10.1a all-in-one</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="directx_installer_Jun2010_redist">
+		<rom name="directx_installer_Jun2010_redist.exe" size="100275120" crc="7bbcf06f" sha1="7e5d2e5e1a13fbc47f990cc55cbdb428cd12f759"/>
+	</game>
+	<game name="MFME 1.1 to 10.1a all-in-one">
+		<rom name="MFME.msi" size="7601664" crc="77577d34" sha1="f2e4ad2027e4a9e98cf1b96ff752fc9cf25d75f0"/>
+	</game>
+</datafile>

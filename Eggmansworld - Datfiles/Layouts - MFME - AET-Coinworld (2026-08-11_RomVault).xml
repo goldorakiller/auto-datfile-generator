@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Layouts - MFME - AET-Coinworld</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Extra Gambler (AET-Coinworld)">
+		<rom name="extra gambler 1.2.bin" size="65536" crc="9e7fc374" sha1="15138c1333e2db277292cabc5bb0cacfc5708a15"/>
+		<rom name="extra gambler1_2.bin" size="65536" crc="9e7fc374" sha1="15138c1333e2db277292cabc5bb0cacfc5708a15"/>
+		<rom name="Extra_Gambler_(AET)_[C01_3jp].fml" size="136605" crc="00037e4b" sha1="119e945fc4d9c658179b1702e2224871c93ccfcd"/>
+		<rom name="Extra_Gambler_(AET)_[C01_3jp].gam" size="235" crc="34e45311" sha1="447efb57b24b157d6a5f9cd0b4d6989868064da9"/>
+		<rom name="Extra_Gambler_(AET)_[C01_3jp].jpg" size="99088" crc="354b134b" sha1="31849cf59f284f5036bf6b572a5c19577138cef3"/>
+		<rom name="Extra_Gambler_(AET)_[C01_3jp].ram" size="2048" crc="ca5bcf38" sha1="67d5734c3ccca75d707094d399deef01a8127ae1"/>
+		<rom name="Extra_Gambler_(AET)_[C01_3jp].txt" size="557" crc="6f887437" sha1="1dad3b317c9c6109a68cdd325e6fdb40dc1e4a75"/>
+		<rom name="Extra_Gambler_(AET)_[C01_6jp].fml" size="136671" crc="6fa1f9c1" sha1="7ca3d4f1cea35ec0420c2f223e1ec811e1cdbc26"/>
+		<rom name="Extra_Gambler_(AET)_[C01_6jp].gam" size="246" crc="4d0ab474" sha1="842aa1218fded755f4e303f4e593989df75b212e"/>
+		<rom name="Extra_Gambler_(AET)_[C01_6jp].jpg" size="107366" crc="ae708826" sha1="8c88ad53abe23246a0bb2fdd8998a5d006b490e3"/>
+		<rom name="Extra_Gambler_(AET)_[C01_6jp].ram" size="2048" crc="2ef26707" sha1="fb948cbe2bf00e1618ae912697077ac2a697c1f0"/>
+		<rom name="Extra_Gambler_(AET)_[C01_6jp].txt" size="557" crc="6f887437" sha1="1dad3b317c9c6109a68cdd325e6fdb40dc1e4a75"/>
+	</game>
+</datafile>

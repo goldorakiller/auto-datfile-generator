@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Extras - Emulators - JPeMu</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="JPeMu v2.41">
+		<rom name="JPeMu v2.41.exe" size="1467195" crc="cdadb4b3" sha1="24b79720875a89006bcc2d59cc55891f81cd08e6"/>
+	</game>
+	<game name="JPeMu v2.50">
+		<rom name="JPeMu v2.50.exe" size="1503609" crc="82c838af" sha1="e125affe5a9b7b25bb9446a0d5642d18bbff1980"/>
+	</game>
+	<game name="JPeMu v2.51">
+		<rom name="JPeMu v2.51.exe" size="1503673" crc="4d4e4af2" sha1="ba02daddde974d12db2d70cee8134e84bb09995f"/>
+	</game>
+	<game name="jpemu_impact_v145">
+		<rom name="jpemu_impact_v145.exe" size="2302464" crc="81cff6eb" sha1="0bc5da80f8c89131412d1e97c410e5cbf502ad75"/>
+	</game>
+	<game name="jpemu_impact_v146">
+		<rom name="jpemu_impact_v146.exe" size="2399744" crc="b33c8437" sha1="06a29f535b9c5d1549eed76811ba8b9ed4131d51"/>
+	</game>
+</datafile>

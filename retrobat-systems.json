@@ -2,29 +2,7 @@
   {
     "SystemCode": "flash",
     "FullName": "flash",
-    "Candidates": [
-      {
-        "Source": "No-Intro",
-        "Name": "Acorn RISC OS - Flash Media (Misc) (Parent-Clone)",
-        "Version": "20221123-054527",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Acorn RISC OS - Flash Media (Misc) (Parent-Clone) (20221123-054527).dat",
-        "File": "Acorn RISC OS - Flash Media (Misc) (Parent-Clone) (20221123-054527).dat"
-      },
-      {
-        "Source": "No-Intro",
-        "Name": "Nintendo - Kiosk Video Compact Flash (CardImage) (Parent-Clone)",
-        "Version": "20211208-080217",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Nintendo - Kiosk Video Compact Flash (CardImage) (Parent-Clone) (20211208-080217).dat",
-        "File": "Nintendo - Kiosk Video Compact Flash (CardImage) (Parent-Clone) (20211208-080217).dat"
-      },
-      {
-        "Source": "Eggmansworld - touhou",
-        "Name": "Fan Content - Games - Touhou Flash Project (2025-06-08_RomVault)",
-        "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/touhou/Fan Content - Games - Touhou Flash Project (2025-06-08_RomVault).dat",
-        "File": "Fan Content - Games - Touhou Flash Project (2025-06-08_RomVault).dat"
-      }
-    ]
+    "Candidates": []
   },
   {
     "SystemCode": "j2me",
@@ -113,10 +91,10 @@
         "File": "MAME 0.289 Software List CHDs (merged) (dir2dat).dat"
       },
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "MAME (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/MAME (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/MAME (2026-08-11_RomVault).xml",
         "File": "MAME (2026-08-11_RomVault).xml"
       }
     ]
@@ -126,10 +104,10 @@
     "FullName": "MAME Homebrew",
     "Candidates": [
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "MAME (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/MAME (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/MAME (2026-08-11_RomVault).xml",
         "File": "MAME (2026-08-11_RomVault).xml"
       }
     ]
@@ -162,31 +140,31 @@
     "FullName": "Singe",
     "Candidates": [
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Extras - Hypseus Singe (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Extras - Hypseus Singe (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Extras - Hypseus Singe (2026-08-11_RomVault).xml",
         "File": "Extras - Hypseus Singe (2026-08-11_RomVault).xml"
       },
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Hypseus Singe (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Hypseus Singe (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Hypseus Singe (2026-08-11_RomVault).xml",
         "File": "Hypseus Singe (2026-08-11_RomVault).xml"
       },
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Hypseus Singe 4K (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Hypseus Singe 4K (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Hypseus Singe 4K (2026-08-11_RomVault).xml",
         "File": "Hypseus Singe 4K (2026-08-11_RomVault).xml"
       },
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Hypseus Singe HD AI (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Hypseus Singe HD AI (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Hypseus Singe HD AI (2026-08-11_RomVault).xml",
         "File": "Hypseus Singe HD AI (2026-08-11_RomVault).xml"
       }
     ]
@@ -1559,10 +1537,10 @@
     "FullName": "Switch",
     "Candidates": [
       {
-        "Source": "Eggmansworld - touhou",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Other Platforms - Nintendo Switch (2026-05-29_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/touhou/Other Platforms - Nintendo Switch (2026-05-29_RomVault).dat",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Other Platforms - Nintendo Switch (2026-05-29_RomVault).dat",
         "File": "Other Platforms - Nintendo Switch (2026-05-29_RomVault).dat"
       }
     ]
@@ -2150,10 +2128,10 @@
         "File": "3do.xml"
       },
       {
-        "Source": "Eggmansworld - digitoxin",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "CD-DVD - New World Computing - The 3DO Company PC CD Image Collection (2026-04-17_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/digitoxin/CD-DVD - New World Computing - The 3DO Company PC CD Image Collection (2026-04-17_RomVault).dat",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/CD-DVD - New World Computing - The 3DO Company PC CD Image Collection (2026-04-17_RomVault).dat",
         "File": "CD-DVD - New World Computing - The 3DO Company PC CD Image Collection (2026-04-17_RomVault).dat"
       }
     ]
@@ -2728,10 +2706,10 @@
         "File": "System.dat"
       },
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Video - Game (raw) (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Video - Game (raw) (2026-08-11_RomVault).xml",
         "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
@@ -3139,10 +3117,10 @@
         "File": "Sega - Game Gear (Parent-Clone) (20260822-061808).dat"
       },
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Video - Game (raw) (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Video - Game (raw) (2026-08-11_RomVault).xml",
         "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
@@ -3159,10 +3137,10 @@
         "File": "Nintendo - Game & Watch (Parent-Clone) (20260512-134045).dat"
       },
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Video - Game (raw) (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Video - Game (raw) (2026-08-11_RomVault).xml",
         "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
@@ -3186,10 +3164,10 @@
         "File": "Nintendo - Game Boy Advance - Catalogs (TOSEC-v2022-12-21_CM).dat"
       },
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Video - Game (raw) (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Video - Game (raw) (2026-08-11_RomVault).xml",
         "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
@@ -3213,10 +3191,10 @@
         "File": "Nintendo - Game Boy (Parent-Clone) (20260821-085450).dat"
       },
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Video - Game (raw) (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Video - Game (raw) (2026-08-11_RomVault).xml",
         "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
@@ -3240,10 +3218,10 @@
         "File": "Source Code - Nintendo - Game Boy Color (Parent-Clone) (20250313-191959).dat"
       },
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Video - Game (raw) (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Video - Game (raw) (2026-08-11_RomVault).xml",
         "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
@@ -3281,10 +3259,10 @@
         "File": "Source Code - Nintendo - Game Boy Color (Parent-Clone) (20250313-191959).dat"
       },
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Video - Game (raw) (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Video - Game (raw) (2026-08-11_RomVault).xml",
         "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
@@ -3343,10 +3321,10 @@
         "File": "Nintendo - Game Boy Advance - Catalogs (TOSEC-v2022-12-21_CM).dat"
       },
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Video - Game (raw) (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Video - Game (raw) (2026-08-11_RomVault).xml",
         "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
@@ -3412,10 +3390,10 @@
         "File": "Source Code - Nintendo - Game Boy Advance (Parent-Clone) (20230107-011927).dat"
       },
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Video - Game (raw) (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Video - Game (raw) (2026-08-11_RomVault).xml",
         "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
@@ -3471,10 +3449,10 @@
         "File": "Source Code - Nintendo - Nintendo DS (Parent-Clone) (20220204-041058).dat"
       },
       {
-        "Source": "Eggmansworld - touhou",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Other Platforms - Nintendo DS (2026-05-29_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/touhou/Other Platforms - Nintendo DS (2026-05-29_RomVault).dat",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Other Platforms - Nintendo DS (2026-05-29_RomVault).dat",
         "File": "Other Platforms - Nintendo DS (2026-05-29_RomVault).dat"
       }
     ]
@@ -3672,17 +3650,10 @@
     "FullName": "Ports",
     "Candidates": [
       {
-        "Source": "Eggmansworld - fruitmachines",
-        "Name": "PC Ports (2026-08-11_RomVault)",
-        "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/fruitmachines/PC Ports (2026-08-11_RomVault).xml",
-        "File": "PC Ports (2026-08-11_RomVault).xml"
-      },
-      {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Ports (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Ports (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Ports (2026-08-11_RomVault).xml",
         "File": "Ports (2026-08-11_RomVault).xml"
       }
     ]
@@ -3869,10 +3840,10 @@
         "File": "DOS.dat"
       },
       {
-        "Source": "Eggmansworld - fruitmachines",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Extras - Emulators - MAGE - MAGE 0.10 DOS (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/fruitmachines/Extras - Emulators - MAGE - MAGE 0.10 DOS (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Extras - Emulators - MAGE - MAGE 0.10 DOS (2026-08-11_RomVault).xml",
         "File": "Extras - Emulators - MAGE - MAGE 0.10 DOS (2026-08-11_RomVault).xml"
       }
     ]
@@ -3897,10 +3868,10 @@
     "FullName": "EPIC",
     "Candidates": [
       {
-        "Source": "Eggmansworld - digitoxin",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Mixed - Epic Games PC Image Collection (2026-04-17_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/digitoxin/Mixed - Epic Games PC Image Collection (2026-04-17_RomVault).dat",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Mixed - Epic Games PC Image Collection (2026-04-17_RomVault).dat",
         "File": "Mixed - Epic Games PC Image Collection (2026-04-17_RomVault).dat"
       }
     ]
@@ -5079,25 +5050,25 @@
         "File": "ZAPiT Games Game Wave Family Entertainment System - Games (TOSEC-v2014-07-01_CM).dat"
       },
       {
-        "Source": "Eggmansworld - projectegg",
+        "Source": "Eggmansworld - Datfiles",
+        "Name": "Official Content - Games (2026-05-29_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Official Content - Games (2026-05-29_RomVault).dat",
+        "File": "Official Content - Games (2026-05-29_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Project EGG Collection - Games (bin) (2026-04-06_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/projectegg/Project EGG Collection - Games (bin) (2026-04-06_RomVault).dat",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Project EGG Collection - Games (bin) (2026-04-06_RomVault).dat",
         "File": "Project EGG Collection - Games (bin) (2026-04-06_RomVault).dat"
       },
       {
-        "Source": "Eggmansworld - projectegg",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Project EGG Collection - Games (extracted) (2026-04-06_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/projectegg/Project EGG Collection - Games (extracted) (2026-04-06_RomVault).dat",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Project EGG Collection - Games (extracted) (2026-04-06_RomVault).dat",
         "File": "Project EGG Collection - Games (extracted) (2026-04-06_RomVault).dat"
-      },
-      {
-        "Source": "Eggmansworld - touhou",
-        "Name": "Official Content - Games (2026-05-29_RomVault)",
-        "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/touhou/Official Content - Games (2026-05-29_RomVault).dat",
-        "File": "Official Content - Games (2026-05-29_RomVault).dat"
       }
     ]
   },
@@ -5106,10 +5077,10 @@
     "FullName": "Windows",
     "Candidates": [
       {
-        "Source": "Eggmansworld - touhou",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Other Platforms - Windows PC (2026-05-29_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/touhou/Other Platforms - Windows PC (2026-05-29_RomVault).dat",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Other Platforms - Windows PC (2026-05-29_RomVault).dat",
         "File": "Other Platforms - Windows PC (2026-05-29_RomVault).dat"
       }
     ]
@@ -7397,25 +7368,25 @@
         "File": "ZAPiT Games Game Wave Family Entertainment System - Games (TOSEC-v2014-07-01_CM).dat"
       },
       {
-        "Source": "Eggmansworld - projectegg",
+        "Source": "Eggmansworld - Datfiles",
+        "Name": "Official Content - Games (2026-05-29_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Official Content - Games (2026-05-29_RomVault).dat",
+        "File": "Official Content - Games (2026-05-29_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Project EGG Collection - Games (bin) (2026-04-06_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/projectegg/Project EGG Collection - Games (bin) (2026-04-06_RomVault).dat",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Project EGG Collection - Games (bin) (2026-04-06_RomVault).dat",
         "File": "Project EGG Collection - Games (bin) (2026-04-06_RomVault).dat"
       },
       {
-        "Source": "Eggmansworld - projectegg",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Project EGG Collection - Games (extracted) (2026-04-06_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/projectegg/Project EGG Collection - Games (extracted) (2026-04-06_RomVault).dat",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Project EGG Collection - Games (extracted) (2026-04-06_RomVault).dat",
         "File": "Project EGG Collection - Games (extracted) (2026-04-06_RomVault).dat"
-      },
-      {
-        "Source": "Eggmansworld - touhou",
-        "Name": "Official Content - Games (2026-05-29_RomVault)",
-        "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/touhou/Official Content - Games (2026-05-29_RomVault).dat",
-        "File": "Official Content - Games (2026-05-29_RomVault).dat"
       }
     ]
   },
@@ -7590,10 +7561,10 @@
         "File": "Epoch - Game Pocket Computer (Parent-Clone) (20211122-141248).dat"
       },
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Video - Game (raw) (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Video - Game (raw) (2026-08-11_RomVault).xml",
         "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
@@ -7610,10 +7581,10 @@
         "File": "Nintendo - Game & Watch (Parent-Clone) (20260512-134045).dat"
       },
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Video - Game (raw) (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Video - Game (raw) (2026-08-11_RomVault).xml",
         "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
@@ -7776,10 +7747,10 @@
         "File": "Hartung - Game Master (Parent-Clone) (20211012-064712).dat"
       },
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Video - Game (raw) (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Video - Game (raw) (2026-08-11_RomVault).xml",
         "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
@@ -9048,25 +9019,25 @@
         "File": "ZAPiT Games Game Wave Family Entertainment System - Games (TOSEC-v2014-07-01_CM).dat"
       },
       {
-        "Source": "Eggmansworld - projectegg",
+        "Source": "Eggmansworld - Datfiles",
+        "Name": "Official Content - Games (2026-05-29_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Official Content - Games (2026-05-29_RomVault).dat",
+        "File": "Official Content - Games (2026-05-29_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Project EGG Collection - Games (bin) (2026-04-06_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/projectegg/Project EGG Collection - Games (bin) (2026-04-06_RomVault).dat",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Project EGG Collection - Games (bin) (2026-04-06_RomVault).dat",
         "File": "Project EGG Collection - Games (bin) (2026-04-06_RomVault).dat"
       },
       {
-        "Source": "Eggmansworld - projectegg",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Project EGG Collection - Games (extracted) (2026-04-06_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/projectegg/Project EGG Collection - Games (extracted) (2026-04-06_RomVault).dat",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Project EGG Collection - Games (extracted) (2026-04-06_RomVault).dat",
         "File": "Project EGG Collection - Games (extracted) (2026-04-06_RomVault).dat"
-      },
-      {
-        "Source": "Eggmansworld - touhou",
-        "Name": "Official Content - Games (2026-05-29_RomVault)",
-        "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/touhou/Official Content - Games (2026-05-29_RomVault).dat",
-        "File": "Official Content - Games (2026-05-29_RomVault).dat"
       }
     ]
   },
@@ -9161,10 +9132,10 @@
         "File": "Nintendo - Game Boy (Parent-Clone) (20260821-085450).dat"
       },
       {
-        "Source": "Eggmansworld - laserdisc",
+        "Source": "Eggmansworld - Datfiles",
         "Name": "Video - Game (raw) (2026-08-11_RomVault)",
         "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Video - Game (raw) (2026-08-11_RomVault).xml",
         "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]

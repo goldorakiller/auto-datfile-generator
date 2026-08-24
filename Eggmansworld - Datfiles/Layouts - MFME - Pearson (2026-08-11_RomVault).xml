@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Layouts - MFME - Pearson</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Blackjack (Pearson)">
+		<rom name="blackjack.bin" size="65536" crc="b69cee4c" sha1="6a2a2082c71b6285f972bf41cbe6067c0ceec4a2"/>
+		<rom name="Blackjack_(Pearson)_[C01].fml" size="5726" crc="a878cd55" sha1="2563414f17ce06281ec416bb8fcf9530c093046a"/>
+		<rom name="Blackjack_(Pearson)_[C01].gam" size="206" crc="a0b6c58a" sha1="adcc563017dc81313f0eeaad8988e86da4223617"/>
+		<rom name="Blackjack_(Pearson)_[C01].jpg" size="37643" crc="bd4da6d2" sha1="cd0560d403550f1caa4112532ec303e799cdbf9c"/>
+		<rom name="Blackjack_(Pearson)_[C01].ram" size="2048" crc="ef870441" sha1="19c4ddcecc1b41d9558a54589be67bda541d9b9e"/>
+		<rom name="Blackjack_(Pearson)_[Dx01].fml" size="924297" crc="2f63ae79" sha1="98c27524f9fac5bc686342ec610cfc3d629ec114"/>
+		<rom name="Blackjack_(Pearson)_[Dx01].gam" size="174" crc="1548aa9a" sha1="eca65f18d4a2dafc2f49fe39beb726e4d98c77a1"/>
+		<rom name="Blackjack_(Pearson)_[Dx01].jpg" size="34832" crc="a3bef245" sha1="0af851182667ac4b56697f4241ae9a3015cb2ef1"/>
+		<rom name="Blackjack_(Pearson)_[Dx01].ram" size="2048" crc="cb4ee00a" sha1="060dab45fc5d194d23a86b21916a18ae67632be4"/>
+	</game>
+</datafile>

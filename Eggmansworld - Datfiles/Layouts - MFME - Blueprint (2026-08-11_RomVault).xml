@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Layouts - MFME - Blueprint</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Baking Bad (Blueprint)">
+		<rom name="bab_non.hi" size="363578" crc="c78907f8" sha1="12887eadbab31cc2e44d399ea809569b752a60bf"/>
+		<rom name="bab_non.lo" size="363577" crc="693d74a5" sha1="ea2a75a759ccbb4cfc968d641a6152b4551408c1"/>
+		<rom name="bab_pro.hi" size="364574" crc="4d599b82" sha1="606e4db8888419f0826825627d8a6f19278de717"/>
+		<rom name="bab_pro.lo" size="364573" crc="4e2e0bd6" sha1="dd73e6b8b991e52e797519e6b3f599d0cbc6aba9"/>
+		<rom name="bab_snd.bin" size="1048576" crc="102f95bf" sha1="18d0e5bba61b8997a4c686b3016074dace1f0f52"/>
+		<rom name="babav14n9561141.sc6" size="1786368" crc="e0aeaa95" sha1="f691e78fd7bc6287d29a83e095265aaaa8145a81"/>
+		<rom name="babav14p9561141.sc6" size="1786368" crc="f66fdd29" sha1="f22705eb46deebc64492eca85e89dc4363acddfe"/>
+		<rom name="Baking_Bad_(Blueprint)_[Dx01_100jp].e2p" size="256" crc="15f3a09c" sha1="1d81accaa68b3dc902172a8ada165c9a1d11cddf"/>
+		<rom name="Baking_Bad_(Blueprint)_[Dx01_100jp].fml" size="6742722" crc="7985cdc6" sha1="b58430cd30d9965778b8efb82dfefd334cbe6571"/>
+		<rom name="Baking_Bad_(Blueprint)_[Dx01_100jp].gam" size="557" crc="ff244dab" sha1="a7b6e14aa2af8097b7e1ca2a9e737a7d76bf776e"/>
+		<rom name="Baking_Bad_(Blueprint)_[Dx01_100jp].jpg" size="121032" crc="992bf8eb" sha1="99497a41bc406b8157591f20b63834e08f3e572b"/>
+		<rom name="Baking_Bad_(Blueprint)_[Dx01_100jp].ram" size="65536" crc="432dbbbc" sha1="02eb62cbbae910c68667295d156a093f17b4b511"/>
+		<rom name="Baking_Bad_(Blueprint)_[Dx01_100jp].txt" size="798" crc="f2d7dec4" sha1="6c8354376563b717afaa7d06a9b9068b42944fb7"/>
+		<rom name="bakingbad_data.s19" size="5792160" crc="6c324618" sha1="ba6fb6fa271daf0874a49db98d2ef82cf49f4f3d"/>
+		<rom name="bakingbad_nondata.s19" size="5792160" crc="76cf6449" sha1="09a43db12408e3c80d6a0558aeb68c2a51691009"/>
+		<rom name="bakingbad_nondataa.s19" size="5792160" crc="d99fbfe3" sha1="ed0078f3b04db42361c4e81d76aecc86d925a486"/>
+		<rom name="boot_sec.mot" size="1448064" crc="f2cc5308" sha1="69edd95c2422cfd4014c43044dbdfa3e3e9e2848"/>
+		<rom name="m12314_non.rgf" size="4194304" crc="86b694ed" sha1="79795998a0e12580740ebdfe1e47fd8a400dbdb7"/>
+		<rom name="m12314_pro.rgf" size="4194304" crc="ffd8b788" sha1="433d5e8a46d4003e4012f297fd48579639570df0"/>
+	</game>
+	<game name="Shrewlock Holmes (Blueprint)">
+		<rom name="Shrewlock_Holmes_(Blueprint)_[Dx01_100jp].fml" size="11811964" crc="e3a366df" sha1="00c71f42a2c68ea8a9a335c278225b0a46749134"/>
+		<rom name="Shrewlock_Holmes_(Blueprint)_[Dx01_100jp].gam" size="541" crc="3a8aa6de" sha1="1144668fa6b8debb501d4b52523af09de6aac4dd"/>
+		<rom name="Shrewlock_Holmes_(Blueprint)_[Dx01_100jp].ram" size="65536" crc="12777af9" sha1="b1887b57fa7022010c759043739b4705e63cd94d"/>
+		<rom name="Shrewlock_Holmes_(Blueprint)_[Dx01_100jp].wsp" size="128" crc="43f0f44f" sha1="bced368ca184d7a4738a7856536b0febbb59606f"/>
+		<rom name="slh_pro.hi" size="347817" crc="7c9bff60" sha1="724b92fe77877480821263ec35a697d07bdd3b6d"/>
+		<rom name="slh_pro.lo" size="347817" crc="12c272b8" sha1="60aa343147b9359a0a91799c197f198275c3fbe1"/>
+		<rom name="snd_slh.bin" size="752053" crc="0ba6304d" sha1="a9926baa0f6d7bee3af054bb3151b73d64fa5485"/>
+	</game>
+	<game name="The Lone Ranger (Blueprint)">
+		<rom name="95009145.bin" size="1048576" crc="ebdff1f3" sha1="4182d5ed42042caa755011340ccefccd37b1f905"/>
+		<rom name="95426582.bin" size="524288" crc="77d56bf6" sha1="f9daee053692e85b2864a6fd6ac67bd8276cb461"/>
+		<rom name="95426583.bin" size="524288" crc="ff957bbd" sha1="7fb6da9afa696f7f6d034209428f75287662f143"/>
+		<rom name="The_Lone_Ranger_(Blueprint)_[C01_70jp].fml" size="1071220" crc="57c372bd" sha1="1d7fe3a771761dab4f5724b09ae8a80fe3027265"/>
+		<rom name="The_Lone_Ranger_(Blueprint)_[C01_70jp].gam" size="480" crc="559804e3" sha1="50eb179647568cc17ed9370db915079466dcfdb2"/>
+		<rom name="The_Lone_Ranger_(Blueprint)_[C01_70jp].jpg" size="206176" crc="15ae6f4f" sha1="2725c79d803442df545838af2583044cd92f7714"/>
+		<rom name="The_Lone_Ranger_(Blueprint)_[C01_70jp].ram" size="65536" crc="53f2461e" sha1="f67d95e7f19324baf330e4a85d74cee4dca56aef"/>
+		<rom name="The_Lone_Ranger_(Blueprint)_[C01_70jp].txt" size="521" crc="2bc7ee18" sha1="a18c7d56da74a93033fd348a5df472563fc58aa6"/>
+		<rom name="The_Lone_Ranger_(Blueprint)_[Dx01_70jp].fml" size="21329108" crc="a3d0e101" sha1="41b53cb1bf857d0d36d10c0a836958fb52d6ca35"/>
+		<rom name="The_Lone_Ranger_(Blueprint)_[Dx01_70jp].gam" size="532" crc="7f636b00" sha1="5800b088874b22adef00e080fc2f19e02798349b"/>
+		<rom name="The_Lone_Ranger_(Blueprint)_[Dx01_70jp].jpg" size="309424" crc="02c0af2b" sha1="cb3ff6fd901a72b687f3cf16693667d4da20b421"/>
+		<rom name="The_Lone_Ranger_(Blueprint)_[Dx01_70jp].ram" size="65536" crc="d1954c87" sha1="e3705578d7fdaae6e5f4d3d6182c2a8cc2a7b621"/>
+		<rom name="The_Lone_Ranger_(Blueprint)_[Dx01_70jp].txt" size="1439" crc="fc0977d5" sha1="491510ff7a9477c138c22d81f152f85f6aae9f80"/>
+	</game>
+	<game name="Wizard of Wads Dx (24Dec2024) (DAD) [Blueprint]">
+		<rom name="Wizard_of_Wads_(Blueprint)_[Dx01_25jp].fml" size="9450121" crc="5353fb97" sha1="600bb4cf7e1ba6b6b875c54130ad2ba0ee7a3681"/>
+		<rom name="Wizard_of_Wads_(Blueprint)_[Dx01_25jp].gam" size="510" crc="f60c7319" sha1="bd9324b7a7d3d023d7d996f68dcc068a9502da9c"/>
+		<rom name="Wizard_of_Wads_(Blueprint)_[Dx01_25jp].png" size="443" crc="61c07a77" sha1="0d0b117e94bc7ddf46ece7d15c04888e84da6940"/>
+		<rom name="Wizard_of_Wads_(Blueprint)_[Dx01_25jp].ram" size="65536" crc="ce65911d" sha1="513dcca67f2c9d694cd11edb75e66c78d29b6cf5"/>
+		<rom name="Wizard_of_Wads_(Blueprint)_[Dx01_25jp].txt" size="899" crc="67608fba" sha1="666e90259d9e3bfe6776cfeb9ce0bf1aeba1a62c"/>
+		<rom name="Wizard_of_Wads_(Blueprint)_[Dx01_25jp].wsp" size="128" crc="da7831f2" sha1="2ff797377e46ff6061a59cc21d882db56a196409"/>
+		<rom name="WOWS_NON.HI" size="252149" crc="e6620dcf" sha1="6ff0c4076d5f5e971e37637e16f54234be983b5e"/>
+		<rom name="WOWS_NON.LO" size="252149" crc="5f2cd336" sha1="762d3e0abffb01dbeba05ea54ddbb5921dae3b13"/>
+		<rom name="WOWS_SND.BIN" size="904925" crc="a1eadc55" sha1="1b8d986d20f8ce6764e51c1bb0b975bec065a41e"/>
+	</game>
+</datafile>

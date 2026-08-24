@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Layouts - MFME - Dolbeck Systems</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Connect 4 (Dolbeck Systems)">
+		<rom name="connect 4 v1-9 (27512) 15-3-90" size="65536" crc="843ed53d" sha1="b1dff249df37800744e3fc9c32be20a62bd130a1"/>
+		<rom name="connect4.p1" size="16384" crc="b1af50c0" sha1="7c9645ea378f0857b849ca24a239d9114f62da7f"/>
+		<rom name="connect4.p2" size="16384" crc="6090633c" sha1="0cd2725a235bf93cfe94f2ca648d5fccb87b8e5c"/>
+		<rom name="Connect_4_(Dolbeck_Systems)_[C01].fml" size="6779" crc="76efaf01" sha1="a122f0e6d84fb09a601aa4116e0ddc50ea5ef046"/>
+		<rom name="Connect_4_(Dolbeck_Systems)_[C01].gam" size="197" crc="b4bc5080" sha1="7b658c10c8f68bb3d4c15c9893c7ba0ae2cbace5"/>
+		<rom name="Connect_4_(Dolbeck_Systems)_[C01].jpg" size="36653" crc="142c5a9d" sha1="3a9e957517792a98d08594f5ee152f52044444e0"/>
+		<rom name="Connect_4_(Dolbeck_Systems)_[C01].ram" size="2048" crc="51cccf6d" sha1="8c482260818e1da0fea5eaca46183b92bdac6703"/>
+		<rom name="Connect_4_(Dolbeck_Systems)_[Pdx01].fml" size="613083" crc="24383d0a" sha1="7bc4a48b27a5e880703130c55c1518ec1552451b"/>
+		<rom name="Connect_4_(Dolbeck_Systems)_[Pdx01].gam" size="177" crc="9903b05c" sha1="55686e38d240accda5e322976bc745baa7ea90ac"/>
+		<rom name="Connect_4_(Dolbeck_Systems)_[Pdx01].jpg" size="30766" crc="a39a2cad" sha1="11a6db167a44ce3916b82eeb4d6fed65192734f8"/>
+		<rom name="Connect_4_(Dolbeck_Systems)_[Pdx01].ram" size="2048" crc="c31f11d2" sha1="947201ab9194337c8d74b2358777ed2c3b75b47e"/>
+		<rom name="Connect_4_(Dolbeck_Systems)_[Pdx02_10jp].fml" size="1018576" crc="8350e480" sha1="2fe62a82d01ada3583457e88583c9cfb88dde656"/>
+		<rom name="Connect_4_(Dolbeck_Systems)_[Pdx02_10jp].gam" size="226" crc="6f50fe79" sha1="8b4a306b236650258a04f16c66e6381f420cc8ee"/>
+		<rom name="Connect_4_(Dolbeck_Systems)_[Pdx02_10jp].jpg" size="33532" crc="3445ec5e" sha1="efd8196df24f82af91aaa4de2650f16077765389"/>
+		<rom name="Connect_4_(Dolbeck_Systems)_[Pdx02_10jp].ram" size="2048" crc="b2d81ef7" sha1="d284eb7e0ff001a149e19f0a52f3dc3314453758"/>
+	</game>
+	<game name="Triple Winner [Dolbeck Systems]">
+		<rom name="triple winner.bin" size="32768" crc="0670d25d" sha1="4fbc0023a3615c8b21e0ad6178283b4ef567ea9f"/>
+		<rom name="Triple_Winner_(Dolbeck Systems)_[C01_4-80jp].fml" size="871286" crc="4ef8e61c" sha1="eb0aa10b40b191073009894b2d3ead5b57cabcfc"/>
+		<rom name="Triple_Winner_(Dolbeck Systems)_[C01_4-80jp].gam" size="294" crc="ad860442" sha1="2c4b12bd8fc46dfa56496203515f480f269f86c7"/>
+		<rom name="Triple_Winner_(Dolbeck Systems)_[C01_4-80jp].jpg" size="29430" crc="fc13f932" sha1="49c0ff2bc29b7ac3bfd3b046b5398050b49ca1ab"/>
+		<rom name="Triple_Winner_(Dolbeck Systems)_[C01_4-80jp].ram" size="8192" crc="f12a7932" sha1="411b36bb8da7635a71d7478dde98d0460f6c7633"/>
+		<rom name="Triple_Winner_(Dolbeck Systems)_[C01_4-80jp].txt" size="260" crc="6c2441bf" sha1="12ae051adec9161b5ab7885be66d0e1615bfed99"/>
+		<rom name="tw.bin" size="32768" crc="0670d25d" sha1="4fbc0023a3615c8b21e0ad6178283b4ef567ea9f"/>
+		<rom name="UnknownPosSYS85,TW.BIN" size="32768" crc="0670d25d" sha1="4fbc0023a3615c8b21e0ad6178283b4ef567ea9f"/>
+	</game>
+</datafile>

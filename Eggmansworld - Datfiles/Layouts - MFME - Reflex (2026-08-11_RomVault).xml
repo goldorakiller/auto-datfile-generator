@@ -1,0 +1,1571 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Layouts - MFME - Reflex</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Alice Queen of Hearts (Reflex)">
+		<rom name="Alice_Queen_of_Hearts_(Reflex)_[Dx01_100jp].eep" size="512" crc="f871a91f" sha1="34743296f680c8a917898f5a88805237d8c81619"/>
+		<rom name="Alice_Queen_of_Hearts_(Reflex)_[Dx01_100jp].fml" size="11853082" crc="86694418" sha1="5f5a02fba454f08e24365aabe54e2f8701f1bfd8"/>
+		<rom name="Alice_Queen_of_Hearts_(Reflex)_[Dx01_100jp].gam" size="704" crc="84c64877" sha1="05d4b63a3a8a0290de14d6e3b20006c8bd94bc85"/>
+		<rom name="Alice_Queen_of_Hearts_(Reflex)_[Dx01_100jp].jpg" size="293939" crc="7f684735" sha1="2ce56037e9cc2f0f64aa4e8e0088b9808de37d26"/>
+		<rom name="Alice_Queen_of_Hearts_(Reflex)_[Dx01_100jp].ram" size="65536" crc="66b1ef75" sha1="40cf8dcf747e8d90b321d20b1ad21969941f1491"/>
+		<rom name="Alice_Queen_of_Hearts_(Reflex)_[Dx01_100jp].txt" size="393" crc="e5cb700e" sha1="e5dac4e2063e89caa7f223c19e69bbf0a9bfde15"/>
+		<rom name="Alice_Queen_Of_Hearts_SND1_PR2057.BIN" size="1048576" crc="1fb834fc" sha1="4afe728d603c1368a609302444d8eda7f25deb39"/>
+		<rom name="Alice_Queen_Of_Hearts_SND2_PR2057.BIN" size="1048576" crc="007012bf" sha1="ffe7d8b37aa6ece10a0403c6813cca1f65d14c9c"/>
+		<rom name="mAliceQueenOfHearts100TEST14_padded.high" size="524288" crc="ba471c55" sha1="df683804401504d0962b6aaaf976f0aa1b3b88a6"/>
+		<rom name="mAliceQueenOfHearts100TEST14_padded.low" size="524288" crc="f67c1b86" sha1="37b2d5bdbbbd0d0c85c47e8081a51fd1ff3bdca0"/>
+	</game>
+	<game name="Alice Through The Looking Glass (Reflex)">
+		<rom name="Alice_Through_The_Looking_Glass_(Reflex)_[C01_100jp].eep" size="512" crc="06ebe123" sha1="65f69cb629de771a51b9de385b81d63ec01c8235"/>
+		<rom name="Alice_Through_The_Looking_Glass_(Reflex)_[C01_100jp].fml" size="1734601" crc="17958982" sha1="cb60edb2595f086d95785b94207391b25696bfec"/>
+		<rom name="Alice_Through_The_Looking_Glass_(Reflex)_[C01_100jp].gam" size="530" crc="e2e2a958" sha1="a2f7cc214a24cef7ec38a2fa9a6d45d4983c1c33"/>
+		<rom name="Alice_Through_The_Looking_Glass_(Reflex)_[C01_100jp].jpg" size="196739" crc="523fd6c7" sha1="c55db28abaf127b983b5c2bbfabd3a156a8f8eea"/>
+		<rom name="Alice_Through_The_Looking_Glass_(Reflex)_[C01_100jp].ram" size="65536" crc="6a174124" sha1="8c8273e95ec4f89cc4f7bf93df510b8c9a17c242"/>
+		<rom name="Alice_Through_The_Looking_Glass_(Reflex)_[C01_100jp].txt" size="514" crc="85bce541" sha1="5966e85de0d149edc2637f83b02462fd39866cc6"/>
+		<rom name="Alice_Through_The_Looking_Glass_(Reflex)_[Dx01_100jp].eep" size="512" crc="06ebe123" sha1="65f69cb629de771a51b9de385b81d63ec01c8235"/>
+		<rom name="Alice_Through_The_Looking_Glass_(Reflex)_[Dx01_100jp].fml" size="9947408" crc="72102b67" sha1="16dc205a668d61bb3fb5f9e275ce5e53c30a75fd"/>
+		<rom name="Alice_Through_The_Looking_Glass_(Reflex)_[Dx01_100jp].gam" size="524" crc="5118782f" sha1="c19b18216ba28e9e8143a1e1672c152569764d8d"/>
+		<rom name="Alice_Through_The_Looking_Glass_(Reflex)_[Dx01_100jp].jpg" size="275895" crc="a146063c" sha1="9a9724b1a53498e9182c1828dc3fa8b0fb345525"/>
+		<rom name="Alice_Through_The_Looking_Glass_(Reflex)_[Dx01_100jp].ram" size="65536" crc="67509b86" sha1="c8b1694f49e8f588a1ac0a00347dd8732ab317a6"/>
+		<rom name="Alice_Through_The_Looking_Glass_(Reflex)_[Dx01_100jp].txt" size="671" crc="e4ab602b" sha1="70807acc984dc6dd2247d2e09590ee6ec9e7e7ec"/>
+		<rom name="alicettlg.high" size="524288" crc="7e6a4187" sha1="70bbb1144a88bf72da50f3e10a394f5d1e382144"/>
+		<rom name="alicettlg.low" size="524288" crc="53bb232c" sha1="2e29ac6f6d54483ddc0c47e59c6f32160c765b72"/>
+		<rom name="alicettlg_1.bin" size="1048576" crc="827be213" sha1="d465a6aa80afe06abcae19a638e8e22d8a8fdc93"/>
+		<rom name="alicettlg_2.bin" size="1048576" crc="39010b1f" sha1="505a4df2047cab951f7840ff65e3fccdeb3c3735"/>
+	</game>
+	<game name="Alice&apos;s Diamond Deal (Reflex)">
+		<rom name="Alice&apos;s_Diamond_Deal_(Reflex)_[Dx01_100jp].eep" size="512" crc="3560c69e" sha1="62bc4e726135248c54e286172d4c2ee3ec91149b"/>
+		<rom name="Alice&apos;s_Diamond_Deal_(Reflex)_[Dx01_100jp].fml" size="11784734" crc="ee756cf4" sha1="ab1ea657df872f1eac44f11fd91284fe4af01756"/>
+		<rom name="Alice&apos;s_Diamond_Deal_(Reflex)_[Dx01_100jp].gam" size="654" crc="88e3ebc7" sha1="459b65a803c060557e32452f29f1515b0b98bb63"/>
+		<rom name="Alice&apos;s_Diamond_Deal_(Reflex)_[Dx01_100jp].jpg" size="378501" crc="aaf3d37e" sha1="86ccd99364302557581d207fd73ce80ba5e6fa79"/>
+		<rom name="Alice&apos;s_Diamond_Deal_(Reflex)_[Dx01_100jp].ram" size="65536" crc="2dd04760" sha1="a750911b760dc9ab743c3c14d667963ffeff9698"/>
+		<rom name="Alice&apos;s_Diamond_Deal_(Reflex)_[Dx01_100jp].txt" size="467" crc="f35200d6" sha1="185fe8260d0bb16eca0cadefe3a251f3266ba481"/>
+		<rom name="alicesdd_1.bin" size="1048576" crc="f1dc902d" sha1="86cfa8b473074841b7e8fb3bb4b942d15e6b7c91"/>
+		<rom name="alicesdd_2.bin" size="1048576" crc="c725edee" sha1="cdbb9fd40da5714ac59d042d4d4906ffb4d57080"/>
+		<rom name="malicesdiamonddtest11_padded.high" size="524288" crc="fc9da087" sha1="25e637336d86db3c386fcf5df167dc1d981f7530"/>
+		<rom name="malicesdiamonddtest11_padded.low" size="524288" crc="68c32631" sha1="22bf90f7e07ef00681497b7aa8825ea6274b25f3"/>
+	</game>
+	<game name="Alice&apos;s Wonderland (Reflex)">
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[C01_5jp].eep" size="8192" crc="ea4114a2" sha1="c1989a046abbdf3ca91f95aa809c071f9597f5e7"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[C01_5jp].fml" size="527495" crc="b2ef96f8" sha1="ae47e0faecd9269951c72bb4d550479f215f9640"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[C01_5jp].gam" size="510" crc="ac1f20c0" sha1="6f4e3b2cf48d7d37cdc81ecf8b1e54761be7b18f"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[C01_5jp].jpg" size="26263" crc="5f33860d" sha1="fa7a4ccf7cb3564183cdedf7bad28ebbfa5c588a"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[C01_5jp].ram" size="65536" crc="b2e07557" sha1="e60cf8259b6b6d875c761aa8c110c1628b6f0cb7"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[C01_5jp].txt" size="663" crc="e3165d11" sha1="cf2a8bef861c665854eecd84cb41cc125bcb307d"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[C02_70jp].db" size="50" crc="b0542cab" sha1="19eff2c5cce3a5b6a3bff347c2180324eff826ad"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[C02_70jp].eep" size="512" crc="0e8c8bdf" sha1="d364bfdcc61cefe205e6345ef4e8d359ad53bd79"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[C02_70jp].fml" size="848314" crc="12d58ca9" sha1="380c2084521daf1da545f0089bd09443520bc0ea"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[C02_70jp].gam" size="529" crc="84a75784" sha1="f001f7e0b26694340fd1787bb13530f8ce0cea7b"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[C02_70jp].jpg" size="203386" crc="99042a70" sha1="5817cd989c0d3af2958437dd0a2fddbb06155c7e"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[C02_70jp].ram" size="65536" crc="4de4469d" sha1="07b75d9f9a2d38b852bd3ffc989d0660bf9a08f3"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[C02_70jp].txt" size="191" crc="57977289" sha1="b3552fdb4eb7e2408f368ef30660b66081892d63"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[Dx01_100jp].eep" size="512" crc="7e178d2e" sha1="5afd24fc9aa4c1cf7ab74d51a0030b5ac2b43f87"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[Dx01_100jp].fml" size="9210593" crc="c421b146" sha1="9b40af965b33d0bf6529c55db31db8b06bc9fab0"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[Dx01_100jp].gam" size="549" crc="38f7e9ed" sha1="0df77448648e2c0fc559119b90d3826470ce2e42"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[Dx01_100jp].jpg" size="205019" crc="072408c9" sha1="6e26c3ab02d937cf8fe6e1ab2717ca719b5adc4e"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[Dx01_100jp].ram" size="65536" crc="99246357" sha1="a68e13a5b48ef24d6b9584aae6b6ffb4bccdc08f"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[Dx01_100jp].txt" size="501" crc="a81deeca" sha1="5903baae190d45385ee163cb8886c479244a822c"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[Dx01_70jp].eep" size="512" crc="1fe13a20" sha1="900e79e16f03aab1d7644d6c688e270feeac5093"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[Dx01_70jp].fml" size="9189700" crc="501cd793" sha1="8006cbf6168c412e733125fb4e95d838020fdaf4"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[Dx01_70jp].gam" size="556" crc="4c00c4a5" sha1="249fbcc439ad23bea21c759f680cd2bce5585297"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[Dx01_70jp].jpg" size="25454" crc="3fedf818" sha1="5904ca353597b17dc370d21725d51641b927ba9a"/>
+		<rom name="Alice&apos;s_Wonderland_(Reflex)_[Dx01_70jp].ram" size="65536" crc="661627fa" sha1="205e340010db5ad3e54f5336c0e3a0a4348fd189"/>
+		<rom name="alice100.hi" size="524288" crc="a2274134" sha1="b96689746d24fd80ccb1c2f648156790b6719df8"/>
+		<rom name="alice100.lo" size="524288" crc="cc999a1a" sha1="7bec89037bbb5b7c84964106ff6a12e00cae8ba0"/>
+		<rom name="alice1_2.hi.bin" size="524288" crc="c12cd55e" sha1="9569c0e398c5fbda0832f6a61c8ada8fd10469e3"/>
+		<rom name="alice1_2.lo.bin" size="524288" crc="ad678150" sha1="776faa673780d8df137dec373839804443386de4"/>
+		<rom name="alicehigh_1.bin" size="1048576" crc="81d4ab48" sha1="51f90527f6e1b8bb063a00a7ff0b299a649c3190"/>
+		<rom name="alicehigh_2.bin" size="1048576" crc="d849a8f7" sha1="1bd1c90d65f70f6df8b9926e435d4752b1131bef"/>
+		<rom name="alicesnd1.bin" size="1048576" crc="ea4fac92" sha1="b5500903f808511662f5664c8403bda4abb02f8c"/>
+		<rom name="alicesnd2.bin" size="1048576" crc="9a2ab2b2" sha1="592206d6282ee7b8446eaab1db3c82b3b68fd08d"/>
+		<rom name="malicehightechtest15_padded.hi" size="524288" crc="f3972743" sha1="c3e2c7d11f3bb8327d00d8d1eb69b0265f94b8b7"/>
+		<rom name="malicehightechtest15_padded.lo" size="524288" crc="cc7a55ed" sha1="fa7f3aa4047194c27f3b9012ec79dd434880eaa9"/>
+	</game>
+	<game name="Bank Raid (Reflex)">
+		<rom name="Bank_Raid_(Reflex)_[C01_100jp].eep" size="512" crc="3342de46" sha1="7a202bd264c7491cb9d156dc00bcf29f5d006302"/>
+		<rom name="Bank_Raid_(Reflex)_[C01_100jp].fml" size="6139842" crc="b5d48834" sha1="aecdfdf0f29a7ee755818c07d298577d0674e987"/>
+		<rom name="Bank_Raid_(Reflex)_[C01_100jp].gam" size="585" crc="8a34b9c9" sha1="c89f01cec4dca915869f75c9ef29df078cd161d8"/>
+		<rom name="Bank_Raid_(Reflex)_[C01_100jp].jpg" size="323601" crc="076cade8" sha1="3469ab46cf2a05cab2a329375b42798fe07ccbbf"/>
+		<rom name="Bank_Raid_(Reflex)_[C01_100jp].ram" size="65536" crc="1ae6f21d" sha1="23f0d728f6e6bba387244a9cd04819f43e4fca44"/>
+		<rom name="Bank_Raid_(Reflex)_[C01_100jp].txt" size="633" crc="6eb4deb7" sha1="6be63f617e0a25cfc7b23f6f9616d2a4fb4afb76"/>
+		<rom name="bankraid_1.bin" size="1048576" crc="6cefbea6" sha1="639a5197ac0d605a3be78c1b0676d0bf1c041474"/>
+		<rom name="bankraid_2.bin" size="1048576" crc="c09df416" sha1="3cacf0142d3382b4b814383f7b69b3a878f514dc"/>
+		<rom name="mbankraidcatctest10_padded.high" size="524288" crc="91b4a063" sha1="6a5b7b0a2ae3ee892128fc796ab1c2ad7102ba92"/>
+		<rom name="mbankraidcatctest10_padded.low" size="524288" crc="add75959" sha1="d32d21b5c39e80d596f6272b3f1d492aacdc2467"/>
+		<rom name="mpbankraidcatctest10_padded.high" size="524288" crc="57c4b801" sha1="134dfd1e7f1d2ae8624a0a989bfd5afcfca2d69d"/>
+		<rom name="mpbankraidcatctest10_padded.low" size="524288" crc="3cdb338b" sha1="2c57ca747b116e3e61d55850bd50ebac731ca33d"/>
+	</game>
+	<game name="Bank Raid Platinum (Reflex)">
+		<rom name="Bank_Raid_Platinum_(Reflex)_[C01_10jp].eep" size="8192" crc="ea4114a2" sha1="c1989a046abbdf3ca91f95aa809c071f9597f5e7"/>
+		<rom name="Bank_Raid_Platinum_(Reflex)_[C01_10jp].fml" size="661581" crc="9250b8ea" sha1="6e7f85359230d5fab63d1ab8268e29cedc09e002"/>
+		<rom name="Bank_Raid_Platinum_(Reflex)_[C01_10jp].gam" size="476" crc="a1db0fc6" sha1="cedb34c98276b6a909a242da1f077609fd414721"/>
+		<rom name="Bank_Raid_Platinum_(Reflex)_[C01_10jp].jpg" size="150785" crc="560c8d28" sha1="988cc6298896bd4c3c2fd45c43354cfebad67396"/>
+		<rom name="Bank_Raid_Platinum_(Reflex)_[C01_10jp].ram" size="65536" crc="f995410e" sha1="38e266840b1b39531391e35cb01eb64e31680d9d"/>
+		<rom name="Bank_Raid_Platinum_(Reflex)_[C01_10jp].txt" size="246" crc="b8544ad1" sha1="94f1ae10fcc43e29dd270a750e4ee8d97486f4a1"/>
+		<rom name="Bank_Raid_Platinum_(Reflex)_[Dx01_10jp].eep" size="8192" crc="80f2ca52" sha1="f8e3a01f830ec00a0f322faae48ad841e1bc6cf4"/>
+		<rom name="Bank_Raid_Platinum_(Reflex)_[Dx01_10jp].fml" size="4991190" crc="2ce61a63" sha1="1163515190992adbc76921c07df14dcacdc80ba4"/>
+		<rom name="Bank_Raid_Platinum_(Reflex)_[Dx01_10jp].gam" size="492" crc="78ac6256" sha1="4794483a9f00c6c62e3eb21485fa4bfa6e166fc9"/>
+		<rom name="Bank_Raid_Platinum_(Reflex)_[Dx01_10jp].jpg" size="99245" crc="1c32ee10" sha1="d2c04c13078314c3acb8deb12062d9fa30758fbc"/>
+		<rom name="Bank_Raid_Platinum_(Reflex)_[Dx01_10jp].ram" size="65536" crc="b3920307" sha1="badced7ca02d5b11916568e61e72b6d8159434d7"/>
+		<rom name="Bank_Raid_Platinum_(Reflex)_[Dx01_10jp].rtc" size="256" crc="0d968558" sha1="b376885ac8452b6cbf9ced81b1080bfd570d9b91"/>
+		<rom name="Bank_Raid_Platinum_(Reflex)_[Dx01_10jp].txt" size="712" crc="da23c96c" sha1="c32e30ce384ff0c6df9b75d1c04b19f63e93a0d4"/>
+		<rom name="bankraidplatinum.high" size="524288" crc="1dda0908" sha1="34d5a9f3e3d9249ff4516cf2c5c015784b3dc2be"/>
+		<rom name="bankraidplatinum.low" size="524288" crc="eb19fd42" sha1="769166ce68084fd060f6eb8ac4700e2eccea3f6c"/>
+		<rom name="bankraidplatinum10.high" size="524288" crc="cdfc3f53" sha1="50dc450fc34ac3fd96f1126e284d561b5a91ca05"/>
+		<rom name="bankraidplatinum10.low" size="524288" crc="a522e6a3" sha1="d20da4b1fde87bd3a0cf720a91d4f544c30d2b42"/>
+		<rom name="platinumbr_1.bin" size="1048576" crc="d83d7cf4" sha1="8437ae506053552e20a1c0f7d7dd234d23ef1198"/>
+	</game>
+	<game name="Bank Roller (Reflex)">
+		<rom name="Bank_Roller_(Reflex)_[C01_100jp].eep" size="512" crc="e2b84fc4" sha1="3da998168392d385914600121b569809fe4ea370"/>
+		<rom name="Bank_Roller_(Reflex)_[C01_100jp].fml" size="1525262" crc="470393b7" sha1="8b7bb7cde3f327e57a45682fe96c2fb8012ba799"/>
+		<rom name="Bank_Roller_(Reflex)_[C01_100jp].gam" size="568" crc="68df6a15" sha1="eb26fd21b56443208a4406e1aefbea4834fa548d"/>
+		<rom name="Bank_Roller_(Reflex)_[C01_100jp].jpg" size="225605" crc="60cf6da0" sha1="9f2f63b79a4a569caf1702e551eb63d54489a438"/>
+		<rom name="Bank_Roller_(Reflex)_[C01_100jp].ram" size="65536" crc="114a87a3" sha1="dcbb66507c6a7851f0a163154979cfc64f452ed2"/>
+		<rom name="Bank_Roller_(Reflex)_[C01_100jp].txt" size="418" crc="53e9cf42" sha1="8d432f9d0ca3619085f264a7bc12ead90d8ec473"/>
+		<rom name="Bank_Roller_(Reflex)_[Dx01_100jp].eep" size="512" crc="3fe80a01" sha1="975679b458338879198ec8e584e4e1ff281f4e4c"/>
+		<rom name="Bank_Roller_(Reflex)_[Dx01_100jp].fml" size="8631731" crc="b96ae381" sha1="87eb11a1232c23b4ebc4ddfeb33abefd1cf8d6b2"/>
+		<rom name="Bank_Roller_(Reflex)_[Dx01_100jp].gam" size="650" crc="3e8b6fb9" sha1="74667fed073626f3d844c87bedca6ed5b3dd0a71"/>
+		<rom name="Bank_Roller_(Reflex)_[Dx01_100jp].jpg" size="201896" crc="6a825aeb" sha1="c77454a176c00e23dd08fafdf9f87a7586064de3"/>
+		<rom name="Bank_Roller_(Reflex)_[Dx01_100jp].ram" size="65536" crc="7425d6d8" sha1="de41e1f5cf155e347c919354406e232d7e2a8cd9"/>
+		<rom name="Bank_Roller_(Reflex)_[Dx01_100jp].txt" size="445" crc="34ded7af" sha1="738d368fdac70ecccf2fbe65b909fec1f9620f1d"/>
+		<rom name="bankroller.high" size="524288" crc="1c3b49a5" sha1="eef225f6c576371744bc73221601ca37a6110ec0"/>
+		<rom name="bankroller.low" size="524288" crc="44c801e9" sha1="3b15e3a4c6a708c9d1b1b3b50e4654b8577ffaac"/>
+		<rom name="bankroller_1.bin" size="1048576" crc="74aa4d74" sha1="c1150f17b319c0d902645032616c388b09219b00"/>
+		<rom name="bankroller_2.bin" size="1048576" crc="32926aa7" sha1="f29d7b1034c22ba5bd2b64024a77c5c05a31b2d8"/>
+		<rom name="mBankRollerTEST21_padded.high" size="524288" crc="1c3b49a5" sha1="eef225f6c576371744bc73221601ca37a6110ec0"/>
+		<rom name="mBankRollerTEST21_padded.low" size="524288" crc="44c801e9" sha1="3b15e3a4c6a708c9d1b1b3b50e4654b8577ffaac"/>
+		<rom name="mpbankroller21_.high" size="524288" crc="6208deab" sha1="811b34230141f251c390f451681ccd11958971f4"/>
+		<rom name="mpbankroller21_.low" size="524288" crc="e919f166" sha1="1c1ae3c32786c6caed25eb8bbbc5d73feca303ce"/>
+	</game>
+	<game name="Bankraid Platinum (Reflex)">
+		<rom name="Bankraid_Platinum_(Reflex)_[C01_10jp].fml" size="661581" crc="9250b8ea" sha1="6e7f85359230d5fab63d1ab8268e29cedc09e002"/>
+		<rom name="Bankraid_Platinum_(Reflex)_[C01_10jp].gam" size="496" crc="4b5dd812" sha1="3efa2e76208c621d52fe5e59ce8028fa47a1a3b6"/>
+		<rom name="Bankraid_Platinum_(Reflex)_[C01_10jp].ram" size="65536" crc="47813d9a" sha1="21d346b087b82905537afe2aac369c64bd332e17"/>
+		<rom name="mbankraidplatinumtest10_padded.high" size="524288" crc="cdfc3f53" sha1="50dc450fc34ac3fd96f1126e284d561b5a91ca05"/>
+		<rom name="mbankraidplatinumtest10_padded.low" size="524288" crc="a522e6a3" sha1="d20da4b1fde87bd3a0cf720a91d4f544c30d2b42"/>
+		<rom name="platinumbr_1.bin" size="1048576" crc="d83d7cf4" sha1="8437ae506053552e20a1c0f7d7dd234d23ef1198"/>
+	</game>
+	<game name="Bar X Bullion (Reflex)">
+		<rom name="Bar_X_Bullion_(Reflex)_[Dx01_100jp].eep" size="512" crc="ecb29a5c" sha1="a600795dac7479c03937fea4ce7498fcb43839e6"/>
+		<rom name="Bar_X_Bullion_(Reflex)_[Dx01_100jp].fml" size="6386149" crc="2eb01fdc" sha1="7053ea9da5e33268924e41272e8185c4e6840e62"/>
+		<rom name="Bar_X_Bullion_(Reflex)_[Dx01_100jp].gam" size="665" crc="ee73c575" sha1="8331c12ce9d6da02ff2ffd38cdb8a0437164446e"/>
+		<rom name="Bar_X_Bullion_(Reflex)_[Dx01_100jp].jpg" size="75757" crc="6dbddbc5" sha1="0579bc4d04d2ed2d8aebec96e899b15092350ae4"/>
+		<rom name="Bar_X_Bullion_(Reflex)_[Dx01_100jp].ram" size="65536" crc="52addcde" sha1="ff8777f73db8bb7d2e765e73033011606f356133"/>
+		<rom name="barxbullion_1.bin" size="1048576" crc="6024f128" sha1="371fd41ba966e1b3d68f012701bd70d3392458c6"/>
+		<rom name="barxbulliont_1.bin" size="1048576" crc="50dc9663" sha1="fdfb21ad6d8baf846d466934c1adb1c44ed71697"/>
+		<rom name="mbarxbullion23_.high" size="524288" crc="625bfdcf" sha1="f4768667690c39a2d560fb40420830387680d448"/>
+		<rom name="mbarxbullion23_.low" size="524288" crc="caeb2db2" sha1="8743a85850eb867a834d0c9ad898c63ff89438ed"/>
+		<rom name="mbarxbulliontest22_padded.high" size="524288" crc="dfe022b0" sha1="a5cc3dfe06613f80495aa4a09287ef93c094b460"/>
+		<rom name="mbarxbulliontest22_padded.low" size="524288" crc="8b41f921" sha1="d134f28df8fe7490363fa3291092d738cb2bfb5b"/>
+		<rom name="mcbarxbullion10_.high" size="524288" crc="5bbc37d9" sha1="88b70265629a87ab3eaa973572dd619e186f6c60"/>
+		<rom name="mcbarxbullion10_.low" size="524288" crc="48a6f698" sha1="fdadd6b3bc980c7417953897deed230d55f25e04"/>
+		<rom name="mpbarxbullion22_.high" size="524288" crc="f88b0d5a" sha1="ff4daa11b102e6c4abca21ffb389ebf4745e151f"/>
+		<rom name="mpbarxbullion22_.low" size="524288" crc="40d17acd" sha1="3004e4173818140f84b5436c79d6d6633b501283"/>
+		<rom name="mpbarxbullion23_.high" size="524288" crc="4530d225" sha1="c54f89cadf341a9d2639b373d9ea693c0878b447"/>
+		<rom name="mpbarxbullion23_.low" size="524288" crc="017bae5e" sha1="39d8f9be814485a58a2aaf50cb3a23e3d2450d5f"/>
+		<rom name="mpcbarxbullion10_.high" size="524288" crc="9e92b8ff" sha1="62343556143e7d97928c2b1fd509ee1b789af319"/>
+		<rom name="mpcbarxbullion10_.low" size="524288" crc="bd1a33cf" sha1="7cefeb4f78a72b58488cca01d09a77ad816de89e"/>
+	</game>
+	<game name="Best Of British (Reflex)">
+		<rom name="Best_Of_British_(Reflex)_[C01_100jp].eep" size="512" crc="3d564da9" sha1="29002e2fa10e0423e7f010cab0a4c9fefccddf97"/>
+		<rom name="Best_Of_British_(Reflex)_[C01_100jp].fml" size="229201" crc="5373474c" sha1="7f65edc9ff11f281ab8cdea977f2f9972809a256"/>
+		<rom name="Best_Of_British_(Reflex)_[C01_100jp].gam" size="455" crc="ced96a6a" sha1="1a5066c9cd931cd476e97ddc79315356c309237f"/>
+		<rom name="Best_Of_British_(Reflex)_[C01_100jp].jpg" size="264832" crc="c5caf6ce" sha1="d5f031ed79cc57cf8cd473c0322552831683c5ef"/>
+		<rom name="Best_Of_British_(Reflex)_[C01_100jp].ram" size="65536" crc="4c0d2474" sha1="5dfc17ddb906e530ecc71a22c87de05057c32327"/>
+		<rom name="Best_Of_British_(Reflex)_[C01_100jp].txt" size="323" crc="2cada6ae" sha1="c5fce3159474a44788e2ce21f112000594da3cf8"/>
+		<rom name="Best_Of_British_(Reflex)_[Dx01_100jp].eep" size="512" crc="5244c943" sha1="bc21875dc2291c703f2374172b84a4c8c9300c6e"/>
+		<rom name="Best_Of_British_(Reflex)_[Dx01_100jp].fml" size="2238611" crc="5d32aec2" sha1="164e218e570e1c8d99f39a1aeae14f5d1051986a"/>
+		<rom name="Best_Of_British_(Reflex)_[Dx01_100jp].gam" size="512" crc="12e7c1e9" sha1="aa829fa50b99199084f9e414a18721cf201208a1"/>
+		<rom name="Best_Of_British_(Reflex)_[Dx01_100jp].jpg" size="90514" crc="02fa6a3e" sha1="3a78feba1d4307bae3b265d787725072bce9afc4"/>
+		<rom name="Best_Of_British_(Reflex)_[Dx01_100jp].ram" size="65536" crc="2bf29136" sha1="5f56fe2085f6d0ef0757015444f4f312098ad0bd"/>
+		<rom name="Best_Of_British_(Reflex)_[Dx02_100jp].eep" size="512" crc="3d564da9" sha1="29002e2fa10e0423e7f010cab0a4c9fefccddf97"/>
+		<rom name="Best_Of_British_(Reflex)_[Dx02_100jp].fml" size="7738725" crc="7eb52d21" sha1="d50d093e6e996103da2142a1bd2b371203acec28"/>
+		<rom name="Best_Of_British_(Reflex)_[Dx02_100jp].gam" size="465" crc="917db08b" sha1="ecc802c61523d8f75c5e9b5fb31a1b7d73a7282a"/>
+		<rom name="Best_Of_British_(Reflex)_[Dx02_100jp].jpg" size="218122" crc="795252be" sha1="bf1dbd38afb12581f453f9826eac179a3f209597"/>
+		<rom name="Best_Of_British_(Reflex)_[Dx02_100jp].ram" size="65536" crc="f7d28311" sha1="f6085398a01a3c6be467bbe7575d179e5f3f947c"/>
+		<rom name="Best_Of_British_(Reflex)_[Dx02_100jp].txt" size="1090" crc="713ff4b2" sha1="7f9c18403344cfa8df8b8bb2267f3af724262667"/>
+		<rom name="bestofbritish_hi.bin" size="524288" crc="c1fcd1b0" sha1="337c97470c8a26d32ed3017dbf55b57818c5806e"/>
+		<rom name="bestofbritish_lo.bin" size="524288" crc="7d55ed58" sha1="728d8da857e673ca818ce8c447c3887ccabb94de"/>
+		<rom name="bestofbritish_sound_1.bin" size="1048576" crc="67ac9d60" sha1="f4e45b12181d6c444cd3749968b4733ef21ebc32"/>
+		<rom name="bestofbritish_sound_2.bin" size="1048576" crc="4d1e20cc" sha1="fbcfc2a624acaa7ce0913543c2ec3f1c17f25422"/>
+	</game>
+	<game name="Best Of British Club (Reflex) [c]">
+		<rom name="Best_Of_British_Club_(Reflex)_[C01_400jp]_[c].db" size="49" crc="7408f1a5" sha1="062655ecbf75485d757432ff7a643db9b6712eee"/>
+		<rom name="Best_Of_British_Club_(Reflex)_[C01_400jp]_[c].eep" size="512" crc="fc0ffdbe" sha1="ae28bd6b862d5c204cd4082c0c26b0275d2d1139"/>
+		<rom name="Best_Of_British_Club_(Reflex)_[C01_400jp]_[c].fml" size="2103177" crc="3167f2f0" sha1="c123d01b0fbee6be88fb8e8b249ff1996771fadb"/>
+		<rom name="Best_Of_British_Club_(Reflex)_[C01_400jp]_[c].gam" size="470" crc="d506bbb2" sha1="a84643196d69980099aac2001f5f82adcec08858"/>
+		<rom name="Best_Of_British_Club_(Reflex)_[C01_400jp]_[c].jpg" size="258231" crc="85ec4985" sha1="8abb37f9392c0dd83e884acac0368c979c3d22cb"/>
+		<rom name="Best_Of_British_Club_(Reflex)_[C01_400jp]_[c].ram" size="65536" crc="ac15117c" sha1="e4760524af6eb4eda122cb67f7b007c57db94257"/>
+		<rom name="Best_Of_British_Club_(Reflex)_[C01_400jp]_[c].txt" size="123" crc="8ae923b5" sha1="a05dedaa010e4ff744dad0fd198accbd8f820800"/>
+		<rom name="Best_Of_British_Club_(Reflex)_[Dx01_400jp]_[c].fml" size="977292" crc="a12fddf9" sha1="0d0ff2ed8c917c45dd5e92dd79385b54270da549"/>
+		<rom name="Best_Of_British_Club_(Reflex)_[Dx01_400jp]_[c].gam" size="475" crc="18ebb139" sha1="871c5d4efe356b31e3b01446acc710c8f2856780"/>
+		<rom name="Best_Of_British_Club_(Reflex)_[Dx01_400jp]_[c].jpg" size="64645" crc="90b34933" sha1="59847d487f72b5e506353b580a9fc9465b1f73e6"/>
+		<rom name="Best_Of_British_Club_(Reflex)_[Dx01_400jp]_[c].ram" size="65536" crc="52aa7c03" sha1="368194338a2870932c694fd764e2c886689025a6"/>
+		<rom name="Best_Of_British_Club_(Reflex)_[Dx02_400jp]_[c].db" size="49" crc="7408f1a5" sha1="062655ecbf75485d757432ff7a643db9b6712eee"/>
+		<rom name="Best_Of_British_Club_(Reflex)_[Dx02_400jp]_[c].eep" size="512" crc="fc0ffdbe" sha1="ae28bd6b862d5c204cd4082c0c26b0275d2d1139"/>
+		<rom name="Best_Of_British_Club_(Reflex)_[Dx02_400jp]_[c].fml" size="10434951" crc="8e1de86b" sha1="66409deaece92831879a14a69913c4e67c1e0dd4"/>
+		<rom name="Best_Of_British_Club_(Reflex)_[Dx02_400jp]_[c].gam" size="509" crc="20e87405" sha1="17ad41a918c450d99e648a3fa5bf1c6ee0fac902"/>
+		<rom name="Best_Of_British_Club_(Reflex)_[Dx02_400jp]_[c].jpg" size="291178" crc="57ce1896" sha1="0c471abda41810128a96d0370635f50e9616f301"/>
+		<rom name="Best_Of_British_Club_(Reflex)_[Dx02_400jp]_[c].ram" size="65536" crc="6311f381" sha1="dd52f941f0982c5911f8174bc212dbfb3afafe0d"/>
+		<rom name="Best_Of_British_Club_(Reflex)_[Dx02_400jp]_[c].txt" size="527" crc="d6aaddc8" sha1="5600bf19a28193fa1437131b68213e967fccbed8"/>
+		<rom name="cbob_1.bin" size="1048576" crc="cdddd18d" sha1="7917532dc0e9d4c37876e46adaff6edf4c37f52e"/>
+		<rom name="cbob_2.bin" size="1048576" crc="c36fb1b5" sha1="8abe5c3607ab0b1fb1e3249811a86b96cf5d00ca"/>
+		<rom name="cbobsound.high" size="524288" crc="b170ca81" sha1="410b4316a545f210c3a0a30dcb3c7e93415a59d5"/>
+		<rom name="cbobsound.low" size="524288" crc="d663f9ab" sha1="a71b5c91f9ebc3b2f7c3c2140260279f8ca2efdb"/>
+		<rom name="mCLUBBESTOFBRITISHTEST31_padded.high" size="524288" crc="b170ca81" sha1="410b4316a545f210c3a0a30dcb3c7e93415a59d5"/>
+		<rom name="mCLUBBESTOFBRITISHTEST31_padded.low" size="524288" crc="d663f9ab" sha1="a71b5c91f9ebc3b2f7c3c2140260279f8ca2efdb"/>
+		<rom name="mpclubbestofbritishtest31_padded.high" size="524288" crc="4a72031c" sha1="135173eefef7422b8b578c0a7afe6203e2cf7bd5"/>
+		<rom name="mpclubbestofbritishtest31_padded.low" size="524288" crc="c688f91a" sha1="66687f91d2da008f2af879b0cd5689be6fc282b5"/>
+	</game>
+	<game name="Bombay Bad Boy (Reflex)">
+		<rom name="bbbb_1.bin" size="1048576" crc="7efb525e" sha1="72916ed804e0c545c070572140d7b617841d0f3a"/>
+		<rom name="bbbb_2.bin" size="1048576" crc="d54ab577" sha1="6bba2814d36ec0a1231aef1d39951ffcb5805758"/>
+		<rom name="Bombay_Bad_Boy_(Reflex)_[C01_100jp].eep" size="512" crc="1a5007e9" sha1="7944fe67fb3b5374881b5f05dd9a74fc50c29d38"/>
+		<rom name="Bombay_Bad_Boy_(Reflex)_[C01_100jp].fml" size="1556549" crc="4a1a9224" sha1="5dfef55daea89341d033879833605a74d1ec79f5"/>
+		<rom name="Bombay_Bad_Boy_(Reflex)_[C01_100jp].gam" size="599" crc="728eb74f" sha1="c03e5d32cee569052f7d34457ccef95e47f0c360"/>
+		<rom name="Bombay_Bad_Boy_(Reflex)_[C01_100jp].jpg" size="247801" crc="2a3c2a8d" sha1="0e92f7fc95ead9c91b2167da68000f7f911d30bb"/>
+		<rom name="Bombay_Bad_Boy_(Reflex)_[C01_100jp].ram" size="65536" crc="55aa4844" sha1="b07711457122884fb5a3e55937533a3abd2385fe"/>
+		<rom name="Bombay_Bad_Boy_(Reflex)_[C01_100jp].txt" size="365" crc="d19ec8ec" sha1="2209b95656f61c3be3ce26f14f250d9e07237ee2"/>
+		<rom name="Bombay_Bad_Boy_(Reflex)_[Dx01_100jp].eep" size="512" crc="0a25176a" sha1="79fd94e5b0529f1b0a4e0d20dfd6b66b594acbb8"/>
+		<rom name="Bombay_Bad_Boy_(Reflex)_[Dx01_100jp].fml" size="10544743" crc="4236d1c2" sha1="44d64272d743c12610935bc8554c83d90f40093d"/>
+		<rom name="Bombay_Bad_Boy_(Reflex)_[Dx01_100jp].gam" size="633" crc="435de0c8" sha1="1aa74f915a463e35fe756407f306323eadec0422"/>
+		<rom name="Bombay_Bad_Boy_(Reflex)_[Dx01_100jp].jpg" size="264318" crc="063f04cc" sha1="27f74c047e177fa16b04a9019acfd043cffb11f7"/>
+		<rom name="Bombay_Bad_Boy_(Reflex)_[Dx01_100jp].ram" size="65536" crc="51981d87" sha1="0c9d28411171f44a88de73ef18077d603d2dda36"/>
+		<rom name="Bombay_Bad_Boy_(Reflex)_[Dx01_100jp].txt" size="355" crc="e3d3c6c2" sha1="5245d6af4ef1721463a4cfbd405d9b570d0faaa2"/>
+		<rom name="bombaybadboy10.high" size="524288" crc="ed8e6166" sha1="2ab5a5abd4ffddb5c15e90207dd1ba96b3d564c1"/>
+		<rom name="bombaybadboy10.low" size="524288" crc="28bef922" sha1="dfecb0824544208be3b9bc7f3bcfbf9ba156a5f5"/>
+		<rom name="bombaybadboy10p.high" size="524288" crc="d8ff92db" sha1="f90c77c3df33c1dcfa099881d38f4062ad938db1"/>
+		<rom name="bombaybadboy10p.low" size="524288" crc="e5935446" sha1="16734d27aef156373e80a0d9aadccf97618f9f09"/>
+		<rom name="mBombayBadBoyTEST10_padded.high" size="524288" crc="ed8e6166" sha1="2ab5a5abd4ffddb5c15e90207dd1ba96b3d564c1"/>
+		<rom name="mBombayBadBoyTEST10_padded.low" size="524288" crc="28bef922" sha1="dfecb0824544208be3b9bc7f3bcfbf9ba156a5f5"/>
+	</game>
+	<game name="Cash Crusader (Reflex)">
+		<rom name="Cash_Crusader_(Reflex)_[Dx01_100jp].eep" size="512" crc="e2467adf" sha1="e60fb612dac26ed3ff2ee62d51985b469500f6fa"/>
+		<rom name="Cash_Crusader_(Reflex)_[Dx01_100jp].fml" size="9884951" crc="31e38328" sha1="f5a08f1ce1a07cd49f48870772604d6d511e16e6"/>
+		<rom name="Cash_Crusader_(Reflex)_[Dx01_100jp].gam" size="653" crc="82c1de4d" sha1="17db96121d98f7865eccaa072bdd891534d3868e"/>
+		<rom name="Cash_Crusader_(Reflex)_[Dx01_100jp].jpg" size="359836" crc="44f5780a" sha1="205c172e4759ddc69c25d7e6f152f9348bfa602c"/>
+		<rom name="Cash_Crusader_(Reflex)_[Dx01_100jp].ram" size="65536" crc="4c0daeb7" sha1="afd768971dee73e04982cb4fc3fd60458f93269e"/>
+		<rom name="Cash_Crusader_(Reflex)_[Dx01_100jp].txt" size="1085" crc="5d05b48f" sha1="647bad3a49b787781c77e429f91748d2f1d9c96e"/>
+		<rom name="cashcrusader20.high" size="524288" crc="f64faaf0" sha1="4ef9c3e1cfee644c32f8d8827260d4eb39bbedd3"/>
+		<rom name="cashcrusader20.low" size="524288" crc="c70e35ac" sha1="3e56c67dec4d6f2435d6020154e0d9196bd3e7b3"/>
+		<rom name="cashcrusader20_1.bin" size="4194304" crc="648f989d" sha1="e0f9d71c0eecad7c1a5a36a54c71d2efb048e843"/>
+		<rom name="cashcrusader20_2.bin" size="4194304" crc="a8ef7d4d" sha1="9072f934e073ee6a47aaf4acaafef852284e4a76"/>
+		<rom name="ccrusader_1.bin" size="1048576" crc="60fa5d7c" sha1="823ddcb17e0ad5837b5427fa1286157b70c64b80"/>
+		<rom name="ccrusader_2.bin" size="1048576" crc="ded0d59f" sha1="fdb5ac198884b1bcebb288ce3603f46ac8632b26"/>
+	</game>
+	<game name="Cash Crusader Club (Reflex) [C]">
+		<rom name="Cash_Crusader_Club_(Reflex)_[Dx01_400jp].eep" size="512" crc="47a4935c" sha1="7fa9cfc13170af245e162912a30816a495dfe2be"/>
+		<rom name="Cash_Crusader_Club_(Reflex)_[Dx01_400jp].fml" size="11009457" crc="3519ad87" sha1="5d94c2d0ac7fc2e59a27fe93b4eec63d7df51c3a"/>
+		<rom name="Cash_Crusader_Club_(Reflex)_[Dx01_400jp].gam" size="666" crc="9365bf68" sha1="7c5e16b9dc6b44b1059e02fcf8075f94e91f9785"/>
+		<rom name="Cash_Crusader_Club_(Reflex)_[Dx01_400jp].jpg" size="359729" crc="8e501ac3" sha1="b81d06a48f14944aee35eb0c43233b861c2975dc"/>
+		<rom name="Cash_Crusader_Club_(Reflex)_[Dx01_400jp].ram" size="65536" crc="f657797f" sha1="0fd331d187d991eac723ea9cfca6bcc971751929"/>
+		<rom name="Cash_Crusader_Club_(Reflex)_[Dx01_400jp].txt" size="556" crc="6c1e8255" sha1="e2f8052a7233eb8bbac3d24c26a71613a0704492"/>
+		<rom name="ccashcrusade_1.bin" size="1048576" crc="d2e7f47f" sha1="1c9804e1469ff11f5552931bd70369e83ac8cae4"/>
+		<rom name="ccashcrusade_2.bin" size="1048576" crc="782c0143" sha1="4f3e75c5f1013c88b8bd2ed95d75bc2008bf414f"/>
+		<rom name="clubcashcrusader.high" size="524288" crc="b1eb867a" sha1="ddd9574f6bfa8c9289ba80d26e802f2ed2a105b4"/>
+		<rom name="clubcashcrusader.low" size="524288" crc="13069e36" sha1="42588bd08d023fb6261a23ddcf0bc3754a67cb4b"/>
+		<rom name="Happy Ram/CLUB Cash Crusader.gam" size="689" crc="aa3983d2" sha1="6154e533920bf49f5434697cf15b769e80ba8111"/>
+		<rom name="Happy Ram/CLUB Cash Crusader.ram" size="65536" crc="8eac5fed" sha1="d40702f39897289077ac42daa9c4ac1e9726ef14"/>
+		<rom name="mClubCashCrusaderTEST11_padded.high" size="524288" crc="b1eb867a" sha1="ddd9574f6bfa8c9289ba80d26e802f2ed2a105b4"/>
+		<rom name="mClubCashCrusaderTEST11_padded.low" size="524288" crc="13069e36" sha1="42588bd08d023fb6261a23ddcf0bc3754a67cb4b"/>
+		<rom name="mpclubcashcrusader11_.high" size="524288" crc="2a15120c" sha1="75b35fbbd93c9c668a9260cd920e27c6d39973b4"/>
+		<rom name="mpclubcashcrusader11_.low" size="524288" crc="5c0808eb" sha1="ff4d504ba548617310568339c876c657e615b66c"/>
+	</game>
+	<game name="Cash Encounters (Reflex)">
+		<rom name="Cash_Encounters_(Reflex)_[C01_100jp].eep" size="512" crc="a08d0f77" sha1="2a1a17817bd5bf54eb59498eebaa62e6efc5b094"/>
+		<rom name="Cash_Encounters_(Reflex)_[C01_100jp].fml" size="1874561" crc="7d16d9af" sha1="03912d93430af99a7e012f7b5dbd685b82bdae58"/>
+		<rom name="Cash_Encounters_(Reflex)_[C01_100jp].gam" size="476" crc="fe92bdab" sha1="1848b03fb995e4f21674e19246c3a2369b8c9161"/>
+		<rom name="Cash_Encounters_(Reflex)_[C01_100jp].jpg" size="253167" crc="2c7670fb" sha1="9fedafc543eb0e844fce60e8bf525fc11cec54a3"/>
+		<rom name="Cash_Encounters_(Reflex)_[C01_100jp].ram" size="65536" crc="a0a56805" sha1="34933eebd05bda0135d39d1962665ab9903d5ef7"/>
+		<rom name="Cash_Encounters_(Reflex)_[C01_100jp].txt" size="59" crc="e720fc3d" sha1="c479952ade9820eb4b0611d6820802ecdaa03ab9"/>
+		<rom name="Cash_Encounters_(Reflex)_[Dx01_100jp].eep" size="512" crc="fb8030ee" sha1="7ea3d4899ae3c995a28d34dd5ad4d5213863056a"/>
+		<rom name="Cash_Encounters_(Reflex)_[Dx01_100jp].fml" size="10136431" crc="0c5eff34" sha1="405d3ba69649844a438026312c3d770d41a4b6fb"/>
+		<rom name="Cash_Encounters_(Reflex)_[Dx01_100jp].gam" size="521" crc="2ab76e9e" sha1="4e7c3ccc47b7a4519864a0dc63206dce26421abc"/>
+		<rom name="Cash_Encounters_(Reflex)_[Dx01_100jp].jpg" size="285253" crc="d8b7df7b" sha1="858cddf2ced65f571f58ddd10ee2ac607a7af652"/>
+		<rom name="Cash_Encounters_(Reflex)_[Dx01_100jp].ram" size="65536" crc="14171cd2" sha1="62326a902d7694761126871af8bc80b46f48a9a1"/>
+		<rom name="Cash_Encounters_(Reflex)_[Dx01_100jp].txt" size="419" crc="40c7c7e4" sha1="c9f2b7587724fcd96d8aab1bae982bcebe67dc52"/>
+		<rom name="cashenc_1.bin" size="1048576" crc="328c992e" sha1="552f5ff436e693c03ce7dda12ef3943c547b5e28"/>
+		<rom name="cashenc_1.high" size="524288" crc="26339929" sha1="81bbc79b094934892fa99f0c24b5720ecc1aa5a6"/>
+		<rom name="cashenc_2.bin" size="1048576" crc="51e24ab3" sha1="78ceed7b094500462af926580fdf6dfd4b3c5231"/>
+		<rom name="cashenc_2.low" size="524288" crc="da342c7f" sha1="5b97b2d3dc12828c3efff9cc788e0ba97a3badb7"/>
+		<rom name="mclubcashencounters10_.high" size="524288" crc="007782a2" sha1="6011306b20bf91281e089c457f91f29b51678baf"/>
+		<rom name="mclubcashencounters10_.low" size="524288" crc="a1690c9b" sha1="50c924031dc51aa67d08425628b66f05a836837a"/>
+	</game>
+	<game name="Cash Encounters Club (Reflex) [c]">
+		<rom name="ccashencount_1.bin" size="1048576" crc="058d311b" sha1="51cd96523595962974e6ab92c316e7c8e3bb61e2"/>
+		<rom name="ccashencount_2.bin" size="1048576" crc="637ffa2f" sha1="c40ecb474268fe365d0b645010a8b9cb1c69dd04"/>
+		<rom name="Club_Cash_Encounters_(Reflex)_[Dx01_400jp].eep" size="512" crc="98dd8fdc" sha1="15499163dd310085935040a75a356e2f2b1c0957"/>
+		<rom name="Club_Cash_Encounters_(Reflex)_[Dx01_400jp].fml" size="12396080" crc="b66106a0" sha1="4abb17617afcedc2af2e2e15b10501616576edbe"/>
+		<rom name="Club_Cash_Encounters_(Reflex)_[Dx01_400jp].gam" size="622" crc="20547c41" sha1="4349d7583bb0e2738740a1da03fd75fa70c52527"/>
+		<rom name="Club_Cash_Encounters_(Reflex)_[Dx01_400jp].jpg" size="352989" crc="c96f2801" sha1="ca58fab8b6618069ac097169f7517332957151cf"/>
+		<rom name="Club_Cash_Encounters_(Reflex)_[Dx01_400jp].ram" size="65536" crc="2b6580f9" sha1="b17b39908f06ac09ab248ea4916f955cbf4f9e04"/>
+		<rom name="Club_Cash_Encounters_(Reflex)_[Dx01_400jp].txt" size="657" crc="f5dda279" sha1="1d1b100388ef6fb4cd332a7e2c4f7ceee214d595"/>
+		<rom name="mClubCashEncountersTEST10_padded.high" size="524288" crc="007782a2" sha1="6011306b20bf91281e089c457f91f29b51678baf"/>
+		<rom name="mClubCashEncountersTEST10_padded.low" size="524288" crc="a1690c9b" sha1="50c924031dc51aa67d08425628b66f05a836837a"/>
+		<rom name="mpclubcashencounters10_.high" size="524288" crc="0ec98e68" sha1="4ea2be917eb2de9545bfb4778f9567ce369df320"/>
+		<rom name="mpclubcashencounters10_.low" size="524288" crc="c25100aa" sha1="69070516ec225519370e2723e2fcf266aa9cb600"/>
+	</game>
+	<game name="Cash Explorer (Reflex)">
+		<rom name="Cash_Explorer_(Reflex)_[Dx01_100jp].eep" size="512" crc="7b70fa79" sha1="c1a553cb98bc26dc11aad4bd1ba46f1e7b51119d"/>
+		<rom name="Cash_Explorer_(Reflex)_[Dx01_100jp].fml" size="7811010" crc="ebf3bcf1" sha1="8013ffb790f95a1433277034de2f13d694912c06"/>
+		<rom name="Cash_Explorer_(Reflex)_[Dx01_100jp].gam" size="645" crc="c01ddb56" sha1="5f0d533c5e15a7ee8623e922d77b996f560df490"/>
+		<rom name="Cash_Explorer_(Reflex)_[Dx01_100jp].jpg" size="325240" crc="a31a1b91" sha1="87b7778e703badd3783e8ecc36add5b8bda8fa73"/>
+		<rom name="Cash_Explorer_(Reflex)_[Dx01_100jp].ram" size="65536" crc="b012d182" sha1="edec4783b71d11588118df82e42f8669876f2725"/>
+		<rom name="Cash_Explorer_(Reflex)_[Dx01_100jp].txt" size="642" crc="febbb689" sha1="217619290cb727ccdb6b6658b9667c0145f9a627"/>
+		<rom name="cexplorer_1.bin" size="1048576" crc="027c06fa" sha1="2c5f6c2c30910659df9ef6980ffd97d6b58ddc2e"/>
+		<rom name="cexplorer_2.bin" size="1048576" crc="5cc2355e" sha1="79d4443d7973687916237a4a9cc06bf8922f64c2"/>
+		<rom name="mcashexplorer10_.high" size="524288" crc="6bdfeb88" sha1="36a9a196747e85499726260f4712b75ae8b46ee7"/>
+		<rom name="mcashexplorer10_.low" size="524288" crc="364290ce" sha1="5112b15e828a5007a10c21034bee2214ec5b681b"/>
+		<rom name="mcashexplorertest10_padded.high" size="524288" crc="6bdfeb88" sha1="36a9a196747e85499726260f4712b75ae8b46ee7"/>
+		<rom name="mcashexplorertest10_padded.low" size="524288" crc="364290ce" sha1="5112b15e828a5007a10c21034bee2214ec5b681b"/>
+		<rom name="mpcashexplorer10_.high" size="524288" crc="3b2b3a8c" sha1="69435a763c63bdc0ec103fe079f845b38bf6ad0e"/>
+		<rom name="mpcashexplorer10_.low" size="524288" crc="c10f897f" sha1="f08dd3b46f406ab606b32f4c07b5eea7651cc18e"/>
+		<rom name="mpCashExplorerTEST10_padded.high" size="524288" crc="3b2b3a8c" sha1="69435a763c63bdc0ec103fe079f845b38bf6ad0e"/>
+		<rom name="mpCashExplorerTEST10_padded.low" size="524288" crc="c10f897f" sha1="f08dd3b46f406ab606b32f4c07b5eea7651cc18e"/>
+	</game>
+	<game name="Cash In Hand (Reflex)">
+		<rom name="Cash_In_Hand_(Reflex)_[Dx01_50jp].eep" size="512" crc="511b4694" sha1="dab23c70287b43e318e56edcdc39c5b198553962"/>
+		<rom name="Cash_In_Hand_(Reflex)_[Dx01_50jp].fml" size="8066461" crc="5ef60696" sha1="8b660a8ea523578da713b28febbd5b9bd1fe1176"/>
+		<rom name="Cash_In_Hand_(Reflex)_[Dx01_50jp].gam" size="649" crc="ce15a9c8" sha1="cb945759f3c35769d72c49367ee1506c8944f81f"/>
+		<rom name="Cash_In_Hand_(Reflex)_[Dx01_50jp].jpg" size="256302" crc="af53c074" sha1="c073c7a24d04d37fa549eea78e3b36e6de992f6e"/>
+		<rom name="Cash_In_Hand_(Reflex)_[Dx01_50jp].ram" size="65536" crc="f28fa2cb" sha1="1c23be4e8b029bb08511140ef54ef421eb0b1b55"/>
+		<rom name="Cash_In_Hand_(Reflex)_[Dx01_50jp].txt" size="241" crc="10d521bb" sha1="59b133ad7c095c02227512e1fe105844798af6e7"/>
+		<rom name="CASHINHAND_1.bin" size="1048576" crc="335fc0cb" sha1="3f8c48c5e3ecdea7850a9b99b4b635df60553302"/>
+		<rom name="CASHINHAND_2.bin" size="1048576" crc="2a700d6f" sha1="ae5a9474656ef4d2f4db1f5cdd132c6a009eef83"/>
+		<rom name="mCashInHandTEST11_padded.high" size="524288" crc="8b207783" sha1="87b896f6de94154146dbd797ddfb06ead8228657"/>
+		<rom name="mCashInHandTEST11_padded.low" size="524288" crc="e2e1d558" sha1="66f219d632e997a3599bd7d38481ae9e28b60292"/>
+	</game>
+	<game name="Caveman Cash (Reflex)">
+		<rom name="Caveman_Cash_(Reflex)_[Dx01_100jp].eep" size="512" crc="5caca67f" sha1="a9aff1f09c966adbfde39917eeb61efb3bddb0f6"/>
+		<rom name="Caveman_Cash_(Reflex)_[Dx01_100jp].fml" size="11951547" crc="e6df9113" sha1="76eddcf41b923716687c30dd3e59b36740cf454d"/>
+		<rom name="Caveman_Cash_(Reflex)_[Dx01_100jp].gam" size="546" crc="dfbb909a" sha1="892f77333faa1009f29f1a0f01c0bca2bbb486f5"/>
+		<rom name="Caveman_Cash_(Reflex)_[Dx01_100jp].jpg" size="366989" crc="16cdab76" sha1="dbe6e1e8f9ccf998b1b4ade1ed6b9fcff025ad6f"/>
+		<rom name="Caveman_Cash_(Reflex)_[Dx01_100jp].ram" size="65536" crc="f2e3912b" sha1="6e199bbd9eef134a55e5c83379928e0b97cb9e15"/>
+		<rom name="Caveman_Cash_(Reflex)_[Dx01_100jp].txt" size="728" crc="9b3b7e12" sha1="94d62ce48bcbb3a2feec57bcd3a67d9296b49390"/>
+		<rom name="Caveman_Cash_(Reflex)_[Dx02_100jp].eep" size="512" crc="a9c20af5" sha1="203a61882312f6d8eed7a37b506b40036038fcd0"/>
+		<rom name="Caveman_Cash_(Reflex)_[Dx02_100jp].fml" size="6561638" crc="36ab6be6" sha1="533b0808061a0e0d1f13a3cccf7997c293dff930"/>
+		<rom name="Caveman_Cash_(Reflex)_[Dx02_100jp].gam" size="675" crc="5cea73a8" sha1="5adb108a6978a5ee3c28227538533ad352c75d7e"/>
+		<rom name="Caveman_Cash_(Reflex)_[Dx02_100jp].jpg" size="556846" crc="1a065794" sha1="a8b563fb125ec8259831c8b32ee708a8d4fc361c"/>
+		<rom name="Caveman_Cash_(Reflex)_[Dx02_100jp].ram" size="65536" crc="7eb9b234" sha1="62b56f026ee3489a831ed807bf28acb99dd37f4b"/>
+		<rom name="Caveman_Cash_(Reflex)_[Dx02_100jp].txt" size="899" crc="67608fba" sha1="666e90259d9e3bfe6776cfeb9ce0bf1aeba1a62c"/>
+		<rom name="cavemancash100.high" size="524288" crc="2a0b7d89" sha1="ab975270faa55e7aacde86f28b02212207c544e7"/>
+		<rom name="cavemancash100.low" size="524288" crc="ab896cdc" sha1="14cd6cf0a786cb99641af1687010f91542662c67"/>
+		<rom name="cavemancash_1.bin" size="1048576" crc="77ebf8da" sha1="c798bf702c3d2d86dd34de1be163c45ddcb8cde5"/>
+		<rom name="cavemancash_2.bin" size="1048576" crc="2f0f4c5c" sha1="ffc36a352ef8036179878ce3f32673d275e6b0a2"/>
+		<rom name="mCavemanCash100TEST11_padded.high" size="524288" crc="2a0b7d89" sha1="ab975270faa55e7aacde86f28b02212207c544e7"/>
+		<rom name="mCavemanCash100TEST11_padded.low" size="524288" crc="ab896cdc" sha1="14cd6cf0a786cb99641af1687010f91542662c67"/>
+		<rom name="mpcavemancash10011_.high" size="524288" crc="d193728a" sha1="1ba2dd1917a7694886c63e41f275ae306ae3fe1c"/>
+		<rom name="mpcavemancash10011_.low" size="524288" crc="7299f5f9" sha1="939ce33e131a271a5921e090071bb625315bced1"/>
+	</game>
+	<game name="Chilli Con Carnage (Reflex)">
+		<rom name="Chilli_Con_Carnage_(Reflex)_[Dx01_100jp].eep" size="512" crc="7615abfb" sha1="7f320fae51f5eb32b7f83314e6bb3bfb0dd2aabd"/>
+		<rom name="Chilli_Con_Carnage_(Reflex)_[Dx01_100jp].fml" size="9730716" crc="f918651b" sha1="b3ef58437177cad3bf5131476035384cb6be83dd"/>
+		<rom name="Chilli_Con_Carnage_(Reflex)_[Dx01_100jp].gam" size="590" crc="4ccc090b" sha1="b231df9af896dc3cb268be44fa8f067de56a3ce1"/>
+		<rom name="Chilli_Con_Carnage_(Reflex)_[Dx01_100jp].jpg" size="290012" crc="e790314d" sha1="1fe31ac946b53c4009e93577ec6fa2644b6dc52c"/>
+		<rom name="Chilli_Con_Carnage_(Reflex)_[Dx01_100jp].ram" size="65536" crc="10e8dfb5" sha1="7af342e5d472d46b893660a0130b095c57284af2"/>
+		<rom name="Chilli_Con_Carnage_(Reflex)_[Dx01_100jp].txt" size="328" crc="4630a347" sha1="4e4cbb55d5331e81ecf1a41a9c82964c45c3056f"/>
+		<rom name="CHILLICONCAR_1.bin" size="1048576" crc="04e2b421" sha1="36e2158b612373014a244d1638631d8fef089051"/>
+		<rom name="CHILLICONCAR_2.bin" size="1048576" crc="95aac06d" sha1="c38e71c51c85daf303cb5e0ddaa6af826a4f1f34"/>
+		<rom name="mChilliConCarnageS5TEST13_padded.high" size="524288" crc="75599a39" sha1="e2bb17ee824124985e5d539991fc92c3199f536a"/>
+		<rom name="mChilliConCarnageS5TEST13_padded.low" size="524288" crc="3f329364" sha1="bebba14d71f1a3336486bc7c1afa455afc03a81b"/>
+	</game>
+	<game name="Chops &amp; Change (Reflex)">
+		<rom name="Chops_&amp;_Change_(Reflex)_[C01_100jp].eep" size="512" crc="acf52977" sha1="2128f0f23bb7135a37bcfff1c30df48075b28166"/>
+		<rom name="Chops_&amp;_Change_(Reflex)_[C01_100jp].fml" size="511336" crc="317f06b0" sha1="f4417bd523f6106f278725eeda1166c0bc0dafe0"/>
+		<rom name="Chops_&amp;_Change_(Reflex)_[C01_100jp].gam" size="531" crc="d7931252" sha1="9a86d8a9c42216166e6b39d7bc6b1745ca32337c"/>
+		<rom name="Chops_&amp;_Change_(Reflex)_[C01_100jp].jpg" size="104387" crc="df11f22f" sha1="f1eacdf917ba3e411325ab9767c2e9da521b3a06"/>
+		<rom name="Chops_&amp;_Change_(Reflex)_[C01_100jp].ram" size="65536" crc="6e3ac3b3" sha1="534b24b98bb5b89d41fc78bf153960be2f012638"/>
+		<rom name="Chops_&amp;_Change_(Reflex)_[C01_100jp].txt" size="295" crc="8adcbe2b" sha1="69ebce47954cc3179e9391b3f7688786f2f3106c"/>
+		<rom name="Chops_&amp;_Change_(Reflex)_[Dx01_100jp].eep" size="512" crc="a24c7a7d" sha1="f525e8fc55cc55292648e836d95ee9937b258ad6"/>
+		<rom name="Chops_&amp;_Change_(Reflex)_[Dx01_100jp].fml" size="11734386" crc="c44542f1" sha1="b11d20b0f66a61d16259d9c187646926f9dc91e6"/>
+		<rom name="Chops_&amp;_Change_(Reflex)_[Dx01_100jp].gam" size="599" crc="00758c7f" sha1="4c5569e230be159fb457dc484a232f42d336d66a"/>
+		<rom name="Chops_&amp;_Change_(Reflex)_[Dx01_100jp].jpg" size="298689" crc="7c347531" sha1="7979ba0bf1815f40ce617dc3d8ce8531971749c2"/>
+		<rom name="Chops_&amp;_Change_(Reflex)_[Dx01_100jp].ram" size="65536" crc="23218166" sha1="2824d402da7eeb39a2d14f6f01cbe053d2555dbb"/>
+		<rom name="Chops_&amp;_Change_(Reflex)_[Dx01_100jp].txt" size="540" crc="2542b580" sha1="90cc95c1435d69f83a4ead7107420564ac5c41bb"/>
+		<rom name="chopsandchan1.bin" size="1048576" crc="3bdd2667" sha1="c697a71a331219d1b39ca800049427730b8ed60d"/>
+		<rom name="chopsandchan2.bin" size="1048576" crc="46b44ce6" sha1="de81112058006c03a77b2b2b3b935779c03b20ed"/>
+		<rom name="CHOPSANDCHAN_1.bin" size="1048576" crc="3bdd2667" sha1="c697a71a331219d1b39ca800049427730b8ed60d"/>
+		<rom name="CHOPSANDCHAN_2.bin" size="1048576" crc="46b44ce6" sha1="de81112058006c03a77b2b2b3b935779c03b20ed"/>
+		<rom name="chopsandchange100.high" size="524288" crc="b42d08ee" sha1="3372aaa9820426fb9e4688ec5286c9070afcc681"/>
+		<rom name="chopsandchange100.low" size="524288" crc="8684670b" sha1="367e3c595d497d47affd6ec4db071ed86ce1822b"/>
+		<rom name="chopsandchange100p.high" size="524288" crc="ba09c2ba" sha1="3ea8051f7860d72532558ab3c0555dcb68fea37b"/>
+		<rom name="chopsandchange100p.low" size="524288" crc="4ba9ca6f" sha1="ee66b982e71b00b92e01e8b61cf35913c3235c89"/>
+		<rom name="mChopsAndChange_100TEST15_padded.high" size="524288" crc="b42d08ee" sha1="3372aaa9820426fb9e4688ec5286c9070afcc681"/>
+		<rom name="mChopsAndChange_100TEST15_padded.low" size="524288" crc="8684670b" sha1="367e3c595d497d47affd6ec4db071ed86ce1822b"/>
+	</game>
+	<game name="Chops &amp; Robbers (Reflex)">
+		<rom name="Chops_&amp;_Robbers_(Reflex)_[C01_100jp].eep" size="512" crc="7985e29c" sha1="25c4bb5e318fd90b245eee1c9992e0f0edd982fb"/>
+		<rom name="Chops_&amp;_Robbers_(Reflex)_[C01_100jp].fml" size="512223" crc="3af2342c" sha1="852a37e07c0ea88de5944b8be909ad867064de3c"/>
+		<rom name="Chops_&amp;_Robbers_(Reflex)_[C01_100jp].gam" size="516" crc="2b9875b9" sha1="4e78cf975e5cc88896a34f316452617da83ba2c6"/>
+		<rom name="Chops_&amp;_Robbers_(Reflex)_[C01_100jp].jpg" size="109680" crc="63e7f4c8" sha1="4a2227dce75f2f59aab802a81872b38593683120"/>
+		<rom name="Chops_&amp;_Robbers_(Reflex)_[C01_100jp].ram" size="65536" crc="a4c37428" sha1="cac16bc4bbdcdb774a79c7b4de1de8f91913f708"/>
+		<rom name="Chops_&amp;_Robbers_(Reflex)_[C01_100jp].txt" size="247" crc="a0d616c4" sha1="55300e61b83e47a7b128e5690ab68185178b9397"/>
+		<rom name="chopsandrob1.bin" size="1048576" crc="8ae517f0" sha1="576a7c6008fc1a4160791fda4fd3843484b11390"/>
+		<rom name="chopsandrob2.bin" size="1048576" crc="102e5d0d" sha1="0703a04b16fe3ceab59c96b4a581da2746b3fbbb"/>
+		<rom name="CHOPSANDROBB_1.bin" size="1048576" crc="8ae517f0" sha1="576a7c6008fc1a4160791fda4fd3843484b11390"/>
+		<rom name="CHOPSANDROBB_2.bin" size="1048576" crc="102e5d0d" sha1="0703a04b16fe3ceab59c96b4a581da2746b3fbbb"/>
+		<rom name="chopsandrobbers100.high" size="524288" crc="27eb0c4c" sha1="1bf935ac26a77703e848a82bb4c708fb57c64ef7"/>
+		<rom name="chopsandrobbers100.low" size="524288" crc="a119e53d" sha1="c8eb5e64c4b5235c7a4a145e4cedbf93e611f80d"/>
+		<rom name="chopsandrobbers100p.high" size="524288" crc="ba32702c" sha1="4c9c0729715db5e79f8c27b4c7fb44adf4c869f1"/>
+		<rom name="chopsandrobbers100p.low" size="524288" crc="d6861bd3" sha1="3a658cba8c4a993057ac626734880b552e6839f0"/>
+		<rom name="mChopsAndRobbers_100TEST14_padded.high" size="524288" crc="27eb0c4c" sha1="1bf935ac26a77703e848a82bb4c708fb57c64ef7"/>
+		<rom name="mChopsAndRobbers_100TEST14_padded.low" size="524288" crc="a119e53d" sha1="c8eb5e64c4b5235c7a4a145e4cedbf93e611f80d"/>
+	</game>
+	<game name="Cleo&apos;s Gold (Reflex)">
+		<rom name="Cleo&apos;s_Gold_(Reflex)_[Dx01_100jp].eep" size="512" crc="069d2ca4" sha1="7ffdb01a26dc7859549469774fb292e5e68fb943"/>
+		<rom name="Cleo&apos;s_Gold_(Reflex)_[Dx01_100jp].fml" size="11865226" crc="c11de2b7" sha1="a4712916e2cc91b99baf73211da9992af1c2eaa2"/>
+		<rom name="Cleo&apos;s_Gold_(Reflex)_[Dx01_100jp].gam" size="585" crc="0365586f" sha1="69d7fb9c4f40231d93c6e3ee00d6c6464d850781"/>
+		<rom name="Cleo&apos;s_Gold_(Reflex)_[Dx01_100jp].jpg" size="220957" crc="50c42a96" sha1="de4aa66d37109d26362c741311b283bbd27ef380"/>
+		<rom name="Cleo&apos;s_Gold_(Reflex)_[Dx01_100jp].ram" size="65536" crc="89d1a567" sha1="e9f987a27acf227c725f6d354ec532feb3454c48"/>
+		<rom name="Cleo&apos;s_Gold_(Reflex)_[Dx01_100jp].txt" size="346" crc="e60a2c72" sha1="3b2d0ea3935e9332201217628b82f063f354e79f"/>
+		<rom name="CLEOGOLD_1.bin" size="1048576" crc="bb12f2af" sha1="c09aff3b1b3fd3e55a4f1a547f22b1b1e2e6441e"/>
+		<rom name="CLEOGOLD_2.bin" size="1048576" crc="c1604372" sha1="5007ab79880e1a8c89f965738fa1e198b4923ca9"/>
+		<rom name="mCleosGoldTEST11_padded.high" size="524288" crc="d417ecac" sha1="9b13d7e219ffbdbd1265d8ea490a4294c3d635d3"/>
+		<rom name="mCleosGoldTEST11_padded.low" size="524288" crc="33983b0c" sha1="941a89cf0db704e20493c17ae39876ee1a513bc1"/>
+	</game>
+	<game name="Club Alice Queen of Hearts (Reflex) [c]">
+		<rom name="Bonus mystery bmp&apos;s.zip" size="33973" crc="74e95b50" sha1="67e896faa4f91935d942909773fcce23271bba5e"/>
+		<rom name="CALICEQUEEN_1.bin" size="1048576" crc="fcd62b41" sha1="81c949ea879e809a8cfcd289cf8ffadf14aaf4f0"/>
+		<rom name="CALICEQUEEN_2.bin" size="1048576" crc="8210c8b1" sha1="182d7d173534698c1620c8064ce13dc300f60829"/>
+		<rom name="Club_Alice_Queen_of_Hearts_(Reflex)_[Dx01_400jp]_[c].eep" size="512" crc="fa6b6f15" sha1="aee8dfe694746c96cb8dfb8c3e489c263f4faa4d"/>
+		<rom name="Club_Alice_Queen_of_Hearts_(Reflex)_[Dx01_400jp]_[c].fml" size="11162244" crc="bac9d92d" sha1="12e8581dc4f6304eacb33633942b53af1afb455c"/>
+		<rom name="Club_Alice_Queen_of_Hearts_(Reflex)_[Dx01_400jp]_[c].gam" size="620" crc="0248099f" sha1="74314174a3b5618d85eca1a8634c862db6c29fcc"/>
+		<rom name="Club_Alice_Queen_of_Hearts_(Reflex)_[Dx01_400jp]_[c].jpg" size="313720" crc="3d3f85b8" sha1="308048c23c800ecb7f60d21d58d514a9fe62b377"/>
+		<rom name="Club_Alice_Queen_of_Hearts_(Reflex)_[Dx01_400jp]_[c].ram" size="65536" crc="298828ef" sha1="688d852fe2f78f049d2bea528be062dfee4345d2"/>
+		<rom name="Club_Alice_Queen_of_Hearts_(Reflex)_[Dx01_400jp]_[c].txt" size="409" crc="46b8db17" sha1="0583396cd577773e260ea233dc469640c39822e1"/>
+		<rom name="mCLUBALICEQUEENOFHEARTS_400TEST10_padded.high" size="524288" crc="baad2624" sha1="0245369a689242d4d62fd42871315638ea5aaf94"/>
+		<rom name="mCLUBALICEQUEENOFHEARTS_400TEST10_padded.low" size="524288" crc="310d7fad" sha1="1ed063b81357aea7e1688ca5bbf592091dcc0ffa"/>
+	</game>
+	<game name="Club Bank Roller (Reflex) [c]">
+		<rom name="cbankroller_1.bin" size="1048576" crc="bf65d8ea" sha1="e70b68901b16812602220dce47a75de93dec1395"/>
+		<rom name="cbankroller_2.bin" size="1048576" crc="dc38c94c" sha1="14245c305738e64f4d141f1fb287bca21c88114d"/>
+		<rom name="Club_Bank_Roller_(Reflex)_[C01_400jp]_[c].eep" size="512" crc="a38b62fd" sha1="ae96dd1078d198c61104f0d87fde743f8718d937"/>
+		<rom name="Club_Bank_Roller_(Reflex)_[C01_400jp]_[c].fml" size="3598046" crc="6d97695b" sha1="87bccf34b1b32113f6996d4f2d7cb622d1e9989e"/>
+		<rom name="Club_Bank_Roller_(Reflex)_[C01_400jp]_[c].gam" size="447" crc="161c55c3" sha1="85ebca94b9b736b2db87f269c35d329429b389a3"/>
+		<rom name="Club_Bank_Roller_(Reflex)_[C01_400jp]_[c].jpg" size="256504" crc="6a64d33f" sha1="e1c6c75baab502577a22eca9553703ed08486ccb"/>
+		<rom name="Club_Bank_Roller_(Reflex)_[C01_400jp]_[c].ram" size="65536" crc="37ce6c80" sha1="4cf1a23a0ad73871bac9075b2dc8a637c2ba46c6"/>
+		<rom name="Club_Bank_Roller_(Reflex)_[C01_400jp]_[c].txt" size="236" crc="8f5d65e2" sha1="bb6b8f5344e531e8c18e2909b4abc4b71acf58df"/>
+		<rom name="clubbankroller.high" size="524288" crc="e8f73c25" sha1="39d1ccfaf8d2ca92fe7a21edfb10992d7c6b5904"/>
+		<rom name="clubbankroller.low" size="524288" crc="147a2140" sha1="3955db481f06c295a4bd565ec94fb6031b9e544c"/>
+		<rom name="mClubBankRollerTEST10_padded.high" size="524288" crc="e8f73c25" sha1="39d1ccfaf8d2ca92fe7a21edfb10992d7c6b5904"/>
+		<rom name="mClubBankRollerTEST10_padded.low" size="524288" crc="147a2140" sha1="3955db481f06c295a4bd565ec94fb6031b9e544c"/>
+		<rom name="mpclubbankroller10_.high" size="524288" crc="e58d6135" sha1="4846ad0fc6372835637c527bd624141fb0b527d2"/>
+		<rom name="mpclubbankroller10_.low" size="524288" crc="049121f1" sha1="bc94f3444d73df1b3f1c5cc23cd69dde2dcc09b3"/>
+	</game>
+	<game name="Club Drac in the Box (Reflex) [c]">
+		<rom name="CDRACINTHEB_1.bin" size="1048576" crc="e97d2747" sha1="d76c4fe766252eb092db48367e87911cc4387b88"/>
+		<rom name="CDRACINTHEB_2.bin" size="1048576" crc="37076951" sha1="b131c2fdb602a4ecef627ca709dd7cd828ad9408"/>
+		<rom name="Club_Drac_in_the_Box_(Reflex)_[C01_400jp]_[c].db" size="75" crc="668f2e0e" sha1="139ffb18a5822e7f3e27fe8f6f7d4315af57b245"/>
+		<rom name="Club_Drac_in_the_Box_(Reflex)_[C01_400jp]_[c].eep" size="512" crc="24c5405c" sha1="13141d0d3e8694184eabcc9b5c1cba5a6e1433aa"/>
+		<rom name="Club_Drac_in_the_Box_(Reflex)_[C01_400jp]_[c].fml" size="2058331" crc="48718efa" sha1="be8c87994ad3ca8f4fa157481bc54acb87287c81"/>
+		<rom name="Club_Drac_in_the_Box_(Reflex)_[C01_400jp]_[c].gam" size="625" crc="a7f75989" sha1="a26171765bc641022ce794fcac5353566a1ff8b7"/>
+		<rom name="Club_Drac_in_the_Box_(Reflex)_[C01_400jp]_[c].jpg" size="297741" crc="170c56dd" sha1="356eb09a5b9102f82b8026797f67f3eaac0f7259"/>
+		<rom name="Club_Drac_in_the_Box_(Reflex)_[C01_400jp]_[c].ram" size="65536" crc="0f7a0e71" sha1="ba9035022ac684aeb857585cdebf480613a685db"/>
+		<rom name="Club_Drac_in_the_Box_(Reflex)_[C01_400jp]_[c].txt" size="378" crc="fa3f2ec4" sha1="ea58504c06aa8af67d38b7fde84c3fd1a7eb9ff5"/>
+		<rom name="mClubDracInTheBoxTEST10_padded.high" size="524288" crc="67d14a88" sha1="16dfa53f99a746d2f234e66f695f68b11b89fd35"/>
+		<rom name="mClubDracInTheBoxTEST10_padded.low" size="524288" crc="bc1f5322" sha1="0bbb7c41d87ac5c64a7e88daecd7c1ef24debdac"/>
+	</game>
+	<game name="Club Pocket Money (Reflex)">
+		<rom name="Club_Pocket_Money_(Reflex)_[C01_400jp] [c].eep" size="512" crc="d9e1274e" sha1="de6ee4c50322773efe930467d78dcd180ce2d4ac"/>
+		<rom name="Club_Pocket_Money_(Reflex)_[C01_400jp] [c].fml" size="3295393" crc="1c93d904" sha1="7e510334c2a9c3df6004ecf8122e4a9d45b959b7"/>
+		<rom name="Club_Pocket_Money_(Reflex)_[C01_400jp] [c].gam" size="620" crc="29f2bd15" sha1="8be5b04ac92159a3b4c843151e7070aa24049b56"/>
+		<rom name="Club_Pocket_Money_(Reflex)_[C01_400jp] [c].png" size="142765" crc="d93f5610" sha1="203f7a1ada26f7d60aba4fa0e34021ec32ad63d4"/>
+		<rom name="Club_Pocket_Money_(Reflex)_[C01_400jp] [c].ram" size="65536" crc="df48a58b" sha1="442c660a85e8c2f82f65c2f1f10a7f7e034077ac"/>
+		<rom name="Club_Pocket_Money_(Reflex)_[C01_400jp] [c].txt" size="367" crc="7349089d" sha1="71231c4772f7627732b4e8001dcded861ec90a9a"/>
+		<rom name="CPOCKETMONEY_1.bin" size="1048576" crc="83ab94af" sha1="2302867f97ab7c5653bd55c9382ae4cd48afb95a"/>
+		<rom name="CPOCKETMONEY_2.bin" size="1048576" crc="b404a00f" sha1="f93848fd24834db291cad5136ec4c69510302cda"/>
+		<rom name="mClubPocketMoneyTEST10_padded.high" size="524288" crc="dde75880" sha1="753c0ffa7f21dc52752c6b556c4dff48f239e46b"/>
+		<rom name="mClubPocketMoneyTEST10_padded.low" size="524288" crc="85c9b9ce" sha1="0cbe06589535eb3bf52a49bdf0877525d153dc75"/>
+	</game>
+	<game name="Club The Heist (Reflex) [c]">
+		<rom name="Club_The_Heist_(Reflex)_[Dx01_400jp]_[c].eep" size="512" crc="d17f5242" sha1="edd1f1f3aa66d77505e920c3cd9f1d098afded22"/>
+		<rom name="Club_The_Heist_(Reflex)_[Dx01_400jp]_[c].fml" size="11868805" crc="3705e0c6" sha1="8177351a46d7d0f96199eecd98ba9e8bc433ddb4"/>
+		<rom name="Club_The_Heist_(Reflex)_[Dx01_400jp]_[c].gam" size="658" crc="97f57e6f" sha1="8e3ec30d5d5ce3d54a158169d945820977a8996c"/>
+		<rom name="Club_The_Heist_(Reflex)_[Dx01_400jp]_[c].jpg" size="203681" crc="5265fb5c" sha1="7186439778776c65b8990a2a7c954af61a2f2b50"/>
+		<rom name="Club_The_Heist_(Reflex)_[Dx01_400jp]_[c].ram" size="65536" crc="57a2ddf7" sha1="7d3867d7cb0901f59f43cb2e4ed29b4e019cbb58"/>
+		<rom name="Club_The_Heist_(Reflex)_[Dx01_400jp]_[c].txt" size="866" crc="8ff3b4fe" sha1="8b1ba6a21a6eaedb669fa2e91415478729888a5c"/>
+		<rom name="CTHEHEIST_1.bin" size="1048576" crc="f7d94f49" sha1="72dbe840c5e13fc9d3d015fe1f6c04a5545a8d14"/>
+		<rom name="CTHEHEIST_2.bin" size="1048576" crc="466e9ca5" sha1="f5dd26e7552329ffe26525b65cd9c0680f5d7f96"/>
+		<rom name="mClubTheHeistTEST13_padded.high" size="524288" crc="2231276b" sha1="82cf0f240938f944dd436db1212e8f7400ccbdcf"/>
+		<rom name="mClubTheHeistTEST13_padded.low" size="524288" crc="4a280b1b" sha1="1df0d80b3ec4cae5acac499f161c0cd2b8d70438"/>
+	</game>
+	<game name="Club Thunderbirds (Reflex) [c]">
+		<rom name="Club_Thunderbirds_(Reflex)_[Dx01_100jp]_[c].eep" size="512" crc="98cbb5e7" sha1="0fd8153a6ae99b0e66a84cdd62c958a674b02eae"/>
+		<rom name="Club_Thunderbirds_(Reflex)_[Dx01_100jp]_[c].fml" size="8118672" crc="897e8343" sha1="59e7fc2a6187899bcf30c6d76983290923619220"/>
+		<rom name="Club_Thunderbirds_(Reflex)_[Dx01_100jp]_[c].gam" size="724" crc="91fd4972" sha1="aed73ed6598203b46546c3c08b6cd25a617581eb"/>
+		<rom name="Club_Thunderbirds_(Reflex)_[Dx01_100jp]_[c].jpg" size="595428" crc="77355414" sha1="439e555d8ade92a561540b7ad3e6907298793296"/>
+		<rom name="Club_Thunderbirds_(Reflex)_[Dx01_100jp]_[c].ram" size="65536" crc="d56a1661" sha1="50fc98b7b9507d8580945050311ffc225697eddb"/>
+		<rom name="Club_Thunderbirds_(Reflex)_[Dx01_100jp]_[c].txt" size="988" crc="275dc30c" sha1="b864869fc4b3e1c2c1c08b05467be4399aa88fb0"/>
+		<rom name="CTHUNDERBIRD_1.bin" size="1048576" crc="26f46e73" sha1="906d7f2940e63020ada523157b1df581d81c0e07"/>
+		<rom name="CTHUNDERBIRD_2.bin" size="1048576" crc="524f39a2" sha1="7e976350d90542993e1b72913f23783ba680a9f5"/>
+		<rom name="mClubThunderbirdsTEST10_padded.high" size="524288" crc="58158648" sha1="cf96df7bec155e336e269acaf6c96ace46431b84"/>
+		<rom name="mClubThunderbirdsTEST10_padded.low" size="524288" crc="f1bc716d" sha1="f51f8da8a2f60fd0a6011a9094182a817ca1601f"/>
+	</game>
+	<game name="Dino Darts (Reflex)">
+		<rom name="DD SND 1.bin" size="1048576" crc="3ecd6272" sha1="4f22976793f99b12e2fba1f6db183271bffa3091"/>
+		<rom name="DD SND 2.bin" size="1048576" crc="a7a91b8c" sha1="64bc74e917ffdfb5d29c710926a934a2015cea7a"/>
+		<rom name="DD.HI" size="524288" crc="fd7b396b" sha1="f54fae2f74afbd78b0fb45abb00b4e0f55fdac69"/>
+		<rom name="DD.LO" size="524288" crc="9d4353d0" sha1="dda0dad41cf9a770717bda138b33b0431056e539"/>
+		<rom name="Dino_Darts_(Reflex)_[Dx01_100jp].eep" size="512" crc="f4cf990a" sha1="80850ba8b4a8a8ffb8d211a6084fd42ace4803c6"/>
+		<rom name="Dino_Darts_(Reflex)_[Dx01_100jp].fml" size="5635947" crc="787b3513" sha1="68e9404db8aa770dd4f49dea0e469e5ef857911c"/>
+		<rom name="Dino_Darts_(Reflex)_[Dx01_100jp].gam" size="658" crc="665f5e15" sha1="b2f871976a00e2fc1a418a4fbd2033562911ca47"/>
+		<rom name="Dino_Darts_(Reflex)_[Dx01_100jp].jpg" size="1385268" crc="e58208d0" sha1="e98888963328f66db8a7a1c580d67bd9a9b15cf9"/>
+		<rom name="Dino_Darts_(Reflex)_[Dx01_100jp].ram" size="65536" crc="99c15aac" sha1="d94976a87956eeac8bfb44fd444937dc424df3cf"/>
+		<rom name="Dino_Darts_(Reflex)_[Dx01_100jp].txt" size="899" crc="67608fba" sha1="666e90259d9e3bfe6776cfeb9ce0bf1aeba1a62c"/>
+	</game>
+	<game name="Don Deal Club, The (Reflex) [c]">
+		<rom name="CDONDEAL_1.bin" size="1048576" crc="2a1736dd" sha1="df1de57131d0d2e7e759a0ca46d63f7e9ff238c6"/>
+		<rom name="CDONDEAL_2.bin" size="1048576" crc="f54665c3" sha1="0620ac8e19c63190c534b7371e60e9a924c59514"/>
+		<rom name="Don_Deal_Club,_The_(Reflex)_[Dx01_250jp]_[c].eep" size="512" crc="31d0c394" sha1="e5c72d0dd2d93368fae1551ddccc2ba50f7fc4f5"/>
+		<rom name="Don_Deal_Club,_The_(Reflex)_[Dx01_250jp]_[c].fml" size="4898856" crc="9c75d656" sha1="b15d869a985bf5538c519d3d040fade12f4e5530"/>
+		<rom name="Don_Deal_Club,_The_(Reflex)_[Dx01_250jp]_[c].gam" size="680" crc="fc6de53d" sha1="812277a2cdb76605d4ce9a78d2274cd4c2add5bb"/>
+		<rom name="Don_Deal_Club,_The_(Reflex)_[Dx01_250jp]_[c].jpg" size="177151" crc="5b2ac413" sha1="b89f46928f98a13e100699186f9837ca2eea0204"/>
+		<rom name="Don_Deal_Club,_The_(Reflex)_[Dx01_250jp]_[c].ram" size="65536" crc="412aecce" sha1="fade70f63a61c7c6366794ca8f021fc873ebbb85"/>
+		<rom name="Don_Deal_Club,_The_(Reflex)_[Dx01_250jp]_[c].txt" size="660" crc="d22e86a5" sha1="c71f3e693f7fe199ee6d0ebbe4f14a24b8abfc06"/>
+		<rom name="mClubTheDonDealTEST10_padded.high" size="524288" crc="16fcda82" sha1="1dc891dec74585ff532503e94881c389cb7adb1c"/>
+		<rom name="mClubTheDonDealTEST10_padded.low" size="524288" crc="c1715573" sha1="ea9a17bda355dd928ff9d53b2a606d374d4a2a9f"/>
+	</game>
+	<game name="Don Deal, The (Reflex)">
+		<rom name="dondeal_1.bin" size="1048576" crc="550e2742" sha1="adf567b6b21388a1bf5b4049dfa84b460a8dad39"/>
+		<rom name="dondeal_2.bin" size="1048576" crc="9d0e7b06" sha1="dad16a278660169c52bad0c99e49757852c83546"/>
+		<rom name="mpthedondeal11.high" size="524288" crc="32be52f6" sha1="6e71e3f2415a9fa896a9b0bf63fac17a56a20bf2"/>
+		<rom name="mpthedondeal11.low" size="524288" crc="56943bfe" sha1="d32a419f600828f37286af67e711ba90cfc688a6"/>
+		<rom name="mthedondeal11.high" size="524288" crc="d8f8d078" sha1="e65de577d065b4b52bd8cb7d06e19d1ba9581375"/>
+		<rom name="mthedondeal11.low" size="524288" crc="a0ecaf73" sha1="b21077f2230d2332e7e2bb50e9b1150f75313615"/>
+		<rom name="mthedondeal12.rgf" size="4194304" crc="45e2eb67" sha1="8a7caa23a88af900e10b149165e797c1601d9a62"/>
+		<rom name="mTheDonDealTEST11_padded.high" size="524288" crc="d8f8d078" sha1="e65de577d065b4b52bd8cb7d06e19d1ba9581375"/>
+		<rom name="mTheDonDealTEST11_padded.low" size="524288" crc="a0ecaf73" sha1="b21077f2230d2332e7e2bb50e9b1150f75313615"/>
+		<rom name="mthedondealtest12.rgf" size="4194304" crc="45e2eb67" sha1="8a7caa23a88af900e10b149165e797c1601d9a62"/>
+		<rom name="The_Don_Deal_(Reflex)_[Dx01_100jp].eep" size="512" crc="472bfe90" sha1="04749b6cea1f99e302b9e5a0868220c27cb640ad"/>
+		<rom name="The_Don_Deal_(Reflex)_[Dx01_100jp].fml" size="5065908" crc="2f534012" sha1="c0623f2b8ac1cfa0d52e527a1dec57fbd38f431c"/>
+		<rom name="The_Don_Deal_(Reflex)_[Dx01_100jp].gam" size="592" crc="0e10cf21" sha1="1e75645d8ef473fc751496c6041a48a3b37a2369"/>
+		<rom name="The_Don_Deal_(Reflex)_[Dx01_100jp].jpg" size="203447" crc="1262e91a" sha1="7ce75e79b4957147d8df05dc24a492c6c60847af"/>
+		<rom name="The_Don_Deal_(Reflex)_[Dx01_100jp].ram" size="65536" crc="ef6d06b9" sha1="7e21fac9eaa34087d61a03c2986296a01c8c6c44"/>
+		<rom name="The_Don_Deal_(Reflex)_[Dx01_100jp].txt" size="449" crc="23983c71" sha1="76afd43e308a66eddc4dd23947e633f66885246f"/>
+	</game>
+	<game name="Double Agent (Reflex)">
+		<rom name="boot.bin" size="7508" crc="f3c57c51" sha1="dd757a7082a3b3a440b72cd17a65e8f21556865a"/>
+		<rom name="boota.bin" size="7508" crc="f3c57c51" sha1="dd757a7082a3b3a440b72cd17a65e8f21556865a"/>
+		<rom name="Double_Agent_(Reflex)_[Dx01_100jp].eep" size="512" crc="78146126" sha1="646599c862c946e68a3d2ade42b9eda4f3fae863"/>
+		<rom name="Double_Agent_(Reflex)_[Dx01_100jp].fml" size="11381096" crc="1e991454" sha1="0b6313a7ca12b50089cfa72a00cf1e6f9b681ba1"/>
+		<rom name="Double_Agent_(Reflex)_[Dx01_100jp].gam" size="596" crc="590647ed" sha1="2eb5450b4ac9e700088fb9c7e72323763fd665d9"/>
+		<rom name="Double_Agent_(Reflex)_[Dx01_100jp].jpg" size="273561" crc="2779b118" sha1="1f5d3c6b0a036bc88af90feadafe9bd3f1328156"/>
+		<rom name="Double_Agent_(Reflex)_[Dx01_100jp].ram" size="65536" crc="f2c2ef78" sha1="66747271272eaacb08bedb5ebbc90f6a52536222"/>
+		<rom name="Double_Agent_(Reflex)_[Dx01_100jp].txt" size="453" crc="5f992226" sha1="909fdac71375bfed8aa1d9f0c613b30f2a05e58a"/>
+		<rom name="DoubleAgent_SND_1.bin" size="1048576" crc="c9a27c24" sha1="47afa0f19fa70bbf4e6a8e0213aa5f49877d702b"/>
+		<rom name="DoubleAgent_SND_2.bin" size="1048576" crc="fe50d86f" sha1="02757d0ad69a250319c274c595f47575fced7204"/>
+		<rom name="doubleagentm.high" size="524288" crc="7e0f776c" sha1="90b819e6ee6905a75ece3e55aa63da3957234960"/>
+		<rom name="doubleagentm.low" size="524288" crc="b52f832f" sha1="a26a701b6008890bb5840997819a607b9f492f8e"/>
+		<rom name="doubleagentp.high" size="524288" crc="af1ccc0b" sha1="6efc5069fd3474c1e1f0345a7fd2f9e511f09dc7"/>
+		<rom name="doubleagentp.low" size="524288" crc="d36ef04c" sha1="17735658c347d154135988e81f1347b089a54132"/>
+		<rom name="game.bin" size="524288" crc="ed2493c8" sha1="66da3e0fd18cfcd09ed3856f68cc492576074827"/>
+		<rom name="gamea.bin" size="524288" crc="ed2493c8" sha1="66da3e0fd18cfcd09ed3856f68cc492576074827"/>
+		<rom name="main.bin" size="2038146" crc="749fe6b3" sha1="e2564b608ba329fb79e5a2faa116f8448fc4db96"/>
+		<rom name="maina.bin" size="2038146" crc="26b5a665" sha1="3bd19c1886052e4a2244a8548dea36df50415878"/>
+		<rom name="mDoubleAgent_100TEST15_padded.high" size="524288" crc="7e0f776c" sha1="90b819e6ee6905a75ece3e55aa63da3957234960"/>
+		<rom name="mDoubleAgent_100TEST15_padded.low" size="524288" crc="b52f832f" sha1="a26a701b6008890bb5840997819a607b9f492f8e"/>
+	</game>
+	<game name="Double Agent Club (Reflex) [c]">
+		<rom name="Club_Double_Agent_(Reflex)_[Dx01_250jp].eep" size="512" crc="ee6b87a2" sha1="60510468b723c7395109909b2b53396949dd131d"/>
+		<rom name="Club_Double_Agent_(Reflex)_[Dx01_250jp].fml" size="10601769" crc="1b1c07c2" sha1="fbd44416ddbb639e8cd9fdcb617b7c0c173aa079"/>
+		<rom name="Club_Double_Agent_(Reflex)_[Dx01_250jp].gam" size="574" crc="6bd27955" sha1="e52ed053c3dae18fd3e9ee42979ea4d77557195d"/>
+		<rom name="Club_Double_Agent_(Reflex)_[Dx01_250jp].jpg" size="360555" crc="4af4882a" sha1="ced5bff5e1e3de50488f6875f4bc3f1af8db1cd1"/>
+		<rom name="Club_Double_Agent_(Reflex)_[Dx01_250jp].pdf" size="289444" crc="5a031f43" sha1="676c1d06c8df4943416f292d2ed932dcd7a25b27"/>
+		<rom name="Club_Double_Agent_(Reflex)_[Dx01_250jp].ram" size="65536" crc="26087eeb" sha1="05fb9d6c2d38fbe5fb895aff2f280419e728ae3b"/>
+		<rom name="Club_Double_Agent_(Reflex)_[Dx01_250jp].txt" size="652" crc="57a6ba5d" sha1="374ad9a1d626e5fbccb8b0091a51ff20d303bc33"/>
+		<rom name="clubdagent_1.bin" size="1048576" crc="c3aefc40" sha1="e2041555a636bf8ae6c544165e03c1128d88fc35"/>
+		<rom name="clubdagent_2.bin" size="1048576" crc="1d5e6e9e" sha1="20fc15fef75bf0f7ad93580050146feffbe9b68f"/>
+		<rom name="mclubdoubleagent10.high" size="524288" crc="159cd279" sha1="b07c5353da25f308d0f23756314c2d230b90997f"/>
+		<rom name="mclubdoubleagent10.low" size="524288" crc="bb346dd5" sha1="8358325e48695ec0788583077f2192f122175234"/>
+		<rom name="mClubDoubleAgentTEST10_padded.high" size="524288" crc="159cd279" sha1="b07c5353da25f308d0f23756314c2d230b90997f"/>
+		<rom name="mClubDoubleAgentTEST10_padded.low" size="524288" crc="bb346dd5" sha1="8358325e48695ec0788583077f2192f122175234"/>
+		<rom name="mpclubdoubleagent10.high" size="524288" crc="b1e14b16" sha1="2941b1f821f47a82f317de99c2731fe306658103"/>
+		<rom name="mpclubdoubleagent10.low" size="524288" crc="e6bae1c1" sha1="76a6c8555cc6e4237ea8074056acdac1a17b474e"/>
+	</game>
+	<game name="Drac in the Box (Reflex)">
+		<rom name="Drac_in_the_Box_(Reflex)_[Dx01_100jp].eep" size="512" crc="65c0ee2d" sha1="eb0cf94bbf48d5544f8e2e59666dd9ad21b76a5d"/>
+		<rom name="Drac_in_the_Box_(Reflex)_[Dx01_100jp].fml" size="6230876" crc="48559cec" sha1="30021fd61deb7b8c5cab6c5942f81547f93e4f81"/>
+		<rom name="Drac_in_the_Box_(Reflex)_[Dx01_100jp].gam" size="632" crc="0eb0c9d1" sha1="d335efa06be0f85cf3f0b0ded2393f870ac2f599"/>
+		<rom name="Drac_in_the_Box_(Reflex)_[Dx01_100jp].jpg" size="179737" crc="0bdf334c" sha1="87ec76d574f59991eb809251691f67d475fb49ae"/>
+		<rom name="Drac_in_the_Box_(Reflex)_[Dx01_100jp].ram" size="65536" crc="33ae6bce" sha1="4bbde783a06f123bcb404551951118a91afec831"/>
+		<rom name="Drac_in_the_Box_(Reflex)_[Dx01_100jp].txt" size="228" crc="4d858664" sha1="10dd88e59e289dc924a5a6f3c1c2b84908c4df13"/>
+		<rom name="DRACBOX_1.bin" size="1048576" crc="06302ef6" sha1="8cc4400bef45b56e4eaa91c61434c68bf1e34212"/>
+		<rom name="DRACBOX_2.bin" size="1048576" crc="26436826" sha1="b48e803333d3336cfd247a602b563303524877b2"/>
+		<rom name="mDracInTheBoxTEST10_padded.high" size="524288" crc="2b63deff" sha1="4fdd90903711dc98bf821aac02f374e2f8d6d89c"/>
+		<rom name="mDracInTheBoxTEST10_padded.low" size="524288" crc="7d0675d7" sha1="49de96b06fded614f6a78293dfbdacf2b04114c7"/>
+	</game>
+	<game name="Each Way Nudger Deluxe (Reflex)">
+		<rom name="Each_Way_Nudger_Deluxe_(Reflex)_[Dx01_5jp].eep" size="8192" crc="28bcc385" sha1="2cb0ee9d7e85bfe4192af00d22751bda9be79a5a"/>
+		<rom name="Each_Way_Nudger_Deluxe_(Reflex)_[Dx01_5jp].fml" size="2367417" crc="defc5e86" sha1="c82dc29c84691e4f7f8d14a02d41f8e7eb7142be"/>
+		<rom name="Each_Way_Nudger_Deluxe_(Reflex)_[Dx01_5jp].gam" size="431" crc="c81d0fd6" sha1="4bd1ff226909f6c0b57747cc463419b5cf279617"/>
+		<rom name="Each_Way_Nudger_Deluxe_(Reflex)_[Dx01_5jp].jpg" size="312552" crc="63c355b9" sha1="c9652c668d821090699b7504130cb2ad1ce314fd"/>
+		<rom name="Each_Way_Nudger_Deluxe_(Reflex)_[Dx01_5jp].ram" size="65536" crc="494c481b" sha1="4cb834f27862f09839f0ef259d995bde73c622c3"/>
+		<rom name="Each_Way_Nudger_Deluxe_(Reflex)_[Dx01_5jp].txt" size="150" crc="c3d921e8" sha1="12f8dac023a0dc87586edd6d09f430ba8973344a"/>
+		<rom name="EACHWAY_1.bin" size="651133" crc="b98e5569" sha1="c0e3fb2b0b8837546bac87d05e03eefb8b559bf1"/>
+		<rom name="mEACHWAYTEST21_padded.high" size="524288" crc="70c2c479" sha1="8bc89c838b0e2d1314b6d83f24c3bfe5a845a122"/>
+		<rom name="mEACHWAYTEST21_padded.low" size="524288" crc="92aa85df" sha1="c41a03a03b9a2cead7db064e3da09f1c0fe2d58e"/>
+	</game>
+	<game name="Eastern Promise (Reflex)">
+		<rom name="eastern_1.bin" size="1048576" crc="0daab7ed" sha1="7c5b52d1602c32aaf596ab839894fb6124f0685c"/>
+		<rom name="eastern_2.bin" size="1048576" crc="f71be0c8" sha1="e8eeaa1b66c71e236e7906bc9eda72826e4c39b1"/>
+		<rom name="Eastern_Promise_(Reflex)_[Dx01_100jp].eep" size="512" crc="07d5c145" sha1="63b59f426c529bd6a6d001b8482c161397de81de"/>
+		<rom name="Eastern_Promise_(Reflex)_[Dx01_100jp].fml" size="10898692" crc="068d6f73" sha1="a340f31f320e5e374f8db71cfe2bdc9631d9a5c0"/>
+		<rom name="Eastern_Promise_(Reflex)_[Dx01_100jp].gam" size="558" crc="f136f42c" sha1="8f760c5eef3300f50494d6c16d75eb094ac00ac6"/>
+		<rom name="Eastern_Promise_(Reflex)_[Dx01_100jp].jpg" size="280424" crc="ac6a68b1" sha1="47f2167e225f3c6e86d5707c225c8e42f05a0f56"/>
+		<rom name="Eastern_Promise_(Reflex)_[Dx01_100jp].ram" size="65536" crc="192c7dae" sha1="a99d0e469f07e4f685619084c35467e61b4858eb"/>
+		<rom name="Eastern_Promise_(Reflex)_[Dx01_100jp].txt" size="313" crc="d0171c6f" sha1="a24711c5b1ce7669102aba3454945a3d759a7f95"/>
+		<rom name="easternpromise.high" size="524288" crc="c5cae4ca" sha1="d328a26f3887dadc37f1ff2f363734743d7ceb46"/>
+		<rom name="easternpromise.low" size="524288" crc="8fb7b79a" sha1="82ca032767be91171e0993ba25618624234ef84c"/>
+		<rom name="mEasternPromiseTEST12_padded.high" size="524288" crc="c5cae4ca" sha1="d328a26f3887dadc37f1ff2f363734743d7ceb46"/>
+		<rom name="mEasternPromiseTEST12_padded.low" size="524288" crc="8fb7b79a" sha1="82ca032767be91171e0993ba25618624234ef84c"/>
+	</game>
+	<game name="Einstein&apos;s Genius Jackpots (Reflex)">
+		<rom name="Einstein&apos;s_Genius_Jackpots_(Reflex)_[Dx01_100jp].eep" size="512" crc="cab53e5e" sha1="469784c7427e1c6ab53a53bc42317aa41ef2cc5c"/>
+		<rom name="Einstein&apos;s_Genius_Jackpots_(Reflex)_[Dx01_100jp].fml" size="7693591" crc="dca4d2d3" sha1="80e90eb0fa93065a46d63537a7c4946346fc61d8"/>
+		<rom name="Einstein&apos;s_Genius_Jackpots_(Reflex)_[Dx01_100jp].gam" size="684" crc="1755b002" sha1="3f713e6ab247687f8384f7f9a29e504e5ecf0564"/>
+		<rom name="Einstein&apos;s_Genius_Jackpots_(Reflex)_[Dx01_100jp].jpg" size="214798" crc="d9215b75" sha1="1031dae564f8ae4a07e30cbbdac34c6d903de8a2"/>
+		<rom name="Einstein&apos;s_Genius_Jackpots_(Reflex)_[Dx01_100jp].ram" size="65536" crc="03ce9a88" sha1="4acdfa06655ee90b6c2ead169d133a42aff8f91f"/>
+		<rom name="Einstein&apos;s_Genius_Jackpots_(Reflex)_[Dx01_100jp].txt" size="660" crc="d22e86a5" sha1="c71f3e693f7fe199ee6d0ebbe4f14a24b8abfc06"/>
+		<rom name="EINSTEIN_1.bin" size="1048576" crc="73c8f219" sha1="6cdcec8b98abca260eefcca337ef889ca0e7db41"/>
+		<rom name="EINSTEIN_2.bin" size="1048576" crc="da2e405f" sha1="18d01ec9759f4088db1bcbe49793156f89061ed4"/>
+		<rom name="mEinsteinGeniusJackpotsTEST10_padded.high" size="524288" crc="8a59a50b" sha1="002eb379b2482ecadfabf0ab816b700c40c3ef48"/>
+		<rom name="mEinsteinGeniusJackpotsTEST10_padded.low" size="524288" crc="e94a0fbc" sha1="7f7fdfec629cadf6e50ae81511bc4061ed1fb0f9"/>
+	</game>
+	<game name="Fiddle A Fortune (Reflex)">
+		<rom name="Fiddle_A_Fortune_(Reflex)_[C01_100jp].eep" size="512" crc="441f28aa" sha1="8d6039d407ef7401801dd522db6ef5bb6a1da9fd"/>
+		<rom name="Fiddle_A_Fortune_(Reflex)_[C01_100jp].fml" size="1977746" crc="08a90e18" sha1="6b8b54bf6618e9b76f7b3aa0ecddf5b8ceccb76e"/>
+		<rom name="Fiddle_A_Fortune_(Reflex)_[C01_100jp].gam" size="479" crc="7c1ea335" sha1="b1c87ed790f8137a65cfda1636a613f9ca991fb7"/>
+		<rom name="Fiddle_A_Fortune_(Reflex)_[C01_100jp].jpg" size="280133" crc="2cc9e549" sha1="baefddb2784c78b5100165f2849e7b9ef34410bc"/>
+		<rom name="Fiddle_A_Fortune_(Reflex)_[C01_100jp].ram" size="65536" crc="8aaacdc6" sha1="3804c0704767393f15f5ccd6fb4f08a9bce488b8"/>
+		<rom name="Fiddle_A_Fortune_(Reflex)_[C01_100jp].txt" size="358" crc="1a836842" sha1="c1f299f6682e919282776d85dc34b6d942a3bcc1"/>
+		<rom name="Fiddle_A_Fortune_(Reflex)_[Dx01_100jp].eep" size="512" crc="441f28aa" sha1="8d6039d407ef7401801dd522db6ef5bb6a1da9fd"/>
+		<rom name="Fiddle_A_Fortune_(Reflex)_[Dx01_100jp].fml" size="9849655" crc="9ebfdc30" sha1="393c81cdbf650ceb15a885677fa9437bd7e2d2c8"/>
+		<rom name="Fiddle_A_Fortune_(Reflex)_[Dx01_100jp].gam" size="496" crc="a037f4da" sha1="7261f9673123c171cc660ae6b6f6503c15305b87"/>
+		<rom name="Fiddle_A_Fortune_(Reflex)_[Dx01_100jp].jpg" size="278123" crc="e47f9a5d" sha1="8f7519e74a68d6ede24afc7ce63bd7faaba8aa27"/>
+		<rom name="Fiddle_A_Fortune_(Reflex)_[Dx01_100jp].ram" size="65536" crc="1ecabaf5" sha1="732573605742465a333d28f1f865bac6f77a2dcd"/>
+		<rom name="Fiddle_A_Fortune_(Reflex)_[Dx01_100jp].txt" size="1195" crc="decc6c7f" sha1="67789c0feacda5a37712cfe34fbedfde5bfaf0b1"/>
+		<rom name="llfiddle.high" size="524288" crc="39cbbfd9" sha1="3e122964e2deb507c9656d5939a1fac72591a7c7"/>
+		<rom name="llfiddle.low" size="524288" crc="b0977f12" sha1="e08c3d3ed2697672e3bf8b02179c81810c1553af"/>
+		<rom name="llfiddle_1.bin" size="1048576" crc="a13251b4" sha1="e47207ae2fc05f4cf6227f704f69d6fbcac0494a"/>
+		<rom name="llfiddle_2.bin" size="1048576" crc="7e9684e1" sha1="db6a226a554b5b4e07d2167e73693a9e4b62e18a"/>
+		<rom name="mFiddleAFortuneS5_100TEST15_padded.high" size="524288" crc="39cbbfd9" sha1="3e122964e2deb507c9656d5939a1fac72591a7c7"/>
+		<rom name="mFiddleAFortuneS5_100TEST15_padded.low" size="524288" crc="b0977f12" sha1="e08c3d3ed2697672e3bf8b02179c81810c1553af"/>
+	</game>
+	<game name="Fiddle A Fortune Club (Reflex) [c]">
+		<rom name="cllfaf_1.bin" size="1048576" crc="81a06d23" sha1="ef64b9c3d5e615fac436eaed0a2014785a4a148d"/>
+		<rom name="cllfaf_2.bin" size="1048576" crc="bca2cdc0" sha1="b667b9280d5fdc9865b0bf68793ed3ef7ba88b60"/>
+		<rom name="clubfiddleafortune.high" size="524288" crc="56d2a340" sha1="49cc4c77d4090067cc50d3838311820b7e619c78"/>
+		<rom name="clubfiddleafortune.low" size="524288" crc="084a1820" sha1="524a89d5984b0fd7b870cc8d4474d157b73b4c39"/>
+		<rom name="Fiddle_A_Fortune_Club_(Reflex)_[Dx01_400jp]_[c].eep" size="512" crc="bc4b8193" sha1="306360f4be8bddd9b849ddad4560f5b00ccb84df"/>
+		<rom name="Fiddle_A_Fortune_Club_(Reflex)_[Dx01_400jp]_[c].fml" size="11217246" crc="ae7f0bc4" sha1="8d1b9578d4f588fd2229f0d42b09f8df53a41f93"/>
+		<rom name="Fiddle_A_Fortune_Club_(Reflex)_[Dx01_400jp]_[c].gam" size="512" crc="27994dcc" sha1="ed3b634e1a30ea7f6fe0d87b7649df3accfd7da5"/>
+		<rom name="Fiddle_A_Fortune_Club_(Reflex)_[Dx01_400jp]_[c].jpg" size="257642" crc="51b8b861" sha1="c4288ecd3185b33c6cf9a1c602a742869ed29435"/>
+		<rom name="Fiddle_A_Fortune_Club_(Reflex)_[Dx01_400jp]_[c].ram" size="65536" crc="760a2d87" sha1="4684c0a1eee4e72afce987b242d2b228dfb6ef7f"/>
+		<rom name="Fiddle_A_Fortune_Club_(Reflex)_[Dx01_400jp]_[c].txt" size="306" crc="2cde23fc" sha1="efe987d8184948204c9195c1be39a57550080329"/>
+		<rom name="mclubfiddleafortune.high" size="524288" crc="56d2a340" sha1="49cc4c77d4090067cc50d3838311820b7e619c78"/>
+		<rom name="mclubfiddleafortune.low" size="524288" crc="084a1820" sha1="524a89d5984b0fd7b870cc8d4474d157b73b4c39"/>
+	</game>
+	<game name="Flamin&apos; 400 (Reflex) [c]">
+		<rom name="Flamin&apos;_400_(Reflex)_[Dx01_400jp]_[c].eep" size="512" crc="660704f8" sha1="476ac51b9196002451bbb412421f7e26f4e907e2"/>
+		<rom name="Flamin&apos;_400_(Reflex)_[Dx01_400jp]_[c].fml" size="8519411" crc="c838c64b" sha1="bbcd6b4859411938615f5fb877ee6e23abccc83d"/>
+		<rom name="Flamin&apos;_400_(Reflex)_[Dx01_400jp]_[c].gam" size="512" crc="82eccce3" sha1="f2e93c931e5376041e15f49b7c5bb05b564ffafe"/>
+		<rom name="Flamin&apos;_400_(Reflex)_[Dx01_400jp]_[c].jpg" size="309676" crc="385f454f" sha1="370948512b7f301770df1c252cfb3071c9cbe6c9"/>
+		<rom name="Flamin&apos;_400_(Reflex)_[Dx01_400jp]_[c].ram" size="65536" crc="58a81033" sha1="06a6d3fad6ad4a802d2a7dd7e66cf3b6d74651af"/>
+		<rom name="Flamin&apos;_400_(Reflex)_[Dx01_400jp]_[c].txt" size="201" crc="e523fdcc" sha1="a05d06d4096e55fc5ee630015ffe793d310b445e"/>
+		<rom name="flamin400_1.bin" size="1048576" crc="4c3f98a9" sha1="e2db038177ad87c76811398d0e05f0047d1fc9d5"/>
+		<rom name="mclubflamin400test10_padded.high" size="524288" crc="bac6d58f" sha1="cc7e3a46a60b49bb490d97bbbdb504dff5509de2"/>
+		<rom name="mclubflamin400test10_padded.low" size="524288" crc="cc181184" sha1="d1b474d47f75ec7f446c40c746e0cefed9751247"/>
+	</game>
+	<game name="Fortune 500 (Reflex) [c]">
+		<rom name="fortune500-hi.bin" size="524288" crc="c716e4ab" sha1="17a3df2cf4be80ecf91f1c9b1cfbf4be424ae7ad"/>
+		<rom name="fortune500-lo.bin" size="524288" crc="60293f98" sha1="eb28caf86da47bf66a7e59d1dbf717f0da46b650"/>
+		<rom name="fortune500-snd.bin" size="1048576" crc="ec60333f" sha1="8fad0d7d66c1ea762cf9642573ad294389d1f9ef"/>
+		<rom name="Fortune_500_(Reflex)_[C01_500jp]_[c].fml" size="270265" crc="54084f77" sha1="933fb9c15150e19bea32bf5a2dce8c711f543b3b"/>
+		<rom name="Fortune_500_(Reflex)_[C01_500jp]_[c].gam" size="428" crc="253c1624" sha1="51b982ad172d3f397db8ae7e45b8b288319cf21e"/>
+		<rom name="Fortune_500_(Reflex)_[C01_500jp]_[c].jpg" size="37009" crc="befd630e" sha1="1e6311aff225436e682d781c2b06ba57b9b04a39"/>
+		<rom name="Fortune_500_(Reflex)_[C01_500jp]_[c].ram" size="65536" crc="e28d64db" sha1="4fca234003728e782d55d52b383c5a80d1d674c0"/>
+		<rom name="Fortune_500_(Reflex)_[Dx01_500jp]_[c].fml" size="7190485" crc="a523067f" sha1="110b2bc9305a08c4f0c8b4d8140699424698f6b0"/>
+		<rom name="Fortune_500_(Reflex)_[Dx01_500jp]_[c].gam" size="427" crc="479cbfdc" sha1="f6223fa113cc70928975b0316953b644ad2e2b0e"/>
+		<rom name="Fortune_500_(Reflex)_[Dx01_500jp]_[c].jpg" size="32183" crc="e5955cc3" sha1="9d12ab6207333de85694f5307af3a2a9b87cc68b"/>
+		<rom name="Fortune_500_(Reflex)_[Dx01_500jp]_[c].ram" size="65536" crc="3b52e156" sha1="e2d243b1d88b5943e8fe2c7dcd4e44c908b6bada"/>
+	</game>
+	<game name="Freezy Money (Reflex)">
+		<rom name="Freezy_Money_(Reflex)_[Dx01_100jp].eep" size="512" crc="52882b2c" sha1="7dfdbe2f163b593655a9b6b3970ae8f05bbe908b"/>
+		<rom name="Freezy_Money_(Reflex)_[Dx01_100jp].fml" size="5713070" crc="7fad0a45" sha1="9a1b79e0457ec1e67335ce209bad6e9a7d6da1e9"/>
+		<rom name="Freezy_Money_(Reflex)_[Dx01_100jp].gam" size="747" crc="fceed5ab" sha1="a3b01e73e90755efd0b9703753e9b2abe5813cce"/>
+		<rom name="Freezy_Money_(Reflex)_[Dx01_100jp].jpg" size="277970" crc="13512a73" sha1="066d2933cf308dd4d65a402b188bc8600dd87216"/>
+		<rom name="Freezy_Money_(Reflex)_[Dx01_100jp].ram" size="65536" crc="31ab5e2c" sha1="72a594800f04317f162d22aa97776bdc7d8c62a6"/>
+		<rom name="Freezy_Money_(Reflex)_[Dx01_100jp].txt" size="399" crc="1a7f3f36" sha1="69db240142f148518130aa638d709919306a8824"/>
+		<rom name="freezymoney_game_hi_M27C4001.BIN" size="524288" crc="5c0b917c" sha1="d81fbfbd17603018d1e36ca867512bb32e0e4e86"/>
+		<rom name="freezymoney_game_lo_M27C4001.BIN" size="524288" crc="46ffce23" sha1="e225e9e4e3252c2163bd519f51bd627a13d7db59"/>
+		<rom name="freezymoney_sound_1_M27C801.BIN" size="1048576" crc="4db8ea57" sha1="2782bc23d06888729f1f0c8d7ecefecc76a89079"/>
+		<rom name="freezymoney_sound_2_M27C801.BIN" size="1048576" crc="e9ad9c61" sha1="337128f626d358c46810f9454dded4e8b4d3a867"/>
+	</game>
+	<game name="Galloping Jackpots (Reflex)">
+		<rom name="Galloping_Jackpots_(Reflex)_[Dx01_100jp].eep" size="512" crc="9913bc64" sha1="1a74bd538d473970be1938bca277e298fa136950"/>
+		<rom name="Galloping_Jackpots_(Reflex)_[Dx01_100jp].fml" size="11458571" crc="353885f2" sha1="0db737ffd5126e62df49ebd972c4f65675b983c0"/>
+		<rom name="Galloping_Jackpots_(Reflex)_[Dx01_100jp].gam" size="597" crc="475e98bf" sha1="a1e33e5cc2e9f60363fe8fa97941ad85cb843e72"/>
+		<rom name="Galloping_Jackpots_(Reflex)_[Dx01_100jp].jpg" size="321266" crc="acb7bbcf" sha1="e5fdcc9c20f67775420f7a665b3a6c8b47a4a2d2"/>
+		<rom name="Galloping_Jackpots_(Reflex)_[Dx01_100jp].ram" size="65536" crc="748980db" sha1="cb61297fa170ccbf40237edcb962d8da06945fbf"/>
+		<rom name="Galloping_Jackpots_(Reflex)_[Dx01_100jp].txt" size="446" crc="81989574" sha1="5aad25a5a6b0d2a8823b9fbc31f683c610a9f707"/>
+		<rom name="gallopingjackpots100.high" size="524288" crc="188a2ce6" sha1="37530e675827686199156fcdb575047887a76e04"/>
+		<rom name="gallopingjackpots100.low" size="524288" crc="1bfa7ffb" sha1="36399f16928e5bee66eced160e6f22a73fd4e0a2"/>
+		<rom name="gallopjack_1.bin" size="1048576" crc="e5d3221a" sha1="4eef390e9de7d45c87dcfed2253720e8efaaf8f6"/>
+		<rom name="gallopjack_2.bin" size="1048576" crc="ec8e160d" sha1="19a53dd6897bf4fd0099261043d92595785e585d"/>
+		<rom name="mGallopingJackpots100TEST12_padded.high" size="524288" crc="188a2ce6" sha1="37530e675827686199156fcdb575047887a76e04"/>
+		<rom name="mGallopingJackpots100TEST12_padded.low" size="524288" crc="1bfa7ffb" sha1="36399f16928e5bee66eced160e6f22a73fd4e0a2"/>
+	</game>
+	<game name="Galloping Jackpots Club (Reflex) [c]">
+		<rom name="clubgallop_1.bin" size="1048576" crc="57876df6" sha1="4a3406870fab078687fc433dfdb7d0507fbadbed"/>
+		<rom name="clubgallop_2.bin" size="1048576" crc="820b39aa" sha1="4353820c9b90a1c5b1fcf43f982d83d42e3b5d97"/>
+		<rom name="Galloping_Jackpots_(Reflex)_[Dx01_400jp].eep" size="8192" crc="ea4114a2" sha1="c1989a046abbdf3ca91f95aa809c071f9597f5e7"/>
+		<rom name="Galloping_Jackpots_(Reflex)_[Dx01_400jp].fml" size="10806960" crc="5f91bd2f" sha1="c91e731fd28e39333b671c576a7cb4d8ca7a118d"/>
+		<rom name="Galloping_Jackpots_(Reflex)_[Dx01_400jp].gam" size="614" crc="2c4799d9" sha1="ac42b0a3085036cbcc0d0680b6f1ef1edde71b31"/>
+		<rom name="Galloping_Jackpots_(Reflex)_[Dx01_400jp].jpg" size="294136" crc="397072e5" sha1="d7aa45057dab6aa664eb5de783189c886d814a76"/>
+		<rom name="Galloping_Jackpots_(Reflex)_[Dx01_400jp].ram" size="65536" crc="c6ed25bf" sha1="6e55ba1524076e370b02e497a0c522d54d714565"/>
+		<rom name="Galloping_Jackpots_(Reflex)_[Dx01_400jp].txt" size="736" crc="df415a31" sha1="fda0589b49d9bc31ecb36dd204c13dc94f8be631"/>
+		<rom name="Happy Ram/Club Galloping Jackpots.gam" size="639" crc="96c12a4c" sha1="4bbeca54bf6cdc72e31eb9eba76156924985ac9c"/>
+		<rom name="Happy Ram/Club Galloping Jackpots.ram" size="65536" crc="5155c0ea" sha1="9a59ff4c44a0a42060407701d25a520cc2dffe8e"/>
+		<rom name="mclubgallopingjp.high" size="524288" crc="5b7d3357" sha1="90f1430bcd40681b3f502540e29fa4bb83a74199"/>
+		<rom name="mclubgallopingjp.low" size="524288" crc="a7228e48" sha1="1001aaf46157e935c04cc25100698cd2c3630346"/>
+		<rom name="mCLUBGALLOPINGJP_400TEST11_padded.high" size="524288" crc="5b7d3357" sha1="90f1430bcd40681b3f502540e29fa4bb83a74199"/>
+		<rom name="mCLUBGALLOPINGJP_400TEST11_padded.low" size="524288" crc="a7228e48" sha1="1001aaf46157e935c04cc25100698cd2c3630346"/>
+		<rom name="mpclubgallopingjp.high" size="524288" crc="268af583" sha1="e1a9d1e120250bc48354ef15d9c370ad02cf9548"/>
+		<rom name="mpclubgallopingjp.low" size="524288" crc="259b736f" sha1="dd0d5964204189759fd851240bdc34ea983fc025"/>
+		<rom name="RED-BLUE LAMPS/BONUS BOTTOM.bmp" size="20422" crc="f7e56cbc" sha1="362d7152dcefa0f559f080724fcb46efc1562403"/>
+		<rom name="RED-BLUE LAMPS/BONUS TOP.bmp" size="22734" crc="3ccbf76d" sha1="e0addf2783f372918dfd5b62b0dd029c52fdb43f"/>
+		<rom name="RED-BLUE LAMPS/QUEST BOTTOM.bmp" size="20422" crc="0ba3fca2" sha1="169a97fb6eb1dda8158e66d7c771cdc208ae97ac"/>
+		<rom name="RED-BLUE LAMPS/QUEST TOP.bmp" size="22734" crc="d5a6bf54" sha1="8df6d32144af4ad8d45ba23ffe7a93f9b5737aca"/>
+	</game>
+	<game name="Game Of Gnomes (Reflex)">
+		<rom name="Game_Of_Gnomes_(Reflex)_[C01_100jp].eep" size="512" crc="c19b1ed5" sha1="f57403a5ae86eda0c3ef17f8eaed96a6340f68a5"/>
+		<rom name="Game_Of_Gnomes_(Reflex)_[C01_100jp].fml" size="515198" crc="f9aa8502" sha1="4f067a28a1b59504017ad3ca0e9ad49843309142"/>
+		<rom name="Game_Of_Gnomes_(Reflex)_[C01_100jp].gam" size="544" crc="2aa1ca79" sha1="ec32f912dcf133d8889e7addff7112a4bfd9342f"/>
+		<rom name="Game_Of_Gnomes_(Reflex)_[C01_100jp].jpg" size="111473" crc="575c3d19" sha1="404c54161f40ccd2e6a607897c3099577648359b"/>
+		<rom name="Game_Of_Gnomes_(Reflex)_[C01_100jp].ram" size="65536" crc="6875b616" sha1="dbe9412b7d3ea74a717fb6aa0e8e3f65a84c7508"/>
+		<rom name="Game_Of_Gnomes_(Reflex)_[C01_100jp].txt" size="412" crc="9bae8e63" sha1="87b6e844a5f9dce0ad2295e4a82901d3790c91d9"/>
+		<rom name="Game_Of_Gnomes_(Reflex)_[Dx01_100jp].eep" size="512" crc="9bff48df" sha1="81097e24c759c6a4825fbd8f938f71e83854b546"/>
+		<rom name="Game_Of_Gnomes_(Reflex)_[Dx01_100jp].fml" size="10205681" crc="52ba67bb" sha1="45d3a94affa21e069cfb66de270a1bf755745c23"/>
+		<rom name="Game_Of_Gnomes_(Reflex)_[Dx01_100jp].gam" size="559" crc="cd07d1f5" sha1="81badb76db4c13092c5470fdea7b64fe238420b0"/>
+		<rom name="Game_Of_Gnomes_(Reflex)_[Dx01_100jp].jpg" size="363548" crc="3a7b1e1c" sha1="b2e32cc2b936c210501854de1aed5aa6bee4498d"/>
+		<rom name="Game_Of_Gnomes_(Reflex)_[Dx01_100jp].ram" size="65536" crc="c1799185" sha1="57489d5694f700515af9380767d9cdf3076152b6"/>
+		<rom name="Game_Of_Gnomes_(Reflex)_[Dx01_100jp].txt" size="909" crc="f9a63849" sha1="26a70f48ea1bed8519a6deb34e30917cef4fbcbc"/>
+		<rom name="gameofgnomes.high" size="524288" crc="27a53eac" sha1="4f280465c3d43b87d1214b0e3854e125803121ec"/>
+		<rom name="gameofgnomes.low" size="524288" crc="a38c2f34" sha1="dc45e298783f8e34039ca569594182f4b5ddd6e6"/>
+		<rom name="gnomes_1.bin" size="1048576" crc="ea0a52b1" sha1="f27b6bdbca32a1480dfe01c0e4e4a2a53654fb5f"/>
+		<rom name="gnomes_2.bin" size="1048576" crc="35584b84" sha1="62af2083e9c011ce96d652134b551ba083c067ec"/>
+		<rom name="mgameofgnomestest20.rgf" size="4194304" crc="7aa87b6d" sha1="9adecb173545acb7751e3c99597ceb65ed20a379"/>
+		<rom name="mgameofgnomestest20_padded.high" size="524288" crc="27a53eac" sha1="4f280465c3d43b87d1214b0e3854e125803121ec"/>
+		<rom name="mgameofgnomestest20_padded.low" size="524288" crc="a38c2f34" sha1="dc45e298783f8e34039ca569594182f4b5ddd6e6"/>
+		<rom name="mpgameofgnomestest20_padded.high" size="524288" crc="e07a6d6c" sha1="e85de909a20de167910778fd28eac0a89c4391de"/>
+		<rom name="mpgameofgnomestest20_padded.low" size="524288" crc="a5abc722" sha1="a5766824dc909aa40bdb48bf71dd1415f0250d67"/>
+	</game>
+	<game name="Genie&apos;s Lamp (Reflex)">
+		<rom name="Genie&apos;s_Lamp_(Reflex)_[Dx01_100jp].eep" size="512" crc="4bd4652f" sha1="514155cadb8791d194af83a2bc1ecfed4b042b01"/>
+		<rom name="Genie&apos;s_Lamp_(Reflex)_[Dx01_100jp].fml" size="4796028" crc="6dfb8f58" sha1="f4f3cd83f098af9fe6c9029544cfa6fbf27f59d1"/>
+		<rom name="Genie&apos;s_Lamp_(Reflex)_[Dx01_100jp].gam" size="594" crc="aa58bc3b" sha1="6d04e996df4f08fa71c9b52d7cbeaa7db71021dc"/>
+		<rom name="Genie&apos;s_Lamp_(Reflex)_[Dx01_100jp].jpg" size="482543" crc="a56830ea" sha1="58ffdfd96269289b7406e108979887ac12acf743"/>
+		<rom name="Genie&apos;s_Lamp_(Reflex)_[Dx01_100jp].ram" size="65536" crc="3d0d3c76" sha1="9d9fc8d2fcb676d921bd1265aba60db73de72780"/>
+		<rom name="Genie&apos;s_Lamp_(Reflex)_[Dx01_100jp].txt" size="330" crc="a18ec41e" sha1="4db122bb477b52cdbd6bca71f545a708a4555a22"/>
+		<rom name="genieslamp10.high" size="524288" crc="985be8c3" sha1="758d5632d84c30ff68b97bda2ae05100da48c121"/>
+		<rom name="genieslamp10.low" size="524288" crc="ca6e15a6" sha1="8ac42ef328ae328f3da07f775a756e04a41d56ad"/>
+		<rom name="genieslamp_1.bin" size="1048576" crc="5aa6873c" sha1="10346453d5c58e3150a847d227a595686a3a254d"/>
+		<rom name="genieslamp_2.bin" size="1048576" crc="aafd10b0" sha1="daa711e36651155efe6403a6d807b900a763c178"/>
+		<rom name="mgenieslamp10.rgf" size="4194304" crc="40274826" sha1="804af1bac9f5369d0161705aad49e08910516809"/>
+		<rom name="mgenieslamptest10.rgf" size="4194304" crc="40274826" sha1="804af1bac9f5369d0161705aad49e08910516809"/>
+		<rom name="mGeniesLampTEST10_padded.high" size="524288" crc="985be8c3" sha1="758d5632d84c30ff68b97bda2ae05100da48c121"/>
+		<rom name="mGeniesLampTEST10_padded.low" size="524288" crc="ca6e15a6" sha1="8ac42ef328ae328f3da07f775a756e04a41d56ad"/>
+		<rom name="mpgenieslamp10.high" size="524288" crc="0154a053" sha1="f1df0c63fcc5026ed6e8d80c5f345951f636b7d7"/>
+		<rom name="mpgenieslamp10.low" size="524288" crc="704680b2" sha1="dab4390084f5ae92bb40c001a49b6aaa75efe2af"/>
+		<rom name="mpgenieslamp10.rgf" size="4194304" crc="2b8c5910" sha1="1adfd4956d04168775ae659e23cce35a69b7a6c4"/>
+		<rom name="mpgenieslamptest10.rgf" size="4194304" crc="2b8c5910" sha1="1adfd4956d04168775ae659e23cce35a69b7a6c4"/>
+	</game>
+	<game name="Hang Over Club (Reflex) [c]">
+		<rom name="clubhangover.high" size="524288" crc="444100ce" sha1="5ea5dede152f4184a041d596a498a328b400f784"/>
+		<rom name="clubhangover.low" size="524288" crc="9187aaf5" sha1="68f81370f8b3e7d3e878852115c6c6333ff1e233"/>
+		<rom name="clubhangover_1.bin" size="1048576" crc="e598f355" sha1="ff59854987adfafa28192795d61a5ea44eeb9d9e"/>
+		<rom name="clubhangover_2.bin" size="1048576" crc="713999ca" sha1="c121f5a92499f2b679bf524da53121d8fa05a75d"/>
+		<rom name="Hang_Over_Club_(Reflex)_[Dx01_400jp]_[c].eep" size="512" crc="770fc578" sha1="4583effb4b73391d046fcf57961f83f2b793b278"/>
+		<rom name="Hang_Over_Club_(Reflex)_[Dx01_400jp]_[c].fml" size="10527952" crc="669951ce" sha1="2b5adbf14bc808f09179ec5b935ac0f3d3f536e3"/>
+		<rom name="Hang_Over_Club_(Reflex)_[Dx01_400jp]_[c].gam" size="579" crc="2ff34603" sha1="32878378ea07f0673307bb3ddc707f1be91949cf"/>
+		<rom name="Hang_Over_Club_(Reflex)_[Dx01_400jp]_[c].jpg" size="276469" crc="aefcee50" sha1="9f3c9fb1356a166bde5825d270a1a59ecee96a31"/>
+		<rom name="Hang_Over_Club_(Reflex)_[Dx01_400jp]_[c].ram" size="65536" crc="8a1e1642" sha1="4ea0905cb86a0bdae83de6f1627f8f4e18552f46"/>
+		<rom name="Hang_Over_Club_(Reflex)_[Dx01_400jp]_[c].txt" size="302" crc="a7ef45a0" sha1="f7d5394f525adfc56e3dffe54b6d54f834a8f2f9"/>
+		<rom name="mClubHangoverTEST10_padded.high" size="524288" crc="444100ce" sha1="5ea5dede152f4184a041d596a498a328b400f784"/>
+		<rom name="mClubHangoverTEST10_padded.low" size="524288" crc="9187aaf5" sha1="68f81370f8b3e7d3e878852115c6c6333ff1e233"/>
+	</game>
+	<game name="Heist, The (Reflex)">
+		<rom name="Heist,_The_(Reflex)_[Dx01_100jp].eep" size="512" crc="c1c9f951" sha1="d2b4efe337aed2ea8bcd73d32e55d42a59580d86"/>
+		<rom name="Heist,_The_(Reflex)_[Dx01_100jp].fml" size="12505935" crc="b9d6ec6c" sha1="9ea1f29b484f0ca7d89823d01d16bcb666fbf706"/>
+		<rom name="Heist,_The_(Reflex)_[Dx01_100jp].gam" size="590" crc="09c806ad" sha1="483d0d87beb2effa65463823b2888e9fdad826c1"/>
+		<rom name="Heist,_The_(Reflex)_[Dx01_100jp].jpg" size="221622" crc="d16897f1" sha1="3977770befff7002f0a5b3c5edcb0d9d6a66a878"/>
+		<rom name="Heist,_The_(Reflex)_[Dx01_100jp].ram" size="65536" crc="ef870035" sha1="3c9987e263a0f6b5cfdcb40146cdb8ba96ce933f"/>
+		<rom name="Heist,_The_(Reflex)_[Dx01_100jp].txt" size="688" crc="1af47313" sha1="40fbfdf98f47949d2cb916b5b5db94bd997e74e5"/>
+		<rom name="mTheHeistTEST12_padded.high" size="524288" crc="1fe6d542" sha1="e675fecc30018a4e899f37c3c8adc220f1ca5e61"/>
+		<rom name="mTheHeistTEST12_padded.low" size="524288" crc="581f04fc" sha1="71c6424e97e43ecea6574f585c97d03d943db8a7"/>
+		<rom name="THEHEIST_1.bin" size="1048576" crc="75e2a943" sha1="8752c4a5741754d37780c53032d526b85b6120c0"/>
+		<rom name="THEHEIST_2.bin" size="1048576" crc="d9660b21" sha1="c630def957e2b9e7591545266d0cf66daaad97f0"/>
+	</game>
+	<game name="Hit The Dracpot (Reflex)">
+		<rom name="dracpot.high" size="524288" crc="56594161" sha1="1867cf1f2773f040004ae019f2f2adaa72487ed2"/>
+		<rom name="dracpot.low" size="524288" crc="462660ee" sha1="c23993d6c04e189e440380f98a4151f45d54c531"/>
+		<rom name="DRACPOT_1.bin" size="1048576" crc="5d7dae22" sha1="8c141dd1bb5b3e8e2d1c23d093d32a2afccf4333"/>
+		<rom name="DRACPOT_2.bin" size="1048576" crc="1fbff6c1" sha1="095bbb333d6511951c310d37fd669efedd339f29"/>
+		<rom name="dracpotsnd1.bin" size="1048576" crc="5d7dae22" sha1="8c141dd1bb5b3e8e2d1c23d093d32a2afccf4333"/>
+		<rom name="dracpotsnd2.bin" size="1048576" crc="1fbff6c1" sha1="095bbb333d6511951c310d37fd669efedd339f29"/>
+		<rom name="Hit_The_Dracpot_(Reflex)_[Dx01_100jp].eep" size="512" crc="b56e52dc" sha1="6270aa65198f42bac42f1c357a0c6ad1d8bc667f"/>
+		<rom name="Hit_The_Dracpot_(Reflex)_[Dx01_100jp].fml" size="11805544" crc="858c6263" sha1="74a7cc1c01f0464e05dbec3defee3228aa87a7fd"/>
+		<rom name="Hit_The_Dracpot_(Reflex)_[Dx01_100jp].gam" size="593" crc="cb602bb0" sha1="48621b087c6c84ae88da358e671793272486c881"/>
+		<rom name="Hit_The_Dracpot_(Reflex)_[Dx01_100jp].jpg" size="349669" crc="c7db9f76" sha1="983c318603d15ce730ce34d68925fa79f9475276"/>
+		<rom name="Hit_The_Dracpot_(Reflex)_[Dx01_100jp].ram" size="65536" crc="c5560845" sha1="f35fbc1a953eb27adb7ede87ba66768af3428432"/>
+		<rom name="Hit_The_Dracpot_(Reflex)_[Dx01_100jp].txt" size="498" crc="e3fbfc98" sha1="19ec3ad87fabc4092b9172378a8523509979beb0"/>
+		<rom name="Hit_The_Dracpot_(Reflex)_[Dx01_400jp]_[c].jpg" size="61256" crc="60ea7d91" sha1="76b5b679734ce10b270b5a55f3522ed916e2a2db"/>
+		<rom name="mHitTheDracpotS5TEST11_padded.high" size="524288" crc="56594161" sha1="1867cf1f2773f040004ae019f2f2adaa72487ed2"/>
+		<rom name="mHitTheDracpotS5TEST11_padded.low" size="524288" crc="462660ee" sha1="c23993d6c04e189e440380f98a4151f45d54c531"/>
+	</game>
+	<game name="Hit The Dracpot Club (Reflex) [c]">
+		<rom name="clubhitdpot_1.bin" size="1048576" crc="0cbf30ac" sha1="2f55bab7641967aa37db9deec65577b5ca7652af"/>
+		<rom name="clubhitdpot_2.bin" size="1048576" crc="2a6e4957" sha1="36c47e7104f989a000361b11dea1e36c2414ea95"/>
+		<rom name="Hit_The_Dracpot_(Reflex)_[Dx01_400jp]_[c].eep" size="512" crc="64afee4a" sha1="3f84e5e5b8a037b4c7e1b3d0da2f6153baab4f79"/>
+		<rom name="Hit_The_Dracpot_(Reflex)_[Dx01_400jp]_[c].fml" size="8944874" crc="171674c7" sha1="61986cbed8d646c84f25818f399ccdfeeb65e234"/>
+		<rom name="Hit_The_Dracpot_(Reflex)_[Dx01_400jp]_[c].gam" size="658" crc="74d02130" sha1="26fdb2f465f377ea336a03f1b13cfee618c6d759"/>
+		<rom name="Hit_The_Dracpot_(Reflex)_[Dx01_400jp]_[c].jpg" size="351017" crc="6e416ac5" sha1="99843c4bf3b8f453961fe55932d28a1229e824d7"/>
+		<rom name="Hit_The_Dracpot_(Reflex)_[Dx01_400jp]_[c].ram" size="65536" crc="90f9a181" sha1="af9ba4d086e2830930f70ad17437329564bc19d3"/>
+		<rom name="Hit_The_Dracpot_(Reflex)_[Dx01_400jp]_[c].txt" size="751" crc="3de511a5" sha1="0f4166810e0574812b07ecfe9261ab85daa0c735"/>
+		<rom name="mclubhitdracpottest21_padded.high" size="524288" crc="9bacccfd" sha1="2d1eb53b39e1a72a42d7b11a8f5530cdff708c6a"/>
+		<rom name="mclubhitdracpottest21_padded.low" size="524288" crc="8162c117" sha1="d13758d5f4465696f0d30e32fd5cb27276536f07"/>
+		<rom name="mpclubhitdracpot21_.high" size="524288" crc="3ee4d8ae" sha1="3cb3bf21602210b3981c20fca3f91cce7ae84ef8"/>
+		<rom name="mpclubhitdracpot21_.low" size="524288" crc="17e60871" sha1="ac4b8ae18296741dcc6be2b64a404a17f7044dc6"/>
+	</game>
+	<game name="Horn Of Plenty (Reflex)">
+		<rom name="Horn_Of_Plenty_(Reflex)_[Dx01_100jp].eep" size="512" crc="3373e3e3" sha1="a6660b57f25e4583ef546957f9949ddf06117045"/>
+		<rom name="Horn_Of_Plenty_(Reflex)_[Dx01_100jp].fml" size="10653495" crc="3910d9a1" sha1="bc093aebf831284a60e916beffdd9e90ec8521d5"/>
+		<rom name="Horn_Of_Plenty_(Reflex)_[Dx01_100jp].gam" size="539" crc="5287f832" sha1="db996adce79ac2222d814dc294af407a072d4b2f"/>
+		<rom name="Horn_Of_Plenty_(Reflex)_[Dx01_100jp].jpg" size="374114" crc="8f7de446" sha1="353d3375e66b256af88ed4d543d12f3578d1bc4d"/>
+		<rom name="Horn_Of_Plenty_(Reflex)_[Dx01_100jp].ram" size="65536" crc="11f9a5f2" sha1="ced5523da4d34924352b7cf8729d441b2345f173"/>
+		<rom name="Horn_Of_Plenty_(Reflex)_[Dx01_100jp].txt" size="608" crc="d97fa335" sha1="4feea8f98434d6510aaab7d160d2da3597eacf1b"/>
+		<rom name="hornofplenty.high" size="524288" crc="a7f9b40a" sha1="2dc60689d10e523ad4eb2f4c63a59cacea0d2fce"/>
+		<rom name="hornofplenty.low" size="524288" crc="c83276fc" sha1="f95135b0c44c0d9ad60612fe16a69cd1dcfd36c7"/>
+		<rom name="hornofplenty_1.bin" size="1048576" crc="3295807f" sha1="45d76d55753f0b7c88bc98e208ffc6f9b277608d"/>
+		<rom name="hornofplenty_2.bin" size="1048576" crc="1ff96951" sha1="38e5cce7cab7223b4c5ad9100028f164813154dc"/>
+		<rom name="hornofplentypadded.high" size="524288" crc="a7f9b40a" sha1="2dc60689d10e523ad4eb2f4c63a59cacea0d2fce"/>
+		<rom name="hornofplentypadded.low" size="524288" crc="c83276fc" sha1="f95135b0c44c0d9ad60612fe16a69cd1dcfd36c7"/>
+		<rom name="mHornOfPlentyTEST20_padded.high" size="524288" crc="a7f9b40a" sha1="2dc60689d10e523ad4eb2f4c63a59cacea0d2fce"/>
+		<rom name="mHornOfPlentyTEST20_padded.low" size="524288" crc="c83276fc" sha1="f95135b0c44c0d9ad60612fe16a69cd1dcfd36c7"/>
+		<rom name="mphornofplenty20_.high" size="524288" crc="774544cf" sha1="cb9da0aebb22da4a311a37ca10be8c66db1d35c4"/>
+		<rom name="mphornofplenty20_.low" size="524288" crc="cc7e8492" sha1="ea6c7712788465044ccdf3385bd499dfc735a60a"/>
+	</game>
+	<game name="Hot Shots (Reflex)">
+		<rom name="Hot_Shots_(Reflex)_[C01_100jp].eep" size="512" crc="bc63a3f9" sha1="24783ab366f1bd4ada459f9feaac7d8c5496654f"/>
+		<rom name="Hot_Shots_(Reflex)_[C01_100jp].fml" size="1979574" crc="006ef0b1" sha1="f963e3430f2fe51b0e0b960378f90464561a30c2"/>
+		<rom name="Hot_Shots_(Reflex)_[C01_100jp].gam" size="469" crc="889810cf" sha1="c2bd77748ec6b72e4ce563861fa98904a1dd39dc"/>
+		<rom name="Hot_Shots_(Reflex)_[C01_100jp].jpg" size="354898" crc="ba5b63bf" sha1="54cd8ccc910b9f9e44562f23c46a57cd24f19503"/>
+		<rom name="Hot_Shots_(Reflex)_[C01_100jp].ram" size="65536" crc="c9cf2795" sha1="a65952d1e269bbeadd744d83688414165020b0d5"/>
+		<rom name="Hot_Shots_(Reflex)_[C01_100jp].txt" size="298" crc="d1e3f895" sha1="c92b07aecbe70c890706337679b23934700ed831"/>
+		<rom name="Hot_Shots_(Reflex)_[Dx01_100jp].eep" size="512" crc="616a9047" sha1="93683240055e6e05b1ae224988b77307d6583b9f"/>
+		<rom name="Hot_Shots_(Reflex)_[Dx01_100jp].fml" size="9214066" crc="aca43b21" sha1="610d20c8a99b174f7ddf732d601b4bcd40d88ba8"/>
+		<rom name="Hot_Shots_(Reflex)_[Dx01_100jp].gam" size="474" crc="5d97d8c3" sha1="3147a256a68958bc4dbde0c628e2d7b3a78f3497"/>
+		<rom name="Hot_Shots_(Reflex)_[Dx01_100jp].jpg" size="344654" crc="1ac382dc" sha1="63b69d6585ca70f3d58873772b21f07e6108ca3d"/>
+		<rom name="Hot_Shots_(Reflex)_[Dx01_100jp].ram" size="65536" crc="b47e7e26" sha1="51b7aeffba8fc4d45d127156a73738b0c0a921d2"/>
+		<rom name="Hot_Shots_(Reflex)_[Dx01_100jp].txt" size="712" crc="287e9d5f" sha1="52352f4dcab9649d806263c97ac9e48ab5ba925c"/>
+		<rom name="hotshots.high" size="524288" crc="c75755ee" sha1="1f1378641c264fd505a260a641a68659c5577775"/>
+		<rom name="hotshots.low" size="524288" crc="abd61c93" sha1="29c4cf11c2e32776eddae946327e6cf01386bd70"/>
+		<rom name="HOTSHOTS_1.bin" size="1048576" crc="6984c8ae" sha1="136199dd966dc815a7f714f3d2f41cbd24cd8ed1"/>
+		<rom name="HOTSHOTS_2.bin" size="1048576" crc="cfdc7f94" sha1="418e2b14c5c93717d93b8992f305a5eef17d0361"/>
+		<rom name="mHotShots_100TEST11_padded.high" size="524288" crc="c75755ee" sha1="1f1378641c264fd505a260a641a68659c5577775"/>
+		<rom name="mHotShots_100TEST11_padded.low" size="524288" crc="abd61c93" sha1="29c4cf11c2e32776eddae946327e6cf01386bd70"/>
+		<rom name="mhotshots_100test14_padded.high" size="524288" crc="f4dca70a" sha1="e978d685de2645adb940b1c554e8c779990b9109"/>
+		<rom name="mhotshots_100test14_padded.low" size="524288" crc="89aa2343" sha1="ee41c914ab7267c2046dbd2975af27810eb23fa3"/>
+		<rom name="mphotshots_100test11_padded.high" size="524288" crc="60745bc5" sha1="8c7c0f970cad9c30fb16f185c62efcd3442efb44"/>
+		<rom name="mphotshots_100test11_padded.low" size="524288" crc="af002863" sha1="2fc33f10427de80433cc88f4df5f4949d97fa4c4"/>
+		<rom name="mphotshots_100test14_padded.high" size="524288" crc="d761bc10" sha1="05649eb78ff8021ee2b35afd43938fb4aff1261e"/>
+		<rom name="mphotshots_100test14_padded.low" size="524288" crc="c3ddcacc" sha1="991f027ba39383763b427a0abd597eb2d7d88f0f"/>
+	</game>
+	<game name="Hot Shots Club (Reflex) [c]">
+		<rom name="clubhotshots13.high" size="524288" crc="3a84cf14" sha1="11a53ff030f55e3e9d27615b3e84668a3637fb54"/>
+		<rom name="clubhotshots13.low" size="524288" crc="b294777f" sha1="d90fd9bcddff524be2786044919d5330a46565b7"/>
+		<rom name="clubhotshots_1.bin" size="1048576" crc="272bc268" sha1="7c6ca7777a1c1a9dd7fecd53d69784fbfb338aad"/>
+		<rom name="clubhotshots_2.bin" size="1048576" crc="bcb08483" sha1="b76b854e1a02e32622a485befca2755fcb1cbe5c"/>
+		<rom name="Hot_Shots_Club_(Reflex)_[Dx01_400jp]_[c].eep" size="512" crc="236bb9cf" sha1="caac666fd11a4b9fa8337b44b950165dad16287b"/>
+		<rom name="Hot_Shots_Club_(Reflex)_[Dx01_400jp]_[c].fml" size="9607231" crc="c065d0ec" sha1="e7aef3a7d6735e439e32c87162c1632220176574"/>
+		<rom name="Hot_Shots_Club_(Reflex)_[Dx01_400jp]_[c].gam" size="505" crc="766e99fa" sha1="94b9bef393785d8b4e2d66477ff5d651efde8211"/>
+		<rom name="Hot_Shots_Club_(Reflex)_[Dx01_400jp]_[c].jpg" size="325906" crc="a73cfe2a" sha1="6d966d2068b3d7c2511e33047655886216eae2d4"/>
+		<rom name="Hot_Shots_Club_(Reflex)_[Dx01_400jp]_[c].ram" size="65536" crc="936dfab4" sha1="b5454843d93c3ba7cfb255be6f524eb84a513ea3"/>
+		<rom name="Hot_Shots_Club_(Reflex)_[Dx01_400jp]_[c].txt" size="505" crc="fad6b2bb" sha1="640d06fc8717dc379abeb5e6198b8db3214b008f"/>
+		<rom name="mCLUBHOTSHOTSTEST13_padded.high" size="524288" crc="3a84cf14" sha1="11a53ff030f55e3e9d27615b3e84668a3637fb54"/>
+		<rom name="mCLUBHOTSHOTSTEST13_padded.low" size="524288" crc="b294777f" sha1="d90fd9bcddff524be2786044919d5330a46565b7"/>
+		<rom name="mpclubhotshots13_.high" size="524288" crc="b0a4d6ef" sha1="b24a429de404a815c17398bb9100f6c49fda6dc3"/>
+		<rom name="mpclubhotshots13_.low" size="524288" crc="43644046" sha1="cc8c26f7ecd5af708c9fbbfaca33742ab1847680"/>
+	</game>
+	<game name="Jackpot Island (Reflex)">
+		<rom name="Jackpot_Island_(Reflex)_[Dx01_100jp].eep" size="512" crc="cd00884f" sha1="b5cfe832fd9e3fb22ff654f639221a9b52201477"/>
+		<rom name="Jackpot_Island_(Reflex)_[Dx01_100jp].fml" size="12031510" crc="d6898947" sha1="6cf87b1f097bc004ad631b746ee35399ee90d4d5"/>
+		<rom name="Jackpot_Island_(Reflex)_[Dx01_100jp].gam" size="550" crc="9a76d7eb" sha1="692428f7c32ba80eea137be85f939590d257b111"/>
+		<rom name="Jackpot_Island_(Reflex)_[Dx01_100jp].jpg" size="353074" crc="f25b8638" sha1="cc4c1bafa0680386c66668d95d7d80edb93a3cf5"/>
+		<rom name="Jackpot_Island_(Reflex)_[Dx01_100jp].ram" size="65536" crc="12f79436" sha1="3691bb1b556250d30a6294c685f3fd122a2938ca"/>
+		<rom name="Jackpot_Island_(Reflex)_[Dx01_100jp].txt" size="576" crc="9f6f867c" sha1="0ee5d656767c1fa47f89fdd1de2885f9cee17130"/>
+		<rom name="jackpotisland100.high" size="524288" crc="1cfde10f" sha1="2276dbd6a29c5e82790acccd0aa627f6fd447680"/>
+		<rom name="jackpotisland100.low" size="524288" crc="d6f8dd68" sha1="18ab02fabe89057b915552ce02db706642471a4f"/>
+		<rom name="jpisland_1.bin" size="1048576" crc="3b2d46a6" sha1="c747fca86d01c0b80c701c8274d0b743d69ceb80"/>
+		<rom name="jpisland_2.bin" size="1048576" crc="dec10402" sha1="86aab8d4d3af83ccf3cfe3e656d973bd1df629d7"/>
+		<rom name="mJackpotIsland100TEST12_padded.high" size="524288" crc="1cfde10f" sha1="2276dbd6a29c5e82790acccd0aa627f6fd447680"/>
+		<rom name="mJackpotIsland100TEST12_padded.low" size="524288" crc="d6f8dd68" sha1="18ab02fabe89057b915552ce02db706642471a4f"/>
+		<rom name="mpjackpotisland10012_.high" size="524288" crc="cf1f868e" sha1="d502fa446ee146c220e3e7df54026e545592f74a"/>
+		<rom name="mpjackpotisland10012_.low" size="524288" crc="6e21949a" sha1="7f479603bc2ad0d8bcf18877f3a72635f03d84dd"/>
+	</game>
+	<game name="Lady Luck (Reflex)">
+		<rom name="Lady_Luck_(Reflex)_[Dx01_5jp].eep" size="8192" crc="28bcc385" sha1="2cb0ee9d7e85bfe4192af00d22751bda9be79a5a"/>
+		<rom name="Lady_Luck_(Reflex)_[Dx01_5jp].fml" size="3083724" crc="6bb053af" sha1="b048e9bebb204498d6a612057a12316eaaae2a1b"/>
+		<rom name="Lady_Luck_(Reflex)_[Dx01_5jp].gam" size="458" crc="a92f5dc9" sha1="15e8f8f12bb1e1998a8eb82651e4b1317cc10068"/>
+		<rom name="Lady_Luck_(Reflex)_[Dx01_5jp].jpg" size="321537" crc="ef66bde8" sha1="314e996d9d24170317059a31f8d23260dba65911"/>
+		<rom name="Lady_Luck_(Reflex)_[Dx01_5jp].ram" size="65536" crc="4ee8c8cb" sha1="f8bd2e5335dcd85ab4137fe57a9713c892ff409a"/>
+		<rom name="Lady_Luck_(Reflex)_[Dx01_5jp].rtc" size="256" crc="0d968558" sha1="b376885ac8452b6cbf9ced81b1080bfd570d9b91"/>
+		<rom name="Lady_Luck_(Reflex)_[Dx01_5jp].txt" size="275" crc="0109df1c" sha1="77e2edea11316e360a7cedca9dd1b9d69a071426"/>
+		<rom name="LADYLUCK_1.bin" size="966690" crc="e59fbd05" sha1="db6de2eac431708d76d0d6c7ee34a2ee7929abfd"/>
+		<rom name="mLadyLuckMiniTEST20_padded.high" size="524288" crc="8cb02251" sha1="7455f611b5e90ac463fb16316bcb9f8dd7371fde"/>
+		<rom name="mLadyLuckMiniTEST20_padded.low" size="524288" crc="472641a1" sha1="637f95a5f021ecf41e164228b07080a386ba2a29"/>
+	</game>
+	<game name="Lady Luck Around the Clock (Reflex)">
+		<rom name="Lady_Luck_Around_the_Clock_(Reflex)_[C01_5jp].fml" size="4305308" crc="682cecb7" sha1="e15b96727a2282c6e57adbfe8b57ffda77cad99b"/>
+		<rom name="Lady_Luck_Around_the_Clock_(Reflex)_[C01_5jp].gam" size="503" crc="785697b0" sha1="a0a9fe50fed77be5d0b988aa0403d6d2aea2fc92"/>
+		<rom name="Lady_Luck_Around_the_Clock_(Reflex)_[C01_5jp].png" size="355799" crc="a267f21d" sha1="49661449ac591114d8057eee5a76371af557b8a0"/>
+		<rom name="Lady_Luck_Around_the_Clock_(Reflex)_[C01_5jp].ram" size="65536" crc="9a66497c" sha1="157628b5f50faf2435c10f686ee1e9f166d41e00"/>
+		<rom name="Lady_Luck_Around_the_Clock_(Reflex)_[C01_5jp].txt" size="729" crc="b2ef27dc" sha1="8c723fbf483e6b94c1a7cca6bb33bdb83ee74c7c"/>
+		<rom name="llatc sound.bin" size="1048576" crc="9e2c38de" sha1="e98d440c828e1bd5cdbe17547c7a143ab099e939"/>
+		<rom name="llatc v1-0-hi.bin" size="524288" crc="ccba2374" sha1="b6923d57dc95d48be891f64cd39170019b6e6e6c"/>
+		<rom name="llatc v1-0-lo.bin" size="524288" crc="4ee8914c" sha1="de85146e8230c38f04ed9a8a0b6068277c4fe2c9"/>
+	</game>
+	<game name="Lady Luck Band Of Gold (Reflex)">
+		<rom name="bandofgoldmini10.high" size="524288" crc="7c822b19" sha1="6b190ae6710376fd5eac141befe8b0c1b101f725"/>
+		<rom name="bandofgoldmini10.low" size="524288" crc="a3070cc4" sha1="3480e5d82730b43a8e47632a2e137e382f763e31"/>
+		<rom name="bandofgoldmini10p.high" size="524288" crc="f1b057c8" sha1="01831ae3c3ae0078087e0535a7b52d33ac0da9f4"/>
+		<rom name="bandofgoldmini10p.low" size="524288" crc="21bef1e3" sha1="491193ca8102e8161370ae900a2fea74e221667e"/>
+		<rom name="bofgoldmini_1.bin" size="1048576" crc="c49a03a4" sha1="49190eeca321aaaed4d35c184de75a4e885878be"/>
+		<rom name="Lady_Luck_Band_Of_Gold_(Reflex)_[C01_10jp].eep" size="8192" crc="b8bb0bca" sha1="bdf54385ac3dc2d6b95da7a95784dfa67cffcc91"/>
+		<rom name="Lady_Luck_Band_Of_Gold_(Reflex)_[C01_10jp].fml" size="1046734" crc="0856daa1" sha1="9c731cf87a8e33f629884ea1198a500c8bd275c4"/>
+		<rom name="Lady_Luck_Band_Of_Gold_(Reflex)_[C01_10jp].gam" size="497" crc="be509806" sha1="3878a18a68248245ad46a497d107d3fcbc8ee89e"/>
+		<rom name="Lady_Luck_Band_Of_Gold_(Reflex)_[C01_10jp].jpg" size="162376" crc="cf14994e" sha1="bd279da76c46765b1cb03f05ba98ce88c4983664"/>
+		<rom name="Lady_Luck_Band_Of_Gold_(Reflex)_[C01_10jp].ram" size="65536" crc="da9fd9cf" sha1="6adca47f685965b3958ed8ba7709d46d62c1095e"/>
+		<rom name="Lady_Luck_Band_Of_Gold_(Reflex)_[C01_10jp].rtc" size="256" crc="0d968558" sha1="b376885ac8452b6cbf9ced81b1080bfd570d9b91"/>
+		<rom name="Lady_Luck_Band_Of_Gold_(Reflex)_[C01_10jp].txt" size="95" crc="8958ccb6" sha1="933e6e1df84666b15fd9b53bb9f679e404a2ec49"/>
+		<rom name="Lady_Luck_Band_Of_Gold_(Reflex)_[Dx01_10jp].eep" size="8192" crc="ea4114a2" sha1="c1989a046abbdf3ca91f95aa809c071f9597f5e7"/>
+		<rom name="Lady_Luck_Band_Of_Gold_(Reflex)_[Dx01_10jp].fml" size="4126293" crc="ff20a35c" sha1="adc722fed620751633ed71bea69df9cd9026090e"/>
+		<rom name="Lady_Luck_Band_Of_Gold_(Reflex)_[Dx01_10jp].gam" size="493" crc="d4e63f0e" sha1="4d98df3d692323545066f07a31be59418f58da63"/>
+		<rom name="Lady_Luck_Band_Of_Gold_(Reflex)_[Dx01_10jp].jpg" size="129939" crc="92acfffa" sha1="08430a95effb1ac37a351ace46dbfbde9759fd55"/>
+		<rom name="Lady_Luck_Band_Of_Gold_(Reflex)_[Dx01_10jp].ram" size="65536" crc="e379e766" sha1="662147b5a9175bed279717bff31f94c841721d25"/>
+		<rom name="Lady_Luck_Band_Of_Gold_(Reflex)_[Dx01_10jp].txt" size="246" crc="61e327d0" sha1="ad12164749f76cb91dfa0c0e8c29b0cc55f3a01c"/>
+		<rom name="mBandOfGoldMiniTEST10_padded.high" size="524288" crc="7c822b19" sha1="6b190ae6710376fd5eac141befe8b0c1b101f725"/>
+		<rom name="mBandOfGoldMiniTEST10_padded.low" size="524288" crc="a3070cc4" sha1="3480e5d82730b43a8e47632a2e137e382f763e31"/>
+	</game>
+	<game name="Lady Luck Clover All Over (Reflex)">
+		<rom name="CAOVERMINI_1.bin" size="1048576" crc="fe94daec" sha1="fdd31a77793c294bdbde5080b64814f7d9993f36"/>
+		<rom name="Lady_Luck_Clover_All_Over_(Reflex)_[Dx01_100jp].eep" size="512" crc="ecaf46de" sha1="47dca57d22808ae3161a12af71d56fdc0e1a06a9"/>
+		<rom name="Lady_Luck_Clover_All_Over_(Reflex)_[Dx01_100jp].fml" size="13799916" crc="7da8c75a" sha1="a131007f83e6551ee31c6b747fb45051afb4507e"/>
+		<rom name="Lady_Luck_Clover_All_Over_(Reflex)_[Dx01_100jp].gam" size="737" crc="bb408ebb" sha1="7312ab400f810bb5c60e9ec18d9cfbd596091e20"/>
+		<rom name="Lady_Luck_Clover_All_Over_(Reflex)_[Dx01_100jp].jpg" size="264272" crc="968f2808" sha1="811086330657f9e2f41efa7f5c246b8838434da6"/>
+		<rom name="Lady_Luck_Clover_All_Over_(Reflex)_[Dx01_100jp].ram" size="65536" crc="a7982268" sha1="0b07276b99ae4846c497321bd8790721baf0f54e"/>
+		<rom name="Lady_Luck_Clover_All_Over_(Reflex)_[Dx01_100jp].txt" size="1633" crc="a35b9134" sha1="ac42265d7cabc55ad77e6c12ca16a7bd38a36113"/>
+		<rom name="Lady_Luck_Clover_All_Over_(Reflex)_[Dx01_10jp].eep" size="512" crc="ecaf46de" sha1="47dca57d22808ae3161a12af71d56fdc0e1a06a9"/>
+		<rom name="Lady_Luck_Clover_All_Over_(Reflex)_[Dx01_10jp].fml" size="13730072" crc="d69691a6" sha1="90ceb1dc25073b79f9a67acba178a3b09a7aad01"/>
+		<rom name="Lady_Luck_Clover_All_Over_(Reflex)_[Dx01_10jp].gam" size="642" crc="d2a94fc1" sha1="613c15ae0bec2485b5e52eb29d9d5fb52a1e59af"/>
+		<rom name="Lady_Luck_Clover_All_Over_(Reflex)_[Dx01_10jp].jpg" size="258518" crc="23831dc8" sha1="62629623d19b492f138c728d5aadc6812694af1c"/>
+		<rom name="Lady_Luck_Clover_All_Over_(Reflex)_[Dx01_10jp].ram" size="65536" crc="6e5f0655" sha1="44867b56b93416f46c7273a0982a4f01bb90c7c5"/>
+		<rom name="Lady_Luck_Clover_All_Over_(Reflex)_[Dx01_10jp].txt" size="748" crc="b018ae58" sha1="acc653d3e49d9ed01914909207f8647f5ecc75b3"/>
+		<rom name="mCLOVERALLOVERCASTEST10_padded.high" size="524288" crc="a1dad247" sha1="d87188310fe170216052c4d672cd76fbf0bdf84c"/>
+		<rom name="mCLOVERALLOVERCASTEST10_padded.low" size="524288" crc="8d6b4a9b" sha1="a6635d0a5fffc87f2b9f82f4c87ac1d3c54d3249"/>
+	</game>
+	<game name="Lady Luck Double Take Club (Reflex) [c]">
+		<rom name="clublldbltak_1.bin" size="1048576" crc="09d12ebf" sha1="37491f79065005f0efb1673e5eabe7daf5baee81"/>
+		<rom name="clublldbltak_2.bin" size="1048576" crc="a76c2b50" sha1="a5a2f0db858b5d077080a58da159fafe681ecb75"/>
+		<rom name="Lady_Luck_Double_Take_Club_(Reflex)_[Dx01_250jp]_[c].eep" size="512" crc="7fdbf02f" sha1="95c0af7e3a65244562fc1a3c6b83fef81fded356"/>
+		<rom name="Lady_Luck_Double_Take_Club_(Reflex)_[Dx01_250jp]_[c].fml" size="9493859" crc="0479ac09" sha1="c79f5b8a0eb700dec07b71a31ff5b5f79c7410ed"/>
+		<rom name="Lady_Luck_Double_Take_Club_(Reflex)_[Dx01_250jp]_[c].gam" size="628" crc="f64f4402" sha1="295218a7bfc6a643689543f50ec100b0037fd8ac"/>
+		<rom name="Lady_Luck_Double_Take_Club_(Reflex)_[Dx01_250jp]_[c].jpg" size="313485" crc="5edc3050" sha1="2265d39381b19f67c87d63b58208c3938448252d"/>
+		<rom name="Lady_Luck_Double_Take_Club_(Reflex)_[Dx01_250jp]_[c].pdf" size="394441" crc="5ad2d512" sha1="6c93d6732ade19fd29616c68c08f97a6f18acb97"/>
+		<rom name="Lady_Luck_Double_Take_Club_(Reflex)_[Dx01_250jp]_[c].ram" size="65536" crc="30ad3428" sha1="9bf3433a91165d94ca5845358d9d1adfd0e6f6bc"/>
+		<rom name="Lady_Luck_Double_Take_Club_(Reflex)_[Dx01_250jp]_[c].txt" size="545" crc="2960672a" sha1="ae76fe72459fec7caabb6f45b2e0e78c622157a6"/>
+		<rom name="mclubladyluckdoubletaketest10_padded.high" size="524288" crc="624ceeb3" sha1="d0fd85dcc23f2efdc6ac9ff4913977d64583715b"/>
+		<rom name="mclubladyluckdoubletaketest10_padded.low" size="524288" crc="57ec4172" sha1="85425898296e1632766a121b0695e32ce475a8f4"/>
+	</game>
+	<game name="Lady Luck Magic Charms (Reflex)">
+		<rom name="Lady_Luck_Magic_Charms_(Reflex)_[C01_100jp].eep" size="512" crc="fb1059f6" sha1="d75e5c8f088160fe236da41478a66952d0d03668"/>
+		<rom name="Lady_Luck_Magic_Charms_(Reflex)_[C01_100jp].fml" size="10084413" crc="3601c5a8" sha1="03335c043e8a990440fa574db52e5007ec564153"/>
+		<rom name="Lady_Luck_Magic_Charms_(Reflex)_[C01_100jp].gam" size="563" crc="62f0424b" sha1="2f6e7332e4f344dfed8ce7bbd5d07c320bafdce0"/>
+		<rom name="Lady_Luck_Magic_Charms_(Reflex)_[C01_100jp].png" size="218335" crc="e6ffa09b" sha1="3388b9e1307defbd436e9202084e06c84e31c4f3"/>
+		<rom name="Lady_Luck_Magic_Charms_(Reflex)_[C01_100jp].ram" size="65536" crc="acb54d69" sha1="61539541a6cf9f1c1641b0dd736dac0cb300b723"/>
+		<rom name="Lady_Luck_Magic_Charms_(Reflex)_[C01_100jp].txt" size="416" crc="a93f79c4" sha1="4b6ca280fd0816c131b4592a07758fbecc2e7537"/>
+		<rom name="Lady_Luck_Magic_Charms_(Reflex)_[C01_10jp].eep" size="512" crc="fb1059f6" sha1="d75e5c8f088160fe236da41478a66952d0d03668"/>
+		<rom name="Lady_Luck_Magic_Charms_(Reflex)_[C01_10jp].fml" size="10047720" crc="7d50c9d9" sha1="6ed4675cad73fced67976e6d46c7c7db028a0e6f"/>
+		<rom name="Lady_Luck_Magic_Charms_(Reflex)_[C01_10jp].gam" size="554" crc="3ba475a2" sha1="cdad0dfd04fea1fd4ddcf0e89415660db82ac3c1"/>
+		<rom name="Lady_Luck_Magic_Charms_(Reflex)_[C01_10jp].png" size="218335" crc="e6ffa09b" sha1="3388b9e1307defbd436e9202084e06c84e31c4f3"/>
+		<rom name="Lady_Luck_Magic_Charms_(Reflex)_[C01_10jp].ram" size="65536" crc="f19ebf61" sha1="d140e2f82ee24354fb09e76349dbafac80752051"/>
+		<rom name="Lady_Luck_Magic_Charms_(Reflex)_[C01_10jp].txt" size="416" crc="a93f79c4" sha1="4b6ca280fd0816c131b4592a07758fbecc2e7537"/>
+		<rom name="MAGCHARM_1.bin" size="1048576" crc="a2ba55ef" sha1="1b05b764ae392972d81a3aca1027385c01b6ea0d"/>
+		<rom name="mLadyLuckMagicCharmsTEST10_padded.high" size="524288" crc="b5d79db1" sha1="9309691696af178c433c138646b164b31f5ee4ab"/>
+		<rom name="mLadyLuckMagicCharmsTEST10_padded.low" size="524288" crc="1f3377b2" sha1="919fca535a4cff6a43e74b57bbb0b3f627566437"/>
+	</game>
+	<game name="Lady Luck Pots Of Gold Club (Reflex) [c]">
+		<rom name="Lady_Luck_Pots_Of_Gold_Club_(Reflex)_[Dx01_250jp]_[c].eep" size="512" crc="3d9d47dd" sha1="07cb89684979a8b0cb4f49fc8a1c5b60423dafef"/>
+		<rom name="Lady_Luck_Pots_Of_Gold_Club_(Reflex)_[Dx01_250jp]_[c].fml" size="8952388" crc="442295cd" sha1="2c305d836ea844ad425b166cfa75b3a917ea039b"/>
+		<rom name="Lady_Luck_Pots_Of_Gold_Club_(Reflex)_[Dx01_250jp]_[c].gam" size="588" crc="7c2c6adc" sha1="9bb3f64c5bc4c9211091b9547fb4f77ed97b9f9d"/>
+		<rom name="Lady_Luck_Pots_Of_Gold_Club_(Reflex)_[Dx01_250jp]_[c].jpg" size="279131" crc="122e5cd7" sha1="5b3d417e69d1acc40214c2ffd2eb61bed1246806"/>
+		<rom name="Lady_Luck_Pots_Of_Gold_Club_(Reflex)_[Dx01_250jp]_[c].pdf" size="369098" crc="2a962c39" sha1="537b1bdd26a29c3a88ab9085259becfd0f595a22"/>
+		<rom name="Lady_Luck_Pots_Of_Gold_Club_(Reflex)_[Dx01_250jp]_[c].ram" size="65536" crc="a0161b34" sha1="62918b1d528012d845774eda202e87d552970b60"/>
+		<rom name="Lady_Luck_Pots_Of_Gold_Club_(Reflex)_[Dx01_250jp]_[c].txt" size="743" crc="c5b2b2b9" sha1="20f0d038e981d15eb4b2fc58fa97a9729ded13b2"/>
+		<rom name="llpotsofgold_1.bin" size="1048576" crc="de801a3e" sha1="f4b0d796456a4524f53cfb3f5c2a9805f737d09b"/>
+		<rom name="llpotsofgold_2.bin" size="1048576" crc="c36589ce" sha1="c1ecffd825e4821ed32cb3cef9f0bc2e8aee93d0"/>
+		<rom name="mllpotsofgoldtest10_padded.high" size="524288" crc="8d972a5c" sha1="d8df6270b2d206e685263144f0399936d6f19db2"/>
+		<rom name="mllpotsofgoldtest10_padded.low" size="524288" crc="15d351e9" sha1="d587d69b62326b6a946fcd085f755bea8d1bf236"/>
+	</game>
+	<game name="Lady Luck Pure Magic (Reflex)">
+		<rom name="Lady_Luck_Pure_Magic_(Reflex)_[C01_100jp].eep" size="512" crc="e3c63823" sha1="9efeccb63430497ceee5b2daec248509006ac81f"/>
+		<rom name="Lady_Luck_Pure_Magic_(Reflex)_[C01_100jp].fml" size="2477490" crc="47d6da6a" sha1="fc1b68b4435ee500de5e2ae9002680c3e4ee6e1f"/>
+		<rom name="Lady_Luck_Pure_Magic_(Reflex)_[C01_100jp].gam" size="657" crc="953fc751" sha1="199a1ab73f649dce81fb2ebb5a46ea0dd44245f4"/>
+		<rom name="Lady_Luck_Pure_Magic_(Reflex)_[C01_100jp].jpg" size="139687" crc="8d10e10f" sha1="a7b3f92d59424e743245f0d04a469d72fe65ecc6"/>
+		<rom name="Lady_Luck_Pure_Magic_(Reflex)_[C01_100jp].ram" size="65536" crc="28450d35" sha1="b2adafc1ebd6fa4dda9380b110271f1c380ba4fe"/>
+		<rom name="Lady_Luck_Pure_Magic_(Reflex)_[C01_100jp].txt" size="486" crc="c6d34dfc" sha1="cfff76f09d77e0751315b608af661b8f6b608a80"/>
+		<rom name="Lady_Luck_Pure_Magic_(Reflex)_[Dx01_100jp].eep" size="512" crc="e9c9be1d" sha1="e6f16db7e3f0d56f0d53463a4bbe60c445f57c62"/>
+		<rom name="Lady_Luck_Pure_Magic_(Reflex)_[Dx01_100jp].fml" size="7110955" crc="a7bf93f3" sha1="1dc4757653dbb6e3d9a23855cd0473cd4b3321f9"/>
+		<rom name="Lady_Luck_Pure_Magic_(Reflex)_[Dx01_100jp].gam" size="637" crc="d6d2b88f" sha1="4db9333895dbc26d96c81b31188935419f8a1096"/>
+		<rom name="Lady_Luck_Pure_Magic_(Reflex)_[Dx01_100jp].jpg" size="146230" crc="7dbbdbce" sha1="659f95fe9e2d899bc531978a007c244872098ce1"/>
+		<rom name="Lady_Luck_Pure_Magic_(Reflex)_[Dx01_100jp].ram" size="65536" crc="70f4a4a5" sha1="f6872cc2c09ae6f28860369c19aab60880e7b34c"/>
+		<rom name="Lady_Luck_Pure_Magic_(Reflex)_[Dx01_100jp].txt" size="530" crc="811617ba" sha1="c7a1e4ae83c28be3a35115c9a5d80a13ee57fc65"/>
+		<rom name="LLPUREMAGIC_1.bin" size="1048576" crc="0b7321ba" sha1="a711c3de0798fb6ec8debeee3640308b2c28c468"/>
+		<rom name="mLadyLuckPureMagicMiniTEST10_padded.high" size="524288" crc="f37f0f97" sha1="6fd5fae8d759423c103379df0562334bb427feed"/>
+		<rom name="mLadyLuckPureMagicMiniTEST10_padded.low" size="524288" crc="d10383de" sha1="3a12c118e77ea76a39d369092e051ef0b4aed804"/>
+	</game>
+	<game name="Lady Luck Top O&apos; The Jackpots (Reflex)">
+		<rom name="Lady_Luck_Top_O&apos;_The_Jackpots_(Reflex)_[Dx01_100jp].eep" size="512" crc="b2bc1236" sha1="99bf23a234a1ea5ea028649e6681044b07df6250"/>
+		<rom name="Lady_Luck_Top_O&apos;_The_Jackpots_(Reflex)_[Dx01_100jp].fml" size="11401548" crc="ae47afe0" sha1="136c73fcd13f5587824476831af786475fb007a8"/>
+		<rom name="Lady_Luck_Top_O&apos;_The_Jackpots_(Reflex)_[Dx01_100jp].gam" size="621" crc="65ab6983" sha1="a90cca68a6ecb720bb8628a0edb478c3cc348240"/>
+		<rom name="Lady_Luck_Top_O&apos;_The_Jackpots_(Reflex)_[Dx01_100jp].jpg" size="286926" crc="7e99cc28" sha1="cd3738a95551073ddedd8bc7ba6b8b5ff918ce5a"/>
+		<rom name="Lady_Luck_Top_O&apos;_The_Jackpots_(Reflex)_[Dx01_100jp].ram" size="65536" crc="a650e747" sha1="f43a72aa2edd1294250259e4b96911fce9f8c8f5"/>
+		<rom name="Lady_Luck_Top_O&apos;_The_Jackpots_(Reflex)_[Dx01_100jp].txt" size="383" crc="e09ae229" sha1="ce34a210735fdccfd4a09ccb30642215a9b41fb4"/>
+		<rom name="lltopotj_1.bin" size="1048576" crc="e768a7b2" sha1="c1a4c50c7c477e0d80f4a80c4b69ea09fad6464b"/>
+		<rom name="lltopotj_2.bin" size="1048576" crc="3bb03da2" sha1="1634785a05781ad737f2aa794ef7111a4ec7f176"/>
+		<rom name="mtopothejackpot.high" size="524288" crc="72355e7c" sha1="01564c2b3305d5961a760e80f5427ddad9860499"/>
+		<rom name="mtopothejackpot.low" size="524288" crc="7fb4fc67" sha1="f29ce377ba7307a61cb6169ec5170a4fe263f9ed"/>
+		<rom name="mTopOTheJackPotTEST30_padded.high" size="524288" crc="72355e7c" sha1="01564c2b3305d5961a760e80f5427ddad9860499"/>
+		<rom name="mTopOTheJackPotTEST30_padded.low" size="524288" crc="7fb4fc67" sha1="f29ce377ba7307a61cb6169ec5170a4fe263f9ed"/>
+	</game>
+	<game name="Lady Luck What&apos;s In The Pot Club (Reflex) [c]">
+		<rom name="Lady_Luck_What&apos;s_In_The_Pot_Club_(Reflex)_[C01_250jp]_[c].eep" size="512" crc="5a529676" sha1="447926c408690a0316d63a2dbdd37a257a46a84a"/>
+		<rom name="Lady_Luck_What&apos;s_In_The_Pot_Club_(Reflex)_[C01_250jp]_[c].fml" size="9021011" crc="b3d5008b" sha1="ca26ed883298b48b85f1cc6ad4940784b047a67e"/>
+		<rom name="Lady_Luck_What&apos;s_In_The_Pot_Club_(Reflex)_[C01_250jp]_[c].gam" size="611" crc="2afb4159" sha1="9803b59c86e80c78cc5649058d61f68dfee3cd48"/>
+		<rom name="Lady_Luck_What&apos;s_In_The_Pot_Club_(Reflex)_[C01_250jp]_[c].jpg" size="272314" crc="3cdf513e" sha1="13794ae9b3278e56f2e7c98c5aeb42a6a448eb1c"/>
+		<rom name="Lady_Luck_What&apos;s_In_The_Pot_Club_(Reflex)_[C01_250jp]_[c].pdf" size="377897" crc="f04cdb2f" sha1="0904e3aa0ad7bad3cc1be923e7c26ad606665acb"/>
+		<rom name="Lady_Luck_What&apos;s_In_The_Pot_Club_(Reflex)_[C01_250jp]_[c].ram" size="65536" crc="ca12b48d" sha1="1fe11648808ac817d29f5a470b80419a0ab589ee"/>
+		<rom name="Lady_Luck_What&apos;s_In_The_Pot_Club_(Reflex)_[C01_250jp]_[c].txt" size="595" crc="c3c5c6d5" sha1="11c6f7b143e001e6dd43bd8495194f80774e8dd9"/>
+		<rom name="llpotswhats_1.bin" size="1048576" crc="ece853f2" sha1="03f0434e447bc46034d1d46094aedb0ed68a0bcf"/>
+		<rom name="llpotswhats_2.bin" size="1048576" crc="9f889546" sha1="8c6b27c1a13482b1826f9c7208c530f5c73e6b86"/>
+		<rom name="mllwhatsinthepottest11_padded.high" size="524288" crc="d5740740" sha1="513d046b2a1e98c81ed61379bb5bbd6908a0bcbf"/>
+		<rom name="mllwhatsinthepottest11_padded.low" size="524288" crc="1569fdd7" sha1="fb485648314da90bb56d9ed7f6a9655da951cf3f"/>
+	</game>
+	<game name="Let&apos;s Get Jackpotted (Reflex)">
+		<rom name="jackpotted_1.bin" size="1048576" crc="92b5eb10" sha1="9009ea6bc1ea8546bc6ba148444db070c56c319a"/>
+		<rom name="jackpotted_2.bin" size="1048576" crc="6515d0c6" sha1="a89fc761be82e6e6114e87eedbbfba163ed8750e"/>
+		<rom name="Let&apos;s_Get_Jackpotted_(Reflex)_[Dx01_100jp].eep" size="512" crc="9cd1dd4e" sha1="85129a8cbfc1d3c759ca98c4c1b3ee35073b6a07"/>
+		<rom name="Let&apos;s_Get_Jackpotted_(Reflex)_[Dx01_100jp].fml" size="10242231" crc="d6c4f9ed" sha1="9563f8675410b192fec466a38c50cb73ca665d2b"/>
+		<rom name="Let&apos;s_Get_Jackpotted_(Reflex)_[Dx01_100jp].gam" size="555" crc="02ab41d5" sha1="aeb4ec327388fcf1146006e6874019cccfdef2d4"/>
+		<rom name="Let&apos;s_Get_Jackpotted_(Reflex)_[Dx01_100jp].jpg" size="342482" crc="d425d2fb" sha1="b163ca3d5567a2d74791eacc424636dc74b55d21"/>
+		<rom name="Let&apos;s_Get_Jackpotted_(Reflex)_[Dx01_100jp].ram" size="65536" crc="81e00979" sha1="7bf209e531f1829e779597e0d4e4035d1a95ad96"/>
+		<rom name="Let&apos;s_Get_Jackpotted_(Reflex)_[Dx01_100jp].txt" size="641" crc="5d17727b" sha1="02936b15ce108b664155c0e28bbbcf28bd48443f"/>
+		<rom name="letsgetjackpotted.high" size="524288" crc="1f2c76a6" sha1="c740cdfc5b67000280a88ca5762c6dc8cc5f987d"/>
+		<rom name="letsgetjackpotted.low" size="524288" crc="c0aeead5" sha1="3778aaa66d7f2fafbe1f395f1d5f8e57d581c891"/>
+		<rom name="mLetsGetJackpotted100TEST12_padded.high" size="524288" crc="1f2c76a6" sha1="c740cdfc5b67000280a88ca5762c6dc8cc5f987d"/>
+		<rom name="mLetsGetJackpotted100TEST12_padded.low" size="524288" crc="c0aeead5" sha1="3778aaa66d7f2fafbe1f395f1d5f8e57d581c891"/>
+	</game>
+	<game name="Let&apos;s Get Jackpotted Club (Reflex) [c]">
+		<rom name="club_lgj1.bin" size="1048576" crc="1f014791" sha1="283749c49e9a49c980e1cfd8f28cab4d2319d35f"/>
+		<rom name="club_lgj2.bin" size="1048576" crc="34ba62cd" sha1="ca84db425924acdb029cb4d510715316c770258a"/>
+		<rom name="CLUB_LGJ_1.bin" size="1048576" crc="1f014791" sha1="283749c49e9a49c980e1cfd8f28cab4d2319d35f"/>
+		<rom name="CLUB_LGJ_2.bin" size="1048576" crc="34ba62cd" sha1="ca84db425924acdb029cb4d510715316c770258a"/>
+		<rom name="clubletsgetjackpotted.high" size="524288" crc="84f6ea56" sha1="45fecb8ccc17d40955d24ab6c617461f24851e5f"/>
+		<rom name="clubletsgetjackpotted.low" size="524288" crc="2dcf0753" sha1="48d2c251501d6289a31061cc9eba1638f7b5eb31"/>
+		<rom name="Let&apos;s_Get_Jackpotted_(Reflex)_[Dx01_400jp]_[c].eep" size="512" crc="39abf755" sha1="563afd0b84a4ed2ae276b12ae545c0b688c93a5d"/>
+		<rom name="Let&apos;s_Get_Jackpotted_(Reflex)_[Dx01_400jp]_[c].fml" size="10411097" crc="13be788d" sha1="d1fd326f3b10af5257b77b619459856109fe2160"/>
+		<rom name="Let&apos;s_Get_Jackpotted_(Reflex)_[Dx01_400jp]_[c].gam" size="558" crc="d5260861" sha1="d7e72f4b28f24ced036d00bb56ca1aef275b6dbc"/>
+		<rom name="Let&apos;s_Get_Jackpotted_(Reflex)_[Dx01_400jp]_[c].jpg" size="295032" crc="7adf2060" sha1="51cdc17398de412317e9e29d972124c3ec1b33ef"/>
+		<rom name="Let&apos;s_Get_Jackpotted_(Reflex)_[Dx01_400jp]_[c].ram" size="65536" crc="858398e0" sha1="d62a7a4c6d978d8e610f612e9565c51f7e038234"/>
+		<rom name="Let&apos;s_Get_Jackpotted_(Reflex)_[Dx01_400jp]_[c].txt" size="245" crc="bef1f42f" sha1="4ad77bc85ceb6a24c17d82b59d1a0f6524a5c090"/>
+		<rom name="mCLUBLETSGETJACKPOTTEDTEST31_padded.high" size="524288" crc="84f6ea56" sha1="45fecb8ccc17d40955d24ab6c617461f24851e5f"/>
+		<rom name="mCLUBLETSGETJACKPOTTEDTEST31_padded.low" size="524288" crc="2dcf0753" sha1="48d2c251501d6289a31061cc9eba1638f7b5eb31"/>
+		<rom name="mpclubletsgetjackpotted31_.high" size="524288" crc="0d12a277" sha1="a5b226599334dcb2a6e912466573af6353e5d5c4"/>
+		<rom name="mpclubletsgetjackpotted31_.low" size="524288" crc="3d2407e2" sha1="cf908de0e6826c2fbe5851801be7c288d70031fc"/>
+	</game>
+	<game name="Lucky Gems Mega Roll Casino (Reflex)">
+		<rom name="Lucky_Gems_Mega_Roll_Casino_(Reflex)_[C01_100jp].eep" size="512" crc="77844cbd" sha1="9382938ab6adcab7db0d12f8e62be2aae87d9dd1"/>
+		<rom name="Lucky_Gems_Mega_Roll_Casino_(Reflex)_[C01_100jp].fml" size="824255" crc="8e1a3307" sha1="eab32e9f1f2e2569935aaddb1fb98f2ac639d104"/>
+		<rom name="Lucky_Gems_Mega_Roll_Casino_(Reflex)_[C01_100jp].gam" size="605" crc="40377746" sha1="87d17f0f93fb4541ed273e1cfdba6bde14a03b1f"/>
+		<rom name="Lucky_Gems_Mega_Roll_Casino_(Reflex)_[C01_100jp].jpg" size="36070" crc="c92ca32a" sha1="f3112709d6bf1b71d57fadc4cb71eeb980b9b5dc"/>
+		<rom name="Lucky_Gems_Mega_Roll_Casino_(Reflex)_[C01_100jp].ram" size="65536" crc="1971ecca" sha1="28f613e39e8b99512e9f16885ab56e76be24870d"/>
+		<rom name="Lucky_Gems_Mega_Roll_Casino_(Reflex)_[C01_100jp].txt" size="778" crc="3fc9be7d" sha1="d836209f55ea91c35a69a47a0bcd84f863cf3099"/>
+		<rom name="LUCKYGEMSB_1.bin" size="1048576" crc="872006b8" sha1="b81c79262eb2a89e4db4850b9d927a47facf6d9f"/>
+		<rom name="mLUCKYGEMS3PLAYERTEST12_padded.high" size="524288" crc="36a6aff4" sha1="f91083b1bad2090f4c26e4b5c81d21a42d0e0d94"/>
+		<rom name="mLUCKYGEMS3PLAYERTEST12_padded.low" size="524288" crc="84c422de" sha1="d59e41d355f15da8673793b404a1f842566bf486"/>
+	</game>
+	<game name="Lucky Mushrooms (Reflex)">
+		<rom name="Lucky_Mushrooms_(Reflex)_[Dx01_100jp].eep" size="512" crc="25eb4a2d" sha1="f0976193edadcc90fa323651e554462c3e570454"/>
+		<rom name="Lucky_Mushrooms_(Reflex)_[Dx01_100jp].fml" size="5247318" crc="08709ab2" sha1="47693685d7d1378d08daeca4f0d5010599de4974"/>
+		<rom name="Lucky_Mushrooms_(Reflex)_[Dx01_100jp].gam" size="655" crc="21fd4b34" sha1="695ecfc8f37558fce33968cc8509c629bcd0a97b"/>
+		<rom name="Lucky_Mushrooms_(Reflex)_[Dx01_100jp].jpg" size="297864" crc="02a1f023" sha1="45c941feda9a8754869ab11069a15ebefa959faf"/>
+		<rom name="Lucky_Mushrooms_(Reflex)_[Dx01_100jp].ram" size="65536" crc="85520a05" sha1="92fc54b9a28fa3e384438dea0b02774856cad716"/>
+		<rom name="Lucky_Mushrooms_(Reflex)_[Dx01_100jp].txt" size="390" crc="3c5a02f5" sha1="26be5da0174c84a6cb10a6a3c8cc645ab4e52912"/>
+		<rom name="luckym_1.bin" size="1048576" crc="22e825b1" sha1="e1aae401d0f71ab6035dfe0b9852ad85ecaa22c2"/>
+		<rom name="luckym_2.bin" size="1048576" crc="d1bb27d0" sha1="4a90d6053bdbe05176c40632d7fa1b5fd332ecd1"/>
+		<rom name="mluckymushroomstest11_padded.high" size="524288" crc="10dd729d" sha1="811c6c11cd3c6c515a00160d209772dd11c5967b"/>
+		<rom name="mluckymushroomstest11_padded.low" size="524288" crc="d17b96e7" sha1="738e6306da973feb1a62f638f55912192ddc38dc"/>
+		<rom name="mpluckymushroomstest11_padded.high" size="524288" crc="d6ad6aff" sha1="53dca4e31c0ba007b542d4ef37e76eb7a8130af9"/>
+		<rom name="mpluckymushroomstest11_padded.low" size="524288" crc="a0594681" sha1="98e3d4b230015735a674c3c9ef755768eb1c10ca"/>
+	</game>
+	<game name="Manic Money Monster (Reflex)">
+		<rom name="Happy Ram/MMM_SC4.gam" size="509" crc="fb69500c" sha1="6bf3a7171bf43db59368e4c97d1424cdb1b3ef53"/>
+		<rom name="Happy Ram/MMM_SC4.ram" size="65536" crc="162ce0dd" sha1="de530ac667bb9af85d867d35427fda162d2b9f44"/>
+		<rom name="Happy Ram/README.txt" size="648" crc="eaa3aad0" sha1="e66338f376f9ded0c16f803db7348fd51ed59177"/>
+		<rom name="Manic_Money_Monster_(Reflex)_[C01_70jp].eep" size="8192" crc="ea4114a2" sha1="c1989a046abbdf3ca91f95aa809c071f9597f5e7"/>
+		<rom name="Manic_Money_Monster_(Reflex)_[C01_70jp].fml" size="1853455" crc="5848b275" sha1="03cfb1a6915e6616b2c7a9d1ece9056bc477064b"/>
+		<rom name="Manic_Money_Monster_(Reflex)_[C01_70jp].gam" size="485" crc="9b97bdc9" sha1="55e815814fa0e1141cdf42e8a699bb4a86b62690"/>
+		<rom name="Manic_Money_Monster_(Reflex)_[C01_70jp].jpg" size="150796" crc="0b7d8264" sha1="4f51b58f92ac174297ac6978ff364e60c86e44bc"/>
+		<rom name="Manic_Money_Monster_(Reflex)_[C01_70jp].ram" size="65536" crc="4aee9b29" sha1="cd497180da86d354fb0fe8c1737725d6a0b708df"/>
+		<rom name="Manic_Money_Monster_(Reflex)_[C01_70jp].rtc" size="256" crc="04626f8e" sha1="449e4e462a719e9e61d113843c9c3abbb37565a6"/>
+		<rom name="Manic_Money_Monster_(Reflex)_[C01_70jp].txt" size="157" crc="436bd4f8" sha1="f6ee62edcf4868eac06cffa85c428329c384a6ea"/>
+		<rom name="Manic_Money_Monster_(Reflex)_[Dx01_70jp].eep" size="8192" crc="1f00cae8" sha1="0ce6eae2c5d426fa1b2be9c4f20da37040266499"/>
+		<rom name="Manic_Money_Monster_(Reflex)_[Dx01_70jp].fml" size="10808985" crc="c2a95cc8" sha1="927f7dbbab27829cfef084aae266eda71b4f17e0"/>
+		<rom name="Manic_Money_Monster_(Reflex)_[Dx01_70jp].gam" size="509" crc="a2243ba1" sha1="8e2e24fcbf3518b26d7f7e47cce878d3f761ed22"/>
+		<rom name="Manic_Money_Monster_(Reflex)_[Dx01_70jp].jpg" size="287095" crc="fed203ef" sha1="3b9aa0c830e207ea4359ddddb4c54f8dd2b3d6ed"/>
+		<rom name="Manic_Money_Monster_(Reflex)_[Dx01_70jp].ram" size="65536" crc="987507ee" sha1="ad25dd1dfa21f18dadbea140a3eca5eeb5564f8f"/>
+		<rom name="Manic_Money_Monster_(Reflex)_[Dx01_70jp].rtc" size="256" crc="04626f8e" sha1="449e4e462a719e9e61d113843c9c3abbb37565a6"/>
+		<rom name="Manic_Money_Monster_(Reflex)_[Dx01_70jp].txt" size="638" crc="b4a1e8ff" sha1="3ca169d612cc5a0c907f2690eac14158206ecc11"/>
+		<rom name="mmm_hi.bin" size="524288" crc="fd0f1c28" sha1="743d73f4bb6dec08cf63ed77d0ac938fd420a305"/>
+		<rom name="mmm_lo.bin" size="524288" crc="69d498bf" sha1="28cfac9d08d5f01ca3c8cdc3609a5d293e43b742"/>
+		<rom name="mmm_snd1.bin" size="1048576" crc="51995f0f" sha1="2764306d5e711d18b9253b2bce160679287d9079"/>
+		<rom name="mmm_snd2.bin" size="1048576" crc="ec25b8d6" sha1="7cfa02ceb419810aedb14462ed91e609483f03c0"/>
+	</game>
+	<game name="Millionaires Row (Reflex)">
+		<rom name="millionaire10.high" size="524288" crc="6b879665" sha1="79fa91721375f0f968ecbd07fe9e9695344b7cd6"/>
+		<rom name="millionaire10.low" size="524288" crc="8436aab9" sha1="815000121e93c9a8e4f6c6d6d12a06c4484eb50c"/>
+		<rom name="millionaire11.high" size="524288" crc="57d29731" sha1="8cbf6a06a68a222feeac4e4612668e14956a20c8"/>
+		<rom name="millionaire11.low" size="524288" crc="22232882" sha1="233146f59794a86fae21845bde70d698cdd0193e"/>
+		<rom name="millionaire13.high" size="524288" crc="152d82c1" sha1="409e0cafe746673f373d46ab639996ad4ce831e1"/>
+		<rom name="millionaire13.low" size="524288" crc="18694f3c" sha1="f55356eff163480bb0baf582fef429246958d535"/>
+		<rom name="millionaires row s16 sound.bin" size="1048576" crc="4086df3f" sha1="7fd358d901db48d1f8edc4b22789c73b5fb84874"/>
+		<rom name="millionaires row s16 v1-0.hi" size="524288" crc="6b879665" sha1="79fa91721375f0f968ecbd07fe9e9695344b7cd6"/>
+		<rom name="millionaires row s16 v1-0.lo" size="524288" crc="8436aab9" sha1="815000121e93c9a8e4f6c6d6d12a06c4484eb50c"/>
+		<rom name="Millionaires_Row_(Reflex)_[C01_500jp].fml" size="268377" crc="dfd6c7ec" sha1="5fa32ae0144e148b1b8f6e3854c9a27d5a529960"/>
+		<rom name="Millionaires_Row_(Reflex)_[C01_500jp].gam" size="487" crc="4268a99f" sha1="a4dfee06334510a5dad40602f9f776004c66849c"/>
+		<rom name="Millionaires_Row_(Reflex)_[C01_500jp].jpg" size="172971" crc="46baa9c6" sha1="853b69bef10d706fac80cca33a7ba60a24a699f0"/>
+		<rom name="Millionaires_Row_(Reflex)_[C01_500jp].ram" size="65536" crc="0b6cb8d0" sha1="7709b6fa6e0cdfed979a7387ec626ec8fa87f87b"/>
+		<rom name="Millionaires_Row_(Reflex)_[C01_500jp].txt" size="351" crc="3e27fd8b" sha1="4f2fb3ce8f8575aaec341afc90105e61f43df572"/>
+		<rom name="millionairessnd.bin" size="1048576" crc="4086df3f" sha1="7fd358d901db48d1f8edc4b22789c73b5fb84874"/>
+	</game>
+	<game name="Monster Money (Reflex)">
+		<rom name="mMonsterMoneyTEST10_padded.high" size="524288" crc="952f33d7" sha1="1c67b5f6d81aecdda03af2d34135953c95c817f2"/>
+		<rom name="mMonsterMoneyTEST10_padded.low" size="524288" crc="3ee43f5c" sha1="11e610853da99bc4a9cd287e8ba2aa176c49c59a"/>
+		<rom name="Monster_Money_(Reflex)_[Dx01_100jp].eep" size="512" crc="3c92be23" sha1="08cf26e3a0ae5e0d14f533dee753587a49d3ee99"/>
+		<rom name="Monster_Money_(Reflex)_[Dx01_100jp].fml" size="7725939" crc="a6cd4a88" sha1="8fbdfb4c1cd6b448c599b8364d512558d2c0a270"/>
+		<rom name="Monster_Money_(Reflex)_[Dx01_100jp].gam" size="586" crc="9fea26c3" sha1="20ce7c3d48e0c6a19f814e0d0f39cb41724cfd45"/>
+		<rom name="Monster_Money_(Reflex)_[Dx01_100jp].jpg" size="151686" crc="09d84f38" sha1="dd40c28767334ee5c1bffb2177539b80571dd4f7"/>
+		<rom name="Monster_Money_(Reflex)_[Dx01_100jp].ram" size="65536" crc="6446b191" sha1="1cf3cf3d0abca1bbe41550a86f3b54c06c99e289"/>
+		<rom name="Monster_Money_(Reflex)_[Dx01_100jp].txt" size="302" crc="601cfdff" sha1="8541c85375a30144ba955cbf5d7a82d8e04a218b"/>
+		<rom name="MONSTERMONEY_1.bin" size="1048576" crc="a9b22726" sha1="8d5f9a0ab64dcadba9b17dca5d17408c9fe84b09"/>
+		<rom name="MONSTERMONEY_2.bin" size="1048576" crc="717a30db" sha1="441f56e77decd72caabb2cb3bba9532ee1c203d3"/>
+	</game>
+	<game name="Off The Hook (Reflex)">
+		<rom name="moffthehooktest10_padded.high" size="524288" crc="6177a61d" sha1="152e136a34e55213de6763877cde95f3c7e5c576"/>
+		<rom name="moffthehooktest10_padded.low" size="524288" crc="0f766292" sha1="2ced087cba277844d5cfc5fe5f175dfab19e7180"/>
+		<rom name="mpoffthehooktest10_padded.high" size="524288" crc="a5f66299" sha1="3eb19dc6e2a86afecec18c0ebce30f245988ef2e"/>
+		<rom name="mpoffthehooktest10_padded.low" size="524288" crc="0e43efae" sha1="07e8ce1638c2e54079031e8cb6f14cc6c4e0781f"/>
+		<rom name="Off_The_Hook_(Reflex)_[Dx01_100jp].eep" size="512" crc="709f0b4e" sha1="e7d4a8e2dc7e9f63258b7f7d6c6a2e3633a0bc5c"/>
+		<rom name="Off_The_Hook_(Reflex)_[Dx01_100jp].fml" size="6491989" crc="45bbb0b4" sha1="30ca235af81e644138dc5cddc72686f92f7a2ce5"/>
+		<rom name="Off_The_Hook_(Reflex)_[Dx01_100jp].gam" size="613" crc="de597567" sha1="9ab381a33ddf0513efc77255596039384c190c14"/>
+		<rom name="Off_The_Hook_(Reflex)_[Dx01_100jp].jpg" size="283616" crc="494c5df3" sha1="9788e8bde821ddb0120335034f76785a53a802c3"/>
+		<rom name="Off_The_Hook_(Reflex)_[Dx01_100jp].ram" size="65536" crc="08e058c9" sha1="251236ea6fda8f8bafc2983df3a14811c3b441cb"/>
+		<rom name="Off_The_Hook_(Reflex)_[Dx01_100jp].txt" size="675" crc="1191a623" sha1="dc648ad3a52627cb80ddc09379e7dbfb68b39aa7"/>
+		<rom name="offthehook_1.bin" size="1048576" crc="0d5440f2" sha1="87c2997bd7314d171ef0c92da3c12be2b6026945"/>
+		<rom name="offthehook_2.bin" size="1048576" crc="f20a96cc" sha1="9e9a55af6f98eb1a6c867dfd4848d2df8632e352"/>
+	</game>
+	<game name="Pay Maker, The (Reflex)">
+		<rom name="mPayMaker_100TEST13_padded.high" size="524288" crc="17dabe7e" sha1="838595cdd54003625780e4fc6ce58a04c219e8a2"/>
+		<rom name="mPayMaker_100TEST13_padded.low" size="524288" crc="82318958" sha1="d5c591379fb42774795589667cf1b2da109ae0de"/>
+		<rom name="mppaymaker_10013_.high" size="524288" crc="b7ebd57f" sha1="9845c4a81a5925887e7f0ed073eea7336b1eb6cc"/>
+		<rom name="mppaymaker_10013_.low" size="524288" crc="762207ad" sha1="cd5c5dd62bf49c4e32f6265053b81d0153cc2d1d"/>
+		<rom name="Pay_Maker,_The_(Reflex)_[Dx01_100jp].eep" size="512" crc="e036f8de" sha1="49fc9379846ae2d21d74e16d2411b383c2e4d90a"/>
+		<rom name="Pay_Maker,_The_(Reflex)_[Dx01_100jp].fml" size="11249771" crc="d63d16f2" sha1="4e1c12999dfec1561ba4d0153ec277b67e508653"/>
+		<rom name="Pay_Maker,_The_(Reflex)_[Dx01_100jp].gam" size="522" crc="b8b69006" sha1="25e36bebe73466d627aeffcc2a851d567bc1d4bf"/>
+		<rom name="Pay_Maker,_The_(Reflex)_[Dx01_100jp].jpg" size="340841" crc="9a381674" sha1="bf36633bee393476c56d04edb6ad1126e6ef432b"/>
+		<rom name="Pay_Maker,_The_(Reflex)_[Dx01_100jp].ram" size="65536" crc="d7536368" sha1="6276ff5dd42d086d05001e363daecc961d6520a2"/>
+		<rom name="Pay_Maker,_The_(Reflex)_[Dx01_100jp].txt" size="681" crc="4e211478" sha1="334838ab65fca104f9b71830ec7779454c1ab62c"/>
+		<rom name="paymaker100.high" size="524288" crc="17dabe7e" sha1="838595cdd54003625780e4fc6ce58a04c219e8a2"/>
+		<rom name="paymaker100.low" size="524288" crc="82318958" sha1="d5c591379fb42774795589667cf1b2da109ae0de"/>
+		<rom name="paymaker100padded.high" size="524288" crc="17dabe7e" sha1="838595cdd54003625780e4fc6ce58a04c219e8a2"/>
+		<rom name="paymaker100padded.low" size="524288" crc="82318958" sha1="d5c591379fb42774795589667cf1b2da109ae0de"/>
+		<rom name="paymaker_1.bin" size="1048576" crc="df8487c4" sha1="ed9321c45e6fdc559f86a335de4d922ef628c58c"/>
+		<rom name="paymaker_2.bin" size="1048576" crc="29776bd6" sha1="32dce49c9d6cb2bf2acf5c586ba1ff8724150582"/>
+	</game>
+	<game name="Phoenix (Reflex)">
+		<rom name="Phoe1-2.snd" size="1048576" crc="066152f3" sha1="2c3d7d9d94f3a5a28d0f92ca4dc009213e6092b1"/>
+		<rom name="phoe1-2snd.bin" size="1048576" crc="066152f3" sha1="2c3d7d9d94f3a5a28d0f92ca4dc009213e6092b1"/>
+		<rom name="phoe1-4.hi" size="524288" crc="a6db8a94" sha1="6cfbcaf480f2707567e951faecbfa743aa2e0d17"/>
+		<rom name="phoe1-4.lo" size="524288" crc="2dd23d79" sha1="dceb1a8ae8d6a25b7ef3bef90c8cd93fd7c2ab33"/>
+		<rom name="phoe1-4p.hi" size="524288" crc="e8c2119a" sha1="94526a969200090525cd7b8d2629d016eefd3e61"/>
+		<rom name="phoe1-4p.lo" size="524288" crc="f8aff49f" sha1="2532f501032579298d7a83698c1946a06bdbf060"/>
+		<rom name="phoenix.hi" size="524288" crc="f23ae723" sha1="9a4bbe9d305f7a24ee71216270d98e5830630c63"/>
+		<rom name="phoenix.lo" size="524288" crc="793350ce" sha1="888be3c3e4711750c5102a6a4a19fd0458462444"/>
+		<rom name="Phoenix_(Reflex)_[C01_25jp].fml" size="2550635" crc="97336c0a" sha1="174242270aee89cd7c535ea851cc2b40a0c2131b"/>
+		<rom name="Phoenix_(Reflex)_[C01_25jp].gam" size="313" crc="93f5369f" sha1="f146a5681dd3fca9a47be43b6dbc3dd798371243"/>
+		<rom name="Phoenix_(Reflex)_[C01_25jp].jpg" size="276627" crc="844e6b6a" sha1="f4bbaa9c26691112aceaf629c8f4d4bdeb4b714a"/>
+		<rom name="Phoenix_(Reflex)_[C01_25jp].ram" size="65536" crc="8786a89c" sha1="7e6557506e2ac59da784075be469c0ac5ead48c6"/>
+		<rom name="Phoenix_(Reflex)_[C01_25jp].txt" size="343" crc="0d3f6133" sha1="f9584d99ce3b396594f8d036aa2f59e11afef534"/>
+	</game>
+	<game name="Pole Position (Reflex)">
+		<rom name="Pole_Position_(Reflex)_[Dx01_75jp].fml" size="10426069" crc="b61250c9" sha1="e07c370c77fb72f102e4fa21add86d96a49ecbb1"/>
+		<rom name="Pole_Position_(Reflex)_[Dx01_75jp].gam" size="458" crc="fc50c563" sha1="e49eb05e32eff4bb613d2c630619bd34f7cd849a"/>
+		<rom name="Pole_Position_(Reflex)_[Dx01_75jp].ram" size="65536" crc="2fc9e94f" sha1="b2bc12beceb4290cddbe77ed39d77b0aaba8fff7"/>
+		<rom name="Pole_Position_(Reflex)_[Dx01_75jp].rtc" size="256" crc="366311fb" sha1="e72d6d0d2ae4992220f6f8d43220d4a412564e82"/>
+		<rom name="poleposition11.high" size="524288" crc="77df40bc" sha1="e46677933e24c6d5b4974a7626ab2ae2f2f1d203"/>
+		<rom name="poleposition11.low" size="524288" crc="bdcffaca" sha1="91cccc98a9f7245c9891b8e9fc0a2b5cef9eb87b"/>
+		<rom name="poleposition_1.bin" size="1048576" crc="e44466c1" sha1="1aa7984661af9b3faf1a9b7b15559f8669d77610"/>
+		<rom name="poleposition_2.bin" size="1048576" crc="003cb135" sha1="426fd08693193a319314118e6d1d4169c03003a2"/>
+	</game>
+	<game name="Pole Position Club (Reflex) [c]">
+		<rom name="mpoleposition11_padded.high" size="524288" crc="77df40bc" sha1="e46677933e24c6d5b4974a7626ab2ae2f2f1d203"/>
+		<rom name="mpoleposition11_padded.low" size="524288" crc="bdcffaca" sha1="91cccc98a9f7245c9891b8e9fc0a2b5cef9eb87b"/>
+		<rom name="Pole_Position_Club_(Reflex)_[C01_250jp]_[c].eep" size="1024" crc="efb5af2e" sha1="60cacbf3d72e1e7834203da608037b1bf83b40e8"/>
+		<rom name="Pole_Position_Club_(Reflex)_[C01_250jp]_[c].fml" size="1085789" crc="ec561b56" sha1="6d9653acf42a8340ab62c4b7a2cc13fcd18e9fa7"/>
+		<rom name="Pole_Position_Club_(Reflex)_[C01_250jp]_[c].gam" size="473" crc="9de90cd9" sha1="a7707585307c3d769cf66e6ee768430bbc0070ea"/>
+		<rom name="Pole_Position_Club_(Reflex)_[C01_250jp]_[c].jpg" size="168387" crc="5d4b42cf" sha1="d9bb93fe64a43930463fddb68600591d9770fb0b"/>
+		<rom name="Pole_Position_Club_(Reflex)_[C01_250jp]_[c].ram" size="65536" crc="21cf51ec" sha1="b69c49c8545bbe70bbd41f1e88e2c4324947e416"/>
+		<rom name="Pole_Position_Club_(Reflex)_[C01_250jp]_[c].rtc" size="256" crc="74026d2f" sha1="9a56cfc9922d93f09ba1bbd8c9a6881d0a412c3e"/>
+		<rom name="Pole_Position_Club_(Reflex)_[C01_250jp]_[c].txt" size="104" crc="95eabff3" sha1="41b9a88f661a49be565776111346c34d0426b408"/>
+		<rom name="Pole_Position_Club_(Reflex)_[Dx01_250jp]_[c].fml" size="10140318" crc="95d130b5" sha1="a4009454ebcaf573c747255c3b25c277c9eb4c58"/>
+		<rom name="Pole_Position_Club_(Reflex)_[Dx01_250jp]_[c].gam" size="469" crc="71720dc8" sha1="c17e69330611c372859c8ce12179bbecebfb9659"/>
+		<rom name="Pole_Position_Club_(Reflex)_[Dx01_250jp]_[c].jpg" size="327361" crc="c744ceb0" sha1="d41776b04cf33b064f22355e5396112cf9daafce"/>
+		<rom name="Pole_Position_Club_(Reflex)_[Dx01_250jp]_[c].ram" size="65536" crc="141f1dbf" sha1="18ff617528f2b283369bb5984301b4400a77e3d7"/>
+		<rom name="Pole_Position_Club_(Reflex)_[Dx01_250jp]_[c].rtc" size="256" crc="029fedd6" sha1="1a0e7d3e5dbd58ac2a12b00c5cb6f47fb0cbdcf0"/>
+		<rom name="Pole_Position_Club_(Reflex)_[Dx01_250jp]_[c].txt" size="283" crc="f97594c4" sha1="7ccb0f55d8643e3be785b2f4c558b6603ae29775"/>
+		<rom name="Pole_Position_Club_(Reflex)_[Dx01_75jp]_[c].fml" size="10426069" crc="b61250c9" sha1="e07c370c77fb72f102e4fa21add86d96a49ecbb1"/>
+		<rom name="Pole_Position_Club_(Reflex)_[Dx01_75jp]_[c].gam" size="463" crc="ae889258" sha1="b2418cc2cf0d4ce5bff272cb0074b662550f481b"/>
+		<rom name="Pole_Position_Club_(Reflex)_[Dx01_75jp]_[c].jpg" size="1057302" crc="ec565d55" sha1="ceb430035f77d0af57317d3194582273dd01fc89"/>
+		<rom name="Pole_Position_Club_(Reflex)_[Dx01_75jp]_[c].ram" size="65536" crc="6315b4cb" sha1="578a1858e9399526964954d3b7d91409e96e0050"/>
+		<rom name="Pole_Position_Club_(Reflex)_[Dx01_75jp]_[c].rtc" size="256" crc="e382fc91" sha1="49f680d4c746e7c90927e0c683138227e6577eb6"/>
+		<rom name="Pole_Position_Club_(Reflex)_[Dx01_75jp]_[c].txt" size="238" crc="4c22da17" sha1="8dc9015beb0a40a3a17c2825ee8ccab77b8db3c5"/>
+		<rom name="poleposition.high" size="524288" crc="77df40bc" sha1="e46677933e24c6d5b4974a7626ab2ae2f2f1d203"/>
+		<rom name="poleposition.low" size="524288" crc="bdcffaca" sha1="91cccc98a9f7245c9891b8e9fc0a2b5cef9eb87b"/>
+		<rom name="poleposition_1.bin" size="1048576" crc="e44466c1" sha1="1aa7984661af9b3faf1a9b7b15559f8669d77610"/>
+		<rom name="poleposition_2.bin" size="1048576" crc="003cb135" sha1="426fd08693193a319314118e6d1d4169c03003a2"/>
+	</game>
+	<game name="Public Enemy Club (Reflex) [c]">
+		<rom name="clubpublicen_1.bin" size="1048576" crc="307537c9" sha1="4d776891d04dc3b5e882bd33743584556707d132"/>
+		<rom name="clubpublicen_2.bin" size="1048576" crc="6278f83f" sha1="54a2163fce50a343595fc9b25a8c7a9ad6b789bc"/>
+		<rom name="mppublicenemyclub10_.high" size="524288" crc="f26bee07" sha1="c4b20e612cbf35b28a76e9bd0c4614b3e02cc6f3"/>
+		<rom name="mppublicenemyclub10_.low" size="524288" crc="ca3e8980" sha1="67101b4041d36c369e600bc057fad70a34a479bd"/>
+		<rom name="mpublicenemyclubtest10_padded.high" size="524288" crc="d14c3383" sha1="681f16848e9b373071e7d8412245431ecb13621e"/>
+		<rom name="mpublicenemyclubtest10_padded.low" size="524288" crc="e5cc42b6" sha1="7af2bb14cba5b7982fc3b5cbfd46c8e91600a5c9"/>
+		<rom name="Public_Enemy_(Reflex)_[Dx01_400jp]_[c].eep" size="512" crc="fa9fa6c9" sha1="37ae2a10f74c04f205e253ba62555b5d34c4ca85"/>
+		<rom name="Public_Enemy_(Reflex)_[Dx01_400jp]_[c].fml" size="10042345" crc="72eec654" sha1="bbd14585c89b722c2564b5dd4e339eaa0706f132"/>
+		<rom name="Public_Enemy_(Reflex)_[Dx01_400jp]_[c].gam" size="602" crc="4c1560c9" sha1="092c573ff5152b80405580c2b6f58b7e4ae156e6"/>
+		<rom name="Public_Enemy_(Reflex)_[Dx01_400jp]_[c].jpg" size="284226" crc="c5132fc7" sha1="0192b97ab1a8d1e8202cbfb1a52f2745c6f84ec8"/>
+		<rom name="Public_Enemy_(Reflex)_[Dx01_400jp]_[c].ram" size="65536" crc="ffc1695c" sha1="d1a57677f36a355bbfd038c1785e5a1cf8a3340f"/>
+		<rom name="Public_Enemy_(Reflex)_[Dx01_400jp]_[c].txt" size="728" crc="f642dc85" sha1="838482be997ad157ae6d837d7b57f83248b8ec0c"/>
+	</game>
+	<game name="Raiders Of The Lost Tenners (Reflex)">
+		<rom name="mRaidersOfTheLostTenners100TEST12_padded.high" size="524288" crc="c24cf0e5" sha1="b90572517d3318dfdcc520bc6a1dd0f5b0109d63"/>
+		<rom name="mRaidersOfTheLostTenners100TEST12_padded.low" size="524288" crc="86a67b0d" sha1="7c58d502aee133b63cebf38f24ad8cbfd01e2c07"/>
+		<rom name="raiders.high" size="524288" crc="c24cf0e5" sha1="b90572517d3318dfdcc520bc6a1dd0f5b0109d63"/>
+		<rom name="raiders.low" size="524288" crc="86a67b0d" sha1="7c58d502aee133b63cebf38f24ad8cbfd01e2c07"/>
+		<rom name="raiders1.bin" size="1048576" crc="7028803c" sha1="c12d3e800821e258af00b6e71a6cc143ecf01f3a"/>
+		<rom name="raiders2.bin" size="1048576" crc="3a20647d" sha1="a0065c7d69d5915449e1f94363ba85c69cf3f4a0"/>
+		<rom name="RAIDERS_1.bin" size="1048576" crc="7028803c" sha1="c12d3e800821e258af00b6e71a6cc143ecf01f3a"/>
+		<rom name="RAIDERS_2.bin" size="1048576" crc="3a20647d" sha1="a0065c7d69d5915449e1f94363ba85c69cf3f4a0"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_(Reflex)_[C01_100jp].db" size="60" crc="a4901c6f" sha1="447cdb3d3da5b5d3c97f7d98a2f65ca8c329199c"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_(Reflex)_[C01_100jp].eep" size="512" crc="45cd6556" sha1="0a2040a5c52804c1fc238cc9811ea8e6d60c89b2"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_(Reflex)_[C01_100jp].fml" size="1860052" crc="ea3e5341" sha1="dcedc3c90f8e8f8dcf31aedba2ec18197a249a7e"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_(Reflex)_[C01_100jp].gam" size="510" crc="5834b5a6" sha1="f9573dac9f868a44d24019c6937510e37a1ee999"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_(Reflex)_[C01_100jp].jpg" size="261277" crc="f37230bb" sha1="b186da7d35bc8e62e2ad0639f2fa6ab4b4f8dc26"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_(Reflex)_[C01_100jp].ram" size="65536" crc="4d2726d7" sha1="97a555df5c32f94f49af18c22b30e18a741fdb53"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_(Reflex)_[C01_100jp].txt" size="323" crc="095649d8" sha1="c8ab9d2a832ea87daf038beac65d5616042491a4"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_(Reflex)_[Dx01_100jp].eep" size="512" crc="4cb12d0c" sha1="6f0e74aee4f49546d2203f373b5cf18640775821"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_(Reflex)_[Dx01_100jp].fml" size="11021440" crc="f79504fd" sha1="52f19c0c897047e1d2bbb15adc996a1eea1ea956"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_(Reflex)_[Dx01_100jp].gam" size="568" crc="14a3c303" sha1="2d93deda6fa2b0c26563836c2612966667d87f76"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_(Reflex)_[Dx01_100jp].jpg" size="322520" crc="a9ff0abd" sha1="81c3fcf6d509572e32c612d8cccc8b8d0cabf262"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_(Reflex)_[Dx01_100jp].ram" size="65536" crc="d998b5d9" sha1="c295647f7e7154e61f4e760b84fcdaa1a19b6a22"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_(Reflex)_[Dx01_100jp].txt" size="670" crc="f5412975" sha1="6a90f10d3793102c60d9f29fce45bcf5a6a11076"/>
+	</game>
+	<game name="Raiders Of The Lost Tenners Club (Reflex) [c]">
+		<rom name="mCROTLT_400TEST11_padded.high" size="524288" crc="3a28b438" sha1="97e0c9ca52856b87310eaf27495c842718d58a70"/>
+		<rom name="mCROTLT_400TEST11_padded.low" size="524288" crc="4453f6b6" sha1="6dee059deceaa7f12c0adbd6ece73693851e5df2"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_Club_(Reflex)_[Dx01_400jp]_[c].eep" size="8192" crc="ea4114a2" sha1="c1989a046abbdf3ca91f95aa809c071f9597f5e7"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_Club_(Reflex)_[Dx01_400jp]_[c].fml" size="10241544" crc="97b7d368" sha1="e4efe0cf4d94aa2354a43546022ce8a3119d6961"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_Club_(Reflex)_[Dx01_400jp]_[c].gam" size="565" crc="d57ff90e" sha1="5fbb1bbbe5d3232922538543220949add83722a7"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_Club_(Reflex)_[Dx01_400jp]_[c].jpg" size="289415" crc="88bf4dd9" sha1="e73f6be07eaaec37f788e1e340d6c2cfc006903d"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_Club_(Reflex)_[Dx01_400jp]_[c].ram" size="65536" crc="25ed2cb2" sha1="b69bf10e1e94594938d48fd5cf9b72c10a2ebe4e"/>
+		<rom name="Raiders_Of_The_Lost_Tenners_Club_(Reflex)_[Dx01_400jp]_[c].txt" size="348" crc="60722e9c" sha1="d340141c7530f2df429264dc49ccf8004a712740"/>
+		<rom name="raidersclub_1.bin" size="1048576" crc="36003d74" sha1="1ffee4602979cf34d868bfb26c102efe276f313a"/>
+		<rom name="raidersclub_2.bin" size="1048576" crc="595d4bc5" sha1="3cf7bb5ca85523d745fed7a745148b00f721a156"/>
+		<rom name="rotlt400.high" size="524288" crc="3a28b438" sha1="97e0c9ca52856b87310eaf27495c842718d58a70"/>
+		<rom name="rotlt400.low" size="524288" crc="4453f6b6" sha1="6dee059deceaa7f12c0adbd6ece73693851e5df2"/>
+	</game>
+	<game name="Robin The Rich (Reflex)">
+		<rom name="mRobinTheRichTEST10_padded.high" size="524288" crc="15f1dd38" sha1="5322f83a51a44dd4f0db21c99f8296ac8a8dc79b"/>
+		<rom name="mRobinTheRichTEST10_padded.low" size="524288" crc="3b53378d" sha1="143a82568aa1bbd0374282550639779509f04296"/>
+		<rom name="Robin_The_Rich_(Reflex)_[C01_10jp].eep" size="8192" crc="ea4114a2" sha1="c1989a046abbdf3ca91f95aa809c071f9597f5e7"/>
+		<rom name="Robin_The_Rich_(Reflex)_[C01_10jp].fml" size="3442090" crc="3c0abb86" sha1="b24520cce5637ab0ec8231bd820ea78064a1a908"/>
+		<rom name="Robin_The_Rich_(Reflex)_[C01_10jp].gam" size="533" crc="68853188" sha1="f2149957e8bcfcf727694f678003bf6d95ec176d"/>
+		<rom name="Robin_The_Rich_(Reflex)_[C01_10jp].png" size="281587" crc="157adc64" sha1="69e753dad618bf9d749a94587661bcdc78922e7f"/>
+		<rom name="Robin_The_Rich_(Reflex)_[C01_10jp].ram" size="65536" crc="c895d1b3" sha1="b66772566a8749d71c69ae7f3a7f23f62636fbad"/>
+		<rom name="Robin_The_Rich_(Reflex)_[C01_10jp].txt" size="372" crc="ee2666ca" sha1="5dbceb5aa950a571094d308c6d9026bcda942227"/>
+		<rom name="RTRMINI_1.bin" size="1048576" crc="80b23b59" sha1="028cb51f8dfe7b1f0be462e36110f4d11172db48"/>
+		<rom name="RTRMINI_2.bin" size="1048576" crc="60489498" sha1="5ce489b09383fb2905f1bbf71b71c9ac18384fc3"/>
+	</game>
+	<game name="Roll With It (Reflex)">
+		<rom name="mrollwithit11.high" size="524288" crc="3b8a2334" sha1="2190a1432f63684d6eff9a307f41eca2fd280b61"/>
+		<rom name="mrollwithit11.low" size="524288" crc="23c6ca91" sha1="dc9e14f8da9fc2264a696ad066a62ef725df793d"/>
+		<rom name="mRollWithItTEST11_padded.high" size="524288" crc="3b8a2334" sha1="2190a1432f63684d6eff9a307f41eca2fd280b61"/>
+		<rom name="mRollWithItTEST11_padded.low" size="524288" crc="23c6ca91" sha1="dc9e14f8da9fc2264a696ad066a62ef725df793d"/>
+		<rom name="Roll_With_It_(Reflex)_[Dx01_100jp].eep" size="512" crc="76dd65ad" sha1="5fa3f423e3a7e1b2689c13f9ab0a7cec598f7066"/>
+		<rom name="Roll_With_It_(Reflex)_[Dx01_100jp].fml" size="9224417" crc="700dee68" sha1="7fad3dad248d448a479539f64a3c6b10e8003ff5"/>
+		<rom name="Roll_With_It_(Reflex)_[Dx01_100jp].gam" size="622" crc="6c9f9d5a" sha1="b9d2d48cabea7a242fbb39226e9e310aea3e71b2"/>
+		<rom name="Roll_With_It_(Reflex)_[Dx01_100jp].jpg" size="318640" crc="3a118671" sha1="b1240fb31bf06846fc8377ccdc7b5b2456a66023"/>
+		<rom name="Roll_With_It_(Reflex)_[Dx01_100jp].ram" size="65536" crc="85283ad6" sha1="451662670875ed25a581ce61c798ee2edde2d177"/>
+		<rom name="Roll_With_It_(Reflex)_[Dx01_100jp].txt" size="1844" crc="9b1f68f7" sha1="6dd9cf3575eb57f12217984b84975bf03b0f3dc3"/>
+		<rom name="rollwithit_1.bin" size="1048576" crc="92dc81c6" sha1="0b40632faa0bea13373c709b070d7abb552e5a3f"/>
+		<rom name="rollwithit_2.bin" size="1048576" crc="1a04835b" sha1="e58983d8c8dd3b4cbca4edade47dfe14468cca39"/>
+	</game>
+	<game name="Saturday Knight Fever (Reflex)">
+		<rom name="mSaturdayKnightFeverTEST10_padded.high" size="524288" crc="8448add2" sha1="210a2a5c18a7e04c882666c472f8926c652eb1c6"/>
+		<rom name="mSaturdayKnightFeverTEST10_padded.low" size="524288" crc="37a5eff5" sha1="15062c2cb08bbe54c0ffda2e315a4575139024c0"/>
+		<rom name="Saturday_Knight_Fever_(Reflex)_[Dx01_100jp].eep" size="512" crc="9f4f55ae" sha1="8b399d67e34517e702cb7d20bf91767a229dc282"/>
+		<rom name="Saturday_Knight_Fever_(Reflex)_[Dx01_100jp].fml" size="8737603" crc="73089381" sha1="fecd4c9bd3749ae06880ad8e6cad6d047a4ab1f7"/>
+		<rom name="Saturday_Knight_Fever_(Reflex)_[Dx01_100jp].gam" size="670" crc="1d2d6c6e" sha1="0fee3466dcd0da29d301c8bca29b7d243fad338e"/>
+		<rom name="Saturday_Knight_Fever_(Reflex)_[Dx01_100jp].jpg" size="484178" crc="bde5d38b" sha1="177e848559795f1afa160992031112a6abb15267"/>
+		<rom name="Saturday_Knight_Fever_(Reflex)_[Dx01_100jp].ram" size="65536" crc="98f60730" sha1="10390064303a4832fd2f36d18ff0e3a6b54cac0e"/>
+		<rom name="Saturday_Knight_Fever_(Reflex)_[Dx01_100jp].txt" size="899" crc="67608fba" sha1="666e90259d9e3bfe6776cfeb9ce0bf1aeba1a62c"/>
+		<rom name="SKF_1.bin" size="1048576" crc="c8ec1d48" sha1="a460f56e2d37c2000eb7b7d061ffa5513ead3636"/>
+		<rom name="SKF_2.bin" size="1048576" crc="4af44b69" sha1="977521cf9339c28149d1a68d415d1598b6de770a"/>
+	</game>
+	<game name="Sharks Of The Caribbean (Reflex)">
+		<rom name="msharksofthecaribbeantest10.rgf" size="4194304" crc="d07b8749" sha1="10088814227d4405a793d4d63b05878fd53651fd"/>
+		<rom name="mSharksOfTheCaribbeanTEST10_padded.high" size="524288" crc="32b4cee4" sha1="371503aefb367e531debbe7004d363deef96c955"/>
+		<rom name="mSharksOfTheCaribbeanTEST10_padded.low" size="524288" crc="4f47f0e5" sha1="f1166cdb5097db5f9633bdf5556ef50a0d2177b0"/>
+		<rom name="sharks_1.bin" size="1048576" crc="c97fe787" sha1="e2556339a105001f7beff481eaa8218d95e8cde4"/>
+		<rom name="sharks_2.bin" size="1048576" crc="b31808ff" sha1="cfe6cd4181e36aa9ecef99abc08423a9486e7dcd"/>
+		<rom name="Sharks_Of_The_Caribbean_(Reflex)_[Dx01_100jp].eep" size="512" crc="8fae2002" sha1="4f7c83144ef8710c95c08e92b0005ff43a6add3f"/>
+		<rom name="Sharks_Of_The_Caribbean_(Reflex)_[Dx01_100jp].fml" size="10994048" crc="c6b2a063" sha1="58b13a35d7c57ba292d8e70371ff9a0b8391b636"/>
+		<rom name="Sharks_Of_The_Caribbean_(Reflex)_[Dx01_100jp].gam" size="643" crc="f59ca1fa" sha1="44d4fb859582d8706f1e2fe45863f4c6b475d118"/>
+		<rom name="Sharks_Of_The_Caribbean_(Reflex)_[Dx01_100jp].jpg" size="333862" crc="a139d164" sha1="3fd8091d35bef9c7710f1e188eef65d5ee0d8552"/>
+		<rom name="Sharks_Of_The_Caribbean_(Reflex)_[Dx01_100jp].ram" size="65536" crc="ea4f7d53" sha1="1747c7099ff6f64d4f2b816a4ceed4e2ddeaf07b"/>
+		<rom name="Sharks_Of_The_Caribbean_(Reflex)_[Dx01_100jp].txt" size="1267" crc="eb630884" sha1="1e938bd52505d42451f6c5950758e14fc835be57"/>
+		<rom name="sharksofthecaribbean.high" size="524288" crc="32b4cee4" sha1="371503aefb367e531debbe7004d363deef96c955"/>
+		<rom name="sharksofthecaribbean.low" size="524288" crc="4f47f0e5" sha1="f1166cdb5097db5f9633bdf5556ef50a0d2177b0"/>
+		<rom name="sharksofthecaribbean10.rgf" size="4194304" crc="d07b8749" sha1="10088814227d4405a793d4d63b05878fd53651fd"/>
+	</game>
+	<game name="Showtime (Reflex)">
+		<rom name="show.high" size="524288" crc="543b3eaa" sha1="026e9b033cbdc575274ddfe920f581197a841a28"/>
+		<rom name="show.low" size="524288" crc="33299903" sha1="abb7a089edc131e1291a6ce9788a4effdf5c9948"/>
+		<rom name="Showtime_(Reflex)_[Dx01_100jp].eep" size="512" crc="799d0dd9" sha1="c11c4ede137683da2749948f4ec4e48a998a5431"/>
+		<rom name="Showtime_(Reflex)_[Dx01_100jp].fml" size="5824568" crc="e21647b6" sha1="b61eebf7d9adbd95171fb840808aea41074a27c4"/>
+		<rom name="Showtime_(Reflex)_[Dx01_100jp].gam" size="512" crc="760ce28e" sha1="180ce13e2bb48c12867d8ebfbd57f75748c3c0cd"/>
+		<rom name="Showtime_(Reflex)_[Dx01_100jp].jpg" size="283658" crc="081e57dd" sha1="4f6ca542cbcd2164934455523eb046f3b97e5959"/>
+		<rom name="Showtime_(Reflex)_[Dx01_100jp].ram" size="65536" crc="3b037ecf" sha1="ab4543b573021020a0a26a8cd352344a64fde5bf"/>
+		<rom name="Showtime_(Reflex)_[Dx01_100jp].txt" size="245" crc="6c14a91a" sha1="d1ed0f522deccb49da07a76e2cd13783e4bfa800"/>
+		<rom name="SHOWTIME_1.bin" size="1048576" crc="bace6c09" sha1="c8ab358cd61896ca42275086c1dfc232e1e2ca94"/>
+		<rom name="SHOWTIME_2.bin" size="1048576" crc="47d7b6e4" sha1="a59cde3b6219abf521ee053091766fd381f30dd5"/>
+	</game>
+	<game name="Snow White &amp; The Seven Tenners (Reflex)">
+		<rom name="mcsw7t_40011_.high" size="524288" crc="baaf4f0b" sha1="7cbeac51e89566effc9fc263aa99f16a11c95ffa"/>
+		<rom name="mcsw7t_40011_.low" size="524288" crc="553c5b0e" sha1="54a6dda2569aa052f42b23e77aeed81253e18490"/>
+		<rom name="mpcsw7t_40011_.high" size="524288" crc="9827d92d" sha1="75fb5ddb83b85bbfd49a06e14406ce9ed5cdfb58"/>
+		<rom name="mpcsw7t_40011_.low" size="524288" crc="8955bd79" sha1="6948f7ffcf6954b873e60642bdb61198628738a3"/>
+		<rom name="mSnowWhite7Tenners100TEST15_padded.high" size="524288" crc="2913dd00" sha1="5368f33b33fe7afc50b1a4be06d0ed7bc17a19df"/>
+		<rom name="mSnowWhite7Tenners100TEST15_padded.low" size="524288" crc="fb48ff47" sha1="b1b4c07d96d1a577c32e59028995918a57f67715"/>
+		<rom name="Snow_White_&amp;_The_Seven_Tenners_(Reflex)_[C01_100jp].eep" size="512" crc="47f03d1a" sha1="5818dc871f5de7510913aa8eaac9a4e4826756af"/>
+		<rom name="Snow_White_&amp;_The_Seven_Tenners_(Reflex)_[C01_100jp].fml" size="1815684" crc="b14d6623" sha1="b822da3119b38ec35ee022257d307545ea5ae20c"/>
+		<rom name="Snow_White_&amp;_The_Seven_Tenners_(Reflex)_[C01_100jp].gam" size="550" crc="4a232104" sha1="4ec7a946d1d8ae5d55c9324e8ad5ed40bb9d1d24"/>
+		<rom name="Snow_White_&amp;_The_Seven_Tenners_(Reflex)_[C01_100jp].jpg" size="61670" crc="d0a4f205" sha1="fcf8f3aae98da5c8344b4053d2da2f8365cd2d6c"/>
+		<rom name="Snow_White_&amp;_The_Seven_Tenners_(Reflex)_[C01_100jp].ram" size="65536" crc="8eb52e2f" sha1="c48f8d833fad41b738e975732dbf07ee6953123b"/>
+		<rom name="Snow_White_&amp;_The_Seven_Tenners_(Reflex)_[C01_5jp].eep" size="8192" crc="ea4114a2" sha1="c1989a046abbdf3ca91f95aa809c071f9597f5e7"/>
+		<rom name="Snow_White_&amp;_The_Seven_Tenners_(Reflex)_[C01_5jp].fml" size="1819836" crc="33c44790" sha1="9f7a2c7ac4aa82c4442c81a6c8bfd73f0633c615"/>
+		<rom name="Snow_White_&amp;_The_Seven_Tenners_(Reflex)_[C01_5jp].gam" size="541" crc="81b19abb" sha1="de5f62d5dd008c37288bb3c1e4dcd824c66263da"/>
+		<rom name="Snow_White_&amp;_The_Seven_Tenners_(Reflex)_[C01_5jp].jpg" size="52572" crc="52db445f" sha1="b461f70b777a00b752bbe5a70a6a6b2c8c8c0b9a"/>
+		<rom name="Snow_White_&amp;_The_Seven_Tenners_(Reflex)_[C01_5jp].ram" size="65536" crc="655d8774" sha1="8b916b6110dffe82a2c68cc27d914a6f65002c57"/>
+		<rom name="Snow_White_&amp;_The_Seven_Tenners_(Reflex)_[Dx01_100jp].eep" size="512" crc="fda8373a" sha1="de390b66a4c000acff019e7b15e688bf276f392c"/>
+		<rom name="Snow_White_&amp;_The_Seven_Tenners_(Reflex)_[Dx01_100jp].fml" size="11582559" crc="a9348f74" sha1="079e8b8b51b71ffda59ef361e2644c4624f85016"/>
+		<rom name="Snow_White_&amp;_The_Seven_Tenners_(Reflex)_[Dx01_100jp].gam" size="678" crc="4394611a" sha1="067bb7d9dbad8cb4642860575ccc417817a2c1c1"/>
+		<rom name="Snow_White_&amp;_The_Seven_Tenners_(Reflex)_[Dx01_100jp].jpg" size="350237" crc="9be069e2" sha1="79b454dc9003fe1ebf9a538d8d03ff376a63cd26"/>
+		<rom name="Snow_White_&amp;_The_Seven_Tenners_(Reflex)_[Dx01_100jp].ram" size="65536" crc="9e7e0300" sha1="3f9174c814ffb7d0c37379fad04726c5c406cbf9"/>
+		<rom name="Snow_White_&amp;_The_Seven_Tenners_(Reflex)_[Dx01_100jp].txt" size="430" crc="f24ab4a2" sha1="8d28aab968d16c07cae79460260337b936ef9fb4"/>
+		<rom name="snowwhite5pn_1.bin" size="1048576" crc="ad70b373" sha1="d1009b0dad60d94309e606dbaa2cdd64d926c811"/>
+		<rom name="snowwhite5pn_2.bin" size="1048576" crc="436e1986" sha1="fe4ada623227875b70465a4a1af424a5b26374ac"/>
+		<rom name="snowwhite7tenners100.high" size="524288" crc="2913dd00" sha1="5368f33b33fe7afc50b1a4be06d0ed7bc17a19df"/>
+		<rom name="snowwhite7tenners100.low" size="524288" crc="fb48ff47" sha1="b1b4c07d96d1a577c32e59028995918a57f67715"/>
+		<rom name="snowwhite7tenners100p.high" size="524288" crc="fb5ef123" sha1="fa66e54cacdeff66f71dbf4278f5210ee2380af9"/>
+		<rom name="snowwhite7tenners100p.low" size="524288" crc="682f8fed" sha1="ff7966f2f6822ccd2c15b79e3c1895975341cc92"/>
+		<rom name="snowwhite7tenners_s4_catd.high" size="524288" crc="18bb8706" sha1="4fa9c112c8999a446b8726e847869ad67b4dd1f0"/>
+		<rom name="snowwhite7tenners_s4_catd.low" size="524288" crc="9d2f4191" sha1="142f3067efcfd7483ae8ae4814a6f08e6172de7c"/>
+		<rom name="snowwhite_1.bin" size="1048576" crc="07660bfe" sha1="c4f4f7f65d000e540d6b263c4fa46866c350bacd"/>
+		<rom name="snowwhite_2.bin" size="1048576" crc="3074be78" sha1="5da7b6ab287c7e73c2832ff8f9ef441b52170345"/>
+	</game>
+	<game name="Spartacash (Reflex)">
+		<rom name="mpspartacashtest10.high" size="524288" crc="9be658be" sha1="bb6221fef79beaa203966693f3faddc871c26e43"/>
+		<rom name="mpspartacashtest10.low" size="524288" crc="e36a478c" sha1="cf8147c1cd2cef8089b9aea9ea2fab58728e9a9c"/>
+		<rom name="mspartacashtest10.high" size="524288" crc="dbf9890b" sha1="cb887c441c3f7cfb17ef56a66c9335af5c16baf3"/>
+		<rom name="mspartacashtest10.low" size="524288" crc="b859e510" sha1="b4f304d87f61b593444893937a9679179c301329"/>
+		<rom name="mspartacashtest10.rgf" size="4194304" crc="28297503" sha1="4e396947788ea63fd47c9264c324b07949d7cc34"/>
+		<rom name="mSpartacashTEST10_padded.high" size="524288" crc="dbf9890b" sha1="cb887c441c3f7cfb17ef56a66c9335af5c16baf3"/>
+		<rom name="mSpartacashTEST10_padded.low" size="524288" crc="b859e510" sha1="b4f304d87f61b593444893937a9679179c301329"/>
+		<rom name="spartacash.high" size="524288" crc="dbf9890b" sha1="cb887c441c3f7cfb17ef56a66c9335af5c16baf3"/>
+		<rom name="spartacash.low" size="524288" crc="b859e510" sha1="b4f304d87f61b593444893937a9679179c301329"/>
+		<rom name="Spartacash_(Reflex)_[Dx01_100jp].eep" size="512" crc="adc66daa" sha1="e3e16a8ad03163645c7b20f6efcebab455eb1bc7"/>
+		<rom name="Spartacash_(Reflex)_[Dx01_100jp].fml" size="11751786" crc="69010471" sha1="18c10096bb7e9315baa610fa0502908c0aa4e079"/>
+		<rom name="Spartacash_(Reflex)_[Dx01_100jp].gam" size="577" crc="0d35aa92" sha1="d7412f40ee5416f0ff61e41cd968a246907180f2"/>
+		<rom name="Spartacash_(Reflex)_[Dx01_100jp].jpg" size="294054" crc="067e2215" sha1="6b794fbd0066b992d1455b9eeb04d2ef9f4d5759"/>
+		<rom name="Spartacash_(Reflex)_[Dx01_100jp].ram" size="65536" crc="23bb96a4" sha1="00f92ea29162eaac5d1b2b208c6a187d9010cada"/>
+		<rom name="Spartacash_(Reflex)_[Dx01_100jp].txt" size="1106" crc="d00899fe" sha1="63bbbdd010e15135d4dc595e4c12fc5579af18d5"/>
+		<rom name="spartacash_1.bin" size="1048576" crc="5775e25a" sha1="91be0350d5ce4039d401b64528ddb8dd6862ee5e"/>
+		<rom name="spartacash_2.bin" size="1048576" crc="6dc9aa21" sha1="96d944d4b89887d5c9bab8c0e17cff6cee3e6ef5"/>
+	</game>
+	<game name="Stardust (Reflex)">
+		<rom name="mstardust10.high" size="524288" crc="bae2a54a" sha1="8188cae64a6bb278d064f6530dd54fc330244f99"/>
+		<rom name="mstardust10.low" size="524288" crc="73a78cca" sha1="d8f1ea18c15096f4ae7e3ea6779fb0a7d14cad0a"/>
+		<rom name="Stardust_(Reflex)_[C01_25jp].fml" size="564484" crc="5af4fcb6" sha1="c76ea51fd4c488c09c7a082d63281eaba40e3f15"/>
+		<rom name="Stardust_(Reflex)_[C01_25jp].gam" size="444" crc="0450c77c" sha1="79d2a52dd9c7f5eb877aaa3b9b0ba44d5a52e183"/>
+		<rom name="Stardust_(Reflex)_[C01_25jp].png" size="123856" crc="bc0654c7" sha1="4185040ec87fc83f01fb36daa853384bb390150d"/>
+		<rom name="Stardust_(Reflex)_[C01_25jp].ram" size="65536" crc="36886bc8" sha1="877223a99201d02053fdc3c95641cff62f558c6e"/>
+		<rom name="Stardust_(Reflex)_[C01_25jp].txt" size="395" crc="f673a692" sha1="edf5f6d03d5117192319665efcb89b6c2407e4b3"/>
+		<rom name="STARDUST_SND.bin" size="110933" crc="dec07eae" sha1="111931503def391579bd626fb293ddf4325283b2"/>
+	</game>
+	<game name="The Cash King (Reflex)">
+		<rom name="Cash King.eep" size="512" crc="4fec8c15" sha1="fabd5fe8c89702123e5ac7cfa16dbabc74eec785"/>
+		<rom name="cashking_1.bin" size="1048576" crc="20c72137" sha1="6e8329f280a6217626fe4bae85ff5bbc5d122942"/>
+		<rom name="cashking_2.bin" size="1048576" crc="f4828920" sha1="dadde17f86c4bea29eca84bbb0fa3e920e0f8a62"/>
+		<rom name="mpcashking10_.high" size="524288" crc="317378ce" sha1="67c2e3239cbe7845f52df7cf24200fb0410a559f"/>
+		<rom name="mpcashking10_.low" size="524288" crc="a7ecb004" sha1="4eb8a30f2c9437cfe3939372c4f91282296c4c06"/>
+		<rom name="The_Cash_King_(Reflex)_[Dx01_100jp].eep" size="512" crc="9d75a96c" sha1="5aa0faff1a1eb1314971fa706a32b79d845b800a"/>
+		<rom name="The_Cash_King_(Reflex)_[Dx01_100jp].fml" size="10263031" crc="1511a77e" sha1="adb61138c5dc77f7c175034f0caf80da1436b0a5"/>
+		<rom name="The_Cash_King_(Reflex)_[Dx01_100jp].gam" size="695" crc="3530eaf4" sha1="72d0a10279f82333dc8efb6393b204175209762b"/>
+		<rom name="The_Cash_King_(Reflex)_[Dx01_100jp].png" size="1057237" crc="b3633d71" sha1="012d005f5bd3b77d74d5bc1ebdd59b71c34d2e69"/>
+		<rom name="The_Cash_King_(Reflex)_[Dx01_100jp].ram" size="65536" crc="efaac30a" sha1="c98dd877a49aca46936f85252e268cba779e42a5"/>
+		<rom name="The_Cash_King_(Reflex)_[Dx01_100jp].txt" size="451" crc="ea1511fa" sha1="5725963572809918b36669c5456a4834c3bfbfcf"/>
+	</game>
+	<game name="Tornado (Reflex)">
+		<rom name="mptornadotest22.high" size="524288" crc="afd2d73b" sha1="bb698eb80c980ed0836a6e6c519a408183a9bc05"/>
+		<rom name="mptornadotest22.low" size="524288" crc="4cd8bab7" sha1="a78528f099fd54c0c208bdc1220c887d2eefe2bf"/>
+		<rom name="mtornadotest21.rgf" size="4194304" crc="31a3088b" sha1="d6c10689cdc8ed02729f4288fe18fc4f28bc3408"/>
+		<rom name="mtornadotest22.high" size="524288" crc="5621c240" sha1="2d0ea4650ae842c6b594ff9fe36bee6896a22c13"/>
+		<rom name="mtornadotest22.low" size="524288" crc="baa02e3a" sha1="901ca36cbf566585ad0358d6e929b2be089d7b0e"/>
+		<rom name="mTornadoTEST22_padded.high" size="524288" crc="5621c240" sha1="2d0ea4650ae842c6b594ff9fe36bee6896a22c13"/>
+		<rom name="mTornadoTEST22_padded.low" size="524288" crc="baa02e3a" sha1="901ca36cbf566585ad0358d6e929b2be089d7b0e"/>
+		<rom name="tornado.high" size="524288" crc="5621c240" sha1="2d0ea4650ae842c6b594ff9fe36bee6896a22c13"/>
+		<rom name="tornado.low" size="524288" crc="baa02e3a" sha1="901ca36cbf566585ad0358d6e929b2be089d7b0e"/>
+		<rom name="Tornado_(Reflex)_[C01_100jp].eep" size="512" crc="eb72d081" sha1="21b398b2e10cf2956a415c63699b0464b682544a"/>
+		<rom name="Tornado_(Reflex)_[C01_100jp].fml" size="1059911" crc="64d98e40" sha1="0ffa9cc8a295aeef491bd25282c239dd45e09f1b"/>
+		<rom name="Tornado_(Reflex)_[C01_100jp].gam" size="570" crc="027a4529" sha1="2a3c723d4e8c2217f9dc71cf97435043a1a58e97"/>
+		<rom name="Tornado_(Reflex)_[C01_100jp].jpg" size="286275" crc="8499b50e" sha1="b540b284aeb24ebf42fa1394fe7978a18375b52b"/>
+		<rom name="Tornado_(Reflex)_[C01_100jp].ram" size="65536" crc="8f1d6203" sha1="1bf2d2b3e5f3454b006e88a667a7abbe6a0e2d84"/>
+		<rom name="Tornado_(Reflex)_[C01_100jp].txt" size="276" crc="c84e16bb" sha1="2ce12d437d65779b767af664d7edb08b6bca55f0"/>
+		<rom name="Tornado_(Reflex)_[Dx01_100jp].eep" size="512" crc="9db5b83b" sha1="fadda7a159abd24fc958124d78a640c57f45bbf9"/>
+		<rom name="Tornado_(Reflex)_[Dx01_100jp].fml" size="10565246" crc="2bff4b68" sha1="4b6ede1c5a0640691151cc46e13552aebeceb402"/>
+		<rom name="Tornado_(Reflex)_[Dx01_100jp].gam" size="452" crc="51fde6a4" sha1="095585273a717b55a4d3d63617b7f7de0e9e4331"/>
+		<rom name="Tornado_(Reflex)_[Dx01_100jp].jpg" size="132822" crc="6872689b" sha1="faa25828a2d44be57b07970851b9325d64b29b00"/>
+		<rom name="Tornado_(Reflex)_[Dx01_100jp].ram" size="65536" crc="77e2ca23" sha1="1eaa8b9f7ee0b4bbeb5dc5b52102534ff746efa3"/>
+		<rom name="Tornado_(Reflex)_[Dx01_100jp].txt" size="2003" crc="39005c35" sha1="81d583fbf64dba2ff0b4d8095e68bc43fc89e3c6"/>
+		<rom name="tornado_1.bin" size="1048576" crc="c6d27d9a" sha1="466214a65da6113853da567c0e5e2e3e9ec6703d"/>
+		<rom name="tornado_2.bin" size="1048576" crc="ef421936" sha1="c6d87edca5e419cb80d4df28a811ab96b707feea"/>
+	</game>
+	<game name="Trails Of The Unexpected (Reflex)">
+		<rom name="mptrailsoftheunexpected14_.high" size="524288" crc="5e143a86" sha1="8293ee2a59f7e849b47bb845f01047bc31245e1c"/>
+		<rom name="mptrailsoftheunexpected14_.low" size="524288" crc="3bb91699" sha1="0775caba987d8c054776ffc142bf89f413a0a716"/>
+		<rom name="mTrailsOfTheUnexpectedTEST14_padded.high" size="524288" crc="269a8300" sha1="f958cde926f33c1ac544678d5bfb1025a77ff26b"/>
+		<rom name="mTrailsOfTheUnexpectedTEST14_padded.low" size="524288" crc="8191838d" sha1="898d96d053af40b16c63d8d20df71342e69ff22f"/>
+		<rom name="toftunex_1.bin" size="1048576" crc="6761893d" sha1="554e8ac1c386cc3c6de356cb48d7a34405b622e9"/>
+		<rom name="toftunex_2.bin" size="1048576" crc="38dd7375" sha1="2bbaa5b36015396de5949a5c22a7262681712a5c"/>
+		<rom name="Trails_Of_The_Unexpected_(Reflex)_[Dx01_100jp].eep" size="512" crc="a5125b7b" sha1="90cc7ba615424342780c5af0f1279428bf3267c6"/>
+		<rom name="Trails_Of_The_Unexpected_(Reflex)_[Dx01_100jp].fml" size="10703385" crc="9db1b4e9" sha1="c314a9e114a7c8e8bfaaa3396784c2dc0743d0d1"/>
+		<rom name="Trails_Of_The_Unexpected_(Reflex)_[Dx01_100jp].gam" size="650" crc="2bc6279b" sha1="d263d12d9e579903eee7eeacf6a722d2ba4dfde7"/>
+		<rom name="Trails_Of_The_Unexpected_(Reflex)_[Dx01_100jp].jpg" size="344399" crc="6af81832" sha1="4a1686044ec07d17ef5723448c64321156c740fe"/>
+		<rom name="Trails_Of_The_Unexpected_(Reflex)_[Dx01_100jp].ram" size="65536" crc="b413f0c9" sha1="de07d1e0fd62b60b323b4aee851c049df254c16f"/>
+		<rom name="Trails_Of_The_Unexpected_(Reflex)_[Dx01_100jp].txt" size="1082" crc="98226b27" sha1="1f7cccfa4c6cb0c7e76cabf92b771c90da919bde"/>
+		<rom name="trailsoftheunexpected.high" size="524288" crc="269a8300" sha1="f958cde926f33c1ac544678d5bfb1025a77ff26b"/>
+		<rom name="trailsoftheunexpected.low" size="524288" crc="8191838d" sha1="898d96d053af40b16c63d8d20df71342e69ff22f"/>
+	</game>
+	<game name="Treble Top (Reflex)">
+		<rom name="mTrebleTopS5TEST14_padded.high" size="524288" crc="91d7c07e" sha1="94a5a485b7247e64570fb6d2c9f97e092509eac8"/>
+		<rom name="mTrebleTopS5TEST14_padded.low" size="524288" crc="9b8a4404" sha1="554c87d91718e0a107ec0dd1ccd086a6dd804117"/>
+		<rom name="Treble_Top_(Reflex)_[C01_100jp].eep" size="512" crc="e0e5390e" sha1="8ca1e397417f6fc47a167a0d21b115a809ead172"/>
+		<rom name="Treble_Top_(Reflex)_[C01_100jp].fml" size="2364870" crc="171b8d6b" sha1="114b601c22acdeb41cb518fba464845b95ec09c9"/>
+		<rom name="Treble_Top_(Reflex)_[C01_100jp].gam" size="468" crc="e2d48357" sha1="d5e4129b7b54bf1684bbae977b920931f5d5178e"/>
+		<rom name="Treble_Top_(Reflex)_[C01_100jp].jpg" size="267728" crc="e7415b26" sha1="cb1f9bc539976521d9457f14ed48934102d3f6fe"/>
+		<rom name="Treble_Top_(Reflex)_[C01_100jp].ram" size="65536" crc="e42d1b4a" sha1="3acd897e831feed186870c6112fa7615f92e8cd9"/>
+		<rom name="Treble_Top_(Reflex)_[C01_100jp].txt" size="303" crc="56232987" sha1="849b1ed68b3b871d4bc7f8b9cb6a201b56786c3d"/>
+		<rom name="Treble_Top_(Reflex)_[Dx01_5jp].eep" size="512" crc="e0e5390e" sha1="8ca1e397417f6fc47a167a0d21b115a809ead172"/>
+		<rom name="Treble_Top_(Reflex)_[Dx01_5jp].fml" size="6389292" crc="3aab0d03" sha1="0491a2bee0f183e20044a8b6c6db4b194638aa56"/>
+		<rom name="Treble_Top_(Reflex)_[Dx01_5jp].gam" size="506" crc="826cb207" sha1="962e14bf8c25c9e6fed5979936d93f845a3a5ce9"/>
+		<rom name="Treble_Top_(Reflex)_[Dx01_5jp].jpg" size="115924" crc="52690377" sha1="b0c5d48d4378206e0bc5ded3927b1e2d871dab3f"/>
+		<rom name="Treble_Top_(Reflex)_[Dx01_5jp].ram" size="65536" crc="e87b1cd5" sha1="d253be8c939dbc2926eb9a8c13dcdfb8cd7f60cb"/>
+		<rom name="Treble_Top_(Reflex)_[Dx01_5jp].txt" size="545" crc="253fb45a" sha1="0d6a5f380fcfca2cf7f7f22401a476eb8b3499fd"/>
+		<rom name="trebletop_1.bin" size="1048576" crc="e1a0a790" sha1="2e79dadeaa64bab0444f6b2d2537d7cafb2bb0c8"/>
+		<rom name="trebletop_1.high" size="524288" crc="91d7c07e" sha1="94a5a485b7247e64570fb6d2c9f97e092509eac8"/>
+		<rom name="trebletop_2.bin" size="1048576" crc="5b503e7b" sha1="da24fea1710b45a0889dba93f5f47fd161cd70d5"/>
+		<rom name="trebletop_2.low" size="524288" crc="9b8a4404" sha1="554c87d91718e0a107ec0dd1ccd086a6dd804117"/>
+		<rom name="trebletops5.high" size="524288" crc="91d7c07e" sha1="94a5a485b7247e64570fb6d2c9f97e092509eac8"/>
+		<rom name="trebletops5.low" size="524288" crc="9b8a4404" sha1="554c87d91718e0a107ec0dd1ccd086a6dd804117"/>
+	</game>
+	<game name="Treble Top Club (Reflex) [c]">
+		<rom name="ctrebletop_1.bin" size="1048576" crc="343cb069" sha1="ca54d096972156ff8077a27e292c6dd48a48a7e0"/>
+		<rom name="ctrebletop_2.bin" size="1048576" crc="a066057d" sha1="6399adba341f401c72a9728aba6b92b239cc7d43"/>
+		<rom name="mclubtrebletop11_.high" size="524288" crc="0ec180f4" sha1="38b3c282de473598bf39601cca4f2f58c4387c50"/>
+		<rom name="mclubtrebletop11_.low" size="524288" crc="82a3c396" sha1="e56c217504242ff650f5d8633a4b03d0a318e94d"/>
+		<rom name="mCLUBTREBLETOPTEST11_padded.high" size="524288" crc="0ec180f4" sha1="38b3c282de473598bf39601cca4f2f58c4387c50"/>
+		<rom name="mCLUBTREBLETOPTEST11_padded.low" size="524288" crc="82a3c396" sha1="e56c217504242ff650f5d8633a4b03d0a318e94d"/>
+		<rom name="mpclubtrebletop11_.high" size="524288" crc="ae6a2d6b" sha1="ee0884a503d966d14cfe51ef56ef1308b9777e58"/>
+		<rom name="mpclubtrebletop11_.low" size="524288" crc="97ab7aeb" sha1="31363e7d2ac1a9f017eb9e226ca19270cca10bea"/>
+		<rom name="Treble_Top_(Reflex)_[Dx01_400jp].eep" size="512" crc="97bfb8ba" sha1="b40bc1889e8393528316e30fcbc9b7239e9e0516"/>
+		<rom name="Treble_Top_(Reflex)_[Dx01_400jp].fml" size="10636695" crc="fea2475a" sha1="c5134922032eeb07b4ce1322fddfbf93ca26175f"/>
+		<rom name="Treble_Top_(Reflex)_[Dx01_400jp].gam" size="610" crc="d03fb5fe" sha1="4e98fddb6a96869ccd25f7c7e315fc420ebde334"/>
+		<rom name="Treble_Top_(Reflex)_[Dx01_400jp].jpg" size="273227" crc="881e2335" sha1="a19ca741f821203a4af08f8aaf676c18ba4b6399"/>
+		<rom name="Treble_Top_(Reflex)_[Dx01_400jp].ram" size="65536" crc="045ddfb7" sha1="ac0d54ac91df3e6740e4f2a5169f256db3cd921e"/>
+		<rom name="Treble_Top_(Reflex)_[Dx01_400jp].txt" size="492" crc="5718d2c0" sha1="9f9151a00a1834d78dd649c82dc2a1a588622d4e"/>
+	</game>
+	<game name="Waging Bull (Reflex)">
+		<rom name="mwagingbull10_.high" size="524288" crc="23c36c7a" sha1="fe524234abfa03b8a1696ba24e1b34ce2fd1cf2f"/>
+		<rom name="mwagingbull10_.low" size="524288" crc="7484f206" sha1="cbbb59d306c58088edf96b8878773adc8cfc9fa9"/>
+		<rom name="waginbull_1.bin" size="1048576" crc="fee38746" sha1="d27f8a91e25e2c69828aa4bc0f30d91994342c91"/>
+		<rom name="waginbull_2.bin" size="1048576" crc="cf0ce8cf" sha1="e325286360000161ff1f6305bab63be2451e1ed8"/>
+		<rom name="Waging_Bull_(Reflex)_[Dx01_100jp].eep" size="512" crc="471fabf9" sha1="a48666ac8ebde071807eb323639665a9e6e489ef"/>
+		<rom name="Waging_Bull_(Reflex)_[Dx01_100jp].fml" size="8861760" crc="e4543e30" sha1="0b0b96cd1c5af080ea646adaac65c6b8880d696b"/>
+		<rom name="Waging_Bull_(Reflex)_[Dx01_100jp].gam" size="558" crc="608d210a" sha1="592e12d540ebb036d75a565ce9e090ec708a7f0e"/>
+		<rom name="Waging_Bull_(Reflex)_[Dx01_100jp].jpg" size="577750" crc="83aa2b11" sha1="cb0d1303a70aeb38410868ceefc24e932b5e1a2e"/>
+		<rom name="Waging_Bull_(Reflex)_[Dx01_100jp].ram" size="65536" crc="8d7d25b9" sha1="eb9ab2f27109d1100c374604caeaea484a1cdc93"/>
+		<rom name="Waging_Bull_(Reflex)_[Dx01_100jp].txt" size="899" crc="67608fba" sha1="666e90259d9e3bfe6776cfeb9ce0bf1aeba1a62c"/>
+	</game>
+	<game name="Wild Hot Mini (Reflex)">
+		<rom name="HOTWILD_1.bin" size="1048576" crc="fd871d39" sha1="ecc3e0c8f2afbd2e92c77ea92085bc7510dc846e"/>
+		<rom name="mpwildhotminieclipse11_.high" size="524288" crc="415237cb" sha1="bd3c01d366cdffde895e195b3018cf11fabc7ab3"/>
+		<rom name="mpwildhotminieclipse11_.low" size="524288" crc="11e63812" sha1="2ca82813d3adc648c058925819986c96a9afb742"/>
+		<rom name="mWildHotMiniEclipseTEST11_padded.high" size="524288" crc="ab8e73db" sha1="eadf868be78a5c9205f79ec6e2ec55cdce79fdd4"/>
+		<rom name="mWildHotMiniEclipseTEST11_padded.low" size="524288" crc="87f837ea" sha1="4b02c94fefc5563a19c5079f69aeb38f84c8b2ca"/>
+		<rom name="Wild_Hot_Mini_(Reflex)_[C01_100jp].eep" size="512" crc="96c2f146" sha1="f756c25902960cb861ceefab390e0e96dce5cfb0"/>
+		<rom name="Wild_Hot_Mini_(Reflex)_[C01_100jp].fml" size="3600794" crc="95cda89c" sha1="ca1da6bb1e9cfaa5867491522999e76804d1b31f"/>
+		<rom name="Wild_Hot_Mini_(Reflex)_[C01_100jp].gam" size="581" crc="2a604225" sha1="82d83288750406e65749ee2930161a3af5ade788"/>
+		<rom name="Wild_Hot_Mini_(Reflex)_[C01_100jp].jpg" size="62399" crc="62359d24" sha1="af711c0106bb7334fa9bbea983d6dde87c62ae9f"/>
+		<rom name="Wild_Hot_Mini_(Reflex)_[C01_100jp].ram" size="65536" crc="65b79958" sha1="8fe4d5d59e1574d11b7f14334f27564f7c00edca"/>
+		<rom name="Wild_Hot_Mini_(Reflex)_[C02_100jp].eep" size="512" crc="f7420122" sha1="40579e4c7797dda470bf209b1377c7c3e7ff9bbb"/>
+		<rom name="Wild_Hot_Mini_(Reflex)_[C02_100jp].fml" size="9157152" crc="5194c027" sha1="5a3e3cb4c54a1c5d81029ea1893c80d126e02c74"/>
+		<rom name="Wild_Hot_Mini_(Reflex)_[C02_100jp].gam" size="541" crc="32a41468" sha1="39e791499680dec6b6a5e334974382e18718e4dc"/>
+		<rom name="Wild_Hot_Mini_(Reflex)_[C02_100jp].jpg" size="306693" crc="e725f548" sha1="42b56afa38446f09f4d4eca73e95e5009eb4464f"/>
+		<rom name="Wild_Hot_Mini_(Reflex)_[C02_100jp].ram" size="65536" crc="de78085a" sha1="7c5aae51cbe70475142fdb3661de8e9421f8b487"/>
+		<rom name="Wild_Hot_Mini_(Reflex)_[C02_100jp].txt" size="885" crc="2c00406a" sha1="e9dd2c1668ec78216d4449fd3f38647962f890b1"/>
+		<rom name="wildhotmini.high" size="524288" crc="ab8e73db" sha1="eadf868be78a5c9205f79ec6e2ec55cdce79fdd4"/>
+		<rom name="wildhotmini.low" size="524288" crc="87f837ea" sha1="4b02c94fefc5563a19c5079f69aeb38f84c8b2ca"/>
+		<rom name="wildhotsnd.bin" size="1048576" crc="fd871d39" sha1="ecc3e0c8f2afbd2e92c77ea92085bc7510dc846e"/>
+	</game>
+</datafile>

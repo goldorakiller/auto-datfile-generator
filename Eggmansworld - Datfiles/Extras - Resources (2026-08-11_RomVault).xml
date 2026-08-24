@@ -1,0 +1,1171 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Extras - Resources</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Alphanumeric Displays">
+		<rom name="Alpha Blue 1088x30.Bmp" size="97974" crc="d444c559" sha1="7eeac57372dcae6f6c701fe7bbe835db3a6e7328"/>
+		<rom name="Alpha Blue 960x23.Bmp" size="66294" crc="b019cc8d" sha1="678bb61c65035a4976e6cb1ea3470c69d511cb95"/>
+		<rom name="Alpha Green 1088x30.Bmp" size="97974" crc="a0571706" sha1="b95f9945172a296b228be979c12fa382d8ab6e2b"/>
+		<rom name="Alpha Green 960x23.Bmp" size="66294" crc="412a3df1" sha1="e85308b45b180d214f0b5a35893903c1140d2248"/>
+		<rom name="Alpha Multi 1088x30.bmp" size="97974" crc="bf5eed89" sha1="a516cdcd3bbf0897eddf45c72dead958e1fa1d3c"/>
+		<rom name="Alpha Multi 960x23.bmp" size="66294" crc="ad5a8727" sha1="d5fa3e72b4d10285db9e2c587c76034c815d2785"/>
+		<rom name="Alpha Pink 1088x30.Bmp" size="97974" crc="a017fda5" sha1="32e40b18fe904469a4df89565426cf3cbe27a9a3"/>
+		<rom name="Alpha Pink 960x23.Bmp" size="66294" crc="f45621ed" sha1="30b55bfbbf56a29e18f339e4fb019fccadcb0b23"/>
+		<rom name="Alpha Rainbow 1088x30.bmp" size="97974" crc="9c9b9df5" sha1="fcd84df092a690669e470f5cbd81c7bdc331bdda"/>
+		<rom name="Alpha Rainbow 960x23.bmp" size="66294" crc="fc2cbf5a" sha1="25b02bf7502be8c0c8117d6db2df50d95d234dc3"/>
+		<rom name="Alpha Red 1088x30.Bmp" size="97974" crc="14d94c5b" sha1="d59d9a729ffc95b878c6c83bb667d591d7fa7f2a"/>
+		<rom name="Alpha Red 960x23.Bmp" size="66294" crc="1df30281" sha1="99368e125ca6d245aa32a9df886a714a3e442598"/>
+		<rom name="Alpha Yellow 1088x30.Bmp" size="97974" crc="824a24e6" sha1="8d401d2e6899268a9a7153db2069786e1670c29e"/>
+		<rom name="Alpha Yellow 960x23.Bmp" size="66294" crc="57ff87ee" sha1="63a4a502c9291e8e56ba0d9e094122769c07c316"/>
+		<rom name="Dot Alpha.bmp" size="16438" crc="2cc23a89" sha1="0a4f29f0229de8b6410d9c709ab402312ad0fa8f"/>
+		<rom name="Gemini.bmp" size="16438" crc="38b5dd39" sha1="765b0f00d890bff4eb7ba577d2ca541ff45b399b"/>
+		<rom name="Small Alpha Blue 640 x 19.bmp" size="36534" crc="4b337e9f" sha1="02e9fec421cd87a5e31190d1c863de09e2119539"/>
+		<rom name="Small Alpha Green 640 x 19.bmp" size="36534" crc="f8ab9135" sha1="e2c5d665c42e8ff82b40e6fb46d405958f57c6f9"/>
+		<rom name="Small Alpha Red 640 x 19.bmp" size="36534" crc="2aebfce7" sha1="fc61bcf5836c24a9a46e55b8101c93a3c5d41c5c"/>
+		<rom name="bfmalphatest.bmp" size="101362" crc="84dbe92b" sha1="849512d850e38426810722505d5d9c52b70c416d"/>
+		<rom name="c64alphax2.bmp" size="2110" crc="dcad17c3" sha1="ed5cdebbc7fb9f4a3ae68081ad8280ac664d699e"/>
+		<rom name="glowlitalpha.bmp" size="101240" crc="2f9e41ff" sha1="a3679e129a789f919700ab954e257e610603bff8"/>
+		<rom name="jpmalphatest.bmp" size="101362" crc="08394440" sha1="e57f6a56f6e5ce89dd536bd57687d58e574dae35"/>
+	</game>
+	<game name="Buttons">
+		<rom name="Jewel In The Crown DX Buttons.bmp" size="463734" crc="9bdc03ba" sha1="4dd10d21e7e0dbbc17338c829457cc3f103c5e00"/>
+		<rom name="autonudge.jpg" size="123927" crc="96f7f2ae" sha1="5117f97262e76daaa4953983f181aa9a0ecfe7e2"/>
+		<rom name="buttons.jpg" size="202305" crc="658a1419" sha1="99ec223f6e29be9862d90f29bfabe033b0eb3ff7"/>
+		<rom name="cancel.jpg" size="124473" crc="0f6b7ccd" sha1="b3f1af6cb4de92bd376da420790bc3125f0b9601"/>
+		<rom name="cancel_lit.bmp" size="11896" crc="a6202e84" sha1="bf13b7456b129adeb4c91b0f15e189d11c6e9f96"/>
+		<rom name="collect.jpg" size="150702" crc="b1537210" sha1="38ed94c255f32e7e776bccdb042a6f6c53a70c1d"/>
+		<rom name="collect_lit.bmp" size="11584" crc="e1ffea09" sha1="7c47a3c83d5893e83c047c6d0abf040bc7f9341a"/>
+		<rom name="collectlit.bmp" size="36574" crc="7272ea5b" sha1="f7d6ccacd5e98d8d27760f83909a2ccf471aa4fe"/>
+		<rom name="collectunlit.bmp" size="36574" crc="d65c2a9f" sha1="3ac4ad0e95985e4ba42f005aaa31cd2d75c99c4c"/>
+		<rom name="excahange.jpg" size="570678" crc="dbcebfa9" sha1="efee486119fecfb6b48d5c9ce8d79de95ed57d7b"/>
+		<rom name="exchange_lit.bmp" size="11896" crc="96a81ba7" sha1="5a2fe5ee39c442fdb23f45e5fe7ab104cd32f627"/>
+		<rom name="exchangelit.bmp" size="35806" crc="3e0469ae" sha1="31ddaf371ad38e76811351cf6c8d47ea41474e76"/>
+		<rom name="exchangeunlit.bmp" size="35806" crc="285e9811" sha1="a78a10fb2f53ec86bd74999f290336ff0c6cb943"/>
+		<rom name="gamble.jpg" size="141897" crc="e368e083" sha1="1e697e4310dbd0341cb104e1761563dc173155dc"/>
+		<rom name="hi_lit.bmp" size="11792" crc="0e9c0fd7" sha1="b0a0ab4316ea370357a23d20d4820f129a1e83d2"/>
+		<rom name="hold.jpg" size="150351" crc="caf3c190" sha1="ee84fdd6c32ebbe5f23bb1a800815781f1d94759"/>
+		<rom name="hold1.bmp" size="33234" crc="c430c965" sha1="00b777b0d31880e593f2218c46cdbcc6b63d0a38"/>
+		<rom name="hold1lit.bmp" size="33234" crc="56613396" sha1="1841cfb597d171d1cc8b89fcab7e3036eb58c363"/>
+		<rom name="hold2lit.bmp" size="35046" crc="1610578c" sha1="4e7f387541998916d614fe773fb1922df77f4380"/>
+		<rom name="hold2unlit.bmp" size="35046" crc="b81d50e7" sha1="35f77fc47f7910a9bf7229f2c696645ae3b14d2c"/>
+		<rom name="hold3lit.bmp" size="35046" crc="ab382ca9" sha1="f9f8faa661caa8af97506ec53ed7957210b33e49"/>
+		<rom name="hold3unllit.bmp" size="35046" crc="3c1569f6" sha1="6c546ab26920aaa864455103b8ed7ce2f21a1da5"/>
+		<rom name="hold_lit.bmp" size="10980" crc="1db1f678" sha1="f6414dc4a8f370516ec7206254462c542adf0e57"/>
+		<rom name="lo_lit.bmp" size="10980" crc="639f6ac3" sha1="69031b11b05afef602191a29d5ba0c7c4e5b2a13"/>
+		<rom name="nudgeup.jpg" size="129912" crc="350ca75b" sha1="41688829efa955a7a8bc036942459fce23481e42"/>
+		<rom name="start_lit.bmp" size="11584" crc="997aeab5" sha1="264a190853e2ef7ed1f4d42a755280edae09b8bb"/>
+		<rom name="startbuttonunlit.bmp" size="62838" crc="ed28b11f" sha1="1f75a2ce7df52060136bfad5208b1bd9f2cc64d2"/>
+	</game>
+	<game name="Logos &amp; Decals - Company Logos 1.0.0 (01Mar2021) (Laylow)">
+		<rom name="Company Logos 1.0.0 (01Mar2021) (Laylow).jpg" size="2975215" crc="15d431fb" sha1="b7fa6778981930db59394b76ba06f1777e340fcb"/>
+		<rom name="Company Logos 1.0.0 (01Mar2021) (Laylow).txt" size="95" crc="e9400bef" sha1="c6c1da8d4b07eeb20cf24dea62b3c786a94e6e2d"/>
+		<rom name="Company Logos/ACE.png" size="1052188" crc="ff05f860" sha1="6ccbbdfa5a27daf6d6fdd88c8100ac1327760c64"/>
+		<rom name="Company Logos/Astra.png" size="214791" crc="ea2f84f3" sha1="d8002225af63cbb48d9d6c8df895e82f447e0afe"/>
+		<rom name="Company Logos/BAS.png" size="3041765" crc="82d1497a" sha1="7a1ad796002223516d0ec6bc27c9ef4254dfc14b"/>
+		<rom name="Company Logos/BFG.png" size="150533" crc="0a1e2aa6" sha1="ccfd436854bedd0eddbc42804a958a9bce152e4f"/>
+		<rom name="Company Logos/BFM.png" size="2617864" crc="2bcc6e46" sha1="5b102701d0b4c913ae168ecdbc38fc47cbcac605"/>
+		<rom name="Company Logos/BWB 2.png" size="3394361" crc="bc07c7fe" sha1="809a2d6e51d189ac55879bba327abac572432cbc"/>
+		<rom name="Company Logos/BWB.png" size="1102388" crc="ba8ed362" sha1="f9654607a32507fb530502c6ff1d198547df1cc3"/>
+		<rom name="Company Logos/Barcrest1.png" size="4323560" crc="d4f40ab6" sha1="bbd8c25aac8a3bc5d7a1bc2a0b0cabbb6e3c70f8"/>
+		<rom name="Company Logos/Barcrest2.png" size="2751888" crc="7b36f444" sha1="b64cc79b733c360da8be54d39a24a10ef2583f14"/>
+		<rom name="Company Logos/Bell-Fruit.png" size="32158" crc="4ef776c2" sha1="a696bc1327243716b52cf1af12e1e756f9fd116c"/>
+		<rom name="Company Logos/Blue Print Gaming (Betcom).png" size="87770" crc="614a551d" sha1="315cf0b99343be63076764ba0e86082425548d5a"/>
+		<rom name="Company Logos/Crystal.png" size="6954511" crc="27e7400f" sha1="cd3e19e350c0e3d1fe419541de497f4769930e0d"/>
+		<rom name="Company Logos/Crystal2.png" size="1272194" crc="2d575ad8" sha1="a578d1fb87dc82c2223be40a21dc7ab18c02b204"/>
+		<rom name="Company Logos/Electrocoin.png" size="317575" crc="ab918c4c" sha1="aeb4e323421d1d09283aadcb3fac87e4505c85ce"/>
+		<rom name="Company Logos/Empire.png" size="10219581" crc="5848427b" sha1="9c0fd7a0a13e1b2dc296748939905b0665e845c0"/>
+		<rom name="Company Logos/Extreme.png" size="573319" crc="dc4869f4" sha1="5503a2cede77bcb1507e61bc03e7b90ad634c8e6"/>
+		<rom name="Company Logos/Global.png" size="13189075" crc="52950489" sha1="d28ae1b007cda6c785f5ad0ab4afe4ea58ca1a7a"/>
+		<rom name="Company Logos/IGT.png" size="141419" crc="9fc31085" sha1="6d893a176970f9b80d9fe6253b1dfdde57f70957"/>
+		<rom name="Company Logos/Impulse.png" size="1058994" crc="8aff351c" sha1="48a9cb7eff24baf80ede78e7a30f4357d566494b"/>
+		<rom name="Company Logos/JPM 1.png" size="909605" crc="44ef80f6" sha1="1d0a8ad5aaed93b57d00ce017a1569de6382a9f6"/>
+		<rom name="Company Logos/JPM.png" size="2016598" crc="188eb799" sha1="77446c566969740f899bd1ee84483b5e1e16195e"/>
+		<rom name="Company Logos/MDM.png" size="952292" crc="178c42a5" sha1="3b862fb01c68df95925ae8f6b24d2a5f5776a99a"/>
+		<rom name="Company Logos/Maygay.png" size="1460771" crc="d02c7dc3" sha1="c16b3d872383c24369593f7f14e6a1bc9e860856"/>
+		<rom name="Company Logos/Mazooma.png" size="1074165" crc="dba62f2f" sha1="07eb9beece121e3e0d45d088fe2a18bd9cec48e3"/>
+		<rom name="Company Logos/PCP.png" size="532335" crc="a36dfbf4" sha1="3e1c09766d78d56b9f989ee9042b41647f336401"/>
+		<rom name="Company Logos/Project.png" size="696843" crc="9bfcb9d0" sha1="b0ff53233ff799595eca0376566c6ac63f6814c2"/>
+		<rom name="Company Logos/QPS.png" size="538561" crc="07584e5c" sha1="f30caf1b2e24cd4ed4c367cb91e771abd91edfc5"/>
+		<rom name="Company Logos/Red.png" size="1374892" crc="25694776" sha1="3f8ad35b5cee78622f1ab12e9ca813a7a9d32b92"/>
+		<rom name="Company Logos/Reflex.png" size="1100615" crc="7aa2e49c" sha1="7986c5dad732cf39c5e7132136f45d4a3b88e796"/>
+		<rom name="Company Logos/Union.png" size="385960" crc="b6b6f1c8" sha1="4a02050a1788b61854758eade647e45ee5f64f46"/>
+		<rom name="Company Logos/Vivid.png" size="2112603" crc="f8609d37" sha1="e89a038db15c141b985ba76bdb2e5da064642ff0"/>
+		<rom name="Company Logos/Voodoo.png" size="269982" crc="6f102591" sha1="6d32e91253e2faad59875c1c513aff678802f4b5"/>
+	</game>
+	<game name="Logos &amp; Decals - Fruit Machines Frontend Logos 1.0.0">
+		<rom name="10 Times 10 (Barcrest).png" size="227388" crc="295e7298" sha1="dcadd86fa121ef84b206493d1f9db9d63c6b7aec"/>
+		<rom name="25 Carrot Gold (Maygay).png" size="97845" crc="23ad7938" sha1="e3305561d2086a89ccb32d6a9fbc417fb87ef021"/>
+		<rom name="2p Unlimited (Mdm).png" size="122173" crc="7f43b287" sha1="f9e81ca0405ba897dcee5335d3ff74dcc63c24c7"/>
+		<rom name="6 Shooter (Vivid).png" size="100317" crc="9a1e0786" sha1="15bf7b4fc94ca9c12566ea1a62252e25816c2dbb"/>
+		<rom name="777_Heaven_(Project)_[Dx03_4-80jp].png" size="69381" crc="cac9d0c4" sha1="db5b05df396fa5161dcfd61c9e18ca7b9ed77080"/>
+		<rom name="7s Wild (ACE).png" size="6376043" crc="02d520b6" sha1="1d2c199eb9f28c42ea8336bd26151046e860929a"/>
+		<rom name="A Fish Called Wonga (Empire).png" size="63520" crc="f3525609" sha1="b3bd81bd4b026722228d7829de3005f95f75cd40"/>
+		<rom name="A Knights Trail (Global).png" size="131949" crc="1f56e70a" sha1="900f32a61ecb45e3a79c7db158fd2f958a9d5ce9"/>
+		<rom name="Abracadabra.jpg" size="91997" crc="f7440810" sha1="0e08a0bd05c0db6e8e6d401c36894eb55e33fdae"/>
+		<rom name="Ace Chase (Bwb).png" size="102399" crc="146348c7" sha1="aac333425806d6e7ebf9a9d11c28cab12cc41948"/>
+		<rom name="Ace Of Clubs (Empire).png" size="94478" crc="74f67692" sha1="711835ed01dcace8e66e781d771e4e72d685ead7"/>
+		<rom name="Action Bank Wdx.png" size="140905" crc="a3e22bc7" sha1="bfff2fdbd73bec1edf659e886a6a28a221f3fc77"/>
+		<rom name="Action Club (Barcrest).png" size="164107" crc="75045839" sha1="ef71da4c6c605e3b174cfc4f59c6fd0a361d69fc"/>
+		<rom name="Action Pack (Barcrest).png" size="66080" crc="1b334580" sha1="a5224781cf668a9ccd859b72b96f40babc13286a"/>
+		<rom name="Action note (Barcrest).png" size="473426" crc="1dd8ba70" sha1="2124fb95dbe06793d5ed6fa17d9b65e92552f136"/>
+		<rom name="Adders &amp; Ladders £200 (Barcrest).png" size="109962" crc="011c9f22" sha1="7ee9b7326253470e39432c07b16eb7bdce6b016f"/>
+		<rom name="Adders &amp; Ladders.png" size="50482" crc="b57f28b1" sha1="828171aaaedb0e52acc194301a0137e1819ee035"/>
+		<rom name="Aftershock_(Red_Gaming)_[Dx01_15jp].png" size="132629" crc="dc70ef64" sha1="9dfae9544d09eaaa97dffcdcbbd96db9a23c534c"/>
+		<rom name="Aladdins Cave (Crystal).png" size="171507" crc="9840d0d4" sha1="6945d518f8d4ed2b02e6edd8bbf5e4615959f163"/>
+		<rom name="All 4 One (Vivid).png" size="105509" crc="ec1a0816" sha1="5a5548df87dbdb337e283abf675c5300634afb0f"/>
+		<rom name="All Cash Advance (Barcrest).png" size="74060" crc="68c5027d" sha1="130aede12b5faa5f905f89433467a0ec8063d8a7"/>
+		<rom name="All Fired Up (Barcrest).png" size="85574" crc="b70f15d3" sha1="0b87283541e1ff4891c84a4be38cef9639c195f4"/>
+		<rom name="Alphabet (Barcrest).png" size="29382" crc="1ae2528f" sha1="69043df75dcdce4241740d897555a6b9ba15f3f3"/>
+		<rom name="Always Eight (BWB).png" size="133087" crc="f3da580f" sha1="bab0b65b4507278c899a7c8d77cc15336ec6c9a8"/>
+		<rom name="American Dream (Mdm).png" size="185147" crc="f68fe44e" sha1="9ad4644b567cb4ca7ad3b16d63d51ebdbf714fb5"/>
+		<rom name="Andy Capp DX.png" size="110178" crc="8603c259" sha1="524a3aa060e1434fedc069d9b4888079fef8981e"/>
+		<rom name="Andy Loves Flo (Barcrest).png" size="196671" crc="5f34a453" sha1="2cfdcb5369e8b2c635cc6b3aa2ad28077e10cec6"/>
+		<rom name="Andy&apos;s_Great_Escape_(Barcrest)_[Dx06_10jp].png" size="58044" crc="ebb24bb1" sha1="7ab3fa09eacfed1e15af4b92a50e90fca31ea957"/>
+		<rom name="Andys Big Time Wdx.png" size="99514" crc="6fbff980" sha1="918af24feccc37035945a73c6033b68f878e5cc4"/>
+		<rom name="Andys Full House (Barcrest).png" size="166119" crc="af808988" sha1="4dbb92a12781360b83c5902eafb35a0b2f4efce9"/>
+		<rom name="Apache Gold DX.png" size="62683" crc="31cc2d62" sha1="47e41150d8e45ccdc827119f588b11f03ac5d89e"/>
+		<rom name="Apollo_9_(Maygay)_[Dx02_10jp].png" size="106905" crc="bd6dc5ce" sha1="676d12c49b13ac22a0186f69173bb8dd726f7bf2"/>
+		<rom name="Arabian Nights.png" size="102943" crc="24d356a7" sha1="6c2c1b0cf66f1ae3da0979f7bf23b71a1d30ce03"/>
+		<rom name="Around The Board In 40 Days (Mazooma).png" size="46406" crc="f4c3c157" sha1="83950808290f8761421b53d1cb99c12f3de5147b"/>
+		<rom name="Around The Board In 40 Days Club (Mazooma).png" size="53880" crc="1896b6f4" sha1="eeffc7cd9cfaafdaa7d5e5e41183f18ae649aecf"/>
+		<rom name="Around The World Club (Crystal).png" size="101986" crc="d09c4c56" sha1="6fd2845423f4ebbd338c7c02fab69e69be91f8c0"/>
+		<rom name="Atlantic (Vivid).png" size="93453" crc="dcf6657b" sha1="a23a20bddecc43a1bb41e794dc1adb9d575bc6bd"/>
+		<rom name="Austin Powers (Barcrest).png" size="51025" crc="ebc51b1b" sha1="5495fccb788f9622127fc066746f3d798c810dfd"/>
+		<rom name="Auto Route (Barcrest).png" size="135780" crc="d0c14ac4" sha1="46627e3823e23698d95a0c0f6ec7e0648375f7db"/>
+		<rom name="Bangers n Cash (Empire).png" size="81178" crc="1aedc76b" sha1="421c2f001c2cb85cac88755689f614e0cc7e7d36"/>
+		<rom name="Bank Raid (Empire).png" size="126355" crc="8bd3ea08" sha1="34aa25411a6c035bbfae538f3d70117d907a56c0"/>
+		<rom name="Bank Roller Club DX.png" size="87764" crc="9fd7e7e6" sha1="870ec3ee7b9c79fe8f17c3f2df1fc6590098d1ae"/>
+		<rom name="Betcom - Bank Job.png" size="185260" crc="a91e8ca5" sha1="461e74aa6ee03e29288be620c42eec0190c86fa3"/>
+		<rom name="Big Break Club DX.png" size="88417" crc="b93faf0f" sha1="f240fa1f0dc8f1119017d7923064f6288e639be6"/>
+		<rom name="Big Brother Wdx.png" size="5655" crc="18e6c264" sha1="c2322fbcfe54a9eaa4fdede0b9b3d360e204b8b0"/>
+		<rom name="Blackjack Club (Barcrest).png" size="149038" crc="fdcb657d" sha1="7ee6f14bf51ceb93d68613cd4fc90f0dc4e47179"/>
+		<rom name="Bling King Crazy (Barcrest).png" size="45911" crc="5bf246c6" sha1="44259915573350fd86455a70f48889acbb8ad9b3"/>
+		<rom name="Bonkers (Red Gaming).png" size="194216" crc="5b7e0a7e" sha1="cf4c45b687619d1153a84c96879c3832d8067890"/>
+		<rom name="Boulder Dash (Barcrest).png" size="163765" crc="59ecbabe" sha1="83baaab434290d9449e5d598ae4119553c3a9069"/>
+		<rom name="Brain Waves (Barcrest).png" size="213310" crc="217b71c0" sha1="9a4290cd8b41316b581f6d72e4a167814ba22b28"/>
+		<rom name="Bucks Fizz (Barcrest).png" size="125367" crc="5ac5c79d" sha1="aefaab401940bd59133ac4eda622d0104c7d5ff9"/>
+		<rom name="Bully For You (Barcrest).png" size="172326" crc="8361d8f2" sha1="895a22636ac9a84a5a9b244685e29544ad2d3a1a"/>
+		<rom name="Bully&apos;s Star Prize (Bellfruit).png" size="201059" crc="41268479" sha1="0b2563067e7824111845505c5d49646f27f8fc07"/>
+		<rom name="Cabaret 50 (Barcrest).png" size="165425" crc="c1163c1e" sha1="896a6d4172738590bc2ae6cc68a8784421f47178"/>
+		<rom name="Camelot (Jpm).png" size="158724" crc="28a2ee84" sha1="fd91c1bcf7ef27449ddcb4b9f3b75e7c6320c476"/>
+		<rom name="Captain Scarlet (ACE).png" size="55332" crc="cf9a6cfb" sha1="9a26ebd4e0b7d726196aa74328fed2863d23cf06"/>
+		<rom name="Card Cash (Barcrest).png" size="140044" crc="2bd1e756" sha1="e1a2a5a91a54eac9cdbe98d8ecb70229e02c2402"/>
+		<rom name="Card Shark (Vivid).png" size="166486" crc="fcde41c1" sha1="d78dbd6ac94914999369843cabc3d2a136ada016"/>
+		<rom name="Carousel (Empire).png" size="148115" crc="df14514a" sha1="4fede0482225d8237ce5fc738cb44a05041747b2"/>
+		<rom name="Cash Arena (Barcrest).png" size="167543" crc="d48f471a" sha1="67e59ffc063f2364380d4e5e6502796a4119f41e"/>
+		<rom name="Cash Attack WDX.png" size="200859" crc="74a0e87e" sha1="54de78506d95d470a094fa7aa78982a94842ac3f"/>
+		<rom name="Cash Connect DX.png" size="151167" crc="f50ef5ea" sha1="e06191069c0d2e80f97d540ba60e1f19cb04848d"/>
+		<rom name="Cash Counter (Barcrest).png" size="177920" crc="4254020e" sha1="8618c58163c9cd1382303a3c28a9cd2543f79836"/>
+		<rom name="Cash Lines DX.png" size="161468" crc="58c99177" sha1="41e196a2107d5f5766aee940107ee205b420ec59"/>
+		<rom name="Cash Machine (Barcrest).png" size="130868" crc="811a9bf7" sha1="254acd6518f20d6aa8a7123e26db8f48e2585255"/>
+		<rom name="Cash Matrix DX.png" size="171802" crc="57b9b444" sha1="0c75fa089acd7188a739130ee596ed73c572c0c0"/>
+		<rom name="Cash Raider (ACE).png" size="139306" crc="ecbde681" sha1="9cdaec810f63061b3d4b9793af7afb946bbfa75c"/>
+		<rom name="Cash Run (Barcrest).png" size="172483" crc="9d4fd07f" sha1="537a745b3610959d7f0e6867fdcf9a499af4e5d4"/>
+		<rom name="Cash Strike (Empire).png" size="185451" crc="18a40f15" sha1="43f2fb1300ba41751d8e0ce5a5837a4a5498cf3e"/>
+		<rom name="Cash Towers (ACE).png" size="503672" crc="3a7574cd" sha1="63a4973128a93a5a5953b47c83c464f0e56871f2"/>
+		<rom name="Cashscope (ACE).png" size="171166" crc="bf40b76c" sha1="df6cb6797784cabc523b8753d1cfdfc8c0f7e827"/>
+		<rom name="Celebration Club (Barcrest).png" size="156801" crc="6d4fe74e" sha1="8319cae48d3d4759f962754a3824476e98ebbdeb"/>
+		<rom name="Chase Invaders (Barcrest).png" size="192690" crc="2e6ea7e1" sha1="0b1fdba6c1839db0a2f5abd9c73071424ee7974f"/>
+		<rom name="Chase The Ace (Cards)(Empire).png" size="203137" crc="af449e69" sha1="67dff6d621e341254341517ce504071e0a951a49"/>
+		<rom name="Chicken Run (ACE).png" size="25771" crc="1ebab2fd" sha1="4b5850d7bfb18d79b366fceea8e1dd7ae323bbc9"/>
+		<rom name="Chinatown DX.png" size="132546" crc="7acc1e44" sha1="c475f77cdf71f100209b6278105dee9174a5a2f8"/>
+		<rom name="Cliffhanger (Vivid).png" size="122391" crc="85f659ee" sha1="cc78de6516d073ab7d65acea21521b650af90cf0"/>
+		<rom name="Cloud 999 (Barcrest).png" size="107791" crc="cde806d1" sha1="fb2b3d7ee17ce76acc9e078fd5de0ed90b65c20f"/>
+		<rom name="Club Banker (JPM).png" size="75966" crc="1cb5130c" sha1="0f0577829bfcdf124664bbf2f4778368cec1e4a9"/>
+		<rom name="Club Bullseye (Bellfruit).png" size="165578" crc="f256f1e1" sha1="54da7d6d1270e328e93568ba580e88741a16b882"/>
+		<rom name="Club Cannonball Run (Global).png" size="165577" crc="74390313" sha1="f867b74ad7853a9cde7ed32f4bd1aacef1b26c55"/>
+		<rom name="Club Connect (Barcrest).png" size="128697" crc="ca86d178" sha1="69efc2a4d6def3b2d2e69279b62ab2cc4c8d0ebc"/>
+		<rom name="Club Explosion (Bellfruit).png" size="131411" crc="425f977d" sha1="b4efab9119bbba900d4ac9c4cb802ade3850e12b"/>
+		<rom name="Club Give Us A Break (Jpm).png" size="131553" crc="932f1ed9" sha1="84b93e95446ad35b89e9d577b969d0dd6dd78522"/>
+		<rom name="Club Money DX.png" size="155973" crc="2f10d187" sha1="2f2c1b75345b108aaf0af8d89130283320ce3c1a"/>
+		<rom name="Club Sandwich (Bwb).png" size="154981" crc="aca1d83d" sha1="042c95a38ffc67cd7294532fd24ebd635e18283e"/>
+		<rom name="Club Stake Up (Barcrest).png" size="139262" crc="1e9b252a" sha1="21670c672a6b94b3d8c972beb3f45cdf6996dd9a"/>
+		<rom name="Cock A Doodle Dough (Empire).png" size="175875" crc="039e9dd7" sha1="88b1717f14144e9333fb8e03db5a0127ce94bb32"/>
+		<rom name="Cops &apos;n&apos; Robbers £480 DX.png" size="100101" crc="c175f895" sha1="39ff696541339faf9f72cefd54c4f71ff89136f7"/>
+		<rom name="Crazy Capers (Empire).png" size="178412" crc="d3534656" sha1="dd576ed652be6e06be1b389990a5343d28c81096"/>
+		<rom name="Crocodile Rock (Empire).png" size="155650" crc="598514e7" sha1="0c708fa6ee56a6e86d3898a31173e45cd0b90d75"/>
+		<rom name="Crossfire (Empire).png" size="142117" crc="b98a0270" sha1="7f31bbdd472a2a4716f21c0229c29ae01769abb5"/>
+		<rom name="Dam Buster (Impulse).png" size="148238" crc="71daf892" sha1="7f8966ded4852d784ee65c66037d4ee6827ee4e3"/>
+		<rom name="Dennis the Menace DX.png" size="128111" crc="4c9254ad" sha1="f485d851699c5ec20753a960bbde016655a3888d"/>
+		<rom name="Diamond Mine (Bellfruit).png" size="156588" crc="7ae86b96" sha1="bcc2dbb9fc7240ec5a15681459e12c287755d3c9"/>
+		<rom name="Donna Kebab (BWB).png" size="153562" crc="b2d806a5" sha1="fb5231c18d006a856ab7e76a20dd060a2c904ed0"/>
+		<rom name="Double your money (ACE).png" size="124345" crc="5ed467d6" sha1="48d6168a0016a5f1d49fc2810e3bb1eea0855988"/>
+		<rom name="Dough And Arrow (QPS).png" size="161125" crc="66c8f50d" sha1="1416fc3ac2998fe13e7f6707ffa6b5935088b4a7"/>
+		<rom name="Driving School (Global).png" size="148603" crc="bc683f52" sha1="0ac19cb0356966c83cf01a29ecb05db71f5a39a3"/>
+		<rom name="Euphoria 20p £5 - Ace.png" size="187228" crc="c6758e6f" sha1="cb202f695bedee1b0fb4b32be4068bdf25b65e10"/>
+		<rom name="Eureka (Empire).png" size="141932" crc="e44fd500" sha1="8b4e9b5a704858191a33038122b153966c5e838e"/>
+		<rom name="Excalibur (MDM).png" size="170171" crc="158edf85" sha1="d8781e7143ba7d37a0944783525cb7b8e7e3fb8c"/>
+		<rom name="Exchanges Unlimited (Empire).png" size="126462" crc="e1cc3d2b" sha1="bef31dd73c35792a282818234cbb9b94bcc168e4"/>
+		<rom name="Fantasy Football (Maygay).png" size="157520" crc="14e355cf" sha1="7cd2e271b5fa33e665e53ae12f0ffdc1c5d3e08b"/>
+		<rom name="Fast Trak DX.png" size="145000" crc="44945d63" sha1="831d002ec6b6e4d2fac53654e281ea7a64c45b7f"/>
+		<rom name="Final Frontier (MDM).png" size="207931" crc="a852b996" sha1="0ed787184191192501e216a5796f99bd63a76857"/>
+		<rom name="Flip A Note (ACE).png" size="131353" crc="34a4b54d" sha1="8c86fde2ed0dc82e5eab74c08e0b7816d4a442fe"/>
+		<rom name="Giant Gems (Vivid).png" size="200058" crc="14a8c416" sha1="dc2d356d4ac486f062843449576f9f4c32664991"/>
+		<rom name="Go Pound Go (ACE).png" size="148822" crc="1b23a7fa" sha1="6da50bab4cb1843ecb214c4e0ae9f47649351e94"/>
+		<rom name="Gold Fever (Empire).png" size="140762" crc="91832f69" sha1="38d6e12af6af7b59670cfb119db997f595083022"/>
+		<rom name="Gold Mine (Empire).png" size="179537" crc="67218a6a" sha1="34aa91477e1765e419df0ce3c581d79de0628af0"/>
+		<rom name="Hagar The Horrible (JPM).png" size="87136" crc="95fe2d6c" sha1="62897bc793ba3ab829b4e8c84bd119145dab548a"/>
+		<rom name="Hi Jinx (Barcrest).png" size="150299" crc="304888e3" sha1="584dd788ec8d342503d11ceb6ed926efad6affd0"/>
+		<rom name="Hi-Lo Karate (Vivid).png" size="141125" crc="a3a3a7bf" sha1="cbf66c6dee7b186b3c578a92438cdd7844041993"/>
+		<rom name="Hollywood (BWB).png" size="154481" crc="94f401fc" sha1="c7d15a451b4fee0ae9fe2ec2c14c48f3063d3248"/>
+		<rom name="Hot Shot (ACE).png" size="181165" crc="61997372" sha1="f4eef48fcd352b143c6bef8e2b8c9d6b3856351e"/>
+		<rom name="How Big&apos;s Your Rock (Global).png" size="171420" crc="cc317046" sha1="7030c79f481eba930980f5c7cf6815f6c0f100bf"/>
+		<rom name="Hypalinx (Red Gaming).png" size="187987" crc="a8cccd90" sha1="1bcdf5c41cb1f0eb48629f167ce8941502f733ad"/>
+		<rom name="Indiana Jones DX.png" size="37079" crc="6968a9bc" sha1="965965b722a249ef1c8fc43941337c90a1d2d4ac"/>
+		<rom name="Jackpot Jokers (BWB).png" size="171076" crc="21ba70c5" sha1="868cb4109d425234e1367439708a87580856cfe7"/>
+		<rom name="Jumpin Jokers (Vivid).png" size="167348" crc="2887a836" sha1="eb9cc596c05cac515f248650298c98e44d09cc93"/>
+		<rom name="Jumping Gems (Empire).png" size="163638" crc="fc0281af" sha1="b2d9db2999057dcc2c17aafc2e886f05b1656d1e"/>
+		<rom name="King Cobra Club (Empire).png" size="133783" crc="599247bb" sha1="58e15bd2c6c0a689774641ddfed7c4c6190a1582"/>
+		<rom name="Kung Fu Club (Crystal).png" size="185767" crc="9b8d2afd" sha1="5686c386d1bffb7a186b5365d3949719abd8a485"/>
+		<rom name="Legal Tender (Red Gaming).png" size="157367" crc="713f3c62" sha1="b3dca3b9f9f4271762ad79eff576ce1f05a7bc75"/>
+		<rom name="Magic Poundabout (QPS).png" size="182632" crc="cdb09276" sha1="cea496426c2946a26e09cbd9a12ba950e7e4590b"/>
+		<rom name="Maximum Overdrive (Jpm).png" size="199860" crc="e1283215" sha1="2ecff529c80f6204e021774c30394f347b6531db"/>
+		<rom name="Money Matters (ACE).png" size="124266" crc="c96ef587" sha1="e217d883f22baceea8ec00f97245603d099d0158"/>
+		<rom name="Money Monster (Empire).png" size="200588" crc="51cccacf" sha1="df90c54304ee7bfc4ecca4008a17a5598b01ba43"/>
+		<rom name="Nitro (Red Gaming).png" size="159023" crc="83e923c8" sha1="1691708ec9d5335099f5d4e2950ab8ed0bc232fe"/>
+		<rom name="Note Surround (ACE).png" size="148307" crc="0b9d9507" sha1="51d1dbadeaa935d715e356c22c33321bed568692"/>
+		<rom name="Nudge It (Mazooma).png" size="159818" crc="e68d8bbb" sha1="86b1e8d15bf471d9fea314ba27448536f358ade9"/>
+		<rom name="Nudge Quest (Barcrest).png" size="131824" crc="2a721791" sha1="d60382cee64305053f1e91f95c11e89aa4af91b5"/>
+		<rom name="Pacman Club DX.png" size="117141" crc="a5f2b78b" sha1="23c3b3e1cab30e20990af44c94fb9d6d68a9f27a"/>
+		<rom name="Paparazzi (Empire).png" size="319973" crc="ec55c683" sha1="2f9a6d4f09554c16b65d33239a2f2cbfa3b05057"/>
+		<rom name="Pay Packet (PCP).png" size="161832" crc="a91a83a4" sha1="336a22f4c3cc2b1f5ea33211da206ea92de1e86b"/>
+		<rom name="Pay Station (QPS).png" size="145723" crc="d440cc9d" sha1="2022ef4a22dd27a94b64197f387d7c4129caa837"/>
+		<rom name="Pick Yer Pesos (Global).png" size="163415" crc="10d9107a" sha1="88e3de7f302cc706feb776e65e602eaaf9f0f91e"/>
+		<rom name="Pie Factory 2 (Vivid).png" size="149411" crc="0bda3368" sha1="dbd1f95eb4c11796a65e0efac5e421a98e15447e"/>
+		<rom name="Pie factory (Vivid).png" size="159540" crc="21efb7be" sha1="1bf5685dfd1640a2411141eff4092e03c084dd5c"/>
+		<rom name="Pinball Fever (Crystal).png" size="142833" crc="2c8b66de" sha1="f6433394bb2e22a507d08987afa6b2853c2b57c6"/>
+		<rom name="Pink Panther Club DX.png" size="134726" crc="16d6f122" sha1="6503f7eeb3ce85189fe4948a3c39c6ccadcd69b9"/>
+		<rom name="Pink Pussy (MDM).png" size="86365" crc="6b368722" sha1="39b7cac95b25fe0db243ec9ac57b26ba36994755"/>
+		<rom name="Pitfall (Empire).PNG" size="105100" crc="2474837d" sha1="2424333ecb8f94e805d77c35f38b3d0164bf7f3f"/>
+		<rom name="Pound Power (ACE).png" size="146730" crc="08d43cb3" sha1="e49db03df9ca8b928a18e3201de4b44530b18c1a"/>
+		<rom name="Pound Sterling (ACE).png" size="142851" crc="d414a2ad" sha1="c315a00aea03d1c9ef4da7aab10324f9baa86d61"/>
+		<rom name="Pound Stretcher DX.png" size="173649" crc="1e7fb2a3" sha1="aa6d05b16f6a126c019980c0f6e8e1ea0dbd0ab8"/>
+		<rom name="Poundaround (Ace).png" size="122591" crc="4bab8dd6" sha1="2ac340a51942b09f6579497eab1a8f06210172ad"/>
+		<rom name="Quake (Red Gaming).png" size="187144" crc="1e18289e" sha1="f8fef92f161cf7de9f6635b7fb1b4580a265d905"/>
+		<rom name="Quazzi Mo Dough (QPS).png" size="184178" crc="8527af27" sha1="794162f6d07e9f13c5a07ac08405a408c38c8a83"/>
+		<rom name="Rainbow Runner (Red Gaming).png" size="140710" crc="ced0b607" sha1="15308d2979ec478e7ebee56137677fb81583ecd6"/>
+		<rom name="Raise The Roof (Vivid).png" size="167891" crc="4376caf5" sha1="d951cd119f57c5eb5372bc8448545cba48ec9cbf"/>
+		<rom name="Roll Up Roll Up (Vivid).png" size="161414" crc="5f1fad11" sha1="832a9cb59c4a69321b1b77fe22d3fbe7714cd514"/>
+		<rom name="Secret 7&apos;s (BWB).png" size="150631" crc="29cd60c2" sha1="f1ab796f416f3cedb2939174be2dc54f43851362"/>
+		<rom name="Some Like It Hot (Mazooma).png" size="88018" crc="2d9abe1a" sha1="dca205640059b39db6dd1022e6c0f5f6928c420c"/>
+		<rom name="Space Ace (QPS).png" size="202652" crc="c35598bf" sha1="075b74a1fc3e0d44b0809997a622f40783b5bb17"/>
+		<rom name="Spin On It (Impulse).png" size="185469" crc="b2677573" sha1="cdf03a3605a81b01b80c3a26e1da248de670e1fa"/>
+		<rom name="Stars &amp; Stripes £25 (Vivid).png" size="176006" crc="6bac8725" sha1="f9dc658a8d382e32d5e5072f4004501d511ae428"/>
+		<rom name="Strike a Light (Barcrest).png" size="166019" crc="69fc6647" sha1="ece43325c04bdab15fd39248862540880110a376"/>
+		<rom name="Supa Notes (ACE).png" size="143678" crc="2d14a6a4" sha1="12d66a1a8011d0a783df4db0e8fd573914766647"/>
+		<rom name="Super Hi-Lo (Jpm).png" size="112807" crc="4aa05f1d" sha1="e15b2103b9bcb04dda1aff4a4d22a753406d80c1"/>
+		<rom name="Take It or Leave It (ACE).png" size="130574" crc="59a85a40" sha1="0ca03333243c4cdf5e55010dae4d1e4a2261d919"/>
+		<rom name="Thats Magic (Red Gaming).png" size="156521" crc="1d33e913" sha1="fb0e0d66aff8ae6be8f724675c23b04d26f19cdf"/>
+		<rom name="The Addams Family (Barcrest).png" size="69663" crc="4990cc70" sha1="e7d4ab9cb27d6ccf37c7af9cb79bd59b5e6d8350"/>
+		<rom name="The Big Apple (MDM).png" size="159137" crc="d2ba6765" sha1="04c03cf5b4bbca7ef74cc613c61d311ed1fcdbd0"/>
+		<rom name="The Jackpot Is Not Enough (Empire).png" size="130204" crc="3079fcf9" sha1="3bb8dba80d864c459da4976e54ccffa730d0247f"/>
+		<rom name="The Mob (MDM).png" size="146303" crc="561cc45a" sha1="c07e7c4fe359c7fa7014593316100144aadca4e6"/>
+		<rom name="The Rat Pack (Vivid).png" size="164465" crc="48a1d2c5" sha1="d235187e61a3b64adc46d34758f363734ae413f0"/>
+		<rom name="The Simpsons 1080p WDX Ross.png" size="39762" crc="1a2e567d" sha1="9ee86a312001e49de2478cbaf745472157e4f692"/>
+		<rom name="Tic Tac Toe Gold (BWB).png" size="137230" crc="0b05c32d" sha1="84f04fa55d90c778a54fec2ffb4c7f149e20fd23"/>
+		<rom name="Tic Tac Tut (Vivid).png" size="108874" crc="6bc72fdc" sha1="2107cd5ec6bfad70268117a5ed4428407467dc1f"/>
+		<rom name="Trailblazer DX.png" size="93453" crc="158b9521" sha1="de7d978f8bcf252f1e4fb4ad8b61ba26509afebb"/>
+		<rom name="Treasure Trail (Empire).png" size="1447856" crc="c27bc24f" sha1="9320cf73a55ca574110709ed305c1a3681d8e4fe"/>
+		<rom name="Vindaloot (Jpm).png" size="140219" crc="57507eb0" sha1="758386d64a422504a95e1aeea63b4a2ebd3cafa2"/>
+		<rom name="Volcano (BWB).png" size="175153" crc="328a603a" sha1="e91ebeafa3bd231bc5088c2f363f40171d9b1f6f"/>
+		<rom name="_FMFELogos.png" size="389077" crc="85b777f7" sha1="c50fab9a6150242b338ac3c90431b09411c6103e"/>
+		<rom name="addersandladders_club_mpu4.png" size="120605" crc="463ab5cb" sha1="8e9ca8781775eef172ce90144124a3f1db1f8b5e"/>
+		<rom name="potofgold_impact.png" size="173475" crc="4c07e36f" sha1="9ef1c48cae3d83d983dc8994c85bda039ec97182"/>
+	</game>
+	<game name="Logos &amp; Decals - Lamp Mask 1.0.0 (17Feb2018) (serene02)">
+		<rom name="Lamp Mask 1.0.0 (17Feb2018) (serene02).jpg" size="47803" crc="cd35a6ff" sha1="986f09b7fa06d0489ad13ccfaa2dc71690eca71d"/>
+		<rom name="Lamp Mask 1.0.0 (17Feb2018) (serene02).txt" size="114" crc="568a7d24" sha1="6b8be14ba78625362f31edd1fa277714371d8eed"/>
+		<rom name="LampMask.bmp" size="384934" crc="3fc9bfe6" sha1="3a22908d3f7c339216157feae40cae69f59bfd81"/>
+	</game>
+	<game name="Logos &amp; Decals - Machine Manufacturer Logos 1.0.0 (17Feb2018) (serene02)">
+		<rom name="BWB-LOGO-LINEARTBW.jpg" size="125308" crc="5f5643f4" sha1="2f40f389d00e69f8a2f3ffbd5272f48749fc9cc3"/>
+		<rom name="Machine Manufacturer Logos 1.0.0 (17Feb2018) (serene02).jpg" size="56747" crc="eeeadafb" sha1="e8018566272dd7f404ca8e8af049419b0a834eda"/>
+		<rom name="Machine Manufacturer Logos 1.0.0 (17Feb2018) (serene02).txt" size="182" crc="498d9ade" sha1="97de6f794d24d90e58dcb5a6647fa283f5e03a73"/>
+		<rom name="PorjectCoinlogo_BW.bmp" size="1013136" crc="6df0524e" sha1="711b7d41ec01b71c017c3ba8dbf547136520ef7d"/>
+		<rom name="barcrest_logo_BW.png" size="21720" crc="ca9d7dcd" sha1="2b5a9e01d3d4bb7d84301aa77d8022c5223acc4b"/>
+	</game>
+	<game name="Logos &amp; Decals - Stake and Jackpot information Decals for DX&apos;s 1.0.0 (17Apr2018) (vectra666)">
+		<rom name="%&apos;S 2.bmp" size="214816" crc="0a80abe8" sha1="ff7d52871999ab886ad99be18e0157b36a84e848"/>
+		<rom name="%&apos;S.bmp" size="487816" crc="978cf416" sha1="5d9812827564342f3f362c73a9f7271f8e2f014a"/>
+		<rom name="STAKES.bmp" size="487816" crc="903a1e09" sha1="763be4279170769169495a2d524af041c4a0d37d"/>
+		<rom name="Stake and Jackpot information Decals for DX&apos;s 1.0.0 (17Apr2018) (vectra666).txt" size="145" crc="d82888f2" sha1="d7b6eb09849382239ed9027b8565675c37a82339"/>
+		<rom name="decals.bmp" size="3639576" crc="98468cb5" sha1="a30f3b0965c4c180c03811e62cb041e540a87cb1"/>
+		<rom name="£35 2.bmp" size="177056" crc="aa198dc5" sha1="ea11156f56aff2ab07f1573044ed0d380cf33fef"/>
+		<rom name="£35.bmp" size="201576" crc="6ce6615f" sha1="ba484c78b24bd18d035c45e8de6445c9bd8e31e0"/>
+		<rom name="£5 2.bmp" size="177056" crc="1360a182" sha1="91177a036ae800a8af63bad6083c98ce73b2538e"/>
+		<rom name="£5.bmp" size="201576" crc="b44537e3" sha1="11cc0f872c20de0a9371d91af7d52fae6b87b5f6"/>
+		<rom name="£70 2.bmp" size="177056" crc="73e859b7" sha1="a4ae83f717335e6f1750531afa8d62a2d57f8af6"/>
+		<rom name="£70.bmp" size="201576" crc="98025c65" sha1="003abb65097c649dd98ee88d3246e9083a8f830e"/>
+	</game>
+	<game name="Numbers">
+		<rom name="1.Bmp" size="68694" crc="58d689c0" sha1="98124be71e2f0c7a9e3c708172eb596666c0eb14"/>
+		<rom name="10.Bmp" size="68694" crc="3589f666" sha1="a5cf7ab525a7973458a38801fc599f8e9255b91f"/>
+		<rom name="11.Bmp" size="68694" crc="ec148164" sha1="2cca120ed5a82ee976991990f85c8d04684218b3"/>
+		<rom name="12.Bmp" size="68694" crc="bc08003d" sha1="8e7c75f720f368a7484e0593281485394a77fc75"/>
+		<rom name="2.Bmp" size="68694" crc="5f5d299b" sha1="8f21acaba56ba13d1e16cd524ecb365a57b1f730"/>
+		<rom name="3.Bmp" size="68694" crc="976e230f" sha1="34245a4fabc5683bcc62ad73c7d132fd6b1dca2d"/>
+		<rom name="301.Bmp" size="13670" crc="4b0bd06f" sha1="30d79add8917d27c9969966bdd07520eade1f7d2"/>
+		<rom name="302.Bmp" size="13670" crc="208cea18" sha1="17dcdaf43b5733f4d4e10c63f1ded7e1193de8c5"/>
+		<rom name="303.Bmp" size="13670" crc="beedad29" sha1="2befd51d53ad15abf615ee12dd14c310b219358c"/>
+		<rom name="304.Bmp" size="13670" crc="faa48764" sha1="f4d1a73f64c92514a55c39cce43d3fbea98beebd"/>
+		<rom name="305.Bmp" size="13670" crc="8bf2a696" sha1="da6ed0cb9f1d2713d62345d857593c535f39a119"/>
+		<rom name="306.Bmp" size="13670" crc="b2f22fc4" sha1="751790e37916e9e41a73bdfa0e3cf2c364ce8a30"/>
+		<rom name="307.Bmp" size="13670" crc="e1d4d302" sha1="c0d0f25c5b90e4e3840d4b3059378d5bbea83d79"/>
+		<rom name="308.Bmp" size="13670" crc="cc26d3e4" sha1="bdbe1ca33e849a3d039921eb14ba17f3f9965e63"/>
+		<rom name="309.Bmp" size="13670" crc="d07ef48c" sha1="00fea94fe9cd3ddc248deb3051e51b6a2270e6f9"/>
+		<rom name="310.Bmp" size="13670" crc="425a7d4e" sha1="91fb39e33446b7eb03e9b0a001b37f3e18fb1cae"/>
+		<rom name="311.Bmp" size="13670" crc="adc2eb1a" sha1="bef8bbf9848887ac50aa9f873d830c92416e1f6f"/>
+		<rom name="312.Bmp" size="13670" crc="d0de8f8a" sha1="6f9acd87be0b852568702aacae3fdb1f47632764"/>
+		<rom name="3b.bmp" size="68694" crc="3cb193b5" sha1="0508eacf5171f9db4302b010a0732b52ecf0ba1a"/>
+		<rom name="4.Bmp" size="68694" crc="063c4703" sha1="96cd97c8ce0c30dd852b9e692180e76de71caf3c"/>
+		<rom name="5.Bmp" size="68694" crc="42d7d788" sha1="3a2768c5af6cd648ea45599b943c9f4a6e13c573"/>
+		<rom name="501.Bmp" size="9478" crc="427acdc5" sha1="1e152f029ae065daeba440637c146d375f6bf290"/>
+		<rom name="502.Bmp" size="9478" crc="b3d71748" sha1="7a98388fdb7997bc48aabaddb5a0a361369fafbd"/>
+		<rom name="503.Bmp" size="9478" crc="a23d0d83" sha1="dce7013e7aee72ba3c354feb77e6002873fc00fe"/>
+		<rom name="504.Bmp" size="9478" crc="d14a9755" sha1="de6c41d59d9d123e34282e923af9860419498b99"/>
+		<rom name="505.Bmp" size="9478" crc="2fd8d752" sha1="bb308dc36e0a9d0cd9f358fbcf865218b61fe69c"/>
+		<rom name="506.Bmp" size="9478" crc="b539a51b" sha1="99977ddb5d46c65f95d3443c1e817fe71f4ca979"/>
+		<rom name="507.Bmp" size="9478" crc="35b53a71" sha1="3b815665af1055bb47318340557dcabeceb507be"/>
+		<rom name="508.Bmp" size="9478" crc="2d299510" sha1="420ecb7f380ab4eaed9e595b6b4fb37bcca1e061"/>
+		<rom name="509.Bmp" size="9478" crc="3183e1c7" sha1="0911ae8fed3ff9244b2219bd1e3ee3a9125d6d3d"/>
+		<rom name="510.Bmp" size="9478" crc="dd2855eb" sha1="8e5ae383f44f04548974d25e988e4177d97950aa"/>
+		<rom name="511.Bmp" size="9478" crc="43833ea3" sha1="c801abb00e3941468479f567f9372a5ed517f0b0"/>
+		<rom name="512.Bmp" size="9478" crc="0e66beff" sha1="25d4456c02d496e2af7f56182353321cdc3f9dbe"/>
+		<rom name="513.Bmp" size="9478" crc="2b71c80e" sha1="d9f979cb5871ef81581779aff6faa96c77ed033e"/>
+		<rom name="514.Bmp" size="9478" crc="2a6ae526" sha1="9c7e88913798eed846c864793fc1d5cc9331594f"/>
+		<rom name="515.Bmp" size="9478" crc="2be6e24a" sha1="3c88329b96a2edfe856afc20f755e1ee05a37678"/>
+		<rom name="516.Bmp" size="9478" crc="576a3b2e" sha1="0e8013812537334eb0c7552e7f7fe8e02ac803c1"/>
+		<rom name="517.Bmp" size="9478" crc="b436ee38" sha1="f26239c41dc8899a0576a96f3a35f40fd1383d0e"/>
+		<rom name="518.Bmp" size="9478" crc="bad48a4a" sha1="221a2df4e7233b9c80afebbd2540e1036855eb79"/>
+		<rom name="519.Bmp" size="9478" crc="74dcc41a" sha1="1ed7853a00ee4134c1f1276ff732e0c83e8dc7f4"/>
+		<rom name="520.bmp" size="24118" crc="6c3a8312" sha1="f6a2bd78761c55603097b95fdff9eddb15893ed5"/>
+		<rom name="521.Bmp" size="9478" crc="e53d4d2b" sha1="de54e3f828546f27d1a29cd21e250deb66756e99"/>
+		<rom name="522.Bmp" size="9478" crc="3e0576bb" sha1="7099dcf9051a450a57767f600e393e89bb02e498"/>
+		<rom name="523.bmp" size="24118" crc="227bcdaf" sha1="52edfc6e9b8630770518c29b0906cb6b609ffdff"/>
+		<rom name="524.bmp" size="24118" crc="013d6569" sha1="3e1e29e29e271aad91a088646b154ed5a243a11a"/>
+		<rom name="5b.bmp" size="68694" crc="b7b8d359" sha1="e48f2cdde159038377bf34e02eee16fbfb20e587"/>
+		<rom name="6.Bmp" size="68694" crc="7559d0fe" sha1="968af6dd8a95da55d8e3b0a4db9cdd3e295ea6ba"/>
+		<rom name="7.Bmp" size="68694" crc="afe075f4" sha1="30e752c3a7ac0c9aa45dd9fdab4b7a9a741391e0"/>
+		<rom name="7b.bmp" size="68694" crc="f1e7c8ea" sha1="2dda3c28327c5a881dcbec4c27b0a30ed76d544f"/>
+		<rom name="8.Bmp" size="68694" crc="efd4a361" sha1="25358e6dc2847eca8cc87d88e9bbcdf8c2a2c938"/>
+		<rom name="8m.bmp" size="24118" crc="54692bf2" sha1="cb89f3516c5360850f46e12fdbdba23784d64c8c"/>
+		<rom name="9.Bmp" size="68694" crc="32eeec30" sha1="f4a0aacfec74834b44f40154286fd02020813298"/>
+		<rom name="9b.bmp" size="68694" crc="0bbb14bd" sha1="969adaa0a594f5f7bc342aa5de188dbb1fabeb1b"/>
+		<rom name="Arrow1.Bmp" size="68694" crc="ab3a4fc0" sha1="6750928d9c4fbc1bec6938e93c565f6b1631166b"/>
+		<rom name="Arrow10.Bmp" size="68694" crc="d66686b4" sha1="238edbffb368f998feee4470062f27dbb4956798"/>
+		<rom name="Arrow11.Bmp" size="68694" crc="8d229690" sha1="afacf4064b1374e8a91b43eb772e4af7b160c1ee"/>
+		<rom name="Arrow12.Bmp" size="68694" crc="36e37bec" sha1="92ec4ea12bbcd56e9f08483fe1fb99c4112ff512"/>
+		<rom name="Arrow2.Bmp" size="68694" crc="7f978e0a" sha1="7d93f852efc89f5422715c01b419aa19580c7290"/>
+		<rom name="Arrow3.Bmp" size="68694" crc="37ae639c" sha1="801870d7e87cab01d29a5a8cd630f8cbed90ec70"/>
+		<rom name="Arrow4.Bmp" size="68694" crc="6d1d5169" sha1="8111b6c1a677cd1f128d12ac248ac4241e6d5f6c"/>
+		<rom name="Arrow5.Bmp" size="68694" crc="09c15f65" sha1="e733a55a9232159e2a02ebed24e8cebc15754009"/>
+		<rom name="Arrow6.Bmp" size="68694" crc="96c797a2" sha1="bfc5a088624b916a90ba6d10a3920373c83238de"/>
+		<rom name="Arrow7.Bmp" size="68694" crc="763aebae" sha1="6375c3540000244a3eab9b17a8f32c4c8dbc3bc1"/>
+		<rom name="Arrow8.Bmp" size="68694" crc="23959ba8" sha1="ed73837a13d5c86a1f05a6f155adc4e5e25bce26"/>
+		<rom name="Arrow9.Bmp" size="68694" crc="17dff7e9" sha1="cc180b513a1a4496365a8ffab6dd7f8703185989"/>
+		<rom name="Ball1.Bmp" size="68694" crc="20ef4117" sha1="ba3fdb7b4a3205c0a6add4c4a433b5d53d1cceb3"/>
+		<rom name="Ball2.Bmp" size="68694" crc="1373ee9b" sha1="b46fdd3609f58d824aa07dc94dde4af04f30314b"/>
+		<rom name="Ball3.Bmp" size="68694" crc="03884f9a" sha1="c40bf1661047057947f91438dfeeda2a4b50aff7"/>
+		<rom name="Ball4.Bmp" size="68694" crc="767af0dc" sha1="eb95201608bd7704d3ab39c5b5bff1a6b163357a"/>
+		<rom name="Blue1.Bmp" size="68694" crc="2f1bfb0d" sha1="cbaaf3adf43ed328ef85a4f72673d47d0e4d91aa"/>
+		<rom name="Blue10.Bmp" size="68694" crc="cd7f8615" sha1="9cd1daac4354eadeb9156ab514a3cbf016141e3b"/>
+		<rom name="Blue11.Bmp" size="68694" crc="4ba5b376" sha1="04304b81442a9c71a0e3f41a8f5aca33ee55972a"/>
+		<rom name="Blue12.Bmp" size="68694" crc="e965beaf" sha1="48895b19ec93157d26a0945e9fded30f1bd7957d"/>
+		<rom name="Blue2.Bmp" size="68694" crc="ad728d7e" sha1="35f8d69fabb72c554449c588fe298c420f32cb67"/>
+		<rom name="Blue3.Bmp" size="68694" crc="36a3b22f" sha1="f0a0b6ab8c5f159f9205cbae459d2330b2629aff"/>
+		<rom name="Blue4.Bmp" size="68694" crc="ed813cda" sha1="8972bd97b25f09fab65f3d9061686406a0d41b44"/>
+		<rom name="Blue5.Bmp" size="68694" crc="7444f546" sha1="74a91555ad4c4ad6a303089451969e0a4d266246"/>
+		<rom name="Blue6.Bmp" size="68694" crc="9e634d04" sha1="aee2ea3e737a1c3077e3175d805213fa56cad605"/>
+		<rom name="Blue7.Bmp" size="68694" crc="ecd9b66a" sha1="3576e97def879887d475bccd63fce60452900dce"/>
+		<rom name="Blue8.Bmp" size="68694" crc="b2ea172b" sha1="1e2c0a92465794083d25efc1e66dfe2bd07ea3ea"/>
+		<rom name="Blue9.Bmp" size="68694" crc="780cdcab" sha1="fbd35f4f4ba38e6d225090d562a3f0aca37642e3"/>
+		<rom name="Blueorange1.Bmp" size="68694" crc="681dbfb0" sha1="32eb584d9ff9139819cc996e9e03340e1d68ca57"/>
+		<rom name="Blueorange2.Bmp" size="68694" crc="62199d43" sha1="1fba11a65521e9ae9f2e8e5d75d3384d1d97b10e"/>
+		<rom name="Blueorange3.Bmp" size="68694" crc="22a13fe0" sha1="4c24a34b9064ef031546b6f09b4eae356e93290e"/>
+		<rom name="Blueorange4.Bmp" size="68694" crc="79b68a36" sha1="6dba3f7dabfeea210cfe4cb466a87e14a9a5f1b4"/>
+		<rom name="Cal1.Bmp" size="68694" crc="d919f186" sha1="4af7bab96e1c289dad5b789f974f1c1df1205624"/>
+		<rom name="Cal2.Bmp" size="68694" crc="8af8fdd3" sha1="d958838909e4f9253441aebb6d14d0cad85e7b78"/>
+		<rom name="Cal3.Bmp" size="68694" crc="b1b976fc" sha1="2e3bb19238b814d95e34e6be150b91e3baf44e01"/>
+		<rom name="Cal4.Bmp" size="68694" crc="1e597b06" sha1="2a1023e24ffec37eb2138534a5796055ea9b2ab6"/>
+		<rom name="Cal5.Bmp" size="68694" crc="3a160ddb" sha1="972a2b5bbec34499ce35135eaf04e62f36e4cb3e"/>
+		<rom name="Cc1.Bmp" size="68694" crc="1efb088e" sha1="12146e4525a03bd90306884384f9e7a10d2e8896"/>
+		<rom name="Cc10.Bmp" size="68694" crc="e41018aa" sha1="013ab0af7a3155d2a4caa91a6b61928a70651f4d"/>
+		<rom name="Cc11.Bmp" size="68694" crc="ad14f543" sha1="f68f6cfd2f11a6bb89a1b0eb71f4181b2db77615"/>
+		<rom name="Cc12.Bmp" size="68694" crc="f0c76543" sha1="5645bc8c8a623ae92aabf2e32af9758a83e54471"/>
+		<rom name="Cc2.Bmp" size="68694" crc="4354854b" sha1="6ec533e416ce1522f5a5f3a4e5a248a7eee63006"/>
+		<rom name="Cc3.Bmp" size="68694" crc="d5e225f1" sha1="0aae56d2b7d0479c6a29415c98690bdb19fd81a7"/>
+		<rom name="Cc4.Bmp" size="68694" crc="a5b308e5" sha1="5311226b4c192fd46186bee0488463582a9926a8"/>
+		<rom name="Cc5.Bmp" size="68694" crc="bde0e2e2" sha1="8885c420c0eeff1fad75b1a39c4febb365bc50c7"/>
+		<rom name="Cc6.Bmp" size="68694" crc="ad7655d6" sha1="31f6bab8a73191b9870ec730a64dda3f2002664a"/>
+		<rom name="Cc7.Bmp" size="68694" crc="9f3f5462" sha1="f9044a5e4caab2358047e12a844223245c040edc"/>
+		<rom name="Cc8.Bmp" size="68694" crc="1a83217c" sha1="194a5ce4c6570e38fbd7ca5402004b6846f0bea2"/>
+		<rom name="Cc9.Bmp" size="68694" crc="5856a6c1" sha1="a790b3f08af74ecd6111099b9f7e1c8c5ce62238"/>
+		<rom name="Cs1.Bmp" size="68694" crc="8b0fa188" sha1="05818dd9de72ddf3a3d3f813264575437982c850"/>
+		<rom name="Cs10.Bmp" size="68694" crc="11180b91" sha1="1d1b8e1233a93ca077f8d45468801a4cbd3047ce"/>
+		<rom name="Cs11.Bmp" size="68694" crc="48e85437" sha1="ad5b4adf7fb04559af03929fe8fcc7a81dbfc5ed"/>
+		<rom name="Cs12.Bmp" size="68694" crc="1ad6ce1c" sha1="332201d51ec2cb165c0896a9fc20de22241ca697"/>
+		<rom name="Cs2.Bmp" size="68694" crc="edc6915d" sha1="8ac23d3bcb3a962158b9bf9deb55b8a5b0dc0fae"/>
+		<rom name="Cs3.Bmp" size="68694" crc="3c7ddc77" sha1="47822f18f6af87f03221eeb545b2dbd60fa6335e"/>
+		<rom name="Cs4.Bmp" size="68694" crc="ab509cc7" sha1="56d3e5299615c2fc03f73c63d4fdfe0ab9d4e8ad"/>
+		<rom name="Cs5.Bmp" size="68694" crc="be2cef3b" sha1="b3cb48f64974e546f8e6cc1b2539e066f15fb574"/>
+		<rom name="Cs6.Bmp" size="68694" crc="b4e660db" sha1="76fd1427b359f12e877ead14e02d1744a287ede7"/>
+		<rom name="Cs7.Bmp" size="68694" crc="a6cd48a0" sha1="6f39302b40cb9a43298aa60705d02cd5e4d5126d"/>
+		<rom name="Cs8.Bmp" size="68694" crc="59873c91" sha1="adb6cc6f69ccf3a8d0d2d76a1d94fd0b19aff4c4"/>
+		<rom name="Cs9.Bmp" size="68694" crc="2e49b1bd" sha1="300f730c570035e32ec54871b6f793ac2d635878"/>
+		<rom name="Green1.Bmp" size="68694" crc="02234fb6" sha1="ffc4ee34a8c3a6120d696d904bf9bb556f20c1ef"/>
+		<rom name="Green2.Bmp" size="68694" crc="ff9cb7c4" sha1="bdcb0a4f831ac1bb4bb9ee018b774e95ec79f99e"/>
+		<rom name="Green3.Bmp" size="68694" crc="3d3dfe2f" sha1="3865928103e9f282041b8608821f0c500249d31a"/>
+		<rom name="Green4.Bmp" size="68694" crc="7adfd4a2" sha1="41809b7ebe43e58eb74656704d362117db5ea2a5"/>
+		<rom name="Hj1.Bmp" size="68694" crc="aa56920c" sha1="fe36e3d12f0581ac4e12d6862d44ed257f5469e3"/>
+		<rom name="Hj10.Bmp" size="68694" crc="3cb420a8" sha1="5742967dce73530d0c69dd23aabf9ff95ef4efa3"/>
+		<rom name="Hj11.Bmp" size="68694" crc="4fdd1d51" sha1="09c35b732f665a576278d7fa089fb5c2d7ceab42"/>
+		<rom name="Hj12.Bmp" size="68694" crc="493ab09c" sha1="713feb37d6b450dfd1a279af612af4d1b92b3024"/>
+		<rom name="Hj2.Bmp" size="68694" crc="8d48e122" sha1="8b1f0bc1b4b704aae4cc04b4bc4a6cae5b9d054e"/>
+		<rom name="Hj3.Bmp" size="68694" crc="cadb72b2" sha1="e894a8c3209edbd9cb98361d4807ffc21ea58347"/>
+		<rom name="Hj4.Bmp" size="68694" crc="b93356e1" sha1="3a8b15c6529681cf39ed50b96bb8922c0a4a9f58"/>
+		<rom name="Hj5.Bmp" size="68694" crc="a6af34a0" sha1="d453b1ed16375e2c666b1ca4a2abea2569ec40ff"/>
+		<rom name="Hj6.Bmp" size="68694" crc="90b0e386" sha1="42924333055013f6c00eb9db97fcc0ecc22ee57e"/>
+		<rom name="Hj7.Bmp" size="68694" crc="89309648" sha1="c02d04081876376d8a3f6ce3afac2c73553df980"/>
+		<rom name="Hj8.Bmp" size="68694" crc="ba36c37b" sha1="d59033dff3e6b5704c601a14011ba6b2c0292ce9"/>
+		<rom name="Hj9.Bmp" size="68694" crc="0754c840" sha1="e397c027c24e41f63b8b0b4922db1e3a040cccc1"/>
+		<rom name="Nudge2.Bmp" size="68694" crc="401093a4" sha1="085c6f58d3b9283ecd9399e287f29583458f29b6"/>
+		<rom name="Nudge3.Bmp" size="68694" crc="cc0e4a8b" sha1="7dae738092e2dc7a3d9377b83ad41e4b0e2df8ba"/>
+		<rom name="Nudge4.Bmp" size="68694" crc="2a14ab3b" sha1="aadb02408e9a2f53950cbe198e8f1fe7aa6613c7"/>
+		<rom name="O1.Bmp" size="68694" crc="95202aab" sha1="1faa364b94f9d80e5b868be3df07366a64e234d0"/>
+		<rom name="O10.Bmp" size="68694" crc="34d10753" sha1="43c2da86a9f0523fd5e040adf558e636d8b40a56"/>
+		<rom name="O11.Bmp" size="68694" crc="c415a945" sha1="350bf0b2ba5ac20fe60c695ae748ed258d331f7a"/>
+		<rom name="O12.Bmp" size="68694" crc="a92fa057" sha1="408464263bf72a08fcffec2ef0353e134cb7c3a4"/>
+		<rom name="O2.Bmp" size="68694" crc="8658e4c7" sha1="cb0b4dcf499bfa84689e945c9d2204eefaf1cdf4"/>
+		<rom name="O3.Bmp" size="68694" crc="dcb23cbb" sha1="5553570fbb4eff08803e3fb9f98acf758ad6c939"/>
+		<rom name="O4.Bmp" size="68694" crc="b0687b12" sha1="715bee85940e50be753ef58207866adcf6147bdf"/>
+		<rom name="O5.Bmp" size="68694" crc="87db7f74" sha1="feeecfc0757245d7dc9c7a8cb1edfe64baa448a8"/>
+		<rom name="O6.Bmp" size="68694" crc="7cbf86ea" sha1="dc213e9d3a2cd50f146c783141682266497287fe"/>
+		<rom name="O7.Bmp" size="68694" crc="b543b006" sha1="733fe0f0d291e6f10a6a5618f493720a2cefd13f"/>
+		<rom name="O8.Bmp" size="68694" crc="b6b99ee5" sha1="2a4b349195ddeff18848a9507d4ec3dbe0cc4ae3"/>
+		<rom name="O9.Bmp" size="68694" crc="8830caed" sha1="b2db32e2271d8f69ce0a7a4a6301fc173e868c0c"/>
+		<rom name="Orangered1.Bmp" size="68694" crc="0e7ccb04" sha1="5ba28de244c12237ff735d2fcb48c308f1763828"/>
+		<rom name="Orangered2.Bmp" size="68694" crc="62bd2c8e" sha1="51a10b0091aabd37e7a6c9d4aec4eed59746f05b"/>
+		<rom name="Orangered3.Bmp" size="68694" crc="de271380" sha1="aed93ad13ce9213b54f5268e82b1ce6ebcc9ba3f"/>
+		<rom name="Orangered4.Bmp" size="68694" crc="9f50a471" sha1="11a574adcdac1ad9f66066061a8ccece7afbc098"/>
+		<rom name="PE1_1.bmp" size="51016" crc="d8ef783e" sha1="e95edc9dd645a2599a1c622afd1dde8d8234bcff"/>
+		<rom name="PE1_2.bmp" size="51016" crc="a7ff8e62" sha1="1390c6249d4d9f165c1f9730ba2732a10cabbe61"/>
+		<rom name="PE1_3.bmp" size="51016" crc="217bc95e" sha1="766b1ef60359e71d6cd2d56608bf847fc4b09cd4"/>
+		<rom name="PE1_4.bmp" size="51016" crc="6aab3cab" sha1="033fa5789f8c6ad1e08490106f514113f3089865"/>
+		<rom name="PE1_5.bmp" size="51016" crc="8538a737" sha1="d460c953c7466bfd544f41ca60eca645aae6ff9f"/>
+		<rom name="PE1_6.bmp" size="51016" crc="36d5865e" sha1="3f545f0320f70a6ad3ce3822acb80656cb54db20"/>
+		<rom name="Paw1.Bmp" size="68694" crc="09665214" sha1="f28bd1a6cd79e4767c31162eec4bb890a53c1cdf"/>
+		<rom name="Paw2.Bmp" size="68694" crc="fb1de740" sha1="ae0afdc5224c37387213c9ca81b31a8857a2726d"/>
+		<rom name="Paw3.Bmp" size="68694" crc="6db7d376" sha1="6d1859c9d690d3c6d8f147d46bbadb907b1422b8"/>
+		<rom name="Paw4.Bmp" size="68694" crc="49de20d0" sha1="dd2856b9b8bb0c71a8fd4d2531db5fab91a44b80"/>
+		<rom name="Paw5.Bmp" size="68694" crc="707fea6a" sha1="6d4d5a6e0f8dc20dbb3c3f3610bebc8e6ec5a2d1"/>
+		<rom name="RA301.bmp" size="24118" crc="dce4dae4" sha1="0eae9c894d83a212394a1dba6473786a0990354c"/>
+		<rom name="RA302.bmp" size="24118" crc="4bc45dc5" sha1="69725fb10cc2713f53d3cf4d849c7957940754d6"/>
+		<rom name="RA303.bmp" size="24118" crc="565de24a" sha1="216bdb08a8ae94eb3e725349dcd1dabd3f0ddd84"/>
+		<rom name="RA304.bmp" size="24118" crc="fe3085cf" sha1="e72c1b813117b638c56b03cc3fe534cb625bbfe7"/>
+		<rom name="RA305.bmp" size="24118" crc="744f5696" sha1="f05e38c7e7ba7f6b638cd52f41dd4e908b2eea4c"/>
+		<rom name="RA306.bmp" size="24118" crc="7ff99496" sha1="a54f3d8ae0de5dee3919f4262edf0ec994e03800"/>
+		<rom name="RA307.bmp" size="24118" crc="a610ea50" sha1="fb2b490b983f01e36e77cf00cf0d565057ac9450"/>
+		<rom name="RA308.bmp" size="24118" crc="54ba06bb" sha1="c8b04b990bf125154235d7ad656f6b64669bc680"/>
+		<rom name="RA309.bmp" size="24118" crc="04fb2c1e" sha1="6d331733c9e010eeee74e1660c8279b55505b8dd"/>
+		<rom name="RA310.bmp" size="24118" crc="dca516fc" sha1="061eb7893d7fe703ebbff60bb3d7976517c0fde7"/>
+		<rom name="RA311.bmp" size="24118" crc="73e1fba8" sha1="bf75d02278c47effe45cce041acb917affb33779"/>
+		<rom name="RA312.bmp" size="24118" crc="0bbcf746" sha1="ce541cc0fe0e1a03d022c689f1541255f4dcc95d"/>
+		<rom name="Red1.Bmp" size="68694" crc="c1554af4" sha1="e9604017bae8cbae8ba591c730115f02a71eb637"/>
+		<rom name="Red2.Bmp" size="68694" crc="7fcfd8d0" sha1="a1114992821a3180b7b2090a668bf115f0fe3c4a"/>
+		<rom name="Red3.Bmp" size="68694" crc="586b2c66" sha1="829eacfe2ee08714e4b969d45ef5e0b48b001ba0"/>
+		<rom name="Red4.Bmp" size="68694" crc="c923e9c4" sha1="e43e8d8f596293548aed3ba9bcbb1990979d7675"/>
+		<rom name="Redorange1.Bmp" size="68694" crc="817e381a" sha1="df49540532b9ec0d698e9e063d4200a3e1b3390f"/>
+		<rom name="Redorange2.Bmp" size="68694" crc="8f747a9e" sha1="3382f5e99b242ff150db016e0d54bd2cd40c1d38"/>
+		<rom name="Redorange3.Bmp" size="68694" crc="ce0ad121" sha1="56d28c2ec517444895a3b17482f2a2f1bfa3f465"/>
+		<rom name="Redorange4.Bmp" size="68694" crc="96194d02" sha1="4e4e802bb5497ae814616a6bce5ce889ef3bd451"/>
+		<rom name="Rhf1.Bmp" size="68694" crc="5a95bdf0" sha1="00d288d864629ef8fdf77ad17c6a2d619664946c"/>
+		<rom name="Rhf10.Bmp" size="68694" crc="f877a91d" sha1="6ecb1d791852954f58f707f3bd5dbf31298dee8d"/>
+		<rom name="Rhf11.Bmp" size="68694" crc="275f237a" sha1="abfa6acb93e917ac568d1d554f78b8ed7d41cc45"/>
+		<rom name="Rhf12.Bmp" size="68694" crc="d9b655cf" sha1="ccc1f5441373d721224837e379e8ebb6243063bb"/>
+		<rom name="Rhf2.Bmp" size="68694" crc="e2032d8c" sha1="cf81074c78afb003b76b32be679c4b7fd2b9c8ec"/>
+		<rom name="Rhf3.Bmp" size="68694" crc="bde7fe42" sha1="3052e626798e14a0170fc1606f53e4d4872ad37a"/>
+		<rom name="Rhf4.Bmp" size="68694" crc="e390bda5" sha1="fc5117dd8189a59fc370d9a19ef28b83e63f7f33"/>
+		<rom name="Rhf5.Bmp" size="68694" crc="8b41aee3" sha1="6961e62b56842031dda9c25f1a00ed1b007728d7"/>
+		<rom name="Rhf6.Bmp" size="68694" crc="577aa170" sha1="b7629567c186f9353eb287148bc218d5eb93ddf8"/>
+		<rom name="Rhf7.Bmp" size="68694" crc="9ea22180" sha1="f37d4f7234c5c74838233fbd2eef12dfb64870a1"/>
+		<rom name="Rhf8.Bmp" size="68694" crc="833ea11b" sha1="37a7c0b4fa48c5f64a5f3e802934a754f5a469a6"/>
+		<rom name="Rhf9.Bmp" size="68694" crc="6b2b7781" sha1="59a13b28cc73ae93c70759c439b113ac5729e982"/>
+		<rom name="Rhfo1.Bmp" size="68694" crc="0838b4a9" sha1="1030803e98ee6703702524a8bf83905de1978438"/>
+		<rom name="Rhfo2.Bmp" size="68694" crc="25363b3f" sha1="e9c5ef18a0c8b527335d9a4461776c9f5427c455"/>
+		<rom name="Rhfo3.Bmp" size="68694" crc="d206585c" sha1="6c8548ffcb16b455fff1069cc3182ac68123475c"/>
+		<rom name="Rhfo4.Bmp" size="68694" crc="9f5de1eb" sha1="1d45253f1e9e131f27045f89d1e19fbb76041248"/>
+		<rom name="Screwing Around  1.bmp" size="4534" crc="dd54e203" sha1="b541adb95ff0c2aeedd1fdb2b8c9650d74b64da7"/>
+		<rom name="Screwing Around  10.bmp" size="4534" crc="379ee1db" sha1="7aed00f41d9e011a88dfb5f2bbd9ab208319b2aa"/>
+		<rom name="Screwing Around  11.bmp" size="4534" crc="a07ad580" sha1="488fdf467ceca7e267182b22fffa2cf494057115"/>
+		<rom name="Screwing Around  12.bmp" size="4534" crc="e11fb6be" sha1="cb67c05ea3b2aa6f9f53192299d98d36a4c918b5"/>
+		<rom name="Screwing Around  2.bmp" size="4534" crc="6fa73455" sha1="4aab817d704e4aa6fe5c6b9923c0c94f33aad6bd"/>
+		<rom name="Screwing Around  3.bmp" size="4534" crc="6d2c0933" sha1="18b7c7c8fe6b8f779dfaa8d498c889d7dfd11f6c"/>
+		<rom name="Screwing Around  4.bmp" size="4534" crc="928bc645" sha1="b59911628840049c7fd611f0d258e64985aa4ef6"/>
+		<rom name="Screwing Around  5.bmp" size="4534" crc="79773e47" sha1="f247bc4ebf4cd0c78c6c0b675a0405aac868c27d"/>
+		<rom name="Screwing Around  6.bmp" size="4534" crc="a88e36a4" sha1="34d3f31f14cedc543d08b9d900aae5c0c8bcb224"/>
+		<rom name="Screwing Around  7.bmp" size="4534" crc="8cb03540" sha1="27cc07d119a0123d09d2c9f7623acb3b7b42ea12"/>
+		<rom name="Screwing Around  8.bmp" size="4534" crc="d6a0ac7f" sha1="ad41ee4fba6f9b800ab5348a15b1e34e3660c18c"/>
+		<rom name="Screwing Around  9.bmp" size="4534" crc="908c2148" sha1="123066db031499c3c655e93089beea6bce93954c"/>
+		<rom name="Screwing Around (Numbers).jpg" size="376516" crc="4a32a010" sha1="d9c02d10cebced976cf6fe7f6c0424cc4605f17a"/>
+		<rom name="Turtle1.Bmp" size="68694" crc="e662d071" sha1="d0a9d5018ee53aae704d0a21e37ba95f15ad7faa"/>
+		<rom name="Turtle2.Bmp" size="68694" crc="319f04e9" sha1="c218faa728091496606fc674976b7011455af2e6"/>
+		<rom name="Turtle3.Bmp" size="68694" crc="a1aae225" sha1="0730922a1ae6661e9bd2bebb0c69d4c23602b142"/>
+		<rom name="Turtle4.Bmp" size="68694" crc="d1b81f06" sha1="653cb8c40e6ee5cd16e13783ab9d77a42ef7bc38"/>
+		<rom name="Wt1.Bmp" size="68694" crc="c7abe905" sha1="462bb97928663f834f996a471d0e5f195e118625"/>
+		<rom name="Wt10.Bmp" size="68694" crc="499b8813" sha1="1965cf3b319cf13c0bb1b7d4b50b662e0c140839"/>
+		<rom name="Wt11.Bmp" size="68694" crc="774afff2" sha1="bc72e0661cdd801d6d961f85b788e4cfc21e31c1"/>
+		<rom name="Wt12.Bmp" size="68694" crc="1398f28a" sha1="1de5bcc145220ff4fbb1943afa2fe8b2ae59f219"/>
+		<rom name="Wt2.Bmp" size="68694" crc="01140ce3" sha1="0e4fcba01af2b099978b5b45ac80381729d1c198"/>
+		<rom name="Wt3.Bmp" size="68694" crc="6d89b4c2" sha1="06ba4162668d3146b0a257a1fa91e5ed3a9dacdc"/>
+		<rom name="Wt4.Bmp" size="68694" crc="65a97e16" sha1="2970f19b3d52b23f329aae215cf3e34a0899e0c7"/>
+		<rom name="Wt5.Bmp" size="68694" crc="20f3f282" sha1="0b8bd0acc38b0ea20804067cb4fb585cbd36313d"/>
+		<rom name="Wt6.Bmp" size="68694" crc="6394b137" sha1="9676da2b2c86af0ff81506a4c3e028850a9e522d"/>
+		<rom name="Wt7.Bmp" size="68694" crc="eb94debd" sha1="5801de617c258feaf294751880ac5af59416fc57"/>
+		<rom name="Wt8.Bmp" size="68694" crc="243848fb" sha1="6c0871dc33e4571ede2abf55ca9164d1e1fe9034"/>
+		<rom name="Wt9.Bmp" size="68694" crc="1231a3b2" sha1="c424e96a85bb6dd772cb4727ee4f4e08f0a6011d"/>
+		<rom name="dice 1.bmp" size="47486" crc="967b931f" sha1="420436481b8d682cc14d1e94c261f8493100cc48"/>
+		<rom name="dice 2.bmp" size="47486" crc="9d720950" sha1="38bd96fb619e310df2d02c4e6fece02d7d4103a3"/>
+		<rom name="dice 3.bmp" size="47486" crc="0d1587f8" sha1="45ced99de8d1e307bc2e38ee69a826d331f1eec9"/>
+		<rom name="dice 4.bmp" size="47486" crc="765163e8" sha1="bec078b05410d1b798b13d263645498bb081c61e"/>
+		<rom name="dice 5.bmp" size="47486" crc="594365ee" sha1="dcf85bf934da6b5240c0f6ae43dc1326c8225c00"/>
+		<rom name="dice 6.bmp" size="47094" crc="e4a8dd31" sha1="c226aea947b447d599613a395ffcb7f18ad55eaa"/>
+		<rom name="dice1.jpg" size="118565" crc="737524ba" sha1="7e4392baa37d982f3d537a965720ec5349b91792"/>
+		<rom name="dice2.jpg" size="118964" crc="0c668e6d" sha1="5615e17cae8fb6d78361f8ed97eccb66a5f47c69"/>
+		<rom name="dice3.jpg" size="125666" crc="db512627" sha1="76b85eb4450efa9058d095e303f992e3d0ee7be3"/>
+		<rom name="dice4.jpg" size="122261" crc="f5f0d4c0" sha1="a02f346a450e9ba1646742ca9684994b5c4efb89"/>
+		<rom name="dice5.jpg" size="125049" crc="6c87cd38" sha1="5cd689173509911295592fc7769b4ce6416dc64d"/>
+		<rom name="dice6.jpg" size="129386" crc="fb8c769a" sha1="04204d72a3994991812913faab11208a0e232fab"/>
+		<rom name="finalreel301.bmp" size="103894" crc="056121d9" sha1="9a6b0c1c001a4711f2cf676ea16b12ce60e603a6"/>
+		<rom name="finalreel302.bmp" size="103894" crc="083683b0" sha1="61a0dc8bf856f9bd20d8c2a973deb278988fe621"/>
+		<rom name="finalreel303.bmp" size="103894" crc="83377c3d" sha1="686ed836e81b9423551111b8d58dc56faa2ebaa7"/>
+		<rom name="finalreel304.bmp" size="103894" crc="98fca4da" sha1="71f8b5c6a1edff9c2a34a3e8b4dfb42d5eb041b3"/>
+		<rom name="finalreel305.bmp" size="103894" crc="906ea858" sha1="3f90f4af1b1f8ca59d252c27dec0551adbf241de"/>
+		<rom name="finalreel306.bmp" size="103894" crc="aabfe48a" sha1="956b147769ba77c2224619fd331175fb430d9be6"/>
+		<rom name="mo301.bmp" size="12116" crc="31de2df6" sha1="c67b137792c0eaa5be937c64e1cb8387535034a7"/>
+		<rom name="mo302.bmp" size="12116" crc="b24472b5" sha1="5f323fef475c3ce7c29ccd140111d08690efda30"/>
+		<rom name="mo303.bmp" size="12116" crc="84359b6a" sha1="9e0d129c223dd579d603d36d0477f154a07a2e13"/>
+		<rom name="mo304.bmp" size="12116" crc="03ea1be4" sha1="76203e28611382520e88715ecd89948c4b0a60d4"/>
+		<rom name="mo305.bmp" size="12116" crc="49d8db78" sha1="164c5ffe45fb59b4a18d3be14b16f76effaeffb7"/>
+		<rom name="mo306.bmp" size="12116" crc="8b173860" sha1="7ab89b3fa784333193e178075ce2acf79a5b311d"/>
+		<rom name="mo307.bmp" size="12116" crc="ab13bb4d" sha1="7c497bda7b8deaf1fc392d01f1a560fd9201d06c"/>
+		<rom name="mo308.bmp" size="12116" crc="d8b79918" sha1="dc620c5a6283aaaf192e7b5c647d5d12e19f101f"/>
+		<rom name="mo309.bmp" size="12116" crc="7415630d" sha1="77df32f5bb106dc9cdebd506734602960cc6b0b3"/>
+		<rom name="mo310.bmp" size="12116" crc="a678cfe8" sha1="f45828b2c492fc69d747a205ac40e561b353b8f6"/>
+		<rom name="mo311.bmp" size="12116" crc="a9b0aa5f" sha1="4ee683d1f52c69b964c290898c51bbbb9173e5f7"/>
+		<rom name="mo312.bmp" size="12116" crc="1ad76fb4" sha1="b0ffaeb8878b10f7fac4c939c2f02874babeea96"/>
+		<rom name="mo401.bmp" size="8036" crc="dbec8aa1" sha1="0f6bc2599bef1a9c600a06b70d571a48ea801f18"/>
+		<rom name="mo402.bmp" size="8036" crc="41e8357f" sha1="008e045024b6e590c3c743b2bb313ef1e1a1e6c1"/>
+		<rom name="mo403.bmp" size="8036" crc="af6a56bb" sha1="b62f5b51c4169d3e6f220cd228fdfafb8b478571"/>
+		<rom name="mo404.bmp" size="8036" crc="d1788446" sha1="24c6b83acbfe017560cc44cc49a857e249af8ccb"/>
+		<rom name="mo405.bmp" size="8036" crc="e2679d31" sha1="d0ff693b22d57c148285611bf0e56b9362450de8"/>
+		<rom name="mo406.bmp" size="8036" crc="e90461a2" sha1="3ad468224f233f40de0003793a3a7fc7d227ca9e"/>
+		<rom name="mo407.bmp" size="8036" crc="408db8c8" sha1="f82b319ad8279564e66b749e2a52eca71b43125f"/>
+		<rom name="mo408.bmp" size="8036" crc="4157cc13" sha1="0e2177555b4b0de0aa93b9d32fdc7e89d15ec353"/>
+		<rom name="mo409.bmp" size="8036" crc="ef764595" sha1="6e3606dfd1ac78d3ec439fb9ade514939b9d481c"/>
+		<rom name="mo410.bmp" size="8036" crc="ba89c840" sha1="164800024a412202a713d92fbc54b55184298cbb"/>
+		<rom name="mo411.bmp" size="8036" crc="d76c1b34" sha1="9e3665fd53dc78d1fbd37d9bed2f903fca015d0f"/>
+		<rom name="mo412.bmp" size="8036" crc="260e2778" sha1="0fe7121c7a9e149f6afb92bd2e067217ca974f37"/>
+		<rom name="mo413.bmp" size="8036" crc="993942cd" sha1="fc0fc3b5fb7481a29b3f4dd2f78ab26c660db8b3"/>
+		<rom name="mo414.bmp" size="8036" crc="b2163c5f" sha1="7461e76b9b52866eca8b16b1dcb817eb63034372"/>
+		<rom name="mo415.bmp" size="8036" crc="50edf197" sha1="ce2cc9ae74cb19c43167e70c5e7ff17dc2b3cfa6"/>
+		<rom name="mo416.bmp" size="8036" crc="361e95b4" sha1="a23c51ba5a84ecbc6a57d319b4a1b27c2802bf62"/>
+		<rom name="motd 1.bmp" size="127254" crc="5d2be971" sha1="1b98baf5d483711341d61bdaf366ecd9151f2ce8"/>
+		<rom name="motd 10.bmp" size="127254" crc="d1200d51" sha1="d987cc9a027ac518ba96f0802701ff26509fbce4"/>
+		<rom name="motd 11.bmp" size="127854" crc="4e7e8fac" sha1="3b20d8047c4553300da1881be0e808f53dacd82b"/>
+		<rom name="motd 12.bmp" size="127254" crc="267dca00" sha1="8fe9327e36ae6cfcd9d5aa52bc6a3e830362b70a"/>
+		<rom name="motd 2.bmp" size="127254" crc="9c157d93" sha1="a9e696ebf1e7e64c496e97f95c07763cded15f5e"/>
+		<rom name="motd 3.bmp" size="127254" crc="a8abf1de" sha1="d0e0d738f843f74642933045f2f6f51fe1a2ade0"/>
+		<rom name="motd 4.bmp" size="127854" crc="8a923534" sha1="0af0c1b4c53ddfa8274a7ed6d16ea54ab4112374"/>
+		<rom name="motd 5.bmp" size="127254" crc="3bc64f4c" sha1="a33321dad7834ad929ebc0a6d21c8181c65d09f0"/>
+		<rom name="motd 6.bmp" size="127254" crc="bb6b7324" sha1="9852c0a3d770ad737074fa04ac14168bf6685c95"/>
+		<rom name="motd 7.bmp" size="127854" crc="71c43c88" sha1="3f0334688d05e47408ec56657be75ce215054d3d"/>
+		<rom name="motd 8.bmp" size="127254" crc="2216f904" sha1="5fdf36ff617034e2a6d82ede282174e3330ed329"/>
+		<rom name="motd 9.bmp" size="127854" crc="caf8e649" sha1="77710ae0a44e37cad45a18d596d2b995f4ffb6b1"/>
+		<rom name="numberreelband.bmp" size="152936" crc="b26222ca" sha1="004965cadc037b9b94cb6deb7a98c603ee02f629"/>
+		<rom name="plus 1.bmp" size="68694" crc="4cb11df1" sha1="23ad5e0d8ddecd1f34f8354061f445c97cca9c45"/>
+		<rom name="plus 2.bmp" size="68214" crc="2ac6e89d" sha1="5a95e0750d8a991f162d6f6854a50101ecab1fac"/>
+		<rom name="plus 3.bmp" size="68214" crc="d52a9773" sha1="65a35dc5140e21cb9fd70fd30b08e345a61053b4"/>
+	</game>
+	<game name="Reels">
+		<rom name="Reel Bands/Barcrest MPU2 Reel Template 1.0.0 (08Aug2019) (Amusements).zip" size="2153835" crc="244505bd" sha1="c5c36b3e5db54043ca7c773e04d31a3f338301f9"/>
+		<rom name="Reel Bands/Betcom symbols v1 1.0.0 (10Apr2022) (vectra666).zip" size="167044" crc="307ded1a" sha1="056899789443655684f847f4cff72d63f69d6955"/>
+		<rom name="Reel Bands/Crystal Symbols 1.0.0 (10Apr2022) (vectra666).zip" size="182609" crc="b02886ad" sha1="abbf6889b38efd4ee26051a7f485aa11e5bf52c0"/>
+		<rom name="Reel Bands/Deal or No Deal Feature Symbols 1.0.0 (26feb2018) (vectra666).zip" size="15389746" crc="60c83835" sha1="4193845fc70537b26afeca4673df5675df4558d9"/>
+		<rom name="Reel Bands/Eachway Nudger MK1 1.0.0 (08Aug2019) (Amusements).zip" size="253345" crc="6fcf8770" sha1="fdecf7a4f44f9922247237354bc131719ee8e5b5"/>
+		<rom name="Reel Bands/Epoch Italian Job2-3 Symbols 1.0.0 (11May2018) (vectra666).zip" size="10225143" crc="9b518b3b" sha1="363645144595a7c7d6f0a84447cb0fcb8401358d"/>
+		<rom name="Reel Bands/Extreme Symbols 1.0.0 (11May2018) (vectra666).zip" size="16254367" crc="f328523c" sha1="56222d5e9b5a0fb7ca428826c7af6e6bb744f81a"/>
+		<rom name="Reel Bands/Global - Heartbreak Hotel Reel Bands 1.0.0 (30Sep2018) (vectra666).zip" size="1305930" crc="97753d75" sha1="a243647e303209281ff17db99538173578f76ac0"/>
+		<rom name="Reel Bands/JPM Symbols 1.0.0 (25Mar2022) (vectra666).zip" size="399255" crc="7a8421c9" sha1="4f4c353a49e90b88bd4ed433900227da1fe8aa21"/>
+		<rom name="Reel Bands/Lucky 2&apos;s MK1 1.0.0 (08Aug2019) (Amusements).zip" size="944410" crc="871f272e" sha1="13c5a0a4b9a9cfe4ba8cc99fb62b322998a7075b"/>
+		<rom name="Reel Bands/MPS-PCP Reel Symbols 1.0.0 (27Oct2019) (vectra666).zip" size="61239" crc="ccd5b704" sha1="767f7cc3790aa202c2893c9e3fb185215c5d41f8"/>
+		<rom name="Reel Bands/Maygay German Reel Symbols 1.0.0 (23Mar2020) (Spidy21982).zip" size="10154477" crc="871b09b8" sha1="ec0eb80a0b3660fa75de15b403b0f7325c813cc3"/>
+		<rom name="Reel Bands/More Scorp5 Dond Symbols 1.0.0 (07Oct2018) (vectra666).zip" size="199190" crc="e47b7b84" sha1="a0a4e59f7b30ca208716f36af3072c0dac5128cd"/>
+		<rom name="Reel Bands/New Bellfruit bars 1.0.0 (30May2018) (Matty.n).zip" size="51991" crc="bf31f1da" sha1="0bc252f77ecf493ecbade9f0330a028c40a8547b"/>
+		<rom name="Reel Bands/Plus Money Reel Symbols.zip" size="4105919" crc="39a3f473" sha1="362b911d2e70cc24f09d893fabdbc8fc3f8d6a72"/>
+		<rom name="Reel Bands/Project&apos;s The Roll 1.0.0 (23Jun2019) (vectra666).zip" size="336074" crc="88d3aeb8" sha1="8f2d793fcffec4270a9ff907c0c66bd91cdbd948"/>
+		<rom name="Reel Bands/Reel Crazy Reel Symbols.zip" size="2819218" crc="49e101fd" sha1="df83b6f76bcc0ea0de7e18659fce14657c3c9d3d"/>
+		<rom name="Reel Bands/Reflex Gaming Symbols 1.0.0 (26Feb2018) (vectra666).zip" size="1363855" crc="134a2725" sha1="bbb32c162e73c390be634fde013315450f324d2a"/>
+		<rom name="Reel Bands/Reflex Newer Symbols 1.0.0 (11Mar2021) (vectra666).zip" size="976527" crc="19588e60" sha1="07875d0a4dfe69d1a10e28fd7736d245f2b53abf"/>
+		<rom name="Reel Bands/Reflex Symbols - Alice Through the Looking Glass (black backgrounds) 1.0.0 (12Oct2019) (vectra666).zip" size="1347108" crc="2b184c8e" sha1="c172dc75455af6c0981739289bf33b2f17e40aec"/>
+		<rom name="Reel Bands/Reflex Symbols 1.0.0 (02Oct2020) (vectra666).zip" size="31259133" crc="ac42a4f0" sha1="41c740beaef4b49f8bb9eec286f11aeb3976b6ae"/>
+		<rom name="Reel Bands/Scorpion 4 Club Symbols with Black Backgrounds 1.0.0 (15Oct2018) (vectra666).zip" size="525264" crc="4970b470" sha1="25f2c71e288cb0791f16e2a3d15799bd84d343fc"/>
+		<rom name="Reel Bands/Scorpion 5 Clearer Symbols (new type) 1.0.0 (25Sep2019) (vectra666).zip" size="81804" crc="99c3d0bb" sha1="ef9cf2fb046f5fa4f45de1be6b54df450c792c35"/>
+		<rom name="Reel Bands/Scorpion 5 Various Symbols 1.0.0 (26Feb2018) (vectra666).zip" size="298935" crc="5487b4bc" sha1="cbdb69a8a8e7edbf33bedcc2696638ce9ffe5206"/>
+		<rom name="Reel Bands/System 5 Dice Reel.zip" size="21507" crc="bf05cb73" sha1="372e9c5abcaa61fd3baa455148323157cd77a2f1"/>
+		<rom name="Reel Fruits/1bar.zip" size="2140739" crc="2fe4b68d" sha1="da4e3ddf53821eebef623bece18b2e6116c334e8"/>
+		<rom name="Reel Fruits/2bars.zip" size="1754060" crc="57bcc7fc" sha1="e07a73b7fe7dc2bd12a7aa0505d145dad446d993"/>
+		<rom name="Reel Fruits/3bars.zip" size="1561219" crc="924eebee" sha1="d20aa0197df9365e15bed85960284d998ba67c12"/>
+		<rom name="Reel Fruits/7s Blue.zip" size="1276998" crc="3d550867" sha1="fbe45b53f4d6ea535d7c003bde1793d3b8c0fe2e"/>
+		<rom name="Reel Fruits/7s Red.zip" size="1850418" crc="4b4545b3" sha1="1b9b2bafcdf7f2c850a31e18ebfd90cb9d6e212d"/>
+		<rom name="Reel Fruits/7s Yellow.zip" size="33896" crc="f470c929" sha1="4f523acd441ea257f9b6948f8b3edf08881820d9"/>
+		<rom name="Reel Fruits/Apple.zip" size="46919" crc="50d8429d" sha1="7fe9bcdaf545c87d93145d9472d79f8b06c0b940"/>
+		<rom name="Reel Fruits/Bells.zip" size="2526085" crc="4f3574ef" sha1="3454acee06b9a505504f7d8024d06134eb3e21f9"/>
+		<rom name="Reel Fruits/Cards.zip" size="115474" crc="62db1d6d" sha1="89adb4be554a48d63f56397a2202be14543a90d3"/>
+		<rom name="Reel Fruits/Cashpots.zip" size="590714" crc="97a8f719" sha1="3c818203973665d2d4f2385189fd82b9c2e10e4c"/>
+		<rom name="Reel Fruits/Cherries.zip" size="2177972" crc="eab1170a" sha1="d4b54bbe053948e0b82a157f38cde3dd784c58e8"/>
+		<rom name="Reel Fruits/Grapes.zip" size="2800802" crc="0e15eebb" sha1="faf4831fe5de138a24bd27ec7a2efec41d3f4503"/>
+		<rom name="Reel Fruits/JPM.zip" size="141254" crc="3664e84f" sha1="5864a7d678ea0c6bddcdabc60b6c7686ec4601d8"/>
+		<rom name="Reel Fruits/Jackpot.zip" size="1419827" crc="c68ace59" sha1="507bd163cd30a243952775f3fedf06ca9324df88"/>
+		<rom name="Reel Fruits/Lemons.zip" size="3211797" crc="39721e2f" sha1="b53e321591c3e52bded01ea13a53a52ed22e0e64"/>
+		<rom name="Reel Fruits/Melons.zip" size="1789577" crc="53e305d8" sha1="08f8cf925c18fabd7a57d676622d9b663464d8b7"/>
+		<rom name="Reel Fruits/Orange.zip" size="3790424" crc="6f5bfc15" sha1="751e08556a8d1610c38b0c95e008a948714355f8"/>
+		<rom name="Reel Fruits/Pear.zip" size="1730123" crc="73600685" sha1="e1dca55a0ca517dd64ac74bf16f59192995a0b99"/>
+		<rom name="Reel Fruits/Plums.zip" size="3951345" crc="1787e6e1" sha1="26c04abfe192c44d5c557eb1addf532a75a6c808"/>
+		<rom name="Reel Fruits/Pound.zip" size="246121" crc="908f910e" sha1="bd362884afa57f7fc5beaea90ad2639f550c81f7"/>
+		<rom name="Reel Fruits/Strawberries.zip" size="795603" crc="b50c47b3" sha1="41a58597b1cf86ce51d6af3947274695ae4b9f44"/>
+		<rom name="Reel Fruits/zzz_Misc.zip" size="13829195" crc="b2b5876b" sha1="37477b089a4e5217f179a18d9347ee2574db12e2"/>
+		<rom name="Reel Gradients/Reel Overlays 1.0.0 (17Feb2018) (serene02).zip" size="43676" crc="0851c03f" sha1="3142f8d23a2e6413d7c6a094d813c0137c99bb77"/>
+		<rom name="Reel Masks/Reel Masks.zip" size="145910" crc="4f34b25f" sha1="16cafe2caa7cf736bc7b6190001dcff3370a5c7a"/>
+		<rom name="Reel Symbols/1bar.zip" size="2148465" crc="530fba52" sha1="266af2eb2e991b03a74c2fa5e6484182300f64b0"/>
+		<rom name="Reel Symbols/7s_Blue.zip" size="1283122" crc="bb6dfedb" sha1="269de8f9ee757c066e25b90725fcdd534aab0db2"/>
+		<rom name="Reel Symbols/7s_Red.zip" size="1860529" crc="91e133c4" sha1="64d0ac63a79bb4de2a8acd93c6f1522365213ea3"/>
+		<rom name="Reel Symbols/7s_Yellow.zip" size="34273" crc="2d4e5caa" sha1="60c35425830e14085e78a4216c6ffc0b249f7490"/>
+		<rom name="Reel Symbols/Apple.zip" size="47378" crc="207b082b" sha1="730942a6f58a2917929cb4d55dd8e940b4b12f65"/>
+		<rom name="Reel Symbols/Bells.zip" size="2530794" crc="dacf6a25" sha1="90366ccb3233947630bc83bf08cf235bbf53435b"/>
+		<rom name="Reel Symbols/Cards.zip" size="117915" crc="e09dfe81" sha1="5ae4a29932a9b8d8b8489c09b61d94d95138a7ef"/>
+		<rom name="Reel Symbols/Cashpots.zip" size="594533" crc="c61a03c6" sha1="a836c6bea6fdbd6d716b9b8c4c88b1307a626d56"/>
+		<rom name="Reel Symbols/Cherries.zip" size="2185693" crc="91c809f5" sha1="ad7268361a9fa8a61d2d61b49320404a9e8d812d"/>
+		<rom name="Reel Symbols/Electrocoin - Gold Streak (Universal to others).zip" size="47148930" crc="dec80834" sha1="5fa167ea3dc82cb16acc327bce947edd7af1f287"/>
+		<rom name="Reel Symbols/Grapes.zip" size="2803534" crc="5773cbaf" sha1="93060ce06eb257ee68edd3f0343cf9b10254daf9"/>
+		<rom name="Reel Symbols/JPM.zip" size="141671" crc="8ce4dba4" sha1="16ede395d2414d0eb297202259667c9e24e5b596"/>
+		<rom name="Reel Symbols/Jackpot.zip" size="1424044" crc="fb9841a3" sha1="fa8072d77ba1b72e59a75bec11bf0b9537596858"/>
+		<rom name="Reel Symbols/Lemons.zip" size="3212978" crc="5344face" sha1="16043156dd7b5b1247cda534671b29a95c6545bc"/>
+		<rom name="Reel Symbols/Melons.zip" size="1795172" crc="f6eb035e" sha1="7a616c951407e1db68186c59d83d5d36cca5b8c8"/>
+		<rom name="Reel Symbols/Numbers.zip" size="7078559" crc="b6e91904" sha1="b63de2ac62bdfd57f1f4e91adfe8fb6600e03819"/>
+		<rom name="Reel Symbols/Orange.zip" size="3793348" crc="f0b3ba30" sha1="6acffb79dca38e74de07269583ee2e3d639d1b01"/>
+		<rom name="Reel Symbols/Plums.zip" size="3954655" crc="7c1549fa" sha1="0262bf2062581852d601f058bbff9280435fefde"/>
+		<rom name="Reel Symbols/Pound.zip" size="246305" crc="94b32031" sha1="ffaa5fe7ed0743056cd52e3b5c9cd0b5a0b9234a"/>
+		<rom name="Reel Symbols/Strawberries.zip" size="799171" crc="653f50b1" sha1="ed2f4f3e2eb6dc349a71605e57dfc22004d56327"/>
+	</game>
+	<game name="Sound Effects - ACE System 1">
+		<rom name="0.wav" size="27692" crc="034696a2" sha1="10c1304dc89f8b783bfd5858489d4648e9ec2196"/>
+		<rom name="1.wav" size="28988" crc="e0c6c4b3" sha1="d83140d19080dacbaa5b4c3396e06a4b3519e3b2"/>
+		<rom name="10.wav" size="459668" crc="d24fabf3" sha1="7f02a945da0895427d62987802c3467bda2016b5"/>
+		<rom name="11.wav" size="7404" crc="7026af1d" sha1="864d7dce60ad0f5fbaffb7f9b156e691ab0cfbbd"/>
+		<rom name="12.wav" size="10136" crc="2d1af1f9" sha1="d76c0e50eb1aac265d3d23e3e5b0be90ff40449b"/>
+		<rom name="13.wav" size="7724" crc="7baf2a56" sha1="3ef3bbbeb5929dd28a57ae25601d71089389b489"/>
+		<rom name="14.wav" size="611772" crc="8a7a8295" sha1="4cc92dd21d15beff35156d9944a4cbb37c8344d4"/>
+		<rom name="15.wav" size="69388" crc="dd6955b9" sha1="b80e0364a675ecbfe4707c27c28c7a10eab25ae5"/>
+		<rom name="16.wav" size="103524" crc="adcd9c06" sha1="0066904f692904f5b0f005f949696b46e77eeeb2"/>
+		<rom name="17.wav" size="2444" crc="9a574bd6" sha1="dc8ce11f5e86a5d4c1be2e92a26714e71b932a9b"/>
+		<rom name="18.wav" size="14644" crc="1d641d95" sha1="81ec334ea3468b488f4aaf1d89b3af07a1993b4c"/>
+		<rom name="19.wav" size="19964" crc="92d43cc5" sha1="056b1aa39fa523f30ccbf1b6dcb30c387926f538"/>
+		<rom name="2.wav" size="1366" crc="bbe7d5eb" sha1="36b805d94c5a063f63e6ee62f20148f8aa18869a"/>
+		<rom name="20.wav" size="844" crc="7136879a" sha1="4b2484cee5e2e3ad4296e89191ecc2e019403bfc"/>
+		<rom name="21.wav" size="6044" crc="e100b3a0" sha1="755749141ba8ab58d560d747f5ae083c0362dc03"/>
+		<rom name="22.wav" size="6044" crc="7bae6183" sha1="c60430f49fa8cf832ed495d4ccb6c1921b366615"/>
+		<rom name="23.wav" size="5684" crc="309ff44d" sha1="7c4b94ce2542f3991fc5ff47af9b00da713c043e"/>
+		<rom name="24.wav" size="6884" crc="2a9272bc" sha1="56f76c42b70dd9105dab94c220292c71fa0c7581"/>
+		<rom name="25.wav" size="6644" crc="e1063151" sha1="189daacbc409e4d05c748e837b4ecf192ea8d1fd"/>
+		<rom name="26.wav" size="7724" crc="9bc4bf82" sha1="55c428ca9de1f60d4942866633cfdae3981b0458"/>
+		<rom name="27.wav" size="7244" crc="8083d8de" sha1="3ca1112834bcd99003abca7ed293951ac6a74a1f"/>
+		<rom name="28.wav" size="6644" crc="a014ab7d" sha1="104e79ca0a8a0c30b7ecfcd676d9c8468f7da883"/>
+		<rom name="29.wav" size="3044" crc="11fad583" sha1="4fbd81fc7f26af01ce8b301241662c03df3ed5c3"/>
+		<rom name="3.wav" size="1964" crc="f9aaed0b" sha1="2e7922d102db70ce8f91739247a5a6adcc86fb50"/>
+		<rom name="30.wav" size="8204" crc="f9cda446" sha1="8bf6e2422d74bc39b8577cf929e012f896bcc183"/>
+		<rom name="31.wav" size="8204" crc="b4944d78" sha1="e9703516f4753189b56cf8ebfda0f5731802f27d"/>
+		<rom name="32.wav" size="6044" crc="52e6171c" sha1="65c2010461fe253b9b718d0f33bfc9861a0bb7b6"/>
+		<rom name="33.wav" size="4964" crc="02f19bd2" sha1="48bb011b0867a2f84a98f983800ee5a29ad4970e"/>
+		<rom name="34.wav" size="6884" crc="f45de37c" sha1="32d605fa83b248762adb90c9b399c6f48cebb8f5"/>
+		<rom name="35.wav" size="4378" crc="26fc2a60" sha1="9c788db3119e941a82d34986f9780bbdeb414063"/>
+		<rom name="36.wav" size="6404" crc="aa352ea4" sha1="b27d0227cbf08e6b1da5f62b4b774685865b0b1a"/>
+		<rom name="37.wav" size="6412" crc="dcecdbb0" sha1="d3b735baacea1037454741761125eaac77442d39"/>
+		<rom name="38.wav" size="5688" crc="59dca780" sha1="a5a96eb33f286ccf12d5c15be1e5e9d9afbcc044"/>
+		<rom name="39.wav" size="6418" crc="614db6be" sha1="49d0d6629513159253956fdb3234febc7e4c78a3"/>
+		<rom name="4.wav" size="3044" crc="73c06787" sha1="5d84489963cc60977261bd89de717bee8cafa37e"/>
+		<rom name="40.wav" size="4604" crc="d6aafdac" sha1="62356576ffddb1c00603a921998daf28a129d768"/>
+		<rom name="41.wav" size="6404" crc="27ca2241" sha1="328c312e9252d84432fd312d463350f30d8fbe76"/>
+		<rom name="42.wav" size="12164" crc="737df011" sha1="681125dce0ae9eb70ef92782501a62cc25423bb0"/>
+		<rom name="43.wav" size="9524" crc="c230cb7f" sha1="38485cb8170f2bf3ccbe2d84b6856fb3d874e02d"/>
+		<rom name="44.wav" size="5324" crc="ba956fa0" sha1="232c472c54549729a537e1205f4cc6aff6f49afc"/>
+		<rom name="45.wav" size="8204" crc="56cdf7ed" sha1="4f5c00599f26f5e620b598958bb053245a65e933"/>
+		<rom name="46.wav" size="8444" crc="f1a59b95" sha1="c8885d8bf954761d6e8d2851c9d66b464bc835a2"/>
+		<rom name="47.wav" size="6404" crc="84751a8a" sha1="f94fe5764bc61fd70c24abafb153c0f13bfdcb38"/>
+		<rom name="48.wav" size="5928" crc="43d18ff2" sha1="5173e60cfd3930851334dfc1a29e72477090a256"/>
+		<rom name="49.wav" size="6524" crc="5f7461f7" sha1="53f63c0bd516171f2e03f21977148965e8b3d4b3"/>
+		<rom name="5.wav" size="3544" crc="8efc3729" sha1="0dca1f7303613b614f981cc29b6de43c0c072d87"/>
+		<rom name="50.wav" size="7604" crc="134a1233" sha1="57ec833adf8f9243d2f4e56e9167665585669417"/>
+		<rom name="51.wav" size="7964" crc="5a9efd7f" sha1="09b4237ae54fc174328c5ccf15e0f8142b02d7f1"/>
+		<rom name="52.wav" size="8924" crc="4bba4897" sha1="d87c26758010fe3004132c698e66524f52a9fb07"/>
+		<rom name="53.wav" size="4396" crc="0ff3305e" sha1="c2df1f524fef365faaf7c2062440d4adfeaab5d1"/>
+		<rom name="54.wav" size="7244" crc="a23b5aed" sha1="c0a175d09cbca95967d4206c72694db5ed61b2d4"/>
+		<rom name="55.wav" size="5086" crc="df445f48" sha1="cc7e3bdaa57d5f011ac952e835007049c80c27ff"/>
+		<rom name="56.wav" size="77444" crc="79a1bfe8" sha1="42db8727c88fec3cd779a8d0897f722f6c284ef9"/>
+		<rom name="57.wav" size="13084" crc="01afcc4d" sha1="bad71f33d807a6224a662c6fa758c4f69d4d6403"/>
+		<rom name="58.wav" size="2604" crc="57bc127d" sha1="7a5c07d91edfd9a7b17a8ffa577b3ac67c4648d5"/>
+		<rom name="59.wav" size="81644" crc="5e5d2da5" sha1="d8296a3d901e5951f0dff83ce217feac9ff689f8"/>
+		<rom name="6.wav" size="2844" crc="da68878a" sha1="088a577bd6645e2dcc7865959db1318209b1eb0d"/>
+		<rom name="61.wav" size="47684" crc="112b2108" sha1="57f36599471ca39d9de7ab31ffd42df5d2d931bc"/>
+		<rom name="62.wav" size="1404" crc="7d3b6bb3" sha1="c34ec82d780039cbe72b45ef4822de3b6fcbee9c"/>
+		<rom name="63.wav" size="48164" crc="7d4133cc" sha1="f7195da17491e4d1348de1756968361b77167c1d"/>
+		<rom name="64.wav" size="20564" crc="ac52ffd3" sha1="25b3503b3404cd77ceea4add3e15ef1c93d7bbbd"/>
+		<rom name="65.wav" size="64844" crc="b2a40984" sha1="f8dfcf4eb087bd2f0f895ccce2c041d295186682"/>
+		<rom name="66.wav" size="24404" crc="a5d6958a" sha1="de48475217e604ea355d4e27c58caa12712b40ad"/>
+		<rom name="67.wav" size="53444" crc="0538a3b9" sha1="b53428a1f102674e3ced3f27c47663da4558d15b"/>
+		<rom name="68.wav" size="48644" crc="d6bec2b2" sha1="aae5cc8fb1c5641337dfd8c8b7798047c7fcbfee"/>
+		<rom name="69.wav" size="45556" crc="4fa112bf" sha1="0eec5b9f029808ad80a5255a645346b5053bf216"/>
+		<rom name="7.wav" size="2944" crc="39b9467b" sha1="0a6d11bb715850103ab227d1a8120dc277b0595d"/>
+		<rom name="70.wav" size="8206" crc="2f26f217" sha1="f254b179761cc6f15ab1e1b1bbf68060dd127184"/>
+		<rom name="71.wav" size="34604" crc="df137604" sha1="813276857cfb0b9fa4434f06de74245061d32ffe"/>
+		<rom name="72.wav" size="7724" crc="849d99cc" sha1="3bc9df1f1725afeddbe86ac55bf3d17ab25e20e2"/>
+		<rom name="73.wav" size="13484" crc="cc5e3517" sha1="6dcaa74dad70ee62a428e4d1b4cad3889890f4e8"/>
+		<rom name="74.wav" size="8444" crc="9bd12322" sha1="b55d22a561529da649f2b6427d6de1e680449ed3"/>
+		<rom name="75.wav" size="31004" crc="8ab498cc" sha1="e1fdedf59a551626431dbe9f9ccaa6f4c94dae08"/>
+		<rom name="76.wav" size="22364" crc="3aa96ad7" sha1="6a526f9a4da5ca133b9672e8b11fc8c890899481"/>
+		<rom name="77.wav" size="7724" crc="a09df685" sha1="41534e241dbe4e25c5873df94bc480d7eb495244"/>
+		<rom name="78.wav" size="3284" crc="b0d68fb6" sha1="8b876f7bc24918eda42997796b593fb23454b5b0"/>
+		<rom name="79.wav" size="464" crc="8a42d66d" sha1="f94dab9b2b5e9c9480646b9274cb5e370942f19e"/>
+		<rom name="8.wav" size="105684" crc="7d432c60" sha1="7b5e643b4750bd857ad2ae7e8e8d7db9b65ae814"/>
+		<rom name="80.wav" size="164" crc="179f104f" sha1="9c63231a7d5a01f9a083723bb6db51512983560d"/>
+		<rom name="9.wav" size="119364" crc="6154b3e6" sha1="c5c00da27d369c371f2847318e07c56109a4b143"/>
+	</game>
+	<game name="Sound Effects - Jackpot tunes">
+		<rom name="006_Games_Bond_-_Jackpot_Music.wav" size="953988" crc="94bf4949" sha1="9ef49196128ba1bcd22e276a1cd40fee66f67bf7"/>
+		<rom name="03 RAG TAG.wav" size="20828342" crc="8c064cb7" sha1="05a56159ac94655ba275f3d96b57afae8f3b2d49"/>
+		<rom name="15.wav" size="10925834" crc="abc07220" sha1="05509d7da25d6a627e7cd51d3efa93e5c82ca16b"/>
+		<rom name="2.40_777heaven.wav" size="60316" crc="66309443" sha1="4b05fa1229fb4ec11383096eff855c10ebf84739"/>
+		<rom name="777heaven - jackpot tune.wav" size="219288" crc="7db5f35f" sha1="e51f77b7a2e0ac3907c9b6fc58be45eb3cc489bd"/>
+		<rom name="777heaven - nudge loop.wav" size="431122" crc="b36b70f0" sha1="3c572c7144e5a77371e5e9b40074e0d5ab0b71e8"/>
+		<rom name="ASTRA Party Time Music Mix.wav" size="1670192" crc="6bc9b976" sha1="99bfc531eeffebafb831a0f743798556986d400f"/>
+		<rom name="ASTRA partytime topbox jackpot.wav" size="401028" crc="2db1ac0a" sha1="2156eeab22d0d15165058f547ebf3df2cec84521"/>
+		<rom name="Adders and Ladders MPU3 jackpot.wav" size="212234" crc="b8deb8e9" sha1="1a539312fca54f28fef8fc4837eb66113c85aa13"/>
+		<rom name="Andy&apos;s_Big_Time_-_Jackpot_Music.wav" size="714318" crc="5121c6d6" sha1="996788a5de4819ed772ff6f7b9ea9c6de71b2b77"/>
+		<rom name="Andy&apos;s_Great_Escape_-_Jackpot_Music.wav" size="751182" crc="3ffc1f66" sha1="ba75db5669b76115ae348a39bdd3021dcba2858f"/>
+		<rom name="Andy_Capp_-_Jackpot_Music.wav" size="456464" crc="f897e4f7" sha1="74943907cfba7ee4e5da93a1a85ec9aae57c2ff9"/>
+		<rom name="Andy_Luvs_Flo_-_Jackpot_Music.wav" size="493328" crc="a9900f3e" sha1="c699f883c04d888eb6da6fe80688b68b4c32e435"/>
+		<rom name="Bangin_Away_-_Jackpot_Music.wav" size="1419536" crc="46179e57" sha1="277a011063a3bdc28161251fa631edf2807832b5"/>
+		<rom name="Bank_Raid_-_Jackpot_Music.wav" size="560010" crc="bb5afe47" sha1="1482bf9cd0d2c6274f8bd27c4663696f8fbd3d52"/>
+		<rom name="Barcrest MPU4 collect.wav" size="79736" crc="9410a3e4" sha1="86aae40166cc5b3914a5faad65b9d20227d11303"/>
+		<rom name="Berserk_-_Jackpot_Music.wav" size="774222" crc="f2fbc4c6" sha1="da6fdadfe4bfbcddad71bf8ebe4735e8792b5cdd"/>
+		<rom name="Blue Streak - maxi-match.wav" size="46566" crc="fa69994e" sha1="e803310b9a3208042bd299262991d271d32a711f"/>
+		<rom name="Blue Streak - nudge feature.wav" size="50052" crc="b1760cd5" sha1="a779b12e30e75d2dacfe24a98295f3374024ab33"/>
+		<rom name="Blue Streak - repeat yes.wav" size="58152" crc="74ed65f6" sha1="b1cdd2e82d06bc53987ddcc4eb1c67253153e86a"/>
+		<rom name="Boulder_Dash_-_Jackpot_Music.wav" size="799760" crc="1b1f3e71" sha1="eb27ae0c228f7a53d8fd124f01e5f1f65ca964b2"/>
+		<rom name="Calamari_Club_-_Jackpot_Music.wav" size="578576" crc="0134c2bb" sha1="b8011257fa8e153aec43ad1258619b77afdc366d"/>
+		<rom name="Cash Explosion Hi-Lo Gamble.wav" size="381022" crc="e0e6ad9a" sha1="fb4217c2aa98fca59a712b95878c947ff3ac6764"/>
+		<rom name="Cash_Attack_-_Jackpot_Music.wav" size="944912" crc="b360ee6e" sha1="cb977ece1c385dcdc568abb69e693491fd8e9025"/>
+		<rom name="Cash_Lab_-_Jackpot_Music.wav" size="1034768" crc="40147bb4" sha1="f549abef6042ce7617f31ebd77c27f4431fcee06"/>
+		<rom name="Cash_Lines_-_Jackpot_Music.wav" size="974864" crc="8883e35a" sha1="49ad0dae5734ee3b7b4254e6099c9f003a81b7a3"/>
+		<rom name="Cash_Machine_-_Jackpot_Music.wav" size="1006926" crc="38379886" sha1="59991b5f5586af03624687a3220872367963272e"/>
+		<rom name="Cash_Matrix_-_Jackpot_Music.wav" size="1527824" crc="26f24eb6" sha1="b3915752812f4014a9950967efe409a27d0ae76f"/>
+		<rom name="Cash_Strike_-_Jackpot_Music.wav" size="1057808" crc="b8a598c0" sha1="635593e7e321ce4b84fcc7a98261bc295decf1a9"/>
+		<rom name="Cashanova_-_Jackpot_Music.wav" size="1493264" crc="1a2d1234" sha1="35b617c6a416d5cbe36cf9582ea3d37a523b9d9e"/>
+		<rom name="Casino_Lucky_Balls_-_Jackpot_Music.wav" size="693582" crc="84e59e91" sha1="ceb93b6631a8d55b6ad2cb5fe1f49a5e6342ae08"/>
+		<rom name="Chase_The_Ace_-_Jackpot_Music.wav" size="1578318" crc="068e7d29" sha1="4b8021f56a9e561c42b949770f2667d251176b19"/>
+		<rom name="Classic_Tuppenny_Nudger_-_Jackpot_Music.wav" size="1493070" crc="edcbd22a" sha1="375eaf3a2ab98a0c9472f167f214c3199cf77771"/>
+		<rom name="Cloud 999 nudge loop.wav" size="576266" crc="26b7c9b7" sha1="c8c265fe8d5c324fa4c27b7e03c09cc60849f62b"/>
+		<rom name="Cloud 999 reel stops.wav" size="85514" crc="438fa111" sha1="8f411ef067b499419695dc589bfa3c8684b1c742"/>
+		<rom name="Cloud 999 win.wav" size="94730" crc="70c816e4" sha1="6e1c6551ca01694284bb4185210e5a7fe9641e33"/>
+		<rom name="Cloud999 Double_9_-_Jackpot_Music.wav" size="539214" crc="5b89c680" sha1="bd00eda896873ce22932c3906fc61a60d1f03c3f"/>
+		<rom name="Club_Blackjack_-_Jackpot_Music.wav" size="2663696" crc="d17d2fc5" sha1="0105812f1c7bf3978a19fd58e2ab46bc78629fd3"/>
+		<rom name="Club_Las_Vegas_-_Jackpot_Music.wav" size="1484048" crc="3a866667" sha1="89e6f7bc3634be8db5e64a55b3ef7842011bde59"/>
+		<rom name="Club_Money_Spinner_-_Jackpot_Music.wav" size="1251150" crc="61bef4ab" sha1="f43d7bf6346c363c053e4bdfcbab5fde275cadba"/>
+		<rom name="Club_Pacman_-_Jackpot_Music.wav" size="774416" crc="d71eca43" sha1="544cbb84edc7688ff7a324251934d618a30cb41d"/>
+		<rom name="Club_Take_Your_Pick_-_Jackpot_Music.wav" size="1103694" crc="2b27c34f" sha1="6b2e9fd6359ef44be76f2bd37193826c92a81d95"/>
+		<rom name="Club_X_-_Jackpot_Music.wav" size="861774" crc="20d26fdf" sha1="3def12daaa8926b835c6616028656dafa24a83ee"/>
+		<rom name="Colossus_-_Jackpot_Music.wav" size="698190" crc="caefdeff" sha1="2e45c4eb1635112d49d9d60adcf7d2680e32d4ac"/>
+		<rom name="Crazy_Capers_-_Jackpot_Music.wav" size="532496" crc="9ff66b88" sha1="2adfd8aefb6581f56446ec998a18796f29e0ffb4"/>
+		<rom name="Crazy_Fruits_&amp;_Club_Happy_Fruits.wav" size="495438" crc="fb921674" sha1="b411ace97d829b5f8fe31e8dba2710f749f4964b"/>
+		<rom name="Crown_Jewels_MkII_-_Jackpot_Music.wav" size="622352" crc="da25e112" sha1="39fc8da564d34e307baa2630fdef2167e88474d9"/>
+		<rom name="Crystal_Dome_-_Jackpot_Music.wav" size="546320" crc="f8a6f511" sha1="38737a45fa81105244c34e413caccf5dec3f5e40"/>
+		<rom name="Dennis_The_Menace_-_Jackpot_Music.wav" size="774222" crc="cf9808e0" sha1="3779f068cb2fe4cf73c7c423adf3e8babbfe9489"/>
+		<rom name="Disco_Inferno_-_Jackpot_Music.wav" size="700688" crc="145231c2" sha1="fd70c1a54478041c5c4929f1e4cc0fcacecfba9e"/>
+		<rom name="Double_9_-_Jackpot_Music.wav" size="539214" crc="5b89c680" sha1="bd00eda896873ce22932c3906fc61a60d1f03c3f"/>
+		<rom name="Duty_Free_-_Jackpot_Music.wav" size="914766" crc="6c92ffba" sha1="a261a1d595408d4b3e9c2c048472c787ec9b49a2"/>
+		<rom name="Easy_Streak_-_Jackpot_Music.wav" size="684366" crc="865e20f1" sha1="a821a28999e22e597fd6954e59be0df198463e25"/>
+		<rom name="Eureka_-_Jackpot_Music.wav" size="677648" crc="8cce7029" sha1="6b8561fb3ba8bb3934d7109239a2ed078630d43d"/>
+		<rom name="Final_Frontier_(Original)_-_Jackpot_Music.wav" size="1693518" crc="81bfbe61" sha1="34615e44d63315e4b9815f006cd598ec779e1b78"/>
+		<rom name="Final_Frontier_-_Jackpot_Music.wav" size="1751312" crc="6ad50be3" sha1="325424671844ebc55600ff20d029f720ce78a531"/>
+		<rom name="Fright_Night_-_Jackpot_Music.wav" size="691472" crc="b5daf033" sha1="e39c36b4b32c85b7fb2db9f92ca671d6fa4abf83"/>
+		<rom name="Fruit_Full_Club_-_Jackpot_Music.wav" size="1765136" crc="4efeff4c" sha1="28b7a3047985b1fedaf3a8759082acff7cd2cddc"/>
+		<rom name="Ghost_Train_-_Jackpot_Music.wav" size="391952" crc="5840efe4" sha1="53b943d9216f81d6ce064505f8fc96b50af7b790"/>
+		<rom name="Grab the Bank win.wav" size="127000" crc="6b0b6aeb" sha1="b30c52b135c87cb5b8ce72454c68137c69f7b592"/>
+		<rom name="Guess this one then!.wav" size="180926" crc="b28bc349" sha1="467875ad8f7b293522920c11832f8ad07814bcf1"/>
+		<rom name="Happy_Fruits_-_Jackpot_Music.wav" size="536910" crc="8f23d499" sha1="cbf7d493df87ef2dd14fac24c68727d5932ca983"/>
+		<rom name="Hi_Jinx_-_Jackpot_Music.wav" size="1391888" crc="03c31a2b" sha1="d16841537141952c6777e05934b30c1c28e0ff06"/>
+		<rom name="High_Spirits_-_Jackpot_Music.wav" size="626960" crc="e334673c" sha1="c0abbfa4656e43c8b7d1377200798a0c168230f9"/>
+		<rom name="Hilowatha_-_Jackpot_Music.wav" size="592206" crc="3294dd79" sha1="7352601415c09ae6bc461f026003764165d43e85"/>
+		<rom name="Hot_Cash_-_Jackpot_Music.wav" size="831876" crc="b4c8946d" sha1="4d76bad9303602797ba517303980e958e94d479d"/>
+		<rom name="Indiana_Jones_-_Jackpot_Music.wav" size="1352526" crc="acd2bc92" sha1="a6d1cc4b2d6211901d094895e0a7917725200631"/>
+		<rom name="JPM switchback loop.wav" size="418190" crc="eb9e9e4c" sha1="7ae3b42dea067684bd0446456d6a890df963d657"/>
+		<rom name="Jackpot Theme.wav" size="2105934" crc="e910cba3" sha1="3b948c86fcc98e78d388ea3e8f900398aec846f9"/>
+		<rom name="Jackpot_Gems_-_Jackpot_Music.wav" size="700688" crc="5c2ceaea" sha1="b084dc571df7b5bead3d9ea3da83f7097c3bfc22"/>
+		<rom name="Jolly_Gems_-_Jackpot_Music.wav" size="873488" crc="d1f0e828" sha1="00c04c2798df6d533f8604f52b9a391732b48ff2"/>
+		<rom name="Las_Vegas_Strip_-_Jackpot_Music.wav" size="771918" crc="c5ca5557" sha1="deb20e1ec870f7facf098c4df557ccbda1006c2c"/>
+		<rom name="Let_The_Good_Times_Roll_-_Jackpot_Music.wav" size="755790" crc="6d8ce684" sha1="369bbe34d7d03ad7d2d4aaa3d7967c45cfc0b01e"/>
+		<rom name="Luxor_-_Jackpot_Music.wav" size="864272" crc="b6ea9590" sha1="2e42a8faf5dba01dbc3739f8d23a01b5d600e366"/>
+		<rom name="MS001.wav" size="9243926" crc="8d8c9aa9" sha1="125e7253900c855b21666128e013bd6cdf11e79b"/>
+		<rom name="Madhouse_-_Jackpot_Music.wav" size="666128" crc="09529e84" sha1="73dcc7ed87a1e0058ed678182b8827496a52bb40"/>
+		<rom name="Magnificent_7s_&amp;_Lucky_Strike_-_Jackpot_Music.wav" size="753680" crc="3d20f8e6" sha1="b609f844e0a3b9c686f0938a3f10204af2884c41"/>
+		<rom name="Maximus_Cash_-_Jackpot_Music.wav" size="1334288" crc="bb59049a" sha1="a0aac69536c5fa811b49f5755e8bb14d687b5142"/>
+		<rom name="Money_Spinner_-_Jackpot_Music.wav" size="544016" crc="e03382b1" sha1="be5d9986f3d262b5b0ef60d390ef3616dee2f344"/>
+		<rom name="Monopoly_60_-_Jackpot_Music.wav" size="652110" crc="ca281323" sha1="fddc578ac953f02e01342ff008813912ca1bf16e"/>
+		<rom name="NudgeQuest - nudge offer.wav" size="825276" crc="7edbdfe7" sha1="a1cc98a4aa8fff2404647108c11af9bfcaf1248d"/>
+		<rom name="Nudge_Nudge_Wink_Wink_-_Jackpot_Music.wav" size="592278" crc="5bdd4d82" sha1="a7bb0384f01569242e007ab914c9a279fa55abb6"/>
+		<rom name="Ooh_Ahh_Dracula_-_Jackpot_Music.wav" size="1191246" crc="3e46cd1f" sha1="ff8ffdbeacd43cc63fe1dff4df7ebfd3f2e6ff30"/>
+		<rom name="Over_The_Moon_-_Jackpot_Music.wav" size="1407822" crc="2eb7cf06" sha1="144997346df4b1583136c5c57e521870aecb26b7"/>
+		<rom name="Pharaohs_Gold_-_Jackpot_Music.wav" size="744270" crc="04cc5721" sha1="64938f625cae896e98beed71ba411179de60801a"/>
+		<rom name="Pot_Black_-_Jackpot_Music.wav" size="714512" crc="03b74e85" sha1="c36181373caefc6e8da4864a6d8cf13147521069"/>
+		<rom name="RTR57.wav" size="8340770" crc="3101d464" sha1="a8bfafe57651c8557ec4a15248c59d71451c069a"/>
+		<rom name="Ready_Steady_Go_-_Jackpot_Music.wav" size="677648" crc="435cf697" sha1="b741c97e27dce731b7731ebc820a0324a64e08b9"/>
+		<rom name="Red_Hot_Roll_-_Jackpot_Music.wav" size="691472" crc="2d9d6a0a" sha1="b98de19379da697678388dbf8a1fe38adb0af3ad"/>
+		<rom name="Reel_2_Reel_-_Jackpot_Music.wav" size="1096976" crc="9adbc7c0" sha1="85ee915dce9c078a33102eb3511fc1811de326bb"/>
+		<rom name="Revolver_-_Jackpot_Music.wav" size="1025552" crc="7cd3a44d" sha1="14b16a2f24ebf9c9dad4064100256dba53f495d4"/>
+		<rom name="Rich_And_Famous_-_Jackpot_Music.wav" size="887118" crc="e4147baf" sha1="77b3d8e1320d9054e0854f50ec0886c04c6858b5"/>
+		<rom name="Ringding.wav" size="111210" crc="7c96bc1c" sha1="ff1113779b488cf6e2e041b476fc3e9c1575854b"/>
+		<rom name="Road_Hog_-_Jackpot_Music.wav" size="665988" crc="7cf9f04b" sha1="6588b71c062c83a02773203bcc28a0183bd879d2"/>
+		<rom name="Road_Hog_Club_-_Jackpot_Music.wav" size="1497678" crc="d4e6bf6d" sha1="ab1e223ca648d3cf51b85dea39f6b2ceacc362a0"/>
+		<rom name="Rocket_Money_-_Jackpot_Music.wav" size="1202766" crc="b836cb6b" sha1="149f25882cff1d1722a2c457eda13389029b8560"/>
+		<rom name="Rocky_Horror_Show_-_Jackpot_Music.wav" size="1179920" crc="36594144" sha1="0b22594e2e4881deb3ddc15362ec6eed10ae23ca"/>
+		<rom name="Rollercoaster_-_Jackpot_Music.wav" size="435534" crc="f67d1dea" sha1="0b113200a95bbf4e86dc54f87f5001dc5cdd5f6f"/>
+		<rom name="Rolling_Thunder_-_Jackpot_Music.wav" size="1067024" crc="14de54c1" sha1="182f4907656a14a4b80bcc5a463f2fdb16c95bac"/>
+		<rom name="Run_For_Your_Money_-_Jackpot_Music.wav" size="914766" crc="771b93f9" sha1="90e1b03ecde57e0aed26174216166fe3bc7520d3"/>
+		<rom name="Stir_Crazy_-_Jackpot_Music.wav" size="841232" crc="faef2c53" sha1="75b00d6dc760ecc832ca2de69dba66282872eec0"/>
+		<rom name="Street_Fighter_-_Jackpot_Music.wav" size="1341200" crc="9ad5ecab" sha1="72c5b404758144e01971752252eb026f2224f4af"/>
+		<rom name="Sunset_Boulevard_-_Jackpot_Music.wav" size="516368" crc="c5f4db93" sha1="602581b6bc4bd5a20e0c31691db2667a5417435d"/>
+		<rom name="Super Adders and Ladders MPU4 win sound.wav" size="81978" crc="da0fdd14" sha1="a91e123059a311e0e273b41637f4a268915378b8"/>
+		<rom name="Super Streak.wav" size="606030" crc="0d1fadd2" sha1="cb7ec8e9ae0378536443f298a67388703489af2b"/>
+		<rom name="Super_Streak_-_Jackpot_Music.wav" size="345872" crc="a60fba62" sha1="4b4140f2dd00eb57678a5571e4a6140cda1bd9a8"/>
+		<rom name="Take_Your_Pick_-_Jackpot_Music.wav" size="928784" crc="9ee30fd2" sha1="f6107f4b62112135055274a2b1021bb3f94c3302"/>
+		<rom name="Ten_Out_Of_Ten_-_Jackpot_Music.wav" size="790350" crc="658ea95e" sha1="a912c92ecf4eb5d53193e22c7c81813d58673bf6"/>
+		<rom name="Tetris_-_Jackpot_Music.wav" size="1050896" crc="ae70d6fe" sha1="051453baed79da159a24d2278fba16e4dcf764fd"/>
+		<rom name="The_Big_Cheese_-_Jackpot_Music.wav" size="887118" crc="839df7c3" sha1="a34635d199dc47d335e363e27f293972c1b26d26"/>
+		<rom name="The_Gambler_-_Jackpot_Music.wav" size="481676" crc="865c76f5" sha1="677f6e23d479f634cef757e53bce89b156e57992"/>
+		<rom name="The_Mob_-_Jackpot_Music.wav" size="1262670" crc="6a3c147a" sha1="303ecd16a77bd156f018ef380af88ae0ccbe7be7"/>
+		<rom name="Top_Gear_-_Jackpot_Music.wav" size="799626" crc="f9ee7bcc" sha1="d3ab1c3af41f351d1332ad29819b07bf85222f5b"/>
+		<rom name="Top_Gears_(Mazooma)_-_Jackpot_Music.wav" size="714512" crc="b9a53dcf" sha1="7254d830969f47fba7e384bf7a5d4bf62133a5ed"/>
+		<rom name="Top_Tenner_-_Jackpot_Music.wav" size="921678" crc="062627a1" sha1="f1e091c08edda8f8d18960dbda7a7e16dc86bde3"/>
+		<rom name="Treasure_Trail_-_Jackpot_Music.wav" size="523280" crc="e44718df" sha1="bff833d33692dfb9d2af1ec820a0a6df7fa9501a"/>
+		<rom name="Tutti_Fruity_-_Jackpot_Music.wav" size="898638" crc="834ced7e" sha1="8b02bb4a3d7be121e47fe90bfe3a305d5111a212"/>
+		<rom name="Up_Up_&amp;_Away_-_Jackpot_Music.wav" size="844682" crc="3029921a" sha1="a3a695732cea11e618f9cff1c33cfe3452a1b0a0"/>
+		<rom name="Very_Rich_Geezer_-_Jackpot_Music.wav" size="1520718" crc="66d010a8" sha1="f555355548e65c6d11c08d7a757e3431b4d278e8"/>
+		<rom name="Viva_Espana_-_Jackpot_Music.wav" size="1030160" crc="bfb5eea9" sha1="74162690e22a29f34bcdf8a9807164fbccb58fcc"/>
+		<rom name="Viz_-_Jackpot_Music.wav" size="562448" crc="f55e6d9e" sha1="941cb29b32daa993424c368ba32c932b0acca244"/>
+		<rom name="WHEEL OF FORTUNE jackpot tune.wav" size="6377738" crc="230b3a89" sha1="2863e8cbeee490979709a1fa4b1ebd12bbf76567"/>
+		<rom name="Wacky_Weekend_-_Jackpot_Music.wav" size="1725968" crc="d76f0b6f" sha1="6e9e954c2741aafff7fc0f471c70815068a9224d"/>
+		<rom name="Wet_N_Wild_-_Jackpot_Music.wav" size="1440272" crc="22f78264" sha1="2992959b8862b548733f6e8929671f5571ab44d3"/>
+		<rom name="Whats_On_TV_-_Jackpot_Music.wav" size="726032" crc="ca16bb97" sha1="7cba444af26f7231066e36dfe33164600b68f416"/>
+		<rom name="Winner_Takes_All_-_Jackpot_Music.wav" size="617744" crc="1fa886e0" sha1="62e5c542df5e78ab7989a55370370d3da965b228"/>
+		<rom name="ace JP.wav" size="189966" crc="367ef6a3" sha1="9720a65088cba25af5a50a7fa5d04bdb25d548eb"/>
+		<rom name="acejpline.wav" size="870136" crc="7285b920" sha1="635cd2677601e93104af8b6566c8b10fe75d5791"/>
+		<rom name="bacrestskill.wav" size="850346" crc="98a84427" sha1="704a35491d7c9b7f20ecb6c316cbaa3922c822e2"/>
+		<rom name="barxalarm.wav" size="407380" crc="459d4f77" sha1="10fb855b7633b0eb669155476d26cde37f2b8f8e"/>
+		<rom name="cashcounterskill.wav" size="359508" crc="6db9c88b" sha1="065f8470dd975149d8848e422732300df82b8087"/>
+		<rom name="cashexplosioncollect.wav" size="512020" crc="d87bbbbe" sha1="75923de81f12c4a83deb3f1de982d32d4f827e44"/>
+		<rom name="checkit.wav" size="488540" crc="efdbbace" sha1="dccecc66475e840a7f5796501fe7a7c80b2248bf"/>
+		<rom name="crack the nut nudge timeout.wav" size="2646058" crc="c76fb3d4" sha1="80e85659c7e155ba623c7e3447d1447560cf82c1"/>
+		<rom name="ewsjackpot.wav" size="470298" crc="0a04cb4b" sha1="d9da90da34bb1549e4bf296602b0fe6a14c3fef9"/>
+		<rom name="findthepea.wav" size="400904" crc="3d1cad9c" sha1="9e749dcbda6a83b36a9f442c058073743af9c843"/>
+		<rom name="hirollerbonus.wav" size="87520" crc="cd792e13" sha1="9084d607d328a31236c0076629d44069d546ee8c"/>
+		<rom name="hyper2.wav" size="126970" crc="8d15e887" sha1="a069b70276282bfb69445da3fd1716c2bf216421"/>
+		<rom name="jpm fiveliner collect.wav" size="1371978" crc="759b262e" sha1="971dd044a45b6c91c3e9346754c278e8f68ea713"/>
+		<rom name="nudges nudges nudges.wav" size="233484" crc="fb79d460" sha1="d6e835de41f90f48ceea6262150db891b222f029"/>
+		<rom name="open the box nudge.wav" size="991088" crc="e2963a50" sha1="b03a9d6eda6cea49f91a57c34dbbd3bd00c2caa3"/>
+		<rom name="piggy2_1.wav" size="1147674" crc="74650709" sha1="6b415df81c164865293ba75d0669b8ac15f4304d"/>
+		<rom name="piggy2_1louder.wav" size="1156890" crc="eca42917" sha1="4649a91c386fab3952ba79a37331713e6a803a63"/>
+		<rom name="ssnudgegamble.wav" size="401052" crc="183a0fd2" sha1="ffeedc6e58a32a3945555a4ab396341c8fde55f7"/>
+		<rom name="supershotrepeat.wav" size="116568" crc="9a9efe38" sha1="c4c0e3960441e129550365700ccd3a7ad5c09dff"/>
+		<rom name="tic tac toe roll the drums.wav" size="870740" crc="3fc58577" sha1="afe07b641abb4c45e40a9d07f2eab88939915c2a"/>
+		<rom name="watch4mytreasures.wav" size="87176" crc="e854d679" sha1="360b5d969960fa1e8b6dd1a3201a1beee86014dd"/>
+	</game>
+	<game name="Sound Effects - MFME default">
+		<rom name="10pSlide.wav" size="48066" crc="4d68815a" sha1="3a02aa0e2a6367e7ec65bf9d80db6525f1091f2c"/>
+		<rom name="10pSlide2.wav" size="69782" crc="7c299b47" sha1="50fb0b3060c4b2f9f05720dfbf067d37953aa65c"/>
+		<rom name="ButtonDown.wav" size="7130" crc="ce7f5b98" sha1="45dcc72efa7cacc12d1057fcc5a0cca74ec4e28e"/>
+		<rom name="ButtonUp.wav" size="6320" crc="ce9f0ccf" sha1="7fd94a542d9bbf71f6df992d3169a5063d00e1c0"/>
+		<rom name="Buzzer.wav" size="9082" crc="fdf63f49" sha1="4a65cd52f4ba634c3fa419ce7707337cc9da7dcc"/>
+		<rom name="CoinIn.wav" size="99132" crc="997034f0" sha1="42f76a3c1709bf4f0bd1cc472035a2c41cc918f7"/>
+		<rom name="CoinInS10.wav" size="49742" crc="d5e54459" sha1="694fbd5e743ae5de7e36a7cf45b756eca750b908"/>
+		<rom name="CoinInS10Switch.wav" size="69052" crc="c27967c7" sha1="640a2890448564cede245083df1b471eec2d653e"/>
+		<rom name="CoinInSwitch.wav" size="79806" crc="6212c39c" sha1="c741fe3d8e8ac7c4b5e0848b57166b799e1b92a1"/>
+		<rom name="LockoutOff.wav" size="9204" crc="91662bf3" sha1="97bb2ddd2186b410dc7848ebdc4a6748c0b2c9cc"/>
+		<rom name="LockoutOn.wav" size="11994" crc="1aeb8e51" sha1="dddd90b8fb4091420a4b98b97d869d561ae922f2"/>
+		<rom name="MotorOn.wav" size="481324" crc="73b8c20e" sha1="d1bdf707afe393153e48301694e573d44a2ce5c1"/>
+		<rom name="Payout.wav" size="60834" crc="96c57522" sha1="f92d854f017d154c9ae0a2351629876515ba48d7"/>
+		<rom name="Payout2.wav" size="63898" crc="067ab1da" sha1="4dee3153c5a4cdf9d286387232fa89fbf381fa28"/>
+		<rom name="PoundSlide.wav" size="61694" crc="50b5cbef" sha1="70ff816bad72dc7e23b8602d7f4360f46c856879"/>
+		<rom name="SolenoidOff.wav" size="17766" crc="ff3171a1" sha1="cc9840193bc6e21337dcbdcdeb52ad57090a4db6"/>
+		<rom name="SolenoidOn.wav" size="5450" crc="2c0c13d8" sha1="d7e478cede532a4468e3158a3e974d4209437cfd"/>
+		<rom name="Wiper.wav" size="117804" crc="99ac538b" sha1="a5f677b33e306810b76dbe83464e71d21d8e8fee"/>
+		<rom name="meter.wav" size="9260" crc="825ed27e" sha1="d4c70ecc12d3be10d5a07784b6d07e9e3880e39a"/>
+		<rom name="stepper.wav" size="41484" crc="44305994" sha1="1bf2b6138b3480c90bd0436dd6fb75cd6638fbd1"/>
+	</game>
+	<game name="Sound Effects - Payouts">
+		<rom name="Astra - Casino Dome MyRec_0113_2128.wav" size="1216590" crc="be718b9f" sha1="f40f68175cc221bc7ca9e9a84dd0aa2e7d9ad904"/>
+		<rom name="Astra - Casino Dome MyRec_0113_2130.wav" size="1159246" crc="ac9c6418" sha1="c5bfcb0abf4f44497f69514404add6a053593548"/>
+		<rom name="Astra - Casino Dome MyRec_0113_2131.wav" size="1429582" crc="4ae41d07" sha1="d71d3863ef2a706fcc32090d9219dfe3659d008b"/>
+		<rom name="Barcrest - Horizon MyRec_0113_2114.wav" size="1036366" crc="56dfe9ee" sha1="dc1242334027324a27d148ab29d4523c10cf5980"/>
+		<rom name="Barcrest - Horizon MyRec_0113_2115.wav" size="2437198" crc="49567579" sha1="b13940c2ee64d1956867e83e5a182efc66ff0aff"/>
+		<rom name="Barcrest - Horizon MyRec_0113_2116.wav" size="2367566" crc="96fae2f1" sha1="3a55881af904b4bb01f2ec22417a5b9a325b0997"/>
+		<rom name="Bell Fruit - Eclipse MyRec_0113_2135.wav" size="2330702" crc="b52c15d4" sha1="51bd2096e0ab5ab870f7b5af3e01ed283f89546f"/>
+		<rom name="Bell Fruit - Eclipse MyRec_0113_2136.wav" size="2228302" crc="f930b7a5" sha1="afc44139436dfb841cff64c31f141a4f674effb4"/>
+	</game>
+	<game name="Sound Effects - Various">
+		<rom name="10pSlide (1).wav" size="74224" crc="20d86af7" sha1="d448d600c0b30ae2bb54f9e694534b9da83c62e6"/>
+		<rom name="10pSlide (2).wav" size="165518" crc="9b12c653" sha1="4f7724b5873043caa9346a3d81c78a599a089f49"/>
+		<rom name="10pSlide (3).wav" size="69520" crc="c2316ab6" sha1="22a4a3a931acf9ee8d1cc24d7edfba551ebe6a8a"/>
+		<rom name="10pSlide (4).wav" size="69782" crc="7c299b47" sha1="50fb0b3060c4b2f9f05720dfbf067d37953aa65c"/>
+		<rom name="10pSlide (5).wav" size="48066" crc="4d68815a" sha1="3a02aa0e2a6367e7ec65bf9d80db6525f1091f2c"/>
+		<rom name="10pSlide (6).wav" size="50898" crc="6872b158" sha1="b4567f515edb1692b7067a4687c1520c18fdb1e6"/>
+		<rom name="10pSlide (7).wav" size="72680" crc="e601728b" sha1="1bbba1f87cc93761431550d6a10ec9aafc69c290"/>
+		<rom name="10pSlide (8).wav" size="64690" crc="cfbd084c" sha1="d0a5a5c403030f4837315dca55810d3aea5418eb"/>
+		<rom name="10pSlide (9).wav" size="60834" crc="96c57522" sha1="f92d854f017d154c9ae0a2351629876515ba48d7"/>
+		<rom name="11 (1).wav" size="15620" crc="0e2ada2b" sha1="c8edd92a239e414b8a5c98f8d6674813e703c4df"/>
+		<rom name="12 (1).wav" size="126316" crc="f77b7829" sha1="66f6557e685d83ab983fe922c283893c00c85a3d"/>
+		<rom name="13 (1).wav" size="176420" crc="f7448a81" sha1="71bf0eb882bd03d9402b753a7b59a3d7fb5ea5d0"/>
+		<rom name="17 (1).wav" size="107148" crc="1985b5a4" sha1="d25851c57451297d1b90c77b99dff8d39a8f4ca0"/>
+		<rom name="18 (1).wav" size="98452" crc="46d04395" sha1="ee46fde1a58d701a0eedc6ea9384fbf901482ce9"/>
+		<rom name="19 (1).wav" size="119724" crc="7ceb06dc" sha1="3d14f8ae9853269baed1a55883b9f136906e1769"/>
+		<rom name="2 (1).wav" size="30580" crc="4a5f7d9c" sha1="78c7275579054734bbe329d8c53c8d6f99131657"/>
+		<rom name="20 (1).wav" size="40164" crc="9c1cc413" sha1="ee1ddbe669f7cc3151da638f89cf813a3571a352"/>
+		<rom name="20pSlide (1).wav" size="72952" crc="8949d85c" sha1="59b85dc8a57ca75c5e832de10b16dce569c404af"/>
+		<rom name="20pSlide (2).wav" size="58776" crc="6e2a1bab" sha1="077229c8d59a953d159f3438b73a5b92542010fd"/>
+		<rom name="20pSlide (3).wav" size="97324" crc="8044d2db" sha1="6d5eed1ed632379515855a56471acc3adff3cdca"/>
+		<rom name="20pSlide (4).wav" size="17494" crc="2754b402" sha1="394e5e8bb2b1a1a1b6af3e1b5147a8f44cd6b3c9"/>
+		<rom name="20pSlide (5).wav" size="84876" crc="5e271ef9" sha1="334ba825161a8ed057751fb00c417653d7c2b916"/>
+		<rom name="20p_new.wav" size="105978" crc="8bf79af3" sha1="b1febe30b83e171dd609c5011d70b46078e5bc78"/>
+		<rom name="21 (1).wav" size="30892" crc="fc695eb7" sha1="e56cffdabcf18e0fb34254ac2b971b83da48d816"/>
+		<rom name="22 (1).wav" size="72324" crc="bc216a6e" sha1="57e6e34a7978619c50182fd054d4cbca302e4357"/>
+		<rom name="23 (1).wav" size="51748" crc="b2287dbb" sha1="0401049b0cc4e6af9f0382aacfcefc0105f050de"/>
+		<rom name="24 (1).wav" size="122356" crc="ec387d65" sha1="4ad5538b88899718d84590cbaf22ef956ebf6681"/>
+		<rom name="25 (1).wav" size="70052" crc="ca9344e6" sha1="e6c14ff33d717db39ebd0e98948d77fedee975af"/>
+		<rom name="26 (1).wav" size="135420" crc="56f5f3d5" sha1="273de77bb20ee41feb070f6c1a7f8eb9f6c66f6b"/>
+		<rom name="27 (1).wav" size="443532" crc="c4a381b2" sha1="bb55434104b2e52b78ea00e39c935d9df8a12988"/>
+		<rom name="28 (1).wav" size="19396" crc="4a66180c" sha1="3c89946482cadaf467a31b185a390096fc5204eb"/>
+		<rom name="29 (1).wav" size="54300" crc="cbcaf74b" sha1="e69ca6f3b9aa0a75dd0daee6fb47255ddbaad9b5"/>
+		<rom name="2pSlide (1).wav" size="59964" crc="e281678e" sha1="5ea3b544344d8ac510c06cf6e5273bf58c71df17"/>
+		<rom name="2pSlide.wav" size="62864" crc="b3ef82ce" sha1="1dab7ec9b11268721eae5d37b935955a1a64ba40"/>
+		<rom name="3 (1).wav" size="28332" crc="7ae8c4dd" sha1="e011d6d86cc5b3631726d29472cd25eb0281069f"/>
+		<rom name="30 (1).wav" size="52660" crc="d2fb3fab" sha1="9aa85061d4bcd4a27fb3bfa7ac41bb2d90db04bb"/>
+		<rom name="31 (1).wav" size="18476" crc="55551bcd" sha1="80cb258304a6a758dace60a94dfe9378d01466c1"/>
+		<rom name="32 (1).wav" size="8804" crc="74ddae76" sha1="e8329ad744a07a0167776661d5d006bb9639e112"/>
+		<rom name="33 (1).wav" size="4356" crc="99c2f9d6" sha1="6aa8b873b46674a06147cd1e772c565e82de1c40"/>
+		<rom name="34 (1).wav" size="16660" crc="7914f036" sha1="54bfa9ecc744445c4344f09d07ac214795997dab"/>
+		<rom name="35 (1).wav" size="41788" crc="6e56d79f" sha1="6ebd0641432d6a23e4e89b29258143b320d9d20f"/>
+		<rom name="36 (1).wav" size="25868" crc="3a16703a" sha1="555630636c91b21cdd97827b10a57d4d5856e60e"/>
+		<rom name="37 (1).wav" size="22972" crc="7a196780" sha1="cb54aad9e299e995b4e472b6e3040585b86ccf3a"/>
+		<rom name="38 (1).wav" size="73380" crc="fff230c5" sha1="c38c6bc0d96342553d3b77aee996b60f51ded823"/>
+		<rom name="39 (1).wav" size="86524" crc="e2d8d42c" sha1="b1f9453381edfd9e5a8dfe49e1efa3c7873f460b"/>
+		<rom name="4 (1).wav" size="25316" crc="7eff4057" sha1="a6b3a9bf466faa77b1d6befc77fec6e3ca9b51d2"/>
+		<rom name="40 (1).wav" size="49572" crc="7f6027ff" sha1="3df96838c7ed2b6224840c9292bfc08eccd27fba"/>
+		<rom name="41 (1).wav" size="103660" crc="5a6a46fd" sha1="1105651fbab2bfee7c5a0e98120ba9517e6583c0"/>
+		<rom name="42 (1).wav" size="73740" crc="0344f8f1" sha1="b53473a363e32d4aee51367119ac903ec5ba720f"/>
+		<rom name="43 (1).wav" size="194140" crc="7d55811c" sha1="539692006d17b8e4dceb3a3512a38fef03bfbf5b"/>
+		<rom name="44 (1).wav" size="180436" crc="e8f5688d" sha1="a3d76b2c4b097184db50e6d3e5ce8de20bf6b0e5"/>
+		<rom name="45 (1).wav" size="129532" crc="aad48890" sha1="ffd95d2d3c84c219d45a40223e4e0ced12ac1ba9"/>
+		<rom name="46 (1).wav" size="23324" crc="769f8871" sha1="b9b74c771221a687e2bc82d46d89c491edd1b65d"/>
+		<rom name="47 (1).wav" size="82052" crc="8bd52582" sha1="10dbb6cbc80465b971cd1893f34ba1c87cd4d63e"/>
+		<rom name="48 (1).wav" size="173892" crc="3348b6b3" sha1="921859b27ff0186cd5da8f89f90e95281a21d1e8"/>
+		<rom name="49 (1).wav" size="17572" crc="dbdb7868" sha1="9a29d8717c111842ff3e9b8440bcb1df94bca4bc"/>
+		<rom name="5 (1).wav" size="22772" crc="bb79b125" sha1="60b057adf20bc67ee8655cf7d1a2642b5b758bb6"/>
+		<rom name="50 (1).wav" size="5580" crc="d1162c94" sha1="b1b29a8524689509f6fe598438ef008086be5636"/>
+		<rom name="50pSlide.wav" size="65064" crc="667b6aef" sha1="ddaa11947af787986b496113aae17a728cacefd2"/>
+		<rom name="51 (1).wav" size="5148" crc="57b94638" sha1="9f679d874349b2db7e8d8e7096bd423d0380260b"/>
+		<rom name="52 (1).wav" size="3148" crc="e37c3c38" sha1="ec3db4af8e11f88731f869d8ec6a714ea4f1896f"/>
+		<rom name="53 (1).wav" size="3332" crc="9472abbf" sha1="89b9a930b82b5a31d0d026b0a8935aa8bd1274ff"/>
+		<rom name="54 (1).wav" size="3868" crc="82f709df" sha1="223a94a17fd430aef408d171b78f76e0222fb579"/>
+		<rom name="55 (1).wav" size="4052" crc="3e9a830f" sha1="b699200959fad3e3cbd46b960c430e8408d9fd05"/>
+		<rom name="56 (1).wav" size="3172" crc="2efbf682" sha1="aef3fdfd510521f82e552fccd25c4e2734f2437d"/>
+		<rom name="57 (1).wav" size="3020" crc="cd32aa17" sha1="132dc1ca816cdab5b74c2bb70db5471eb16e3e8f"/>
+		<rom name="58 (1).wav" size="129172" crc="08668b32" sha1="7835b890459d18839646184ed1e9684027aa66d6"/>
+		<rom name="59 (1).wav" size="24196" crc="776f1eaf" sha1="2dbe8589efa094ec5e0cac9ec000669b1737362d"/>
+		<rom name="6 (1).wav" size="19748" crc="5aaa8c2a" sha1="15efdc25bce895f98699974ac0d813b4560bbfb2"/>
+		<rom name="61 (1).wav" size="31564" crc="ae617d64" sha1="14d6ce53e8f7e2d67ab86750782d3e46d78ee015"/>
+		<rom name="62 (1).wav" size="89996" crc="3ce699ec" sha1="ba37b2fe948fbc5176d97316f21af83b0cc08823"/>
+		<rom name="63 (1).wav" size="46036" crc="85735671" sha1="e2ffca3b7c1439cf27760970823517f04047e311"/>
+		<rom name="64 (1).wav" size="141068" crc="b2ae23a2" sha1="767aac7f7162a354379f1a760b40da5d724059a3"/>
+		<rom name="65 (1).wav" size="25124" crc="2444a889" sha1="3f400f70cb27325c0ce2a04d9274a0611b476a5f"/>
+		<rom name="66 (1).wav" size="5540" crc="f98a3da0" sha1="67f160bfa5b36541aaebd93415e94fcadbe5aeb6"/>
+		<rom name="67 (1).wav" size="6628" crc="cee780a1" sha1="9788fd1cc506063ea2f265be4d52583b264365fe"/>
+		<rom name="68 (1).wav" size="19420" crc="4c69a63a" sha1="d7e4e40c8becfaad616b00522ef0577cb5fd3dc7"/>
+		<rom name="69 (1).wav" size="28604" crc="f8e9c67f" sha1="f039e016c4742244c06148c6a764fb0921043ea6"/>
+		<rom name="7 (1).wav" size="133308" crc="7cbe05e4" sha1="b24a024a1cebf36adc6c4c03b00dbcc8ff5f319a"/>
+		<rom name="70 (1).wav" size="185748" crc="416e4c0f" sha1="9310f75e27467cf929f1afae8ee68253c1c1596b"/>
+		<rom name="71 (1).wav" size="105948" crc="36a87a8e" sha1="ea8408cfae70b878d50b701f16441e1e3912c564"/>
+		<rom name="72 (1).wav" size="139252" crc="dcfdd7c2" sha1="9ca468a652132d015b2f2de42f7c1414203a42b3"/>
+		<rom name="73 (1).wav" size="204716" crc="f7794b2c" sha1="825cb5abe54e3611f4e3db5450fbbd6156834d67"/>
+		<rom name="74 (1).wav" size="31588" crc="66617723" sha1="26742b221ade21ab129b3d50d6429c133cbc197d"/>
+		<rom name="75 (1).wav" size="178620" crc="868ab0a3" sha1="c98963bc876f04090371ee47c70bdd1190cee6e1"/>
+		<rom name="76 (1).wav" size="22932" crc="b506132d" sha1="5efaf1f8d049256ee0db8fe3950243a13c3805bd"/>
+		<rom name="77 (1).wav" size="5364" crc="6d23eb93" sha1="bed6d554e4a11445fba57a86884e303fe0f1617d"/>
+		<rom name="78 (1).wav" size="19092" crc="9583cf05" sha1="4fcf56ac931f15e128c321c0ba84fcabab78e251"/>
+		<rom name="79 (1).wav" size="6132" crc="e7424975" sha1="781409c0961f9f752e7a57cdffedb3857c18c2a8"/>
+		<rom name="80 (1).wav" size="80236" crc="1ec18242" sha1="336937a39a0b3701d0e31db9ab27614162c7690e"/>
+		<rom name="81.wav" size="19204" crc="63a3737d" sha1="12df0e41cc4027f97782cc3d89ca4f4b5936cf3a"/>
+		<rom name="82.wav" size="62844" crc="1cea464d" sha1="f2c60d264e44843f3a72388e02ff78d64cff671d"/>
+		<rom name="83.wav" size="9524" crc="d0e68aed" sha1="bde1f23e9d255a7640f34f2b66e84168d4dc0a96"/>
+		<rom name="84.wav" size="48676" crc="d756ea29" sha1="a5a512d07a09e6a4f56dbb0744f2c6a932844daa"/>
+		<rom name="85.wav" size="52468" crc="66c45365" sha1="e81084a5e110f3ae0e9f96a8143e3c7314a89b05"/>
+		<rom name="86.wav" size="54084" crc="3912e3e3" sha1="6f7ee6907a440ab7ca6d5ae9d1b7931bdb461b3e"/>
+		<rom name="87.wav" size="107188" crc="ad82d04f" sha1="7b102e8499542b645321cd8a97958e97dbf059b7"/>
+		<rom name="88.wav" size="69852" crc="b05c5294" sha1="526cb31d0aaf85e259ace6b49b9bcf6196b2c823"/>
+		<rom name="89.wav" size="31084" crc="92f20157" sha1="1b0ec8ea53729c4ecbfc9c32c86fd0375db0e424"/>
+		<rom name="90.wav" size="12364" crc="115fafae" sha1="cbc6962b04a8fd374f24287dc7248875f7379764"/>
+		<rom name="91.wav" size="37236" crc="e5625a7d" sha1="50df8b30deee5360e2d5236719ecb09791636411"/>
+		<rom name="92.wav" size="66028" crc="f7217da4" sha1="f5f826044f56895f3ecdcae06ca88804ce5f14e3"/>
+		<rom name="93.wav" size="10204" crc="9f08660d" sha1="528340adc4d87ec8006e5260f804f6b7fa7a904c"/>
+		<rom name="94.wav" size="4572" crc="da0bcd50" sha1="8bc9881da699b6e5ab1a25f9c19b2a8dd511bdbc"/>
+		<rom name="95.wav" size="90452" crc="6f18b873" sha1="bd4f70f6d0e97bf600e2cda7709d70deb0139e7c"/>
+		<rom name="96.wav" size="33060" crc="dad401bc" sha1="41ec98d4439ced7f7fa641e84b339f56b6b32c7b"/>
+		<rom name="97.wav" size="27108" crc="28bf5331" sha1="1702586fa441bb7481dd8bc9664ea8f2169382a6"/>
+		<rom name="98.wav" size="20628" crc="cce509c8" sha1="faf3c74511bf7ba310d9a799571a8819634a2b3a"/>
+		<rom name="99.wav" size="22836" crc="da920d74" sha1="7292efa2212402c3f113b5a65689a817210b9190"/>
+		<rom name="ASTRA Party Time Music Mix.wav" size="1670192" crc="6bc9b976" sha1="99bfc531eeffebafb831a0f743798556986d400f"/>
+		<rom name="BellOff (1).wav" size="13702" crc="c2a0ace7" sha1="f26a91c46089635aa214f152330b75892bdebb18"/>
+		<rom name="BellOn (1).wav" size="97512" crc="f0fdec50" sha1="3b08e4fb70dfd12bbf309fba90f2ea8b163acd31"/>
+		<rom name="BellOn (2).wav" size="97512" crc="d9088cd0" sha1="a4af119db1fdf63cf410ef27db13f5c022761823"/>
+		<rom name="ButtonDown (1).wav" size="13992" crc="d171e2a0" sha1="b863750848cb322c648d8893eec05937d4b78c35"/>
+		<rom name="ButtonDown (2).wav" size="10482" crc="256d10ef" sha1="ff46cc055ef754b46ef4140369073cbb235bb0d6"/>
+		<rom name="ButtonDown (3).wav" size="13992" crc="ab9e2406" sha1="fc8db5a1e0b759a5a7df38809bf12af80d913eed"/>
+		<rom name="ButtonDown (4).wav" size="3264" crc="c4f21ed3" sha1="cdb40079f4c0ce29793dd2a16fb53bec421ba1fd"/>
+		<rom name="ButtonDown.wav" size="7130" crc="ce7f5b98" sha1="45dcc72efa7cacc12d1057fcc5a0cca74ec4e28e"/>
+		<rom name="ButtonUp (1).wav" size="29848" crc="78b9c83a" sha1="039ac43e701fc626fd78ab624f9edcf0882f8f95"/>
+		<rom name="ButtonUp (2).wav" size="29848" crc="5d4cf304" sha1="df6293c73750e34c7ba51e5163e49c9599317551"/>
+		<rom name="ButtonUp (4).wav" size="2638" crc="d893a1f9" sha1="ae019c3258f01fdc847a4902bf550432c67aeb48"/>
+		<rom name="ButtonUp.wav" size="6320" crc="ce9f0ccf" sha1="7fd94a542d9bbf71f6df992d3169a5063d00e1c0"/>
+		<rom name="Buzzer.wav" size="9082" crc="fdf63f49" sha1="4a65cd52f4ba634c3fa419ce7707337cc9da7dcc"/>
+		<rom name="CoinDropReject.wav" size="12018" crc="719c31a5" sha1="3f356d3508ac2d2cd2c8293d8e40034f78b92646"/>
+		<rom name="CoinIn (1).wav" size="53592" crc="dd16f8ef" sha1="53759ffc53b02c0f502d0735c3932e5809567e66"/>
+		<rom name="CoinIn (10) Eclipse.wav" size="187465" crc="5187422e" sha1="4b141eeca7c1cb51bac9ebb10baaaeef1ba566da"/>
+		<rom name="CoinIn (11) Horizon.wav" size="136352" crc="45549b20" sha1="48215882fcc63bf5da52dc42a2a96a5708513dd1"/>
+		<rom name="CoinIn (2).wav" size="44160" crc="9e083243" sha1="5c3dd3fbacd5b8379579848598020b70deaf272d"/>
+		<rom name="CoinIn (3).wav" size="99132" crc="997034f0" sha1="42f76a3c1709bf4f0bd1cc472035a2c41cc918f7"/>
+		<rom name="CoinIn (4).wav" size="99132" crc="02daca54" sha1="4aa431cb5e947bf93c83c59bd69a37d4388ca02e"/>
+		<rom name="CoinIn (5).wav" size="45824" crc="65ae6187" sha1="f5715999c1e05f99c9f8aab20cf099c9faafca19"/>
+		<rom name="CoinIn (6).wav" size="39148" crc="3367e6b0" sha1="22ca0ffcaac4cc12bd64b3063df1e0feb52a8de5"/>
+		<rom name="CoinIn (7).wav" size="13484" crc="873b871d" sha1="abd8a74b7733a6621c5926879d27203c795008e4"/>
+		<rom name="CoinIn (8).wav" size="81894" crc="33b86c93" sha1="c2acb62e205fe7ab2664b14ba2350d68a0f70767"/>
+		<rom name="CoinIn (9).wav" size="60816" crc="266594be" sha1="224464d31a8bd2fe2b1b53a59660c6f03cb9c2a5"/>
+		<rom name="CoinInDrop.wav" size="21286" crc="4b9bef49" sha1="ffde5b0a714785c772c8062d56ebae304f9c4ac3"/>
+		<rom name="CoinInRejected.wav" size="88144" crc="35c2d964" sha1="37f8acd9778cbc81f11c08f129f3f726cc9964f4"/>
+		<rom name="CoinInS10 (1).wav" size="49742" crc="d5e54459" sha1="694fbd5e743ae5de7e36a7cf45b756eca750b908"/>
+		<rom name="CoinInS10 (2).wav" size="40426" crc="b6a1a040" sha1="36ab174907b3019c259e9f877e04b1ccc268706e"/>
+		<rom name="CoinInS10Rejected.wav" size="80834" crc="485fce40" sha1="540c94981d0ad7cb1fdcc2368ec84bb2f433cbab"/>
+		<rom name="CoinInS10Switch (1).wav" size="69052" crc="c27967c7" sha1="640a2890448564cede245083df1b471eec2d653e"/>
+		<rom name="CoinInS10Switch (2).wav" size="33008" crc="f892026e" sha1="0646e2157ea1d6996909b26e560b5193eff8da32"/>
+		<rom name="CoinInS10Token (3).wav" size="104256" crc="993d7390" sha1="d8fda93fa01d434cb558b61c2998157e601cfcfe"/>
+		<rom name="CoinInS10Token (4).wav" size="69052" crc="d8d3eea2" sha1="9d53b6bc874d39d1383b2b78b7572e4cf14fbd6e"/>
+		<rom name="CoinInS10Token (5).wav" size="41664" crc="9b562e56" sha1="02b34a8862349f3a89d9f2083efe94fd765a3449"/>
+		<rom name="CoinInS10TokenRejected.wav" size="80834" crc="55d2dc51" sha1="949c411f569a7f697f6a1062198740361a1fc37b"/>
+		<rom name="CoinInS10TokenSwitch (1).wav" size="49698" crc="2ffa1d44" sha1="1f52207281925915a2eb5181b7fb7b3b55616ce5"/>
+		<rom name="CoinInS10TokenSwitch (2).wav" size="82138" crc="b2f3f550" sha1="7511b1f95d8744f8c4835faa0691c4275767b8bc"/>
+		<rom name="CoinInS1Switch.wav" size="59622" crc="7d05ec73" sha1="6b53617d88712b832d94ce4f4adae964cf0e154c"/>
+		<rom name="CoinInSwitch (1).wav" size="28466" crc="61154fed" sha1="11fae369c55483f96bb0a8c49f66def418118b01"/>
+		<rom name="CoinInSwitch (2).wav" size="79806" crc="6212c39c" sha1="c741fe3d8e8ac7c4b5e0848b57166b799e1b92a1"/>
+		<rom name="CoinInSwitch (3).wav" size="79806" crc="78c0ead6" sha1="b521bb08c7cde940015e89dada7d056216f070b5"/>
+		<rom name="CoinInSwitch (4).wav" size="10826" crc="264e0a91" sha1="ca317c7e6a46c349c3818ce151644b5d0238a96d"/>
+		<rom name="CoinInSwitch (5).wav" size="83968" crc="591360ae" sha1="5c86b82269175c1e4fc1f101b95ea83d1db86683"/>
+		<rom name="CoinInSwitch (6).wav" size="6698" crc="ed0de1bb" sha1="05bfa86ca316d461ec7624efd7bb364968cbece9"/>
+		<rom name="HopperCoin1 (1).wav" size="66830" crc="90e3664e" sha1="dbb71a5f56b85f45ad11bba5e7282b6a692d2c85"/>
+		<rom name="HopperCoin1 (2).wav" size="25936" crc="5e6a8196" sha1="2b6785096da1b9139140a9286e56e208be5d9c28"/>
+		<rom name="HopperCoin1 (3).wav" size="190346" crc="6a1a0e1d" sha1="6f7c1ade28cbd061f7179eb4c147f70d6cd89445"/>
+		<rom name="HopperCoin2 (4).wav" size="111428" crc="3a7cd6d6" sha1="8d29bfd99fe91cc261e1d8e9022c1bba3a2fa2bf"/>
+		<rom name="HopperCoin2 (5).wav" size="24290" crc="389f4552" sha1="20d2187d4ae844dd8726eb6f723b5118c4c46738"/>
+		<rom name="HopperMotor1 (1).wav" size="68490" crc="1eadc110" sha1="5024fe6acf769ded0e55ca8460f422c937eb1e56"/>
+		<rom name="HopperMotor1 (2).wav" size="17990" crc="c27e6ad8" sha1="cd29b43f4acd4dd2e40a49c907ea785018af3376"/>
+		<rom name="HopperMotor1 (3).wav" size="35756" crc="67f79ca4" sha1="8f1a9cc4c391a4f027271fe87bb6ec47d9f4f522"/>
+		<rom name="HopperMotor1 (4).wav" size="86884" crc="2b181654" sha1="d826ef5ce08a1cf8ca69523416fdfd6829ac985e"/>
+		<rom name="LockoutOff.wav" size="9204" crc="91662bf3" sha1="97bb2ddd2186b410dc7848ebdc4a6748c0b2c9cc"/>
+		<rom name="LockoutOn.wav" size="11994" crc="1aeb8e51" sha1="dddd90b8fb4091420a4b98b97d869d561ae922f2"/>
+		<rom name="Meter.wav" size="9260" crc="825ed27e" sha1="d4c70ecc12d3be10d5a07784b6d07e9e3880e39a"/>
+		<rom name="MiscSlide.wav" size="63898" crc="067ab1da" sha1="4dee3153c5a4cdf9d286387232fa89fbf381fa28"/>
+		<rom name="MotorOn.wav" size="481324" crc="73b8c20e" sha1="d1bdf707afe393153e48301694e573d44a2ce5c1"/>
+		<rom name="NoteIn.wav" size="156204" crc="7b842236" sha1="19d18a2b547885a4f01a2c47f611ed36236d83f0"/>
+		<rom name="NoteInReject.wav" size="96688" crc="a69a599f" sha1="703d6187f35a1b1c044534c0a826d91afd1dd4e1"/>
+		<rom name="NoteInStack.wav" size="254880" crc="615eda1d" sha1="abe07a5cf9eaea9e190374af381d8d1d97d122cd"/>
+		<rom name="Payout (1).wav" size="74276" crc="6d0b08dc" sha1="4b10090044e137c5bf065bc545385b47c1387949"/>
+		<rom name="Payout (2).wav" size="84928" crc="f99f80b7" sha1="6c6b6b32e86452ed6b3297020ac7002cea322c3a"/>
+		<rom name="Payout (3).wav" size="105978" crc="f9f3bf78" sha1="ddc9b2ee549cc8764cacecacf6c25f3da161c0cb"/>
+		<rom name="Payout.wav" size="60834" crc="96c57522" sha1="f92d854f017d154c9ae0a2351629876515ba48d7"/>
+		<rom name="Payout2.wav" size="63898" crc="067ab1da" sha1="4dee3153c5a4cdf9d286387232fa89fbf381fa28"/>
+		<rom name="PoundSlide (1).wav" size="82116" crc="0c9eb0e7" sha1="0089198ad26ac0bfc103bf281bbdaf2b99abcce6"/>
+		<rom name="PoundSlide (10).wav" size="77492" crc="378b300f" sha1="85b3881b4fc0b6515ee039851cf6e829636f759a"/>
+		<rom name="PoundSlide (11).wav" size="73438" crc="40a9da2b" sha1="ef3169f3dfbf72da1c15368f4b75e0fc812e39d8"/>
+		<rom name="PoundSlide (12).wav" size="102992" crc="1f1b4526" sha1="ff79878fba2db1a94a051cfb872729037bbc181e"/>
+		<rom name="PoundSlide (2).wav" size="46560" crc="58a0d315" sha1="dba6c5ba82008972c2d2c984d051a0cf7eebb7c4"/>
+		<rom name="PoundSlide (3).wav" size="78792" crc="6dee45bb" sha1="65c095fcebfb1a1d50bb05411aef54bc8205f7c3"/>
+		<rom name="PoundSlide (4).wav" size="61694" crc="50b5cbef" sha1="70ff816bad72dc7e23b8602d7f4360f46c856879"/>
+		<rom name="PoundSlide (5).wav" size="102062" crc="dfb381d6" sha1="6e3568af522fe02506fa708d3efa777a02747932"/>
+		<rom name="PoundSlide (6).wav" size="15546" crc="8c8b8a15" sha1="e4aa02795b0cfd965cfc3ed3903bb6a590ff23ed"/>
+		<rom name="PoundSlide (7).wav" size="102992" crc="f2ea7707" sha1="56318ed80b6f3e2c02a6f07ba5699f3b29a5dcf1"/>
+		<rom name="PoundSlide (8).wav" size="68604" crc="6be5c6b7" sha1="89e2be8c733dcaf3976a7589fe9731247eaf3224"/>
+		<rom name="PoundSlide (9).wav" size="104558" crc="6e8e6fa5" sha1="0dd379d67c27e0699fef5dcf213ca9c113d7dbb9"/>
+		<rom name="PrizeMotor.wav" size="41076" crc="508b2259" sha1="164582df699f64554f1c8cea6e295c1f6da9a5bb"/>
+		<rom name="PrizeVend.wav" size="62288" crc="93af34da" sha1="3eeb7861d1ad0b4305864490573aebf592306db1"/>
+		<rom name="PullHandleFast.wav" size="30252" crc="b681d2a9" sha1="83a39aa65dbc6986f36a4a544d05122dffd82ee9"/>
+		<rom name="PullHandleNormal.wav" size="70700" crc="d1573706" sha1="7d0601cb6668cbf6e28dd04fd2595d73aed2a431"/>
+		<rom name="PullHandleRelease.wav" size="43372" crc="d5f069e4" sha1="340f9aee4133f9885f1b722b80881f10a55bbab2"/>
+		<rom name="PullHandleSlow.wav" size="159972" crc="b220bd92" sha1="85c2523977bc191f33d38af7121bac676cfdffa0"/>
+		<rom name="S1Locked.wav" size="7596" crc="3ef4b3b8" sha1="9384d9503e201c417fb6907b30935511b4875476"/>
+		<rom name="S2 TokenSlide.wav" size="51924" crc="181935e1" sha1="7673f8739d83445f8352f04ec037710d7cfc9698"/>
+		<rom name="SolenoidOff.wav" size="17766" crc="ff3171a1" sha1="cc9840193bc6e21337dcbdcdeb52ad57090a4db6"/>
+		<rom name="SolenoidOn.wav" size="5450" crc="2c0c13d8" sha1="d7e478cede532a4468e3158a3e974d4209437cfd"/>
+		<rom name="Stepper (1).wav" size="41484" crc="44305994" sha1="1bf2b6138b3480c90bd0436dd6fb75cd6638fbd1"/>
+		<rom name="Stepper (2).wav" size="18250" crc="a3fd6dc2" sha1="e4e9759e806b6c76bad758c93378b71571217ca0"/>
+		<rom name="TokenSlide (1).wav" size="86742" crc="4e9d9ee6" sha1="eb62775b956b23ff25cc72fb4c309ba83f8ed64b"/>
+		<rom name="TokenSlide (2).wav" size="97324" crc="b053b50e" sha1="986a7f91b3fa5e601d648ac6b9d6dcfd01a8b71f"/>
+		<rom name="TokenSlide (3).wav" size="79492" crc="6692a22f" sha1="608f5d72df2983b746d2e1e966c42504b076f290"/>
+		<rom name="TokenSlide (4).wav" size="47806" crc="98263d82" sha1="384ebfceda140aa50afa048996c65007063ef943"/>
+		<rom name="TokenSlide (5).wav" size="82178" crc="f8cc5ac7" sha1="696d3637f034d678b74a9fb186cb80618268e1e7"/>
+		<rom name="TokenSlide (6).wav" size="33100" crc="0ca10ec2" sha1="bc71a7b3d33fea17774946c1bdb8890b52e843a2"/>
+		<rom name="TokenSlide (7).wav" size="67906" crc="23f29c39" sha1="9fc61e07881ff14474530a48ff4ba55894597f54"/>
+		<rom name="TokenSlide (8).wav" size="84928" crc="9dad2fb2" sha1="cd6d260ae5083ec6d4b9f5dc51253e275d6defff"/>
+		<rom name="Token_new.wav" size="81920" crc="2ef946a4" sha1="faf257e63810f84e71f8e0fd73a9067a5b84d12e"/>
+		<rom name="Wiper.wav" size="117804" crc="99ac538b" sha1="a5f677b33e306810b76dbe83464e71d21d8e8fee"/>
+		<rom name="buttonUp (3).wav" size="12748" crc="caa2c9d0" sha1="d2ad48e7505e9fe89bfcb4bfd3c872748946124d"/>
+		<rom name="key.wav" size="73936" crc="c839cf4a" sha1="7963ed42a8e6006dde6dc5d75addcb71463ddc7c"/>
+		<rom name="stepper.wav" size="41484" crc="44305994" sha1="1bf2b6138b3480c90bd0436dd6fb75cd6638fbd1"/>
+		<rom name="£1_new.wav" size="74276" crc="8fb1ca9c" sha1="983b1e439f1251680d6546be4bd6101b365065d2"/>
+	</game>
+	<game name="Various Blank Layouts (30Dec2019) (hitthesix)">
+		<rom name="Various Blank Layouts (30Dec2019) (hitthesix).txt" size="155" crc="9e9a1c84" sha1="b8e2a2864b97f2209dd773bdb3e5c7ae75c548d1"/>
+		<rom name="blank layouts/12 number reel.bmp" size="215094" crc="ccc60ecb" sha1="9228bd53b473590bfaa260dbdbad293cf497f55f"/>
+		<rom name="blank layouts/16 number reel.bmp" size="215094" crc="60d62c2e" sha1="cee4c25d8a31e459bc709fb20c452a39ab25b749"/>
+		<rom name="blank layouts/20 number reel.bmp" size="358454" crc="17043faa" sha1="d827ebd5a5fe7fde8cdfdf3cbcce2bb2c34273bd"/>
+		<rom name="blank layouts/BLACKBOX.fml" size="125020" crc="82d853bf" sha1="39bb85e749c21a918d65fbd17c2085e44852b700"/>
+		<rom name="blank layouts/BLANK SYST 83.fml" size="130229" crc="94b340e1" sha1="67918a37266d36b4502fef00c4ca609386bafc0b"/>
+		<rom name="blank layouts/CASTLE.fml" size="71083" crc="b1015447" sha1="d9dd3819e7b97baef6bdcab79cba2ad285f9d5c7"/>
+		<rom name="blank layouts/JPMSYSTEM80Blank.fml" size="59172" crc="74e702b6" sha1="6a4813e4a8f813c44913dfd6fb951254ab514602"/>
+		<rom name="blank layouts/JpmMpsBlank.fml" size="125270" crc="5f14890c" sha1="f52bd799d4ffcdd65b9131b3db8da0e71fa8abdc"/>
+		<rom name="blank layouts/MPU5Blank.fml" size="159213" crc="f5a56f03" sha1="bd19ec5fbc0cc8dbc5da752eda26de3f6e9012d7"/>
+		<rom name="blank layouts/MaygayBlankvideo.fml" size="6318" crc="eb217299" sha1="e3098961b40a4f9497e0b964eeec4e6e60d3c90c"/>
+		<rom name="blank layouts/Proconn_Blank.fml" size="68187" crc="ff1a868a" sha1="20df004e0890f54430e93d479fe184a3e25c3be3"/>
+		<rom name="blank layouts/Scorpion1_2Blank.fml" size="97064" crc="1f22a0cf" sha1="2b5a5d7372b1ecd3e727c716c830b70d5dc26a1e"/>
+		<rom name="blank layouts/blank adder5.fml" size="72687" crc="02ade8aa" sha1="53aef21dd5e5fc7a3d34206fb405b25a9ea8a8da"/>
+		<rom name="blank layouts/blank astra.fml" size="66215" crc="737841fb" sha1="6c4629a84a85934bbf870cf461a80cdb14c880b4"/>
+		<rom name="blank layouts/blank maygay.fml" size="20894" crc="3735bdee" sha1="e9da73b3e5cbce059c4d7b6afb3a133a0e605581"/>
+		<rom name="blank layouts/blank mmm.fml" size="70701" crc="05642200" sha1="2aa9287ad7556d3ea02fa89e79d36721eb84098f"/>
+		<rom name="blank layouts/blank system5.fml" size="97062" crc="a1b49bde" sha1="1d7d3b9a427c1f86be74f8db88968bf0984b70c2"/>
+		<rom name="blank layouts/sc4 blank.fml" size="97879" crc="50c89901" sha1="8fbd61b0d2daeaf8374f361cef0b78353c900576"/>
+	</game>
+</datafile>

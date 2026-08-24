@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Extras - Emulators - Banilla Games</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Banilla Games Emulator v1">
+		<rom name="Banilla.exe" size="19293462" crc="24360903" sha1="3ffdb6da67961c838f693b12a852082cfc866dee"/>
+		<rom name="COMPATIBILITY.txt" size="1460" crc="875878f4" sha1="9ad4c30cfc8acc4d190db9d1a9d2b3f9ec08d0bb"/>
+		<rom name="Config/Banilla.ini" size="517" crc="9f0b83be" sha1="5619823fa45ab3233ddcdfb79ba08985d3e01733"/>
+		<rom name="Config/Bookkeeping/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Config/State/wallet.state" size="45" crc="69e4207f" sha1="c65278dce2a31bd8b9cc0aa7068558b85792c378"/>
+		<rom name="Emulator/Assets/Launcher/american_sevens.png" size="212668" crc="adf41b03" sha1="680aa55374a56e9be374444606974621656a022f"/>
+		<rom name="Emulator/Assets/Launcher/background.png" size="474443" crc="747ca30f" sha1="35a931319f87642bc94451a626d7f3879d671691"/>
+		<rom name="Emulator/Assets/Launcher/frozen_sevens.png" size="217477" crc="bd23ab96" sha1="f705f6b1122e8236efa110ad11854adbb963e6d0"/>
+		<rom name="Emulator/Assets/Launcher/kitty_kash.png" size="171791" crc="75f96e96" sha1="ffb0a3299ede557880d6125fda8dff18685dbe6e"/>
+		<rom name="Emulator/Assets/Launcher/lightning_strike.png" size="209619" crc="baead407" sha1="120ebb412a86cca2151594b5927adc3c8bf68583"/>
+		<rom name="Emulator/Assets/Launcher/lucky_lollipop.png" size="179389" crc="db7898c0" sha1="34db99d1416779da1536550d688ad56209f59472"/>
+		<rom name="Emulator/Assets/Launcher/lucky_rubber_ducky.png" size="187521" crc="c74a7b4e" sha1="fefef625b15c7fdac57214db2abb7aa8dc45caad"/>
+		<rom name="Emulator/Assets/Launcher/lucky_striker.png" size="197265" crc="8772967d" sha1="75a2d0ba954f496ed524daf55d650cb2b0e955e8"/>
+		<rom name="Emulator/Assets/Launcher/luckys_loot.png" size="211103" crc="518a9246" sha1="8099f642417ad28757cb5ec46d2e1e9eefe8f95a"/>
+		<rom name="Emulator/Assets/Launcher/major_cash.png" size="276626" crc="77f95d10" sha1="3ed5e206eb4bd0810dec4b3e277ee8e0258ebbca"/>
+		<rom name="Emulator/Assets/Launcher/major_cash_skill.png" size="268937" crc="2903bb8a" sha1="3aa764dbdb375b2851b90d96f1f0db821cbe9929"/>
+		<rom name="Emulator/Assets/Launcher/oil_rush.png" size="205081" crc="92f772ad" sha1="ec48c99cb10ebb20537d7c73e38821cfd3e3fbba"/>
+		<rom name="Emulator/Assets/Launcher/pattys_payday.png" size="243568" crc="cbe0cb13" sha1="df21b93193a67995abc11787227fbd4ac321ae60"/>
+		<rom name="Emulator/Assets/Launcher/searing_sevens.png" size="114645" crc="5b02bf53" sha1="0ef2a15d5f654f82e9671a9b90ce0e7adf594b76"/>
+		<rom name="Emulator/Assets/Launcher/shammy_sevens.png" size="230954" crc="92b9323f" sha1="61c2813e073351aa095b9e40edce7e00a2523936"/>
+		<rom name="Emulator/Assets/Launcher/spookys_loot.png" size="301726" crc="9d18cef2" sha1="a800f2862385f291bceaf601b64e9c7072824547"/>
+		<rom name="Emulator/Assets/Launcher/super_keno.png" size="112736" crc="3b68d8cd" sha1="9afcdf4aa235fb1a6de454de9b2446089249d071"/>
+		<rom name="Emulator/Assets/Launcher/the_box_office.png" size="121665" crc="47171e8c" sha1="e2a95ca514e151d7fe610ce266aa7e95085f09a8"/>
+		<rom name="Emulator/Assets/Launcher/wheel_deal.png" size="180399" crc="ed212bea" sha1="841f768296da985495d85df20faeba92bfd440d5"/>
+		<rom name="Emulator/Bridge/bin/BanillaBridge.exe" size="9216" crc="361b1303" sha1="f9df3d97f5b10d8905eda4adbc835f6d45b0f61f"/>
+		<rom name="Emulator/Bridge/bin/BanillaCompat.dll" size="15360" crc="eb561d04" sha1="59fb758bd61689a71953b2b40e5b008304b7f8ff"/>
+		<rom name="Emulator/Bridge/bin/BanillaUnityCompat.dll" size="4608" crc="32fdacbb" sha1="0da013185615fe5b10d53717dae90965930fd909"/>
+		<rom name="Emulator/Tools/bin/Mono.Cecil.dll" size="363008" crc="6160657d" sha1="0e0dcb36aa56e7f99aa524cfb3c72e4918cc5b32"/>
+		<rom name="Emulator/Tools/bin/PatchFateSystem.exe" size="16896" crc="8c7e7ed2" sha1="fe1f296c72330d0065437b640758b283d3086761"/>
+		<rom name="Games/PLACE GAME FOLDERS HERE.txt" size="81" crc="744d5479" sha1="d985aff37c1bff1da67d457096361d2d0ed4b8a0"/>
+		<rom name="Logs/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="README.txt" size="4761" crc="68fc24fc" sha1="14dd191162025fe3d54ba999e14af2a76904c969"/>
+		<rom name="Runtime/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+</datafile>

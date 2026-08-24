@@ -1,0 +1,1167 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Extras - Emulators - Project Amber</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Amber 5-Step Guide">
+		<rom name="Amber 5-Step Guide (27May2014) (banditboy2006).docx" size="298460" crc="b0becd63" sha1="ff071935df0d8625ad48f3c85817b9cdec44ee25"/>
+		<rom name="Amber 5-Step Guide (27May2014) (banditboy2006).png" size="4230" crc="2fbbfd59" sha1="90aaab3dd364aacc9cb8ff3be725411611ddfa89"/>
+		<rom name="Amber 5-Step Guide (27May2014) (banditboy2006).txt" size="86" crc="e196a59c" sha1="c58c6a10b1033196e1e287142dc59badcbddb273"/>
+	</game>
+	<game name="Project Amber 1.0910">
+		<rom name="amber/ProjAmber.exe" size="8900608" crc="3de4c3e2" sha1="0b2dfb73974b7d72cd449395cb9ddc58d81b5bbb"/>
+		<rom name="PAInstaller10910/PAInstaller/Installer.exe" size="90112" crc="24ef3e3e" sha1="463f8d791bca42a437c5cc991e68378f9672f872"/>
+		<rom name="PAInstaller10910/PAInstaller/InstallPack.pai" size="48741136" crc="034152a3" sha1="de909ac2e3a8a49e1e3bb659ef61d6b206a5b8a5"/>
+		<rom name="PAInstaller10910/PAInstaller/zlibwapi.dll" size="141312" crc="b5c19d9a" sha1="93c561365bc7f1cbb5385d0323ed81044a6ec276"/>
+		<rom name="Project Amber 1.0910.txt" size="11114" crc="432e63a8" sha1="01269cb8ed2321f88392d3d088330c6428972841"/>
+	</game>
+	<game name="Project Amber 1.0914 RC1">
+		<rom name="Amber Debug.txt" size="25870" crc="98f55ccc" sha1="7deef9b0d211f60ab50327fed180801ddcf555b5"/>
+		<rom name="AmberCleanUp.exe" size="45056" crc="fb7566e6" sha1="e6cc8413e673a1aa782ffe976fa441399517734d"/>
+		<rom name="AutoUpdate.exe" size="40960" crc="24e0c80a" sha1="35bdaf784565d3532e71c19a4f362796eebe6d69"/>
+		<rom name="Components.cpf" size="57043557" crc="cb1552f6" sha1="a7c54d34eef9dfc80ac24b6181209a0fadf82a3c"/>
+		<rom name="Components/Components.Cpf" size="39183099" crc="ff6add2c" sha1="430b93f92ef355eb513488c154dfd7f9cfaae651"/>
+		<rom name="Components/Sound.Spf" size="5303998" crc="ee5945ee" sha1="0822a47a88bb604186c5a9938dfed4b257e18539"/>
+		<rom name="Components/Sounds/0-1.mp3" size="81957" crc="3ca4f934" sha1="535a11e80b4deb2aa7e5582e7ff7cd88ccf1a9ac"/>
+		<rom name="Components/Sounds/0-10.mp3" size="38033" crc="f407d937" sha1="d704f3fad27018de7c4288882d6aec0d7de8d058"/>
+		<rom name="Components/Sounds/0-11.mp3" size="15881" crc="09cdc4e0" sha1="dc55145279257c2548543e816775d78b3e4cdde4"/>
+		<rom name="Components/Sounds/0-12.mp3" size="34689" crc="f5849f36" sha1="95fd3af674a0b887412f4d578ab59f9a05445184"/>
+		<rom name="Components/Sounds/0-13.mp3" size="41377" crc="0a2ae49d" sha1="331f2ce9089bba03aa164d7574ad7fd528f85440"/>
+		<rom name="Components/Sounds/0-14.mp3" size="34689" crc="815027cd" sha1="f26aad74ddf69f2177ccd2f49473fadccb32e524"/>
+		<rom name="Components/Sounds/0-15.mp3" size="35943" crc="7313308f" sha1="c6803ab6a3110c4d0255da75b26faa669a67136d"/>
+		<rom name="Components/Sounds/0-16.mp3" size="39287" crc="58fbf5c5" sha1="1a82ff8af086891255514e00d4d9f6122716fc44"/>
+		<rom name="Components/Sounds/0-17.mp3" size="37197" crc="dbec718e" sha1="680172bbc2186b1bb99152e6f7b4fbb4e1d30153"/>
+		<rom name="Components/Sounds/0-18.mp3" size="32181" crc="ec292608" sha1="0d72a935503f6176d30ea4610987e3c392712a88"/>
+		<rom name="Components/Sounds/0-19.mp3" size="38033" crc="7651e053" sha1="acc84cda619fd94d7e2588d800cc97097571adea"/>
+		<rom name="Components/Sounds/0-2.mp3" size="77777" crc="43316a22" sha1="1ecd5dc09789692d190a9e338ad2c07ae49194db"/>
+		<rom name="Components/Sounds/0-20.mp3" size="30510" crc="335d3cee" sha1="c6152e9ae03f252264ca69304300de75b68a7d65"/>
+		<rom name="Components/Sounds/0-21.mp3" size="43466" crc="48d59b09" sha1="efeface7f06dedd2b592aa99b0a48517d4adc1ab"/>
+		<rom name="Components/Sounds/0-22.mp3" size="37615" crc="28da9313" sha1="77cc067d5fd7b8b5d3302d5ea58d8da476e81823"/>
+		<rom name="Components/Sounds/0-23.mp3" size="34689" crc="dd0042d6" sha1="5031a6ed51b0fe9bb049299da8d235f8c4c6ce1e"/>
+		<rom name="Components/Sounds/0-24.mp3" size="71052" crc="6e822347" sha1="839cdbbbb82ce2509a8e81776499b1a847b8fb01"/>
+		<rom name="Components/Sounds/0-25.mp3" size="71052" crc="f586cf2a" sha1="63f5943f4211d122531225167312e1e1b0d747f3"/>
+		<rom name="Components/Sounds/0-26.mp3" size="71052" crc="6941bb67" sha1="ef1cf1f26475917534d03ae5fdfa2bb295a43f27"/>
+		<rom name="Components/Sounds/0-27.mp3" size="71052" crc="19a4fe8d" sha1="2c9be435367b892915f61c3babb2ce8e278454da"/>
+		<rom name="Components/Sounds/0-28.mp3" size="71052" crc="37b8c02a" sha1="114f27f2c8a7cb3c538368f9dde05499878f22e1"/>
+		<rom name="Components/Sounds/0-29.mp3" size="71052" crc="a6b64054" sha1="62ce765ce601498c4c22fe7d63934ca257401b54"/>
+		<rom name="Components/Sounds/0-3.mp3" size="35107" crc="771fb62e" sha1="4678bf849d055c7b7d85ad8801f3116c61660926"/>
+		<rom name="Components/Sounds/0-30.mp3" size="71052" crc="46b182f5" sha1="73098364b2d419b378c7ea1a1a0171b8ee3fa88a"/>
+		<rom name="Components/Sounds/0-31.mp3" size="71052" crc="77336e74" sha1="ccdb19d9eb92631e9dae0c2a64415db9be9d86a8"/>
+		<rom name="Components/Sounds/0-32.mp3" size="71052" crc="32abe9fd" sha1="a30cd5af9db2d428c95dd54cd460a37dd5fc3d7b"/>
+		<rom name="Components/Sounds/0-33.mp3" size="71052" crc="dcc186f2" sha1="078e89d34ea3191f890d75eeae0302a3e65b1c8c"/>
+		<rom name="Components/Sounds/0-34.mp3" size="71052" crc="cd38e178" sha1="aeb331d8c9ba4eda5c083f6e7c551d709e94931b"/>
+		<rom name="Components/Sounds/0-35.mp3" size="71052" crc="5d724bd4" sha1="3b4e7f4c33e2413776deefeef547fe5e8c8880f5"/>
+		<rom name="Components/Sounds/0-36.mp3" size="71052" crc="837f04bb" sha1="b63a0aa9feeb311dcf210f581d3a94ae844b2b4d"/>
+		<rom name="Components/Sounds/0-37.mp3" size="71052" crc="a6717037" sha1="70d9b08f007bb75497bcc7b19ce155044a9ec186"/>
+		<rom name="Components/Sounds/0-38.mp3" size="37615" crc="58734f7e" sha1="f44fd5c02def271271414145d476eaf167d84fd5"/>
+		<rom name="Components/Sounds/0-39.mp3" size="39287" crc="d0d116cb" sha1="cd4d962ff3782b252594cd635ba2e2c6c71aab7b"/>
+		<rom name="Components/Sounds/0-4.mp3" size="37197" crc="fa21c8bc" sha1="511995866dde755e7d96ec5161f3b78f057c2ee9"/>
+		<rom name="Components/Sounds/0-40.mp3" size="36779" crc="fc241027" sha1="5681845d176f69fbd4af289e756a5a4cc8c5a2ad"/>
+		<rom name="Components/Sounds/0-41.mp3" size="36779" crc="c1d2e3f9" sha1="f3bcfa6c5c6e9ab969c2765c51f9243965fb488d"/>
+		<rom name="Components/Sounds/0-42.mp3" size="35943" crc="81d01f8a" sha1="0c08d08649df87c6073e5745604fdada33b6b2fd"/>
+		<rom name="Components/Sounds/0-43.mp3" size="36779" crc="88f79c06" sha1="c784f9e0e7cbc515b264efa95850e5dd7e7af756"/>
+		<rom name="Components/Sounds/0-44.mp3" size="36361" crc="10cb0dce" sha1="c0ebfed16240cd8fd4207670355bcd35a0b7a920"/>
+		<rom name="Components/Sounds/0-45.mp3" size="35943" crc="aa766daf" sha1="ee9651facd121242a6760f34ae6c4aa0e5edbcba"/>
+		<rom name="Components/Sounds/0-46.mp3" size="39287" crc="d98e5bc6" sha1="211a4ed511b1ef5d1715c3c7a6fc3bbc21047355"/>
+		<rom name="Components/Sounds/0-47.mp3" size="39287" crc="6c7df5ca" sha1="441c88b09aaffa28649bbcb98d2b6099571e6005"/>
+		<rom name="Components/Sounds/0-48.mp3" size="37615" crc="18e037bb" sha1="718356a3b31ed9fd124ca5b2de8948644975a6c3"/>
+		<rom name="Components/Sounds/0-49.mp3" size="38451" crc="5f9f193e" sha1="b5bbcec949643968938af57677ac8d0493ea6dc2"/>
+		<rom name="Components/Sounds/0-5.mp3" size="40959" crc="809526ee" sha1="b569738d4f2e6d1c4cd2beeec1115461fbab5bdc"/>
+		<rom name="Components/Sounds/0-50.mp3" size="35943" crc="d82ce9bf" sha1="13ae4a0a3ecf4bc4287ca3a6f1b4702aae02a4cf"/>
+		<rom name="Components/Sounds/0-51.mp3" size="36779" crc="7ba26cbd" sha1="ad9c732ea4e34c20a0ff24f5f4010514801dcea6"/>
+		<rom name="Components/Sounds/0-52.mp3" size="38869" crc="19f5abbf" sha1="9923a23698683b3443a640738f9de6162605ac15"/>
+		<rom name="Components/Sounds/0-53.mp3" size="38451" crc="eba17e5d" sha1="29c937ab3b8492f56fc1205beb52c4acf8ccb32e"/>
+		<rom name="Components/Sounds/0-54.mp3" size="36779" crc="256838d6" sha1="d1234c79ef7708707ebee93b2e65045dddc41ab1"/>
+		<rom name="Components/Sounds/0-55.mp3" size="40160" crc="4ea610d5" sha1="9e882df09a2cff24cbdeeb5ce5e7cfae6826d234"/>
+		<rom name="Components/Sounds/0-56.mp3" size="40578" crc="a7ecf9ac" sha1="566e5e0d38e0c412b76d57dab2440630cadb8247"/>
+		<rom name="Components/Sounds/0-57.mp3" size="40160" crc="882023eb" sha1="175ac6a929766699f22ace1ce26fa4a8e019f694"/>
+		<rom name="Components/Sounds/0-58.mp3" size="36398" crc="2315ce73" sha1="4c8744dc0363709c4940625bce040d9c3cbf49f2"/>
+		<rom name="Components/Sounds/0-59.mp3" size="44339" crc="b6562fad" sha1="05871d2cc886bea770035123af19d329d859f655"/>
+		<rom name="Components/Sounds/0-6.mp3" size="38451" crc="2fbf1027" sha1="304b39aa94bda5515ce4a5e01ed3fd67aac5fade"/>
+		<rom name="Components/Sounds/0-60.mp3" size="36816" crc="2da3abc7" sha1="934768ccecf5b813b110ba5bb6e41cd608163a66"/>
+		<rom name="Components/Sounds/0-61.mp3" size="36398" crc="dd4479bc" sha1="788292056ea2b86a700c201d984d3d5b8e806492"/>
+		<rom name="Components/Sounds/0-62.mp3" size="35144" crc="337fc539" sha1="1eb1449478397bf55769709883924494138e6025"/>
+		<rom name="Components/Sounds/0-63.mp3" size="38488" crc="6faa0888" sha1="cffa68dcab297e6fd2473d4dad04439a05fb6ee0"/>
+		<rom name="Components/Sounds/0-64.mp3" size="38071" crc="e72a2145" sha1="12c7a3885d58a819f207fd1fec14dab1a200eaef"/>
+		<rom name="Components/Sounds/0-65.mp3" size="39743" crc="34218051" sha1="88d9d3673bf2c350b3446bf87116c358e975bb79"/>
+		<rom name="Components/Sounds/0-66.mp3" size="39325" crc="812b00fd" sha1="bb1b54a1610a121e2d9aa236987cf0b78b5dd964"/>
+		<rom name="Components/Sounds/0-67.mp3" size="39325" crc="25b87b94" sha1="644560389bd37f8cf7287798538dc9b407937476"/>
+		<rom name="Components/Sounds/0-68.mp3" size="37235" crc="1d5816d2" sha1="20a0fd8b9eadb0ba914e4dd24faa41ef4727c41a"/>
+		<rom name="Components/Sounds/0-69.mp3" size="36399" crc="9cbe3da1" sha1="57ff9852e663887cdd99843554d114f46bc01900"/>
+		<rom name="Components/Sounds/0-7.mp3" size="17971" crc="eb4296ee" sha1="d5bec8dc53eba266a0082af4543b952179eb715c"/>
+		<rom name="Components/Sounds/0-70.mp3" size="38489" crc="2300080c" sha1="b5293e9e9f860042d73869bc77d1fb0e13ae8b83"/>
+		<rom name="Components/Sounds/0-71.mp3" size="39325" crc="edf7969d" sha1="581fadae1e7d7a317042506783db4d90d58673b5"/>
+		<rom name="Components/Sounds/0-72.mp3" size="38907" crc="f848a44f" sha1="2ccb79f0a324c1bac337ea3b8c9599b694252f32"/>
+		<rom name="Components/Sounds/0-73.mp3" size="39325" crc="5c6dfda1" sha1="10e5425ae89caa32cccd089958ed25d4acdea779"/>
+		<rom name="Components/Sounds/0-74.mp3" size="38489" crc="c3ca02cc" sha1="64d9052390fc50c9f9a970a8f4f490cd92b77999"/>
+		<rom name="Components/Sounds/0-75.mp3" size="41832" crc="969fd351" sha1="7ebcfea37a719da06fd84c69ac854db51b623225"/>
+		<rom name="Components/Sounds/0-76.mp3" size="39743" crc="cf7b5529" sha1="e90510bb1793bdb8104f7ff657f14eb0ed7784f6"/>
+		<rom name="Components/Sounds/0-77.mp3" size="39325" crc="b72eb1c4" sha1="9b3209281db8febb46b3ae8ca7bf3eb52dd20489"/>
+		<rom name="Components/Sounds/0-78.mp3" size="38489" crc="de9ca512" sha1="9525a872bc8db8a02e30dd7422c6c297c5c98418"/>
+		<rom name="Components/Sounds/0-79.mp3" size="41832" crc="32aac16c" sha1="4708e3d0e365d4da112552b0d38f91337e4c09e1"/>
+		<rom name="Components/Sounds/0-8.mp3" size="36361" crc="34ed7802" sha1="c35c59c676b7ce90d50f03fd8bcf99b3bd95f6d2"/>
+		<rom name="Components/Sounds/0-80.mp3" size="34727" crc="2136001a" sha1="76ee3d17c64480ceeb8fdd0db4261811fbe7aa9b"/>
+		<rom name="Components/Sounds/0-81.mp3" size="33055" crc="6cc78b33" sha1="895cee38939be8e6904b21bf239097aa5f732102"/>
+		<rom name="Components/Sounds/0-82.mp3" size="35563" crc="327b4e32" sha1="04b270a99ce86e4b2337ed1605ae67153d3e09d0"/>
+		<rom name="Components/Sounds/0-83.mp3" size="33891" crc="6186840c" sha1="bd32486f3dc03329941d954902a30c188e1350a4"/>
+		<rom name="Components/Sounds/0-84.mp3" size="34309" crc="c3797f2e" sha1="63d27557a197d9b944fe087828ae17590bbb823d"/>
+		<rom name="Components/Sounds/0-85.mp3" size="42668" crc="5a757473" sha1="9bb3b06c399233f60411378bf601f1438182d544"/>
+		<rom name="Components/Sounds/0-86.mp3" size="50610" crc="168011d7" sha1="e83e2a731efa50e4dbc13941af287df9447a3cc3"/>
+		<rom name="Components/Sounds/0-87.mp3" size="38489" crc="f52b0771" sha1="0d4ba094857a83373ef6d49268308c1e1d51b52d"/>
+		<rom name="Components/Sounds/0-88.mp3" size="38907" crc="9021da70" sha1="f93fc8f2ec5f29719ed9ab36bb7eb9bc14cf8250"/>
+		<rom name="Components/Sounds/0-89.mp3" size="34309" crc="a616efe2" sha1="da8d68fe1c70d65f998debb0558170d65c43acbe"/>
+		<rom name="Components/Sounds/0-9.mp3" size="42630" crc="19276993" sha1="b49b415aee318a5e1e83084a85bd0a9e3ca0c8d4"/>
+		<rom name="Components/Sounds/0-90.mp3" size="39325" crc="ecb96d72" sha1="94095ae2ba2402ec2d8cb837456f8fce09e11ec5"/>
+		<rom name="Components/Sounds/0-91.mp3" size="79031" crc="178465bb" sha1="a7fedaea600c4bccf459065923f1b720d5b516c8"/>
+		<rom name="Components/Sounds/0-92.mp3" size="81957" crc="9d3a4c34" sha1="f66bd9f72da02c42b395a3c203bc875f871c92cb"/>
+		<rom name="Components/Sounds/0-93.mp3" size="81957" crc="038f6e34" sha1="1f3434c4b13bc671e9e9e012f99f4cd16d28764a"/>
+		<rom name="Components/Sounds/0-94.mp3" size="77777" crc="94eb08b8" sha1="9962c5bc541cfc80b7ea48a40ac84a5d91b8131f"/>
+		<rom name="Components/Sounds/1Pd1.mp3" size="47266" crc="34cdc913" sha1="18b4c8019d8af257840c7964940032d3aa8d9f6a"/>
+		<rom name="Components/Sounds/1Pd10.mp3" size="46013" crc="bc72a0fd" sha1="4c6b0dbdbdbbec87480e699b7ad613480a0c437b"/>
+		<rom name="Components/Sounds/1Pd11.mp3" size="41416" crc="9308f950" sha1="30150a211caddce05ad6ebc635fde19f92e5028e"/>
+		<rom name="Components/Sounds/1Pd12.mp3" size="43505" crc="c0e1c92e" sha1="6a9c78811e1bfc459a3ad8ef0b514d118402fcf5"/>
+		<rom name="Components/Sounds/1Pd13.mp3" size="48103" crc="384b41b3" sha1="dc5206bd1a3339bdac64c72b903a23d85e45c832"/>
+		<rom name="Components/Sounds/1Pd14.mp3" size="4218" crc="f751dcf9" sha1="a4d768e3e806819f796607c0c246ceb12485892b"/>
+		<rom name="Components/Sounds/1Pd15.mp3" size="18851" crc="e38ffe58" sha1="f66cba494165e7be09682e27734be03a2b23ca9d"/>
+		<rom name="Components/Sounds/1Pd16.mp3" size="33061" crc="2635fb95" sha1="9388f8f17d67d9290abef2c118ffdcd325fb9a05"/>
+		<rom name="Components/Sounds/1Pd17.mp3" size="56043" crc="a2c57516" sha1="67935e2972d26c8e0df0ee387ed6adfaa052d108"/>
+		<rom name="Components/Sounds/1Pd18.mp3" size="56461" crc="8b1ea90b" sha1="b9be623d647b5ab14af6be3868d2e325763c140d"/>
+		<rom name="Components/Sounds/1Pd19.mp3" size="52699" crc="dba6cca9" sha1="728b0f63c04b9efc4df97fbe554c6a4daecf5f61"/>
+		<rom name="Components/Sounds/1Pd2.mp3" size="52699" crc="fb2d85c9" sha1="35960c3302d943210e28f1442de88ca167290827"/>
+		<rom name="Components/Sounds/1Pd20.mp3" size="56879" crc="7b3c7dbf" sha1="6229f9d05bbfeb0dcaa1d3c055c2cd5e1cf3c685"/>
+		<rom name="Components/Sounds/1Pd21.mp3" size="54789" crc="56288128" sha1="f0fb7327a36ef7f35bea0793490594a619a29132"/>
+		<rom name="Components/Sounds/1Pd22.mp3" size="50192" crc="04edc464" sha1="d0c0c03bb3c5d1c9674c96266e29ccd196b4b982"/>
+		<rom name="Components/Sounds/1Pd23.mp3" size="56043" crc="55abdbd1" sha1="5b428ac16ab0e91d88de32dd885c70015c93f589"/>
+		<rom name="Components/Sounds/1Pd24.mp3" size="53953" crc="de25e52a" sha1="90cd9604173a7c9d2824d1c8c92adda1013cfe45"/>
+		<rom name="Components/Sounds/1Pd25.mp3" size="59387" crc="4de5a15b" sha1="f97d1c0d63cac26bf7e1e56200bc9bddb7f13cdf"/>
+		<rom name="Components/Sounds/1Pd26.mp3" size="61896" crc="c3245ffb" sha1="e8f04fc3a5044e05da4c30b833214f17ddedca3d"/>
+		<rom name="Components/Sounds/1Pd27.mp3" size="53118" crc="ce0f5d3e" sha1="389cd92671fdf05c3b9094ef49ff2d6905a30627"/>
+		<rom name="Components/Sounds/1Pd29.mp3" size="35525" crc="09fa7210" sha1="9d60b07de855307671043e2d0fac2d4e18500761"/>
+		<rom name="Components/Sounds/1Pd3.mp3" size="45176" crc="02135fbb" sha1="851faadf1bdfc5656c93dc03c76a0a3d856a60cb"/>
+		<rom name="Components/Sounds/1Pd30.mp3" size="40123" crc="3acd5c57" sha1="c22a8b0eeb8df4babb36074497c4c95c0c0cda75"/>
+		<rom name="Components/Sounds/1Pd4.mp3" size="44758" crc="27c8c169" sha1="e49f1688425fb3da59eb7125b72f4796efd65c45"/>
+		<rom name="Components/Sounds/1Pd5.mp3" size="51446" crc="8716008d" sha1="aa12399304f97625091b25314ba4ab8e8f0ae40d"/>
+		<rom name="Components/Sounds/1Pd6.mp3" size="50610" crc="edaa51d2" sha1="e6505277c3a8dcb605de5c507f2efcf9e7ed7136"/>
+		<rom name="Components/Sounds/1Pd7.mp3" size="48938" crc="876a9cf5" sha1="fa7b99d3dfe3bd755a87807f77858a5115572134"/>
+		<rom name="Components/Sounds/1Pd8.mp3" size="47266" crc="22c00f79" sha1="39cef39a498d9d7e1604c88a146eeee4ca968a76"/>
+		<rom name="Components/Sounds/1Pd9.mp3" size="50192" crc="91c457e4" sha1="79a9fa074c1871e5098acab3fc2e246dfd911a0e"/>
+		<rom name="Components/Sounds/Click1.mp3" size="35107" crc="ec9e70f6" sha1="c0e52525b0bec9657ec683583d9528de831749c2"/>
+		<rom name="Components/Sounds/Click10.mp3" size="34689" crc="f5849f36" sha1="95fd3af674a0b887412f4d578ab59f9a05445184"/>
+		<rom name="Components/Sounds/Click11.mp3" size="41377" crc="0a2ae49d" sha1="331f2ce9089bba03aa164d7574ad7fd528f85440"/>
+		<rom name="Components/Sounds/Click12.mp3" size="34689" crc="815027cd" sha1="f26aad74ddf69f2177ccd2f49473fadccb32e524"/>
+		<rom name="Components/Sounds/Click13.mp3" size="35943" crc="7313308f" sha1="c6803ab6a3110c4d0255da75b26faa669a67136d"/>
+		<rom name="Components/Sounds/Click14.mp3" size="39287" crc="58fbf5c5" sha1="1a82ff8af086891255514e00d4d9f6122716fc44"/>
+		<rom name="Components/Sounds/Click15.mp3" size="37197" crc="dbec718e" sha1="680172bbc2186b1bb99152e6f7b4fbb4e1d30153"/>
+		<rom name="Components/Sounds/Click16.mp3" size="32181" crc="ec292608" sha1="0d72a935503f6176d30ea4610987e3c392712a88"/>
+		<rom name="Components/Sounds/Click17.mp3" size="38033" crc="7651e053" sha1="acc84cda619fd94d7e2588d800cc97097571adea"/>
+		<rom name="Components/Sounds/Click18.mp3" size="30510" crc="335d3cee" sha1="c6152e9ae03f252264ca69304300de75b68a7d65"/>
+		<rom name="Components/Sounds/Click19.mp3" size="43466" crc="48d59b09" sha1="efeface7f06dedd2b592aa99b0a48517d4adc1ab"/>
+		<rom name="Components/Sounds/Click2.mp3" size="37197" crc="fa21c8bc" sha1="511995866dde755e7d96ec5161f3b78f057c2ee9"/>
+		<rom name="Components/Sounds/Click20.mp3" size="37615" crc="28da9313" sha1="77cc067d5fd7b8b5d3302d5ea58d8da476e81823"/>
+		<rom name="Components/Sounds/Click21.mp3" size="34689" crc="dd0042d6" sha1="5031a6ed51b0fe9bb049299da8d235f8c4c6ce1e"/>
+		<rom name="Components/Sounds/Click22.mp3" size="71052" crc="6e822347" sha1="839cdbbbb82ce2509a8e81776499b1a847b8fb01"/>
+		<rom name="Components/Sounds/Click23.mp3" size="71052" crc="f586cf2a" sha1="63f5943f4211d122531225167312e1e1b0d747f3"/>
+		<rom name="Components/Sounds/Click24.mp3" size="71052" crc="6941bb67" sha1="ef1cf1f26475917534d03ae5fdfa2bb295a43f27"/>
+		<rom name="Components/Sounds/Click25.mp3" size="71052" crc="19a4fe8d" sha1="2c9be435367b892915f61c3babb2ce8e278454da"/>
+		<rom name="Components/Sounds/Click26.mp3" size="71052" crc="37b8c02a" sha1="114f27f2c8a7cb3c538368f9dde05499878f22e1"/>
+		<rom name="Components/Sounds/Click27.mp3" size="71052" crc="a6b64054" sha1="62ce765ce601498c4c22fe7d63934ca257401b54"/>
+		<rom name="Components/Sounds/Click28.mp3" size="71052" crc="46b182f5" sha1="73098364b2d419b378c7ea1a1a0171b8ee3fa88a"/>
+		<rom name="Components/Sounds/Click29.mp3" size="71052" crc="77336e74" sha1="ccdb19d9eb92631e9dae0c2a64415db9be9d86a8"/>
+		<rom name="Components/Sounds/Click3.mp3" size="40959" crc="809526ee" sha1="b569738d4f2e6d1c4cd2beeec1115461fbab5bdc"/>
+		<rom name="Components/Sounds/Click30.mp3" size="71052" crc="32abe9fd" sha1="a30cd5af9db2d428c95dd54cd460a37dd5fc3d7b"/>
+		<rom name="Components/Sounds/Click4.mp3" size="38451" crc="2fbf1027" sha1="304b39aa94bda5515ce4a5e01ed3fd67aac5fade"/>
+		<rom name="Components/Sounds/Click5.mp3" size="17971" crc="eb4296ee" sha1="d5bec8dc53eba266a0082af4543b952179eb715c"/>
+		<rom name="Components/Sounds/Click6.mp3" size="36361" crc="34ed7802" sha1="c35c59c676b7ce90d50f03fd8bcf99b3bd95f6d2"/>
+		<rom name="Components/Sounds/Click7.mp3" size="42630" crc="19276993" sha1="b49b415aee318a5e1e83084a85bd0a9e3ca0c8d4"/>
+		<rom name="Components/Sounds/Click8.mp3" size="38033" crc="f407d937" sha1="d704f3fad27018de7c4288882d6aec0d7de8d058"/>
+		<rom name="Components/Sounds/Click9.mp3" size="15881" crc="09cdc4e0" sha1="dc55145279257c2548543e816775d78b3e4cdde4"/>
+		<rom name="Components/Sounds/Coin Out 0.mp3" size="71052" crc="1d6c0772" sha1="964789a22a4e1c4772a0cefd5cfbcbb4b2eed1c4"/>
+		<rom name="Components/Sounds/Coin Out 1.mp3" size="71052" crc="f0605ba4" sha1="840325d2107af83f6279a6b93e401ea6494772e5"/>
+		<rom name="Components/Sounds/Coin Out 10.mp3" size="36779" crc="88f79c06" sha1="c784f9e0e7cbc515b264efa95850e5dd7e7af756"/>
+		<rom name="Components/Sounds/Coin Out 11.mp3" size="36361" crc="10cb0dce" sha1="c0ebfed16240cd8fd4207670355bcd35a0b7a920"/>
+		<rom name="Components/Sounds/Coin Out 12.mp3" size="35943" crc="aa766daf" sha1="ee9651facd121242a6760f34ae6c4aa0e5edbcba"/>
+		<rom name="Components/Sounds/Coin Out 13.mp3" size="39287" crc="d98e5bc6" sha1="211a4ed511b1ef5d1715c3c7a6fc3bbc21047355"/>
+		<rom name="Components/Sounds/Coin Out 14.mp3" size="39287" crc="6c7df5ca" sha1="441c88b09aaffa28649bbcb98d2b6099571e6005"/>
+		<rom name="Components/Sounds/Coin Out 15.mp3" size="37615" crc="18e037bb" sha1="718356a3b31ed9fd124ca5b2de8948644975a6c3"/>
+		<rom name="Components/Sounds/Coin Out 16.mp3" size="38451" crc="5f9f193e" sha1="b5bbcec949643968938af57677ac8d0493ea6dc2"/>
+		<rom name="Components/Sounds/Coin Out 17.mp3" size="35943" crc="d82ce9bf" sha1="13ae4a0a3ecf4bc4287ca3a6f1b4702aae02a4cf"/>
+		<rom name="Components/Sounds/Coin Out 18.mp3" size="36779" crc="7ba26cbd" sha1="ad9c732ea4e34c20a0ff24f5f4010514801dcea6"/>
+		<rom name="Components/Sounds/Coin Out 19.mp3" size="38869" crc="19f5abbf" sha1="9923a23698683b3443a640738f9de6162605ac15"/>
+		<rom name="Components/Sounds/Coin Out 2.mp3" size="71052" crc="5d724bd4" sha1="3b4e7f4c33e2413776deefeef547fe5e8c8880f5"/>
+		<rom name="Components/Sounds/Coin Out 20.mp3" size="38451" crc="eba17e5d" sha1="29c937ab3b8492f56fc1205beb52c4acf8ccb32e"/>
+		<rom name="Components/Sounds/Coin Out 21.mp3" size="36779" crc="256838d6" sha1="d1234c79ef7708707ebee93b2e65045dddc41ab1"/>
+		<rom name="Components/Sounds/Coin Out 22.mp3" size="40160" crc="4ea610d5" sha1="9e882df09a2cff24cbdeeb5ce5e7cfae6826d234"/>
+		<rom name="Components/Sounds/Coin Out 23.mp3" size="40578" crc="a7ecf9ac" sha1="566e5e0d38e0c412b76d57dab2440630cadb8247"/>
+		<rom name="Components/Sounds/Coin Out 24.mp3" size="40160" crc="882023eb" sha1="175ac6a929766699f22ace1ce26fa4a8e019f694"/>
+		<rom name="Components/Sounds/Coin Out 25.mp3" size="36398" crc="2315ce73" sha1="4c8744dc0363709c4940625bce040d9c3cbf49f2"/>
+		<rom name="Components/Sounds/Coin Out 26.mp3" size="44339" crc="b6562fad" sha1="05871d2cc886bea770035123af19d329d859f655"/>
+		<rom name="Components/Sounds/Coin Out 27.mp3" size="36816" crc="2da3abc7" sha1="934768ccecf5b813b110ba5bb6e41cd608163a66"/>
+		<rom name="Components/Sounds/Coin Out 28.mp3" size="36398" crc="dd4479bc" sha1="788292056ea2b86a700c201d984d3d5b8e806492"/>
+		<rom name="Components/Sounds/Coin Out 29.mp3" size="35144" crc="337fc539" sha1="1eb1449478397bf55769709883924494138e6025"/>
+		<rom name="Components/Sounds/Coin Out 3.mp3" size="71052" crc="837f04bb" sha1="b63a0aa9feeb311dcf210f581d3a94ae844b2b4d"/>
+		<rom name="Components/Sounds/Coin Out 4.mp3" size="71052" crc="a6717037" sha1="70d9b08f007bb75497bcc7b19ce155044a9ec186"/>
+		<rom name="Components/Sounds/Coin Out 5.mp3" size="37615" crc="58734f7e" sha1="f44fd5c02def271271414145d476eaf167d84fd5"/>
+		<rom name="Components/Sounds/Coin Out 6.mp3" size="39287" crc="d0d116cb" sha1="cd4d962ff3782b252594cd635ba2e2c6c71aab7b"/>
+		<rom name="Components/Sounds/Coin Out 7.mp3" size="36779" crc="fc241027" sha1="5681845d176f69fbd4af289e756a5a4cc8c5a2ad"/>
+		<rom name="Components/Sounds/Coin Out 8.mp3" size="36779" crc="c1d2e3f9" sha1="f3bcfa6c5c6e9ab969c2765c51f9243965fb488d"/>
+		<rom name="Components/Sounds/Coin Out 9.mp3" size="35943" crc="81d01f8a" sha1="0c08d08649df87c6073e5745604fdada33b6b2fd"/>
+		<rom name="Components/Sounds/rej1.mp3" size="56043" crc="a2c57516" sha1="67935e2972d26c8e0df0ee387ed6adfaa052d108"/>
+		<rom name="Components/Sounds/rej10.mp3" size="61896" crc="c3245ffb" sha1="e8f04fc3a5044e05da4c30b833214f17ddedca3d"/>
+		<rom name="Components/Sounds/rej11.mp3" size="53118" crc="ce0f5d3e" sha1="389cd92671fdf05c3b9094ef49ff2d6905a30627"/>
+		<rom name="Components/Sounds/rej12.mp3" size="38489" crc="c3ca02cc" sha1="64d9052390fc50c9f9a970a8f4f490cd92b77999"/>
+		<rom name="Components/Sounds/rej13.mp3" size="41832" crc="969fd351" sha1="7ebcfea37a719da06fd84c69ac854db51b623225"/>
+		<rom name="Components/Sounds/rej14.mp3" size="39743" crc="cf7b5529" sha1="e90510bb1793bdb8104f7ff657f14eb0ed7784f6"/>
+		<rom name="Components/Sounds/rej15.mp3" size="39325" crc="b72eb1c4" sha1="9b3209281db8febb46b3ae8ca7bf3eb52dd20489"/>
+		<rom name="Components/Sounds/rej16.mp3" size="38489" crc="de9ca512" sha1="9525a872bc8db8a02e30dd7422c6c297c5c98418"/>
+		<rom name="Components/Sounds/rej17.mp3" size="41832" crc="32aac16c" sha1="4708e3d0e365d4da112552b0d38f91337e4c09e1"/>
+		<rom name="Components/Sounds/rej18.mp3" size="34727" crc="2136001a" sha1="76ee3d17c64480ceeb8fdd0db4261811fbe7aa9b"/>
+		<rom name="Components/Sounds/rej19.mp3" size="33055" crc="6cc78b33" sha1="895cee38939be8e6904b21bf239097aa5f732102"/>
+		<rom name="Components/Sounds/rej2.mp3" size="56461" crc="8b1ea90b" sha1="b9be623d647b5ab14af6be3868d2e325763c140d"/>
+		<rom name="Components/Sounds/rej20.mp3" size="35563" crc="327b4e32" sha1="04b270a99ce86e4b2337ed1605ae67153d3e09d0"/>
+		<rom name="Components/Sounds/rej21.mp3" size="33891" crc="6186840c" sha1="bd32486f3dc03329941d954902a30c188e1350a4"/>
+		<rom name="Components/Sounds/rej22.mp3" size="34309" crc="c3797f2e" sha1="63d27557a197d9b944fe087828ae17590bbb823d"/>
+		<rom name="Components/Sounds/rej23.mp3" size="42668" crc="5a757473" sha1="9bb3b06c399233f60411378bf601f1438182d544"/>
+		<rom name="Components/Sounds/rej24.mp3" size="50610" crc="168011d7" sha1="e83e2a731efa50e4dbc13941af287df9447a3cc3"/>
+		<rom name="Components/Sounds/rej25.mp3" size="38489" crc="f52b0771" sha1="0d4ba094857a83373ef6d49268308c1e1d51b52d"/>
+		<rom name="Components/Sounds/rej26.mp3" size="38907" crc="9021da70" sha1="f93fc8f2ec5f29719ed9ab36bb7eb9bc14cf8250"/>
+		<rom name="Components/Sounds/rej27.mp3" size="34309" crc="a616efe2" sha1="da8d68fe1c70d65f998debb0558170d65c43acbe"/>
+		<rom name="Components/Sounds/rej28.mp3" size="39325" crc="ecb96d72" sha1="94095ae2ba2402ec2d8cb837456f8fce09e11ec5"/>
+		<rom name="Components/Sounds/rej29.mp3" size="79031" crc="178465bb" sha1="a7fedaea600c4bccf459065923f1b720d5b516c8"/>
+		<rom name="Components/Sounds/rej3.mp3" size="52699" crc="dba6cca9" sha1="728b0f63c04b9efc4df97fbe554c6a4daecf5f61"/>
+		<rom name="Components/Sounds/rej30.mp3" size="81957" crc="9d3a4c34" sha1="f66bd9f72da02c42b395a3c203bc875f871c92cb"/>
+		<rom name="Components/Sounds/rej4.mp3" size="56879" crc="7b3c7dbf" sha1="6229f9d05bbfeb0dcaa1d3c055c2cd5e1cf3c685"/>
+		<rom name="Components/Sounds/rej5.mp3" size="54789" crc="56288128" sha1="f0fb7327a36ef7f35bea0793490594a619a29132"/>
+		<rom name="Components/Sounds/rej6.mp3" size="50192" crc="04edc464" sha1="d0c0c03bb3c5d1c9674c96266e29ccd196b4b982"/>
+		<rom name="Components/Sounds/rej7.mp3" size="56043" crc="55abdbd1" sha1="5b428ac16ab0e91d88de32dd885c70015c93f589"/>
+		<rom name="Components/Sounds/rej8.mp3" size="53953" crc="de25e52a" sha1="90cd9604173a7c9d2824d1c8c92adda1013cfe45"/>
+		<rom name="Components/Sounds/rej9.mp3" size="59387" crc="4de5a15b" sha1="f97d1c0d63cac26bf7e1e56200bc9bddb7f13cdf"/>
+		<rom name="Current/1/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Current/2/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Current/3/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Current/4/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Current/5/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Current/6/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Current/7/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Current/8/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Export/0.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/1.wav" size="39964" crc="604af78f" sha1="d180b2bfac33e5a616a87c78d6e22c1559b5cc5a"/>
+		<rom name="Export/10.wav" size="955156" crc="402cb30e" sha1="1ee385b7c065618ac2b6c164de53aef98c0ab522"/>
+		<rom name="Export/100.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/101.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/102.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/103.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/104.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/105.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/106.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/107.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/108.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/109.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/11.wav" size="50004" crc="0b8e0ef4" sha1="106cc349ac9c2063aed7199c8b9820fad5e7e57f"/>
+		<rom name="Export/110.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/111.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/12.wav" size="44812" crc="71a0d457" sha1="7d728338b7ac2c837861a40db28beb66e9517985"/>
+		<rom name="Export/13.wav" size="51364" crc="ac9f9bb7" sha1="532950f91eacdd6a1dfc248ebb40047441835f72"/>
+		<rom name="Export/14.wav" size="51276" crc="8157a12c" sha1="3993bab639c378504ffd4be5f2b4498f04669604"/>
+		<rom name="Export/15.wav" size="51500" crc="8267bfd6" sha1="167edf85737aa4ed400b6d91c953823266c96121"/>
+		<rom name="Export/16.wav" size="51468" crc="8019a7b1" sha1="d0c78f9aa641b3cdee8fd7c670e018bcb3f81282"/>
+		<rom name="Export/17.wav" size="51116" crc="07bb8aa8" sha1="5ff80817c97da8fd3906811e4b5fdac526f57a50"/>
+		<rom name="Export/18.wav" size="51668" crc="ab8d1d84" sha1="f7ea3452c667490b8f26829b61b3dadba97ba972"/>
+		<rom name="Export/19.wav" size="19500" crc="957e53df" sha1="f14df81a60c142f1f55a20899253ff5a55a0e06a"/>
+		<rom name="Export/2.wav" size="35332" crc="e5c670be" sha1="6fc5a52a210e4f942d4ea6c7da3ac6d59623e387"/>
+		<rom name="Export/20.wav" size="235420" crc="497c4aa1" sha1="f459b6b4b16c20752facc90a5168eb96c37683f3"/>
+		<rom name="Export/21.wav" size="10324" crc="9efe88e5" sha1="62f783f043b14faa9525e61b56dc2747ca9c0288"/>
+		<rom name="Export/22.wav" size="10868" crc="51a1ded5" sha1="10b8613ea01fe9f8fa17ca4c5847542d0e533fee"/>
+		<rom name="Export/23.wav" size="10604" crc="fe105895" sha1="0450ea31ed3bef862ef888d21d27efa0edb4d074"/>
+		<rom name="Export/24.wav" size="10140" crc="aacbdebe" sha1="ce6314a08ece0338c9844bd704aa0dc4a9a9352c"/>
+		<rom name="Export/25.wav" size="10140" crc="08353814" sha1="8848b7d4c41858d81ea84dc32bb4bca2ff555331"/>
+		<rom name="Export/26.wav" size="10244" crc="fc5a52d8" sha1="e8a4a790aa8052550691e621a17c8c95e8841081"/>
+		<rom name="Export/27.wav" size="10340" crc="0549677e" sha1="991d73ebc6569e4aee6bb440340b976cabfefe14"/>
+		<rom name="Export/28.wav" size="10316" crc="de29b0fe" sha1="79879b16b8afdc4b1dde458ee4f21d0cc5ca12fa"/>
+		<rom name="Export/29.wav" size="10164" crc="c8d7e7fa" sha1="be61333c38d2d78ca3b586873c228b535436b28d"/>
+		<rom name="Export/3.wav" size="32100" crc="3ec7aa14" sha1="17d3518ea56d2b79925285d9146beb285efd8b14"/>
+		<rom name="Export/30.wav" size="9812" crc="7f602520" sha1="d9c728fee1613c83b9e482576fd17ef6eef6a593"/>
+		<rom name="Export/31.wav" size="19580" crc="326ef92b" sha1="8767acec02da5083e5199966ed2c5b2b573c9429"/>
+		<rom name="Export/32.wav" size="5028" crc="f316160e" sha1="5af42fa1a5a8174e1d62fca08bfc00765e9fd9c5"/>
+		<rom name="Export/33.wav" size="17236" crc="99dc0b87" sha1="77b43453c593c3c907fe4994681174e52e32e093"/>
+		<rom name="Export/34.wav" size="17236" crc="2045751a" sha1="9b22263f7d83cb4f3881a032bb23059f800cbd46"/>
+		<rom name="Export/35.wav" size="15252" crc="359e2926" sha1="972e2bf6aaae52f46c2383cfff3f8516c26c5d41"/>
+		<rom name="Export/36.wav" size="35884" crc="2e7e903a" sha1="cbefb707828e390f5d2be9b5d40630f4d75aec5c"/>
+		<rom name="Export/37.wav" size="25468" crc="61a8f83d" sha1="a7facfb0d9cbc04b6da9bb84fc57ecc1f1eabc3a"/>
+		<rom name="Export/38.wav" size="38580" crc="834a5c73" sha1="438e87a7389b867f1ccd62412d0852d4371631d2"/>
+		<rom name="Export/39.wav" size="39012" crc="1e5cade0" sha1="73c3fdacaa097a2f365629bef7e81118d4f87f36"/>
+		<rom name="Export/4.wav" size="29332" crc="cc94c541" sha1="7f0f288c017a05c28249b88d5e5a4f8b44ef8949"/>
+		<rom name="Export/40.wav" size="20860" crc="c13865ce" sha1="917c12e808523747f4321c47f98d9439c0a3d123"/>
+		<rom name="Export/41.wav" size="1908100" crc="4f7d8a86" sha1="b0ebe1a6ac4e320d5980d47d4127cb88082dca91"/>
+		<rom name="Export/42.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/43.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/44.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/45.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/46.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/47.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/48.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/49.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/5.wav" size="26588" crc="07a0b957" sha1="0aaf3091160ecda7bc144fbd11c5277a803cbb8e"/>
+		<rom name="Export/50.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/51.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/52.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/53.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/54.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/55.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/56.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/57.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/58.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/59.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/6.wav" size="24820" crc="a19c3c73" sha1="0bed5c10f803702d66b6434b80dd375989d4397c"/>
+		<rom name="Export/60.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/61.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/62.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/63.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/64.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/65.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/66.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/67.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/68.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/69.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/7.wav" size="22964" crc="d5e9a658" sha1="094141d8a7a8414ecf7d285171b4293dec29e546"/>
+		<rom name="Export/70.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/71.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/72.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/73.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/74.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/75.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/76.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/77.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/78.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/79.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/8.wav" size="22508" crc="54eacbf2" sha1="4c957744cac4a9243aab15bca73868403bbeda88"/>
+		<rom name="Export/80.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/81.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/82.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/83.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/84.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/85.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/86.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/87.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/88.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/89.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/9.wav" size="66852" crc="4b7f9007" sha1="f8936742a8bde8c084c3b85da85d0ebc1bd544b4"/>
+		<rom name="Export/90.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/91.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/92.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/93.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/94.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/95.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/96.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/97.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/98.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Export/99.wav" size="52" crc="36304424" sha1="69357ae323549db9ecd3335d29ee14ac4a4de7c1"/>
+		<rom name="Import/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Libraries/Graphics/Barcrest/General/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Libraries/Graphics/BWB/General/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Libraries/Graphics/CatFile.pal" size="293" crc="f9750996" sha1="eff895dee23baf91a51c29915cc905ef8b569308"/>
+		<rom name="Libraries/Graphics/CoinWorld/General/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Libraries/Graphics/Crystal/General/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Libraries/Layouts/2p Unlimited.pad" size="2250593" crc="2c87c86d" sha1="bc87d63d910b7e9f90bcf5659eba9e61888b68ce"/>
+		<rom name="Libraries/Layouts/Adders and Ladders.pad" size="2179171" crc="0a7b7aae" sha1="533de7f809a65d5c7ec13d2d2e0a79533f4c8214"/>
+		<rom name="Libraries/Layouts/Aladdin.pad" size="18557788" crc="1a357013" sha1="fea812e6127d9e704bf53020765a552f652e8571"/>
+		<rom name="Libraries/Layouts/Along The Prom.pad" size="2432790" crc="cbc0d7c1" sha1="1b7ac87b46c60763215419ca876015c8ab54860a"/>
+		<rom name="Libraries/Layouts/Andy Capp.pad" size="2499634" crc="89e34299" sha1="d9a134874c54f1c273f42c0439a0931f1abb39d2"/>
+		<rom name="Libraries/Layouts/AndyCapp2.pad" size="4328993" crc="4b264051" sha1="fef444786338a6813bc7ac9604da978c5ef3c859"/>
+		<rom name="Libraries/Layouts/Big Ghoulies.pad" size="2782772" crc="a6cf33fa" sha1="bc9ee865ef601064d96dd020cc2b471c9ed50167"/>
+		<rom name="Libraries/Layouts/BigBreakfastAWP.pad" size="2776944" crc="39cf54f3" sha1="febda63eb78884df6d8b362db162931f0d7b4697"/>
+		<rom name="Libraries/Layouts/BigBreakfastCasino.pad" size="1614488" crc="d2306e20" sha1="fa5ab85366af398612dea4b9ee264e13e92bb982"/>
+		<rom name="Libraries/Layouts/Blackjack Club.pad" size="2977576" crc="004b689a" sha1="4cda3d8a84fea8ea93555870f099c1549dfcaa8f"/>
+		<rom name="Libraries/Layouts/Blue Moon.pad" size="1947927" crc="1320a768" sha1="9b3bab2c2176ab512912c3488e9aef9ac7736aaa"/>
+		<rom name="Libraries/Layouts/Cashlab.pad" size="8165267" crc="0b242b3f" sha1="5237cb6eae6538343df2a3d0f59a47a7d5ebb616"/>
+		<rom name="Libraries/Layouts/Club Cops N Robbers.pad" size="3032326" crc="0f6c74a3" sha1="b7ef33b6f8d17f1388c8d9f063275a49dd0f4e8b"/>
+		<rom name="Libraries/Layouts/CluedoSuperSleuth.pad" size="5073514" crc="439995eb" sha1="130bac340b4eb4fb4d17ba0357f23e81b8db6d1b"/>
+		<rom name="Libraries/Layouts/Cops &apos;n&apos; Robbers Sys83.pad" size="3871335" crc="5e5c8700" sha1="fc0b48bab8a219272f832a5b8a6d881d20fbc7a9"/>
+		<rom name="Libraries/Layouts/Cops_n_Robbers.pad" size="2388958" crc="2a0a734e" sha1="08d067030121d96ac826586c97e0e37f6e497116"/>
+		<rom name="Libraries/Layouts/Coronation Street.pad" size="2361470" crc="87215820" sha1="a0b0f4ac3fac848563912a15e5929496a15794c9"/>
+		<rom name="Libraries/Layouts/Crackpot Club.pad" size="3594467" crc="cbd39644" sha1="b93377e455a758cb117e2efb8cb11b09b25326df"/>
+		<rom name="Libraries/Layouts/Dells Millions.pad" size="2593513" crc="1f579d05" sha1="2de9f560c4837e80d7eade15b534d270d180b0b2"/>
+		<rom name="Libraries/Layouts/Deluxe Monopoly.pad" size="2082445" crc="82b9365d" sha1="8b8b418ec4f8da3b997011ecf61ce8563d11f304"/>
+		<rom name="Libraries/Layouts/ding dong bells.pad" size="2122918" crc="7a81ebb4" sha1="47c0afd42feeea5068d436518574436afb7c86d6"/>
+		<rom name="Libraries/Layouts/Dr Who.pad" size="2860568" crc="29db5c2f" sha1="ada8965a9e7713738b63d2862a08505770983702"/>
+		<rom name="Libraries/Layouts/Eastenders.pad" size="2218215" crc="430704df" sha1="02c113926bebc6bf6acdcd837079d7004e1ce9e2"/>
+		<rom name="Libraries/Layouts/Easy Money.pad" size="13501646" crc="83e51be9" sha1="dc61d693a940a066b02ba0da37e9f2570e9bbb97"/>
+		<rom name="Libraries/Layouts/FranknStein.pad" size="2532511" crc="a4701988" sha1="a9d7da518be44947fca06d1447fa8bbd3979d18e"/>
+		<rom name="Libraries/Layouts/Gladiators.pad" size="2166643" crc="cbe9f911" sha1="a30e6041e6cb95c4f2661331cab97c905c5cd96d"/>
+		<rom name="Libraries/Layouts/HBIYR.pad" size="5859828" crc="cf0192d7" sha1="af10ebd006cae8cb69da96cc13492dccf1ecf03b"/>
+		<rom name="Libraries/Layouts/hbiyr5r.pad" size="5937188" crc="bfd73117" sha1="692bfc62c1e7d25ea52d80c24c36a6f76ca330e5"/>
+		<rom name="Libraries/Layouts/Hot Rod.pad" size="2868493" crc="bc09c360" sha1="0f781f9784691b16deae70a2a18931f5272cb5a6"/>
+		<rom name="Libraries/Layouts/Jewel in the crown.pad" size="1465026" crc="c4392e05" sha1="b9f76eaf984fb69c910baaa362cb40791601f503"/>
+		<rom name="Libraries/Layouts/Lotty Time.pad" size="2657540" crc="2918effe" sha1="fafa9abc97b05ff20067cebc2f0d9e81a6b4fe8a"/>
+		<rom name="Libraries/Layouts/Lucky Strike.pad" size="3260978" crc="f6ec63e5" sha1="ee0871c71556c95ebba003f256a50eec94234ac3"/>
+		<rom name="Libraries/Layouts/Monte Carlo.pad" size="2688137" crc="7ba8d20f" sha1="fdfd530458a9916c2bcde5f80da9ef27c3bf519a"/>
+		<rom name="Libraries/Layouts/Nickelodeon.pad" size="1638980" crc="e1eae4a8" sha1="058ae0c8e357bd1ba9b614f29be50ea43e7b6ae5"/>
+		<rom name="Libraries/Layouts/Nudge Nudge.pad" size="1273494" crc="c2e2ab53" sha1="82ffeeb711dea4768690652d94f65aadcb6b9182"/>
+		<rom name="Libraries/Layouts/Only Fool and Horses.pad" size="2507727" crc="494f88e1" sha1="6ce89177621a54483748a0677c180f6ef9bf772e"/>
+		<rom name="Libraries/Layouts/Party Time.pad" size="1857814" crc="980f358a" sha1="60ba7a5d2ef646a858e2473f2187893ea0975fe2"/>
+		<rom name="Libraries/Layouts/Place Your Bets.pad" size="1776529" crc="171ba447" sha1="393a22491cda3eec1c6530bcea4a8f178643d758"/>
+		<rom name="Libraries/Layouts/Pure Madness.pad" size="2159687" crc="1fad554f" sha1="51c5ed8c5becbdfcf46fdb02251eb75eed3bda4a"/>
+		<rom name="Libraries/Layouts/Red Hot Fever.pad" size="30532706" crc="385d062d" sha1="aee239b6dbebf1a79eea4b73cd9f7f83b69406e5"/>
+		<rom name="Libraries/Layouts/Red Hot Roll.pad" size="1810288" crc="7dede075" sha1="c09661939d0ffb2a4db943695a03c1e1bcf6e9bd"/>
+		<rom name="Libraries/Layouts/Road Hog.pad" size="3658726" crc="086b40b1" sha1="a9276b47b83b44666883b9d8ccee085392736052"/>
+		<rom name="Libraries/Layouts/Rock n Roll.pad" size="1667453" crc="e03022c1" sha1="be7672b9871b1ffbbd210144a6266aacd63ab46b"/>
+		<rom name="Libraries/Layouts/Rotex.pad" size="1918891" crc="fd3bf39f" sha1="ba21e54c5480ab026eb130b9a672a6096ff6dc0c"/>
+		<rom name="Libraries/Layouts/Showtime.pad" size="2403356" crc="e65d1ee9" sha1="9fe4a6a095a38d71c36c527e28c9a74200879e4a"/>
+		<rom name="Libraries/Layouts/Smash &amp; Grab.pad" size="2315748" crc="dd1e873e" sha1="63df3c8781f1810f1455e2d259279b6b41c2d3e2"/>
+		<rom name="Libraries/Layouts/Spotted_DicK.pad" size="3604267" crc="3d931474" sha1="f47ffbd3f0e27f8b9a513259d19b32b602b2b0f3"/>
+		<rom name="Libraries/Layouts/Stake X.pad" size="1180058" crc="f1757708" sha1="7903d662d191d6e32040d5201da5ace26ab12359"/>
+		<rom name="Libraries/Layouts/Supa Fruits.pad" size="1920954" crc="0c848c50" sha1="5b3883743fdcbd19d056f638f5d1713d215de5d5"/>
+		<rom name="Libraries/Layouts/Super Streak.pad" size="2204550" crc="cd77a410" sha1="2f01d7f3cb5dc77912d3b623cb5158327b4d3aab"/>
+		<rom name="Libraries/Layouts/Super2.pad" size="1936590" crc="c9303c7e" sha1="2914db4664ff51b4feb761c31150973ab2a8cc0e"/>
+		<rom name="Libraries/Layouts/SuperMultiNudge.pad" size="1864834" crc="84b67247" sha1="9b6143f2e9f84407670fc295c9b978f1b7558b90"/>
+		<rom name="Libraries/Layouts/The Blues Boys.pad" size="8149698" crc="c81313ef" sha1="2efa42d0d725d5d41e06d35d17889bc61a65c9b0"/>
+		<rom name="Libraries/Layouts/The Great Escape.pad" size="2763704" crc="a9be0fbb" sha1="c308affca1a3f4a96a3283ac5165ba2b690b97c5"/>
+		<rom name="Libraries/Layouts/Top Tenner.pad" size="12421829" crc="d8082132" sha1="82394544ad686f042b90d1a527e45f7b5ea7dd97"/>
+		<rom name="Libraries/Layouts/Triple Madness.pad" size="2045202" crc="fa204e11" sha1="2e47fafa1344b62991acdf469285bd9284c3d1a2"/>
+		<rom name="Libraries/Layouts/Winning Streak.pad" size="2571584" crc="00e10d8f" sha1="fc4337a9622d004adbcdbd9eea3bbff002e06f2c"/>
+		<rom name="Libraries/Layouts/XChange.pad" size="2017467" crc="34ff1a2f" sha1="429a86c67ebcc26be608b3e2284e24b63be6bbbb"/>
+		<rom name="Libraries/ROMs/1b.bin" size="8192" crc="980e4e38" sha1="0e1db8ec5ba21c97351e91e09e6daaeea7391f07"/>
+		<rom name="Libraries/ROMs/2b.bin" size="8192" crc="8b407449" sha1="99ab60a3acde4f5f785d33d1266d5dd28b43665e"/>
+		<rom name="Libraries/ROMs/2pun0-0.bin" size="131072" crc="f8fd7b92" sha1="400a66d0b401b2df2e2fb0f70eae6da7e547a50b"/>
+		<rom name="Libraries/ROMs/3b.bin" size="8192" crc="72c2735a" sha1="afedc6bd0e270d0f40da3ae01b57698767fdb212"/>
+		<rom name="Libraries/ROMs/4b.bin" size="8192" crc="92d9c12f" sha1="e62646af5d4d53bf418629a29037c5a3df6304f7"/>
+		<rom name="Libraries/ROMs/9350.bin" size="131072" crc="7fc13c4a" sha1="a260914f04ea05ac9e9fbf53d914f54a3e84b3ee"/>
+		<rom name="Libraries/ROMs/9351.bin" size="131072" crc="4f688da3" sha1="0abb33b3783a73ddd5f1677bf84075682da09bcf"/>
+		<rom name="Libraries/ROMs/95000569.P1" size="65536" crc="64014f73" sha1="67d44db91944738fcadc38bfd0d2b7c0536adb9a"/>
+		<rom name="Libraries/ROMs/95717109_var%_A.BIN" size="32768" crc="f8b03a06" sha1="b919366b432d23fd9f0c986e112650048621d7b2"/>
+		<rom name="Libraries/ROMs/95717110_var%_B.BIN" size="32768" crc="1c2ebd26" sha1="462baa4df7c01d101798df1d90bb5719cdc9647e"/>
+		<rom name="Libraries/ROMs/95750288.P1" size="65536" crc="fe95b5a5" sha1="876a812f69903fd99f896b35eeaf132c215b0035"/>
+		<rom name="Libraries/ROMs/95751987.P1" size="65536" crc="73e358fe" sha1="d7a9d048473852f889ec7aeee5141ab710d18009"/>
+		<rom name="Libraries/ROMs/a6ls.p1" size="65536" crc="9f97f57b" sha1="402d1518bb78fdc489b06c2aabc771e5ce151847"/>
+		<rom name="Libraries/ROMs/AcappGREATescape5p4pound.BIN" size="65536" crc="87733a0d" sha1="6e2fc0f43eb48740b120af77302f1322a27e8a5a"/>
+		<rom name="Libraries/ROMs/alladinscavesnd.bin" size="524288" crc="e3831190" sha1="3dd0e8beafb628f5138a6943518b477095ac2e56"/>
+		<rom name="Libraries/ROMs/alongtheprom.bin" size="65536" crc="0f212ba9" sha1="34dfe67f8cbdf1cba806dcc7a3e872a8b59747d3"/>
+		<rom name="Libraries/ROMs/alongthepromdot.bin" size="65536" crc="b5a96f4d" sha1="716dda738e8437b13cb72a6b071e0898abceb647"/>
+		<rom name="Libraries/ROMs/alongthepromsnd.bin" size="262144" crc="380f56af" sha1="9125c09e6585e6f4a2de9ea8715371662245aa9a"/>
+		<rom name="Libraries/ROMs/an2snd.p1" size="524288" crc="5394e9ae" sha1="86ccd8531fc87f34d3c5482ba7e5a2c06ea69491"/>
+		<rom name="Libraries/ROMs/an2snd.p2" size="524288" crc="109ace1f" sha1="9f0e8065186beb61ed50fea834de2d91e68db953"/>
+		<rom name="Libraries/ROMs/andk.p1" size="65536" crc="08e6d20f" sha1="f66207f69bf417e9380ecc8bd2ba73c6f3d55150"/>
+		<rom name="Libraries/ROMs/andsnd.p1" size="524288" crc="7d568671" sha1="3a0a6af3dc980f2ccff0b6ef85833eb2e352031a"/>
+		<rom name="Libraries/ROMs/andsnd.p2" size="524288" crc="98a586ee" sha1="94b94d198725e8174e14873b99afa19217a1d4fa"/>
+		<rom name="Libraries/ROMs/BBSnd1.bin" size="524288" crc="715c9e95" sha1="6a0c9c63e56cfc21bf77cf29c1b844b8e0844c1e"/>
+		<rom name="Libraries/ROMs/BBSnd2.bin" size="524288" crc="594a87f8" sha1="edfef7d08fab41fb5814c92930f08a565371eae1"/>
+		<rom name="Libraries/ROMs/bg39.bin" size="131072" crc="17889402" sha1="3779e6f5ac7c2916e5e1af3a21af23a3b8923ef1"/>
+		<rom name="Libraries/ROMs/bgsnd1.bin" size="524288" crc="c0b13b6d" sha1="d923cc71f9693a9321f984f51bd8f148cec1ac78"/>
+		<rom name="Libraries/ROMs/bgsnd2.bin" size="524288" crc="1e19908b" sha1="5d88e86798121d3355952daa3218925a00ef32fa"/>
+		<rom name="Libraries/ROMs/big-breakfast_std_ar_var_a.bin" size="65536" crc="5f016daa" sha1="25ee10138bddf453588e3c458268533a88a51217"/>
+		<rom name="Libraries/ROMs/bigbreakfastsnd.bin" size="524288" crc="bf91aa2b" sha1="40942165e65ff9b027015d500e5a9726c44ba1c5"/>
+		<rom name="Libraries/ROMs/blm20p-6" size="65536" crc="4b9f83cf" sha1="7014da9f7fc20443251dd5b2817f06a4ef862afd"/>
+		<rom name="Libraries/ROMs/BLU23.BIN" size="65536" crc="499d41c7" sha1="1a741cf2c6ed6910717324ca2b0a2630338479e0"/>
+		<rom name="Libraries/ROMs/bluesboys8tok.bin" size="131072" crc="d03ef955" sha1="03fa4b3b37b71fb61439200d5dd65dab846abc2c"/>
+		<rom name="Libraries/ROMs/bmoon.hex" size="65536" crc="109aa258" sha1="88820b1090ce6b6538b4ca0428c02979535895c3"/>
+		<rom name="Libraries/ROMs/bs_05___.3v1" size="131072" crc="26e8eb95" sha1="7d8dbca127e1867714cbeb9d699b2173de724eb2"/>
+		<rom name="Libraries/ROMs/bs_x6s__.2v1" size="131072" crc="61d782b5" sha1="70ca3875ff023fc091a6fe6e002fad662dbd639f"/>
+		<rom name="Libraries/ROMs/C2js.hex" size="65536" crc="3e6dd1f3" sha1="dbd87368124244931b8868eb740b02a1775ed734"/>
+		<rom name="Libraries/ROMs/Casino Big Breakfast Sound 95 004 051.BIN" size="524288" crc="1051821e" sha1="80ade5c5b8208745a036476980c9e7c3211e5dbc"/>
+		<rom name="Libraries/ROMs/cjesnd.p1" size="524288" crc="a2f20c95" sha1="874b22850732514a26448cee8e0b68f8d042a7c7"/>
+		<rom name="Libraries/ROMs/cjesnd.p2" size="524288" crc="3dcb7c38" sha1="3c0e91f4d2ea9e6b25a01702c6f6fdc7cc2e0b65"/>
+		<rom name="Libraries/ROMs/cop200.hex" size="65536" crc="db5a287e" sha1="5615480767348061b7f08a709a16aa0b9cf0658e"/>
+		<rom name="Libraries/ROMs/Cops-And-Robbers_MTX_A.BIN" size="65536" crc="bdd56a09" sha1="92d0416578c55075a127f1c2af8d6de5216dd189"/>
+		<rom name="Libraries/ROMs/Cops-And-Robbers_STD_AC_10PND_A.BIN" size="65536" crc="2a74bf68" sha1="e6d0cf5c26815184d74bc2b1769d13321ce5e33a"/>
+		<rom name="Libraries/ROMs/cops.p1" size="8192" crc="865014f3" sha1="f1661500edf3167cd06c2248effe506bf34cb59b"/>
+		<rom name="Libraries/ROMs/cops.p2" size="8192" crc="ab4f14fb" sha1="56bc6aa45aeb680fbd17a0c6d1bc73523cf70588"/>
+		<rom name="Libraries/ROMs/cops.p3" size="8192" crc="981d76e4" sha1="18600f98d20c0d501609bafc78af8cbc366b02c7"/>
+		<rom name="Libraries/ROMs/cops.p4" size="8192" crc="ce573b35" sha1="f2ba22f0d55f882dd91b37e80e4bb14effd9113a"/>
+		<rom name="Libraries/ROMs/copsnrobbers.bin" size="524288" crc="04ebfc07" sha1="3c8e9f0e47f3b9b4d787dcd576e11a9b4a71757e"/>
+		<rom name="Libraries/ROMs/CoronationStProm.P1.BIN" size="65536" crc="66f06d18" sha1="fd14b09280815c03126d113e6be791a20483aae9"/>
+		<rom name="Libraries/ROMs/Coronationstsnd.P1.BIN" size="524288" crc="9489c9cd" sha1="1a858b2a6f41898bbf95611e9f13d668c8a05c9c"/>
+		<rom name="Libraries/ROMs/Coronationstsnd.P2.BIN" size="524288" crc="cf17088e" sha1="54c9a52ccdd1ca622367367e1304fe4e4037b0b9"/>
+		<rom name="Libraries/ROMs/CP38JP1.BIN" size="16384" crc="0b0794f3" sha1="7a039c26dd7e3c0fe22c1da5f07167378a3eb2ca"/>
+		<rom name="Libraries/ROMs/CP38JP2.BIN" size="16384" crc="5e70192e" sha1="840418f2de02876700fe4865745a66a45694114e"/>
+		<rom name="Libraries/ROMs/CP38JP3.BIN" size="8192" crc="54b85efc" sha1="7750ef653afd44ce5fbd67f0622688b92fcf22e5"/>
+		<rom name="Libraries/ROMs/cr__x__x.5_0" size="65536" crc="278fe91e" sha1="dcfed3a7796d1ee365e535115b66c7d6cbe0ab74"/>
+		<rom name="Libraries/ROMs/crsnd2.bin" size="262144" crc="b5ba009d" sha1="806b1d739fbf00b7e55ed0b8056440e47bfba87a"/>
+		<rom name="Libraries/ROMs/ctnsnd.hex" size="524288" crc="150a4513" sha1="97147e11b49d18225c527d8a0926118a83ee906c"/>
+		<rom name="Libraries/ROMs/db51.p1.bin" size="32768" crc="d89c80cb" sha1="88f5e39cef0448628b21a4f283008e8df2d66814"/>
+		<rom name="Libraries/ROMs/ddb3_1.bin" size="65536" crc="3b2da727" sha1="8a677be3b82464d1bf1e97d22adad3b27374079f"/>
+		<rom name="Libraries/ROMs/ddbsound1.bin" size="524288" crc="4dd14381" sha1="cc72ab711e2fcdd9fd9aa798be24177070763542"/>
+		<rom name="Libraries/ROMs/ddbsound2.bin" size="524288" crc="b61ebcee" sha1="ada3b26002ec9d11ff824c562208934e52b9789e"/>
+		<rom name="Libraries/ROMs/delmonopolysound.bin" size="262144" crc="8742981e" sha1="1ba33c59ec5f878ebab111a77551213aad4b0993"/>
+		<rom name="Libraries/ROMs/delsmillions.bin" size="65536" crc="58f87c90" sha1="a6dcdf1edc7620226d89c907a5910c4a4b2d4190"/>
+		<rom name="Libraries/ROMs/dmsnd.bin" size="524288" crc="0a68550b" sha1="82a4a8d2a754a59da553b3568df870107e33f978"/>
+		<rom name="Libraries/ROMs/EastEnders(Maygay)ProgramSA4-037.BIN" size="65536" crc="8d30542e" sha1="fd95f78efac76a496a10129b704176c3c30d28bb"/>
+		<rom name="Libraries/ROMs/EastEnders(Maygay)Sound-1.BIN" size="524288" crc="3eaa138c" sha1="ad7d6e3ffc8fe19ea8cb9188998c75c90a77e09e"/>
+		<rom name="Libraries/ROMs/EastEnders(Maygay)Sound-2.BIN" size="524288" crc="89fde428" sha1="f0942a2f1d3890ad18b01e8433333e5412c57644"/>
+		<rom name="Libraries/ROMs/easy-money_snd.bin" size="524288" crc="56d224c5" sha1="43b81a1a9a7d30ef7bfb2bbc61e3106faa927778"/>
+		<rom name="Libraries/ROMs/easy-money_std_ac_var_8-10pnd_ass.bin" size="65536" crc="e9f581ca" sha1="aee8a1af609921a0b33db7b460e4a58517bf9276"/>
+		<rom name="Libraries/ROMs/ec_sja__.a_0" size="131072" crc="1f923f89" sha1="84486287d55591c7e81c59a10e8cc722ec21e8f9"/>
+		<rom name="Libraries/ROMs/ei15ng.bin" size="65536" crc="c6142523" sha1="b4101b14bbfa4e2b0b94c40b1ca17d484e3cf21d"/>
+		<rom name="Libraries/ROMs/ei15ngp.bin" size="65536" crc="d8c9fcf2" sha1="11d3a8fc515348c72b827675991b8e990f04f8f0"/>
+		<rom name="Libraries/ROMs/ei15og.bin" size="65536" crc="5bd857d5" sha1="f673dd7676aa07cb99af9af3721067455a6af889"/>
+		<rom name="Libraries/ROMs/ei15ogp.bin" size="65536" crc="45058e04" sha1="1210502e23d6958860a4d5acd80ba5874d5979c2"/>
+		<rom name="Libraries/ROMs/ei26cng.bin" size="65536" crc="5c65c8e4" sha1="ec0cb3f306fdfc43b15fc15fa6e75dbe05d6851f"/>
+		<rom name="Libraries/ROMs/ei26cngp.bin" size="65536" crc="42b81135" sha1="1d1500153a1ef2a2f1282f91ee0f371039852768"/>
+		<rom name="Libraries/ROMs/eiv35ng.bin" size="65536" crc="fc2fbedc" sha1="af6840359e7721d035ada99839d5f80ed579f7df"/>
+		<rom name="Libraries/ROMs/eiv35ogp.bin" size="65536" crc="e982cdef" sha1="1b8d7f6bb7bcbbf80a90a8d54a27b12d9d8fa24e"/>
+		<rom name="Libraries/ROMs/eiv36ngp.bin" size="65536" crc="e2f2670d" sha1="c4b5a0c29ff5ca33a9db198c440f8e69b1e0175e"/>
+		<rom name="Libraries/ROMs/eiv36og.bin" size="65536" crc="f75f143e" sha1="416708ce11c10134fa63f36a53e211480939f453"/>
+		<rom name="Libraries/ROMs/franknsteinsnd.p1.bin" size="262144" crc="2d77bbde" sha1="0397ede538e913dc2972e260589022564fcd8fe4"/>
+		<rom name="Libraries/ROMs/franknsteinsnd.p2.bin" size="262144" crc="2d77bbde" sha1="0397ede538e913dc2972e260589022564fcd8fe4"/>
+		<rom name="Libraries/ROMs/ge5p810.bin" size="131072" crc="67cb37b9" sha1="48ef081a52400afd533909eacf8872f094b98049"/>
+		<rom name="Libraries/ROMs/geprog" size="131072" crc="f3c2bdd4" sha1="9c71b6ef179f7c059715d9a7005cc36e07d8854b"/>
+		<rom name="Libraries/ROMs/Gladiators(Maygay)Sound.p1" size="524288" crc="ab0ef8aa" sha1="e9cd8c7c0fd0bec44d0531eff6272aa10b88b08c"/>
+		<rom name="Libraries/ROMs/Gladiators(Maygay)Sound.p2" size="524288" crc="44c05fb6" sha1="8d40d62d7c55224ddca8ff2f90779d5fad2af3ba"/>
+		<rom name="Libraries/ROMs/Gladiators(Maygay)v2-1.ROM" size="65536" crc="3abab0d2" sha1="749f6cb8ef7c2ef9c9634ce59719406eb0c89744"/>
+		<rom name="Libraries/ROMs/Global-HBIYR_SND.bin" size="1048576" crc="96cc0d54" sha1="612f8c7f353bb847c1a28e2b76b64916d5b2d36a"/>
+		<rom name="Libraries/ROMs/global-spotted-dick_snd.bin" size="1048576" crc="f2c66aab" sha1="6fe94a193779c91711588365591cf42d197cb7b9"/>
+		<rom name="Libraries/ROMs/greatescape.p1" size="524288" crc="a7e0a7a8" sha1="f65171d72a6add5ebc903aac18b426d91134a492"/>
+		<rom name="Libraries/ROMs/greatescape.p2" size="524288" crc="61de5e0f" sha1="26ca6786de4da1e9c48de47887ed6e3e7e3a108b"/>
+		<rom name="Libraries/ROMs/gtesc55" size="131072" crc="96042c55" sha1="e54c8d323d3bc845ed270f4325741fb7bf31f55e"/>
+		<rom name="Libraries/ROMs/hb151-6n.p1" size="65536" crc="982de54a" sha1="20e65e163f0455d683eb47ac37bc1e3355548c9a"/>
+		<rom name="Libraries/ROMs/hb151-6p.p1" size="65536" crc="c9063e3c" sha1="e47765ff56abb8d25c559cc5ebbe679ca40c498b"/>
+		<rom name="Libraries/ROMs/jewelinthecrowno8.bin" size="131072" crc="5f3b72b7" sha1="8faf0de0282a67c88170c13856b8816c38396e19"/>
+		<rom name="Libraries/ROMs/lottytime.bin" size="65536" crc="c032c422" sha1="37c6e10c1fa1cab3de7b4d27ed027604ecea4394"/>
+		<rom name="Libraries/ROMs/lottytimesnd.bin" size="524288" crc="e1966300" sha1="2a69e39310b49c685bc4307e0396a3b9a0849472"/>
+		<rom name="Libraries/ROMs/LSgame.bin" size="131072" crc="089c1ad7" sha1="bcfacbeaf1845d91f18c6f57bf166c82469cb460"/>
+		<rom name="Libraries/ROMs/LSsnd1.bin" size="524288" crc="401686bc" sha1="ab62e6e097b0af2f68ae7f8f686f00cede5ec3aa"/>
+		<rom name="Libraries/ROMs/LSsnd2.bin" size="524288" crc="d9e0c0db" sha1="3eba5b19ca98d23a94edf2be27ccefaa0e526a56"/>
+		<rom name="Libraries/ROMs/monodx8.bin" size="65536" crc="4d6101a3" sha1="86f9bde8aec67566b7b58fec8f01f09878773dc1"/>
+		<rom name="Libraries/ROMs/msa02228.g0" size="131072" crc="a7dabdeb" sha1="a23971e65d1327fbed396b0e0fccfcc6f7268a4f"/>
+		<rom name="Libraries/ROMs/msa02228.g1" size="131072" crc="3b6e9c54" sha1="ddfe5b8d373e23aa45948a52dd1641be0ce42122"/>
+		<rom name="Libraries/ROMs/msa02228.g2" size="131072" crc="044b956b" sha1="402b9f1a9895c5c4a4c08a8611a4e1bb6fe2301c"/>
+		<rom name="Libraries/ROMs/msa02228.g3" size="131072" crc="e0468eb6" sha1="3c03ab66a2c76940f5be8eeb20ebcfa6b9c0da71"/>
+		<rom name="Libraries/ROMs/msa02229.g0" size="131072" crc="6dcc03dd" sha1="eb6cbdf7da075a43ff8f80ead41e8e4850ed8fcb"/>
+		<rom name="Libraries/ROMs/msa02229.g1" size="131072" crc="36ed039b" sha1="5da0af2e42bec0f00b5a8ab457ea521b06bd5377"/>
+		<rom name="Libraries/ROMs/msa02229.g2" size="131072" crc="044b956b" sha1="402b9f1a9895c5c4a4c08a8611a4e1bb6fe2301c"/>
+		<rom name="Libraries/ROMs/msa02229.g3" size="131072" crc="e0468eb6" sha1="3c03ab66a2c76940f5be8eeb20ebcfa6b9c0da71"/>
+		<rom name="Libraries/ROMs/NILC.P1" size="65536" crc="8e612b50" sha1="a33142ca3988e449ae94978946ed0f171c52c5fa"/>
+		<rom name="Libraries/ROMs/nmns.p1" size="65536" crc="48e2ab70" sha1="bc452a36374a6e62516aad1a4887876ee9da37f7"/>
+		<rom name="Libraries/ROMs/nnus.p1" size="65536" crc="3e3a829e" sha1="5aa3a56e007bad4dacdc3c993c87569e4250eecd"/>
+		<rom name="Libraries/ROMs/onlyfools_snd.bin" size="524288" crc="c073bb0c" sha1="54b3df8c8d814af1fbb662834739a32a693fc7ee"/>
+		<rom name="Libraries/ROMs/onlyfoolsnhorses_std.bin" size="65536" crc="03cc611a" sha1="e37d6b87017a52f8de339bbd69b2ccbff9872fae"/>
+		<rom name="Libraries/ROMs/onlyfoolsnhorsesdotmatrix.bin" size="65536" crc="521611f7" sha1="08cdc9f7434657151d90fcfd26ce4668477c2998"/>
+		<rom name="Libraries/ROMs/PARTYTIMEDOT.BIN" size="65536" crc="8a09b858" sha1="bc932bebc7718da2b97e5f6ef06eb739748353f4"/>
+		<rom name="Libraries/ROMs/PARTYTIMEGAME.bin" size="65536" crc="20ef430c" sha1="b5d35704da425e7ca84500071f34b4d65d87b9fa"/>
+		<rom name="Libraries/ROMs/PARTYTIMESND1.BIN" size="131072" crc="b5a5cc9e" sha1="c9b132ad0d1ce9ff6b56ebde89d5006a5cf7dff6"/>
+		<rom name="Libraries/ROMs/pmad.p1" size="65536" crc="e430510b" sha1="bb8d443429aa7d39a99de5cd1387154398b74d9c"/>
+		<rom name="Libraries/ROMs/pmadsnd.bin" size="524288" crc="88312507" sha1="64e386c3c9b3f82a390777b61c7207567cc962e7"/>
+		<rom name="Libraries/ROMs/PYB06S.P1" size="131072" crc="acd9d628" sha1="93d8f0ffa3b9ebdd9fef39b2bc49bb85b2fac00f"/>
+		<rom name="Libraries/ROMs/PYBSND.P1" size="524288" crc="3a91784a" sha1="7297ccec3264aa9f1e7b3a2841f5f8a1e4ca6c54"/>
+		<rom name="Libraries/ROMs/PYBSND.P2" size="524288" crc="a82f0096" sha1="45b6b5a2ae06b45add9cdbb9f5e6f834687b4902"/>
+		<rom name="Libraries/ROMs/rdhogvkn" size="65536" crc="3db03ada" sha1="9b26f466c1dc1d03edacf64cbe507e084edf5f90"/>
+		<rom name="Libraries/ROMs/RF.P1" size="524288" crc="ac8d539d" sha1="8baf14bece50774f93ae9eaf3effabb6882d2c43"/>
+		<rom name="Libraries/ROMs/RF.P2" size="524288" crc="cc2fadd8" sha1="681850e2e6164cf8af8e7501ac44f475cc07b742"/>
+		<rom name="Libraries/ROMs/RF.P3" size="524288" crc="165aaf9f" sha1="815224fe94a77628cef1dd0d8a238edcb4813006"/>
+		<rom name="Libraries/ROMs/RF.P4" size="524288" crc="4f7e7b49" sha1="f9d421eeab73e0c795a08cf166c8807e0b14ec82"/>
+		<rom name="Libraries/ROMs/rh5p8.bin" size="65536" crc="35d56379" sha1="ab70ef8151823c3157cf4cc4f9b29875c6ac81cc"/>
+		<rom name="Libraries/ROMs/rh8c.p1" size="65536" crc="e36d7ca0" sha1="73970761c5c7004669b02ba9f3a299f36f2d00e9"/>
+		<rom name="Libraries/ROMs/RHFever15" size="262144" crc="c2b936d3" sha1="a3d79bea69b9bcc90237880a0eea5d751b5b2aec"/>
+		<rom name="Libraries/ROMs/rhm.chr" size="72" crc="e8417c98" sha1="460c43327b41c95b7d091c04dbc9ce7b2e4773f6"/>
+		<rom name="Libraries/ROMs/rhog05_11" size="65536" crc="8e4b14aa" sha1="8b67b34597c0d30b0b3cf2566536c02f880a74bc"/>
+		<rom name="Libraries/ROMs/rhog10_11" size="65536" crc="83575be7" sha1="2cb549554028f2fdc32ecfa58b786de375b8fa35"/>
+		<rom name="Libraries/ROMs/rhog10c" size="65536" crc="308c6d4f" sha1="f7f8063fe8dd4ef204f225d0aa5202732ead5fa0"/>
+		<rom name="Libraries/ROMs/rhog20_11" size="65536" crc="63c80ee0" sha1="22a3f11007acedd833af9e73e3038fb3542781fe"/>
+		<rom name="Libraries/ROMs/rhog20c" size="65536" crc="74ec16f7" sha1="995d75b3a4e88d8a34dc395b185f728c18e00a2b"/>
+		<rom name="Libraries/ROMs/rhog55" size="65536" crc="29395082" sha1="538434b82e31f7e40770a9b882e54a16195ee998"/>
+		<rom name="Libraries/ROMs/rhog58c" size="65536" crc="e02b6da6" sha1="7d329adcac594c98685dc5404f2b9e8f717cc47f"/>
+		<rom name="Libraries/ROMs/rhog5p" size="65536" crc="49b11beb" sha1="89c2320de4b3f2ff6ba28501f88147b659f1ee20"/>
+		<rom name="Libraries/ROMs/rhrsnd1.hex" size="524288" crc="3e80f8bd" sha1="2e3a195b49448da11cc0c089a8a9b462894c766b"/>
+		<rom name="Libraries/ROMs/ro_05sb_.2_1" size="65536" crc="4a33cfcf" sha1="ac5d4873df74b521018d5eeac96fd7003ee093e8"/>
+		<rom name="Libraries/ROMs/road hog 5p 6.bin" size="65536" crc="b365d1f0" sha1="af3b4f5162af6c033039a1e004bc803175a4e996"/>
+		<rom name="Libraries/ROMs/roadhog5p4std.bin" size="65536" crc="0ff60341" sha1="c12d5b160d9e47a6f1aa6f378c2a70186be6bdff"/>
+		<rom name="Libraries/ROMs/rock1-4n.p1" size="65536" crc="e3888e8b" sha1="7e394cbc219259a5eed9ccb283fff5f4b257e87f"/>
+		<rom name="Libraries/ROMs/rock3.bin" size="65536" crc="c5134d03" sha1="c4dfa43ffd077690d0b9a20cb82bbf92a1dc1ac9"/>
+		<rom name="Libraries/ROMs/rocksnd.bin" size="524288" crc="c3e96650" sha1="71952267d3149786cfef1dd49cc070664bb007a4"/>
+		<rom name="Libraries/ROMs/RODS.P1" size="65536" crc="93d73857" sha1="dcfd1dbf368f68ba3e7aa163eedd89c68aaccec8"/>
+		<rom name="Libraries/ROMs/RODSND.P1" size="524288" crc="bfdafedc" sha1="6acc838ec046d44e7faa727b48925379aa42883d"/>
+		<rom name="Libraries/ROMs/RODSND.P2" size="524288" crc="a01e1e67" sha1="4f86e0bb9bf4c1a4d0190eddfe7dd5bb89c519a2"/>
+		<rom name="Libraries/ROMs/rotex1_2.bin" size="65536" crc="202e794d" sha1="15b7459db7f3a5317a92138d997e9817d4367750"/>
+		<rom name="Libraries/ROMs/rotsnd.bin" size="524288" crc="02f8c2e2" sha1="33a051e7af6d8c33708f7b4e0654d66312eeede5"/>
+		<rom name="Libraries/ROMs/rr6ad.p1" size="65536" crc="f328204d" sha1="057f28e7eaaa372b901a76250fb7ebf4403348ad"/>
+		<rom name="Libraries/ROMs/rr6b.p1" size="65536" crc="ccacd58e" sha1="64b67e54e5568378a18ba99017078fcd4e6bc749"/>
+		<rom name="Libraries/ROMs/rr6c.p1" size="65536" crc="b5783c69" sha1="38c122455bed904c9fd683be1a8508a69cbad03f"/>
+		<rom name="Libraries/ROMs/rr6d.p1" size="65536" crc="b61115ea" sha1="92b97cc8b71eb31e8377a59344faaf0d800d1bdc"/>
+		<rom name="Libraries/ROMs/rr6dy.p1" size="65536" crc="0e540e0d" sha1="a783e73822e436669c8cc1504619990725306df1"/>
+		<rom name="Libraries/ROMs/rr6k.p1" size="65536" crc="121d29bf" sha1="8a6dcf345012b2c499acd32c6bb76eb81ada6fa9"/>
+		<rom name="Libraries/ROMs/rr6s.chr" size="72" crc="ca08d53a" sha1="b419c45f46ee352cbdb0b38a8c3fd33383b61f3a"/>
+		<rom name="Libraries/ROMs/RR6S.P1" size="65536" crc="f978ca0b" sha1="11eeac41f4c77b38b33baefb16dab7de1268d161"/>
+		<rom name="Libraries/ROMs/RR6SND.P1" size="524288" crc="a5ec3f46" sha1="2d6f1adbbd8ac931a99a7d3d9caa2a7a117ac3fa"/>
+		<rom name="Libraries/ROMs/RR6SND.P2" size="524288" crc="e5b72ef2" sha1="dcdfa162db8bf3f9610709b5a8f3b695f42b2371"/>
+		<rom name="Libraries/ROMs/rr6sndiss61.bin" size="524288" crc="5df6c5c9" sha1="8c182007bbd0bb0c0071aba09bddbd9c381408ae"/>
+		<rom name="Libraries/ROMs/rr6sndiss62.bin" size="524288" crc="575f1123" sha1="99c40606049a307904d190df5e8bcb78a99333a6"/>
+		<rom name="Libraries/ROMs/rr6y.p1" size="65536" crc="56344b28" sha1="7f6c740d0991a646393a47e2e85322a7c92bdd62"/>
+		<rom name="Libraries/ROMs/sa7-157" size="131072" crc="6753dc1a" sha1="34f7dc84482a020fb028b036ca941422454afcf6"/>
+		<rom name="Libraries/ROMs/sa7-158" size="131072" crc="26f37d71" sha1="9ae6e4f816feb71c8938f435ff2085e41ae7a44e"/>
+		<rom name="Libraries/ROMs/sa7-244" size="131072" crc="b6828a2d" sha1="36335507acbed03275b02762f0dce0fdedd96374"/>
+		<rom name="Libraries/ROMs/sa7-245" size="131072" crc="e6c37491" sha1="2915815c5885974010bb337f9b4adf3dfecaf1ce"/>
+		<rom name="Libraries/ROMs/sa7-249" size="131072" crc="c7b7e6be" sha1="ba523bc79f3bc1def9974b821b010df835832cb0"/>
+		<rom name="Libraries/ROMs/sa7-250" size="131072" crc="be32ff45" sha1="14f7ebe10482a192de6527afacfe7fa6ad18822c"/>
+		<rom name="Libraries/ROMs/sa7-740" size="131072" crc="53e170b7" sha1="964bc3a5598ee9303cad7fd90a65322a2a1d20dd"/>
+		<rom name="Libraries/ROMs/sa8-102" size="131072" crc="1fd002c2" sha1="cca5bcbc845d5aaf8b7416670a35b0557d5d7dd6"/>
+		<rom name="Libraries/ROMs/sa8-176" size="131072" crc="f21f7497" sha1="aaaa049b3006297d830441a6ecb2db700dab15ae"/>
+		<rom name="Libraries/ROMs/sa8-177" size="131072" crc="a25e8a2b" sha1="ba8e0b2ea13c5ab3f7f6f83ef1b19c2041a5de88"/>
+		<rom name="Libraries/ROMs/sa8-178" size="131072" crc="494b19ec" sha1="1a7414a7c0c5c50155c07e6e409f119e4fc93add"/>
+		<rom name="Libraries/ROMs/sa8-179" size="131072" crc="190ae750" sha1="d9138ed325b8450c431c7685a3395e43b31c73c2"/>
+		<rom name="Libraries/ROMs/sa8-274" size="131072" crc="cb6da2c4" sha1="fb7eff962d3c0508a893d56851d1d46598a082c5"/>
+		<rom name="Libraries/ROMs/sa8-275" size="131072" crc="9b2c5c78" sha1="ab16de1da60eb0fd95e18ab0849bcc7ab2413804"/>
+		<rom name="Libraries/ROMs/showtime-spectacular_std_ac_var_8pnd_ass.bin" size="65536" crc="c6760a9b" sha1="bf85edd0a0d10da04b1a3608fa2f2f3c5d4ed7ec"/>
+		<rom name="Libraries/ROMs/showtimesound.bin" size="524288" crc="01e4a017" sha1="f2f0cadf2334edf35db98af0dcb6d827c991f3f2"/>
+		<rom name="Libraries/ROMs/smn1.2" size="32768" crc="e2d2fdd9" sha1="0e2f44fa64dfa342752e53e9d514ca64e70b3046"/>
+		<rom name="Libraries/ROMs/sp8k.p1" size="65536" crc="e39f74d8" sha1="9d776e7d67859f4514c69fc4f9f43160da9a2ca1"/>
+		<rom name="Libraries/ROMs/spotd_v2_2.bin" size="65536" crc="497ef3b2" sha1="f5021e35397081c62e817b86ff9e8a49d78748a5"/>
+		<rom name="Libraries/ROMs/sslu55" size="131072" crc="67f299a5" sha1="fd4b15cfbf84a0966b6317c260e3c099ebaa1f2d"/>
+		<rom name="Libraries/ROMs/stakex.bin" size="65536" crc="098c7117" sha1="27f04cfb88ef870fc30afd055cf32ffe448275ea"/>
+		<rom name="Libraries/ROMs/stakexsnd.bin" size="524288" crc="baf17991" sha1="282e0ac9d18299e9f7a0fecaf9edf0cb4205ef0e"/>
+		<rom name="Libraries/ROMs/supa11l.bin" size="65536" crc="6cdbf08a" sha1="4c0faf7144b9ac19c8d55b81ce51b519570b0d1f"/>
+		<rom name="Libraries/ROMs/supafruitssnd.bin" size="524288" crc="b70184ca" sha1="dba2204cb606f0c6dad8a4c46fbbb1beb5b5e31c"/>
+		<rom name="Libraries/ROMs/super_multi-nudge_sound_(4meg)" size="524288" crc="efd87dab" sha1="8b4b5de351ce3b1cefa4d0dc01072a942db072dc"/>
+		<rom name="Libraries/ROMs/supersleuth.p1" size="524288" crc="2417208f" sha1="5c51bdcfa566aa8b2379d529441d37b2145864bb"/>
+		<rom name="Libraries/ROMs/supersleuth.p2" size="524288" crc="892d3a4d" sha1="bb585a9fda56f2f0859707973f771d60c5dfa080"/>
+		<rom name="Libraries/ROMs/SUTS.P1" size="65536" crc="0476a1f9" sha1="5dfd26cf7307c9fb98852e3b2daa65f81f13380d"/>
+		<rom name="Libraries/ROMs/tge.bin" size="131072" crc="4c11546b" sha1="453f9980f5aa02b44a1341ac37f4f101feab05bd"/>
+		<rom name="Libraries/ROMs/timelordsnd.bin" size="524288" crc="57fdaf3a" sha1="f7cbaddb7f2ab8e1c7b17f187bab263e0dde463b"/>
+		<rom name="Libraries/ROMs/tmad1_1p" size="65536" crc="7a49546b" sha1="cfce6fda74682e6c60a5731fee44c41c5f5bbbeb"/>
+		<rom name="Libraries/ROMs/tops1.hex" size="524288" crc="70f16892" sha1="e6448831d3ce7fa251b40023bc7d5d6dee9d6793"/>
+		<rom name="Libraries/ROMs/tops2.hex" size="524288" crc="5fc888b0" sha1="8d50ee4f36bd36aed5d0e7a77f76bd6caffc6376"/>
+		<rom name="Libraries/ROMs/toptenn.hex" size="131072" crc="5e53f04f" sha1="d49377966ed787cc3571eadff8c4c16fac74434c"/>
+		<rom name="Libraries/ROMs/triple.s1" size="524288" crc="e808f0ae" sha1="4d88c1d8ed9396629509a0c7614e7510401f1325"/>
+		<rom name="Libraries/ROMs/triple.s2" size="524288" crc="40161063" sha1="a24edb311fea466c0c15aebce40044f8db448e50"/>
+		<rom name="Libraries/ROMs/triple.s3" size="524288" crc="f9109afb" sha1="4e4a863b60915ddb2865c12af19cc38bcad6d062"/>
+		<rom name="Libraries/ROMs/xchasnd.bin" size="524288" crc="32c44cd5" sha1="baafb48e6f95ba152942d1e1c273ffb3c95afa82"/>
+		<rom name="Manager/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="ProjAmber.exe" size="8900608" crc="3de4c3e2" sha1="0b2dfb73974b7d72cd449395cb9ddc58d81b5bbb"/>
+		<rom name="YMCORE.dll" size="415232" crc="37c0b867" sha1="6adad365c11e46d721522601717204347336dede"/>
+	</game>
+	<game name="Project Amber 2D 1.02a">
+		<rom name="Components/color.ps" size="658" crc="9c5f1f62" sha1="67b27ea4f2a75dcae021c7588b0855c05cee0d96"/>
+		<rom name="Components/color.vs" size="1356" crc="99b6c71f" sha1="efd36c66e3b692485aaa61f7203aef1d18b597f9"/>
+		<rom name="Components/Disc Reel.ps" size="3003" crc="76ba6155" sha1="c91811dc8c24834348a416cfd900276ca000c869"/>
+		<rom name="Components/Disc Reel.vs" size="1902" crc="a1f92733" sha1="a972b114138e44a4012a7c050406ec56f20da896"/>
+		<rom name="Components/FloLamp.ps" size="5083" crc="c17729a3" sha1="b6e25a30531cb59561f5bccaf36825fb1cfa1297"/>
+		<rom name="Components/FloLamp.vs" size="1358" crc="9c0887dc" sha1="3f9b9d56b17c9550edcd3a6393478cabc25e69d5"/>
+		<rom name="Components/font.ps" size="1273" crc="1fa472d3" sha1="5829aab7d9ef1525a53434b2af2e7641928a167d"/>
+		<rom name="Components/font.vs" size="1354" crc="1f0d7ac4" sha1="1b93d1ac498ebe19442438c4e3213f5946c7da87"/>
+		<rom name="Components/Lamp.ps" size="4267" crc="0adb18fe" sha1="a7ee3cb6f16bae0afffbea6fa31e1d98a3ed4099"/>
+		<rom name="Components/Lamp.vs" size="1355" crc="1a24b6ef" sha1="a217cff7ef8ca4c03c4bf96ec9e8f06167432949"/>
+		<rom name="Components/Menu/General/AlignCmp.png" size="4093" crc="6c370f6b" sha1="2b7dc4d655439f6fc1887fc94b0f3d590004af64"/>
+		<rom name="Components/Menu/General/AlphaDot.png" size="90" crc="e652e997" sha1="1db46b54ffa369ec6fb162c40571bd01f8f0198e"/>
+		<rom name="Components/Menu/General/AmberFont.dds" size="4194432" crc="0ea32260" sha1="5c2baf99dee654a79bc29261e3ac0d972ff302f6"/>
+		<rom name="Components/Menu/General/AmberFont2.png" size="8819" crc="38d7919e" sha1="79bf2d7176c6dea2cd51d7e597e74daae29f2060"/>
+		<rom name="Components/Menu/General/amberfont2data.txt" size="3268" crc="4535edbb" sha1="1415da164f2973fecde26e88c747ad4691a1cb0a"/>
+		<rom name="Components/Menu/General/AmberFont3.png" size="4370" crc="8fe72682" sha1="fe31ccfd02359ef33f700492e544dcccb550bfea"/>
+		<rom name="Components/Menu/General/amberfont3data.txt" size="3263" crc="0a2c0261" sha1="a19e65586f924e1048695b930d8aa60c83e791a7"/>
+		<rom name="Components/Menu/General/amberfontdata.txt" size="3700" crc="dc29854a" sha1="ee1000dba42786e71936192a6ad047fc33de570b"/>
+		<rom name="Components/Menu/General/AmberMenuLogo.dds" size="65664" crc="b2009690" sha1="b32c56647c8f7d62c229309c51133b823b7c69bc"/>
+		<rom name="Components/Menu/General/Back.dds" size="262272" crc="35751918" sha1="6e51403ff7b79fc8d6d35bf219c20c4e39b9427a"/>
+		<rom name="Components/Menu/General/BlackTest.png" size="168" crc="dfd56c96" sha1="25932b8eac42f4f783b308d9cd566cfd7d40f38b"/>
+		<rom name="Components/Menu/General/Blank.png" size="174" crc="f6b457f7" sha1="e7bad6aeef482ad9da3a445f2ab70cbda53151d8"/>
+		<rom name="Components/Menu/General/BlankButton20.png" size="457" crc="69272b59" sha1="17ea285735b9f621bbcf2dc7fc39c312b6ccf55a"/>
+		<rom name="Components/Menu/General/BlankButton25.png" size="482" crc="8d3db189" sha1="ca70d303b03cdfc7ded2ae2199dcfaae6a56e39d"/>
+		<rom name="Components/Menu/General/BlankButton30.png" size="491" crc="84799b0e" sha1="365b453f58ddef1a81c1c140466d099ea4af58fc"/>
+		<rom name="Components/Menu/General/BlankButton60.png" size="557" crc="31eaa3f5" sha1="97acef4f42c113f3c5d6cd6d0ecbb8175520c646"/>
+		<rom name="Components/Menu/General/BlankButton60PSD.psd" size="249118" crc="9acfb139" sha1="37cb6c4428a08f57858cca470d3ddc40ad96cc94"/>
+		<rom name="Components/Menu/General/Browse.png" size="3086" crc="ef0ec812" sha1="ab01b010f0417db858cc4f225c6700ae8f993325"/>
+		<rom name="Components/Menu/General/ButtonLeft.png" size="884" crc="da0fe335" sha1="83f92ad573864f772dfbfe691bcdb771834e1d9e"/>
+		<rom name="Components/Menu/General/ButtonPlain.dds" size="1048704" crc="418e66b5" sha1="9626ba7cf46f3c2e446b2793ed175b7d8b0777b2"/>
+		<rom name="Components/Menu/General/ButtonRight.png" size="888" crc="8ce3ef7c" sha1="4b5699b618c2fb3332b3cbc07905c627cb574cbf"/>
+		<rom name="Components/Menu/General/CloseButton.png" size="2561" crc="778d663d" sha1="eadb447533c6ba4da4235ab7eb9387ed8b259b8d"/>
+		<rom name="Components/Menu/General/CmpSelectCoins.png" size="2298" crc="e0b5cf9e" sha1="27efad53070e0a0b0c8a1a827bf0c8cd17495821"/>
+		<rom name="Components/Menu/General/CmpSelectDetails.png" size="2684" crc="7b5167ef" sha1="946bb26e4d5029a3d9672ccc265d35e2b50a955c"/>
+		<rom name="Components/Menu/General/CmpSelectDisplays.png" size="3027" crc="4ad92fce" sha1="23868038b99d601bd89f326588cc6dc34f8105e3"/>
+		<rom name="Components/Menu/General/CmpSelectLamps.png" size="2440" crc="47070445" sha1="2f2f23af1b87a6ca1f138b6d6c395f87c2ec73a8"/>
+		<rom name="Components/Menu/General/CmpSelectLEDs.png" size="1908" crc="297a98b0" sha1="ae45d1fe730d9d2799c8797ccf9a55803ae2b902"/>
+		<rom name="Components/Menu/General/CmpSelectMeters.png" size="2239" crc="34c8e5ec" sha1="e89904fef4f361181b2499912f52e65595085152"/>
+		<rom name="Components/Menu/General/CmpSelectPublish.png" size="2324" crc="e0ff52c7" sha1="f17080d3b4bb3a4b5a8af26f356907678aed7aea"/>
+		<rom name="Components/Menu/General/CmpSelectReels.png" size="2125" crc="952b53bc" sha1="b35ff7b9e256e0d890ff39dc756bc7a628004d87"/>
+		<rom name="Components/Menu/General/CmpSelectSetup.png" size="2507" crc="1002e0e6" sha1="0e34810b9de817a35c95efe885e085355f79f929"/>
+		<rom name="Components/Menu/General/CmpSelectSwitches.png" size="3435" crc="750b9779" sha1="f6d8d4c840ab4a57d6473a507b88be14c2fcbea4"/>
+		<rom name="Components/Menu/General/CmpSelectTools.png" size="1992" crc="9cf18447" sha1="51f629061f7589b92c4e62296040d95d0384be60"/>
+		<rom name="Components/Menu/General/CMPTypeSelect0.png" size="7089" crc="f2c3439f" sha1="7e173f77bc3965537981bd1c7142b82e05303387"/>
+		<rom name="Components/Menu/General/CMPTypeSelect1.png" size="5714" crc="477fdcc9" sha1="e81e4e5bf9ba9b30f1dc7164d7c510c730b818d3"/>
+		<rom name="Components/Menu/General/CMPTypeSelect2.png" size="6226" crc="de9c39a4" sha1="c8b83e85303a92b0eb6c63390469c29f00d3b65c"/>
+		<rom name="Components/Menu/General/CMPTypeSelect3.png" size="6522" crc="21511214" sha1="527948db56fe25fa78ac65fcdbf9a63ab0232570"/>
+		<rom name="Components/Menu/General/CMPTypeSelect4.png" size="5067" crc="1a7640da" sha1="628ec96fdcc11c62df01819042fef63471db4958"/>
+		<rom name="Components/Menu/General/CoinsPopUpMenu.png" size="9133" crc="7f6f86bc" sha1="2044c7ca92aa3d1320629b8b173a3107d987b611"/>
+		<rom name="Components/Menu/General/cursor.png" size="3633" crc="86754bdb" sha1="169bd52502bad86530b4568d9039a2b635000104"/>
+		<rom name="Components/Menu/General/cursor2.png" size="309" crc="bc364e61" sha1="1893e57375ecf3658924b2cc73a376530305ff64"/>
+		<rom name="Components/Menu/General/cursor3.png" size="312" crc="e9f9693d" sha1="64b0f03a70dc83bc44f855b55749d14edb0a02b4"/>
+		<rom name="Components/Menu/General/cursor4.png" size="337" crc="953917f8" sha1="421edc3188de27ff4840ccf57858378852df7c37"/>
+		<rom name="Components/Menu/General/cursor5.png" size="333" crc="a33c84e0" sha1="ac2a3c30d7d30641ca77a46c6e36aaba78609168"/>
+		<rom name="Components/Menu/General/cursor6.png" size="324" crc="046b3bbc" sha1="6ef4324b2fb7cdedee5ee2d4c258bee3b4632460"/>
+		<rom name="Components/Menu/General/cursor7.png" size="344" crc="43d556f0" sha1="3168ba7635db5bf28cfeef49c5523687eb6d0310"/>
+		<rom name="Components/Menu/General/cursor8.png" size="322" crc="3231b793" sha1="55311ada158828362c1337ed7a193c4a92fe4a35"/>
+		<rom name="Components/Menu/General/DIP.png" size="494" crc="0967f2bd" sha1="347216d66960d613185acd418355b544833630e1"/>
+		<rom name="Components/Menu/General/EditCoinFrames.png" size="26945" crc="3bb5b825" sha1="867c9614be97a2cfc66077203e540459eeacf0f4"/>
+		<rom name="Components/Menu/General/EditDisplayFrames.png" size="16344" crc="6b50f02e" sha1="585ca75932dc9f2f00e455e7f12b3b58bb0df0ea"/>
+		<rom name="Components/Menu/General/EditLampFrames.png" size="25022" crc="93f7e5e5" sha1="ef7e9ce83f18167b1804ad3c9b5cb517c9b47b14"/>
+		<rom name="Components/Menu/General/EditLEDFrames.png" size="14350" crc="8d81d567" sha1="e2112a0a52bb7b573fed6247109877ed696ba333"/>
+		<rom name="Components/Menu/General/EditPanelBackground.png" size="5201" crc="2d4f7f1b" sha1="ca994c30b72c7acd290a1bf8d0a0b5f0f1490780"/>
+		<rom name="Components/Menu/General/EditPanelCoinsFrame.png" size="2737" crc="b1107f81" sha1="6ff9971c8d9f70d98a72a2c1ab31f942dcf66b31"/>
+		<rom name="Components/Menu/General/EditPanelDetailsFrame.png" size="4754" crc="e1a04529" sha1="5dfa4721936a99396756109a4be038fdab67769a"/>
+		<rom name="Components/Menu/General/EditPanelDisplaysFrame.png" size="2628" crc="aa187940" sha1="a5751bc636a20aa40582c9b4885f35c4c473b979"/>
+		<rom name="Components/Menu/General/EditPanelLampFrame.png" size="2488" crc="a6dd2198" sha1="1fea69c7055630e76539cf576f1fb561f7ec945c"/>
+		<rom name="Components/Menu/General/EditPanelLEDFrame.png" size="2358" crc="1c355258" sha1="7cb381da0063ba2a08afb7d27861558ee3c8ea2e"/>
+		<rom name="Components/Menu/General/EditPanelMetersFrame.png" size="2439" crc="2efbc857" sha1="936f2af0464832c18dae58144ee1250c63d0fa99"/>
+		<rom name="Components/Menu/General/EditPanelPublishFrame.png" size="2451" crc="bf469b87" sha1="161f171aa5ee2d479b19852d1e8a6e916e609b1a"/>
+		<rom name="Components/Menu/General/EditPanelReelsFrame.png" size="2418" crc="68e5d2a6" sha1="ed61840f51d29983edca5e913aa84ff55db62063"/>
+		<rom name="Components/Menu/General/EditPanelSetupFrame.png" size="4295" crc="4ca41ae8" sha1="93d41f35dc65576dea0b9470ce30a7b81df81b2d"/>
+		<rom name="Components/Menu/General/EditPanelSwitchesFrame.png" size="10508" crc="27db8149" sha1="5221a61ab160c47cf63e5b98f30cc009efa9bf88"/>
+		<rom name="Components/Menu/General/EditPanelToolsFrame.png" size="2362" crc="c56d0c34" sha1="830b80c69099649f043e17ea407c5c8ef13c1b87"/>
+		<rom name="Components/Menu/General/EditReelFrames.png" size="17273" crc="344f63d7" sha1="ad06cf68dfc686fa9c79d0553496f5aaf6e9f1c7"/>
+		<rom name="Components/Menu/General/ExportButton.png" size="2624" crc="e116da89" sha1="7321eb39437e864e46d79a5d3fb329b85160573a"/>
+		<rom name="Components/Menu/General/font.dds" size="65664" crc="1ebe2222" sha1="83d2ae5809f71c581ff3be8aa408b7d145ba10bf"/>
+		<rom name="Components/Menu/General/fontdata.txt" size="2946" crc="495d3f98" sha1="37706ea534a6feb684c11ca696b454515323ebae"/>
+		<rom name="Components/Menu/General/GenerateButton.png" size="2462" crc="49cacb1e" sha1="c45f6266cd6f9f45ac048d694325dc831fe92b3e"/>
+		<rom name="Components/Menu/General/ImportButton.png" size="2490" crc="11bdac4c" sha1="2379c1d7988854ed61ff00b27b0f86c267831e9d"/>
+		<rom name="Components/Menu/General/LampsPopUpMenu.png" size="4464" crc="344f101b" sha1="2b91a10229a8bdda443e3a4e94e3245b4ad33ecb"/>
+		<rom name="Components/Menu/General/LampsPopUpMenu2.png" size="6248" crc="bc965940" sha1="fc9d8cb9b8e345897daf729963481bb111873fa1"/>
+		<rom name="Components/Menu/General/LoadSymbolButton.png" size="3744" crc="db371fe5" sha1="459af4ec47b5ae123051aca0ac5c3a32c8c2e8f7"/>
+		<rom name="Components/Menu/General/LoadSymbolFolderButton.png" size="4058" crc="f819fd25" sha1="9f65d87ed53dbd5cee15fa774b9ebd8f5c76edbc"/>
+		<rom name="Components/Menu/General/MechTypesFrame.png" size="11238" crc="bb9d087f" sha1="848887cbb15bc3ffbce995a99206d4f9516d6067"/>
+		<rom name="Components/Menu/General/Pointer.dds" size="4224" crc="f1b42375" sha1="19959eb2f5e17321a92c54a2d5e9b5e4e025fbb5"/>
+		<rom name="Components/Menu/General/PopUpFade.png" size="196" crc="e038e481" sha1="df1f0cfbaba4d74f6a3e81dc36c93c482ed3ceba"/>
+		<rom name="Components/Menu/General/PopUpFadeA.png" size="229" crc="238fb41f" sha1="6c2b157ed18591cb987d571a43f6ff40bcbd9296"/>
+		<rom name="Components/Menu/General/PopUpFadeA2.png" size="229" crc="28c0f83b" sha1="4e508b6d0be11267a0fe661aa7fdde398b802d75"/>
+		<rom name="Components/Menu/General/PopUpImportAlpha.png" size="8291" crc="337d8b3e" sha1="e272bda339c8c0ecc696bbf1b8767c3a750fd44c"/>
+		<rom name="Components/Menu/General/PopUpImportLamps.png" size="4143" crc="25ad64db" sha1="a5f0001aecee4969f6b90db4b02a78823ea1264b"/>
+		<rom name="Components/Menu/General/PopUpImportLEDs.png" size="5338" crc="e9915a0e" sha1="0ef8f25a674a6d7f9365902dea70163089e1412b"/>
+		<rom name="Components/Menu/General/PopUpImportPrism.png" size="2369" crc="eae276fe" sha1="b7e31e9b785c6c7189caa1a66be7fd5463e8d8d9"/>
+		<rom name="Components/Menu/General/ReelBack.png" size="5597" crc="18188fa3" sha1="b736ced4b858f41b5dbda54bfb3227a9d4b6233f"/>
+		<rom name="Components/Menu/General/ReelEditButton.png" size="2205" crc="e2a0c934" sha1="818547e998ececa00007adbaa22ae508475a856e"/>
+		<rom name="Components/Menu/General/RemoveBlackButton.png" size="3461" crc="bc545834" sha1="cd8f39cf615e1356b49160479839616c0f769abf"/>
+		<rom name="Components/Menu/General/ScrollDown.dds" size="262272" crc="82f38165" sha1="ab745aba41d2ef7f7c3dd7ac98201df50f457270"/>
+		<rom name="Components/Menu/General/ScrollUp.dds" size="262272" crc="7b4f90cc" sha1="d3ffbc2883ad865503e0ca76e419dd49f69a3f00"/>
+		<rom name="Components/Menu/General/SelectButton.png" size="2454" crc="86fcf212" sha1="9b3bd03f48b3ffbac190b7494927136a0bc8e96b"/>
+		<rom name="Components/Menu/General/SideButtonLeft.png" size="641" crc="997207c7" sha1="1d191e6ad35be958415ad678954cca4707f7e70e"/>
+		<rom name="Components/Menu/General/SideButtonRight.png" size="637" crc="f8d9c2aa" sha1="67fbd7f2ef8e482e653d20f633763eca9a8a7b87"/>
+		<rom name="Components/Menu/General/StatusLED.png" size="246" crc="11cedc94" sha1="5516820aa9839f4688b09b4dbf058fa33d9fbf99"/>
+		<rom name="Components/Menu/General/SubMenuEdit.png" size="765" crc="876f09ac" sha1="4295c57b2d53edc7666b517de61b9b06dba2f479"/>
+		<rom name="Components/Menu/General/SubMenuFile.png" size="999" crc="c2bc09d8" sha1="181bad1568632c2c8e1a6f5438c07888fe9731ca"/>
+		<rom name="Components/Menu/General/SubMenuOptions.png" size="612" crc="81385744" sha1="55e66c992254d80b59d773f9be97168ae12e7b52"/>
+		<rom name="Components/Menu/General/SubMenuSound.png" size="1107" crc="fa959848" sha1="e9b4e1bfc619411d271ef3d5a5d0bc436713fdaa"/>
+		<rom name="Components/Menu/General/TestButton.png" size="1983" crc="9c9f195a" sha1="64c042d736cf5963663806c744c5cf9c43817ce4"/>
+		<rom name="Components/Menu/General/TextBoxBack104.png" size="471" crc="f93e3d41" sha1="fd59c10d421f0759c5da80a27329e26570d02eb0"/>
+		<rom name="Components/Menu/General/TextBoxBack20.png" size="269" crc="dfeb5976" sha1="d6dbc5b3581f133854d9e05ebf504a717ed52c39"/>
+		<rom name="Components/Menu/General/TextBoxBack25.png" size="282" crc="17400a1a" sha1="df0a4447201d9787bc922aced02ad480b737e3cf"/>
+		<rom name="Components/Menu/General/TextBoxBack30.png" size="287" crc="84c35b8d" sha1="2281287f91b3cebf8c8f7e4b2e6c33fc74ecdb0e"/>
+		<rom name="Components/Menu/General/TextBoxBack42.png" size="340" crc="57ad6aaf" sha1="efd5f89436eee1fa168d2b8ea5e88df97f3a543b"/>
+		<rom name="Components/Menu/General/TextBoxBack60.png" size="344" crc="170d5c2a" sha1="5f35a27ad33153d1481f5e99b2ce9fd7e99f0e8b"/>
+		<rom name="Components/Menu/General/TickBoxBack.png" size="774" crc="3e89c00b" sha1="6e1d300550131c6cf59b79da274c329046fe721a"/>
+		<rom name="Components/Menu/General/TopMenu.png" size="1525" crc="357aacef" sha1="817416dae973c5103a03b3fd6c5d43b0e7f82168"/>
+		<rom name="Components/Menu/MainMenu/AmberMenuLogo.dds" size="65664" crc="b2009690" sha1="b32c56647c8f7d62c229309c51133b823b7c69bc"/>
+		<rom name="Components/Menu/MainMenu/Background1.dds" size="1982592" crc="09111dfc" sha1="81748de4ed6cc6b0250ed41c00533e0f0206fbf0"/>
+		<rom name="Components/Menu/MainMenu/MainMenu1.dds" size="2621568" crc="dfbccf60" sha1="7e8436197b33cdb45e9e09a04edc71fb29cf19d7"/>
+		<rom name="Components/Menu/MainMenu/MainMenu2.dds" size="2621568" crc="0b794c8e" sha1="82b7ef6d18d1c60622081f6a30990ce473a22a1b"/>
+		<rom name="Components/Menu/MainMenu/MainMenu3.dds" size="2621568" crc="23b277da" sha1="74803928502f9b4407b1fb4c49300eb586275538"/>
+		<rom name="Components/Menu/MainMenu/MainMenu4.dds" size="2621568" crc="17f9b712" sha1="c922bece51a4629c4bcd0a31b1c1224085ee646e"/>
+		<rom name="Components/Menu/MainMenu/MainMenu5.dds" size="2621568" crc="780609a3" sha1="6260672386b0c78eaf885f309522f3d43c34710f"/>
+		<rom name="Components/Menu/MainMenu/MainMenu6.dds" size="2621568" crc="c5ea2d83" sha1="924f94986d0a4ff451290d99dcb80ce2f2306c67"/>
+		<rom name="Components/Menu/Offline Layout Menu/AmberMenuLogo.dds" size="65664" crc="b2009690" sha1="b32c56647c8f7d62c229309c51133b823b7c69bc"/>
+		<rom name="Components/Menu/Offline Layout Menu/Back.dds" size="327808" crc="66827b4f" sha1="fdd37f7d2f64a673c5a18238dadba103468bc967"/>
+		<rom name="Components/Menu/Offline Layout Menu/Background2.dds" size="1982592" crc="09111dfc" sha1="81748de4ed6cc6b0250ed41c00533e0f0206fbf0"/>
+		<rom name="Components/Menu/Offline Layout Menu/ButtonPlain.dds" size="1310848" crc="043e5d2a" sha1="ff83a3545ce9a19a139c6544cc8ff807822eb772"/>
+		<rom name="Components/Menu/Offline Layout Menu/OfflineMenu1.dds" size="1310848" crc="468a2f15" sha1="90d1629d791e4d8c6aa55ee30c6f626d66548ae3"/>
+		<rom name="Components/Menu/Offline Layout Menu/OfflineMenu2.dds" size="1310848" crc="0079d140" sha1="ae159eb32fa1ce87349cff92f5144db773a861bc"/>
+		<rom name="Components/Menu/Offline Layout Menu/OfflineMenu3.dds" size="1310848" crc="24876da8" sha1="11353851470cb719ce39983393a92ec9e6d1260b"/>
+		<rom name="Components/Menu/Offline Layout Menu/OfflineMenu4.dds" size="1310848" crc="89e64ad7" sha1="542b2edb366185667611e785592e31a759240e37"/>
+		<rom name="Components/Menu/Offline Layout Menu/OfflineMenu5.dds" size="1310848" crc="cba2ae46" sha1="f950a2c8d54ff20db80632fed714cadeadb398dd"/>
+		<rom name="Components/Menu/Offline Layout Menu/ScrollDown.dds" size="327808" crc="8bf059ee" sha1="e75e44f768b2883beddbf0457840689bc7829447"/>
+		<rom name="Components/Menu/Offline Layout Menu/ScrollUp.dds" size="327808" crc="f792b3ce" sha1="b11053d225b53aa3cf7a16f548452709954da9c5"/>
+		<rom name="Components/Prism.ps" size="4962" crc="fde5fed1" sha1="6fffeb079ec889c56440361ba001429af1471c40"/>
+		<rom name="Components/Prism.vs" size="1356" crc="0cfab4b2" sha1="4a96e1d0a6d0d712d4e226ce25db094d8a3d5e4e"/>
+		<rom name="Components/Reel.ps" size="4188" crc="b737bcb9" sha1="815531d7af57a0370b316659746f86dd7a7f3e19"/>
+		<rom name="Components/Reel.vs" size="1355" crc="1a24b6ef" sha1="a217cff7ef8ca4c03c4bf96ec9e8f06167432949"/>
+		<rom name="Components/texture.ps" size="1362" crc="481cda14" sha1="bef94d57aca2c300a9062f157b972549a7c6588d"/>
+		<rom name="Components/texture.vs" size="1358" crc="9c0887dc" sha1="3f9b9d56b17c9550edcd3a6393478cabc25e69d5"/>
+		<rom name="Config.txt" size="88" crc="e4f044bc" sha1="f43802d569858bd06d518cf1556d3bf9a9ccd483"/>
+		<rom name="Layouts/Casino Crazy JPM/1274.bin" size="524288" crc="90a19aaa" sha1="7b17e9fda01d4fb163e09107759a6bf473fc6dc0"/>
+		<rom name="Layouts/Casino Crazy JPM/7648.bin" size="131072" crc="ac772dd4" sha1="c288cdcf678edccdca7c24d62bb0d5b1bdddeae2"/>
+		<rom name="Layouts/Casino Crazy JPM/7649.bin" size="131072" crc="9184a594" sha1="a7db14191b04e7e9fba1f167157af0f187f2d591"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaBack.png" size="2008" crc="ac558ab6" sha1="a625dedc8921677f4e84958f379983038242010a"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaBack2.png" size="159" crc="74738014" sha1="7ac70db6c0f599d1e149436ae9be68d6d55dabfa"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaGlass.png" size="6202" crc="2ae2d09b" sha1="089d6911734bea2718867f2c7b3df2324b8883e2"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSeg0.png" size="640" crc="5061d3fd" sha1="e4b0e0dbd3e08bd4c6c375660bdc6331ce0ef2ae"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSeg1.png" size="626" crc="e208bdfe" sha1="011be9786d986f0ab529bc17cec2d47c1e0542e2"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSeg10.png" size="523" crc="054089d9" sha1="9366d4b24c948de1b76b5924d86d39d3b8184551"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSeg11.png" size="918" crc="b13d1bee" sha1="8d0b4b56de113d0c40cb0447b093e13fd6d50c05"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSeg12.png" size="781" crc="3c35a6df" sha1="747770337084e8e2d52542151c62dcaf28decdcd"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSeg13.png" size="930" crc="db2dcb2e" sha1="e55fc7c0e257ede56ad42e4cc349b013be7c20e3"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSeg14.png" size="559" crc="1b0d8bcc" sha1="f42c85f266c3159b9b2e2a4eca80e1eb5cbb5cac"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSeg15.png" size="923" crc="d0f0b3e5" sha1="461c33cb1ec2ab6aac26099cee7aa8579857dbfc"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSeg2.png" size="990" crc="1efd9039" sha1="9ea6bee46aeca51fd4511dba2084c31c5860d0fa"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSeg3.png" size="953" crc="eab7f133" sha1="8c5c549db5d6526373e8bdd02157065bc789c0a1"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSeg4.png" size="780" crc="2562b040" sha1="dccd28a9a8c1cabb405fdde04d7245bfd2601126"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSeg5.png" size="782" crc="a6a0d9ea" sha1="8ab36c59e466a7a6e2b5646ed86433eb03ec499f"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSeg6.png" size="1105" crc="b7ae8cef" sha1="93024bd83968ef6728b2a7f2021d2bf6013f16b5"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSeg7.png" size="1071" crc="21eedf04" sha1="749414cbab1cf2b799a3684600c0c0a1fc0484f7"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSeg8.png" size="952" crc="1ec5768e" sha1="bc3adfa16601fe9939183ce9247b3a9b9c8b4d5f"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSeg9.png" size="881" crc="fb6276cc" sha1="5d4b471a36bda6f3c8f36dcdb33877a2931bd296"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSegComma.png" size="500" crc="6a3ef663" sha1="5c65a204d549c97defa1e1f1c6da744d56b95f07"/>
+		<rom name="Layouts/Casino Crazy JPM/AlphaSegDot.png" size="482" crc="eef76d88" sha1="ab6f822354c741406e834e1f9ba00b5dc5d7c7b4"/>
+		<rom name="Layouts/Casino Crazy JPM/Band0.png" size="111030" crc="e3aaa3db" sha1="45026e330f2be5ee7edcafaed3de9a12e69e7600"/>
+		<rom name="Layouts/Casino Crazy JPM/Band1.png" size="111429" crc="cee54daf" sha1="fe747300ba336d869e93df10099bba056a68e03f"/>
+		<rom name="Layouts/Casino Crazy JPM/Band2.png" size="110681" crc="72ae8ff4" sha1="5da61696f8ebe26af54070f29857f51f5a201cc9"/>
+		<rom name="Layouts/Casino Crazy JPM/Band3.png" size="57674" crc="23b68daa" sha1="a39dcff73e3e52111cfcb1a9f48a7449939af9eb"/>
+		<rom name="Layouts/Casino Crazy JPM/Band4.png" size="57674" crc="23b68daa" sha1="a39dcff73e3e52111cfcb1a9f48a7449939af9eb"/>
+		<rom name="Layouts/Casino Crazy JPM/Band5.png" size="9253" crc="534d0472" sha1="397557aab4dd6e249bacffeb67bcec9e0b28c5e0"/>
+		<rom name="Layouts/Casino Crazy JPM/Band6.png" size="9253" crc="534d0472" sha1="397557aab4dd6e249bacffeb67bcec9e0b28c5e0"/>
+		<rom name="Layouts/Casino Crazy JPM/Band7.png" size="9253" crc="534d0472" sha1="397557aab4dd6e249bacffeb67bcec9e0b28c5e0"/>
+		<rom name="Layouts/Casino Crazy JPM/Game.mlf" size="869" crc="b69d25db" sha1="8bf30db8e4d6c382b53128fcecd79a9ffb0ef067"/>
+		<rom name="Layouts/Casino Crazy JPM/LampsMap0.png" size="65287" crc="534d7f47" sha1="7aa3b606932b496f8fda06079e3279aa3102daad"/>
+		<rom name="Layouts/Casino Crazy JPM/LampsMap1.png" size="66848" crc="c5240274" sha1="db55fd00bba9cf516bd52ebced49e17e02b631d1"/>
+		<rom name="Layouts/Casino Crazy JPM/LampsMap2.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Casino Crazy JPM/LampsMap3.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Casino Crazy JPM/LampsMap4.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Casino Crazy JPM/LampsMap5.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Casino Crazy JPM/LampsMap6.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Casino Crazy JPM/LampsMap7.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Casino Crazy JPM/LampsOff.png" size="1129765" crc="68b9e4be" sha1="534a3bf79e6820fb35b468dd7c2b1481442af69b"/>
+		<rom name="Layouts/Casino Crazy JPM/LampsOn0.png" size="596889" crc="f4caf4bb" sha1="e5dca6d8ee101bf5b10e6e31e817ed39a4888e65"/>
+		<rom name="Layouts/Casino Crazy JPM/LampsOn1.png" size="613240" crc="f83b32a2" sha1="7034152fa714be4f1a822ce63f6815e56f80cc3a"/>
+		<rom name="Layouts/Casino Crazy JPM/LampsOn2.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Casino Crazy JPM/LampsOn3.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Casino Crazy JPM/LampsOn4.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Casino Crazy JPM/LampsOn5.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Casino Crazy JPM/LampsOn6.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Casino Crazy JPM/LampsOn7.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Casino Crazy JPM/LoadBack.png" size="2248401" crc="8979f344" sha1="55c8d62a056b75423a8eb357281c985f3fe4a57f"/>
+		<rom name="Layouts/Casino Crazy JPM/LoadBar.png" size="2073" crc="3a3136fb" sha1="e447240b97c225a99cdb539036953e7995cc1aab"/>
+		<rom name="Layouts/Casino Crazy JPM/MaskBackBand0.png" size="88453" crc="28080d59" sha1="e118518868b42798ca6b48524ee8b85df19c64d6"/>
+		<rom name="Layouts/Casino Crazy JPM/MaskBackBand1.png" size="89225" crc="5c1f5cf0" sha1="c0caac56c44585692ff3ad409b1d442d52261883"/>
+		<rom name="Layouts/Casino Crazy JPM/MaskBackBand2.png" size="87867" crc="66014531" sha1="9e2f3b983cea29db2f20d1bf916af9cd1c64b351"/>
+		<rom name="Layouts/Casino Crazy JPM/MaskBackBand3.png" size="49213" crc="91820b7c" sha1="84c0e775fe8b9ff5271eccf5c1465cecb91561f1"/>
+		<rom name="Layouts/Casino Crazy JPM/MaskBackBand4.png" size="110045" crc="6038814b" sha1="0d36d13fe523c8fb4c4590030a81acae2124b477"/>
+		<rom name="Layouts/Casino Crazy JPM/MaskBackBand5.png" size="110045" crc="6038814b" sha1="0d36d13fe523c8fb4c4590030a81acae2124b477"/>
+		<rom name="Layouts/Casino Crazy JPM/MaskBackBand6.png" size="110045" crc="6038814b" sha1="0d36d13fe523c8fb4c4590030a81acae2124b477"/>
+		<rom name="Layouts/Casino Crazy JPM/MaskBackBand7.png" size="110045" crc="6038814b" sha1="0d36d13fe523c8fb4c4590030a81acae2124b477"/>
+		<rom name="Layouts/Casino Crazy JPM/MeterNumbers.png" size="575" crc="fcb1d83b" sha1="4830f3bdfb62d6e4271bec39ecf465026de3b8e3"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism00.png" size="294" crc="b37ba1ad" sha1="f9257028d8b6d7a7062024c3e3b1549d1067aaa6"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism01.png" size="304" crc="037595f1" sha1="d37845aa140595bd4e2de45cf5d8a3711693e75f"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism10.png" size="1648" crc="6cae2fee" sha1="376b49c38aead157b4e0bdcd44a2b0eddc2f5ea9"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism100.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism101.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism11.png" size="2059" crc="36a2792c" sha1="73eb9c937d0130c3f4e04a6381084703efaa980a"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism110.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism111.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism120.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism121.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism130.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism131.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism140.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism141.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism150.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism151.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism20.png" size="1648" crc="6cae2fee" sha1="376b49c38aead157b4e0bdcd44a2b0eddc2f5ea9"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism21.png" size="2059" crc="36a2792c" sha1="73eb9c937d0130c3f4e04a6381084703efaa980a"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism30.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism31.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism40.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism41.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism50.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism51.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism60.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism61.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism70.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism71.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism80.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism81.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism90.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/Prism91.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Casino Crazy JPM/RAM" size="16384" crc="70b7f311" sha1="e25429f0edf807568a71384de4ea0f1b28a4a228"/>
+		<rom name="Layouts/Casino Crazy JPM/Seg0.png" size="999" crc="6bb394ec" sha1="5cdc2424ea83f4faa0efd31363d5e7dcf1c588ff"/>
+		<rom name="Layouts/Casino Crazy JPM/Seg1.png" size="2469" crc="04683b1b" sha1="f10814a9d1f87e3d791411971b55e690a611713c"/>
+		<rom name="Layouts/Casino Crazy JPM/Seg2.png" size="3820" crc="e8ea8011" sha1="962d49e2c142715d4243153528b35515fb0398c8"/>
+		<rom name="Layouts/Casino Crazy JPM/Seg3.png" size="3888" crc="dc0e5005" sha1="c37bdc80b2e06491cd9fd5879a95e4eabb4ef194"/>
+		<rom name="Layouts/Casino Crazy JPM/Seg4.png" size="2545" crc="5c053dbd" sha1="fc4a37fa544f876114618309399ae68348bc2cfe"/>
+		<rom name="Layouts/Casino Crazy JPM/Seg5.png" size="3755" crc="d703c4d6" sha1="8708d179c640c5d42cab282595005aedaca9418d"/>
+		<rom name="Layouts/Casino Crazy JPM/Seg6.png" size="3857" crc="6ac555b7" sha1="96f91f68dd52390829c4022ea011192e4b43ee24"/>
+		<rom name="Layouts/Casino Crazy JPM/Seg7.png" size="2631" crc="92ac365a" sha1="7e356b6b961267001986c91a145b3f6a4e9f06e3"/>
+		<rom name="Layouts/Casino Crazy JPM/SegBack.png" size="2702" crc="9ae1c8aa" sha1="e22fcb173eb07a7d0a0b57593fef4347e6560b22"/>
+		<rom name="Layouts/Casino Crazy JPM/SegGlass.png" size="753" crc="67037a88" sha1="f7b44d764cb7381f92c0461d5daed9962d20a6ae"/>
+		<rom name="Layouts/Casino Crazy JPM/STATE" size="48765" crc="94559f98" sha1="245b6def18f3a41b5f1f67bde1bb1b168b70d3c9"/>
+		<rom name="Layouts/Casino Crazy JPM/STATECMP" size="4495" crc="d728bb8f" sha1="3d338d87e211ba0f62015c34940926bb64c77aa3"/>
+		<rom name="Layouts/Casino Crazy JPM/TestCmp2.tst" size="3459789" crc="8c8731a2" sha1="200258b80ad8f982072974b6fe4d85e48b389df3"/>
+		<rom name="Layouts/Casino Crazy JPM/TestSave.tst" size="49369" crc="bc4ef4c6" sha1="612caadb8b7f393ef4463728febb6d194f94f914"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaBack.png" size="2008" crc="ac558ab6" sha1="a625dedc8921677f4e84958f379983038242010a"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaBack2.png" size="159" crc="74738014" sha1="7ac70db6c0f599d1e149436ae9be68d6d55dabfa"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaGlass.png" size="6202" crc="2ae2d09b" sha1="089d6911734bea2718867f2c7b3df2324b8883e2"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSeg0.png" size="640" crc="5061d3fd" sha1="e4b0e0dbd3e08bd4c6c375660bdc6331ce0ef2ae"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSeg1.png" size="626" crc="e208bdfe" sha1="011be9786d986f0ab529bc17cec2d47c1e0542e2"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSeg10.png" size="523" crc="054089d9" sha1="9366d4b24c948de1b76b5924d86d39d3b8184551"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSeg11.png" size="918" crc="b13d1bee" sha1="8d0b4b56de113d0c40cb0447b093e13fd6d50c05"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSeg12.png" size="781" crc="3c35a6df" sha1="747770337084e8e2d52542151c62dcaf28decdcd"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSeg13.png" size="930" crc="db2dcb2e" sha1="e55fc7c0e257ede56ad42e4cc349b013be7c20e3"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSeg14.png" size="559" crc="1b0d8bcc" sha1="f42c85f266c3159b9b2e2a4eca80e1eb5cbb5cac"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSeg15.png" size="923" crc="d0f0b3e5" sha1="461c33cb1ec2ab6aac26099cee7aa8579857dbfc"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSeg2.png" size="990" crc="1efd9039" sha1="9ea6bee46aeca51fd4511dba2084c31c5860d0fa"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSeg3.png" size="953" crc="eab7f133" sha1="8c5c549db5d6526373e8bdd02157065bc789c0a1"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSeg4.png" size="780" crc="2562b040" sha1="dccd28a9a8c1cabb405fdde04d7245bfd2601126"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSeg5.png" size="782" crc="a6a0d9ea" sha1="8ab36c59e466a7a6e2b5646ed86433eb03ec499f"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSeg6.png" size="1105" crc="b7ae8cef" sha1="93024bd83968ef6728b2a7f2021d2bf6013f16b5"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSeg7.png" size="1071" crc="21eedf04" sha1="749414cbab1cf2b799a3684600c0c0a1fc0484f7"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSeg8.png" size="952" crc="1ec5768e" sha1="bc3adfa16601fe9939183ce9247b3a9b9c8b4d5f"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSeg9.png" size="881" crc="fb6276cc" sha1="5d4b471a36bda6f3c8f36dcdb33877a2931bd296"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSegComma.png" size="500" crc="6a3ef663" sha1="5c65a204d549c97defa1e1f1c6da744d56b95f07"/>
+		<rom name="Layouts/Italian Job Maygay/AlphaSegDot.png" size="482" crc="eef76d88" sha1="ab6f822354c741406e834e1f9ba00b5dc5d7c7b4"/>
+		<rom name="Layouts/Italian Job Maygay/Band0.png" size="129460" crc="4d35429b" sha1="51ef22ca4dba44c17bcd240f09e2aad674305738"/>
+		<rom name="Layouts/Italian Job Maygay/Band1.png" size="129340" crc="d3386f56" sha1="f8d383e9fb219339bf776a14bad0773cb9397f2a"/>
+		<rom name="Layouts/Italian Job Maygay/Band2.png" size="128222" crc="3e25171d" sha1="ec579b15cda7aa86aa4c0f9f0f5d8fa356558aaf"/>
+		<rom name="Layouts/Italian Job Maygay/Band3.png" size="99845" crc="86f191fd" sha1="55a6ac2d485539381ce418363a2534e1e9250a84"/>
+		<rom name="Layouts/Italian Job Maygay/Band4.png" size="6992" crc="ab286726" sha1="f01865266b977bf82a400508297be46d5710eb60"/>
+		<rom name="Layouts/Italian Job Maygay/Band5.png" size="9253" crc="534d0472" sha1="397557aab4dd6e249bacffeb67bcec9e0b28c5e0"/>
+		<rom name="Layouts/Italian Job Maygay/Band6.png" size="9253" crc="534d0472" sha1="397557aab4dd6e249bacffeb67bcec9e0b28c5e0"/>
+		<rom name="Layouts/Italian Job Maygay/Band7.png" size="9253" crc="534d0472" sha1="397557aab4dd6e249bacffeb67bcec9e0b28c5e0"/>
+		<rom name="Layouts/Italian Job Maygay/Game.mlf" size="883" crc="c28e30ee" sha1="ec06c8f11734e2238ed50885c554ec16d8082c88"/>
+		<rom name="Layouts/Italian Job Maygay/i_job.g0" size="131072" crc="d3133b25" sha1="b30268ab21a9e0c7193ae697710ff37d27af0a5b"/>
+		<rom name="Layouts/Italian Job Maygay/i_job.g1" size="131072" crc="0765b48b" sha1="32eaa458e7f693c7bbbed94342f5f78906137c49"/>
+		<rom name="Layouts/Italian Job Maygay/it_job.s1" size="524288" crc="77ea2225" sha1="fb02bccf4555797b60871070821afe2162be26c2"/>
+		<rom name="Layouts/Italian Job Maygay/it_job.s2" size="524288" crc="b6f86703" sha1="f09f9d88132919ca24fc1ed7094b5b22c1136eb8"/>
+		<rom name="Layouts/Italian Job Maygay/LampsMap0.png" size="333513" crc="a0c034bc" sha1="cbbf5c3658c5b7f6fb4dd01a9288f49cd29e706f"/>
+		<rom name="Layouts/Italian Job Maygay/LampsOff.png" size="14780435" crc="3e45da6f" sha1="96bbb2d80c433eaff72433b4241497dcab5ef8c3"/>
+		<rom name="Layouts/Italian Job Maygay/LampsOn0.png" size="24908857" crc="3b1b7742" sha1="38123776adb4cc829579505bc0b0b15693ab64ce"/>
+		<rom name="Layouts/Italian Job Maygay/LampsOn1.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Italian Job Maygay/LampsOn2.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Italian Job Maygay/LampsOn3.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Italian Job Maygay/LampsOn4.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Italian Job Maygay/LampsOn5.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Italian Job Maygay/LampsOn6.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Italian Job Maygay/LampsOn7.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/Italian Job Maygay/LoadBack.png" size="2248401" crc="8979f344" sha1="55c8d62a056b75423a8eb357281c985f3fe4a57f"/>
+		<rom name="Layouts/Italian Job Maygay/LoadBar.png" size="2073" crc="3a3136fb" sha1="e447240b97c225a99cdb539036953e7995cc1aab"/>
+		<rom name="Layouts/Italian Job Maygay/MaskBackBand0.png" size="129460" crc="4d35429b" sha1="51ef22ca4dba44c17bcd240f09e2aad674305738"/>
+		<rom name="Layouts/Italian Job Maygay/MaskBackBand1.png" size="129340" crc="d3386f56" sha1="f8d383e9fb219339bf776a14bad0773cb9397f2a"/>
+		<rom name="Layouts/Italian Job Maygay/MaskBackBand2.png" size="128222" crc="3e25171d" sha1="ec579b15cda7aa86aa4c0f9f0f5d8fa356558aaf"/>
+		<rom name="Layouts/Italian Job Maygay/MaskBackBand3.png" size="99845" crc="86f191fd" sha1="55a6ac2d485539381ce418363a2534e1e9250a84"/>
+		<rom name="Layouts/Italian Job Maygay/MaskBackBand4.png" size="110045" crc="6038814b" sha1="0d36d13fe523c8fb4c4590030a81acae2124b477"/>
+		<rom name="Layouts/Italian Job Maygay/MaskBackBand5.png" size="110045" crc="6038814b" sha1="0d36d13fe523c8fb4c4590030a81acae2124b477"/>
+		<rom name="Layouts/Italian Job Maygay/MaskBackBand6.png" size="110045" crc="6038814b" sha1="0d36d13fe523c8fb4c4590030a81acae2124b477"/>
+		<rom name="Layouts/Italian Job Maygay/MaskBackBand7.png" size="110045" crc="6038814b" sha1="0d36d13fe523c8fb4c4590030a81acae2124b477"/>
+		<rom name="Layouts/Italian Job Maygay/MaskSymbolBand0.png" size="1932" crc="b6987edc" sha1="00c8a07fe23022f338d52daa9718a2f324d27032"/>
+		<rom name="Layouts/Italian Job Maygay/MaskSymbolBand1.png" size="1932" crc="b6987edc" sha1="00c8a07fe23022f338d52daa9718a2f324d27032"/>
+		<rom name="Layouts/Italian Job Maygay/MaskSymbolBand2.png" size="1932" crc="b6987edc" sha1="00c8a07fe23022f338d52daa9718a2f324d27032"/>
+		<rom name="Layouts/Italian Job Maygay/MaskSymbolBand3.png" size="4656" crc="31a6b0e3" sha1="889e57120270a27de261dda31c39de6d26e7e14c"/>
+		<rom name="Layouts/Italian Job Maygay/MaskSymbolBand4.png" size="8248" crc="fa8479ff" sha1="7ad01e8b32ad0c79daf63137512d5c2c0ee0e7b7"/>
+		<rom name="Layouts/Italian Job Maygay/MaskSymbolBand5.png" size="8248" crc="fa8479ff" sha1="7ad01e8b32ad0c79daf63137512d5c2c0ee0e7b7"/>
+		<rom name="Layouts/Italian Job Maygay/MaskSymbolBand6.png" size="8248" crc="fa8479ff" sha1="7ad01e8b32ad0c79daf63137512d5c2c0ee0e7b7"/>
+		<rom name="Layouts/Italian Job Maygay/MaskSymbolBand7.png" size="8248" crc="fa8479ff" sha1="7ad01e8b32ad0c79daf63137512d5c2c0ee0e7b7"/>
+		<rom name="Layouts/Italian Job Maygay/MeterNumbers.png" size="575" crc="fcb1d83b" sha1="4830f3bdfb62d6e4271bec39ecf465026de3b8e3"/>
+		<rom name="Layouts/Italian Job Maygay/Prism00.png" size="1648" crc="6cae2fee" sha1="376b49c38aead157b4e0bdcd44a2b0eddc2f5ea9"/>
+		<rom name="Layouts/Italian Job Maygay/Prism01.png" size="2059" crc="36a2792c" sha1="73eb9c937d0130c3f4e04a6381084703efaa980a"/>
+		<rom name="Layouts/Italian Job Maygay/Prism10.png" size="1648" crc="6cae2fee" sha1="376b49c38aead157b4e0bdcd44a2b0eddc2f5ea9"/>
+		<rom name="Layouts/Italian Job Maygay/Prism100.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism101.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism11.png" size="2059" crc="36a2792c" sha1="73eb9c937d0130c3f4e04a6381084703efaa980a"/>
+		<rom name="Layouts/Italian Job Maygay/Prism110.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism111.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism120.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism121.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism130.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism131.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism140.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism141.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism150.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism151.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism20.png" size="1648" crc="6cae2fee" sha1="376b49c38aead157b4e0bdcd44a2b0eddc2f5ea9"/>
+		<rom name="Layouts/Italian Job Maygay/Prism21.png" size="2059" crc="36a2792c" sha1="73eb9c937d0130c3f4e04a6381084703efaa980a"/>
+		<rom name="Layouts/Italian Job Maygay/Prism30.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism31.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism40.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism41.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism50.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism51.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism60.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism61.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism70.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism71.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism80.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism81.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism90.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/Prism91.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/Italian Job Maygay/RAM" size="131072" crc="30128576" sha1="531139ed86fff5d6dc469babaea4816e7a388113"/>
+		<rom name="Layouts/Italian Job Maygay/Seg0.png" size="999" crc="6bb394ec" sha1="5cdc2424ea83f4faa0efd31363d5e7dcf1c588ff"/>
+		<rom name="Layouts/Italian Job Maygay/Seg1.png" size="2469" crc="04683b1b" sha1="f10814a9d1f87e3d791411971b55e690a611713c"/>
+		<rom name="Layouts/Italian Job Maygay/Seg2.png" size="3820" crc="e8ea8011" sha1="962d49e2c142715d4243153528b35515fb0398c8"/>
+		<rom name="Layouts/Italian Job Maygay/Seg3.png" size="3888" crc="dc0e5005" sha1="c37bdc80b2e06491cd9fd5879a95e4eabb4ef194"/>
+		<rom name="Layouts/Italian Job Maygay/Seg4.png" size="2545" crc="5c053dbd" sha1="fc4a37fa544f876114618309399ae68348bc2cfe"/>
+		<rom name="Layouts/Italian Job Maygay/Seg5.png" size="3755" crc="d703c4d6" sha1="8708d179c640c5d42cab282595005aedaca9418d"/>
+		<rom name="Layouts/Italian Job Maygay/Seg6.png" size="3857" crc="6ac555b7" sha1="96f91f68dd52390829c4022ea011192e4b43ee24"/>
+		<rom name="Layouts/Italian Job Maygay/Seg7.png" size="2631" crc="92ac365a" sha1="7e356b6b961267001986c91a145b3f6a4e9f06e3"/>
+		<rom name="Layouts/Italian Job Maygay/SegBack.png" size="2702" crc="9ae1c8aa" sha1="e22fcb173eb07a7d0a0b57593fef4347e6560b22"/>
+		<rom name="Layouts/Italian Job Maygay/SegGlass.png" size="753" crc="67037a88" sha1="f7b44d764cb7381f92c0461d5daed9962d20a6ae"/>
+		<rom name="Layouts/Italian Job Maygay/STATECMP" size="4992" crc="1736f21a" sha1="7bac249e5f0a2236fb04ae95ab2a1ef100f992f4"/>
+		<rom name="Layouts/Italian Job Maygay/TestCmp2.tst" size="41516711" crc="532b306b" sha1="3b315defa86078611d99f40dbb6357cc5167e017"/>
+		<rom name="Layouts/Italian Job Maygay/TestSave.tst" size="49356" crc="219d7c85" sha1="536662df27d3955f5c2ec881e0ded91dce223494"/>
+		<rom name="Layouts/The Simpsons Maygay/15SIMP_F.G0" size="131072" crc="8b5b266a" sha1="358a98f1cd4fc65a4dfe7e9436eeca5f0649de15"/>
+		<rom name="Layouts/The Simpsons Maygay/15SIMP_F.G1" size="131072" crc="a4ec81bb" sha1="bac8475def260f53e0fd25037752295ba04c88de"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaBack.png" size="2008" crc="ac558ab6" sha1="a625dedc8921677f4e84958f379983038242010a"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaBack2.png" size="159" crc="74738014" sha1="7ac70db6c0f599d1e149436ae9be68d6d55dabfa"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaGlass.png" size="6202" crc="2ae2d09b" sha1="089d6911734bea2718867f2c7b3df2324b8883e2"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSeg0.png" size="640" crc="5061d3fd" sha1="e4b0e0dbd3e08bd4c6c375660bdc6331ce0ef2ae"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSeg1.png" size="626" crc="e208bdfe" sha1="011be9786d986f0ab529bc17cec2d47c1e0542e2"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSeg10.png" size="523" crc="054089d9" sha1="9366d4b24c948de1b76b5924d86d39d3b8184551"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSeg11.png" size="918" crc="b13d1bee" sha1="8d0b4b56de113d0c40cb0447b093e13fd6d50c05"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSeg12.png" size="781" crc="3c35a6df" sha1="747770337084e8e2d52542151c62dcaf28decdcd"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSeg13.png" size="930" crc="db2dcb2e" sha1="e55fc7c0e257ede56ad42e4cc349b013be7c20e3"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSeg14.png" size="559" crc="1b0d8bcc" sha1="f42c85f266c3159b9b2e2a4eca80e1eb5cbb5cac"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSeg15.png" size="923" crc="d0f0b3e5" sha1="461c33cb1ec2ab6aac26099cee7aa8579857dbfc"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSeg2.png" size="990" crc="1efd9039" sha1="9ea6bee46aeca51fd4511dba2084c31c5860d0fa"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSeg3.png" size="953" crc="eab7f133" sha1="8c5c549db5d6526373e8bdd02157065bc789c0a1"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSeg4.png" size="780" crc="2562b040" sha1="dccd28a9a8c1cabb405fdde04d7245bfd2601126"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSeg5.png" size="782" crc="a6a0d9ea" sha1="8ab36c59e466a7a6e2b5646ed86433eb03ec499f"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSeg6.png" size="1105" crc="b7ae8cef" sha1="93024bd83968ef6728b2a7f2021d2bf6013f16b5"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSeg7.png" size="1071" crc="21eedf04" sha1="749414cbab1cf2b799a3684600c0c0a1fc0484f7"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSeg8.png" size="952" crc="1ec5768e" sha1="bc3adfa16601fe9939183ce9247b3a9b9c8b4d5f"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSeg9.png" size="881" crc="fb6276cc" sha1="5d4b471a36bda6f3c8f36dcdb33877a2931bd296"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSegComma.png" size="500" crc="6a3ef663" sha1="5c65a204d549c97defa1e1f1c6da744d56b95f07"/>
+		<rom name="Layouts/The Simpsons Maygay/AlphaSegDot.png" size="482" crc="eef76d88" sha1="ab6f822354c741406e834e1f9ba00b5dc5d7c7b4"/>
+		<rom name="Layouts/The Simpsons Maygay/Band0.png" size="60116" crc="2a57bf13" sha1="277deb7defca756cabb346fb8fff9a8c36074bd1"/>
+		<rom name="Layouts/The Simpsons Maygay/Band1.png" size="63512" crc="c5fe58b6" sha1="b76adee51837658511fbb4f1adaced28023eb092"/>
+		<rom name="Layouts/The Simpsons Maygay/Band2.png" size="57690" crc="2d445866" sha1="6ccae355be5b757c8481c740164bb3bb88515a97"/>
+		<rom name="Layouts/The Simpsons Maygay/Band3.png" size="57674" crc="23b68daa" sha1="a39dcff73e3e52111cfcb1a9f48a7449939af9eb"/>
+		<rom name="Layouts/The Simpsons Maygay/Band4.png" size="6992" crc="ab286726" sha1="f01865266b977bf82a400508297be46d5710eb60"/>
+		<rom name="Layouts/The Simpsons Maygay/Band5.png" size="9253" crc="534d0472" sha1="397557aab4dd6e249bacffeb67bcec9e0b28c5e0"/>
+		<rom name="Layouts/The Simpsons Maygay/Band6.png" size="9253" crc="534d0472" sha1="397557aab4dd6e249bacffeb67bcec9e0b28c5e0"/>
+		<rom name="Layouts/The Simpsons Maygay/Band7.png" size="9253" crc="534d0472" sha1="397557aab4dd6e249bacffeb67bcec9e0b28c5e0"/>
+		<rom name="Layouts/The Simpsons Maygay/Game.mlf" size="881" crc="64552454" sha1="7c370584e8c8238429f706607fbda13ed6e1e377"/>
+		<rom name="Layouts/The Simpsons Maygay/LampsMap0.png" size="1076685" crc="4f1bfc18" sha1="c80b45e139e01f575bcb2da4c972aa2638eaf130"/>
+		<rom name="Layouts/The Simpsons Maygay/LampsMap1.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/The Simpsons Maygay/LampsMap2.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/The Simpsons Maygay/LampsMap3.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/The Simpsons Maygay/LampsMap4.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/The Simpsons Maygay/LampsMap5.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/The Simpsons Maygay/LampsMap6.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/The Simpsons Maygay/LampsMap7.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/The Simpsons Maygay/LampsOff.png" size="19203649" crc="f743f8af" sha1="f145f6f640a9970a5b842ebc10ba1a943375116b"/>
+		<rom name="Layouts/The Simpsons Maygay/LampsOn0.png" size="17741793" crc="20880179" sha1="0fdd532da2c102f20229c030f5cdd64b73fc2bf3"/>
+		<rom name="Layouts/The Simpsons Maygay/LampsOn1.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/The Simpsons Maygay/LampsOn2.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/The Simpsons Maygay/LampsOn3.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/The Simpsons Maygay/LampsOn4.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/The Simpsons Maygay/LampsOn5.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/The Simpsons Maygay/LampsOn6.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/The Simpsons Maygay/LampsOn7.png" size="49073" crc="01afa01e" sha1="48a45d4fcc11ec920c4eb78e2df4e58020b9915e"/>
+		<rom name="Layouts/The Simpsons Maygay/LoadBack.png" size="2248401" crc="8979f344" sha1="55c8d62a056b75423a8eb357281c985f3fe4a57f"/>
+		<rom name="Layouts/The Simpsons Maygay/LoadBar.png" size="2073" crc="3a3136fb" sha1="e447240b97c225a99cdb539036953e7995cc1aab"/>
+		<rom name="Layouts/The Simpsons Maygay/MaskBackBand0.png" size="60116" crc="2a57bf13" sha1="277deb7defca756cabb346fb8fff9a8c36074bd1"/>
+		<rom name="Layouts/The Simpsons Maygay/MaskBackBand1.png" size="63512" crc="c5fe58b6" sha1="b76adee51837658511fbb4f1adaced28023eb092"/>
+		<rom name="Layouts/The Simpsons Maygay/MaskBackBand2.png" size="57690" crc="2d445866" sha1="6ccae355be5b757c8481c740164bb3bb88515a97"/>
+		<rom name="Layouts/The Simpsons Maygay/MaskBackBand3.png" size="58807" crc="fd404ac3" sha1="38dc0726e28badd9e9adaafa8891dcc882348a56"/>
+		<rom name="Layouts/The Simpsons Maygay/MaskBackBand4.png" size="110045" crc="6038814b" sha1="0d36d13fe523c8fb4c4590030a81acae2124b477"/>
+		<rom name="Layouts/The Simpsons Maygay/MaskBackBand5.png" size="110045" crc="6038814b" sha1="0d36d13fe523c8fb4c4590030a81acae2124b477"/>
+		<rom name="Layouts/The Simpsons Maygay/MaskBackBand6.png" size="110045" crc="6038814b" sha1="0d36d13fe523c8fb4c4590030a81acae2124b477"/>
+		<rom name="Layouts/The Simpsons Maygay/MaskBackBand7.png" size="110045" crc="6038814b" sha1="0d36d13fe523c8fb4c4590030a81acae2124b477"/>
+		<rom name="Layouts/The Simpsons Maygay/MaskSymbolBand0.png" size="1932" crc="b6987edc" sha1="00c8a07fe23022f338d52daa9718a2f324d27032"/>
+		<rom name="Layouts/The Simpsons Maygay/MaskSymbolBand1.png" size="1932" crc="b6987edc" sha1="00c8a07fe23022f338d52daa9718a2f324d27032"/>
+		<rom name="Layouts/The Simpsons Maygay/MaskSymbolBand2.png" size="1932" crc="b6987edc" sha1="00c8a07fe23022f338d52daa9718a2f324d27032"/>
+		<rom name="Layouts/The Simpsons Maygay/MaskSymbolBand3.png" size="4656" crc="31a6b0e3" sha1="889e57120270a27de261dda31c39de6d26e7e14c"/>
+		<rom name="Layouts/The Simpsons Maygay/MaskSymbolBand4.png" size="8248" crc="fa8479ff" sha1="7ad01e8b32ad0c79daf63137512d5c2c0ee0e7b7"/>
+		<rom name="Layouts/The Simpsons Maygay/MaskSymbolBand5.png" size="8248" crc="fa8479ff" sha1="7ad01e8b32ad0c79daf63137512d5c2c0ee0e7b7"/>
+		<rom name="Layouts/The Simpsons Maygay/MaskSymbolBand6.png" size="8248" crc="fa8479ff" sha1="7ad01e8b32ad0c79daf63137512d5c2c0ee0e7b7"/>
+		<rom name="Layouts/The Simpsons Maygay/MaskSymbolBand7.png" size="8248" crc="fa8479ff" sha1="7ad01e8b32ad0c79daf63137512d5c2c0ee0e7b7"/>
+		<rom name="Layouts/The Simpsons Maygay/MeterNumbers.png" size="575" crc="fcb1d83b" sha1="4830f3bdfb62d6e4271bec39ecf465026de3b8e3"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism00.png" size="1648" crc="6cae2fee" sha1="376b49c38aead157b4e0bdcd44a2b0eddc2f5ea9"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism01.png" size="2059" crc="36a2792c" sha1="73eb9c937d0130c3f4e04a6381084703efaa980a"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism10.png" size="1648" crc="6cae2fee" sha1="376b49c38aead157b4e0bdcd44a2b0eddc2f5ea9"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism100.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism101.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism11.png" size="2059" crc="36a2792c" sha1="73eb9c937d0130c3f4e04a6381084703efaa980a"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism110.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism111.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism120.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism121.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism130.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism131.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism140.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism141.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism150.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism151.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism20.png" size="1648" crc="6cae2fee" sha1="376b49c38aead157b4e0bdcd44a2b0eddc2f5ea9"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism21.png" size="2059" crc="36a2792c" sha1="73eb9c937d0130c3f4e04a6381084703efaa980a"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism30.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism31.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism40.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism41.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism50.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism51.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism60.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism61.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism70.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism71.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism80.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism81.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism90.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/Prism91.png" size="90" crc="1d01f834" sha1="1259fb42487b8240a24914b879268a603cec15e2"/>
+		<rom name="Layouts/The Simpsons Maygay/RAM" size="131072" crc="33e4d078" sha1="008417a4fca9f509e85a2e41e98cf929c9fb4459"/>
+		<rom name="Layouts/The Simpsons Maygay/Seg0.png" size="999" crc="6bb394ec" sha1="5cdc2424ea83f4faa0efd31363d5e7dcf1c588ff"/>
+		<rom name="Layouts/The Simpsons Maygay/Seg1.png" size="2469" crc="04683b1b" sha1="f10814a9d1f87e3d791411971b55e690a611713c"/>
+		<rom name="Layouts/The Simpsons Maygay/Seg2.png" size="3820" crc="e8ea8011" sha1="962d49e2c142715d4243153528b35515fb0398c8"/>
+		<rom name="Layouts/The Simpsons Maygay/Seg3.png" size="3888" crc="dc0e5005" sha1="c37bdc80b2e06491cd9fd5879a95e4eabb4ef194"/>
+		<rom name="Layouts/The Simpsons Maygay/Seg4.png" size="2545" crc="5c053dbd" sha1="fc4a37fa544f876114618309399ae68348bc2cfe"/>
+		<rom name="Layouts/The Simpsons Maygay/Seg5.png" size="3755" crc="d703c4d6" sha1="8708d179c640c5d42cab282595005aedaca9418d"/>
+		<rom name="Layouts/The Simpsons Maygay/Seg6.png" size="3857" crc="6ac555b7" sha1="96f91f68dd52390829c4022ea011192e4b43ee24"/>
+		<rom name="Layouts/The Simpsons Maygay/Seg7.png" size="2631" crc="92ac365a" sha1="7e356b6b961267001986c91a145b3f6a4e9f06e3"/>
+		<rom name="Layouts/The Simpsons Maygay/SegBack.png" size="2702" crc="9ae1c8aa" sha1="e22fcb173eb07a7d0a0b57593fef4347e6560b22"/>
+		<rom name="Layouts/The Simpsons Maygay/SegGlass.png" size="753" crc="67037a88" sha1="f7b44d764cb7381f92c0461d5daed9962d20a6ae"/>
+		<rom name="Layouts/The Simpsons Maygay/SIMPSND0" size="524288" crc="d58d16cc" sha1="75eb2ab106855156831399a08eed66295c0c288f"/>
+		<rom name="Layouts/The Simpsons Maygay/SIMPSND1" size="524288" crc="26d12470" sha1="4ea92b9d80c73d784534185313a6d5534cb6f3b2"/>
+		<rom name="Layouts/The Simpsons Maygay/STATECMP" size="4992" crc="1736f21a" sha1="7bac249e5f0a2236fb04ae95ab2a1ef100f992f4"/>
+		<rom name="Layouts/The Simpsons Maygay/TestCmp2.tst" size="39019364" crc="2dc39343" sha1="cbf1ed2eccf855ab2c5ae31c0169aac0b4e9d1fd"/>
+		<rom name="Layouts/The Simpsons Maygay/TestSave.tst" size="49356" crc="37cbf5a6" sha1="566dab9291e2ef0eb9b5ffcb88db5c0500262a71"/>
+		<rom name="Release32/Amber Debug.txt" size="15175" crc="56631aef" sha1="49c429603ab65de932c7f68328ee892b2cb5d853"/>
+		<rom name="Release32/bass.dll" size="110207" crc="a7e47231" sha1="ff855961eb5ed8779498915bab3d642044fc9bb1"/>
+		<rom name="Release32/Debug.txt" size="5066" crc="b3522884" sha1="5095eab652b57387e2edda7e50ac2c0f3ead5835"/>
+		<rom name="Release32/EpochCore.dll" size="81920" crc="7525649d" sha1="de309e17be32d6189394b5adc3a70a65130129d1"/>
+		<rom name="Release32/EpochCore.exp" size="10615" crc="2c72534c" sha1="f37fe0104014d4c3139ee5ac775c73441e38dcd6"/>
+		<rom name="Release32/EpochCore.lib" size="18460" crc="51fad64c" sha1="f31aed4c5660e51909eeec0547c8547398ea97e5"/>
+		<rom name="Release32/EpochCore.pdb" size="1133568" crc="695c8227" sha1="870e767c91e96ead05f01082b9d95e080a470f66"/>
+		<rom name="Release32/FreeImage.dll" size="5647872" crc="07896849" sha1="1fc316e86ea7b1395aa764988d3424cf5c9f9206"/>
+		<rom name="Release32/LayList.txt" size="245" crc="4abf3007" sha1="45dad27719fb3d327dbfccb6304618ab2fd3c0f8"/>
+		<rom name="Release32/MPU4Core.dll" size="416256" crc="32f68d5b" sha1="7ca1cbeb74c3488310f9ddd4c590cbb57d25f614"/>
+		<rom name="Release32/MPU4Core.exp" size="54851" crc="1b5852d1" sha1="4ed231d1764b2f5a8a048ee7e9063463cb23867f"/>
+		<rom name="Release32/MPU4Core.lib" size="92016" crc="a830f641" sha1="91831f00c8ac39842e0f12a2a95c5c3427fe584f"/>
+		<rom name="Release32/Project Amber 2.exe" size="659456" crc="57a846ad" sha1="216cdc17afca32de503b5a9fce7fb4b34fe8ced7"/>
+		<rom name="Release32/Project Amber 2.pdb" size="1969152" crc="2670c819" sha1="bc3890c1ba74e855887828dd8d6228f4696025ae"/>
+		<rom name="Release32/ROMList.txt" size="488" crc="c1daf4f7" sha1="242ec05b90f8b9f5b6d8c1135c1f8b696069658b"/>
+		<rom name="Release32/Sound Debug.txt" size="210" crc="f810cd24" sha1="6ea0665b5de46172fbb1d1ab91f06447901ce564"/>
+		<rom name="Release32/Sys6Core.dll" size="585216" crc="c5d760af" sha1="d7bd5c45decda8bfff67a97ddb0aa1fc3324562e"/>
+		<rom name="Release32/Sys6Core.exp" size="15136" crc="82222d54" sha1="7cedc94307f921eea930e1f98581dc99d47be2cf"/>
+		<rom name="Release32/Sys6Core.lib" size="25894" crc="542f4a48" sha1="038e4bf2135ae7ac268754bfce5f5eac28049bdc"/>
+		<rom name="Release32/Sys6Core.pdb" size="2739200" crc="5c76c86a" sha1="7d935be439b4ea15ee0f53a0e90f37cb6a6770a7"/>
+		<rom name="Release32/vcomp120.dll" size="137376" crc="fb612aa7" sha1="1f8c667df810fed8fb42a6680a15465ac1e288eb"/>
+		<rom name="Release32/zlibwapi.dll" size="72192" crc="b2c7bed9" sha1="5d7579d722fa2ee311944b45a479feed81af1d67"/>
+		<rom name="Release64/bass.dll" size="227840" crc="4d38f636" sha1="334b3d4eb15f784a59eee23d5cb6ae607cf243eb"/>
+		<rom name="Release64/EpochCore.dll" size="90112" crc="3cfdba24" sha1="39d77203d5af18e792cc9351bd2837d8b3384a10"/>
+		<rom name="Release64/EpochCore.exp" size="10428" crc="6487b262" sha1="e4464b545f78eac3642dd624c7c90da25618e7f1"/>
+		<rom name="Release64/EpochCore.lib" size="18058" crc="f642ca02" sha1="d127201559460003c1cc3360b7f2802f3cfbd6d8"/>
+		<rom name="Release64/EpochCore.pdb" size="1125376" crc="e9a412df" sha1="864bb3f99f660ca3f5161b4400566197cee85549"/>
+		<rom name="Release64/FreeImage.dll" size="6402560" crc="9e3ff123" sha1="fc4e67de92eb34b9c89ca37a1a4592066b9193c6"/>
+		<rom name="Release64/MPU4Core.dll" size="407040" crc="519ad361" sha1="3f7cb0c3bb0592eca322f6b33c963599cb2c9aa8"/>
+		<rom name="Release64/MPU4Core.exp" size="54026" crc="3f5a2900" sha1="3b51f5cbf331aed85f886a0c1d1d19dc9d4b3596"/>
+		<rom name="Release64/MPU4Core.lib" size="90072" crc="4e2baaf5" sha1="5883ac372727d1116ac7440e2a1188c0f6187c09"/>
+		<rom name="Release64/Project Amber 2.exe" size="720896" crc="941504e0" sha1="1e60f85175f7f3e6549f3841bc0faaa73e2afefd"/>
+		<rom name="Release64/Project Amber 2.pdb" size="1952768" crc="15121ef1" sha1="53b4bf65b2b74583882fcd86a27ecd5747743737"/>
+		<rom name="Release64/Sys6Core.dll" size="733696" crc="a3335d65" sha1="076c2caccb55b118e548a81b44c7d131301c09a8"/>
+		<rom name="Release64/Sys6Core.exp" size="14914" crc="ba0f9a1d" sha1="52792f1b4306b1f95073b58c3a38ab6df17abb5e"/>
+		<rom name="Release64/Sys6Core.lib" size="25340" crc="9ceec68e" sha1="749bc5704e1db0d06e103a876a562ede91b98fa0"/>
+		<rom name="Release64/Sys6Core.pdb" size="2591744" crc="008b31d0" sha1="be3a418ce4d68fc584ada316619b219dfd4ed18c"/>
+		<rom name="Release64/vcomp120.dll" size="119456" crc="6b7bb556" sha1="8d81406c8dd3ed8894d8aee07dd718dcfd2035c5"/>
+		<rom name="Release64/zlibwapi.dll" size="89088" crc="6bde8bc4" sha1="2ed9d1a085fa9179d199e0372d81462816fd7504"/>
+		<rom name="ROMs/1274.bin" size="524288" crc="90a19aaa" sha1="7b17e9fda01d4fb163e09107759a6bf473fc6dc0"/>
+		<rom name="ROMs/15SIMP_F.G0" size="131072" crc="8b5b266a" sha1="358a98f1cd4fc65a4dfe7e9436eeca5f0649de15"/>
+		<rom name="ROMs/15SIMP_F.G1" size="131072" crc="a4ec81bb" sha1="bac8475def260f53e0fd25037752295ba04c88de"/>
+		<rom name="ROMs/7648.bin" size="131072" crc="ac772dd4" sha1="c288cdcf678edccdca7c24d62bb0d5b1bdddeae2"/>
+		<rom name="ROMs/7649.bin" size="131072" crc="9184a594" sha1="a7db14191b04e7e9fba1f167157af0f187f2d591"/>
+		<rom name="ROMs/i_job.g0" size="131072" crc="d3133b25" sha1="b30268ab21a9e0c7193ae697710ff37d27af0a5b"/>
+		<rom name="ROMs/i_job.g1" size="131072" crc="0765b48b" sha1="32eaa458e7f693c7bbbed94342f5f78906137c49"/>
+		<rom name="ROMs/it_job.s1" size="524288" crc="77ea2225" sha1="fb02bccf4555797b60871070821afe2162be26c2"/>
+		<rom name="ROMs/it_job.s2" size="524288" crc="b6f86703" sha1="f09f9d88132919ca24fc1ed7094b5b22c1136eb8"/>
+		<rom name="ROMs/SIMPSND0" size="524288" crc="d58d16cc" sha1="75eb2ab106855156831399a08eed66295c0c288f"/>
+		<rom name="ROMs/SIMPSND1" size="524288" crc="26d12470" sha1="4ea92b9d80c73d784534185313a6d5534cb6f3b2"/>
+	</game>
+	<game name="Project Amber readme">
+		<rom name="Project Amber readme.txt" size="11033" crc="ab4893c7" sha1="bcba22e3d9c6e2eebd6e6d2fb44fcb0daabd78e7"/>
+	</game>
+</datafile>
