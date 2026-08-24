@@ -52,6 +52,20 @@ _QUALIFIER_RE = re.compile(r"(\s*\([^)]*\))+\s*$")
 _ALT_NAME_RE = re.compile(r"\s*&.*$")
 _MARKERS = {"non-redump", "redump", "source code", "unofficial"}
 
+# Categories de contenu qui ne correspondent jamais a un "systeme" au sens
+# RetroBat (magazines scannes, extras, musique...) — pour en exclure une
+# nouvelle, il suffit d'ajouter le mot ici, aucune autre modification
+# necessaire. Teste sur le nom BRUT du catalogue (avant normalisation),
+# insensible a la casse.
+EXCLUDED_KEYWORDS = {
+    "magazines",
+}
+
+
+def is_excluded(raw_name):
+    lowered = raw_name.lower()
+    return any(keyword in lowered for keyword in EXCLUDED_KEYWORDS)
+
 
 def normalize(s):
     s = s.lower()
@@ -74,6 +88,23 @@ def extract_system_part(catalog_name):
     return " - ".join(segments)
 
 
+def _contains_token_sequence(haystack_tokens, needle_tokens):
+    """needle_tokens apparait tel quel (mots consecutifs) dans
+    haystack_tokens. Compare des MOTS entiers, jamais des sous-chaines de
+    caracteres — "mame" ne doit jamais matcher "hbmame" ou "pinmame" (mame
+    est bien une sous-chaine de caractres de ces deux mots, mais n'est pas
+    un mot separe dedans), meme probleme constate en reel avec "flash" qui
+    matchait "Flashback"/"Flashpoint"/"V.Flash" partout dans les nouvelles
+    sources (aout 2026)."""
+    if not needle_tokens or len(needle_tokens) > len(haystack_tokens):
+        return False
+    n = len(needle_tokens)
+    return any(
+        haystack_tokens[i:i + n] == needle_tokens
+        for i in range(len(haystack_tokens) - n + 1)
+    )
+
+
 def find_matches(retrobat_fullname, catalog_entries):
     """Rend TOUTES les entrees plausibles (pas juste la premiere) : plusieurs
     variantes d'un meme systeme (ex. Non-Redump vs officiel) peuvent
@@ -82,16 +113,25 @@ def find_matches(retrobat_fullname, catalog_entries):
     target = normalize(retrobat_fullname)
     if len(target) < 3:
         return []
+    target_tokens = target.split()
 
     exact = []
     loose = []
     for entry in catalog_entries:
+        if is_excluded(entry["name"]):
+            continue
+
         candidate = normalize(extract_system_part(entry["name"]))
         if not candidate:
             continue
+        candidate_tokens = candidate.split()
+
         if candidate == target:
             exact.append(entry)
-        elif len(candidate) >= 3 and (candidate in target or target in candidate):
+        elif len(candidate) >= 3 and (
+            _contains_token_sequence(candidate_tokens, target_tokens)
+            or _contains_token_sequence(target_tokens, candidate_tokens)
+        ):
             loose.append(entry)
 
     return exact if exact else loose
