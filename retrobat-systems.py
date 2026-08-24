@@ -28,6 +28,26 @@ MANIFESTS = {
     "TOSEC": "tosec.xml",
 }
 
+# Fournisseurs sans manifeste externe : chaque fichier du dossier EST son
+# propre dat (voir load_loose_folder) — le nom de fichier sert de nom de
+# catalogue pour le rapprochement, pas une entree d'un manifeste partage.
+LOOSE_FOLDERS = {
+    "Clean CPC DB": "clean-cpc-db",
+    "WHDLoad": "whdload",
+    "Pleasuredome MAME": "pleasuredome-mame",
+    "Pleasuredome HBMAME": "pleasuredome-hbmame",
+    "Pleasuredome PinMAME": "pleasuredome-pinmame",
+    "Visual Pinball": "visual-pinball",
+    "Future Pinball": "future-pinball",
+    "FBNeo": "fbneo",
+    "Libretro-database": "libretro-database-dat",
+}
+
+# eggmansworld-datfiles.py cree un sous-dossier par collection (19+, suit
+# les releases de Eggmansworld/Datfiles) — chaque sous-dossier devient sa
+# propre source ici, pas un dict fixe comme LOOSE_FOLDERS.
+EGGMANSWORLD_ROOT = "eggmansworld-datfiles"
+
 _QUALIFIER_RE = re.compile(r"(\s*\([^)]*\))+\s*$")
 _ALT_NAME_RE = re.compile(r"\s*&.*$")
 _MARKERS = {"non-redump", "redump", "source code", "unofficial"}
@@ -106,6 +126,44 @@ def load_manifest(path):
     return entries
 
 
+def load_loose_folder(folder):
+    """Pas de manifeste : chaque fichier .dat/.xml du dossier est lui-meme
+    un catalogue a une seule entree — son nom de fichier (sans extension)
+    sert de nom pour le rapprochement, son URL brute est deja publiee par
+    le script qui a rempli ce dossier plus tot dans le meme run."""
+    if not os.path.isdir(folder):
+        return []
+
+    repo = os.environ.get("GITHUB_REPOSITORY", "goldorakiller/auto-datfile-generator")
+    entries = []
+    for filename in sorted(os.listdir(folder)):
+        if not (filename.lower().endswith(".dat") or filename.lower().endswith(".xml")):
+            continue
+        entries.append({
+            "name": os.path.splitext(filename)[0],
+            "version": "",
+            "url": f"https://raw.githubusercontent.com/{repo}/master/{folder}/{filename}",
+            "file": filename,
+        })
+    return entries
+
+
+def load_eggmansworld_collections():
+    """Une source par sous-dossier (une par collection Eggmansworld) plutot
+    qu'une seule source "Eggmansworld" fourre-tout — chaque collection a son
+    propre theme (laserdisc, hvsc, touhou...), pas comparable entre elles."""
+    catalogs = {}
+    if not os.path.isdir(EGGMANSWORLD_ROOT):
+        return catalogs
+
+    for tag in sorted(os.listdir(EGGMANSWORLD_ROOT)):
+        folder = os.path.join(EGGMANSWORLD_ROOT, tag)
+        if not os.path.isdir(folder):
+            continue
+        catalogs[f"Eggmansworld - {tag}"] = load_loose_folder(folder)
+    return catalogs
+
+
 def build():
     print("Loading official RetroBat systems list ...")
     systems = load_es_systems()
@@ -116,6 +174,16 @@ def build():
         entries = load_manifest(filename)
         catalogs[source] = entries
         print(f"{source}: {len(entries)} entries ({filename})")
+
+    for source, folder in LOOSE_FOLDERS.items():
+        entries = load_loose_folder(folder)
+        catalogs[source] = entries
+        print(f"{source}: {len(entries)} entries ({folder}/)")
+
+    eggmansworld_catalogs = load_eggmansworld_collections()
+    for source, entries in eggmansworld_catalogs.items():
+        catalogs[source] = entries
+    print(f"Eggmansworld: {len(eggmansworld_catalogs)} collection(s)")
 
     results = []
     matched_count = 0

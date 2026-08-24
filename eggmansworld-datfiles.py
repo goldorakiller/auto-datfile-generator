@@ -49,7 +49,7 @@ def build():
         file_resp = requests.get(asset["browser_download_url"], timeout=600)
         file_resp.raise_for_status()
 
-        output_dir = tag
+        output_dir = os.path.join("eggmansworld-datfiles", tag)
         with zipfile.ZipFile(BytesIO(file_resp.content)) as archive:
             for name in archive.namelist():
                 if not (name.lower().endswith(".dat") or name.lower().endswith(".xml")):
