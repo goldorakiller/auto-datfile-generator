@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ROMs - Fruit Machine ROMs (unemulated) - Maygay</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Believe It Or Not (Maygay) [SWP]">
+		<rom name="sw3-418.u15" size="131072" crc="0716a47b" sha1="acbe903c270d2bb20c408d378007136803f96805"/>
+		<rom name="sw3-418.u16" size="131072" crc="0d02369b" sha1="4acbffb31bf6e98156e0b581e4e81459b33a845e"/>
+		<rom name="sw3-418.u17" size="131072" crc="f1ddf287" sha1="c1f7e92188995e9dbf47d50947bb7941b523b916"/>
+		<rom name="sw3-418.u18" size="131072" crc="b81dbac9" sha1="9549596169cff9b2bbbe12db551122e4d874b274"/>
+	</game>
+	<game name="zzz_unk aychk (troubleshooting)">
+		<rom name="aym1a.bin" size="65536" crc="bdb57a10" sha1="72ef2ea9f335e451e0ce2b3475643f412a052930"/>
+	</game>
+	<game name="zzz_unk Maygay Mega Money">
+		<rom name="Mega_Money_7387.bin" size="32768" crc="27b032f4" sha1="ef895a779eae0cacf73f69f339efb1971e24bf19"/>
+	</game>
+	<game name="zzz_unk Maygay Money Catcher">
+		<rom name="MoneyCatcher_P1.bin" size="8192" crc="8988ba14" sha1="f2a4723a5fbfe86e517a2026304471207029c0d7"/>
+		<rom name="MoneyCatcher_P2.bin" size="8192" crc="edf7be37" sha1="82ae77bad052095bc174fa0440abd91937334fad"/>
+	</game>
+	<game name="zzz_unk MMM32 (troubleshooting)">
+		<rom name="MMM16" size="2048" crc="0009ffd2" sha1="05bbc5fa3bc56ca924116ecf8db648314d59d22c"/>
+		<rom name="MMM32" size="4096" crc="0388ce0d" sha1="8a96aa5242970f6d477c764a4884179b9860e266"/>
+		<rom name="MMM64" size="8192" crc="3cfc18fd" sha1="7faa5518c455b6f60ef37112f4f5b1bf38b3c633"/>
+	</game>
+</datafile>

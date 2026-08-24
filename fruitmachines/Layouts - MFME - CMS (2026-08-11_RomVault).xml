@@ -1,0 +1,87 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Layouts - MFME - CMS</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Cashino Royale (CMS)">
+		<rom name="cashino_2p_1.bin" size="16384" crc="a3b9ff8a" sha1="53e548475625420f4ceb62ef502313fbbca62f0f"/>
+		<rom name="cashino_2p_2.bin" size="16384" crc="ca82c8bb" sha1="923bc99912aef2a2bae815baacf898be9b494399"/>
+		<rom name="cashino_2p_2_prom1.bin" size="16384" crc="a3b9ff8a" sha1="53e548475625420f4ceb62ef502313fbbca62f0f"/>
+		<rom name="cashino_2p_2_prom2.bin" size="16384" crc="ca82c8bb" sha1="923bc99912aef2a2bae815baacf898be9b494399"/>
+		<rom name="cashino_2p_2_prom3.bin" size="16384" crc="533c595e" sha1="2b8dd8695d62aa57c1f14ea98f1a2bea6f6951aa"/>
+		<rom name="cashino_2p_3.bin" size="16384" crc="533c595e" sha1="2b8dd8695d62aa57c1f14ea98f1a2bea6f6951aa"/>
+		<rom name="cashino_2p_p1.bin" size="8192" crc="f7747303" sha1="eb3a422c91e53dd9e5c155b5972de04b4b2c87e7"/>
+		<rom name="cashino_2p_p2.bin" size="8192" crc="b41fbfaa" sha1="c69d83f456457e6713ca6e494e16d028e51b0094"/>
+		<rom name="cashino_2p_p3.bin" size="8192" crc="7c8ac23d" sha1="66309774cc53151602f6c804fed1d090b5841e36"/>
+		<rom name="Cashino_Royale_(CMS)_[C01_5jp].fml" size="633231" crc="5a55b140" sha1="5d621a7de7681e4cc62043b5093cc004a0de1f45"/>
+		<rom name="Cashino_Royale_(CMS)_[C01_5jp].gam" size="381" crc="8c5c5efb" sha1="3f53bfd1be9218be1d8e65f88b0137d96952ff7b"/>
+		<rom name="Cashino_Royale_(CMS)_[C01_5jp].jpg" size="34997" crc="fdf6453f" sha1="13b215fcf60fea24291d9076c129b74fd2ce3016"/>
+		<rom name="Cashino_Royale_(CMS)_[C01_5jp].ram" size="2048" crc="b03fbb86" sha1="7d9db0751d3dc001da89a0c395ae9624a4bcd063"/>
+	</game>
+	<game name="Spin A Win (CMS)">
+		<rom name="saw.bin" size="65536" crc="f8aac65f" sha1="2cf8402bffe1638bddc0c2dd145d7be3cc7bd02b"/>
+		<rom name="saw1.0.bin" size="65536" crc="f8aac65f" sha1="2cf8402bffe1638bddc0c2dd145d7be3cc7bd02b"/>
+		<rom name="saw2.0.bin" size="32768" crc="cc6eb567" sha1="9293e0e72b1143f762cce80bf3b942e3958ddab7"/>
+		<rom name="Spin_A_Win_(CMS)_[C01_5jp].fml" size="57822" crc="cb1a8bf8" sha1="15be2eb9f61d06a6157b7aeff2547ce22af3121f"/>
+		<rom name="Spin_A_Win_(CMS)_[C01_5jp].gam" size="243" crc="df43b77d" sha1="1912cddc3b1fe6fb2cde40ee6e4eb86e882b5673"/>
+		<rom name="Spin_A_Win_(CMS)_[C01_5jp].jpg" size="12176" crc="2f6c168e" sha1="1570049b03aef913337f2b1f0255305d8172e5d9"/>
+		<rom name="Spin_A_Win_(CMS)_[C01_5jp].ram" size="2048" crc="79bbdc96" sha1="432fd6f3b578cf2927a91574b3e348126cc2257a"/>
+		<rom name="Spin_A_Win_(CMS)_[Dx01_5jp].fml" size="745439" crc="b5eb4ee6" sha1="e85044e98322b4388a057a0c919620bf237a2b20"/>
+		<rom name="Spin_A_Win_(CMS)_[Dx01_5jp].gam" size="202" crc="2e329b1c" sha1="fad445bb6b7213a39a1d7fe6e724f8ea7a25d5a6"/>
+		<rom name="Spin_A_Win_(CMS)_[Dx01_5jp].jpg" size="49099" crc="f13aa9bc" sha1="7eb9e9db9e4cd01436b458de60fbfd60262dd192"/>
+		<rom name="Spin_A_Win_(CMS)_[Dx01_5jp].ram" size="2048" crc="b5a2a164" sha1="fda011a4da4a4a4708390c5e49e80970e64bab22"/>
+		<rom name="Spin_A_Win_(CMS)_[Pdx01_5jp].fml" size="114018" crc="bac71504" sha1="3aaba814d7594493eda7801c229783837cd9c8f4"/>
+		<rom name="Spin_A_Win_(CMS)_[Pdx01_5jp].gam" size="213" crc="3c29ec2a" sha1="ede72bf7b1186b1d5c730a88cc6bfdf33b9bf04b"/>
+		<rom name="Spin_A_Win_(CMS)_[Pdx01_5jp].jpg" size="38943" crc="b004eacd" sha1="8b7f4ebc499da49a24e6c3cf872a59038f5de364"/>
+		<rom name="Spin_A_Win_(CMS)_[Pdx01_5jp].ram" size="2048" crc="f7ec2589" sha1="9365efdee67dd016a93a16736085592f9d7b7c3f"/>
+		<rom name="Spin_A_Win_(CMS)_[Pdx02_5jp].fml" size="1101140" crc="77c69d5d" sha1="a6b62973db2f1a95adb82725615609f9d4831095"/>
+		<rom name="Spin_A_Win_(CMS)_[Pdx02_5jp].gam" size="222" crc="3e2ffe47" sha1="6de81536d164a899137ba00c15fc767180bf5dd7"/>
+		<rom name="Spin_A_Win_(CMS)_[Pdx02_5jp].jpg" size="50731" crc="2cf3e656" sha1="5436481de4e41e9e26a7453a276e2711c1f52040"/>
+		<rom name="Spin_A_Win_(CMS)_[Pdx02_5jp].ram" size="2048" crc="d5ceda8d" sha1="5956723bc6c6b917bcc3fc0bd4a82034411950cd"/>
+		<rom name="Spin_A_Win_(CMS)_[Pdx03_5jp].fml" size="641935" crc="7258650e" sha1="5e2ec633c5c8592f01e1b76c3c4b9e923074d4b9"/>
+		<rom name="Spin_A_Win_(CMS)_[Pdx03_5jp].gam" size="233" crc="4b052f3b" sha1="8e46615bf7e580afe6528613de0344f119e34204"/>
+		<rom name="Spin_A_Win_(CMS)_[Pdx03_5jp].jpg" size="41325" crc="aa0c02e4" sha1="a6aa3de6e090ea75b0011b58a23a3bd083c98e7c"/>
+		<rom name="Spin_A_Win_(CMS)_[Pdx03_5jp].ram" size="2048" crc="4d530804" sha1="2fa559140532f7194a35579cb8b6c61785df7bf7"/>
+	</game>
+	<game name="Super 4 (CMS)">
+		<rom name="super4_20p.bin" size="32768" crc="2c2cc6a1" sha1="b226b6be7bb77794278e210ba88e3982655bcb81"/>
+		<rom name="Super_4_(CMS)_[C01_4-80jp].fml" size="766930" crc="d45eacc0" sha1="9f34c8186a9c0dc3c552f2d39afa04801d4f1de1"/>
+		<rom name="Super_4_(CMS)_[C01_4-80jp].gam" size="270" crc="03b50aa8" sha1="76cefc5db7b4b67ed90b701988c0b51761ea369c"/>
+		<rom name="Super_4_(CMS)_[C01_4-80jp].jpg" size="44223" crc="fb4327c1" sha1="7a758c26b01669210dc9128f820eade32ad32589"/>
+		<rom name="Super_4_(CMS)_[C01_4-80jp].ram" size="2048" crc="8cac7dff" sha1="154fbe4089607738cb21509ee8d7a0d4be99d36a"/>
+		<rom name="Super_4_(CMS)_[C01_4-80jp].txt" size="553" crc="21904ca0" sha1="8a4b595a20c955809c2f017d4f05b61a05a9d018"/>
+	</game>
+	<game name="Super Nudge Gambler (CMS)">
+		<rom name="chsnsn05.1.bin" size="16384" crc="b6314f95" sha1="1207e29d824584a2298e7acf0d3caf906dede86e"/>
+		<rom name="chsnsn05.2.bin" size="16384" crc="c477bb66" sha1="2112edfa81a445d025d4719c20ba5e5417476f1f"/>
+		<rom name="sng4pp1.rom" size="16384" crc="6f892944" sha1="519d3bbeb70d55b18bf9afc3ec4046b65162cd93"/>
+		<rom name="sng5pp1" size="32768" crc="28e767ba" sha1="82d53c50eb3eb35b6edc7b75d0f1e4a9cf1bf2c0"/>
+		<rom name="sng5pp2" size="32768" crc="fd77b52a" sha1="fd2c6c5499fad8ecbefae12db6239274f9e2cead"/>
+		<rom name="sngp1.bin" size="16384" crc="2a550867" sha1="b8772d24947b032ca220a2329c992f218c4e516e"/>
+		<rom name="sngp2.bin" size="16384" crc="9e6e1259" sha1="7f01e950b34a4a0a41aa867d674e681297ea4e5c"/>
+		<rom name="Super_Nudge_Gambler_(CMS)_[C01_4jp].fml" size="718288" crc="0e0e3924" sha1="6ae1dcd6ab506f84afdfefba0d1ef7a84a15231c"/>
+		<rom name="Super_Nudge_Gambler_(CMS)_[C01_4jp].gam" size="285" crc="fe6e0c13" sha1="0c4a86fcfdc7e2b5ff9bb460474fbbc403b07996"/>
+		<rom name="Super_Nudge_Gambler_(CMS)_[C01_4jp].jpg" size="38558" crc="2e766914" sha1="328c29809e6920a9a8483506faa9ac2fb9666558"/>
+		<rom name="Super_Nudge_Gambler_(CMS)_[C01_4jp].ram" size="2048" crc="f73d556b" sha1="c92e79ce7bc446cf5ed3cd86ff1df191584dbe19"/>
+		<rom name="Super_Nudge_Gambler_(CMS)_[C01_4jp].txt" size="259" crc="2757f105" sha1="e589d7f272f141c1ddb303e75941b631eee3736c"/>
+		<rom name="Super_Nudge_Gambler_(CMS)_[C02_25jp].fml" size="681966" crc="b2258cad" sha1="0025dff57cab35766192eec648defa3c268b3d28"/>
+		<rom name="Super_Nudge_Gambler_(CMS)_[C02_25jp].gam" size="328" crc="54b1ddf7" sha1="385abc38b69667eb152640a39082b870d8022140"/>
+		<rom name="Super_Nudge_Gambler_(CMS)_[C02_25jp].jpg" size="60357" crc="954b4444" sha1="145fa2e2baaaca315684a66acb4c9d0d19f365db"/>
+		<rom name="Super_Nudge_Gambler_(CMS)_[C02_25jp].ram" size="2048" crc="e02192b1" sha1="640dec67209ce2e35c469219b0fb792920db18e8"/>
+		<rom name="Super_Nudge_Gambler_(CMS)_[C02_25jp].txt" size="227" crc="46231c12" sha1="feb41b7d506192c03f4b3f4d22f749ade6145282"/>
+		<rom name="Super_Nudge_Gambler_(CMS)_[C03_25jp].fml" size="681966" crc="b2258cad" sha1="0025dff57cab35766192eec648defa3c268b3d28"/>
+		<rom name="Super_Nudge_Gambler_(CMS)_[C03_25jp].gam" size="328" crc="54b1ddf7" sha1="385abc38b69667eb152640a39082b870d8022140"/>
+		<rom name="Super_Nudge_Gambler_(CMS)_[C03_25jp].jpg" size="60357" crc="954b4444" sha1="145fa2e2baaaca315684a66acb4c9d0d19f365db"/>
+		<rom name="Super_Nudge_Gambler_(CMS)_[C03_25jp].ram" size="2048" crc="e02192b1" sha1="640dec67209ce2e35c469219b0fb792920db18e8"/>
+		<rom name="Super_Nudge_Gambler_(CMS)_[C03_25jp].txt" size="227" crc="46231c12" sha1="feb41b7d506192c03f4b3f4d22f749ade6145282"/>
+	</game>
+</datafile>

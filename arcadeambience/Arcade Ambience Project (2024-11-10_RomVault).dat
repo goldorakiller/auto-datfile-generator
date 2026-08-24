@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Arcade Ambience Project</name>
+		<date>2024-11-10</date>
+		<author>Andy Hofle (dat by Eggman)</author>
+		<url>http://arcade.hofle.com/</url>
+		<clrmamepro forcepacking="unzip"/>
+		<romvault forcepacking="fileonly" />
+	</header>
+	<game name="!README">
+		<description>!README</description>
+		<rom name="Arcade Ambience Project README.txt" size="11004" crc="f25e6632" sha1="69501187d8228ab7de4f7142b7870c072ef9735b" md5="519f198a4f1b4820476eff0986034935"/>
+	</game>
+	<game name="Ambience background playback utility (Jeff Shanholtz)">
+		<description>Ambience background playback utility (Jeff Shanholtz)</description>
+		<rom name="ambience1.zip" size="803843" crc="93d36d4f" sha1="41e87b526f0ff9c2967b53240093a5323fce36d7" md5="7abbb07e5c753484ed5981819073a542"/>
+		<rom name="ambienceReadme.txt" size="1335" crc="9e23b5d5" sha1="d08a3d32997f71f29661b43c3e52acf71b67a0f8" md5="66befd05af9162980b227b9728fbbda3"/>
+		<rom name="ambienceScreenshot.png" size="16264" crc="4ac8a6cb" sha1="1950cdf078a8c00300ebdcc81b02ce128ba9e22c" md5="63043e0d0eacaa6d0bd8347b4d57fb6f"/>
+	</game>
+	<game name="Arcade Ambience 1981">
+		<description>Arcade Ambience 1981</description>
+		<rom name="Arcade Ambience 1981(1h05m54s).mp3" size="83267584" crc="e1395048" sha1="d3197baa0e7e00a5f12abf93d0789baf5eaca3a0" md5="625776602004cf025678ba61c721f443"/>
+	</game>
+	<game name="Arcade Ambience 1981-1983-1986 (Merged)">
+		<description>Arcade Ambience 1981-1983-1986 (Merged)</description>
+		<rom name="Arcade Ambience 1981-1983-1986 (Merged) (3h40m34s).mp3" size="275273383" crc="a2a426a9" sha1="a09d28594047d32f4a284eb628df5dbf876c940a" md5="852531901ad5d72960b6676ed9e3b938"/>
+	</game>
+	<game name="Arcade Ambience 1983">
+		<description>Arcade Ambience 1983</description>
+		<rom name="Arcade Ambience 1983 (1h06m29s).mp3" size="94816384" crc="d5c7884c" sha1="340693ac97749e133f5e02ec2fc0f754645d9bdb" md5="f88653d2076c626d3da0b155aacdf745"/>
+	</game>
+	<game name="Arcade Ambience 1986">
+		<description>Arcade Ambience 1986</description>
+		<rom name="Arcade Ambience 1986 (1h10m48s).mp3" size="97161344" crc="20e9c3ed" sha1="c033ed73a561ce585b3d57740caa0fca7c2e0624" md5="ac636288d3c21c5358d0e0b815e16705"/>
+	</game>
+	<game name="Arcade Ambience 1992">
+		<description>Arcade Ambience 1992</description>
+		<rom name="Arcade Ambience 1992 (1h05m08s).mp3" size="91058176" crc="62855e3a" sha1="24167274946d16b7686d624f7eea25349fd1aaea" md5="f6539932107f6b71954e101f7fedba83"/>
+	</game>
+</datafile>

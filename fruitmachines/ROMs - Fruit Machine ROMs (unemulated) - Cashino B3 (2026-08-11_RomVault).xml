@@ -1,0 +1,1440 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ROMs - Fruit Machine ROMs (unemulated) - Cashino B3</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="CashinoB3">
+		<rom name="Cashino-c-drive/Desktop/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Install/ie6setup.exe" size="490608" crc="2462ab29" sha1="ad36ee057c82de6c7ae02582911f288b3c54ccca"/>
+		<rom name="Cashino-c-drive/Install/InterBase602/ib_wi_os_tIB6_0_2_0.exe" size="3785574" crc="c9d63c7a" sha1="0ad2ce4da06586873f4bdfe785e2e6ff690dc39c"/>
+		<rom name="Cashino-c-drive/Install/KEYCFG/DOS/PKLOAD.EXE" size="21197" crc="a99c62a8" sha1="ce4d1639a76ebc062bc71a409f37ec23b486dd98"/>
+		<rom name="Cashino-c-drive/Install/KEYCFG/DOS/PKMODE2.EXE" size="25643" crc="6423d012" sha1="e876d4bffca130c09518c2109c3efd769dbfdce5"/>
+		<rom name="Cashino-c-drive/Install/KEYCFG/DOS/PKUPDT2.EXE" size="38840" crc="b4e9a17b" sha1="ccdce6d809c6268e2fe267cf028dbbcf4052cdad"/>
+		<rom name="Cashino-c-drive/Install/KEYCFG/DOS/POSKB.EXE" size="91196" crc="ab62f960" sha1="0095825c47b17990bdb19a0baa410eefe88134af"/>
+		<rom name="Cashino-c-drive/Install/KEYCFG/DOS/POSKB28.EXE" size="89870" crc="11b2aa2e" sha1="5816c7b93e8a80eefed6ce094005af66bb0bc880"/>
+		<rom name="Cashino-c-drive/Install/KEYCFG/WIN/DISK1/_ISDEL.EXE" size="8192" crc="db6ff40d" sha1="fe96bd82d167f50cb8cd9c9a32d72b77f45f8002"/>
+		<rom name="Cashino-c-drive/Install/KEYCFG/WIN/DISK1/_SETUP.DLL" size="6128" crc="447eda90" sha1="a72cb6456b0136f288af3d1a9cde2be3447c267e"/>
+		<rom name="Cashino-c-drive/Install/KEYCFG/WIN/DISK1/SETUP.EXE" size="45312" crc="e70ea4f7" sha1="498fe8be404bb3fa4af4da3704566467d09629b1"/>
+		<rom name="Cashino-c-drive/Install/LOGON/_ISDEL.EXE" size="8704" crc="7f5d1745" sha1="73fd40e41ef822cd437a7e9ca7560362e785f706"/>
+		<rom name="Cashino-c-drive/Install/LOGON/_SETUP.DLL" size="11776" crc="b723bcb5" sha1="70f4769a6bf5b1ecab6684ad0ae5936ec0cf89e6"/>
+		<rom name="Cashino-c-drive/Install/LOGON/SETUP.EXE" size="49152" crc="fcdaf61b" sha1="832c08d599c7bed31b159cd330535d4bfddf7005"/>
+		<rom name="Cashino-c-drive/Install/Modem/3cmlink.exe" size="36864" crc="fa7a935a" sha1="d57fffc99fc19350a925e6743acc7c4d767fb14e"/>
+		<rom name="Cashino-c-drive/Install/Modem/setup.exe" size="348160" crc="3f0b3be1" sha1="5f68ed214d0e23426f8a5b518ef6c464480d2add"/>
+		<rom name="Cashino-c-drive/Install/Modem/w2k3cmlink.exe" size="49152" crc="3e0ec3c7" sha1="0469d41a5233a665c52b7b2bd49e4dbb1ec9c1ad"/>
+		<rom name="Cashino-c-drive/Install/Modem/w2k3cshtdwn.exe" size="69702" crc="105d8cad" sha1="dcf3670da187c0f92337d9084ecda7fce829eef9"/>
+		<rom name="Cashino-c-drive/Install/Modem/w2kprobedis.exe" size="61510" crc="b7301179" sha1="13aa8da42f46dc6deb219db50244cbd550560f36"/>
+		<rom name="Cashino-c-drive/Install/NETWORK/RTL8139.SYS" size="32256" crc="ad4e3e59" sha1="367454ac98b9c4a6c5449c6c98f80eb050904293"/>
+		<rom name="Cashino-c-drive/Install/SOUND/_ISDEL.EXE" size="8704" crc="3f4879ea" sha1="cc59779528b2aa3bbfbc852fbbc895becfbcc5d4"/>
+		<rom name="Cashino-c-drive/Install/SOUND/_SETUP.DLL" size="11264" crc="44bdb7d4" sha1="56915a9f977a4370b1c09a377819e0df6e55c44a"/>
+		<rom name="Cashino-c-drive/Install/SOUND/AUDDRIVE.DLL" size="72704" crc="07064993" sha1="9be2c08542d01f37fc5e407c87e286ee8af1666d"/>
+		<rom name="Cashino-c-drive/Install/SOUND/AUDDRIVE.SYS" size="80000" crc="27c12909" sha1="6a4c7ab92a9d521466ff2e62ade9e7fa2f741748"/>
+		<rom name="Cashino-c-drive/Install/SOUND/ESSAPM.EXE" size="20992" crc="bd2cb121" sha1="4b35de8b1067ce036e2c19ba1d096e309f0c81a3"/>
+		<rom name="Cashino-c-drive/Install/SOUND/MMDRV.DLL" size="20480" crc="076ed4e1" sha1="7a92e985dc5bafef47e88fdc48e27bd7fbee9af9"/>
+		<rom name="Cashino-c-drive/Install/SOUND/SETUP.EXE" size="60416" crc="62937092" sha1="a420557b48437de7016a0764d29e914ce40e04b9"/>
+		<rom name="Cashino-c-drive/Install/sp6i386.exe" size="35720696" crc="33e1c41d" sha1="a6f920d4d9868cfa8a1c7697813c55d136209664"/>
+		<rom name="Cashino-c-drive/Install/SSFORNT/EPSSS4NT.EXE" size="712291" crc="ec1ea646" sha1="3abc308e41e026a50bd74d2bf7f2680ccd8e01b0"/>
+		<rom name="Cashino-c-drive/Install/TOUCH/EPSON/EPSTPNT.EXE" size="1144969" crc="bf03fca5" sha1="a4c0d5e0282725a90afa4a75dd23497dca2b0d73"/>
+		<rom name="Cashino-c-drive/Install/TOUCH/FUJITSU/CALWINRE.EXE" size="58368" crc="d11317e3" sha1="02cea74cdc5b5576a872bbcc8a59bde0bdc27b28"/>
+		<rom name="Cashino-c-drive/Install/TOUCH/FUJITSU/FIDMOUA.SYS" size="24700" crc="bf00219d" sha1="02203d261ce7a063d488f542cf68b7499a6d38d4"/>
+		<rom name="Cashino-c-drive/Install/TOUCH/FUJITSU/RBFUNC.DLL" size="24064" crc="431ff174" sha1="84ff7fa9656bbaa70fd63f42d20c0f7cfd1c8ca9"/>
+		<rom name="Cashino-c-drive/Install/TOUCH/FUJITSU/RBUTTON.EXE" size="23040" crc="94ce2501" sha1="41d951edef59a08d39d9838ef02c97e84b37ce2b"/>
+		<rom name="Cashino-c-drive/Install/TOUCH/S3ETN15E.EXE" size="1070978" crc="bc48005a" sha1="e60c273a91fd0601a9bf3099592c65848f876323"/>
+		<rom name="Cashino-c-drive/Install/UltraVNC-100-RC12bb-Setup.exe" size="1292755" crc="2756c249" sha1="e6777245c18076af47234024745ab51069870d87"/>
+		<rom name="Cashino-c-drive/Install/VIDEO/CHIPSD.DLL" size="140096" crc="83c0575c" sha1="f1a4e17521c997be35dd9bde2aeee55c2ef7b3f5"/>
+		<rom name="Cashino-c-drive/Install/VIDEO/CHIPSM.SYS" size="47136" crc="dbe28651" sha1="5d0ed119019b6e91bf2b21ff3799345ae7beecf4"/>
+		<rom name="Cashino-c-drive/Install/VIDEO/CHPSTART.EXE" size="39424" crc="c9f1e68a" sha1="ff3c32f79d654cfaa349b67cbbb7fea2842a2bdb"/>
+		<rom name="Cashino-c-drive/Install/VIDEO/CNTNTDSP.DLL" size="48640" crc="1359bfd4" sha1="45e01ce1a21d54b22f007fc60f1dc58d8d8cdf1f"/>
+		<rom name="Cashino-c-drive/pagefile.sys" size="145752064" crc="ed326df5" sha1="cc0151990bc0f194085f33210d4e85a2e06fe201"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/BACKUP/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/Bin/gbak.exe" size="201728" crc="f75d507c" sha1="cec276afe32afe78fcc26a3f40dc55eec62c59fc"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/Bin/gdef.exe" size="208896" crc="0ac8a6c2" sha1="10736a379a1c344774517ee0b0d9de5b84705a59"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/Bin/gfix.exe" size="35840" crc="12a8bd5a" sha1="64606424cb088baf7932c4252e870b15e8dfbdea"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/Bin/gpre.exe" size="338432" crc="40a582ed" sha1="d3c1ab4e36c702021cb0f1105442379f4a442adc"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/Bin/gsec.exe" size="29696" crc="ad0b7ffa" sha1="cf19afc5606734244fe9f55a7c496a27bd2ef1cc"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/Bin/gstat.exe" size="28672" crc="bdd21655" sha1="edbe60a285f456afb58e32e672cf0032b2814e61"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/Bin/ib_util.dll" size="4096" crc="e1e9f9c9" sha1="e6238ea3d09fac0d5aa75f18d0e8a0f413543c4d"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/Bin/IBConsole.exe" size="2114560" crc="8b050fd9" sha1="7976c4569a622667e28c61f7bd0e8bf4f46112e9"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/Bin/ibguard.exe" size="22016" crc="ebd984ab" sha1="aa1309937a1f16dcff786c0e8c5d0ac1cdc19511"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/Bin/iblockpr.exe" size="83456" crc="18f57545" sha1="ca975b97a8ddaacd08812d4432ff775418bd6e6f"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/Bin/ibserver.exe" size="1704448" crc="c59ce789" sha1="648a81e956cc241541f6381ad91daa62df8926d9"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/Bin/instreg.exe" size="6656" crc="8c971f6f" sha1="4797ff07e1aca492fbade1c2773bcdbe888edba4"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/Bin/instsvc.exe" size="8704" crc="57634b49" sha1="a41dbbf13e7d987fdfa254ca567135ee9eb6066c"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/Bin/isql.exe" size="153088" crc="c5df6e8b" sha1="eb78e37ac384e1475a75939366e0a86444a0c3e9"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/help/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/intl/gdsintl.dll" size="594944" crc="17024fa8" sha1="92b58752c9a692f0f401d3ea1a5ff7c0efa31c68"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/udf/ib_udf.dll" size="6656" crc="53be9d41" sha1="ef245dce837f5f5310418b7ebca7b1588f5cf18c"/>
+		<rom name="Cashino-c-drive/Program Files/borland/interbase/UNWISE.EXE" size="162304" crc="432c52a3" sha1="c3c96cc03ec6714cf7c98caadb00fbfaa8e82411"/>
+		<rom name="Cashino-c-drive/Program Files/Common Files/Microsoft Shared/MSCREATE.DIR" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Common Files/Microsoft Shared/MSInfo/IEINFO5.OCX" size="103184" crc="10e7c598" sha1="95560f5b3e699375f2c6f0a8192c5a401c78b208"/>
+		<rom name="Cashino-c-drive/Program Files/Common Files/Microsoft Shared/MSInfo/MSCREATE.DIR" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Common Files/Microsoft Shared/Stationery/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Common Files/Microsoft Shared/TextConv/msconv97.dll" size="116288" crc="7ed57e00" sha1="585446799f01bb59f32735b6af6d02592042dcad"/>
+		<rom name="Cashino-c-drive/Program Files/Common Files/Microsoft Shared/TextConv/MSCREATE.DIR" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Common Files/Microsoft Shared/Triedit/DHTMLED.OCX" size="117248" crc="c51aa6bb" sha1="ab69605b7a4a1bc550732eb7a9d5be1d12b951c8"/>
+		<rom name="Cashino-c-drive/Program Files/Common Files/Microsoft Shared/Triedit/MSCREATE.DIR" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Common Files/Microsoft Shared/Triedit/TRIEDIT.DLL" size="146432" crc="153dce3a" sha1="21efe8351c87bcf225732f58a223a8c406b51650"/>
+		<rom name="Cashino-c-drive/Program Files/Common Files/Microsoft Shared/VGX/vgx.dll" size="2352128" crc="1a002ecc" sha1="b75bff4cf814306deecc6426f2a05aec099677f9"/>
+		<rom name="Cashino-c-drive/Program Files/Common Files/Microsoft Shared/Web Server Extensions/40/bin/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Common Files/MSCREATE.DIR" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Common Files/ODBC/Data Sources/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Common Files/Services/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Common Files/System/directdb.dll" size="75776" crc="4f4d942c" sha1="7057e2d8b6aec353d6be2a4a641eda3289b90df8"/>
+		<rom name="Cashino-c-drive/Program Files/Common Files/System/wab32.dll" size="462848" crc="9c44515d" sha1="0bb2ec91b6226466e1f6f8f245c457677148a922"/>
+		<rom name="Cashino-c-drive/Program Files/Common Files/System/wab32res.dll" size="249344" crc="1f94206c" sha1="2193dcfd778c14e6c7d4d6ab6c73f4b4ccc2b571"/>
+		<rom name="Cashino-c-drive/Program Files/EPSON/TouchPanel/EpsTPCfg.exe" size="237568" crc="9067056f" sha1="716d568de35d59c4c264b05dce4bb0e7abd30322"/>
+		<rom name="Cashino-c-drive/Program Files/EPSON/TouchPanel/EpsTPEmu.exe" size="36864" crc="9327561f" sha1="471b6b29c1da0ddb6dac2febca000dc81b08c964"/>
+		<rom name="Cashino-c-drive/Program Files/EPSON/TouchPanel/EpsTpMsgDlg.dll" size="98304" crc="6e889101" sha1="081a334273a4a866254643688025d41660088b26"/>
+		<rom name="Cashino-c-drive/Program Files/EuroTool/euroconv.exe" size="147456" crc="61bc2b8c" sha1="88c2afc992bb0aef4e0abeb4f345bfc353d30e06"/>
+		<rom name="Cashino-c-drive/Program Files/MarkVis/WinNT/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Outlook Express/9xmig.dll" size="7168" crc="4dbd8323" sha1="3381e70c43d96034beff83e718bce2c743e98857"/>
+		<rom name="Cashino-c-drive/Program Files/Outlook Express/csapi3t1.dll" size="65593" crc="d5421507" sha1="62371ad868bdd90b8679bf1a9f434d8ca31098fc"/>
+		<rom name="Cashino-c-drive/Program Files/Outlook Express/msimn.exe" size="56832" crc="378e3f0b" sha1="ecac777fa04a69a52fc42d3ea8254839612dd691"/>
+		<rom name="Cashino-c-drive/Program Files/Outlook Express/msoe.dll" size="1174528" crc="1e87ed92" sha1="7c957ef726848c3a63b9187ba737eb60d34295cb"/>
+		<rom name="Cashino-c-drive/Program Files/Outlook Express/msoeres.dll" size="2479616" crc="3f95bc44" sha1="0e8575d2446fcd52ca9938739dce2c29ec86f6b6"/>
+		<rom name="Cashino-c-drive/Program Files/Outlook Express/oeimport.dll" size="93184" crc="233af5ca" sha1="f3cb842c82949ef8c6051a8a23c78aeb3de5ce7a"/>
+		<rom name="Cashino-c-drive/Program Files/Outlook Express/oemig50.exe" size="55808" crc="5357ccb2" sha1="cb8ac1a93e6a6db72e2e1092a4c6d35c6101f020"/>
+		<rom name="Cashino-c-drive/Program Files/Outlook Express/oemiglib.dll" size="31744" crc="2eb8161d" sha1="fb16180bfdaa81e72e92d428e6c3d861607e0c57"/>
+		<rom name="Cashino-c-drive/Program Files/Outlook Express/setup50.exe" size="67584" crc="bd4ba2a7" sha1="086a444d380fe66d74b9716e5ba410fce6600b8d"/>
+		<rom name="Cashino-c-drive/Program Files/Outlook Express/wab.exe" size="42496" crc="ea88e83c" sha1="94df4d7497c119de4fedc8cd088e363d2483ba2e"/>
+		<rom name="Cashino-c-drive/Program Files/Outlook Express/wabfind.dll" size="30208" crc="d4ff5920" sha1="ce30db4dbd7aa439a2159ad42db158e7b6b005bf"/>
+		<rom name="Cashino-c-drive/Program Files/Outlook Express/wabimp.dll" size="77824" crc="b74eaf42" sha1="5b4cf99a97a900ed8c3e33b3e25bb4feeed4db68"/>
+		<rom name="Cashino-c-drive/Program Files/Outlook Express/wabmig.exe" size="27648" crc="a6d2b7fd" sha1="9be14b3bc4b7c6dcf9e1963b50e65b19e0e89e08"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/1033/DWINTL.DLL" size="54688" crc="adb6e732" sha1="9ee237ca32db4e6c24956cd4e7ee5ad57b93a78e"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/1033/MSCREATE.DIR" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/cache/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Connection Wizard/icwconn.dll" size="44816" crc="8405218c" sha1="2fac398526462447b9150457757828f3b45e6ac7"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Connection Wizard/icwconn1.exe" size="186640" crc="900b9def" sha1="0c6e95d6196d17c1bab0e4bb98489c1b1311194d"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Connection Wizard/icwconn2.exe" size="61200" crc="956d2397" sha1="3c96780e2aaecc430ce8d8970159758a4ffe3998"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Connection Wizard/icwdl.dll" size="15632" crc="67ca840c" sha1="29f917c942dd160106045633ad57728a5de02a02"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Connection Wizard/icwhelp.dll" size="151312" crc="808b4441" sha1="d5478187275c71cde125724a57b31e4e85f3b343"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Connection Wizard/icwres.dll" size="52224" crc="16191bd0" sha1="b2a023d98db97965869ff0e4964b8a5e2a427c4c"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Connection Wizard/icwrmind.exe" size="15120" crc="26795ee7" sha1="061d7d9acfae1ffebfd93762d31fc74016b643d6"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Connection Wizard/icwtutor.exe" size="59152" crc="c8f90e29" sha1="fadf74983348801d17a5b0663fc9c701a48ad6cf"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Connection Wizard/icwutil.dll" size="34576" crc="9d406ee4" sha1="bbc48ef1790024e9b7540ddd9c3648d81170ba50"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Connection Wizard/inetwiz.exe" size="12048" crc="0b1c79b3" sha1="108f794e3979e6f2189e65e18cbe7ca469c76696"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Connection Wizard/isignup.exe" size="6416" crc="a02f533f" sha1="5eece2b443d4fd25d592295c5a45879de1229a08"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Connection Wizard/trialoc.dll" size="29968" crc="cfe5da61" sha1="3933dc0671d905294dffa1573b5311f78bb55b0b"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/docs/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/DW15.EXE" size="155648" crc="3da05f90" sha1="38ccbff3f6a015a513e1b19cfec7d97d5b0e9ca8"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/history/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/HMMAPI.DLL" size="36352" crc="84dbd7ce" sha1="e3e19a6f08cc21304a427a7ef8fb5423431a0ec6"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/IE4.DLL" size="121344" crc="1042d6d5" sha1="e88b349454a4d864fcd0676709858e0a371b1941"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/ie6setup.exe" size="490608" crc="2462ab29" sha1="ad36ee057c82de6c7ae02582911f288b3c54ccca"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/iedetect.dll" size="14336" crc="371668d8" sha1="9067aa2031b963a824f42bba45bef79e3cccf3a0"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/IEXPLORE.EXE" size="91136" crc="76588795" sha1="88161769046c6cdcffd69dd62c9b74249a3d3a12"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/PLUGINS/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/secbasic.dll" size="21264" crc="149f5329" sha1="4138873f0e58d2d9420ae777ef480686af2c408c"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Setup/IE4.DLL" size="121344" crc="2b6b5258" sha1="e56313ac781dc49aa5c6fcd3ecb5233876b032db"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Setup/IEBATCH.EXE" size="6656" crc="c9631e1b" sha1="0ad16feaa56edd641baa292112cbf26dc9c29430"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Setup/MSCREATE.DIR" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Setup/MSSETUP.DLL" size="264704" crc="32e5498a" sha1="6251dceb4670c8539b6ddf3cb2774198478919db"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Setup/SETUP.EXE" size="353280" crc="7ee5290a" sha1="4c99d3f50c5cf8353f2a3831f3cf953396ec60c5"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/SIGNUP/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Uninstall Information/IE5EXTRA.DAT" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Uninstall Information/IEEX.DAT" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Uninstall Information/Mobile Option Pack.DAT" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Uninstall Information/MSTASK.DAT" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/Uninstall Information/MSVML.DAT" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Plus!/Microsoft Internet/W2K/expinst.exe" size="23552" crc="7d6e27b6" sha1="7ae22f3752b625207bdd40b2fdd7c0f0c2bcc5e8"/>
+		<rom name="Cashino-c-drive/Program Files/UltraVNC/auth.dll" size="73728" crc="b57202b2" sha1="1b48529aad1f9bf18a53dea91f93f13c21eaf6ba"/>
+		<rom name="Cashino-c-drive/Program Files/UltraVNC/authad.dll" size="61440" crc="7ba3d14b" sha1="994e1b6eb891101127b7d7f8c80f7398470b7296"/>
+		<rom name="Cashino-c-drive/Program Files/UltraVNC/authlogonuser.dll" size="45056" crc="603396be" sha1="9f72daca3234ad138d1290e37d50d613994191ff"/>
+		<rom name="Cashino-c-drive/Program Files/UltraVNC/ldapauth.dll" size="61440" crc="862af182" sha1="c6c702317d43c3859e2049943ce50d112ff34cf0"/>
+		<rom name="Cashino-c-drive/Program Files/UltraVNC/ldapauthnt4.dll" size="61440" crc="cc9cbf20" sha1="b39c48356bc7943f6f8f4deb57a8f8602bf8119f"/>
+		<rom name="Cashino-c-drive/Program Files/UltraVNC/logmessages.dll" size="12288" crc="99b910bf" sha1="8b4b01748512934dac1378bfccc86325fdeb4552"/>
+		<rom name="Cashino-c-drive/Program Files/UltraVNC/testauth.exe" size="45056" crc="c88b8cc5" sha1="90b31a7f1a0097184b764dbe0a835b841845db17"/>
+		<rom name="Cashino-c-drive/Program Files/UltraVNC/unins000.exe" size="75922" crc="707faef7" sha1="1e2e7c6303396e8bbc8bee5b2b4464043367c680"/>
+		<rom name="Cashino-c-drive/Program Files/UltraVNC/UnZip32.dll" size="98304" crc="fedcb879" sha1="145390e808e15c3df51dd6666c94a6ba5f03a4d6"/>
+		<rom name="Cashino-c-drive/Program Files/UltraVNC/vnchooks.dll" size="57344" crc="2d4b91b8" sha1="c78b86a74fa5dbe1e3d7f4b694ced855fb72cf74"/>
+		<rom name="Cashino-c-drive/Program Files/UltraVNC/winvnc.exe" size="651331" crc="434c8538" sha1="86f5276b1212fd5fdf406f9305d4ec8e8a018301"/>
+		<rom name="Cashino-c-drive/Program Files/UltraVNC/Zip32.dll" size="147456" crc="8d8305f9" sha1="58a5f2613df475b69e60b691215d5c60462cedb3"/>
+		<rom name="Cashino-c-drive/Program Files/Uninstall Information/AddressBook/AddressBook.DAT" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Uninstall Information/DXM_Runtime/DXM_Runtime.DAT" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Uninstall Information/HTML Help/HTML Help.DAT" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Uninstall Information/ICW/ICW.DAT" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Uninstall Information/IE UserData NT/IE UserData NT.DAT" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Uninstall Information/ieupdate/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Uninstall Information/oeupdate/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Uninstall Information/OutlookExpress/OutlookExpress.DAT" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Uninstall Information/Q823559/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/Windows Media Player/laprxy.dll" size="28160" crc="9f6fcde7" sha1="b18ed02f428ded8f212a8e5cf8d1a4cbdac6618e"/>
+		<rom name="Cashino-c-drive/Program Files/Windows Media Player/logagent.exe" size="68608" crc="9a66ef19" sha1="8ead8c537a819f0b577d546d7dd6b31a041d51f6"/>
+		<rom name="Cashino-c-drive/Program Files/Windows Media Player/mplayer2.exe" size="4880" crc="e3a9bbc5" sha1="765d04abf9c0eea3c64c406a16f9ddb3c622652d"/>
+		<rom name="Cashino-c-drive/Program Files/Windows Media Player/npwmsdrm.dll" size="8608" crc="271bee2a" sha1="8b343b6940d8280346f56d05c18b260cf293d19a"/>
+		<rom name="Cashino-c-drive/Program Files/Windows NT/Accessories/ImageVue/wangimg.exe" size="427792" crc="77c2cdab" sha1="0dadc661752ffdd2edcc4e9a71718c84b54945a0"/>
+		<rom name="Cashino-c-drive/Program Files/Windows NT/Accessories/MSCONV97.DLL" size="128000" crc="f698ed1e" sha1="e2a1e2c7f13f1af05cf1ab6ccdea77f032c82e0a"/>
+		<rom name="Cashino-c-drive/Program Files/Windows NT/Accessories/WORDPAD.EXE" size="204560" crc="6711be95" sha1="d2681e36531fc751bd383fd5877a3a547f606d31"/>
+		<rom name="Cashino-c-drive/Program Files/Windows NT/DIALER.EXE" size="42256" crc="0d91d809" sha1="9b15487be48c40d341d452aa990f4852502abf1b"/>
+		<rom name="Cashino-c-drive/Program Files/Windows NT/hypertrm.exe" size="6928" crc="f801662e" sha1="2cf6a360af18673ca413323dfeb1941ff8a33567"/>
+		<rom name="Cashino-c-drive/Program Files/Windows NT/Windows Messaging/mlset32.exe" size="25360" crc="c416db46" sha1="152ade31e6b24d6761543deb7e451fa663140a8f"/>
+		<rom name="Cashino-c-drive/Program Files/Windows NT/Windows Messaging/mlshext.dll" size="14608" crc="66ed5cdb" sha1="e773f3cbf6df9cf35046b319d14604da1c80bda7"/>
+		<rom name="Cashino-c-drive/Program Files/WindowsUpdate/Cabs/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/Program Files/WindowsUpdate/OSDET.dll" size="7168" crc="ef1a7059" sha1="a03870e5749df41dde1eda0aee8136fc5038a442"/>
+		<rom name="Cashino-c-drive/Program Files/WindowsUpdate/wudetect.dll" size="22528" crc="620706c6" sha1="adf7c3b1e0379f1e6c717bb7b05d2e24414d769e"/>
+		<rom name="Cashino-c-drive/TEMP/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallKB824141$/gdi32.dll" size="166160" crc="b87a520b" sha1="ceb36b9fc8820b2988ebee222220176028cd5cab"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallKB824141$/hotfix.exe" size="96528" crc="bd57f6c7" sha1="2388bab9d832ea1e4bb2db451beffcf5d0d8fedb"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallKB824141$/user32.dll" size="335120" crc="95d2681f" sha1="87f09c4113f9d1dfa438b4312449d3eb56594b38"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallKB824141$/win32k.sys" size="1309232" crc="8e1e220d" sha1="4bda20d61ab93f554e0d3fd2354db6940be879ab"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallKB824141$/winsrv.dll" size="166672" crc="73a4aad8" sha1="ff288e863a046f720159d92c0727979fc1abf8ef"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallKB824146$/hotfix.exe" size="96528" crc="bd57f6c7" sha1="2388bab9d832ea1e4bb2db451beffcf5d0d8fedb"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallKB824146$/ole32.dll" size="725776" crc="71e598a8" sha1="ac6112d9d7e4bc029f53dece41a065a8da22df03"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallKB824146$/rpcrt4.dll" size="336144" crc="3be886c6" sha1="898d00a57b763df8424b83f9a3f5a3503e47f5e8"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallKB824146$/rpcss.exe" size="104720" crc="80607497" sha1="67207d313836b2eebfeaab425c7d40d78b92509c"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallKB825119$/hotfix.exe" size="96528" crc="3f413920" sha1="e4a647494310614288c9cf17183c7e5c7de1d0cd"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallKB825119$/itircl.dll" size="143872" crc="012cdf59" sha1="ba91dba5277f2ed89bf666b78f2f537ce730da34"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallKB828035$/hotfix.exe" size="96528" crc="6403ad51" sha1="0cc1486097fc62bf879bd4a504c3c6c840f19a9b"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallKB828035$/msgsvc.dll" size="39184" crc="fb806979" sha1="0e6fded00b72fb57ff499a50be4c5af99ddd32c6"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallKB828035$/mup.sys" size="80496" crc="a5a84117" sha1="e28df05645e43272bbf31ca05ce045b11fce295e"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallKB828035$/netapi32.dll" size="226064" crc="17763056" sha1="0b5805d34da993542cf43d324cbacc6d60fb39fc"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallKB828035$/wkssvc.dll" size="58640" crc="8d6b7c9f" sha1="350f0f200af970b46468062d232aa2a50f03f3ca"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/advapi32.dll" size="247056" crc="7c7917e3" sha1="d04e18d58017701d20f26a44fc4270752f58fbc7"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/afd.sys" size="66352" crc="9196da4f" sha1="6f71071384e3e49e1de8dee7e4a43b0b81c813a2"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/atsvc.exe" size="22800" crc="0d5ec757" sha1="73d51e3f2f7f8f204945e241fa9a5bf2cd2a2096"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/browser.dll" size="48400" crc="42bcc183" sha1="6dc496fb69104384c066225d5aeb22b3ee367018"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/cmd.exe" size="208144" crc="00ef694a" sha1="ab6164d704b8eb12953e1ab2543758d8a69fc329"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/crypt32.dll" size="465680" crc="0d9e8b78" sha1="e1258eb560da84a3170fe48f3a67127a92075475"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/eventlog.dll" size="54544" crc="5ba2e9f9" sha1="4a58546f774c3ffba4ca9499a9269497dbf58bd5"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/floppy.sys" size="18928" crc="b0c72ee6" sha1="92a9ebb4a6a69247857b4745da081e7d280228e6"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/hotfix.exe" size="93968" crc="09aeb88a" sha1="0f15f613622548bb93daf5d7e77e77744d8fea72"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/kernel32.dll" size="375056" crc="eca9c3dc" sha1="e2612b3c9fbe290df2ea910a1d009ca30275f369"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/lmrepl.exe" size="86800" crc="fd510e74" sha1="2b959f22e586d5e63069af3a2fd862244aad714d"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/localmon.dll" size="16144" crc="3d9e7662" sha1="8e3b0bb7f7dfd723435caff76b7612f54127972e"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/localspl.dll" size="145168" crc="876c8501" sha1="98e2864c8b2369257f22a70a8e32527109b28595"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/locator.exe" size="119056" crc="8dea98e0" sha1="3da1423d87635e4ec5712f6050dcc3b444894540"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/lsasrv.dll" size="152336" crc="a4739c43" sha1="141639f75445a67e34c5367708c96631f0b9e57c"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/lsass.exe" size="10000" crc="994f016e" sha1="fc17bfb5e948f375060b5a72c254128d4598b8ac"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/msaudite.dll" size="18704" crc="34c7193d" sha1="dabc7576140ad8c6f86bcdd50775925d103cdedd"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/msfs.sys" size="22448" crc="7caea561" sha1="80807ad4e180bbb4ae5edd86de31859ada67fdd1"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/msgina.dll" size="124176" crc="c17d7672" sha1="6db95c2b7df154a5bd0e7a909567b05d860c29ca"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/msgsvc.dll" size="39184" crc="1b0b1608" sha1="5000bfcb4514fdbdc532f48e477f29a1317c46d7"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/mswsock.dll" size="75024" crc="b09bd57e" sha1="99ed6d384cfed9b7b51da18defeb7f02fb30858e"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/mup.sys" size="80784" crc="48a65c6a" sha1="f350c39e71109cce0ceb579dfcddb94aae72feba"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/nddeagnt.exe" size="14096" crc="95d42742" sha1="67ab5d96517d2d9b5f2981f88dd031ee5892bc23"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/nddeapi.dll" size="20240" crc="75e7c6dc" sha1="42b2ebfdeed1c182adc0fe9955280d6b195fadad"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/nddeapir.exe" size="8464" crc="be02ef45" sha1="b80ba8b7ebe5e2d0207e6c40552f5bc4639a4d68"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/netapi32.dll" size="256272" crc="b6d313ed" sha1="e0bb5e7eeb7fdb6ff01dfe738ab95d95b48d2c6b"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/netbt.sys" size="125520" crc="4dc3d862" sha1="4dc09d334073ef6b5ffb1fef634dc6aa50ea1031"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/netdde.exe" size="118544" crc="22576ee7" sha1="390be696aa1fe573fb3589e0e9f209f6c4c87966"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/netdtect.sys" size="8368" crc="5a500a91" sha1="1263340f153dacb3a97c23cb6cc1f88360b77bb7"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/netlogon.dll" size="188176" crc="60e0d6bd" sha1="1fff03fa50ffe0f8a564f24244e31828b834c5a3"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/ntlmssps.dll" size="35600" crc="14b72250" sha1="e8fa024fa5603c0977286666e80d312b52b468d5"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/ntoskrnl.exe" size="937280" crc="873c3ef7" sha1="138b99ef21742cf84ed2df8e454f6c39c34f344c"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/ole32.dll" size="701200" crc="cfb9e6d5" sha1="9531b4380e0b1c3455715bd3143e8ede3536e68b"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/parallel.sys" size="14960" crc="3aeba813" sha1="b3c6957ffe00f087e5b281a9c816d774e8059fd2"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/parport.sys" size="10064" crc="4e7ba243" sha1="00306ec04767f281d9c14f8bf73e48d300282135"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/raspptpe.sys" size="40976" crc="1a0bd547" sha1="237f23c3ae91ee1dacc0150fd93b48d85821ed89"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/rdisk.exe" size="68368" crc="eec1d595" sha1="227f35c0d435e7b19e8c182d720c9d246128e0fb"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/rdr.sys" size="265008" crc="8d5e5b20" sha1="d20e6bec7981f37d097e62bd9794280cf989e169"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/riched20.dll" size="268560" crc="12d6f481" sha1="627bbc23a7831e5eeb693e7042c39df445bb2580"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/riched32.dll" size="173328" crc="9031cbe3" sha1="19903419e747bec97820f05ce224abfd4914ab7d"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/rpclts1.dll" size="8976" crc="2aa4d6ca" sha1="d26dbe07a39f7a30b9908a79789a36e6025acf0b"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/rpcrt4.dll" size="345872" crc="45426514" sha1="e2ded7db5d443611bf99ef1b526d46f966e1e36c"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/rpcss.exe" size="107792" crc="b67d3c64" sha1="fcc80108c1590a7e3f337c7f7f18a1e74080f848"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/samlib.dll" size="41744" crc="12db7e09" sha1="0ca0a2a719910578bc22e3c3b029388aa33fc7c4"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/samsrv.dll" size="170768" crc="6f55dcdc" sha1="55788347c2024208bfdf60180882163ba6638eec"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/schannel.dll" size="112912" crc="00ab765c" sha1="d6a4b322350db948d1e0e55fe4d2e49af54b8265"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/scsiport.sys" size="35440" crc="2b4f9c4b" sha1="77ee36f21d7d5a6a73e0e830a71162c45a8e74d1"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/services.exe" size="135440" crc="74b4592d" sha1="9e56cc6a37875b48e667702b00b10fc37ab5c2a6"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/shell32.dll" size="1280784" crc="e3823d68" sha1="6e1c828d9613db7ff407f9aa802292db1ebdfa9d"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/shfolder.dll" size="22528" crc="e5396c74" sha1="afddec0dd27f00bfc43b63580b47d1b3cb8b8003"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/smss.exe" size="40720" crc="a8127f42" sha1="5cb476d041e71deebb62bc6956ac4b98811e4b6c"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/spoolss.dll" size="44816" crc="d40e45a4" sha1="313e0ea623d8e352c34dadeb4499bd9a91433b45"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/spoolss.exe" size="35600" crc="285e6e44" sha1="774b7854feb177eb51e9182343c54ebc2cfc65c0"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/srv.sys" size="231312" crc="58398233" sha1="2a1cd383fb24d4a1b50d7da242dc8d1e92538288"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/srvsvc.dll" size="99600" crc="5f2b43de" sha1="9ad14dbac9dca3b646a3e926b919f4119768ba36"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/tapisrv.exe" size="152848" crc="a2dc8310" sha1="e9b3c83247b1c5fd79f6c6e1ba20889008b0a422"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/tcpcfg.dll" size="160528" crc="e86244ec" sha1="1007652cbe1d50b8c08d20d68bb141eb22ed7190"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/tcpip.sys" size="154896" crc="b82bbd7d" sha1="172da1e55323ae2c60458db1e33a931cc08823e8"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/userinit.exe" size="26896" crc="15e064bd" sha1="9f75d0c5cf70c958fc9d9764de06ba4ee9d17602"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/win32spl.dll" size="75024" crc="4e730583" sha1="34d2be0aaba4532a95573aefa197b1bf7bcb1f0a"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/winhlp32.exe" size="23824" crc="e5cdbff6" sha1="f52e4fd2ec25d6aa0b6616f46d8f24509bf96f91"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/winlogon.exe" size="192272" crc="81fae664" sha1="90b57e885889f7de6d9d86de2015df135b408ffd"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/wkssvc.dll" size="60688" crc="1f19c1d6" sha1="43d49f271ad7b009598cf66ca707d9407b7a380c"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/wldap32.dll" size="159504" crc="ee862452" sha1="09bc6689ef38db8b8d1438f321d24ea2482b097a"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/ws2_32.dll" size="69904" crc="e751bd09" sha1="08bee05f02815f771f4bace1f6a66c7bbd4aafa4"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ299444$/wshtcpip.dll" size="18704" crc="9dca3e7e" sha1="e6e6ff04294837bd478d6b17daaf063dcc59b804"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ304158$/hotfix.exe" size="93968" crc="09aeb88a" sha1="0f15f613622548bb93daf5d7e77e77744d8fea72"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ304158$/hticons.dll" size="25360" crc="b385497d" sha1="c5024c4d3a6d53479ad47b9d29a0ec71901f3f71"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ304158$/hypertrm.dll" size="401680" crc="7f37830d" sha1="060d26d292fc4240ec4141fdb8bd7103559f6d5a"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ304158$/hypertrm.exe" size="10000" crc="34dda85d" sha1="144449092074c2ec33bc970d236781cf92d2636a"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ305929$/crypt32.dll" size="371472" crc="90ef0d8d" sha1="8085fa920481d9a25691e7732cb6166e4c041f38"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ305929$/hotfix.exe" size="94480" crc="10277cd5" sha1="f3df7748c65cbfad55f2ece04b365e8c5bbbee6c"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ305929$/softpub.dll" size="62224" crc="f595c2bf" sha1="fa820fc5886bb38fbd2d522150a2592475726a64"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ312895$/hotfix.exe" size="96016" crc="e4e9b38e" sha1="88793f06412aefe954ae28460ad86bc26218e85f"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ312895$/mup.sys" size="80784" crc="48a65c6a" sha1="f350c39e71109cce0ceb579dfcddb94aae72feba"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ313829$/hotfix.exe" size="94992" crc="e284e491" sha1="e9bdbbf424516cb7ef756a777412ad0c45422645"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ313829$/shell32.dll" size="1280272" crc="16eb97c6" sha1="e60457d7050a8958aa9d376864a44e31f2183086"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ318138$/hotfix.exe" size="96016" crc="de599c62" sha1="08214077fc2d2eb1a4d98e8e41f82db4c4852704"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ318138$/rasapi32.dll" size="127248" crc="251fa155" sha1="0765d832884e2486424df8e54abc1a4a58970dfd"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ318138$/rascfg.dll" size="154384" crc="0fb74e03" sha1="436d42e934ce88c7d20936ccd31aa827ae85efb0"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ318138$/rasdlg.dll" size="347920" crc="f3230afe" sha1="779e60700ff5593e54ee9b8f18a84a2745bc7bf8"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ318138$/rasfil32.dll" size="12560" crc="f9452dc8" sha1="6813d588d06c99ec3e4cad6d16cc17841fba9edc"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ318138$/rassapi.dll" size="24336" crc="4d2100e4" sha1="64377ffb32adf3a4c958ae745fbd6a85fe1bc181"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ320206$/hotfix.exe" size="96016" crc="73adce99" sha1="6d5cdc4c52a38e89616e12b87fb9666fadb72b8e"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ320206$/smss.exe" size="40208" crc="da114cbe" sha1="9ea50c68cf3da14df7c1873289e28891cf705ec2"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ323172$/hotfix.exe" size="95504" crc="f2d011a0" sha1="5e6d3653bde0e9e6396f6eee1697aafc1e53c5c7"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ323172$/xenroll.dll" size="110624" crc="2465769f" sha1="4c35c9503189e94c7bae60a9f7e2408cb2e35be7"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ326830$/hotfix.exe" size="95504" crc="f2d011a0" sha1="5e6d3653bde0e9e6396f6eee1697aafc1e53c5c7"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ326830$/xactsrv.dll" size="101136" crc="5cb82c46" sha1="8bd3e8e5ef43829b1bdad998bf50b2fb8f788393"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ328310$/gdi32.dll" size="169744" crc="9ac48397" sha1="320b48c559591c18a530c76952b97a5b444d0045"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ328310$/hotfix.exe" size="95504" crc="db7ad6ef" sha1="2bc27a73e448091807e5233672bd91f068295fa8"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ328310$/user32.dll" size="326928" crc="6e68ecc9" sha1="4e1bcd084e02113b300f39389bbd9f4d37cbdd6e"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ328310$/win32k.sys" size="1255152" crc="3be14a5c" sha1="f04e5245c5e67daea21daab2360cde36c51f456b"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ328310$/winsrv.dll" size="175888" crc="6164fd87" sha1="5e3098542a8725526772d8a216d88eec80af38dc"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ329115$/crypt32.dll" size="371472" crc="90ef0d8d" sha1="8085fa920481d9a25691e7732cb6166e4c041f38"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ329115$/cryptdlg.dll" size="89872" crc="360bbaf5" sha1="9a28ccc03d41794fb2f2ede8a1cc8e1836e7a2ac"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ329115$/hotfix.exe" size="95504" crc="d2ca8fb1" sha1="302fc24933e416df8c4f951cb076abcd05c34660"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ329115$/schannel.dll" size="124176" crc="d0a490b9" sha1="c7793b7bf3dc1e0ae5cdb3c0bb158c32b3a7a5ee"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ329115$/softpub.dll" size="62224" crc="f595c2bf" sha1="fa820fc5886bb38fbd2d522150a2592475726a64"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ810833$/hotfix.exe" size="95504" crc="98890515" sha1="d45e0c3637c6808093b16159b6ee699cba45f4b5"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ810833$/locator.exe" size="119056" crc="87f26582" sha1="72380618fa8329cb1d5d83645451466ed223a5ca"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ811493$/hotfix.exe" size="95504" crc="db7ad6ef" sha1="2bc27a73e448091807e5233672bd91f068295fa8"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ811493$/ntoskrnl.exe" size="931584" crc="f6072a5d" sha1="22287db890970cd930f9606c70e3c488e694dd13"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ815021$/hotfix.exe" size="95504" crc="f97b1bbd" sha1="e27db49b9c84194857a418f4ffcdea9438f8281a"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ815021$/ntdll.dll" size="366864" crc="21006e97" sha1="e24bb7abd2a7c0caee9562b8710b18c851bae386"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ817606$/hotfix.exe" size="95504" crc="f97b1bbd" sha1="e27db49b9c84194857a418f4ffcdea9438f8281a"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ817606$/srv.sys" size="238256" crc="64afe5d0" sha1="b57a8d5331f50ea5396e161c6ddd790f30bdd33b"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ819696$/hotfix.exe" size="95504" crc="f97b1bbd" sha1="e27db49b9c84194857a418f4ffcdea9438f8281a"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ819696$/quartz.dll" size="762128" crc="16a4ce9e" sha1="10f08ead3de810dbadbd3632e5ca9f4ea5827e7e"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ823492$/hotfix.exe" size="96016" crc="46adda82" sha1="94dff0d1aa4baba7d05afdd846274fe2e959626d"/>
+		<rom name="Cashino-c-drive/WINNT/$NtUninstallQ823492$/npfs.sys" size="38448" crc="294b1962" sha1="7ed2aab143dcfd39d856d4e6634a299e86f5edf4"/>
+		<rom name="Cashino-c-drive/WINNT/$NTUninstallQ823559$/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Config/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/control.ini" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/COOKIES/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Cursors/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Downloaded Program Files/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/EXPLORER.EXE" size="237328" crc="447d320a" sha1="df678b5b5ab80cad1728cf5c02c8ca35065cc28b"/>
+		<rom name="Cashino-c-drive/WINNT/EXTRAC32.EXE" size="132608" crc="3500b8b1" sha1="795d8a3f43744909f1b6142fb83c470d14781a0e"/>
+		<rom name="Cashino-c-drive/WINNT/extract.exe" size="100864" crc="09843634" sha1="1ca21f073ae18a6069447a2118ded9827a86704c"/>
+		<rom name="Cashino-c-drive/WINNT/Fonts/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Help/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/hh.exe" size="10752" crc="ddef5935" sha1="1e387dd13b7b9c980eec101c48a92e842a08dff9"/>
+		<rom name="Cashino-c-drive/WINNT/History/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/IEHELP.EXE" size="150898" crc="7994e68b" sha1="9bb37f71992f3e0dbaf8bded4187cbd15b036c36"/>
+		<rom name="Cashino-c-drive/WINNT/ieuninst.exe" size="33792" crc="0ce20c68" sha1="6099cca629f6dcb2476981ed9c8871db512b7475"/>
+		<rom name="Cashino-c-drive/WINNT/iextract.exe" size="17655" crc="78748f85" sha1="b16b817d5936c60d07972d68335806dd73dd0494"/>
+		<rom name="Cashino-c-drive/WINNT/INF/CATALOG/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/INF/unregmp2.exe" size="142848" crc="3d59e98d" sha1="a9a0550a863f8b37b01809138b81b0b881d168e1"/>
+		<rom name="Cashino-c-drive/WINNT/IsUninst.exe" size="306688" crc="39081d06" sha1="ebe026f9c551f372ad82186ff6b9c2ca26dd684c"/>
+		<rom name="Cashino-c-drive/WINNT/Java/TrustLib/com/ms/mtx/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Media/chimes.wav" size="15920" crc="7a68b6fe" sha1="627be50ec880add717e876f854fde64608759ef1"/>
+		<rom name="Cashino-c-drive/WINNT/Media/chord.wav" size="24982" crc="f91c2083" sha1="277e8a8fc41795264da8362397447e65900c0d12"/>
+		<rom name="Cashino-c-drive/WINNT/Media/ding.wav" size="11598" crc="ed87d224" sha1="795ae898cb5aaeea36da212a869e495cbb600bec"/>
+		<rom name="Cashino-c-drive/WINNT/Media/ringin.wav" size="10026" crc="e9aed4af" sha1="22e51923c9365edb643b68afbc8c44d0da25112a"/>
+		<rom name="Cashino-c-drive/WINNT/Media/ringout.wav" size="5212" crc="b82e697e" sha1="c878c6229c0b0cd5a7983f69254b33386f550cae"/>
+		<rom name="Cashino-c-drive/WINNT/Media/START.WAV" size="4184" crc="a10bc710" sha1="8701219375cdb344a7cfa695334a4481c6aee3be"/>
+		<rom name="Cashino-c-drive/WINNT/Media/tada.wav" size="27804" crc="f675adda" sha1="19e74a921a1cb34ee0213ae95c334a1f7b22e0d1"/>
+		<rom name="Cashino-c-drive/WINNT/Media/The Microsoft Sound.wav" size="135876" crc="0fa48dfe" sha1="2eefab9ff78aefdcef361e4919de311f827bb3db"/>
+		<rom name="Cashino-c-drive/WINNT/Media/Windows NT Logoff Sound.wav" size="439824" crc="4ea5b6ec" sha1="7bd87ee6afba5639f4b05cc028fd95b2c3f4bd41"/>
+		<rom name="Cashino-c-drive/WINNT/Media/Windows NT Logon Sound.wav" size="439824" crc="fd37f5e3" sha1="34c5d1776978a569530403ab9baa3dd563a2e87f"/>
+		<rom name="Cashino-c-drive/WINNT/msdownld.tmp/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/NOTEPAD.EXE" size="45328" crc="8b586e26" sha1="3c4e15a29014358c61548a981a4ac8573167be37"/>
+		<rom name="Cashino-c-drive/WINNT/Offline Web Pages/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/PIF/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Application Data/Identities/{B6AD0220-3AC9-11D8-AD95-0000483001BE}/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Application Data/Microsoft/Internet Explorer/Quick Launch/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Cookies/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Desktop/My Briefcase/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Favorites/Links/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Favorites/Media/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/History/History.IE5/MSHist012003122920040105/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/History/History.IE5/MSHist012004010820040109/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Local Settings/Temporary Internet Files/Content.IE5/4KDOKO0G/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Local Settings/Temporary Internet Files/Content.IE5/E16P65NJ/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Local Settings/Temporary Internet Files/Content.IE5/GIT5WC85/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Local Settings/Temporary Internet Files/Content.IE5/S2JTDT6I/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/NetHood/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Personal/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/PrintHood/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Recent/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/SendTo/Desktop (create shortcut).DeskLink" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/SendTo/Mail Recipient.MAPIMail" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Start Menu/Programs/Accessories/Communications/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Start Menu/Programs/Accessories/Hyperterminal/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Start Menu/Programs/Accessories/Multimedia/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Start Menu/Programs/InterBase 6.0/Documentation/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Start Menu/Programs/Startup/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Administrator/Templates/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/All Users/Desktop/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/All Users/DRM/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/All Users/Start Menu/Programs/Administrative Tools (Common)/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/All Users/Start Menu/Programs/EPSON Touch Panel Tool/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/All Users/Start Menu/Programs/Startup/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/All Users/Start Menu/Programs/UltraVNC/Doc/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/All Users/Start Menu/Programs/UltraVNC/Ultr@VNC Server/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Default User/Application Data/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Default User/Desktop/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Default User/Favorites/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Default User/NetHood/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Default User/NTUSER.DAT.LOG" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Default User/Personal/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Default User/PrintHood/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Default User/Recent/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Default User/SendTo/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Default User/Start Menu/Programs/Accessories/Hyperterminal/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Default User/Start Menu/Programs/Accessories/Multimedia/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Default User/Start Menu/Programs/Startup/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Profiles/Default User/Templates/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Q330994.exe" size="33792" crc="0ce20c68" sha1="6099cca629f6dcb2476981ed9c8871db512b7475"/>
+		<rom name="Cashino-c-drive/WINNT/REGEDIT.EXE" size="71952" crc="7eea3da5" sha1="d3447a4a50d14eeeef0c7ff4d68fd9660564b4a9"/>
+		<rom name="Cashino-c-drive/WINNT/RegisteredPackages/{89820200-ECBD-11cf-8B85-00AA005B4383}/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/REGTLIB.EXE" size="40960" crc="95271cc3" sha1="1de0f78d0f58eccaf4c7ff40aa2e0f5153086f1e"/>
+		<rom name="Cashino-c-drive/WINNT/repair/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/ShellNew/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system/AVICAP.DLL" size="69584" crc="f80af63e" sha1="2882b5510d853c1c4065c84eb47befb84b688457"/>
+		<rom name="Cashino-c-drive/WINNT/system/AVIFILE.DLL" size="107984" crc="0e8e6266" sha1="922e668360f5d37b276ddfb19112079777ebc66b"/>
+		<rom name="Cashino-c-drive/WINNT/system/COMMDLG.DLL" size="28336" crc="d243938e" sha1="39b666a8848947cd0c097ba638b84f10f0f83533"/>
+		<rom name="Cashino-c-drive/WINNT/system/LZEXPAND.DLL" size="9936" crc="cb8b5a55" sha1="725db3242ddc357e3f393db6a95a98776189a587"/>
+		<rom name="Cashino-c-drive/WINNT/system/MMSYSTEM.DLL" size="68160" crc="b233eb92" sha1="80cacf6fef2922fa986aeb7433329197d9e7d462"/>
+		<rom name="Cashino-c-drive/WINNT/system/MSVIDEO.DLL" size="138048" crc="0088bc7a" sha1="7fd5b3d9923c8b7ca2f9aa25c3150357ca61b35f"/>
+		<rom name="Cashino-c-drive/WINNT/system/OLECLI.DLL" size="83456" crc="ea038b60" sha1="0ea1d07631898c79db200739a55c91c2701acffe"/>
+		<rom name="Cashino-c-drive/WINNT/system/OLESVR.DLL" size="24064" crc="3399991c" sha1="8e2400c8057cf46cba90fbbe07c352defb9bed2f"/>
+		<rom name="Cashino-c-drive/WINNT/system/SHELL.DLL" size="5120" crc="da058417" sha1="8a616adb41786fede6c778b07e17aa0fd1812ce2"/>
+		<rom name="Cashino-c-drive/WINNT/system/TAPI.DLL" size="20656" crc="a5a6c380" sha1="78e5e44f0de6a1c6623d3bb6429e45a86f2fecea"/>
+		<rom name="Cashino-c-drive/WINNT/system/VER.DLL" size="9008" crc="fbb6ede2" sha1="77d3e4d7bbaaae0b8c8ca383efe574807c6e729c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3c1807dp.dll" size="73728" crc="baee4ef2" sha1="110fb28038cba4f25ede518abea46b71775dca02"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3c1807vp.dll" size="36864" crc="5741c0ae" sha1="0817b59e85700eaa82cae91120055d2a36141b3a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3ccntry.dll" size="57344" crc="51bbee70" sha1="45aa51fca8193c08ea9acad52ea3bef1af0d6027"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cdte.dll" size="294912" crc="50806341" sha1="81bbf484a8abee74072c7ea125d90064551ab1cf"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cfax.dll" size="86016" crc="67e229d1" sha1="21e3efcf6baf574dff9e3b41c5c5d21f2958d8fb"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3clbv.dll" size="49152" crc="3e26f533" sha1="d1572be50d152f4124ffbefef5c511c52bdb10a8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cmlink.exe" size="36864" crc="fa7a935a" sha1="d57fffc99fc19350a925e6743acc7c4d767fb14e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3crtos.dll" size="53248" crc="cbe9ad3f" sha1="269b24478e1cf69e8377499f98413bd1d5ed1fd3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3csdpi.dll" size="45056" crc="d1b46f4b" sha1="233ddf35a0c571ba660e7dbe20c0f2574b16181f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3csvpi.dll" size="40960" crc="3b899915" sha1="50cb4125be3dd5720511a109eb2730e38491458d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cv42.dll" size="94208" crc="9ade22f1" sha1="6926a14919823fa741ae30ecb0bbc30245f37f4f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cv80.dll" size="45056" crc="1f689f74" sha1="21c3ff4a84e49042092f87938d96ca4735efb2d7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cvoice.dll" size="40960" crc="ffa99ca4" sha1="cbcb69d689d65e72878497772229193bce84cd3e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/3c1807.sys" size="223456" crc="15a52235" sha1="beca807896053b8cffaac4ad619f7a99b30d44e3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/3c1807pd.sys" size="113056" crc="8d7cc66a" sha1="b9a97150f66282db030f38c91af62477956d04b2"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/3c1807vp.dll" size="36864" crc="84a350d4" sha1="5ffa6ce37d826d7c9119689daac6d24a25a0006f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/3ccntry.dll" size="57344" crc="6361de78" sha1="500c311ae365518ace680b22d9412bdcfc4e9bd6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/3cdp1807.dll" size="77894" crc="6860163b" sha1="a51ac8540c4c0c8243866ae235bad2f62537de3e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/3cdte.dll" size="294912" crc="1f455405" sha1="9b0f14fc066abf2b27de0b3edbbfb292d9b064a3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/3cfax.dll" size="86016" crc="10ea1cb3" sha1="b52ebc33f70dbbca477fa116b888b9547fd2fb6c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/3clbv.dll" size="49152" crc="2ff67952" sha1="54974df75ec399b0f16bbab90123a1e008587f86"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/3cmlink.exe" size="49152" crc="3e0ec3c7" sha1="0469d41a5233a665c52b7b2bd49e4dbb1ec9c1ad"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/3crtos.dll" size="53248" crc="81a924f1" sha1="b81f24b4a3b6a51ccbd2efce99b91c60aba2a77d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/3csdpi.dll" size="45056" crc="0168bf5d" sha1="3f986506576b1e3133dfa887167ae7d881b2d129"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/3cshtdwn.exe" size="69702" crc="105d8cad" sha1="dcf3670da187c0f92337d9084ecda7fce829eef9"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/3csvpi.dll" size="40960" crc="daae996b" sha1="31586bbaeba5e9b1d9e39dd9066daeb722c23f5e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/3cv42.dll" size="94208" crc="a17919f8" sha1="579ad489f3125eb524a1be3c7ac88a812628d2fa"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/3cv80.dll" size="45056" crc="144b5a36" sha1="edecc64202eb91cdb93242f021a16f8d860b7429"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/3cvoice.dll" size="40960" crc="f027d603" sha1="bc2f8a448b151327b792f2035dc4ba7406a88f01"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/oslib.sys" size="7491" crc="9bc59d84" sha1="b5a1b4e36c3044a34752d6da0e778e9ca151abd7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cw2kdrv/probedis.exe" size="61510" crc="b7301179" sha1="13aa8da42f46dc6deb219db50244cbd550560f36"/>
+		<rom name="Cashino-c-drive/WINNT/system32/3cwdmco.dll" size="45056" crc="c8f52319" sha1="f142ae02eeccaf41e4a908a35b1dca02521c21f3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/acctres.dll" size="64512" crc="d65d2994" sha1="2972cd2e0349ee00ab18de6a68991d6c04a2b3ca"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ACLEDIT.DLL" size="136976" crc="478b95ed" sha1="0b7ada61a23635eafad121c17661cc2d1845af21"/>
+		<rom name="Cashino-c-drive/WINNT/system32/actmovie.exe" size="26384" crc="68167ded" sha1="a9f1c38d6a67bc92014813d9165068006eed5cc9"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ACTXPRXY.DLL" size="98816" crc="9dd9a6e7" sha1="52513eac5fd0450ce383c1591a2187fee2ce5b62"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ADVAPI32.DLL" size="248592" crc="eff6b40a" sha1="5e1a0b472eb4001e725951dcd81c88d4325918e3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/advpack.dll" size="91136" crc="7f8a9883" sha1="6db4d2ffcccdccfd37dd120eeec06e3f7a81f705"/>
+		<rom name="Cashino-c-drive/WINNT/system32/alrsvc.dll" size="23312" crc="00ffa6bc" sha1="92766f640103794537ad453726cd23224e4ef28c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/amddlg.dll" size="9488" crc="2f40fef4" sha1="78494952a9d4cbd7ec4ae47d3f9fc1c9eac3253f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/amdncdet.dll" size="12560" crc="119fee1f" sha1="879a9b1a777005b22fd789fb66b994800c81178f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/amstream.dll" size="65296" crc="6f7ae741" sha1="3c544685cda1da3e5d40a152948b43a3659756a6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ansi.sys" size="9029" crc="bc7cf24c" sha1="e37168fbd229c4b903d42a778af28f78f4d741d8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/append.exe" size="10774" crc="2862b051" sha1="6cd1a2e1dee9423b7ff9a0de901875aa948415d7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ARP.EXE" size="21264" crc="db0a1d91" sha1="fed388bd70d6b237661ef331461e88a7a69e52cd"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ASCTRLS.OCX" size="89600" crc="36c63a4e" sha1="4ceb6776b78a5ec854a73bde886bdaf833c6b661"/>
+		<rom name="Cashino-c-drive/WINNT/system32/asfsipc.dll" size="14832" crc="adb451db" sha1="e8a5966d7dddcc2d611a6df3ae763fe7efff57fb"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ASYCFILT.DLL" size="188416" crc="4c1da128" sha1="727964ec1d4eb0663e5969342f6f490be39a1f07"/>
+		<rom name="Cashino-c-drive/WINNT/system32/at.exe" size="27920" crc="d486dda0" sha1="9a91483c51adfeb0d46dfa486177494b27269eb6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ATL.DLL" size="58938" crc="dd26ff3d" sha1="557216ae7db3a33bc85ddc6733caad4b7149e063"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ATSVC.EXE" size="22800" crc="5bb3e536" sha1="1eac10be078b7b5141196079a2d120f836462d78"/>
+		<rom name="Cashino-c-drive/WINNT/system32/attrib.exe" size="27920" crc="84a5bcb3" sha1="5b85c33fa392b49a89249b77d172a976b1ec7c0b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/Auddrive.dll" size="72704" crc="07064993" sha1="9be2c08542d01f37fc5e407c87e286ee8af1666d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/AUTOCHK.EXE" size="430352" crc="21befff6" sha1="35cd416b6d68d7b06fae236fddc96f402cb8d0e0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/AUTOCONV.EXE" size="449296" crc="1a94c5cb" sha1="5307862c58e749f27b3fe3e7da85de4eb1b839f0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/autolfn.exe" size="11536" crc="263da81b" sha1="a729daa890589d19a1027400ec08858b833fc56a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/avicap.dll" size="69584" crc="f80af63e" sha1="2882b5510d853c1c4065c84eb47befb84b688457"/>
+		<rom name="Cashino-c-drive/WINNT/system32/avicap32.dll" size="68880" crc="84487156" sha1="ba4d841974efda27092b0b44c1135556a2c770f1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/avifil32.dll" size="86800" crc="fce38d41" sha1="1d2a5b6c51f4974d360a68d4e22bb735f628edda"/>
+		<rom name="Cashino-c-drive/WINNT/system32/avifile.dll" size="107984" crc="0e8e6266" sha1="922e668360f5d37b276ddfb19112079777ebc66b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/backup.exe" size="36092" crc="5591a20a" sha1="21578dd383c9b26deba1f22f8c3d966310c6d9dc"/>
+		<rom name="Cashino-c-drive/WINNT/system32/BASESRV.DLL" size="34064" crc="4e75829a" sha1="9b8f3bad42751e556823fb852b3a7ba84999d76f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/BINDFILE.DLL" size="15360" crc="fd345a99" sha1="881fa5c8aaaabbc987f3abde31eb02824f752d96"/>
+		<rom name="Cashino-c-drive/WINNT/system32/BOOTOK.EXE" size="28432" crc="14958eed" sha1="0498dc4bba2857805cb296ed1f757a5f684fe3b6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/BOOTVRFY.EXE" size="20752" crc="2331d03f" sha1="ada0d5e7179a60631769209375d9ff129f1ba07f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/BROWSELC.DLL" size="62976" crc="51051ef3" sha1="6916999e583365df755c75d666cf0a4c64ad5f37"/>
+		<rom name="Cashino-c-drive/WINNT/system32/browser.dll" size="41744" crc="f7366a58" sha1="70def9e5adf15060fca85699e2322243afd42c67"/>
+		<rom name="Cashino-c-drive/WINNT/system32/BROWSEUI.DLL" size="1026048" crc="7ebe2fe3" sha1="1c535a86b5923da67969fe121d4f4c76c6f50437"/>
+		<rom name="Cashino-c-drive/WINNT/system32/BROWSEWM.DLL" size="71680" crc="26dd9018" sha1="9ccbddbd5f5ebaa6432d7457505cfb602d78557c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/cabinet.dll" size="67072" crc="d19068f8" sha1="8835e668c4e90b3258d99a5e5f579848aff4b906"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CACLS.EXE" size="65808" crc="bb356c23" sha1="04e5942155652c82210d0b601882e98e2db4d11f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CALC.EXE" size="97552" crc="199f4ca9" sha1="6a380f7afa57da61642f7030891f52bb13ae0f7c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/cards.dll" size="156432" crc="d37d700c" sha1="40f9af7c2b3222ce4036195194a275455ceb592a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/cdfview.dll" size="142336" crc="84e0cca0" sha1="80c68138285e94275263cb4ec605d9af52d3c9ed"/>
+		<rom name="Cashino-c-drive/WINNT/system32/cdplayer.exe" size="86288" crc="ee0435fb" sha1="261a072a4b21dafca64815cc042172ca6814a24a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CertSrv/CertControl/alpha/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CertSrv/CertControl/x86/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CertSrv/CertEnroll/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/cfgmgr32.dll" size="58128" crc="8028e573" sha1="87411692e5f2aecac5e4da3f293f4635fcbebc41"/>
+		<rom name="Cashino-c-drive/WINNT/system32/charmap.exe" size="63248" crc="6ac9b213" sha1="f0a56a507ef99d78d0b63bcbdfcb28f9d58b10a4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/chipsd.dll" size="140096" crc="83c0575c" sha1="f1a4e17521c997be35dd9bde2aeee55c2ef7b3f5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CHKDSK.EXE" size="34064" crc="b4df95a5" sha1="6a22d35893381aca68a2f7050e15aef378f5f999"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CHKNTFS.EXE" size="32528" crc="14004027" sha1="c0d91ae07d39e96715dfe2b055aaf9cc087f87d2"/>
+		<rom name="Cashino-c-drive/WINNT/system32/chpstart.exe" size="39424" crc="c9f1e68a" sha1="ff3c32f79d654cfaa349b67cbbb7fea2842a2bdb"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CKCNV.EXE" size="7680" crc="6de140c2" sha1="f4ebab26a35aea05f95ab9f77be6fc6b0bf5715b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/clb.dll" size="15120" crc="6e1ad838" sha1="bc15fd98115901efda2f9efbc60e345a759a8dd7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/clipbrd.exe" size="133392" crc="2a03da2b" sha1="d11331c99344841533b531f00f0ce15b9fb4d067"/>
+		<rom name="Cashino-c-drive/WINNT/system32/clipsrv.exe" size="59152" crc="87a2fc10" sha1="fb1a296a99b8aac5d2e84fe3c28e2ff6e28038df"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CLOCK.EXE" size="42256" crc="3c7437ef" sha1="6d4b9227b47440ee2c4272edf99594f33ccd3e0a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CLUSAPI.DLL" size="46352" crc="d4d52bca" sha1="e5a6ffddfd19f2a9311217a4786ed02c45b22c6f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CMD.EXE" size="208144" crc="a4148867" sha1="f23da703c4b6db4f7e9e643c72ac2b3da595cabd"/>
+		<rom name="Cashino-c-drive/WINNT/system32/cntntdsp.dll" size="48640" crc="1359bfd4" sha1="45e01ce1a21d54b22f007fc60f1dc58d8d8cdf1f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CNVFAT.DLL" size="29456" crc="6889e588" sha1="fd8c73bf06250b439ec70fc0130f26be43695762"/>
+		<rom name="Cashino-c-drive/WINNT/system32/COMCAT.DLL" size="22288" crc="07716d90" sha1="0545c729d18e31f6f0735cbdeb28375125c00086"/>
+		<rom name="Cashino-c-drive/WINNT/system32/COMCTL32.DLL" size="529680" crc="09bdd297" sha1="f948f70e4f5ef0cc1582007b8cd8d3ec295b4e32"/>
+		<rom name="Cashino-c-drive/WINNT/system32/COMDLG32.DLL" size="185104" crc="2d7f894b" sha1="ca0f049617190eecd18e356b75c10bdc1018dcb7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/COMMDLG.DLL" size="28336" crc="d243938e" sha1="39b666a8848947cd0c097ba638b84f10f0f83533"/>
+		<rom name="Cashino-c-drive/WINNT/system32/comp.exe" size="36624" crc="2f1998cf" sha1="be29b00aa4d637330783f7b99832bdefaa5dfe05"/>
+		<rom name="Cashino-c-drive/WINNT/system32/COMPACT.EXE" size="53008" crc="5ac9f49b" sha1="c326ba4c5b4331676c1039133bbe394f14e206a1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/compobj.dll" size="30400" crc="91ee5af2" sha1="14c80bb420c12c9388d4a7555f6948dd9cda16f7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/COMPSTUI.DLL" size="186128" crc="7fb1ff28" sha1="65882aedd1cbad43300cc045bca806c2c789ed0e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/config/Newsid Backup/.DEFAULT.bak.LOG" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/config/Newsid Backup/SAM.bak.LOG" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/config/Newsid Backup/SECURITY.bak.LOG" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/config/Newsid Backup/SOFTWARE.bak.LOG" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/config/Newsid Backup/SYSTEM.bak.LOG" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/control.exe" size="8976" crc="a353b11e" sha1="bf9dbb6a3080ff97ba382ba174a2117e3818f357"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CONVERT.EXE" size="32528" crc="a8d804bd" sha1="bdabb207977ff80fc4e4450bbe51e2ac9cd3e727"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CORPOL.DLL" size="16384" crc="4a45ddf7" sha1="468e2277adb60baf709c0bca7034faf06f311439"/>
+		<rom name="Cashino-c-drive/WINNT/system32/country.sys" size="27097" crc="9334bafd" sha1="1854487158d7cc32b5782af20b91fa821dda19cf"/>
+		<rom name="Cashino-c-drive/WINNT/system32/crlupd.exe" size="127608" crc="ffdc17c4" sha1="4a091721cb22dc1b33a174ac834613a355665a10"/>
+		<rom name="Cashino-c-drive/WINNT/system32/crtdll.dll" size="149264" crc="39ee6500" sha1="b790663847061cee410f7391561ab47b44b50cbd"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CRYPT32.DLL" size="465680" crc="0d9e8b78" sha1="e1258eb560da84a3170fe48f3a67127a92075475"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CRYPTDLG.DLL" size="90384" crc="0138bfc2" sha1="b8d29841917f57a1374360fb6426e3831ee13ede"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CRYPTEXT.DLL" size="50448" crc="114ebeac" sha1="c37f2ebdd1b23e48c2d6ae2f040056c70c198b74"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CRYPTNET.DLL" size="40208" crc="a7286696" sha1="8b2ed4d9e9a9176878da77e00559aaedbce40ff0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CRYPTUI.DLL" size="440080" crc="d391755e" sha1="863b1db5c315c3209c1ca5cb2803d67f8d73d661"/>
+		<rom name="Cashino-c-drive/WINNT/system32/cscript.exe" size="102450" crc="7ff1874a" sha1="dbafff0d6a588e33d7ad3c960ace459eea4f8c82"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CSRSRV.DLL" size="29968" crc="6f05cee7" sha1="d937eb14a15108da6f789d6bb0e315757911cb3f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CSRSS.EXE" size="7952" crc="2e8169ab" sha1="1c5332a5de0b1d41efbb97c175a070098ea10412"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CSSEQCHK.DLL" size="86016" crc="b04b88c3" sha1="0f682b3853ba07ed98cb83bbbe2f146080dab421"/>
+		<rom name="Cashino-c-drive/WINNT/system32/CSVROOT.EXE" size="7168" crc="8e0b80a0" sha1="f392afc06c05182d7dfaa613e283e92d75a0752c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ctl3d32.DLL" size="27136" crc="28a66c20" sha1="9106f4ade6a696d5f98968bce895333ad5dbd9ae"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ctl3dv2.dll" size="27200" crc="33fee32e" sha1="17155dedec7d8cd7aa305e204c489c6bc3060cf7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/D3DHALF.DLL" size="118544" crc="cc13f231" sha1="37616628d59596c53216230717d5ac27a2e0c7c2"/>
+		<rom name="Cashino-c-drive/WINNT/system32/D3DIM.DLL" size="82192" crc="e5de829a" sha1="f3284255d48d834608c1c565691f0a1073e370ed"/>
+		<rom name="Cashino-c-drive/WINNT/system32/D3DRAMPF.DLL" size="109328" crc="a1f1505c" sha1="33130816199ddefde93c0c10f7dbdba308eb840c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/D3DRG16F.DLL" size="187152" crc="c4781cb7" sha1="70d26ca8bbe352daf1f4e78a586b3f664926711b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/D3DRG24F.DLL" size="131344" crc="b6e057e5" sha1="019527a99387587f5cc5234c076db2d6db0c243d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/D3DRG32F.DLL" size="130832" crc="2fdbab58" sha1="ea9f864044cb6d04bd4d580f07ef3885d0375b57"/>
+		<rom name="Cashino-c-drive/WINNT/system32/D3DRG8F.DLL" size="186640" crc="221e2482" sha1="bb9be50c2d3abc37f3b4001a77c706545721757a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/D3DRGBF.DLL" size="109328" crc="e628dad3" sha1="6587632078eceb60a3b67d3d7808b04494abe244"/>
+		<rom name="Cashino-c-drive/WINNT/system32/D3DRM.DLL" size="255248" crc="9b7b74be" sha1="bdf518db1a78e17c7be7d4b2cd97b38faa326fbb"/>
+		<rom name="Cashino-c-drive/WINNT/system32/D3DRM16F.DLL" size="441104" crc="e619aaf4" sha1="2852c86e8a8ab4567a7eaa5fc3f3079e6dc46ac0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/D3DRM24F.DLL" size="112400" crc="5227f26c" sha1="df2a89075350dfbe14bcf69a32cdd1f91d430639"/>
+		<rom name="Cashino-c-drive/WINNT/system32/D3DRM32F.DLL" size="111888" crc="77c3c79c" sha1="936dea3876dae954bcb164cc800451b13eab632a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/D3DRM8F.DLL" size="439568" crc="e39daabe" sha1="7218554983c16fcb986d239c899efed1412095c6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/D3DXOF.DLL" size="87312" crc="0c545f98" sha1="919d4ad47a99e434f77a52ec254afabd17533bf4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DCIMAN32.DLL" size="10512" crc="c7928b31" sha1="6a72b23ba03474fa18ec470345db2169a087f2fa"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DCOMCNFG.EXE" size="141584" crc="1ed9deb0" sha1="0c6bad530f9589c367af48178271042e3fff1b0b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ddeml.dll" size="39936" crc="c4b40602" sha1="7930189d45e9040b28f6c85e679df4af02b767b6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DDESHARE.EXE" size="33040" crc="e58f012f" sha1="537e3cd5833eb9d61a8a513ca182d8220e1ac8ef"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DDHELP.EXE" size="28432" crc="10518e8b" sha1="8f4cadff164df3e4c103a53ecc9f21caf48556b0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DDRAW.DLL" size="139024" crc="735d1844" sha1="6940a7c56d88626c65ce4b2c246e85c10d304d2b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/debug.exe" size="20634" crc="ad2b6df4" sha1="5915a889c84e6e6e3878297ed6467ee0b8fd982f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/defea.dll" size="7440" crc="1dc5bbd9" sha1="df397acaed84bd79395c3287e6ceb3c31e770a4f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/defpa.dll" size="7440" crc="305534b6" sha1="8d2b50a50e2c68bb6630a93c0fc8b153afa6a20a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/devenum.dll" size="50960" crc="cdb2ad03" sha1="5e0f26bec4b0d32a26b19c220eee0c7a08fe04e4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/dhcp/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DHCPCSVC.DLL" size="38672" crc="ff4f5aa2" sha1="e11dc411384f4c7e98cacb3d3edb1ed0912f40aa"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DHCPSAPI.DLL" size="19216" crc="81c3b509" sha1="9d681744ca5ebcdf279bcb19d26b4044ef9b7525"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DIGEST.DLL" size="55296" crc="1cedc597" sha1="d39d15d6620cd944fd5359a841d697d4f7cd9027"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DIGSIG.DLL" size="231184" crc="30aa72d1" sha1="3d04fec313e216e8d55c8705941304d7b40f82a8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DINPUT.DLL" size="41744" crc="ffb3c300" sha1="7f75f0ef9b2e72954a687ce76507aa5e35887fe8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/diskcopy.dll" size="19728" crc="709e9b62" sha1="b8ae7a87fe81a823fedc5bab742fb1ed488a575b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/diskperf.exe" size="35600" crc="87e1d2da" sha1="9967ba52939d9eed3224b11feffc1abf1fccb411"/>
+		<rom name="Cashino-c-drive/WINNT/system32/dispex.dll" size="45105" crc="2cf97ade" sha1="8fc0a1d103968ddb7bf4d06ccf30f0f0d09143c5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DLCAPI.DLL" size="13072" crc="cc57f58d" sha1="e2106c56fe5ae74514749b916d3065f6c3222e40"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DLLHOST.EXE" size="11536" crc="fae49484" sha1="c9da337b30f8a355d92ea84939d83499728d40af"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DOCPROP.DLL" size="57104" crc="86fd6542" sha1="ba85876801447d0bb385707b21cb7704b74b69ed"/>
+		<rom name="Cashino-c-drive/WINNT/system32/doskey.exe" size="35088" crc="4a716358" sha1="380f7146447b9369b0b88143492bdb62df5613c9"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DOSX.EXE" size="36344" crc="62f34f02" sha1="7be42622143ac79c3fc4b51ac59758dd6dbbe447"/>
+		<rom name="Cashino-c-drive/WINNT/system32/dplay.dll" size="28944" crc="2b894b11" sha1="7ba1106bf4b9fbca823e11d086e83f113b9c5a1d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DPLAYSVR.EXE" size="29968" crc="3509c775" sha1="98c38aeec7fef7c9bf949979e2ae118995a76231"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DPLAYX.DLL" size="217872" crc="12e1e0d3" sha1="c320e193bbb7dcb4ddedf303204c838e3279f9f1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DPMODEMX.DLL" size="22288" crc="3476594c" sha1="5b040d87c03859e26a9dc21b6ccfc337684c3e38"/>
+		<rom name="Cashino-c-drive/WINNT/system32/dpserial.dll" size="51984" crc="d0b8dd0d" sha1="f240210f36147ac2fcf204b0cbd62c380c6c9d7c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/dpwsock.dll" size="39184" crc="5f1ef45e" sha1="ba1ef6baa065ab4fb58d287084f18fc5709e8af4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DPWSOCKX.DLL" size="44816" crc="6faefa8d" sha1="95f5ec8a5301fa99f0e1df68cdf5ed9bdea2c149"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/3c1807.sys" size="202684" crc="bd356943" sha1="71b9f83babb4dcb144e923fc5f1eab7982d2fd84"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/3cpd.sys" size="23736" crc="894082db" sha1="8869a72bbfa8c722245a444be11856ca2d90e44b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/AFD.SYS" size="66640" crc="047f9342" sha1="97cb6065db17b5c819e081fbbeb04f83f8f4c004"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/ASYNCMAC.SYS" size="38992" crc="e7bf27f9" sha1="11a6af143f5298216e3ddff218ddd61c08390ac5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/ATAPI.SYS" size="27696" crc="6efdd47f" sha1="3215811b00e9239d725a7b6e5cdaf422177f93fd"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/ATDISK.SYS" size="26480" crc="834def77" sha1="0e548cc030911854f1737e32bc4bb3f7206caf14"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/Auddrive.sys" size="80000" crc="27c12909" sha1="6a4c7ab92a9d521466ff2e62ade9e7fa2f741748"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/BEEP.SYS" size="4112" crc="a37d7c07" sha1="d1fea53e7fa1f6b5b10b3b9c529d0269bd7473af"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/CDAUDIO.SYS" size="22224" crc="ee98b1aa" sha1="33aeb4de229b7d933024e172640b9ab43f2fbdd1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/CDFS.SYS" size="61424" crc="83de8b3f" sha1="c65ebf464035282d9dc3acc4087af5b4bdb3bf97"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/CDROM.SYS" size="22192" crc="65d5a770" sha1="febe81788f177b4a524eb6496b72a596b8f74163"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/changer.sys" size="7504" crc="ce9913b1" sha1="1ab6ff3b7be74c448dee334b5cc91458ad043ae6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/chipsm.sys" size="47136" crc="dbe28651" sha1="5d0ed119019b6e91bf2b21ff3799345ae7beecf4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/CLASS2.SYS" size="13744" crc="7553ab82" sha1="646efb8df2b685306ff93570038662d460d0f0cf"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/DISK.SYS" size="15248" crc="6349c0a2" sha1="5b8883189b09b4f122f700114ed73f9fb65c0efc"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/DISKDUMP.SYS" size="13488" crc="e5573d01" sha1="84ce7d5f2627466fee014d68a5907c4f9a33e600"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/DISKPERF.SYS" size="5104" crc="041b8eb9" sha1="298cf4280db0620a2290ebd505fb87d953e3700c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/DLC.SYS" size="55216" crc="488dac1a" sha1="e5aab0460eccf2d019619325687b7c7b8b4eb357"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/EpsTpDrv.sys" size="26148" crc="86130301" sha1="3f5503774beb5f3509800d4d44232efff7d95b77"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/etc/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/FASTFAT.SYS" size="142160" crc="4ee5ebb0" sha1="1597d6c282f731475615462f4ab185c51344e16e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/floppy.sys" size="18928" crc="72c50ca9" sha1="2b781cf58d8b155568ff160d3d9b8a4c8362660a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/FS_REC.SYS" size="6448" crc="4561f1d5" sha1="c3c0d661b17dec3bbd05fbff5ec8d135b74f297b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/FTDISK.SYS" size="34000" crc="1d6e4e53" sha1="00d26224ea7bdf97e7d752dc16d94825bfe01072"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/hpscan16.sys" size="687" crc="8ed8d247" sha1="7d611d5158b0ad01869ede599a8c61e9929115d5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/I8042PRT.SYS" size="29680" crc="7a79c7d6" sha1="eaa27da01122e618620855e734d1967cd45a114a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/INTLFXSR.SYS" size="6352" crc="0a77b977" sha1="af465cc9b7daf3f74968d65b3f62b5c9289142e5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/KBDCLASS.SYS" size="9392" crc="c471b5e9" sha1="73668cccb40bf9b6bbb7db66e70309baaaa66be1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/KSECDD.SYS" size="9648" crc="643d0334" sha1="2fb88716abef8a63ce3951e90703e621f17ce29e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/MODEM.SYS" size="18064" crc="983d6b94" sha1="5181acfb5f8d126950df21842dd0f6a9a02a85a6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/MOUCLASS.SYS" size="9488" crc="29ea9c93" sha1="5044d2cf23bdf9d6b114f78d91e41322644aecca"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/msfs.sys" size="23152" crc="8df2fbcc" sha1="59cfb14f7dc5a194f8d819f2402abe67514ee9cf"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/mup.sys" size="80784" crc="48a65c6a" sha1="f350c39e71109cce0ceb579dfcddb94aae72feba"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/NDIS.SYS" size="122992" crc="758498b1" sha1="c6cd25209536d06e887023bef64f78394b163fc5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/NDISTAPI.SYS" size="8560" crc="df777e5a" sha1="8b71c845700297d3fe97f2d478cb13fcc3a38a4d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/NDISWAN.SYS" size="60048" crc="b7e9fa48" sha1="09731d9276617f1220c468aad82ca61ce598c48c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/NETBIOS.SYS" size="29200" crc="06f4998c" sha1="6469b7c6538415baa11c6865a80be6fdf973c8fd"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/netbt.sys" size="124720" crc="f1964605" sha1="c89bb59e9dc871f6617a12c880ad1955abdb0491"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/netdtect.sys" size="8368" crc="76d34f1e" sha1="72dac138b618d17e784fb5b3e809b567e162f015"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/npfs.sys" size="38736" crc="c60265a0" sha1="d9cc384cfe3296925451d6f28331f4ac8f5917cd"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/NTFS.SYS" size="379344" crc="806eba9f" sha1="f05f7641312cd0b76e45b7ece657187c8890d21b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/null.sys" size="2800" crc="3a8a5b00" sha1="303dcd8ccf83d68fe18b64ac4a90ea01c4e53735"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/parallel.sys" size="14960" crc="12668569" sha1="ca71d8b68ed0632e661ec551be0d7ccedfe95946"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/parport.sys" size="10064" crc="1eee7da3" sha1="88907873b1907ea21be2675bb0158082fe6b372c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/parvdm.sys" size="6288" crc="cf533136" sha1="54e36ef9e246f825cee9a5fc8a96524b352d33ae"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/PCMCIA.SYS" size="40720" crc="3ba1205d" sha1="f2d77f414bf6bc9ffe8616b3158b025d2a8d20c1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/qic117.sys" size="65680" crc="425b6969" sha1="38565f83b31355b45d6181bdcc6e0f3a303155f6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/RASACD.SYS" size="8112" crc="03d225bc" sha1="477e731ecea305eea44a6b94f5672583fad51097"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/RASARP.SYS" size="12944" crc="3bf3e314" sha1="b514783cf4d3135341e94335a97a041c92156879"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/RASPPTPE.SYS" size="41008" crc="194c6a44" sha1="f8a813528dfa35582c1e4ab4ffcdaefac9cd5778"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/RASPPTPM.SYS" size="13104" crc="51f962e0" sha1="88ce83f6b30eef589af8df51ba109bdfd200d758"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/RASPPTPU.SYS" size="18672" crc="9f2518c7" sha1="42ec22717f55790557852f23f4182386e1fd590b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/rdr.sys" size="266160" crc="0649c8cf" sha1="373f42a9c400242283b9249eb550e95b0c7b96ce"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/RTL8139.SYS" size="32256" crc="ad4e3e59" sha1="367454ac98b9c4a6c5449c6c98f80eb050904293"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/SCSIPORT.SYS" size="35600" crc="4caf4869" sha1="5970cd3baee3b8145a3bba1a875e82e30e976bd1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/SCSIPRNT.SYS" size="10576" crc="3a9d207e" sha1="2d944931d9d71d33667ef607e3b61670d067ecc2"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/scsiscan.sys" size="9744" crc="8538b948" sha1="8c23f6e3fde6a071a5f18f3e5c52bb4b9eee1fb9"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/SERIAL.SYS" size="45552" crc="c66b0362" sha1="838eb65af7130812306926c41bc823c7d45de4e2"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/sermouse.sys" size="14384" crc="581508ad" sha1="83e72f22c7fd7f6d57a7d2e7a89604cfdfe57154"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/SFLOPPY.SYS" size="8368" crc="2d9a6f33" sha1="7b83c092922fa95d575cbef9d680afb1b9fbf702"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/SRV.SYS" size="231312" crc="58398233" sha1="2a1cd383fb24d4a1b50d7da242dc8d1e92538288"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/STREAMS.SYS" size="113616" crc="db80f1f2" sha1="1b6d479cdf6b9441fe1c0ae9ec8ffb18d97bf0b7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/TAPE.SYS" size="16432" crc="0b592c81" sha1="c6f7ad2b25532aaeec0f6881d2e81862803cc17b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/tcpip.sys" size="174896" crc="1dd22a48" sha1="44c856193d405ac6f43a6969c43c429d45c0a5b4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/tdi.sys" size="9712" crc="72b979c3" sha1="ba0d7fd82afbefbaa2659ee9b9ca53ea564819d6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/UPDATE.SYS" size="80784" crc="27c2ac1d" sha1="faa554fc54d10a255934eec09f76219a25b6e3d0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/VGA.SYS" size="14704" crc="87f65db5" sha1="91c3ab939af6647020b2e76f6785cac14c952751"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/VIDEOPRT.SYS" size="25104" crc="e2ff43ff" sha1="a4c1714339aedd13f0e0a9db80f5d60691900547"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drivers/WS2IFSL.SYS" size="12464" crc="d1d39cfa" sha1="b5c45f6e7c8b66f314d47d537d3be5299b0b191c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drmclien.dll" size="150784" crc="eecf021c" sha1="cac418b5da9ce2dfb5b8778e9cf2fb4c9ce15842"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drmstor.dll" size="79232" crc="d7f6c506" sha1="0b308d1102153144145c8326b439bfbfcaa9b654"/>
+		<rom name="Cashino-c-drive/WINNT/system32/drwatson.exe" size="28368" crc="e024970e" sha1="14540692e2261a534de6483286040067ecf94074"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DRWTSN32.EXE" size="66832" crc="82861140" sha1="90903d41a16f761fbf09306ab08667497409fa1b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DS16GT.DLL" size="4656" crc="5a5309b7" sha1="cfac6cbec614dd67c4ccd9fcadf4a289a1e44c64"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DS32GT.dll" size="8704" crc="57dbc76e" sha1="3f8245e16c9c176f727ea258f72a661e5e6b1d40"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DSOUND.DLL" size="136464" crc="3d792877" sha1="4d37a3881ed5977f6a9c8c4b029a9a5a6d2aedf9"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DSSBASE.DLL" size="108304" crc="6a9ddb35" sha1="aec789978b9ceb36b20892db3024e83d618129ca"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DSSSIG.EXE" size="24336" crc="604b2ce0" sha1="d897fd3ef13a5f617a6f3c03afd3123552197b86"/>
+		<rom name="Cashino-c-drive/WINNT/system32/dxmasf.dll" size="498448" crc="9362ba57" sha1="78fe205796d13ba362f3d0624689ad0efd660f92"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DXTMSFT.DLL" size="351232" crc="65d19cb3" sha1="f3492c396216e20503936cc272e9ec00f602c78d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/DXTRANS.DLL" size="187392" crc="027cf2f1" sha1="53fd5b8b9a8b8e9a066563733dd8dd66fffcfea7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/edlin.exe" size="12642" crc="0742bfa3" sha1="2966e6bd2e4a42450766115734128e0a255807bc"/>
+		<rom name="Cashino-c-drive/WINNT/system32/enhsig.dll" size="4368" crc="0924663e" sha1="dd3971788560ab89126ad0bc4efc42dab584d914"/>
+		<rom name="Cashino-c-drive/WINNT/system32/es.dll" size="103696" crc="13c2427f" sha1="535fd5aa5aa6cdb8f359c1d867149f6db23768b8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/esenu.dll" size="13584" crc="bd9d2696" sha1="568b664224b3252717ee9657020c790c9d8a8d37"/>
+		<rom name="Cashino-c-drive/WINNT/system32/esserver.exe" size="12560" crc="5da26f7d" sha1="b6dfab024d811778bf336c132a25c23bd2786da9"/>
+		<rom name="Cashino-c-drive/WINNT/system32/esshared.dll" size="56592" crc="b38955e6" sha1="3d4f47959f578e42c71087b517a8a3adcbe2d630"/>
+		<rom name="Cashino-c-drive/WINNT/system32/estier2.dll" size="53520" crc="8d034991" sha1="5dde0c24960bff7240dd77b86df5d25ffb53071b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/EVENTLOG.DLL" size="46864" crc="3200742c" sha1="61c061b90efa74052e3ebcc00eac7afccc6a2afe"/>
+		<rom name="Cashino-c-drive/WINNT/system32/EVENTVWR.EXE" size="111888" crc="c9c4a887" sha1="7f66630c2821cb3ed0e9fef93fea6fda2c9de0ea"/>
+		<rom name="Cashino-c-drive/WINNT/system32/exe2bin.exe" size="8424" crc="f71222e1" sha1="5b95678df5a5f68a37007e526153463704e6a809"/>
+		<rom name="Cashino-c-drive/WINNT/system32/expand.exe" size="58640" crc="bda2be82" sha1="56f615f9af3dfcbee8b92a5b6a3cf7e59f5d8f74"/>
+		<rom name="Cashino-c-drive/WINNT/system32/fastopen.exe" size="882" crc="b37529ff" sha1="f574d8ca521fd9f038d94140d0606f7d622c1d82"/>
+		<rom name="Cashino-c-drive/WINNT/system32/fc.exe" size="40208" crc="43a744c0" sha1="57c1c450f753689f793c37d29fac74a1a88c8a66"/>
+		<rom name="Cashino-c-drive/WINNT/system32/find.exe" size="30480" crc="ac4c95aa" sha1="dd3800e92dbe0f01bc41d88f85692c5cc9101ed6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/findstr.exe" size="25360" crc="bfa17f61" sha1="3a35d189f961e2307b933766d5ec85c61fc4db58"/>
+		<rom name="Cashino-c-drive/WINNT/system32/FINGER.EXE" size="11536" crc="e96cbc4e" sha1="ee2e332dfb86f8f6a0c6c133a7f94ed6c83834d7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/fixmapi.exe" size="7440" crc="d5ce3a07" sha1="2114ebd70e77a1866da6d3ddf89a3dd8186426a8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/FMIFS.DLL" size="16144" crc="6d530270" sha1="f6ba05393c20a49d2e1f99704535ee9d5fe05e19"/>
+		<rom name="Cashino-c-drive/WINNT/system32/FONTEXT.DLL" size="108816" crc="8dacb724" sha1="c7803b1c237642f017ae9c95204562c36b96be8e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/FONTVIEW.EXE" size="32016" crc="57c0b9eb" sha1="248521f0b375726d750ef35bd4d9098f44417c49"/>
+		<rom name="Cashino-c-drive/WINNT/system32/forcedos.exe" size="22800" crc="331a0ef5" sha1="b2547a94cab1cdab10938f24097be1eece43c306"/>
+		<rom name="Cashino-c-drive/WINNT/system32/framebuf.dll" size="8880" crc="8d0bb865" sha1="efe309553c63fcc9f0cffcfcf1f0dfb70727a56b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/FTP.EXE" size="41232" crc="8cc07e6b" sha1="205e21848c30be0ac40ae2a72b3e51a502d5469d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ftsrch.dll" size="231696" crc="d67e8cfd" sha1="ceb292af7a5f5d9ea7c5a98b24e08f441bc9b800"/>
+		<rom name="Cashino-c-drive/WINNT/system32/gdi.exe" size="21504" crc="aa76f238" sha1="e0a8583ed87cf5ddd810c9f8aa5b7e0f9d7b1749"/>
+		<rom name="Cashino-c-drive/WINNT/system32/GDI32.DLL" size="169744" crc="a489b85d" sha1="045b95d7456fc418d85c7fa8065254879c144a9f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/gds32.dll" size="346624" crc="303a0382" sha1="309e75b7a529c360253216af1b668340d5b0cf9b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/glmf32.dll" size="309008" crc="d4bedc1b" sha1="ffe94a351b239e768b40a190887c962e6624dc61"/>
+		<rom name="Cashino-c-drive/WINNT/system32/GLU32.DLL" size="130320" crc="46c965d7" sha1="b615a5bc7e8b9704ccc4629f0c9f6c80cae7879d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/GRPCONV.EXE" size="41232" crc="2b58bd61" sha1="c2a82c973e1d09873de1e0fbe699cd795af14a08"/>
+		<rom name="Cashino-c-drive/WINNT/system32/HAL.DLL" size="52352" crc="45d7d10c" sha1="ea367a44bfbcb630fab9956e6c1c863b9ba4892a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/help.exe" size="31504" crc="28ac1e96" sha1="7f95e32956f63bc7d041f3dbac06cc0af7b6801f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/hhctrl.ocx" size="516192" crc="cd15084a" sha1="f6be761c02ff8a709956156d3a6ff83dfe9a8368"/>
+		<rom name="Cashino-c-drive/WINNT/system32/hhsetup.dll" size="37888" crc="cf045847" sha1="97ab414b933b42d3a6051126e8a98c7ebb8bca37"/>
+		<rom name="Cashino-c-drive/WINNT/system32/himem.sys" size="4768" crc="b60a2bc7" sha1="182c9b4d26d11eda25deaa2ec6051ac2d324cb08"/>
+		<rom name="Cashino-c-drive/WINNT/system32/HLINK.DLL" size="81978" crc="fdbcd165" sha1="d00f6d29352691f4df102fb3c19587f45dcd9280"/>
+		<rom name="Cashino-c-drive/WINNT/system32/HOSTNAME.EXE" size="11024" crc="f27c0a32" sha1="b4daa79c20d799bf5f6b971d1cf8a49825783070"/>
+		<rom name="Cashino-c-drive/WINNT/system32/hpscan32.dll" size="10000" crc="073e77a1" sha1="0ada7f1d505ea178d3a2f13e0b9d1ed5cd874865"/>
+		<rom name="Cashino-c-drive/WINNT/system32/HTICONS.DLL" size="22288" crc="090cdc0e" sha1="9cfca33b72aa574be13dba2e7fabc1010aee3ef1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/htui.dll" size="43792" crc="9ee814ed" sha1="d453c275c5d963de763a0b1652bf7bb0fcf91b51"/>
+		<rom name="Cashino-c-drive/WINNT/system32/hypertrm.dll" size="386320" crc="2d3dfac0" sha1="541626b8943c4aa81632f3f9619a6b0233e9a606"/>
+		<rom name="Cashino-c-drive/WINNT/system32/iccvid.dll" size="77824" crc="6edcc0f6" sha1="265c849d439430e3a1e794eff676fbfc04828d50"/>
+		<rom name="Cashino-c-drive/WINNT/system32/icfgNT.dll" size="13584" crc="2dfacdd4" sha1="fc42f678f4b84569b0ce5f553ece5f03ef3e2a30"/>
+		<rom name="Cashino-c-drive/WINNT/system32/icfgNT5.dll" size="5904" crc="887b68c0" sha1="0e6a7307107ff23f6b73e07925faf06db839dbf2"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ICMP.DLL" size="10000" crc="e327eef4" sha1="7620bfad2daf96bbd581d79920e52ff4550856ba"/>
+		<rom name="Cashino-c-drive/WINNT/system32/icwdial.dll" size="57104" crc="862c3e59" sha1="a27f7e30682d4ccf27b0e40611a22faec5a13a87"/>
+		<rom name="Cashino-c-drive/WINNT/system32/icwphbk.dll" size="49424" crc="c286396b" sha1="8a4196147e550fe260acfc881b3b2615c2dc5864"/>
+		<rom name="Cashino-c-drive/WINNT/system32/IE4UINIT.EXE" size="28672" crc="a3b8a103" sha1="30db812e4acd8cefa64466b29b8ad1fe75bdc446"/>
+		<rom name="Cashino-c-drive/WINNT/system32/IEDKCS32.DLL" size="294912" crc="cabff565" sha1="d25950f4be4bf8ee13383ca1e9c688801decc5f1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/iepeers.dll" size="231424" crc="13291b32" sha1="bf20ecd10fb7f7701ed0155d151c34810b5faa0f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/IERNONCE.DLL" size="23040" crc="52f29113" sha1="be9e5ab3fddfa01029e045a4814edda59a5738b9"/>
+		<rom name="Cashino-c-drive/WINNT/system32/IESETUP.DLL" size="57856" crc="67702ee9" sha1="7f6fcc941724b20eafa590f9f93e3c322e3ecea5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/IFSUTIL.DLL" size="66832" crc="af085a10" sha1="16d3d4431b316de220c88ca32b8651014fed86b9"/>
+		<rom name="Cashino-c-drive/WINNT/system32/IMAGEHLP.DLL" size="106256" crc="3ff8fbe2" sha1="e67babf0bb54314132fc442761a17a0aa46551bd"/>
+		<rom name="Cashino-c-drive/WINNT/system32/imgadmin.ocx" size="74512" crc="2eaa4b89" sha1="82e4d6d98f3435a823bcd3464ce713c2db2d91e7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/imgedit.ocx" size="276240" crc="4fe32bd3" sha1="bbaacecb68dfa543c6646f507f6358fe1feac2c3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/imgscan.ocx" size="116496" crc="79fe5153" sha1="0e0594936095b9470db91bb7ce28022449a61799"/>
+		<rom name="Cashino-c-drive/WINNT/system32/imgthumb.ocx" size="101648" crc="5c6441a5" sha1="e99e7cdfd7a621af6e6f225ed06460b6b7993b98"/>
+		<rom name="Cashino-c-drive/WINNT/system32/IMGUTIL.DLL" size="30720" crc="3b4e12fa" sha1="01657eb2476790d4fc876edd2419cd3c167f3311"/>
+		<rom name="Cashino-c-drive/WINNT/system32/imm32.dll" size="8976" crc="2b9ad8f1" sha1="35310f0b095216aea43f25b351f6bc34871060b0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/indicdll.dll" size="8464" crc="c5a37971" sha1="e1ea41669c78de3abc56f4be22f3d040913eaf86"/>
+		<rom name="Cashino-c-drive/WINNT/system32/inetcfg.dll" size="251664" crc="b48cbe6c" sha1="b06fbf3f0a031aed6dc99fd7eccd65245caa8410"/>
+		<rom name="Cashino-c-drive/WINNT/system32/inetcomm.dll" size="592384" crc="8dc29163" sha1="a1061ba082ed4aeee72a7c465cf8edc92516c16d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/INETCPLC.DLL" size="110592" crc="1eca048a" sha1="c3c64d2c639145959319582440cfe8895215deb3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/inetins.exe" size="13584" crc="acbde429" sha1="ba08eac7f62f3e4c8065b0614f8ec6a9c22eb9a4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/INETMIB1.DLL" size="50960" crc="0a2339cf" sha1="66249e64dedad65d3e5e62a076d63b50bd50a1fa"/>
+		<rom name="Cashino-c-drive/WINNT/system32/inetres.dll" size="47616" crc="d2268553" sha1="e8d6525bd9bec06b3ba1ce4125477f7c0a10f413"/>
+		<rom name="Cashino-c-drive/WINNT/system32/INITPKI.DLL" size="136976" crc="a81f2d71" sha1="d1336951244bf0f8e1a98181bde085d201871da9"/>
+		<rom name="Cashino-c-drive/WINNT/system32/INSENG.DLL" size="69632" crc="f75e1a46" sha1="e25eaefcb2900294a1cae2005c2261057c70b987"/>
+		<rom name="Cashino-c-drive/WINNT/system32/internat.exe" size="17168" crc="1cbbd318" sha1="5510c65944e54465cf6098077af12bead6235715"/>
+		<rom name="Cashino-c-drive/WINNT/system32/IOLOGMSG.DLL" size="11536" crc="be7f2667" sha1="cf87f014a4be35a0f2bf93b5b7d489fb114e4e38"/>
+		<rom name="Cashino-c-drive/WINNT/system32/IPCONFIG.EXE" size="21776" crc="5d6f0070" sha1="6d2bd2364bbccfed909ee772553b29b1f9cb60fa"/>
+		<rom name="Cashino-c-drive/WINNT/system32/IPHLPAPI.DLL" size="27408" crc="78de7c6f" sha1="fcf7b535416385b7ca09e4b4cc73ede711afee66"/>
+		<rom name="Cashino-c-drive/WINNT/system32/IPROP.DLL" size="96016" crc="087efeac" sha1="0c0d1491583b41568457c59b0edfb1ad5055668f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/IPROP.EXE" size="89360" crc="1cd3bb45" sha1="09c8accee6490ae47e615be380599dcd738392cb"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ipxcfg.dll" size="48912" crc="effb7c48" sha1="26e27fb23adbb8c80ca4ae1231c52371f0576b44"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ir32_32.dll" size="193536" crc="bad33b0d" sha1="8a2c8a4363edce7465651fe9b172e364f7ac724d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/isign32.dll" size="72464" crc="dd953160" sha1="a32822d9743794daa9a04c0e62fe5f4c9d9cc6cc"/>
+		<rom name="Cashino-c-drive/WINNT/system32/itircl.dll" size="143872" crc="bd32bc40" sha1="d5638bcdaace01cbc5b9ed7b44fda4b3c65a2ad7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/itss.dll" size="122368" crc="afeb2eeb" sha1="032cc20d1ea0cf97146c71004aba365e342827d1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/jgaw400.dll" size="44544" crc="d922a00e" sha1="3697217b13c5be4d2ec2dc2a7465c3a7237c7711"/>
+		<rom name="Cashino-c-drive/WINNT/system32/jgdw400.dll" size="144896" crc="935fa610" sha1="9c0102ed6961c89c4672a00eb0db766224756c4e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/jgmd400.dll" size="35840" crc="162e5742" sha1="899cd9c85ce5fcbc4feac0d53a4d550aee9b223c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/jgpl400.dll" size="42496" crc="bd597163" sha1="7d2bf98a765a1362c6ed0a67162b087c4f1e6a57"/>
+		<rom name="Cashino-c-drive/WINNT/system32/jgsd400.dll" size="45568" crc="d9122b08" sha1="083f1e7fbcdaca2c6502db60b0cff4aa7cca0b2d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/jgsh400.dll" size="65536" crc="86e0e56e" sha1="103b9181249b61c9016b2be81ae0c06a85ac8b0c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/JOBEXEC.DLL" size="47952" crc="acd2dc49" sha1="4eba1c905554aa632cce709a170be05e2c17ce8f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/jpeg1x32.dll" size="31504" crc="e32504c5" sha1="52cf5b761743a72fbc9a8c0a68f1796a87c7f411"/>
+		<rom name="Cashino-c-drive/WINNT/system32/jpeg2x32.dll" size="42256" crc="7fd74204" sha1="5604df743409cda30d9a32605182924710a418ec"/>
+		<rom name="Cashino-c-drive/WINNT/system32/jscript.dll" size="589881" crc="b0274937" sha1="0408a072d7572a228ecce6be7494a3cea3b5303d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/jsproxy.dll" size="12288" crc="55046325" sha1="f6593faebfcc96994fbcc45c0337409c4abae74e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/KBDCAN.DLL" size="10512" crc="582bbf35" sha1="2717b66259e00be811e24cbd6b3e7068b41250ff"/>
+		<rom name="Cashino-c-drive/WINNT/system32/KBDDLL.DLL" size="7440" crc="e0f1f68b" sha1="5049123b9edcffbdfe0d5f568c55d8fb5f5649b7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/kbduk.dll" size="8976" crc="0bca42d1" sha1="317d7dfa31332e44d9c2374892d5c954fe7ffa66"/>
+		<rom name="Cashino-c-drive/WINNT/system32/KBDUS.DLL" size="8976" crc="c8cbc029" sha1="3ef71c1371d84ed2ad80337e9b94654dc6284cc8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/KERNEL32.DLL" size="378640" crc="4d872d2b" sha1="1e3a1fbdad045900c2ec5a910d8a996260fc6682"/>
+		<rom name="Cashino-c-drive/WINNT/system32/KEYBOARD.SYS" size="40841" crc="e6cb2731" sha1="54773bbd3f3ebd67fd1963797fc8178834ca4dc4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/KRNL386.EXE" size="85696" crc="27a5e47c" sha1="e9f66bf1f5b302488a2e58a62a15af852bc8effa"/>
+		<rom name="Cashino-c-drive/WINNT/system32/LABEL.EXE" size="32016" crc="ba696ade" sha1="f853af083b46fd265d65e5f094437e0ce429052d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/licmgr10.dll" size="19456" crc="3eb0050d" sha1="d8599527fcb651ae1ef189dbe7625863c83c6fbc"/>
+		<rom name="Cashino-c-drive/WINNT/system32/lights.exe" size="35600" crc="c8182e59" sha1="8281c16cb43036e677c4922dec8714cea9db2c16"/>
+		<rom name="Cashino-c-drive/WINNT/system32/linkinfo.dll" size="19728" crc="2f751b39" sha1="f266a3f245ecba6ba409ee759541c9ffce55025a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/LMHSVC.DLL" size="12048" crc="e692a666" sha1="3b5004012f7422334996bf2d4d968d71e2d27032"/>
+		<rom name="Cashino-c-drive/WINNT/system32/LMREPL.EXE" size="86800" crc="a799e865" sha1="d86d09e540eeb27fae56130b55d43c7bf259dbe4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/LOADPERF.DLL" size="30480" crc="8e8aad7a" sha1="5319eb5f7f80241a40d8397f89145a0631491afe"/>
+		<rom name="Cashino-c-drive/WINNT/system32/LOADWC.EXE" size="15360" crc="6727b842" sha1="670bf268c6630000d489bb46205123adf48bae54"/>
+		<rom name="Cashino-c-drive/WINNT/system32/LOCALMON.DLL" size="18704" crc="8f294f63" sha1="6d430c1e5ed079e84a18fb5515e798d6e08e5517"/>
+		<rom name="Cashino-c-drive/WINNT/system32/LOCALSPL.DLL" size="140560" crc="461207c9" sha1="b7182c4221236877212b49896bfb5ec6cf5acb61"/>
+		<rom name="Cashino-c-drive/WINNT/system32/LOCATOR.EXE" size="119056" crc="8dea98e0" sha1="3da1423d87635e4ec5712f6050dcc3b444894540"/>
+		<rom name="Cashino-c-drive/WINNT/system32/LODCTR.EXE" size="19728" crc="858b35da" sha1="7f75029e1739e6591d30e4ba3f698c4122472183"/>
+		<rom name="Cashino-c-drive/WINNT/system32/LSASRV.DLL" size="155920" crc="c5f2aaf8" sha1="67fd9800e8520e73f4faa84133940d8eaf8d4752"/>
+		<rom name="Cashino-c-drive/WINNT/system32/LSASS.EXE" size="10000" crc="9f837389" sha1="45b65498665c94e62556a17c9a6c294110e6dfb7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/lz32.dll" size="12560" crc="747f9b19" sha1="f265b654ab3ad400b5b25f57169ba5f523680b1e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/lzexpand.dll" size="9936" crc="cb8b5a55" sha1="725db3242ddc357e3f393db6a95a98776189a587"/>
+		<rom name="Cashino-c-drive/WINNT/system32/Macromed/Flash/swflash.ocx" size="409600" crc="efd171cc" sha1="a2beef8d80422b92dbadbd51a12d47514e3e4f27"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mapi32.dll" size="131072" crc="479b30d5" sha1="32e1909747ff7796d9db1ba370e4fc8e4e187de6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mapistub.dll" size="131072" crc="479b30d5" sha1="32e1909747ff7796d9db1ba370e4fc8e4e187de6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MCD32.DLL" size="13584" crc="17265620" sha1="f13ccbef4178d66c1710d7b9c1225bbc91ccda8b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mcdsrv32.dll" size="9504" crc="ffa686c4" sha1="0b408a2a6c8fa283e8adf23513111d1145ecfa21"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MCIAVI32.DLL" size="90896" crc="96ef5a32" sha1="19918c20fd3cdfefb0a627169816cff66292ec6b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mcicda.dll" size="21264" crc="15b2182a" sha1="fa4830ea52d13e51dc0c5624c8b7affa631b7dc5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mciole16.dll" size="8192" crc="5ec9599d" sha1="9ace63fc96b5787623c30880db3294e0d21acc08"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mciole32.dll" size="11536" crc="c2a802f7" sha1="f4ef6138d516c1f04a60d28da019a65b2e21ae0c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mciqtz32.dll" size="34576" crc="beb843f6" sha1="c04e007a6e2ca9a5f8a0f27fd63c36a583b6ebe5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mciseq.dll" size="25872" crc="8a37c410" sha1="7eaae3a6bb5acd92672460633314e2dbf113d78b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MCIWAVE.DLL" size="26896" crc="17fcd823" sha1="755e038936b9f4db998ab3cf44122f4ca07f7847"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mdgncdet.dll" size="33040" crc="67c14bd7" sha1="840eac1125151ecdb82506a3deedaae693952583"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mem.exe" size="39386" crc="cf0b909a" sha1="d41623b27f05c3435e246394b8189f93f55bac7f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mf3216.dll" size="38672" crc="12d241d5" sha1="50c3845b8a546ae8118e439f0f932c85fee0673a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MFC40.DLL" size="924432" crc="db65e9ee" sha1="3bca53b71a0a0e25ca41b72d9a69616d3b0cee43"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MFC40U.DLL" size="924432" crc="fb149b1e" sha1="ceb17b5db40b3f446275b923e99f684510921636"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mfc42.dll" size="1011472" crc="621db28a" sha1="18c8106444679e1ea3e8bd8cca3e52e950caf1c0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mfc42u.dll" size="1009936" crc="6a3813ed" sha1="b95f370960ef01f820c78c3d18b4f888b5c2b5ac"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MIDIMAP.DLL" size="26896" crc="182a0441" sha1="a21f4e84f1b8ef8e3ad44c7638c9c6a198c75170"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MLANG.DLL" size="574976" crc="2048018d" sha1="17bf1fd87e7d5fce326c25b927d40527a37d0894"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MMDRV.DLL" size="16656" crc="8fda5b0d" sha1="6f3c2f89073721da2b6b6dc3d9df3e43b000469a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mmsystem.dll" size="68160" crc="b233eb92" sha1="80cacf6fef2922fa986aeb7433329197d9e7d462"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MMUTILSE.DLL" size="119056" crc="872352d5" sha1="4914c64c67c6bed09e464a4b4755739c3c53045c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mobsync.dll" size="176288" crc="11c5a254" sha1="b1713f11f78090b5fea68177822221715df031aa"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mobsync.exe" size="120672" crc="4cfdc36b" sha1="a65ad96c5229445264816380cad1afddb1f9dc52"/>
+		<rom name="Cashino-c-drive/WINNT/system32/modemui.dll" size="55056" crc="61a23f8b" sha1="77270ffd8e35a93b47fb52f6bf814d3357cf1904"/>
+		<rom name="Cashino-c-drive/WINNT/system32/moricons.dll" size="139024" crc="d6cd5b76" sha1="a02752f6b72d0056ebbb15e56c7baa94c6f94b44"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mplay32.exe" size="138000" crc="06f494ea" sha1="7f287ec04b1bf6d67cab5ecd7eb670c8320daa52"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mpnotify.exe" size="23312" crc="fc8c734f" sha1="27d99452bb041d4af36b5463a30d0f6478f31cf5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MPR.DLL" size="59152" crc="4264be1b" sha1="dfabe1c6fbde0e207633cd34bf8d856a93175015"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MPRAPI.DLL" size="50960" crc="49435412" sha1="d8eda256e2bb9cfcf057bb116960ff8b7476ded5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mprui.dll" size="74512" crc="e32328e3" sha1="0d9121912b22ca3fc658310b956f889fc8c2b411"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msacm.dll" size="61168" crc="2f10f4b0" sha1="25d75f476876adbef6d1c9dc8dfd8a1ab47143fc"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msacm32.dll" size="93968" crc="78c5a183" sha1="8ebf0d60682b257fccd585c7a975c8feaf3fef26"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSAFD.DLL" size="47888" crc="145934c3" sha1="a2fc3cefe234057aa83c4d52466e1ff546ecdc7a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msasn1.dll" size="53520" crc="70b6aa2f" sha1="20f3fb2d89d3ae6c2607ada5967c27156978df9b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSAUDITE.DLL" size="19216" crc="50a6e60c" sha1="79b9fac535a10ff6b236a085fa551ab09d5abe4f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSCAT32.DLL" size="37136" crc="de7495d8" sha1="e9d6898238d1132f0ab20c52cb7e73c35a017c7e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mscdexnt.exe" size="917" crc="37a9ea03" sha1="4fc82c7b0149f8fc8c699dc691d7fa508b1caaed"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mscrlrev.dll" size="6144" crc="838566dd" sha1="5274195ef9469ccc84a285d015278aebb44b6691"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msdxm.ocx" size="846096" crc="28b43a57" sha1="1a4a82fd6968fccea4f4c5132b301cfc88dc46a4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msdxmlc.dll" size="4368" crc="c7608a86" sha1="5df163e6156603fe46353d9df19fe9e232df1986"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSENCODE.DLL" size="95744" crc="27f5ea5d" sha1="33bd3a117955f725dccc97674dbae4766317a743"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSGINA.DLL" size="124688" crc="e293f6d3" sha1="846f8ad2b41fc53f95bee6c2118ad60819cda5f9"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSGSVC.DLL" size="39184" crc="1b0b1608" sha1="5000bfcb4514fdbdc532f48e477f29a1317c46d7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSHTA.EXE" size="24576" crc="9713b540" sha1="c2ce6cf941587e41f5990a81597fe05028153427"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSHTML.DLL" size="2799104" crc="e5641c9c" sha1="ad9dd139a5533e9f84b6c3a49d3854bb5ca2e775"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSHTMLED.DLL" size="434688" crc="0da088bb" sha1="5bcd9adf7b58f4fffbb653b2cc6ca779e8901d4d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSHTMLER.DLL" size="56320" crc="078b9197" sha1="0c0edb6533e6421061f4226fc22821bf24c7fbd8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msident.dll" size="44032" crc="890c9d8a" sha1="3ee28fe155b64f4f42caa4a3726352a49a0f2103"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msidle.dll" size="6416" crc="ec4002d7" sha1="d1016f14b240ee950f4fc22b633e79e9c1fbbffc"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msidntld.dll" size="14848" crc="430b3664" sha1="790c555edf7fdc5d446d25293c4b32408b9e7c1e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msjt3032.dll" size="965904" crc="d2d57ffc" sha1="329ffc1576a6255136c29012cafa790e2569ffeb"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSLS31.DLL" size="160016" crc="12c62496" sha1="f6e2618549c801886b93428eeafa591ae7cf49ec"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msncdet.dll" size="82192" crc="f8e79a3c" sha1="0cc4ca9da4fd4bba5e069ade147231ea64d452f0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msnsspc.dll" size="72464" crc="158c3217" sha1="0631ea3cdef839b7760879bebfcaf7a5f670ba97"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msobjs.dll" size="14608" crc="37888171" sha1="fd02bdafe433a616301e23c01bec89ba974558ef"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msoeacct.dll" size="228864" crc="9f231fbc" sha1="8744789cf45ff6e85b1f39fc7d63ab6c37da4a21"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msoert2.dll" size="91136" crc="dce3620b" sha1="89238f255001431cae3d77a11bf6e8cfaf0c61cd"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSOSS.DLL" size="139024" crc="f7d1542a" sha1="a5c4ba1c0c4f35e7f1b702bb7700bb96cad5b38a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSPAINT.EXE" size="339728" crc="2612eb83" sha1="53e78b8cf86e91c7fbd9cefa9285b561bf413eaf"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSPRIVS.DLL" size="34576" crc="f564605f" sha1="d1a235ef66283e3a205270cdca16e95365270421"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSR2C.DLL" size="69632" crc="a76d1065" sha1="05184b51a4424c025b78689d2b314ae348c11f43"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSR2CENU.DLL" size="7168" crc="b9067644" sha1="5ac4576b33591d0d32172d4fd84013e19baccbd8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSRATELC.DLL" size="59904" crc="e0aa69be" sha1="10d1fca4960dc425ae1f1411465c001fa35adc4b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSRATING.DLL" size="132096" crc="3453377a" sha1="ef5763f905a7ab4b530250c5e417ffd5803b7364"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msrle32.dll" size="14608" crc="9ff141ab" sha1="8ee0dbd666f88310aa9806c07512f8f67cf073b6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSSIGN32.DLL" size="34064" crc="a0cd4a9c" sha1="a4682f3aeecea088cb8529877f4f53ef6410b3da"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSSIP32.DLL" size="28432" crc="f34ae900" sha1="24b2067a6f7decf917552964f3cd81b5adf1feaf"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mstask.dll" size="222480" crc="5a91ef18" sha1="f692a21ee6475c3d035acff3f1d4ba33409abc6f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mstask.exe" size="118544" crc="d4dce80a" sha1="8da80a62358ff73ff4869b398c8168d9452ffc27"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSTIME.DLL" size="496128" crc="fce677cb" sha1="3cb47255e4c73927701068a37328d0ba348fd1bd"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mstinit.exe" size="10000" crc="57a400e8" sha1="aa6d53de6a4cbee391a75a9bdc67fb2ad330c645"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSV1_0.DLL" size="47888" crc="e972a169" sha1="265d0463499aaa06815ec8dfa85bde4c6ed05267"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSVBVM50.DLL" size="1355776" crc="3e0e7909" sha1="d2634d923e6001f5f8661b3b50f60664d21ed32c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSVBVM60.DLL" size="1409024" crc="3d58185f" sha1="2be2f326d50cde3803426b0a98cb66fab7b446a9"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msvcirt.dll" size="74752" crc="cad3520d" sha1="78a683058f0ce80ae7d0fa5773579ca26a317bd4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msvcrt.dll" size="278581" crc="76db2377" sha1="18e01a6e0a0fc39f2d36adf571010523620b894c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msvcrt20.dll" size="253952" crc="84e1a906" sha1="4a806c1715ab2d7a77229ab1e0625acc760c4594"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msvcrt40.dll" size="65024" crc="fb05f7b0" sha1="fde0cf482184ecd4c7d75eb52d8d1bff1bb9ca8b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msvfw32.dll" size="125712" crc="ad3323a4" sha1="5bc4fb661f250ef0894707f1183c6513db629248"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msvidc32.dll" size="33040" crc="5bfa2db1" sha1="a2d5f255b2c50f36b9705d43ad1f298ccd743a8b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/msvideo.dll" size="138048" crc="0088bc7a" sha1="7fd5b3d9923c8b7ca2f9aa25c3150357ca61b35f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mswsock.dll" size="78096" crc="a5f7bdf8" sha1="f25ef0b9d2b555d0d5ece2f5d6c691bd553d662d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSXML.DLL" size="495376" crc="9f0c4011" sha1="5303ffd4a04500eb7f0653af4476e7a32acf29ed"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSXML3.DLL" size="1122304" crc="1e0a351d" sha1="b1ce660f4032c4cedbb994f37b8991cd051843e0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSXML3A.DLL" size="24576" crc="94767e59" sha1="0aaac51dd0fee84e4dce999cddfb61d8e5cc977d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSXML3R.DLL" size="44032" crc="61c64cd4" sha1="6ee0aa5cea589edcc03a329a961dfc16be82eef0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSXMLA.DLL" size="15360" crc="87bf6d2c" sha1="a91739b683184f7a7dd1c62b26426999884f5fb4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MSXMLR.DLL" size="26624" crc="369f44b0" sha1="7b7f1f83bd828d2687ced7bad87dea5a85319b75"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0401/hhctrlui.dll" size="88064" crc="7615eed0" sha1="9d2c1ef31b8f8e45cf3f011443385975f5c4ad39"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0403/hhctrlui.dll" size="90112" crc="7f0e0ee2" sha1="dc139b4af71122f74397b33ec5a666c025b09f6e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0404/hhctrlui.dll" size="87552" crc="343dc714" sha1="9df9e036a737b5edf2ca28a559bf090678093696"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0405/hhctrlui.dll" size="87552" crc="a09e7b5a" sha1="d09b4a1812e1042f5b54e795e5975922fc3d131e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0406/hhctrlui.dll" size="88064" crc="6e04ebac" sha1="9f308a17d8d2ec1eb4fc8449af313a367f02928d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0407/hhctrlui.dll" size="91136" crc="c53418e5" sha1="48c0e14c8f68af2ead91558058599569b3d6bb53"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0408/hhctrlui.dll" size="92160" crc="26dcce87" sha1="721b6289292ce68769de011244db0226fe314c13"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0409/hhctrlui.dll" size="88064" crc="c2a8a7a3" sha1="6c642b2fc32af01e31bbb48a95b350e90839f0b2"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/040A/hhctrlui.dll" size="90112" crc="a654b0e8" sha1="edc719db1d2735d05f721c9c8692fc25d9033a21"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/040B/hhctrlui.dll" size="87552" crc="012cf106" sha1="c1a81bd6258b1c3bbda6cad11237df886d088a9b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/040C/hhctrlui.dll" size="92160" crc="dc28383b" sha1="3ba65794b8e18176dae45978715cb0bcd0169318"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/040D/hhctrlui.dll" size="87552" crc="617b1c30" sha1="0d3225166e32743de75b86fe9b23d93747e3f57b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/040E/hhctrlui.dll" size="88576" crc="33f90e2f" sha1="aa9d2b981f633c9616dea851694c784a1e5858a7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0410/hhctrlui.dll" size="90112" crc="e916b1d5" sha1="5404574a70aa25c6b5af577cfd82d68ea08a9f3d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0411/hhctrlui.dll" size="87552" crc="9da8722e" sha1="ae494329507139dc717a40128e1624b0c55d657c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0412/hhctrlui.dll" size="87552" crc="4e7b0a12" sha1="9caca2f7b21bb5bc69e029c646771ce5225d5758"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0413/hhctrlui.dll" size="90112" crc="01f97c95" sha1="482d86b136d7fdcf691529c49d5ba11c526001bf"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0414/hhctrlui.dll" size="88064" crc="d6e2d722" sha1="17832533c97a82c483a3e81332760fc50aebba6f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0415/hhctrlui.dll" size="89088" crc="9efb6744" sha1="17ceea0a71562cc7c1642ba1268131c6f07b67f8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0416/hhctrlui.dll" size="89600" crc="7cf58df8" sha1="ccafd12577706a3e65be90323cd15134613e92c0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0419/hhctrlui.dll" size="88064" crc="7dc4761c" sha1="4a74edbcdd2f3dafbce2305240359f7129325f43"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/041B/hhctrlui.dll" size="88064" crc="8b4476d8" sha1="e4fcc626f45e2a7b4335c616821aa6fa20b31526"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/041D/hhctrlui.dll" size="88576" crc="3d6e15e9" sha1="7429c2240ce085e8be24e634be435dea55c95d15"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/041F/hhctrlui.dll" size="87552" crc="efcbf493" sha1="ff4713260532cb597493de1c5360f7a8e37ae335"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0424/hhctrlui.dll" size="88064" crc="eb60a281" sha1="245dae64f34770950e9b428a7991ae132d9fd848"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/042D/hhctrlui.dll" size="88064" crc="a09b196b" sha1="45e9ceb2796c9de35ad7124bfffb0e0c2a6cb160"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0804/hhctrlui.dll" size="87552" crc="b46fcb50" sha1="d9589ef3845b74600b0e8e76524625fb6c4d3ed5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/mui/0816/hhctrlui.dll" size="90624" crc="29dc81d4" sha1="363d98f5c6a8aa2816f30d9f619d18bcb0a0d16e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/MUSRMGR.EXE" size="257296" crc="0f572808" sha1="61d94068f7b3f8b605e2e6e1a49f3fc48ee43403"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NBTSTAT.EXE" size="19728" crc="e9591e37" sha1="32f2b3f66ca353d3e36dfe941b3001e94f4771ad"/>
+		<rom name="Cashino-c-drive/WINNT/system32/nddeagnt.exe" size="14096" crc="5ed72617" sha1="9ff801274a4d1430674fa3f8f277a0074fb277ec"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NDDEAPI.DLL" size="20752" crc="b43eb193" sha1="917f7f1c3b8edf55889df7137b18b8f68a251fa4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/nddeapir.exe" size="8464" crc="a77550e4" sha1="d15a82795134e586643ba076dbb9d839a7d4211c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NDDENB32.DLL" size="20240" crc="05f3b64a" sha1="1add9d9182122a3143a30e8faed7d4b06bf1479a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NET.EXE" size="55056" crc="a0d70622" sha1="fb3bef4c451b9501d934fa7b4a3198df3ecab047"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NET1.EXE" size="142096" crc="d6a8a074" sha1="9311f3c8bead508c18ee9c3b601102019eeec587"/>
+		<rom name="Cashino-c-drive/WINNT/system32/netapi.dll" size="108464" crc="ebf43742" sha1="3e0bc20be569fdade2eb20a01400d5ba5eae0b6f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NETAPI32.DLL" size="256272" crc="b6d313ed" sha1="e0bb5e7eeb7fdb6ff01dfe738ab95d95b48d2c6b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NETCFG.DLL" size="425744" crc="220041b2" sha1="776eb5ff35fe2917c11b0dd9d793d993e4fa1cf2"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NETDDE.EXE" size="111376" crc="1558be0f" sha1="074a5e3a5f36853ead32dca1c3bf7e7d7ae8649f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/netdtect.dll" size="10512" crc="21387de2" sha1="bbe7b93becfd47816d289536d83cfaa0c2e76779"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NETEVENT.DLL" size="35088" crc="47fe4e68" sha1="cc17d72ad0cbb614bb8007ccbd63e6c117320fdb"/>
+		<rom name="Cashino-c-drive/WINNT/system32/netflx.dll" size="8464" crc="3d02f9b2" sha1="175438820fa4ba111f8a98c5c9e92305d83220db"/>
+		<rom name="Cashino-c-drive/WINNT/system32/neth.dll" size="135440" crc="09428e22" sha1="88ba778718f3652d571ae200b66d286b497247be"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NETLOGON.DLL" size="192784" crc="3fb4749f" sha1="459231b08fd5b90a47dac921d01c56c3a4eef221"/>
+		<rom name="Cashino-c-drive/WINNT/system32/netmon/parsers/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/netmsg.dll" size="83728" crc="bb680e37" sha1="6a640a1d83c9f9e885f4291c9675abf37b99acd1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/netrap.dll" size="17168" crc="c660c93b" sha1="00a31baa667bf9bed2f7d8ed9673d008e390e848"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NETSETUP.DLL" size="238352" crc="9c805231" sha1="6ad724647ec7c5e77c0db95a1f44f980c925983c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NETSTAT.EXE" size="25360" crc="2fcc818d" sha1="68238aedc8e1ffd6f6b10ab76e612e1168adc13a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NETUI0.DLL" size="74512" crc="734eab3e" sha1="c7e94a611f7e92cf88d5edfa80ccba1ea9214da7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NETUI1.DLL" size="226064" crc="af66cf48" sha1="1451d7513575c4b6b1cc14fffafe81e27c1ad4b3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NETUI2.DLL" size="295184" crc="5e30ad1c" sha1="0656d91ab9d64d677906ee1192c9a7c0f97f1923"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NHLOADER.EXE" size="225280" crc="a4bb960d" sha1="58c2935b21ee759552cf67f07b7e94f565494bc9"/>
+		<rom name="Cashino-c-drive/WINNT/system32/nlsfunc.exe" size="7052" crc="a94e4735" sha1="fd8dd9f29e0b4426bf1da1fa44b4fa64f9f49c48"/>
+		<rom name="Cashino-c-drive/WINNT/system32/notepad.exe" size="45328" crc="8b586e26" sha1="3c4e15a29014358c61548a981a4ac8573167be37"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NSLOOKUP.EXE" size="66832" crc="047d2bc5" sha1="41f8ae1ca4c68c1fe2b3507a76fb30e055aece85"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NTBACKUP.EXE" size="711440" crc="e06a9364" sha1="36ffdebde3e66c2a525dac891831b42f4aeda99f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ntctl3d.dll" size="24336" crc="87627e0b" sha1="149bfb14fdc7e20aed6befc9955ef31e303bda96"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NTDLL.DLL" size="367376" crc="5517348a" sha1="87266d86d31c25ebf1fdeff00514392d9f255b5f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NTDOS.SYS" size="27858" crc="59473ec9" sha1="9acdea72c0a47c4a387533243ae762fa96b1be7d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NTIO.SYS" size="33792" crc="5eceacd0" sha1="92eb8fb327c1b3ec4790552895070b52253f9e75"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NTLANMAN.DLL" size="39696" crc="c7d0f645" sha1="08db4d3865b3f440e3baeed00b382a6562aec7be"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ntlanui.dll" size="65808" crc="99de5e1a" sha1="f6cd3c376179897073ae2d61d97e1213f16565e8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ntlanui2.dll" size="19728" crc="cfe2f088" sha1="10e4e40e8488d632c59ae3f5077e8b81f78f14fb"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NTLMSSPS.DLL" size="36112" crc="f52a5203" sha1="df4f381b731426c085f605070d2d0fb1869cb198"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NTLSAPI.DLL" size="11536" crc="5cf5579c" sha1="35d7f204a3870d1ae3324c20828a1a93764bfb52"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NTMARTA.DLL" size="85264" crc="7029f737" sha1="eea8b5f895ec001f596ba5a6a74f6747e04068cb"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NTOSKRNL.EXE" size="937280" crc="873c3ef7" sha1="138b99ef21742cf84ed2df8e454f6c39c34f344c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NTPRINT.DLL" size="26896" crc="0794a4b8" sha1="2742bf16c5458ff1bd4f4de98267e9e948217606"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NTSHRUI.DLL" size="38672" crc="faef618b" sha1="ef5a5901f3c5d6d36d0421c140810a7ba5d34d9c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/NTVDM.EXE" size="408848" crc="813f98a7" sha1="61524fe50bf012090053d09a0aa1220048258c22"/>
+		<rom name="Cashino-c-drive/WINNT/system32/nwcfg.dll" size="24848" crc="253912b9" sha1="1b32b5b0ef4a08e08a78b7035b1c590b4dcc631f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/OCCACHE.DLL" size="87552" crc="c8a6845a" sha1="0505b2a37c54cfaea8cd64c87ee6e5f9c464b698"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ODBC16GT.DLL" size="26224" crc="6752b56f" sha1="888f932576f9f192a776dda95853ba9decf34cce"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ODBC32.dll" size="230672" crc="4f7112aa" sha1="45316a3d642821f300397a5eb8e727b077da87a7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ODBC32GT.dll" size="10752" crc="1fbe465a" sha1="2f862c43b49766ae3198296ba2d9f15acd92f562"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ODBCAD32.exe" size="13312" crc="2c30d706" sha1="75f7922d6844b58bac817f385930a9238582b4b8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/odbccp32.dll" size="87824" crc="012d5af3" sha1="4097be7d858981b1348bf4e2426611dc0ff58d28"/>
+		<rom name="Cashino-c-drive/WINNT/system32/odbccr32.dll" size="184832" crc="4b19c5b4" sha1="244d90798cd34ae8840d5cbf71ade46b04340b8d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ODBCINT.dll" size="67072" crc="b72eeea0" sha1="e45933d1654d5b62b5ce284527e71093c76dfcf0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/odbcjt32.dll" size="227840" crc="02b72d0a" sha1="b48475d511efc70593b57537ed3e2b6b796b321d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ODBCTRAC.dll" size="141312" crc="d65e31c6" sha1="4af6470a417b6b50f5aa31e72590216dd2b932b4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/oiadm400.dll" size="19216" crc="1f552c82" sha1="2e85d9c88f951580f78cb97e60ff586b02549b55"/>
+		<rom name="Cashino-c-drive/WINNT/system32/oicom400.dll" size="14608" crc="57242353" sha1="353338fc26ef6474f5770f1eb24945efa27c0369"/>
+		<rom name="Cashino-c-drive/WINNT/system32/oidis400.dll" size="281360" crc="c6de6a66" sha1="58e110283d823297057258c156ee7a427f810b7d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/oifil400.dll" size="66320" crc="df97a21e" sha1="a56791ae319d8ca819facc9c9842f2c7ae82e4ee"/>
+		<rom name="Cashino-c-drive/WINNT/system32/oigfs400.dll" size="70416" crc="3ca0984e" sha1="ef7aa66eb12f2eb69285f5a275d57bd1ca70ace8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/oiprt400.dll" size="20240" crc="b169a4db" sha1="20b9da24be21601535bae053528922c951bb4673"/>
+		<rom name="Cashino-c-drive/WINNT/system32/oislb400.dll" size="25872" crc="207acd45" sha1="2cb62274eab0f93796b729ee22ccab638d74984e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/oissq400.dll" size="17168" crc="f22ae9c1" sha1="e06bfe79a246e89a38b4b365839b712a4b7d461a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/oitwa400.dll" size="24336" crc="a8ae78de" sha1="341c1febdfc0f9444db3c99ebedb0cee552ea031"/>
+		<rom name="Cashino-c-drive/WINNT/system32/oiui400.dll" size="38160" crc="78fc19ba" sha1="16aafa7b7bcc24e57b81c1c3c96532784edbcb30"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ole2.dll" size="39744" crc="1506131f" sha1="acb8a8b8db5019e8c3c8d5e53c55278d92128dbd"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ole2disp.dll" size="169520" crc="67d84942" sha1="091ca27579f61b2b6da5992b13899b1307db6ecd"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ole2nls.dll" size="153008" crc="93200ff4" sha1="420724ba26c299884041984b6d8bcbbfeac46db1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/OLE32.DLL" size="701200" crc="cfb9e6d5" sha1="9531b4380e0b1c3455715bd3143e8ede3536e68b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/OLEACC.DLL" size="172032" crc="e21abff0" sha1="1eb8d517335060bf570f5955305a67358b1d4588"/>
+		<rom name="Cashino-c-drive/WINNT/system32/OLEACCRC.DLL" size="222208" crc="70e34c3a" sha1="aa5478da82cc19033b350481cc115cdf2a6724ac"/>
+		<rom name="Cashino-c-drive/WINNT/system32/OLEAUT32.DLL" size="929792" crc="d90e9491" sha1="a6c7696e527a72951e22fe88d9f209b365df66ca"/>
+		<rom name="Cashino-c-drive/WINNT/system32/olecli.dll" size="83456" crc="ea038b60" sha1="0ea1d07631898c79db200739a55c91c2701acffe"/>
+		<rom name="Cashino-c-drive/WINNT/system32/olecli32.dll" size="77072" crc="1f20a4df" sha1="69ce61c70b917bf4efd6163a0fc59b1a2a320929"/>
+		<rom name="Cashino-c-drive/WINNT/system32/OLECNV32.DLL" size="40720" crc="f7260766" sha1="defeb5d80e5351806eafa6d10c42dbddb6f40977"/>
+		<rom name="Cashino-c-drive/WINNT/system32/OLEDLG.DLL" size="119568" crc="366d7c99" sha1="5ff3d49d0642f7e1a9058349ab2c1375b365cbc3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/OLEPRO32.DLL" size="229376" crc="1d9a81e2" sha1="60d3d241e13ff5a4570e4bf0feeff5c416dcd716"/>
+		<rom name="Cashino-c-drive/WINNT/system32/olesvr.dll" size="24064" crc="3399991c" sha1="8e2400c8057cf46cba90fbbe07c352defb9bed2f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/olesvr32.dll" size="26896" crc="0aa10ed6" sha1="8d118530c4b976603f53d2009ddfa87029cb0d9f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/OLETHK32.DLL" size="74512" crc="c06d7212" sha1="84d5ba1842893be336746d852ddd95ad213a3a4f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/OPENGL32.DLL" size="699664" crc="e8d90f16" sha1="dff01fabf2fe70fcb361afcc5e6ca6ecb6ccd4ee"/>
+		<rom name="Cashino-c-drive/WINNT/system32/OS2.EXE" size="443664" crc="88cdef77" sha1="19292f14fd8537b4889ed42ceab39c5624f7ed8a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/os2/dll/doscalls.dll" size="12646" crc="1b64161f" sha1="5848be3ef146b4f351524cc619c672cb2c429409"/>
+		<rom name="Cashino-c-drive/WINNT/system32/os2/dll/netapi.dll" size="247860" crc="b0e34b88" sha1="020b38a41104e3f63c24a217bf4194817428a9b8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/OS2SRV.EXE" size="130832" crc="38c48f11" sha1="c385f751e32a314826a39edb00a5c855b92d09f3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/os2ss.exe" size="8976" crc="1e8e55c9" sha1="25f05159537dd87460ad7b87f03c1570a1a57b94"/>
+		<rom name="Cashino-c-drive/WINNT/system32/packager.exe" size="74512" crc="3dbd8a93" sha1="a0d7229f4b2731af21ef3120547e6ca57f7eb4e4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/panmap.dll" size="14608" crc="3fae9b2e" sha1="8e63357abdfe24472ef51f4b7e1a4a6b72660d8f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/PASSFILT.DLL" size="7952" crc="b165d0a6" sha1="d912cd2f4187bf2368df751948efe318ea266a89"/>
+		<rom name="Cashino-c-drive/WINNT/system32/pax.exe" size="54032" crc="6ee489ac" sha1="63237655f223b1fa1b6e8eb1ddbfae65b43e78f7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/pbrush.exe" size="7952" crc="aa123aeb" sha1="9f88833c2ba693eb050a45aef71eeddb59aa1df3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/PENTNT.EXE" size="67856" crc="12242328" sha1="e2d7890c87bc983d1567a09105b5fd4f50fce08d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/PERFCTRS.DLL" size="43792" crc="f50e62a6" sha1="b4f6d30a3078b7586a41312a7b952d686aa43558"/>
+		<rom name="Cashino-c-drive/WINNT/system32/PERFMON.EXE" size="186128" crc="438d6a95" sha1="06adda0148e04b3476a7bf79f112c3c1069ca61e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/pifmgr.dll" size="40208" crc="662abb28" sha1="8940c94263acf8c86753deeed7d4908ff6427aa0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/PING.EXE" size="15120" crc="6a7bc8f4" sha1="311b05b3f67e8af604932659e8e809fce4af26b8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/pjlmon.dll" size="16656" crc="2ee0d252" sha1="1ed740cec1b47fa96386bb3f75088b1e9fc10a29"/>
+		<rom name="Cashino-c-drive/WINNT/system32/PLUGIN.OCX" size="68608" crc="6f56a4d8" sha1="79cf98adb2eca238c9e96007f720df63811d3a91"/>
+		<rom name="Cashino-c-drive/WINNT/system32/plustab.dll" size="27920" crc="dfa4db0b" sha1="6fee3061526e2f6a6c4dbaf94ef0f8256ca27c71"/>
+		<rom name="Cashino-c-drive/WINNT/system32/pmspl.dll" size="46592" crc="9244c74f" sha1="fe0c474351ea68663f52bcc43f17cbeeb38c72a8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/pngfilt.dll" size="34816" crc="a69b5dd1" sha1="6e5d8e5373ad79ed46ce6014d1a0c2a51a4b6080"/>
+		<rom name="Cashino-c-drive/WINNT/system32/portuas.exe" size="34576" crc="5e18d4f5" sha1="3ea6f86a442fd6a53abcfeb6b2fbfe9371ffc40a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/posix.exe" size="68368" crc="a62ac071" sha1="c0810304f972edda22e96bee861813353843b300"/>
+		<rom name="Cashino-c-drive/WINNT/system32/prflbmsg.dll" size="12048" crc="5e7ce576" sha1="c23e9077eb6ca4d02352cd4f34df8c84ec537e22"/>
+		<rom name="Cashino-c-drive/WINNT/system32/print.exe" size="26384" crc="e5c77f9b" sha1="ff81a31c62d677a463ad0a8e786a58d089a9d7bb"/>
+		<rom name="Cashino-c-drive/WINNT/system32/PRINTUI.DLL" size="181520" crc="0c2a6b5c" sha1="346e83426c1443204f1174010a5a7d35e59cfad0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/PROCTEXE.OCX" size="75776" crc="1c640b10" sha1="ca0e2ca235f93a8e79640fb2f2e3251425e2fa89"/>
+		<rom name="Cashino-c-drive/WINNT/system32/PROFEXT.DLL" size="14096" crc="22d62fc1" sha1="409c8af2fa3e5421d4567d065cfe31b10137f370"/>
+		<rom name="Cashino-c-drive/WINNT/system32/progman.exe" size="192272" crc="001c5c46" sha1="aab6159c3de67220863c45acf993ba59e0d37213"/>
+		<rom name="Cashino-c-drive/WINNT/system32/PROQUOTA.EXE" size="46864" crc="6fac2b8e" sha1="c86bd32a3f6d744e70ee2752ffed9595f4bf6d0f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/PSBASE.DLL" size="67344" crc="03539558" sha1="e3421d7e42debf322d84258e729c8868b111e677"/>
+		<rom name="Cashino-c-drive/WINNT/system32/PSTOREC.DLL" size="53520" crc="22f2d8d0" sha1="4c4c86cd94586ddd2baa4963945ee70c20d4e492"/>
+		<rom name="Cashino-c-drive/WINNT/system32/PSTORERC.DLL" size="43792" crc="3698f432" sha1="45caa27ea67f6886ca5df8c024f526b85d3fb28a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/PSTORES.EXE" size="81680" crc="9c0ea220" sha1="60bf815175ce5ec538d1a5dea104b12bce3e623c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/psxdll.dll" size="36624" crc="2ef292a2" sha1="369d5c26b65c4565fa79f4d391e6b41e13a6f5ee"/>
+		<rom name="Cashino-c-drive/WINNT/system32/psxss.exe" size="93968" crc="a27937cd" sha1="924c863eb80babd03d8b0c43c1037c374d217d63"/>
+		<rom name="Cashino-c-drive/WINNT/system32/qbasic.exe" size="254799" crc="19f6ed75" sha1="9cbe4360df33fbfeeb005d4da5f43e814ac0f365"/>
+		<rom name="Cashino-c-drive/WINNT/system32/qdvd.dll" size="262416" crc="0c8092b2" sha1="131f2502b9ad83609adbd0fed11be8db0d457242"/>
+		<rom name="Cashino-c-drive/WINNT/system32/quartz.dll" size="762128" crc="00314083" sha1="dc1c2d18a7aa98c557b0d5ae8e15f709623b59e2"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ras/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASADHLP.DLL" size="10000" crc="1cd41ebf" sha1="17d069eb77821205857e83c430588985058adead"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASADMIN.DLL" size="18192" crc="a028c55e" sha1="2c67982e87a94266a23651c29046f7265fb68336"/>
+		<rom name="Cashino-c-drive/WINNT/system32/rasadmin.exe" size="126224" crc="56fd6e2c" sha1="f5a0e68b376811e30150fa696a2b9c2efbd0cb7a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASAPI16.DLL" size="4512" crc="2abdebab" sha1="bcac32e1c1e88e3f6b599047a5bc761ee8f19321"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASAPI32.DLL" size="128784" crc="666eb55e" sha1="27917e0af99802d3723174195098a58b38fd5644"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASAUTO.DLL" size="74000" crc="7c4f9b33" sha1="4c563b02390c66013b23342effb80d004cb9d4ab"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASAUTOU.EXE" size="12048" crc="d3ca59ee" sha1="a0e76d55e752e3cb387e7f16e59d9973174b297f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASCAUTH.DLL" size="27920" crc="aaa55bc2" sha1="e604980f52cbc5d78375606a6898d5e8832e3901"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASCBCP.DLL" size="9488" crc="3b44b54d" sha1="42bf4711fddae444ff2c3feb7c77f76f6d74bf0b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASCCP.DLL" size="11536" crc="f2d5abe7" sha1="d03126cca7ac8d76297f522a8ae4a4091ce1a976"/>
+		<rom name="Cashino-c-drive/WINNT/system32/rascfg.dll" size="153872" crc="ffc35d1b" sha1="4483281b3e47e4f1435defa4f21ceed2697aa392"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASCHAP.DLL" size="36112" crc="05bfdd96" sha1="81aab402d21404cf5f7187821b93b214c5a58584"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASCTRS.DLL" size="15120" crc="3aa62a74" sha1="5d07a80e84ac18c227e1619143f10801fa390669"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASDIAL.EXE" size="17168" crc="1acff101" sha1="af83ebaac43bf6abbe402e8468166733478dbb6d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASDLG.DLL" size="348432" crc="764d17a7" sha1="dd152dc870540987da8af49e72eb40343af2ae8c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/rasfil32.dll" size="12560" crc="f726850e" sha1="4d6c3c5c7d354cab40e6cf7a4c2885d5316cb5aa"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASGPRXY.DLL" size="15120" crc="4ff2e2fe" sha1="a655e3f21b1a8f0ff69653961eb52cee344b22fa"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASGTWY.DLL" size="47888" crc="f4185ad8" sha1="8c7a02eac6e246184c97e757efe8f33c80a1b413"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASIPCP.DLL" size="16656" crc="3dd29aed" sha1="e56ad5c8fdc3797b0c05f9c960d998be82af6e00"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASIPHLP.DLL" size="28432" crc="9585075a" sha1="08b252ebd9e481029e8e77158e4abc2695cf8329"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASIPXCP.DLL" size="22800" crc="80418bbc" sha1="6ca5b88db0b77b70e69e7c69646dceb8b4735c9f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASMAN.DLL" size="61200" crc="dfd39ab8" sha1="4153fdb4a8d611374347f53863c0d7b3b82cc6df"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASMAN.EXE" size="8976" crc="915cc27b" sha1="20992820a4323d2083321d2072a0272d923e595b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASMON.EXE" size="118544" crc="eedda95c" sha1="f54e1350f0c80f94d3e322a2d4cddda6a76cc1b1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASMSG.DLL" size="29456" crc="7e9077f2" sha1="751cfde91a35f3ab2ec08a010050c8c840ebfb69"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASMXS.DLL" size="26896" crc="5ed7519f" sha1="d857d057b018a63a5f2c025174cce041d91faf12"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASNBFCP.DLL" size="15632" crc="fb7c819a" sha1="f1c1a3cde1d1bd5cf613f4d980343d844f79b2c5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASNBIPC.DLL" size="8976" crc="9116601f" sha1="ea8a90321f28af0899956a5aa9df6e3ada56e5b3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASPAP.DLL" size="16656" crc="11e92e2b" sha1="d9da6b41e076c9976f9e0bf679ca7a006c83da18"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASPHONE.EXE" size="52496" crc="40865fb7" sha1="2102314357bf5f314659a6fbd90334f0bbf4c464"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASPPPEN.DLL" size="50448" crc="36533bf1" sha1="7751438fc48b1f67464fe5887ebcc300cf1e17f1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASSAPI.DLL" size="24336" crc="81ec0e5c" sha1="a5f894af17756c601c22d17223205d231c76ca32"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASSAUTH.DLL" size="28432" crc="f1a10c68" sha1="49261a26e4980213fa01eb0b97e4b20f9b6185ef"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASSCRPT.DLL" size="55056" crc="b9f0159b" sha1="87601efc11aae6ffa3dcdeab2d19120e02dbde28"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASSER.DLL" size="16656" crc="20070716" sha1="1827f7a34ae715da3c78ffcfc8e78f647477e2d4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASSHELL.DLL" size="19216" crc="b2e63d27" sha1="12c1e874101b9f9f68c4a54c65acda3cf6e9241b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASSPAP.DLL" size="18192" crc="ea5e269d" sha1="731ed90beb7eededd3cdab9cd70b0e06d85a8c50"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASSPRXY.EXE" size="9488" crc="f5ecccb5" sha1="91ebdc68432a718d62c08772224cf109f724fafa"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASSRV.EXE" size="69904" crc="041ccf95" sha1="37c5f122d12676442d8d4611e2e7bea49e1c8bfb"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RASTAPI.DLL" size="35600" crc="df4d0634" sha1="a5b672558fb1831fca6dbbd42ca11b7cac865697"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RCP.EXE" size="20752" crc="3953d1b4" sha1="9a4fc0a3c555aa7e58fb980781d03461c296bfef"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RDISK.EXE" size="68368" crc="44d8ad2b" sha1="5fd5adadd81e64386ff9a47b91a12d7270791f80"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RECOVER.EXE" size="24336" crc="213ebf0f" sha1="a566ac413a0acb1c291cde8bab2af9bc60b00750"/>
+		<rom name="Cashino-c-drive/WINNT/system32/redir.exe" size="3338" crc="88b06a72" sha1="f60e35489ad76e61fb37aad29738297e848c37b2"/>
+		<rom name="Cashino-c-drive/WINNT/system32/REGACL40.EXE" size="42256" crc="87c1faa4" sha1="f1850c9b3c4aff7ed84a7c955744b25596c79f7f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/regedt32.exe" size="197904" crc="6b019e72" sha1="cd22b958e66ce329a5cceddbb473e508721090bb"/>
+		<rom name="Cashino-c-drive/WINNT/system32/regsvr32.exe" size="37136" crc="3e1369af" sha1="864fcd9dbd6101cc883113b994e68face7c38d9c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/Repl/Export/Scripts/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/Repl/Import/Scripts/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/REPLACE.EXE" size="28944" crc="13a05446" sha1="1d9338e2d3fbe690b519e71d990afb358bc9af47"/>
+		<rom name="Cashino-c-drive/WINNT/system32/restore.exe" size="64272" crc="a9f0f1e5" sha1="51b34e6dd8507a9a204771e18d208e3fc8e929b8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RESUTILS.DLL" size="29968" crc="cd97525a" sha1="03ccab0df271516669b419d2159cb52934db5ca6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/REXEC.EXE" size="14608" crc="9a5ef21a" sha1="d0a1399ce44a14ce6179de71a608ab763d84f52f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/riched20.dll" size="300816" crc="70a1f83c" sha1="dd9ff94f649f938fa4b883d49b4acd54801f4bc1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/riched32.dll" size="173328" crc="62f703e3" sha1="84c328ccec22a741a0fb4a635d64274ff9537cde"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RNR20.DLL" size="43792" crc="3a763150" sha1="360fb17820fce4aef9a144184f55e939a66b71ea"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ROUTE.EXE" size="19216" crc="4f3321bf" sha1="c5071b52ffd8aad2ac2e70a7dcb5414bfdf222fc"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RPCLTC1.DLL" size="13584" crc="adf2d28a" sha1="e49b5a6f0a1b3f8bfe3a3ebce8ac98d82aa666b1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RPCLTC8.DLL" size="15120" crc="41afbe6d" sha1="ef167bc7a1e1f3d9a583abce4349b9c6bdc937a5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RPCLTCCM.DLL" size="45840" crc="74fb64a1" sha1="5aa7339f66b470350da4fa97bde58ed72df4f409"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RPCLTS1.DLL" size="13072" crc="7227ab6e" sha1="20c915b9e9c7103ce5b6c2222339582a68d0c50f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RPCLTS8.DLL" size="17168" crc="d330351b" sha1="2a711c039502a41721c9c5b60b86cae597ab24c6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RPCLTSCM.DLL" size="34064" crc="9cfefeae" sha1="1edf072c97b0c507c6f653ccd9e971e73963687a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RPCMQCL.DLL" size="14096" crc="5849fd8d" sha1="7b60b4ebdd4112065cc42ef29e843dfcfb165ce9"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RPCMQSVR.DLL" size="13072" crc="82c3e5d9" sha1="9586675a065e071a4dabda5788f5aaadb27ddf7c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/rpcns4.dll" size="41232" crc="c2753b0f" sha1="11cf4c4822f625505b34107bdc567d43d4e1fd49"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RPCPROXY.DLL" size="20240" crc="6d27ec14" sha1="ff0ff611547a9b1ad39a5a8f67edd189a14d2bef"/>
+		<rom name="Cashino-c-drive/WINNT/system32/rpcrt4.dll" size="345872" crc="45426514" sha1="e2ded7db5d443611bf99ef1b526d46f966e1e36c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/rpcss.exe" size="107792" crc="b67d3c64" sha1="fcc80108c1590a7e3f337c7f7f18a1e74080f848"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RSABASE.DLL" size="101648" crc="54170a89" sha1="ac119b5bd370ec3551689a82abb58d2b13fa5d18"/>
+		<rom name="Cashino-c-drive/WINNT/system32/rsaenh.dll" size="100624" crc="cdaaef6f" sha1="5030aca123a089fb25ec57be7c11c3e8bec4aeb2"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RSASIG.DLL" size="4368" crc="14f08c1c" sha1="2d75bfb130cc6fc4e9e225b99e51cadc6f6fd018"/>
+		<rom name="Cashino-c-drive/WINNT/system32/RSH.EXE" size="14608" crc="96b4d040" sha1="9a92119e3d0f70580e4061b0745288140b05803d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/rshx32.dll" size="18192" crc="67107f40" sha1="96972a4e4c9c57c72ddf530af57eb4c4e5040149"/>
+		<rom name="Cashino-c-drive/WINNT/system32/rsinstallnt.exe" size="348160" crc="3f0b3be1" sha1="5f68ed214d0e23426f8a5b518ef6c464480d2add"/>
+		<rom name="Cashino-c-drive/WINNT/system32/rundll32.exe" size="12048" crc="808ff522" sha1="75ebe5346e8b4b28e855fc49e3fd0c0e1f60b363"/>
+		<rom name="Cashino-c-drive/WINNT/system32/runonce.exe" size="13584" crc="a3ff5af5" sha1="af07327b24743a8ef552a02c979b38789be99192"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SAMLIB.DLL" size="44816" crc="366e50c7" sha1="f3b75dbb1a8031c73e4afa998f75a451b6f1ae7c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SAMSRV.DLL" size="174864" crc="f8498738" sha1="e913aed82cac50cee6b699a07c6879be12548a53"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SAVEDUMP.EXE" size="23312" crc="1e209421" sha1="d4330b2adbfe8640c83fa9b43e8e347ca29c178d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/schannel.dll" size="112400" crc="218aed4d" sha1="1067351b1abe888fe60595776083746663a6f972"/>
+		<rom name="Cashino-c-drive/WINNT/system32/schmupd.exe" size="9680" crc="2b001c64" sha1="9f159d7b66b8c6b6d861f7fdee3a491e4466d788"/>
+		<rom name="Cashino-c-drive/WINNT/system32/scrobj.dll" size="159793" crc="3ea530c0" sha1="2092aad5ee01a16a4b162282cc6f97d78b108048"/>
+		<rom name="Cashino-c-drive/WINNT/system32/scrrun.dll" size="151601" crc="bae1e47d" sha1="a72ca763558d7daa3ae303250a45f14d82fce815"/>
+		<rom name="Cashino-c-drive/WINNT/system32/secfixup.exe" size="41472" crc="aed73f72" sha1="e789c071a43bb6243bd69934600035d9fff1f3a2"/>
+		<rom name="Cashino-c-drive/WINNT/system32/secsspi.dll" size="14608" crc="3bcb5198" sha1="ffe2744765cfe2c89b5450ebcc48e9ee94154a43"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SECURITY.DLL" size="59152" crc="47d8828a" sha1="a1940e1e4b644bdc928dddb36517d367d53195c6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SENDMAIL.DLL" size="18704" crc="545d7197" sha1="59d0a6fc3549a9e2ea9e3e78ab8e8de1d76d6c6e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/sens.exe" size="33040" crc="d55658c7" sha1="e7db500bff187a4b1bd4de99dda874b6fc068fd3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/sensapi.dll" size="6928" crc="0fbc50fd" sha1="dcc896e1fc783f89703611c153ba85f063584998"/>
+		<rom name="Cashino-c-drive/WINNT/system32/senscfg.dll" size="16144" crc="d74f8df5" sha1="ef2abedf217758f2ee2ea0170120389cbbdcbf8f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SERIALUI.DLL" size="18704" crc="c52d22a9" sha1="eafda20448d67d5a76ef6fe822789344403f3505"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SERVICES.EXE" size="114448" crc="43fa4032" sha1="fe7e8675a14a6d0aeae72d30822695e03a222569"/>
+		<rom name="Cashino-c-drive/WINNT/system32/setup.exe" size="24848" crc="81cab773" sha1="0f6cc42f0d236f112a45d7d5e12a2fc728092076"/>
+		<rom name="Cashino-c-drive/WINNT/system32/Setup/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SETUPAPI.DLL" size="323344" crc="91354dd4" sha1="eac4cb8674a6def1ad4510ef7040c4a060a46cec"/>
+		<rom name="Cashino-c-drive/WINNT/system32/setupdll.dll" size="723728" crc="0c4355b3" sha1="96ff4ed88742fc442f78da1f354377d865cec2a3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SETUPWBV.DLL" size="50688" crc="dec04190" sha1="4a546ee2056952cf5495a8129cc4b1a657b0c3e4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/setver.exe" size="11717" crc="e1c0a02e" sha1="87d919e20c734f6d5f72be8bd2134654d48940f4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/sfmatcfg.dll" size="53008" crc="207093b4" sha1="ee015e0aeb104164155270ff99850b1b13104bb2"/>
+		<rom name="Cashino-c-drive/WINNT/system32/sfmutil.dll" size="11536" crc="817a21e3" sha1="069653e18956ba9ecfe7f27e251f8429cd43ddcc"/>
+		<rom name="Cashino-c-drive/WINNT/system32/share.exe" size="882" crc="b37529ff" sha1="f574d8ca521fd9f038d94140d0606f7d622c1d82"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SHCOMPUI.DLL" size="25360" crc="a828cd9b" sha1="8f543789eac8cc6f5798eb90cbc106430097f277"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SHD401LC.DLL" size="51200" crc="e9ff33f4" sha1="14d6507b904f4f72f7b49fc7a5173a0b9f458a2c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SHDOC401.DLL" size="492304" crc="9b3811bb" sha1="80d5f41a6cb1a0c9dca16363b2d626e8eafc147d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SHDOCLC.DLL" size="533504" crc="003d4ea0" sha1="b421b430773e5a54323dc05f0efa2fe50e0a724c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SHDOCVW.DLL" size="1339392" crc="3eb4075d" sha1="414e41e2eeafed623e1f27554c11a41b6adf91c2"/>
+		<rom name="Cashino-c-drive/WINNT/system32/shell.dll" size="5120" crc="da058417" sha1="8a616adb41786fede6c778b07e17aa0fd1812ce2"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SHELL32.DLL" size="1280784" crc="e3823d68" sha1="6e1c828d9613db7ff407f9aa802292db1ebdfa9d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SHFOLDER.DLL" size="22528" crc="e5396c74" sha1="afddec0dd27f00bfc43b63580b47d1b3cb8b8003"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SHLWAPI.DLL" size="395264" crc="bcc8338b" sha1="170cac4c57aa427633b88cd9968a7d8824638089"/>
+		<rom name="Cashino-c-drive/WINNT/system32/shmgrate.exe" size="43792" crc="2a1612f9" sha1="1139ca7fa1f6d09202ddffe51784384fc729ddff"/>
+		<rom name="Cashino-c-drive/WINNT/system32/shscrap.dll" size="26384" crc="3c7446a9" sha1="7f8e6f1c59ffec9a8c08b4d68d95e696d12e1f14"/>
+		<rom name="Cashino-c-drive/WINNT/system32/skdll.dll" size="10000" crc="24a8ee29" sha1="df55eb1304d6e3009b6f059bbac20ad3fe52fbd3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/skeys.exe" size="48400" crc="cdd25e7a" sha1="728500a3cb5eaf509f6b56f471c5720dff9644e9"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SMSS.EXE" size="40720" crc="a8127f42" sha1="5cb476d041e71deebb62bc6956ac4b98811e4b6c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/sndrec32.exe" size="114960" crc="23377237" sha1="81492077f61ea14d0264a876f81fe4da07aba41e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/sndvol32.exe" size="62736" crc="094e82d8" sha1="7d817bb1340acd7782833ce7d172bc1636735dd0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SNMPAPI.DLL" size="24848" crc="030c0678" sha1="fbb935ba8c249f130725523da2acff2e8bed186e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SOFTPUB.DLL" size="6928" crc="ad2042bb" sha1="5add29238857adc3f53f24c3f2babd91306bd89a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/sort.exe" size="24848" crc="0e11e478" sha1="22bced2ea881c923f32c90cbd6db90b950c1efdf"/>
+		<rom name="Cashino-c-drive/WINNT/system32/spinit.exe" size="19728" crc="df9f29c8" sha1="e7550620ec961dd0dd16396d8db6fb2e03fd1dd6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/spmsg.dll" size="6656" crc="b0620ff2" sha1="59b788e4ead93712185452c4b5098c970bb50a1d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/spool/drivers/w32x86/2/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/spool/PRINTERS/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/spool/prtprocs/w32x86/WINPRINT.DLL" size="12048" crc="948b025e" sha1="fc33f8e4c118ca42372f77ab24f7bb3b38d129a1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/spoolss.dll" size="48400" crc="2ef59905" sha1="1b5899c743537a24a70cc97ea93ecb2c5c9d6de6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SPOOLSS.EXE" size="39184" crc="b4e7abbd" sha1="c1103a94e7c2cade0fc51c9ce0a38d4e150125ae"/>
+		<rom name="Cashino-c-drive/WINNT/system32/sprestrt.exe" size="10512" crc="2c781b33" sha1="36b2d865999d71604ecc6592db47f2524e18decb"/>
+		<rom name="Cashino-c-drive/WINNT/system32/srvsvc.dll" size="73488" crc="466f74af" sha1="d0f1b1e66516559ab3f0e1f8fb894a957b8c0890"/>
+		<rom name="Cashino-c-drive/WINNT/system32/storage.dll" size="4208" crc="8e23b8c5" sha1="390239cfa9249124dc58dcb0a59a07305cfcee03"/>
+		<rom name="Cashino-c-drive/WINNT/system32/strmdll.dll" size="251904" crc="737fb6df" sha1="5d5519a8358d749df44e5b541384db8e6ee5e988"/>
+		<rom name="Cashino-c-drive/WINNT/system32/subst.exe" size="26896" crc="77efdd10" sha1="95ace334204c8119f27b0fd9e3bbd2c25e824e9a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/syncapp.exe" size="28432" crc="5a709022" sha1="f7ff75bb1981b7cede33c642b9d8ce6d4f8270e1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SYNCENG.DLL" size="58640" crc="86e84f4a" sha1="5e35f1e0d8e3f9b3a18a6a00aafc6235103fa816"/>
+		<rom name="Cashino-c-drive/WINNT/system32/syncui.dll" size="153872" crc="cf28266b" sha1="c665f30539b2b0ad0ef4d911aa1f1d55d07dc1c8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/sysedit.exe" size="18896" crc="34374e1f" sha1="08152de496d70e087d156e607119c591f159a089"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SYSKEY.EXE" size="38672" crc="d8caa0ae" sha1="63d1e0073fe661edbd5e7788b19ce121170356ef"/>
+		<rom name="Cashino-c-drive/WINNT/system32/SYSSETUP.DLL" size="351504" crc="28f6c8ba" sha1="861b3735ea97c37ccc5b57b3d1a698f303744c5c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/systray.exe" size="33040" crc="29617cf8" sha1="e086d06c6c8ec271f246696066654e0eb7d82732"/>
+		<rom name="Cashino-c-drive/WINNT/system32/t1instal.dll" size="117520" crc="b5b14e34" sha1="9cd91f3bcdbccab59fd2bf3a3b704797786e5ffd"/>
+		<rom name="Cashino-c-drive/WINNT/system32/t2embed.dll" size="214952" crc="fdae9d02" sha1="319d786ed8ddc710d9711a464b0ffbe063fd1106"/>
+		<rom name="Cashino-c-drive/WINNT/system32/tapi.dll" size="20656" crc="a5a6c380" sha1="78e5e44f0de6a1c6623d3bb6429e45a86f2fecea"/>
+		<rom name="Cashino-c-drive/WINNT/system32/TAPI32.DLL" size="110352" crc="93db0903" sha1="2f16ccb34641fe45acebb021375a0331e11f3e21"/>
+		<rom name="Cashino-c-drive/WINNT/system32/TAPIPERF.DLL" size="8976" crc="f6209bbe" sha1="3450e17de42feb109e503cfbb39e1c9e57d59db9"/>
+		<rom name="Cashino-c-drive/WINNT/system32/TAPISRV.EXE" size="150800" crc="b6c49d5c" sha1="40c75c98f83ae540acdd84a1224023b25619b5ff"/>
+		<rom name="Cashino-c-drive/WINNT/system32/TAPIUI.DLL" size="49424" crc="206202ea" sha1="2f8708f2fe0e758c4903ecce2df3d4e9d1b957bc"/>
+		<rom name="Cashino-c-drive/WINNT/system32/taskman.exe" size="32016" crc="69b6d188" sha1="260a1e4cd10a84b1590d69bd01090328a34d8480"/>
+		<rom name="Cashino-c-drive/WINNT/system32/TASKMGR.EXE" size="85776" crc="6991efee" sha1="fe265d40d8d8256f8d60b9a97abdd5908cf2000e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/TCMSETUP.EXE" size="21264" crc="421a9c2a" sha1="9db2d7493a3d600e88d5eb3c9e0db2be3b90cc29"/>
+		<rom name="Cashino-c-drive/WINNT/system32/TCPCFG.DLL" size="161040" crc="15acc1f8" sha1="540ba7c88159b7591edba81177bf99ebf06c6382"/>
+		<rom name="Cashino-c-drive/WINNT/system32/TCPSVCS.EXE" size="21264" crc="07a32c84" sha1="98b86a878512e25d468ef6b6f2f48025deda927d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/TDC.OCX" size="55808" crc="28fb5c87" sha1="42876ae0c65ec667ac97164de358596a64084845"/>
+		<rom name="Cashino-c-drive/WINNT/system32/telnet.exe" size="79632" crc="dcc609f4" sha1="d2722e76ce4feb253fef6709ddce0799d6587b42"/>
+		<rom name="Cashino-c-drive/WINNT/system32/TFTP.EXE" size="18192" crc="dc7dfa7d" sha1="bdf59ac33700f27c0bd7f2a9fed11e68ebda9311"/>
+		<rom name="Cashino-c-drive/WINNT/system32/THUMBVW.DLL" size="201488" crc="eb2b6266" sha1="43efbca84b4383e7eb04f550e088a06e866ce003"/>
+		<rom name="Cashino-c-drive/WINNT/system32/toolhelp.dll" size="14016" crc="b1c09a45" sha1="e93a25ab3c98d3eac771a564ecc0ef0d00b5e79c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/TRACERT.EXE" size="12048" crc="d195f0ea" sha1="d76e44c6569039de43d187b3037b03541de3299b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/tsd32.dll" size="19216" crc="551dc288" sha1="670187c1d3598c2558e4189dc26f79ab5a13c072"/>
+		<rom name="Cashino-c-drive/WINNT/system32/TSEC.DLL" size="16656" crc="2a1a2fd7" sha1="57b60b7988b65f06cd4fe8a37ded94d070c2e569"/>
+		<rom name="Cashino-c-drive/WINNT/system32/typelib.dll" size="177856" crc="44cdd038" sha1="f7bfc00774554d54e040ff7a55a714ad23fac5e8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/UFAT.DLL" size="75024" crc="3d77a8df" sha1="90ff20b50c63b10b6240cfe9915f1a12a7572af5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ULIB.DLL" size="131856" crc="b2f06c2d" sha1="85ac5ef134199ccccd2d5bef1787522e9ecbcda7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/UMPNPMGR.DLL" size="94992" crc="5f909273" sha1="85c38a87c2f2480885ee4b8502b73317bfc15686"/>
+		<rom name="Cashino-c-drive/WINNT/system32/unam4ie.exe" size="66048" crc="055ea051" sha1="43a9d14870354fbcd1cae1bcfec31a591a2f49fb"/>
+		<rom name="Cashino-c-drive/WINNT/system32/UNLODCTR.EXE" size="19728" crc="b3d659f1" sha1="64dd56ed9bb616e0d3f7d9c13489b3c379f541bb"/>
+		<rom name="Cashino-c-drive/WINNT/system32/UNTFS.DLL" size="310544" crc="e8858f16" sha1="35411d3b4796e1e622f1473ccf153f91f018a2b1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/updcrl.exe" size="7168" crc="30a8fc8e" sha1="7eb2f9b61eafedf26bc8b39ac77a5e904471addb"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ups.exe" size="15632" crc="7e785f71" sha1="c7dca4bf88102d3b70eff9c46cf6ca7f440917d8"/>
+		<rom name="Cashino-c-drive/WINNT/system32/UREG.DLL" size="25360" crc="ddaf3bf2" sha1="46d109630ffbef5894878d0cf63f81c5361bb322"/>
+		<rom name="Cashino-c-drive/WINNT/system32/URL.DLL" size="106496" crc="510573da" sha1="ba0d13808aa6655620e7161add90f59e111e0f89"/>
+		<rom name="Cashino-c-drive/WINNT/system32/URLMON.DLL" size="484352" crc="775d473c" sha1="bf4024e3936788778940195717dbbeae23e1ad3a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/USER.EXE" size="47392" crc="cd1149c0" sha1="1e509ba684fcc655101ce202751c6544522ff568"/>
+		<rom name="Cashino-c-drive/WINNT/system32/USER32.DLL" size="326928" crc="6e68ecc9" sha1="4e1bcd084e02113b300f39389bbd9f4d37cbdd6e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/USERENV.DLL" size="75536" crc="d7dd9cdb" sha1="6e6c90505ffe2433c8547bde0589e985c15f7d62"/>
+		<rom name="Cashino-c-drive/WINNT/system32/USERINIT.EXE" size="26896" crc="9146b59a" sha1="471b9a0ace49f3e2cb694ba80246335a48fddeec"/>
+		<rom name="Cashino-c-drive/WINNT/system32/USERSTUB.EXE" size="10512" crc="ad2bf712" sha1="a2402836c4a3d6262bfaf936499152cd2c17cf1b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/vbscript.dll" size="462906" crc="24aa7ca7" sha1="a886e8605485b28d95e9ba0cc5a516628376fd40"/>
+		<rom name="Cashino-c-drive/WINNT/system32/vcdex.dll" size="11536" crc="7d70511c" sha1="5dbcbc4a517d9669ee1121055665b9068852746f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/VDMDBG.DLL" size="22800" crc="a131a12f" sha1="2b8cf9667eb15ca53c72bfd139a14acc5507ecd9"/>
+		<rom name="Cashino-c-drive/WINNT/system32/vdmredir.dll" size="47376" crc="1db84d90" sha1="6dd9ac34e56a71f0f0cdb9e2cba545c07b9396be"/>
+		<rom name="Cashino-c-drive/WINNT/system32/ver.dll" size="9008" crc="fbb6ede2" sha1="77d3e4d7bbaaae0b8c8ca383efe574807c6e729c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/version.dll" size="36112" crc="700a33e7" sha1="10be76feb123941b3ea634daf6685fdd7ad8dd47"/>
+		<rom name="Cashino-c-drive/WINNT/system32/vga.dll" size="86480" crc="d095ea08" sha1="0433fa4a188d3722ce33abb6a2bc2c31cce92b6e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/VGA256.DLL" size="52496" crc="6dd052b2" sha1="cd82b49098323e383bce8a38c8740b592d5a099f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/vga64k.dll" size="18512" crc="923066df" sha1="e8e06995545ac59e3ac66a893966cc533aba66c5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/vidx16.dll" size="10240" crc="013fe3aa" sha1="f08997db0ade4d7bc1e621e27f19a90b037eedbd"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/debmp.dll" size="50448" crc="f07a23c9" sha1="b7c812e1c64fbca5121504a982362dbc473ba543"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/dehex.dll" size="9488" crc="fe95e760" sha1="01d0eca47fff8a3f896a9d018b3c94735b8352af"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/demet.dll" size="69392" crc="740e2164" sha1="3978a2e4eff3f0a909b8fabfbd6cb7b1e370b3cc"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/dess.dll" size="62224" crc="ba6185dd" sha1="268077b2d28452da88eba7e5ba62cf03a5ceabd6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/dewp.dll" size="71952" crc="d946c102" sha1="aafad0fcbb7868e26f4de1661e0b1fd91779d430"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/msviewut.dll" size="118032" crc="7dec11bd" sha1="73053125e131d54dd66c10645e9105cebd285b8b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/quikview.exe" size="56592" crc="542b2c26" sha1="ec4158032c3cb93828e54fa04e0eeeca58c5751e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/sccview.dll" size="33040" crc="aed5cc24" sha1="6149f13c72e2de354cd80f85c8dee3125ed79d4c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vsasc8.dll" size="11536" crc="c024be2f" sha1="c7a9e033d66287267191214405e91da6d81f6461"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vsbmp.dll" size="16656" crc="b7fc119c" sha1="cf667865593786a9f720f155c1d2f634f2c91390"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vsdrw.dll" size="21776" crc="4a073434" sha1="f7b3f8bca8774f698b5d49354b0f435027b5ac0d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vsexe.dll" size="15120" crc="72e8778a" sha1="f55a74f560183bec32ea0fe4ad66b9f3bb40b386"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vsexe2.dll" size="39184" crc="87ef30f7" sha1="cf9691d7c3f36bf1e70bd936828c943ff47db6a5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vsmp.dll" size="16656" crc="d1e2b6df" sha1="df1179e0dee2ca4b7f23686f35231e4e6abb2510"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vsmsw.dll" size="25872" crc="608f2ee6" sha1="9abe9762a845cc4f5ad6b465a3d384c06668e2a5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vspp.dll" size="29968" crc="1fe9ad55" sha1="4748e2653e1da5fa3f92b0a989452b06522084c1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vsqp6.dll" size="19216" crc="8f83741a" sha1="e305ac53b43110bbb5bf9a6ab04ba613dafece2c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vsrtf.dll" size="25872" crc="1d5f780e" sha1="9ae3732bd429ec9558b7083eed8b72e644f2a361"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vstiff.dll" size="26384" crc="b8a7e96c" sha1="84c3f7a5aea8d04557bc69fd47e34a2b3b12df13"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vsw6.dll" size="34064" crc="1a1fbf60" sha1="d3b831116a712e27eaf738631bddf62f3d4041fe"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vswks.dll" size="27920" crc="34212326" sha1="09ec46369e50d20e0f11852c3efa59efd89512ab"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vswmf.dll" size="21264" crc="05866754" sha1="e3fb6e6d233a8e9f1f66ee832fa46f912b66d7d2"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vsword.dll" size="57616" crc="5cd34908" sha1="827b854fe49da41a6356a59a47db33f0287aa2c9"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vswork.dll" size="20752" crc="a283fe21" sha1="b2f74c69fd768ca3f950dfc8a9c37af6ea279ba5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vswp5.dll" size="32528" crc="cafbe40f" sha1="890f5b93fb5651a6366196d957f6804887244b62"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vswp6.dll" size="41232" crc="c20a62f6" sha1="c89ffbbc82fffa6f392cf648b69c6915ba5d504f"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vswpf.dll" size="19216" crc="767a85d5" sha1="93173d5ef9619a743cc42e36bda199a784ec108a"/>
+		<rom name="Cashino-c-drive/WINNT/system32/viewers/vsxl5.dll" size="54032" crc="69e434ae" sha1="9769d48dba4cdd90db61a2bbc4143e9589876fb0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/wangcmn.dll" size="47888" crc="87b5d28c" sha1="e0c5981bec612c5d0d47443dda168ce2612e2748"/>
+		<rom name="Cashino-c-drive/WINNT/system32/wangshl.dll" size="15632" crc="10622fe1" sha1="16fc1b1a3b1ae6d8dabf316b3e7c3819df590545"/>
+		<rom name="Cashino-c-drive/WINNT/system32/webcheck.dll" size="258048" crc="67cba38e" sha1="f257c727eb10f440b261bfccf45ad9a5dcce5557"/>
+		<rom name="Cashino-c-drive/WINNT/system32/WIN32K.SYS" size="1255152" crc="3be14a5c" sha1="f04e5245c5e67daea21daab2360cde36c51f456b"/>
+		<rom name="Cashino-c-drive/WINNT/system32/WIN32SPL.DLL" size="80144" crc="33710be3" sha1="5ae1b76062782c961eeafb04eb26439c9dbf88ed"/>
+		<rom name="Cashino-c-drive/WINNT/system32/win87em.dll" size="13312" crc="a3f9debc" sha1="4132ddc1065209ec62f059673ee7293bd717b0d6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/winchat.exe" size="65296" crc="8f80dada" sha1="71b072c2fe018501ad3f2eede46b33dc95c00cb4"/>
+		<rom name="Cashino-c-drive/WINNT/system32/WINDISK.EXE" size="176912" crc="acec1fb3" sha1="d55224b9c013997f5ec7ea637abb872a6286bcaf"/>
+		<rom name="Cashino-c-drive/WINNT/system32/WINFILE.EXE" size="250640" crc="fa60d7c2" sha1="11e8be60169c2940878fef9dae575984f979b721"/>
+		<rom name="Cashino-c-drive/WINNT/system32/winhlp32.exe" size="23824" crc="64c7f92e" sha1="a59b08eb803a9cf0976d1524088157a02369953d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/WININET.DLL" size="585728" crc="c6d7a87c" sha1="fcfbe08d42975274cb55fa2fcbe22341b42109b3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/WINLOGON.EXE" size="192784" crc="61e1e90b" sha1="8d37a03a62cbb61de6879f5c5ae1eacb89b7937d"/>
+		<rom name="Cashino-c-drive/WINNT/system32/winmm.dll" size="149264" crc="92e375d2" sha1="5a2537cd84883243d5730153a2c92f8b1f50103c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/WINMSD.EXE" size="151312" crc="adcb444f" sha1="649c321508d788d6fc4e65a9ab4b2197187f735e"/>
+		<rom name="Cashino-c-drive/WINNT/system32/wins/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/system32/winsock.dll" size="2880" crc="551113f6" sha1="6f6dfc307d3c383dd11a5510ed7806d396d7eb12"/>
+		<rom name="Cashino-c-drive/WINNT/system32/winspool.exe" size="2112" crc="edb7bafa" sha1="a52eb08e8e573144e11663038a82567d33b1a2d0"/>
+		<rom name="Cashino-c-drive/WINNT/system32/WINSRV.DLL" size="175888" crc="cbae3807" sha1="7317f40e811065628610fb51f5566b437fd01176"/>
+		<rom name="Cashino-c-drive/WINNT/system32/winstrm.dll" size="19728" crc="c6129c4f" sha1="c558b021bba7c0585439d0b698c7899ffae09fa6"/>
+		<rom name="Cashino-c-drive/WINNT/system32/WINTRUST.DLL" size="165648" crc="c6dca063" sha1="335c48f9e6a43201cabcc258f7b5f485cf08f276"/>
+		<rom name="Cashino-c-drive/WINNT/system32/WINVER.EXE" size="20752" crc="5528f91d" sha1="b04517d1e1e3d92a11789e416bc578caac9879c5"/>
+		<rom name="Cashino-c-drive/WINNT/system32/WKSSVC.DLL" size="60688" crc="1f19c1d6" sha1="43d49f271ad7b009598cf66ca707d9407b7a380c"/>
+		<rom name="Cashino-c-drive/WINNT/system32/WLDAP32.DLL" size="128272" crc="0d0cdfd1" sha1="275ca2ca801654147d53ed4f7bf5e9f4f6117844"/>
+		<rom name="Cashino-c-drive/WINNT/system32/WOW32.DLL" size="235792" crc="fe53f485" sha1="b1531c597f037d792f262c6a74b7a7915f4e2432"/>
+		<rom name="Cashino-c-drive/WINNT/system32/wowdeb.exe" size="2768" crc="b73331a3" sha1="b872dd634ae2fad5b136cd014915f67d1277a667"/>
+		<rom name="Cashino-c-drive/WINNT/system32/wowexec.exe" size="10352" crc="ecad5ef1" sha1="daf15ca5385313040c0d899738fc9b2a504ae322"/>
+		<rom name="Cashino-c-drive/WINNT/system32/wowfax.dll" size="3280" crc="cea02ad2" sha1="5521c5dee3e07a04cc5d211db4d7a214039fe991"/>
+		<rom name="Cashino-c-drive/WINNT/system32/wowfaxui.dll" size="18192" crc="d2a68645" sha1="0a738a8c9200545808e7230c4acb7e1376962270"/>
+		<rom name="Cashino-c-drive/WINNT/system32/write.exe" size="10000" crc="26c47225" sha1="a0a6622f45c26ee05b0d0374ab2b23a27e723832"/>
+		<rom name="Cashino-c-drive/WINNT/system32/WS2_32.DLL" size="70928" crc="e49295ed" sha1="16e49578a199a750048d40b15d50810599711841"/>
+		<rom name="Cashino-c-drive/WINNT/system32/WS2HELP.DLL" size="16656" crc="2a8e9a43" sha1="7f82ec5cac7dd279027d5c89ed4e141094c429f1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/wscript.exe" size="118834" crc="4a0268e0" sha1="656b0daee6e5f97eefae78d26574f0780b509fd3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/wshcon.dll" size="28721" crc="5a62a382" sha1="85fca6ee157c4dbbae67ff1fb0f080cf49393c50"/>
+		<rom name="Cashino-c-drive/WINNT/system32/wshext.dll" size="65585" crc="3376eaeb" sha1="f11de5c49a9af6341648bfcd6d78ab9b9aabe831"/>
+		<rom name="Cashino-c-drive/WINNT/system32/wshisn.dll" size="15632" crc="7a85e3d7" sha1="9c60941bd23f8698d71f3a481f006c1bda81c611"/>
+		<rom name="Cashino-c-drive/WINNT/system32/WSHNETBS.DLL" size="10512" crc="e5b38411" sha1="572c243a47510b817ab2e6411a1ecd03229fb109"/>
+		<rom name="Cashino-c-drive/WINNT/system32/wshom.ocx" size="102448" crc="96f41715" sha1="cb916424a7fff95aebd912f5af79b05e2d6fdbf7"/>
+		<rom name="Cashino-c-drive/WINNT/system32/wshtcpip.dll" size="18704" crc="ffc67049" sha1="b0ff3665717fb7ff0c9a3a02e6bbda90db1428c1"/>
+		<rom name="Cashino-c-drive/WINNT/system32/WSOCK32.DLL" size="20752" crc="fe2f855a" sha1="83f25612d34b465cc0a79a2b9b06a13f0ea722b3"/>
+		<rom name="Cashino-c-drive/WINNT/system32/wuv3is.dll" size="221184" crc="8b1a367e" sha1="0ef7f42e7eb61cdad8042805aad421297b421225"/>
+		<rom name="Cashino-c-drive/WINNT/system32/xactsrv.dll" size="101648" crc="1de594f1" sha1="94d690d6ac9f72ec943456470db0d5cbbb678159"/>
+		<rom name="Cashino-c-drive/WINNT/system32/XCOPY.EXE" size="47376" crc="167da38e" sha1="c461ccfc8611f1c8f82c0115216daec1fc14dc11"/>
+		<rom name="Cashino-c-drive/WINNT/system32/xenroll.dll" size="172664" crc="fbd28f02" sha1="5c1a0311e994e62789c04ece70b346418dab4d40"/>
+		<rom name="Cashino-c-drive/WINNT/system32/xfilexr.dll" size="106256" crc="cb7b9904" sha1="dde9996d09333df883044417f9a3841a6162b70e"/>
+		<rom name="Cashino-c-drive/WINNT/TASKMAN.EXE" size="32016" crc="69b6d188" sha1="260a1e4cd10a84b1590d69bd01090328a34d8480"/>
+		<rom name="Cashino-c-drive/WINNT/Tasks/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Temporary Internet Files/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/vmmreg32.dll" size="24336" crc="443c70dd" sha1="853bb978a2864dffc8e22e5581e3ffd9b21d5146"/>
+		<rom name="Cashino-c-drive/WINNT/Web/MSCREATE.DIR" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/Web/Wallpaper/MSCREATE.DIR" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/welcome.exe" size="22288" crc="1ca9210e" sha1="ec7cf31921bc1e62a5bd6e2b3a51049bc8e83ecc"/>
+		<rom name="Cashino-c-drive/WINNT/Windows Update Setup Files/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-c-drive/WINNT/WINHELP.EXE" size="256192" crc="fa4aae0c" sha1="76400714f26a1f95f4767c600c074adc8268d9e5"/>
+		<rom name="Cashino-c-drive/WINNT/winhlp32.exe" size="311568" crc="df2770e8" sha1="75973fd1191a429bf684554245c0e170718c860c"/>
+		<rom name="Cashino-d-drive/Bat/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/ESDS/CDUpdate/bin/Bz2enc.exe" size="45056" crc="5005dce9" sha1="e287bf4d5ec8128fca2194c884257be0f8e6db6e"/>
+		<rom name="Cashino-d-drive/ESDS/CDUpdate/bin/bzip2.exe" size="73728" crc="3b03e1e2" sha1="3984b9818af676b72d1446ca59aaccdd9221d5db"/>
+		<rom name="Cashino-d-drive/ESDS/CDUpdate/bin/CrtControl.exe" size="40960" crc="737e2993" sha1="42ed6833fbef603bfcefb192229e827885942f2b"/>
+		<rom name="Cashino-d-drive/ESDS/CDUpdate/bin/funzip.exe" size="57344" crc="c5ec13ff" sha1="ca5b249db098d3e0bb810e2349db5bdfbba4c5bd"/>
+		<rom name="Cashino-d-drive/ESDS/CDUpdate/bin/Tar.exe" size="114688" crc="5956c359" sha1="80a6ef92392cd7c26e32168506f62caa853d1a81"/>
+		<rom name="Cashino-d-drive/ESDS/CDUpdate/bin/UnRAR.exe" size="191488" crc="952de9eb" sha1="ad6c48fc7f9dc35480f52ae09ab330019f26d67e"/>
+		<rom name="Cashino-d-drive/ESDS/CDUpdate/bin/zip.exe" size="126976" crc="e582e0c2" sha1="1916dff9e6ca10f255a1ab9e1fd601cbfb695b12"/>
+		<rom name="Cashino-d-drive/ESDS/CDUpdate/CDUpdate-1.0.0.7.exe" size="77824" crc="488fc3b9" sha1="181ec5347ac46fd7e22bfc75203eabc14e1866d2"/>
+		<rom name="Cashino-d-drive/ESDS/CDUpdate/CDUpdate.exe" size="77824" crc="87b7ca96" sha1="77886e7d91c33f45b26682261a92e2a93c2a5662"/>
+		<rom name="Cashino-d-drive/ESDS/CDUpdate/Update/_config.sys" size="16" crc="f056d776" sha1="8e0b07a8444cac9aad77b9df2b68ab834f20e927"/>
+		<rom name="Cashino-d-drive/ESDS/CDUpdate/Update/SetErrorLevel.exe" size="36864" crc="1f85f3cc" sha1="66d8fc2bef2233a195285fa2ff360f89dfcddd17"/>
+		<rom name="Cashino-d-drive/ESDS/ControlDesk/ControlDesk.dll" size="3923968" crc="d763298c" sha1="2ee86441e155a364bb4167429bf13ab03b269b55"/>
+		<rom name="Cashino-d-drive/ESDS/ControlDesk/ControlDesk.exe" size="1298448" crc="003ef363" sha1="7dec881de11994c7f52a3b640ab410cf18469655"/>
+		<rom name="Cashino-d-drive/ESDS/ControlDesk/DBUpdate.dll" size="237572" crc="41da96c0" sha1="33d5ee8b176ebbc604a969af02ff91b88e2cb9cf"/>
+		<rom name="Cashino-d-drive/ESDS/ControlDesk/Icons/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/ESDS/ControlDesk/ResourceEN.dll" size="81920" crc="aadbb09d" sha1="e75f9394575fb93665a8e293e1175370ae60a09c"/>
+		<rom name="Cashino-d-drive/ESDS/ControlDesk/RNDDLL.dll" size="102400" crc="41ce301e" sha1="9464820c9a0b453e6201bd8efa8fbc974672a65f"/>
+		<rom name="Cashino-d-drive/ESDS/Database/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/ESDS/Files/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/ESDS/GDSServer/GDSServer.exe" size="90112" crc="e6abf47f" sha1="bc51ef37ac1bad6ac5a75e2dce7a7390f1d3539c"/>
+		<rom name="Cashino-d-drive/ESDS/Logs/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/ESDS/PEpson/PEpson.exe" size="65536" crc="4238a10f" sha1="316966937a490d652a4ea5dbb70a663b15a1a650"/>
+		<rom name="Cashino-d-drive/ESDS/SatReceiver/SatReceiver.exe" size="81920" crc="3a6af58a" sha1="0a69c0c09565f98d35f3d53e7cc4d0cdb6d5e011"/>
+		<rom name="Cashino-d-drive/ESDS/SetShop/computername.exe" size="31744" crc="a74bc723" sha1="8636ec0c500a16641b633a749f015b77338be25f"/>
+		<rom name="Cashino-d-drive/ESDS/SetShop/iplogic.exe" size="22528" crc="8539765f" sha1="93b5556975faa48df468e5855d3aaeb8820a7fc1"/>
+		<rom name="Cashino-d-drive/ESDS/SetShop/newsid.exe" size="118784" crc="eef418fa" sha1="0be4b8ba249cb623df28ceedf39edc9d48d9484f"/>
+		<rom name="Cashino-d-drive/ESDS/SetShop/Reg.exe" size="119056" crc="b6681d0c" sha1="911dbebc159056857a23a9e441f349042e7416fd"/>
+		<rom name="Cashino-d-drive/ESDS/SetShop/setips.exe" size="102400" crc="22277b67" sha1="d42cc70edb46ecf2e2098e83ccf54cb2dabd216f"/>
+		<rom name="Cashino-d-drive/ESDS/SetShop/SETSHOP.exe" size="262144" crc="0bd20b89" sha1="3f1e1b1ecaa0b79d8dd83eb276a22715711bf15a"/>
+		<rom name="Cashino-d-drive/ESDS/SetShop/Shlwapi.dll" size="36864" crc="210a3c9b" sha1="8012435a9320c00536b0be7416e8b85177d06122"/>
+		<rom name="Cashino-d-drive/ESDS/Tube/libbz2.dll" size="102400" crc="166aa8ff" sha1="f250b79a343cbacc3cf9b4833475450854e8e841"/>
+		<rom name="Cashino-d-drive/ESDS/Tube/Tube.exe" size="675840" crc="660aaa63" sha1="80d94123f6302e57f3770e4f706468d2a98c5a7d"/>
+		<rom name="Cashino-d-drive/schedule/atconf.exe" size="61440" crc="c05a33d0" sha1="1a78f99868649712668e8bc783f984c2c34f37b6"/>
+		<rom name="Cashino-d-drive/schedule/psshutdown.exe" size="40960" crc="e46cbaef" sha1="0ccf0a9bcc22af5ac17ac0f63544d65189cd2d85"/>
+		<rom name="Cashino-d-drive/schedule/Wait.exe" size="49152" crc="8ded7068" sha1="7688ae240e4f0a9a790535c18d613f91233c6529"/>
+		<rom name="Cashino-d-drive/temp/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/Tools/atconf.exe" size="61440" crc="29db30bc" sha1="17f249b0348a750a5925582e6d3b5ca0e4e071ec"/>
+		<rom name="Cashino-d-drive/Tools/crc.exe" size="45056" crc="c0501f86" sha1="ea2e4c7e0649e7d89d03c7d6179d0b9d50305fb2"/>
+		<rom name="Cashino-d-drive/Tools/Printer/EPSLOGO.dll" size="139264" crc="9e031140" sha1="e4bafd5a619e8acf4dd688ce625422c8dc53cfa1"/>
+		<rom name="Cashino-d-drive/Tools/Printer/OReg10.dll" size="40960" crc="b0c36402" sha1="c5a6ce660ef0772468d31a3bde39a3a7a628d462"/>
+		<rom name="Cashino-d-drive/Tools/Printer/OReg11.dll" size="40960" crc="f921f3bf" sha1="ce57f1589488ff585b4cf90ebfd215221cd79f6a"/>
+		<rom name="Cashino-d-drive/Tools/Printer/Porthcom.dll" size="86016" crc="6415a7f8" sha1="017c987f8fc5d1941d5a89916f403e080673d7f8"/>
+		<rom name="Cashino-d-drive/Tools/Printer/Portlpt.dll" size="65536" crc="9d6733bf" sha1="89ab308e8084898d6e283de1ea76059987ddaf58"/>
+		<rom name="Cashino-d-drive/Tools/Printer/PortMg10.dll" size="65536" crc="d12082df" sha1="e8eb352f30bfba87c9df50f41e6ccd3a037fb643"/>
+		<rom name="Cashino-d-drive/Tools/Printer/PortNet.dll" size="86016" crc="9017aad6" sha1="e411eaea21d74177800cec145c1ab61c5540c754"/>
+		<rom name="Cashino-d-drive/Tools/Printer/PortUsb.dll" size="73728" crc="987afbce" sha1="d68be4ec24e96e2bbb3e8f6cf01e3669a21393f2"/>
+		<rom name="Cashino-d-drive/Tools/Printer/PUtil10.dll" size="40960" crc="3151ecf9" sha1="b1b636fc7dc2b42661a1502141272e2385d1035e"/>
+		<rom name="Cashino-d-drive/Tools/Printer/RcTmLogo.dll" size="16384" crc="7bdff198" sha1="5b26e42ff8bfd1dd4459e29e8411e07048fbb68a"/>
+		<rom name="Cashino-d-drive/Tools/Printer/SOBase10.dll" size="49152" crc="0898acaa" sha1="0b9bce5301cb3d6ba112054e829dcdb9ceb9f0eb"/>
+		<rom name="Cashino-d-drive/Tools/Printer/TMFLogo.exe" size="204800" crc="9460ec03" sha1="be00fc2dd7e60f2963181078e73ab08b6740bb9e"/>
+		<rom name="Cashino-d-drive/Tools/RegConvertShop.exe" size="49152" crc="7eee23ee" sha1="2a09729a4f84ff66e8a570d5cbcddc439051f48e"/>
+		<rom name="Cashino-d-drive/Tools/SetErrorLevel.exe" size="36864" crc="1f85f3cc" sha1="66d8fc2bef2233a195285fa2ff360f89dfcddd17"/>
+		<rom name="Cashino-d-drive/Tools/sleep.exe" size="36864" crc="d90025bb" sha1="b67849f3c9c10c3ed6bc1f46179ca88367c3720d"/>
+		<rom name="Cashino-d-drive/V8/GLOBAL/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/V8/LOGS/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/V8/T001/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/V8/T002/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/V8/T003/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/V8/T004/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/V8/T005/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/V8/T006/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/V8/T007/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/V8/T008/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/V8/T009/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/V8/T010/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/V8/T011/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/V8/T012/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/V8/T013/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/V8/T014/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/V8/T015/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Cashino-d-drive/V8/T016/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="CASHINO/CASHINO.EXE" size="342510" crc="bb14c90b" sha1="a44f14c28f9ef69113e4626f8c0131b3612245f7"/>
+		<rom name="DOS71/CONFIG.SYS" size="174" crc="25d04aa2" sha1="0704681117bf0dae76b10f97c548ab3f94c06334"/>
+		<rom name="DOS71/DOS71/ANSI.SYS" size="9703" crc="87989167" sha1="581264c52a4a55f2be0c5fef8ca4ef0b74a1d5e8"/>
+		<rom name="DOS71/DOS71/APPEND.EXE" size="12498" crc="c9feceb4" sha1="aace9dff92b064576e2bcf00edf1c492f2d3ee6b"/>
+		<rom name="DOS71/DOS71/ATTRIB.EXE" size="15252" crc="c63285de" sha1="5ca8dfc8ece2599b60be1a24ff8dfc1588654bd8"/>
+		<rom name="DOS71/DOS71/BDRV.EXE" size="10108" crc="fca33768" sha1="37a315f041222e28369700b6c1f426703c5be3cc"/>
+		<rom name="DOS71/DOS71/CHKDSK.EXE" size="34306" crc="9fd35aff" sha1="0ee8c8f2b11d11fea710e40e78c093423a462fbb"/>
+		<rom name="DOS71/DOS71/CHKSTATE.SYS" size="41600" crc="c8ff9e0e" sha1="a809dd2facc0295cb34a7350dc172ac546d6d9aa"/>
+		<rom name="DOS71/DOS71/COMPRESS.EXE" size="15259" crc="1cba1788" sha1="1308c5fe4e7a212a7930e35570132d8483a77a86"/>
+		<rom name="DOS71/DOS71/CONFIG.SYS" size="454" crc="a32f7ad9" sha1="4cdc7b1f35f004062b25e4227f7086ea4151d44a"/>
+		<rom name="DOS71/DOS71/COUNTRY.SYS" size="30742" crc="f6296cf7" sha1="f9ed7425c75b762600871dd88f92c16f85fb650c"/>
+		<rom name="DOS71/DOS71/CTMOUSE.EXE" size="5710" crc="2428dedb" sha1="145ed84334f6cf752a826dded1cc3cd50e73e23b"/>
+		<rom name="DOS71/DOS71/CVT.EXE" size="122975" crc="b493875e" sha1="54a568790d634a758a25151f3f0b6f3e831fc1ca"/>
+		<rom name="DOS71/DOS71/DBLBUFF.SYS" size="2614" crc="92f5625c" sha1="2186d8b56510d978c17afbe1130fcff7859279a1"/>
+		<rom name="DOS71/DOS71/DBLSPACE.SYS" size="2135" crc="5d348816" sha1="c22eb04b76b2b687bc82a4ebef2b72ee52d4d7ae"/>
+		<rom name="DOS71/DOS71/DEBUG.EXE" size="20554" crc="831c3ae0" sha1="fe2aa0b64bb0c0739548fd3f7def82ad053655b0"/>
+		<rom name="DOS71/DOS71/DELTREE.EXE" size="19391" crc="031f75fd" sha1="f1b49bd8873e4d4502440825dcf7230693969761"/>
+		<rom name="DOS71/DOS71/DISPLAY.SYS" size="17175" crc="466bd071" sha1="008600e65ca9e207b023a74176f4be53a7fdae1e"/>
+		<rom name="DOS71/DOS71/DRIVER.SYS" size="5289" crc="56de2ebd" sha1="5cc774a0e9195455b0d0b337d57b15bcc5c3c127"/>
+		<rom name="DOS71/DOS71/DRVSPACE.SYS" size="2135" crc="5d348816" sha1="c22eb04b76b2b687bc82a4ebef2b72ee52d4d7ae"/>
+		<rom name="DOS71/DOS71/ECHO.SYS" size="194" crc="d0e6d77c" sha1="ab52a37da9ddfce4bac223cfecb0f064084272b1"/>
+		<rom name="DOS71/DOS71/EDLIN.EXE" size="12626" crc="1740d453" sha1="fa3f2701eb4edb109da3476d5f5448b4d8eb2904"/>
+		<rom name="DOS71/DOS71/EMM386.EXE" size="125495" crc="b0931b2f" sha1="a5900e960fcbe7408dae8dc1ffdf327ea489d831"/>
+		<rom name="DOS71/DOS71/EXE2BIN.EXE" size="8424" crc="0531eadf" sha1="89434ec54484b035d788ac26b588368329d94d1e"/>
+		<rom name="DOS71/DOS71/EXPAND.EXE" size="16271" crc="4b83eb57" sha1="b6adca668572520a496b7b01e52a03b113013b2b"/>
+		<rom name="DOS71/DOS71/EXTRACT.EXE" size="49168" crc="4fce7378" sha1="632ee28c64ce07711274e17a134f6e77c15481fb"/>
+		<rom name="DOS71/DOS71/FASTHELP.EXE" size="11481" crc="bee667f4" sha1="9f4bdcb025b280f1477f522b2e7d9232081260e5"/>
+		<rom name="DOS71/DOS71/FASTOPEN.EXE" size="11940" crc="4b1f87be" sha1="7d3783e29bd75c5b7652d520b9f1653600af965f"/>
+		<rom name="DOS71/DOS71/FC.EXE" size="21598" crc="4fd33592" sha1="6fdb75ece56b264a75bf3eea4668b95be2574ef9"/>
+		<rom name="DOS71/DOS71/FDISK.EXE" size="64668" crc="60016e55" sha1="18a8bb71b96c449cfa7f1b7d2282dd4171297a97"/>
+		<rom name="DOS71/DOS71/FIND.EXE" size="6658" crc="e82eb84f" sha1="e876c78dbfbaaf4eadb2f27e4e9a88f1b3c41aeb"/>
+		<rom name="DOS71/DOS71/HIMEM.SYS" size="33191" crc="d4dc9a40" sha1="b7a0d137c464ac853f766ce11baa71a97a52b7d4"/>
+		<rom name="DOS71/DOS71/IFSHLP.SYS" size="3708" crc="f4771d1d" sha1="f83b740b8505b2ea6e9261ffedb811fe8030a26f"/>
+		<rom name="DOS71/DOS71/KEYBOARD.SYS" size="53556" crc="fbd19dce" sha1="c5ce71dfc29a9778bdfd4b65aea555cc51f98c22"/>
+		<rom name="DOS71/DOS71/KILLER.EXE" size="2435" crc="4d02067d" sha1="b928d6109033eb44a30f5bce3bb49119c975c6ff"/>
+		<rom name="DOS71/DOS71/LABEL.EXE" size="9612" crc="a6e4ab7f" sha1="54b95614a4f3ccbbf5a57af449bf2fd5c1cfa17c"/>
+		<rom name="DOS71/DOS71/MEM.EXE" size="14849" crc="709e62f7" sha1="348bae35e31ce52abc36122e9a0abef58273fb09"/>
+		<rom name="DOS71/DOS71/MEMMAKER.EXE" size="98513" crc="b01607f0" sha1="3663c5a09e8e816d4c29a998b3119756b9ff08f3"/>
+		<rom name="DOS71/DOS71/MKLINK.EXE" size="21712" crc="c68ad0c2" sha1="2cae90c41fde7523b9b3159e295f05a945a56018"/>
+		<rom name="DOS71/DOS71/MOVE.EXE" size="27627" crc="231718ac" sha1="b764ac6974f6bec05ff2f6d5ab28fb01524c3cec"/>
+		<rom name="DOS71/DOS71/MSCDEX.EXE" size="25473" crc="35c1461c" sha1="78e5fb1cc1259dddec7af505ffc91b8d9d7c76ac"/>
+		<rom name="DOS71/DOS71/MSD.EXE" size="165864" crc="6612761b" sha1="6a0f04e32dd355e9136df70695c5d9df52b1feaa"/>
+		<rom name="DOS71/DOS71/NLSFUNC.EXE" size="6940" crc="8b4880bf" sha1="292f2fd7f0d34a7607d1735071a4117a46539021"/>
+		<rom name="DOS71/DOS71/POWER.EXE" size="8052" crc="d2f06608" sha1="7f78d1c8fadbfe7c9527396cd1e620df65f979d0"/>
+		<rom name="DOS71/DOS71/PRINT.EXE" size="15656" crc="da23bfd8" sha1="42a8bcf527285355557e688b71218ca069dc4680"/>
+		<rom name="DOS71/DOS71/QBASIC.EXE" size="194390" crc="80df2ef8" sha1="324bf4912fafb55b253ebdb5b3d52468e5be5906"/>
+		<rom name="DOS71/DOS71/RAMDRIVE.SYS" size="12663" crc="38f4b868" sha1="05f5c4ccbc909dd2f572aefa163c3e7f9bd95aee"/>
+		<rom name="DOS71/DOS71/RECOVER.EXE" size="9146" crc="956213fb" sha1="305a962590462ad1e963260462a64c991cf3c291"/>
+		<rom name="DOS71/DOS71/REPLACE.EXE" size="20146" crc="a5a643f9" sha1="b5b3fab8f75e3179b85427c7da84bf35a5aacd38"/>
+		<rom name="DOS71/DOS71/SCANDISK.EXE" size="144211" crc="cbfbee29" sha1="1786d8f9cc029cef714a07154b9e579b50401a75"/>
+		<rom name="DOS71/DOS71/SETVER.EXE" size="19375" crc="cf2325b2" sha1="afa66f3e512e0ecb8f44192118ba0e6b984c23a9"/>
+		<rom name="DOS71/DOS71/SHARE.EXE" size="4554" crc="7223a80f" sha1="a1b83e6a8d41f13eeb641c521abd3698d8ee83bb"/>
+		<rom name="DOS71/DOS71/SIZER.EXE" size="7169" crc="69442744" sha1="90141f92eea8af845c489d2fc315bb216f3235e3"/>
+		<rom name="DOS71/DOS71/SMARTDRV.EXE" size="45379" crc="43954e38" sha1="55ecd7166087c37247e7c176c7853ba28b8f9dbc"/>
+		<rom name="DOS71/DOS71/SORT.EXE" size="4689" crc="4de06012" sha1="de431378efaec5abc65e9f26eff35f3af7e1c721"/>
+		<rom name="DOS71/DOS71/SUBST.EXE" size="6204" crc="980e4015" sha1="59361a58f386d3d76e14abc984ef5291c8d85f23"/>
+		<rom name="DOS71/DOS71/VIDE-CDD.SYS" size="11188" crc="1d9bca54" sha1="4bcaaf220a60114ea034ce26bc21c0c9056158d0"/>
+		<rom name="DOS71/DOS71/XCOPY.EXE" size="24568" crc="78f1e285" sha1="08b11f79f8b0ff0d1c0f272c175f725ed006e7d6"/>
+		<rom name="DOS71/IO.SYS" size="131100" crc="eb46ab31" sha1="8c586b1bf38fc2042f2383ca873283a466be2f44"/>
+		<rom name="DOS71/MSDOS.SYS" size="555" crc="d75fc104" sha1="cd1e6103ce9cdebbc7a5611df13ff4fbd5e2159c"/>
+		<rom name="DOS71/Recycled/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOS71/SYS/HIMEM.SYS" size="33191" crc="d4dc9a40" sha1="b7a0d137c464ac853f766ce11baa71a97a52b7d4"/>
+		<rom name="DOS71/SYS/IO.SYS" size="131100" crc="eb46ab31" sha1="8c586b1bf38fc2042f2383ca873283a466be2f44"/>
+		<rom name="DOS71/SYS/LOGO.SYS" size="129078" crc="098fb7d8" sha1="7c0d4a83c5d070c3214df893ccddc62e8085e622"/>
+		<rom name="DOS71/SYS/MSDOS.SYS" size="573" crc="a2c3ed2d" sha1="7295f9fac4c1d36eeb6ce07a3f8439d87e53a7c5"/>
+		<rom name="DOS71/SYS/NEUTERMT.EXE" size="90757" crc="c879bcd2" sha1="80cba2db7f98f08b5ddda3e3bd951b5699c7f21e"/>
+		<rom name="DOS71/SYS/NTCPDRV5.EXE" size="60496" crc="96264229" sha1="87a06a2705fd666fc6ab407cb8d28d23e0203f1c"/>
+		<rom name="DOS71/SYS/SETTINGS.BAT" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOS71/SYS/UDMA.SYS" size="4644" crc="191a9110" sha1="b54cf05878a29c7dd39d2d896ef64f7629e8602f"/>
+		<rom name="DOS71/SYS/UMBPCI.SYS" size="14011" crc="62fcc5cd" sha1="ceea2fcba8553138bcc3b22cc87f0a6557a45323"/>
+		<rom name="DOS71/SYS/VRES92.EXE" size="34992" crc="3cfe792b" sha1="05636b30422ccb5a35ca3d1b277267239d1640da"/>
+		<rom name="DOS71/SYS/VRESSTD.EXE" size="30656" crc="e08408a7" sha1="45826dbf747a47fcb528eb44d6ed8519f8935480"/>
+		<rom name="DOS71/TEMP/ANCFANCJ" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOS71/TOOLS/BIGTEST.EXE" size="79256" crc="6f2ad2a2" sha1="bec67a22f1d22ff9b0230642a888b3ffbff0cc25"/>
+		<rom name="DOS71/TOOLS/BIOS/AWD831.EXE" size="43909" crc="2ae6de5e" sha1="2e5546f2afc13b4dc73ee14e9a577808a867acea"/>
+		<rom name="DOS71/TOOLS/BIOS/AWDFLASH.EXE" size="40904" crc="da927243" sha1="7f23fbf99d79b83aa5e0a8f905fe63059f20bf98"/>
+		<rom name="DOS71/TOOLS/IPATCH16.EXE" size="53614" crc="3d0586be" sha1="2baac9f0e25d90795126a346111335c08820fa14"/>
+		<rom name="DOS71/TOOLS/NEUTERMT.EXE" size="90757" crc="c879bcd2" sha1="80cba2db7f98f08b5ddda3e3bd951b5699c7f21e"/>
+		<rom name="DOS71/TOOLS/PROGBAR.EXE" size="29789" crc="617d30b9" sha1="c1c06daed2eb6394f9cfbd9df9a3135cb4dd56a9"/>
+		<rom name="DOS71/TOOLS/SNDVOL.EXE" size="36880" crc="2db136f1" sha1="22f20a0975f29a66b67a57fa0670228694ef1aad"/>
+		<rom name="DOS71/TOOLS/TABTESTY.EXE" size="17229" crc="1b23f36c" sha1="edeb3007f8f854ffba5c968b1b59b5df3417a1c7"/>
+		<rom name="DOS71/TOOLS/TCHSCR.EXE" size="41383" crc="2f0e64f9" sha1="d51a212cc0fdafe16afbb2c46477228b41c9cc4d"/>
+		<rom name="DOS71/TOOLS/TOUCH/CALIB.EXE" size="57786" crc="64d6d5d5" sha1="43ab3fd11cd71ee97d15e95fde7700e782971e76"/>
+		<rom name="DOS71/TOOLS/TOUCH/CONFIG.SYS" size="360" crc="bfac17be" sha1="19876e729226da39e3be9089e9f019af85644ff2"/>
+		<rom name="DOS71/TOOLS/TOUCH/MICROCAL.EXE" size="207818" crc="23c6e51c" sha1="8b3ba130205132e7279c205c0765ab616ca0df99"/>
+		<rom name="DOS71/TOOLS/TOUCH/MONITOR.EXE" size="105558" crc="ec72ed2d" sha1="307514725e0ada23f2b694e38756187e6d791f3b"/>
+		<rom name="DOS71/TOOLS/TOUCH/MTBAUD.EXE" size="15515" crc="bdb13310" sha1="ee3ce7d50938ee73795b71d6b7262ec57848af4b"/>
+		<rom name="DOS71/TOOLS/TOUCH/MTSAPDI.SYS" size="4897" crc="2e46fb58" sha1="b28944c047c79ad905770824c1e7e79258071d75"/>
+		<rom name="DOS71/TOOLS/TOUCH/MTSTOUCH.SYS" size="14665" crc="b8562d49" sha1="aab0406cf3c849873c637cf9979334d9e77fddaa"/>
+	</game>
+</datafile>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ROMs - Fruit Machine ROMs (unemulated) - Betcom</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Worms (Betcom)">
+		<rom name="m12611_non.rgf" size="4194304" crc="2b81b13a" sha1="df7848e738493e2b6eaaea92a8388a0a29f30ad7"/>
+		<rom name="m12611_pro.rgf" size="4194304" crc="9f08ceda" sha1="ddacdea47bf8066195e1d25095cd3d72b4f30320"/>
+		<rom name="m12612_non S6_1.2.rgf" size="4194304" crc="cf246d75" sha1="edc90aaa14a9a1b15b2f8b201109f44d46f771c3"/>
+		<rom name="m12612_pro S6_1.2.rgf" size="4194304" crc="a4c2b989" sha1="c48a3e2918ca0908a97177df3d3239d5bbb6a4eb"/>
+		<rom name="worms v1.1.hi" size="524288" crc="c5d06fcf" sha1="d93d1b8881e4ce4a603c97a87c08eed24d5c8c1c"/>
+		<rom name="worms v1.1.lo" size="524288" crc="2c768efc" sha1="a143303d78931a5b449ee09a38836a24f749e64c"/>
+		<rom name="worms_nondata P6_1.1.s19" size="5792160" crc="bdfe8203" sha1="4b9607cde4097211894f9358823c02577f0cf6d9"/>
+		<rom name="wrms_non S5_1.2.hi" size="359994" crc="6a8a65b3" sha1="f25da4530ceb7a463a1752346bfcbd1ff93d0025"/>
+		<rom name="wrms_non S5_1.2.lo" size="359993" crc="df27df79" sha1="74f2071fe70373fce2b0c64d8f7ee68e5e497c1a"/>
+		<rom name="wrms_pro S5_1.2.hi" size="361030" crc="8f15f172" sha1="e1e92b3ed59714028a75b3a043c297bbcea96788"/>
+		<rom name="wrms_pro S5_1.2.lo" size="361029" crc="be781620" sha1="d4cba0de55d53dcb9b4b4c7f6b4decb7f75b9586"/>
+		<rom name="wrms_snd S5_1.2.bin" size="1048576" crc="7a253157" sha1="d0998e7776ae3044755527d83b577628d6e69017"/>
+	</game>
+	<game name="zzz_unk Goodfeathers (Betcom)">
+		<rom name="gdfe_interleaved.bin" size="863070" crc="286da5a8" sha1="a15d8c513b728c05d4cb28cb808755b9107e25b6"/>
+	</game>
+	<game name="zzz_unk KingKongCash_Multiplayer-P6_1.2_old (Betcom)">
+		<rom name="KKC_base_data.s19" size="5792160" crc="940b9684" sha1="a15e5711c24c592a160ff7b49e779b9434b97f5c"/>
+		<rom name="KKC_base_nondata.s19" size="5792160" crc="2389c27c" sha1="4869b113f2793b7959097fe31419654caac2794c"/>
+		<rom name="KKC_topbox_nondata.s19" size="5792160" crc="0963a2ae" sha1="355180580e6214c32e30128c6720b6027d78e710"/>
+		<rom name="readme.txt" size="149" crc="9d356abb" sha1="306bd6866c0a4dbbd3ad1d628607dbdf5cfa372d"/>
+	</game>
+	<game name="zzz_unk KingKongCash_Multiplayer-P6_1.2_old-audio (Betcom)">
+		<rom name="bonus_feature.hsf" size="187904" crc="cf57296b" sha1="fc6690b5251e5796974ba1315a219848045fd509"/>
+	</game>
+	<game name="zzz_unk KingKongCash_Multiplayer-P6_1.3_old (Betcom)">
+		<rom name="KKC_base_data.s19" size="5792160" crc="e846b93e" sha1="a48755a838066d0cec57996bbf4f94ae2e9fdced"/>
+		<rom name="KKC_base_nondata.s19" size="5792160" crc="f1f09a1f" sha1="549407b6fa1db4cd03dc5c9c8295ce3f5f51e0c9"/>
+		<rom name="KKC_topbox_nondata.s19" size="5792160" crc="0963a2ae" sha1="355180580e6214c32e30128c6720b6027d78e710"/>
+		<rom name="readme.txt" size="149" crc="9d356abb" sha1="306bd6866c0a4dbbd3ad1d628607dbdf5cfa372d"/>
+	</game>
+	<game name="zzz_unk KingKongCash_Multiplayer-P6_1.3_old-audio (Betcom)">
+		<rom name="bonus_feature.hsf" size="187904" crc="cf57296b" sha1="fc6690b5251e5796974ba1315a219848045fd509"/>
+	</game>
+	<game name="zzz_unk KingKongCash_Multiplayer-P6_1.4 (Betcom)">
+		<rom name="KKC_base_data.s19" size="5792160" crc="6aa98c98" sha1="84170c544f7ab844ac67d17d009733ec5283ef31"/>
+		<rom name="KKC_base_nondata.s19" size="5792160" crc="f7ca6a3c" sha1="384f21e798859fe2cdcaf031cad5b88d0a80d693"/>
+		<rom name="KKC_topbox_nondata.s19" size="5792160" crc="57c268ba" sha1="6f48ae2b5d3a9d8cd582f26d7ad5f2b2fc025fb8"/>
+	</game>
+	<game name="zzz_unk KingKongCash_Multiplayer-P6_1.4-audio (Betcom)">
+		<rom name="bonus_feature.hsf" size="187904" crc="cf57296b" sha1="fc6690b5251e5796974ba1315a219848045fd509"/>
+	</game>
+	<game name="zzz_unk KingKongCash_Multiplayer-P6_Show (Betcom)">
+		<rom name="readme.txt" size="149" crc="9d356abb" sha1="306bd6866c0a4dbbd3ad1d628607dbdf5cfa372d"/>
+	</game>
+</datafile>

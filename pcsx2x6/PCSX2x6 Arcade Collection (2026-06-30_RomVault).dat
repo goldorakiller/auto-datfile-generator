@@ -1,0 +1,486 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+	<header>
+		<name>PCSX2x6 Arcade Collection</name>
+		<description></description>
+		<category>Arcade</category>
+		<version></version>
+		<date>2026-06-30</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage>https://github.com/PS2Homebrew-arcade/pcsx2x6</homepage>
+		<comment></comment>
+		<romvault forcepacking="fileonly" />
+	</header>
+	<game name="NM00001">
+		<rom name="NM00001 RRV1, Ver.A a025539109879a.ps2" size="8650752" crc="a99c579c" sha1="d97b23e461e36eb0625f8cfdcfe334745d98f596" md5="7a2423252bbb92c8c617803d9ce53e09"/>
+		<rom name="NM00001 RRV1, Ver.B a025531215948a.ps2" size="8650752" crc="afc6f88f" sha1="99c5925cf696220def255e649c5ec025f884c923" md5="7030fa4cb110d86dc91c4ddbceee16b8"/>
+		<disk name="NM00001 RRV1-A (CD-ROM)" sha1="4e52fb08395099ff5dfc7d37d8a74209a46277c8"/>
+		<rom name="NM00001 RRV2, Ver.B a025531981282a.ps2" size="8650752" crc="72954012" sha1="96652fef7892b2b81867ea5b43b56383f86288d2" md5="0926cef26a81310b84199dceb8bbcb72"/>
+		<rom name="NM00001 RRV3, Ver.A a025539111143a.ps2" size="8650752" crc="78bd29b0" sha1="20084f64eeefb5b8eec31bb6774c306f56ec5cc1" md5="4a6ebead0d3c10bd5a45bcbef2e78936"/>
+		<rom name="proverb.elf" size="24788" crc="62f41709" sha1="4410eb3b3aa283983ae52a48efa22a647114943f" md5="92353669d79459fd701dae7b38143146"/>
+		<rom name="title.txt" size="81" crc="a0348bb2" sha1="c90c2f985fdb456dba339e89f1802914ebbcecf3" md5="d7e875d0fa65f37e19aade7113ec565a"/>
+	</game>
+	<rom name="NM00001 - Ridge Racer V Arcade Battle (RRV1 Ver. A).acgame" size="200" crc="cce47a2f" sha1="7289204a17df283ff01dfe64389d919e1140cf2e" md5="92ca8d3f6d06c0f6a1850e13752c4db0"/>
+	<rom name="NM00001 - Ridge Racer V Arcade Battle (RRV1 Ver. B).acgame" size="212" crc="bdaa8432" sha1="4a3fdfcfb60b5895016d43d3baea5ada9b6f7a54" md5="ae5cd1df36993f2921c73db6db4ad8dd"/>
+	<rom name="NM00001 - Ridge Racer V Arcade Battle (RRV2 Ver. B).acgame" size="212" crc="06ee4bbf" sha1="642814f71f7e51a027d3b9a5738ae7df3a036e9d" md5="f8ede5ecb82cf8a00d68294e91640985"/>
+	<game name="NM00002">
+		<rom name="NM00002 BRT1, Ver.A1 a026219111998a.ps2" size="8650752" crc="910137d3" sha1="552d7055bbf2193784fbc44f4ab2e2115f36b0a7" md5="1c71a0003925fd9dfedddbc502d348cc"/>
+		<disk name="NM00002 BRT1-A (CD-ROM)" sha1="1de9b14107a7a37ed31bccba17c1d062f0af5065"/>
+		<rom name="proverb.elf" size="24804" crc="d2a0f436" sha1="ecfd08d14ac96b101e6c13a0bf4ca7ec4cd0142a" md5="4176c9712decc1bd2c65ab840776d3ce"/>
+		<rom name="title.txt" size="55" crc="4521beb2" sha1="90bb7731d24627e10cb618e93e0fed78cd5541e8" md5="d3b31ebda955cad2e5cd35dd9f497e43"/>
+	</game>
+	<rom name="NM00002 - Bloody Roar 3.acgame" size="185" crc="1a4188fa" sha1="5b43bb2db56de3e90eb3f06cc9ff4eca8c24bc71" md5="003e54f1799f7b9e9533aace884e0482"/>
+	<game name="NM00003A">
+		<disk name="NM00003 TNB1 DVD0 (DVD-ROM)" sha1="4eb1b9a3aa35565009e6935dd076400df00c8a75"/>
+		<rom name="NM00003 TNB1, Ver.A a025901146209a.ps2" size="8650752" crc="838c2c03" sha1="d763d64b620331b7d083497a1574923768cbbdc2" md5="1196cdf58bdbb6f64e23f4ec43d7bacb"/>
+		<rom name="proverb.elf" size="24804" crc="9044abd1" sha1="c690e444ca7eb7cd1a9ab704838e4a794c55323a" md5="9b1b9e5266907ad4354046318ea0a52b"/>
+		<rom name="title.txt" size="54" crc="6f808c3c" sha1="4c516e9baba29cb2f024cd0535733e90bfe30d93" md5="96b6ab98c9936eda63bb8524f3702739"/>
+	</game>
+	<rom name="NM00003A - Technic Beat.acgame" size="189" crc="6eb582bd" sha1="5dc2f8734c885a38b2d9d6b422db899a2caee0e5" md5="1a456680ef663d38013f8228c7466000"/>
+	<game name="NM00003B">
+		<disk name="NM00003 VPN1 CD0 (CD-ROM)" sha1="714bd19eee3b31a060223003e4567e405ce04cd7"/>
+		<rom name="NM00003 VPN1, Ver.B a025651217951a.ps2" size="8650752" crc="8351fade" sha1="32091d06ed4857b04cd0f2579d44613db89d88ec" md5="d54536654fe233420bccb0ebf8fca2fb"/>
+		<rom name="NM00003 VPN2, Ver.B a025651218417a.ps2" size="8650752" crc="266aeb49" sha1="28243512fc5e350d129566a5431df70d54ce22ee" md5="baa197daafd36a8ffd32a133744fc25a"/>
+		<rom name="NM00003 VPN3, Ver.B a025651218273a.ps2" size="8650752" crc="b240d892" sha1="e494a416c2fe63d0dfafde45d39b95494e966725" md5="6db6b17205d51344dad0f63edfb20421"/>
+		<rom name="proverb.elf" size="24804" crc="9044abd1" sha1="c690e444ca7eb7cd1a9ab704838e4a794c55323a" md5="9b1b9e5266907ad4354046318ea0a52b"/>
+		<rom name="title.txt" size="55" crc="17042b67" sha1="87a9d6c2a90341d7f559cf924df7ec25a8b38b44" md5="4307d0ea17209bfaeba58878fda6a949"/>
+	</game>
+	<rom name="NM00003B - Vampire Night (JP)(VPN1, Ver. B).acgame" size="224" crc="ca4bf50b" sha1="e5c4c90e8b4d534946a94c2492386487a76e7583" md5="63d8135104cea9e04a9c7c4069d12f31"/>
+	<game name="NM00004">
+		<disk name="NM00004 TEF1 DVD0 (DVD-ROM)" sha1="6cfe054f92fab32c90fd30c6842d2dd1ec4f1682"/>
+		<rom name="NM00004 TEF1, Ver.A a025671220412a.ps2" size="8650752" crc="2123f26e" sha1="2f7162bef9cc7ebe95b55d17a10db7a767dfa560" md5="4fa403af4e7c2920c3dcacc8c19e370f"/>
+		<rom name="NM00004 TEF1, Ver.D a025671225212a.ps2" size="8650752" crc="c0945088" sha1="03747df933258402b003c9887efd6962ea3630ce" md5="3f6199b95365a1a61f1ce11b9ec573a7"/>
+		<rom name="NM00004 TEF2, Ver.B2 a025671125990a.ps2" size="8650752" crc="7a346ae2" sha1="1666cc6bfb7217e5a0764ce23b50d32c8d87386d" md5="e6b5bb93e4a340bfbdc147afaea3d8cb"/>
+		<rom name="NM00004 TEF2, Ver.C a025671131756a.ps2" size="8650752" crc="d53c5fcc" sha1="ad8703cb7a1b17e9c934b78c4739d15969ec99a5" md5="66e8ab3c159bba2018fce8e257b20ec7"/>
+		<rom name="NM00004 TEF3, Ver.B2 a025671125093a [Rebuilt].ps2" size="8650752" crc="aeec9e23" sha1="78d00a30f728a42711fb14a0641b99452bfb1d1c" md5="d93e8243f872fc0aa619f6f7d314879d"/>
+		<rom name="NM00004 TEF3, Ver.C a025671230614a.ps2" size="8650752" crc="9af44a60" sha1="9c576099b2f0ed1f2d84cd3f3b77960ead84c729" md5="0888450d70637fddc113ef39fe58ab50"/>
+		<rom name="proverb.elf" size="24804" crc="c41889c6" sha1="6649f192e294cd90c269ef1d79d67c12fc9b0bd1" md5="cf497537c86c3c86a679015cd33f6ec3"/>
+		<rom name="title.txt" size="50" crc="5b523556" sha1="1ea1644667a0c95ab92bb2b7f5a9b284060440d9" md5="a67ca9c672c07c30a7210da7b3f0189d"/>
+	</game>
+	<rom name="NM00004 - Tekken 4.acgame" size="201" crc="c02bf70d" sha1="e7fd019c620db0abdae185b1b3cf1930c0fef418" md5="7eb634df845fae9645dff23e07cb96d1"/>
+	<game name="NM00005">
+		<rom name="NM00005 WMR1, Ver.A a025891144809a.ps2" size="8650752" crc="559ad426" sha1="820c3c939572d1cf5ba20056cebdb6aadd5934fe" md5="9787c5687eab9241f940c5414d572188"/>
+		<disk name="NM00005 WMR1-A (CD-ROM)" sha1="02feab4380dcc2dd95c85b209192f858bafc721e"/>
+		<rom name="proverb.elf" size="24804" crc="d4e7a32b" sha1="70356fa7898194a100f9e7c5cb6af33503f9b2a7" md5="4811b7332c50fe5fe044e0d7d529571c"/>
+		<rom name="title.txt" size="59" crc="23cd8cf7" sha1="069a6097c60ce6247c887645a5123c5c923ca335" md5="56f5dd374882ee05e5f63dc43bdb33bb"/>
+	</game>
+	<rom name="NM00005 - Wangan Midnight R.acgame" size="203" crc="cb4ec5c9" sha1="1036c828ed026db27779fabc73a2b0609209c91e" md5="2ea5397a0e2e787e91d81143425b8f02"/>
+	<game name="NM00006">
+		<disk name="NM00006 SCP1 CD0 (CD-ROM)" sha1="19fa70ba22787704c40f0a8f27bc841218bbc99b"/>
+		<rom name="NM00006 SCP1, Ver.A a025671143734a.ps2" size="8650752" crc="76fc8fdc" sha1="431e94fcf9bf1e643e77c7f7c67d0d5e9a924e51" md5="1020333f6ce8db11c8ebda3056423caa"/>
+		<rom name="proverb.elf" size="24804" crc="2e74bad1" sha1="77fa44413be72340e2e2d9623d3879c44281d73c" md5="f4c432526ca7cbd3ad53da118f0b854f"/>
+		<rom name="title.txt" size="69" crc="2049aa34" sha1="4bde8c68e2ad4722ec2d371ab748bcde938e88a4" md5="35e26df53e7093b1a28d1179f99a2eaf"/>
+	</game>
+	<rom name="NM00006 - Smash Court Pro Tournament.acgame" size="199" crc="f9c26a4c" sha1="d608f5620bd0b39f7fad34982579741ed57490d0" md5="b5ddc086421602fd8e9236253a23f18c"/>
+	<game name="NM00007">
+		<rom name="Card0.conquestcard" size="8650752" crc="a1cc296e" sha1="8aa22d57aa9a191d2f760d5ddb17cde2c9279cac" md5="89823cb7dd8fde7b3faad7d45e29ff75"/>
+		<disk name="NM00007 SC21 DVD0D (DVD-ROM)" sha1="42634bda98fd99076c33399a19d9206271776182"/>
+		<rom name="NM00007 SC21, Ver.A10 a025781148773a.ps2" size="8650752" crc="635f9d09" sha1="daf1755f95d0513a9168ffaac3c828d1d16c5a1b" md5="b9bb42ccb05ce37d066feb9888f917a7"/>
+		<rom name="NM00007 SC22, Ver.A10 a025781151571a [Rebuilt].ps2" size="8650752" crc="fe6f51e9" sha1="6cfe8a321f1c9929c2cda987b12601da51771b03" md5="bfa3fcbbdfd1326571af5eef31b6323d"/>
+		<rom name="NM00007 SC23, Ver.A10 a025781150426a.ps2" size="8650752" crc="7e9830e0" sha1="4f1bca39c52fe830d86305a08b8332e3656fc5ca" md5="146eec2fbf786b08af69238307e1b195"/>
+		<rom name="proverb.elf" size="24804" crc="e6f351b5" sha1="3ad982f8de6cbc96887b42c5a7128e19e8b59bc6" md5="ae681438bb9fafffb3c9cf35a9ddc151"/>
+		<rom name="title.txt" size="57" crc="a9aecff2" sha1="43009b25f9674f3960e06a288450d65b7601f2b7" md5="7c21839f6be3558ce9d35626fbc1c46e"/>
+	</game>
+	<game name="NM00007 (World Ver)">
+		<disk name="NM00007 SC21 DVD0B (DVD-ROM)" sha1="d04d34baad14dffd2bbd1ad826b260cbae7f9f99"/>
+		<rom name="NM00007 SC21, Ver.A10 a025781148773a.ps2" size="8650752" crc="635f9d09" sha1="daf1755f95d0513a9168ffaac3c828d1d16c5a1b" md5="b9bb42ccb05ce37d066feb9888f917a7"/>
+		<rom name="NM00007 SC22, Ver.A10 a025781151571a [Rebuilt].ps2" size="8650752" crc="fe6f51e9" sha1="6cfe8a321f1c9929c2cda987b12601da51771b03" md5="bfa3fcbbdfd1326571af5eef31b6323d"/>
+		<rom name="NM00007 SC23, Ver.A10 a025781150426a.ps2" size="8650752" crc="7e9830e0" sha1="4f1bca39c52fe830d86305a08b8332e3656fc5ca" md5="146eec2fbf786b08af69238307e1b195"/>
+		<rom name="proverb.elf" size="24804" crc="e6f351b5" sha1="3ad982f8de6cbc96887b42c5a7128e19e8b59bc6" md5="ae681438bb9fafffb3c9cf35a9ddc151"/>
+		<rom name="title.txt" size="57" crc="a9aecff2" sha1="43009b25f9674f3960e06a288450d65b7601f2b7" md5="7c21839f6be3558ce9d35626fbc1c46e"/>
+	</game>
+	<rom name="NM00007 - Soul Calibur II (World ver).acgame" size="242" crc="82140d34" sha1="9157786150ad4e9855aeb81f32a7d76855c419ea" md5="528f4be8fdb3841f47603d93d3bb9c63"/>
+	<rom name="NM00007 - Soul Calibur II.acgame" size="218" crc="8bb86d72" sha1="be56822a53894f047df505bb35dd14cc8f7a6817" md5="6fce52c621478e83a47d83cdb40ab19f"/>
+	<game name="NM00008">
+		<rom name="NM00008 WMN1, Ver.A a025811135768a.ps2" size="8650752" crc="d4e1ea7a" sha1="9083fba50b1e8ee925777eddf91e5e574da87d5a" md5="e08a50c63a5d9bcd653fa2c5d12bd8fb"/>
+		<disk name="NM00008 WMN1-A (CD-ROM)" sha1="4254e987e71d0d4038a87f11dc1a304396b3dffc"/>
+		<rom name="NM00008 WMN2, Ver.B a025811142159a.ps2" size="8650752" crc="5e5ae3e1" sha1="41142788c745847f786809826f2bd8c4e2a51adb" md5="f51e893b5150b9c4725c36886f962431"/>
+		<disk name="NM00008 WMN2-A (CD-ROM)" sha1="b54fe981b8ee0e71f02630b210ad17965e1ba85b"/>
+		<rom name="proverb.elf" size="24804" crc="78cc6524" sha1="4041c85ffadd43e4c541d704edcbf6a7ec362e7c" md5="d4e78c4e0b77281ca853caff8f0a2304"/>
+		<rom name="title.txt" size="57" crc="f25bb9c4" sha1="513b709784089c379f980e1b3ed6b8069f5cfc99" md5="f796e07fc69c3d5134df3d9673d49538"/>
+	</game>
+	<rom name="NM00008 - Wangan Midnight (WMN1, Ver.A).acgame" size="215" crc="849fa313" sha1="7dd23726ec057b166010418d37b93e0eb6cd3fb7" md5="a04de00744d13fc1b170a1064e6ab4a1"/>
+	<rom name="NM00008 - Wangan Midnight (WMN2, Ver.B) .acgame" size="215" crc="675cdc84" sha1="f48ffca69f6ec42cfa523a1eddff9aaf310336f7" md5="b8ea58a1857310b3459060b4f5560cda"/>
+	<game name="NM00009 (Rev. B)">
+		<disk name="NM00009 NPY1 CD0B (CD-ROM)" sha1="5c0060289ec12d2ff21e4b181112e7f0d7bb97b8"/>
+		<rom name="NM00009 NPY1, Ver.B a025831145685a.ps2" size="8650752" crc="dc003ba0" sha1="b93e598bd543c77e16020abb9de4c00341cd9be6" md5="7bfef7db25641be7a856145c44a0a5ba"/>
+		<rom name="proverb.elf" size="24804" crc="7421aadd" sha1="1e91724ae894f8e483b3a3e461f3a576374c9dd6" md5="0e32884a45fbd5744f2e6ab2c5f70d04"/>
+		<rom name="title.txt" size="68" crc="dd4308e0" sha1="b80c4a7c9e1548eb8ed5eb93e033d2b12876a696" md5="4d323af7ceb1fd3557b521c1a0c70b69"/>
+	</game>
+	<game name="NM00009 (Rev. C)">
+		<disk name="NM00009 NPY1 CD0C (CD-ROM)" sha1="f98be6782f6cc54a3f9c16134846228fdad54167"/>
+		<rom name="NM00009 NPY1, Ver.C a025831145654a.ps2" size="8650752" crc="64c7a8e4" sha1="1bfd656f0d24bebe8f7341f163d85e92a5beee40" md5="9b6e3ccc4f9db95b248f7965e95ac249"/>
+		<rom name="proverb.elf" size="24804" crc="7421aadd" sha1="1e91724ae894f8e483b3a3e461f3a576374c9dd6" md5="0e32884a45fbd5744f2e6ab2c5f70d04"/>
+		<rom name="title.txt" size="68" crc="dd4308e0" sha1="b80c4a7c9e1548eb8ed5eb93e033d2b12876a696" md5="4d323af7ceb1fd3557b521c1a0c70b69"/>
+	</game>
+	<rom name="NM00009 - Netchuu! Pro Baseball 2002 (Rev. B).acgame" size="218" crc="6e7072d9" sha1="37066a52a8e6ca2d1ebc8ef9f23b249ca6abf5dd" md5="f3c030a0273874600d6ca538b46f6fde"/>
+	<rom name="NM00009 - Netchuu! Pro Baseball 2002 (Rev. C).acgame" size="218" crc="ecab35c8" sha1="7b60479e4e65ea075f1e3ac585c4b19ffb594959" md5="6e86dbe04f3c6632bf8a6f7a774eb127"/>
+	<game name="NM00010">
+		<disk name="NM00010 Ver.2.08J (HDD)" sha1="ed0314aa8cb9004afb2550a6a60c3cb4249c2271"/>
+		<rom name="NM00010 Ver.2.08J.ps2" size="8650752" crc="159cee32" sha1="ded2812922138624991a7faa8c0f67c5348ef3ef" md5="ed8c556c7212b5993781108a21200c74"/>
+		<rom name="proverb.elf" size="24804" crc="772230a9" sha1="a8c53291e40207113809ff8b1576e743cc95d914" md5="df3162868059d281a560ae005dba97fd"/>
+		<rom name="title.txt" size="55" crc="67cf5350" sha1="06f60bc20f1692780f4afc23e206da3ccc48dacb" md5="90e64af2f38c7cc538e740c5af2363d0"/>
+	</game>
+	<rom name="NM00010 - Battle Gear 3 (Ver. 2.08J).acgame" size="183" crc="d360d383" sha1="f973e321778747e5803abdb415422324d5bf7014" md5="24d18b9dce8317f7d5b09a95778aabbc"/>
+	<game name="NM00011">
+		<disk name="NM00011 PR21 DVD0 (DVD-ROM)" sha1="27f972d1ce52d6439f00e2cbb7c6f88a6f73f750"/>
+		<rom name="NM00011 PR21, Ver.A a000002000023a.ps2" size="8650752" crc="85b29816" sha1="50e7397cd5df1eb12faa3c509d99c85833cbdcfc" md5="5e48191087e36fa75469be412e893424"/>
+		<rom name="proverb.elf" size="24804" crc="361e6055" sha1="04c4517cdbd4f91bc34c56261321c605fb37dfd4" md5="faf3c7a7b1df70fb262c217651b3e232"/>
+		<rom name="title.txt" size="55" crc="b117df16" sha1="5b48f2241c5354acd5b8595f9897465bdc1bd47e" md5="0fecb0791e39b3fb3a66592794901a58"/>
+	</game>
+	<rom name="NM00011 - Pride GP 2003.acgame" size="189" crc="95c2af81" sha1="d19fd84a17cc11a194d3a2126297a3b4dee6a894" md5="d6e17c0100f95fd777f550ac45fc2945"/>
+	<game name="NM00012">
+		<disk name="NM00012 TST1 DVD0 (DVD-ROM)" sha1="aab940b2c8b9cafef85fefe311376eda5b85fe80"/>
+		<rom name="NM00012 TST1, Ver.A10 a025921160376a.ps2" size="8650752" crc="215ba818" sha1="9432fafbe353d3dc19a43eae5ce41ad23d054bf3" md5="865285f50db4a2d444100056a04dce8f"/>
+		<rom name="NM00012 TST2, Ver.A9 a025921168340a.ps2" size="8650752" crc="62705207" sha1="1c23ddf38a45db0bd96076a31b14f3360cffe78f" md5="56005fe56d9e93e472b35f919e8af4bc"/>
+		<rom name="NM00012 TST3, Ver.A9 a025921186498a.ps2" size="8650752" crc="09c168ee" sha1="23c0321d3d4371e25de8be478de1c107853700fb" md5="d79b63a94a95648bfda5cae5392fec3d"/>
+		<rom name="proverb.elf" size="24804" crc="e23638c3" sha1="8e93f9a18a3014e9541e41255e692b2be95ca411" md5="08efc4563d769820485afaaca19ca504"/>
+		<rom name="title.txt" size="55" crc="61f282a4" sha1="58b5d7024845ec94fcfb1bf7f9babc3c96b0997b" md5="5e1335812e3ff5bb3da7f25ba52da4fe"/>
+	</game>
+	<rom name="NM00012 - Time Crisis 3 [TST1].acgame" size="215" crc="856c151d" sha1="36778bc4412870a0fc5259927123a911d20a5f8a" md5="4449b7052d3aa67fdfa231c9575d0ef7"/>
+	<rom name="NM00012 - Time Crisis 3 [TST2 Ver. A].acgame" size="221" crc="0b694686" sha1="173e9ac3ad241ab0aa0a7591daa20a9986ae78a0" md5="1b67fca021a473a22f513aff7567d6db"/>
+	<rom name="NM00012 - Time Crisis 3 [TST3 Ver. A].acgame" size="221" crc="d4d9d0fa" sha1="1574da18ea0ad0947a6be7ad22571f0df3e46bf6" md5="970b1bd43dbae3788fc9c607f8fcbb7f"/>
+	<game name="NM00013">
+		<disk name="NM00013 ZGA1 DVD0 (DVD-ROM)" sha1="bcbe9428d13a0ce653c56b35690e020edac1dc96"/>
+		<rom name="NM00013 ZGA1, Ver.A a000001000039a.ps2" size="8650752" crc="b6a11f43" sha1="275fc13eada884e4cf4ba4adf2b51de3d438c647" md5="6c943044e4ce520005322b05000aafcd"/>
+		<rom name="proverb.elf" size="24804" crc="01114f64" sha1="9086905fdd9673bd3295dd3b03d5849bae759713" md5="fabc1f123b08c167a7ba01cd04e6d72e"/>
+		<rom name="title.txt" size="87" crc="62ef16b2" sha1="86302a8a728ffe72f7617e370fcc2feb747952af" md5="4c90be9d17a56b6d20c3a30e433bd3a4"/>
+	</game>
+	<rom name="NM00013 - Mobile Suit Gundam Zeta - A.E.U.G. vs. Titans.acgame" size="221" crc="f1c11afc" sha1="8941df3ff2c229981a0d6602647ca3386ffcdaff" md5="6faebc61f790895d5020555f2b9d7fea"/>
+	<game name="NM00014">
+		<disk name="NM00014 DGC11 CD0 (CD-ROM)" sha1="83cb305b8ac3443f032a82f9f80581c55115fd4c"/>
+		<rom name="NM00014 DGC11, Ver.A1 a025821183372a [Tower].ps2" size="8650752" crc="f57002a4" sha1="be5205294e7abde846b5eb926df6df0067449c6e" md5="4bfada71ec6a15908b10cbb2bbf38057"/>
+		<rom name="NM00014 DGC11, Ver.A2 a025821183936a [Station X].ps2" size="8650752" crc="fa7686c0" sha1="efe192b0b8f638dbdb3a345a27e4fee54581185b" md5="286f02cfd1e375f83dcd44e2c15ba635"/>
+		<rom name="NM00014 DGC11, Ver.A2 a025821185173a [Station Y].ps2" size="8650752" crc="d6d471ec" sha1="84a240a660e41c141d67b9f89f493dd2b4df08df" md5="f17262edaa99290d831cd5673137741e"/>
+		<rom name="proverb.elf" size="24804" crc="1d47711d" sha1="a4a57482d3d8ccbffc6ad1d51493d8658652e8c5" md5="9e7c22af32026292169101b46ec814fb"/>
+		<rom name="title.txt" size="81" crc="96bc0309" sha1="88dbdc45f70680a85fbb13a6507d84be09f7ed4f" md5="86d7f5472fdabe061ed8b0931d262ae9"/>
+	</game>
+	<rom name="NM00014 - Dragon Chronicle - Legendary Master Ark.acgame" size="227" crc="8450fb21" sha1="fe3f4e9a3841fa26768492cadb89aa5768578119" md5="beed56321ca4a651f9d8456dac4fb41e"/>
+	<game name="NM00015">
+		<rom name="NM00015 B3900074C, Ver.2.05J.ps2" size="8650752" crc="10075f9b" sha1="dc17d0c082fcf8489c0271eeb0175e6fa03341df" md5="11ede2d135541bc49293588b8ea2f621"/>
+		<disk name="NM00015 M9006066A, Ver.2.03J (HDD)" sha1="7b4d6a6e516e54f92a61cb5c1d4ef803328b85df"/>
+		<rom name="proverb.elf" size="24804" crc="09435936" sha1="8773ea2a711a68d598773f1895e75a3bbea9edb4" md5="05552a09c3a849943e780ad389e355a0"/>
+		<rom name="title.txt" size="61" crc="a7d24669" sha1="40d52d2ed8c94a6ca45e692d45c0cf3378713fd1" md5="f72bc744132b458a011aa81e9a9a443e"/>
+	</game>
+	<rom name="NM00015 - Battle Gear 3 Tuned.acgame" size="211" crc="2ecc32ef" sha1="d3d867da50da4429e9f15eff0ec4071a17d476e5" md5="8f14e9f3ed6df629c26259f10c48fbea"/>
+	<game name="NM00016">
+		<rom name="NM00016 B3900076A, Ver.2.06J [Terminal].ps2" size="8650752" crc="a54d87f0" sha1="7a1ff94bfdb3b6032d26d41eab3d4027a137d9d0" md5="83e3cda6b3dd7f78594d2423b1524db0"/>
+		<disk name="NM00016 M9006212A, Ver.2.06J (HDD)" sha1="8999c9951123b9e51d82547220efb3418ce0012c"/>
+		<rom name="proverb.elf" size="24804" crc="a8aae3c8" sha1="964cec0ca494d35018723f9ef9050b1463cd111a" md5="8921eaed62c5aa75b516a6108b30984c"/>
+		<rom name="title.txt" size="56" crc="a8d2cc2b" sha1="e924bc966d185c4a8d90fc7d6c5bf75f90e2ed1a" md5="c9ced0d6a142c538414dd2d8dd2feef5"/>
+	</game>
+	<rom name="NM00016 - Zoids Infinity.acgame" size="202" crc="7ee21deb" sha1="8eddf36730a4fc694caf8a5844584d5b7288740c" md5="1b6fdef0dcce49d9c11151878b328fbe"/>
+	<game name="NM00017">
+		<disk name="NM00017 ZDX1 DVD0 (DVD-ROM)" sha1="d66ecdbcfe36a0291bdb74733d7b2d2b3d379df5"/>
+		<rom name="NM00017 ZDX1, Ver.A a000003000012a.ps2" size="8650752" crc="fcba8146" sha1="ea31cd90bee812a156159ff99c2034a4ad223993" md5="e7a8c8d9a14b60784835d753e081f6a7"/>
+		<rom name="proverb.elf" size="24804" crc="3eb14284" sha1="76d586902ed426c212659f3091c625a0270f82cd" md5="4bcc52d1c9331034d3cf9c5071f79d60"/>
+		<rom name="title.txt" size="90" crc="5b3064d9" sha1="8820b9cce13c1a621455603d80c8748b422f2fab" md5="e8e9431d5d3a38f95866f7eb976fd69b"/>
+	</game>
+	<rom name="NM00017 - Mobile Suit Gundam Zeta - A.E.U.G. vs. Titans DX.acgame" size="224" crc="fff6005f" sha1="b93dd34b750dddd2e2fd01a739a1bbce7a5f9d57" md5="6706e3501e97ff19a734ab1c81ba27b8"/>
+	<game name="NM00018">
+		<disk name="NM00018 JAM1 DVD0 (DVD-ROM)" sha1="3f34f91b70675065dfc1792f78e278643d1d7623"/>
+		<rom name="NM00018 JAM1, Ver.A a000004000124a.ps2" size="8650752" crc="1348c76b" sha1="a13eb58896ef9f9328d6dc4048c7c591f58f7396" md5="ced56940f066a38ae1cfdf93dc8a08c9"/>
+		<rom name="proverb.elf" size="24804" crc="7d96f9ef" sha1="c7b69b27dc5dd800463c787177f4d960fa89dcc1" md5="b28e702cdf57ec98c2bcbccdf0a87930"/>
+		<rom name="title.txt" size="61" crc="007fdbca" sha1="92620eb0021e060bb7febec611ed8364be4c38c1" md5="6852fa75e94763a69c94f90c8b4ca46a"/>
+	</game>
+	<rom name="NM00018 - Capcom Fighting Jam.acgame" size="195" crc="67253c9c" sha1="97a43694e8520aa56e51f4cb77b79bbb98408634" md5="c02949d56b14e593833bbeb15e845a2f"/>
+	<game name="NM00019">
+		<disk name="NM00019 TE51 DVD0 (DVD-ROM)" sha1="9b2e1b2183e1703b4665362ddae0d547aae3178e"/>
+		<disk name="NM00019 TE51 DVD0B [Ver.5.1] (DVD-ROM)" sha1="b0bf39778b0a3d09f661749a0ab31d824e7cd444"/>
+		<rom name="NM00019 TE51, Ver.B4 a026051314505a.ps2" size="8650752" crc="76770d6d" sha1="f56c6cf54cec38bfb47ae5fdfd85f2cd420effa9" md5="a45a99f8139174880e8cfc9954ea31a8"/>
+		<disk name="NM00019 TE52 DVD0B [Ver.5.1] (DVD-ROM)" sha1="c2f65b58be63893e3a05aa156f1c87b65a286f06"/>
+		<rom name="NM00019 TE52, Ver.A19 a026051309270a.ps2" size="8650752" crc="df5fb2e4" sha1="864459df6647636032f8dd414a2b890bce27c1a2" md5="6e5107104cb97802de32e032d2ce9204"/>
+		<rom name="NM00019 TE52, Ver.B2 a026051309726a.ps2" size="8650752" crc="57539f69" sha1="9f6e340ac612dd02846ffc3c565ac95517dfd022" md5="7d6ec0498d75d2d2a5569aecf02de4bb"/>
+		<rom name="NM00019 TE53, Ver.A19 a026051307786a.ps2" size="8650752" crc="804cba1f" sha1="7cbffc42a7f4c0bc69295aad89cc8f7fa71a45ea" md5="0b9056d6ec12b7b7a6e17d2b4878a780"/>
+		<rom name="NM00019 TE53, Ver.B2 a026051307467a.ps2" size="8650752" crc="b6c77aa6" sha1="a9915cdc176da915c28712f3e7fd65bc4d03abdf" md5="b6b3b58734195d6735601c3ba4b73d51"/>
+		<rom name="NM00019 TE5L, Ver.B4 a026051313630a [Live Monitor].ps2" size="8650752" crc="abeae454" sha1="8052f9328c2c3bba28901439db9aae181ce43588" md5="ded0364a39d856bf4c0188f46b126fd9"/>
+		<rom name="proverb.elf" size="24804" crc="a458e68e" sha1="8c90d4f2eadcdae348927d03948ffebb1dfb9e83" md5="07a206e411eea464496dd27ebd7914c7"/>
+		<rom name="title.txt" size="50" crc="a819f786" sha1="6dbe10e095ef15348c3a6f20f1676c344e3634a7" md5="ca71fb629b824b8f742124049fa2d2be"/>
+	</game>
+	<rom name="NM00019 - Tekken 5 (TE51 Ver. B).acgame" size="199" crc="dae1e3ed" sha1="4b7aab97e59998d525a2da86cdba74059a78c0a8" md5="7feac0e26d03ad238b3cf818613e52f0"/>
+	<rom name="NM00019 - Tekken 5 (TE52 Ver. C).acgame" size="212" crc="dbdaed52" sha1="4a480b7ed7a86ea09599bbd7beb9b2159ed0803c" md5="a892aea5c6c0c9f08282e31061174d5d"/>
+	<rom name="NM00019 - Tekken 5 (TE53 Ver. C).acgame" size="212" crc="c67c6ed2" sha1="9aed97dd04ef7132907ac2375d10cf1e6de6f91f" md5="6bf154352f0f7e588bfef30de09e8e6a"/>
+	<game name="NM00020">
+		<rom name="NM00020 DCO01, Ver.A a026071304648a [Station].ps2" size="8650752" crc="e92af796" sha1="64623dc2f0fc098f1144b5b56543880e044d1920" md5="e25a4909614e008c409172b457ac245d"/>
+		<rom name="NM00020 DCO01, Ver.A a026071307061a [Tower].ps2" size="8650752" crc="f8b22597" sha1="5625afd99a2102297e1e15ffdea6e474848ef6b4" md5="b25d4403c2a5bf235e1a637b6ec7facf"/>
+		<disk name="NM00020 DCO1 DC0 (CD-ROM)" sha1="255cab3a520d9b02f7fdd063b06d1f7c86023e46"/>
+		<disk name="NM00020 DCO11-TS CD0  [Ver.2.10] [Station &amp; Tower] (CD-ROM)" sha1="ad2efdae57171bf2b665627fc226e4f4d678aca1"/>
+		<disk name="NM00020 DCO21-TS CD0 [Ver.2.11] [Station &amp; Tower] (CD-ROM)" sha1="e3d1909ffb19b9495117261c592fb6a23c1aad5c"/>
+		<disk name="NM00020 DCO31-TS CD0 [Ver.2.12] [Station &amp; Tower] (CD-ROM)" sha1="c8349f9207392b40432ca3703c71b5cbbb96f33e"/>
+		<disk name="NM00020 DCO41-E CD0 [Ver.2.90] [Entry Stage] (CD-ROM)" sha1="c8d95eacb66d12614dc4a5c50e2ab8bfc5dbc18b"/>
+		<disk name="NM00020 DCO41-TS CD0 [Ver.2.90] [Station &amp; Tower] (CD-ROM)" sha1="02f0979fe738aa76fb3771e865e032b186983b3b"/>
+		<rom name="proverb.elf" size="24804" crc="e90d6840" sha1="733d3cf7cb6222f08773b71c18491a01f8726c59" md5="019c11c5711807ee3a30ad20824a1245"/>
+		<rom name="title.txt" size="84" crc="3def5a67" sha1="df3b81bfb6f10cb938262ca1b3d9c27aeff526ec" md5="9c957f369cf9fdacc5ef33086731ec5a"/>
+	</game>
+	<rom name="NM00020 - Dragon Chronicle Online - Great Sky Battle.acgame" size="226" crc="2a827016" sha1="bc4a2ad8372588e18563686eb9b0fb5e95a2ae27" md5="7c112c7f0613940af5c8335a8ba8929c"/>
+	<game name="NM00021">
+		<rom name="NM00021 CBR1, Ver.B a026081331755a.ps2" size="8650752" crc="ca7b0277" sha1="06a68eed3a8f2ef0b712a09844483abcd4b380b7" md5="09e462a98cc5ecbc0b5c5f678b55ad5c"/>
+		<disk name="NM00021 CBR1-HA (HDD)" sha1="86e5550828c3f5df532f2f2a499f165441a89177"/>
+		<rom name="NM00021 CBR2, Ver.B a026081331195a.ps2" size="8650752" crc="0dbe6a26" sha1="cd3d548c771092678e47fa90ce2e68ebddb0434b" md5="a0c669403cbd3fb9b1182fc50dd096f5"/>
+		<rom name="proverb.elf" size="24804" crc="63b1bffd" sha1="660d631333f4d9bd59cfe78e59ed4d7de458c3e4" md5="5f0859aadada5907a3bca8bfda500442"/>
+		<rom name="title.txt" size="60" crc="883d7fcb" sha1="2ffbbe9db22da83b564b2ffbc20523723f456496" md5="addf3c57195dbb9961e3bc0c46bd7bf6"/>
+	</game>
+	<rom name="NM00021 - Cobra The Arcade (CBR2 Ver. B).acgame" size="201" crc="6529841d" sha1="a567138b1ccf7c38d285719eb5aeed154c79ac07" md5="ea2fc6cf554aded0553d39f80031127c"/>
+	<rom name="NM00021 - Cobra The Arcade.acgame" size="186" crc="0d35b32b" sha1="8cc32cd912aed0f1fc288e3352d31eccc793ce25" md5="f8f02a7e049d694e9dce7713f598bbea"/>
+	<game name="NM00022">
+		<disk name="NM00022 IDM1-HA (HDD)" sha1="45db3efb12cd467df852da3ede16a6de2e2077e4"/>
+		<rom name="NM00022 IDMS1, Ver.D a026061343464a [Station].ps2" size="8650752" crc="8490d335" sha1="525fd3a739498a872c779c46cd7000d9f980e668" md5="487811b0665d00e2dee5300412d63b46"/>
+		<rom name="NM00022 IDMT1, Ver.D a026061342184a [Tower] [Rebuilt].ps2" size="8650752" crc="37a823e1" sha1="4e8b4e6e0f165596f604cf5079d375ce921b882a" md5="687fe2feeea53ffb81c29183c3bdd887"/>
+		<rom name="proverb.elf" size="24804" crc="d10f8445" sha1="c48f53c826ed4d0720f42f3e60636bc22a8cb9ff" md5="8436ad166f6b1862acdc7b762e62d253"/>
+		<rom name="title.txt" size="56" crc="88173bc3" sha1="7f6b71942807fe34affd1767628c1220405ebf35" md5="b925fec5e07ecfd7c8c68b6284b0b440"/>
+	</game>
+	<rom name="NM00022 - The IDOLM@STER.acgame" size="195" crc="5e4c7f82" sha1="bf408ecda952cb1212b540cc1194918428f1b29d" md5="b487952395452c9cc1a8288181d241a8"/>
+	<game name="NM00023">
+		<disk name="NM00023 TK71 CD01 [Firmware Updater] (CD-ROM)" sha1="035eead2706da7d0dc221e5f6ac7bc2c0ed7f2c4"/>
+		<disk name="NM00023 TK71 DVD0 (DVD-ROM)" sha1="eabc7b670596c86936c64d0a8120445cd50600f6"/>
+		<rom name="NM00023 TK71, Ver.A26 a026031314920a.ps2" size="8650752" crc="b1f606ab" sha1="5b94793096477ddb2bf64e6857de83544ef99b6c" md5="85c22620d01d37757acfde0b8d3117b5"/>
+		<rom name="proverb.elf" size="24804" crc="25b4214c" sha1="4ddbb354b373da80b12362e42f3a9ff4785bf3af" md5="e04a242188477ed8fa77c4f3d55889a6"/>
+		<rom name="title.txt" size="61" crc="0f104481" sha1="d9c84248e13853ddae069336816062a43fe191ef" md5="e27c45519b38fb82cccfb3f467d5cd36"/>
+	</game>
+	<rom name="NM00023 - Taiko Drum Master 7.acgame" size="210" crc="0dfaed47" sha1="b924bf6bf927410802f4beb69826ad21a8fdcc5f" md5="92d324a824d051caff0a1b45fadd4f6e"/>
+	<game name="NM00024">
+		<disk name="NM00024 SED1 DVD0 (DVD-ROM)" sha1="964dac6ba5e65505e7be7387f5f5972a6e5a5191"/>
+		<rom name="NM00024 SED1, Ver.A a000005000349a.ps2" size="8650752" crc="7954ad38" sha1="776c2e1685da2ca6b14443f3fb008b1906bfaad7" md5="6927ebcf43fbd92413494634484ad361"/>
+		<rom name="proverb.elf" size="24788" crc="2ec449fe" sha1="0dcc91106cd33bceeb4b9cc497138f05e89da357" md5="490c611de6717a7d63b91bc92b3ce3bf"/>
+		<rom name="title.txt" size="91" crc="10d0e150" sha1="d2d62893765aded645d1d00ec4a18d469e26049f" md5="d6b6846df45b7786ee3d345506878277"/>
+	</game>
+	<rom name="NM00024 - Mobile Suit Gundam SEED - Federation vs. Z.A.F.T..acgame" size="225" crc="ce6df68d" sha1="90f8163cc3a0caa8b584600644fd303c6823259c" md5="a77eeb65ad9f1d1ac6c6e4b63966fdeb"/>
+	<game name="NM00025">
+		<rom name="NM00025 B3900107A, Ver.2.10JPN [Terminal].ps2" size="8650752" crc="f7fc52f7" sha1="4699ca049f32af06c6d1e851db881740ffb23894" md5="38320be6a92cb0ab1336b1efe8556b22"/>
+		<rom name="NM00025 B3900108A, Ver.2.10JPN [Vending].ps2" size="8650752" crc="79790b42" sha1="b75e1510ed1c8b40d8102fd2fad8990fa2747746" md5="273d69be426d7aafdb870680601ea1f6"/>
+		<disk name="NM00025 M9006907A, Ver.2.10JPN (HDD)" sha1="5f55efb576aa9c111a32eca1cc5f36bea56cdfd7"/>
+		<rom name="proverb.elf" size="24804" crc="b331df8a" sha1="90f26963581aee9a6765bc70f5fc6c71043bfa95" md5="5c4da737f583c1ae26e87745f0252633"/>
+		<rom name="title.txt" size="61" crc="169ebf74" sha1="dc94ce6a88041a91f049a69e46d3280ebc7caeef" md5="896a87000e08d75cc05b61d4687b769f"/>
+	</game>
+	<rom name="NM00025 - Zoids Infinity EX (Terminal).acgame" size="220" crc="978611d9" sha1="d27f853fdc6b89b1d090becc1d75f0e5fdc808de" md5="952040a4349a58aebbaac2e199a4b8d9"/>
+	<rom name="NM00025 - Zoids Infinity EX (Vending).acgame" size="218" crc="9ea79d6c" sha1="b9ab6c393f8dc7c2d2dd5e839be43f3010e393bc" md5="257c0155aa8873056804d8ed83d987ed"/>
+	<game name="NM00026">
+		<disk name="NM00026 TED1 DVD0 (DVD-ROM)" sha1="c69d23962e707fe8d0c46f38a359ba6a29f3ebb9"/>
+		<disk name="NM00026 TED1 DVD0B (DVD-ROM)" sha1="b56e010805c7b1b0aaf9ea86a098791a8a09707b"/>
+		<rom name="NM00026 TED1, Ver.A13 a026181328604a.ps2" size="8650752" crc="451eeb95" sha1="95b08fdb5a8b6a0d2604fdc647ff8ee0f3f3e21a" md5="935281cf602814f69f811b199ba191d8"/>
+		<rom name="NM00026 TED2, Ver.A9 a026181326404a.ps2" size="8650752" crc="4172e574" sha1="2af930d973cf0f7c564806f852d1e79fb312607c" md5="ca825f62272623d347669f8fff6ce505"/>
+		<rom name="NM00026 TEDL, Ver.A12 a026181330628a [Live Monitor].ps2" size="8650752" crc="3f5a821b" sha1="cd09dd68f3872c3ab1f7e1fe470380c93536c1fd" md5="b7b23c7b679893b15362ecc3099e01f9"/>
+		<rom name="proverb.elf" size="24804" crc="335e0931" sha1="f03c916e5a176acbf50f87c31b152877eaa39f8c" md5="7196245871b5924bed8c063013f669bb"/>
+		<rom name="title.txt" size="70" crc="2511cc25" sha1="689a5c1c50042f6ef5b9297c1cecf08052a50c6c" md5="af67f68eae9736e194f0dbc3d15bb8e7"/>
+	</game>
+	<rom name="NM00026 - Tekken 5 - Dark Resurrection.acgame" size="207" crc="700e106a" sha1="b863d8dbaf77ae85fddc931a37a08636f01857e1" md5="551146501d1a4de28c8d66730c77e5d2"/>
+	<game name="NM00027">
+		<disk name="NM00027 DB1 (DVD-ROM)" sha1="fc812d6d2e48c3ef226580253e50554c047efe18"/>
+		<rom name="NM00027 DB1, Ver.B a032720000518a.ps2" size="8650752" crc="c0a199d3" sha1="7f8c60cb19c29e80eb038ca0e8d7c0ec71256cf0" md5="8bf2948f1405863da3c194ef1448e09c"/>
+		<rom name="proverb.elf" size="24804" crc="57eaaa0f" sha1="f7f65cb075e39eb4629e014ae34b75a28bbeebbd" md5="a6877bae5b26888ffee16bb37883d3a4"/>
+		<rom name="title.txt" size="61" crc="8e3837a9" sha1="8dece5b35d4dfb330ebf27fd86710032d03f90a1" md5="af6824819957e9a13f088329a3e5b551"/>
+	</game>
+	<rom name="NM00027 - Super Dragon Ball Z.acgame" size="188" crc="beecc1aa" sha1="2f5fd9329f9dca836d88b6a1a6deb5d5c8608b47" md5="ec027e9fcc30d69de0a0ef3eef29704f"/>
+	<game name="NM00028">
+		<disk name="NM00028 DOL100-1-CT-MPRO-B [Ver.1.00] [Tower] (CD-ROM)" sha1="5d1da1864d65a75e22643160f2d906eec123087e"/>
+		<disk name="NM00028 DOL100-1-ST-DVD0-A [Ver.1.00] [Station] (DVD-ROM)" sha1="1bdb0494873bf88333b6b4c393fe38c063c79a7d"/>
+		<disk name="NM00028 DOL110-1-CT-MPRO-C [Ver.1.10] [Tower] (CD-ROM)" sha1="d5f5381699aee75c728d286badc36f42c8e0b15e"/>
+		<disk name="NM00028 DOL110-1-ST-DVD0-C [Ver.1.10] [Station] (DVD-ROM)" sha1="90851fc914d5cc7b776c6bd178d06095501f05a5"/>
+		<disk name="NM00028 DOL120-1-CT-MPRO-D [Ver.1.20] [Tower] (CD-ROM)" sha1="8c8103c71ecdbfa140837726191cc1079305d1b1"/>
+		<disk name="NM00028 DOL120-1-ST-DVD0-D [Ver.1.20] [Station] (DVD-ROM)" sha1="acafe703923e9785abc5ffe437cac36f42ad3f66"/>
+		<disk name="NM00028 DOL140-1-ST-DVD0-F [Ver.1.40] [Station] (DVD-ROM)" sha1="44a2ae61054318b1fc6713c17ce1a2cae72db9d2"/>
+		<rom name="NM00028 DOL1401-ST-F, Ver.F a026241356508a [Station] [Rebuilt].ps2" size="8650752" crc="cfa654d1" sha1="eb9ddba432c5b4f3b8784271e005228f1b95aad5" md5="0685ad18b692ef69b47706459f2ba959"/>
+		<disk name="NM00028 DOL150-1-ST-DVD0-G [Ver.1.50] [Station] (DVD-ROM)" sha1="2d8b71cceb2881fc64847d3b479dfcb7b0009a7f"/>
+		<disk name="NM00028 DOL160-1-CT-MPRO-H [Ver.1.60] [Tower] (CD-ROM)" sha1="88ae020ec886607d28094e5096471dbf1690777f"/>
+		<disk name="NM00028 DOL160-1-ST-DVD0-H [Ver.1.60] [Station] (DVD-ROM)" sha1="2636b5b882f746e4c35b3749f2e270676a9b7c4f"/>
+		<rom name="NM00028 DOL165-1-ST-I, Ver.I a026241387685a [Station].ps2" size="8650752" crc="45432fd8" sha1="6317b251fb125a1f1dc13460ce87128135a11232" md5="676641edda0a4f002b6d3bb2ed12f93a"/>
+		<rom name="proverb.elf" size="24804" crc="08d06651" sha1="43fdf297e4872d6988aa8ec6a187af5fc074dedf" md5="7c0a02443ee4343e54536b8a2b15d8e2"/>
+		<rom name="title.txt" size="74" crc="070103d4" sha1="3d2838c0c3d3b58d7b9aea6695cc04397f069869" md5="bcf815fc7fcc5d8d0218eeb4112eea71"/>
+	</game>
+	<rom name="NM00028 - Druaga Online - The Story of Aon.acgame" size="257" crc="d05bcc60" sha1="776b2f8e9f8c0c8c8452befeb6ffea332a459a62" md5="198f0b9a10cf1846b28f0c0de1d915df"/>
+	<game name="NM00029">
+		<rom name="NM00029 KN1, Ver.A a032730000575a.ps2" size="8650752" crc="39cc79d0" sha1="1d277fe3b9e2a0515edb57dbcf7cd9c26046a12a" md5="e18da0eb372f1cc02c1d29ba7ad80ea2"/>
+		<disk name="NM00029 KN1-B (DVD-ROM)" sha1="bcba0c0aa54119a6508a0fd8efeda9e367885c16"/>
+		<rom name="proverb.elf" size="24804" crc="df17764a" sha1="1e134d99cc252fa63b6104e0a5313a09de1ab968" md5="23506168d2681ccbf75a37cb735c9807"/>
+		<rom name="title.txt" size="70" crc="52ae346d" sha1="997749a08bb7fa574bbc1974d3be0e3bb5d60e30" md5="cdacccc5d19e437675568e496052f780"/>
+	</game>
+	<rom name="NM00029 - Kinnikuman Muscle Grand Prix.acgame" size="199" crc="3e39cc78" sha1="a53fca7488137c3005821d8b0f4d8ddb8cb8b4b0" md5="ef7ddbf99c28b744a31f2f24c8001abd"/>
+	<game name="NM00030">
+		<disk name="NM00030 QG1 (DVD-ROM)" sha1="5467dd4611eff0195495ab091de29e9d55e63a36"/>
+		<rom name="NM00030 QG1, Ver.A a032737000093a.ps2" size="8650752" crc="f8818112" sha1="8a684ddaab66a7333d79de94f27f483eb2b688f4" md5="af38b78a4ef7ea39904cb8fafb679a7c"/>
+		<rom name="proverb.elf" size="24804" crc="8cc40077" sha1="61305efad14b9abf7e33f3c97d73f6a75087461b" md5="79563bc5ed238fdb3d1d03c41f9c7917"/>
+		<rom name="title.txt" size="73" crc="0d67275a" sha1="056975ac337cc3dee1e9439b62810b924612743f" md5="cffca661bb63303943dd41507f8fffeb"/>
+	</game>
+	<rom name="NM00030 - Mobile Suit Gundam Quiz Warrior.acgame" size="200" crc="ec846c6a" sha1="836ad711f88f286c27ed94bdf0540ec0d5808712" md5="9534aa73f15bf043a478a9698798173f"/>
+	<game name="NM00031A">
+		<rom name="NM00031 SC31001-NA-A, Ver.A10 a026201337278a.ps2" size="8650752" crc="8f066ba9" sha1="cd21aefeb28df399f1d9892a782f6be581ea1104" md5="ce433a0dafca470b59e09c41d7bf2502"/>
+		<disk name="NM00031 SC31001-NA-DVD0-A (DVD-ROM)" sha1="cdb6924f3c2b300a26c0255684c3bd361ee3757c"/>
+		<rom name="proverb.elf" size="24788" crc="416377f1" sha1="9f7d0cbbd9026bee80aed3897ddfb4e5c2648042" md5="f9112c5748610da35086ccaeaf7e215e"/>
+		<rom name="title.txt" size="75" crc="ec33abbc" sha1="6309079aed5ec54fe81dfe6e93b0749b09760cfa" md5="98b6cdcee14933ac3ded1b70a0ff9758"/>
+	</game>
+	<rom name="NM00031A - Soul Calibur III Arcade Edition.acgame" size="226" crc="33dc16e3" sha1="94a650ca3c28c89d320a8f1e972bede95790f269" md5="d5a19d81a95d8c7e3ab7e591f05d5715"/>
+	<game name="NM00031B">
+		<disk name="NM00031 SC31001-NA-DVD0-B (DVD-ROM)" sha1="cdb6924f3c2b300a26c0255684c3bd361ee3757c"/>
+		<rom name="NM00031 SC31002-NA-A, Ver.A10 a026201337751a.ps2" size="8650752" crc="8f066ba9" sha1="cd21aefeb28df399f1d9892a782f6be581ea1104" md5="ce433a0dafca470b59e09c41d7bf2502"/>
+		<rom name="proverb.elf" size="24788" crc="416377f1" sha1="9f7d0cbbd9026bee80aed3897ddfb4e5c2648042" md5="f9112c5748610da35086ccaeaf7e215e"/>
+		<rom name="title.txt" size="75" crc="ec33abbc" sha1="6309079aed5ec54fe81dfe6e93b0749b09760cfa" md5="98b6cdcee14933ac3ded1b70a0ff9758"/>
+	</game>
+	<rom name="NM00031B - Soul Calibur III Arcade Edition (Rev. B).acgame" size="219" crc="4d417386" sha1="ff41d087999c4f88fe1b215d5223ad9722784be5" md5="8ae02446c84cfc26ecae445b8f26a78d"/>
+	<game name="NM00032">
+		<disk name="NM00032 TSF1-HA (HDD)" sha1="8ba7eec0d1add2192a115b295a32265c8d084aea"/>
+		<rom name="NM00032 TSF1001-NA-A, Ver.A49 a026161346974a.ps2" size="8650752" crc="7e866293" sha1="2679b38b15f82f3f207abc79c3e86ea1a88afb8a" md5="9620aae54cfddff8174a0885fcfe728d"/>
+		<rom name="NM00032 TSF1002-NA-A, Ver.A49 a026161340912a.ps2" size="8650752" crc="40a3ecae" sha1="d60572d376226c1cc11da54ac6e349934866cbd0" md5="f4239e38ceb4ca4eb01db60ace52146c"/>
+		<rom name="proverb.elf" size="24804" crc="2bb53538" sha1="34a37f878d8db60a144a74c3c2b595db158d17e1" md5="2e9024c99bbf01321ceb337b892a68d7"/>
+		<rom name="title.txt" size="55" crc="04b11b12" sha1="261037c5a7e6ec5c0b5fcaf2170d52befa72b5db" md5="35b8f3f8f3b3e108d13aa5827460fde6"/>
+	</game>
+	<rom name="NM00032 - Time Crisis 4.acgame" size="198" crc="b09171c5" sha1="5f342c97ed35105c4e7e50cd6c34da780aaab18a" md5="9ad242c9d46430a1c4851e02993836c1"/>
+	<game name="NM00033">
+		<disk name="NM00033 TK8100-1-NA-DVD0-A (DVD-ROM)" sha1="a06b32741b3eb61084d8176306005d08d36eb987"/>
+		<rom name="NM00033 TK81001-NA-A, Ver.A10 a026191334761a.ps2" size="8650752" crc="68e784d0" sha1="33fc3c46904b1035a098647198c754e957449f88" md5="1ec0b18c1fb236331e33be5432f48888"/>
+		<rom name="proverb.elf" size="24804" crc="17977dc0" sha1="f0e3a9b32b07f972a988c15de6f6eee5afe6ddac" md5="ce21b30c13f49f16fc2eda98446415d5"/>
+		<rom name="title.txt" size="61" crc="bf686aa9" sha1="1648635eeb7f12ac9d31e2f0a0005d0835f75d87" md5="1b5ed213d30323daa07a0fa2f6ef804e"/>
+	</game>
+	<rom name="NM00033 - Taiko Drum Master 8.acgame" size="227" crc="2329e650" sha1="9f35563d8d0a2e7f8fb90a0795c5976eb2201949" md5="5b4320f31827f633c578ea0a755889ff"/>
+	<game name="NM00034">
+		<disk name="NM00034 GSD1 DVD0 (DVD-ROM)" sha1="758f3ef3b051efaef310ee090d222e36653dfa82"/>
+		<rom name="NM00034 GSD1, Ver.A a000006000140a.ps2" size="8650752" crc="d56f3596" sha1="92fe926e449649d8375b51762ad186398691d3a6" md5="fa6d8db86f114076aa3891a83fcaf0e1"/>
+		<rom name="proverb.elf" size="24804" crc="efd51cd9" sha1="66bb2efdafce02dc796d4ef81e2bf257494fe4fc" md5="65746224e28b53ca536f4094904b639e"/>
+		<rom name="title.txt" size="102" crc="10a928ac" sha1="ff3b3b1909dee2cb3d9ec9c611bfd17bada3167a" md5="3cbe7f56055a00710f32eecb9b5eea22"/>
+	</game>
+	<rom name="NM00034 - Mobile Suit Gundam SEED Destiny - Federation vs. Z.A.F.T. II.acgame" size="236" crc="8d357213" sha1="e8802816bce031f56c7c913757ea54bb473abcdf" md5="5c9253c618b1ed160a4f0e3d92a12374"/>
+	<game name="NM00035">
+		<disk name="NM00035 YH1 (DVD-ROM)" sha1="b5ee66f8e6745cb13c919136f0a05e486e5e5a57"/>
+		<rom name="NM00035 YH1, Ver.A a032781000497a.ps2" size="8650752" crc="d985fc43" sha1="a4df626207a644ed15795f71f39c19385388a23a" md5="53d5bf321ec97585461c1ddc54d3652c"/>
+		<rom name="proverb.elf" size="24804" crc="bc2a49dc" sha1="b7eeb01df0589bc46330f24c2f14888a141ece04" md5="d80d7b032c599433dba93ea7c88c0824"/>
+		<rom name="title.txt" size="112" crc="8b8b247c" sha1="117b89735c5b549cf401d520971c6cf2334232a6" md5="089e713e674155a1c8d308cbe34e48a8"/>
+	</game>
+	<rom name="NM00035 - The Battle of YuYu Hakusho - Deathmatch! Dark Martial Arts Association.acgame" size="239" crc="1dec9482" sha1="318e93bb94a2a195a902c32d0fc4eebc1a102bf8" md5="f140ff012bbb9799a38f6a9b3e850ec3"/>
+	<game name="NM00036">
+		<disk name="NM00036 ZNT100-1-NA-DVD0-A [Ver.1.00] (DVD-ROM)" sha1="b5dd0b72bfdf6359b5020065afeef11c658e9ff8"/>
+		<rom name="NM00036 ZNT100-1-ST-A, Ver.A10 a026231357058a [Station].ps2" size="8650752" crc="b765cb34" sha1="b01e868d4fba317c215df1bbf921890e39066bcc" md5="d4f0aa57fe73ad1cd9ad0abb0a1e6a42"/>
+		<disk name="NM00036 ZNT150-1-NA-DVD0-A [Ver.1.50] (DVD-ROM)" sha1="cefe02dd8a5e02163e6805ea2c7991bc8fea26af"/>
+		<disk name="NM00036 ZNT150-1-NA-DVD0-B [Ver.1.50] (DVD-ROM)" sha1="32ea75c99515de445698725c1af7459bc28bf760"/>
+		<disk name="NM00036 ZNT160-1-NA-DVD0-A [Ver.1.60] (DVD-ROM)" sha1="47005b5c8af65113d0c644bab3805d7b02356990"/>
+		<rom name="proverb.elf" size="24804" crc="6150a7a7" sha1="b142a39aabdd31ff65bca4e2e4cf2dac36b2cb36" md5="4de9b85971a35f869e043034ea1c611e"/>
+		<rom name="title.txt" size="77" crc="178f28f5" sha1="3277161dd9b5421c2221f07af21e91d1945d31d3" md5="95ea238d3e25dec28e84d3f4751902e5"/>
+	</game>
+	<rom name="NM00036 - Whole Brain Training With Everybody.acgame" size="252" crc="f02abc17" sha1="60c245564c5500503c8c4f57a113d69338959a83" md5="52c14a1c1512ee217345901227cfb069"/>
+	<game name="NM00037">
+		<disk name="NM00037 HM-IN2 (CD-ROM)" sha1="4e457ebcdb4c370cf31fca6beceabbabe15f1454"/>
+		<rom name="NM00037 IN2, Ver.A a000001000371a.ps2" size="8650752" crc="7dfcdf45" sha1="1d29f4db511af35fca4f7db37d3c31e6c1c89d32" md5="bc4b330051f5b3715227a3cbb9f9e298"/>
+		<rom name="proverb.elf" size="24804" crc="8f75f324" sha1="34b0505ea8ffff2029fdaf1ffac4f1254c6be452" md5="0d36f995b92cc49224263eea012963b2"/>
+		<rom name="title.txt" size="93" crc="fe22dcec" sha1="21be714ebeaa454c4504b3d89e8dcae14f34894a" md5="6b0dcbd52df8ae161e7c2a4e30d3afee"/>
+	</game>
+	<rom name="NM00037 - Quiz &amp; Variety Suku Suku Inufuku 2 - More Suku Suku.acgame" size="221" crc="dcfa57aa" sha1="03cd66897c66df3aefeb5ec3a1bddf7025fbc795" md5="3bc6059889014ace4ac9bfc8b9f2859e"/>
+	<game name="NM00038">
+		<disk name="NM00038 TK9100-1-NA-DVD0-A (DVD-ROM)" sha1="aa5c1da6af2e4f6e5bade0385abfe9285d7e385a"/>
+		<rom name="NM00038 TK91001-NA-A, Ver.A07 a026221355175a.ps2" size="8650752" crc="b21f81c4" sha1="9c8c6d54bb5654ce68e3c156ef109308401c0317" md5="f47d1ddac2cbad5d976d44d510e9867c"/>
+		<rom name="proverb.elf" size="24804" crc="d3ae1506" sha1="eb551241a21624c5700ba319e0a2f0dbd827bb87" md5="691d27abcf34274dd7cf6e1cb848f2d0"/>
+		<rom name="title.txt" size="61" crc="57f2c84f" sha1="d40a34cfab2b152bac362e5d9fe0cebca447da9e" md5="711ee2ff50fd7e188a8de5abf8a6f261"/>
+	</game>
+	<rom name="NM00038 - Taiko Drum Master 9.acgame" size="227" crc="68c4e3ec" sha1="5a7d705c0484966c1bf27f002198b270331d7f51" md5="8a387f2965069a80b813296a6efa088c"/>
+	<game name="NM00039">
+		<rom name="NM00039 MGP1004-NA-A, Ver.A a026311362509a.ps2" size="8650752" crc="106783a7" sha1="ea2209fea0d7d881f58e99d6e04dfaf5fc50b57d" md5="7fe54784220a601528e330b7c72c40e2"/>
+		<disk name="NM00039 MGP1004-NA-HDD0-A (HDD)" sha1="2298597f0b56814161c56a1aeeb563d607ff2438"/>
+		<rom name="proverb.elf" size="24804" crc="2d03c751" sha1="dc1ebc5535794ce1bb225787bbbb52e8c81eaa7f" md5="0b60348efab5ba6df3cf9862125ad00a"/>
+		<rom name="title.txt" size="48" crc="6722bcdf" sha1="f5283e5132b0c14285929d9715e85651a1b2a60a" md5="92fbc11c08091d14582447418890ad7f"/>
+	</game>
+	<rom name="NM00039 - MotoGP.acgame" size="209" crc="43961bb9" sha1="0b69c4bc55d854a28dbb63fce933401542b9f316" md5="f2e4119cf51f16dba442ac3bc3e1dabe"/>
+	<game name="NM00040">
+		<disk name="NM00040 KN2 (DVD-ROM)" sha1="60a4443d511265d113bb8073d0b8f58fabad0040"/>
+		<rom name="NM00040 KN2, Ver.A a032917000301a.ps2" size="8650752" crc="2962e6e3" sha1="5db4903f59eb6b1dff2336475a23a5bc6568d1c3" md5="f171fe62a1120ff7af3c587148873387"/>
+		<rom name="proverb.elf" size="24804" crc="b5e31ac1" sha1="af155b29454141a0dd42f18d203245cdd1d94715" md5="b3956656446fdc788847949f77ae8e5f"/>
+		<rom name="title.txt" size="72" crc="9cffcfab" sha1="945606718e7cb128d01a6daa429a2663732818dd" md5="72ccc5c453db3db39e951ab46da145fa"/>
+	</game>
+	<rom name="NM00040 - Kinnikuman Muscle Grand Prix 2.acgame" size="199" crc="3ca03e3b" sha1="476e4af82d25c83f335e0c98083fe00c8deb7d04" md5="6d05df53ac1e9d43cdd1373a3fb631b6"/>
+	<game name="NM00041">
+		<disk name="NM00041 T10100-1-NA-DVD0-A (DVD-ROM)" sha1="7e2b466deced4c754f096b962fa8d85c5bfa1e0a"/>
+		<rom name="NM00041 T101001-NA-A, Ver.A09 a026301364921a.ps2" size="8650752" crc="c08228f7" sha1="e58abebfd88a3e0dd95c4483428c3d47b44aa2e7" md5="4d33c4796f2303ae51f886742767a6e7"/>
+		<rom name="proverb.elf" size="24804" crc="0eb6938e" sha1="b37b0d70626dc8df0020c9e8d270c3ecbf3ddbb1" md5="b38d06ea729fc28b067a86c68c9e8f82"/>
+		<rom name="title.txt" size="62" crc="5ac471f7" sha1="5327d6b00e49d5bd071552d9c61c5e5e44a25d04" md5="76a8baf62bdcf4a09230c703cc53629f"/>
+	</game>
+	<rom name="NM00041 - Taiko Drum Master 10.acgame" size="228" crc="dcc4f6e7" sha1="e012aee5c7398a4de350053b4bfbc11663f82e7d" md5="fb0dcdf4b1f5c144ed3afafafb1357b8"/>
+	<game name="NM00042">
+		<disk name="NM00042 BAX1 DVD0 (DVD-ROM)" sha1="e5045c49b1ea0a637c5fe71c76d9e23794650ee9"/>
+		<rom name="NM00042 BAX1, Ver.A a000008000334a.ps2" size="8650752" crc="28b3f9f5" sha1="0e57d8ae6cf0a3690f763d15b141a9d9d9b3de07" md5="2eed124f3756a0b24b3b7eff2cc32a39"/>
+		<rom name="proverb.elf" size="24804" crc="14c28d1b" sha1="91e4ab252d39d1dadfe04da972f4dd173ce6d515" md5="d0af2ce067eb090dd1e368880e12218a"/>
+		<rom name="title.txt" size="58" crc="e7c0eaac" sha1="ce4588de797eb63915b4e91be749223fb205219c" md5="e7886e7a548775eeecb9df5fe4cf9041"/>
+	</game>
+	<rom name="NM00042 - Sengoku Basara X.acgame" size="192" crc="9af52db1" sha1="039a3f9005aa6b0a423ba2292b7bbb7ad1b12345" md5="adc35107a31c0d1f27b984544c84764e"/>
+	<game name="NM00043">
+		<disk name="NM00043 GVS1 DVD0B [Ver.1.01] (DVD-ROM)" sha1="00f55df7a7e48b1a2d6eb6e02e3eb0e3b5b56053"/>
+		<rom name="NM00043 GVS1, Ver.A a000007000238a.ps2" size="8650752" crc="1f66e6b4" sha1="9264b71ab131405129bd3dd8452acaeee8fe1a8f" md5="d4bdf04951568584ebd8867a694e9a05"/>
+		<rom name="proverb.elf" size="24804" crc="da51f2c3" sha1="ed739399de188c1cec01951700cb750cec30a344" md5="758c50cdf302e9dbc22ecb459ffa660e"/>
+		<rom name="title.txt" size="80" crc="fc01a78b" sha1="1923b53393599e74fe2da7657a70c14b29e32b50" md5="3b649055d26ba4a848ce41a104ba3a35"/>
+	</game>
+	<rom name="NM00043 - Mobile Suit Gundam - Gundam vs. Gundam.acgame" size="226" crc="fef9f690" sha1="fc0af5c47da608b9c690cf313e2a0a2eeefd5dc6" md5="d2d53fd178d86d95a4ba60b1326a7192"/>
+	<game name="NM00044">
+		<disk name="NM00044 T11100-1-NA-DVD0-A (DVD-ROM)" sha1="5d06c17582db871a6430397e465914afbf1840a5"/>
+		<rom name="NM00044 T111001-NA-A, Ver.A09 a026371371887a.ps2" size="8650752" crc="dd40dc8b" sha1="815bfaa25fb87a9983dfb3b0136b025d514de0ee" md5="97bf44cf4d40c42b4d574a70220288d9"/>
+		<disk name="NM00044 T111ACD01 [Firmware Updater] (CD-ROM)" sha1="85635ca7c3228407388d413414bf824bf5e0cad8"/>
+		<rom name="proverb.elf" size="24804" crc="a7163587" sha1="d8c5bb7beca45635830a786f9d63ebf6f22f1183" md5="288cefde87b05ba3cff947033bfe4062"/>
+		<rom name="title.txt" size="62" crc="3f89c6b8" sha1="866e03620b0108d006ef437a17eee874c9a75b57" md5="9facfcee5f5fbcaa71d70b2c530eabcd"/>
+	</game>
+	<rom name="NM00044 - Taiko Drum Master 11.acgame" size="228" crc="288937f1" sha1="08b94e5b383a807a951f17d49c3ba73e877cedc9" md5="41f020bdc9b823433181e670eb8810fa"/>
+	<game name="NM00045">
+		<rom name="NM00045 (DVD-ROM).iso" size="776448000" crc="9e94c500" sha1="141a25045c950a58939bdaea89ed61a1071c3c0f" md5="3614fdc11e6c309ec1fef7063ef9826f"/>
+		<rom name="NM00045 (DVD-ROM).ps2" size="8650752" crc="f5c60ce5" sha1="49679e3931c9ae0d543422c468e221a27c221615" md5="eaa58e5a82c8696a9e197246998cc751"/>
+		<rom name="proverb.elf" size="24804" crc="6441c115" sha1="0d341fb27b31f0ec1e6ba6603247f9c73225ec28" md5="b7429ff84d06810b3a4282adac8fadbe"/>
+		<rom name="title.txt" size="77" crc="e354293c" sha1="79312e9afe35bb3c3ff4a0b54e8349d732b2f605" md5="db46d8d7e82c20cde5420df5ed35e2b6"/>
+	</game>
+	<rom name="NM00045 - Taiko Drum Master 11 Taiwan Edition.acgame" size="197" crc="40394183" sha1="594b3bbcda77b47faa4f2bf7f7174ac8d4770b79" md5="8d1cf2541806a7d78a2d53b94f90bc9c"/>
+	<game name="NM00046">
+		<disk name="NM00046 T11100-4-NA-DVD0-A (DVD-ROM)" sha1="08ca10824251c395d82a117bad21ea8d984be105"/>
+		<rom name="NM00046 T111004-NA-A, Ver.A10 a026381985006a.ps2" size="8650752" crc="bb07bca4" sha1="c6369389e54b60150b7376c81d2ca4c899fc855c" md5="4fbf2cfbbe1a0c39ae7d72bd7abf92ff"/>
+		<rom name="proverb.elf" size="24804" crc="f61e2547" sha1="2281b432a68007d19ebe3edd28fee44671b28970" md5="dd61ee1f342f97ef8283dbfabfb72917"/>
+		<rom name="title.txt" size="78" crc="3afd4fb4" sha1="7ed3066f141deb65bd1332e0aec79c347def1f04" md5="ecca39514a2d213c7f4454bf36cc1ef4"/>
+	</game>
+	<rom name="NM00046 - Taiko Drum Master 11 Asian Edition.acgame" size="242" crc="fb6fa3f7" sha1="ff9b503b14d007442e8567c64f95cb8bb17d2940" md5="5497ff7f320f184eae7a4015485e1a5a"/>
+	<game name="NM00047">
+		<rom name="NM00047 ADT1005-NA-A, Ver.A a026351090784a.ps2" size="8650752" crc="0bcadec4" sha1="3c7d7b89407332e9e3ed677a134ed3d1c3109b3b" md5="769ea3c6b79a97706ca896dcd2441537"/>
+		<disk name="NM00047 ADT1005-NA-HDD0A (HDD)" sha1="9df73a5ada38e6346fbfcc2890faf399110bdc4a"/>
+		<rom name="proverb.elf" size="24804" crc="c6c117b2" sha1="0e3e35cceeb98d3f30da6c8d055a33d31f9e165c" md5="b957e86a25affc4c5a23b0ab26064bef"/>
+		<rom name="title.txt" size="67" crc="048d090c" sha1="14d2cf43e4b5b24c2526bc9f34c195dde481dde3" md5="7fbbb2c0bbfef0c80102da97f56d7b48"/>
+	</game>
+	<rom name="NM00047 - Ace Driver 3 - Final Turn.acgame" size="227" crc="b701e359" sha1="afc35ab5aac752c60e39195d139bd70c66b4ea20" md5="1ea71cf4fb83b23907c8837b467420b8"/>
+	<game name="NM00048">
+		<rom name="NM00048 FUD1, Ver.A a000009000989a.ps2" size="8650752" crc="19a868ab" sha1="1ebec8326217732211abe95803a0436192694508" md5="0a19466598a657fcf1928bb6f921dfab"/>
+		<disk name="NM00048 FUD1-HDD0-A (HDD)" sha1="db4b2a23c91c240df9b339a3c3b863bbe935503a"/>
+		<rom name="proverb.elf" size="24804" crc="7a5e73a6" sha1="20bc40077d2212e1f3a68d92e6d803026ca2269c" md5="8170d6ba515fade7891b944b437faeeb"/>
+		<rom name="title.txt" size="64" crc="3dc16cb3" sha1="b91628ae3e6e0b35a2f291dac9686aa784dd0f30" md5="ea3bfd140cacaaec126928ba97900b56"/>
+	</game>
+	<rom name="NM00048 - Fate - Unlimited Codes.acgame" size="201" crc="f15afd15" sha1="2c6d7f5390b3bd83e79444fed5b030436c4c5661" md5="fe50d2d67e919b095d436db3fabba3fd"/>
+	<game name="NM00051">
+		<disk name="NM00051 T12-HA (HDD)" sha1="743623f3df3d79a33d4cde50fb4a647a285e3060"/>
+		<rom name="NM00051 T121001-NA-A, Ver.A07 a026431377843a.ps2" size="8650752" crc="75db1a56" sha1="e54984d2fb67a33409193fefcd16ba59dd634a93" md5="8088e1a5bc6a6b211d10af912d2f88dc"/>
+		<rom name="proverb.elf" size="24804" crc="66c6cae7" sha1="db26cdaffa5350fef6707194cd8eed7ce14ae6a1" md5="1811457ff58dd87b5b840b7626ab956b"/>
+		<rom name="title.txt" size="62" crc="529a8963" sha1="1b10ad28954afa7ab1c64c34be75fd503c1f8d50" md5="ec0882a5f29c228679f674ccbec38c02"/>
+	</game>
+	<rom name="NM00051 - Taiko Drum Master 12.acgame" size="212" crc="41534883" sha1="5fe1d267e5a174f27e3fbd7fc24d44e61e2a62e6" md5="c9b5bc39d3ea1e27b27432485c87359e"/>
+	<game name="NM00052">
+		<disk name="NM00052 GNX100-1-NA-HDD0-A (HDD)" sha1="cbe4d7477c81d4aeb54f2506ada93a76f21cc081"/>
+		<rom name="NM00052 GNX1001-NA-A, Ver.A a026521381793a.ps2" size="8650752" crc="96d3ad29" sha1="f2493c5edf7cf12037a8ba46742f33596325c616" md5="03311c9780a9c7b4147630ea576705eb"/>
+		<rom name="proverb.elf" size="24804" crc="779d080f" sha1="613e07d3d4087e2eb559854e9ae0bcae1a3fe656" md5="bca05fcf0899ec0cef8382e48d3415f6"/>
+		<rom name="title.txt" size="85" crc="38bda432" sha1="73bc7ee0b9e9a2cd6824cb959151cb39c2a4623d" md5="825fc86a5012e55046b96db9de9001c1"/>
+	</game>
+	<rom name="NM00052 - Mobile Suit Gundam - Gundam vs. Gundam NEXT.acgame" size="232" crc="ea7080f2" sha1="df723deb7312b7929757fa6c3ac4b7458d716c40" md5="5a5795ceb8cce3525294c17b6c8f788e"/>
+	<game name="NM00053">
+		<disk name="NM00053 T12100-5-NA-HDD0-A(TS832051 CA E)_t12tr1200_0000" sha1="cf92d1d21e648e0764fc041a96eefb200a52f73b"/>
+		<rom name="NM00053.ps2" size="8650752" crc="09f9ca4b" sha1="5dd2b2d434f84890446ff457a3350f529195dd14" md5="282b95d9be6cc24d7619e5be611f1427"/>
+		<rom name="proverb.elf" size="24804" crc="b29e7a09" sha1="6fe0f74aab060a6a04fbe76699a5e0bdafee3c49" md5="42a6ddc4098352ad86ab2c62e0ae3412"/>
+		<rom name="title.txt" size="77" crc="92a0e332" sha1="d4a7a69db0057182191fa921294c457c0f11cad8" md5="3928af6ec7ffe508055e3c1a4734dfa1"/>
+	</game>
+	<rom name="NM00053 - Taiko Drum Master 12 Taiwan Edition.acgame" size="226" crc="b2794b2d" sha1="0535a0bfd030ecc0e20cb4fc343e976e0c417893" md5="ee9b34ee26da8234cb7fc2e59aa84c14"/>
+	<game name="NM00054">
+		<disk name="NM00054 T12100-4-NA-HDD0-A (HDD)" sha1="a42342755ab2c12523e166921a017cbff1818494"/>
+		<rom name="NM00054 T121004-NA-A, Ver.A03 a026531386742a.ps2" size="8650752" crc="b4dd5b39" sha1="33ea4376dcbef5346c2634f86b8110670d8e88a6" md5="3ad2595065d454f3c6b9ce88dba8bede"/>
+		<rom name="proverb.elf" size="24804" crc="697d0d50" sha1="00d90bc74a3e3c8942ca82dc7295dc5b65c13536" md5="39e1cd8b218ecf09bd887c1367e0c8b8"/>
+		<rom name="title.txt" size="78" crc="cdb5d8da" sha1="3f638b16a963f098e72715dd584acdaacac928f6" md5="748d5016170bd56ef50b76a8fa45826f"/>
+	</game>
+	<rom name="NM00054 - Taiko Drum Master 12 Asian Edition.acgame" size="238" crc="6cc57702" sha1="11557a0c598b8875fc4f9b0670ad444f80e319bc" md5="e86d47f1ea5579c6535e47f38667f6fe"/>
+	<game name="NM00056">
+		<disk name="NM00056 T130-1-NA-HDD0-A (HDD)" sha1="aed27ba9eead9cd3c26634cb139318e16eaacc91"/>
+		<rom name="NM00056 T1301-NA-A, Ver.A02 a026581390084a.ps2" size="8650752" crc="dc616236" sha1="cd1c306af9992aa1ac97bc26eccfc72b482a4a63" md5="f8208e6f4b00f95bb1473bbb4b99d9e1"/>
+		<rom name="proverb.elf" size="24804" crc="a93ec875" sha1="5a9418fc76b87582bf07131bd54f18d815112b38" md5="ff78ccc1fb9b6cd01a1a9ffeed860544"/>
+		<rom name="title.txt" size="62" crc="4cb4e794" sha1="36dbc43a7c66b42541082bc085a5db659fe0f1f6" md5="c95d84b746c6e86be40421a7c67ed177"/>
+	</game>
+	<rom name="NM00056 - Taiko Drum Master 13.acgame" size="220" crc="4ec4a76e" sha1="9f4f095f33adb09e837d62cde6206c6e097d2d0b" md5="f34c18dfbfc9d91215a5e41b2722b4bd"/>
+	<game name="NM00057">
+		<disk name="NM00057 T14100-1-NA-HDD0-A [Ver.B02] (HDD)" sha1="a2b2c1f962f57794d757bbf0cc6eb6627349213f"/>
+		<rom name="NM00057 T141001-NA-A, Ver.A03 a026691392114a.ps2" size="8650752" crc="ea583187" sha1="9d99753e897a61c8e1cd2247a8a4e9fb1a18be6d" md5="598ce7b452bd1af42d6f71bb430621a0"/>
+		<rom name="proverb.elf" size="24804" crc="5f788b36" sha1="d10d47ce65c077823f69da07babe67c5f6af7b81" md5="03722015b81f83b824937edf3d0eca97"/>
+		<rom name="title.txt" size="62" crc="8d449d63" sha1="a0274c1ab8bbfec0f8565ce02b21871d420ec4a3" md5="178b95da82e13de2fb4068ef1df2c618"/>
+	</game>
+	<rom name="NM00057 - Taiko Drum Master 14.acgame" size="234" crc="ff50b61d" sha1="d5f16f8207cf244326be5fec17b8dddf41093c4b" md5="2a075aefba4a35cc6704a2ead9ce9d82"/>
+</datafile>

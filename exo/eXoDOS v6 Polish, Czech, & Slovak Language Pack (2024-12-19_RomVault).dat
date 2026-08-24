@@ -1,0 +1,271 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>eXoDOS Polish, Czech, &apos;s Slovak Language Pack</name>
+		<description>Mixed (Archive as File)</description>
+		<category>Computer</category>
+		<version>6.04</version>
+		<date>2024-12-19</date>
+		<author>eXo (dat by Eggman)</author>
+		<homepage>https://www.retro-exo.com/</homepage>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<romvault forcepacking="fileonly" />
+	</header>
+	<game name="Content">
+		<description>Content</description>
+		<rom name="eXoDOS_PLP_Metadata.zip" size="843638998" crc="81fe7d30" sha1="9ce514662503f4ee307a6aae3ed713c9525f6f40"/>
+		<rom name="eXoDOS_PLP_MetadataBasePack.zip" size="138668" crc="796d9146" sha1="fc143ff2982c85b489123a37e32de805a6a47c00"/>
+	</game>
+	<game name="eXo">
+		<description>eXo</description>
+		<rom name="!languagepacks/" size="0" crc="00000000"/>
+		<rom name="!languagepacks/install.bat" size="7910" crc="31475038" sha1="bc18f85e314afbc99a537d9a89404e223dfc7469"/>
+		<rom name="eXoDOS/" size="0" crc="00000000"/>
+		<rom name="eXoDOS/!polish/" size="0" crc="00000000"/>
+		<rom name="eXoDOS/!polish/1939 (1997).zip" size="1062833" crc="948781b4" sha1="8c2ff533f58b61496da7676e52a6e1856528dae8"/>
+		<rom name="eXoDOS/!polish/3 Skulls of the Toltecs (1996).zip" size="151332873" crc="493c5547" sha1="25a2bedb93cdfcb85432ab7c032f716576a65279"/>
+		<rom name="eXoDOS/!polish/3x Logic Games (1993).zip" size="1454883" crc="a8d54c2d" sha1="0ab97ce23c96e7b761b4946f88a4e5ad6bebcaa3"/>
+		<rom name="eXoDOS/!polish/5 razy 5 (1995).zip" size="87260" crc="dedb78d2" sha1="e37ff8fa4e55824b6da87fae782426ab4e3dbee1"/>
+		<rom name="eXoDOS/!polish/5 x 5 Wygrajmy razem (1996).zip" size="37721" crc="6d625a17" sha1="4c765c3f6fcdd224ca0d30e9fd02f981ea6e373f"/>
+		<rom name="eXoDOS/!polish/7 dni a 7 noci (1994).zip" size="4166302" crc="31eb0dfd" sha1="480ac62e4a0a663b0be4c0f30d7547c706a5346d"/>
+		<rom name="eXoDOS/!polish/A.D Cop (1997).zip" size="443939432" crc="39c574f2" sha1="7bd987b16509b9f4825d90be75f1c0a764b81c52"/>
+		<rom name="eXoDOS/!polish/Anatema - Legenda o prekliati (1995).zip" size="1000350" crc="5465fe9c" sha1="1345653acb25ec541d66ac710f8bbec13a98d6a2"/>
+		<rom name="eXoDOS/!polish/Arbiter (1993).zip" size="143157" crc="bd0abaea" sha1="6d3f85bd8cf389815d8d4a787d1b1ccb3396d837"/>
+		<rom name="eXoDOS/!polish/Ardeny (1994).zip" size="1553764" crc="604ad50a" sha1="eb1697ac15a10876d7e07a802889cd5c8a947ac3"/>
+		<rom name="eXoDOS/!polish/Arnie 2 (1993).zip" size="360025" crc="e4e5f92d" sha1="53e7056536b415406ad045c5c56e90cc80567279"/>
+		<rom name="eXoDOS/!polish/Asmodeus - Tajemny kraj Ruthaniolu (1996).zip" size="501614243" crc="ce735900" sha1="2857266cec23add89216768fecb541e3a4be92fb"/>
+		<rom name="eXoDOS/!polish/Asteroid Fighter (1998).zip" size="25850" crc="c1a3f265" sha1="dd115c6830aa2b1258fae42aa883a2aebe20dea1"/>
+		<rom name="eXoDOS/!polish/Attax (1997).zip" size="89826" crc="09b8998c" sha1="10690dc213027b7360f6f5e3126838c18d8f92fa"/>
+		<rom name="eXoDOS/!polish/Ball (1998).zip" size="11237" crc="538c7f1f" sha1="f6db25465918049701c1a078e067852487dfc285"/>
+		<rom name="eXoDOS/!polish/Bastion (1996).zip" size="7719438" crc="6b80bc49" sha1="40a7b8cbf798f8d8b72f69cfb438c02f11c19b02"/>
+		<rom name="eXoDOS/!polish/Battle Isle 2 (1993).zip" size="268032162" crc="c61a38e3" sha1="8a59715a645d889cfc1f24bacec56c8159c89a56"/>
+		<rom name="eXoDOS/!polish/Belegost (1991).zip" size="32192" crc="6377ec4b" sha1="54cd10b166cf3837dfad7e18eef8c0f1f01357f7"/>
+		<rom name="eXoDOS/!polish/Bilionerzy ActionMagTV (2003).zip" size="22966" crc="83b2acb7" sha1="8ca417764ad1cd140eccb9622b79fd467243ad39"/>
+		<rom name="eXoDOS/!polish/Bity (1998).zip" size="8685" crc="21d35f04" sha1="9ab0f74f07f83ae1a25f638fd378b785464c13bc"/>
+		<rom name="eXoDOS/!polish/Block (1999).zip" size="85930" crc="306133a6" sha1="e631bf2f860cb6bb93219318767538a9c71c51eb"/>
+		<rom name="eXoDOS/!polish/Bloodie (1998).zip" size="1059617" crc="ce15d698" sha1="dc87802b8e7c84e99c266dc2c9a0d6967375014d"/>
+		<rom name="eXoDOS/!polish/Bludiste (1993).zip" size="9091" crc="e5397896" sha1="59a8ca37edcc209f3a80e39bd0d2f8c5bcc36ced"/>
+		<rom name="eXoDOS/!polish/Bludnik (1994).zip" size="30868" crc="f04c9736" sha1="2e0ff3ebe2248be1e6e28a99498ec9c51866abef"/>
+		<rom name="eXoDOS/!polish/BOB (1998).zip" size="292353" crc="a23148ba" sha1="65baed78e13bf2b883bee093808efbb08afbc616"/>
+		<rom name="eXoDOS/!polish/Body Slam All-Star Wrestling (1995).zip" size="1234647" crc="313e9822" sha1="04aa76b8236d4313e443f47952ada6669ec90597"/>
+		<rom name="eXoDOS/!polish/Bombki (1999).zip" size="84261" crc="9fc95e47" sha1="ffa89890dd3b0a2da99022924aaad4d52b11016e"/>
+		<rom name="eXoDOS/!polish/Boovie (1998).zip" size="5918077" crc="55d7eadf" sha1="d6ed8afb2819244be4b485a2837bfeb25479104b"/>
+		<rom name="eXoDOS/!polish/Bounce2D (1996).zip" size="23159" crc="06bd148a" sha1="36b26fa776b7f9df4791be6bd4f2584b31ff9d53"/>
+		<rom name="eXoDOS/!polish/Bubliny (1997).zip" size="847409" crc="2379a429" sha1="810d749851bc8f0305d09b6c6d5e1b6f88424152"/>
+		<rom name="eXoDOS/!polish/Bud Tucker in Double Trouble (1996).zip" size="574645397" crc="3422ef10" sha1="e1122bab5b74be869b423a22593d33fd3fb49ca7"/>
+		<rom name="eXoDOS/!polish/Bug Killer 3D (1998).zip" size="154017" crc="76c0eddc" sha1="d5c06f41da6089b2aa49812696c61226042ea869"/>
+		<rom name="eXoDOS/!polish/Chemik (1998).zip" size="28715" crc="c2ec1d51" sha1="c4fcf5e3b302f29fd1a08982e7c99fbec7618a79"/>
+		<rom name="eXoDOS/!polish/Clash (1997).zip" size="594284786" crc="4842f286" sha1="c50d55d2c364ae1954285248028118e180c90506"/>
+		<rom name="eXoDOS/!polish/Clovece nehnevaj sa (1996).zip" size="50157" crc="b4858f8f" sha1="508772500f84310423a9c0f19eaea2f3d5a37fa7"/>
+		<rom name="eXoDOS/!polish/Clovece nezlob se! (1990).zip" size="44836" crc="df046a5c" sha1="62aeca57baf64ded0d0187a8c786f6bb0206366b"/>
+		<rom name="eXoDOS/!polish/Command Adventures - Starship (1995).zip" size="9689287" crc="c876894d" sha1="eef4901c910ba589ad8580eb80a37e6a0d819478"/>
+		<rom name="eXoDOS/!polish/Cordat Core Wars (1993).zip" size="144854" crc="fb89b448" sha1="8869e8ebe0b0b38be99cda8b0120640e3a331917"/>
+		<rom name="eXoDOS/!polish/Course (1998).zip" size="952756" crc="ff926080" sha1="22fd4e52f41a252d32d7a2ece5a1814f184abb6c"/>
+		<rom name="eXoDOS/!polish/Deep Water (1998).zip" size="128852" crc="f4c988d5" sha1="8bc156bb11e7a300b1d9f5a69b1fa868624d0537"/>
+		<rom name="eXoDOS/!polish/Deep Water 2 (1998).zip" size="43255" crc="cfb8973b" sha1="741ea49519935c683a8d2a5f55d36c82cd3209d3"/>
+		<rom name="eXoDOS/!polish/Deluxe Ski Jump (2000).zip" size="607328" crc="3af078b7" sha1="89b519d2d29a0052cd4b6aa3ccb6d26158d72b04"/>
+		<rom name="eXoDOS/!polish/Destruction Derby 2 (1996).zip" size="656340265" crc="7af52b56" sha1="f06bf5ad3c31167063b495123b67f31ab6672051"/>
+		<rom name="eXoDOS/!polish/DET (1996).zip" size="401757" crc="f9463476" sha1="30cdbaa907a2e02060854dc9efbcc665e7b08bdb"/>
+		<rom name="eXoDOS/!polish/Deus (1996).zip" size="126872362" crc="7afd62d3" sha1="6c894ed065e88764135fc7b357b1f9ad1e67a0a4"/>
+		<rom name="eXoDOS/!polish/Dionakra (1998).zip" size="4039" crc="2b02ac08" sha1="8c1a669e5f0dfeb017e6d10bf04ac0a9d1f3aa0e"/>
+		<rom name="eXoDOS/!polish/Dragon History (1995).zip" size="105807872" crc="e1bc7ae8" sha1="35bb59a139cf8ddcc89af42bbd48590f7c1e66ae"/>
+		<rom name="eXoDOS/!polish/Duke Nukem 3D (1996).zip" size="12827477" crc="a3ff0a63" sha1="98752f05aa583c65ce7fca70730f5b93c2136585"/>
+		<rom name="eXoDOS/!polish/Dune (1992).zip" size="1784800" crc="6c6c6dbb" sha1="b36dfeb508beb99e6027b9945fe3c45410381110"/>
+		<rom name="eXoDOS/!polish/Dungeon Keeper (1997).zip" size="631839088" crc="bb4fddbc" sha1="a21a8679447f197e4845a7aa23dc5674a5822785"/>
+		<rom name="eXoDOS/!polish/Earth 2140 (1997).zip" size="594769344" crc="e0f2c092" sha1="afe7d6a6795348c4151822477c8aaeecfbf50dc1"/>
+		<rom name="eXoDOS/!polish/Ecstatica 2 (1996).zip" size="521613798" crc="6ecae889" sha1="1d4a1f57ae3c0855dd5089e4242906987f68f7bf"/>
+		<rom name="eXoDOS/!polish/Eksperyment Delfin (1996).zip" size="3786458" crc="4c63d1fa" sha1="7b766ab801c4c0c6440d42ddce1f084ed07e67ee"/>
+		<rom name="eXoDOS/!polish/Epic Pinball - The Complete Collection (1995).zip" size="2238302" crc="611af57a" sha1="767656e00c397dac36ac9a4715bca2c2e1624007"/>
+		<rom name="eXoDOS/!polish/Extreme Assault (1997).zip" size="778678698" crc="58883253" sha1="e0eaa0b0c33b0200f89d5005ea4f46a74fecdbaa"/>
+		<rom name="eXoDOS/!polish/Factory (1999).zip" size="109169" crc="0074523f" sha1="834e02e3a9ac72715119a8254db559be0ef63ab4"/>
+		<rom name="eXoDOS/!polish/Fallout (1997).zip" size="1197460862" crc="5e12e45e" sha1="309233e2cf144999fbb1fe00c45f183979db66d3"/>
+		<rom name="eXoDOS/!polish/Fight (1999).zip" size="312078" crc="a926b9b1" sha1="edb8ac5e8d4fd08452085d415a95719d3a4b85a1"/>
+		<rom name="eXoDOS/!polish/Figurki-Rytmy-Literki (1993).zip" size="139050" crc="44792035" sha1="81d10806bb51a866711ff70027eb5461ffab6c9d"/>
+		<rom name="eXoDOS/!polish/Foka Sylabinka (1995).zip" size="1541395" crc="46f45566" sha1="6c1112330c9e778cc6c4eb2b6e2f202640529c49"/>
+		<rom name="eXoDOS/!polish/Gambler (2013).zip" size="255461" crc="b4c2e7d8" sha1="e29e1bbc522f29ce80ddcfd3fe368bf6315872b4"/>
+		<rom name="eXoDOS/!polish/Gardner (2014).zip" size="39161" crc="e888a4db" sha1="922294d36ee3719d7f8bd3b3c41809aa68a012cd"/>
+		<rom name="eXoDOS/!polish/Gierka (1998).zip" size="81622" crc="9ef2d96a" sha1="442ced74b9dc3471303de4631d11ddb3267dc69e"/>
+		<rom name="eXoDOS/!polish/Glizdus (1997).zip" size="7309" crc="797e0b3c" sha1="943a1e035b6acc1e198af26378662398f626e50f"/>
+		<rom name="eXoDOS/!polish/Glog (1997).zip" size="67104" crc="cce4ef2f" sha1="cfabe0693b0f2800d25ad3ac98df75fd2a9c6846"/>
+		<rom name="eXoDOS/!polish/Gobliiins 1 (1991).zip" size="305738159" crc="1a16eb69" sha1="67feb1e16bdcb3f969f2e3f7038f43f5ab99b4a9"/>
+		<rom name="eXoDOS/!polish/Gobliins 2 (1992).zip" size="312659441" crc="713d41b2" sha1="708faa3c9f9b888831bf9d454d1743523d36036c"/>
+		<rom name="eXoDOS/!polish/Gorillas - The Deluxe Edition (2007).zip" size="340953" crc="43f6beb5" sha1="971096e2a61c948a5a2e43f31b6ae6bd437e9265"/>
+		<rom name="eXoDOS/!polish/Gustaw (1994).zip" size="86629" crc="0eb76e9b" sha1="3dfdda3640a2700ef756319981d75d26a3436db3"/>
+		<rom name="eXoDOS/!polish/H01 (2015).zip" size="699641" crc="7e254134" sha1="3d4373782ba68652cf17a6d56d20adca954a748a"/>
+		<rom name="eXoDOS/!polish/Harold&apos;s Mission (1995).zip" size="3154113" crc="f1886667" sha1="ade272f90718cd5a0249b84f0ff3f3c64a25b739"/>
+		<rom name="eXoDOS/!polish/Heartlight (1994).zip" size="568381" crc="1e1392ce" sha1="35d18a2a8d3991f8ea62febbaffeccc328bc3baa"/>
+		<rom name="eXoDOS/!polish/Honzovy Sachy 1200 (1997).zip" size="221194" crc="48850541" sha1="29544842feb43b321fe8fa68a01d3692eaaded40"/>
+		<rom name="eXoDOS/!polish/Horke Leto (1998).zip" size="225665676" crc="0eba203d" sha1="22d6a5c9ea551b9c5a781c575d8f50d7ad62c732"/>
+		<rom name="eXoDOS/!polish/Husita (1997).zip" size="423616203" crc="ca3af662" sha1="b74c79d3233cabbdabf84c9e287b2d5ed4e2e83e"/>
+		<rom name="eXoDOS/!polish/Imperium Galactica (1994).zip" size="1001006" crc="f053dba6" sha1="68f960ec2f4e5b956fb0e9b645f811e35c213329"/>
+		<rom name="eXoDOS/!polish/Inwestor (1996).zip" size="450984096" crc="98f2a629" sha1="461351f86568c187c18441448fa2be6b8ed1bc40"/>
+		<rom name="eXoDOS/!polish/Jack Orlando (1997).zip" size="479927166" crc="d51f4577" sha1="aaee412576933229ed6acad5f4b1fb6f0dc3d7d1"/>
+		<rom name="eXoDOS/!polish/Kajko i Kokosz (1995).zip" size="218541961" crc="5fcd9817" sha1="14f0fcd99d1cbe473768f4e3045d88cc07a6ac9a"/>
+		<rom name="eXoDOS/!polish/Kajko i Kokosz - W Krainie Borostworow (1997).zip" size="634715722" crc="cb0fe428" sha1="707510f126f520ff83e681188e7ad6b3b1f0b6ea"/>
+		<rom name="eXoDOS/!polish/Karuzelada (1993).zip" size="67405" crc="0e59eaf3" sha1="6d3b2147ec9367ff14effbeb393ae6eb2baa3858"/>
+		<rom name="eXoDOS/!polish/Katharsis (1997).zip" size="1101967308" crc="3132515c" sha1="a702b12682d5e7e6e77c814b51df35e89d8bacc8"/>
+		<rom name="eXoDOS/!polish/Kiler Elektryk (1999).zip" size="25687" crc="569d5ecd" sha1="b66f5efb3e0412eddea9ffd94dfe6b6c24f02649"/>
+		<rom name="eXoDOS/!polish/King&apos;s Quest V - Absence Makes the Heart Go Yonder (1990).zip" size="9180099" crc="7a1467a8" sha1="3b1398142ec941658ad0b8104bb54615982bacf0"/>
+		<rom name="eXoDOS/!polish/Klawiatura &apos;98 (1998).zip" size="51464" crc="d39467d6" sha1="f30e6e241a11f8d9acd61c8155400630d1be2c1c"/>
+		<rom name="eXoDOS/!polish/Kolo Fortuny (Techland Soft)(1992).zip" size="67636" crc="f49f6ee2" sha1="efabf50947a4590ff87299075924eda04dbe7367"/>
+		<rom name="eXoDOS/!polish/Kolo Fortuny (Wagonsoft)(1992).zip" size="47455" crc="03017522" sha1="5e75bdf872e8ec797bd487107d1267cb6df27766"/>
+		<rom name="eXoDOS/!polish/Kosmos (1995).zip" size="4124057" crc="a858f0bf" sha1="0c5734bfa8fc7b957cd3c85a0c06d6a92b64b2f0"/>
+		<rom name="eXoDOS/!polish/Kto Spotka UFO (1994).zip" size="146694" crc="3b57dac6" sha1="665a9a39666a82e5a2a4ef70a609d61dce85e13f"/>
+		<rom name="eXoDOS/!polish/Kwadraty (1997).zip" size="27818" crc="d2ea1767" sha1="772fcf3933c578267b7b836106c99ae0bff05486"/>
+		<rom name="eXoDOS/!polish/Lazarus (1997).zip" size="3312675" crc="275f4abc" sha1="f7d356971d2bd2ff992da2eecc7ed71dc623011c"/>
+		<rom name="eXoDOS/!polish/Legend of Kyrandia Book 2 - The Hand of Fate (1993).zip" size="67155081" crc="c8174ce1" sha1="708fe2b7709fc20f17a883a975704caceda823ff"/>
+		<rom name="eXoDOS/!polish/Leisure Suit Larry 1 - Land of the Lounge Lizards (1987).zip" size="298057" crc="1565c586" sha1="5994cf5143a9ae9f1dbf28145f555d1453a4fc2e"/>
+		<rom name="eXoDOS/!polish/Leisure Suit Larry 1 - Land of the Lounge Lizards VGA (1991).zip" size="2612640" crc="a51aa772" sha1="f1f386561fcd891103f80a1e5b486ee00de36dc7"/>
+		<rom name="eXoDOS/!polish/Leisure Suit Larry 2 - Goes looking for Love in Several Wrong Places (1988).zip" size="1840804" crc="fe4d324d" sha1="85ece374127e98e7ed6f8d8a187078b6761a6fe7"/>
+		<rom name="eXoDOS/!polish/Leisure Suit Larry 3 - Passionate Patti in Pursuit of the Pulsating Pectorals (1989).zip" size="2376877" crc="578888c0" sha1="caed71f3e345f377b61fa78b7f7132f76b816caf"/>
+		<rom name="eXoDOS/!polish/Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work (1991).zip" size="7788895" crc="29dfa7da" sha1="5225550af855542b2ebecc99ae647b0d0f3792bd"/>
+		<rom name="eXoDOS/!polish/Leisure Suit Larry 6 - Shape Up or Slip Out (1993).zip" size="444793529" crc="8265039b" sha1="7c06f48a9b74f0b9d492665bc31148e3e245b4d2"/>
+		<rom name="eXoDOS/!polish/Leo - Zhava cisla (1996).zip" size="1944152" crc="dbb6f8a0" sha1="2740626b9dc6febfac21090bd3ce8865cb3ce913"/>
+		<rom name="eXoDOS/!polish/Leto s Oskarem (1998).zip" size="268840902" crc="a07440c0" sha1="587589645109b07b9552be7e91c57cb133ff4577"/>
+		<rom name="eXoDOS/!polish/Liczby (1999).zip" size="64745" crc="9da26f2d" sha1="1ca5fc7d64705bd89478616c81d97bb57b8639bc"/>
+		<rom name="eXoDOS/!polish/Liczyskrzaty (1995).zip" size="319007" crc="0b0f3efa" sha1="b302eecfe7873e119a7d7fd623415ae33a60c5f6"/>
+		<rom name="eXoDOS/!polish/Liga Polska Manager &apos;95 (1995).zip" size="1717694" crc="2640434e" sha1="55d645987fdbb5bb6eff22099dbd69a5457f3eb5"/>
+		<rom name="eXoDOS/!polish/Literki - Cyferki (1993).zip" size="3950420" crc="36029ff9" sha1="05f1140551ffe32a7ee4798c541451d169937290"/>
+		<rom name="eXoDOS/!polish/Lurid Land (1997).zip" size="24141872" crc="614c2507" sha1="5828616e4a9f22b5c9bc43e027353f3da0178913"/>
+		<rom name="eXoDOS/!polish/Magiczne Karty (1993).zip" size="1116220" crc="117a78fe" sha1="82f68572731c2b7383c49cd7bf12865ad41888ea"/>
+		<rom name="eXoDOS/!polish/Mala Ortografia (1992).zip" size="634547" crc="95deaa29" sha1="c8ad934ead5eb05b66419233149c31552037d8c1"/>
+		<rom name="eXoDOS/!polish/Maluj (1994).zip" size="87108" crc="d0b1e943" sha1="b35006bd6c78b241d377feb3ebff7773f13cf550"/>
+		<rom name="eXoDOS/!polish/Matemol (1996).zip" size="50968" crc="c987aab2" sha1="446734ec5b8263b4b26d492bc08ce885140d5fdf"/>
+		<rom name="eXoDOS/!polish/MatMis (1994).zip" size="594133" crc="45aefe07" sha1="9132cef1d95976fac8a95a4042d745b1c1416470"/>
+		<rom name="eXoDOS/!polish/Mavlin - Vesmirny unik (1994).zip" size="551482" crc="127c3c70" sha1="a45258ff77348ac57f2a162f5dd77f1f07f59ef2"/>
+		<rom name="eXoDOS/!polish/Max Rubin (2000).zip" size="117838" crc="4654eb1d" sha1="aafa11a6c0c6cc9c19e755148dc18fadd5043453"/>
+		<rom name="eXoDOS/!polish/Max Stow (1995).zip" size="70108" crc="3a76d635" sha1="63396b977e45fcb3ff417a85e00de27a9c07341d"/>
+		<rom name="eXoDOS/!polish/Maze, The (1998).zip" size="155145" crc="0628ead7" sha1="103b2059a6eeb3e5a11e3c80674ea6691efb2071"/>
+		<rom name="eXoDOS/!polish/MDK (1997).zip" size="206055409" crc="4a4adc03" sha1="c7eeae1fcd06cb8aa11db5dbcbef6ca3a88e7f7c"/>
+		<rom name="eXoDOS/!polish/Mechanik - Symulator Pociagu EN57 (1997).zip" size="1718186" crc="60782b58" sha1="3b79c50901c700028bde601aba740c049a03150e"/>
+		<rom name="eXoDOS/!polish/MegaTris (1996).zip" size="678393" crc="7430ffa1" sha1="6e703d532936d770ecf9995983cc1fdced5c01a3"/>
+		<rom name="eXoDOS/!polish/Menadzer Zuzlowy (2001).zip" size="948225" crc="33fd6a63" sha1="4bca87dcf221f2936e7fac3e0aec1fcd73b0f1ac"/>
+		<rom name="eXoDOS/!polish/Milknuts (2011).zip" size="24543" crc="f13a4856" sha1="b86ca218923effe439c576c4309d0ade74a8c26a"/>
+		<rom name="eXoDOS/!polish/Mise Quadam (1995).zip" size="2250449" crc="1a2fd52a" sha1="2da5b3f8ab6cb1e612073cd3cf4c48b0559f370b"/>
+		<rom name="eXoDOS/!polish/Motocross (1998).zip" size="10434359" crc="dc3e7be6" sha1="15736f2509330b1abda6b2b0b0d478c6851baa02"/>
+		<rom name="eXoDOS/!polish/Mutarium (1997).zip" size="42422409" crc="019ddfa0" sha1="b32152699fed4f29353e830bf58c2fada28640df"/>
+		<rom name="eXoDOS/!polish/Mutation of J.B. (1996).zip" size="1372432473" crc="cd3b83cf" sha1="029548fb73e2a38039d290e19cb1e58ccf9dd307"/>
+		<rom name="eXoDOS/!polish/Muzeum mrtvol (1993).zip" size="387625" crc="594ef679" sha1="ae152bee6da7102fd8bbbbded6d711499ffaf603"/>
+		<rom name="eXoDOS/!polish/Nerves of Steel (1995).zip" size="3430811" crc="c1dd1fc2" sha1="ccc72f03ac5fc78f767741fef262d0a09a508df6"/>
+		<rom name="eXoDOS/!polish/Next Space (1997).zip" size="502859273" crc="a13ac502" sha1="82f6646f045dc9b355237bcf5ac7743d19d9f192"/>
+		<rom name="eXoDOS/!polish/Nienawidze Ortografii (1996).zip" size="307913" crc="1a3828a2" sha1="d5b422092c6fecf49a17a35e68733733c6b4016c"/>
+		<rom name="eXoDOS/!polish/Niszczyciel (1999).zip" size="1854864" crc="25a3218d" sha1="b928e9d9a43bdee8fc55c6d9b9fa61ca7e30e40f"/>
+		<rom name="eXoDOS/!polish/Noc (1996).zip" size="232810931" crc="241e10bd" sha1="14d614be45d5fe55c8ef15cd79b5a5447b62822f"/>
+		<rom name="eXoDOS/!polish/O i X (1998).zip" size="2227" crc="175edeba" sha1="9fe2fc143dd38e9fac0135f4550bd96015a6ed4c"/>
+		<rom name="eXoDOS/!polish/Obrazki (1997).zip" size="1410085" crc="ff10a57b" sha1="38deadc34503f5ab9882c308f52cc6a925f6b2e3"/>
+		<rom name="eXoDOS/!polish/Oil Empire (1996).zip" size="763951832" crc="2165b3d6" sha1="95b35d4baf07f81ade9ac22494343ccc7e1459fb"/>
+		<rom name="eXoDOS/!polish/Operacja Glemp (1996).zip" size="601797" crc="6ecd5316" sha1="590411c18e94c39a2940956a97b4358302416df2"/>
+		<rom name="eXoDOS/!polish/Otchlan (2016).zip" size="2511434" crc="b5c3ce55" sha1="e5fcab0fc7442d371e24bbc6d7c88ea9c726762b"/>
+		<rom name="eXoDOS/!polish/OX (1998).zip" size="258449" crc="90b903c1" sha1="1bd76b265ffedabe1d39b25ed09b7f40dd0f5fba"/>
+		<rom name="eXoDOS/!polish/Pacho &apos;98 (1998).zip" size="7228772" crc="d76a1239" sha1="a1dbe04ddda1817951e08a6a297fce173fb6496f"/>
+		<rom name="eXoDOS/!polish/Paranoia 2 (1996).zip" size="494330349" crc="6d186b00" sha1="4a6f39c4221088ba808cae085b9afc5f43f3ae9f"/>
+		<rom name="eXoDOS/!polish/Paranoia! (1995).zip" size="4933835" crc="829716a9" sha1="a173db4dede73ffc28b004eb3af3b7a7cc1e2ff3"/>
+		<rom name="eXoDOS/!polish/Peng (1999).zip" size="32806" crc="78db7bda" sha1="c0fbfb0eebebb3543b8570ac1daceb8b0ea072c9"/>
+		<rom name="eXoDOS/!polish/Piekarnia przy ulicy Bliskiej (1998).zip" size="1264496" crc="aeb7a068" sha1="2d8ee301edc335d43f4cb2cc77c58c8281ee9151"/>
+		<rom name="eXoDOS/!polish/Pikcells (1998).zip" size="46582" crc="cce77ba1" sha1="e03f8ff9821418e8c0f58b88c4b9b232a63240fd"/>
+		<rom name="eXoDOS/!polish/Pinbaloid (1998).zip" size="29823" crc="549c292a" sha1="947d3c53139b687db910032b9626ab04ad0e9c9a"/>
+		<rom name="eXoDOS/!polish/Piotrkow 1939 (1995).zip" size="9302180" crc="6911799a" sha1="958a0b053dbd86ad19653e06a5532f580654821c"/>
+		<rom name="eXoDOS/!polish/Pisqorx (1996).zip" size="37981" crc="e8599a4e" sha1="09da7f05c9c84e3604bff63ce0862d80003c845d"/>
+		<rom name="eXoDOS/!polish/Playboy (1994).zip" size="137184" crc="f050c31b" sha1="0d7dd96e895bd0a1574eddc3c2e6e73ac1f804bf"/>
+		<rom name="eXoDOS/!polish/Plponie - Plpa jiste kralem! (1995).zip" size="243404" crc="f96c0b1e" sha1="6811928b6dd5a4bb6675a5d8423b70dce8d64508"/>
+		<rom name="eXoDOS/!polish/Polanie (1996).zip" size="988561619" crc="6d6d199a" sha1="3ca5073b00a5bd6c11bf978bc1d27a98fc5d8e61"/>
+		<rom name="eXoDOS/!polish/Polda, aneb s poctivosti nejdriv pojdes (1998).zip" size="414846573" crc="fc87a565" sha1="6fafefd2a56d4cef988b81d36c395ad07c642d4f"/>
+		<rom name="eXoDOS/!polish/Pole Minowe (1998).zip" size="23920" crc="702a2d2f" sha1="edb58480949a39c72b50a014776f77c7562b41fc"/>
+		<rom name="eXoDOS/!polish/Prokleti Eridenu (1997).zip" size="28016764" crc="ca83c166" sha1="d8a1b690926e8573342d36370f49e48bb976e0f3"/>
+		<rom name="eXoDOS/!polish/Prsi (1992).zip" size="72501" crc="94a69e15" sha1="6835ff3050935f7c13d5ea5d48653c6e838c04ea"/>
+		<rom name="eXoDOS/!polish/Przeklenstwo Proximy (1998).zip" size="2742625" crc="5418d56d" sha1="6f668a403ddcb3a55db4a2b18a5b2d4615db5048"/>
+		<rom name="eXoDOS/!polish/Przygoda w ActionTown (2004).zip" size="37790" crc="1e9db1c5" sha1="b1c46d991b1f58be8818c9a0e02593a37a56af17"/>
+		<rom name="eXoDOS/!polish/Puzzle (Leszcz Group)(1994).zip" size="568812" crc="cd903d7e" sha1="fd9cfa831152481ada6327c04913e1fb2a73657b"/>
+		<rom name="eXoDOS/!polish/Puzzle (Piotr Grabowski)(1998).zip" size="9795" crc="349109c1" sha1="f01b6575a278f830f04b40da119e647dc08481d1"/>
+		<rom name="eXoDOS/!polish/Puzzle (Piotr Skrzyniarz)(1998).zip" size="929503" crc="005d6268" sha1="8904044c096b25bda0ec040936afe68e0439fedd"/>
+		<rom name="eXoDOS/!polish/Puzzle Man (1998).zip" size="37730" crc="1c8dce23" sha1="1698023ebafba9bfb091acf3403b5a89a9186da0"/>
+		<rom name="eXoDOS/!polish/Rally Championships (1994).zip" size="593463960" crc="fe731687" sha1="bf19749a05aa358936d515b00a76e0fb84728387"/>
+		<rom name="eXoDOS/!polish/Ramonovo Kouzlo (1995).zip" size="9352189" crc="a1ee0eff" sha1="fc8a1b7ab7834d91380aba348b47124e67682795"/>
+		<rom name="eXoDOS/!polish/Re! (1994).zip" size="169079" crc="3aef4c90" sha1="0800443342e406b59627f3c3b74771007f175731"/>
+		<rom name="eXoDOS/!polish/Reakcja Lancuchowa (1994).zip" size="195850" crc="6a2e652a" sha1="71da724d82b2f098c80946a5085243dc09475fad"/>
+		<rom name="eXoDOS/!polish/Real-Life 2 (2002).zip" size="56643" crc="adb9a536" sha1="59065cc781031e6d218c0f99d264a597be2070b3"/>
+		<rom name="eXoDOS/!polish/Ribbons (1996).zip" size="62247" crc="f9d095ae" sha1="126ec0ba2210cfb9ed3f1c42eec51406bbadbf32"/>
+		<rom name="eXoDOS/!polish/River Raid II (1994).zip" size="19196" crc="e36c8375" sha1="f68bec06a53a584eca8eebb15c000052403b2514"/>
+		<rom name="eXoDOS/!polish/Robal (1997).zip" size="82931" crc="17c110a2" sha1="bc1011f39c31f1a84da32d5f944ca46790f33a7b"/>
+		<rom name="eXoDOS/!polish/Robbo (1994).zip" size="4340572" crc="98d3be88" sha1="38cd930d547493eb810b65feb2d5dd6e7a7ed946"/>
+		<rom name="eXoDOS/!polish/Rock Blaster+ (1998).zip" size="1914461" crc="5822acbb" sha1="d0cb40689fa499bdb544686d828a3aef0266bfa6"/>
+		<rom name="eXoDOS/!polish/Ruletka (1998).zip" size="52634" crc="08c27878" sha1="f737482d8204eebb1640c7875bec64d2bfa0e2f1"/>
+		<rom name="eXoDOS/!polish/Rytiri Gralu (1996).zip" size="640831660" crc="e8647b17" sha1="6d906d032573437182e5b86430382b113fa786c7"/>
+		<rom name="eXoDOS/!polish/Sachy (1993).zip" size="26361" crc="2cb048df" sha1="6900edf66954f8246850a3bbcee30de809eb5ddf"/>
+		<rom name="eXoDOS/!polish/Sadist (1998).zip" size="679357" crc="65210856" sha1="cbfe3e35c87d5d2d2d3eae864bfbdb7670bfbd7f"/>
+		<rom name="eXoDOS/!polish/Sadist 2 (2000).zip" size="1545439" crc="0be3cb72" sha1="b2ab33aa8c8c93ff2f3d58e5eb58a6da41a31026"/>
+		<rom name="eXoDOS/!polish/Samotnik (1996).zip" size="561965" crc="2ffe22f7" sha1="74d53675619adb1d620af0f9391871b7551dc5e0"/>
+		<rom name="eXoDOS/!polish/Saper (1994).zip" size="29991" crc="a141118f" sha1="490f13f533981d44143bc4eedcbaea7daeede723"/>
+		<rom name="eXoDOS/!polish/Secret of Donkey Island, The (1994).zip" size="1002318" crc="2bae191f" sha1="8772d47df34242a28985b2c4c20dbe1f7793441b"/>
+		<rom name="eXoDOS/!polish/Serf City - Life is Feudal (1994).zip" size="1706195" crc="e2824114" sha1="14b12009deea1bc9fb36c42124faad890d213e09"/>
+		<rom name="eXoDOS/!polish/Settlers II, The (Gold Edition) (1997).zip" size="494398430" crc="af8adb48" sha1="e1c6915a90ba91d2683f25d8cea3159c69c94196"/>
+		<rom name="eXoDOS/!polish/Sid Meier&apos;s Colonization (1994).zip" size="3708556" crc="825e1a82" sha1="d12e2a27318ad5aaf2dba4fe844845019023098d"/>
+		<rom name="eXoDOS/!polish/Sim Kosciol (2000).zip" size="25529" crc="9a84b86c" sha1="0d30b8586136192359b6259d2dac68f5d4608536"/>
+		<rom name="eXoDOS/!polish/Skarb (1998).zip" size="52130" crc="bfc4cadb" sha1="161de4203136d2d752365264d684d89bb0c4a724"/>
+		<rom name="eXoDOS/!polish/Skaut Kwatermaster (1995).zip" size="326579239" crc="d41ecd85" sha1="c8ba3231a43c499f353cab7866f3af347d2dc959"/>
+		<rom name="eXoDOS/!polish/Sklep (1997).zip" size="817119" crc="76a1750b" sha1="8035f94fa31ab3923c28900dafbf185f6367cef5"/>
+		<rom name="eXoDOS/!polish/Skoczki (1994).zip" size="118720" crc="6a56da6b" sha1="5e7942a6b02ccbaad2733f2ed87fd147664bd617"/>
+		<rom name="eXoDOS/!polish/Slater Man (1995).zip" size="2368435" crc="5a5ef99f" sha1="218e6fe52d57097cfdf02eb08993acd630ff903f"/>
+		<rom name="eXoDOS/!polish/Snake (2000).zip" size="20260" crc="5247b014" sha1="8fab7119a3f4de4d8aac67f7c5bf941675a40da8"/>
+		<rom name="eXoDOS/!polish/Soccer Superstars (1996).zip" size="593348894" crc="e43c8e9f" sha1="35311567df74c120a6537fd7eba4e7e8562a3d29"/>
+		<rom name="eXoDOS/!polish/Soltys (1995).zip" size="3565144" crc="87284c2f" sha1="6850c09073384e70508eac6595a2dbcac01c7338"/>
+		<rom name="eXoDOS/!polish/Space Intruder (1998).zip" size="30451" crc="58a3e492" sha1="603c967480adf2ef680f011163818dd6a66a0560"/>
+		<rom name="eXoDOS/!polish/Space Terror (1998).zip" size="31683" crc="8fb6d0dc" sha1="b1cb714d7215ffaa01a815df3790831156ec75d5"/>
+		<rom name="eXoDOS/!polish/Speedway &apos;98 (1998).zip" size="602801" crc="cbad8c87" sha1="3da1eb6af2f72b77efb925e42352a1eafed7d3e3"/>
+		<rom name="eXoDOS/!polish/Spellcross (1997).zip" size="1471141167" crc="5b79a3a8" sha1="73b394e01335f89ccf3cbdfc6441b416bf957e9b"/>
+		<rom name="eXoDOS/!polish/Split Screen Soccer Managers (1994).zip" size="1351611" crc="0ec75f0a" sha1="a7254724c1b7a3431e0824c1b4ed3bd336006bad"/>
+		<rom name="eXoDOS/!polish/Sprawdzian z ortografii (1992).zip" size="68379" crc="b988e71a" sha1="b86741a478887139bda346a23bba01dd6b4c4d8f"/>
+		<rom name="eXoDOS/!polish/Star Destroyer (1999).zip" size="51400" crc="79a6b577" sha1="4464aa287b4731f6b94b4d91866b0064ed12884d"/>
+		<rom name="eXoDOS/!polish/Star Force (1998).zip" size="252495" crc="ff9b4327" sha1="e94146e1ccaeb907a6256f493c66ef6a1959158c"/>
+		<rom name="eXoDOS/!polish/Stiny noci (1994).zip" size="455308" crc="31c8988e" sha1="3801b98e72a90baf84600dde5e27bd3b26eff150"/>
+		<rom name="eXoDOS/!polish/Studzianki 1944 - Zanim Lufy Pokryje Rdza (1997).zip" size="3909000" crc="d4626730" sha1="3118d6102fd938e57c89301db90fafb7a8b346a8"/>
+		<rom name="eXoDOS/!polish/Suicide Speed (1996).zip" size="2828560" crc="6bb347ad" sha1="6d27d6a7a53dd1b96286979041f89032bada965f"/>
+		<rom name="eXoDOS/!polish/Swigridova Kletba (1996).zip" size="82498176" crc="9957f56e" sha1="1dbc1d0d7068b71180dc3a658e1d04971a1575cf"/>
+		<rom name="eXoDOS/!polish/Syndicate Plus (1994).zip" size="7297126" crc="7cda568c" sha1="be5d8eb0bd52873ca7cf273e2a77169a386b12cb"/>
+		<rom name="eXoDOS/!polish/System Shock (1994).zip" size="216087687" crc="f6f98fb5" sha1="9a3955cdb1580e0d6217d18388920a022bb3e4df"/>
+		<rom name="eXoDOS/!polish/Szaradzista (1998).zip" size="68885" crc="bb126ece" sha1="d9cb471fcbf78c1e40daf2031cdc52725f6a1039"/>
+		<rom name="eXoDOS/!polish/Tajemnica Statuetki (1993).zip" size="2157223" crc="7b442773" sha1="79f5061e5b341e969fd87174333004bf3437ca2b"/>
+		<rom name="eXoDOS/!polish/Tanks! (2000).zip" size="62044" crc="28a27da4" sha1="ebd31d04d17c5ad73b122f06df6b99a5ea7285aa"/>
+		<rom name="eXoDOS/!polish/Tas Pong (1998).zip" size="25951" crc="c40c64a8" sha1="6b3207ad3a8966287593cc456b67a634b4c373d8"/>
+		<rom name="eXoDOS/!polish/TeenAgent (1995).zip" size="495666601" crc="3bb064ef" sha1="3a914e2fe1f387a75ac18abfa7a02b8059d603f2"/>
+		<rom name="eXoDOS/!polish/Teleturniej 5x5 (1997).zip" size="42950" crc="cc3c9222" sha1="539093dbe1d5e3f79a158beab810a8abdd310373"/>
+		<rom name="eXoDOS/!polish/Temelin (2001).zip" size="119589" crc="6224f59a" sha1="7c6d8dc5c1bac48e8bbe96e403ecabf6da323438"/>
+		<rom name="eXoDOS/!polish/Tetrix (1992).zip" size="42555" crc="d7123bc6" sha1="5b790ed550078bae6458953bf2719e67f2178df7"/>
+		<rom name="eXoDOS/!polish/Thaurus (1994).zip" size="296365" crc="9867aea8" sha1="3d74de349603ef581f2d07cc94a1a3598a1626a9"/>
+		<rom name="eXoDOS/!polish/Thinker (1997).zip" size="20605" crc="f2d73c08" sha1="a72f71ca81dd8d90dc87249cd75a4e1f1fb8dbc2"/>
+		<rom name="eXoDOS/!polish/Touche - The Adventures of the Fifth Musketeer (1995).zip" size="197351349" crc="f26bb4b2" sha1="8dfaa5bda5af66ed9197096dfcffc7951ce365ee"/>
+		<rom name="eXoDOS/!polish/Transport Tycoon Deluxe (1995).zip" size="288385866" crc="a9525cd9" sha1="9cf03320bd5056629cdb79a4553bd354c8436bb8"/>
+		<rom name="eXoDOS/!polish/Tresh 3D (1999).zip" size="379961" crc="c40936ec" sha1="ab5832b9c036ca334549c3de9ab7924ed1e320b7"/>
+		<rom name="eXoDOS/!polish/Trix (1998).zip" size="520230" crc="d1cc1e4a" sha1="55af9620d3488b798cb4e4b4dbc85bcf43814b41"/>
+		<rom name="eXoDOS/!polish/Trojky (2011).zip" size="31788" crc="b133fbee" sha1="49b4afbb5e2e60d467cb66aa423a5c2bb08aa711"/>
+		<rom name="eXoDOS/!polish/Tron-D (1998).zip" size="539726" crc="14d31f03" sha1="78330527382eebc3bec96011ed85a94c6c3bbe5f"/>
+		<rom name="eXoDOS/!polish/Turbo Speedway (1995).zip" size="503159" crc="407a6a05" sha1="d8b21664a95eca5c244ea05cbff848ad368e19bf"/>
+		<rom name="eXoDOS/!polish/Ultra Gomoku (1991).zip" size="74215" crc="660408f6" sha1="90f93c874cf30d6bcfea3eb3af6bcb41fe8ffd5f"/>
+		<rom name="eXoDOS/!polish/Underground (2003).zip" size="104350" crc="aae08844" sha1="2be26cb52027623437b68d510b318dc6c0594320"/>
+		<rom name="eXoDOS/!polish/Universal Warrior (1995).zip" size="2295155" crc="8e215dd8" sha1="165bcf2b4bb8308a2cd49e6d533d707c822d0de6"/>
+		<rom name="eXoDOS/!polish/Urban (1997).zip" size="8442409" crc="38999bd0" sha1="553e9f79372841258e9f63784f5d1e3ea28292ed"/>
+		<rom name="eXoDOS/!polish/Vegas (1993).zip" size="40583" crc="789a8649" sha1="29af78b30419e64d1320e2e3c1086eca1bcc4b58"/>
+		<rom name="eXoDOS/!polish/Warcaby (1995).zip" size="61174" crc="a54d9ca2" sha1="5088b2c140166b06d5fc5552d847fbc305d7d6da"/>
+		<rom name="eXoDOS/!polish/Wolfsbane (1995).zip" size="2504301" crc="865d07fa" sha1="8e849d430cae896af173227bd0d1ca1a887fcd87"/>
+		<rom name="eXoDOS/!polish/Wormer (1998).zip" size="430712" crc="6ec0ca3b" sha1="2b98bd54fdca072becf7dd3ceb44f4c486a5b446"/>
+		<rom name="eXoDOS/!polish/Wurmi (2015).zip" size="103265" crc="a1e8350a" sha1="fc99b8984608ba32ce0f76a00bcdc9fa3f452d40"/>
+		<rom name="eXoDOS/!polish/Wyscigi (1998).zip" size="180605" crc="77adad64" sha1="fc249241daf2882ef72272b6610f00329311f1d9"/>
+		<rom name="eXoDOS/!polish/X-COM - Terror from the Deep (1995).zip" size="5189144" crc="aaead1f0" sha1="3836059b653d47b55db5c868914e1ed311acde9c"/>
+		<rom name="eXoDOS/!polish/X-COM - UFO Defense (1994).zip" size="25840814" crc="54b14c1e" sha1="6628d3d04e5d0334ee94e7d1f0f60c060d9cc4a0"/>
+		<rom name="eXoDOS/!polish/X-Halma (1997).zip" size="110775" crc="76acdba0" sha1="54de9cce88cd4aed5f487d6bc436df1817c39856"/>
+		<rom name="eXoDOS/!polish/Xetris (1998).zip" size="154510" crc="ccd5055b" sha1="c49ff6de325e8567470616d8f0ff3d64cde5a93b"/>
+		<rom name="eXoDOS/!polish/You and Me - Angielski dla dzieci - czesc 2 (1994).zip" size="4842007" crc="9b6195f0" sha1="e87ca9779691888f1a067264a8a9c7e0029d5854"/>
+		<rom name="eXoDOS/!polish/Z Archiwum Zet (1998).zip" size="7187" crc="afdd1c84" sha1="76b9f84ee09a331c23663cb48e4e16e69b9bbe76"/>
+		<rom name="eXoDOS/!polish/Zombici (1996).zip" size="48925" crc="7df51439" sha1="84eb58d731102c8df5da56af26e14534f905abe0"/>
+		<rom name="eXoDOS/!polish/Zombici II (1996).zip" size="259890" crc="6f21a24f" sha1="fd905f384bc7f801a2e2a3a4bc8938f4cd1126ff"/>
+		<rom name="eXoDOS/!polish/Zoozel (1998).zip" size="610748" crc="a7a4a0f2" sha1="57a0da644f6e8ca43c4e685509ac7516b95647de"/>
+		<rom name="eXoDOS/!polish/Zuzel (1994).zip" size="40960" crc="a91c6c22" sha1="ac62cb49692749901065ae219e5cc12d65752985"/>
+		<rom name="util/" size="0" crc="00000000"/>
+		<rom name="util/!english/" size="0" crc="00000000"/>
+		<rom name="util/!english/texts_Setup_eXoDOS-PLP.txt" size="4226" crc="e7bc8d6a" sha1="01a2baa2794d5ab800a21156606170e678c9e9b5"/>
+		<rom name="util/!polish/" size="0" crc="00000000"/>
+		<rom name="util/!polish/texts_Setup_eXoDOS-PLP.txt" size="4226" crc="e7bc8d6a" sha1="01a2baa2794d5ab800a21156606170e678c9e9b5"/>
+	</game>
+	<rom name="eXoDOS PLP box-front.jpg" size="862843" crc="a4895be4" sha1="363eeb4584fb0d162ef070b066ba970828b3bdf1"/>
+	<rom name="Setup eXoDOS-PLP.bat" size="10487" crc="9bea4103" sha1="fcd9cfe178b59a7f94a002ca48b00759c51cb66b"/>
+</datafile>

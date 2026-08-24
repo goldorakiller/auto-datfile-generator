@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Layouts - MFME - RAL</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Quicksilver (RAL)">
+		<rom name="Quicksilver_(RAL)_[C01_15jp].fml" size="282519" crc="ae61a67a" sha1="996e3005465ac0b2dbd155406100371c782c69c0"/>
+		<rom name="Quicksilver_(RAL)_[C01_15jp].gam" size="388" crc="6425a03a" sha1="0f8595a491ac67ba5542ef1a841b9e1c9227387c"/>
+		<rom name="Quicksilver_(RAL)_[C01_15jp].jpg" size="44718" crc="557806f3" sha1="faf4b5cc6ede8e23f7ec513b35668dc55cffa44b"/>
+		<rom name="Quicksilver_(RAL)_[C01_15jp].ram" size="65536" crc="b95e76cd" sha1="979c19e04bb439cfafe5531f6bf9cfef87399a7c"/>
+		<rom name="Quicksilver_(RAL)_[C02_8jp].fml" size="1611925" crc="6ed55849" sha1="1afa9c51488a776c554ead31f77d163a71c9f849"/>
+		<rom name="Quicksilver_(RAL)_[C02_8jp].gam" size="335" crc="733125c3" sha1="92288467de6984bc6144f85ee8648d4f2dc8de52"/>
+		<rom name="Quicksilver_(RAL)_[C02_8jp].jpg" size="67939" crc="53d37bd7" sha1="e0fd32c0c1044875cdb712540327d780b95de68f"/>
+		<rom name="Quicksilver_(RAL)_[C02_8jp].ram" size="65536" crc="f4beca14" sha1="2e89efdfa13d966adb6c9f904f4f83ddaba6cdd0"/>
+		<rom name="Quicksilver_(RAL)_[C02_8jp].txt" size="594" crc="37361355" sha1="1963b2a280ea4e340a153ab501b6dca2ae228d59"/>
+		<rom name="quicksilver_a1.bin" size="131072" crc="ddca1835" sha1="adb8a9320c8ab2c5c6d8ec83b1ed577a8eb4ba91"/>
+		<rom name="quicksilver_a2.bin" size="131072" crc="efa8765d" sha1="c1174f9ab8f687d1dd8b4d50ff519550a0643219"/>
+		<rom name="quicksilver_snd.bin" size="524288" crc="374d8892" sha1="38918bbcb7d9117b21b6dafdb55cc5c36927fb4e"/>
+	</game>
+</datafile>

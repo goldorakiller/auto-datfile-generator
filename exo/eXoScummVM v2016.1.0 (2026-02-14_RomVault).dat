@@ -1,0 +1,862 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>eXoScummVM</name>
+		<description>Mixed (Archive as File)</description>
+		<category>Computer</category>
+		<version>2016.1.0</version>
+		<date>2026-02-14</date>
+		<author>eXo (dat by Eggman)</author>
+		<homepage>https://www.retro-exo.com/</homepage>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<romvault forcepacking="fileonly" />
+	</header>
+	<rom name="_The Complete ScummVM.txt" size="61930" crc="2062ee01" sha1="cf1f23a3bf42b172c827a75de86916c45c61c7ed"/>
+	<game name="Content">
+		<description>Content</description>
+		<rom name="!ScummVMmetadata.zip" size="8003018958" crc="ae13266c" sha1="23c281f053ac78970fa6e9738eeb0628e13424a1"/>
+		<rom name="LaunchBox.zip" size="773202626" crc="da23dec1" sha1="fe0deb245b8ed55eb100c770fda08936750810df"/>
+		<rom name="XOScummVMMetadata.zip" size="4186832178" crc="74cd6099" sha1="cf5ef47ed3a675bbe073a06097045020cb1e39d9"/>
+	</game>
+	<rom name="Don&apos;t Readme.txt" size="6" crc="861dd131" sha1="64658d40c748fcf54cde76ee3f47bc5a71b367ff"/>
+	<game name="eXo">
+		<description>eXo</description>
+		<rom name="eXoScummVM/" size="0" crc="00000000"/>
+		<rom name="eXoScummVM/.i.f (Macintosh).zip" size="113296" crc="2e1562b1" sha1="7b216e70c5734eca87df0c706dce6784b9b990e2"/>
+		<rom name="eXoScummVM/007 (Macintosh).zip" size="31281" crc="7305c6c5" sha1="230bb38985c96d72d66665887673d0770b097fb1"/>
+		<rom name="eXoScummVM/1.5 Ritter (Windows).zip" size="1004659716" crc="5bcf8eb6" sha1="093a0ddea6b29dd93eb1401a52c6de4f2034459e"/>
+		<rom name="eXoScummVM/11 Mysterious Adventures (C64).zip" size="183422" crc="d35a6686" sha1="79eb51332e477592ca0b615eae464ce8ba500cf5"/>
+		<rom name="eXoScummVM/11th Hour, The (Windows).zip" size="4387178909" crc="830a7d46" sha1="4b4cba0e20a4a6c58a33f4d169f301ea05f6c062"/>
+		<rom name="eXoScummVM/13th Disciple, The (DOS).zip" size="126774" crc="6a5bcaab" sha1="e69e28cd97121daaae7ea33a1dfbfd890866eb42"/>
+		<rom name="eXoScummVM/3 Geeks (Windows).zip" size="246711986" crc="3a762f5a" sha1="840dc951a3bae45fabbaf60c7354494bed5a08db"/>
+		<rom name="eXoScummVM/3 Skulls of the Toltecs (CD DOS).zip" size="156163934" crc="38ed000d" sha1="8f147409bc18ac2fec5405e2983a4341c6487cd9"/>
+		<rom name="eXoScummVM/3rd Floor (Macintosh).zip" size="881086" crc="dcf4d66c" sha1="3642f5362520090c357c6a8a4e9e327f22370f40"/>
+		<rom name="eXoScummVM/404 - Life Not Found (IF).zip" size="343293" crc="b6061977" sha1="12bec5d8828f0663470d865d54d398f5e22220b7"/>
+		<rom name="eXoScummVM/5 Days A Stranger (Windows).zip" size="2683388" crc="4087ef6e" sha1="8c99b1bed74960e89d7715439ee684a5aa85b72d"/>
+		<rom name="eXoScummVM/6 Days A Sacrifice (Windows).zip" size="4235302" crc="8e75a298" sha1="7c1518e2333fb4022c81781d2981e1daa2a0f1fa"/>
+		<rom name="eXoScummVM/69,105 Keys (IF).zip" size="163291" crc="45dc216d" sha1="7a50736454204a84f4f5c01bb2225c22632d6b3c"/>
+		<rom name="eXoScummVM/7 Days A Skeptic (Windows).zip" size="2682235" crc="08b631fe" sha1="631325107a276cfa2b431af16c900979c0e293ec"/>
+		<rom name="eXoScummVM/7th Guest, The (Multi-Platform).zip" size="2945341793" crc="e0071ecd" sha1="017ef320b69f36dd5acf25073859fddb64541f3f"/>
+		<rom name="eXoScummVM/905 (IF).zip" size="44080" crc="0899b2fe" sha1="83c8fc8d6619bed22f3a089930e793193739faf1"/>
+		<rom name="eXoScummVM/AAS Masters, in Which All is Revealed (IF).zip" size="42581" crc="0fe4cdb3" sha1="6e645e39d3c333065e80c7b2f7f367ddd383bf80"/>
+		<rom name="eXoScummVM/Aboard the Adventure (Demo, Windows).zip" size="136630586" crc="0510d9a3" sha1="c285a1710619d3f6859cb6757a0b939836a6b34a"/>
+		<rom name="eXoScummVM/Above the Waves (Windows).zip" size="29784852" crc="8e6bf335" sha1="cde590da7ccf8662e4dc616315c683867f831302"/>
+		<rom name="eXoScummVM/Absence of the Law, The (IF).zip" size="452281" crc="f4bcb17f" sha1="f57127fd90068ba6774d6c1a0abd76b1f8ec67ee"/>
+		<rom name="eXoScummVM/Abyss, The (IF).zip" size="119106" crc="6a72c15b" sha1="2b5daed651796a96e5180f009685eb62de184c7e"/>
+		<rom name="eXoScummVM/Accuse (IF).zip" size="68654" crc="c69d474c" sha1="b75dd7cf443a00b1edb5d4d9abcddd482bc9a066"/>
+		<rom name="eXoScummVM/Acheton (IF).zip" size="114637" crc="80599a59" sha1="24564762e850d25e4c70d0dd2ca2276ebc540236"/>
+		<rom name="eXoScummVM/Acidopolis (DOS).zip" size="111706" crc="af00d470" sha1="cee8a3a9798dd6cc904de99ca8c8ee05ddb590db"/>
+		<rom name="eXoScummVM/Acorn Court, The (IF).zip" size="33211" crc="a4eb3086" sha1="87a1e8bab0506619b13cca75110ba441cba692f9"/>
+		<rom name="eXoScummVM/Across the Stars (IF).zip" size="318496" crc="5e1c6f2f" sha1="4a6eb2e373c6eea478c41cb18c60faa9a0901b37"/>
+		<rom name="eXoScummVM/Act of Misdirection (IF).zip" size="135943" crc="9df30c9f" sha1="bb5e0d92f1794d6eaf54f7def1e86769909390ca"/>
+		<rom name="eXoScummVM/Actual Destination (Windows).zip" size="9533761" crc="d0648aae" sha1="9b68bf494d6fe50f6254a02660df6a48d7674de8"/>
+		<rom name="eXoScummVM/Ad Verbum (IF).zip" size="81673" crc="3e94b105" sha1="12a5b64bc0b17e2281937ac93ebfdc84d770935b"/>
+		<rom name="eXoScummVM/Adiboo Magical Playland (CD Windows, UK).zip" size="491869295" crc="6ec83e2a" sha1="5ff6264a34f63484b146f0caa775a12e27ff5346"/>
+		<rom name="eXoScummVM/Adibou 2 (Windows).zip" size="2372981187" crc="dd259d0a" sha1="bea2358997f0538771e42dbdb74d3a63f1966952"/>
+		<rom name="eXoScummVM/Adventure in Humongous Cave (IF).zip" size="241806" crc="18c8e145" sha1="a7014a28af3eb6490e0aac46b7c7ce3d3d57524c"/>
+		<rom name="eXoScummVM/Adventure Quest (IF).zip" size="16439" crc="78752a98" sha1="1f2d61823214ac43420f5eea498196667363683f"/>
+		<rom name="eXoScummVM/Adventureland (IF).zip" size="6320" crc="c80fe61f" sha1="08088b84e64b747da34a279606eb41de58cbaccd"/>
+		<rom name="eXoScummVM/Adventures of Buckaroo Banzaii, The (IF).zip" size="5812" crc="35294018" sha1="75e2344d25629c0bad2f774a126c0c25430165d5"/>
+		<rom name="eXoScummVM/Adventures of Robin Hood, The (DOS).zip" size="450658" crc="7f040ae3" sha1="d6e0b569113b99dab796f99ab65e9e1fc8a28c93"/>
+		<rom name="eXoScummVM/Adventures of Steve Reeve, The (Macintosh).zip" size="886751" crc="3abcca6e" sha1="9281b554c3353cf10f933e3f0f4cf10a65264c76"/>
+		<rom name="eXoScummVM/Adventures of the Good Soldier Schweik, The (Windows).zip" size="1291873802" crc="6a711035" sha1="7fc36482e9fd453cff995a018a72e85aba11fbb6"/>
+		<rom name="eXoScummVM/Adventures of Willy Beamish, The (Multi-Platform).zip" size="90497260" crc="250d501d" sha1="2cfd89ee3ef867cb25f3c5e3c126fbd94e70d919"/>
+		<rom name="eXoScummVM/AGI Tetris (DOS).zip" size="67420" crc="8bc16f30" sha1="f29921c110b14f3557b63e164dd863e7f231877d"/>
+		<rom name="eXoScummVM/AJs World of Discovery (DOS).zip" size="3732315" crc="c3357014" sha1="7ca12019a78ff60ef9416c684be6c116196cd928"/>
+		<rom name="eXoScummVM/Al Emmo And The Lost Dutchman&apos;s Mine (Windows).zip" size="823960137" crc="4da54a22" sha1="48489c0cc5430a3c514f3b76b99ce7ef9184c6e3"/>
+		<rom name="eXoScummVM/Al Emmos Postcards from Anozira (Windows).zip" size="134334543" crc="2281fa53" sha1="3a93ac1fb1e8ac719193b429d6c16a0ca840ff43"/>
+		<rom name="eXoScummVM/Alice - Interactive Museum (CD Windows).zip" size="208896340" crc="d9895a53" sha1="860e88f6c33ff57fd1f9de89cf4a66a878beb160"/>
+		<rom name="eXoScummVM/Alien Clutch (Macintosh).zip" size="365665" crc="e9f69773" sha1="e205fe2b0ac69e467877b7b0133d461dcc05f931"/>
+		<rom name="eXoScummVM/Alimardan Meets Merlin (Windows).zip" size="845920742" crc="281c3261" sha1="fd400a93e45c7fbe135c61251b53ec8a71899665"/>
+		<rom name="eXoScummVM/Alimardan&apos;s Mischief (Windows).zip" size="1034007483" crc="54197aa9" sha1="a5b924c2a9973fb5ac336e9d0edc0bf53fdc90f8"/>
+		<rom name="eXoScummVM/Alpha Polaris (Windows).zip" size="727960740" crc="c003e5ef" sha1="61d2b900b5525d42284126abe1589ee4a756e6fc"/>
+		<rom name="eXoScummVM/Amazon - Guardians of Eden (Multi-Platform).zip" size="177833103" crc="88f477b7" sha1="2be2aafae86ea78eed7384d28a94aa46ba73b56a"/>
+		<rom name="eXoScummVM/Another Fine Mess (Macintosh).zip" size="5811469" crc="e612a750" sha1="0179468443d52b94b8ea3b7fa246ceda09639043"/>
+		<rom name="eXoScummVM/Archers, The (IF).zip" size="418121" crc="f26e9086" sha1="120f5c216dcae964ef8ea86bffc01340daa5b6eb"/>
+		<rom name="eXoScummVM/Art of Murder - FBI Confidential (Windows).zip" size="788851571" crc="e50a83ea" sha1="74335974ee8e77f128229b4e78096710a3e2bf47"/>
+		<rom name="eXoScummVM/Arthur - The Quest for Excalibur (DOS).zip" size="1155801" crc="acb8a04e" sha1="b538b876492447fb3e7b7041c32c763af9f7efc5"/>
+		<rom name="eXoScummVM/Ash Pines (Windows).zip" size="43454684" crc="357f4edf" sha1="6e8d9fccc8454849b9941ca10d12176e210c7970"/>
+		<rom name="eXoScummVM/Ashina - The Red Witch (Windows).zip" size="188221854" crc="e90efbc1" sha1="e863d10288a1b6b72a3c8030e11313475e8d28e5"/>
+		<rom name="eXoScummVM/Ashland Revolution, The (Macintosh).zip" size="123391" crc="509433c4" sha1="9cf6a3facbf4a169f6bf3f80d9ec3d073038f163"/>
+		<rom name="eXoScummVM/Astro Chicken (Floppy DOS).zip" size="215468" crc="a42c1786" sha1="d5392da40fe9a030d73f4f335189852d58b75322"/>
+		<rom name="eXoScummVM/Axe-orcist, The (Macintosh).zip" size="176000" crc="a391a273" sha1="4f31c18642af5c3ca10e2b4c22ba4f5e27316c56"/>
+		<rom name="eXoScummVM/Backyard Baseball (Multi-Platform).zip" size="234396854" crc="9105671c" sha1="3510e396c2df0bcfacda351be2d8addef007c689"/>
+		<rom name="eXoScummVM/Backyard Baseball 2001 (CD Windows).zip" size="205495010" crc="839f0eb2" sha1="41bc3894d48a48f031154fa1ef890bc3accb0d75"/>
+		<rom name="eXoScummVM/Backyard Baseball 2003 (CD Windows).zip" size="399967349" crc="09de13f8" sha1="1be96b4bea582385ca344a49ef6fd159d5f2a982"/>
+		<rom name="eXoScummVM/Backyard Basketball (CD Windows).zip" size="268421280" crc="5a727542" sha1="9c8e83cafa2e6e22c290ee587b44e9c7d71559fe"/>
+		<rom name="eXoScummVM/Backyard Football (CD Windows).zip" size="205029962" crc="9f2a1718" sha1="be7c81e62b30e80075956fe43e4b2b6ffd645741"/>
+		<rom name="eXoScummVM/Backyard Football 2002 (CD Windows).zip" size="430964432" crc="4b3f2bb8" sha1="ceb98e9c0e020e42a8153c74a18831b73d268482"/>
+		<rom name="eXoScummVM/Backyard Soccer (Multi-Platform).zip" size="428646581" crc="a6702d7d" sha1="716032377ff7df201664fe8fcc8a0ab0200ad444"/>
+		<rom name="eXoScummVM/Backyard Soccer 2004 (Multi-Platform).zip" size="832400573" crc="d7ef869c" sha1="3f6d613471ba11947799814848bf520ecb8f7dfc"/>
+		<rom name="eXoScummVM/Backyard Soccer MLS Edition (Multi-Platform).zip" size="594405050" crc="584c297a" sha1="a0601ab44c43c4a48df6b5830c3b1032a1f7b1ab"/>
+		<rom name="eXoScummVM/Ballyhoo (DOS).zip" size="93453" crc="1d921711" sha1="c07c0f22d6ad47595201e2912f0dd469df1bec52"/>
+		<rom name="eXoScummVM/Bargon Attack (Multi-Platform).zip" size="10643660" crc="06411485" sha1="135efe43e34a2741674ae1631524e97339940603"/>
+		<rom name="eXoScummVM/Bear Stormin&apos; (DOS).zip" size="233067" crc="54b2b2fd" sha1="d5ab162e75e374c0e6b7b3db7d977916638e7964"/>
+		<rom name="eXoScummVM/Beavis and Butt-head Do U (Windows).zip" size="443731162" crc="854fb27b" sha1="2af22919ea438f3cfa3008d79c3ec4d853d44036"/>
+		<rom name="eXoScummVM/Beavis and Butt-head in Virtual Stupidity (CD Windows).zip" size="246577881" crc="d63db184" sha1="a356a39f8d35d0ed4c65de3fa1e984fd5199752f"/>
+		<rom name="eXoScummVM/Beer (Windows).zip" size="10320150" crc="023f4b3b" sha1="4cfde6db0f34811f94844411fc7eaabec568a37b"/>
+		<rom name="eXoScummVM/Behind the Developers Shield (DOS).zip" size="4368209" crc="ed8edc70" sha1="2b7ab92313238f7bbfb95a588d04332dd9314460"/>
+		<rom name="eXoScummVM/Ben&apos;s Castle (Macintosh).zip" size="139097" crc="f4bfe259" sha1="253c7b53c75c3d03332024d460a86ba6694de95a"/>
+		<rom name="eXoScummVM/Beneath a Steel Sky (Multi-Platform).zip" size="579635812" crc="f2860fbf" sha1="717cbce7dff1d7a9d3cbae3b8c7d7e00071d6a2d"/>
+		<rom name="eXoScummVM/Better Dead Ratification, The (Macintosh).zip" size="261886823" crc="8c08d930" sha1="b1869b3c444abb53360d9672ad95465548a9fb1d"/>
+		<rom name="eXoScummVM/Beyond the Threshold (Windows).zip" size="12551879" crc="664c0296" sha1="3bb5e420e650947ba5c8f6546b69098300c10cd8"/>
+		<rom name="eXoScummVM/Beyond Twilight Vale (Macintosh).zip" size="342272" crc="e0bf7c54" sha1="59ebde0537e11cc840a5f344a4e087986bd3edef"/>
+		<rom name="eXoScummVM/Beyond Zork - The Coconut of Quendor (DOS).zip" size="178451" crc="a35501f2" sha1="a0764d6f5e7497ded5f3fda1e46eb627a25d9ccc"/>
+		<rom name="eXoScummVM/Bickadoodle (Windows).zip" size="35583467" crc="feb5ecf5" sha1="72c1a10a73cb158a3208e664f6699e1c5a59d4eb"/>
+		<rom name="eXoScummVM/Big Red Adventure, The (Multi-Platform).zip" size="43029248" crc="01e498dd" sha1="fd0eb9b52be97e39ededfd4823174b7cdbfbc78b"/>
+		<rom name="eXoScummVM/Big Thinkers 1st Grade (Windows).zip" size="67917188" crc="898cd4df" sha1="a55e24cdf9c477eeb9f989aa5cc33f92c6cbd3a0"/>
+		<rom name="eXoScummVM/Big Thinkers Kindergarten (Windows).zip" size="104586314" crc="a54853c2" sha1="21b9bebf84d70d4f341f1d173f002f495ca861af"/>
+		<rom name="eXoScummVM/Bizarre Adventures of Woodruff and the Schnibble of Azimuth, The (CD Windows, Multilanguage).zip" size="210617146" crc="cfe45e78" sha1="92346978775aba8eba50185d74bd56b3c5668992"/>
+		<rom name="eXoScummVM/Black Cauldron, The (Multi-Platform).zip" size="1981276" crc="2d288f03" sha1="76c2400cc1b63207c6ee86bca85a907445130ed8"/>
+		<rom name="eXoScummVM/Blackwell (Windows).zip" size="1534454679" crc="ca275090" sha1="3d29bc4f81a0f7d439388565e1519beac99d67d7"/>
+		<rom name="eXoScummVM/Blade Runner (CD Windows).zip" size="1207445241" crc="2aa8c8e2" sha1="5b35932bf3e7d92f7b079b8eb51d11fcc84fc2ed"/>
+		<rom name="eXoScummVM/Blazing Dragons (CD PS1).zip" size="130874408" crc="c6c5a95d" sha1="695eeb832fee49b9d98ac924f8be7149c7814b11"/>
+		<rom name="eXoScummVM/Bloody Life, A (IF).zip" size="93716" crc="fcb2660f" sha1="1f2118abbcf0edf3024d26103440103ef1c695c2"/>
+		<rom name="eXoScummVM/Blue Force (CD DOS).zip" size="30195460" crc="b751706e" sha1="3df7a89b55e1f35689471c54f6007b1eb6d97d45"/>
+		<rom name="eXoScummVM/Blue&apos;s 123 Time Activities (Multi-Platform).zip" size="510748658" crc="c901d822" sha1="4024cc7b5450cf2cb9775cfd74ba34d0c7aa636b"/>
+		<rom name="eXoScummVM/Blue&apos;s ABC Time (Multi-Platform).zip" size="160012252" crc="b045e248" sha1="93d93b8a5a78c6d7af805d33e3ba64ed809a8f5d"/>
+		<rom name="eXoScummVM/Blue&apos;s Art Time Activities (Multi-Platform).zip" size="661813610" crc="06828095" sha1="0908a513b2e32168ffd88f859085341f70322976"/>
+		<rom name="eXoScummVM/Blue&apos;s Birthday Adventure (Multi-Platform).zip" size="1232297035" crc="55de2ada" sha1="f3b52b2beacb3b91f49c879aa9e826914061d2c1"/>
+		<rom name="eXoScummVM/Blue&apos;s Reading Time Activities (Multi-Platform).zip" size="627669722" crc="3ab8c863" sha1="7782a4db2fcda99f378897a249669e8815874b79"/>
+		<rom name="eXoScummVM/Blue&apos;s Treasure Hunt (Multi-Platform).zip" size="1692781777" crc="5e89ae5c" sha1="ea8da71039458b4a04b2a4e9deea3da01cefac55"/>
+		<rom name="eXoScummVM/BookMania (Windows).zip" size="3968828" crc="5e7dc477" sha1="069b6eaa45fdb78b3f149b49c987c3de2a16b9d1"/>
+		<rom name="eXoScummVM/Border Zone (DOS).zip" size="121421" crc="26380e90" sha1="96d69b3e7f83330f953c8b184dc913fade0ad295"/>
+		<rom name="eXoScummVM/Boredom of Agustin Cordes (Windows).zip" size="2409895" crc="6465d121" sha1="37592b6655b5786c7ce59f664f7e39f5d5df9e7c"/>
+		<rom name="eXoScummVM/Box, The (Windows).zip" size="93019739" crc="f91372c3" sha1="4a19935ed718a7516ecfd89ab35223751825e05e"/>
+		<rom name="eXoScummVM/Broken Sword 1 - The Shadow of the Templar (Multi-Platform).zip" size="2125835540" crc="6c08ea46" sha1="be4b7c819a462ea50d66daa9c1c1062c01d3dd54"/>
+		<rom name="eXoScummVM/Broken Sword 2 - The Smoking Mirror (Multi-Platform).zip" size="1128808231" crc="225fe8fd" sha1="d496ef90b7ac95d43485f3b542742dfbd14a5713"/>
+		<rom name="eXoScummVM/Broken Sword 2.5 - The Return of the Templars (Windows, Multilanguage).zip" size="818125101" crc="25ad46f2" sha1="8534d2f2a71a273254102a1b1d3b4a1fd8a43332"/>
+		<rom name="eXoScummVM/Brownie Saves the Day (Macintosh).zip" size="716370" crc="28c8be16" sha1="1caa259eec95d249a4141d6b1fad446f479a6863"/>
+		<rom name="eXoScummVM/Brownies Dream (Macintosh).zip" size="402292" crc="221cab0f" sha1="d153ceecfc1f27e0528e49b0aba066f79f78ebf9"/>
+		<rom name="eXoScummVM/Brownies Time Travels (Macintosh).zip" size="433028" crc="2882c5de" sha1="af65e6e7bdc93b6636bf2da8fa8cd1c4845ce430"/>
+		<rom name="eXoScummVM/Bud Tucker in Double Trouble (CD DOS).zip" size="516431569" crc="746f91bd" sha1="e7c0053587b138cd2f5209e9fc6df7e4ab88bd5f"/>
+		<rom name="eXoScummVM/Bug Hunt (Macintosh).zip" size="655585" crc="ee4f8c62" sha1="4cf1874d1f5cd55f5111f8be2f1251233e922442"/>
+		<rom name="eXoScummVM/Bureaucracy (DOS).zip" size="171753" crc="56c8b77a" sha1="0c7238c1c17e7966ba29f439290898300336a165"/>
+		<rom name="eXoScummVM/Busted (IF).zip" size="89183" crc="abfd6ebd" sha1="767df908e325bbb0fa0bdc3229a9a8f9666cf61e"/>
+		<rom name="eXoScummVM/Caitlyn&apos;s Destiny (DOS).zip" size="827639" crc="104911a9" sha1="9d3688e4bc532591b7c756ea0a81ea87323a6e28"/>
+		<rom name="eXoScummVM/Camp Cantitoe (Macintosh).zip" size="946458" crc="5047c77d" sha1="4ae6b5523087346b77b8d8e6e7793a12eb9d1aeb"/>
+		<rom name="eXoScummVM/Can James Be Found (Macintosh).zip" size="844724" crc="8bd8727d" sha1="dfe71bd494c2fc1afe4ebfdcea9781a79704f4cb"/>
+		<rom name="eXoScummVM/Canal District (Macintosh).zip" size="526199" crc="b3627a06" sha1="ca0d6356f2213f08002a2e4877b336f506fc0790"/>
+		<rom name="eXoScummVM/Captain Disaster in Death has a Million Stomping Boots (Windows).zip" size="146107613" crc="1621ccc9" sha1="2370021e9e930468405237a3ac1dc6d18300fdda"/>
+		<rom name="eXoScummVM/Carbon Copy (Macintosh).zip" size="1415861" crc="28827416" sha1="2032978fc2b0fe78450416560ca4a6aefd70ad01"/>
+		<rom name="eXoScummVM/Carol Reed 10 - Boschs Damnation (Windows).zip" size="581032278" crc="8f18b51a" sha1="c88b1d5aa0585f06cff350028bd8798bb08821aa"/>
+		<rom name="eXoScummVM/Carol Reed 11 - Shades Of Black (Windows).zip" size="839883544" crc="725ac9d5" sha1="5d5e2fd76f598e6e12e854bc8017f1698f340b40"/>
+		<rom name="eXoScummVM/Carol Reed 12 - Profound Red (Windows).zip" size="614876660" crc="c6678286" sha1="5ce6b10e6d28ad638dbb3e88505e50cc198056d9"/>
+		<rom name="eXoScummVM/Carol Reed 13 - The Birdwatcher (Windows).zip" size="763009566" crc="69440668" sha1="ca80a213d7d5932823cc224d31dd0f2b7b515339"/>
+		<rom name="eXoScummVM/Carol Reed 14 - The Fall Of April (Windows).zip" size="1231267145" crc="7f45b17e" sha1="f04f46af3ab9893f3cd3a5a46bb36f3e444d0f6f"/>
+		<rom name="eXoScummVM/Carol Reed 15 - Geospots (Windows).zip" size="1219921362" crc="07569ee0" sha1="91a592d1bb4a6628518691d047a0654a9e149aa1"/>
+		<rom name="eXoScummVM/Carol Reed 16 - Quarantine Diary (Windows).zip" size="1305753586" crc="09e8b55f" sha1="d88d17a9a5c4e3e70ad40056a7b784ca9b344077"/>
+		<rom name="eXoScummVM/Carol Reed 4 - East Side Story (Windows).zip" size="525013909" crc="94e9baac" sha1="406fa54ac84c6430cadc08a91b38ad51dbe33b13"/>
+		<rom name="eXoScummVM/Carol Reed 5 - The Colour of Murder (Windows).zip" size="597073718" crc="a1c85c41" sha1="ff77ecce8166f2471da971270dacbf40682e74a4"/>
+		<rom name="eXoScummVM/Carol Reed 6 - Black Circle (Windows).zip" size="450793857" crc="a756b707" sha1="40079a18722cc0a8dea45286835f0636ee0a9c68"/>
+		<rom name="eXoScummVM/Carol Reed 7 - Blue Madonna (Windows).zip" size="488626029" crc="330e28a4" sha1="a77c384e20ccef182185e880de5c5737746d84ac"/>
+		<rom name="eXoScummVM/Carol Reed 8 - Ambers Blood (Windows).zip" size="494428257" crc="44b95ce0" sha1="78786422162cfdedb09ad6d8f9262c00df70da3b"/>
+		<rom name="eXoScummVM/Carol Reed 9 - Cold Case Summer (Windows).zip" size="616898594" crc="83ab5c3f" sha1="f2ed0b8c57c3c943adfc495c71dcd270906f3ee5"/>
+		<rom name="eXoScummVM/Castle Master (Multi-Platform).zip" size="556586" crc="0026f8bc" sha1="bd9f2fa5c590466b67d2c49a0f3828cb4f8e0b3a"/>
+		<rom name="eXoScummVM/Castle of Dr. Brain (Multi-Platform).zip" size="12258887" crc="85d84efc" sha1="fc63612b17450825b7c32817eefbb41943bb92fd"/>
+		<rom name="eXoScummVM/Castle of Ert (Macintosh).zip" size="450044" crc="4a2316cc" sha1="05857d4af8f28be775ff98be10ff80b8bb4f3c50"/>
+		<rom name="eXoScummVM/Castle, The (Windows).zip" size="11590964" crc="087ecbae" sha1="cd66f3bbe6bde1c2a21cc340e7d58afbd30ee4a1"/>
+		<rom name="eXoScummVM/Charnel House Trilogy, The (Windows).zip" size="421474036" crc="b4145681" sha1="cafe7a990d1907d962a2cdbe98c7a80744d91b90"/>
+		<rom name="eXoScummVM/Chewy - Esc from F5 (CD DOS).zip" size="196745957" crc="cc8291e3" sha1="5238ee0b252db585d76ad76b0352ee02ab00a2a7"/>
+		<rom name="eXoScummVM/Chivalry is Not Dead (Windows).zip" size="8309360" crc="f589e15c" sha1="7faf11236995b6fe7a1013c90ec394dd2a6408e1"/>
+		<rom name="eXoScummVM/Chop Suey (Windows).zip" size="111729567" crc="f8c97b26" sha1="ec975668de29f1d65e72f042a5a64910a49ffb57"/>
+		<rom name="eXoScummVM/Christmas Card 1986 (DOS).zip" size="108431" crc="f7b7aa88" sha1="db0c2e57c8256da1b571567a958b77003e05c2fe"/>
+		<rom name="eXoScummVM/Christmas Card 1988 (DOS).zip" size="203341" crc="913e2708" sha1="70d03aaadbd5baf15e0c1b53936d6ad003526386"/>
+		<rom name="eXoScummVM/Christmas Card 1990 - The Seasoned Professional (Multi-Platform).zip" size="1649715" crc="e9639ef6" sha1="35d6c465d989655d345e1c3fca390e02765214b3"/>
+		<rom name="eXoScummVM/Christmas Card 1992 (DOS).zip" size="377971" crc="a3c33dcb" sha1="96bbdb5ae3ee4258450e6c3c8d3b85bcd1a529d0"/>
+		<rom name="eXoScummVM/Chronicle of Innsmouth (Windows).zip" size="389705660" crc="ba0f4fb2" sha1="72c0a3907eca80ec78a726c1a1d1120119be8466"/>
+		<rom name="eXoScummVM/City Adventure (Macintosh).zip" size="162265" crc="92f42b15" sha1="de8a45b60edf9d6116b1f8c4d797bea16351c8df"/>
+		<rom name="eXoScummVM/Clandestiny (CD Windows).zip" size="770989075" crc="850947f0" sha1="2fad86a98228787469982b276ca5af92f6792188"/>
+		<rom name="eXoScummVM/Classical Cats (Macintosh).zip" size="241735232" crc="6d6fc486" sha1="c89382d87f83c6a4134c3ec41829d67d6fe4209a"/>
+		<rom name="eXoScummVM/Cloak of Darkness (Windows).zip" size="29568" crc="27f47ae6" sha1="c138ddf989a0cb3cf7b25477af830e850da621b4"/>
+		<rom name="eXoScummVM/Codename Iceman (Multi-Platform).zip" size="8644045" crc="1b489ca4" sha1="8e8b2b0e85392531a48b20f29caaeef4e3ee9bcd"/>
+		<rom name="eXoScummVM/Colossal Cave Adventure (IF).zip" size="582404" crc="c877dbd4" sha1="938e6d987655d97a158cd6dec60632ce3124f508"/>
+		<rom name="eXoScummVM/Conquests of Camelot (Multi-Platform).zip" size="8932832" crc="b0e17330" sha1="7c772d4d1a4e12b3bcd513d84c1fb303733f9260"/>
+		<rom name="eXoScummVM/Conquests of the Longbow - The Legend of Robin Hood (Multi-Platform).zip" size="17802371" crc="aa5185c6" sha1="5a8ccada2010bf429039a30cd565561534f3962b"/>
+		<rom name="eXoScummVM/Corrosion - Cold Winter Waiting (Windows).zip" size="586400469" crc="87aea1dd" sha1="dd7de341ce0e7b3838a606c2f89ac10627540bee"/>
+		<rom name="eXoScummVM/Corruption (Floppy DOS).zip" size="1005969" crc="aa3154fb" sha1="0f0d7a1a09cde8eaa0d9e0330066dc93c5134f39"/>
+		<rom name="eXoScummVM/Count, The (IF).zip" size="6460" crc="db48d6c6" sha1="cca3c822c7e639310ac3e4cc488bea6df73e5965"/>
+		<rom name="eXoScummVM/Crazy Nicks Picks King Graham&apos;s Board Game Challenge (DOS).zip" size="545206" crc="268563d5" sha1="ab3f85503a10df5565cee4b8b343481d5d0c3866"/>
+		<rom name="eXoScummVM/Crazy Nicks Picks Leisure Suit Larrys Casino (DOS).zip" size="442883" crc="76c8cadf" sha1="4bedaf3c341518679a7a37c80261e11681206e08"/>
+		<rom name="eXoScummVM/Crazy Nicks Picks Parlor Games with Laura Bow (DOS).zip" size="439397" crc="4eb42e12" sha1="68d3ff5f97ee7facc78c8351ab84c2306162b9fd"/>
+		<rom name="eXoScummVM/Crazy Nicks Picks Robin Hoods Game Of Skill And Chance (DOS).zip" size="652878" crc="d9211523" sha1="3104720c28e1067ed7dff123ab388664bec8ddc4"/>
+		<rom name="eXoScummVM/Crazy Nicks Picks Roger Wilcos Spaced Out Game Pack (DOS).zip" size="459541" crc="a5bb944c" sha1="c46aa0bfd2099e37a889747aeb22b7eec42c3dbd"/>
+		<rom name="eXoScummVM/Crimson Crown, The (DOS).zip" size="138355" crc="ec3f0374" sha1="8a710f9d6e4d1a6651a325d2af7bcd97fbee3e61"/>
+		<rom name="eXoScummVM/Crimson Diamond (Windows).zip" size="75957175" crc="91a627ab" sha1="5aeca03ee6050db545584f848101ff664d930215"/>
+		<rom name="eXoScummVM/Crimson Spring, A (IF).zip" size="20142186" crc="c2f27504" sha1="fd80bc3c68a69a5dd6306f722f7af1e2f09701ef"/>
+		<rom name="eXoScummVM/Cruise for a Corpse (Multi-Platform).zip" size="9714500" crc="821650b0" sha1="3a899bb5a08fc3537c7fb93fa257bc77f4242017"/>
+		<rom name="eXoScummVM/Crusader - No Regret (CD DOS).zip" size="386765641" crc="b0f82d3f" sha1="71db02dc20d39a596579d28979d4f6f22a5c2543"/>
+		<rom name="eXoScummVM/Crusader - No Remorse (CD DOS).zip" size="371911952" crc="50b2e8b3" sha1="0b21267a9f1ca300ff6331d6b8f96e39e735369d"/>
+		<rom name="eXoScummVM/Crystal Adventure (Macintosh).zip" size="760995" crc="ede12fb9" sha1="38aeeefe0b53ce6330ed6d0dab1c5f00c9232b0a"/>
+		<rom name="eXoScummVM/Cubert Badbone, P.I. (Windows).zip" size="11092885" crc="95322cf4" sha1="107ceabdb9aac0df83a61d22067a9e4683e1150c"/>
+		<rom name="eXoScummVM/Curse Of Monkey Island, The (CD Windows).zip" size="882126487" crc="e18be535" sha1="d108cf0851689954402ddb0bcb3061777bf04184"/>
+		<rom name="eXoScummVM/Cutthroats (DOS).zip" size="79138" crc="29b1b745" sha1="71c263b134a20162405c9f600c8e21bb16f4e79a"/>
+		<rom name="eXoScummVM/Darby the Dragon (Mulit-Platform).zip" size="426237082" crc="0ab46df2" sha1="9e92aa34daebf6b055b4795668dcbd6407ad8824"/>
+		<rom name="eXoScummVM/Dark Eye, The (CD Windows).zip" size="378835293" crc="ed6c3a16" sha1="e40909851588152979ecb9d6aabc7d18aeb37161"/>
+		<rom name="eXoScummVM/Dark Seed (Multi-Platform).zip" size="33023107" crc="a1f90cc9" sha1="4e2f2fed04dd440d71c1e7d7dbf47a98a368cc12"/>
+		<rom name="eXoScummVM/Dark Side (Multi-Platform).zip" size="246758" crc="d5431ab1" sha1="9ba48723700b6861e1905124645901de3e147a35"/>
+		<rom name="eXoScummVM/Dash Hansen and the Search for the Black Orchid (Macintosh).zip" size="659080" crc="73929219" sha1="f2293c94265025bfce0889d8eed530ffc82c2289"/>
+		<rom name="eXoScummVM/Date in the Park, A (Windows).zip" size="45554050" crc="dfb11df0" sha1="ab5388516f00519cf7dd1b56c6c6ff40cff6e894"/>
+		<rom name="eXoScummVM/Day Of The Tentacle (Multi-Platform).zip" size="259750988" crc="07702132" sha1="ee41761a3343a1a7e6b63c06ded28d9084bdae75"/>
+		<rom name="eXoScummVM/Dead City, The (Windows).zip" size="10297576" crc="c79e9e9c" sha1="c19a9f335136c64a9c20fb9277e41ba76de23655"/>
+		<rom name="eXoScummVM/Deadline (DOS).zip" size="78119" crc="bbbe671f" sha1="14dffaae7eca3128f5d00c65e8297e9f57283709"/>
+		<rom name="eXoScummVM/Death Mall 3000 (Demo)(Macintosh).zip" size="605484" crc="e4ef5a4d" sha1="2da674e58544a8d905b54951f56b12fea1217e99"/>
+		<rom name="eXoScummVM/Death of Erin Myers, The (Windows).zip" size="216761376" crc="913565ff" sha1="e8b14549bc2de94dd46c8cae2e19e98f3a7eb62a"/>
+		<rom name="eXoScummVM/Deep Angst (Macintosh).zip" size="224845" crc="34f87763" sha1="76c136df3164e13f9f5976086e963ff74234171a"/>
+		<rom name="eXoScummVM/Deep Angst II - The Nightmare Ends (Macintosh).zip" size="253504" crc="4768939c" sha1="945b3f368bf80a7f370a9a4d428d3c4664d2b391"/>
+		<rom name="eXoScummVM/Deep Ennui (Macintosh).zip" size="188506" crc="fbf5d247" sha1="abf4745f2d983ebd502ff9253838a1ef6a1d9472"/>
+		<rom name="eXoScummVM/Deja Vu (Floppy Macintosh).zip" size="496020" crc="e248ef07" sha1="5142a1e4c998fd572f810db1168d92d92ce55d2d"/>
+		<rom name="eXoScummVM/Deja Vu II (Floppy Macintosh).zip" size="595654" crc="8c33e70c" sha1="295869833b6e2acc59d7717a23af3ff9a37cc591"/>
+		<rom name="eXoScummVM/Des Reves Elastiques Avec Mille Insectes Nommes Georges (Windows).zip" size="8284868" crc="30e24fdc" sha1="2121e66aad3d8af3fe93be5d4d03f304393678c9"/>
+		<rom name="eXoScummVM/Detective Gallo (Windows).zip" size="3333925924" crc="fbfd72bb" sha1="74178e5309182e5865269e0039acdbbd8b845104"/>
+		<rom name="eXoScummVM/DFAF Adventure (Windows).zip" size="9788041" crc="91d97b4a" sha1="572520cb874d5bc2dcbb3668123a3213a529d2b6"/>
+		<rom name="eXoScummVM/Dig, The (Multi-Platform).zip" size="1032355931" crc="d7391a01" sha1="7898a23a0cc2500fdd14cfc693e8fa62875d929e"/>
+		<rom name="eXoScummVM/Dirty Split (Windows).zip" size="190896686" crc="71164dd6" sha1="8193ae12590cf3b6ba92079dc0d14bab90265f79"/>
+		<rom name="eXoScummVM/Discworld 1 (Multi-Platform).zip" size="1218484534" crc="ac9e3b6c" sha1="2e73d57438a249415b73e8c62a8f92eeeb90f546"/>
+		<rom name="eXoScummVM/Discworld 2 (CD DOS).zip" size="722932877" crc="b519706d" sha1="5a12b7cb4145410e08ebc2ddea3d2e39ac96aa83"/>
+		<rom name="eXoScummVM/Dog-n-cat - In the Footsteps of Unprecedented Beasts (Windows).zip" size="387906974" crc="51d00c0b" sha1="7432f0f219c5cef4a089efe56a48a458f3f729bf"/>
+		<rom name="eXoScummVM/Dog-n-cat - Island of Dr Ratiarty (Windows).zip" size="358485740" crc="ff1e1b79" sha1="2731ef3163473c189506a0b77452e9ac2c610188"/>
+		<rom name="eXoScummVM/Donald Duck&apos;s Playground (Multi-Platform).zip" size="441681" crc="647fe318" sha1="f07424b9d5d6e09c997f37799676709794de5d26"/>
+		<rom name="eXoScummVM/Doomsday Machine, The (Macintosh).zip" size="91405" crc="e7949442" sha1="e9aebb7bda1a420b568e9e73ebc1040cf92af6f2"/>
+		<rom name="eXoScummVM/Double Trouble (Macintosh).zip" size="462271" crc="9e0531c3" sha1="4873c45e3f83608ae307079e8a115967ab3f4e82"/>
+		<rom name="eXoScummVM/Dr. Doyle - Mystery Of The Cloche Hat (Windows).zip" size="588633084" crc="6425e506" sha1="0b21cd9fb4e28f2fdf3ceac83d66a770d5300ea7"/>
+		<rom name="eXoScummVM/Dragon History (Floppy DOS).zip" size="3275412" crc="68c87f8e" sha1="4cfbbdaf126bf352251501d1ebe8340b3b750ee8"/>
+		<rom name="eXoScummVM/Drakmyth Castle (Macintosh).zip" size="1922172" crc="2d7573cd" sha1="3373c4dee2958a7704d2787c8763d07e37db95b0"/>
+		<rom name="eXoScummVM/Drascula The Vampire Strikes Back (CD DOS, Multilanguage).zip" size="330277272" crc="9ae4d46b" sha1="c647116f9ecb90ddb7c05d2068970e8d555df22d"/>
+		<rom name="eXoScummVM/Dreamcat (Windows).zip" size="7464577" crc="3431bcf3" sha1="406e9c11f57c64e7b6460c528a14aeb94e490b69"/>
+		<rom name="eXoScummVM/Dreams in the Witch House (Windows).zip" size="547958010" crc="ee5be39f" sha1="477644a32e0e07e6c31376278ae6e091426776d6"/>
+		<rom name="eXoScummVM/Dreamweb (Multi-Platform).zip" size="234865572" crc="9fe6a509" sha1="697923f4ba6cbaeb4bb8f73da86ed08e2c1b0c7d"/>
+		<rom name="eXoScummVM/Driller (Multi-Platform).zip" size="50629128" crc="0afb9fd9" sha1="3434bc8b206bd47b54f3c928e07decd55a0ab6f4"/>
+		<rom name="eXoScummVM/Driller Incident, The (Windows).zip" size="13786226" crc="e8957614" sha1="04dfe02c4164d3403be1dba50522e2bad97d631d"/>
+		<rom name="eXoScummVM/Duckman (CD Windows).zip" size="434238653" crc="4f3d247e" sha1="f72fddf2cde94fdeda46b6ee3a81591cbc257dd3"/>
+		<rom name="eXoScummVM/Dune Eternity (Macintosh).zip" size="1429166" crc="b2793c70" sha1="49610d8c986caa35c2de9c4f3dadaa2fbfc689b1"/>
+		<rom name="eXoScummVM/Dungeon Master (Multi-Platform).zip" size="815896" crc="4dd9facb" sha1="d9c30c1e72571d9897be04ee6ae16cf7466dac11"/>
+		<rom name="eXoScummVM/DungeonWorld (Macintosh).zip" size="276484" crc="6e576578" sha1="77f8e6ac60f0540508e12ff52f43128488b651ce"/>
+		<rom name="eXoScummVM/Dustbowl (Windows).zip" size="76708838" crc="d8577f8a" sha1="a277299b22762f0c750872d858aeeaaafb158b2b"/>
+		<rom name="eXoScummVM/Dynasty of Dar (Macintosh).zip" size="506595" crc="63183d96" sha1="9e977bb7c329d690709f8230a9ff891358b32c35"/>
+		<rom name="eXoScummVM/Eastern Mind - The Lost Souls of Tong Nou (Windows).zip" size="300422310" crc="50b0b772" sha1="15fb71cffc1dacf05b93b6f29f8959c9b6fcb93c"/>
+		<rom name="eXoScummVM/EcoQuest 1 - The Search for Cetus (Multi-Platform).zip" size="176184467" crc="d1f7afd0" sha1="48a3d665a5c4fcb6c635110e8888068341344347"/>
+		<rom name="eXoScummVM/EcoQuest 2 - Lost Secret of the Rainforest (Floppy DOS).zip" size="6748423" crc="c46c8262" sha1="e188ee13f8d336468ff2ee30f31bc209ecaf4890"/>
+		<rom name="eXoScummVM/Edg&apos;s World (Macintosh).zip" size="135364" crc="467053f0" sha1="d0e3f5b484c3ecb59b8b4782e22e4eb621be25c0"/>
+		<rom name="eXoScummVM/Eidisi (Macintosh).zip" size="285463" crc="fc8fc295" sha1="1cb9d4d512fa1e76beebfdb4f7904cf67aa1f3d7"/>
+		<rom name="eXoScummVM/Eight Squares in The Garden (Windows).zip" size="28860669" crc="085ef434" sha1="c6064a2660d0f773668ec5b488d85d004099dfb2"/>
+		<rom name="eXoScummVM/Elite Commando (Macintosh).zip" size="238394" crc="6675449e" sha1="fd56f1cbb430a7b6a51fa4a693367d1926700c55"/>
+		<rom name="eXoScummVM/Elvira 1 - Mistress of the Dark (Multi-Platform).zip" size="11518640" crc="930a0888" sha1="7c023bfd393b3de238af12f6156bff5a0c55060a"/>
+		<rom name="eXoScummVM/Elvira 2 - The Jaws of Cerberus (Multi-Platform).zip" size="12111854" crc="0154c79b" sha1="e65fec1580fea693ed3e602223efb53b3b245a8b"/>
+		<rom name="eXoScummVM/Emerald Isle (Multi-Platform).zip" size="224210" crc="f35464ff" sha1="5fe75d0e1d44ad8d2a0ceda9ec5577454b2c595d"/>
+		<rom name="eXoScummVM/Enchanted Pencils (Macintosh).zip" size="1034353" crc="8eebe3ba" sha1="a81e3bce55210e6be605c85992948fafb3bdc8cb"/>
+		<rom name="eXoScummVM/Enchanted Scepters (Macintosh).zip" size="262460" crc="4b7b9549" sha1="a64a7bda018c47dff97a9de56d0ee13c081cf198"/>
+		<rom name="eXoScummVM/Enchanter (DOS).zip" size="80947" crc="270152ba" sha1="efe02e2fc0c273d004b925ca91882881c2eff342"/>
+		<rom name="eXoScummVM/Errand (Windows).zip" size="16136555" crc="b212d392" sha1="71e0a4e4d7c555dae5895df84018c5742eb8301a"/>
+		<rom name="eXoScummVM/Escape (Macintosh).zip" size="80254" crc="485a841b" sha1="2c46f04c1e8a0bd179bcc0a387ec125e531f3dc4"/>
+		<rom name="eXoScummVM/Escape From Hell (DOS).zip" size="393601" crc="a82ed405" sha1="0f91ac443ce61d31c975f794b5c766b2da92c191"/>
+		<rom name="eXoScummVM/Escape from Monkey Island (Multi-Platform).zip" size="2613854066" crc="6f914648" sha1="e522f40a05f2c6421f6a1c3b15f492ecc6a2f78f"/>
+		<rom name="eXoScummVM/Escape From Saecvrom (Macintosh).zip" size="415294" crc="54339ae7" sha1="f62837b7979095c6a9d683a7e4a21265a839365b"/>
+		<rom name="eXoScummVM/Escape from School (Macintosh).zip" size="53940" crc="b4f7f358" sha1="faf143d53c7b2483b6d6ed6a61e01cd9e32d199c"/>
+		<rom name="eXoScummVM/Escape from the Mansion (Windows).zip" size="28334570" crc="42d06236" sha1="132d049583e870db65c1add247999c068e9ea1d0"/>
+		<rom name="eXoScummVM/Everyday Grey (Windows).zip" size="23341007" crc="0e0b3e96" sha1="5ef619de1941f09ae826918b06c4c0731ae26f5b"/>
+		<rom name="eXoScummVM/Everyman (Macintosh).zip" size="255055" crc="5b601217" sha1="d22afd1dc010bcaa768f4c34fc80c8940893ed57"/>
+		<rom name="eXoScummVM/EveryMan 2 (Macintosh).zip" size="468913" crc="71f124ab" sha1="24748a841bd5abbe78a7a3ccd139dbb8f96c85f8"/>
+		<rom name="eXoScummVM/Excavation of Hobs Barrow, The (Windows).zip" size="838039659" crc="4e2875df" sha1="4f9f79fefa6307ecc67274bf3c223bc5e6ac3f57"/>
+		<rom name="eXoScummVM/Exploration Zeta (Macintosh).zip" size="256752" crc="4202d167" sha1="ed036672f5af4b2cf93846a462ab7b2200929224"/>
+		<rom name="eXoScummVM/Explorer (Macintosh).zip" size="1399687" crc="45ec459e" sha1="2a119872af6a1a69058b0f713f58a9619b37f35e"/>
+		<rom name="eXoScummVM/Eye of the Beholder (Multi-Platform).zip" size="234547896" crc="e53429e2" sha1="b59fffe3da2911d33552f2ab0a7320bfe3b511fb"/>
+		<rom name="eXoScummVM/Eye of the Beholder II - The Legend of Darkmoon (Multi-Platform).zip" size="121889024" crc="dba1c114" sha1="f353919af678405cef23965bbae594b2088c6430"/>
+		<rom name="eXoScummVM/Fantasy Quest (Macintosh).zip" size="806045" crc="25f7030c" sha1="0482cd832783626ba22b610f7275445029223461"/>
+		<rom name="eXoScummVM/Fascination (Multi-Platform).zip" size="248471983" crc="0ef98b67" sha1="dfc6f32dea6b0231dfb473ed6a8e42c19b8e596a"/>
+		<rom name="eXoScummVM/Fatty Bear&apos;s Birthday Surprise (Multi-Platform).zip" size="56152201" crc="bdce7913" sha1="1c94a7ee21fda57aebb84b68b0fc972d73a47cfd"/>
+		<rom name="eXoScummVM/Fatty Bear&apos;s Funpack (Multi-Platform).zip" size="17681341" crc="6b1b55e1" sha1="16165b95f3c522b37c5a4d5160b4e64dc21f915b"/>
+		<rom name="eXoScummVM/Features of National Fishing (Windows).zip" size="1261249379" crc="8a45c9d9" sha1="8bedec2c41ec95fcaba4b6794b7ddcf420a2f448"/>
+		<rom name="eXoScummVM/Feeble Files, The (Multi-Platform).zip" size="5389889554" crc="c3c49107" sha1="b6f6ef34e9667a7e1e194aca5f25f49bd25ffc2f"/>
+		<rom name="eXoScummVM/Feria d&apos;Arles (Multi-Platform).zip" size="102304619" crc="cba00cbf" sha1="e5f1b4fb86c3efb94887a9ea402e958abfc70bf1"/>
+		<rom name="eXoScummVM/Find the Heart (Macintosh).zip" size="313222" crc="ac1a5383" sha1="a97615ac7edf73ff1007398d9af192258aef2846"/>
+		<rom name="eXoScummVM/Finding D (Macintosh).zip" size="31902" crc="220fc468" sha1="4e93c9f36a106a9ccc00b9bee1c846354c1f8da2"/>
+		<rom name="eXoScummVM/Finding Hope (Windows).zip" size="108671164" crc="8e5db59f" sha1="233228fb8bea747d69abc957c285537711e56718"/>
+		<rom name="eXoScummVM/Fish! (Floppy DOS).zip" size="684199" crc="97b98903" sha1="837be4f40e8f183c48e4c0dbf2ce4d44f335d25d"/>
+		<rom name="eXoScummVM/Five Lethal Demons (Windows).zip" size="13973621" crc="c43cc620" sha1="4f2a6bb05d1667a408facc28247121f64659da11"/>
+		<rom name="eXoScummVM/Five Magical Amulets (Windows).zip" size="156086907" crc="fafd241e" sha1="4520838e7141381f5d29339b78e05e024ec4b3fd"/>
+		<rom name="eXoScummVM/Flight of the Amazon Queen (Multi-Platform).zip" size="237802234" crc="a740bacf" sha1="dcd784488a61c6c622373eb9cb836e3507e42b94"/>
+		<rom name="eXoScummVM/Football Game (Windows).zip" size="78719387" crc="fb3b9df1" sha1="d534f4a62848c13f1bc186432523db46b3aaf571"/>
+		<rom name="eXoScummVM/Forgotten Sound 1 - Revelation (Windows).zip" size="1430142923" crc="41846f32" sha1="f8ac835a4ceebd1c7181395445b6f91947c5c101"/>
+		<rom name="eXoScummVM/Forgotten Sound 2 - Destiny (Windows).zip" size="1724498073" crc="9d1db7e4" sha1="6c3ecbd1dcb33722284cf236925f72b0495f7ef4"/>
+		<rom name="eXoScummVM/Fortune Teller (Macintosh).zip" size="50761" crc="df5fe63f" sha1="99bc12f6ef62400caa30e51bf857af47d50dab53"/>
+		<rom name="eXoScummVM/Four (Windows).zip" size="59525510" crc="2b0c87a0" sha1="45ed9ecf9aacb40118fc3c50ecba8af067162d0a"/>
+		<rom name="eXoScummVM/Framed (Windows).zip" size="27508831" crc="0143c864" sha1="9fcc53f4c61f75f06484164c74cdc9640447fb74"/>
+		<rom name="eXoScummVM/Frasse and the Peas of Kejick (Windows).zip" size="84573534" crc="31c6a955" sha1="a6ce711fd4842a013d1ba37e1a2b0fd8ebc52811"/>
+		<rom name="eXoScummVM/Fred Rogers - Terrorist (Macintosh).zip" size="1111416" crc="53f0279c" sha1="505e7c02d639b807c50d1311ab6f7a6b3c5efc96"/>
+		<rom name="eXoScummVM/Freddi Fish 1 The Case of the Missing Kelp Seeds (Multi-Platform).zip" size="123711708" crc="8511a475" sha1="6bfe8d70a23d718ff1885267c21119853c6b554b"/>
+		<rom name="eXoScummVM/Freddi Fish 2 The Case of the Haunted Schoolhouse (Multi-Platform).zip" size="221256629" crc="a2247961" sha1="d8cdb975e9cb257ee3de8e7020f78a822090c8d1"/>
+		<rom name="eXoScummVM/Freddi Fish 3 The Case of the Stolen Conch Shell (Multi-Platform).zip" size="201686819" crc="996df324" sha1="975f782ca8276016679520084fafbe867cbe8e07"/>
+		<rom name="eXoScummVM/Freddi Fish 4 The Case of the Hogfish Rustlers of Briny Gulch (Multi-Platform).zip" size="299445102" crc="efbb0477" sha1="1bc9e70b030fdbb8d01eb90e7033a0e07fd0f07c"/>
+		<rom name="eXoScummVM/Freddi Fish 5 The Case of the Creature of Coral Cave (Multi-Platform).zip" size="308806032" crc="71611dfb" sha1="e33f773793ad9cb6f60a7d8cb28be0d5bc97cf48"/>
+		<rom name="eXoScummVM/Freddi Fish and Luther&apos;s Maze Madness (Multi-Platform).zip" size="48302857" crc="2fff5182" sha1="5a36012022835265a1386d81115cb6545db52bad"/>
+		<rom name="eXoScummVM/Freddi Fish and Luther&apos;s Water Worries (CD Windows).zip" size="37497649" crc="2ae34cfc" sha1="6bfbef684a093ddc7258d387a7fc49bb41331afd"/>
+		<rom name="eXoScummVM/Freddi Fish&apos;s One-Stop Fun Shop (Multi-Platform).zip" size="81065881" crc="5e81ba4c" sha1="f0c63f3d6a302fe47c0999c008ca3b3807fd851b"/>
+		<rom name="eXoScummVM/Freddy Pharkas - Frontier Pharmacist (Multi-Platform).zip" size="527282148" crc="b0e56426" sha1="b81ee00be959d7771397588e711b757033e6fdf6"/>
+		<rom name="eXoScummVM/Full Pipe (CD Windows).zip" size="369264264" crc="f5de752f" sha1="35131d086e081fbd5f0c8897fd8b66d6111d37da"/>
+		<rom name="eXoScummVM/Full Throttle (Multi-Platform).zip" size="572690037" crc="f97760f6" sha1="e8293fb56a06a3ce17ed05499da972146f1400a9"/>
+		<rom name="eXoScummVM/Fun Seeker&apos;s Guide to Eastern Madera County (Floppy DOS).zip" size="131829" crc="b221c731" sha1="26c47f0299a5aba75a90fb0c3c9633d69062d8eb"/>
+		<rom name="eXoScummVM/Future Wars (Multi-Platform).zip" size="230656162" crc="8d592bd6" sha1="87b7a78ab42f6c168c43b70e7769c99962864755"/>
+		<rom name="eXoScummVM/Gabriel Knight - Sins Of The Fathers (Multi-Platform).zip" size="429693841" crc="375125dc" sha1="4a6eaa905ebe7c46d0ebb3821756267ebaaa892a"/>
+		<rom name="eXoScummVM/Gabriel Knight 2 - The Beast Within (CD DOS).zip" size="2811488592" crc="21ca6a10" sha1="8e5270952903d8e8ce0bf307acf82c415ab59c63"/>
+		<rom name="eXoScummVM/Gadget - Invention, Travel and Adventure (CD Windows).zip" size="333048952" crc="0189f3a0" sha1="0875e25aa194eeaf589b696feda93b92a90d0cab"/>
+		<rom name="eXoScummVM/Galactic Warrior (Macintosh).zip" size="67979" crc="d519394f" sha1="e9f17c3a3b003a10dfdd61ac0b67ff3b62e55c36"/>
+		<rom name="eXoScummVM/Game That Takes Place on a Cruise Ship, The (Windows).zip" size="19689964" crc="a16aff87" sha1="916544ddeadfbd218a76d1d53ece2e1a50db1d96"/>
+		<rom name="eXoScummVM/Gamma World (IF).zip" size="3736" crc="fe1d5b3d" sha1="e2f0fadc8bc7a0ea9837c9229f8844e34c4f1b54"/>
+		<rom name="eXoScummVM/Geisha (Multi-Platform).zip" size="1963508" crc="119f8fb4" sha1="619894638dcaf5d899aaeb95b1a1991fbeb31d6b"/>
+		<rom name="eXoScummVM/Gemini Rue (Windows).zip" size="244016894" crc="3b2d3534" sha1="c72697a101ce74fec497ea7b7ffac7b732b956e1"/>
+		<rom name="eXoScummVM/Get out of MAZE (Macintosh).zip" size="38840" crc="6c386d64" sha1="f5b6f64eb2b39592866d2dfa962ad8d8bbfe3815"/>
+		<rom name="eXoScummVM/Get-a-Mac (Macintosh).zip" size="107066" crc="4c6e96fc" sha1="fe946c9d889986afdecfe351721e2cc5f26a132d"/>
+		<rom name="eXoScummVM/Ghost in the Sheet (Windows).zip" size="222740360" crc="0d8d3809" sha1="ecd740393ad0dcc214f7f5468b549ed91a7863c3"/>
+		<rom name="eXoScummVM/Ghost Town (IF).zip" size="6249" crc="468556e8" sha1="abade7322a84aa66940a6e9fecc8e0cf08cd5dba"/>
+		<rom name="eXoScummVM/Gnome Ranger (Multi-Platform).zip" size="1411334" crc="07f7dfc9" sha1="d401bb5c233750be00bedcf3c7dea96e054d4528"/>
+		<rom name="eXoScummVM/Gobliiins 1 (Multi-Platform).zip" size="180207370" crc="b4f2a91c" sha1="042df1d56c5e6c04992418207e920116e9b5b832"/>
+		<rom name="eXoScummVM/Gobliiins 5 (Windows).zip" size="403033947" crc="b08f0070" sha1="eeebaa59497c07233cae5a049b667d555a3f1e9f"/>
+		<rom name="eXoScummVM/Gobliins 2 (Multi-Platform).zip" size="159381577" crc="04789bb5" sha1="22d8defc031e95f8bc10a38ebbddee5315e641f6"/>
+		<rom name="eXoScummVM/Goblins 3 (Multi-Platform).zip" size="180746886" crc="fd02e512" sha1="ecdd9c9ae172f672e30b8031caed07183e2992da"/>
+		<rom name="eXoScummVM/God of Thunder (DOS).zip" size="509401" crc="66bda1fc" sha1="a5cecc7298df6cad8f4d2597b7ceadb82355eb0d"/>
+		<rom name="eXoScummVM/Gold Bug (Macintosh).zip" size="910974" crc="862deef9" sha1="58ab4b10c18b9ed72ec7cc08fbdc8850bce602c0"/>
+		<rom name="eXoScummVM/Gold Rush (Multi-Platform).zip" size="9583725" crc="0547cc4f" sha1="f9fe372367639174b42824a2383a6632ec6a57a4"/>
+		<rom name="eXoScummVM/Golden Voyage, The (IF).zip" size="6005" crc="d5bb48a2" sha1="64f8e9c5233b0340b50238563db72ce3c8ea7244"/>
+		<rom name="eXoScummVM/Golden Wake, A (Windows).zip" size="377892881" crc="3c393ab8" sha1="4aeb3d417660d7ad6288a4ed3dfaf7e9306ed14e"/>
+		<rom name="eXoScummVM/GrailQuest (Macintosh).zip" size="569902" crc="c4af4477" sha1="3e01bd772c4628fc4bfda244d0538431b9447469"/>
+		<rom name="eXoScummVM/Gregory and the Hot Air Balloon (Multi-Platform).zip" size="275912536" crc="44329dbb" sha1="57c2a7d988c8dc472c4546b5d99e8829e7ed1623"/>
+		<rom name="eXoScummVM/Grendel-Dazz (Macintosh).zip" size="246812" crc="ebab8fcd" sha1="e63efd72caebbc8171e0085d35439edc0be003aa"/>
+		<rom name="eXoScummVM/Griffon Legend, The (Windows).zip" size="9626802" crc="c2ad13c6" sha1="8a635fe34fa0c23b67c3cf4119b0c6902470b68c"/>
+		<rom name="eXoScummVM/Grim Fandango (CD Windows).zip" size="1124935033" crc="62f7a5aa" sha1="df70c5ae2fea4a419c32fc16cfdbaa29e7311e64"/>
+		<rom name="eXoScummVM/Growing Pains of Adrian Mole, The (Multi-Platform).zip" size="1844493" crc="2f562c03" sha1="460916fd77455b0792386845d2b452642fce107e"/>
+		<rom name="eXoScummVM/Guild of Thieves, The (Floppy DOS).zip" size="364837" crc="b7e12ba7" sha1="aee2289ab16cdb9c8874ff8becac09c4a537d75c"/>
+		<rom name="eXoScummVM/Guttenburg Project, The (Windows).zip" size="24299547" crc="37e15546" sha1="eb37c9cd173fcf98a36d7cc51157ea667b1a7ad5"/>
+		<rom name="eXoScummVM/Hades Challenge (Windows).zip" size="460764814" crc="15167cde" sha1="34945b80def25a906454d959399b4ad791763637"/>
+		<rom name="eXoScummVM/Haikook (Macintosh).zip" size="337084" crc="dd34a0d7" sha1="1153726355d7689d4431f2fcdde3bec31ad8354b"/>
+		<rom name="eXoScummVM/Halls of the Dead - Faery Tale Adventure II (CD Windows).zip" size="308530064" crc="a5f17bc7" sha1="03c20ea097ee7b3f409eb612e6dbd6c06e795e32"/>
+		<rom name="eXoScummVM/Hamlet (Windows).zip" size="84614800" crc="70c273d0" sha1="080236d284b9897af8f63fef9009a01fb09cb057"/>
+		<rom name="eXoScummVM/Haunted House (1988)(Macintosh).zip" size="94047" crc="c603be63" sha1="e62d957e6cfb665953e42ec8db45c26e795e20f6"/>
+		<rom name="eXoScummVM/Haunted House (1989)(Macintosh).zip" size="117675" crc="9570334d" sha1="514bdd9bfe9ef903b1e329ff358fe8582a6ecb8a"/>
+		<rom name="eXoScummVM/Haunted University (Macintosh).zip" size="874284" crc="b887f6d1" sha1="8154e0c0d6ea37ecebbb77f57bb3457983f494e2"/>
+		<rom name="eXoScummVM/Heart of China (DOS).zip" size="6901214" crc="27ffa2a0" sha1="9322cdb088e42c9cc928f2b8f4a1738f06d678e0"/>
+		<rom name="eXoScummVM/Helga Deep In Trouble (Windows).zip" size="177150457" crc="6b3f8de2" sha1="d2f550e7b65b0b7b2b5f4680706834eddae6f6b9"/>
+		<rom name="eXoScummVM/Herby (Windows).zip" size="8621462" crc="f228c5d5" sha1="aa5a239d5ac3fce88301791a514904899a337f3d"/>
+		<rom name="eXoScummVM/Heroine&apos;s Quest - The Herald of Ragnarok (Windows).zip" size="399258838" crc="2e6e8b09" sha1="95ec564a0e9ce30e7b735804a1aa87b6f6f9aec1"/>
+		<rom name="eXoScummVM/Hi-Res Adventure #0 - Mission Asteroid (Apple II).zip" size="124268" crc="702a1bd0" sha1="2e926f63eb0593de530c9acce9c278b568efd051"/>
+		<rom name="eXoScummVM/Hi-Res Adventure #1 - Mystery House (Apple II).zip" size="59891" crc="4b41bdbc" sha1="33902e4f12364a3f6df71ac7f4a2e2bee4c3a3d7"/>
+		<rom name="eXoScummVM/Hi-Res Adventure #2 - Wizard and the Princess (Apple II).zip" size="74044" crc="864a4e4a" sha1="85fe94130d22431a2a71b69655741a136f33edf3"/>
+		<rom name="eXoScummVM/Hi-Res Adventure #3 - Cranston Manor (Apple II).zip" size="128991" crc="37c63d64" sha1="fb0229fcb5f15008e829bdac53237a5db3578ba1"/>
+		<rom name="eXoScummVM/Hi-Res Adventure #4 - Ulysses and the Golden Fleece (Apple II).zip" size="125098" crc="646de7fc" sha1="38ffe74d02f8855a26af1304a5b9da1f41733375"/>
+		<rom name="eXoScummVM/Hi-Res Adventure #5 - Time Zone (Apple II).zip" size="1119411" crc="09d88983" sha1="ccdebb8660acc65e13a6c6ee011ec3a2a5c03ffb"/>
+		<rom name="eXoScummVM/Hi-Res Adventure #6 - The Dark Crystal (Apple II).zip" size="432600" crc="0483a1ec" sha1="6bbbd14630254003ceb3f4d0ba33be2626a51e77"/>
+		<rom name="eXoScummVM/Hitchhiker&apos;s Guide to the Galaxy, The (DOS).zip" size="114115" crc="480e80f4" sha1="47e9f556cb49372a01345c7bc94d35fa4a23c5ec"/>
+		<rom name="eXoScummVM/Hodj &apos;n&apos; Podj (Multi-Platform).zip" size="139968065" crc="58400c74" sha1="2ae5a7cb78cd429de1a82c1911d02df4ce3c2fc3"/>
+		<rom name="eXoScummVM/Hollywood Hijinx (DOS).zip" size="74694" crc="4b178762" sha1="ae68a53c07b4f0be3f36230f46f590d8507bbdf3"/>
+		<rom name="eXoScummVM/Hollywood Starbound (Macintosh).zip" size="394988" crc="14e43070" sha1="7a597c177dd1f84f59af174e17b4603526b62785"/>
+		<rom name="eXoScummVM/Hopkins FBI (Multi-Platform).zip" size="622401268" crc="f9b04e8e" sha1="eae34e8fb2149aec0274016b2ffc0a9a3a01cd48"/>
+		<rom name="eXoScummVM/Hor (Windows).zip" size="14133495" crc="6f80a644" sha1="cd79b04f1a1afba3d7e87bc0471c5200c2b62408"/>
+		<rom name="eXoScummVM/Hotel Caper, The (Macintosh).zip" size="327249" crc="a42a74f1" sha1="9a6aa677e0e39f86dc199077b28a15dde1e87bba"/>
+		<rom name="eXoScummVM/Hoyle Bridge (CD Windows).zip" size="283047235" crc="ba0d8f49" sha1="1cedf7a1ab617e1792a3ef82e95d2f40a8749518"/>
+		<rom name="eXoScummVM/Hoyle Children&apos;s Collection (CD Windows).zip" size="282988619" crc="a2ba2e9b" sha1="46d9d7b62eccdfe0d07ba5e3d2792a6142e2ca66"/>
+		<rom name="eXoScummVM/Hoyle Classic Card Games (Multi-Platform).zip" size="10275210" crc="25b4ce2c" sha1="6e5e460b44037fdba0a6b1bac741d347673d9305"/>
+		<rom name="eXoScummVM/Hoyle Classic Games (CD Windows).zip" size="282635041" crc="64ade900" sha1="54b9212372c5a467ec8117db7563db9748620584"/>
+		<rom name="eXoScummVM/Hoyle Official Book Of Games Volume 1 (Multi-Platform).zip" size="1964043" crc="a015be07" sha1="25acf1a1a4e8659cbc306b74f9321f29b604717b"/>
+		<rom name="eXoScummVM/Hoyle Official Book Of Games Volume 2 (Multi-Platform).zip" size="1050010" crc="dac859a6" sha1="285afc4f3fe35d003b4c90b2cb91a73d4da3a495"/>
+		<rom name="eXoScummVM/Hoyle Official Book Of Games Volume 3 (Multi-Platform).zip" size="3641567" crc="8ceecc68" sha1="6ef862efb7f6ecdada0552b0d871c6f9026b6f5d"/>
+		<rom name="eXoScummVM/Hoyle Solitaire (CD Windows).zip" size="111529313" crc="f48d3546" sha1="fe837586fba939492fa8a2e9dfc967196cd5ddfa"/>
+		<rom name="eXoScummVM/Hugo 2 - Whodunit (Multi-Platform).zip" size="665380" crc="0839ea2e" sha1="713a16a99ea228074c4d625b47662d8dd2bf57dd"/>
+		<rom name="eXoScummVM/Hugo 3 - Jungle of Doom (Multi-Platform).zip" size="960583" crc="f6796e05" sha1="80c65067ae9c9bc3ae1271ae657a16ac79e720d4"/>
+		<rom name="eXoScummVM/Hugo&apos;s House of Horrors (Multi-Platform).zip" size="524392" crc="80114062" sha1="0de2f8ce2e5dc6dabd3d40d198051499f2c9aee6"/>
+		<rom name="eXoScummVM/Hyperspace Delivery Boy (Windows).zip" size="54271238" crc="6e694f92" sha1="59a4f7278d6317e708a42abfe6ec2a0da26f7ade"/>
+		<rom name="eXoScummVM/I Have No Mouth and I Must Scream (Multi-Platform).zip" size="1129921284" crc="ee643ad3" sha1="d24a6d93169e4eeaac7de0d333f7eda4038bbc07"/>
+		<rom name="eXoScummVM/If On A Winter&apos;s Night, Four Travelers (Windows).zip" size="213539764" crc="289cf50c" sha1="79cee1aa489c18bbef4bdfabd19ee6e5948ff12d"/>
+		<rom name="eXoScummVM/In Cold Blood (Windows).zip" size="1374933274" crc="250b3ce6" sha1="b4c2a74ff49c15e43310f213287e2b523e8e7210"/>
+		<rom name="eXoScummVM/Inca II - Nations of Immortality (DOS).zip" size="278642854" crc="378fcee5" sha1="c0296c763cdcc03956fb54a7c0f72d4c6f758ef6"/>
+		<rom name="eXoScummVM/Indiana Jones and the Call of Thunder (ScummGEN).zip" size="188981" crc="80ffebd3" sha1="3e803d096c874e71e6f5a7b748f8dc679126fc8a"/>
+		<rom name="eXoScummVM/Indiana Jones and the Fate of Atlantis (Multi-Platform).zip" size="330345488" crc="834b78f6" sha1="04e7bfa25a64e7bf6768daa2ed5e63a01bbb20bb"/>
+		<rom name="eXoScummVM/Indiana Jones and the Last Crusade (Multi-Platform).zip" size="167254760" crc="560ce3e4" sha1="649cb9cfac82f9d53fc81801ac3bdaa7e0fff520"/>
+		<rom name="eXoScummVM/Indiana Rodent (Windows).zip" size="14088359" crc="f1d63093" sha1="b74f62cbe7bf6412703d48e753dc2219458320d3"/>
+		<rom name="eXoScummVM/Infidel (DOS).zip" size="66186" crc="a521eb74" sha1="5f25bba553959a1dd461e83bc80e83f5ca977f36"/>
+		<rom name="eXoScummVM/Ingrid&apos;s Back (Multi-Platform).zip" size="4512514" crc="4a5665eb" sha1="c1f22e579951a4447d4b5038310b877afcef1d4a"/>
+		<rom name="eXoScummVM/Inherit the Earth - Quest for the Orb (Multi-Platform).zip" size="1133077545" crc="8a08670d" sha1="3897580201084a1d4009b8fa3f7d127a9339aa0e"/>
+		<rom name="eXoScummVM/Inside the Chest (DOS).zip" size="4282385" crc="6205c533" sha1="2c84c4892885ea1de1393ff72c0457b582e58de5"/>
+		<rom name="eXoScummVM/Interview, The (Windows).zip" size="2110419" crc="77b8c3ee" sha1="d84a791a85fa68600212ff3989883d697696dbe8"/>
+		<rom name="eXoScummVM/Intro to Gothic (Macintosh).zip" size="141032" crc="e5cb35c0" sha1="2ab25b2cee3b850104054a6dcfa00f4550c3286e"/>
+		<rom name="eXoScummVM/Intruder (Macintosh).zip" size="354894" crc="6562e30a" sha1="2ab2ad37368cc46e3fca746cd843aeeb64824717"/>
+		<rom name="eXoScummVM/Intruder II (Macintosh).zip" size="473650" crc="359d0ddc" sha1="8b35f6fdf3221cd9c4cd84933cbd06e824412d70"/>
+		<rom name="eXoScummVM/Island of Dr. Brain (Floppy DOS).zip" size="3416083" crc="e06cb3d9" sha1="4fbc040c7def0efd414e0b47971168c311951d3f"/>
+		<rom name="eXoScummVM/It Takes Two to Tangle (Windows).zip" size="1824148063" crc="f161df58" sha1="e7481872aa3c93906130dd41a8d882b0b8f3dcd0"/>
+		<rom name="eXoScummVM/J.U.L.I.A. (Windows).zip" size="830409604" crc="64946863" sha1="1cf07a78a31ea6fec73e6f307c70ef455d1fef40"/>
+		<rom name="eXoScummVM/J.U.L.I.A. Among the Stars (Windows).zip" size="2835922643" crc="d9099c86" sha1="e327bd4bec731bb323a64433298621c7e4905353"/>
+		<rom name="eXoScummVM/J.U.L.I.A. Untold (Windows).zip" size="63245951" crc="c426a5e1" sha1="28614f7f67ac734f86897d91ebc5fd10c1d5c11f"/>
+		<rom name="eXoScummVM/Jack and the Beanstalk (Macintosh).zip" size="200922" crc="e0d5a031" sha1="3f52b197122057caef0a390244d9e2833a40386a"/>
+		<rom name="eXoScummVM/James Peris - No License Nor Control (Windows).zip" size="685310519" crc="addc18bd" sha1="fa9dfefa0fb5934528d3c36973018094b7fa11b4"/>
+		<rom name="eXoScummVM/Jamie the Demon Slayer (Macintosh).zip" size="153202" crc="387aa9e9" sha1="80401e08576085860d00a1bb264f20364f100f0c"/>
+		<rom name="eXoScummVM/Jewels of Darkness Part 1 - Colossal Adventure (IF).zip" size="438446" crc="527a7d3f" sha1="26c8298a01c2e6489db84209267b5cc3b0a175b8"/>
+		<rom name="eXoScummVM/Jewels of Darkness Part 2 - Adventure Quest (IF).zip" size="724236" crc="c7db56b3" sha1="3902f5b4c28bc67f6fabe158d6932999cf880e4a"/>
+		<rom name="eXoScummVM/Jewels of Darkness Part 3 - Dungeon Adventure (IF).zip" size="437564" crc="73e4622a" sha1="8e26b5ec385502e3591fa43231750776e600a261"/>
+		<rom name="eXoScummVM/Jinxter (Floppy DOS).zip" size="1012262" crc="1c387720" sha1="47fa82843d55b2511adb2db1b01e78f757e0b84c"/>
+		<rom name="eXoScummVM/Joe Wu Tse&apos;s Dungeon (Macintosh).zip" size="139794" crc="689ee155" sha1="3e46083eaff71218b102451b38acdd34a10d1ee6"/>
+		<rom name="eXoScummVM/Jones In The Fast Lane (Multi-Platform).zip" size="185339309" crc="17948771" sha1="2e9dbd6d83c80d3572a707b28a7e1771d2afdfd0"/>
+		<rom name="eXoScummVM/Journey, The (Macintosh).zip" size="1679644" crc="2860a675" sha1="b26a187bd5e579bd5cedaae78924179ac4c24ccd"/>
+		<rom name="eXoScummVM/Journeyman Project 2, The - Buried in Time (CD Windows).zip" size="1078914913" crc="1394b743" sha1="c18e5c4b97536925cefdf8adff56158b1a7d002a"/>
+		<rom name="eXoScummVM/Journeyman Project, The (Multi-Platform).zip" size="3988932983" crc="9d3d003c" sha1="b905ea5390a12659b9477b518ef5e0d4bf64e898"/>
+		<rom name="eXoScummVM/Jumble (Macintosh).zip" size="737880" crc="da406c89" sha1="eae0be6fd9173da77129d6e1745147bb3a84da4b"/>
+		<rom name="eXoScummVM/Just Ignore Them (Windows).zip" size="138246246" crc="c043e243" sha1="9b7746bdc6d2a3bf8cb71926cc38b69101241922"/>
+		<rom name="eXoScummVM/Just Ignore Them - Breas Story Tape 1 (Windows).zip" size="66525705" crc="5cc5834b" sha1="5b957e855ad761a0f0290cdb377be430c03fab2d"/>
+		<rom name="eXoScummVM/K&apos;NOSSOS (Windows).zip" size="1622389677" crc="ad1086c0" sha1="2bc7ff33a79ff7ce020c92f98663b15627dd87e4"/>
+		<rom name="eXoScummVM/Karth of the Jungle (Macintosh).zip" size="225264" crc="1e8035f7" sha1="5af130f8245b02933f281a2dd260594d2d473526"/>
+		<rom name="eXoScummVM/Karth of the Jungle II (Macintosh).zip" size="373638" crc="b446226b" sha1="2eeb7c6308ab3abdfcdc20436f73c4da2853614f"/>
+		<rom name="eXoScummVM/Kathy Rain (Windows).zip" size="361773012" crc="afbd7686" sha1="06de10d99474530f23c351805b8756a647f29679"/>
+		<rom name="eXoScummVM/Key to Time, The (IF).zip" size="13300" crc="b281495f" sha1="7b86d4b39bfad55bb77ffbdded7e60a63bb0120a"/>
+		<rom name="eXoScummVM/King&apos;s Quest 1 - Quest for the Crown (Multi-Platform).zip" size="119573277" crc="430c6866" sha1="5b539074068375f6ab01aed0a4151685fb3f4059"/>
+		<rom name="eXoScummVM/King&apos;s Quest 2 - Romancing the Throne (Multi-Platform).zip" size="356462452" crc="91ca087c" sha1="fd4c1b212ddbdea3ccd64e04f956e5c604aab898"/>
+		<rom name="eXoScummVM/King&apos;s Quest 3 - To Heir is Human (Multi-Platform).zip" size="406079151" crc="36fe31ef" sha1="ac132446496d59321c0a99599e91ebe64a2833d4"/>
+		<rom name="eXoScummVM/King&apos;s Quest 4 - The Perils of Rosella (Multi-Platform).zip" size="156460987" crc="0a3dfb81" sha1="5904f3a422c0e343e837c052944d037dd38bfb84"/>
+		<rom name="eXoScummVM/King&apos;s Quest 5 - Absence Makes the Heart Go Yonder (Multi-Platform).zip" size="272877702" crc="6b88de17" sha1="8df4ba1784d4b098b9dff37b570f2da5351448a9"/>
+		<rom name="eXoScummVM/King&apos;s Quest 6 - Heir Today, Gone Tomorrow (Multi-Platform).zip" size="571883111" crc="3cb91085" sha1="f79e38b3990698b2b6d3d50c99fcf077d2301646"/>
+		<rom name="eXoScummVM/King&apos;s Quest 7 - The Princeless Bride (CD DOS, Windows).zip" size="669907872" crc="4e7255d5" sha1="03a79b813001adc8b610acaf2348aac246c6cf68"/>
+		<rom name="eXoScummVM/King&apos;s Questions (DOS).zip" size="819341" crc="70d3ea81" sha1="abdb2d7514f7f03cf10ec160fdf5262674c7fc61"/>
+		<rom name="eXoScummVM/Kingdom - The Far Reaches (CD DOS).zip" size="297734213" crc="c20a3df0" sha1="ef5e2cb767211acc2eac800996b14981c4895a7b"/>
+		<rom name="eXoScummVM/Kite, The (Windows).zip" size="46181715" crc="7bc315dc" sha1="44c5fde8b3a3def59261375a5e53625265dc83fc"/>
+		<rom name="eXoScummVM/Klaymen Episodes (Windows).zip" size="17858202" crc="607f1cdc" sha1="5ae16eb5287b4f4f4e511cb456d52338fcef3388"/>
+		<rom name="eXoScummVM/Knight Orc (Multi-Platform).zip" size="1824179" crc="1db26c19" sha1="105cf0678c62351c0f871042485855bf51190c90"/>
+		<rom name="eXoScummVM/L-ZONE (Macintosh).zip" size="126334908" crc="5d89c525" sha1="1ae3ba5adda1d581eed36da06dae0c0e1b41b1cc"/>
+		<rom name="eXoScummVM/Labyrinth of Destiny (Macintosh).zip" size="350124" crc="6a666075" sha1="7abf307ed84aead6e982e3d27e8fcc544f2f0161"/>
+		<rom name="eXoScummVM/Labyrinth of Time (CD DOS).zip" size="365272287" crc="12bde9f7" sha1="ddbf89478533842aeff6310fbcdf38fab8d9c068"/>
+		<rom name="eXoScummVM/Lancelot (Multi-Platform).zip" size="1215314" crc="c42e9ef6" sha1="01428aabb3c248c351525bd29140236438452e8c"/>
+		<rom name="eXoScummVM/Lands of Lore - The Throne of Chaos (Multi-Platform).zip" size="198606278" crc="0f7cee52" sha1="8412cfe917e4bea54f3bfb3daa6befcaed4edc25"/>
+		<rom name="eXoScummVM/Larry Lotter (Windows).zip" size="137399112" crc="552c9936" sha1="45de8f78fe5fc5a2b129bbcbbd2a6eabdb9b205e"/>
+		<rom name="eXoScummVM/Last Crown, The - Midnight Horror (Windows).zip" size="2219113643" crc="dcea926a" sha1="1f601660840507877bbb384e47b6c6bc1d8fd281"/>
+		<rom name="eXoScummVM/Last Dynasty, The (Windows).zip" size="756878496" crc="755b3891" sha1="9cad25e7e1042a6216a33dc07b91449c7f0aa53b"/>
+		<rom name="eXoScummVM/Last Express, The (CD Windows).zip" size="1350957891" crc="9f5eb689" sha1="ac16195bd08e6f6622d1adbd4e7de7554080896e"/>
+		<rom name="eXoScummVM/Laura Bow 1 - The Colonels Bequest (Multi-Platform).zip" size="8898436" crc="38ae5ba9" sha1="9e51643927b781a4a0edf5ac361e8d9f29e556e1"/>
+		<rom name="eXoScummVM/Laura Bow 2 - The Dagger of Amon-Ra (Multi-Platform).zip" size="464068164" crc="37ede6c1" sha1="1c64ea3586845408af1e321da781c6135bc24c4c"/>
+		<rom name="eXoScummVM/Leather Goddesses of Phobos (DOS).zip" size="116526" crc="9d25ea87" sha1="0073048b109a8a1e446440bb1b252aa2e95beb71"/>
+		<rom name="eXoScummVM/Leather Goddesses of Phobos 2 (Floppy DOS).zip" size="11787778" crc="073335aa" sha1="bcf9e0d4f922749bdc9fcdc1a423840edb9f3f1b"/>
+		<rom name="eXoScummVM/Legend of Hand (Windows).zip" size="256465935" crc="917a176c" sha1="6957bd61066b31dd08ae622210e9e925a2f210b1"/>
+		<rom name="eXoScummVM/Legend of Kyrandia 2, The - The Hand of Fate (Multi-Platform).zip" size="197536572" crc="4e572799" sha1="35b9d1e7bdb429b03609df958c0b570ed3a3b577"/>
+		<rom name="eXoScummVM/Legend of Kyrandia 3, The - Malcolm&apos;s Revenge (Multi-Platform, Multilanguage).zip" size="786861710" crc="082d7064" sha1="c85a14c0d4fe0837cc48e80b68d420ba140525e9"/>
+		<rom name="eXoScummVM/Legend of Kyrandia, The (Multi-Platform).zip" size="194911699" crc="76f912a3" sha1="587bcacda935657c6138867e779f0ca732b9e53f"/>
+		<rom name="eXoScummVM/Leisure Suit Larry 2 - Goes looking for Love (In Several Wrong Places) (Multi-Platform).zip" size="9287444" crc="1064556f" sha1="c1275f7e828b90a420a30a91c410fadd475e34cc"/>
+		<rom name="eXoScummVM/Leisure Suit Larry 3 - Passionate Patti in Pursuit of the Pulsating Pectorals (Multi-Platform).zip" size="6855907" crc="4c0895cb" sha1="2f448347ab20a470f427b0cb2453fee9bc181771"/>
+		<rom name="eXoScummVM/Leisure Suit Larry 5 - Passionate Patty Does a Little Undercover Work (Multi-Platform).zip" size="24305780" crc="7be8839c" sha1="88649405e3bc93d7cbc0976b6b02ceae2a4605e3"/>
+		<rom name="eXoScummVM/Leisure Suit Larry 6 - Shape Up or Slip Out (Multi-Platform).zip" size="1190223517" crc="200aad2e" sha1="47c5f03cff228f4cb0ce5ab0a2ea4da6eda054db"/>
+		<rom name="eXoScummVM/Leisure Suit Larry 7 - Love for Sail (CD DOS).zip" size="511119558" crc="19d5fbab" sha1="75c57ef408d6f016e90b8d89c56b84c3b5019116"/>
+		<rom name="eXoScummVM/Leisure Suit Larry in the Land of the Lounge Lizards (Multi-Platform).zip" size="13753357" crc="fc802400" sha1="dee0c11b29ad849aa8c0d0086b5f720a149345fe"/>
+		<rom name="eXoScummVM/Leptons Quest (Multi-Platform).zip" size="207585563" crc="7a4635b7" sha1="f1c1b1c9f9c394df264ddedad9a51022125e570e"/>
+		<rom name="eXoScummVM/Let&apos;s Explore the Airport with Buzzy (Multi-Platform).zip" size="213882509" crc="2980ba54" sha1="f70723afd44aa10002992819756ba0ecb66edd7c"/>
+		<rom name="eXoScummVM/Let&apos;s Explore the Farm with Buzzy (Multi-Platform).zip" size="140156997" crc="14ce0eba" sha1="340b6b3a6887aca9abd4a1e5100a5b976832cd1c"/>
+		<rom name="eXoScummVM/Let&apos;s Explore the Jungle with Buzzy (Multi-Platform).zip" size="259380683" crc="2657b3b0" sha1="9bce0898a3bb121d98c20879059c115de5dcd18a"/>
+		<rom name="eXoScummVM/Life Flashes By (Windows).zip" size="158764807" crc="6d59566a" sha1="5e73f212ea696b52e42b93424bbc541d1c7723de"/>
+		<rom name="eXoScummVM/Life In 3 Minutes (Windows).zip" size="127991001" crc="3eda796d" sha1="9c4ccb15100ed887d2914c3af0ce32f7c7a9d676"/>
+		<rom name="eXoScummVM/Lighthouse (Multi-Platform).zip" size="1594791982" crc="b5ead1dc" sha1="8efbf4f4a5b352dea6bcbc81ddabe5e1224a7c72"/>
+		<rom name="eXoScummVM/Limbo of the Lost (Windows).zip" size="1325491793" crc="59a36aa4" sha1="8168cdc4ae172c46000af680ad5d69eede9afac9"/>
+		<rom name="eXoScummVM/Little Big Adventure (CD DOS).zip" size="455544442" crc="d23658cb" sha1="9e48e850cb4da0e4f44e38a513b5234f8e169e1a"/>
+		<rom name="eXoScummVM/Little Longnose (Windows).zip" size="744287708" crc="b5b6af3d" sha1="57a9561363f3728678dec2ffa4bf50c99b252b99"/>
+		<rom name="eXoScummVM/Little Pythagoras (Macintosh).zip" size="496143" crc="3448f6b1" sha1="c38305243274824acb59f9222d4c82078359fe44"/>
+		<rom name="eXoScummVM/Living Books - Aesop&apos;s Fables - The Tortoise And The Hare (CD Windows).zip" size="60083545" crc="e4b7be59" sha1="bb114c4341503b04fbc57c24514e6db885e3b6b5"/>
+		<rom name="eXoScummVM/Living Books - Arthur&apos;s Birthday (CD Windows).zip" size="163706709" crc="b3fc8e84" sha1="19ae1603433ab5289abcb8b492f905f4b67c30fc"/>
+		<rom name="eXoScummVM/Living Books - Arthur&apos;s Computer Adventure (CD Windows).zip" size="156958517" crc="a934d71f" sha1="49dcb2d28a2e42987952e5a8dc1a327269bcb4dc"/>
+		<rom name="eXoScummVM/Living Books - Arthur&apos;s Reading Race (CD Windows).zip" size="96054666" crc="948ab75c" sha1="92bb22c24c2cd444d5e7a7bd7e53341327730c3e"/>
+		<rom name="eXoScummVM/Living Books - Arthur&apos;s Teacher Trouble (CD Windows).zip" size="83528824" crc="8cf931c5" sha1="c22e62a319f332908a235566673c4d4c99e75088"/>
+		<rom name="eXoScummVM/Living Books - Cat in the Hat (CD Windows).zip" size="103190782" crc="e080de1f" sha1="fc903e4c0e195b0d54bac95412f0c80d0e8247c4"/>
+		<rom name="eXoScummVM/Living Books - Dr. Seuss ABC (CD Windows).zip" size="87644870" crc="25c3acb5" sha1="d26e5e0be10f3525274df225176d62b2bdeb6e6c"/>
+		<rom name="eXoScummVM/Living Books - Green Eggs and Ham (CD Windows).zip" size="149630674" crc="18beafb6" sha1="04b6ceece1c10098dcd47c2e93e06630e97a4f40"/>
+		<rom name="eXoScummVM/Living Books - Harry and the Haunted House (CD Windows).zip" size="62425014" crc="3f495e10" sha1="cba8945ee8097ab77325576abec5efd97c9b2ef3"/>
+		<rom name="eXoScummVM/Living Books - Just Grandma and Me (CD Windows).zip" size="116711106" crc="148ada7e" sha1="d1b5c76120e8d6364152dc50e41eb22cc0142782"/>
+		<rom name="eXoScummVM/Living Books - Little Monster at School (CD Windows).zip" size="144774706" crc="69dddef4" sha1="2eb1a035d87368f5f6e38a68232abc225b9d5b93"/>
+		<rom name="eXoScummVM/Living Books - Maggies Farmyard Adventure (CD Windows).zip" size="35647355" crc="85a39b89" sha1="b426531872639dcd5164ab7daeda7d9bf4d29422"/>
+		<rom name="eXoScummVM/Living Books - Ruff&apos;s Bone (CD Windows).zip" size="61267534" crc="746e3541" sha1="45dbe6fc78fb587f4920d54fa88392f4c6294f9f"/>
+		<rom name="eXoScummVM/Living Books - Sheila Rae, The Brave (CD Windows).zip" size="321809771" crc="e8062ed5" sha1="f4c09d3b4b028b72c323ebd139ea7beb64d5b475"/>
+		<rom name="eXoScummVM/Living Books - Stellaluna (CD Windows).zip" size="111053474" crc="7257e184" sha1="cc172b5730650866ec9a8d015f230f868fd62581"/>
+		<rom name="eXoScummVM/Living Books - The Berenstain Bears Get In The Fight (CD Windows).zip" size="95676409" crc="8ae151e4" sha1="af13f4e1da2077ad4ab2df26acb77a6de3027dcc"/>
+		<rom name="eXoScummVM/Living Books - The Berenstain Bears in the Dark (CD Windows).zip" size="93897432" crc="8c7e258f" sha1="fb76b381ad536328bec8b2ff4a6b669fa27bc754"/>
+		<rom name="eXoScummVM/Living Books - The New Kid on the Block (CD Windows).zip" size="76793380" crc="4837d004" sha1="0f00271dd084b4beddc39994722039881521a9fb"/>
+		<rom name="eXoScummVM/Long Drink, A (IF).zip" size="1556368" crc="75382219" sha1="80d27d22a004a4dfd2286daa5ce4dec8f8974e47"/>
+		<rom name="eXoScummVM/Longest Journey, The (CD Windows).zip" size="8252740393" crc="233810de" sha1="fc10bf53d2f23d01705b1b283ef8b6649ac00cf3"/>
+		<rom name="eXoScummVM/Looky (Windows).zip" size="731691504" crc="659af06d" sha1="8487ffc9c05cee63ddc2a1f231abebf9b6ad9d06"/>
+		<rom name="eXoScummVM/Loom (Multi-Platform).zip" size="650130731" crc="cae86bf6" sha1="fe471544c6d64c77ef5a2f8f5d4f95234fa95199"/>
+		<rom name="eXoScummVM/Lord Avalot d&apos;Argent (Floppy DOS).zip" size="1058743" crc="6a91d8c8" sha1="b51f10866fce4a3f6d5854e391cb374064cdc8fb"/>
+		<rom name="eXoScummVM/Lost Crown, The - A Ghost-Hunting Adventure (Windows).zip" size="1267636807" crc="a14be78f" sha1="12f6bcf1b71a552b5091c8ed7f0a7de8bf2269ef"/>
+		<rom name="eXoScummVM/Lost Crystal (Macintosh).zip" size="1637505" crc="dcd36b07" sha1="2d5a1615509a94235525af7dd8956e7ba323ab9d"/>
+		<rom name="eXoScummVM/Lost Eden (CD DOS).zip" size="390188260" crc="db40e61e" sha1="2a4658d72c76d1a44cc7e9edfb205782af54c1ab"/>
+		<rom name="eXoScummVM/Lost Files of Sherlock Holmes, The - The Case of the Rose Tattoo (CD DOS).zip" size="448567275" crc="58e2ed44" sha1="f895fdcc34e56527da3ef0715d7f422aa511cea5"/>
+		<rom name="eXoScummVM/Lost Files of Sherlock Holmes, The - The Case of the Serrated Scalpel (Multi-Platform).zip" size="488635901" crc="58fb8e2d" sha1="5f7477197c1d90eb0ba3e90161b9613a03dfc9d6"/>
+		<rom name="eXoScummVM/Lost in Kookyville (Macintosh).zip" size="1095558" crc="4b1094ff" sha1="f61adce66b93dd519d15100fae03c6f39c86a641"/>
+		<rom name="eXoScummVM/Lost in Time (Multi-Platform).zip" size="303768095" crc="7bff7446" sha1="484bf88e6a3379da8090aea088ac76b97fa25d70"/>
+		<rom name="eXoScummVM/Lost Princess (Macintosh).zip" size="107571" crc="d9065e47" sha1="c15b777ea0733e065b7d57fcf33387bbb9d0583a"/>
+		<rom name="eXoScummVM/Lost Skater, The (Macintosh).zip" size="198890" crc="a287e416" sha1="c08411dabfed16731c5fc0e5b2a1570e51173358"/>
+		<rom name="eXoScummVM/Lost Weekend (Macintosh).zip" size="214048" crc="ebf5e18f" sha1="7f541682f983ba0518e42203b0c6abcbe20bfd66"/>
+		<rom name="eXoScummVM/Lure of the Temptress (Multi-Platform).zip" size="3300821" crc="4067c818" sha1="fc3847665a6339d7942e49ea4fc2cf287215de71"/>
+		<rom name="eXoScummVM/Lurking Horror, The (DOS).zip" size="560489" crc="2e34ea2b" sha1="52a49a2c2a5370fca6cc2a672b506920041a5e12"/>
+		<rom name="eXoScummVM/M&apos;Lord&apos;s Warrior (Macintosh).zip" size="285365" crc="50c35419" sha1="b481dfccc1493be5ea2779a6d2da9eb795a9f2d1"/>
+		<rom name="eXoScummVM/Mac Spudd (Macintosh).zip" size="809019" crc="3d357de6" sha1="7c5b4b53f54d5d9e7c213c96202f7ff3e60867e1"/>
+		<rom name="eXoScummVM/Mage&apos;s Initiation (Windows).zip" size="908163842" crc="ff203a65" sha1="cd7096e814874dee0998c629cfae2187a1ae94b7"/>
+		<rom name="eXoScummVM/Magic Rings (Macintosh).zip" size="117389" crc="451c96b3" sha1="208d8b05fd6ae5d4a4c2ac619c771dff6105e80b"/>
+		<rom name="eXoScummVM/Magic Tales - Baba Yaga and the Magic Geese (CD Windows).zip" size="113114786" crc="a915ad05" sha1="56ba94af4d42c6939b6cfc73c02c3c239ed7cc13"/>
+		<rom name="eXoScummVM/Magic Tales - Imo and the King (CD Windows).zip" size="117835023" crc="806dbbcd" sha1="daa3056d54fcff5d21890d3ab3dbaa5ab5899107"/>
+		<rom name="eXoScummVM/Magic Tales - Liam Finds a Story (CD Windows).zip" size="98349078" crc="17ba308d" sha1="7da9364c728137d2741a29cb4f4d2ffeb6dd498d"/>
+		<rom name="eXoScummVM/Magic Tales - Sleeping Cub&apos;s Test of Courage (CD Windows).zip" size="101790633" crc="d18c45a6" sha1="05ccf114ddc5944e0070daa1d35a3be67bd09701"/>
+		<rom name="eXoScummVM/Magic Tales - The Little Samurai (CD Windows).zip" size="125258547" crc="2df6eaf5" sha1="aa24609b0ca57a0c36fb260140371dd3121ae310"/>
+		<rom name="eXoScummVM/Magic Tales - The Princess and the Crab (CD Windows).zip" size="111179352" crc="512f3ee0" sha1="627df3f144be1894e239bc6962de3a01ffba0fcc"/>
+		<rom name="eXoScummVM/Majestic - Part 1 (Windows).zip" size="190127995" crc="074a5c3b" sha1="53a5d1886d98be5e3b13da0d73b83d66e180be41"/>
+		<rom name="eXoScummVM/Mandy Christmas Adventure (Windows).zip" size="8962647" crc="6f68467e" sha1="c8613dd094cc905cf01f368c6267e836fb4a2c3f"/>
+		<rom name="eXoScummVM/Manhole, The (Floppy DOS).zip" size="1402733" crc="ecb2ae24" sha1="141d03091d2dadc3e87634fd96fbdec6efa6648b"/>
+		<rom name="eXoScummVM/Manhole, The - Enhanced (CD Windows).zip" size="142205113" crc="6a795154" sha1="f91799d3ff0580189bf1be848ad185bfc15cff19"/>
+		<rom name="eXoScummVM/Manhunter 1 - New York (Multi-Platform).zip" size="8269496" crc="76e2a59b" sha1="9c0da42b20f84a84bdc6849e9330bbaf15fafc38"/>
+		<rom name="eXoScummVM/Manhunter 2 - San Francisco (Multi-Platform).zip" size="8039581" crc="2dd20cda" sha1="c4edb528cf02c9d6a50c872d62a97899ad87c1ef"/>
+		<rom name="eXoScummVM/Maniac Mansion (Multi-Platform).zip" size="7843056" crc="c57c300b" sha1="ad469ddf562d8b376059edd212d90eb4da723acd"/>
+		<rom name="eXoScummVM/Maniac Mansion Deluxe (Windows).zip" size="6559472" crc="81b5aae6" sha1="39aa677400030cd5ec9d560c02a2d4a31dd67cbf"/>
+		<rom name="eXoScummVM/Mansion (Macintosh).zip" size="427182" crc="6ed38d22" sha1="8a399a50255b5574d36077025421d7a8f3788ac2"/>
+		<rom name="eXoScummVM/Marvel Comics Spider-Man - The Sinister Six (DOS).zip" size="301087796" crc="f874637c" sha1="5ac37746609b2a58f9c4b554849740c934767a31"/>
+		<rom name="eXoScummVM/Marvellous Mice Adventures - Meeting Sea Rat (Windows).zip" size="1315712260" crc="3802854d" sha1="45c38b740164869d429de5bfeebd4afbec980a98"/>
+		<rom name="eXoScummVM/Marvellous Mice Adventures - Sea Rat&apos;s Birthday (Windows).zip" size="1244543665" crc="2aaa155f" sha1="cf71aa9da898697461a4eb83f2bf0d3692840c2b"/>
+		<rom name="eXoScummVM/Mask Show (Windows).zip" size="633877991" crc="8f0ea997" sha1="a970c172e36d069174f8b72472536face91f7940"/>
+		<rom name="eXoScummVM/Maze of the Questing Beast (Macintosh).zip" size="130354" crc="745ebdbd" sha1="dbfbb6964de3787aeb556e04292d749a421be661"/>
+		<rom name="eXoScummVM/Mental Repairs Inc (Windows).zip" size="64066367" crc="fe9423c8" sha1="65b1be110618858030e4ad0ef099bbc2b0b8a79c"/>
+		<rom name="eXoScummVM/Mess O&apos;Trouble, A (Macintosh).zip" size="1402746" crc="f91d719b" sha1="d4eb6415a9b6182cabf309b5368a9b8c70a9262f"/>
+		<rom name="eXoScummVM/Messy House (Macintosh).zip" size="125301" crc="2cdfad76" sha1="af557fff9652c6534ab87b292aeea61d1587d55c"/>
+		<rom name="eXoScummVM/Meta (Windows).zip" size="2031993" crc="92a692fb" sha1="066f83e70c48f73ea3200eb0a86aad6b90aafb53"/>
+		<rom name="eXoScummVM/Mickey&apos;s Space Adventure (Floppy DOS).zip" size="371642" crc="d48e30ac" sha1="01928abfd8bed955a803c7622e5bfeb4991c52e4"/>
+		<rom name="eXoScummVM/Midnight Snack (Macintosh).zip" size="207194" crc="49e9c41f" sha1="fcc355d3d40b5a790cd41b7fc1b8848b25c05eee"/>
+		<rom name="eXoScummVM/Might and Magic - Swords of Xeen (DOS).zip" size="8575460" crc="7f7fefd7" sha1="b6d7b52aa438c70e4973f48ca060648bf54ec4e2"/>
+		<rom name="eXoScummVM/Might and Magic - World of Xeen (Multi-Platform).zip" size="306782762" crc="40fcd9e8" sha1="759d56b59d420a332883b4d6f5d4c81b9cce0186"/>
+		<rom name="eXoScummVM/Might and Magic Book One - The Secret of the Inner Sanctum (DOS).zip" size="17518130" crc="59ce79ec" sha1="6d17b1b0b07b5587e75e9c5a5f605ca30c27b75b"/>
+		<rom name="eXoScummVM/Might and Magic IV - Clouds of Xeen (Floppy DOS).zip" size="8604301" crc="69e766c3" sha1="1c8e46ae2af7c33af5bb223b1398bac2499942c5"/>
+		<rom name="eXoScummVM/Might and Magic V - Darkside of Xeen (Floppy DOS).zip" size="11548885" crc="0ae7281f" sha1="25436b12761aa16bc5bfa720afad2dad075b9af3"/>
+		<rom name="eXoScummVM/Mike&apos;s House (Macintosh).zip" size="239498" crc="4b5b3a59" sha1="4781add943434ba21ba9f324bcda237cf01a8427"/>
+		<rom name="eXoScummVM/Milliways (IF).zip" size="91239" crc="13952a70" sha1="b22aaa072e74ab017cf5f6994f30c929c0058587"/>
+		<rom name="eXoScummVM/Mind Forever Voyaging, A (DOS).zip" size="183005" crc="c65fd63a" sha1="3d367263ae9cd9e0f6f65a7a1ed7161f1b3a48e9"/>
+		<rom name="eXoScummVM/Mindy - The Quest for Home (Macintosh).zip" size="83153" crc="cc7936fb" sha1="fc859f0211c18355bc3a92ce2fcf22df4808d401"/>
+		<rom name="eXoScummVM/Minitorian (Macintosh).zip" size="1333881" crc="1fa74c11" sha1="bfeea0cb2fb14689e2f8e2762310380a00ccc5c1"/>
+		<rom name="eXoScummVM/Mirage (Windows).zip" size="17620001" crc="bccbc787" sha1="9f0744482dfef3d63dca9c9bfe457fba4d1ea74e"/>
+		<rom name="eXoScummVM/Mission Supernova Part 1 (Floppy DOS).zip" size="1119769" crc="b9797a2e" sha1="1af31da333e63ae2cec4bd85af7c809f2ae5eea7"/>
+		<rom name="eXoScummVM/Mission Supernova Part 2 (Floppy DOS).zip" size="1128948" crc="fde5819b" sha1="301f82f8c5c65d0c526289ff94b5584b9aa48aa3"/>
+		<rom name="eXoScummVM/Mixed Up Fairy Tales (Multi-Platform).zip" size="6434951" crc="1186eb54" sha1="7e84e67a912ef10c56d39b590400f3dfc54154f1"/>
+		<rom name="eXoScummVM/Mixed Up Mother Goose (Multi-Platform).zip" size="686495054" crc="efac2afb" sha1="f2b6f965bd4db9cd1834f98d099379689e5892b7"/>
+		<rom name="eXoScummVM/Mom Don&apos;t Worry (Windows).zip" size="1185441005" crc="1c6ce7fc" sha1="63e80e4bd538b0b2a429f423c0a325ac7e90880e"/>
+		<rom name="eXoScummVM/Monkey Island 2 LeChuck&apos;s Revenge (Multi-Platform).zip" size="644272137" crc="621f4116" sha1="5f5c5179e97c79dbec3cb91549cfe4fd2c6a49dc"/>
+		<rom name="eXoScummVM/Monkeys to the Moon (Windows).zip" size="6056606" crc="af734cf2" sha1="c2fa9542bf9ca1e3aa2d3543ce020227d2987df6"/>
+		<rom name="eXoScummVM/Moonbase Commander (Windows).zip" size="475696672" crc="889ec21f" sha1="d549ad0550b30aa326566da7eafc744db25eaf33"/>
+		<rom name="eXoScummVM/Moonmist (DOS).zip" size="92636" crc="70481fec" sha1="6197e178cc40bff373321e9ed795a12ed291c548"/>
+		<rom name="eXoScummVM/Mormonoids (Macintosh).zip" size="1919922" crc="6f97d128" sha1="5b1b586ad06259a728cc1444ed3c2c521cb420a6"/>
+		<rom name="eXoScummVM/Mortadelo y Filemon - Aventura de Cine Edicion (Windows).zip" size="1112278787" crc="8bda4fd3" sha1="2b2a7e353c678f13465a3660e15d1079759a58b4"/>
+		<rom name="eXoScummVM/Mortville Manor (Floppy DOS).zip" size="660902" crc="f672d72d" sha1="43c2696bf9fbfd289e5a0296227e834ab9258b14"/>
+		<rom name="eXoScummVM/Mountain of Mayhem (Macintosh).zip" size="1570258" crc="b41d1612" sha1="a5b82374e1edbeabe4c20071a66d4d95c6a7c90e"/>
+		<rom name="eXoScummVM/Ms Astro Chicken (Floppy DOS).zip" size="350307" crc="c502f6cd" sha1="d09369c0ab7af57cced0fd2dd3defa0c9d58a11e"/>
+		<rom name="eXoScummVM/Mudlarks (Windows).zip" size="349308165" crc="a45c9c29" sha1="24467d27df065a07439652f8a7f347f0d213dbc0"/>
+		<rom name="eXoScummVM/Muppet Treasure Island (CD Windows).zip" size="816932391" crc="9030e9de" sha1="194998a37374e184f5770b1f53003d17c5cbdcf2"/>
+		<rom name="eXoScummVM/My Big Sister (Windows).zip" size="275738698" crc="3613642b" sha1="0504ea6a33c890cf55cb8763edb70b285f35a98a"/>
+		<rom name="eXoScummVM/Myst (Multi-Platform).zip" size="971891070" crc="2fa0131a" sha1="d8e3d8679a219e1108c5761d8d5f46732a9d846b"/>
+		<rom name="eXoScummVM/Myst 3 - Exile (Multi-Platform).zip" size="5041090389" crc="93a5676a" sha1="2f914cffbc971151cec4cc2b4dd702f1505b5c0b"/>
+		<rom name="eXoScummVM/Mystery Fun House (IF).zip" size="6358" crc="dd57eed5" sha1="bdefc07fdd83eb0c73fefaa7835ea7ee9dfabb8c"/>
+		<rom name="eXoScummVM/Mystery of the Moors (Macintosh).zip" size="551944" crc="4d0896f6" sha1="c456a0aebbc924c12c15fa08ca8139e9898228b2"/>
+		<rom name="eXoScummVM/Myth (Floppy DOS).zip" size="103860" crc="65cfbc83" sha1="4c45a80e86da36bda19c683661499a891b0abbef"/>
+		<rom name="eXoScummVM/Myth - A Guffs Tale (Windows).zip" size="5336113478" crc="e2b4dfd9" sha1="920270f7e4894921cddc341e1026530a9f6b61de"/>
+		<rom name="eXoScummVM/Nancy Drew - Ghost Dogs of Moon Lake (CD Windows).zip" size="540861371" crc="8e06ee32" sha1="9815fe922e05b514be82572834be13727286398c"/>
+		<rom name="eXoScummVM/Nancy Drew - Message in a Haunted Mansion (CD Windows).zip" size="519851954" crc="ebf44add" sha1="9d7b24f41d2eb327bd09bb5a82a30a103c91dba6"/>
+		<rom name="eXoScummVM/Nancy Drew - Secret of the Scarlet Hand (CD Windows).zip" size="488127128" crc="cb62820f" sha1="3629b42db4ec843ffca1d4bc8ee19d9dc916fa36"/>
+		<rom name="eXoScummVM/Nancy Drew - Secrets Can Kill (CD Windows).zip" size="1107466484" crc="def67dde" sha1="1f653f408e05ca5d48bf44a92dc36722c91b5b34"/>
+		<rom name="eXoScummVM/Nancy Drew - Stay Tuned for Danger (CD Windows).zip" size="552399302" crc="471860ef" sha1="2efc67e460b51b86131d502184cb80ae9795099f"/>
+		<rom name="eXoScummVM/Nancy Drew - The Final Scene (CD Windows).zip" size="551384153" crc="e1566007" sha1="2301812c355ac76e3236dcf0b04daa1c75aa9980"/>
+		<rom name="eXoScummVM/Nancy Drew - Treasure in the Royal Tower (CD Windows).zip" size="543538356" crc="850e7a07" sha1="589887fbaf1017b5a9b4d6d3947e594db693b41b"/>
+		<rom name="eXoScummVM/Nancy The Happy Whore and The Perfidious Petrol Station (Windows).zip" size="13753595" crc="bd00023b" sha1="08a3c197171dacc8e01956f4bba7f85734192208"/>
+		<rom name="eXoScummVM/Nathans Second Chance (Windows).zip" size="7873131" crc="318f3979" sha1="da38d44d3165df2c74df2892840fb4c5ec211885"/>
+		<rom name="eXoScummVM/Necropolis (Macintosh).zip" size="260437" crc="d5d84e69" sha1="c455e68079e71a8563c1e1cf8936646c47695b98"/>
+		<rom name="eXoScummVM/Neverhood, The (CD Windows).zip" size="618668801" crc="37f8b924" sha1="2bdb81d99cb339ab4adfc1ec3a95a06fcb4306a7"/>
+		<rom name="eXoScummVM/Nightcrawler Ned (Macintosh).zip" size="177950" crc="7069d4ca" sha1="c1e86b68e3025e8b9600a70a5a71b2de271d6e5d"/>
+		<rom name="eXoScummVM/Nightlong - Union City Conspiracy (CD Windows).zip" size="1531852766" crc="21719904" sha1="8ef4b117470ad23a5a2eb5b8c18a4eaca1aac715"/>
+		<rom name="eXoScummVM/Nippon Safes Inc (Multi-Platform).zip" size="5594081" crc="b62a1fa9" sha1="32b784e3ca6d54579c4160f263fea4d9ffa7e633"/>
+		<rom name="eXoScummVM/Nord and Bert Couldn&apos;t Make Head or Tail of It (DOS).zip" size="124492" crc="4826c15a" sha1="1d2c779061501578266ac8494d341a6a4f8d645a"/>
+		<rom name="eXoScummVM/Nosebound (Windows).zip" size="367628117" crc="dde720dd" sha1="9f17542f2958d0d45274311322d2f2b25832987c"/>
+		<rom name="eXoScummVM/Obsidian (Multi-Platform).zip" size="4204738139" crc="fdef01a1" sha1="1762bfc828c235861ecdc7609b5e9c93e46843fa"/>
+		<rom name="eXoScummVM/Oceanspirit Danish (Windows).zip" size="28466255" crc="9ed067e5" sha1="4130ba1ec0fa5fb77159d15eb83a53fd96660fbc"/>
+		<rom name="eXoScummVM/Octave (Windows).zip" size="76229500" crc="c3fe0cfd" sha1="1f447ac8454547b9ace4852cdcb2300f767570a2"/>
+		<rom name="eXoScummVM/Odyssey (Macintosh).zip" size="160076" crc="c53aa221" sha1="a5a8b85609e476497b88390ec1d37790a158ccd8"/>
+		<rom name="eXoScummVM/Oknytt (Windows).zip" size="891591695" crc="5cfae984" sha1="5960ee2d854c9f5f7499d2aaf098e037d35a3a7d"/>
+		<rom name="eXoScummVM/Once Upon A Time - Abracadabra (Multi-Platform).zip" size="2568945" crc="40fdc647" sha1="f11951a306e3ad5417794be85506aeaae8e95e28"/>
+		<rom name="eXoScummVM/Once Upon A Time - Baba Yaga (Multi-Platform).zip" size="2465255" crc="2da6304b" sha1="51c214a91b886bbf93da2c05e487d39761fb63d0"/>
+		<rom name="eXoScummVM/Once Upon A Time - Little Red Riding Hood (Multi-Platform).zip" size="1485553" crc="173fb031" sha1="9549fee71f3b9e1bddd427237d720dd9d200f493"/>
+		<rom name="eXoScummVM/Oo-Topos (DOS).zip" size="127699" crc="68d98e55" sha1="5f4dce17e3d180ea69d50fbaeb7736743dd2ef64"/>
+		<rom name="eXoScummVM/Open Quest (Multi-Platform).zip" size="84671034" crc="127e81f0" sha1="589eea05309a26d3f9650670425b6e02c4005bbc"/>
+		<rom name="eXoScummVM/Operation Stealth (Multi-Platform).zip" size="12009149" crc="03d1ba02" sha1="3ae42e61eb16b0acbf0dac3cd0afa1a9ae3a939e"/>
+		<rom name="eXoScummVM/Orion Burger (DOS).zip" size="253012019" crc="1a1a5eed" sha1="afe42c24cd32f41afeb52c973aa6910a71773491"/>
+		<rom name="eXoScummVM/Out Of Order (Multi-Platform).zip" size="21259220" crc="53924fba" sha1="3cb9b8a1f036942dbfeb7ff0abb6972945ad0f20"/>
+		<rom name="eXoScummVM/Out of this World (Multi-Platform).zip" size="2156136" crc="f1c9e829" sha1="03e80802fe00f3823ef8d5a4be18b709bfe85dcd"/>
+		<rom name="eXoScummVM/P-W Adventure (Macintosh).zip" size="772866" crc="af5883a8" sha1="145572f384e81b83ccfa2eec954c3b752e4933b9"/>
+		<rom name="eXoScummVM/Paintaria (Windows).zip" size="48327659" crc="77a3ca8d" sha1="06909a86515ad07842e0ab5a06e74d1cc5796317"/>
+		<rom name="eXoScummVM/Pajama Sam - Games to Play on Any Day (CD Windows).zip" size="153313017" crc="bd95f79f" sha1="037dd0cd21b9e267ea6a30b0143d016c99bf837d"/>
+		<rom name="eXoScummVM/Pajama Sam 1 - No Need to Hide When it&apos;s Dark Outside (Multi-Platform).zip" size="275073365" crc="d894c58f" sha1="857ad0f3f370b08d8c4dd0c0ecf27bfb52f7225b"/>
+		<rom name="eXoScummVM/Pajama Sam 2 - Thunder and Lightning Aren&apos;t so Frightening (Multi-Platform).zip" size="219039978" crc="646485a7" sha1="a0273124e74be6786d848adfa706746f18f2e4cb"/>
+		<rom name="eXoScummVM/Pajama Sam 3 - You Are What You Eat From Your Head to Your Feet (Multi-Platform).zip" size="289310727" crc="496cb3c5" sha1="3ab391111b4b9413ab55e3e9d19e63506aeca34d"/>
+		<rom name="eXoScummVM/Pajama Sam&apos;s Lost And Found (Multi-Platform).zip" size="23787374" crc="509637d3" sha1="251d6a908a365cd29b59ee12379957dd73beb630"/>
+		<rom name="eXoScummVM/Pajama Sam&apos;s One-Stop Fun Shop (Windows).zip" size="43951373" crc="0fe3566c" sha1="0d15008098360c5079f80f40cf3f361f6b7b5b20"/>
+		<rom name="eXoScummVM/Pajama Sam&apos;s Sock Works (Multi-Platform).zip" size="25482818" crc="de63bc0c" sha1="a5bbe0a408ad9d87e700924969e13475759f43e1"/>
+		<rom name="eXoScummVM/Parrot Talk (Macintosh).zip" size="197681" crc="f22f0461" sha1="4d929e56a854c7435722289b86589580552ea92a"/>
+		<rom name="eXoScummVM/Passport to Adventure (CD DOS).zip" size="598221" crc="4991ae89" sha1="febb17f5f353c00107dd27f32e99bab69216dd0a"/>
+		<rom name="eXoScummVM/Pavilion (Macintosh).zip" size="156475" crc="c966bacd" sha1="f59f5755ca8881f7cbbfee561842a213f3de90b0"/>
+		<rom name="eXoScummVM/Pawn, The (Floppy DOS).zip" size="979623" crc="eb75120c" sha1="b5e5d72983cf4afc20ccd30ca30f764814e0ff99"/>
+		<rom name="eXoScummVM/Penumbra - Overture (Windows).zip" size="379386403" crc="5a5695a1" sha1="c81e88f8bdff168feb04f0e17fe552d9cdaf5f2d"/>
+		<rom name="eXoScummVM/Peppers Adventures In Time (Floppy DOS).zip" size="8643172" crc="9b5099c2" sha1="8b479639b262dba1ca350886beaf1559ff23c55c"/>
+		<rom name="eXoScummVM/Perfect Tides (Windows).zip" size="711963184" crc="d025f9bd" sha1="1993e4cbc072c92df2e5fb8af40e753434b6caf7"/>
+		<rom name="eXoScummVM/Periapt (Macintosh).zip" size="727844" crc="5bd18cdd" sha1="b1849582cbb398dce833ed072d40ef529deb7be8"/>
+		<rom name="eXoScummVM/Personal Nightmare (Multi-Platform).zip" size="4637688" crc="73087008" sha1="182994bfc06fec18692d4ead529ade4fce9c69e8"/>
+		<rom name="eXoScummVM/Phantasmagoria (CD Windows).zip" size="2380457277" crc="077f94bf" sha1="1df2a21edf43fd5fa06c4968b72f67fe5d67839d"/>
+		<rom name="eXoScummVM/Phantasmagoria 2 (CD Windows).zip" size="1956538089" crc="41cf5e84" sha1="792fad4934036cfb2f2c362ca71da8022c03d023"/>
+		<rom name="eXoScummVM/Phantom Fellows, The (Windows).zip" size="867573917" crc="f30af7e4" sha1="19730ed144f0dd256838b95170a829fbbff1c871"/>
+		<rom name="eXoScummVM/Philip Marlowe - Private Eye (CD Windows).zip" size="258584799" crc="9e4d192a" sha1="cee94bb6ae6aa9407e3bdd20e3fae85c9357de72"/>
+		<rom name="eXoScummVM/Phoenix, The (Macintosh).zip" size="750081" crc="cd5b8313" sha1="f6d85cb89f0573cc15fc406b05958ee9a202ebd6"/>
+		<rom name="eXoScummVM/Pigeons in the Park (Windows).zip" size="3462636" crc="1cc3409d" sha1="846c35dc4b08d1222af37ca6d3e43e90ee7559a7"/>
+		<rom name="eXoScummVM/Pilot Brothers 3 - Back Side of the Earth (Windows).zip" size="365313159" crc="a996c481" sha1="26bc4c48ee051de76588453a3e9228f39de121e2"/>
+		<rom name="eXoScummVM/Pilot Brothers 3D - The Case of Garden Pests (Windows).zip" size="593046227" crc="25d3e903" sha1="c14f02407bf819cc76ce7401a539d5d27947d3c6"/>
+		<rom name="eXoScummVM/Pilot Brothers 3D-2 - Kennel Club Secrets (Windows).zip" size="700374889" crc="eedeb2a9" sha1="ab121ff9844e58bd8a9fd0c312402b470001b80e"/>
+		<rom name="eXoScummVM/Pink Panther, The - Hokus Pokus Pink (CD Windows).zip" size="265930501" crc="6b783662" sha1="fa1c2bba5863311075fb4ab1290ac0742358b196"/>
+		<rom name="eXoScummVM/Pink Panther, The - Passport to Peril (CD Windows).zip" size="329130138" crc="f28d16b3" sha1="58d2039c4056c38922e8dffe271d5040d1b0fdcd"/>
+		<rom name="eXoScummVM/Pirate Adventure (IF).zip" size="6337" crc="e395e873" sha1="5dbb504c94863a99da1610eb92e6319d2b50d057"/>
+		<rom name="eXoScummVM/Pirate Attack (Macintosh).zip" size="209025" crc="80a310fa" sha1="b6fe7953d587cb29b522c8f8179d91fb6fca1b82"/>
+		<rom name="eXoScummVM/Pirating (IF).zip" size="14014" crc="61000781" sha1="b6fd5633f89cf88c217a3c681361523721cda98c"/>
+		<rom name="eXoScummVM/Planetfall (DOS).zip" size="95995" crc="abf0aa06" sha1="9c9dccb5d32e21e3ee5cd5e147a5d9875575ae82"/>
+		<rom name="eXoScummVM/Playtoons 1 - Uncle Archibald (CD Windows).zip" size="184167869" crc="36f768de" sha1="fc0027ee8c01b202272aff556d008177f2c55922"/>
+		<rom name="eXoScummVM/Playtoons 2 - Case of the Counterfeit Collaborator (CD Windows).zip" size="274671013" crc="68e2f47f" sha1="cf817823de8013a76099a331b3ec8a993dff0b38"/>
+		<rom name="eXoScummVM/Playtoons 3 - Secret of the Castle (CD Windows).zip" size="201349287" crc="c233c806" sha1="7bed36d751a2986e2afcab9b70c911d1675d29c7"/>
+		<rom name="eXoScummVM/Playtoons 4 - The Mandarine Prince (CD Windows).zip" size="271697193" crc="873e327d" sha1="90031b69eba59488b159b6cd361daeb12a648572"/>
+		<rom name="eXoScummVM/Plumbers Don&apos;t Wear Ties (Multi-Platform).zip" size="809006981" crc="23e315bc" sha1="f3548e831a1a1bed6f99148007d795947db49916"/>
+		<rom name="eXoScummVM/Plundered Hearts (DOS).zip" size="96547" crc="b99ada43" sha1="2df3e9436e56ebde682e269f15247be74081df60"/>
+		<rom name="eXoScummVM/Police Quest 1 - In Pursuit of the Death Angel (Multi-Platform).zip" size="15535722" crc="f93aac23" sha1="ec0a9cd4a78034f248224dbe673c01719043381e"/>
+		<rom name="eXoScummVM/Police Quest 2 - The Vengeance (Multi-Platform).zip" size="7207204" crc="0fb9406b" sha1="06c16e028e1f1426dd797858e8af69fc05db34b7"/>
+		<rom name="eXoScummVM/Police Quest 3 - The Kindred (Multi-Platform).zip" size="12767899" crc="1dae4dd7" sha1="b4aa60e6854cbdac602b242f10da78d941b75fc4"/>
+		<rom name="eXoScummVM/Police Quest 4 - Open Season (Multi-Platform).zip" size="700905204" crc="b3633c8b" sha1="2badcb7cc338ba37eacfd386fa85eea59ee15405"/>
+		<rom name="eXoScummVM/Police Quest SWAT (CD DOS).zip" size="1805667838" crc="cea7209e" sha1="3701e5ec03db1f11adcfee9dfa33617932319525"/>
+		<rom name="eXoScummVM/Precious Pills, Blasting Bacon and Mowing Minds (Windows).zip" size="18851511" crc="3245f28b" sha1="965e432ffbc1aff6427bc8d4b945984751fcce64"/>
+		<rom name="eXoScummVM/Primordia (Windows).zip" size="1141261322" crc="aa857eca" sha1="9b6d3368441e9b87af183cec2e0a8c83ec770bc7"/>
+		<rom name="eXoScummVM/Prince and the Coward, The (CD Windows).zip" size="441141293" crc="bf9d22c7" sha1="0a4e939eb9ee80f3f8b3f88c42ec1ae1a8842e94"/>
+		<rom name="eXoScummVM/Project - Doom (Windows).zip" size="69555706" crc="6086b38a" sha1="3ad23212250af965a3b313b19de0f2a3435cf7f1"/>
+		<rom name="eXoScummVM/Psychotic (Macintosh).zip" size="1399993" crc="bdd7bf17" sha1="9fad0cbbc3c94d2eb118c654b8852be1de70a7a3"/>
+		<rom name="eXoScummVM/Putt-Putt and Fatty Bear&apos;s Activity Pack (Multi-Platform).zip" size="18120429" crc="536a2bfd" sha1="db8536959f34326f7b578a0510239e32f59556f4"/>
+		<rom name="eXoScummVM/Putt-Putt and Pep&apos;s Balloon-O-Rama (Multi-Platform).zip" size="60370246" crc="9b286199" sha1="c008de9520a7845c9b8ee7bc5dd9168505dc022e"/>
+		<rom name="eXoScummVM/Putt-Putt and Pep&apos;s Dog on a Stick (Multi-Platform).zip" size="63429423" crc="899af92d" sha1="34681ee701dbd0f7ff59e507148cc18bc036f281"/>
+		<rom name="eXoScummVM/Putt-Putt Enters the Race (Multi-Platform).zip" size="223152560" crc="f34d6bc1" sha1="12789a572228f40e6905baed908d1c37bbeb7a57"/>
+		<rom name="eXoScummVM/Putt-Putt Goes to the Moon (Multi-Platform).zip" size="94542200" crc="26a2d1fd" sha1="e72af52e73af8c8d5ad1dca1b05f94c4c85a05f4"/>
+		<rom name="eXoScummVM/Putt-Putt Joins the Circus (Multi-Platform).zip" size="258206605" crc="8ab2bcbe" sha1="e6341be91e8e956b4b9dea2be056f03d8c4d2f7a"/>
+		<rom name="eXoScummVM/Putt-Putt Joins the Parade (Multi-Platform).zip" size="121023947" crc="60591307" sha1="24980ddd1a913048422d7bbc910aeef8c0519dc9"/>
+		<rom name="eXoScummVM/Putt-Putt Saves the Zoo (Multi-Platform).zip" size="255926781" crc="decfcbd9" sha1="c613a2155f84c08dbe59d6645c7073e3d3d165a3"/>
+		<rom name="eXoScummVM/Putt-Putt Travels Through Time (Multi-Platform).zip" size="324754136" crc="7f0278ce" sha1="9a11bd766a34caad31aa3cb2e55245d7613abb10"/>
+		<rom name="eXoScummVM/Putt-Putt&apos;s Fun Pack (Multi-Platform).zip" size="13574626" crc="a3b7dc9d" sha1="3fff3c8bdb83ff5a45fa05ac5fab2cdff6a0980a"/>
+		<rom name="eXoScummVM/Putt-Putt&apos;s One-Stop Fun Shop (Multi-Platform).zip" size="83626567" crc="72157893" sha1="ee10971b1daf71236defde27eee3de6390e227ab"/>
+		<rom name="eXoScummVM/Puzzle Bots (Windows).zip" size="185547685" crc="bc4c30da" sha1="df408cdab4ddcb7f450bba3f1b02b9710ab41b40"/>
+		<rom name="eXoScummVM/Puzzle Piece Search (Macintosh).zip" size="508707" crc="396941eb" sha1="0997b70a365d0f8dcc7f984a074b9426f47ad0be"/>
+		<rom name="eXoScummVM/Pyramid of Doom (IF).zip" size="6327" crc="618c2acf" sha1="0d8180651e541fb69c2c9f4d9c6dd8c964d3f3c9"/>
+		<rom name="eXoScummVM/Pyramid of Ert (Macintosh).zip" size="393414" crc="0717fab9" sha1="755de83424b7ad646f5f613e688fc7a248e64bac"/>
+		<rom name="eXoScummVM/Pyramid of No Return (Macintosh).zip" size="254595" crc="c7c3c839" sha1="02baed50860bd7153574e29ab4876d296065e43b"/>
+		<rom name="eXoScummVM/Qajary Cat (Windows).zip" size="1015679481" crc="30887ab0" sha1="558af978ef8430a3523ae1ae0b4e2348d2f038b7"/>
+		<rom name="eXoScummVM/Queen Quest (Macintosh).zip" size="62801" crc="9a11c581" sha1="d1e5c22f72d21c4072808c97292b842d04431a89"/>
+		<rom name="eXoScummVM/Quest for Glory 1 - So You Want to be a Hero (Multi-Platform).zip" size="33922764" crc="0c5f5580" sha1="9b387369d48fb192c4c6460414ee598ad931595d"/>
+		<rom name="eXoScummVM/Quest for Glory 2 - Trial by Fire (Multi-Platform).zip" size="90954828" crc="0f04ff1c" sha1="441571cb584960347f587dd4a5442abd189d74e7"/>
+		<rom name="eXoScummVM/Quest for Glory 3 - The Wages of War (Multi-Platform).zip" size="14205131" crc="ad1aeebf" sha1="9a359c5ce92178f829f2c7521dfea4ff16106aa7"/>
+		<rom name="eXoScummVM/Quest for Glory 4 - Shadows Of Darkness (Multi-Platform).zip" size="923736797" crc="cd3bae94" sha1="4aab0862420c671474ddd3419b019385bd84ac43"/>
+		<rom name="eXoScummVM/Quest for Infamy (Windows).zip" size="1625925900" crc="69f7fe45" sha1="91d017cd568eb2c5230d307dd732f171b13ba55f"/>
+		<rom name="eXoScummVM/Quest for T-Rex (Macintosh).zip" size="2262050" crc="aefe4213" sha1="e01a7af1a9d16e04c3190822c67365a186c5859a"/>
+		<rom name="eXoScummVM/Quest for the Dark Sword (Macintosh).zip" size="314407" crc="4f959871" sha1="fea89b2e35c6e4c43f3db45244bd0461e6fb9373"/>
+		<rom name="eXoScummVM/Quest for Yrolg (Windows).zip" size="101708859" crc="85f543e8" sha1="ad549bc9b6112412c9409bfd6f55b537d7904e0f"/>
+		<rom name="eXoScummVM/Quester (Macintosh).zip" size="347385" crc="38c7530a" sha1="02c44dfbf7b9d3d4d297ac70460c8793dfb146a2"/>
+		<rom name="eXoScummVM/Questprobe - Spider-Man (IF).zip" size="11580" crc="6d5ec766" sha1="d0d4a8925eb23fe407851e74fbd5f22021051c68"/>
+		<rom name="eXoScummVM/Questprobe - The Hulk (IF).zip" size="6468" crc="f7a87400" sha1="4a02449920905465931c3d9c262741898cc01738"/>
+		<rom name="eXoScummVM/Radical Castle (Macintosh).zip" size="243529" crc="2132521b" sha1="343e314ac729485b69ae3de912c418d282cd3c61"/>
+		<rom name="eXoScummVM/RAMA (CD Windows).zip" size="1240246836" crc="df74c2a5" sha1="baa9565354eb4c589edd2f4da8acce81fcd122fe"/>
+		<rom name="eXoScummVM/Rays Maze (Macintosh).zip" size="1278410" crc="a9bba062" sha1="0a2ac19c455578ee9bd56b24ca8a110af882aa02"/>
+		<rom name="eXoScummVM/Reah - Face the Unknown (DVD Windows).zip" size="5674949406" crc="67c6038e" sha1="40a049e976a793fb1ab9c6f5f31dc482fe78eeef"/>
+		<rom name="eXoScummVM/Realms and Reality (Macintosh).zip" size="625889" crc="d1da9c7b" sha1="eb8fc6a1ed475eea5d42100553a639c451374d45"/>
+		<rom name="eXoScummVM/Red Bow (Windows).zip" size="34576857" crc="be992c43" sha1="83f9b0d833b70ee7e5cc16b2b89d74a2a7f76325"/>
+		<rom name="eXoScummVM/Red Comrades 2 - For the Great Justice (Windows).zip" size="399102758" crc="7540785e" sha1="debf006b38e7996440f5d9fda393767cbbb72783"/>
+		<rom name="eXoScummVM/Red Comrades Save the Galaxy (Windows).zip" size="1439071889" crc="83005e80" sha1="e9e0aa7a27f9dfc6ddcc09cc9573e3bec109443d"/>
+		<rom name="eXoScummVM/Resonance (Windows).zip" size="496023937" crc="27e11ca9" sha1="81060c44664c3d1beb8db7190003098df1842d0b"/>
+		<rom name="eXoScummVM/Return to Eden (Multi-Platform).zip" size="311355" crc="8e6523b9" sha1="8b48fe4e974a2a29f442d762c7d11d114279bf3c"/>
+		<rom name="eXoScummVM/Return to Pirate&apos;s Isle (IF).zip" size="6422" crc="0a3dfc0c" sha1="eef412877f15a4aa778b1c57c8ca17ecf465064b"/>
+		<rom name="eXoScummVM/Return to Ringworld (CD DOS).zip" size="110052525" crc="0f338744" sha1="2ca306c3717a56848b0804f685903f06369407dd"/>
+		<rom name="eXoScummVM/Return to Zork (Multi-Platform).zip" size="663592458" crc="d063efcb" sha1="cf417c84afbb8ac0be626bde0536457932eafd73"/>
+		<rom name="eXoScummVM/Reversion - Chapter 1 - The Escape (Windows).zip" size="261108368" crc="6840ef25" sha1="ed6429b8383f84516ad31472b1164b9550a9488f"/>
+		<rom name="eXoScummVM/Reversion - Chapter 2 - The Meeting (Windows).zip" size="347120313" crc="78e477d8" sha1="6b149849223883e6efe688c10d6acf41e6338bcc"/>
+		<rom name="eXoScummVM/Reversion - Chapter 3 - The Return (Windows).zip" size="2083289824" crc="94ed8a49" sha1="d384b234cf917081b92674f39b44a7e43d3f9911"/>
+		<rom name="eXoScummVM/Rex Nebular And The Cosmic Gender Bender (Floppy DOS).zip" size="10532182" crc="77be92b2" sha1="b72e1d3c506797ec231326c4cf04e79d7527cfcb"/>
+		<rom name="eXoScummVM/Rhiannon - Curse of the four Branches (Windows).zip" size="1028301591" crc="699b7475" sha1="959bebfaacd775936ad2f04c7819902ff0a31529"/>
+		<rom name="eXoScummVM/Ringworld - Revenge of the Patriarch (Multi-Platform).zip" size="31753922" crc="4720e6dd" sha1="2462f61511e7cd467fb36fcee01768539d7d67ca"/>
+		<rom name="eXoScummVM/Ripley&apos;s Believe It Or Not - The Riddle of Master Lu (CD DOS).zip" size="278914421" crc="f15670b9" sha1="1ebefe3b05be7fd849439da7dcb3972be57df5ee"/>
+		<rom name="eXoScummVM/Rise of the Dragon (DOS).zip" size="11650062" crc="3516f075" sha1="c197084f83813f56d523c2b4b76aea660c71d11d"/>
+		<rom name="eXoScummVM/Riven (Multi-Platform).zip" size="6850306074" crc="2a8d4cca" sha1="de4a3bcb49c7d5a8945488a7834d27a02c7a7a82"/>
+		<rom name="eXoScummVM/Road ScummC Demo (ScummC).zip" size="124069" crc="0e6832ad" sha1="b5884fe428a4c37da6f1341c7a1aa80909fd07d3"/>
+		<rom name="eXoScummVM/Robins Rescue (Windows).zip" size="16619380" crc="13b965ea" sha1="87085e3576e2e0e12350214c2bd19ffa65c3fabb"/>
+		<rom name="eXoScummVM/Robot Planet (Macintosh).zip" size="64899" crc="5e7d8ba3" sha1="101f898b58cc01bc74b57ee9b8a01c425d75e99d"/>
+		<rom name="eXoScummVM/Rodney&apos;s Fun Screen (Floppy DOS).zip" size="1432947" crc="0d572921" sha1="509d033f2f6019ad2821011e3b53adcc32d18c02"/>
+		<rom name="eXoScummVM/Romulan Adventure (IF).zip" size="5659" crc="86cb276f" sha1="0f4f1ab8731320949383beb2c795c7a0b853794c"/>
+		<rom name="eXoScummVM/Rosemary (Windows).zip" size="30096707" crc="dc41184f" sha1="624062ce5f27cb6331eef07b622881dfa33e65ca"/>
+		<rom name="eXoScummVM/Royal Malaise (Macintosh).zip" size="188550" crc="fb2874ee" sha1="05035b50f678407afd7d59aa4c753a0a30805838"/>
+		<rom name="eXoScummVM/Saga of Erik the Viking, The (Multi-Platform).zip" size="228965" crc="0f25ad55" sha1="5a9f6abbe6ab175f06947b9bc12c2a35868ce988"/>
+		<rom name="eXoScummVM/Sam and Max Hit the Road (Multi-Platform).zip" size="236566306" crc="732b2484" sha1="0e6b16008f5c0eeeb2bef1c47fdba5189510ba21"/>
+		<rom name="eXoScummVM/Sands of Time (Macintosh).zip" size="227515" crc="d5a57300" sha1="a89c2c112877a21617a85635104ba8e1008cf561"/>
+		<rom name="eXoScummVM/Sanitarium (Windows).zip" size="1334381377" crc="fbe60c29" sha1="4be7b6cbd010282f7c21c6ec962df6387aaa11d9"/>
+		<rom name="eXoScummVM/Savage Island, Part 2 (IF).zip" size="6447" crc="0a6c6684" sha1="1678277b998a27412a088e96b84348bd35b04420"/>
+		<rom name="eXoScummVM/Savage Island, Part I (IF).zip" size="6720" crc="0b403967" sha1="3e56377f8876abcc27694b3f55ec6a6965419215"/>
+		<rom name="eXoScummVM/Scapeghost (Multi-Platform).zip" size="1169991" crc="aaaa6702" sha1="9b636942d9e27e7707d5620d41f8ff569277286b"/>
+		<rom name="eXoScummVM/Schizm - Mysterious Journey (CD Windows).zip" size="2945692067" crc="be5948d7" sha1="4cf49fabf88fabb9d22d8af4aff4a3c653f5616b"/>
+		<rom name="eXoScummVM/Schmoozer (Macintosh).zip" size="1410627" crc="e718a900" sha1="766f92017ae2e9a02cb06f7d9b7da58102697381"/>
+		<rom name="eXoScummVM/Seastalker (DOS).zip" size="84325" crc="64647885" sha1="47404d30249d21c6dea1d337d0283003be2fc40e"/>
+		<rom name="eXoScummVM/Secret Diary of Adrian Mole, The (Multi-Platform).zip" size="962518" crc="61e1af13" sha1="13a1bfce1a98eacd16c8ef538cb9ccaba0bde823"/>
+		<rom name="eXoScummVM/Secret Mission (IF).zip" size="5938" crc="be1f1eb7" sha1="04dcca033686702a1788fe6bc97ca739e8d7c61b"/>
+		<rom name="eXoScummVM/Secret of Monkey Island, The (Multi-Platform).zip" size="2968657997" crc="23ace214" sha1="60832c7fc45329dda9ca66f1ee2b1cc2b607b5f6"/>
+		<rom name="eXoScummVM/Secret of Tremendous Corporation, The (Windows).zip" size="36613174" crc="111ec7f1" sha1="d42253acc1d5f0fbf9f61a183b92fe5aee541307"/>
+		<rom name="eXoScummVM/Serguei&apos;s Destiny (DOS).zip" size="334859" crc="9e04e4ba" sha1="dcdac5b9d2f3a22ebca2d3ed9d1f5ec2b8e06b00"/>
+		<rom name="eXoScummVM/Sfinx (CD DOS).zip" size="16494383" crc="d5a5d8ec" sha1="f13d9bdd3f6a38816aa793c99ef92c9784ca26e1"/>
+		<rom name="eXoScummVM/Shaban (Windows).zip" size="736581465" crc="6122a3ba" sha1="c8bf82f73eccd89ef3fa07ad7bd236efc28a2407"/>
+		<rom name="eXoScummVM/Shadowgate (Floppy Macintosh).zip" size="674882" crc="79c4c266" sha1="7ae99bc5edd69c3bd734af28acba3b66e389ed8d"/>
+		<rom name="eXoScummVM/Shadows on the Vatican - Act I - Greed (Windows).zip" size="987759378" crc="1bd78198" sha1="371d872fb3026165a49c774d589a10046839c492"/>
+		<rom name="eXoScummVM/Shadows on the Vatican - Act II - Wrath (Windows).zip" size="1037928054" crc="bf1a9a60" sha1="64c095b6770067b0448d06e3e8d072c8bd84db3d"/>
+		<rom name="eXoScummVM/Shardlight (Windows).zip" size="600527861" crc="f2082773" sha1="db6d9ca522fc7e68f8fc1a693818467e5d673e52"/>
+		<rom name="eXoScummVM/Sherlock Holmes - The Riddle of the Crown Jewels (DOS).zip" size="498150" crc="ed5b3127" sha1="8a7eaf2446c37bf2e097d1614e67aec8b6bee68d"/>
+		<rom name="eXoScummVM/Shivah, The (Multi-Platform).zip" size="341755052" crc="7922de63" sha1="679ee89eee9620b557ea7aee82f12d9f4b2acdef"/>
+		<rom name="eXoScummVM/Shivers (Multi-Platform).zip" size="762663582" crc="52b7d4d6" sha1="47468f0a007a363bc6e9897604d959816ac52371"/>
+		<rom name="eXoScummVM/Silent Footsteps (Windows).zip" size="754486279" crc="a394f737" sha1="7f331a3c59bc3a41f50e05cf6a3d4482d95c84ff"/>
+		<rom name="eXoScummVM/Simon the Sorcerer 1 (Multi-Platform).zip" size="828689677" crc="1b6737e3" sha1="deb4762f70b2babcc2f21da5fd77d0733a77f6a5"/>
+		<rom name="eXoScummVM/Simon the Sorcerer 2 (Multi-Platform).zip" size="105519611" crc="cca0bb6f" sha1="b9bac3d735aacfffd61a5bdd519415614c0073ad"/>
+		<rom name="eXoScummVM/Simon the Sorcerer Puzzle Pack (CD Windows).zip" size="688922366" crc="18607d28" sha1="947c8e4b08485fa9978f039f654cf16acca25eb9"/>
+		<rom name="eXoScummVM/Slater and Charlie Go Camping (Multi-Platform).zip" size="12518885" crc="836ce215" sha1="8230fe3c6be4ce96f2bb8f6c0305fe68133f18d8"/>
+		<rom name="eXoScummVM/sMythWorld (Macintosh).zip" size="525463" crc="9672982d" sha1="f7441084b707f65894d2ebf065fa1ee8f39efb39"/>
+		<rom name="eXoScummVM/Snowball (Multi-Platform).zip" size="235307" crc="d11d420e" sha1="78c05aa5acf1c5a0ca9193e194120c4d97ed38ff"/>
+		<rom name="eXoScummVM/Sofias Debt (Windows).zip" size="9267840" crc="6bd56607" sha1="1828febc63f2f94012bf6f28b62c834bc0cf9bd0"/>
+		<rom name="eXoScummVM/Softporn Adventure (IF).zip" size="62889" crc="53640470" sha1="4dff1d82d15203a06a654e9dacdb087017defa05"/>
+		<rom name="eXoScummVM/Soldier Boyz (DOS).zip" size="449736928" crc="ac5c3064" sha1="4643716e94a34c47d0e74faecfc2447f13e7b9d1"/>
+		<rom name="eXoScummVM/Soltys (DOS).zip" size="3501292" crc="9cbe2018" sha1="6c654b98911601b80a1bcc2048e2e9c09b6e1c30"/>
+		<rom name="eXoScummVM/Sorcerer (DOS).zip" size="79444" crc="08d8d98d" sha1="852c3dda2ff03ee5d2e2f8116edb9ec744435f4a"/>
+		<rom name="eXoScummVM/Sorcerer of Claymorgue Castle (IF).zip" size="6575" crc="944a43db" sha1="f86d5d3eb3e6235015689b9535d57e9b084f25c0"/>
+		<rom name="eXoScummVM/Sorceror Quest (Macintosh).zip" size="316591" crc="697c7878" sha1="dc2f29a1c5473ad75eb8f91b5591a513a183981a"/>
+		<rom name="eXoScummVM/Sound of One Hand Clapping, The (IF).zip" size="37816" crc="ac17c1a0" sha1="96cf854f4a3c214a537adc6168b60364764cbba3"/>
+		<rom name="eXoScummVM/Space Adventure (Macintosh).zip" size="342014" crc="437ddc42" sha1="236a4c9b9e0653e61f73ea33ac15092f76f53fab"/>
+		<rom name="eXoScummVM/Space Bar, The (Multi-Platform).zip" size="3486401412" crc="879077f8" sha1="33ee312793de6f12b4e1c21e0b374ee0662b37d2"/>
+		<rom name="eXoScummVM/Space Madness (Windows).zip" size="129344210" crc="619cc1ad" sha1="0c6755be83d95024dff4aad9e7f734079faa42dd"/>
+		<rom name="eXoScummVM/Space Quest - Vohaul Strikes Back (Windows).zip" size="362871878" crc="ec1bf05a" sha1="aae66c9010c97bb2b32bc66c90fa8b52f7d783f5"/>
+		<rom name="eXoScummVM/Space Quest 0 - Replicated (DOS).zip" size="673852" crc="b79dde9b" sha1="42427954633eb9bbba32be1bbe8d15fcb3bfb8f5"/>
+		<rom name="eXoScummVM/Space Quest 1 - The Sarien Encounter (Multi-Platform).zip" size="22578855" crc="acc88048" sha1="322fb9c632c03792721728a640dbba031acf3635"/>
+		<rom name="eXoScummVM/Space Quest 2 - Vohaul&apos;s Revenge (Multi-Platform).zip" size="507882451" crc="455ca0b0" sha1="a8f5379ee52e11351369ed8f1ee8c5d6a98132ab"/>
+		<rom name="eXoScummVM/Space Quest 3 - The Pirates of Pestulon (Multi-Platform).zip" size="9580407" crc="5f06c839" sha1="e0d96c3e1b6aa79fcf788a893ff5c1499887a4b1"/>
+		<rom name="eXoScummVM/Space Quest 4 - Roger Wilco and the Time Rippers (Multi-Platform).zip" size="197975734" crc="bda3ff6c" sha1="582590dac84ca82dd460421ed20e1b163114998e"/>
+		<rom name="eXoScummVM/Space Quest 5 - The Next Mutation (Floppy DOS).zip" size="6806434" crc="82167142" sha1="62d12dec61992ea2402de53306359802f465c42e"/>
+		<rom name="eXoScummVM/Space Quest 6 - The Spinal Frontier (CD DOS).zip" size="512978112" crc="b06bd32a" sha1="1f7e71afec9a9074e5b98ea45bf06d5b15e93f21"/>
+		<rom name="eXoScummVM/Space Quest X - The Lost Chapter (DOS).zip" size="875708" crc="f97d1561" sha1="0d9ed549e4f91e70c3e0fa78270705783d84b99d"/>
+		<rom name="eXoScummVM/Spaceship Warlock (Windows).zip" size="74956356" crc="2860a53f" sha1="29d728c2d3ea84bf8367590f387a0fbd06e1a5c7"/>
+		<rom name="eXoScummVM/SparGate (Macintosh).zip" size="331292" crc="1f96f529" sha1="26e09ef8a82b5ea73c0e52ad1eb61a665d7c7d87"/>
+		<rom name="eXoScummVM/Spear of Destiny (Macintosh).zip" size="2568216" crc="a51bf14a" sha1="752c8f8f69f1f3c88055f604b762bc5db9171eff"/>
+		<rom name="eXoScummVM/Spellbreaker (DOS).zip" size="95371" crc="2f0df764" sha1="3c4fc13dfd67b7ca2c35e05ebb0e53120bfb8c30"/>
+		<rom name="eXoScummVM/Sphinx of Time, The (Windows).zip" size="66010670" crc="a2226934" sha1="db6b87b200386aa4d073aa00d7530f5365a74f54"/>
+		<rom name="eXoScummVM/Spy Fox 1 Dry Cereal (Multi-Platform).zip" size="430454379" crc="2cff216c" sha1="c5a4a43c8216d1147b9581812d9a1359a2e908f8"/>
+		<rom name="eXoScummVM/Spy Fox 2 Some Assembly Required (Multi-Platform).zip" size="460736570" crc="d38dc957" sha1="262d1db577d2bad364b8e232faf573c546edd67c"/>
+		<rom name="eXoScummVM/Spy Fox 3 Operation Ozone (Multi-Platform).zip" size="539680167" crc="4a565c59" sha1="ae0d484b8639196015f8e3c4ee932576b6833f10"/>
+		<rom name="eXoScummVM/Spy Fox In Cheese Chase (Multi-Platform).zip" size="31058335" crc="d5389521" sha1="1142ed0fbae813a7f88a620621f72e6adb2edb7e"/>
+		<rom name="eXoScummVM/Spy Fox In Hold The Mustard (Multi-Platform).zip" size="77587974" crc="9c4c990b" sha1="93b87cc22db68745c721f07638e282dbcd867d37"/>
+		<rom name="eXoScummVM/Star Trek (Macintosh).zip" size="1069648" crc="2d055ded" sha1="864cc372c7f776ad4e19d6364b4431200165d580"/>
+		<rom name="eXoScummVM/Star Trek 25th Anniversary (Multi-Platform).zip" size="305246141" crc="20c39d87" sha1="cb1bfb9088b5124e8fabb7f69f5545195a157efd"/>
+		<rom name="eXoScummVM/Starcross (DOS).zip" size="60722" crc="0ecc7dd9" sha1="775b6860209c737d1069d4e25b537454a9a224e1"/>
+		<rom name="eXoScummVM/Starport (Macintosh).zip" size="180891" crc="f0c89f65" sha1="9ab383cf72c3aef292796f17acbb58c4df75e847"/>
+		<rom name="eXoScummVM/Starship Columbus (IF).zip" size="31813" crc="34eb960d" sha1="d957bc050fd3aa660555b984410540635ade56ba"/>
+		<rom name="eXoScummVM/Starship Quasar (Windows).zip" size="102275139" crc="aa8d26ed" sha1="13f46737d2467cc6d48201ca6da104bb772f3ae4"/>
+		<rom name="eXoScummVM/Starship Titanic (CD Windows).zip" size="1000491960" crc="3f36830e" sha1="b75774de48d78b4b50e316e43986acbda3eeb995"/>
+		<rom name="eXoScummVM/Stationfall (DOS).zip" size="97145" crc="18d7790e" sha1="0d651c9e5af4e439b62102380c22f56e3bf985e4"/>
+		<rom name="eXoScummVM/Strange Disappearance (Macintosh).zip" size="353863" crc="62718956" sha1="3aad9538dbc15c4390dcf4d29c121945101c4fcb"/>
+		<rom name="eXoScummVM/Strange Odyssey (IF).zip" size="6147" crc="e1abcf38" sha1="8ed3dc0949d1623ff206805914d8aeb46bf92bab"/>
+		<rom name="eXoScummVM/Strangeland (Windows).zip" size="1814942627" crc="983eecd4" sha1="7841282eada5812819d565e9c5dcdd5f7824ac2c"/>
+		<rom name="eXoScummVM/Stranger in Utopia (Windows).zip" size="61137395" crc="1c86086d" sha1="cd92b3619a6a9a7c95582c49662d6033c706509b"/>
+		<rom name="eXoScummVM/Success (Macintosh).zip" size="54268" crc="ac87e426" sha1="17dd89297d1830e299bbf33da4a137cb3804a9bd"/>
+		<rom name="eXoScummVM/Sultan&apos;s Palace, The (Macintosh).zip" size="396621" crc="bc9eb10f" sha1="2453bd5e906f9b2ae8fdb7daf87d8dd02e79615c"/>
+		<rom name="eXoScummVM/Sumatra - Fate of Yandi (Windows).zip" size="179366382" crc="896dbfbf" sha1="ca4fcdeb1133d2615cde41774eb468c1316f0506"/>
+		<rom name="eXoScummVM/Super Star Trek (IF).zip" size="13424" crc="dd02e713" sha1="3f77c389d974c6886005ab7e167b873a3f4c950b"/>
+		<rom name="eXoScummVM/Suspect (DOS).zip" size="86443" crc="ded7c1b2" sha1="5744d373cae1737d68e3ae8b8367b2d4a11c31c8"/>
+		<rom name="eXoScummVM/Suspended (DOS).zip" size="70841" crc="21151835" sha1="24ceaf58e2f7db43c8dfe80469169cfc1a749baf"/>
+		<rom name="eXoScummVM/Swamp Witch (Macintosh).zip" size="2220975" crc="432ab7a2" sha1="73d21e7da498f23db2f8be97ef0c7e429ff5e959"/>
+		<rom name="eXoScummVM/Sweetspace Now (Macintosh).zip" size="217874" crc="9b46d907" sha1="306b8559c4f09f097e2f4247d5c54ccd393e70a2"/>
+		<rom name="eXoScummVM/Sword of Ages (Macintosh).zip" size="453910" crc="fa6fd697" sha1="4b8379f90d7688ec76ae315c1e42549b4a71e349"/>
+		<rom name="eXoScummVM/Sword of Siegfried (Macintosh).zip" size="151280" crc="13cd27a4" sha1="77158bff925472d59549b733f8fa22d97879280a"/>
+		<rom name="eXoScummVM/Syberia (Macintosh).zip" size="1793805490" crc="07e69635" sha1="dfdeafb5ea90e7c9de8114f9ec56dc93c88d0503"/>
+		<rom name="eXoScummVM/Syberia II (Macintosh).zip" size="1324714786" crc="36a2024b" sha1="b99d9fd86916df892e5c2cf5ac23271ddad5be90"/>
+		<rom name="eXoScummVM/Tale of Two Kingdoms, A (Windows).zip" size="310749637" crc="b2dddb80" sha1="0bdead5e90deedc041e57b0177b4e933a7d679e7"/>
+		<rom name="eXoScummVM/Technobabylon (Windows).zip" size="1094347287" crc="3fd8d6d5" sha1="2b6fc4f14ded14ab565b738c360463d6761dddf7"/>
+		<rom name="eXoScummVM/TeenAgent (Floppy DOS).zip" size="3601881" crc="c9c9ffb6" sha1="0c92d21410ab8156bab9a4f3793a7cd4b40f9cd4"/>
+		<rom name="eXoScummVM/Tender Loving Care (CD Windows).zip" size="1713383160" crc="866431c7" sha1="634b0db74591af9118a4c57c0edf82205e0b9d8e"/>
+		<rom name="eXoScummVM/Terrible Old Man, The (Windows).zip" size="203589401" crc="2a5a7b18" sha1="7740b4339d30cb5b5bed7d4c923245e28312e939"/>
+		<rom name="eXoScummVM/TeTriks (Windows).zip" size="2766497" crc="89be6e71" sha1="59316d255c6e9d9a88a4898469cff87873b53872"/>
+		<rom name="eXoScummVM/Tex Murphy 2 - Martian Memorandum (DOS).zip" size="6675262" crc="67d28200" sha1="7759f53240073025a0c2b13249e02a3a16f21ac0"/>
+		<rom name="eXoScummVM/Thimbleweed Park (Windows).zip" size="958854135" crc="00e160d5" sha1="fd0a2994a95ba8b777ad0faf9d2dc7154901c8c4"/>
+		<rom name="eXoScummVM/Time and Magik Trilogy (Multi-Platform).zip" size="1292588" crc="48ca16b0" sha1="8aa3983eb1eaf4dfd8d97e2318a8f445f4e54f62"/>
+		<rom name="eXoScummVM/Time Bomb (Macintosh).zip" size="38506" crc="16b717e3" sha1="2ff405db06a8a1858def270ea019754774bae86f"/>
+		<rom name="eXoScummVM/Time Gal (Macintosh).zip" size="235335060" crc="eee541e7" sha1="466c8a9595801ef3ae84509cdfe30088b915626b"/>
+		<rom name="eXoScummVM/Time Squisher (Macintosh).zip" size="289608" crc="d4401010" sha1="6f798b051e08710a49b8a0b70ff420590085db93"/>
+		<rom name="eXoScummVM/Time Star (Macintosh).zip" size="123601" crc="c9cbd8a1" sha1="fb42637f9804d80150908d8304b0da0b502ffc51"/>
+		<rom name="eXoScummVM/Time Streak (Macintosh).zip" size="382479" crc="501ebc4d" sha1="014969220983a99ba38cafe33e082eaee053ea31"/>
+		<rom name="eXoScummVM/TombWorld (Macintosh).zip" size="935670" crc="9efbfddb" sha1="3b6c955f2a54033c732971de638ec4a1fba92f7e"/>
+		<rom name="eXoScummVM/Tony Tough and the Night of the Roasted Moths (CD Windows).zip" size="487599461" crc="5874b0e6" sha1="a3ee7d16832f618333892bface45e23fe7d83fb5"/>
+		<rom name="eXoScummVM/Toonstruck (CD DOS).zip" size="908693159" crc="a2cc3d44" sha1="e80bb44370058c54ac057d945b8d14de665afed6"/>
+		<rom name="eXoScummVM/Top Secret Adventure (IF).zip" size="6101" crc="7cbad328" sha1="004dba2a89b8514a5fe85f4b8b1e2bc76f5aa94a"/>
+		<rom name="eXoScummVM/Torins Passage (CD Windows).zip" size="274284822" crc="275a331a" sha1="62e865c9c2533afd4a55205b75ad7e952e6a74e0"/>
+		<rom name="eXoScummVM/Total Eclipse (Multi-Platform).zip" size="218844" crc="c0c71ce5" sha1="08f6aafe019e906b22284ec4ff07cb0469b4028d"/>
+		<rom name="eXoScummVM/Total Eclipse II - The Sphinx Jinx (Multi-Platform).zip" size="30432" crc="14086b73" sha1="a6dfe071bb308695f334f3ab0f9d94a300318476"/>
+		<rom name="eXoScummVM/Touche - The Adventures of the Fifth Musketeer (CD DOS).zip" size="453818931" crc="7557d40d" sha1="1dbad541c0e32fc38265c1d23f1db805d9c0a802"/>
+		<rom name="eXoScummVM/Tower, The (Macintosh).zip" size="543504" crc="4682df54" sha1="6664d598c26620c4215dc8526dc5eb54fbcda68a"/>
+		<rom name="eXoScummVM/Transylvania (DOS).zip" size="108595" crc="c1039021" sha1="ac5c50676e2adb340c83ad8f7928ba214d2d72e0"/>
+		<rom name="eXoScummVM/Transylvania 2 - The Crimson Crown (DOS).zip" size="163716" crc="f69372bd" sha1="6e51240d4cfcf21fb41c4fd672924fb0a9941f02"/>
+		<rom name="eXoScummVM/Tri-3D-Trial (Mac).zip" size="12033146" crc="15a35f68" sha1="752dcf8ba3bd2ee4c9d34278b2580417a7ef7ed4"/>
+		<rom name="eXoScummVM/Trick or Treat (CD DOS).zip" size="3800183" crc="ea6ef12e" sha1="f1e20939118714ec32c62a7a18ba94961a2c9b94"/>
+		<rom name="eXoScummVM/Trinity (DOS).zip" size="173259" crc="e67ce05c" sha1="80bfb4abf88a98d72a4701bf2ecd03bd8a7e2c8c"/>
+		<rom name="eXoScummVM/Troll&apos;s Tale (Floppy DOS).zip" size="84158" crc="eaf4f2e6" sha1="8bcce09ee474beb4f45bd7a3440f19388b3d56bb"/>
+		<rom name="eXoScummVM/Tunnel Vision (Windows).zip" size="30541864" crc="656885c0" sha1="b48b6cdb09fa024c9e298e2c93770101908cdaa5"/>
+		<rom name="eXoScummVM/Twisted (Macintosh).zip" size="1120189" crc="cec798e3" sha1="cc5b9667b1ee2a6a92d8dc7f9b33d1e852f3d175"/>
+		<rom name="eXoScummVM/UFOs (CD Windows).zip" size="360521575" crc="99f16d7d" sha1="4f5cfe6b4886199264da0f4c62df617a5f93dc1b"/>
+		<rom name="eXoScummVM/Ultima I - The First Age of Darkness (Floppy DOS).zip" size="151068" crc="2640f41d" sha1="9c942a1a119e62075d179e558247152e3747a4c4"/>
+		<rom name="eXoScummVM/Ultima IV - Quest of the Avatar (Floppy DOS).zip" size="817482" crc="98aca725" sha1="701697ac733d2c573cd868cf096db48bcfd659a3"/>
+		<rom name="eXoScummVM/Ultima VI - The False Prophet (Floppy DOS).zip" size="364083597" crc="a1f9b5aa" sha1="da2752c6089f5ef2c889609324ccd031a2a1834c"/>
+		<rom name="eXoScummVM/Ultima VIII - Pagan (CD DOS).zip" size="16288283" crc="28b7df2d" sha1="e96035e20f3a5b0a089ecc488c82998fb4d19454"/>
+		<rom name="eXoScummVM/Unavowed (Windows).zip" size="1519060812" crc="efafbf1c" sha1="4fddfc0718725dc85a2680dc23be797df8a8da75"/>
+		<rom name="eXoScummVM/Uncle Henry&apos;s Playhouse (Windows).zip" size="239340066" crc="6cf52d6c" sha1="d4e2a135e314c86c37e24a8db1a234d5ff4f928b"/>
+		<rom name="eXoScummVM/Unrest (Windows).zip" size="724541533" crc="fa4688fc" sha1="8189d3b151728d1c184688ed465610ffc9b8de31"/>
+		<rom name="eXoScummVM/Until I Have You (Windows).zip" size="712962426" crc="d5ab0dc5" sha1="17413f5cc03896049142509fe166f0a9e33ae8b9"/>
+		<rom name="eXoScummVM/Urban Runner (CD Windows).zip" size="1646619596" crc="482433e0" sha1="e5ec920d172fafc637c81bb1c6cc8701dba33c5b"/>
+		<rom name="eXoScummVM/Vampire Diaries, The (CD Windows).zip" size="1449180618" crc="5f959390" sha1="2bac4e85eca62adc869ea0f47d6dcec301d4113c"/>
+		<rom name="eXoScummVM/Vector Vendetta (Windows).zip" size="4046373" crc="f10d8926" sha1="ea8860afd15f85a7ac598da55c1b26180033ee2d"/>
+		<rom name="eXoScummVM/Versailles 1685 (Multi-Platform).zip" size="1740967395" crc="d810cb8f" sha1="f3a0abd324ed27767441ba19b7e9291d85e6cc02"/>
+		<rom name="eXoScummVM/Village (Macintosh).zip" size="272403" crc="e31f901c" sha1="2b4b6c1baa68e5125e40d7e42cb3d9c8b1bafd35"/>
+		<rom name="eXoScummVM/Volcano (Macintosh).zip" size="373062" crc="6019917f" sha1="a4221fa40349c5387da29b76d1f0c9e1aa8701fb"/>
+		<rom name="eXoScummVM/Voodoo Castle (IF).zip" size="5943" crc="d50f07d7" sha1="21aa979b56f58ec803a536da6ec60f1ef2b2c8de"/>
+		<rom name="eXoScummVM/Voyeur (CD DOS).zip" size="251499471" crc="402c24f6" sha1="ba2dd4590f3a5b2f98babfcba19a2c2615b77ce7"/>
+		<rom name="eXoScummVM/Wait for it Issue 3 - Song for a Hare (Windows).zip" size="413288412" crc="3156a93b" sha1="02f2203a438fcc5bd794f188257ff7a85ef2d69d"/>
+		<rom name="eXoScummVM/War (Windows).zip" size="31112439" crc="80af4518" sha1="f27ae94baf045c2e30f5df799dcefa3913b9c362"/>
+		<rom name="eXoScummVM/Waxworks (Multi-Platform).zip" size="10037754" crc="6da4023b" sha1="d6cd16cd3cd85e08a931d1dc4947ca8674f9bd55"/>
+		<rom name="eXoScummVM/Ween The Prophecy (Multi-Platform).zip" size="9737222" crc="5e336ccf" sha1="6ec8259a589fc68567a05956b23078a03e31f8c1"/>
+		<rom name="eXoScummVM/Wetlands (DOS).zip" size="504405630" crc="6138a3f9" sha1="9eeb3999dab2bcd8a6d5c05eff3c067b0209f669"/>
+		<rom name="eXoScummVM/Where in Time is Carmen Sandiego (Windows).zip" size="530788352" crc="7e0ea7d0" sha1="a229a68f0c6b810c843033109f8a452851c776d3"/>
+		<rom name="eXoScummVM/Whispers of a Machine (Windows).zip" size="655541302" crc="147a515a" sha1="206912a4cd01eece736f8af229c22ba0b7498787"/>
+		<rom name="eXoScummVM/White Chamber, The (Windows).zip" size="376366024" crc="a67337c7" sha1="4c81cf614bbcdc4d1a2eecfe1b4b532b4efbf010"/>
+		<rom name="eXoScummVM/Who Shot Brownie (Macintosh).zip" size="113565" crc="46288c3c" sha1="8dbcb1470e5668b008b78e6dcf852655bc787cbb"/>
+		<rom name="eXoScummVM/Widow&apos;s Sons (Macintosh).zip" size="36135" crc="4eb63025" sha1="aefd8da932319d1bbda500c003a4890a977b8f1a"/>
+		<rom name="eXoScummVM/Wilma Tetris (Windows).zip" size="3129591" crc="3b8ed366" sha1="f34140d0658ca89f27f9b192284361b300a44190"/>
+		<rom name="eXoScummVM/Winnie the Pooh in the Hundred Acre Wood (Multi-Platform).zip" size="603745" crc="5544a46c" sha1="3c647348eb610f9aa91a95a00738733119a0dc7e"/>
+		<rom name="eXoScummVM/Wishbringer (DOS).zip" size="92324" crc="fac2b7f3" sha1="a9c7f1c21be1e78488ad5d9ff86c7502a5b177f9"/>
+		<rom name="eXoScummVM/Wishing Well (Macintosh).zip" size="117521" crc="7cc6cd31" sha1="0c7cfabf59c628e069fb5c5dceb2edf547755844"/>
+		<rom name="eXoScummVM/Witness, The (DOS).zip" size="73176" crc="a4da04c3" sha1="f2c789ee10cc5a503379bfa8f2ad65414409bdbd"/>
+		<rom name="eXoScummVM/Wizard&apos;s Apprentice, The (Macintosh).zip" size="520605" crc="83d15da3" sha1="a6593042b01cd2f76a69a933a4b2ee982899d3c4"/>
+		<rom name="eXoScummVM/Wizard&apos;s Warehouse (Macintosh).zip" size="566104" crc="22272248" sha1="3cd43b439f262e43a48941da741e75ef48878981"/>
+		<rom name="eXoScummVM/Wonderland (Floppy DOS).zip" size="2385544" crc="1bd690ad" sha1="60741c4a6596b658bd1f7a243739a61103f923bb"/>
+		<rom name="eXoScummVM/Worlds of Ultima - The Savage Empire (Floppy DOS).zip" size="3566427" crc="ac75e914" sha1="a7532222f1281c8f69ec593563982557b8708206"/>
+		<rom name="eXoScummVM/Worlds of Ultima 2 - Martian Dreams (Floppy DOS).zip" size="4412768" crc="20daf4cc" sha1="d0610a89fbd1d9e101f107d5cfcd6dda1c9f13ae"/>
+		<rom name="eXoScummVM/Worm in Paradise, The (Multi-Platform).zip" size="214730" crc="e4108e09" sha1="597fb9e58bf58487d0b723d4349f6621bb286377"/>
+		<rom name="eXoScummVM/Wrath of the Gods (CD Macintosh).zip" size="234406883" crc="0ee63ccb" sha1="57d074a2bd71c05a6a30b90586c6afe222b84d2a"/>
+		<rom name="eXoScummVM/Zak McKracken and the Alien Mindbenders (Multi-Platform).zip" size="333782806" crc="a0b20a3e" sha1="aed12f9e918e800f139e35c8dcde6baefcd7fcff"/>
+		<rom name="eXoScummVM/Zhore&apos;s Xers (Macintosh).zip" size="345615" crc="b3819127" sha1="4608464a205416839f2ae6751bc92a535e332ddb"/>
+		<rom name="eXoScummVM/ZikTuria (Macintosh).zip" size="31844" crc="b96ca1f7" sha1="17f731d06aae1c96cf3f67ddd89798e8c6528475"/>
+		<rom name="eXoScummVM/Zilm - A Game of Reflex (Windows).zip" size="163202521" crc="4cddc7db" sha1="f41aa419b867b269800a8c91c1b8a56b7e5477c4"/>
+		<rom name="eXoScummVM/Zoony (Macintosh).zip" size="561788" crc="6fd7fcb0" sha1="0552a79935fb6cc4e8cbd06dd22a118e2000c09e"/>
+		<rom name="eXoScummVM/Zork - Grand Inquisitor (Multi-Platform).zip" size="3258155425" crc="fbf1a288" sha1="e0e2a607a64c3f016b1890de4400c7c8652cdc37"/>
+		<rom name="eXoScummVM/Zork - The Undiscovered Underground (DOS).zip" size="64847" crc="1fffee4c" sha1="1f4c4dabb6d113ecae2146aac8794dd888e09170"/>
+		<rom name="eXoScummVM/Zork I - The Great Underground Empire (DOS).zip" size="61997" crc="f020602c" sha1="f66dbd8d24d38f0794b3cc6c52ef30ce053b5c6d"/>
+		<rom name="eXoScummVM/Zork II - The Wizard of Frobozz (DOS).zip" size="66303" crc="9b9ca757" sha1="7e0d8bbbc542c338f762406a0e0f123cd88a69c7"/>
+		<rom name="eXoScummVM/Zork III - The Dungeon Master (DOS).zip" size="58622" crc="b75e488f" sha1="a48e0a490f015183499f9b3e9e205d3d31513a29"/>
+		<rom name="eXoScummVM/Zork Nemesis - The Forbidden Lands (DVD DOS).zip" size="1300003791" crc="89fc2e2c" sha1="2668fa0076c7219c5f7203c03df0bf98f940385e"/>
+		<rom name="eXoScummVM/Zork Zero - The Revenge of Megaboz (DOS).zip" size="1250146" crc="1cc27318" sha1="ea73c7f156a54f0084425d4437a669a571640e2b"/>
+		<rom name="util/" size="0" crc="00000000"/>
+		<rom name="util/unzip.exe" size="242688" crc="92d4dadf" sha1="5fd8a7c75bde1b59d6d032bede163c23a1a23d18"/>
+		<rom name="util/utilSVM.zip" size="1050351746" crc="a6c808aa" sha1="b277be6da2fd6fa3be1a5ad018e0f9f7014d95d7"/>
+	</game>
+	<rom name="Setup eXoScummVM.bat" size="21839" crc="e4eaf3d3" sha1="c2142ab9e4e6d848cb315298144119d623b03ceb"/>
+</datafile>

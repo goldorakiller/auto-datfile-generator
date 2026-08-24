@@ -1,0 +1,60 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Extras - Emulators - MFME - MFME 5.1 (01Jan2017) (Wizard)</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="directx_installer_Jun2010_redist">
+		<rom name="directx_installer_Jun2010_redist.exe" size="100275120" crc="7bbcf06f" sha1="7e5d2e5e1a13fbc47f990cc55cbdb428cd12f759"/>
+	</game>
+	<game name="MFME 5.1-Win7">
+		<rom name="MFME 5.1 (01Jan2017) (Wizard).txt" size="422" crc="004f8486" sha1="c5a84384321f3d350a15fecfa76d77e0c17a094d"/>
+		<rom name="Win7/DefaultMasks/ReelGradientMask.bmp" size="522214" crc="094ecf8e" sha1="16e3c6698a10547c228b8ab474b817ff1d64c216"/>
+		<rom name="Win7/DefaultMasks/ReelLampMask.bmp" size="108734" crc="752ae60e" sha1="e3df9d90adb0d44c43cb70b4fd3887c7ddbef1cf"/>
+		<rom name="Win7/DefaultSounds/ButtonDown.wav" size="7130" crc="ce7f5b98" sha1="45dcc72efa7cacc12d1057fcc5a0cca74ec4e28e"/>
+		<rom name="Win7/DefaultSounds/ButtonUp.wav" size="6320" crc="ce9f0ccf" sha1="7fd94a542d9bbf71f6df992d3169a5063d00e1c0"/>
+		<rom name="Win7/DefaultSounds/Buzzer.wav" size="9082" crc="fdf63f49" sha1="4a65cd52f4ba634c3fa419ce7707337cc9da7dcc"/>
+		<rom name="Win7/DefaultSounds/LockoutOff.wav" size="9204" crc="91662bf3" sha1="97bb2ddd2186b410dc7848ebdc4a6748c0b2c9cc"/>
+		<rom name="Win7/DefaultSounds/LockoutOn.wav" size="11994" crc="1aeb8e51" sha1="dddd90b8fb4091420a4b98b97d869d561ae922f2"/>
+		<rom name="Win7/DefaultSounds/meter.wav" size="9260" crc="825ed27e" sha1="d4c70ecc12d3be10d5a07784b6d07e9e3880e39a"/>
+		<rom name="Win7/DefaultSounds/MotorOn.wav" size="481324" crc="73b8c20e" sha1="d1bdf707afe393153e48301694e573d44a2ce5c1"/>
+		<rom name="Win7/DefaultSounds/Payout.wav" size="60834" crc="96c57522" sha1="f92d854f017d154c9ae0a2351629876515ba48d7"/>
+		<rom name="Win7/DefaultSounds/Payout2.wav" size="63898" crc="067ab1da" sha1="4dee3153c5a4cdf9d286387232fa89fbf381fa28"/>
+		<rom name="Win7/DefaultSounds/SolenoidOff.wav" size="17766" crc="ff3171a1" sha1="cc9840193bc6e21337dcbdcdeb52ad57090a4db6"/>
+		<rom name="Win7/DefaultSounds/SolenoidOn.wav" size="5450" crc="2c0c13d8" sha1="d7e478cede532a4468e3158a3e974d4209437cfd"/>
+		<rom name="Win7/DefaultSounds/stepper.wav" size="41484" crc="44305994" sha1="1bf2b6138b3480c90bd0436dd6fb75cd6638fbd1"/>
+		<rom name="Win7/DefaultSounds/Wiper.wav" size="117804" crc="99ac538b" sha1="a5f677b33e306810b76dbe83464e71d21d8e8fee"/>
+		<rom name="Win7/MFME.exe" size="1662976" crc="6a283469" sha1="b07acbc4ef06bcb511fec7e24355c6af6fe98164"/>
+		<rom name="Win7/PacDrive.dll" size="69120" crc="3d18803e" sha1="2466f05e9e02a4caf08481589e31bba721d736a8"/>
+		<rom name="Win7/tips.txt" size="2159" crc="3a163f6f" sha1="0ff7631378ca91811dde359acaf8e606fe4f2fac"/>
+	</game>
+	<game name="MFME 5.1-XP">
+		<rom name="MFME 5.1 (01Jan2017) (Wizard).txt" size="422" crc="004f8486" sha1="c5a84384321f3d350a15fecfa76d77e0c17a094d"/>
+		<rom name="XP/DefaultMasks/ReelGradientMask.bmp" size="522214" crc="094ecf8e" sha1="16e3c6698a10547c228b8ab474b817ff1d64c216"/>
+		<rom name="XP/DefaultMasks/ReelLampMask.bmp" size="108734" crc="752ae60e" sha1="e3df9d90adb0d44c43cb70b4fd3887c7ddbef1cf"/>
+		<rom name="XP/DefaultSounds/ButtonDown.wav" size="7130" crc="ce7f5b98" sha1="45dcc72efa7cacc12d1057fcc5a0cca74ec4e28e"/>
+		<rom name="XP/DefaultSounds/ButtonUp.wav" size="6320" crc="ce9f0ccf" sha1="7fd94a542d9bbf71f6df992d3169a5063d00e1c0"/>
+		<rom name="XP/DefaultSounds/Buzzer.wav" size="9082" crc="fdf63f49" sha1="4a65cd52f4ba634c3fa419ce7707337cc9da7dcc"/>
+		<rom name="XP/DefaultSounds/LockoutOff.wav" size="9204" crc="91662bf3" sha1="97bb2ddd2186b410dc7848ebdc4a6748c0b2c9cc"/>
+		<rom name="XP/DefaultSounds/LockoutOn.wav" size="11994" crc="1aeb8e51" sha1="dddd90b8fb4091420a4b98b97d869d561ae922f2"/>
+		<rom name="XP/DefaultSounds/meter.wav" size="9260" crc="825ed27e" sha1="d4c70ecc12d3be10d5a07784b6d07e9e3880e39a"/>
+		<rom name="XP/DefaultSounds/MotorOn.wav" size="481324" crc="73b8c20e" sha1="d1bdf707afe393153e48301694e573d44a2ce5c1"/>
+		<rom name="XP/DefaultSounds/Payout.wav" size="60834" crc="96c57522" sha1="f92d854f017d154c9ae0a2351629876515ba48d7"/>
+		<rom name="XP/DefaultSounds/Payout2.wav" size="63898" crc="067ab1da" sha1="4dee3153c5a4cdf9d286387232fa89fbf381fa28"/>
+		<rom name="XP/DefaultSounds/SolenoidOff.wav" size="17766" crc="ff3171a1" sha1="cc9840193bc6e21337dcbdcdeb52ad57090a4db6"/>
+		<rom name="XP/DefaultSounds/SolenoidOn.wav" size="5450" crc="2c0c13d8" sha1="d7e478cede532a4468e3158a3e974d4209437cfd"/>
+		<rom name="XP/DefaultSounds/stepper.wav" size="41484" crc="44305994" sha1="1bf2b6138b3480c90bd0436dd6fb75cd6638fbd1"/>
+		<rom name="XP/DefaultSounds/Wiper.wav" size="117804" crc="99ac538b" sha1="a5f677b33e306810b76dbe83464e71d21d8e8fee"/>
+		<rom name="XP/MFME.exe" size="1603072" crc="d3ee01eb" sha1="08303ce68a0fd6ebff52ad64cda4c488f449cc11"/>
+		<rom name="XP/PacDrive.dll" size="69120" crc="3d18803e" sha1="2466f05e9e02a4caf08481589e31bba721d736a8"/>
+		<rom name="XP/tips.txt" size="2159" crc="3a163f6f" sha1="0ff7631378ca91811dde359acaf8e606fe4f2fac"/>
+	</game>
+</datafile>

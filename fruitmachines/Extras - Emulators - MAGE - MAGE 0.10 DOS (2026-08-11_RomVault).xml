@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Extras - Emulators - MAGE - MAGE 0.10 DOS</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="mage010b">
+		<rom name="chdman.exe" size="91648" crc="e20ae411" sha1="81341b24dd79dc4a620e8c6fb2fa1ba2f122f938"/>
+		<rom name="docs/ctrlr.txt" size="13793" crc="32c296ad" sha1="261cd8da47138e817701abcafb0a286f0f53b4d4"/>
+		<rom name="docs/gamelist.txt" size="3296" crc="cd7c42f0" sha1="35455109f2c7170621c1757092b40536c18874a7"/>
+		<rom name="docs/listinfo.txt" size="12716" crc="c8bd7c2b" sha1="cdb101605a3580c9f18c4a22d72fa3d92796d3b3"/>
+		<rom name="docs/mame.txt" size="8740" crc="4ed3f8cc" sha1="0ec267c7bbc2a38b319931ecfec5195859110ecc"/>
+		<rom name="docs/msdos.txt" size="16203" crc="9934310a" sha1="d779ee0ecd23a74255c6a4629498b8ab91b8265b"/>
+		<rom name="docs/windows.txt" size="33153" crc="8d3a0928" sha1="21b94848a7ff5036b08124ee9353d50eaebf08ac"/>
+		<rom name="mage.exe" size="1746944" crc="9b8a13a0" sha1="63ca5ef63c1378c3106186d808f3c3cdfb2ee354"/>
+		<rom name="Multiple Arcade Style Gambling Emulator - DOS.txt" size="157" crc="eabda777" sha1="6a2e50bc175cbd246a3884e88388329b6647c704"/>
+		<rom name="readme.txt" size="895" crc="32752135" sha1="8aed911aeca35a6e48359656c2947a569daeeda4"/>
+		<rom name="romcmp.exe" size="39936" crc="abadd2d8" sha1="e4bf79ceb85d173cc9eb71d655a299bb6ee08b91"/>
+		<rom name="whatsnew.txt" size="2619" crc="550c6193" sha1="12464e4b1b68036959951d8e3b528fb8e1ab1d1d"/>
+		<rom name="xml2info.exe" size="135276" crc="26f3adec" sha1="ad64ee17d097422320eb863e2fc7d8479f51fc81"/>
+	</game>
+</datafile>

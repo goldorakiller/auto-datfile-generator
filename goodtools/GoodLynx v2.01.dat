@@ -1,0 +1,325 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>GoodLynx v2.01</name>
+		<version>2.01</version>
+		<description>GoodTools Collection</description>
+		<author>Cowering (dat by Eggman)</author>
+		<date>2025-04-01</date>
+		<comment>dir2dat of completed GoodTools sets</comment>
+		<romvault/>
+	</header>
+	<game name="GoodLynx v2.01">
+		<description>GoodLynx v2.01</description>
+		<rom name="Good.doc" size="23980" crc="2a5a8094" sha1="791af531f17ea736b300b2799f36c2508fbf77a4"/>
+		<rom name="Good.fr.doc" size="30417" crc="8f3dc6e9" sha1="868da54c14a5079c5c10f9df7dfd5fe2fb77b3fc"/>
+		<rom name="GoodCodes.txt" size="8622" crc="e8d4f06e" sha1="26de4fb6d0bdc5a1002a1cfcc27a90328351635d"/>
+		<rom name="Goodinfo.cfg" size="18067" crc="767301ec" sha1="b204b2412176b80f2b38fb924af6bec005db11dc"/>
+		<rom name="GoodLynx.db" size="1208" crc="371c3069" sha1="80a0ae8dba5230b03d6b50a5358cee722e79b156"/>
+		<rom name="GoodLynx.exe" size="170496" crc="6d858f81" sha1="08f39261833ae048d80e828564b384913a25af21"/>
+		<rom name="GoodLynx.news" size="354" crc="05703f19" sha1="a4e7ad0c1f6703b67e237ed42411e28f004a92a1"/>
+		<rom name="license.txt" size="1187" crc="48bca521" sha1="eb1b5c3fd0a514b91a6205e8305dec619d936ffd"/>
+		<rom name="LynxHave.txt" size="10156" crc="6f3bca43" sha1="b8bf92f3cd2c2493543a3865534d89d205071b73"/>
+		<rom name="LynxMiss.txt" size="59" crc="21f5a32b" sha1="cec62068afe4d97c727df5bd688947da98b33713"/>
+		<rom name="LynxRen/256 Color Demo by Bastian Schick (1997) (PD) [a1].lnx" size="12237" crc="d21bf0af" sha1="f7b5bb796ec22af7f5781b9c6eb573913dfdfaf2"/>
+		<rom name="LynxRen/256 Color Demo by Bastian Schick (1997) (PD).lnx" size="12261" crc="17ea4ab0" sha1="8cd202ac453a5e885cefb4defa6ff8936e50e373"/>
+		<rom name="LynxRen/256 Color Mandelbrot Demo by Bastian Schick (1998) (PD) [a1].lnx" size="5524" crc="92cd034f" sha1="700eb6f1e39d9fa10565419eec4d20ae8286aea2"/>
+		<rom name="LynxRen/256 Color Mandelbrot Demo by Bastian Schick (1998) (PD).lnx" size="5551" crc="40780ffe" sha1="830089d5669e5ee11c0b554ca554177edb332b51"/>
+		<rom name="LynxRen/Alien Vs Predator (Prototype) (1993) [!].lnx" size="262208" crc="d6843e8e" sha1="860a73b9484c78330d3502a70bb807d699d540dc"/>
+		<rom name="LynxRen/APB - All Points Bulletin (1990) [b1].lnx" size="262208" crc="3160b73b" sha1="699443a08e04718e4d982a3b4189c6dce8badc1c"/>
+		<rom name="LynxRen/APB - All Points Bulletin (1990).lnx" size="262208" crc="68a0acab" sha1="4abef1bc702319d4347d839ac8513193164a08a0"/>
+		<rom name="LynxRen/Awesome Golf (1991) [b1].lnx" size="262208" crc="ee52badd" sha1="0023bbb8ce6fd1fa1808c69ae0590d137219a8ab"/>
+		<rom name="LynxRen/Awesome Golf (1991).lnx" size="262208" crc="2b90e818" sha1="c40ac4cc9a4aade0f7eab4283eed46d5882b35a8"/>
+		<rom name="LynxRen/Baseball Heroes (1991) [b1].lnx" size="262208" crc="d9873c03" sha1="24ac0f785cbcd6ad7048a4658bd29814917ecae6"/>
+		<rom name="LynxRen/Baseball Heroes (1991).lnx" size="262208" crc="400989ea" sha1="5e116d56e1642f107e15bb943416655917fbd607"/>
+		<rom name="LynxRen/Basketbrawl (1992) [a1].lnx" size="131136" crc="cf67513a" sha1="8fd95a71f77f354c8414afc75ac4f75426d73711"/>
+		<rom name="LynxRen/Basketbrawl (1992) [b1].lnx" size="262208" crc="da9bbe68" sha1="50c1858e71b40d2d986b666a1c59335274ecd8d8"/>
+		<rom name="LynxRen/Basketbrawl (1992).lnx" size="262208" crc="a41b3d47" sha1="cfe4708a881564b1ad75cdbe6da526c06d19a9c1"/>
+		<rom name="LynxRen/Batman Returns (1992) [b1].lnx" size="262208" crc="6f161065" sha1="c8b182f6b4ea22bf2bbc01ac0895d5e79109ca63"/>
+		<rom name="LynxRen/Batman Returns (1992).lnx" size="262208" crc="68cd6dcb" sha1="45df55597bae86b9184861d64d1a1d770f1e8c40"/>
+		<rom name="LynxRen/Battle Wheels (1993) (Beyond Games) [o1].lnx" size="262208" crc="db45d5c4" sha1="770b693dfac8833eaa1446ee7218f653b10c366f"/>
+		<rom name="LynxRen/Battle Wheels (1993).lnx" size="131136" crc="57efff37" sha1="fbb4808b71a22211cc8b08211b0830f40c8e4674"/>
+		<rom name="LynxRen/Battlezone 2000 (1996).lnx" size="262208" crc="e3af09ce" sha1="772d4b35c1717b5da7820b135056bfe16e08aaf5"/>
+		<rom name="LynxRen/Bill &amp; Ted&apos;s Excellent Adventure (1991) [b1].lnx" size="262208" crc="92e517be" sha1="87e5ea1e8036aacb03fedb9c1b4a37920689c1c7"/>
+		<rom name="LynxRen/Bill &amp; Ted&apos;s Excellent Adventure (1991).lnx" size="262208" crc="c91aff8a" sha1="f322d28a6311d84edc36b35083acc07a0ba4660a"/>
+		<rom name="LynxRen/Block Out (1990) [o1].lnx" size="262208" crc="f2da1756" sha1="2adf79d64dd1bb38e1d9a189f30689df9cf2028c"/>
+		<rom name="LynxRen/Block Out (1990).lnx" size="131136" crc="c96e5bc6" sha1="2efb86ed51e676a6e59cce3b40e56f408fe84605"/>
+		<rom name="LynxRen/Blue Lightning (1989) [a1].lnx" size="262208" crc="0782722a" sha1="00db17da5a4c29619681d788c928ca160095f46c"/>
+		<rom name="LynxRen/Blue Lightning (1989).lnx" size="131136" crc="35af173c" sha1="fd4dfa7b8822229c0e0c5b0f6cde608f8f94bb65"/>
+		<rom name="LynxRen/Blue Lightning Demo (1989) [o1].lnx" size="262208" crc="6ce4b9b0" sha1="52764c6db959a1340e8f60d069b045229edd37d6"/>
+		<rom name="LynxRen/Blue Lightning Demo (1989).lnx" size="131136" crc="0bd1b69c" sha1="d95653027c1956085a01541e3164ea637b52f100"/>
+		<rom name="LynxRen/Boing Demo (199x) (PD) [a1].lnx" size="4446" crc="07a759c0" sha1="f41ec33030e23bcf0ab40e611b91c0a03d271064"/>
+		<rom name="LynxRen/Boing Demo (199x) (PD) [a2].lnx" size="3904" crc="b8965e6e" sha1="149c0affe92bb067f30fab86e09c29de58604322"/>
+		<rom name="LynxRen/Boing Demo (199x) (PD) [a3].lnx" size="4352" crc="3e713a77" sha1="9ae7219bc4b173213208d820627934b45557ab60"/>
+		<rom name="LynxRen/Boing Demo (199x) (PD).lnx" size="3490" crc="a4eb2f3c" sha1="361b9250130ed31db9bb28db727d6807ff51e15d"/>
+		<rom name="LynxRen/BRK Server Installer by Bastian Schick (1996) (PD) [a1].lnx" size="511" crc="fd415f22" sha1="767b2ed5963d350b93f51b198d47b1d38d7935d6"/>
+		<rom name="LynxRen/BRK Server Installer by Bastian Schick (1996) (PD).lnx" size="480" crc="7b6d81fd" sha1="566ce0249f25d45dd8fdd60ae96b3198c8b72076"/>
+		<rom name="LynxRen/Bubble Bobble V.2 Demo (199x) (PD).lnx" size="10791" crc="44c347a5" sha1="7e62e7f2c5559b5baa508fc06a9b9a6389eea164"/>
+		<rom name="LynxRen/Bubble Trouble (1997) (Telegames).lnx" size="262208" crc="f85d0806" sha1="6a118f9a60ca99c3f6af4a4281a21ab2e3a366b3"/>
+		<rom name="LynxRen/C65 - Demo0 (1998) (PD) [a1].lnx" size="16926" crc="ba786c13" sha1="3fa4fe5e6a34646092d5c6879dbbb2ce8e2d9715"/>
+		<rom name="LynxRen/C65 - Demo0 (1998) (PD).lnx" size="16969" crc="59d96e27" sha1="84d916816d2f2b1416515f0ce26d350c1ed74e3c"/>
+		<rom name="LynxRen/C65 - Demo1 (1998) (PD) [a1].lnx" size="2568" crc="30668c3e" sha1="6d28749e17f48a1b854dccf1918adec24edda3f1"/>
+		<rom name="LynxRen/C65 - Demo1 (1998) (PD).lnx" size="2599" crc="8515b16b" sha1="e2b88b95411583455b619b151957c314686c76cb"/>
+		<rom name="LynxRen/C65 - Demo2 (1998) (PD) [a1].lnx" size="2857" crc="c792d523" sha1="ddf9989b3fe9be071cf3286d1a4d9ca58b53a882"/>
+		<rom name="LynxRen/C65 - Demo2 (1998) (PD).lnx" size="2888" crc="cc105fb5" sha1="511024942dda8cbc9b1c78440987f79bf0a1be18"/>
+		<rom name="LynxRen/C65 - Demo3 (1998) (PD) [a1].lnx" size="4048" crc="bbba65af" sha1="c9ca10470e6837df2fd719fb2405853c527b75ab"/>
+		<rom name="LynxRen/C65 - Demo3 (1998) (PD).lnx" size="4093" crc="504f77c0" sha1="a1f75f55953cd8c984f189e264d410a88852795f"/>
+		<rom name="LynxRen/C65 - Gfxtest (1998) (PD) [a1].lnx" size="3159" crc="afc27c28" sha1="27e72571d89b4368f2101686ce4d1bcb3258ff95"/>
+		<rom name="LynxRen/C65 - GFXTest (1998) (PD).lnx" size="3180" crc="9ab066b0" sha1="b873f713a1c8096b14601775f5e204a107797567"/>
+		<rom name="LynxRen/C65 - Mandelbrot (1998) (PD) [a1].lnx" size="2666" crc="dfe7890f" sha1="5c3589944b8e1aaf3da18073b854c4a17490b530"/>
+		<rom name="LynxRen/C65 - Mandelbrot (1998) (PD).lnx" size="2670" crc="0762eed4" sha1="e132d49b01e33ad37b6fd0727213a7486353fe0d"/>
+		<rom name="LynxRen/C65 - Mazedemo (1998) (PD) [a1].lnx" size="3030" crc="baffb021" sha1="ed1138dec57da5b0cdb737d0c94e629e4f6d19b5"/>
+		<rom name="LynxRen/C65 - Mazedemo (1998) (PD).lnx" size="3022" crc="71f93c64" sha1="65f05a9e352be9290096456ff44adea86326ce80"/>
+		<rom name="LynxRen/C65 - Minimal (1998) (PD) [a1].lnx" size="4817" crc="6fdfcc7b" sha1="db52dd1ce6cf2419fa90883738075430001d82b5"/>
+		<rom name="LynxRen/C65 - Minimal (1998) (PD).lnx" size="5086" crc="0db6af52" sha1="96fae167fa0ecac9f9fa7edfa32f40a9a6c8ffed"/>
+		<rom name="LynxRen/C65 - Sprite (1998) (PD) [a1].lnx" size="3984" crc="d80d99c3" sha1="a365d19de357b0082911fc0010d1c5e01d25d8a0"/>
+		<rom name="LynxRen/C65 - Sprite (1998) (PD).lnx" size="3974" crc="1d00c38f" sha1="dd937164ebed233cca84559b443d77134bf62003"/>
+		<rom name="LynxRen/California Games (1991) [o1].lnx" size="262208" crc="0ce53b00" sha1="97bc95db4cdbcffa8f7a12949d6e9986f1c28f33"/>
+		<rom name="LynxRen/California Games (1991).lnx" size="131136" crc="da7d96fd" sha1="ae369a7a3f076de1449097d3b926e3ab4dae242c"/>
+		<rom name="LynxRen/Cartshow by Matthias Domin (1998) (PD).lnx" size="7156" crc="15088d30" sha1="88fb58b4eca270969b20a0bb1b596d501d617eb8"/>
+		<rom name="LynxRen/Centipede (Prototype) (1987) (Shadowsoft).lnx" size="131136" crc="70cc4ae8" sha1="9954707eeba52904533cef59e5aae6e196434534"/>
+		<rom name="LynxRen/Check EEPROM by Bastian Schick (1996) (PD) [a1].lnx" size="4232" crc="8d29fbf3" sha1="41bf8bbe4383e40bd91f0ab1fe3043e5c7a3b271"/>
+		<rom name="LynxRen/Check EEPROM by Bastian Schick (1996) (PD).lnx" size="4212" crc="81547c50" sha1="f543f020fb265534b9ebad7a5f51ebab36160039"/>
+		<rom name="LynxRen/Checkered Flag (1991) [b1].lnx" size="262208" crc="a9c64aa1" sha1="a320de100517c35e9079fec770460beab527a9ae"/>
+		<rom name="LynxRen/Checkered Flag (1991).lnx" size="262208" crc="6687f846" sha1="848694715135979c022561ef9e4da58b8a67c4f3"/>
+		<rom name="LynxRen/Chip&apos;s Challenge (1989) [o1].lnx" size="262208" crc="ad7c002b" sha1="8d07f19d5aae9b18b0f29a46d276578b439a69e7"/>
+		<rom name="LynxRen/Chip&apos;s Challenge (1989).lnx" size="131136" crc="f45f784a" sha1="92af2d566c6bbf626a21dbfa41af16d73e0a774d"/>
+		<rom name="LynxRen/Chip8 Emulator Release 1 (2004) (PD).lnx" size="11949" crc="d49ce27a" sha1="680753391c52a2c2ff97c0536ac715d5704b4190"/>
+		<rom name="LynxRen/Chip8 Emulator Release 2 (2004) (PD).lnx" size="11949" crc="4becc50c" sha1="47fa17a6f0e6269c84264f1bed3101e21e293520"/>
+		<rom name="LynxRen/Chip8 Emulator Release 3 (2004) (PD).lnx" size="15485" crc="171cb01e" sha1="c4b4ce6bb1899cce4c2dbb4961bf8afbaced6e8c"/>
+		<rom name="LynxRen/Chip8 Emulator Release 4 (2004) (PD).lnx" size="19665" crc="ff35e5ae" sha1="149a0045ccf2fb1ba0f994a35c65bba08397b5a3"/>
+		<rom name="LynxRen/Chip8 Emulator Release 5 (2004) (PD).lnx" size="22720" crc="7955b897" sha1="99e1b11bbc8c995c51bb632a4b82dde2871b739b"/>
+		<rom name="LynxRen/Chip8 Emulator Release 6 (2004) (PD).lnx" size="23511" crc="ed70fbcc" sha1="27e4cf003e98bc8a66c3627976b18e33fa820b12"/>
+		<rom name="LynxRen/Circle and Tunnel Demo (199x) (PD).lnx" size="9339" crc="be9578da" sha1="7a6b8516ac4befec815a339f88c0c9a3733ea8c4"/>
+		<rom name="LynxRen/Circle Draw Test (199x) (PD).lnx" size="7924" crc="1d2409d7" sha1="36b2ca3e4a8aa426f558ff37d741dd0f684d0cee"/>
+		<rom name="LynxRen/Circle Tunnel by Bastian Schick (1996) (PD).lnx" size="7539" crc="5e08258b" sha1="c7358ebc5deaa86973e560ee11a4412ef429f2f6"/>
+		<rom name="LynxRen/Clicks! by Matthias Domin (2001) (PD).lnx" size="35183" crc="0ecbfe53" sha1="140a308a72ed20885def95f15a14ea9eac560e75"/>
+		<rom name="LynxRen/Clicks! Demo V6 by Matthias Domin (2001) (PD).lnx" size="262208" crc="c99de075" sha1="565cdc8f04477652133766f3c383883d92f6e0c3"/>
+		<rom name="LynxRen/Conquest of Zow (1996).lnx" size="262208" crc="9ccfdcd0" sha1="41af0a1d8e4aa67b162394abf770e4a812f59a9f"/>
+		<rom name="LynxRen/Crystal Mines II (1990) [o1].lnx" size="262208" crc="58ff6db3" sha1="e8d6a939a202060a76e0417315c7693631116d57"/>
+		<rom name="LynxRen/Crystal Mines II (1990).lnx" size="131136" crc="0535e6c9" sha1="c3b7e7fe892068bf4b58aec85181f6b00693b47d"/>
+		<rom name="LynxRen/Demo 1 by Bastian Schick (1996) (PD).lnx" size="601" crc="947a6eb1" sha1="0084572f66093217fae4fc5a29bdf1fab8a36c60"/>
+		<rom name="LynxRen/Demo 2 by Bastian Schick (1996) (PD).lnx" size="2562" crc="4b2000fb" sha1="760341e015f45ce4fbf08455affa4e02ed7cda11"/>
+		<rom name="LynxRen/Demo 3 by Bastian Schick (1996) (PD).lnx" size="3148" crc="0c7ffa45" sha1="a38e30800c3b1526e391146e5f32ba4f26912b88"/>
+		<rom name="LynxRen/Demo 4 by Bastian Schick (1996) (PD).lnx" size="3354" crc="517bb04b" sha1="2219166b8436c00c3fa57c6a8de70b7c7e2f8757"/>
+		<rom name="LynxRen/Demo 5 by Bastian Schick (1996) (PD).lnx" size="4438" crc="a42dd493" sha1="64ac16c265f6bd3efc8b67fdf3cf40cf42371137"/>
+		<rom name="LynxRen/Demo 6 by Bastian Schick (1996) (PD) [a1].lnx" size="15406" crc="93d96d79" sha1="12c82b878a1b27e79bddd1a55ceba8b5adeb9dc7"/>
+		<rom name="LynxRen/Demo 6 by Bastian Schick (1996) (PD).lnx" size="15414" crc="87c75dff" sha1="5d61db4604c7f99700827c0d22bff2d8e0152fdf"/>
+		<rom name="LynxRen/Desert Strike - Return to the Gulf (1993) (Telegames) [b1].lnx" size="262208" crc="de0ec161" sha1="8240e9adc5af80881349ac89f7f21f0cb715b2b2"/>
+		<rom name="LynxRen/Desert Strike - Return to the Gulf (1993) (Telegames).lnx" size="262208" crc="2eaae973" sha1="1e529493866d6485074233458b40c4e7b0f032ef"/>
+		<rom name="LynxRen/Digidemo (199x) (PD).lnx" size="262208" crc="43e6f249" sha1="cdcbfa5650a3792e0d3b5335dd8e7dcd1521f021"/>
+		<rom name="LynxRen/Digidemo 2 (199x) (PD).lnx" size="262208" crc="4525db06" sha1="20854f17f7081020804b8c1628dab117b9e54d05"/>
+		<rom name="LynxRen/Dinolympics (1992) [b1].lnx" size="262208" crc="47d57c30" sha1="a2a4ae4e3ab4cfe281659b265580e9076067983c"/>
+		<rom name="LynxRen/Dinolympics (1992).lnx" size="262208" crc="0ed9eb06" sha1="8af3a298ddb7ba235b54891c221ef53a2c89e9db"/>
+		<rom name="LynxRen/Dirty Larry - Renegade Cop (1992) [b1].lnx" size="262208" crc="d3ae054a" sha1="87a33cb1ab595f7d8f06fc71f54d1807eaf0845b"/>
+		<rom name="LynxRen/Dirty Larry - Renegade Cop (1992).lnx" size="262208" crc="c6017733" sha1="c1d62142fc5094252637dbc6a2355e41d0425fc2"/>
+		<rom name="LynxRen/Double Dragon (1993) (Telegames) [b1].lnx" size="262208" crc="a4e78202" sha1="52f841faa4ffa234144a78073a066bc636376248"/>
+		<rom name="LynxRen/Double Dragon (1993) (Telegames).lnx" size="262208" crc="bcb2e75a" sha1="1227eb28e6bad3c30b38d3dbfa9f929d836300c5"/>
+		<rom name="LynxRen/Dracula - The Undead (1991) [b1].lnx" size="262208" crc="adfb50e9" sha1="3b3346863f0d248c904e62af914f8c5ed5d2f76f"/>
+		<rom name="LynxRen/Dracula - The Undead (1991).lnx" size="262208" crc="0f4b4071" sha1="824f245004a778613c85d40c9a2785a8cefe4181"/>
+		<rom name="LynxRen/Dragnet (1995).lnx" size="262208" crc="7cdc4f1b" sha1="1333d7f43134d01cc6c62cfe66778b6fc7471dac"/>
+		<rom name="LynxRen/Drawtest by Bastian Schick (199x) (PD).lnx" size="14623" crc="5de8364c" sha1="967aad8b405dc910484e7008444f8165e4e188ad"/>
+		<rom name="LynxRen/Dungeon, The V.0x by Matthias Domin (1997) (PD).lnx" size="39029" crc="e30f07de" sha1="5682a16adaeebb34c7f71810defed66723b28050"/>
+		<rom name="LynxRen/Dungeon, The V.11 by Matthias Domin (1998) (PD).lnx" size="41582" crc="b5590fb2" sha1="205d1f8e156db88d1ea215878df826b381a008fb"/>
+		<rom name="LynxRen/Dungeon, The V.12 by Matthias Domin (1998) (PD).lnx" size="41576" crc="5b500d7c" sha1="ecdb3c245abb15b23265889bc0c3313d61fa3784"/>
+		<rom name="LynxRen/EEPROM Test I2C (199x) (PD).lnx" size="4043" crc="fd057217" sha1="c83b84f139dff8aeb2151b3254cd4377a25c2535"/>
+		<rom name="LynxRen/Electrocop (1989) [o1].lnx" size="262208" crc="cd9b18d3" sha1="5c3fa6a1daed62d541456451cc533de766361174"/>
+		<rom name="LynxRen/Electrocop (1989).lnx" size="131136" crc="765d742d" sha1="c06e983638b4466322a15a367cdaeb56fc2486e6"/>
+		<rom name="LynxRen/European Soccer Challenge (1993) (Telegames) [o1].lnx" size="262208" crc="d25c3d35" sha1="3b7311c98cd6ecf441d8d352b97f5200b9e4752a"/>
+		<rom name="LynxRen/European Soccer Challenge (1993) (Telegames).lnx" size="131136" crc="8ec43452" sha1="890560068840282a4565272fee00fa3f146ef71e"/>
+		<rom name="LynxRen/Eye of the Beholder (Prototype) (1990) (NuFX).lnx" size="131136" crc="a0010717" sha1="6c37e1f220e73ff784b90c81846cebe4db0ab3bc"/>
+		<rom name="LynxRen/Fat Bobby (1997) (Telegames).lnx" size="262208" crc="03f4e2a7" sha1="2eab6bfb7e5b479fac3deeb7bdf383fd59d64bcb"/>
+		<rom name="LynxRen/Fidelity Ultimate Chess Challenge (1991) (Telegames) [o1].lnx" size="262208" crc="27d2d190" sha1="80b9c2e4da2be73b329b729e84a8b9571b6d5671"/>
+		<rom name="LynxRen/Fidelity Ultimate Chess Challenge (1991) (Telegames).lnx" size="131136" crc="bd77d5f2" sha1="d65c4d14f609a05786ec64808bbde4b955362412"/>
+		<rom name="LynxRen/Fighter V.2 Demo (2000) (PD).lnx" size="37790" crc="a1ff5cd5" sha1="7a565bd98e6c31dc7cda980ee85552fb51583bbe"/>
+		<rom name="LynxRen/Fire (Fever) Demo by Bastian Schick (1997) (PD).lnx" size="5878" crc="d96877d9" sha1="1d32b58b450eb646c46eaf96665a4ae2ab9455dc"/>
+		<rom name="LynxRen/Font Test 2 by Bastian Schick (199x) (PD) [a1].lnx" size="1929" crc="52c9e5a3" sha1="cf1e739d85b24484ee65092d0af27bd2f0a85a1c"/>
+		<rom name="LynxRen/Font Test 2 by Bastian Schick (199x) (PD).lnx" size="1939" crc="9fb5ff3a" sha1="ef5148f94cf250e89d84707a402a6fc187fb9d3b"/>
+		<rom name="LynxRen/Gates of Zendocon, The (1989) [o1].lnx" size="262208" crc="42dfe400" sha1="69a920cf25bc1f1b9c47e4f420f9df5d3a1a15ac"/>
+		<rom name="LynxRen/Gates of Zendocon, The (1989).lnx" size="131136" crc="d852dba7" sha1="d89985e2e692b335e3eb1e2a269ac2a2e4b3c8ad"/>
+		<rom name="LynxRen/Gauntlet - The Third Encounter (1990) [o1].lnx" size="262208" crc="c3497fb2" sha1="c6abb87eb1eb50ca5efba2a45e678a7677afed30"/>
+		<rom name="LynxRen/Gauntlet - The Third Encounter (1990).lnx" size="131136" crc="8e0908e5" sha1="7cf7d08b52784e13d8278d249dcd8975d3714da4"/>
+		<rom name="LynxRen/Ghouls &apos;n&apos; Ghosts Plus V.2 Demo (199x) (PD).lnx" size="17622" crc="23930cd6" sha1="350d8a49eebb118133047680b4d01e601183a3a3"/>
+		<rom name="LynxRen/Gordo 106 - The Mutated Lab Monkey (1993) [b1].lnx" size="262208" crc="abb60103" sha1="5c8b784b7089231cc96c589aca72c079c4e9b980"/>
+		<rom name="LynxRen/Gordo 106 - The Mutated Lab Monkey (1993) [b2].lnx" size="262208" crc="cea6795b" sha1="949945ecd5ca1262512b4cfa45414db75f9af42e"/>
+		<rom name="LynxRen/Gordo 106 - The Mutated Lab Monkey (1993).lnx" size="262208" crc="0671acea" sha1="46fd69c68cb0929a2d21ecc5225390b7425ae3f4"/>
+		<rom name="LynxRen/Hard Drivin&apos; (1993) [o1].lnx" size="262208" crc="2f20bac7" sha1="d15e40f97d277615e03e861d5962d3f5b35e1d58"/>
+		<rom name="LynxRen/Hard Drivin&apos; (1993).lnx" size="131136" crc="9add0861" sha1="afe1a2b3ed37596378b2d40f54e1635bf15c5600"/>
+		<rom name="LynxRen/Hockey (1992) [b1].lnx" size="262208" crc="5670704b" sha1="0465752c632e396218ce4d8a111c005e7dda55a2"/>
+		<rom name="LynxRen/Hockey (1992).lnx" size="262208" crc="0904a4d9" sha1="2f2d74cfba54360e7f5555d182a9e9e7f74287e8"/>
+		<rom name="LynxRen/Hydra (1992) [b1].lnx" size="262208" crc="d2cec8c7" sha1="397e0953fb2105268fcaf148b9900e614348db13"/>
+		<rom name="LynxRen/Hydra (1992).lnx" size="262208" crc="8980a322" sha1="5ceb3ad748cd42e181067a191e2b0dccc0325057"/>
+		<rom name="LynxRen/I2C EEPROM Test by Bastian Schick (1996) (PD).lnx" size="3966" crc="0a6c3580" sha1="b4e54e980835695527b099895ef99605c65302ff"/>
+		<rom name="LynxRen/Insert Game Screen by Bastian Schick (199x) (PD).lnx" size="890" crc="d000f7ba" sha1="7145496fc38ee5a8bf56b86e7600b4d813a4a2c5"/>
+		<rom name="LynxRen/IRQ Test by Bastian Schick (1998) (PD) [a1].lnx" size="480" crc="321e3ccd" sha1="48c9f3abc7cf764405b56ccfd5563de3d9f86907"/>
+		<rom name="LynxRen/IRQ Test by Bastian Schick (1998) (PD).lnx" size="467" crc="5bf248e6" sha1="a02817d1d845fcfcbf36a1df38dae04c57ad5356"/>
+		<rom name="LynxRen/Ishido - The Way of the Stones (1991) [o1].lnx" size="262208" crc="7c58aea4" sha1="f7f2fb564c589fc8499f0aafd21ef13a38135947"/>
+		<rom name="LynxRen/Ishido - The Way of the Stones (1991).lnx" size="131136" crc="4aa0e0b9" sha1="3508d30bf1c62dde31c6d888b29b2d7964b73149"/>
+		<rom name="LynxRen/Jimmy Conners Tennis (1991) [b1].lnx" size="524352" crc="aebee319" sha1="fd3b964695589d2208bd6977a21b8ab897eacdaf"/>
+		<rom name="LynxRen/Jimmy Conners Tennis (1991) [b2].lnx" size="524352" crc="7d96476a" sha1="573eb78247f1d7b411fe6faa04d45eeff84f884d"/>
+		<rom name="LynxRen/Jimmy Conners Tennis (1991).lnx" size="524352" crc="fdd6536d" sha1="eb53241c8cac2456684c4b1fe86aa8c90e765d91"/>
+		<rom name="LynxRen/Joust (1993) (Williams) [o1].lnx" size="262208" crc="9f7662c2" sha1="9a72b390ce25ffe8400b7abdedd2ca61d3957cc3"/>
+		<rom name="LynxRen/Joust (1993) (Williams).lnx" size="131136" crc="85a2a177" sha1="667a5e64033076a242297aa846001ab4475e1472"/>
+		<rom name="LynxRen/Klax (1990) [b1].lnx" size="262208" crc="5dd61084" sha1="9dfc72e4bb77215a4f17a496eece50d6510d48a9"/>
+		<rom name="LynxRen/Klax (1990).lnx" size="262208" crc="ec53a878" sha1="66a04e14e07367a59fb979b25915008ac1602233"/>
+		<rom name="LynxRen/Krazy Ace Minature Golf (1997) (Telegames) [b1].lnx" size="261938" crc="d0a29ecd" sha1="b2a43b2303447fde6426801417f18e28a69803d1"/>
+		<rom name="LynxRen/Krazy Ace Minature Golf (1997) (Telegames) [b2].lnx" size="131136" crc="cb482c7f" sha1="8063dab2ca8da55d0bf1329ff5403d23a1261422"/>
+		<rom name="LynxRen/Krazy Ace Minature Golf (1997) (Telegames) [b3].lnx" size="20904" crc="3c4d4a7e" sha1="a973124b5e6df36c24109b9a1baeb0002cb1458d"/>
+		<rom name="LynxRen/Krazy Ace Minature Golf (1997) (Telegames).lnx" size="262208" crc="96c5d9b9" sha1="8ddb2fc5898110f4069a47f91016d4ad3d014ac7"/>
+		<rom name="LynxRen/Kung Food (1992) [b1].lnx" size="262208" crc="ac145f2f" sha1="396e25a6016b4279b82745c479593037b78bdeec"/>
+		<rom name="LynxRen/Kung Food (1992).lnx" size="262208" crc="3529d2d7" sha1="ba5f63f558f818d4cf69173c9b00f1b0247a9282"/>
+		<rom name="LynxRen/Lemmings (1993) [b1].lnx" size="262208" crc="ae32c303" sha1="a919d411f58bea01ccf0590ca42a48f33da9a0f7"/>
+		<rom name="LynxRen/Lemmings (1993).lnx" size="262208" crc="a77b6b64" sha1="e61c173116eacecf90d0296c03d8c216be57400c"/>
+		<rom name="LynxRen/Lexis (1999) (Songbird).lnx" size="262208" crc="e89999bc" sha1="57819a935bfcbf5b13ac364df966b6c41a3886bf"/>
+		<rom name="LynxRen/Lite (Fever) by Bastian Schick (1997) (PD).lnx" size="10229" crc="1ce9b4ad" sha1="20f4c1664dadcbf6af6013c2a42407c556fd0efe"/>
+		<rom name="LynxRen/Lode Runner (1996) (Kurt Olsen).lnx" size="47626" crc="3469d418" sha1="6e81cafd17c5252e59f03fb1bfc7b90736bb7fd3"/>
+		<rom name="LynxRen/Logon by Bastian Schick (1996) (PD) [a1].lnx" size="4897" crc="f215c0d4" sha1="8777a5c28ec5b652ae453f2a9b958f50655ce168"/>
+		<rom name="LynxRen/Logon by Bastian Schick (1996) (PD).lnx" size="4890" crc="88a0a9c8" sha1="d6a2f9ced89b82c213106ae999648bc22d71f209"/>
+		<rom name="LynxRen/Loopz (Prototype) (1992) (Handmade Software).lnx" size="262208" crc="93281104" sha1="fa7ce862c1ea15af4ffcf15e0cccc2a8a84b8e6d"/>
+		<rom name="LynxRen/Lynx Casino (1992) [b1].lnx" size="262208" crc="be1ade2c" sha1="9eb4265b2472f8ad4e4e94e0ece4d1e3d5b7b237"/>
+		<rom name="LynxRen/Lynx Casino (1992).lnx" size="262208" crc="5539baf4" sha1="a5fb943e2eeece25bc3aaf1e9f6ae5c030672193"/>
+		<rom name="LynxRen/Lynx Diagnostic Cart V0.02 (1989).lnx" size="262208" crc="93acf1dc" sha1="d56925c596d47b17a4e778ba5d5475da447872d4"/>
+		<rom name="LynxRen/Lynx Lib Test Program by Matthias Domin (1997) (PD).lnx" size="4118" crc="be97d96d" sha1="eea09c3b9a910befe0872e836087180755050373"/>
+		<rom name="LynxRen/Malibu Bikini Volleyball (1993) [b1].lnx" size="262208" crc="9bab5462" sha1="4a30e229a7aa9c3bd79ebaf6117d17d9056d5c8b"/>
+		<rom name="LynxRen/Malibu Bikini Volleyball (1993).lnx" size="262208" crc="aba3e776" sha1="f47f2aed04ba18152347aa2e0858b56c374c5f71"/>
+		<rom name="LynxRen/MandelBrot Demo by Bastian Schick (1996) (PD) [a1].lnx" size="4952" crc="a6491136" sha1="06a384102a1092b9345a3f8474bdd30943e16294"/>
+		<rom name="LynxRen/MandelBrot Demo by Bastian Schick (1996) (PD).lnx" size="4974" crc="fb92992d" sha1="2a5ce00756acec65e1369b3b21f43cfddfdb1c47"/>
+		<rom name="LynxRen/Marble Madness by Matthias Domin (1997) (PD).lnx" size="56056" crc="9970273e" sha1="3daee2f4948ac2017d7362f287ae41b21fbf545e"/>
+		<rom name="LynxRen/Marble Madness by Matthias Domin (1999) (PD).lnx" size="262208" crc="86acf2b7" sha1="006147cb3b3c4e4551fd18266899ef308814f2ce"/>
+		<rom name="LynxRen/Mario Plus Demo (199x) (PD).lnx" size="15965" crc="d7740530" sha1="a94f8c80599c8e467205cc9543f2aab112f76d25"/>
+		<rom name="LynxRen/Marlboro Go! (Prototype) (1993) (Digital Image).lnx" size="262208" crc="8d484e65" sha1="3d0ee922c3572c9a861fc250082e659e6ebd4c8c"/>
+		<rom name="LynxRen/Mega Man Plus Demo (199x) (PD).lnx" size="12833" crc="678499a4" sha1="9804fa8b478c3fec88a7c702e94626432df96a32"/>
+		<rom name="LynxRen/Micro Font Data by Bastian Schick (1999) (PD).lnx" size="854" crc="21df9d29" sha1="213321f2b78ed7c38748beea231f7ef240622234"/>
+		<rom name="LynxRen/Micro Font Dumper by Bastian Schick (199x) (PD).lnx" size="4199" crc="7819be94" sha1="9ef5eddcb2d3ea6e05c960c297700e4a1d5f7178"/>
+		<rom name="LynxRen/Mines 2 by Bastian Schick (1996) (PD).lnx" size="5087" crc="cb7e0472" sha1="2776b2df46da82cc586fc9c739e7d386832631bf"/>
+		<rom name="LynxRen/Mini Demo 01 by Bastian Schick (1998) (PD).lnx" size="601" crc="bfc0b689" sha1="3f0114bee416ebac192549105946f8815329562a"/>
+		<rom name="LynxRen/Mini Demo 02 by Bastian Schick (1998) (PD).lnx" size="2560" crc="56730ffe" sha1="677722508df2d23699025872c186844cb722ffb4"/>
+		<rom name="LynxRen/Mini Demo 03 by Bastian Schick (1998) (PD).lnx" size="3154" crc="2cc11fc7" sha1="534b3c512f0958918b9700002e6047492948734a"/>
+		<rom name="LynxRen/Mini Demo 04 by Bastian Schick (1998) (PD).lnx" size="3362" crc="b29079dc" sha1="32e0e96e81e527fca77096812886bf6a0ba46656"/>
+		<rom name="LynxRen/Mini Demo 05 by Bastian Schick (1998) (PD).lnx" size="4432" crc="c9b906bb" sha1="d9b7eae2d2f637b8a39426fa13992400f13bb0c3"/>
+		<rom name="LynxRen/Mini Demo 06 by Bastian Schick (1998) (PD).lnx" size="18022" crc="ef71c010" sha1="0a2f8a150aebb98cad3f64f6d35f22617b7436d2"/>
+		<rom name="LynxRen/Ms. Pac-Man (1990) [a1].lnx" size="262208" crc="2ec48dfd" sha1="ce85e2d2391f538106c92f8f3e136104ba977c16"/>
+		<rom name="LynxRen/Ms. Pac-Man (1990) [b1].lnx" size="131136" crc="0a54736f" sha1="d2243c3f10ab854288f69692fdb18ba92a3e868c"/>
+		<rom name="LynxRen/Ms. Pac-Man (1990).lnx" size="131136" crc="a4d77de9" sha1="a0fff552f8747aba7a66bea234fa52faa3c64aac"/>
+		<rom name="LynxRen/NFL Football (1990) [b1].lnx" size="262208" crc="cdf2732f" sha1="76b4d3c29c1e68c8a62cc2913daf4884c3913b62"/>
+		<rom name="LynxRen/NFL Football (1990).lnx" size="262208" crc="c398359e" sha1="22735fcd59eb028a4041027a369602b0bd968eb5"/>
+		<rom name="LynxRen/Ninja Gaiden (1990) [b1].lnx" size="262208" crc="5cdd4a0c" sha1="d00bcc7e7e43243d6827e50163856c72f9e3f366"/>
+		<rom name="LynxRen/Ninja Gaiden (1990).lnx" size="262208" crc="5adf25f0" sha1="e751c35cce6e2e126ce7ccbd32b148dd6e248809"/>
+		<rom name="LynxRen/Ninja Gaiden III - The Ancient Ship of Doom (1993) [b1].lnx" size="173056" crc="23275880" sha1="1d239d809c4009122c04dc31c122714bd96b2dd6"/>
+		<rom name="LynxRen/Ninja Gaiden III - The Ancient Ship of Doom (1993) [b2].lnx" size="524352" crc="9799f932" sha1="feceff10d54d84b07ca106e01977bb86e673cb7c"/>
+		<rom name="LynxRen/Ninja Gaiden III - The Ancient Ship of Doom (1993).lnx" size="524352" crc="cd2ffbcc" sha1="70f4115a92e3fdc4c93339ac801976a7697397ba"/>
+		<rom name="LynxRen/Pac-Land (1991) [o1].lnx" size="262208" crc="635179ba" sha1="b8d8d6f09322a4d4fddb4526195c2c070371677a"/>
+		<rom name="LynxRen/Pac-Land (1991).lnx" size="131136" crc="5b57126a" sha1="ca4f651c9955b756a88d3e7714f033c592fa0f6a"/>
+		<rom name="LynxRen/Paperboy (1990) [o1].lnx" size="262208" crc="b77f6c21" sha1="1d6a284203fdcfbda76ded39cd6be61ec2364ce1"/>
+		<rom name="LynxRen/Paperboy (1990).lnx" size="131136" crc="d6a4c70b" sha1="7b5150cc095c554b0578bdd9a20caec0a7921547"/>
+		<rom name="LynxRen/Para Lemi! v001 (1997) (PD).lnx" size="26247" crc="181056e5" sha1="555709c3948c661d4287c0c25958e7aaa3e432f9"/>
+		<rom name="LynxRen/Para Lemi! v002 (1997) (PD).lnx" size="13064" crc="73d7921e" sha1="f8167b3c3418538503da12a79f896ffb93f648c1"/>
+		<rom name="LynxRen/Para Lemi! v003 (1997) (PD).lnx" size="13521" crc="a2ecbd6f" sha1="37af681b2e9343686c0eea869f3596f002f102f8"/>
+		<rom name="LynxRen/Para Lemi! v004 (1997) (PD).lnx" size="17930" crc="2a0c893c" sha1="f4b1688dc016d4433be05a09b8ae4e083414c072"/>
+		<rom name="LynxRen/Para Lemi! v005 (1997) (PD).lnx" size="27560" crc="cc96df68" sha1="563af97c80ec511ecfa45855241356d1bd9b2dc4"/>
+		<rom name="LynxRen/Pinball Jam (1992) [b1].lnx" size="262208" crc="1060661e" sha1="da7c221b7cb719bea19e3e988c73389bcc648e09"/>
+		<rom name="LynxRen/Pinball Jam (1992).lnx" size="262208" crc="8863c28d" sha1="1f1695acbecf39cf6fd7afa71ce5f5e0ec80934d"/>
+		<rom name="LynxRen/Pit Fighter - The Ultimate Competition (1992) [b1].lnx" size="524352" crc="c0770884" sha1="0214284156269f7666e47b29250e51e6814f60a3"/>
+		<rom name="LynxRen/Pit Fighter - The Ultimate Competition (1992).lnx" size="524352" crc="cbaf54f3" sha1="d87b768ec219ba468e050d4a6c71ef59854adb28"/>
+		<rom name="LynxRen/Play Sound Sample by Bastian Schick (1996) (PD).lnx" size="1960" crc="6a92e2d5" sha1="4ffadabcc5633a3ef62cac4f1bce3ce0ebf52498"/>
+		<rom name="LynxRen/Pong5 by Carl Forhan (1997) (PD) [a1].lnx" size="5544" crc="58d0fcfb" sha1="30c33da8d040bc570145fe330ec4be425c6ff0a8"/>
+		<rom name="LynxRen/Pong5 by Carl Forhan (1997) (PD).lnx" size="5551" crc="6ecc1d1e" sha1="c6341b7773dbc0979a6f0aa72ff08ea1d8fd2f2b"/>
+		<rom name="LynxRen/Power Factor (1992) [b1].lnx" size="262208" crc="4a02f2bc" sha1="908c6424d869a57da0adfd54b8275c50f501c204"/>
+		<rom name="LynxRen/Power Factor (1992).lnx" size="262208" crc="5db41679" sha1="858855f42fd24c692859f43df261dbc0e19f0819"/>
+		<rom name="LynxRen/Puzzler 2000 (Air BGM) (1998) (PD).lnx" size="10254" crc="d368c95c" sha1="131779458f9f53f5ad37d2fc4e9ac1a2139eeb72"/>
+		<rom name="LynxRen/Puzzler 2000 (Entertainer BGM) (1998) (PD).lnx" size="10299" crc="96cc146f" sha1="64286b7866d5906c0e63470e5250dd571639f771"/>
+		<rom name="LynxRen/Puzzler 2000 (Invent13 BGM) (1998) (PD).lnx" size="10626" crc="4c8f2d8d" sha1="7d97fbaaf6cd5b92651316ada6fd4807c5d75191"/>
+		<rom name="LynxRen/Puzzler 2000 V.43 (Aug 26) (1998) (PD).lnx" size="262208" crc="d7241881" sha1="0804caa4e15bcde2a51b475103787539c2578d0a"/>
+		<rom name="LynxRen/Puzzler 2000 V.4x (Aug 15) (1998) (PD).lnx" size="4761" crc="881c7068" sha1="e88dab8a6a4afcdac7d979bf00bcfcecd89d975e"/>
+		<rom name="LynxRen/Puzzler 2000 V0.2 Demo (1998) (PD).lnx" size="4789" crc="129242de" sha1="b6467bdbe981bf77f088c36da636044b9f5e33f0"/>
+		<rom name="LynxRen/Qix (1991) (Telegames) [o1].lnx" size="262208" crc="48e45bd2" sha1="ed3ce34c4dec35edc4885de2cfa1a8dc61a38452"/>
+		<rom name="LynxRen/Qix (1991) (Telegames).lnx" size="131136" crc="5651e1a8" sha1="ab9545de5b867c930afed570668d03b1ee41a9dd"/>
+		<rom name="LynxRen/Raiden (1997) (Telegames).lnx" size="262208" crc="2702ba4f" sha1="752a58e02787afc145f5245aec3577ad4bff954e"/>
+		<rom name="LynxRen/Rampage (1991) [b1].lnx" size="262208" crc="47039625" sha1="4a56552c64127d7303e79174a7440b772d020eec"/>
+		<rom name="LynxRen/Rampage (1991).lnx" size="262208" crc="490033c9" sha1="52a0bf6aa79be75c7f97e4f2998469fb8f1c1596"/>
+		<rom name="LynxRen/Rampart (1991) [b1].lnx" size="262208" crc="ec4566bd" sha1="edd686dc268816c53d7f5232d96fc3358678d260"/>
+		<rom name="LynxRen/Rampart (1991).lnx" size="262208" crc="adab7883" sha1="d024992d0032bce698273e81d7276fba9a19f75f"/>
+		<rom name="LynxRen/Raw by Bastian Schick (1997) (PD) [a1].lnx" size="3746" crc="0a0dfb06" sha1="749b3e00128ef4b29481d49dd6d14ccbe55a035e"/>
+		<rom name="LynxRen/Raw by Bastian Schick (1997) (PD) [a2].lnx" size="3765" crc="b43dfcac" sha1="6c93c9f58d65a9682ecc0e81a5310ec51ff115ec"/>
+		<rom name="LynxRen/Raw by Bastian Schick (1997) (PD).lnx" size="3773" crc="1527d20c" sha1="7eb373d2588aef2f971285465f42d42cc7cae7f0"/>
+		<rom name="LynxRen/Raycast Corridor by Matthias Domin (1998) (PD).lnx" size="8527" crc="14631a57" sha1="5f4f768d077e04545e32d593babab00894895c3b"/>
+		<rom name="LynxRen/Remnant Planar Wars 3D Beta (2000) (PD).lnx" size="38599" crc="cfd1fd9c" sha1="1625b0c76cdd2c88cbd0f8d284dfc8668413c9a5"/>
+		<rom name="LynxRen/Road Riot 4WD (Beta) (1994).lnx" size="262208" crc="3bebb6d1" sha1="e6102b29727fd76177efd64c26f40dd6beee6888"/>
+		<rom name="LynxRen/RoadBlasters (1990) [b1].lnx" size="262208" crc="449be149" sha1="5b561875daf5ecd6399a2929700363d238fbaf4c"/>
+		<rom name="LynxRen/RoadBlasters (1990).lnx" size="262208" crc="47f69051" sha1="bc005446fb9e96848823e8baa722c6a7761783e1"/>
+		<rom name="LynxRen/Robo-Squash (1990) [o1].lnx" size="262208" crc="168be6b1" sha1="c359f506fe7e31aa65dd2a3fbf55c337bf7743b7"/>
+		<rom name="LynxRen/Robo-Squash (1990).lnx" size="131136" crc="aeed3e7e" sha1="a5a3204508207929b4b4e29d112b1653bb679b91"/>
+		<rom name="LynxRen/Robotron 2084 (1991) (Williams).lnx" size="131136" crc="7117e9f7" sha1="c2abd595741c61518cebd5012ea8e42d1c73c887"/>
+		<rom name="LynxRen/Rygar - Legendary Warrior (1990) [b1].lnx" size="262208" crc="997e3dce" sha1="f1ee7e5d7ea5782f95bb1b8a8c2bb8573c1aa8c9"/>
+		<rom name="LynxRen/Rygar - Legendary Warrior (1990).lnx" size="262208" crc="1dfca564" sha1="24e14920178e3481f161783b73efca0a1594c8cf"/>
+		<rom name="LynxRen/S.T.U.N. Runner (1991) [b1].lnx" size="262208" crc="946b66cf" sha1="c826ff7e268c4663d60858cd236762668af339c5"/>
+		<rom name="LynxRen/S.T.U.N. Runner (1991).lnx" size="262208" crc="4b3bf84f" sha1="3ccd01902f07ab06f9c815ac75a4865a82e78599"/>
+		<rom name="LynxRen/Scrapyard Dog (1991) [b1].lnx" size="262208" crc="40bc876d" sha1="5d6d898c75a7eaa65c2a0408588a4fe68d9dbd43"/>
+		<rom name="LynxRen/Scrapyard Dog (1991).lnx" size="262208" crc="ca0d1bda" sha1="112e6433deca07dd49e2adf1a436cacfe94af7d6"/>
+		<rom name="LynxRen/Shadow of the Beast (1992) [b1].lnx" size="262208" crc="0948227a" sha1="88b31086dee1c4a4f40c47aa6848d4fdd398c9b0"/>
+		<rom name="LynxRen/Shadow of the Beast (1992).lnx" size="262208" crc="d43a8430" sha1="f4bda927017465cfd417d5ad8a62fa095cc3a101"/>
+		<rom name="LynxRen/Shanghai (1990) [o1].lnx" size="262208" crc="2441a8b7" sha1="b091847b6734f5a5c3b0cb0cf0ac1dd633547b7b"/>
+		<rom name="LynxRen/Shanghai (1990).lnx" size="131136" crc="78ba01fd" sha1="dbc5749a30d05c3fbb7e247d80405dd026bc8add"/>
+		<rom name="LynxRen/Show King Tut by Bastian Schick (1996) (PD) [a1].lnx" size="4423" crc="246135d2" sha1="cd93e1ea092ebd825cf6fea492fd880cd870facd"/>
+		<rom name="LynxRen/Show King Tut by Bastian Schick (1996) (PD).lnx" size="7940" crc="7fd4e0b0" sha1="1a621da9049ac53e085b60c927459631229d80c7"/>
+		<rom name="LynxRen/Snakebyte by Matthias Domin (1998) (PD).lnx" size="19830" crc="8350df4d" sha1="5693907f89f9d29b293b01cb107177650394b8e5"/>
+		<rom name="LynxRen/Sound Demo by Bastian Schick (1997) (PD) [a1].lnx" size="4623" crc="ddcc9f71" sha1="bbd97e200601c07c7298de6d5cc2bf9ad7cfb8a1"/>
+		<rom name="LynxRen/Sound Demo by Bastian Schick (1997) (PD).lnx" size="4642" crc="2709a80c" sha1="6cd6a76bd4fc16bec053ec9198a11c4797e6ec13"/>
+		<rom name="LynxRen/Sprite Ed by Bastian Schick (1996) (PD) [a1].lnx" size="5764" crc="8db7d177" sha1="d7ebf3568edf75e12b51446240c0b54cd362e2da"/>
+		<rom name="LynxRen/Sprite Ed by Bastian Schick (1996) (PD).lnx" size="5787" crc="86946f2e" sha1="4484216d83f769d2005e5a638a12c54a3496db97"/>
+		<rom name="LynxRen/Sprite-Demo 1 by Matthias Domin (2000) (PD).lnx" size="5097" crc="244164f4" sha1="bc0f4793045c8c4a8500c3cbcfdefd91b3352dde"/>
+		<rom name="LynxRen/Sprite-Demo 2 by Matthias Domin (2000) (PD).lnx" size="4962" crc="1b4669be" sha1="4c25a84fcf1e80a96a6aa43fca8836e004796b82"/>
+		<rom name="LynxRen/Sprite-Demo 3 by Matthias Domin (2000) (PD).lnx" size="5378" crc="8ef1c510" sha1="02bebf280dc30bb1b66918f8734e32e76007a976"/>
+		<rom name="LynxRen/Sprite-Demo 4 by Matthias Domin (2000) (PD) [a1].lnx" size="4877" crc="c322b0fe" sha1="121ff9e1fae2690fcfc1e21543361ac0d37edfc3"/>
+		<rom name="LynxRen/Sprite-Demo 4 by Matthias Domin (2000) (PD).lnx" size="7099" crc="c49c3765" sha1="735ed57dc63c5267c2aed851e8345cd00e6ffcd4"/>
+		<rom name="LynxRen/Sprite-Demo 5 by Matthias Domin (2000) (PD).lnx" size="5009" crc="b6267f9b" sha1="004fb8c07cbe79b6901d472077bbfce743ff885a"/>
+		<rom name="LynxRen/Stardreamer (2000) (PD).lnx" size="46435" crc="eb2ab9af" sha1="1f494c58b914b57e8c7565376e22d3e7f1509868"/>
+		<rom name="LynxRen/StarDreamer - Cutscene (2002) (PD).lnx" size="6401" crc="0f79604e" sha1="c580a0a2066a4710a78655da5208168a01b05401"/>
+		<rom name="LynxRen/StarDreamer - Docked (2002) (PD).lnx" size="21838" crc="47210739" sha1="2be5c978dc927d51bc4797be891e8c336c0a3cc4"/>
+		<rom name="LynxRen/StarDreamer - Flying (2002) (PD).lnx" size="29145" crc="fc19e3c1" sha1="85b86785fd667228d2b9af348b9cf89400f0136b"/>
+		<rom name="LynxRen/StarDreamer - Full Game (2002) (PD).lnx" size="262208" crc="4b660f47" sha1="c6d62d5cf9cb546542a7dbb81ffd2f1241a9a7ee"/>
+		<rom name="LynxRen/StarDreamer - Intro (2002) (PD).lnx" size="16486" crc="fbc2b4d1" sha1="ffc6eb826408532be41438c06b5134188a00b01a"/>
+		<rom name="LynxRen/Steel Talons (1991) [b1].lnx" size="262208" crc="f4ffba4a" sha1="ff7c4dc40b8a9b2a8453f4d17c75e4382e36ed8c"/>
+		<rom name="LynxRen/Steel Talons (1991).lnx" size="262208" crc="ab814832" sha1="2d3536b3c5f3b8aa9dd5d952dbd43beac3043f6f"/>
+		<rom name="LynxRen/Super Asteroids &amp; Missile Command (1995) [o1].lnx" size="262208" crc="f4b32067" sha1="b71e330f717498d358cf4f3f726f44a75310d165"/>
+		<rom name="LynxRen/Super Asteroids &amp; Missile Command (1995).lnx" size="131136" crc="7d8a25d1" sha1="3b36e4e256ceabfd8ef8f86731d01bc191f7d5a7"/>
+		<rom name="LynxRen/Super Off-Road (1996) (Telegames).lnx" size="262208" crc="c51b7a2f" sha1="825540819ec2dfee70b6d189f13c6c07c39d387d"/>
+		<rom name="LynxRen/Super Skweek (1991) [b1].lnx" size="262208" crc="8bef6b4f" sha1="16d87f8d6862dda9f74ddeeb2d19b2f2df2c5c7e"/>
+		<rom name="LynxRen/Super Skweek (1991).lnx" size="262208" crc="11b712f6" sha1="a6185962f6106bad3b20abe5bd724c6ea8c7ba34"/>
+		<rom name="LynxRen/Super Sprint Title Screen Demo (2000) (PD).lnx" size="10649" crc="8c7fbd9c" sha1="0f9d1b5b5e98f832bdddd68ab3cf09efc5262149"/>
+		<rom name="LynxRen/Switchblade II (1992) [b1].lnx" size="262208" crc="8b8b560f" sha1="03e83e5cf6d73916ce776e20783245ef846fd822"/>
+		<rom name="LynxRen/Switchblade II (1992).lnx" size="262208" crc="63144491" sha1="01fb0609e292d84de23adee31be44605e9d0503c"/>
+		<rom name="LynxRen/T-Tris (1996) by Bastian Schick [a1].lnx" size="15700" crc="a261fcbc" sha1="d337d0b38e22f42c92691ad2a80d48125d908b7f"/>
+		<rom name="LynxRen/T-Tris (1996) by Bastian Schick.lnx" size="15914" crc="2708643d" sha1="75c2f2853996dcaf73a014a6f03b6590108b8d59"/>
+		<rom name="LynxRen/Tetris (1996) [b1].lnx" size="262208" crc="77a3d4f6" sha1="7e1334bbe3ef96e4faa25fff410a7025031961b3"/>
+		<rom name="LynxRen/Tetris (1996) [b2].lnx" size="262175" crc="8c803b33" sha1="df431f2748f54bdd6b77380712b04fc0dea609c0"/>
+		<rom name="LynxRen/Tetris (1996) [b3].lnx" size="262208" crc="22bfcedf" sha1="a3c8fbb6ecbe989f589313e3a708f1dd674a8f46"/>
+		<rom name="LynxRen/TextOut Test Program 2 by Matthias Domin (1998) (PD).lnx" size="4350" crc="c7629765" sha1="d0b108faf391e817551498aca4fc43a10596a69b"/>
+		<rom name="LynxRen/Todd&apos;s Adventure in Slime World (1990) [o1].lnx" size="262208" crc="c1d05f3e" sha1="efb11f6478718a8bb592115a1eb4090fdc8c3c57"/>
+		<rom name="LynxRen/Todd&apos;s Adventure in Slime World (1990).lnx" size="131136" crc="39bf3c25" sha1="a1914219cc572c8e41becd61839abac72e811260"/>
+		<rom name="LynxRen/Toki (1990) [b1].lnx" size="262208" crc="7af58340" sha1="7cc238fcc664b9923f2af1012dc093ba924463e9"/>
+		<rom name="LynxRen/Toki (1990).lnx" size="262208" crc="52b94a6c" sha1="9a01844c003e7755bd3b219f028fd2bd9eee1640"/>
+		<rom name="LynxRen/Tournament Cyberball 2072 (1991) [b1].lnx" size="262208" crc="a966742b" sha1="7cf0895afa070571acf877f7c6dbbbf761166172"/>
+		<rom name="LynxRen/Tournament Cyberball 2072 (1991).lnx" size="262208" crc="70d0c9bf" sha1="e2d5f95b046ec0950cf872413202ec504dbf5338"/>
+		<rom name="LynxRen/Turbo Sub (1991) [a1].lnx" size="262208" crc="9d4ed688" sha1="2bb868192ab67fad08dfb6b5c04c75866391497a"/>
+		<rom name="LynxRen/Turbo Sub (1991).lnx" size="131136" crc="5247b5f3" sha1="b56ea80870a19ac3436a66c80447a2aa0ff49d83"/>
+		<rom name="LynxRen/Unknown Game &apos;T-RES&apos; (199x) [b1].lnx" size="131136" crc="dd0fe131" sha1="a8d97587a5749d19158d1749ee998c520b7c71fe"/>
+		<rom name="LynxRen/Viking Child (1991) [b1].lnx" size="262208" crc="31fe9876" sha1="0012d0497445bd3dc1b6e577b0fc4dfc9354153f"/>
+		<rom name="LynxRen/Viking Child (1991).lnx" size="262208" crc="45969eb0" sha1="2a0a1e303da1d8fc2ea1c59a16398946787614a6"/>
+		<rom name="LynxRen/Warbirds (1990) [o1].lnx" size="262208" crc="78574d46" sha1="1ef0c1f7400debef08854bf521585bd3f10e7f67"/>
+		<rom name="LynxRen/Warbirds (1990).lnx" size="131136" crc="a6ae2301" sha1="340e76e14d0d1b961d2c2d2b1b7146381dda3a48"/>
+		<rom name="LynxRen/World Class Soccer (1992) [b1].lnx" size="262118" crc="1d460be0" sha1="dd8e6432f99d63e80885d4bce3d29c2e497737d3"/>
+		<rom name="LynxRen/World Class Soccer (1992) [b2].lnx" size="262208" crc="7a17a94c" sha1="795c4505016f6592a5610683c1cbf3923461972b"/>
+		<rom name="LynxRen/World Class Soccer (1992).lnx" size="262208" crc="9d929f2c" sha1="cc2e2a4cefbaa3ec6961a4e23b2f37262f9816c8"/>
+		<rom name="LynxRen/Wuerfel 3 Demo (199x) (PD).lnx" size="9250" crc="d1adcfa3" sha1="91b83a2a93e62b31d567643f25b6a7b892b3b8b9"/>
+		<rom name="LynxRen/Xenophobe (1990) [a1].lnx" size="131136" crc="922a9dd0" sha1="1f8a8e144d8ea19cfb2ec2f198060ba933b94849"/>
+		<rom name="LynxRen/Xenophobe (1990) [a2].lnx" size="262208" crc="cb179390" sha1="6ee8655770034ddaedaf9df9db46bad07009c3a1"/>
+		<rom name="LynxRen/Xenophobe (1990) [a3].lnx" size="131136" crc="0d9f4bda" sha1="987e529a0b7d28d10e4b84f407e5568cd5f3b9e3"/>
+		<rom name="LynxRen/Xenophobe (1990).lnx" size="262208" crc="bc1194f6" sha1="3c9af585a1a8072a8dcaef893eb5dcf1f88a6f0d"/>
+		<rom name="LynxRen/Xybots (1991) [b1].lnx" size="262208" crc="a612c8af" sha1="554b9bb0290f1ea1683e090886b837765eed7f0a"/>
+		<rom name="LynxRen/Xybots (1991).lnx" size="262208" crc="cac9a246" sha1="c3c117db6060d2b99d914e96284d4c2da723d033"/>
+		<rom name="LynxRen/Zarlor Mercenary (1990) [b1].lnx" size="196672" crc="b0ccd073" sha1="b59f934c30e01ff9c55b1d37cea97b1462a08270"/>
+		<rom name="LynxRen/Zarlor Mercenary (1990) [o1].lnx" size="262208" crc="5dae45c2" sha1="5c3aaeffc70eb03fd31eb846cc1e108db86c5e15"/>
+		<rom name="LynxRen/Zarlor Mercenary (1990).lnx" size="131136" crc="35bc4ff9" sha1="24397a46e45ae34d7b06b222c56f950976ab44b6"/>
+	</game>
+</datafile>

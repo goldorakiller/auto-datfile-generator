@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Extras - Emulators - MFME - MFME 1.0 to 10.1a</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="directx_installer_Jun2010_redist">
+		<rom name="directx_installer_Jun2010_redist.exe" size="100275120" crc="7bbcf06f" sha1="7e5d2e5e1a13fbc47f990cc55cbdb428cd12f759"/>
+	</game>
+	<game name="MFME 1.0">
+		<rom name="MFME 1.0.exe" size="1072896" crc="42eb1828" sha1="a9ce8223e21941296570700d59c8f7e1411a020e"/>
+	</game>
+	<game name="MFME 1.1">
+		<rom name="MFME 1.1.exe" size="1087435" crc="ba79a2ad" sha1="0b237aeff46b6ede1bccd4b887b4e12ac3706ebd"/>
+	</game>
+	<game name="MFME 2.0">
+		<rom name="MFME 2.0.exe" size="1308889" crc="1b20c9d8" sha1="1e7ea1208d796e25abb0719a5230de372f3e0a42"/>
+	</game>
+	<game name="MFME 3.0">
+		<rom name="MFME 3.0.exe" size="1034241" crc="8f2ca4b5" sha1="cd8de1377e1b71d4c51146e1ff7fbabedbf11723"/>
+	</game>
+	<game name="MFME 3.1">
+		<rom name="MFME_3.1.exe" size="998669" crc="f67665d1" sha1="19bcda31d590f0dcb26d6a838031180ac9b7c74e"/>
+	</game>
+	<game name="MFME 3.2">
+		<rom name="MFME 3.2.exe" size="996032" crc="7db10ada" sha1="fdf7d445f3f3fd52525d9caa59e757fb18176a14"/>
+	</game>
+	<game name="MFME_v10.1a">
+		<rom name="MFME_v10.1a.exe" size="2721280" crc="65c62e68" sha1="3ca9164fab821b1a704fe227d05069da0775e71e"/>
+	</game>
+	<game name="MFME_v9.4">
+		<rom name="MFME_v9.4.exe" size="2545152" crc="7764b9a9" sha1="f3b80873389dfbd8d3e48ca48f3c57d688fd336e"/>
+	</game>
+	<game name="MFME_v9.9">
+		<rom name="MFME_v9.9.exe" size="2894848" crc="ac8ba33d" sha1="cdce48894b8f8d3c74f1ac04c6c433f20806a2ae"/>
+	</game>
+</datafile>

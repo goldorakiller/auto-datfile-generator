@@ -1,0 +1,347 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>PC Ports</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Gaminator 42 Coolfire 1 (Novoline) (2009)">
+		<rom name="!Support/!!README - Gaminator 42 Coolfire 1 (Novoline) (2009).txt" size="1725" crc="5a4e1baa" sha1="810d754713071d3d30374226a2c8f0865935e087"/>
+		<rom name="!Support/!!README FIRST.txt" size="1670" crc="40e2ea48" sha1="08c6f4ab6a40c7bf92ddd3ad956997d236ba01c9"/>
+		<rom name="!Support/!README - Compatability mode for Win7.jpg" size="90399" crc="658a8d99" sha1="315f5b7e5038f5c73b563dc2563128bc5c35410f"/>
+		<rom name="!Support/!README - Credits.txt" size="2506" crc="4aaac98c" sha1="ae3b1b904b71eda95e2c4bb5aa78c471575e195c"/>
+		<rom name="!Support/!README - Dual Screen.txt" size="431" crc="8c338f6a" sha1="caa3766f60b9cd12279c7ea10eec85892d5ac2d8"/>
+		<rom name="!Support/!README - Game Inputs.txt" size="736" crc="f219dea1" sha1="ef377a690562780ada3106e562a5ed514232415a"/>
+		<rom name="!Support/!README - Game Names.txt" size="1682" crc="303684be" sha1="0f3ca8ac114be8e90ccfc1863b333c58d61400e4"/>
+		<rom name="!Support/!README - Game Selector Names.jpg" size="99390" crc="6feeffda" sha1="6fbbed65c026da48aabee5e006a23cbf146999e5"/>
+		<rom name="!Support/!README - Top up credit - Change games.txt" size="1385" crc="ce39499f" sha1="9e8da97393587f9af7228ade9d8291afb240a6f4"/>
+		<rom name="!Support/!README - change Credit denominations.txt" size="443" crc="4b73c510" sha1="a26bce51945fee824e6df553d60ae302db6da810"/>
+		<rom name="!Support/Credits 415.02 Euro.zip" size="175" crc="c0f08f7d" sha1="79f60474b95ac14d7656c152828ec3aab9ef11a5"/>
+		<rom name="!Support/Credits 990.00 Euro.zip" size="179" crc="d7006ad2" sha1="15eaf6587f37563938d62fa8f122de9e48e6ef48"/>
+		<rom name="!Support/Game 1.zip" size="119728" crc="bbaeaf27" sha1="b1ffce8a96518c18d2ad937750fff1bb3a8e2a90"/>
+		<rom name="!Support/Game 2.zip" size="125308" crc="5cd617da" sha1="f7c30853dcb3a760a9ff87eac2ae68529b71fa9b"/>
+		<rom name="!Support/Game 3.zip" size="64172" crc="f3c085f0" sha1="469a2762f0c5a356452d8112dd7f53d07c15e691"/>
+		<rom name="!Support/Game 4.zip" size="120106" crc="2c871636" sha1="e7c84449ad8d74bd34795a9965e4cdde3caadcce"/>
+		<rom name="!Support/Game 5.zip" size="420" crc="251a5e2a" sha1="a52dbf616de31398e3a15a7ff65b93c82f477093"/>
+		<rom name="!Support/Games 1.jpg" size="122506" crc="72a70f40" sha1="b872077c2b8ba21db2c2c29f58af118e2e5553db"/>
+		<rom name="!Support/Games 2.jpg" size="128026" crc="24513fb4" sha1="1e6b9a71f2da34cc025fe738b4c5f83a5bfdafa2"/>
+		<rom name="!Support/Games 3.jpg" size="67783" crc="e9a74a3c" sha1="7656ed1c4284dd7865ba1a9b05a08a656db5b74d"/>
+		<rom name="!Support/Games 4.jpg" size="122258" crc="dffa1ebf" sha1="8fd8ea526de3ef0d33e55af7254b6955cef7ff73"/>
+		<rom name="AlwaysHot.resource" size="352531" crc="e2d4d08d" sha1="af260af1df639f55dbd0be7f58f5ea114c20e56d"/>
+		<rom name="BananasGoBahamas.resource" size="5477603" crc="eacebe3c" sha1="5ed986ef188cc9a6d4476b9f5fca5266757cedbc"/>
+		<rom name="BeatleMania.resource" size="2156449" crc="ba533aed" sha1="a92bd26cfd3ba5e1cc0ae2aae71f040e9c2dc486"/>
+		<rom name="BookOfRa.resource" size="5416901" crc="d7469f31" sha1="bbb3dd36539de640a3f353b8417517fb23393171"/>
+		<rom name="Columbus.resource" size="8778656" crc="db1652c2" sha1="bb9de8e0c5b23291e5d5920c22158e7f4812bbf4"/>
+		<rom name="Common.resource" size="6754580" crc="8d731cc0" sha1="24ff15e70c7bb94191ecfb32eb7527a119421d4d"/>
+		<rom name="DolphinsPearl.resource" size="1297470" crc="fa722184" sha1="31bf8e12121f9ae602ec783f3c5805c4816713b8"/>
+		<rom name="GameSelector.resource" size="5010571" crc="a756c1f1" sha1="ae2523dc1fd01fc9fac922ebf7437de3de079dd1"/>
+		<rom name="HotTarget.resource" size="1737884" crc="8160ce93" sha1="51ae0090d8832bc4748b8661d6a26fe46c5daf36"/>
+		<rom name="JustJewels.resource" size="3304561" crc="ecaa2e5c" sha1="41a67e988d6d2b2530e59eb6111d37c15806410f"/>
+		<rom name="LuckyLadyCharm.resource" size="4612181" crc="e481dfac" sha1="41cc74832ef616df349c7c37d6fc584e632eb2d7"/>
+		<rom name="MagicMoney.resource" size="4673922" crc="37bb487b" sha1="4b48da2209c1101c275d464fa18eaba3b52aeebf"/>
+		<rom name="MarcoPolo.resource" size="2756199" crc="1355a8b9" sha1="3884849ad9162ae191f89c4f51b2315ee8c4bb92"/>
+		<rom name="MoneyGame.resource" size="1258804" crc="f7a1f575" sha1="a96562465a4cb7846e24701493eedb3778fa8eb3"/>
+		<rom name="OliversBar.resource" size="5644727" crc="0f766882" sha1="9fb6e53a7527fc502361265d9e84c8fa3801e577"/>
+		<rom name="PharaohsGoldII.resource" size="2192655" crc="4ad33e76" sha1="d829c9e43331ec15604f36a81cab203ddb4e5fa1"/>
+		<rom name="QueenOfHearts.resource" size="3452293" crc="4529a0b9" sha1="8aa85220e74b5e4f5c316f23c46a43d222c09310"/>
+		<rom name="RichesOfIndia.resource" size="4885158" crc="0e8e2e52" sha1="66d7bf7f29c1054b86fb8c63fecab105f30b6001"/>
+		<rom name="RollerCoaster.resource" size="5467867" crc="e5945f9c" sha1="49348c4103208ddb720002dc068a0842ce8c02f1"/>
+		<rom name="ServiceMode.resource" size="5439" crc="7ba96321" sha1="38a2d7caa837f110ca0d146cd9cb85700f664540"/>
+		<rom name="Sharky.resource" size="3974625" crc="b0eafa0b" sha1="a1614b0c86d8ee71f27716b42b4720e72651d7e1"/>
+		<rom name="SizzlingHot.resource" size="1965183" crc="bbd1cb85" sha1="cdbe7886ac437463cfe9b3f247a6e6e34c392ed2"/>
+		<rom name="UltraHot.resource" size="886773" crc="48ee9ad7" sha1="eb931c5914634354aeaa1f8acf416dff825d22c9"/>
+		<rom name="UnicornMagic.resource" size="7511750" crc="bdb904a6" sha1="bf03c0797119987e96ac2f3ce2babc812a20d192"/>
+		<rom name="Uninstall.ini" size="4722" crc="1c82bee3" sha1="a9111235d0b19f6ad5cb707b31087fcb33746330"/>
+		<rom name="VenetianCarnival.resource" size="5117554" crc="3ce9e64f" sha1="744896ff06cbb7b48d4d9b207c7607ec728f7f82"/>
+		<rom name="ddraw.dll" size="110592" crc="7f8d3a44" sha1="9fdcc2d702d6ccf57f583d16482765288752fa2b"/>
+		<rom name="debug.txt" size="76" crc="56ff67c9" sha1="7a3924118f10915a63b4dfb6963178db5684d0c8"/>
+		<rom name="game.exe" size="6164480" crc="4f99d10b" sha1="6806e5066bc752632511cf9382173801ac291172"/>
+		<rom name="game.exe.emul.h" size="604211" crc="a99e3cbc" sha1="e3236bb1e1af001aa7eea7f4e385c372d01a0b2b"/>
+		<rom name="messagelog.txt" size="51" crc="9e95d3ff" sha1="b69c9178996e0a0454f8e1b8b8fc585c4acf6843"/>
+		<rom name="novokey.dat" size="32" crc="ffffffff" sha1="baa39b53b7e3c9192336c8a4b35744bdbaace6b6"/>
+		<rom name="novolauncher.ini" size="742" crc="3d43a08f" sha1="1915b1fd833592b2de1a3a5116a5d15c322cf931"/>
+		<rom name="novomaticsys.ini" size="548" crc="ebcfc8a8" sha1="9b3020fabe132fba68de6d7bf5e2ba8aefe2276c"/>
+		<rom name="options.ini" size="486" crc="453a19e7" sha1="4ff69b830dde0438fdf046854cba2e625db6f9d2"/>
+		<rom name="vb.ini" size="36" crc="d3769f4f" sha1="aa5e14c491d9ea5fea18e8736dcb9a0fe03ecc10"/>
+		<rom name="vbaddin.ini" size="37" crc="2c384877" sha1="27918377b37932b6525a6eb01e0e73793765d907"/>
+		<rom name="zlib1.dll" size="59904" crc="ae23ae46" sha1="289e339f2d6e5d711025148f154d3acc5b3c7324"/>
+	</game>
+	<game name="Gaminator Coolfire 2 (Novoline)">
+		<rom name="AlwaysHot.gambler" size="666625" crc="c045e1f1" sha1="a4432d00ad5e4464452698ba49a28c17276f3711"/>
+		<rom name="BananaSplash.gambler" size="9319957" crc="a3dd9869" sha1="fa855ef92f713640a1a55a42bdf984603762e1f4"/>
+		<rom name="BeetleMania.gambler" size="8061312" crc="2a9d95e0" sha1="603c8024d6d72601f59c12adc75f5764138e7b65"/>
+		<rom name="BookOfRa.gambler" size="26202437" crc="bb41a0c1" sha1="b8fd1003651accbbfa6152ea59b03172b0cab0c8"/>
+		<rom name="CF2.exe" size="2154496" crc="a8886ed2" sha1="56b0a57f390c066136ebad5e5f4743f76396e151"/>
+		<rom name="Columbus.gambler" size="12096131" crc="1c19c6ef" sha1="dc723bfabe1ec11b360b2505f14e97eaa5288210"/>
+		<rom name="Common.gambler" size="196722" crc="45e2a29a" sha1="7d8d67d401202277d5fd8a25690f2b03ff855783"/>
+		<rom name="Core.gambler" size="9201482" crc="6414c686" sha1="0309bbeeaae5f95f0c0c91707f3c6c067760c79c"/>
+		<rom name="DolphinsPearl.gambler" size="2507467" crc="13fa77b5" sha1="63d4bdd7bed78cc1dbba75ce14eb767f9c36332d"/>
+		<rom name="DynastyOfMing.gambler" size="16030184" crc="f67881b2" sha1="d9bd45f1790432c8107bee68fb7b4438d37efbb1"/>
+		<rom name="Gaminator Coolfire 2 (Novoline).txt" size="1080" crc="3a2db0ff" sha1="ae08b74b82fcfdb9e376b9bb545d71c780e8f0fc"/>
+		<rom name="Illusionist.gambler" size="11886806" crc="8d71e7bc" sha1="5f938213f420bd82f1f67a4a91403ee147b8ebb1"/>
+		<rom name="KingOfCards.gambler" size="3597642" crc="fc33da59" sha1="fa960d408028c0a5c1bdbac22dadf2bd980a6dfd"/>
+		<rom name="LastLog.txt" size="1932" crc="c580f7b2" sha1="8fb7c28ac624894b7bc0a11493e070a29d104de6"/>
+		<rom name="LuckyLadysCharm.gambler" size="9733131" crc="0aea6ba2" sha1="8a5d3774cc1dca77ecc445777db6f5f9cb4f6205"/>
+		<rom name="PharaohsGoldII.gambler" size="3202046" crc="192543a8" sha1="30e2012192513ca9111f87d443130a0929b43afd"/>
+		<rom name="PharaonsGoldIII.gambler" size="10634643" crc="92500ef1" sha1="68e83c27dbd3b004dd652e796081cffdaafde46c"/>
+		<rom name="PolarFox.gambler" size="18271496" crc="1714cbfd" sha1="fad5a3642c957a719f5d72ba9bca69e3db781ef5"/>
+		<rom name="Readme.txt" size="1532" crc="65f9eac9" sha1="4670762426f148e9596b739b412e22512e425bec"/>
+		<rom name="RoyalTreasures.gambler" size="10239367" crc="7ac239f3" sha1="f7378f921cd40e82c203d28b2ad8dded0670afb8"/>
+		<rom name="SizzlingHot.gambler" size="3197711" crc="f217a085" sha1="9396f9cf346022421ef009a7d5efdbd653eed79b"/>
+		<rom name="TheMoneyGame.gambler" size="2109242" crc="11fd4f57" sha1="944185ba20f1f8a6b24dea22f14ded9b6f77b390"/>
+		<rom name="UltraHot.gambler" size="1110410" crc="2bb612af" sha1="563785b7ed530cd7978b1124be5143d4b9cd5ae1"/>
+		<rom name="UnicornMagic.gambler" size="11359841" crc="119f291d" sha1="c437e16c1551f084cb01789ac624625b9aa5dd3d"/>
+		<rom name="WonderfulFlute.gambler" size="34514530" crc="da1706d9" sha1="04eb01f578e85ef9cde5f3c66645ad0d5593dcf0"/>
+		<rom name="coldfire.ini" size="34" crc="d22f0e32" sha1="56a93824d56cd1ffdac68297718cc393634a8387"/>
+		<rom name="game.log.txt" size="82" crc="5d50fb21" sha1="d01682338d14180d1b5921c283912bb104de24aa"/>
+		<rom name="gamer.exe" size="1708032" crc="17f02d01" sha1="c91db7cbae28fd1e5d51f9d979e1c0b83930b53f"/>
+		<rom name="gamer.log.txt" size="131" crc="9e533a4f" sha1="bafa578bebc5257d76d0efcdcd03cf1d058917f6"/>
+		<rom name="msvcm90.dll" size="224768" crc="33ac2772" sha1="b55a206fc91ecc3adeda65d286522aa69f04ac88"/>
+		<rom name="msvcp90.dll" size="568832" crc="883b4032" sha1="a230e64e0a5830544a25890f70ce9c9296245945"/>
+		<rom name="msvcr90.dll" size="655872" crc="81b62876" sha1="29268ef0cd220ad3c5e9812befd3f5759b27a266"/>
+	</game>
+	<game name="Magic Games 2 II for PC (Europa Version)">
+		<rom name="!Magic Games 2 II for PC (Europa Version) (Novoline).txt" size="575" crc="c3220924" sha1="a872d773eeb6987d627feff451b68481382b0a20"/>
+		<rom name="!readme.txt" size="1482" crc="53cb4dae" sha1="295f586037130dc9896138917c77dba9fe5a7cb4"/>
+		<rom name="Magic Games II Novoline Update/menu.EXE" size="15936000" crc="a8b9937f" sha1="70ea4c74bd4dcfff0f40212bd4cc0f0eacdbcc3e"/>
+		<rom name="Magic Games II Novoline Update/readme.txt" size="30" crc="701251c2" sha1="97fb16788541c7df946ce37de8bc30a55ff88828"/>
+		<rom name="Magic Games II Novoline Update/s.exe" size="388096" crc="bd5b0497" sha1="ce0f5c7eab6cc05d2ae6e0bfc050a68997ac9f35"/>
+		<rom name="Magic_Games_II.exe" size="156452366" crc="be421f64" sha1="72e2a7ae1afb08e5253ba3d99264f2cbd77d2bdc"/>
+		<rom name="Service_Menu_1.jpg" size="42524" crc="2fbe7877" sha1="3a2158f433242bff63423ca829ccd278f3cfb3ef"/>
+		<rom name="Service_Menu_2.jpg" size="43002" crc="df647e9e" sha1="ccbd281277d3a98b452b17506d6dee635faccdda"/>
+	</game>
+	<game name="Magic Games 53">
+		<rom name="! README Magic Games 53 (HDD Image)(unpacked).txt" size="240" crc="600d42c6" sha1="042c15ea68d6f3b2903c41fcbd5243b1f9cd6017"/>
+		<rom name="AUTOEXEC.COM" size="4849" crc="b52e9102" sha1="d92f2b47029daca1124bea5508c598c13cbf500e"/>
+		<rom name="BOOT.EXE" size="99246" crc="cfe27c15" sha1="df261371e9a9c2644af4535950e376359918d47a"/>
+		<rom name="COMMAND.COM" size="93890" crc="7839509a" sha1="d4fda995750b205c94e5af80ed313954ed425d00"/>
+		<rom name="CONFIG.SYS" size="56" crc="d39ab254" sha1="ded26f73289d20de62a1a6c5ab54e0dd6011d730"/>
+		<rom name="LOGO.SYS" size="129080" crc="c91df32e" sha1="41282dd8bf95122cf151d4143cea0e1b7afd8cd4"/>
+		<rom name="MAGICN/DS/CCTCOIN.flg" size="43" crc="f467c638" sha1="cf8e8277da2ede38501afe6029fcf371bf315394"/>
+		<rom name="MAGICN/DS/NOTEWBA.flg" size="42" crc="82ed0792" sha1="f26a4abf0b9e2c3bb6bdff6fa7834bb55981c86c"/>
+		<rom name="MAGICN/DS/PTBUNIT.flg" size="41" crc="e6b72eb3" sha1="62bc3b747adf3ca120bbb610536765481d3ac20d"/>
+		<rom name="MAGICN/DS/bcset.ods" size="81" crc="95e619fc" sha1="6015e303fb6abccf0b2f8df59f0bee17c054503c"/>
+		<rom name="MAGICN/DS/bingo2hi.ods" size="1793" crc="9755fded" sha1="b1d5d45529967865f90c8160b40f974b0bb4e489"/>
+		<rom name="MAGICN/DS/bingohi.ods" size="2293" crc="3a0a50a2" sha1="c0dbeafaa04f8370b034ea60481eab5f948ca3b7"/>
+		<rom name="MAGICN/DS/bingothi.ods" size="2293" crc="e88296f4" sha1="c7d99e50f1469d84cff75d88281103b6003aa9f6"/>
+		<rom name="MAGICN/DS/dofpo2hi.ods" size="1693" crc="5f5f362c" sha1="0cb4103a2cfe7804450602d3969e95ce3fc16499"/>
+		<rom name="MAGICN/DS/dop9rehi.ods" size="2168" crc="d594ca26" sha1="a4e9798eb017a96895bff91512d651cf94f44798"/>
+		<rom name="MAGICN/DS/dopfr2be.ods" size="32" crc="a1523d59" sha1="0a95712c009a340b094e5d81a5eeee1a10a66d04"/>
+		<rom name="MAGICN/DS/dopfr2hi.ods" size="2018" crc="efdb926d" sha1="072d0cff088633fbc31a9f14b3a2e2ea25735dd2"/>
+		<rom name="MAGICN/DS/doppohi.ods" size="1768" crc="28428325" sha1="57f5c5fda796066249bef4dfbda55e92bc4a00ea"/>
+		<rom name="MAGICN/DS/ggmenord.ods" size="229" crc="aade4efd" sha1="6230b2be9527b01590ef8be69911c6ccb4f25b7b"/>
+		<rom name="MAGICN/DS/ggset.ods" size="171" crc="1a41a2bd" sha1="2add0a90620312b0274b2d320efde58c555325ce"/>
+		<rom name="MAGICN/DS/set.ods" size="76" crc="b8ebf901" sha1="1ab37c4dcd59b8c230c5977a985480f5ef5442ec"/>
+		<rom name="MAGICN/DS/si3re2hi.ods" size="1593" crc="8a985950" sha1="e3ca39727833421929d4a28a1ecfc3140f7301e0"/>
+		<rom name="MAGICN/DS/si3re3hi.ods" size="1643" crc="f2859ffb" sha1="3d6303a2742283c785ff34f9be531b5552ead6c5"/>
+		<rom name="MAGICN/DS/si3re6hi.ods" size="1593" crc="8b1a8d90" sha1="a9c96cb3bdb2fdd4043c8d6fbc56e3754df4181e"/>
+		<rom name="MAGICN/DS/si3rehi.ods" size="1593" crc="bbfd983b" sha1="cd23d519aac3f98fbd0a7b9d66421ed33fcfd08c"/>
+		<rom name="MAGICN/DS/si3remi.ods" size="32" crc="04a594de" sha1="095c09b021cc3de569f070026ac7404e826664e3"/>
+		<rom name="MAGICN/DS/si4rehi.ods" size="1818" crc="8479dd98" sha1="5fa5441e5faade9a55071bb6aeeb237de67d3485"/>
+		<rom name="MAGICN/DS/si5re3hi.ods" size="2018" crc="5bcf1888" sha1="f92d6263f2c2961529cc15a153a468c1285c0197"/>
+		<rom name="MAGICN/DS/si5re4hi.ods" size="1868" crc="8c59e4c8" sha1="1f8186eceed52fb560eedbddde8c04bbae26d6b1"/>
+		<rom name="MAGICN/DS/si5re5hi.ods" size="2018" crc="9671741b" sha1="473ac874a50330122971d88e50f793030d2424f2"/>
+		<rom name="MAGICN/DS/si5re6hi.ods" size="2018" crc="ce7f2b0b" sha1="4ddfe4e040d10167eb42eb3f1707b4c89b34925b"/>
+		<rom name="MAGICN/DS/si5re7hi.ods" size="2043" crc="34bb1b5d" sha1="0b99221dcb0b7b2e3f4e906fd98e55ca04f03d37"/>
+		<rom name="MAGICN/DS/si5re8hi.ods" size="2018" crc="a8c0f115" sha1="26d880c605de1b79db01644a276420dcb07cc9a2"/>
+		<rom name="MAGICN/DS/si5re9hi.ods" size="2018" crc="15985149" sha1="530cac645ce7ea22eb316dd2069c34be3aa14009"/>
+		<rom name="MAGICN/DS/si5reahi.ods" size="2018" crc="854f8544" sha1="0672a7264308c5d9bba43a7623b951eb44a51ad2"/>
+		<rom name="MAGICN/DS/si5rebhi.ods" size="2018" crc="06e97877" sha1="5f56a064ea7f10f4c53c5b1eedbb5f4cfc76924b"/>
+		<rom name="MAGICN/DS/si5rechi.ods" size="2018" crc="e47306fb" sha1="e4b7db9b30afc4f81f7e12445607dcd256f1377a"/>
+		<rom name="MAGICN/DS/si5redhi.ods" size="1868" crc="f551c94c" sha1="8d1d56afdcb886bb0cfa456a21bbc7df8eb5aae9"/>
+		<rom name="MAGICN/DS/si5refhi.ods" size="2043" crc="396faa0e" sha1="4967a70f051c027eefc6d86d17dfb7eda2ed32fd"/>
+		<rom name="MAGICN/DS/si5reihi.ods" size="2018" crc="8ac7d7af" sha1="0fe5db92cc89b20dd9ca79b715197d0145a4a2e6"/>
+		<rom name="MAGICN/DS/si5rejhi.ods" size="2018" crc="4cb1fe24" sha1="7beeb3bbda30c3693820f81af5142cfcc81e9bd7"/>
+		<rom name="MAGICN/DS/si5rekhi.ods" size="2018" crc="94e9c5f0" sha1="ce6b62d29608e11165251268b79a57e7cbc701f5"/>
+		<rom name="MAGICN/DS/si9rehi.ods" size="1993" crc="fddcf998" sha1="eb72123b856fca981f9481a087318540a3abbf79"/>
+		<rom name="MAGICN/DS/totohi.ods" size="1793" crc="7d2f4c18" sha1="84b82322fcbd8913bb1d05bed0541adcea7f7e3c"/>
+		<rom name="MAGICN/DS/touchcal.reg" size="384" crc="8130b87b" sha1="2e00e33617ef4b4e6813855969da328991385aa0"/>
+		<rom name="MAGICN/DS/trppo2hi.ods" size="1618" crc="3422d078" sha1="9bbaf5d7379058ea27a9ba835c09a5bc115118ce"/>
+		<rom name="MAGICN/magicn" size="651022217" crc="aa6ddb64" sha1="9f22658bb5e25dd7c71b5991693b1aa387055615"/>
+		<rom name="MSDOS.SYS" size="199" crc="5960a456" sha1="5c46c61b95d751478e59d3ef26a3f980c565d0fe"/>
+		<rom name="SYSTEM/APPLOG/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="SYSTEM/CHECKED.flg" size="8" crc="1ec0faed" sha1="3f382c52b679c3ab687e2847d0b4df9458bb4a28"/>
+		<rom name="SYSTEM/COPIED.flg" size="8" crc="d4c46ffb" sha1="ed1a060a4b8bc2f106ca3c08edb468b60cf11a04"/>
+		<rom name="SYSTEM/FONTS/ARIAL.TTF" size="273020" crc="2164d13d" sha1="54409697aa6122190669cac73b49866f5210b184"/>
+		<rom name="SYSTEM/FONTS/ARIALBD.TTF" size="284560" crc="dc848101" sha1="5d9a444e58c8fdbf916d8802d93530d043ada635"/>
+		<rom name="SYSTEM/FONTS/ARIBLK.TTF" size="117028" crc="e67c3fa1" sha1="49560b47dac944923a6c918c75f27fbe8a3054c5"/>
+		<rom name="SYSTEM/FONTS/ARITUR.TTF" size="83388" crc="ddf36c19" sha1="272d3452ee4e6b5c34fb411748f8178065a934fd"/>
+		<rom name="SYSTEM/FONTS/ARITURBD.TTF" size="82628" crc="1bce528d" sha1="11948f6f5af97f0489ebe894e50746c19302ce6f"/>
+		<rom name="SYSTEM/FONTS/SERIFE.FON" size="57952" crc="1f304fbb" sha1="2b1a5a3b2df34501842f943b6b6c4366621e8c5e"/>
+		<rom name="SYSTEM/FONTS/SMALLE.FON" size="24352" crc="0ae6487a" sha1="edcc6ade661a2f8c7a132fbf61604d5a8f76e4f5"/>
+		<rom name="SYSTEM/FONTS/SSERIFE.FON" size="64656" crc="e14b306d" sha1="a95dce2bfe88fcd5e429d9592d09212df948b884"/>
+		<rom name="SYSTEM/FONTS/SYMBOL.TTF" size="69464" crc="d54e4e47" sha1="89ea47e3c86a2f6728af51770923ff3cd351b19f"/>
+		<rom name="SYSTEM/FONTS/SYMBOLE.FON" size="56352" crc="a12fbfc3" sha1="2aaa79d7b4f0ecebbfbbff9d088b736d52f43730"/>
+		<rom name="SYSTEM/FONTS/VGAFIX.FON" size="5376" crc="aaba79db" sha1="e8770cb0fd91fe052517a1d91caf270b5b2aa5ca"/>
+		<rom name="SYSTEM/FONTS/VGAOEM.FON" size="5168" crc="6b12d04b" sha1="00f2c7fc5bc4662c809c42f1009a7c5966eba8d1"/>
+		<rom name="SYSTEM/FONTS/VGASYS.FON" size="7296" crc="382535f4" sha1="bac9405fef80a8b3d8611b20569a8c0b580a6df5"/>
+		<rom name="SYSTEM/FORMAT.COM" size="49575" crc="08c9061f" sha1="32988635573c174cf5442ae259dacf33b6cb325d"/>
+		<rom name="SYSTEM/HARDWINF.TXT" size="38" crc="4c38057e" sha1="0190a4f916e69e179d81bcef6844b3b314b8b233"/>
+		<rom name="SYSTEM/HIMEM.EXE" size="8783" crc="b46afb35" sha1="dfbd7e238a39ac2e20fcc58534b80540d16499a7"/>
+		<rom name="SYSTEM/HIMEM.SYS" size="33191" crc="9e93acdf" sha1="8eba478105c4008d889dd9d1e206a531a747beb5"/>
+		<rom name="SYSTEM/IFSHLP.SYS" size="3708" crc="f4771d1d" sha1="f83b740b8505b2ea6e9261ffedb811fe8030a26f"/>
+		<rom name="SYSTEM/IOS.LOG" size="1103" crc="84846bdf" sha1="a6c4f51a4a641f25b8295d3f300fd894ae84398b"/>
+		<rom name="SYSTEM/MTPANEL.EXE" size="36864" crc="c2a726bb" sha1="b27f5e928fb94f1114ed9294d24fe86ffdb60742"/>
+		<rom name="SYSTEM/MTSTSMON.EXE" size="73728" crc="f0100e59" sha1="e6c4bf1a8194db430c6cf93f6793c74b84fd4771"/>
+		<rom name="SYSTEM/REGEDIT.EXE" size="118784" crc="ffc8b3a2" sha1="cb8c5a7264ee5e529a7674719df183bbf7a519fa"/>
+		<rom name="SYSTEM/STARTUP.EXE" size="24576" crc="a75d33a1" sha1="4f80d98efe7b047ad15fa2e4efcb7e0280fde6f0"/>
+		<rom name="SYSTEM/SYS.COM" size="18967" crc="8ab41c16" sha1="50b003a40b7e139dd719115f436b5411aaf44208"/>
+		<rom name="SYSTEM/SYSAM.DAT" size="295429" crc="df19f19b" sha1="a1697bf66b43c5bec68644782e782c22f35fd2b4"/>
+		<rom name="SYSTEM/SYSTEM.CFG" size="3" crc="ca157eab" sha1="501e9b12d9226732699ceb9d3347462a00ef27d7"/>
+		<rom name="SYSTEM/SYSTEM.DAT" size="299040" crc="1c821b65" sha1="508e31471733e4f7f748e2190dc7ba5207b19084"/>
+		<rom name="SYSTEM/SYSTEM.INI" size="1450" crc="7e23bd37" sha1="cc17599cd8c768090fe813381784cc6dde1d7ccb"/>
+		<rom name="SYSTEM/SYSTEM/ADVAPI32.DLL" size="65536" crc="faf215ba" sha1="23bf8ac9b1e2a7f029f618cc0303893ad9b02f31"/>
+		<rom name="SYSTEM/SYSTEM/ATL.DLL" size="73785" crc="7534f6d2" sha1="d84b24b7081efe2e771a1aeea7d09f8a95a2ad82"/>
+		<rom name="SYSTEM/SYSTEM/AVIFILE.DLL" size="109456" crc="0336b989" sha1="5620168f3a0ef1fbe302095ee84530d1758602dd"/>
+		<rom name="SYSTEM/SYSTEM/BIOS.VXD" size="30193" crc="1ff5e826" sha1="29c76371412df2d59779fc264268d57b253eb799"/>
+		<rom name="SYSTEM/SYSTEM/COMCTL32.DLL" size="569104" crc="44768235" sha1="a61c3909e5cdf64ac2dd7b3dec4044c6f6a1d25c"/>
+		<rom name="SYSTEM/SYSTEM/COMDLG3X.DLL" size="176128" crc="cdd5a297" sha1="08e51a42e87caa56c06211e2863041f7b97bed7a"/>
+		<rom name="SYSTEM/SYSTEM/COMM.DRV" size="5872" crc="76292f70" sha1="fb8c8da59bbf84a23a1dce2cca66ed900a9c1f49"/>
+		<rom name="SYSTEM/SYSTEM/COMMCTRL.DLL" size="155136" crc="ca473b3c" sha1="7a4c02303c6db554af4349b365c6cd21332c458f"/>
+		<rom name="SYSTEM/SYSTEM/CP_1252.NLS" size="9866" crc="7a221e57" sha1="69fc78219cab5542cdd57fc7de96f3f8bfcb8f94"/>
+		<rom name="SYSTEM/SYSTEM/CP_1254.NLS" size="7708" crc="9524ce4c" sha1="c56349501f28868cdeae6df2de00d2381675a073"/>
+		<rom name="SYSTEM/SYSTEM/CP_437.NLS" size="8648" crc="c2ad52f5" sha1="8674feb249ecc2924554d3301554289213d4d14e"/>
+		<rom name="SYSTEM/SYSTEM/CP_850.NLS" size="8648" crc="796cbf2b" sha1="999f56dede753652f4ec95c18bd3ca5d2b68cf08"/>
+		<rom name="SYSTEM/SYSTEM/DCIMAN.DLL" size="6944" crc="87fd271d" sha1="9681113ccd292b5846fc138481b9b5bb3bbd5597"/>
+		<rom name="SYSTEM/SYSTEM/DCIMAN32.DLL" size="24576" crc="a95bde22" sha1="969ae28e855b1b0d9ccf5481460e41140b033720"/>
+		<rom name="SYSTEM/SYSTEM/DDEML.DLL" size="32240" crc="c5d5188c" sha1="8a926f241692fdb3a2e6925b53553d626af2a811"/>
+		<rom name="SYSTEM/SYSTEM/DDHELP.EXE" size="41984" crc="8a93d911" sha1="ea7ec2fdedc56278ca14f6e563b4d7f730f18fa8"/>
+		<rom name="SYSTEM/SYSTEM/DDRAW.DLL" size="369664" crc="c586e8e1" sha1="44d7a41aed4aed6e55eb0704a79a66bec52ac713"/>
+		<rom name="SYSTEM/SYSTEM/DDRAW.VXD" size="30469" crc="4201e2cd" sha1="11020782e11b90b0e3ec1dc83c1a28f1421f4e38"/>
+		<rom name="SYSTEM/SYSTEM/DDRAW16.DLL" size="28496" crc="02cea9a8" sha1="2280c187d7e2fd093da22b33da98dac27b4fb03b"/>
+		<rom name="SYSTEM/SYSTEM/DDRAWEX.DLL" size="24336" crc="066bc1d5" sha1="81a3c3f6d7104dcffdd2c0f565f359a35c1206e7"/>
+		<rom name="SYSTEM/SYSTEM/DIBENG.DLL" size="202800" crc="06fd8f72" sha1="abf53fe72b4de29c69c98a96768015c1126e6323"/>
+		<rom name="SYSTEM/SYSTEM/GDI.EXE" size="345584" crc="55aba750" sha1="5dee909e60244e7be533bb81d46803dfdbe1acba"/>
+		<rom name="SYSTEM/SYSTEM/GDI32.DLL" size="155648" crc="570c6f77" sha1="4673f8a50380271ded08f7b40f4dabe0ea9b09c1"/>
+		<rom name="SYSTEM/SYSTEM/HARDLOCK.VXD" size="661072" crc="816402e9" sha1="319961aa2fe512e807862aa5d2c3fdf35e9e4142"/>
+		<rom name="SYSTEM/SYSTEM/ICCVID.DLL" size="110592" crc="77c2cbf5" sha1="3cb4eaade0c6e8d190ad88993430e24c9cf44046"/>
+		<rom name="SYSTEM/SYSTEM/IOSUBSYS/BIGMEM.DRV" size="9952" crc="a9edb0f0" sha1="be89920ee288382a99b207da9e867bb0e8866272"/>
+		<rom name="SYSTEM/SYSTEM/IOSUBSYS/RMM.PDR" size="13242" crc="2e500188" sha1="71eeded62216846b5239097d936bae557efa4cc1"/>
+		<rom name="SYSTEM/SYSTEM/ISAPNP.VXD" size="21281" crc="3a4886f5" sha1="79a4cd645b5166fef1301ad0ef91dfd7aeebf940"/>
+		<rom name="SYSTEM/SYSTEM/KBDUS.KBD" size="398" crc="7c4d5821" sha1="e6614a05a59637da6b12149ae97d0fefc7d6ee45"/>
+		<rom name="SYSTEM/SYSTEM/KERNEL32.DLL" size="471040" crc="bae2756e" sha1="4e88e5a90b337b2bcf4cd2a82f55fb4e5469aa46"/>
+		<rom name="SYSTEM/SYSTEM/KEYBOARD.DRV" size="12688" crc="9af05f4c" sha1="c7e217a7876bb7a4438592dfe05dd010c515a629"/>
+		<rom name="SYSTEM/SYSTEM/KRNL386.EXE" size="127040" crc="91ddebb7" sha1="62d4fab39b6572ae629d54019a52d320a5aa32e9"/>
+		<rom name="SYSTEM/SYSTEM/LOCALE.NLS" size="174996" crc="58386b5f" sha1="626ecfcd8843c27790f6dca87698b9c3fc661506"/>
+		<rom name="SYSTEM/SYSTEM/LZEXPAND.DLL" size="23696" crc="881f813b" sha1="013db971d9d1e286c18b40bef3a2e032a24b436e"/>
+		<rom name="SYSTEM/SYSTEM/MCIAVI.DRV" size="67744" crc="8dc4dbb6" sha1="a9cfe5231a0faefe5dab97aab3fb1bb50b861e44"/>
+		<rom name="SYSTEM/SYSTEM/MFC42.DLL" size="995383" crc="e9f90051" sha1="ca7b398f208a213a6ca17cf39b5ece2d8110bab0"/>
+		<rom name="SYSTEM/SYSTEM/MMDEVLDR.VXD" size="13940" crc="84a929d0" sha1="89057b89f0834158f3945371eed59a1673be1c45"/>
+		<rom name="SYSTEM/SYSTEM/MMSOUND.DRV" size="3120" crc="5235fec1" sha1="43210294ff36f01ee194d1d7820358ac2ae15e5e"/>
+		<rom name="SYSTEM/SYSTEM/MMSYSTEM.DLL" size="108528" crc="9562e21b" sha1="fb9f7aefecff7fb8cc877c39cf729580452eb4ef"/>
+		<rom name="SYSTEM/SYSTEM/MMTASK.TSK" size="1184" crc="2f1adc8d" sha1="013a53ed7a0b095a564d7499c28ccfff84a0610c"/>
+		<rom name="SYSTEM/SYSTEM/MOUSE.DRV" size="7712" crc="eabe9d55" sha1="6cf0bec085c0382261e680219334f5981317c375"/>
+		<rom name="SYSTEM/SYSTEM/MPR.DLL" size="57344" crc="cdee1c3c" sha1="0b35f8da0bc3f087639b52ad96dfa81d7945875d"/>
+		<rom name="SYSTEM/SYSTEM/MPREXE.EXE" size="28672" crc="7a17d2b1" sha1="d08c50927815a6015b42f05c1e4ebafa25e37542"/>
+		<rom name="SYSTEM/SYSTEM/MPRSERV.DLL" size="155648" crc="d68b2d60" sha1="05d9b22d10f47e78df90bddd909a70776720802c"/>
+		<rom name="SYSTEM/SYSTEM/MSACM.DLL" size="53552" crc="4ca8effe" sha1="a1626bd2ac6d5452c5e657dc2405761ee832b6d0"/>
+		<rom name="SYSTEM/SYSTEM/MSACM.DRV" size="23440" crc="97ac96ed" sha1="04cd2397079b21d2b7a1fe0addec7a27d0eb5863"/>
+		<rom name="SYSTEM/SYSTEM/MSGSRV32.EXE" size="11920" crc="98a35161" sha1="9a02a69a4c73cbd5f09c00f90437b6d47e618565"/>
+		<rom name="SYSTEM/SYSTEM/MSIMG32.DLL" size="53248" crc="3ea355c2" sha1="83c0b32923d223ffd77c05d53aaf7fe7b0c4dd44"/>
+		<rom name="SYSTEM/SYSTEM/MSMOUSE.VXD" size="15809" crc="b488ec95" sha1="0a7045787057c3ba6fe9cc5fd0fa8014d5d84dda"/>
+		<rom name="SYSTEM/SYSTEM/MSPWL32.DLL" size="40960" crc="10459d39" sha1="4ec79574321f6f485c187bb55e1ccae918d27655"/>
+		<rom name="SYSTEM/SYSTEM/MSVCRT.DLL" size="266293" crc="a7f18460" sha1="69697324c1e7ad80215fb07ecf6d786e378c568f"/>
+		<rom name="SYSTEM/SYSTEM/MSVFW32.DLL" size="143360" crc="0eea5b51" sha1="e7bd775d88a0cc9a4e72903d924ce35b1f471692"/>
+		<rom name="SYSTEM/SYSTEM/MSVIDEO.DLL" size="113648" crc="1a50b2b0" sha1="92f51a847643d070f0f4befefe1081efcf815bb6"/>
+		<rom name="SYSTEM/SYSTEM/MTSAPILT.DLL" size="61440" crc="9c07071b" sha1="41063a698b70fe486133eafc66c8f408f7a030cc"/>
+		<rom name="SYSTEM/SYSTEM/MTSFREQ.DLL" size="126976" crc="1bedd7b5" sha1="8c053187764d163b3b6eb297edae09c819bec1a6"/>
+		<rom name="SYSTEM/SYSTEM/MTSRESRC.DLL" size="577536" crc="c5ab9f5c" sha1="b9eba1462e886430094a6f2a75851fdfd55c9f61"/>
+		<rom name="SYSTEM/SYSTEM/MTSTCH0.VXD" size="27744" crc="c0ca2cdc" sha1="864d8d435c1cab9bcede475d98eb992b1277b96e"/>
+		<rom name="SYSTEM/SYSTEM/MTSUTILS.DLL" size="98304" crc="dfc06bfe" sha1="2b91e9eab840f988f176bbc28617507d098ede8f"/>
+		<rom name="SYSTEM/SYSTEM/NTDLL.DLL" size="20480" crc="db3c0893" sha1="b5e814eefdb7a04659f1811ce7460a897f21addd"/>
+		<rom name="SYSTEM/SYSTEM/NVARCH16.DLL" size="22016" crc="b8ad5797" sha1="1d4a12051325c537adf3fdaa4abccecadfff8d96"/>
+		<rom name="SYSTEM/SYSTEM/NVARCH32.DLL" size="5632" crc="228b93bc" sha1="82845884630619a7bc4705d265733572778330bb"/>
+		<rom name="SYSTEM/SYSTEM/NVCORE.VXD" size="820829" crc="dc639192" sha1="a27472513346b24dd0a4abbc6763ac64bc29bebd"/>
+		<rom name="SYSTEM/SYSTEM/NVDD32.DLL" size="2913792" crc="512a94e6" sha1="c7d6ab113e8a4448265d3a90b512d2662b7c269e"/>
+		<rom name="SYSTEM/SYSTEM/NVDISP.DRV" size="112640" crc="9b89c707" sha1="968d231ce61fe9453f4e0219580d9ae0b9fa854e"/>
+		<rom name="SYSTEM/SYSTEM/NVMINI.VXD" size="239946" crc="3bd49bcb" sha1="8b52cf65108e255700ff5c56b6cc1b830c79714e"/>
+		<rom name="SYSTEM/SYSTEM/NVMODE.DLL" size="66496" crc="9f12c7e5" sha1="61c0f7c11c45bcfc537a83f9c921308f3df0cb66"/>
+		<rom name="SYSTEM/SYSTEM/OLE2NLS.DLL" size="153040" crc="39029213" sha1="a0b91b36d179977430f423cc9489a594b16573fe"/>
+		<rom name="SYSTEM/SYSTEM/OLE32.DLL" size="790528" crc="f87d50da" sha1="4b5678f1ab9765f118df23f58c307f909b9eb381"/>
+		<rom name="SYSTEM/SYSTEM/OLEAUT32.DLL" size="598288" crc="90ce91f8" sha1="2d2a2c483f08417df0fc95639a0946f65b284217"/>
+		<rom name="SYSTEM/SYSTEM/PCI.VXD" size="65895" crc="0e0f7215" sha1="ed4c2cb9eafebad91467668176c1ba482e0b5ea2"/>
+		<rom name="SYSTEM/SYSTEM/SER9PL.SYS" size="34332" crc="f92839e1" sha1="aa0df61e2c9de81709746e8c9465de8bc16496be"/>
+		<rom name="SYSTEM/SYSTEM/SERENUM.VXD" size="20228" crc="c4949354" sha1="b1105f803cef6d780e5c41010788d1cd88bdc1d7"/>
+		<rom name="SYSTEM/SYSTEM/SERIAL.VXD" size="18625" crc="e8e81e97" sha1="d7f723bed682666e062c49b17dcc705ce0bf7e13"/>
+		<rom name="SYSTEM/SYSTEM/SERSPL.VXD" size="26719" crc="ac74fd78" sha1="8c7720cebcc55b5ea2d7002025a5c0e3a45346eb"/>
+		<rom name="SYSTEM/SYSTEM/SHELL.DLL" size="126704" crc="96012ef7" sha1="2992f0b8ecfcf8bf3d069d2f5606a46f7c027547"/>
+		<rom name="SYSTEM/SYSTEM/SHELL32.DLL" size="1400832" crc="e8bd6b5e" sha1="3855df051ed8c257ba4115b7592489fc90e30f10"/>
+		<rom name="SYSTEM/SYSTEM/SHLWAPI.DLL" size="288528" crc="6d7b95af" sha1="7270dd8bfb21724288cf5df4ec39fdcbb95b63f8"/>
+		<rom name="SYSTEM/SYSTEM/SMW95.DRV" size="97888" crc="60f920d9" sha1="17cff6ae66283aa6124656a486a73b5a43414a9a"/>
+		<rom name="SYSTEM/SYSTEM/SMW95.VXD" size="52859" crc="2294b367" sha1="ec2d9c12e179600f3be86fcac754725a9f96cf57"/>
+		<rom name="SYSTEM/SYSTEM/SYSTEM.DRV" size="2288" crc="de78ef14" sha1="07aec33319331621ab96f4978deb5ca61b95cac2"/>
+		<rom name="SYSTEM/SYSTEM/SYSTHUNK.DLL" size="16400" crc="9d0d6a75" sha1="c8bb366bb739065c5fc6c662f1d47e511b1f5ea6"/>
+		<rom name="SYSTEM/SYSTEM/TOOLHELP.DLL" size="12112" crc="5ad30860" sha1="2c07ea7af83fa64c8a23b9cdcd9bf6b6ae1a976c"/>
+		<rom name="SYSTEM/SYSTEM/TOUCHMGR.VXD" size="12901" crc="68350c81" sha1="654e7b56a1a31416276be8c8cc30916f838b682e"/>
+		<rom name="SYSTEM/SYSTEM/UNICODE.NLS" size="34676" crc="1ea3b0c2" sha1="c0cd486b84d7f4a1639b4b033526a717924dd43e"/>
+		<rom name="SYSTEM/SYSTEM/USER.EXE" size="553440" crc="fd08dba1" sha1="574df23d3ab4dc3396c30b4eb09cd5b365862f02"/>
+		<rom name="SYSTEM/SYSTEM/USER32.DLL" size="69632" crc="cd38b811" sha1="2aed6ae124f984ebb3c3dc26e7f92fd7576ca914"/>
+		<rom name="SYSTEM/SYSTEM/VER.DLL" size="12496" crc="25616d08" sha1="88923c9fe0264c2d783ec3523d574363faa7168e"/>
+		<rom name="SYSTEM/SYSTEM/VERSION.DLL" size="24576" crc="9d2471ea" sha1="6c45828b0fb01f8d0f489e434be9396e03d411a4"/>
+		<rom name="SYSTEM/SYSTEM/VMM32.VXD" size="928319" crc="5b9458dd" sha1="1b661bc170ece0beef38494701b5760255bc91c3"/>
+		<rom name="SYSTEM/SYSTEM/VMM32/IFSMGR.VXD" size="185902" crc="f02bc69f" sha1="c500bfb6e50d4eec41c7cf813b1dcc7293fd2ddc"/>
+		<rom name="SYSTEM/SYSTEM/VMM32/IOS.VXD" size="69570" crc="ef05123b" sha1="171326e5619b812f36de10af34b3f8166a5647fd"/>
+		<rom name="SYSTEM/SYSTEM/VRTWD.386" size="101617" crc="77382340" sha1="06cc37d678c5bdaaa71237382e0aabdae8e2f99f"/>
+		<rom name="SYSTEM/SYSTEM/WIN87EM.DLL" size="12800" crc="0238f885" sha1="75f7a5473d218afee82772191cf954e1616dd616"/>
+		<rom name="SYSTEM/SYSTEM/WINMM.DLL" size="65536" crc="53fd080a" sha1="71856041a43cf994fb16441ff722fbcf18eb2568"/>
+		<rom name="SYSTEM/SYSTEM/WINSPOOL.DRV" size="23040" crc="9617f11d" sha1="a3312fceecce3eaf54a1ae0b43fbcf41dd02f0a1"/>
+		<rom name="SYSTEM/SYSTEM/WOW32.DLL" size="20480" crc="b7479cc8" sha1="4c146b587d14190935f825c41db75586eb3a42cc"/>
+		<rom name="SYSTEM/SYSTEM00.DAT" size="40992" crc="719a0751" sha1="d825fbb1bf76d14033bb9121e71bc9b7b0d17d01"/>
+		<rom name="SYSTEM/SYSTEM32/DRIVERS/UHCD.SYS" size="30448" crc="9f173941" sha1="a3fad0c85b8da904731170d5296a1c98afc1b707"/>
+		<rom name="SYSTEM/SYSTEM32/DRIVERS/USBD.SYS" size="18912" crc="a4d63deb" sha1="4a2fbe44f86b1b34d43db0cc7d619cdddfd4aeb4"/>
+		<rom name="SYSTEM/SYSTEM32/DRIVERS/USBHUB.SYS" size="35680" crc="c199d67a" sha1="ef5225fd324a95e4f63751ad73dd06087ec8abd0"/>
+		<rom name="SYSTEM/SYSTEM32/DRIVERS/WMIDRV.SYS" size="14800" crc="cd9b7da4" sha1="b9a4ff6d40918898641dbe0b3fe802fca1d0f3ff"/>
+		<rom name="SYSTEM/SYSTEM32/DRIVERS/WMILIB.SYS" size="3600" crc="f4b5e506" sha1="f82544681b9d45117cf4dacb9797a8435058e092"/>
+		<rom name="SYSTEM/SYSTEMAM.INI" size="1450" crc="7e23bd37" sha1="cc17599cd8c768090fe813381784cc6dde1d7ccb"/>
+		<rom name="SYSTEM/TEMP/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="SYSTEM/TOUCHINF.TXT" size="26" crc="e924fbde" sha1="8afc364576666196ba0dfba7a5c4d3e8c314ab30"/>
+		<rom name="SYSTEM/USER.DAT" size="32800" crc="1246e866" sha1="a8cee464364cab9308347d98981d917cc4814237"/>
+		<rom name="SYSTEM/USER00.DAT" size="28704" crc="e64bec26" sha1="79a2ae88f35b0328928b009d04e6948e64bca0a9"/>
+		<rom name="SYSTEM/WIN.COM" size="24791" crc="9d77acdd" sha1="81647396ed54c11be33047a1f0585e755154f791"/>
+		<rom name="SYSTEM/WIN.INI" size="1399" crc="00da2d0b" sha1="858c1f4e80948cc30ddfec7da6658836275f0eca"/>
+		<rom name="SYSTEM/WIN386.SWP" size="8388608" crc="e045eab0" sha1="36194ba1463efd7996ec30b8770b09e9cb2da526"/>
+	</game>
+	<game name="Megaline II v2.00 (Groni)">
+		<rom name="!Password.txt" size="257" crc="e59db876" sha1="d29436b17d065e50d3b26f0ec082523f7a2a7fe2"/>
+		<rom name="!README Megaline II (Groni).txt" size="54" crc="1f566271" sha1="8fa90faa01657e3d0a1b812aa36fb526e446e5b3"/>
+		<rom name="MegalineII-Setup.exe" size="155590400" crc="15559da2" sha1="3ad3446d1d92a535af7f8b74a21a562bc264769c"/>
+	</game>
+	<game name="Micro Byte Multi Gambler 48 Coolfire 2">
+		<rom name="!MicroByte Multi Gambler 48 README.txt" size="1385" crc="654b60d0" sha1="24d372537871fbe3b3fd60341f68e6fbdad9f5a1"/>
+		<rom name="AlwaysHot.gambler" size="666625" crc="c045e1f1" sha1="a4432d00ad5e4464452698ba49a28c17276f3711"/>
+		<rom name="BananaSplash.gambler" size="9319957" crc="a3dd9869" sha1="fa855ef92f713640a1a55a42bdf984603762e1f4"/>
+		<rom name="BeetleMania.gambler" size="8061312" crc="2a9d95e0" sha1="603c8024d6d72601f59c12adc75f5764138e7b65"/>
+		<rom name="BookOfRa.gambler" size="26202437" crc="bb41a0c1" sha1="b8fd1003651accbbfa6152ea59b03172b0cab0c8"/>
+		<rom name="Columbus.gambler" size="12096131" crc="1c19c6ef" sha1="dc723bfabe1ec11b360b2505f14e97eaa5288210"/>
+		<rom name="Common.gambler" size="196722" crc="191919e4" sha1="3ca965c6d25219bc826a68a7a34c32e564b3d4b7"/>
+		<rom name="Core.gambler" size="9201482" crc="6414c686" sha1="0309bbeeaae5f95f0c0c91707f3c6c067760c79c"/>
+		<rom name="DolphinsPearl.gambler" size="2507467" crc="13fa77b5" sha1="63d4bdd7bed78cc1dbba75ce14eb767f9c36332d"/>
+		<rom name="DynastyOfMing.gambler" size="16030184" crc="f67881b2" sha1="d9bd45f1790432c8107bee68fb7b4438d37efbb1"/>
+		<rom name="Illusionist.gambler" size="11886806" crc="8d71e7bc" sha1="5f938213f420bd82f1f67a4a91403ee147b8ebb1"/>
+		<rom name="KingOfCards.gambler" size="3597642" crc="fc33da59" sha1="fa960d408028c0a5c1bdbac22dadf2bd980a6dfd"/>
+		<rom name="LastLog.txt" size="276" crc="03b807ad" sha1="e7b12c615604f0619cfa154a9ca1506386355da7"/>
+		<rom name="LuckyLadysCharm.gambler" size="9733131" crc="0aea6ba2" sha1="8a5d3774cc1dca77ecc445777db6f5f9cb4f6205"/>
+		<rom name="MicroByte Multi Gambler 48 (intruder.dll).rar.zip" size="659340" crc="5670d7f1" sha1="99d3c6b06c72b35186b39426683a9a1aaa9ab80d"/>
+		<rom name="MultiGambler.exe" size="2154496" crc="542fb210" sha1="1c72db3a6efc0d18dc567953e2bfc7e6c1e30325"/>
+		<rom name="PharaohsGoldII.gambler" size="3202046" crc="192543a8" sha1="30e2012192513ca9111f87d443130a0929b43afd"/>
+		<rom name="PharaonsGoldIII.gambler" size="10634643" crc="92500ef1" sha1="68e83c27dbd3b004dd652e796081cffdaafde46c"/>
+		<rom name="PolarFox.gambler" size="18271496" crc="1714cbfd" sha1="fad5a3642c957a719f5d72ba9bca69e3db781ef5"/>
+		<rom name="RoyalTreasures.gambler" size="10239367" crc="7ac239f3" sha1="f7378f921cd40e82c203d28b2ad8dded0670afb8"/>
+		<rom name="SizzlingHot.gambler" size="3197711" crc="f217a085" sha1="9396f9cf346022421ef009a7d5efdbd653eed79b"/>
+		<rom name="TheMoneyGame.gambler" size="2109242" crc="11fd4f57" sha1="944185ba20f1f8a6b24dea22f14ded9b6f77b390"/>
+		<rom name="UltraHot.gambler" size="1110410" crc="2bb612af" sha1="563785b7ed530cd7978b1124be5143d4b9cd5ae1"/>
+		<rom name="UnicornMagic.gambler" size="11359841" crc="119f291d" sha1="c437e16c1551f084cb01789ac624625b9aa5dd3d"/>
+		<rom name="WonderfulFlute.gambler" size="34514530" crc="da1706d9" sha1="04eb01f578e85ef9cde5f3c66645ad0d5593dcf0"/>
+		<rom name="msvcm90.dll" size="224768" crc="33ac2772" sha1="b55a206fc91ecc3adeda65d286522aa69f04ac88"/>
+		<rom name="msvcp90.dll" size="568832" crc="883b4032" sha1="a230e64e0a5830544a25890f70ce9c9296245945"/>
+		<rom name="msvcr90.dll" size="655872" crc="81b62876" sha1="29268ef0cd220ad3c5e9812befd3f5759b27a266"/>
+		<rom name="~Readme~.txt" size="1128" crc="ec4e8ae0" sha1="780f052d9bb4a6216ef237276ed29077b58b7728"/>
+	</game>
+</datafile>

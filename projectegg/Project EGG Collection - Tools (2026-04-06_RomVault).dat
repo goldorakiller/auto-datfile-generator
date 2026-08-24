@@ -1,0 +1,73 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Project EGG Collection - Tools</name>
+		<category>Computer</category>
+		<date>2026-04-06</date>
+		<author>Eggman</author>
+		<homepage>https://github.com/Eggmansworld/Datfiles</homepage>
+		<url>https://www.amusement-center.com/project/egg/</url>
+		<romvault/>
+			<description></description>
+		<comment></comment>
+		<version></version>
+</header>
+	<game name="Locale.Emulator.2.5.0.1">
+		<description>Locale.Emulator.2.5.0.1</description>
+		<rom name="Lang/ca.xaml" size="1823" crc="4fbc644d" sha1="d7f31c8e30ea6ee2dc69855ec471b4f33fc6acc1"/>
+		<rom name="Lang/ca.xml" size="291" crc="250e92fb" sha1="6fc0febae7067f4d10366b6e134667f034055658"/>
+		<rom name="Lang/cs.xaml" size="1843" crc="76b10d4a" sha1="cb72bbbcc061569cc362e7f8d5bd4c77ed647832"/>
+		<rom name="Lang/cs.xml" size="275" crc="98a6f434" sha1="9f5fb6d675511844ab966bca22cc7eca7c748c3d"/>
+		<rom name="Lang/de.xaml" size="1791" crc="d636eed6" sha1="e64abe708ba277063e291eafa82828e1fcbf2a28"/>
+		<rom name="Lang/de.xml" size="271" crc="2747c8cb" sha1="09265b2d08e237f3553f06f1786530e275ba7676"/>
+		<rom name="Lang/DefaultLanguage.xaml" size="1771" crc="5722747b" sha1="8cb5c98ce87b837753af437f995b44366d09874d"/>
+		<rom name="Lang/DefaultLanguage.xml" size="265" crc="69809ef0" sha1="595effafc6fe81070cd1bb37ca0ce85d2a3d6fb7"/>
+		<rom name="Lang/es.xaml" size="1838" crc="43466bba" sha1="838d9f12ca3b28b4b6308264d609e5a840f0c0dc"/>
+		<rom name="Lang/es.xml" size="300" crc="68b5e2f3" sha1="3b33acd0ea64e22c963bf834f90ea525e0f1ae38"/>
+		<rom name="Lang/fr.xaml" size="1869" crc="616f8e26" sha1="08e3e152fd0de570811843e093606e20082eda40"/>
+		<rom name="Lang/fr.xml" size="298" crc="77cdef2c" sha1="c4cef5775a5175396d543ccc3a21c329bec410fe"/>
+		<rom name="Lang/ind.xaml" size="1780" crc="3501dd4d" sha1="1329b3bfdf940f9330df65ecffd08f6390b17e0c"/>
+		<rom name="Lang/ind.xml" size="262" crc="d3f8c173" sha1="0212aba4548431b0d81b841d00d552d7e105f258"/>
+		<rom name="Lang/it.xaml" size="1800" crc="8766758f" sha1="c718ee6b2c52916b38c49c2e55410ce53d2965d4"/>
+		<rom name="Lang/it.xml" size="287" crc="591ea527" sha1="46857b70ed00e5e2bded722daf7150be248fa7e9"/>
+		<rom name="Lang/ja.xaml" size="1883" crc="1863b587" sha1="a27c9b25ad5e2adc4702bfcfd0f57ecfe0b67b49"/>
+		<rom name="Lang/ja.xml" size="301" crc="626c8c42" sha1="dae652e3b209df945092ba29bee62dc135837944"/>
+		<rom name="Lang/ka.xaml" size="2608" crc="35c612ca" sha1="2e754acd1aa5d03f78474b496b978d97ef4ffd59"/>
+		<rom name="Lang/ka.xml" size="458" crc="8c615373" sha1="642c4151e84697274346f8d4eb53348d7861ce4f"/>
+		<rom name="Lang/ko.xaml" size="1795" crc="e5271d8a" sha1="8807bad9d2e89d06b2a4b18b317ef89c1ba5f51a"/>
+		<rom name="Lang/ko.xml" size="306" crc="2b15d539" sha1="f854322ba86daeaa5bc4cde1c8dc71b0b1035c76"/>
+		<rom name="Lang/lt.xaml" size="1839" crc="6a29bae0" sha1="835f55d9018304a744da8f26a977e4f12b1b6f8f"/>
+		<rom name="Lang/lt.xml" size="292" crc="410fddbb" sha1="58de08ec751421b0fc5dcb712a465221a0e65b8d"/>
+		<rom name="Lang/nb.xaml" size="1802" crc="b13b460c" sha1="270d8f1df3f11371cd972097e145f1b914eb5d2d"/>
+		<rom name="Lang/nb.xml" size="273" crc="5fcb4a58" sha1="2818c50299741d3bcb370627fc62c7dab1112405"/>
+		<rom name="Lang/nl.xaml" size="1791" crc="8598e62c" sha1="11740a84184f9a7251b27d3d2d9c85d35aac43e6"/>
+		<rom name="Lang/nl.xml" size="284" crc="7db3af17" sha1="da1b527c16fb431d9d9aed39ef1238d3ee3312d8"/>
+		<rom name="Lang/pl.xaml" size="1846" crc="bf369103" sha1="a95c5843178a99a2473a7b65eace44cff8c050d7"/>
+		<rom name="Lang/pl.xml" size="271" crc="fc2602ae" sha1="756be96a5aecdca213f2e5ec5c5e5fb92eeed8a4"/>
+		<rom name="Lang/pt-BR.xaml" size="1797" crc="e768ee4c" sha1="f7d0451ffb20fbc59b9fc565d67bba9b40899acf"/>
+		<rom name="Lang/pt-BR.xml" size="279" crc="43279c6f" sha1="4ae988709e229499e121e3fa1d4739e4ed55e8b1"/>
+		<rom name="Lang/ru.xaml" size="2226" crc="5225d008" sha1="b1562356272536d38674471df5162b99bfbec867"/>
+		<rom name="Lang/ru.xml" size="369" crc="49a609bc" sha1="5400b65e5ab0d33224523389092be36d788a54f2"/>
+		<rom name="Lang/th.xaml" size="2206" crc="9efe9f5b" sha1="1b636733ddfbe948b2474a995173286398600858"/>
+		<rom name="Lang/th.xml" size="339" crc="1ffbe908" sha1="3845e5982a0218183208eb412f564760d0d3b9c7"/>
+		<rom name="Lang/tr-TR.xaml" size="1804" crc="d03c0f98" sha1="8ba147ff765e1eebefd8e66bf27361d38d82b5d8"/>
+		<rom name="Lang/tr-TR.xml" size="281" crc="0829737c" sha1="19ef63765a4b83d1a013e3747a7702313184f49f"/>
+		<rom name="Lang/zh-CN.xaml" size="1740" crc="e196a286" sha1="9493eac1075f8e7d39931e600371d1ab61b3a1cc"/>
+		<rom name="Lang/zh-CN.xml" size="259" crc="3f70c96e" sha1="66f1cb3d8c075b78c9081c7ee4260beb717cdced"/>
+		<rom name="Lang/zh-HK.xaml" size="1749" crc="57c286ab" sha1="b40bebbb996c22a2a57883ba3dbd46a789d30b5e"/>
+		<rom name="Lang/zh-HK.xml" size="259" crc="823f691e" sha1="e2c8045149b8dde2f1d9bb1f69e46a277523bf01"/>
+		<rom name="Lang/zh-TW.xaml" size="1752" crc="19775cbe" sha1="59bb59c77a726495aca41d33243579bed980dbcb"/>
+		<rom name="Lang/zh-TW.xml" size="259" crc="823f691e" sha1="e2c8045149b8dde2f1d9bb1f69e46a277523bf01"/>
+		<rom name="LEGUI.exe" size="219648" crc="45425eb8" sha1="f9926a1f08358d055f0bbc59cd6d78fa792a5841"/>
+		<rom name="LEInstaller.exe" size="171520" crc="37d084da" sha1="ef9cc23a21c6754ea10fed81b360b98aed14daae"/>
+		<rom name="LEProc.exe" size="29696" crc="6c8eb86f" sha1="588355f23ff99c16b71efdccd0245fdce6a6cbc1"/>
+		<rom name="LEUpdater.exe" size="196608" crc="8686f048" sha1="55526c8b0413536ffe7f7e59c3578a80c75dbc9a"/>
+		<rom name="LEVersion.xml" size="98" crc="58bf7f3f" sha1="8de8cf0714879fdd3a1bcdc3360b04119730ef7d"/>
+		<rom name="LoaderDll.dll" size="6144" crc="93bce74c" sha1="4becfa6a6b1f6e11e0029f9a63ff206b08b90c1d"/>
+		<rom name="LocaleEmulator.dll" size="63488" crc="665e38c6" sha1="b978e8348d1f5bd3c34bfa9002835f6169f84922"/>
+	</game>
+	<game name="Project EGG Launcher v1.1.0.0 (official installer)">
+		<description>Project EGG Launcher v1.1.0.0 (official installer)</description>
+		<rom name="Project EGG Launcher v1.1.0.0.exe" size="3273976" crc="b693f2db" sha1="969fac15c81c84955880e51990b7102d5c96ec73"/>
+	</game>
+</datafile>

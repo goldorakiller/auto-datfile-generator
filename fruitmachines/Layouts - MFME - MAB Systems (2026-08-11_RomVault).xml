@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Layouts - MFME - MAB Systems</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Super Red Bar (MAB)">
+		<rom name="conceptsound.bin" size="4088" crc="a717e790" sha1="3079d0c2aa5bb160b871cc3ba8113b88c83d46f9"/>
+		<rom name="rbar5v08.hex" size="65536" crc="2d772256" sha1="95da82a1024bc33e08d3834a8987ff8995c1aa31"/>
+		<rom name="Super_Red_Bar_(MAB)_[Dx01_15jp].fml" size="8048361" crc="27776347" sha1="5d4274ad59fe88b14180feb6c9d0c250f6465cbb"/>
+		<rom name="Super_Red_Bar_(MAB)_[Dx01_15jp].gam" size="311" crc="9925e1e9" sha1="950934808224b30ff77d6430d0369371eb6c1494"/>
+		<rom name="Super_Red_Bar_(MAB)_[Dx01_15jp].jpg" size="190805" crc="ef256f63" sha1="c47cbb561535d5a6dce13aff3a3923fbe44dd69c"/>
+		<rom name="Super_Red_Bar_(MAB)_[Dx01_15jp].ram" size="8192" crc="bff20bd8" sha1="0c571882bbf5d87637a09b41015cf232e820e319"/>
+	</game>
+</datafile>

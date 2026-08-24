@@ -1,0 +1,1701 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Extras - ROMs</name>
+		<description></description>
+		<category>Laserdisc</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<dir name="Daphne">
+		<game name="ace">
+			<rom name="sa.txt" size="1459" crc="ba4cf897" sha1="905ae23a50fbb9a839df2e1c4aef7089d7832969"/>
+			<rom name="sa_a3_u1.bin" size="8192" crc="427522d0" sha1="de4d5353af0be3e60afe1ed13d1d531c425cdb4d"/>
+			<rom name="sa_a3_u2.bin" size="8192" crc="18d0262d" sha1="c3920e3cabfe2b2add51881e262f090c5018e508"/>
+			<rom name="sa_a3_u3.bin" size="8192" crc="4646832d" sha1="9f1370b13cca9857b0ed13f58641ef4ba3c7326d"/>
+			<rom name="sa_a3_u4.bin" size="8192" crc="57db2a79" sha1="5286905d9bde697845a98bd77f31f2a96a8874fc"/>
+			<rom name="sa_a3_u5.bin" size="8192" crc="85cbcdc4" sha1="97e01e96c885ab7af4c3a3b586eb40374d54f12f"/>
+		</game>
+		<game name="ace91">
+			<rom name="ace91.bin" size="65536" crc="de93a213" sha1="1c95d5f45292f08149d749e1f7b5d9409d3a266e"/>
+		</game>
+		<game name="ace91_euro">
+			<rom name="ace91_euro.txt" size="176" crc="2f03d52d" sha1="b7d44e3952f51ab46d808386df022b59d46918d4"/>
+			<rom name="SA91EURO1.3.bin" size="65536" crc="27dd0486" sha1="8a57510b466381d9962e5397d89a7a3e73d757b0"/>
+		</game>
+		<game name="ace_a">
+			<rom name="sa_a_u1.bin" size="8192" crc="8eb1889e" sha1="bfa2c5fc139c448b7b6b5c5757d4f2f74e610b85"/>
+		</game>
+		<game name="ace_a2">
+			<rom name="sa_a2_u1.bin" size="8192" crc="71b39e27" sha1="15a34eee9d541b186761a78b5c97449c7b496e4f"/>
+		</game>
+		<game name="aceeuro">
+			<rom name="aceeuro.txt" size="294" crc="3b82b5a4" sha1="248cd3fa90ecf2aeca53b0475d71395f2780ef92"/>
+			<rom name="SA_U33A.bin" size="8192" crc="a8c14612" sha1="dbcf90b929e714f328bdcb0d8cd7c9e7d08a8be7"/>
+			<rom name="SA_U45A.bin" size="8192" crc="41264d46" sha1="3e0ecfb3249f857a29fe58a3853a55d31cbd63d6"/>
+			<rom name="SA_U46A.bin" size="8192" crc="bc1c70cf" sha1="cd6d2456ac2fbbfb86e1f31bd7cbd0cec0d31b45"/>
+			<rom name="SA_U47A.bin" size="8192" crc="ff3f77c7" sha1="d10ffd14ab9853cef8085c70aedfabea4059657e"/>
+			<rom name="SA_U48A.bin" size="8192" crc="8c83ac81" sha1="12818ee51ae8028a84bbbf3e43904b62942c76e3"/>
+			<rom name="SA_U49A.bin" size="8192" crc="03b58fc3" sha1="25e4c1df74e2d7cbb9e252e34f007bc1c9f015b2"/>
+		</game>
+		<game name="astron">
+			<rom name="5279" size="512" crc="8716aeb5" sha1="9a8bf599d025d039b12bc616850386f280b4df11"/>
+			<rom name="5280" size="2048" crc="583af1ff" sha1="64259e955a04ee44d716870864f86011a709f2db"/>
+			<rom name="5281" size="2048" crc="7b5c820c" sha1="ddac82cea4d795011bd48d15bc6e2a0ee864429f"/>
+			<rom name="5284" size="16384" crc="eec6db27" sha1="f4c72d9d4137244c0a0b7a1b8f7fb0e7b032b1c4"/>
+			<rom name="5285" size="16384" crc="820e154e" sha1="574c69a7ef07c31396e9b5669a093a1db6f7cc6f"/>
+			<rom name="5286" size="16384" crc="8eb1c28e" sha1="2867d62c9844c3ad2676f9a0ad1597baa54762fa"/>
+			<rom name="5338" size="16384" crc="94ca5f9a" sha1="4ab4ed06b70611739f45e207e9f1c7714b9a34e8"/>
+			<rom name="5473c" size="16384" crc="0f24baaa" sha1="54fa344ad86c469f976ce469e39b2a4286da5f50"/>
+			<rom name="5474a" size="16384" crc="5d44603d" sha1="e229ff14255a5a0d1e156745664d31418b36893c"/>
+			<rom name="5501" size="256" crc="1bdf71d4" sha1="ac52e948cce6df4abb7543c08e2c6454efd63e79"/>
+			<rom name="astron.txt" size="488" crc="50bc2c4a" sha1="39998947f756fc3174cf727d9798c659ecf1aebe"/>
+			<rom name="PR-5275.bin" size="32" crc="0c872a9b" sha1="eaabce5d867a4e896bd356abc94429f9a4eec372"/>
+			<rom name="PR-5276.bin" size="32" crc="91267e8a" sha1="ae5bd8efea5322c4d9986d06680a781392f9a642"/>
+			<rom name="PR-5277.bin" size="256" crc="bf2c33ab" sha1="4a83b3e9b74b900621e8f42edf94cc04b791cdd0"/>
+			<rom name="PR-5278.bin" size="256" crc="e81613da" sha1="fc32141f7c0c8c0c1ed623636af3862a4ef0e940"/>
+		</game>
+		<game name="astronp">
+			<rom name="ABP-IC03.bin" size="16384" crc="fd0dcfc9" sha1="d797269f53f8a9e30b4d59d4f4f6e9858c133bbe"/>
+			<rom name="ABP-IC10.bin" size="16384" crc="a3746393" sha1="97864967073f0425555748535d1aa68459bacfb2"/>
+			<rom name="astronp.txt" size="862" crc="77d4a249" sha1="646c33a6d2d571c0153e9a907dce37daddb59f5e"/>
+		</game>
+		<game name="badlandh">
+			<rom name="bl_hit_4f.bin" size="32" crc="0226f881" sha1="b17c5681fca5ae65128793cf263725e2fe1314de"/>
+			<rom name="bl_hit_6a.bin" size="8192" crc="4c287f37" sha1="b6b6b64174f1fd014b6c808015f1b0e65b56d24b"/>
+			<rom name="bl_hit_7a.bin" size="8192" crc="a135e444" sha1="7ef5394c698a5867aef200f577b8708df455b653"/>
+			<rom name="bl_hit_9c.bin" size="8192" crc="44c3441e" sha1="6b42961d31e5d025758cdfdc573648a83004577d"/>
+		</game>
+		<game name="badlandp">
+			<rom name="badlandh/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+			<rom name="bl_hit_12f.bin" size="512" crc="655659e2" sha1="69b2267423f7d84702901d6e2bf3302f1d46f3c4"/>
+			<rom name="bl_hit_4f.bin" size="32" crc="0226f881" sha1="b17c5681fca5ae65128793cf263725e2fe1314de"/>
+			<rom name="bl_hit_6a.bin" size="8192" crc="4c287f37" sha1="b6b6b64174f1fd014b6c808015f1b0e65b56d24b"/>
+			<rom name="bl_hit_7a.bin" size="8192" crc="a135e444" sha1="7ef5394c698a5867aef200f577b8708df455b653"/>
+			<rom name="bl_hit_7c.bin" size="8192" crc="3804a448" sha1="cbadc84edfec36328234caabbefd1a34dfc43263"/>
+			<rom name="bl_hit_9c.bin" size="8192" crc="44c3441e" sha1="6b42961d31e5d025758cdfdc573648a83004577d"/>
+		</game>
+		<game name="badlands">
+			<rom name="badlands.a13" size="8192" crc="a44776d6" sha1="eb3b5b57a99e9bd2559ced3b279fb3566c918f9a"/>
+			<rom name="badlands.a14" size="8192" crc="82cb4614" sha1="0cab824b4f3fb29e300f9c05911422d6047d073b"/>
+			<rom name="badlands.c4" size="32" crc="6757be8d" sha1="1c9c24e29017f0a16b8a7dedd9776109e7e5734c"/>
+			<rom name="badlands.c8" size="8192" crc="590209fe" sha1="8dfc836420e4c3fa417ec0aefb617a7abd0ccbc2"/>
+		</game>
+		<game name="bega">
+			<rom name="Af-8.bpr" size="32" crc="20006a72" sha1="6d0e1c6de45079f9e128186478a7e0ed3fd471d0"/>
+			<rom name="An00-3" size="8192" crc="124a3a36" sha1="e2f7110196cb46fcda429c613388285b46ec1a9e"/>
+			<rom name="AN01" size="8192" crc="15f8921d" sha1="32f945bee8f30e5896da38ac6184a11c0a8194bb"/>
+			<rom name="An02-3" size="8192" crc="98ce4ca0" sha1="e7db66b1f0f06b0a21e7450962ba70f460a24847"/>
+			<rom name="An03-3" size="8192" crc="79438d80" sha1="e641336f23c6b84d84313ef3e94871ac9aa8b612"/>
+			<rom name="An04-3" size="8192" crc="935b2b0a" sha1="e7c09960607569bd88e9af396aa70661f4352efb"/>
+			<rom name="An05-3" size="8192" crc="c917a283" sha1="b91f8cd18b8cc1189e4b69d6932d6f01d4ccfb81"/>
+			<rom name="AN06" size="8192" crc="cbbcd730" sha1="2f2e78fcf2eba71044bec60d27d8756d9b5af551"/>
+			<rom name="AN07" size="8192" crc="6b8ad735" sha1="a703523202d40e409e2345a6626b9e29b7a59cd3"/>
+			<rom name="AN08" size="8192" crc="b5518391" sha1="57f6407491cff075f76a8b459cc33e8b9a91e7de"/>
+			<rom name="AN09" size="8192" crc="b7375fd7" sha1="93a59e99e375bdba77199a705b5e304ece221617"/>
+			<rom name="AN0A" size="8192" crc="e429305d" sha1="9a05ab7916235d028b6b05270703516581825660"/>
+			<rom name="An0b" size="8192" crc="09e4b780" sha1="0735420b8529017e507feecf8f74fecd80fbf7d5"/>
+			<rom name="AN0C" size="8192" crc="0c127207" sha1="b8372b2fa20ffe5ac278f558c07fd761c86e514b"/>
+			<rom name="bega.txt" size="2073" crc="08cb2a5f" sha1="4afec62318cee94938950449ccda23b0f6a1d88d"/>
+			<rom name="Lp1-1.pld" size="554" crc="18d5005c" sha1="ec26efcf862c2d701774dbbc6f4293d7acd22837"/>
+			<rom name="Lp1-2.pld" size="554" crc="2ee18791" sha1="79cef4f038ae9571c2e35bd430b09d9004dd86a9"/>
+			<rom name="Lp1-3.pld" size="618" crc="74b5748c" sha1="6f1ed7040961921ea9ba852656edf7432ec50b8e"/>
+			<rom name="Lp1-4.pld" size="618" crc="47bd4cfa" sha1="78190d87b4a3df0664dee8a812b296d264f1c579"/>
+			<rom name="Lp1-5.pld" size="554" crc="232e4548" sha1="ca4a2bb5b6402ce1435fbadea18f1a35829d0f67"/>
+			<rom name="Lp2-1.pld" size="554" crc="d2281a71" sha1="b99bbdc12ea1701cc9888eb0840339a99d692f47"/>
+			<rom name="Lp2-4.pld" size="554" crc="b37794c7" sha1="932468418b441f9d844f0f7816c1fde9f584c761"/>
+		</game>
+		<game name="begar1">
+			<rom name="AN00" size="8192" crc="184297f3" sha1="6813f076fde3eb583929506b2e65d9cd988b1b75"/>
+			<rom name="AN02" size="8192" crc="84d13c20" sha1="6474d90b84bca88c35cdb1d4c117ce431d6addf7"/>
+			<rom name="AN03" size="8192" crc="d2d85cdf" sha1="da557ce5c3252297d2c073a0242e1989b0b7388b"/>
+			<rom name="AN04" size="8192" crc="670966fe" sha1="c179e3045ed0e46c5829fce5297ada475141e662"/>
+			<rom name="AN05" size="8192" crc="91a05549" sha1="425668ee0dcf44bc011ee3649aa82df6ad3180eb"/>
+		</game>
+		<game name="begas">
+			<rom name="af-8.bpr" size="32" crc="20006a72" sha1="6d0e1c6de45079f9e128186478a7e0ed3fd471d0"/>
+			<rom name="an00-3" size="8192" crc="124a3a36" sha1="e2f7110196cb46fcda429c613388285b46ec1a9e"/>
+			<rom name="an01" size="8192" crc="15f8921d" sha1="32f945bee8f30e5896da38ac6184a11c0a8194bb"/>
+			<rom name="an02-3" size="8192" crc="98ce4ca0" sha1="e7db66b1f0f06b0a21e7450962ba70f460a24847"/>
+			<rom name="an03-3" size="8192" crc="79438d80" sha1="e641336f23c6b84d84313ef3e94871ac9aa8b612"/>
+			<rom name="an04-3" size="8192" crc="935b2b0a" sha1="e7c09960607569bd88e9af396aa70661f4352efb"/>
+			<rom name="an05-3" size="8192" crc="c917a283" sha1="b91f8cd18b8cc1189e4b69d6932d6f01d4ccfb81"/>
+			<rom name="an06" size="8192" crc="cbbcd730" sha1="2f2e78fcf2eba71044bec60d27d8756d9b5af551"/>
+			<rom name="an07" size="8192" crc="6b8ad735" sha1="a703523202d40e409e2345a6626b9e29b7a59cd3"/>
+			<rom name="an08" size="8192" crc="b5518391" sha1="57f6407491cff075f76a8b459cc33e8b9a91e7de"/>
+			<rom name="an09" size="8192" crc="b7375fd7" sha1="93a59e99e375bdba77199a705b5e304ece221617"/>
+			<rom name="an0a" size="8192" crc="e429305d" sha1="9a05ab7916235d028b6b05270703516581825660"/>
+			<rom name="an0b" size="8192" crc="09e4b780" sha1="0735420b8529017e507feecf8f74fecd80fbf7d5"/>
+			<rom name="an0c" size="8192" crc="0c127207" sha1="b8372b2fa20ffe5ac278f558c07fd761c86e514b"/>
+			<rom name="begas1/an00" size="8192" crc="184297f3" sha1="6813f076fde3eb583929506b2e65d9cd988b1b75"/>
+			<rom name="begas1/an02" size="8192" crc="84d13c20" sha1="6474d90b84bca88c35cdb1d4c117ce431d6addf7"/>
+			<rom name="begas1/an03" size="8192" crc="d2d85cdf" sha1="da557ce5c3252297d2c073a0242e1989b0b7388b"/>
+			<rom name="begas1/an04" size="8192" crc="670966fe" sha1="c179e3045ed0e46c5829fce5297ada475141e662"/>
+			<rom name="begas1/an05" size="8192" crc="91a05549" sha1="425668ee0dcf44bc011ee3649aa82df6ad3180eb"/>
+			<rom name="lp1-1.pld" size="44" crc="cc84cb09" sha1="61620ef30dfd6c81cc517f95ab6358c619ca3298"/>
+			<rom name="lp1-2.pld" size="44" crc="60e16fc4" sha1="1df735f393ed0fcf1272fceada9764084ff11e07"/>
+			<rom name="lp1-3.pld" size="52" crc="976a7c57" sha1="202c55a236799fb44a977c074c231ed54c71a872"/>
+			<rom name="lp1-4.pld" size="52" crc="cc9a442f" sha1="5d08873b204b15f888d02d79e049119e05e41b45"/>
+			<rom name="lp1-5.pld" size="44" crc="2d9f3118" sha1="02e40a99f131bb47562d5b90fdfb11ca8cd90da6"/>
+			<rom name="lp2-1.pld" size="44" crc="dbb05313" sha1="fc37db24f12c4f5170945c9ec9a333e4583c1712"/>
+			<rom name="lp2-4.pld" size="44" crc="4c72736c" sha1="6f7521284a5d960ff05c4361095c3e89a79f7475"/>
+		</game>
+		<game name="begas1">
+			<rom name="an00" size="8192" crc="184297f3" sha1="6813f076fde3eb583929506b2e65d9cd988b1b75"/>
+			<rom name="an02" size="8192" crc="84d13c20" sha1="6474d90b84bca88c35cdb1d4c117ce431d6addf7"/>
+			<rom name="an03" size="8192" crc="d2d85cdf" sha1="da557ce5c3252297d2c073a0242e1989b0b7388b"/>
+			<rom name="an04" size="8192" crc="670966fe" sha1="c179e3045ed0e46c5829fce5297ada475141e662"/>
+			<rom name="an05" size="8192" crc="91a05549" sha1="425668ee0dcf44bc011ee3649aa82df6ad3180eb"/>
+		</game>
+		<game name="blazer">
+			<rom name="blazer.txt" size="220" crc="e21679fe" sha1="0eeefabb0e4edb60c949a075b5effc1736cd1222"/>
+			<rom name="EPR-5590.bin" size="16384" crc="c06e41bb" sha1="b2d47f04fe1a81040bbb07bdcb8930107d350e38"/>
+			<rom name="EPR-5591.bin" size="16384" crc="b179d18c" sha1="eccad49cfbff1101677b66c19c5d79d41b11b72e"/>
+		</game>
+		<game name="cliff">
+			<rom name="cliff_u1.bin" size="8192" crc="a86ec38f" sha1="bfca1b1c084f5b7b1e0ccb2f3616ecea1340f04c"/>
+			<rom name="cliff_u2.bin" size="8192" crc="b8d33b6b" sha1="02778f87a78199129c758a8fb0629b9ba74cab99"/>
+			<rom name="cliff_u3.bin" size="8192" crc="75a64cd2" sha1="18fe4d8885b59ec8b8c28b5d7141a27164c982ac"/>
+			<rom name="cliff_u4.bin" size="8192" crc="906b2af1" sha1="65fadd2fec90f47c91ac4928f342c79ab8bc6ef0"/>
+			<rom name="cliff_u5.bin" size="8192" crc="5922e710" sha1="10637baba4d16dc333aeb0ab88ee251f44e1a115"/>
+		</game>
+		<game name="cliff_ox">
+			<rom name="cliff_u1.bin" size="8192" crc="2db8da4c" sha1="e2b0c86dd77b0d57a2def2e3a109e39b9e5e2574"/>
+			<rom name="cliff_u2.bin" size="8192" crc="657ffa10" sha1="0baaa0bc2f9e7ccef480400bf9ac7ae5f7091b90"/>
+			<rom name="cliff_u3.bin" size="8192" crc="e2da7be3" sha1="9625c056dfe80411826e8f4c13a2160a1d4bd49b"/>
+			<rom name="cliff_u4.bin" size="8192" crc="24945aa5" sha1="9538113e51f37a7550fd517379113554dec2f98f"/>
+			<rom name="cliff_u5.bin" size="8192" crc="b76132c1" sha1="49699d337caf8f9562c44da8161a1e8d7bbfdb4d"/>
+			<rom name="Read Me.txt" size="644" crc="7ab4fadd" sha1="253075216d0e5752a804cb36444b51fa2d7ae1ca"/>
+		</game>
+		<game name="cliffalt">
+			<rom name="cliff_alt_0.bin" size="8192" crc="27caa67c" sha1="70d8270766b8712d4250b1a23489007d59eb262f"/>
+			<rom name="cliff_alt_1.bin" size="8192" crc="6e5f1515" sha1="1c4116f4f5910857408826d73c630abbf1434119"/>
+			<rom name="cliff_alt_2.bin" size="8192" crc="045f895d" sha1="364e259a9630d87ca917c7a9dc1a94d6f0d0eba5"/>
+			<rom name="cliff_alt_3.bin" size="8192" crc="54cdb4a1" sha1="6b1d73aec029af4a88ca2f883b4ed706d153592d"/>
+			<rom name="cliffalt.txt" size="338" crc="4f7c893b" sha1="97e608e8166c342a0ceea19a9dc49718838a5bcc"/>
+		</game>
+		<game name="cliffalt2">
+			<rom name="cliff_alt2_0.bin" size="8192" crc="598d57fc" sha1="3514b262ba4c5e9ec42452af6202aa83ca5fee8e"/>
+			<rom name="cliff_alt2_1.bin" size="8192" crc="7bce618e" sha1="3ef5a7d2b41f82a903b264199a0c5d611cdf36ac"/>
+			<rom name="cliff_alt2_2.bin" size="8192" crc="65d2b984" sha1="3076f2aac076b5db9ad3aa81e4c15a3d7b06becd"/>
+			<rom name="cliff_alt2_3.bin" size="8192" crc="f43a5269" sha1="19795cb163a72d3549f9f7d75282e4a1b23a8d08"/>
+		</game>
+		<game name="cobra">
+			<rom name="Au00-2" size="8192" crc="6c0f1f16" sha1="ed05d3eaa24e84b1dfb4e1eb5f69b23e4a1494ba"/>
+			<rom name="Au01-2" size="8192" crc="523dd8f6" sha1="47bd4c9b2272e9a710e6e97f2505075df68101ed"/>
+			<rom name="Au02-2" size="8192" crc="7db11acf" sha1="1eebae0741f5735bc8966f3c31a9c07dac2e3916"/>
+			<rom name="Au03-2" size="8192" crc="8f0a8fba" sha1="8e11d2bd665a5ca6b3bb11aa2b707458c1534327"/>
+			<rom name="Au06" size="8192" crc="ccc94eb0" sha1="354a933ddc6a1e1118c2bf176faaab5d01fc92d3"/>
+			<rom name="Au07" size="8192" crc="d4bf12a5" sha1="e172f69ae02ac2670b70af0cfcf3887dd99c2761"/>
+			<rom name="Au08" size="8192" crc="63158274" sha1="c728e8ba0a11ea67cf508877ad74a3aab9ef26fc"/>
+			<rom name="Au09" size="8192" crc="74e93394" sha1="7a1470cf2008b1bef8d950939b758707297b3655"/>
+			<rom name="Au0a" size="8192" crc="6aaedcf3" sha1="52dc913eecf8a159784d500217cffd7a6d8eb45c"/>
+			<rom name="Au0b" size="8192" crc="92247877" sha1="f9bb0c20212ab13caabfb5beb9b6afc807bc9555"/>
+			<rom name="Au0c" size="8192" crc="d00a2762" sha1="84d4329b39b9fd30682b7efa5cb2744934c5ee5c"/>
+			<rom name="cobra.txt" size="1143" crc="71ebfac1" sha1="3093986cdf8f5cb2b99c8f198c50654810339afd"/>
+		</game>
+		<game name="cobraab">
+			<rom name="cobraab.txt" size="997" crc="9971033c" sha1="23426addee9cac50ab5b29848609d5dba111cdbe"/>
+			<rom name="IC-1.BIN" size="16384" crc="079783c7" sha1="69f7821d94d62c8981a3879d8718d984c960ed25"/>
+			<rom name="IC-11.BIN" size="2048" crc="5a2e8f4e" sha1="839d7cbb7dac1d5bca388ff8e9e2f4f6e1a5ce43"/>
+			<rom name="IC-12.BIN" size="2048" crc="4b89d7ed" sha1="33894bc3d3f9817a018288e750d02e0f9deeeda3"/>
+			<rom name="IC-13.BIN" size="512" crc="3547a14c" sha1="5b8e3ddac0f6fda940b69343fdce7d5caead7a35"/>
+			<rom name="IC-2.BIN" size="8192" crc="40c0b825" sha1="1bac33b90b5a9d4ea528c2e69ded2009f9d69285"/>
+			<rom name="IC-7.BIN" size="8192" crc="9e12b19c" sha1="a05accb44981288f62ff7da0c75dc972bb6d0754"/>
+			<rom name="IC-8.BIN" size="8192" crc="201041c0" sha1="d7eb1da02184d2330211eb1f2114dffc39dc6ffe"/>
+		</game>
+		<game name="cobraconv">
+			<rom name="Bd00" size="8192" crc="8d9ad777" sha1="10914251350988a82c0cfa1dc6e22587b885cc71"/>
+			<rom name="Bd01" size="8192" crc="1b4db507" sha1="c58021cb7dcbcb159d9bb24d231755b3d07aa74a"/>
+			<rom name="Bd02" size="8192" crc="3d802707" sha1="89033b2f9b295b74b6b5034c837509377f5aba62"/>
+			<rom name="Bd03" size="8192" crc="f1b9df77" sha1="7fcc613463441f69e4336c12252a616508c296d1"/>
+			<rom name="Bd04" size="8192" crc="33013cc2" sha1="380ca35a891805e2aa1d35000a3770483aaedbfc"/>
+			<rom name="Bd05" size="8192" crc="98412178" sha1="20e93f377a0d572a6752d7435aa4d0a3feec0e92"/>
+			<rom name="Bd06" size="8192" crc="b1340125" sha1="eef325c56d3a441432c7d31ea1dadfaa0c871c10"/>
+			<rom name="Bd07" size="8192" crc="584d714a" sha1="e3df3c42367d879c5f12db78d2797049ba18e6f8"/>
+			<rom name="cobraconv.txt" size="1439" crc="27977632" sha1="e5baec7f9e32a9e2862dabbe0e02aba633ab9db2"/>
+			<rom name="Lp4-2.pld" size="554" crc="4bc65ab0" sha1="a33bbac1b3a78de9d4150ac9d383644116c49ec7"/>
+			<rom name="vd0-c.bpr" size="32" crc="02c27aa0" sha1="e7b814aabbfbcd992f78254b29b6ab6fa8115429"/>
+			<rom name="vd0-t.bpr" size="32" crc="78449942" sha1="584e25f7bffccd943c4db1edf05552f7989e08a4"/>
+		</game>
+		<game name="cobram3">
+			<rom name="bh00" size="8192" crc="c19ad038" sha1="4d20ae70d8ad1eaa61cb91d7a0cff6932fce30d2"/>
+			<rom name="bh01" size="8192" crc="7d86ab08" sha1="26b7eb089ca3fe3f8b1531316ce8f95e33b380e5"/>
+			<rom name="bh02" size="8192" crc="928ef670" sha1="6f56454aaf76418ae94da2bd16b4e8309aca29a6"/>
+			<rom name="bh03" size="8192" crc="755cbbf5" sha1="e3ea146f8c344af1e9bf51548ae4902cb09e589a"/>
+			<rom name="bh04" size="8192" crc="c3f61bc9" sha1="d02374e6e29238def0cfb01c96c78b206f24d77e"/>
+			<rom name="bh05" size="8192" crc="d8f49994" sha1="0631457264ff7f8d5fb1edc2c0211992a67c73e6"/>
+			<rom name="bh06" size="8192" crc="ab6c7cf1" sha1="3625f2e00a333552036bff99af25edeac5915d78"/>
+			<rom name="bh07" size="8192" crc="f94668d2" sha1="b5c3a54cf80097ac447a8140bd5877a66712e240"/>
+			<rom name="bh08" size="8192" crc="d6439e2f" sha1="84a6e574f76313ce065d8765f21bdda8fe5a9a7b"/>
+			<rom name="bh09" size="4096" crc="8c5dfac0" sha1="5be28f807c4eb9df76a8f7519086ae57953d8c6f"/>
+			<rom name="bh0a" size="4096" crc="8b8da8dc" sha1="9f03ac0e6b6396cd44843ea394d55d79848d6a27"/>
+			<rom name="cobram3.txt" size="1445" crc="cc3a0b1b" sha1="edaab9534e7f35305481c02e8e803263768cee0f"/>
+		</game>
+		<game name="dle11">
+			<rom name="DLE11U1L.bin" size="8192" crc="9e65b33d" sha1="eac1c8527f00b2badddbdd6691af63ee48a0b1c3"/>
+			<rom name="DLE11U2L.bin" size="8192" crc="f16fa36f" sha1="d1dd5102b1ad28cbfac67acfb70360c68f2b2fde"/>
+			<rom name="DLE11U3L.bin" size="8192" crc="b8d07a16" sha1="d528275ffffd7aed9cae7185e4f6d49467ece2fb"/>
+			<rom name="DLE11U4L.bin" size="8192" crc="20fc79b7" sha1="8e9a951543b3a84007d6f304fefb38a1c39eedf5"/>
+			<rom name="readme11.txt" size="22338" crc="4bf84551" sha1="f1e138d0a6abb68e71673ec1e6c63b42bfff2375"/>
+		</game>
+		<game name="dle20">
+			<rom name="DLE20_U1.bin" size="8192" crc="0aca15b4" sha1="bacabbfcea274d0da061e4066e434aa371433995"/>
+			<rom name="DLE20_U2.bin" size="8192" crc="1cea7622" sha1="e797cd42e7c3cd02cb78559b62d784350731b6f1"/>
+			<rom name="DLE20_U3.bin" size="8192" crc="21a7e7ca" sha1="2ac2b55cdf8d1387f80241741fe2737ef509eb04"/>
+			<rom name="DLE20_U4.bin" size="8192" crc="4ae26073" sha1="f773d09526311c977245d41e7c1dce12db104299"/>
+			<rom name="readme20.txt" size="20553" crc="51c50010" sha1="002c479a55d781aa8a11f823a06694f6be84915b"/>
+		</game>
+		<game name="dle21">
+			<rom name="DLE21_U1.BIN" size="8192" crc="4f8af481" sha1="92850e88f2ea8f578d1f3072b9d1cbc3b1e8578e"/>
+			<rom name="DLE21_U2.BIN" size="8192" crc="5fca04c5" sha1="52af3ff1e02e7c378a42320aa21e17fa9e89a159"/>
+			<rom name="DLE21_U3.BIN" size="8192" crc="c14f36b3" sha1="38be8da57c4af6a6ce24add4340a62096adbb5b7"/>
+			<rom name="readme21.txt" size="21024" crc="a68f0d21" sha1="ee127299f24df1a6519a0fd02e6efeed998d52fd"/>
+		</game>
+		<game name="esh">
+			<rom name="c5_h.bin" size="256" crc="abde5e4b" sha1="9dd3a7fd523b519ac613b9f08ae9cc962992cf5d"/>
+			<rom name="c6_v.bin" size="256" crc="7157ba22" sha1="07355f30efe46196d216356eda48a59fc622e43f"/>
+			<rom name="esh.txt" size="573" crc="c416c534" sha1="e10aa6cb25bf2773157ef1f81ee6d3ea01df8671"/>
+			<rom name="f8_is2.bin" size="8192" crc="0e3b6e62" sha1="5e8160180e20705e727329f9d70305fcde176a25"/>
+			<rom name="h8_is1.bin" size="8192" crc="114c912b" sha1="7c033a102d046199f3e2c6787579dac5b5295d50"/>
+			<rom name="j1_rgb.bin" size="512" crc="1e9f795f" sha1="61a58694929fa39b2412bc9244e5681d65a0eacb"/>
+			<rom name="k3_c.bin" size="4096" crc="a936ef01" sha1="bcacb281ccb72ceb57fb6a79380cc3a9688743c4"/>
+			<rom name="l3_b.bin" size="4096" crc="9366dde7" sha1="891db65384d47d13355b2eea37f57c34bc775c8f"/>
+			<rom name="m3_a.bin" size="4096" crc="a04736d8" sha1="3b642b5d7168cf4a09328eee54c532be815d2bcf"/>
+		</game>
+		<game name="eshalt">
+			<rom name="eshalt.txt" size="675" crc="b3a0906e" sha1="328c19f15f38f75b4921532fb5c93f6fc1abfb67"/>
+			<rom name="f8_alt1.bin" size="8192" crc="7a562f49" sha1="acfa49b3b3d96b001a5dbdee39cbb0ca80be1763"/>
+		</game>
+		<game name="eshalt2">
+			<rom name="eshalt2.txt" size="686" crc="b078a3c5" sha1="36a759c49b8817a1de9d0e8c10c6022670d1a869"/>
+			<rom name="h8_alt2.bin" size="8192" crc="8d27d363" sha1="529d8e4283e736edb5a9193df1ed8d0164471864"/>
+		</game>
+		<game name="Euro_DL_SA_Software_Corner_Disc_Mod">
+			<rom name="2007.11.28_DL_Italian_disassembly.asm" size="644904" crc="86c49e03" sha1="befdc966ef636536844ab85a0d4a6d39a0f7b73a"/>
+			<rom name="DL_Atari_D1_U45_Software_Corner_Disc_Mod.bin" size="8192" crc="c237edd7" sha1="3703bb390fc01add0c75958e23de625b6d45bf80"/>
+			<rom name="DL_Atari_D2_U45_Software_Corner_Disc_Mod.bin" size="8192" crc="bd964631" sha1="94c459d5d60c6a41438b39a74b5b52e7f15d9f24"/>
+			<rom name="DL_Sidam_U45_Software_Corner_Disc_Mod.bin" size="8192" crc="15a9c017" sha1="a177bdd4eaad27b366100529336d6502b40b7ee8"/>
+			<rom name="readme.txt" size="1561" crc="e32be40f" sha1="62b246ddb6667036fa3ab36ee3b2a0b9937bb728"/>
+			<rom name="SA_U45A_Software_Corner_Disc_Mod.bin" size="8192" crc="58cce6c7" sha1="7064e4a33ddff0d5cda3cb9ee6ca43f059e6a52d"/>
+		</game>
+		<game name="galaxy">
+			<rom name="galaxy.txt" size="549" crc="d2dd91ce" sha1="0166e4a250250769d37a27757015d2d63fc27777"/>
+			<rom name="GR5592.BIN" size="16384" crc="d13715f8" sha1="72e2570a1fa437faac0c52e24f801020b6e5a110"/>
+			<rom name="GR5593.BIN" size="16384" crc="b0a557aa" sha1="5baacbaa25cdc0ee414bafe24d50a256631601aa"/>
+			<rom name="GR5594.BIN" size="16384" crc="4403ef5a" sha1="f8c879ea22cc48bc06608ff7bad3408378ef5162"/>
+			<rom name="GR5595.BIN" size="16384" crc="ccbaec4f" sha1="b6750543a0875e7cdc71ecb06575783b7e0ba457"/>
+			<rom name="GR5611.BIN" size="16384" crc="b16bdfe4" sha1="565725189d0b124f8de148f343e67a177ca056f6"/>
+			<rom name="GR5612.BIN" size="16384" crc="e312d080" sha1="24eea718aa1914b87145da9990cb833b9621576c"/>
+			<rom name="GR5633.BIN" size="16384" crc="398f6b23" sha1="10f4bac2face29c2fb2422b70ba1b100acd0e968"/>
+			<rom name="GR5634.BIN" size="16384" crc="2c5be1b7" sha1="03375729aa00fece8b938fd1672a700157a7f710"/>
+		</game>
+		<game name="galaxyp">
+			<rom name="EPR-5613.BIN" size="16384" crc="6617e702" sha1="9de760d0e5a654a6abaa1a8cd7b038638d61f523"/>
+			<rom name="EPR-5614.BIN" size="16384" crc="73ad8932" sha1="ab0ff5e14bb58aa1f874fd135f1a8bd96de3f25e"/>
+			<rom name="galaxyp.txt" size="144" crc="a6503d70" sha1="cb93ba27e0ae774292d77197e4f50453f7d8445f"/>
+		</game>
+		<game name="gpworld">
+			<rom name="GP World dump info.txt" size="858" crc="9a4d4227" sha1="54072e9f60da92b66205d61effa809c61776cdd1"/>
+			<rom name="Gpw_5501.bin" size="256" crc="1bdf71d4" sha1="ac52e948cce6df4abb7543c08e2c6454efd63e79"/>
+			<rom name="Gpw_6146.bin" size="32" crc="d10801a0" sha1="89e9ac0d9c9eee6efd5455a3416c436ceda8f632"/>
+			<rom name="Gpw_6147.bin" size="256" crc="b7173df9" sha1="044beda43cb1793033021a08b3ee3441d5ffe6c3"/>
+			<rom name="GPW_6148.BIN" size="4096" crc="a4b11cf5" sha1="9697494335089b13071d773812eec373ef5b358c"/>
+			<rom name="GPW_6149.BIN" size="16384" crc="7e6c4797" sha1="acf934e1f3f55a0d1cd1630f6a78f9954f1ec53f"/>
+			<rom name="GPW_6150.BIN" size="16384" crc="6837e095" sha1="b2ac8341fcf0037d186b0759227597643ca0336d"/>
+			<rom name="GPW_6151.BIN" size="16384" crc="26d72b96" sha1="759ef85877edfc37f2a1a242bf1c9b0e8d5e9a88"/>
+			<rom name="GPW_6152.BIN" size="16384" crc="86939fe2" sha1="07527297262297562e052672976fd6f7124f5c7b"/>
+			<rom name="GPW_6153.BIN" size="16384" crc="f52b7c1b" sha1="326c6b46e85ab12b43ae2b6b7a49055fe5c31431"/>
+			<rom name="GPW_6154.BIN" size="16384" crc="bbf5d7db" sha1="3dc50fa0dfe285cc741d9d6b9bac4a0ff6e3877f"/>
+			<rom name="GPW_6155.BIN" size="16384" crc="a020bd03" sha1="13cd81dc2df185d9ec989e69261d275b46e44075"/>
+			<rom name="GPW_6156.BIN" size="16384" crc="2c03c64c" sha1="fa31e49385e004b6fb81c8d54cc6b64dfe1358d2"/>
+			<rom name="GPW_6157.BIN" size="16384" crc="cdd31036" sha1="722d843a1c524b0a689ab73bb7367c4ca33fc983"/>
+			<rom name="GPW_6158.BIN" size="16384" crc="d15ac707" sha1="170e0a851c3e845330f776a53ca619d16d025dd7"/>
+			<rom name="GPW_6162A.BIN" size="16384" crc="70e42574" sha1="2fa50c7a67a2efb6b2c313850ace40e42d18b0a8"/>
+			<rom name="GPW_6163.BIN" size="16384" crc="49539e46" sha1="7cfd5b6b356c3fa5439e6fe3ac2e6a097b722a2c"/>
+			<rom name="GPW_6164.BIN" size="16384" crc="7f0e6853" sha1="c255ac6e4b61faa8da9b5aa70f12c868b81acfe1"/>
+		</game>
+		<game name="gtg">
+			<rom name="gtg.rm0" size="8192" crc="d8efddea" sha1="69a076fed60ebabad3032d8c10804f57a0904327"/>
+			<rom name="gtg.rm1" size="8192" crc="69953d38" sha1="2a51aa785a4576db8b046e128bbfc1b3949d7bf7"/>
+			<rom name="gtg.rm2" size="8192" crc="b043e205" sha1="8992c0e294f59bd9331fb3a50a0dfd8d5c194fa3"/>
+			<rom name="gtg.rm3" size="8192" crc="ec305f5e" sha1="e205fac699db4ca28a87f56f89cc6cf185ad540d"/>
+			<rom name="gtg.rm4" size="8192" crc="9e4c8aa2" sha1="002c0940d3890141f85f98f854fd30cc1e340d45"/>
+		</game>
+		<game name="interstellar">
+			<rom name="Blue6d.bot" size="256" crc="5ebb81f9" sha1="285d60f2894c524ca80fc68ad7c2dfd9093a67ea"/>
+			<rom name="Green6c.bot" size="256" crc="7d8c845c" sha1="04ae2ca0cc6679e21346ce34e9e01aa5bf4e2067"/>
+			<rom name="interstellar.txt" size="429" crc="b6169cec" sha1="0f7385955fce1ff901b5d3b43b135b16ca7bd7d1"/>
+			<rom name="Red6b.bot" size="256" crc="5c52f844" sha1="a8a3d91f3247ad13c805d8d8288b07f3cdaf1189"/>
+			<rom name="ROM1.TOP" size="8192" crc="4f34fb1d" sha1="56ca19344c84c5989d0be797e2759f84760310be"/>
+			<rom name="ROM11.BOT" size="8192" crc="165cbc57" sha1="39463888f22ec3125f0686066d923a9aae79a8f7"/>
+			<rom name="ROM2.TOP" size="8192" crc="5d643381" sha1="75ca52c28a52f534eda00c18b0db97e9923ff670"/>
+			<rom name="ROM3.TOP" size="8192" crc="ce5a2b09" sha1="2de6a6e993c3411577ac0c834db8aaf16fb007ed"/>
+			<rom name="ROM4.TOP" size="8192" crc="7c2cb1f1" sha1="ffd92510c03c2d35a59d233883c2b9f57394a51c"/>
+			<rom name="ROM5.TOP" size="8192" crc="354377f6" sha1="bcf95b7ee1b47854e10baf24b0d8af3d56738b99"/>
+			<rom name="ROM6.TOP" size="8192" crc="0319bf40" sha1="f324626e457c3eb7d6b74bc6afbfcc3aab2b3c72"/>
+			<rom name="ROM7.BOT" size="8192" crc="1447ce3a" sha1="8545cec108df6adab303802b1407c89b2dceba21"/>
+			<rom name="ROM8.BOT" size="8192" crc="e9c9e490" sha1="79aa35552b984018bc723adece5c40a0833a313c"/>
+			<rom name="ROM9.BOT" size="8192" crc="9d79acb6" sha1="72af972695face0016afce8a26c629d963e86d48"/>
+		</game>
+		<game name="lair">
+			<rom name="dl_f2_u1.bin" size="8192" crc="f5ea3b9d" sha1="c0cafff8b2982125fd3314ffc66681e47f027fc9"/>
+			<rom name="dl_f2_u2.bin" size="8192" crc="dcc1dff2" sha1="614ca8f6c5b6fa1d590f6b80d731377faa3a65a9"/>
+			<rom name="dl_f2_u3.bin" size="8192" crc="ab514e5b" sha1="29d1015b951f0f2d4e5257497f3bf007c5e2262c"/>
+			<rom name="dl_f2_u4.bin" size="8192" crc="f5ec23d2" sha1="71149e2d359cc5944fbbb53dd7d0c2b42fbc9bb4"/>
+		</game>
+		<game name="lair2">
+			<rom name="dl2_319.bin" size="65536" crc="e9453a1b" sha1="eb1201abd0124f6edbabd49bec81af827369cb2c"/>
+		</game>
+		<game name="lair2_211">
+			<rom name="dl2_211.bin" size="65536" crc="9f2660a3" sha1="bf35356aab0138f86e6ea18c7bcf4f3f3c428d98"/>
+		</game>
+		<game name="lair2_300">
+			<rom name="dl2_300.bin" size="65536" crc="dec4f2e3" sha1="fd96378c78df4aacd4b2190823ec5c1591199d44"/>
+		</game>
+		<game name="lair2_314">
+			<rom name="dl2_314.bin" size="65536" crc="af92b612" sha1="a0b986fa8a0f2206beedf1dcaed4d108599947ff"/>
+		</game>
+		<game name="lair2_315">
+			<rom name="dl2_315.bin" size="65536" crc="13ec0600" sha1="9366dfac4508c4a723d688016b8cddb57aa6f5f1"/>
+		</game>
+		<game name="lair2_316_euro">
+			<rom name="lair2_316_euro.bin" size="65536" crc="d68f1b13" sha1="cc9ee307b4d3caba049be6226163c810cf89ab44"/>
+			<rom name="lair2_316_euro.txt" size="56" crc="3388fafb" sha1="d30bde7d47d0f8ebcf26532a1dff935ceced93d1"/>
+		</game>
+		<game name="lair2_318">
+			<rom name="dl2_318.bin" size="65536" crc="64706492" sha1="99c92572c59ce1206847a5363d3791196fccd742"/>
+		</game>
+		<game name="lair2_319_euro">
+			<rom name="DL2euro3.19.bin" size="65536" crc="cc23ad9f" sha1="24add8f03749dcc27b1b166dc2e5d346534a0088"/>
+			<rom name="lair2_319_euro.txt" size="170" crc="a3d8f7e0" sha1="cfe36d1707b7fdae1c6829db7a200adeb844e0e8"/>
+		</game>
+		<game name="lair2_319_span">
+			<rom name="lair2_319_span.bin" size="65536" crc="4b9a811d" sha1="6fe580f541305422f89edbbf475f7c5f17153738"/>
+			<rom name="lair2_319_span.txt" size="176" crc="f739d156" sha1="eeef7575881c0eb5f9ef7768e91d32118f7c4751"/>
+		</game>
+		<game name="lair_a">
+			<rom name="dl_a_u1.bin" size="8192" crc="d76e83ec" sha1="fc7ff5d883de9b38a9e0532c35990f4b319ba1d3"/>
+			<rom name="dl_a_u2.bin" size="8192" crc="a6a723d8" sha1="5c71cb0b6be7331083adaf6fac6bdfc8445cb485"/>
+			<rom name="dl_a_u3.bin" size="8192" crc="52c59014" sha1="d4015046bf1c1f51c29d9d9f8e8d008519b61cd1"/>
+			<rom name="dl_a_u4.bin" size="8192" crc="924d12f2" sha1="05b487e651a4817991dfc2308834b8f2fae918b4"/>
+			<rom name="dl_a_u5.bin" size="8192" crc="6ec2f9c1" sha1="0b8026927697a99fe8fa0dd4bd643418779a1d45"/>
+		</game>
+		<game name="lair_b">
+			<rom name="dl_b_u2.bin" size="8192" crc="6751103d" sha1="e94e19f738e0eb69700e56c6069c7f3c0911303f"/>
+		</game>
+		<game name="lair_c">
+			<rom name="dl_c_u1.bin" size="8192" crc="cebfe26a" sha1="1c808de5c92fef67d8088621fbd743c1a0a3bb5e"/>
+			<rom name="lair_c.txt" size="335" crc="24563894" sha1="ec2968d55634c918fba40e2695f281e4abd81cd3"/>
+		</game>
+		<game name="lair_d">
+			<rom name="dl_d_u1.bin" size="8192" crc="0b5ab120" sha1="6ec59d6aaa27994d8de4f5635935fd6c1d42d2f6"/>
+			<rom name="dl_d_u2.bin" size="8192" crc="93ebfffb" sha1="2a8f6d7ab18845e22a2ba238b44d7c636908a125"/>
+			<rom name="dl_d_u3.bin" size="8192" crc="22e6591f" sha1="3176c07af6d942496c9ae338e3b93e28e2ce7982"/>
+			<rom name="dl_d_u4.bin" size="8192" crc="5f7212cb" sha1="69c34de1bb44b6cd2adc2947d00d8823d3e87130"/>
+			<rom name="dl_d_u5.bin" size="8192" crc="2b469c89" sha1="646394b51325ca9163221a43b5af64a8067eb80b"/>
+		</game>
+		<game name="lair_d2">
+			<rom name="elu45_d2.bin" size="8192" crc="329b354a" sha1="54bbc5aa647d3c20166a57f9d3aa5569e7289af8"/>
+		</game>
+		<game name="lair_e">
+			<rom name="dl_e_u1.bin" size="8192" crc="02980426" sha1="409de05045adbd054bc1fda24d4a9672832e2fae"/>
+			<rom name="dl_e_u2.bin" size="8192" crc="979d4c97" sha1="5da6ceab5029ac5f5846bf52841675c5c70b17af"/>
+			<rom name="dl_e_u3.bin" size="8192" crc="897bf075" sha1="d2ff9c2fec37544cfe8fb60273524c6610488502"/>
+			<rom name="dl_e_u4.bin" size="8192" crc="4ebffba5" sha1="d04711247ffa88e371ec461465dd75a8158d90bc"/>
+		</game>
+		<game name="lair_f">
+			<rom name="dl_f_u1.bin" size="8192" crc="06fc6941" sha1="ea8cf6d370f89d60721ab00ec58ff24027b5252f"/>
+			<rom name="dl_f_u4.bin" size="8192" crc="a817324e" sha1="1299c83342fc70932f67bda8ae60bace91d66429"/>
+		</game>
+		<game name="lair_ita">
+			<rom name="lair_ita.txt" size="413" crc="39d4ba1a" sha1="af8e8f2e3bda1ad90984bfee596e535a5b6f1d98"/>
+			<rom name="lair_ita_45.bin" size="8192" crc="2ed85958" sha1="9651989775d215b279716b8c3e30d8e799d91b37"/>
+			<rom name="lair_ita_48.bin" size="8192" crc="0c0b3011" sha1="c3ac7bf870dd4ef12609c9cf25a7da68204b2889"/>
+		</game>
+		<game name="lair_n1">
+			<rom name="DL #1.txt" size="643" crc="16e58940" sha1="9be79a3d01d90ccf75dbc00f63c6c35b703b2e77"/>
+			<rom name="dl_n1_u1.BIN" size="8192" crc="a1856eac" sha1="f5c1daeec3d4a3c14399f181dc4dfafdc43acc51"/>
+			<rom name="dl_n1_u2.BIN" size="8192" crc="1b34406f" sha1="f78b2e7558e28fa81fdea4d72d68348fc11d224c"/>
+			<rom name="dl_n1_u3.BIN" size="8192" crc="cf3f4d3c" sha1="af263d914902c74d4090dc213be5b9edbde9e1ae"/>
+			<rom name="dl_n1_u4.BIN" size="8192" crc="a98880c5" sha1="48eec445f6f40db18b0f66c777bff475cf33571a"/>
+			<rom name="dl_n1_u5.BIN" size="8192" crc="17b7336b" sha1="f5b7fc6b2f100a7cf7c6e7e31492bf08a82199f1"/>
+		</game>
+		<game name="lair_x">
+			<rom name="dl_x_u1.bin" size="8192" crc="ea6d5498" sha1="1d854c04e0074e693e791e22a4c9cc21d5175d95"/>
+			<rom name="dl_x_u2.bin" size="8192" crc="ffe84a95" sha1="675ce2e68e43beb1f389bc6ab1a55bee862a1440"/>
+			<rom name="dl_x_u3.bin" size="8192" crc="6363fd84" sha1="d865495337ed77952b60ca267ce52e1e9e01224b"/>
+			<rom name="dl_x_u4.bin" size="8192" crc="84cabb86" sha1="eac6ba4c5989ba67d914c9c84f91cf7a1e86accf"/>
+			<rom name="dl_x_u5.bin" size="8192" crc="8cc8f073" sha1="78bbd7992224f4f273672d2fc1d64661f9200a77"/>
+			<rom name="Readme.txt" size="275" crc="e7666ba2" sha1="414613ac66999a22486f065c586ec92ffd86f27b"/>
+		</game>
+		<game name="laireuro">
+			<rom name="ELU33.BIN" size="8192" crc="e7506d96" sha1="610ae25bd8db13b18b9e681e855ffa978043255b"/>
+			<rom name="ELU45.BIN" size="8192" crc="4d3a9eac" sha1="e6cd274b4a0f92b1fb1f013f80f6fd2db3212431"/>
+			<rom name="ELU46.BIN" size="8192" crc="8479612b" sha1="b5543a06928274bde0e1bdda0747d936feaff177"/>
+			<rom name="ELU47.BIN" size="8192" crc="6a66f6b4" sha1="2bee981870e61977565439c34568952043656cfa"/>
+			<rom name="ELU48.BIN" size="8192" crc="36575106" sha1="178e26e7d5c7f879bc55c2fb170f3bb47a709610"/>
+			<rom name="laireuro.txt" size="418" crc="fd42c795" sha1="5cbd2c0d96a80d801b9c0a05045740096ae2727f"/>
+		</game>
+		<game name="mach3">
+			<rom name="M3DROM1.BIN" size="4096" crc="a6e29212" sha1="a73aafc2efa99e9ae0aecbb6075a10f7178ac938"/>
+			<rom name="M3ROM0.BIN" size="8192" crc="70c12bf4" sha1="c26127b6e2a16791b3be8abac93be6af4f30fb3b"/>
+			<rom name="M3ROM1.BIN" size="8192" crc="3b0ba80b" sha1="bc7e961311b40f05f2998f10f0a68f2e515c8e66"/>
+			<rom name="M3ROM2.BIN" size="8192" crc="fbdfb03d" sha1="61d587558fc036fc3b55d3e36ebb6940e9eda258"/>
+			<rom name="M3ROM3.BIN" size="8192" crc="b1b045af" sha1="4e71ca4661bf5daaf9e2ffbb930ac3b13e2e57bd"/>
+			<rom name="M3ROM4.BIN" size="8192" crc="8bfd5a44" sha1="61f5c6c39047c1d0296e2cacce2be9525cb47176"/>
+			<rom name="m3target.bin" size="971776" crc="a2a9f8e5" sha1="5ca2e4dd86882009ea1496f91e1fc8612ae4bf5e"/>
+			<rom name="M3YROM1.BIN" size="4096" crc="eddf8872" sha1="29ed0d1828639849bab826b3e2ab4eefac45fd85"/>
+			<rom name="mach3.txt" size="1436" crc="18255db2" sha1="0a54c4372cb247a474657c79bfa32b1013fffa58"/>
+			<rom name="MACH3BG0.BIN" size="4096" crc="ea2f5257" sha1="664502dd2b7ee4ce96820da532615f3902b45557"/>
+			<rom name="MACH3BG1.BIN" size="4096" crc="f543e4ce" sha1="2a1b7dbbcd9756f836ca2e42973043b98a303082"/>
+			<rom name="MACH3FG0.BIN" size="8192" crc="0bae12a5" sha1="7bc0b82ccab0e4498a7a2a9dc85f03125f25826e"/>
+			<rom name="MACH3FG1.BIN" size="8192" crc="9b88767b" sha1="8071e11906b3f0026f9a210cc5a236d95ca1f659"/>
+			<rom name="MACH3FG2.BIN" size="8192" crc="2a59e99e" sha1="5c1faa244fc0f53cc2a52c8d4d40fb178706c2ed"/>
+			<rom name="MACH3FG3.BIN" size="8192" crc="472128b4" sha1="8c6f36cab5ec8abb6db2e6d52530560664b950fe"/>
+		</game>
+		<game name="roadblaster">
+			<rom name="00.bin" size="8192" crc="084d6ae2" sha1="f49eb2d53bad5af88a12535ba628c9decce690ff"/>
+			<rom name="01.bin" size="8192" crc="e4733c49" sha1="357f46a80273f8a365d16cddf5e2caaeeacaf4ad"/>
+			<rom name="02.bin" size="8192" crc="6c20335d" sha1="b28e80f112553af8e3fba9ebbfc10d1f56396ac1"/>
+			<rom name="03-06.bin" size="8192" crc="d1ff5ffb" sha1="29df207e225e3b0477d5566d256198310d6ae526"/>
+			<rom name="04-07.bin" size="8192" crc="da2c84d9" sha1="3452b0e2a45fa771e226c3a3668afbf3ceb0ec11"/>
+			<rom name="05-08.bin" size="8192" crc="4608b516" sha1="44af4be84a0b807ea0813ce86376a4b6fd927e5a"/>
+			<rom name="roadblaster.txt" size="2212" crc="e00fbb2d" sha1="0d5cf1878a440d4753cd67fa29c5b422d296f5f5"/>
+		</game>
+		<game name="sae">
+			<rom name="readme.txt" size="16931" crc="ca4e20e6" sha1="beb1d4dcc4414af60880c9a38071ffaa932de46c"/>
+			<rom name="SAE10_U1.bin" size="8192" crc="cbc5e425" sha1="0991508443650fa090b56f820fbf640a5ceaea27"/>
+			<rom name="SAE10_U2.bin" size="8192" crc="71a26f47" sha1="bd343cd25f4e3baeb5b8aaecb8ed4be078ff6b8a"/>
+			<rom name="SAE10_U3.bin" size="8192" crc="bac5cdd8" sha1="15d1f563c9495b3d1ce8775d781ca1f71cfda742"/>
+			<rom name="SAE10_U4.bin" size="8192" crc="e18380f9" sha1="98b49e06bd8dabad349b81654694311efbf67513"/>
+			<rom name="SAE10_U5.bin" size="8192" crc="8a536cb0" sha1="2498c02d3118da969c9c54901decfbcbb7d6956b"/>
+		</game>
+		<game name="sdq">
+			<rom name="sdq-char.bin" size="8192" crc="5fb0e440" sha1="267413aeb36b661458b7229d65d7b1d03562a1d3"/>
+			<rom name="sdq-cprm.bin" size="32" crc="96701569" sha1="b0f40373735d1af0c62e5ab06045a064b4eb1794"/>
+			<rom name="sdq-prog.bin" size="16384" crc="96b931e2" sha1="a2408272e19b02755368a6d7e526eec15896e586"/>
+			<rom name="sdq.txt" size="655" crc="19a6bd7b" sha1="4979f7eb761d6d8902272eab6732ef1e2dabe9f2"/>
+		</game>
+		<game name="sdqshort">
+			<rom name="SDQ_C45.ROM" size="16384" crc="0f4d4832" sha1="c6db63721f0c73151eb9a678ceafd0e7d6121fd3"/>
+			<rom name="sdqshort.txt" size="309" crc="a236623f" sha1="1a02b819157d95c772f0f997dae1518f07eddacb"/>
+			<rom name="sdqshort_a8.bin" size="8192" crc="7d981a14" sha1="0a0949113b80c30adbb5bdb108d396993225be5b"/>
+		</game>
+		<game name="sdqshortalt">
+			<rom name="sdq_c45alt.rom" size="16384" crc="b12ce1f8" sha1="3f0238ea73a6d3e1fe62f83ed3343ca4c268bdd6"/>
+			<rom name="sdqshortalt.txt" size="210" crc="cea175c7" sha1="5e83dde664887fb668206c4462031caa64571131"/>
+		</game>
+		<game name="tq">
+			<rom name="tq.txt" size="308" crc="b45f8175" sha1="098d567717f9730f2f6eaa5fa95cea715cab1bfc"/>
+			<rom name="tq_cop.bin" size="1024" crc="6748e6b3" sha1="5d7d1ecb57c1501ef6a2d9691eecc9970586606b"/>
+			<rom name="tq_u1.bin" size="8192" crc="e8e7f566" sha1="df7b83ef465c65446c8418bc6007447693b75021"/>
+			<rom name="tq_u33.bin" size="32768" crc="82df5d89" sha1="58dfd62bf8c5a55d1eba397d2c284e99a4685a3f"/>
+		</game>
+		<game name="tq_alt">
+			<rom name="tq_u1.bin" size="8192" crc="33817e25" sha1="f9750da863dd57fe2f5b6e8fce9c6695dc5c9adc"/>
+		</game>
+		<game name="tq_swear">
+			<rom name="tq_swear.txt" size="607" crc="6534cdf8" sha1="80f569ddd200c900321847f1ae1dce281697a16f"/>
+			<rom name="tq_u33_mod.bin" size="32768" crc="7be981df" sha1="d7d90ae2e9aea730d9cb88cc5b0518a992214a10"/>
+		</game>
+		<game name="uvt">
+			<rom name="USVS.BG0" size="4096" crc="8a0de09f" sha1="6b56ffbe8569625ff307510645683b4e3f04e753"/>
+			<rom name="USVS.BG1" size="4096" crc="6fb64d3c" sha1="0cf0fd60995e56eddc56c7fac6280abe3b87dbc9"/>
+			<rom name="USVS.FG0" size="16384" crc="7734e53f" sha1="c1307596ba098c98e741f3c00686b514587e1d0a"/>
+			<rom name="USVS.FG1" size="16384" crc="a2057430" sha1="e24aa35cb27fa41b75f5c01f4c083dc6eeb04c0d"/>
+			<rom name="USVS.FG2" size="16384" crc="d3990707" sha1="81d58f6bc6ec04b95036f81c4cd3516d0adf348e"/>
+			<rom name="USVS.FG3" size="16384" crc="98703015" sha1="120e87ef640db3f23c1d2c0abf4b6acff7714512"/>
+			<rom name="USVS.RM0" size="8192" crc="30cf6bd9" sha1="527ad3b96ea4a77f6d6f8a89a9215da490292297"/>
+			<rom name="USVS.RM1" size="8192" crc="697bc989" sha1="ebfc0868f949e5aba1efb8fbce06f795888d8e00"/>
+			<rom name="USVS.RM2" size="8192" crc="36770716" sha1="797b48ef48f563ed21ea263297fe0ed61c69f41e"/>
+			<rom name="USVS.RM3" size="8192" crc="6f32a671" sha1="d54c1e09988f78ea706b4b0da675b27d9d407696"/>
+			<rom name="USVS.RM4" size="8192" crc="0d7a4072" sha1="84a7eec31037243185ab40ab269be0f83946ebd5"/>
+			<rom name="USVSDROM.1" size="8192" crc="c0b5cab0" sha1="b18e8fd9837bb52d6b3d86f2b652f6573c7cd3b3"/>
+			<rom name="USVSYROM.1" size="8192" crc="c3d245ca" sha1="d281b139ae6c58e855b2914a24ca4bc5f8800681"/>
+			<rom name="uvt.txt" size="366" crc="bed72324" sha1="591da6990634a11436d1e6ad1338b815d05ca1ea"/>
+		</game>
+	</dir>
+	<dir name="EMMA">
+		<game name="[Arcade] Marbella Vice (1994)(Web Picmatic)">
+			<rom name="cabinet.jpg" size="253619" crc="2a01a700" sha1="537e7b689b840e9e89f9d0af10b7fc8600571c7f"/>
+			<rom name="control panel.jpg" size="248057" crc="57297a7c" sha1="225918215d0c27e56d4181f02d6194ed7314d588"/>
+			<rom name="disc.jpg" size="109852" crc="06744ede" sha1="4ef66402f3914e331605e2d49d099b6f71a27d23"/>
+			<rom name="guts.jpg" size="173111" crc="b19e990a" sha1="20932e49ecaf64166beb0f6808ba95dcad4a4c93"/>
+			<rom name="marquee.jpg" size="166534" crc="41647851" sha1="0ec497d559941f639e4cf31ad37efd6c1ab271b8"/>
+			<rom name="ROMs PCB component side.jpg" size="231319" crc="a6e9f3db" sha1="bff807ce8365fe1eeb1b5959ddeb01b36533b9a0"/>
+			<rom name="side art.jpg" size="313977" crc="bb07f331" sha1="c10dfba57233886a851f8b1c9355ad1018bfed00"/>
+			<rom name="tms27c512 MSPSL 200 combined 30394.bin" size="131072" crc="f78c8fa2" sha1="07656cbfdb6135f26add3b5fa4ce5d46dda706f9"/>
+		</game>
+		<game name="[Arcade] Road Blasters (Set 1) (1987)(Atari)">
+			<rom name="1128.b6" size="32768" crc="7da0cb34" sha1="513bb604e185664d39b55fa8f433b0520b237201"/>
+		</game>
+		<game name="[Device] LDP-1450 (US, Canada) (1990)(Sony)-1677">
+			<rom name="1677 AC-80 component side.jpg" size="431917" crc="9622d942" sha1="5d71ca650d93b75f2c0ffef2283c0846341d3530"/>
+			<rom name="1677 AC-80 solder side.jpg" size="462763" crc="c80cf023" sha1="ecb8c7fb2d07d0c35c1a155ba4a6a5db55e150ea"/>
+			<rom name="1677 AU-80 component side.jpg" size="391624" crc="12829d3b" sha1="2720b35af4dcb249e2ed22eb02c74cfd2012fd29"/>
+			<rom name="1677 AU-80 solder side.jpg" size="611321" crc="4323ba9d" sha1="9b75088cc28ef6417c46eaec22055de952478d6f"/>
+			<rom name="1677 case back.jpg" size="1800732" crc="24cacbc0" sha1="0b6eac6d61a5afe3cb44b337d53cd2140bc33ff9"/>
+			<rom name="1677 case front.jpg" size="1204655" crc="1f7b5d7d" sha1="8b26a60941c148d009a5a23d82a05d8de67854ab"/>
+			<rom name="1677 case open on top.jpg" size="2337975" crc="8afa8c2a" sha1="5b856d1899857574c39a0859ebb048844b5042f5"/>
+			<rom name="1677 CB-31 component side.jpg" size="318716" crc="73cf679b" sha1="8295a327a025dce24888488ae53030c375dce74d"/>
+			<rom name="1677 CB-31 solder side.jpg" size="595513" crc="58f09b1b" sha1="fbb1c6b9d1dc68ef913d815fe7d7767b94d3502a"/>
+			<rom name="1677 control panel left.jpg" size="1251329" crc="d48b8b01" sha1="65ccd93ee832f8e7967f6409a0c73828e14d0483"/>
+			<rom name="1677 control panel right.jpg" size="1209519" crc="d1e1d1b1" sha1="c24950e6956ea09998b2b28fdbc092167568485b"/>
+			<rom name="1677 DC-40 component side.jpg" size="651694" crc="9c2282b7" sha1="151c106631b6d163604f6cecb9836b3d2a9b6798"/>
+			<rom name="1677 DC-40 solder side.jpg" size="936991" crc="48dc96e4" sha1="ca2135987b2dd51e0061b4f626ba3e81efeb2264"/>
+			<rom name="1677 DC-41 component side.jpg" size="44625" crc="929b558b" sha1="62c897c54852db28a7a559bfda64b57203078e8d"/>
+			<rom name="1677 DC-41 solder side.jpg" size="23066" crc="e201630c" sha1="639e7e9a01f043b41d28ea21ea5e3ccfc497e690"/>
+			<rom name="1677 DC-42 component side.jpg" size="74875" crc="98304032" sha1="dc87b2453bab55aaf7e5fd9b9abd29418d64897d"/>
+			<rom name="1677 DC-42 solder side.jpg" size="47237" crc="bb78e2ca" sha1="02dfbd0faa26388a4d7bf198f27f5ac09fe4069e"/>
+			<rom name="1677 FP-300 component side.jpg" size="214723" crc="197433e7" sha1="3530aef70c8ec5f1ac2970101baa7b20582fa45c"/>
+			<rom name="1677 FP-300 solder side.jpg" size="281586" crc="e36e8a17" sha1="4e6536ae64c675567e8da5563bc4e6f3ad036158"/>
+			<rom name="1677 LD-35 component side.jpg" size="26398" crc="dfc11f5d" sha1="f2b95cb5df2d1c2c746c599d797296dc554af8ea"/>
+			<rom name="1677 LD-35 solder side.jpg" size="21383" crc="728f4f7d" sha1="8d62ca31ac8322c3f2ab8405aa6c1065a13614c8"/>
+			<rom name="1677 manual.pdf" size="968322" crc="2e56b0f3" sha1="fa841d539810f7184099ff96bd09a604b0228da2"/>
+			<rom name="1677 MB-40 assembled with audio PCB and servo PCB.jpg" size="1491430" crc="dab7d217" sha1="4ba8e0d0a5553ee1c80d11d14bdf303731588eed"/>
+			<rom name="1677 MB-40 component side detail1.jpg" size="2137156" crc="87c416a7" sha1="d2a116c348c5cbc47e851956d393f7dc5c0475d2"/>
+			<rom name="1677 MB-40 component side detail2.jpg" size="2177066" crc="50eb02bb" sha1="111212e73d8c553e26c1116459bcbbc5d4317b10"/>
+			<rom name="1677 MB-40 component side detail3.jpg" size="2376249" crc="96e09b69" sha1="2a26edf8dd66d2140c91e583ffeeee61f006b37b"/>
+			<rom name="1677 MB-40 component side detail4.jpg" size="1765884" crc="2a24f5f8" sha1="d14476cd29c6b19193d269d5e119891908c3551d"/>
+			<rom name="1677 MB-40 component side detail5.jpg" size="2177027" crc="dfb0e52d" sha1="c99dae16030032fc29794154939420fb79ad541b"/>
+			<rom name="1677 MB-40 component side detail6.jpg" size="2157497" crc="33d3cb19" sha1="791115665a9f161f3a555e7819d6d2af706aa062"/>
+			<rom name="1677 MB-40 component side1.jpg" size="2830472" crc="f084b1c4" sha1="fb64821f4e015ded867194573f809113d5424b02"/>
+			<rom name="1677 MB-40 component side2.jpg" size="2878104" crc="8463ef26" sha1="c0627475b4fb4eddf85e6c37ba8fc487d6ee0248"/>
+			<rom name="1677 MB-40 component side3.jpg" size="2629317" crc="5b4e2cbc" sha1="65da6dbc90c6f7537a6e2462f314f8bb76efa3b3"/>
+			<rom name="1677 MB-40 solder side1.jpg" size="3882767" crc="eca21cfd" sha1="02658e9cda8719c2358daea33f74dd766e3a7655"/>
+			<rom name="1677 MB-40 solder side2.jpg" size="4081972" crc="761e5013" sha1="319d6896305ea47f84df0ab571f9ae9f55e43c20"/>
+			<rom name="1677 MD-42 component side.jpg" size="361546" crc="75ee2cb3" sha1="e95c73d0cf2d110d9d6653411920f09a4c3b799f"/>
+			<rom name="1677 MD-42 solder side.jpg" size="211674" crc="00a3b0ac" sha1="15e0e777bcd9aead61a0e10183a2a9acce580ed5"/>
+			<rom name="1677 MD-43 component side.jpg" size="78815" crc="f3134515" sha1="67c60fea159a92b3bb0169130c5f8e795c8ce8d9"/>
+			<rom name="1677 MD-43 solder side.jpg" size="220623" crc="cf4f29be" sha1="5867421bc276813084a0f6667efde2a61f41fffa"/>
+			<rom name="1677 MD-44 component side.jpg" size="172532" crc="e090314e" sha1="d9673792f62949635594c60a6012bc2fe9042c40"/>
+			<rom name="1677 MD-44 solder side.jpg" size="2742776" crc="a5c1fe6a" sha1="a69592bfd3e23ab2a4e9aa28c789b227e4c66d55"/>
+			<rom name="1677 open case left.jpg" size="1557531" crc="a2ae67b7" sha1="3e9b246c132b965c4b3fa527eab9185d13267891"/>
+			<rom name="1677 open case main PCB removed.jpg" size="1056280" crc="b38b5872" sha1="a23724aba3edfbb943dd2de0750c02d0b9988546"/>
+			<rom name="1677 open case middle.jpg" size="1459605" crc="577a0835" sha1="0fe85aa075f62bf9d58934516914c0c7d0f9f0b3"/>
+			<rom name="1677 open case right.jpg" size="1720728" crc="a7d7d8f1" sha1="372ea3e1eb03b91e046d74f901e492ffb1eb847e"/>
+			<rom name="1677 open case tray removed.jpg" size="1126905" crc="18d41e8b" sha1="151f639983f99ed491a98433fbd38d6c91aa753b"/>
+			<rom name="1677 open case.jpg" size="964603" crc="8e182079" sha1="9d95153ede7c9866a0668a82a43e644cd11381ef"/>
+			<rom name="1677 PS-250 component side.jpg" size="205628" crc="11cd4fef" sha1="8c53d21ff6ae9409f6134dcdff59c26acda8e0ee"/>
+			<rom name="1677 PS-250 solder side.jpg" size="179994" crc="30a1bec7" sha1="300584541e51447223d8c6843f93f5f6ae8f0939"/>
+			<rom name="1677 PW-90 component side.jpg" size="235876" crc="7dc33490" sha1="03135f58c2eb555f62f59e64077a8cbec152b218"/>
+			<rom name="1677 PW-90 PW-91 solder side.jpg" size="533849" crc="8775291e" sha1="95e8dd0c2adc26b260efb5ae0a7f8ed4fe14793e"/>
+			<rom name="1677 PW-91 component side.jpg" size="667781" crc="2a7b9eb4" sha1="3f4ccb2fb2ae81a3c15a3b5e9730d7fe52c16fcd"/>
+			<rom name="1677 service1.pdf" size="4146275" crc="e9a76160" sha1="97f0fce676031840ffd5eb52e27398f62d231210"/>
+			<rom name="1677 service10.pdf" size="2205697" crc="9d704838" sha1="180da69613602ccffc3610054c7e80e3087d6db0"/>
+			<rom name="1677 service2.pdf" size="3903160" crc="49658fb4" sha1="e32bc7c30b3db3725e74b2852cba8231cbde1e4a"/>
+			<rom name="1677 service3.pdf" size="4921734" crc="839c4b26" sha1="41c1553679c493e285f0b70e6d16ad70289a040e"/>
+			<rom name="1677 service4.pdf" size="3318271" crc="2ffa63bf" sha1="2bc0873fc7c0be1e15901e88345eddb24b5541c8"/>
+			<rom name="1677 service5.pdf" size="4053510" crc="3708f089" sha1="3a19451390ddc0a853c84b64968701906907bb36"/>
+			<rom name="1677 service6.pdf" size="4320787" crc="5a394532" sha1="333e63846852a348d0f426d5422d0f267f89828e"/>
+			<rom name="1677 service7.pdf" size="3251830" crc="9b8875c4" sha1="4245c9232b0c23a91fd300b8cf4d58056e95a672"/>
+			<rom name="1677 service8.pdf" size="3987264" crc="aa4779ee" sha1="0905045962227a36b818279a2514ca41f5cd4a06"/>
+			<rom name="1677 service9.pdf" size="3563285" crc="6cdaa3c8" sha1="118612932ca0cfdd3f38d7cea82531733099187e"/>
+			<rom name="1677 SW-150 component side.jpg" size="61232" crc="8a29f57b" sha1="a38a7a7c021c10ea1b0e612ee024260da4d0354c"/>
+			<rom name="1677 SW-150 solder side.jpg" size="56442" crc="8ece86a5" sha1="a5c20e3d6f9c95de097ff15e7b5a3abb921282a0"/>
+			<rom name="1677 SW-151 component side.jpg" size="168930" crc="4ef29897" sha1="d2deff4691837c5c6f77df5cba752b7fa80d4b67"/>
+			<rom name="1677 SW-151 solder side.jpg" size="208474" crc="16ea2e28" sha1="56c4febe78b1776fc0a39f77110631d3721f705f"/>
+			<rom name="1677 SW-152 component side.jpg" size="63376" crc="899395b7" sha1="933cc52fdc45bbdeab5c847dcead33d668940725"/>
+			<rom name="1677 SW-152 solder side.jpg" size="91516" crc="fbb9ac2f" sha1="57c17595da1505dc9b9fbf6d177767b9cf2ba6c3"/>
+			<rom name="1677 SW-153 component side.jpg" size="66016" crc="9f52eccf" sha1="9ff4c933b023779146c9d648b23a4b6613450d08"/>
+			<rom name="1677 SW-153 solder side.jpg" size="64812" crc="f1bee12f" sha1="ddd55678176bff5969dd523b055fb7e733b45bdb"/>
+			<rom name="1677 VP-21 component side1.jpg" size="1885681" crc="18d31f7f" sha1="2ac1168b5cea49d2a80525c0fbf9ee8e69b606f6"/>
+			<rom name="1677 VP-21 component side2.jpg" size="814782" crc="e7d9cd69" sha1="92896247c26d00d6b3cba709cd61a0c69ddca135"/>
+			<rom name="1677 VP-21 solder side.jpg" size="1359020" crc="17d1aab9" sha1="4680b35b3ed67de4e2000070e9650300555da4d6"/>
+		</game>
+		<game name="[Disk] Firefox (1983)(Atari)">
+			<rom name="frame.bin" size="1057008" crc="911b8d4a" sha1="c85ed45cd3817cf811188645b3f6c25d62b53486"/>
+		</game>
+		<game name="[LaserDisc] Badlands (1983)(Konami - Century)">
+			<rom name="Badlands (1984)(Konami - Century).txt" size="188" crc="23a8707c" sha1="dbda7100e8bfb65de83c941b29c366d678ffef2c"/>
+			<rom name="bl_hit_12f.bin" size="512" crc="655659e2" sha1="69b2267423f7d84702901d6e2bf3302f1d46f3c4"/>
+			<rom name="bl_hit_7c.bin" size="8192" crc="3804a448" sha1="cbadc84edfec36328234caabbefd1a34dfc43263"/>
+		</game>
+		<game name="[LaserDisc] Casino Strip V (Poker, Pioneer player) (1985)(Status)">
+			<rom name="Casino Strip V (Poker, Pioneer player) (1985)(Status).txt" size="387" crc="28cfcc2e" sha1="cc419f7bd60faa905b9e599d175d9c0b7205626c"/>
+			<rom name="cs_5_spp.u7" size="4096" crc="79ecd802" sha1="1e0f304c678a027e486c7baeff7ea5a2729063fa"/>
+			<rom name="cs_5_spp.u8" size="4096" crc="5a0d46cb" sha1="699f5faba570e419090e6d478bccc87c3f9cca77"/>
+		</game>
+		<game name="[LaserDisc] Casino Strip VI (Shooting gallery, Sony player) (1985)(Status)">
+			<rom name="shotgd6.u7" size="4096" crc="6028a6e4" sha1="a7685191bac88dc3848c30525d8f982d67a4fbfe"/>
+		</game>
+		<game name="[LaserDisc] Casino Strip XI (Poker, Pioneer player) (1988)(Status)">
+			<rom name="astrip-xi-1-469.u7" size="4096" crc="0285bcb0" sha1="d091b5f142249e413813a3fadd3613a2594eb2a5"/>
+			<rom name="astrip-xi-2-469.u8" size="4096" crc="5e0ffcbc" sha1="27a878a374d3585d742910e42d5c99145e249c0c"/>
+			<rom name="astrip-xi-3-469.u9" size="4096" crc="5da21dea" sha1="cd74130f11d566e4c65eeaea691deb1440b1eaec"/>
+			<rom name="PCB component side.jpg" size="1655890" crc="1710ebb7" sha1="cab47d2d72cdfead9207ff899c24bfcf78214dda"/>
+		</game>
+		<game name="[LaserDisc] Cobra Command (1984)(Data East)">
+			<rom name="00.bin" size="8192" crc="69aa8364" sha1="4880e98f41727fda4a0eebc0efcbb8ea3a5e0066"/>
+			<rom name="Cobra Command (1984)(Data East).txt" size="1280" crc="e6b7a193" sha1="6ca9af274e5a7b8eee9ffb508974ec9c26671c21"/>
+			<rom name="cobrprm.16d.bad.dump.jed" size="2778" crc="612f7893" sha1="495a4899c232950570577d9751191d0710a4e141"/>
+		</game>
+		<game name="[LaserDisc] Cobra Command (Data East LD, REV 1) (1984)(Data East)">
+			<rom name="assembled PCBs component side.jpg" size="111282" crc="60b69752" sha1="959352473f56dd366ef6ebf7cfbf4a50bae09851"/>
+			<rom name="AU00.bin" size="8192" crc="280146cd" sha1="d9a02234c576591ff1ed875437d0aefb5dda1cdb"/>
+			<rom name="AU01.bin" size="8192" crc="97680318" sha1="19c0b2e44f990537369918b7083b7b59c1e705cd"/>
+			<rom name="AU02.bin" size="8192" crc="c1fc4484" sha1="033e6db045b43c5a4a4bf9e7fcf86ae24b83db15"/>
+			<rom name="AU03.bin" size="8192" crc="a8e61208" sha1="68e421860040712ee13dd97b572bd9b08bc704f2"/>
+			<rom name="AV00-1.5A" size="8192" crc="280146cd" sha1="d9a02234c576591ff1ed875437d0aefb5dda1cdb"/>
+			<rom name="bottom PCB component side detail.jpg" size="2596342" crc="f9f5550e" sha1="491dc54c3384b3d0b0e011ede9fc9762f1339aea"/>
+			<rom name="main PCB component side.jpg" size="2217940" crc="00a246ee" sha1="e73c26b5b593eae25470d3de50802cd87a57a65f"/>
+			<rom name="top PCB component side.jpg" size="1920735" crc="7f038c5b" sha1="f11e926b31e0ca189bb2a6fd83d31f2c8ccdbb64"/>
+			<rom name="vdb-01.bin" size="52" crc="7026a26b" sha1="bf7b220906c05141280462e2e8da55dc44a751c5"/>
+			<rom name="VDB-01.jed" size="671" crc="5315cd1e" sha1="e87cfbf879d200b05dadba55caeda8d835a78ca0"/>
+			<rom name="vdb-02.bin" size="44" crc="842ae1e6" sha1="8d1809d1f85611766c1404177a35c03e15066c3d"/>
+			<rom name="VDB-02.jed" size="585" crc="af3216ef" sha1="24590511b42c66260947b9179d1cee187166f90f"/>
+			<rom name="wires detail.jpg" size="1827642" crc="849d02cd" sha1="9ae11f192cc65b9378c093141d91b1df681e21a4"/>
+		</game>
+		<game name="[LaserDisc] Cube Quest (1984)(Simutrek)">
+			<rom name="Audio_Amp_hr.jpg" size="1336306" crc="d467b744" sha1="42bcca3781d2c2ee182b7045e6574d5773f7d5e8"/>
+			<rom name="Cube Quest (1984)(Simutrek).txt" size="2252" crc="d590e107" sha1="362a7eccdf058db690d40b45d2d711f08baab308"/>
+			<rom name="data.bin" size="131072" crc="55e7f82d" sha1="9ca2ef060f631869c73fa8cbf7573920e1e4fce6"/>
+			<rom name="dump.bin.bad.dump" size="131544" crc="23c8a70d" sha1="25d17290d3b7848cf0e8adc1bd3a9b8f674ba909"/>
+			<rom name="dump.txt.bad.dump" size="557056" crc="252f3981" sha1="d38efc03f8032670ab2cc1bf19163c3506679b85"/>
+			<rom name="EPROM_hr.jpg" size="1466955" crc="c80c2f84" sha1="6b0433b878378e95c1fa8bff5910089e091b17bc"/>
+			<rom name="Fill_hr.jpg" size="1696669" crc="62f20bd6" sha1="c68a5d05d024b22ad5962cabb0e699ed955845ed"/>
+			<rom name="full_cage_back_hr.jpg" size="1292816" crc="7b19cd21" sha1="a6114003a84700659de799457eda9cd50bfce56d"/>
+			<rom name="full_cage_front_hr.jpg" size="1485004" crc="7aa155e3" sha1="ab9d658b709a966f76113ec545c1056b79953983"/>
+			<rom name="I_O_hr.jpg" size="1554891" crc="25533ddb" sha1="d5151bab6380fd9a5920d12e9e000c4d03273b3f"/>
+			<rom name="inside_door_sheet_full.jpg" size="544164" crc="efa94b04" sha1="8e6176cf81c2b3364a288f2e54e6f5358c4c263c"/>
+			<rom name="Line_Drawer_hr.jpg" size="1556843" crc="f6e00af1" sha1="c98b17194e66a03b4737ba42a47ba9972d62ed58"/>
+			<rom name="Mother_Sounds_hr.jpg" size="1555371" crc="3dd15468" sha1="37a0656c186d3f3ded5b203d29ccd6003f44d19c"/>
+			<rom name="Rotate_Video_hr.jpg" size="1666218" crc="be5ec6ae" sha1="957322a0807622849eb493c2fc7fd1c80089de5b"/>
+		</game>
+		<game name="[LaserDisc] Dragon&apos;s Lair &amp; Space Ace (Combination rom Revision) (20020409)(Dave Hallock, Jeff Kinder, Jeff Kulczycki)">
+			<rom name="Dragons Lair &amp; Space Ace (Combination rom Revision) (20020409)(Dave Hallock, Jeff Kinder, Jeff Kulczycki).txt" size="4624" crc="18270413" sha1="a8b211c20f375dfd44d085cd8f1801f553f3a61f"/>
+			<rom name="Dragons Lair &amp; Space Ace (Combination rom Revision) (DIPs) (20020409)(Dave Hallock, Jeff Kinder, Jeff Kulczycki).pdf" size="16559" crc="47e5cfc1" sha1="dc1ab6b3c403a5e62bcbf2fd87370d4b8bb2f79f"/>
+			<rom name="u1.bin" size="16384" crc="962bc52b" sha1="bc892928cb537ca3f7a26a0d335cba06a49b0cb1"/>
+			<rom name="u2.bin" size="16384" crc="0d6d1c5e" sha1="4ea1fa356e28c82b5f211684f4ab56e6a7f5292d"/>
+			<rom name="u3.bin" size="16384" crc="b3d9cefd" sha1="03f048404e2d4f2805e8741c3a38f176d486c6b0"/>
+			<rom name="u4.bin" size="16384" crc="63e47ffd" sha1="5a99ee20c1f6a36e82b0efbd4038f22b57c84f52"/>
+			<rom name="u5.bin" size="16384" crc="c1db02a8" sha1="251bf04e61e908ec5c1da2484a0ced801c04ab0b"/>
+		</game>
+		<game name="[LaserDisc] Dragon&apos;s Lair (various roms) (1983)(Cinematronics)">
+			<rom name="discint6.xxx" size="8192" crc="546b7fb0" sha1="a12109cc13ef46114c0b1307953c4a58c5035a41"/>
+			<rom name="diskint5.xxx" size="8192" crc="e0037412" sha1="bbfab531269da687c8d2a8aef07402cca6008138"/>
+			<rom name="dldump.xxx" size="8192" crc="73fbce36" sha1="2098533885c6aff9e038b93e5e4ffd8b33e49e77"/>
+			<rom name="dle11.txt" size="22338" crc="4bf84551" sha1="f1e138d0a6abb68e71673ec1e6c63b42bfff2375"/>
+			<rom name="dle11u1p.bin" size="8192" crc="55d165e1" sha1="806e1df8455ef94e843424d38c2929c81c888194"/>
+			<rom name="dle11u2p.bin" size="8192" crc="6aecaf42" sha1="e9118520861052c61250fa6841ba62e8c9cb8be8"/>
+			<rom name="dle11u3p.bin" size="8192" crc="6229d636" sha1="eb6c74eeca3ca7720109cd1ef80b591c4dfbc4db"/>
+			<rom name="dle11u4p.bin" size="8192" crc="7f506c2f" sha1="a0a06dc9bb25e58d4e091c536c7b1a6ba06a682a"/>
+			<rom name="dle20.txt" size="20553" crc="51c50010" sha1="002c479a55d781aa8a11f823a06694f6be84915b"/>
+			<rom name="dle33.bin" size="23155" crc="617d34a9" sha1="bb98a5d29778c71e15db2c0b7bd8db390a3e46b1"/>
+			<rom name="dle45.bin" size="23155" crc="1cc55537" sha1="fb4e4d07c99d922e1ce88df41aa64680dff3456a"/>
+			<rom name="dle46.bin" size="23155" crc="2548acaa" sha1="003916926c7894c8ae51b120714139a4dc1aa0bf"/>
+			<rom name="dle47.bin" size="23155" crc="66ded6ac" sha1="ad969095eeb0f1dd86dec36b7a0e6bef618f8e36"/>
+			<rom name="dle48.bin" size="23155" crc="f8ef6fcd" sha1="e50eee25fccef243d7d628207a1eb5a511df79b6"/>
+			<rom name="dlinttst.5xx" size="8192" crc="b4e8568d" sha1="a4dab84f1ad63fd440961bc354749d2b01f470ad"/>
+			<rom name="dlinttxt.6xx" size="8192" crc="2a9f443d" sha1="79f71d5ae59222db54cf9e23af4a35c37e769efe"/>
+			<rom name="dlu2c.bin" size="8192" crc="f1a08988" sha1="ceafea4ab43743707553b12bfb93e2dd05e3c616"/>
+			<rom name="gite.xxx" size="8192" crc="96b0b55f" sha1="60fd4a0cb3f0773f0664cb398f46f184c7df443e"/>
+			<rom name="inttst.xxx" size="8192" crc="1016ef1e" sha1="29c90406b18511baa1a1274a88f2fd5804f265a3"/>
+			<rom name="iosig.xxx" size="8192" crc="f771fe64" sha1="53300b1c08ab07873a06f536841521b6d863ce33"/>
+			<rom name="lairburn.1xx" size="8192" crc="94dd623d" sha1="453728ce081b5d3d4f72c0907fdc52953293fe66"/>
+			<rom name="lairburn.2xx" size="8192" crc="9850ba8a" sha1="f66de0ed00f1c9fee9e4b38b9a4419d5c21174b8"/>
+			<rom name="lairtst3.xxx" size="8192" crc="b270bbb6" sha1="4fe33771016d04f7240d5c44025a6c4f8a2a0991"/>
+			<rom name="lairtst6.xxx" size="8192" crc="bf3917e0" sha1="729e26e01c85f7c8b785388d803c18fa1bb1c236"/>
+			<rom name="ldv1000_lair.rom" size="8192" crc="2e886f3b" sha1="9dc1d6f6b23c3b535a2544f2a298817ec51a3981"/>
+			<rom name="mstrinit.xxx" size="8192" crc="c0831651" sha1="b34296a4f7fb241a2bd7c33d1f450292538dedb2"/>
+			<rom name="satest.70" size="8192" crc="43a18ade" sha1="de6fcc8b29fd259a96846581166ded17bd45bc02"/>
+			<rom name="satest.71" size="8192" crc="906250aa" sha1="19ddedf93d060649b03a59445dd9397c60713407"/>
+			<rom name="satest.72" size="8192" crc="fcbffd0b" sha1="9f1dd4d8876f8e121eb3141d4d13e3b542288627"/>
+			<rom name="satest.73" size="8192" crc="dab70909" sha1="a790a12df982757a15aa52eae88bdbc1883d8c8f"/>
+			<rom name="satest.74" size="8192" crc="b66aa4a8" sha1="13425d21ee76e0418629565b869c3cd3933bb436"/>
+			<rom name="satest.xxx" size="8192" crc="94a60289" sha1="3e0746db170204df9f8cc7a274940f67d8ca60ac"/>
+		</game>
+		<game name="[LaserDisc] Freedom Fighter (dedicated Rev 1.7) (1987)(Millennium)">
+			<rom name="ffl1745a.bin" size="32768" crc="ee1c7e2d" sha1="1d3840b43f0ac8ae7b894e94722a415441846af3"/>
+			<rom name="ffl1745c.bin" size="32768" crc="162f126c" sha1="fdf6272ae73a8aac2ea83d1987904b2e88241ee6"/>
+			<rom name="Freedom Fighter (convertion) (1987)(Millennium).txt" size="1515" crc="8ff5d942" sha1="70ab15bc813e20abd9f4203f5a12db4528c5b7c8"/>
+			<rom name="Freedom Fighter (dedicated Rev 1.7) (1987)(Millennium)1.txt" size="1882" crc="9b9b2928" sha1="8216cacd1c841f60720b11ee52c3ce2bde52163f"/>
+			<rom name="Freedom Fighter (dedicated Rev 1.7) (1987)(Millennium)2.txt" size="796" crc="e7ee8eb5" sha1="b6ba94346f58a029ee73a3eb4c410214f48d7e6b"/>
+		</game>
+		<game name="[LaserDisc] Freedom Fighter (prototype) (19860408)(Millennium Game Products)">
+			<rom name="ffr_pif_u3_rev_8_4_86.bin" size="16384" crc="38a754a4" sha1="5bb3a9fd9e9a7b8b16cfc9a077baa763730bbcb9"/>
+			<rom name="Freedom Fighter (prototype) (19860408)( Millennium Game Products).txt" size="449" crc="b097a1a2" sha1="8d2fcb9187a16349ea3334ab5961f9dc8703a5a3"/>
+		</game>
+		<game name="[LaserDisc] Mad Dog McCree (2.03) (1990)(ALG)">
+			<rom name="Mad Dog McCree (2.03) (1990)(ALG).txt" size="380" crc="87ac3c49" sha1="341e413e642a4d7c17eb4232b9f809dcd94a3d7d"/>
+			<rom name="md_2.03_1.bin" size="131072" crc="9b98bde7" sha1="fb0f2d7e68a63592672bf778cc8445b99704c35a"/>
+			<rom name="md_2.03_2.bin" size="131072" crc="1eef9db7" sha1="50a6ce6a126533aa47241da088f6400b448e7940"/>
+		</game>
+		<game name="[LaserDisc] Quarter Horse (1983)(Electro-Sport)">
+			<rom name="a4.bin" size="16384" crc="aa77fa06" sha1="40e7fc5b613625d87cd378ad8258282b49e0bb23"/>
+			<rom name="Quarter Horse (1983)(Electro-Sport).txt" size="1956" crc="365e559d" sha1="37c92734a40eb920409fb14abfc715fc95bd13da"/>
+		</game>
+		<game name="[LaserDisc] Space Ace (DIPs remap) (1983)(Cinematronics)">
+			<rom name="dipremap.bin" size="8192" crc="fc595fd8" sha1="daa35ba540aef5d0c0e26667789cf16f2cd47deb"/>
+			<rom name="Space Ace (DIPs remap) (1983)(Cinematronics).pdf" size="23299" crc="ade4786a" sha1="e9e7341b56e8324ab7e88f87121c248a808eb0f2"/>
+			<rom name="Space Ace (DIPs remap) (1983)(Cinematronics).txt" size="2084" crc="16432047" sha1="ae9acb5c6c120b579339edb3afd3e85c369b4323"/>
+		</game>
+		<game name="[LaserDisc] Star Rider (proto 3) (1984)(Williams)">
+			<rom name="Star Rider (proto 3) (1984)(Williams).txt" size="605" crc="7aa6fa6b" sha1="a980814fd89debada8a9772c12847f43346b8bb8"/>
+			<rom name="u08.bin" size="16384" crc="ad9a3a2e" sha1="95fcf776e6410a7f8081622f0176e5f17732b975"/>
+			<rom name="u15.bin" size="16384" crc="5ce07944" sha1="edf98693d880ccebeb770f9e093a67392589ba35"/>
+			<rom name="u26.bin" size="16384" crc="f31f2faa" sha1="61413681a308dd0cb2c2d0c70181c15fc9a31403"/>
+			<rom name="u45.bin" size="8192" crc="6521c9bc" sha1="2273d9efe12a6a6d40c14ffb39c32ae1d2296956"/>
+			<rom name="u52.bin" size="8192" crc="5ac61ca1" sha1="027a20cff95d9d444ead5fe7ca9823fc0c1aeff3"/>
+		</game>
+		<game name="[LaserDisc] Who Shot Johnny Rock (1.6 rev A) (1991)(ALG)">
+			<rom name="Who Shot Johnny Rock (1.6 rev A) (1991)(ALG).txt" size="294" crc="1e16b794" sha1="73bf45c31287eb0eea8053a4414a51d9131fc3a8"/>
+			<rom name="wsjrU1a.bin" size="65536" crc="1e10eb58" sha1="80cd169ef1959852f5b1ec3b2e2f995d588cf1df"/>
+			<rom name="wsjrU2a.bin" size="65536" crc="2a9225a7" sha1="644428b2000ce281bc0247dda927635592849717"/>
+		</game>
+		<game name="[LaserDisc] Who Shot Johnny Rock (1.6 rev B) (1991)(ALG)">
+			<rom name="Who Shot Johnny Rock (1.6 rev B) (1991)(ALG).txt" size="310" crc="f0059d94" sha1="d7c7b983c91ef9796b2edfa007ac2817f5a6e0f3"/>
+			<rom name="wsjrU1b.bin" size="131072" crc="c6634148" sha1="5c99ca647b421383df6e3391ac685b354a1a5539"/>
+			<rom name="wsjrU2b.bin" size="131072" crc="0848dc29" sha1="9b70ac17705f06d38c8285bb7edead7d2b286fd2"/>
+		</game>
+		<game name="[Older EMUs] MAME 0.34b3 - Road Blasters (198703)(Atari)">
+			<rom name="048-1139.rom" size="65536" crc="b36194c1" sha1="d3efb0aae50ed10bf60a8efe09efcd009693fb4d"/>
+			<rom name="048-1140.rom" size="65536" crc="2b02a5d1" sha1="5f7a8c58aee24f26cb382f15456fce8f70016e74"/>
+			<rom name="048-1155.rom" size="65536" crc="1e7df9ee" sha1="82bee8b0b2af7428506376096b4700bdd595eadf"/>
+		</game>
+		<game name="[Readme] [LaserDisc] various">
+			<rom name="[Hack] Dragon&apos;s Lair (Enanced 2.1) (20050101)(Dave Hallock - Jeff Kulczucki).txt" size="21024" crc="a68f0d21" sha1="ee127299f24df1a6519a0fd02e6efeed998d52fd"/>
+			<rom name="Astron Belt (1983)(Sega - Bally - Midway).txt" size="488" crc="50bc2c4a" sha1="39998947f756fc3174cf727d9798c659ecf1aebe"/>
+			<rom name="Astron Belt (Pioneer) (1983)(Sega - Bally - Midway).txt" size="862" crc="77d4a249" sha1="646c33a6d2d571c0153e9a907dce37daddb59f5e"/>
+			<rom name="Badlands (1984)(Konami - Century).txt" size="302" crc="d8ca8d41" sha1="226260d5047b913957d40266917bf0fdffda499c"/>
+			<rom name="Bega&apos;s Battle (1983)(Data East).txt" size="2038" crc="21546c1c" sha1="f30581cee6eccce75c09ac6500c277dfed318aaa"/>
+			<rom name="Bega&apos;s Battle (Revision 3) (1983)(Data East)1.txt" size="213" crc="82f23386" sha1="e1469c414bf6d9ca14cb78b0c7bb474b9b4f1d0f"/>
+			<rom name="Bega&apos;s Battle (Revision 3) (1983)(Data East)2.txt" size="2073" crc="08cb2a5f" sha1="4afec62318cee94938950449ccda23b0f6a1d88d"/>
+			<rom name="Cliff Hanger (1983)(Stern)1.txt" size="98" crc="aab4fab2" sha1="dcaa3d35555f65d17d18031f1918e18b6ce9fc52"/>
+			<rom name="Cliff Hanger (1983)(Stern)2.txt" size="338" crc="4f7c893b" sha1="97e608e8166c342a0ceea19a9dc49718838a5bcc"/>
+			<rom name="Cliff Hanger (1983)(Stern)3.txt" size="5386" crc="3bc5dbe2" sha1="6e8bc59183abea148af61c0b637356c8fb21786d"/>
+			<rom name="Cops (1994)(Atari).txt" size="101" crc="f339b37a" sha1="96030e106b0f4ef02c79db8ec3071076344bc561"/>
+			<rom name="Crime Patrol (1993)(ALG)1.txt" size="268" crc="f20e29a2" sha1="35fd6500fb27cf7d3746e53fc15e2301d4364354"/>
+			<rom name="Crime Patrol (1993)(ALG)2.txt" size="72" crc="b0b8e143" sha1="2b4d7813a2071ecb1835322d0a1ded9757e24d9d"/>
+			<rom name="Crime Patrol 2 - Drug Wars (1.10) (1993)(ALG)1.txt" size="282" crc="b8da6c1b" sha1="a8f763d3c9493052b5a56062988bd590d6b24b7f"/>
+			<rom name="Crime Patrol 2 - Drug Wars (1.10) (1993)(ALG)2.txt" size="74" crc="ac7b5160" sha1="a29a22852dbd919758ac13a9e87cc0dee51542f7"/>
+			<rom name="Crime Patrol 2 - Drug Wars (1.30) (1993)(ALG).txt" size="302" crc="fbc002dc" sha1="73f6cdcb3cab20372ca59890027ed2c18e9dc134"/>
+			<rom name="Dragon&apos;s Lair (beta 2) (1983)(Cinematronics).txt" size="275" crc="e7666ba2" sha1="414613ac66999a22486f065c586ec92ffd86f27b"/>
+			<rom name="Dragon&apos;s Lair (Europe alt) (1983)(Cinematronics).txt" size="487" crc="86442a24" sha1="611623b0f1962cc563d32ed6b754a34bcb86e5d2"/>
+			<rom name="Dragon&apos;s Lair (Europe) (1983)(Atari).txt" size="418" crc="fd42c795" sha1="5cbd2c0d96a80d801b9c0a05045740096ae2727f"/>
+			<rom name="Dragon&apos;s Lair (Italian) (1983)(Sidam).txt" size="413" crc="39d4ba1a" sha1="af8e8f2e3bda1ad90984bfee596e535a5b6f1d98"/>
+			<rom name="Dragon&apos;s Lair (Pioneer LD-V1000) (1983)(Cinematronics).txt" size="600" crc="3b08c53a" sha1="c76996e8c0487e64c27c051378ae727836179dbd"/>
+			<rom name="Dragon&apos;s Lair (rev C) (1983)(Cinematronics).txt" size="335" crc="24563894" sha1="ec2968d55634c918fba40e2695f281e4abd81cd3"/>
+			<rom name="Dragon&apos;s Lair II (3.16) (1991)(Leland).txt" size="56" crc="3388fafb" sha1="d30bde7d47d0f8ebcf26532a1dff935ceced93d1"/>
+			<rom name="Dragon&apos;s Lair II (3.19) (1991)(Leland).txt" size="170" crc="a3d8f7e0" sha1="cfe36d1707b7fdae1c6829db7a200adeb844e0e8"/>
+			<rom name="Dragon&apos;s Lair II (Spanish) (1991)(Leland).txt" size="176" crc="f739d156" sha1="eeef7575881c0eb5f9ef7768e91d32118f7c4751"/>
+			<rom name="Esh&apos;s Aurunmilla (set 1) (1983)(Funai-Gakken).txt" size="573" crc="c416c534" sha1="e10aa6cb25bf2773157ef1f81ee6d3ea01df8671"/>
+			<rom name="Esh&apos;s Aurunmilla (set 2) (1983)(Funai-Gakken).txt" size="675" crc="b3a0906e" sha1="328c19f15f38f75b4921532fb5c93f6fc1abfb67"/>
+			<rom name="Esh&apos;s Aurunmilla (set 3) (1983)(Funai-Gakken).txt" size="686" crc="b078a3c5" sha1="36a759c49b8817a1de9d0e8c10c6022670d1a869"/>
+			<rom name="Fast Draw Showdown (1.31) (1995)(ALG).txt" size="135" crc="cf6020ad" sha1="8f85cfb085fc3ecf2d0ed2690a5315aa1c558d16"/>
+			<rom name="Firefox (set 1) (1984)(Atari).txt" size="494" crc="0f13f67e" sha1="5a1cd670d2d3023e6b28d2f4b5f00d67403241c7"/>
+			<rom name="Firefox (set 2) (1984)(Atari).txt" size="565" crc="19e1d87d" sha1="88e23c3ff989762e9bab1da5a4d03bad45ae5090"/>
+			<rom name="Galaxy Ranger (1983)(Sega).txt" size="478" crc="4533b84a" sha1="b2902e6ed23607d2af98210bf643a4aee48d5d01"/>
+			<rom name="Galaxy Ranger (Hitachi) (1984)(Sega - Bally - Midway).txt" size="549" crc="d2dd91ce" sha1="0166e4a250250769d37a27757015d2d63fc27777"/>
+			<rom name="Galaxy Ranger (Pioneer) (1984)(Sega - Bally - Midway).txt" size="144" crc="a6503d70" sha1="cb93ba27e0ae774292d77197e4f50453f7d8445f"/>
+			<rom name="Gallagher&apos;s Gallery (1992)(ALG).txt" size="274" crc="ecc43124" sha1="50408bd962aa191abe97036630e62d1f76334cf4"/>
+			<rom name="Gallagher&apos;s Gallery v2.2 (1992)(ALG).txt" size="80" crc="76a0c2b1" sha1="d2e5dd83c4d1b578e22854463ceb0772091dcb62"/>
+			<rom name="Last Bounty Hunter (1994)(ALG).txt" size="258" crc="36cd3ae4" sha1="d269d5a89a14c2013bd2fbd67460153929cec20b"/>
+			<rom name="Mad Dog II - The Lost Gold (1.00) (1992)(ALG).txt" size="393" crc="6de1d107" sha1="ca01e95b9795b06cb899403aac893d8d5fc63e7f"/>
+			<rom name="Mad Dog II - The Lost Gold (2.02) (1992)(ALG)1.txt" size="393" crc="237f6c70" sha1="b9d502aa489dfe361f892ab23f7e79e426a320f2"/>
+			<rom name="Mad Dog II - The Lost Gold (2.02) (1992)(ALG)2.txt" size="257" crc="6a011cc2" sha1="a8e80c327632754c9fe2cf83e5ac507e6ac0a4c6"/>
+			<rom name="Mad Dog II - The Lost Gold (2.04) (1992)(ALG).txt" size="425" crc="b0adb0b7" sha1="a473ce8e78ddd72fb2dc3cd8269921f71f6eb59a"/>
+			<rom name="Mad Dog McCree (1c) (1990)(ALG)1.txt" size="268" crc="695d2ebd" sha1="65f7faf88abeb42c5649e881cb018158be923afc"/>
+			<rom name="Mad Dog McCree (1c) (1990)(ALG)2.txt" size="246" crc="5198933c" sha1="555d19026e14cc0de871d537e838b5f353ecf5b0"/>
+			<rom name="NFL Football (1983)(Bally - Midway).txt" size="431" crc="9b8abed1" sha1="f2971ed87c4d3246d7a25301de33df73b5de0ede"/>
+			<rom name="Platoon (V4).txt" size="288" crc="d7502dbd" sha1="82c5d0d460b1efa6cce41c070cb9491dd77d0fd2"/>
+			<rom name="Quarter Horse (Pioneer PR-8210) (1983)(Electro-Sport).txt" size="2813" crc="7a767d31" sha1="386d95787ccf3473555d1ef96a19621185b63bb6"/>
+			<rom name="Road Blaster (1985)(Data East).txt" size="2212" crc="e00fbb2d" sha1="0d5cf1878a440d4753cd67fa29c5b422d296f5f5"/>
+			<rom name="Space Ace (1983)(Sidam).txt" size="294" crc="3b82b5a4" sha1="248cd3fa90ecf2aeca53b0475d71395f2780ef92"/>
+			<rom name="Space Ace (Europe) (1983)(Atari).txt" size="69" crc="f23c0fa8" sha1="da78f20ce469ae97863bea152194a345b0142e2d"/>
+			<rom name="Space Ace (rev A3) (1983)(Sidam).txt" size="1469" crc="6a8ab3e6" sha1="3addf97d3cbfbfea9899c30e7664227ae9bdeb23"/>
+			<rom name="Space Pirates (1992)(ALG).txt" size="284" crc="e9e9d927" sha1="90a898fd831546766342ca176cac3f54e6b331de"/>
+			<rom name="Space Pirates v2.2 (1992)(ALG).txt" size="34" crc="cfa89b2f" sha1="7b452c7ee0bda79fe19e57608df5021bdcdc8e00"/>
+			<rom name="Star Blazer (Pioneer LDV1000) (1983)(Sega).txt" size="220" crc="e21679fe" sha1="0eeefabb0e4edb60c949a075b5effc1736cd1222"/>
+			<rom name="Star Blazer (Pioneer) (1984)(Sega - Bally - Midway).txt" size="291" crc="d16ebb91" sha1="55a1991b05406da593e52a71e93ef6d88dfd7347"/>
+			<rom name="Super Don Quix-ote (Long Scenes) (1984)(Universal).txt" size="655" crc="19a6bd7b" sha1="4979f7eb761d6d8902272eab6732ef1e2dabe9f2"/>
+			<rom name="Super Don Quix-ote (long) (1984)(Universal).txt" size="445" crc="f53b92b2" sha1="e330842198155c623f5876733feacb365d862888"/>
+			<rom name="Super Don Quix-ote (Short Scenes) (1984)(Universal)1.txt" size="339" crc="00f13170" sha1="0edee5e00253f335635f1ac2a8b2ed65aae1b443"/>
+			<rom name="Super Don Quix-ote (Short Scenes) (1984)(Universal)2.txt" size="309" crc="a236623f" sha1="1a02b819157d95c772f0f997dae1518f07eddacb"/>
+			<rom name="Super Don Quix-ote (short) (1984)(Universal)1.txt" size="210" crc="cea175c7" sha1="5e83dde664887fb668206c4462031caa64571131"/>
+			<rom name="Super Don Quix-ote (short) (1984)(Universal)2.txt" size="314" crc="7a97fa3e" sha1="0085eecb5ac9f7d6f5ab82311d27869ba09f3921"/>
+			<rom name="Thayer&apos;s Quest (1984)(RDI Video System).txt" size="308" crc="b45f8175" sha1="098d567717f9730f2f6eaa5fa95cea715cab1bfc"/>
+			<rom name="Thayer&apos;s Quest (mod) (1984)(RDI Video System).txt" size="607" crc="6534cdf8" sha1="80f569ddd200c900321847f1ae1dce281697a16f"/>
+			<rom name="Time Traveler (1991)(Virtual Image Productions (Sega license)).txt" size="166" crc="6645b4cb" sha1="1745951932c455ce80e0077195b05f2c2d05275f"/>
+			<rom name="Us vs. Them (1984)(Mylstar - Gottlieb).txt" size="366" crc="bed72324" sha1="591da6990634a11436d1e6ad1338b815d05ca1ea"/>
+			<rom name="Who Shot Johnny Rock (1.5) (1991)(ALG).txt" size="338" crc="3465a768" sha1="656c0c455618877734700002a17835009839064d"/>
+			<rom name="Who Shot Johnny Rock (1.6) (1991)(ALG).txt" size="256" crc="70ca2cab" sha1="df9cb6c7d374f6df05d59e9e30608d777360637f"/>
+			<rom name="Zorton Brothers - Los Justicieros (1993)(Web Picmatic).txt" size="600" crc="a6f45d7a" sha1="2447436d90641f9978cee43882e0a2f60d47418c"/>
+		</game>
+		<game name="[Readme] Casino Strip I (Poker version, for Pioneer LD, set 1) (1984)(Status)">
+			<rom name="Casino Strip I (Poker version, for Pioneer LD, set 1) (1984)(Status).txt" size="368" crc="9788a769" sha1="4dff15074352cb12a6d460b89d74018b5b60b1a5"/>
+			<rom name="disc.jpg" size="65131" crc="0236231e" sha1="6dc04b57c9a6a44cec82f559b86b66dac5259f62"/>
+			<rom name="main PCB component side1.jpg" size="1434464" crc="a56ad66b" sha1="46c0f2f45634e111b49733b85c8ba8d2279e57b0"/>
+			<rom name="main PCB component side2.jpg" size="153821" crc="a009a062" sha1="f4002cc69ed8cd56e2b68168d4e200c4ba9e20a0"/>
+			<rom name="video PCB component side.jpg" size="62717" crc="e0baa742" sha1="0f95a84a277a601a5ce93f41582f41a8362dd21f"/>
+		</game>
+		<game name="[Readme] Casino Strip II (Poker version, for Sony LD) (1988)(Status)">
+			<rom name="Casino Strip II (Poker version, for Sony LD) (1988)(Status).txt" size="393" crc="7ee2098e" sha1="1bbed10f22502b8b50f5640093aefe23171f6c99"/>
+		</game>
+		<game name="[Readme] Casino Strip III (Poker version, for Sony LD) (1992)(Quantum)">
+			<rom name="Casino Strip III (Poker version, for Sony LD) (1992)(Quantum).txt" size="387" crc="a8f70026" sha1="efc370409918bd0b162f93f399e80e55e07e6678"/>
+		</game>
+		<game name="[Readme] Casino Strip IX (Poker version, for Sony LD) (1992)(Quantum)">
+			<rom name="Casino Strip IX (Poker version, for Sony LD) (1992)(Quantum).txt" size="391" crc="2f6578ad" sha1="d35c6c3a2a3445f3cffb68a92432c2e68af109b9"/>
+			<rom name="disc.jpg" size="55564" crc="bf165167" sha1="efbb9b54c73ef9a2d07c0fed9ca498a67665cc81"/>
+		</game>
+		<game name="[Readme] Casino Strip Private Eyes - All Start (Poker version, for Sony LD) (1996)(Quantum)">
+			<rom name="Casino Strip Private Eyes - All Start (Poker version, for Sony LD) (1996)(Quantum).txt" size="391" crc="0493e68a" sha1="2fd36d1bc806ffc4b0d1ff135cc44b26105fa904"/>
+		</game>
+		<game name="[Readme] Casino Strip V (Shooting Game version, for Pioneer LD) (1985)(Status)">
+			<rom name="Casino Strip V (Shooting Game version, for Pioneer LD) (1985)(Status).txt" size="388" crc="1acd620d" sha1="32934734c4070803767665338129cf55d58bc011"/>
+		</game>
+		<game name="[Readme] Casino Strip VI (Poker version, for Sony LD) (1985)(Status)">
+			<rom name="instruction.jpg" size="218844" crc="4eec134c" sha1="1426d3981f241d91f6d2acccfb09356fc93ddcf4"/>
+		</game>
+		<game name="[Readme] Casino Strip VI (Shooting Game version, for Pioneer LD) (1985)(Status)">
+			<rom name="Casino Strip VI (Shooting Game version, for Pioneer LD) (1985)(Status).txt" size="394" crc="20c6c05d" sha1="4a23cd8491ef76a1334aad0eec3d178e0a268988"/>
+			<rom name="disc.jpg" size="63770" crc="d0e9310d" sha1="ba0c63fe292c0e4e688e21634b2102958a1b64bb"/>
+		</game>
+		<game name="[Readme] Casino Strip VIII (Poker version, for Sony LD) (1988)(Status)">
+			<rom name="Casino Strip VIII (Poker version, for Sony LD) (1988)(Status).txt" size="397" crc="fdb02eba" sha1="6b0ccc6fdfb99f29cc73773b4bb807513f0f43a7"/>
+			<rom name="disc.jpg" size="59021" crc="076b0652" sha1="8f62cabed1f5538ae8db315b125539e9f10f8df6"/>
+		</game>
+		<game name="[Readme] Casino Strip VIII (Shooting Game version, for Pioneer LD) (1988)(Status)">
+			<rom name="Casino Strip VIII (Shooting Game version, for Pioneer LD) (1988)(Status).txt" size="392" crc="c8bfa3cd" sha1="f9ade9e97f94805f86da22fecadc56b73b4b23b4"/>
+		</game>
+		<game name="[Readme] Casino Strip Vivid 1 (Poker version, for Sony LD) (1993)(Quantum)">
+			<rom name="Casino Strip Vivid 1 (Poker version, for Sony LD) (1993)(Quantum).txt" size="374" crc="1807b17d" sha1="6c883f06d1a61166af18df6f90e774d1bb74b9de"/>
+		</game>
+		<game name="[Readme] Casino Strip X (Poker version, for Sony LD) (1986)(Status)">
+			<rom name="instruction.jpg" size="218844" crc="4eec134c" sha1="1426d3981f241d91f6d2acccfb09356fc93ddcf4"/>
+		</game>
+		<game name="[Readme] Casino Strip X (Poker, Sony player) (1986)(Status)">
+			<rom name="disc side1.jpg" size="176548" crc="08938465" sha1="0ecb5bf1f7141a9eee6248caa96a75d5eace3fe6"/>
+			<rom name="disc side2.jpg" size="241203" crc="8717aee9" sha1="f088fa397328565c06a3c3719354104d5ef88cd9"/>
+			<rom name="EPROMs.jpg" size="297015" crc="ede48e16" sha1="ddbe7df262d60e98c51e53e6bbbe57eb80c70f4f"/>
+		</game>
+		<game name="[Readme] Casino Strip XI (Poker version, for Sony LD, set 1) (1988)(Status)">
+			<rom name="Casino Strip XI (Poker version, for Sony LD, set 1) (1988)(Status)1.txt" size="392" crc="5f80a5fb" sha1="88448f499aae5be68f763c3502fe55e8db4ea4f7"/>
+			<rom name="Casino Strip XI (Poker version, for Sony LD, set 1) (1988)(Status)2.txt" size="414" crc="d206226a" sha1="6ef474446dbb60a430606c61a623b2ebc938591e"/>
+			<rom name="disc.jpg" size="182826" crc="cd8b9f74" sha1="10f77336f9322719be59fc3170a2ae48f17f88fa"/>
+		</game>
+		<game name="[Readme] Casino Strip XI (Poker version, for Sony LD, set 2) (1988)(Status)">
+			<rom name="Casino Strip XI (Poker version, for Sony LD, set 2) (1988)(Status).txt" size="396" crc="e2d3b281" sha1="feadde997d3e08e94a288a9f0099b73407661871"/>
+		</game>
+		<game name="[Readme] Casino Strip XI (Shooting Game version, for Pioneer LD) (1988)(Status)">
+			<rom name="Casino Strip XI (Shooting Game version, for Pioneer LD) (1988)(Status).txt" size="386" crc="affd5ad0" sha1="924e26fc5fee3094f6107f80fd84b9e9ce47b122"/>
+		</game>
+		<game name="[Readme] Casino Strip XII (Poker version, for Sony LD) (1988)(Status)">
+			<rom name="instruction.jpg" size="218844" crc="4eec134c" sha1="1426d3981f241d91f6d2acccfb09356fc93ddcf4"/>
+		</game>
+		<game name="[Readme] Cobra Command (Data East LD, set 1) (Bega&apos;s Battle hardware) (1984)(Data East)">
+			<rom name="Cobra Command (Data East LD, set 1) (Bega&apos;s Battle hardware) (1984)(Data East).txt" size="1143" crc="71ebfac1" sha1="3093986cdf8f5cb2b99c8f198c50654810339afd"/>
+			<rom name="manual.pdf" size="973682" crc="9775a967" sha1="86e0820a335317bc281c2c19c0ed05ea9541f810"/>
+		</game>
+		<game name="[Readme] Cobra Command (Data East LD, set 2) (Cliff Hanger hardware) (1984)(Data East)">
+			<rom name="Cobra Command (Data East LD, set 2) (Cliff Hanger hardware) (1984)(Data East)1.txt" size="1862" crc="54b72b04" sha1="7b1c9642bcfb40274631d2a0d27ef0e5926554c2"/>
+			<rom name="Cobra Command (Data East LD, set 2) (Cliff Hanger hardware) (1984)(Data East)2.txt" size="1439" crc="27977632" sha1="e5baec7f9e32a9e2862dabbe0e02aba633ab9db2"/>
+			<rom name="lp4-2-pal10l8.d6.1.jed" size="554" crc="4bc65ab0" sha1="a33bbac1b3a78de9d4150ac9d383644116c49ec7"/>
+			<rom name="lp4-2-pal10l8.d6.2.jed" size="585" crc="309b3ce5" sha1="04f185911d33730004c7cd44a693dd1b69b82032"/>
+			<rom name="manual.pdf" size="1191818" crc="be9dc930" sha1="5d8019483c01bca037e9a9b10208c9758787f712"/>
+			<rom name="PCB component side detail1.jpg" size="2139143" crc="5af8f6d6" sha1="601ba3b4a91ef2979465ed5fab322d614a43090b"/>
+			<rom name="PCB component side detail2.jpg" size="2302401" crc="ae254547" sha1="8cb994f1d31825a080e7c18fb0e3c49724d9bbc1"/>
+			<rom name="PCB component side detail3.jpg" size="2200121" crc="68086a04" sha1="57d451374bae166dac1e08d6b7af08b892296398"/>
+			<rom name="PCB component side detail4.jpg" size="2181281" crc="3b7eaed1" sha1="55e88d3ba189eaa59425281ad82ef52cf2b301c4"/>
+			<rom name="PCB component side detail5.jpg" size="2197833" crc="0d22b94e" sha1="d3db7f8cfb6aad69849cf38cfe72678c494eba62"/>
+			<rom name="PCB component side detail6.jpg" size="2661333" crc="e01eb545" sha1="3631ce2e4640dba7c6baea88148a7d4e6c7083f5"/>
+			<rom name="PCB component side detail7.jpg" size="2580534" crc="8bbfe8d0" sha1="59b3882a649487f274231231eb6a275a610de2b8"/>
+			<rom name="PCB component side.jpg" size="2422265" crc="e03621f8" sha1="deabf6e9da8542ada049031dedb289dff458e757"/>
+		</game>
+		<game name="[Readme] Cobra Command (Data East LD, set 2) (Dragon&apos;s Lair hardware) (1984)(Data East)">
+			<rom name="Cobra Command (Data East LD, set 2) (Dragon&apos;s Lair hardware) (1984)(Data East)1.txt" size="1862" crc="54b72b04" sha1="7b1c9642bcfb40274631d2a0d27ef0e5926554c2"/>
+			<rom name="Cobra Command (Data East LD, set 2) (Dragon&apos;s Lair hardware) (1984)(Data East)2.txt" size="1439" crc="27977632" sha1="e5baec7f9e32a9e2862dabbe0e02aba633ab9db2"/>
+			<rom name="lp4-2-pal10l8.d6.1.jed" size="554" crc="4bc65ab0" sha1="a33bbac1b3a78de9d4150ac9d383644116c49ec7"/>
+			<rom name="lp4-2-pal10l8.d6.2.jed" size="585" crc="309b3ce5" sha1="04f185911d33730004c7cd44a693dd1b69b82032"/>
+			<rom name="manual.pdf" size="2698329" crc="d5c239f8" sha1="581dd371ba07d135ce52bd9d9c2ab497d8f0b85b"/>
+			<rom name="PCB component side detail1.jpg" size="2139143" crc="5af8f6d6" sha1="601ba3b4a91ef2979465ed5fab322d614a43090b"/>
+			<rom name="PCB component side detail2.jpg" size="2302401" crc="ae254547" sha1="8cb994f1d31825a080e7c18fb0e3c49724d9bbc1"/>
+			<rom name="PCB component side detail3.jpg" size="2200121" crc="68086a04" sha1="57d451374bae166dac1e08d6b7af08b892296398"/>
+			<rom name="PCB component side detail4.jpg" size="2181281" crc="3b7eaed1" sha1="55e88d3ba189eaa59425281ad82ef52cf2b301c4"/>
+			<rom name="PCB component side detail5.jpg" size="2197833" crc="0d22b94e" sha1="d3db7f8cfb6aad69849cf38cfe72678c494eba62"/>
+			<rom name="PCB component side detail6.jpg" size="2661333" crc="e01eb545" sha1="3631ce2e4640dba7c6baea88148a7d4e6c7083f5"/>
+			<rom name="PCB component side detail7.jpg" size="2580534" crc="8bbfe8d0" sha1="59b3882a649487f274231231eb6a275a610de2b8"/>
+			<rom name="PCB component side.jpg" size="2422265" crc="e03621f8" sha1="deabf6e9da8542ada049031dedb289dff458e757"/>
+		</game>
+		<game name="[Readme] Cobra Command (Data East LD, set 2) (Inter Stellar hardware) (1984)(Data East)">
+			<rom name="Cobra Command (Data East LD, set 2) (Inter Stellar hardware) (1984)(Data East)1.txt" size="1862" crc="54b72b04" sha1="7b1c9642bcfb40274631d2a0d27ef0e5926554c2"/>
+			<rom name="Cobra Command (Data East LD, set 2) (Inter Stellar hardware) (1984)(Data East)2.txt" size="1439" crc="27977632" sha1="e5baec7f9e32a9e2862dabbe0e02aba633ab9db2"/>
+			<rom name="lp4-2-pal10l8.d6.1.jed" size="554" crc="4bc65ab0" sha1="a33bbac1b3a78de9d4150ac9d383644116c49ec7"/>
+			<rom name="lp4-2-pal10l8.d6.2.jed" size="585" crc="309b3ce5" sha1="04f185911d33730004c7cd44a693dd1b69b82032"/>
+			<rom name="manual.pdf" size="383727" crc="2051c393" sha1="2e331e90ebc81c305df8b9c1127d13e5a063e5c9"/>
+			<rom name="PCB component side detail1.jpg" size="2139143" crc="5af8f6d6" sha1="601ba3b4a91ef2979465ed5fab322d614a43090b"/>
+			<rom name="PCB component side detail2.jpg" size="2302401" crc="ae254547" sha1="8cb994f1d31825a080e7c18fb0e3c49724d9bbc1"/>
+			<rom name="PCB component side detail3.jpg" size="2200121" crc="68086a04" sha1="57d451374bae166dac1e08d6b7af08b892296398"/>
+			<rom name="PCB component side detail4.jpg" size="2181281" crc="3b7eaed1" sha1="55e88d3ba189eaa59425281ad82ef52cf2b301c4"/>
+			<rom name="PCB component side detail5.jpg" size="2197833" crc="0d22b94e" sha1="d3db7f8cfb6aad69849cf38cfe72678c494eba62"/>
+			<rom name="PCB component side detail6.jpg" size="2661333" crc="e01eb545" sha1="3631ce2e4640dba7c6baea88148a7d4e6c7083f5"/>
+			<rom name="PCB component side detail7.jpg" size="2580534" crc="8bbfe8d0" sha1="59b3882a649487f274231231eb6a275a610de2b8"/>
+			<rom name="PCB component side.jpg" size="2422265" crc="e03621f8" sha1="deabf6e9da8542ada049031dedb289dff458e757"/>
+		</game>
+		<game name="[Readme] Cobra Command (M.A.C.H. 3 hardware, set 1) (1984)(Data East)">
+			<rom name="Cobra Command (M.A.C.H. 3 hardware, set 1) (1984)(Data East)1.txt" size="1445" crc="cc3a0b1b" sha1="edaab9534e7f35305481c02e8e803263768cee0f"/>
+			<rom name="Cobra Command (M.A.C.H. 3 hardware, set 1) (1984)(Data East)2.txt" size="1502" crc="6d8fadb9" sha1="286e0950815fafa76c9a5d6002ca2f0737c0f270"/>
+		</game>
+		<game name="[Readme] Cobra Command (M.A.C.H. 3 hardware, set 2) (1984)(Data East)-1558">
+			<rom name="1558 EPROMs.jpg" size="422883" crc="e71f5094" sha1="ef2c47d2e3f16c6934c74bc18c83e8d5ab0c5570"/>
+		</game>
+		<game name="[Readme] Cobra Command (Sega LaserDisc Hardware) (Astron Belt hardware) (1984)(Data East)">
+			<rom name="Cobra Command (Sega LaserDisc Hardware) (Astron Belt hardware) (1984)(Data East).txt" size="997" crc="9971033c" sha1="23426addee9cac50ab5b29848609d5dba111cdbe"/>
+		</game>
+		<game name="[Readme] Cobra-Command (Italian bootleg) (1988)-835">
+			<rom name="835 disclaimer.jpg" size="150865" crc="37e80859" sha1="e3219b989072ac99604f01b93f6de36133e89078"/>
+			<rom name="835 main PCB component side.jpg" size="2328116" crc="d0a8b4c1" sha1="118e9d05c1fbd2027e8122c0b097b202a9fe1ed6"/>
+			<rom name="835 main PCB solder side.jpg" size="2389670" crc="0850e244" sha1="1fa1eeff64e687e6ec6b93796d0b98a1c6d250fb"/>
+			<rom name="835 ROMs PCB component side.jpg" size="2211272" crc="883df5a4" sha1="e3506a8f797cfd545ab8057f0f405378d52ed557"/>
+			<rom name="835 ROMs PCB solder side.jpg" size="2218138" crc="c28b8691" sha1="f4f302f58b69245db0f04d4dc8c4b3e790e42525"/>
+			<rom name="835 title.jpg" size="146010" crc="7bbdb483" sha1="496e3dd12565532c957e206fedb6b4363a23e956"/>
+		</game>
+		<game name="[Readme] Cobra-Command (Japan, bootleg) (1988)-375">
+			<rom name="375 attract mode.jpg" size="147309" crc="83343815" sha1="8bea922d787e6698eca562d0f941bd031710deca"/>
+			<rom name="375 disclaimer.jpg" size="157720" crc="63e77932" sha1="d99df5b5ac45e3603eca12ca635504e05e8b29dc"/>
+			<rom name="375 game end.jpg" size="156592" crc="58e81422" sha1="bd7ba9be9cd1be46def54c63222f4dba3f07ee80"/>
+			<rom name="375 hiscore.jpg" size="149227" crc="713dfe7f" sha1="fcfe8430e7f47d86bf04ea0eca0979155bd57f83"/>
+			<rom name="375 intro1.jpg" size="152279" crc="65b52ca8" sha1="414db79e0467a8cebf008412cba8e88c78b3b3bb"/>
+			<rom name="375 intro2.jpg" size="152025" crc="87c25fbb" sha1="5addee78a929d33d439a505001910f349c2ef8e7"/>
+			<rom name="375 main PCB1 component side.jpg" size="2342371" crc="81961c8a" sha1="42231f68e3f6e39eade8cc1d3577f67a5487a817"/>
+			<rom name="375 main PCB1 solder side.jpg" size="2360134" crc="a59dcc3b" sha1="6eb8409061e06079a837e010015a4cc660941199"/>
+			<rom name="375 main PCB2 component side.jpg" size="3352735" crc="ed2bafc2" sha1="67c68a095af8fe0ec17b55d5817e424d9da8e1cd"/>
+			<rom name="375 main PCB2 solder side.jpg" size="4128364" crc="a5790f4b" sha1="a225e936274e288d732070b36a7a804a73eee832"/>
+			<rom name="375 ROMs PCB1 component side.jpg" size="2375384" crc="9b85b1e0" sha1="de2d2a1d2ccf882ac54fac249614f3707185b156"/>
+			<rom name="375 ROMs PCB1 solder side.jpg" size="2143126" crc="b4d69139" sha1="a370fd2b57eea4b750e55e7d393705dc4cfb1f3e"/>
+			<rom name="375 ROMs PCB2 component side.jpg" size="3159454" crc="be70d75e" sha1="1f5959144e61193dfb2a4909bfdd2d5105b011cb"/>
+			<rom name="375 ROMs PCB2 solder side.jpg" size="4463874" crc="677d8072" sha1="21fabfd58d17a94e030e999cbd377065ab306485"/>
+			<rom name="375 title.jpg" size="157494" crc="431c3f81" sha1="38d6667d4f80ad143a6510d1c5c1929f785b20fe"/>
+		</game>
+		<game name="[Readme] Cobra-Command (World-US revision 5) (1988)(Data East)">
+			<rom name="Cobra-Command (World-US revision 5) (1998)(Data East).txt" size="716" crc="e9487ed3" sha1="b3e3b2db669a2a3214d63f550a1a5ce86eef3978"/>
+			<rom name="PCB component side detail.jpg" size="75130" crc="6558d4f2" sha1="a9b4a25f698380f02b6c38bd0ad6e78e7c19a71d"/>
+			<rom name="PCB component side.jpg" size="1016660" crc="d9a4b6a7" sha1="354ea0620813634f7cd12ef812d10319ff9b9e9d"/>
+			<rom name="pt-0.16h.jed" size="1217" crc="a6d85300" sha1="7cd85a02ad2959d278872065ca33a79adafb8cc6"/>
+		</game>
+		<game name="[Readme] Cobra-Command (World-US) (1988)(Data East)">
+			<rom name="Cobra-Command (World-US) (1988)(Data East).txt" size="1475" crc="7c1e742d" sha1="e2c0dc85e0a794bcc55a33c4fd5c98a22d2282f9"/>
+			<rom name="PCB component side.jpg" size="4378422" crc="61e6e575" sha1="879c7b703223aa72ddf9905e7cea5e9e9b6cf023"/>
+		</game>
+		<game name="[Readme] Dragon&apos;s Lair (US Beta 1, Pioneer PR-7820) (1983)(Cinematronics)">
+			<rom name="Dragon&apos;s Lair (US Beta 1, Pioneer PR-7820) (1983)(Cinematronics).txt" size="643" crc="16e58940" sha1="9be79a3d01d90ccf75dbc00f63c6c35b703b2e77"/>
+		</game>
+		<game name="[Readme] Dragon&apos;s Lair 2- Time Warp (euro v3.17) (1991)(Leland)-1117">
+			<rom name="1117 readme.txt" size="146" crc="52441b85" sha1="47a72f0a35af5721194a1fc046c4f3528fad74a1"/>
+		</game>
+		<game name="[Readme] Fast Draw Showdown v1.31 (1995)(ALG)">
+			<rom name="Fast Draw Showdown v1.31 (1995)(ALG).txt" size="252" crc="e7d5dac2" sha1="727702261b6618c63de7e5948abc56f45136b1db"/>
+		</game>
+		<game name="[Readme] Galaxy Ranger (1983)(Sega)">
+			<rom name="Galaxy Ranger (1983)(Sega).txt" size="762" crc="0229c12d" sha1="b811cbf0384235999a0ad484543301b2b15758ec"/>
+		</game>
+		<game name="[Readme] GP World (1984)(Sega)">
+			<rom name="GP World (1984)(Sega).txt" size="858" crc="9a4d4227" sha1="54072e9f60da92b66205d61effa809c61776cdd1"/>
+		</game>
+		<game name="[Readme] Inter Stellar Laser Fantasy (1983)(Funai - Gakken)">
+			<rom name="Inter Stellar Laser Fantasy (1983)(Funai - Gakken)1.txt" size="429" crc="b6169cec" sha1="0f7385955fce1ff901b5d3b43b135b16ca7bd7d1"/>
+			<rom name="Inter Stellar Laser Fantasy (1983)(Funai - Gakken)2.txt" size="292" crc="1bba5039" sha1="b7029e01d411bf1f1ab59625d051e08547bfcd78"/>
+		</game>
+		<game name="[Readme] Inter Stellar Zangus (Laser Fantasy vol.2) (1984)(Funai - Gakken)">
+			<rom name="Inter Stellar Zangus (Laser Fantasy vol.2) (1984)(Funai - Gakken).txt" size="723" crc="e70b3c32" sha1="e6d571563986592a4ab79aabb730869d865e7155"/>
+			<rom name="ROM12-B-O2.bin.bad.dump" size="8192" crc="ee9aca58" sha1="a549204f7dc91ec706a3f08a2f87df1960965f72"/>
+		</game>
+		<game name="[Readme] LD Mahjong #4 Shabon-Dama (Japan) (1991)(Nichibutsu)">
+			<rom name="disc+roms+manual.jpg" size="144823" crc="0b6b37b0" sha1="4f3dbe0e7a43994842dabd66a2b4308e605b5e96"/>
+			<rom name="manual.pdf" size="17385142" crc="028dee53" sha1="bdb5a52daa2ef72a4d6642b3fc95d06d0cca27c4"/>
+		</game>
+		<game name="[Readme] LD Quiz dai 4-dan - Kotaetamon Gachi! (Japan) (1992)(Nichibutsu)-1603">
+			<rom name="1603 flyer.jpg" size="35643" crc="a745de6f" sha1="5e706172340eb346e53b3a70b8215b7f1394ced5"/>
+			<rom name="1603 PCB component side1.jpg" size="1643790" crc="433c252f" sha1="0bfd85e99e0e4fa7b970698b5d2343b25999fdf6"/>
+			<rom name="1603 PCB component side2.jpg" size="1825369" crc="0006b70c" sha1="0623fd4cffc66a6bcaf4583e30e0895157e8ef6c"/>
+			<rom name="1603 PCB component side3.jpg" size="4029353" crc="932e1fb1" sha1="1df4d95587ff1e534d1879a259f9c9167231c0c6"/>
+			<rom name="1603 PCB scan.jpg" size="14713724" crc="55f3dfef" sha1="3dc0315603e7f5c93c08b85f11fce7f9dd0b1a06"/>
+			<rom name="1603 PCB solder side.jpg" size="1621687" crc="f3ac1082" sha1="4a1af649b0b95178ccc673acdd3d79cae49a5021"/>
+		</game>
+		<game name="[Readme] LDP-1450 (US, Canada) (1990)(Sony)-1677">
+			<rom name="1677 AC-80 component side.jpg" size="431917" crc="9622d942" sha1="5d71ca650d93b75f2c0ffef2283c0846341d3530"/>
+			<rom name="1677 AC-80 solder side.jpg" size="462763" crc="c80cf023" sha1="ecb8c7fb2d07d0c35c1a155ba4a6a5db55e150ea"/>
+			<rom name="1677 adapter back.jpg" size="660795" crc="ea79a564" sha1="9968266492a708fecbfe0845059514bdcf6a16f8"/>
+			<rom name="1677 adapter front.jpg" size="645864" crc="0b5e843f" sha1="06ea648684e2cf31b80c2574deb937d0d2a41a00"/>
+			<rom name="1677 AU-80 component side.jpg" size="391624" crc="12829d3b" sha1="2720b35af4dcb249e2ed22eb02c74cfd2012fd29"/>
+			<rom name="1677 AU-80 solder side.jpg" size="611321" crc="4323ba9d" sha1="9b75088cc28ef6417c46eaec22055de952478d6f"/>
+			<rom name="1677 case back.jpg" size="1800732" crc="24cacbc0" sha1="0b6eac6d61a5afe3cb44b337d53cd2140bc33ff9"/>
+			<rom name="1677 case front.jpg" size="1204655" crc="1f7b5d7d" sha1="8b26a60941c148d009a5a23d82a05d8de67854ab"/>
+			<rom name="1677 case open on top.jpg" size="2337975" crc="8afa8c2a" sha1="5b856d1899857574c39a0859ebb048844b5042f5"/>
+			<rom name="1677 CB-31 component side.jpg" size="318716" crc="73cf679b" sha1="8295a327a025dce24888488ae53030c375dce74d"/>
+			<rom name="1677 CB-31 solder side.jpg" size="595513" crc="58f09b1b" sha1="fbb1c6b9d1dc68ef913d815fe7d7767b94d3502a"/>
+			<rom name="1677 control panel left.jpg" size="1251329" crc="d48b8b01" sha1="65ccd93ee832f8e7967f6409a0c73828e14d0483"/>
+			<rom name="1677 control panel right.jpg" size="1209519" crc="d1e1d1b1" sha1="c24950e6956ea09998b2b28fdbc092167568485b"/>
+			<rom name="1677 DC-40 component side.jpg" size="651694" crc="9c2282b7" sha1="151c106631b6d163604f6cecb9836b3d2a9b6798"/>
+			<rom name="1677 DC-40 solder side.jpg" size="936991" crc="48dc96e4" sha1="ca2135987b2dd51e0061b4f626ba3e81efeb2264"/>
+			<rom name="1677 DC-41 component side.jpg" size="44625" crc="929b558b" sha1="62c897c54852db28a7a559bfda64b57203078e8d"/>
+			<rom name="1677 DC-41 solder side.jpg" size="23066" crc="e201630c" sha1="639e7e9a01f043b41d28ea21ea5e3ccfc497e690"/>
+			<rom name="1677 DC-42 component side.jpg" size="74875" crc="98304032" sha1="dc87b2453bab55aaf7e5fd9b9abd29418d64897d"/>
+			<rom name="1677 DC-42 solder side.jpg" size="47237" crc="bb78e2ca" sha1="02dfbd0faa26388a4d7bf198f27f5ac09fe4069e"/>
+			<rom name="1677 FP-300 component side.jpg" size="214723" crc="197433e7" sha1="3530aef70c8ec5f1ac2970101baa7b20582fa45c"/>
+			<rom name="1677 FP-300 solder side.jpg" size="281586" crc="e36e8a17" sha1="4e6536ae64c675567e8da5563bc4e6f3ad036158"/>
+			<rom name="1677 LD-35 component side.jpg" size="26398" crc="dfc11f5d" sha1="f2b95cb5df2d1c2c746c599d797296dc554af8ea"/>
+			<rom name="1677 LD-35 solder side.jpg" size="21383" crc="728f4f7d" sha1="8d62ca31ac8322c3f2ab8405aa6c1065a13614c8"/>
+			<rom name="1677 MB-40 assembled with audio PCB and servo PCB.jpg" size="1491430" crc="dab7d217" sha1="4ba8e0d0a5553ee1c80d11d14bdf303731588eed"/>
+			<rom name="1677 MB-40 component side detail1.jpg" size="2137156" crc="87c416a7" sha1="d2a116c348c5cbc47e851956d393f7dc5c0475d2"/>
+			<rom name="1677 MB-40 component side detail2.jpg" size="2177066" crc="50eb02bb" sha1="111212e73d8c553e26c1116459bcbbc5d4317b10"/>
+			<rom name="1677 MB-40 component side detail3.jpg" size="2376249" crc="96e09b69" sha1="2a26edf8dd66d2140c91e583ffeeee61f006b37b"/>
+			<rom name="1677 MB-40 component side detail4.jpg" size="1765884" crc="2a24f5f8" sha1="d14476cd29c6b19193d269d5e119891908c3551d"/>
+			<rom name="1677 MB-40 component side detail5.jpg" size="2177027" crc="dfb0e52d" sha1="c99dae16030032fc29794154939420fb79ad541b"/>
+			<rom name="1677 MB-40 component side detail6.jpg" size="2157497" crc="33d3cb19" sha1="791115665a9f161f3a555e7819d6d2af706aa062"/>
+			<rom name="1677 MB-40 component side1.jpg" size="2830472" crc="f084b1c4" sha1="fb64821f4e015ded867194573f809113d5424b02"/>
+			<rom name="1677 MB-40 component side2.jpg" size="2878104" crc="8463ef26" sha1="c0627475b4fb4eddf85e6c37ba8fc487d6ee0248"/>
+			<rom name="1677 MB-40 component side3.jpg" size="2629317" crc="5b4e2cbc" sha1="65da6dbc90c6f7537a6e2462f314f8bb76efa3b3"/>
+			<rom name="1677 MB-40 solder side1.jpg" size="3882767" crc="eca21cfd" sha1="02658e9cda8719c2358daea33f74dd766e3a7655"/>
+			<rom name="1677 MB-40 solder side2.jpg" size="4081972" crc="761e5013" sha1="319d6896305ea47f84df0ab571f9ae9f55e43c20"/>
+			<rom name="1677 MD-42 component side.jpg" size="361546" crc="75ee2cb3" sha1="e95c73d0cf2d110d9d6653411920f09a4c3b799f"/>
+			<rom name="1677 MD-42 solder side.jpg" size="211674" crc="00a3b0ac" sha1="15e0e777bcd9aead61a0e10183a2a9acce580ed5"/>
+			<rom name="1677 MD-43 component side.jpg" size="78815" crc="f3134515" sha1="67c60fea159a92b3bb0169130c5f8e795c8ce8d9"/>
+			<rom name="1677 MD-43 solder side.jpg" size="220623" crc="cf4f29be" sha1="5867421bc276813084a0f6667efde2a61f41fffa"/>
+			<rom name="1677 MD-44 component side.jpg" size="172532" crc="e090314e" sha1="d9673792f62949635594c60a6012bc2fe9042c40"/>
+			<rom name="1677 MD-44 solder side.jpg" size="2742776" crc="a5c1fe6a" sha1="a69592bfd3e23ab2a4e9aa28c789b227e4c66d55"/>
+			<rom name="1677 open case left.jpg" size="1557531" crc="a2ae67b7" sha1="3e9b246c132b965c4b3fa527eab9185d13267891"/>
+			<rom name="1677 open case main PCB removed.jpg" size="1056280" crc="b38b5872" sha1="a23724aba3edfbb943dd2de0750c02d0b9988546"/>
+			<rom name="1677 open case middle.jpg" size="1459605" crc="577a0835" sha1="0fe85aa075f62bf9d58934516914c0c7d0f9f0b3"/>
+			<rom name="1677 open case right.jpg" size="1720728" crc="a7d7d8f1" sha1="372ea3e1eb03b91e046d74f901e492ffb1eb847e"/>
+			<rom name="1677 open case tray removed.jpg" size="1126905" crc="18d41e8b" sha1="151f639983f99ed491a98433fbd38d6c91aa753b"/>
+			<rom name="1677 open case.jpg" size="964603" crc="8e182079" sha1="9d95153ede7c9866a0668a82a43e644cd11381ef"/>
+			<rom name="1677 PS-250 component side.jpg" size="205628" crc="11cd4fef" sha1="8c53d21ff6ae9409f6134dcdff59c26acda8e0ee"/>
+			<rom name="1677 PS-250 solder side.jpg" size="179994" crc="30a1bec7" sha1="300584541e51447223d8c6843f93f5f6ae8f0939"/>
+			<rom name="1677 PW-90 component side.jpg" size="235876" crc="7dc33490" sha1="03135f58c2eb555f62f59e64077a8cbec152b218"/>
+			<rom name="1677 PW-90 PW-91 solder side.jpg" size="533849" crc="8775291e" sha1="95e8dd0c2adc26b260efb5ae0a7f8ed4fe14793e"/>
+			<rom name="1677 PW-91 component side.jpg" size="667781" crc="2a7b9eb4" sha1="3f4ccb2fb2ae81a3c15a3b5e9730d7fe52c16fcd"/>
+			<rom name="1677 SW-150 component side.jpg" size="61232" crc="8a29f57b" sha1="a38a7a7c021c10ea1b0e612ee024260da4d0354c"/>
+			<rom name="1677 SW-150 solder side.jpg" size="56442" crc="8ece86a5" sha1="a5c20e3d6f9c95de097ff15e7b5a3abb921282a0"/>
+			<rom name="1677 SW-151 component side.jpg" size="168930" crc="4ef29897" sha1="d2deff4691837c5c6f77df5cba752b7fa80d4b67"/>
+			<rom name="1677 SW-151 solder side.jpg" size="208474" crc="16ea2e28" sha1="56c4febe78b1776fc0a39f77110631d3721f705f"/>
+			<rom name="1677 SW-152 component side.jpg" size="63376" crc="899395b7" sha1="933cc52fdc45bbdeab5c847dcead33d668940725"/>
+			<rom name="1677 SW-152 solder side.jpg" size="91516" crc="fbb9ac2f" sha1="57c17595da1505dc9b9fbf6d177767b9cf2ba6c3"/>
+			<rom name="1677 SW-153 component side.jpg" size="66016" crc="9f52eccf" sha1="9ff4c933b023779146c9d648b23a4b6613450d08"/>
+			<rom name="1677 SW-153 solder side.jpg" size="64812" crc="f1bee12f" sha1="ddd55678176bff5969dd523b055fb7e733b45bdb"/>
+			<rom name="1677 VP-21 component side1.jpg" size="1885681" crc="18d31f7f" sha1="2ac1168b5cea49d2a80525c0fbf9ee8e69b606f6"/>
+			<rom name="1677 VP-21 component side2.jpg" size="814782" crc="e7d9cd69" sha1="92896247c26d00d6b3cba709cd61a0c69ddca135"/>
+			<rom name="1677 VP-21 solder side.jpg" size="1359020" crc="17d1aab9" sha1="4680b35b3ed67de4e2000070e9650300555da4d6"/>
+		</game>
+		<game name="[Readme] M.A.C.H. 3 (set 1) (1983)(Mylstar)-1565">
+			<rom name="1565 EPROMs.jpg" size="1145057" crc="afecd1de" sha1="1a090c44a9fe591c986552c148aaf6db92e3285f"/>
+			<rom name="1565 readme.txt" size="1436" crc="18255db2" sha1="0a54c4372cb247a474657c79bfa32b1013fffa58"/>
+		</game>
+		<game name="[Readme] M.A.C.H. 3 (set 2) (1983)(Mylstar)">
+			<rom name="M.A.C.H. 3 (set 2) (1983)(Mylstar).txt" size="452" crc="4cf9e653" sha1="1fcff22cb527d9c2ad1ac56d3d6f4b2734a6fcfa"/>
+		</game>
+		<game name="[Readme] M.A.C.H. 3 (set 3) (1983)(Mylstar)-1566">
+			<rom name="1566 EPROMs.jpg" size="217012" crc="141f9d8e" sha1="957dd3b2d93eee278807e6e95251d56ee068f33c"/>
+		</game>
+		<game name="[Readme] Quarter Horse (set 3, Pioneer LD-V2000) (1983)(Electro-Sport)">
+			<rom name="PCB component side.jpg" size="1677437" crc="00806d83" sha1="2405e8641b8601495f7ed50ffd4eaf0d45c1e9bc"/>
+		</game>
+		<game name="[Readme] Road Blasters (1987)(Atari)">
+			<rom name="PCB component side.jpg" size="4292503" crc="1aefe926" sha1="c6b2de2ac7567e9cd2502787d79ec0f4306e4ec6"/>
+			<rom name="PCB solder side.jpg" size="2963656" crc="88b1dd36" sha1="f4a7a619b37f83c63c43cb48fd75ed3af348ff44"/>
+		</game>
+		<game name="[Readme] Road Blasters (cockpit, German) (1987)(Atari)">
+			<rom name="Road Blasters (cockpit, German) (1987)(Atari).txt" size="18311" crc="132c0eab" sha1="cf149471b35331f4eb7e5adeed14bbfeb4e8cb51"/>
+		</game>
+		<game name="[Readme] Road Blasters (upright, German) (1987)(Atari)">
+			<rom name="Road Blasters (upright, German) (1987)(Atari).txt" size="17370" crc="3705f874" sha1="47d323036014bbf6014878df1bb233897795ddc5"/>
+		</game>
+		<game name="[Readme] Space Ace (DL2 Conversion) (Europe v1.3) (1991)(Elettronolo - Cinematronics (Leland Corporation license))">
+			<rom name="Space Ace (DL2 Conversion) (Europe v1.3) (1991)(Elettronolo - Cinematronics (Leland Corporation license)).txt" size="176" crc="2f03d52d" sha1="b7d44e3952f51ab46d808386df022b59d46918d4"/>
+		</game>
+		<game name="[Readme] Space Ace (Enhancement 1.0) (20020409)(Dave Hallock - Jeff Kulczycki)">
+			<rom name="Space Ace (Enhancement 1.0) (20020409)(Dave Hallock - Jeff Kulczycki).txt" size="16931" crc="ca4e20e6" sha1="beb1d4dcc4414af60880c9a38071ffaa932de46c"/>
+		</game>
+		<game name="[Readme] Time Traveler (set 2) (1991)(Virtual Image Productions (Sega license))">
+			<rom name="Time Traveler (set 2) (1991)(Virtual Image Productions (Sega license)).txt" size="180" crc="055a7da8" sha1="7d7df95e30c75a43a293227e4b1b286561fc2baf"/>
+		</game>
+		<game name="Dragon&apos;s Lair 2 - Time Warp (euro v3.17) [MAME 0.148u5]-1117">
+			<rom name="dl2euro3.17.bin" size="65536" crc="743f65a5" sha1="45199983156c561b8e88c69bef454fd4042579bb"/>
+		</game>
+		<game name="Dragon&apos;s Lair 2 - Time Warp (Spanish v3.15) [MAME 0.147u4]-1076">
+			<rom name="dl2_315pi.u12" size="65536" crc="75d8861a" sha1="56ab31a760f43f98fa40396ee7d7af7ce982d28d"/>
+		</game>
+		<game name="Dragon&apos;s Lair 2 - Time Warp (US v3.12) [MAME 0.147u4]-1075">
+			<rom name="dl2_312.u12" size="65536" crc="c842be6b" sha1="bf548ea3c6e98cd93f79408c3b9f0e1e22cc8bd1"/>
+		</game>
+		<game name="DRAGON&apos;S LAIR ONE! commented and disassembled code from 1st DL prototype #00001">
+			<rom name="Dragon&apos;s Lair One.txt" size="212463" crc="cbd0de14" sha1="bd76bf7819ca057aa82b807de1616922fee7c8e6"/>
+		</game>
+		<game name="M.A.C.H. 3 (set 1) [MAME 0.33b3]-1565">
+			<rom name="GV.109-BG0_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D.H-12" size="4096" crc="ea2f5257" sha1="664502dd2b7ee4ce96820da532615f3902b45557"/>
+			<rom name="GV.109-BG1_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D.H-13" size="4096" crc="f543e4ce" sha1="2a1b7dbbcd9756f836ca2e42973043b98a303082"/>
+			<rom name="GV.109-FG0_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D.T-5" size="8192" crc="0bae12a5" sha1="7bc0b82ccab0e4498a7a2a9dc85f03125f25826e"/>
+			<rom name="GV.109-FG1_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D.T-4" size="8192" crc="9b88767b" sha1="8071e11906b3f0026f9a210cc5a236d95ca1f659"/>
+			<rom name="GV.109-FG2_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D.T-6" size="8192" crc="2a59e99e" sha1="5c1faa244fc0f53cc2a52c8d4d40fb178706c2ed"/>
+			<rom name="GV.109-FG3_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D.T-8" size="8192" crc="472128b4" sha1="8c6f36cab5ec8abb6db2e6d52530560664b950fe"/>
+			<rom name="GV.109-ROM0_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D.E-11" size="8192" crc="70c12bf4" sha1="c26127b6e2a16791b3be8abac93be6af4f30fb3b"/>
+			<rom name="GV.109-ROM1_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D.E-13" size="8192" crc="3b0ba80b" sha1="bc7e961311b40f05f2998f10f0a68f2e515c8e66"/>
+			<rom name="GV.109-ROM2_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D.E-14" size="8192" crc="fbdfb03d" sha1="61d587558fc036fc3b55d3e36ebb6940e9eda258"/>
+			<rom name="GV.109-ROM3_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D.E-15" size="8192" crc="b1b045af" sha1="4e71ca4661bf5daaf9e2ffbb930ac3b13e2e57bd"/>
+			<rom name="GV.109-ROM4_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D.E-16" size="8192" crc="8bfd5a44" sha1="61f5c6c39047c1d0296e2cacce2be9525cb47176"/>
+			<rom name="GV.109Y-ROM1_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D.N-3" size="4096" crc="eddf8872" sha1="29ed0d1828639849bab826b3e2ab4eefac45fd85"/>
+		</game>
+		<game name="M.A.C.H. 3 (set 3) [MAME 0.172]-1566">
+			<rom name="GV.109-BG0_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D" size="4096" crc="ea2f5257" sha1="664502dd2b7ee4ce96820da532615f3902b45557"/>
+			<rom name="GV.109-FG0_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D" size="8192" crc="0bae12a5" sha1="7bc0b82ccab0e4498a7a2a9dc85f03125f25826e"/>
+			<rom name="GV.109-FG1_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D" size="8192" crc="9b88767b" sha1="8071e11906b3f0026f9a210cc5a236d95ca1f659"/>
+			<rom name="GV.109-FG2_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D" size="8192" crc="2a59e99e" sha1="5c1faa244fc0f53cc2a52c8d4d40fb178706c2ed"/>
+			<rom name="GV.109-FG3_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D" size="8192" crc="472128b4" sha1="8c6f36cab5ec8abb6db2e6d52530560664b950fe"/>
+			<rom name="GV.109-ROM0_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D" size="8192" crc="4bfcd992" sha1="7fe0977176ea1b5a54c3f77afb4e7bb46af8ec63"/>
+			<rom name="GV.109Y-ROM1_(c)1983_Mylstar Electronics, Inc._ALL RIGHTS RSV&apos;D.N-3" size="4096" crc="eddf8872" sha1="29ed0d1828639849bab826b3e2ab4eefac45fd85"/>
+		</game>
+	</dir>
+	<dir name="Others">
+		<game name="[BIOS] LaserActive (Japan) (v1.01)">
+			<rom name="[BIOS] LaserActive (Japan) (v1.01).bin" size="131072" crc="24ad336e" sha1="bc746df0c5d2b779ca41a94954b60d6ac6a7c2a3"/>
+		</game>
+		<game name="[BIOS] LaserActive (Japan) (v1.05)">
+			<rom name="[BIOS] LaserActive (Japan) (v1.05).bin" size="131072" crc="1493522c" sha1="f7101b40cae0484a0f43f3bbee2d55033ff1e3ec"/>
+		</game>
+		<game name="American Laser Games MultiROM Firmware V2">
+			<rom name="algmr2_u1.bin" size="1048576" crc="7644a6ef" sha1="8ebf6002d7c2eb6b5e42ea1a87f77c5e2a325a8e"/>
+			<rom name="algmr2_u2.bin" size="1048576" crc="9893df4f" sha1="6eb7dfd7fd894dbb5a4c54f5574511b4ebf47a45"/>
+			<rom name="ReadMe.txt" size="437" crc="48db48aa" sha1="ca40074b22c63e403a4d08c1b1d193bc3b37f948"/>
+		</game>
+		<game name="American Laser Games MultiROM Instructions">
+			<rom name="ALG MultiROM Instructions.pdf" size="101208" crc="a2ea9f29" sha1="7185c0b1eabebac45aa86166e97d4c7b42e67f5a"/>
+		</game>
+		<game name="American Laser Games MultiROM V2.1">
+			<rom name="algmr_V21_u1.bin" size="1048576" crc="47db9228" sha1="723beb4fa06ea8ba45de53e7ee14864af9c6b590"/>
+			<rom name="algmr_V21_u2.bin" size="1048576" crc="62a66919" sha1="f18bde2762a195552719c72b79abeccd0a457397"/>
+			<rom name="ReadMe.txt" size="443" crc="63ff28f1" sha1="bdbd187b2023734bbdb1c4665e21c8ef80469d47"/>
+		</game>
+		<game name="Cliffhanger Overrun Fix V1.0">
+			<rom name="CH-OX_u0.bin" size="8192" crc="d2922294" sha1="da6419a28bf9ef78a5c3e64a0c37436634b54945"/>
+			<rom name="CH-OX_u1.bin" size="8192" crc="ec2c00a9" sha1="f501778e0b3380ccbfeb18c26f48ed206246877c"/>
+			<rom name="CH-OX_u2.bin" size="8192" crc="3423c748" sha1="0991dc7be6d4e04b7819f7acbe283e63073f5ad8"/>
+			<rom name="CH-OX_u3.bin" size="8192" crc="2206df55" sha1="4cdb56de0737a37253f60d6a3440cc1e083223d3"/>
+			<rom name="CH-OX_u4.bin" size="8192" crc="b05438f8" sha1="ff4dd3bd7d1e70929ffd80e2eb4a943346483af0"/>
+		</game>
+		<game name="Cliffhanger Overrun Fix V1.1">
+			<rom name="Cliffhanger Overrun Fix V1.1/Daphne/cliff_u1.bin" size="8192" crc="2db8da4c" sha1="e2b0c86dd77b0d57a2def2e3a109e39b9e5e2574"/>
+			<rom name="Cliffhanger Overrun Fix V1.1/Daphne/cliff_u2.bin" size="8192" crc="657ffa10" sha1="0baaa0bc2f9e7ccef480400bf9ac7ae5f7091b90"/>
+			<rom name="Cliffhanger Overrun Fix V1.1/Daphne/cliff_u3.bin" size="8192" crc="e2da7be3" sha1="9625c056dfe80411826e8f4c13a2160a1d4bd49b"/>
+			<rom name="Cliffhanger Overrun Fix V1.1/Daphne/cliff_u4.bin" size="8192" crc="24945aa5" sha1="9538113e51f37a7550fd517379113554dec2f98f"/>
+			<rom name="Cliffhanger Overrun Fix V1.1/Daphne/cliff_u5.bin" size="8192" crc="b76132c1" sha1="49699d337caf8f9562c44da8161a1e8d7bbfdb4d"/>
+			<rom name="Cliffhanger Overrun Fix V1.1/Daphne/Read Me.txt" size="644" crc="7ab4fadd" sha1="253075216d0e5752a804cb36444b51fa2d7ae1ca"/>
+			<rom name="Cliffhanger Overrun Fix V1.1/Real Hardware/cliff-0X_u0.bin" size="8192" crc="8a3dff2c" sha1="332ea15e166d8b70bb6a2a733b8de5182f35103c"/>
+			<rom name="Cliffhanger Overrun Fix V1.1/Real Hardware/cliff-0X_u1.bin" size="8192" crc="ec2c00a9" sha1="f501778e0b3380ccbfeb18c26f48ed206246877c"/>
+			<rom name="Cliffhanger Overrun Fix V1.1/Real Hardware/cliff-0X_u2.bin" size="8192" crc="3423c748" sha1="0991dc7be6d4e04b7819f7acbe283e63073f5ad8"/>
+			<rom name="Cliffhanger Overrun Fix V1.1/Real Hardware/cliff-0X_u3.bin" size="8192" crc="60a8de46" sha1="c29518f6783ffd932b65968b2839721f8c23d305"/>
+			<rom name="Cliffhanger Overrun Fix V1.1/Real Hardware/cliff-0X_u4.bin" size="8192" crc="b05438f8" sha1="ff4dd3bd7d1e70929ffd80e2eb4a943346483af0"/>
+			<rom name="Cliffhanger Overrun Fix V1.1/Real Hardware/Cliffhanger Overrun fiX - Switch Settings.pdf" size="456945" crc="b63b3e1c" sha1="ec4edd6cddfbf090cd239fee379ae612efd12fb7"/>
+			<rom name="Cliffhanger Overrun Fix V1.1/Real Hardware/Read Me.txt" size="832" crc="fcfd6214" sha1="08a32e265bf95212051f8e74d4de5b31fdfda604"/>
+		</game>
+		<game name="COPS (Atari) (1994) (MAME ROMs)">
+			<rom name="cops_prg.dat" size="32768" crc="a5c02366" sha1="b135d72fcfe737a113c984b0b8dd78428f248414"/>
+			<rom name="cops_sys.dat" size="32768" crc="0060e5d0" sha1="b8c9f6fde6a315e33fa7946e5d3bb4ea2fbe76a8"/>
+			<rom name="copsuk/cops1b_uk.bin" size="32768" crc="f095ee95" sha1="86bb517331d81ae3a8f3b87df67c321013c6aae4"/>
+		</game>
+		<game name="COPS (Atari) (1994) ROMs">
+			<rom name="u17.bin" size="32768" crc="0060e5d0" sha1="b8c9f6fde6a315e33fa7946e5d3bb4ea2fbe76a8"/>
+			<rom name="u39.bin" size="32768" crc="a5c02366" sha1="b135d72fcfe737a113c984b0b8dd78428f248414"/>
+		</game>
+		<game name="cubequest">
+			<rom name="Cube_Quest_read_me.txt" size="2252" crc="d590e107" sha1="362a7eccdf058db690d40b45d2d711f08baab308"/>
+			<rom name="EPROM_BD_2764.1A" size="8192" crc="870a28f5" sha1="6db2020fa10d03bfaf7bd2892ba7266e744567e9"/>
+			<rom name="EPROM_BD_2764.1B" size="8192" crc="0c29b2d2" sha1="1c67dbfaeb6ae1e6ccd870a815bd51ebc520a34c"/>
+			<rom name="EPROM_BD_2764.2A" size="8192" crc="f03a76be" sha1="794a9e5a4fddc16950836468157ea252a82c0771"/>
+			<rom name="EPROM_BD_2764.2B" size="8192" crc="c995b786" sha1="0370e0be81ceea647ea9e27eac22b6c2354e695b"/>
+			<rom name="EPROM_BD_2764.3A" size="8192" crc="dedeabf3" sha1="d06138336bdbd5ebee44188e92e5721ae63715ad"/>
+			<rom name="EPROM_BD_2764.3B" size="8192" crc="7353e970" sha1="9566335868352d3c652621809b812ede309ebded"/>
+			<rom name="EPROM_BD_2764.4A" size="8192" crc="3f8ae830" sha1="13411f7bee31ae13a2e139ad576e48130838c472"/>
+			<rom name="EPROM_BD_2764.4B" size="8192" crc="6d4fc7cf" sha1="8f95e2f9e313413ea6b9bcd1ec5d8c11962584db"/>
+			<rom name="EPROM_BD_2764.5A" size="8192" crc="ea1a92d0" sha1="71a6820c67aad951d05571cd29f52c2cebe78c3c"/>
+			<rom name="EPROM_BD_2764.5B" size="8192" crc="d12ed62f" sha1="3e897ef88f51d6b2010944b50f1b5387801d92ce"/>
+			<rom name="EPROM_BD_2764.6A" size="8192" crc="6d31f22b" sha1="36ecfb1c88be9a100a272564d8ff8df02a501f88"/>
+			<rom name="EPROM_BD_2764.6B" size="8192" crc="2110f613" sha1="e12e3b902e9d755fc55ff67851c905e40482a98f"/>
+			<rom name="EPROM_BD_2764.7A" size="8192" crc="8b624074" sha1="592891b384bdab3f851799e50f51b5f04c880490"/>
+			<rom name="EPROM_BD_2764.7B" size="8192" crc="f31f2e81" sha1="b4ae0726ac849662fb1878094a956aa3a9fe94a2"/>
+			<rom name="EPROM_BD_2764.8A" size="8192" crc="8ac5ab0c" sha1="0cf6593c53184686d7020acd27e2c26aab29137c"/>
+			<rom name="EPROM_BD_2764.8B" size="8192" crc="39804640" sha1="0f09cf6ef73a9199318278df15983a0cc01ece0d"/>
+			<rom name="Fill_Board_82S129.10P" size="256" crc="7ed6c192" sha1="b02bbcd0e04d3a6c54bec755df55fe6f97d9513f"/>
+			<rom name="Fill_Board_82S129.11P" size="256" crc="6b572b73" sha1="4a065cb05c12ce34e5598341e0de0cc571b2d387"/>
+			<rom name="Fill_Board_82S129.12P" size="256" crc="c525b091" sha1="bd172ed3d15f410d09017207ec68faf1d1cb4512"/>
+			<rom name="Fill_Board_82S129.13P" size="256" crc="7ed6c192" sha1="b02bbcd0e04d3a6c54bec755df55fe6f97d9513f"/>
+			<rom name="Fill_Board_82S129.14P" size="256" crc="6b572b73" sha1="4a065cb05c12ce34e5598341e0de0cc571b2d387"/>
+			<rom name="Fill_Board_82S129.2P" size="256" crc="c525b091" sha1="bd172ed3d15f410d09017207ec68faf1d1cb4512"/>
+			<rom name="Fill_Board_82S129.3P" size="256" crc="7ed6c192" sha1="b02bbcd0e04d3a6c54bec755df55fe6f97d9513f"/>
+			<rom name="Fill_Board_82S129.4P" size="256" crc="6b572b73" sha1="4a065cb05c12ce34e5598341e0de0cc571b2d387"/>
+			<rom name="Fill_Board_82S129.5P" size="256" crc="c525b091" sha1="bd172ed3d15f410d09017207ec68faf1d1cb4512"/>
+			<rom name="Fill_Board_82S129.6P" size="256" crc="7ed6c192" sha1="b02bbcd0e04d3a6c54bec755df55fe6f97d9513f"/>
+			<rom name="Fill_Board_82S129.7P" size="256" crc="6b572b73" sha1="4a065cb05c12ce34e5598341e0de0cc571b2d387"/>
+			<rom name="Fill_Board_82S129.9P" size="256" crc="c525b091" sha1="bd172ed3d15f410d09017207ec68faf1d1cb4512"/>
+			<rom name="Line_Drawer_82S129_U27.6B" size="256" crc="a9777c19" sha1="dcb83cc5fce3ff9760dfdfce078895ef71558f67"/>
+			<rom name="Line_Drawer_82S129_U28.3B" size="256" crc="2248790c" sha1="8473276bcc154a440745b714a31c89c459fef411"/>
+			<rom name="Line_Drawer_82S129_U29.3C" size="256" crc="6accc743" sha1="a5263a021c594117c14a3d4fbc207a4043001172"/>
+			<rom name="Line_Drawer_82S129_U30.3F" size="256" crc="ba02ac36" sha1="89473146f04f60bbed6644603ddc646b3d4e04eb"/>
+			<rom name="Line_Drawer_82S129_U31.2J" size="256" crc="bbf50d89" sha1="f49d4322123c3d4a7d6f664b7164dfe24ddd6eed"/>
+			<rom name="Line_Drawer_82S129_U5.3G" size="256" crc="fa5c239b" sha1="bbf526362af263aefea87341538157f4ecad686f"/>
+			<rom name="Line_Drawer_82S129_U6.2G" size="256" crc="59874b50" sha1="d304b4546c187b8c73aaf8887f0037426e60dd5f"/>
+			<rom name="Line_Drawer_82S129_U7.3H" size="256" crc="886956d6" sha1="ee150a9f99f3177fcc94be5af3f87433f39b311f"/>
+			<rom name="Line_Drawer_82S129_U8.3J" size="256" crc="8d2b17ad" sha1="f7408104f75e292539aaec688e220c143f762f67"/>
+			<rom name="Line_Drawer_82S129_U9.3K" size="256" crc="0a678253" sha1="06d7a8f9556eb156ae03184772e76c84ab8d75ea"/>
+			<rom name="Mother_Sounds_82S129.10E" size="256" crc="2aaf765e" sha1="fafe96834f5323fca71b8ab0c013f45c5c47182d"/>
+			<rom name="Mother_Sounds_82S129.10F" size="256" crc="0e8b8df7" sha1="37426ffdaf2d21273ac7e88789206fdafb14bc83"/>
+			<rom name="Mother_Sounds_82S129.11E" size="256" crc="b50d3e43" sha1="9f2c071c6940767d20a563f6f2c9224e1896a5bf"/>
+			<rom name="Mother_Sounds_82S129.11F" size="256" crc="af327360" sha1="2b45358a39daaf5721b5a94c4fd55bd3d0d90ec3"/>
+			<rom name="Mother_Sounds_82S129.7E" size="256" crc="cf89ad06" sha1="2f04ca6d57a8c425f51a288f553841db680f5a7e"/>
+			<rom name="Mother_Sounds_82S129.7F" size="256" crc="5208036d" sha1="ec29af4c10a098fb25424d1a5187a7bd2ec9fb92"/>
+			<rom name="Mother_Sounds_82S129.8E" size="256" crc="68de17ed" sha1="efefcb4ccdd012b767c4765304c6022b0c091066"/>
+			<rom name="Mother_Sounds_82S129.8F" size="256" crc="07deae27" sha1="c6a2d7cbf4ea4120f43ae088a3de90bb7a42d4a4"/>
+			<rom name="Mother_Sounds_82S129.9E" size="256" crc="598687e7" sha1="c5045ddaab7123ff0a4c8f4c2489f9d70b63fc76"/>
+			<rom name="Mother_Sounds_82S129.9F" size="256" crc="cd93e3c9" sha1="f0c11db65ddf2096f6df424b7747242d9e3155da"/>
+			<rom name="Mother_Sounds_82S185.16F" size="2048" crc="75b1749f" sha1="71da8224e72fb5250e2097666a47314d0a818ee9"/>
+			<rom name="Mother_Sounds_82S185.17F" size="2048" crc="0f49d40e" sha1="40340833ab27ccb5b60baf44ad01930f204f5318"/>
+			<rom name="Mother_Sounds_82S185.18F" size="2048" crc="ae4c78ae" sha1="76fdb8eab372065882caaa5b93ce9e21efe54da5"/>
+			<rom name="Mother_Sounds_82S185.19F" size="2048" crc="a041ce92" sha1="9bc92992de22b830e479933c50650c7dc23f5713"/>
+			<rom name="Rotate_Video_Board_82S129.4H" size="256" crc="6ed1b8d3" sha1="c392855e1ff8637e551891aefd6c6a3bbcf273a5"/>
+			<rom name="Rotate_Video_Board_82S129.5H" size="256" crc="32d839d4" sha1="7b82e5c1ea5a351eba60c19560a10e4702ae2c22"/>
+			<rom name="Rotate_Video_Board_82S131.10F" size="512" crc="89b234eb" sha1="23d84873b4a5088130fff960b3caded329ea70b5"/>
+			<rom name="Rotate_Video_Board_82S131.10H" size="512" crc="d86561b2" sha1="ebc5374568d9b598237d98f0fb95b68b36a3ddff"/>
+			<rom name="Rotate_Video_Board_82S131.12C" size="512" crc="fbb881b7" sha1="b8c1592cfa082fa7dc4abd5392816ba923760cbf"/>
+			<rom name="Rotate_Video_Board_82S131.12D" size="512" crc="c60762ec" sha1="d113eb1ce0db4d10a55057332fb17852b312396c"/>
+			<rom name="Rotate_Video_Board_82S131.12E" size="512" crc="605b924c" sha1="899103f20ccec68e432c4abf11f554b0600f8b3c"/>
+			<rom name="Rotate_Video_Board_82S131.12F" size="512" crc="5c00d30e" sha1="ad7bbcce9eff348f78cb6e0782faa175ca928c11"/>
+			<rom name="Rotate_Video_Board_82S131.12H" size="512" crc="6fb1d6f0" sha1="5a0bf681aedde073f0164264620085e9f40eca9e"/>
+			<rom name="Rotate_Video_Board_82S131.12J" size="512" crc="661350ba" sha1="f1ccc31c7ce1d71f6128c575d508aa04a4a5e15f"/>
+			<rom name="Rotate_Video_Board_82S131.12K" size="512" crc="84db792f" sha1="03858d92f4ad5aae39ad1925738df958cc4dd020"/>
+			<rom name="Rotate_Video_Board_82S131.7H" size="512" crc="4e0909e2" sha1="e97dcbd23e0d9eccc138e62334e016b1b333dec3"/>
+			<rom name="Rotate_Video_Board_82S131.8H" size="512" crc="1dd1cc65" sha1="3c83d48f90ba70e81c0d85fb182527afe1f1f68d"/>
+			<rom name="Rotate_Video_Board_82S131.9H" size="512" crc="2bbf0aa1" sha1="1a4ef24a8dc27ac3b01f176aac9b1c1c194bd67b"/>
+			<rom name="VC8010_interface_D8748.bin" size="1024" crc="eed3e728" sha1="1eb3467f1c41553375b2c21952cd593b167f5416"/>
+		</game>
+		<game name="Dragon&apos;s Lair Enhancement ROMs DLE_11_L (optimized for LD-V1000 - rev. C PCB)">
+			<rom name="DLE11U1L.bin" size="8192" crc="9e65b33d" sha1="eac1c8527f00b2badddbdd6691af63ee48a0b1c3"/>
+			<rom name="DLE11U2L.bin" size="8192" crc="f16fa36f" sha1="d1dd5102b1ad28cbfac67acfb70360c68f2b2fde"/>
+			<rom name="DLE11U3L.bin" size="8192" crc="b8d07a16" sha1="d528275ffffd7aed9cae7185e4f6d49467ece2fb"/>
+			<rom name="DLE11U4L.bin" size="8192" crc="20fc79b7" sha1="8e9a951543b3a84007d6f304fefb38a1c39eedf5"/>
+			<rom name="readme11.txt" size="24254" crc="34c954e7" sha1="e8838b4b4442c0b02082c681704870862ebda75c"/>
+		</game>
+		<game name="Dragon&apos;s Lair Enhancement ROMs DLE_11_P (optimized for PR-7820 - rev. A PCB)">
+			<rom name="DLE11U1P.bin" size="8192" crc="55d165e1" sha1="806e1df8455ef94e843424d38c2929c81c888194"/>
+			<rom name="DLE11U2P.bin" size="8192" crc="6aecaf42" sha1="e9118520861052c61250fa6841ba62e8c9cb8be8"/>
+			<rom name="DLE11U3P.bin" size="8192" crc="6229d636" sha1="eb6c74eeca3ca7720109cd1ef80b591c4dfbc4db"/>
+			<rom name="DLE11U4P.bin" size="8192" crc="7f506c2f" sha1="a0a06dc9bb25e58d4e091c536c7b1a6ba06a682a"/>
+			<rom name="readme11.txt" size="24254" crc="34c954e7" sha1="e8838b4b4442c0b02082c681704870862ebda75c"/>
+		</game>
+		<game name="Dragon&apos;s Lair Enhancement ROMs DLE_21">
+			<rom name="DLE21_U1.BIN" size="8192" crc="4f8af481" sha1="92850e88f2ea8f578d1f3072b9d1cbc3b1e8578e"/>
+			<rom name="DLE21_U2.BIN" size="8192" crc="5fca04c5" sha1="52af3ff1e02e7c378a42320aa21e17fa9e89a159"/>
+			<rom name="DLE21_U3.BIN" size="8192" crc="c14f36b3" sha1="38be8da57c4af6a6ce24add4340a62096adbb5b7"/>
+			<rom name="readme21.txt" size="21024" crc="a68f0d21" sha1="ee127299f24df1a6519a0fd02e6efeed998d52fd"/>
+		</game>
+		<game name="firefox">
+			<rom name="136026.101" size="16384" crc="91bba45a" sha1="d584a8f60bbbdbe250978b7aeb3f5e7698f94d60"/>
+			<rom name="136026.102" size="16384" crc="5f1e423d" sha1="c55c27600877272c1ca94eab75c1eb25ff84d36f"/>
+			<rom name="136026.105" size="16384" crc="83f1d4ed" sha1="ed4b22b3473f16cbcca1415f6d81be558ab10ff3"/>
+			<rom name="136026.106" size="16384" crc="c5d8d417" sha1="6a29595b2c091bbcf413c7213c6577eaf9c507d1"/>
+			<rom name="136026.109" size="16384" crc="7639270c" sha1="1b8f53c516d26aecb4478ac99783a37e5b1a107f"/>
+			<rom name="136026.110" size="16384" crc="f3102944" sha1="460f18180b19b6360c99c7e70f86d745f69ba95d"/>
+			<rom name="136026.111" size="16384" crc="8a230bb5" sha1="0cfa1e981e4a8ccaf5903b4e761a2085b5a56181"/>
+			<rom name="136026.113" size="16384" crc="90988b3b" sha1="7571cf6b7e9e3e22f930d9ba991b730e734edfb7"/>
+			<rom name="136026.114" size="16384" crc="1437ce14" sha1="eef14172b3935a4afb3470852f93d30926b139e4"/>
+			<rom name="136026.115" size="16384" crc="861abc82" sha1="1845888d07162ae915364a2a91294731f1c5b3bd"/>
+			<rom name="136026.116" size="16384" crc="d5282d4e" sha1="de5fdf82a615625aa77b39e035b4206216faaf9c"/>
+			<rom name="136026.117" size="16384" crc="79129084" sha1="4219ff7cd444ad11e4cb9f1c30ac15fe0cfc5a17"/>
+			<rom name="136026.118" size="16384" crc="0ed4df15" sha1="7aa599f428112fff4bfedf63fafc22f19fa66546"/>
+			<rom name="136026.119" size="16384" crc="959471b1" sha1="a032209a209f51d34360d5c7ad32ec62150158d2"/>
+			<rom name="136026.120" size="16384" crc="e1b95923" sha1="b6d0c0af0a8f55e728cd0f4c3222745eefd57f50"/>
+			<rom name="136026.121" size="16384" crc="494972d4" sha1="fa0e24e911b233e9644d7794ba03f76bfd39aa8c"/>
+			<rom name="136026.122" size="16384" crc="8e2c6616" sha1="59cbd585028bb634034a9dfd552275bd41f01989"/>
+			<rom name="136026.123" size="16384" crc="dffe48b3" sha1="559907651bb425e26a834b467959b15092d23d27"/>
+			<rom name="136026.124" size="16384" crc="5efe0f6c" sha1="df35fd9267d966ab379c2f78ed418f4606741b28"/>
+			<rom name="136026.125" size="8192" crc="8a32f9f1" sha1="f899174f55cd4a24a3be4a0f4bb44d3e8e938586"/>
+			<rom name="Readme.txt" size="494" crc="0f13f67e" sha1="5a1cd670d2d3023e6b28d2f4b5f00d67403241c7"/>
+		</game>
+		<game name="firefox_alt">
+			<rom name="136026.115" size="16384" crc="861abc82" sha1="1845888d07162ae915364a2a91294731f1c5b3bd"/>
+			<rom name="136026.116" size="16384" crc="d5282d4e" sha1="de5fdf82a615625aa77b39e035b4206216faaf9c"/>
+			<rom name="136026.117" size="16384" crc="79129084" sha1="4219ff7cd444ad11e4cb9f1c30ac15fe0cfc5a17"/>
+			<rom name="136026.118" size="16384" crc="0ed4df15" sha1="7aa599f428112fff4bfedf63fafc22f19fa66546"/>
+			<rom name="136026.119" size="16384" crc="959471b1" sha1="a032209a209f51d34360d5c7ad32ec62150158d2"/>
+			<rom name="136026.120" size="16384" crc="e1b95923" sha1="b6d0c0af0a8f55e728cd0f4c3222745eefd57f50"/>
+			<rom name="136026.121" size="16384" crc="494972d4" sha1="fa0e24e911b233e9644d7794ba03f76bfd39aa8c"/>
+			<rom name="136026.122" size="16384" crc="8e2c6616" sha1="59cbd585028bb634034a9dfd552275bd41f01989"/>
+			<rom name="136026.123" size="16384" crc="dffe48b3" sha1="559907651bb425e26a834b467959b15092d23d27"/>
+			<rom name="136026.124" size="16384" crc="5efe0f6c" sha1="df35fd9267d966ab379c2f78ed418f4606741b28"/>
+			<rom name="136026.125" size="8192" crc="8a32f9f1" sha1="f899174f55cd4a24a3be4a0f4bb44d3e8e938586"/>
+			<rom name="136026.127.bin" size="8192" crc="c0c765ab" sha1="79f6c8c1d00684d7143b2d33a5669bdf5cd01e96"/>
+			<rom name="136026.128.bin" size="8192" crc="5358d870" sha1="e8f2983a7e612e1a050a3c0b9f19b1077de4c146"/>
+			<rom name="136026.201.bin" size="16384" crc="c118547a" sha1="4d3502cbde3116588ed944bf1750bab50e4c813c"/>
+			<rom name="136026.205.bin" size="16384" crc="dc21677f" sha1="576a96c1e07e1362a0a367e76dc369ee8a950144"/>
+			<rom name="136026.209.bin" size="16384" crc="9f559f1b" sha1="142d14cb5158ea77f6fc6d9bf0ce723842f345e2"/>
+			<rom name="136026.210.bin" size="16384" crc="d769b40d" sha1="2d354649a381f3399cb0161267bd1c36a8f2bb4b"/>
+			<rom name="136026.211.bin" size="16384" crc="7293ab03" sha1="73d0d173da295ad59e431bab0a9814a71146cbc2"/>
+			<rom name="136026.214.bin" size="16384" crc="92378b78" sha1="62c7a1fee675fa3f9125f8e208b8207f0ce28bbe"/>
+			<rom name="Info.txt" size="565" crc="19e1d87d" sha1="88e23c3ff989762e9bab1da5a4d03bad45ae5090"/>
+		</game>
+		<game name="freedom_fighter-star_rider_conv">
+			<rom name="FFCPUU08.BIN" size="16384" crc="652b60e2" sha1="b00ec20c96f77230576d9b49ec5e1207a7cc39b1"/>
+			<rom name="FFCPUU52.BIN" size="8192" crc="8ff51efd" sha1="9910965c1ea581febe48b930af6decd148758dbe"/>
+			<rom name="FFPIFU03.BIN" size="16384" crc="7f0350f0" sha1="be7db98111bb4a09ee49976cdc0cc0381ec86958"/>
+			<rom name="FFROMU04.BIN" size="16384" crc="48a89179" sha1="6c5e40806c4d16b32002d1451ad6a49299957238"/>
+			<rom name="FFROMU05.BIN" size="16384" crc="9df6eb3e" sha1="d9c77f0bb349670e2c6c884689074eeee65b00e6"/>
+			<rom name="FFROMU06.BIN" size="16384" crc="d25e094e" sha1="c2857b605b1a2abcf078080bd4792b99422b7c5a"/>
+			<rom name="FFROMU07.BIN" size="16384" crc="777150ec" sha1="67ba8ff1be7711a1d0d2c48a84db92112bd7796a"/>
+			<rom name="FFROMU08.BIN" size="16384" crc="ab54d286" sha1="897256b6709e1a4da9daba92b6bde39ccfccd8c1"/>
+			<rom name="FFROMU09.BIN" size="16384" crc="e5d281bd" sha1="eb7fac98322c1f2eff6e952b4a75f1c3435c512f"/>
+			<rom name="FFROMU10.BIN" size="16384" crc="7140a46c" sha1="ac00902c01b576cededf2fd5e7af27f33e4a21ed"/>
+			<rom name="FFROMU15.BIN" size="16384" crc="6205dca7" sha1="f82a6c1c0d5afd391c8b9b7cfc847478b7fe656d"/>
+			<rom name="FFROMU20.BIN" size="16384" crc="67a50c45" sha1="d45f7bc2f829c9c8a6cf99e52b75302b02d75bbd"/>
+			<rom name="FFROMU21.BIN" size="16384" crc="6de09f5e" sha1="c1cee1f9a8c5f43fb1b7e777fdd7bb188cd21c4a"/>
+			<rom name="FFROMU22.BIN" size="16384" crc="ea325cd0" sha1="2eda4028d212a33589e992643b0005296645887e"/>
+			<rom name="FFROMU23.BIN" size="16384" crc="dd5d14fd" sha1="07bce100d36caf32e2b1f236ca71e4632ea1daed"/>
+			<rom name="FFROMU24.BIN" size="16384" crc="8a5616b9" sha1="872e38a604b265e3d70c1746296b34428a3ae042"/>
+			<rom name="FFROMU25.BIN" size="16384" crc="7e1d057c" sha1="304b8807ee8cd599c8e5e1d643a3ba0890d50630"/>
+			<rom name="FFROMU30.BIN" size="16384" crc="e8c6e0ea" sha1="41117fc5058c11046b092859f994be8dfd31c38f"/>
+			<rom name="FFSNDU08.BIN" size="16384" crc="4de2c0bc" sha1="5403f06e0568df178bcf176d8ce60d0af6267584"/>
+			<rom name="FFSNDU09.BIN" size="16384" crc="78afd704" sha1="aaf1f27ba07eac0c54bba27f4fed290eedcb5580"/>
+			<rom name="FFSNDU10.BIN" size="16384" crc="a332ccac" sha1="279a23df3f4830d095545e566adda7585a3d0d62"/>
+			<rom name="FFSNDU11.BIN" size="16384" crc="c6f541b3" sha1="f181b00ac1272c126b9a2f6e96c62b19d924918c"/>
+			<rom name="FFSRCONV.TXT.txt" size="1515" crc="8ff5d942" sha1="70ab15bc813e20abd9f4203f5a12db4528c5b7c8"/>
+		</game>
+		<game name="freedom_fighter_dedicated">
+			<rom name="ffa-1a.rom" size="32768" crc="3230ba14" sha1="a0ff0f03aac3933f88c64b40e0dce3c51631743c"/>
+			<rom name="ffa-1bc.rom" size="32768" crc="561a3477" sha1="f1d3f3d750fcc631abe324d743e5444a3555ca55"/>
+			<rom name="ffa-1d.rom" size="32768" crc="7a644340" sha1="258ebddadbdbb99ce53b9a1cb98c6ac7a0380828"/>
+			<rom name="ffa-1e.rom" size="32768" crc="b8e4214f" sha1="4c04cc4df5c218a11aa2982188e128aa3440ad62"/>
+			<rom name="ffa-1fg.rom" size="32768" crc="cb38a9bf" sha1="e509ee29c8962b66197ff0babdac3ee35550e215"/>
+			<rom name="ffa-2bc.rom" size="32768" crc="1a06f720" sha1="e45282a6dbd8963c1a918584ee61ee53ba6f347b"/>
+			<rom name="ffa-2d.rom" size="32768" crc="84b0b8f8" sha1="aadc318d5ca5faed415b6486d733f5f17c27b0e9"/>
+			<rom name="ffa-2e.rom" size="32768" crc="d13ca3dd" sha1="3d4a16e142cfaef1f94d87e7fe2fa74c22c86fa4"/>
+			<rom name="ffa-2fg.rom" size="32768" crc="9b484daa" sha1="74ba7ffcdd5a8bbfbe78e1976a08389c50776eea"/>
+			<rom name="ffl-04a-05a.rom" size="32768" crc="e000c311" sha1="583e79a672a11260ab03f6cc991674c35d4eaad9"/>
+			<rom name="ffl-04c-05c.rom" size="32768" crc="f2d78bd5" sha1="b26b829663f6276f5d1ccfd1dcf9a40bba3b3c4a"/>
+			<rom name="ffl-07a.rom" size="32768" crc="d49c12e1" sha1="0c8fa3e4c5e2d1867854d8f2c84624987d497bf3"/>
+			<rom name="ffl-07c.rom" size="32768" crc="0eaefc63" sha1="eda481749c79dda2811d42849babbaea37d2fe92"/>
+			<rom name="ffl-08a.rom" size="32768" crc="b0c89701" sha1="76c6c585830b898e8159fc09f6db3c32b3977f5d"/>
+			<rom name="ffl-08c.rom" size="32768" crc="58ab94d0" sha1="fa7617aff9ed1506910d990e0cc565f46e4eab59"/>
+			<rom name="ffl-09a.rom" size="32768" crc="a4789ef6" sha1="66e426337cf5059f9d83843fc31c7cb774646ee5"/>
+			<rom name="ffl-09c.rom" size="32768" crc="02eb443b" sha1="e13214a9b1ba863c769534a51e21a82d7b289156"/>
+			<rom name="ffl-10a-11a.rom" size="32768" crc="b25d5521" sha1="6301cf502f360c19e1d4afe44e45b7f7017c8653"/>
+			<rom name="ffl-11c-10c.rom" size="32768" crc="7cb69ac5" sha1="0895ab56b40aecfb38b3ef70350a5e09ccb04a85"/>
+			<rom name="READ ME.txt" size="796" crc="e7ee8eb5" sha1="b6ba94346f58a029ee73a3eb4c410214f48d7e6b"/>
+		</game>
+		<game name="freedom_fighter_dedicated_R17">
+			<rom name="FFA41BC.BIN" size="32768" crc="561a3477" sha1="f1d3f3d750fcc631abe324d743e5444a3555ca55"/>
+			<rom name="FFA41D.BIN" size="32768" crc="7a644340" sha1="258ebddadbdbb99ce53b9a1cb98c6ac7a0380828"/>
+			<rom name="FFA41E.BIN" size="32768" crc="b8e4214f" sha1="4c04cc4df5c218a11aa2982188e128aa3440ad62"/>
+			<rom name="FFA41FG.BIN" size="32768" crc="cb38a9bf" sha1="e509ee29c8962b66197ff0babdac3ee35550e215"/>
+			<rom name="FFA42BC.BIN" size="32768" crc="1a06f720" sha1="e45282a6dbd8963c1a918584ee61ee53ba6f347b"/>
+			<rom name="FFA42D.BIN" size="32768" crc="84b0b8f8" sha1="aadc318d5ca5faed415b6486d733f5f17c27b0e9"/>
+			<rom name="FFA42E.BIN" size="32768" crc="d13ca3dd" sha1="3d4a16e142cfaef1f94d87e7fe2fa74c22c86fa4"/>
+			<rom name="FFA42FG.BIN" size="32768" crc="9b484daa" sha1="74ba7ffcdd5a8bbfbe78e1976a08389c50776eea"/>
+			<rom name="FFA61A.BIN" size="32768" crc="3230ba14" sha1="a0ff0f03aac3933f88c64b40e0dce3c51631743c"/>
+			<rom name="FFL1745A.BIN" size="32768" crc="ee1c7e2d" sha1="1d3840b43f0ac8ae7b894e94722a415441846af3"/>
+			<rom name="FFL1745C.BIN" size="32768" crc="162f126c" sha1="fdf6272ae73a8aac2ea83d1987904b2e88241ee6"/>
+			<rom name="FFL2010A.BIN" size="32768" crc="b25d5521" sha1="6301cf502f360c19e1d4afe44e45b7f7017c8653"/>
+			<rom name="FFL2010C.BIN" size="32768" crc="7cb69ac5" sha1="0895ab56b40aecfb38b3ef70350a5e09ccb04a85"/>
+			<rom name="FFL207A.BIN" size="32768" crc="d49c12e1" sha1="0c8fa3e4c5e2d1867854d8f2c84624987d497bf3"/>
+			<rom name="FFL207C.BIN" size="32768" crc="0eaefc63" sha1="eda481749c79dda2811d42849babbaea37d2fe92"/>
+			<rom name="FFL208A.BIN" size="32768" crc="b0c89701" sha1="76c6c585830b898e8159fc09f6db3c32b3977f5d"/>
+			<rom name="FFL208C.BIN" size="32768" crc="58ab94d0" sha1="fa7617aff9ed1506910d990e0cc565f46e4eab59"/>
+			<rom name="FFL209A.BIN" size="32768" crc="a4789ef6" sha1="66e426337cf5059f9d83843fc31c7cb774646ee5"/>
+			<rom name="FFL209C.BIN" size="32768" crc="02eb443b" sha1="e13214a9b1ba863c769534a51e21a82d7b289156"/>
+			<rom name="FFROMSDED.TXT" size="1882" crc="9b9b2928" sha1="8216cacd1c841f60720b11ee52c3ce2bde52163f"/>
+		</game>
+		<game name="Marbella Vice (100hz monitor) (Picmatic)">
+			<rom name="marbella_vice_100hz_even.bin" size="65536" crc="d2b5e5ca" sha1="de76503961076acad405db9e83bd5334b02bf908"/>
+			<rom name="marbella_vice_100hz_odd.bin" size="65536" crc="2c9ebccb" sha1="4e8dcb8526a8debb70f3f56713903ba8bfbb3ed5"/>
+		</game>
+		<game name="Pioneer LaserActive Japan BIOS v1.01 and v1.05 readme">
+			<rom name="Pioneer LaserActive Japan BIOS v1.01 and v1.05 readme.txt" size="725" crc="aba5cf53" sha1="9c21d71c77d50fedb1b4897dcc0d7b78418a3f52"/>
+		</game>
+		<game name="Space Ace Enhancement ROMs">
+			<rom name="readme.txt" size="16931" crc="ca4e20e6" sha1="beb1d4dcc4414af60880c9a38071ffaa932de46c"/>
+			<rom name="sae10_u1.bin" size="8192" crc="cbc5e425" sha1="0991508443650fa090b56f820fbf640a5ceaea27"/>
+			<rom name="sae10_u2.bin" size="8192" crc="71a26f47" sha1="bd343cd25f4e3baeb5b8aaecb8ed4be078ff6b8a"/>
+			<rom name="sae10_u3.bin" size="8192" crc="bac5cdd8" sha1="15d1f563c9495b3d1ce8775d781ca1f71cfda742"/>
+			<rom name="sae10_u4.bin" size="8192" crc="e18380f9" sha1="98b49e06bd8dabad349b81654694311efbf67513"/>
+			<rom name="sae10_u5.bin" size="8192" crc="8a536cb0" sha1="2498c02d3118da969c9c54901decfbcbb7d6956b"/>
+		</game>
+		<game name="starrider (proto 5 rev 1)">
+			<rom name="CPU30U8.bin" size="16384" crc="934d98c0" sha1="8e53b0b024623d88bbaf7a3061925b5d8de37fb3"/>
+			<rom name="CPU31U15.bin" size="16384" crc="69dcb5af" sha1="a3a6cefa1b8029ba1ca2ab14898f2949a7e13a4b"/>
+			<rom name="CPU32U26.bin" size="16384" crc="b0ed1ed4" sha1="32f2f06c3359079628e8ec83c8bdb85e170031ea"/>
+			<rom name="CPU34U45.bin" size="8192" crc="5b0b9a26" sha1="3e2f8efa805a797546f984c6538fd353f3f7470b"/>
+			<rom name="CPU35U52.bin" size="8192" crc="9c9a50bb" sha1="99f6cfff19c41251645259f5268af6d29d28e48b"/>
+			<rom name="PIF26U3.bin" size="4096" crc="2afef78c" sha1="467d9441927ded3b6dceb9da10917620dfb58a3c"/>
+			<rom name="ROM10U23.bin" size="16384" crc="2fc10697" sha1="205476c13348140a92254d0998d740f18bff7187"/>
+			<rom name="ROM11U9.bin" size="16384" crc="665a4b07" sha1="3c57839f65070e2b63b33eaa833370203993dc51"/>
+			<rom name="ROM12U24.bin" size="16384" crc="e117c9b3" sha1="0500e6723b973ab672f4479bf1ce45579ef9a9f2"/>
+			<rom name="ROM13U10.bin" size="16384" crc="3e8cdea4" sha1="554ddd87d5a5de1b04b81ca6a730682d90f334a1"/>
+			<rom name="ROM14U25.bin" size="16384" crc="d8260022" sha1="6eb60d512f6bee3a74950145ab52a6c8bb7054c4"/>
+			<rom name="ROM15U11.bin" size="16384" crc="bac9b2b4" sha1="0700debb88f7e001c78407f69d804c4340d602e2"/>
+			<rom name="ROM16U26.bin" size="16384" crc="111e2f28" sha1="96904f08d66fed87fcfc0c59be50546f42e27687"/>
+			<rom name="ROM17U12.bin" size="16384" crc="eb5f96dd" sha1="2ccd3b1ea12e201306707d8ed95c000c06766b48"/>
+			<rom name="ROM18U27.bin" size="16384" crc="b87eeeee" sha1="37d6c360c7557d28bb7cc109ac6617569d7afb18"/>
+			<rom name="ROM19U13.bin" size="16384" crc="67ffe21b" sha1="ebfc8f963e852cf5adb14f7f76f60fd738ddbc18"/>
+			<rom name="ROM1U4.bin" size="16384" crc="9655db83" sha1="50406ea8a4e20dbc7d4ff3ca60d41d142e3d593e"/>
+			<rom name="ROM25U46.bin" size="8192" crc="2812097e" sha1="793ed5ec8b1d1689e856fc2008f46faf963f5045"/>
+			<rom name="ROM2U19.bin" size="16384" crc="8903afe2" sha1="dce09ab66ad96422e426b8f0eb7bedaad1596be2"/>
+			<rom name="ROM3U5.bin" size="16384" crc="ac1bdd83" sha1="a635714d814fea7728e3d62003069873d00536b2"/>
+			<rom name="ROM4U20.bin" size="16384" crc="3bef2dc3" sha1="60e8c794d706ea6ef7b4c25f11fd9850f992bafd"/>
+			<rom name="ROM5U6.bin" size="16384" crc="18470b9c" sha1="5cf7bbf8c1dfeff9ee570b86d7d02bf7126ad01f"/>
+			<rom name="ROM6U21.bin" size="16384" crc="3d345e8b" sha1="77a1faa1b2e48bc51b20b3015007d399f72c5fc9"/>
+			<rom name="ROM7U7.bin" size="16384" crc="c2f624db" sha1="f57c6c16a7cf5a03cb1bee7fba841d70fe6a25d9"/>
+			<rom name="ROM8U22.bin" size="16384" crc="089cc4dd" sha1="ef15cf517da6ffae9e1063f3fda854ad2ef16e66"/>
+			<rom name="ROM9U8.bin" size="16384" crc="360938be" sha1="632194a3d398a7f670bfb05f58c1afd8c17ec288"/>
+			<rom name="SND27U11.bin" size="8192" crc="ffacb56d" sha1="e6f7984e014a5ace50b0b1428a386ae645b972f5"/>
+			<rom name="SRPRBuzz.txt" size="428" crc="18c6f988" sha1="4ac61691068a945f6398d52dad2cc16d5062f7b7"/>
+			<rom name="SRPRU10.BIN" size="1024" crc="917e35ca" sha1="676e2d211c81dbbf911f99a672eac1fd29553a2b"/>
+			<rom name="SRPRU11.BIN" size="1024" crc="917e35ca" sha1="676e2d211c81dbbf911f99a672eac1fd29553a2b"/>
+			<rom name="SRPRU114.BIN" size="32" crc="27a6d555" sha1="988d55092d7d0243a867986873dfd12be67280c7"/>
+			<rom name="SRPRU74.BIN" size="512" crc="362ec0f9" sha1="0304a36d038436e9f5e817dfc2c40b6421953cad"/>
+		</game>
+		<game name="starrider CPU (proto 3)">
+			<rom name="readme.txt" size="605" crc="7aa6fa6b" sha1="a980814fd89debada8a9772c12847f43346b8bb8"/>
+			<rom name="u08.bin" size="16384" crc="ad9a3a2e" sha1="95fcf776e6410a7f8081622f0176e5f17732b975"/>
+			<rom name="u15.bin" size="16384" crc="5ce07944" sha1="edf98693d880ccebeb770f9e093a67392589ba35"/>
+			<rom name="u26.bin" size="16384" crc="f31f2faa" sha1="61413681a308dd0cb2c2d0c70181c15fc9a31403"/>
+			<rom name="u45.bin" size="8192" crc="6521c9bc" sha1="2273d9efe12a6a6d40c14ffb39c32ae1d2296956"/>
+			<rom name="u52.bin" size="8192" crc="5ac61ca1" sha1="027a20cff95d9d444ead5fe7ca9823fc0c1aeff3"/>
+		</game>
+		<game name="starrider PIF Update (#26, U3)">
+			<rom name="PIFU3new.bin" size="4096" crc="21148168" sha1="f4b2eff95b3bbf5e585506a2d1d3c3903a28ed4d"/>
+			<rom name="readme.txt" size="16552" crc="c2fea27b" sha1="2996835f33ba02b35b40c448b49d8109e121b90b"/>
+		</game>
+		<game name="Tierras Salvajes (100hz monitor) (Picmatic) (128k)">
+			<rom name="spilz0d4-27-9-95-salvajes-displays-27c512.bin" size="131072" crc="e6c539ec" sha1="a5f70818d93ab33ca4149a50c38b2a130ee5d7ab"/>
+		</game>
+		<game name="Tierras Salvajes (100hz monitor) (Picmatic) (2x64k)">
+			<rom name="gal16v8.u19" size="279" crc="f2864878" sha1="f8f8e7604ece9c6437bc381170d891237fde1372"/>
+			<rom name="gal16v8.u19.jed" size="3025" crc="b02ff43e" sha1="4cf2c1e283d3636f82857f6c88c72bd26a401d78"/>
+			<rom name="mk48z02b-20.u8" size="2048" crc="18eb5a50" sha1="9b626978350cda546aa4b890c68ddb28058adf75"/>
+			<rom name="spilz0d4-even-27-9-95-salvajes-displays-27c512.u5" size="65536" crc="730e4696" sha1="4db0cc7d160de5e70f1d1842fa94adb8ee7f954f"/>
+			<rom name="spilz0d4-odd-27-9-95-salvajes-displays-27c512.u4" size="65536" crc="d46dd5e0" sha1="7d808c6ed88bf9a98cdb468ce71c0952b0b5d7b2"/>
+		</game>
+	</dir>
+	<dir name="WinUAE Amiga Firmware (ALG, Picmatic)">
+		<game name="[ROM 175] American Laser Games - Mad Dog McCree v1C board rev.A (128k)">
+			<rom name="maddog.dat" size="131072" crc="48fd863c" sha1="9bf6f337585122a597c19d71224e3b68347a98de"/>
+		</game>
+		<game name="[ROM 175] American Laser Games - Mad Dog McCree v1C board rev.A (2x64k)">
+			<rom name="maddog_01.dat" size="65536" crc="04572557" sha1="3dfe2ce94ced8701a3e73ed5869b6fbe1c8b3286"/>
+			<rom name="maddog_02.dat" size="65536" crc="f64014ec" sha1="d343a2cb5d8992153b8c916f39b11d3db736543d"/>
+		</game>
+		<game name="[ROM 176] American Laser Games - Mad Dog McCree v2.02 board rev.B (256k)">
+			<rom name="md_2.02.bin" size="262144" crc="65181234" sha1="321fe70ab0986712e4c6cc170fe48f1d491ba069"/>
+		</game>
+		<game name="[ROM 176] American Laser Games - Mad Dog McCree v2.02 board rev.B (2x128k)">
+			<rom name="md_2.02_u1.bin" size="131072" crc="a49890d1" sha1="148f78fb426f5b912e8c3836a149bfcb966da477"/>
+			<rom name="md_2.02_u2.bin" size="131072" crc="f46e1242" sha1="2960bc1800b22eea50036ae43fd3cb2ab7dcf8a4"/>
+		</game>
+		<game name="[ROM 177] American Laser Games - Mad Dog McCree v2.03 board rev.B (256k)">
+			<rom name="md_2.03.bin" size="262144" crc="bf0878ad" sha1="7ff88de73fd5245e346cca21d0765de18ba28877"/>
+		</game>
+		<game name="[ROM 177] American Laser Games - Mad Dog McCree v2.03 board rev.B (2x128k)">
+			<rom name="md_2.03_1.bin" size="131072" crc="6f5b8f2d" sha1="bbf32bb27a998d53744411d75efdbdb730855809"/>
+			<rom name="md_2.03_2.bin" size="131072" crc="a50d3c04" sha1="4cf100fdb5b2f2236539fd0ec33b3db19c64a6b8"/>
+		</game>
+		<game name="[ROM 178] American Laser Games - Mad Dog II - The Lost Gold v2.02 (256k)">
+			<rom name="md2.bin" size="262144" crc="992f9a53" sha1="f039a74cc63e1465b3036d4c030df1ef5ba03ff4"/>
+		</game>
+		<game name="[ROM 178] American Laser Games - Mad Dog II - The Lost Gold v2.02 (2x128k)">
+			<rom name="md2_01.bin" size="131072" crc="4092227f" sha1="6e5393aa5e64b59887260f483c50960084de7bd1"/>
+			<rom name="md2_02.bin" size="131072" crc="addffa51" sha1="665e9d93ddfa6b2ea5d006b41bf7eac3294244cc"/>
+		</game>
+		<game name="[ROM 179] American Laser Games - Mad Dog II - The Lost Gold v1.10 (256k)">
+			<rom name="md2_1.10.bin" size="262144" crc="c3230ece" sha1="4dd60b21f7ab65cd773047536a4ff2eb75b0778c"/>
+		</game>
+		<game name="[ROM 179] American Laser Games - Mad Dog II - The Lost Gold v1.10 (2x128k)">
+			<rom name="md2_1.10_u1.bin" size="131072" crc="61808612" sha1="1a0a301e79585a81e6cf46737068970fb8a205fa"/>
+			<rom name="md2_1.10_u2.bin" size="131072" crc="0e113b2c" sha1="739d777f3cb92fbc730c6c1b664d874121d191b1"/>
+		</game>
+		<game name="[ROM 180] American Laser Games - Mad Dog II - The Lost Gold v2.04 (256k)">
+			<rom name="md2_v.2.04.bin" size="262144" crc="1b9ddae6" sha1="d52cc668e48762945c4d903371d8a0b1323b4464"/>
+		</game>
+		<game name="[ROM 180] American Laser Games - Mad Dog II - The Lost Gold v2.04 (2x128k)">
+			<rom name="md2_01_v.2.04.bin" size="131072" crc="0e1227f4" sha1="bfd9081bb7d2bcbb77357839f292ce6136e9b228"/>
+			<rom name="md2_02_v.2.04.bin" size="131072" crc="361bd99c" sha1="5de6ef38e334e19f509227de7880306ac984ec23"/>
+		</game>
+		<game name="[ROM 181] American Laser Games - Mad Dog II - The Lost Gold v1.00 (256k)">
+			<rom name="md2_1.0.bin" size="262144" crc="348b1a05" sha1="ece8f1ec4d97f98db1279ed528cb0fca51c167bb"/>
+		</game>
+		<game name="[ROM 181] American Laser Games - Mad Dog II - The Lost Gold v1.00 (2x128k)">
+			<rom name="md2_1.0_1.bin" size="131072" crc="97272a1d" sha1="109014647c491f019ffb21091c7d0b89e1755b75"/>
+			<rom name="md2_1.0_2.bin" size="131072" crc="0ce8db97" sha1="dd4c09db59bb8c6caba935b1b28babe28ba8516b"/>
+		</game>
+		<game name="[ROM 182] American Laser Games - Space Pirates v1.4 (256k)">
+			<rom name="sp_14.bin" size="262144" crc="69e09b90" sha1="da3cba841c37222fc45b4704997072ad1e9a1f8e"/>
+		</game>
+		<game name="[ROM 182] American Laser Games - Space Pirates v1.4 (2x128k)">
+			<rom name="sp_14_u1.bin" size="131072" crc="30390ab0" sha1="80fa14d881902258398225bdfd71ed5e9e2d6c91"/>
+			<rom name="sp_14_u2.bin" size="131072" crc="4102988c" sha1="969d4668be50990c7debf9ed4e8b8c6e422acdf5"/>
+		</game>
+		<game name="[ROM 183] American Laser Games - Space Pirates v2.2 (256k)">
+			<rom name="sp.dat" size="262144" crc="09c2cfcb" sha1="93ad6a2577fa7870971890f26af11382a433f80b"/>
+		</game>
+		<game name="[ROM 183] American Laser Games - Space Pirates v2.2 (2x128k)">
+			<rom name="sp_01.dat" size="131072" crc="c0975188" sha1="fd7643dc972e7861249ab7e76199975984888ae4"/>
+			<rom name="sp_02.dat" size="131072" crc="10d162a2" sha1="26833d5be1057be8639c00a7be18be33404ea751"/>
+		</game>
+		<game name="[ROM 184] American Laser Games - Who Shot Johnny Rock v1.6 (128k)">
+			<rom name="johnny.bin" size="131072" crc="aeda7df4" sha1="a612c4b92bd81ab9564e58da9a6a4d8193c59acf"/>
+		</game>
+		<game name="[ROM 184] American Laser Games - Who Shot Johnny Rock v1.6 (2x64k)">
+			<rom name="johnny_01.bin" size="65536" crc="edde1745" sha1="573b79f8808fedaabf3b762350a915792d26c1bc"/>
+			<rom name="johnny_02.bin" size="65536" crc="046569b3" sha1="efe5a8b2be1c555695f2a91c88951d3545f1b915"/>
+		</game>
+		<game name="[ROM 185] American Laser Games - Who Shot Johnny Rock v1.5 (128k)">
+			<rom name="wsjr15.bin" size="131072" crc="50eb4827" sha1="725686734163aa16d0ad3177bd720187125a63ec"/>
+		</game>
+		<game name="[ROM 185] American Laser Games - Who Shot Johnny Rock v1.5 (2x64k)">
+			<rom name="wsjr151.bin" size="65536" crc="9beeb1d7" sha1="3fe0265e5d36103d3d9557d75e5e3728e0b30da7"/>
+			<rom name="wsjr152.bin" size="65536" crc="8ab626dd" sha1="e45561f77fc279b71dc1dd2e15a0870cb5c1cd89"/>
+		</game>
+		<game name="[ROM 186] American Laser Games - Gallagher&apos;s Gallery v2.2 (256k)">
+			<rom name="gg.dat" size="262144" crc="cbe791de" sha1="17aa6f167e138409e1ef039e928fee5af43e91cb"/>
+		</game>
+		<game name="[ROM 186] American Laser Games - Gallagher&apos;s Gallery v2.2 (2x128k)">
+			<rom name="gg_1.dat" size="131072" crc="3793b211" sha1="dccb1d9c5e2d6a4d249426ae6348e9fc9b72e665"/>
+			<rom name="gg_2.dat" size="131072" crc="855c9d82" sha1="96711aaa02f309cacd3e8d8efbe95cfc811aba96"/>
+		</game>
+		<game name="[ROM 187] American Laser Games - Gallagher&apos;s Gallery v2.1 (256k)">
+			<rom name="gg_21_rom.bin" size="262144" crc="9bfe35bb" sha1="76c8cad8d0f4758f1adc0fc97cb6ad3044b54d47"/>
+		</game>
+		<game name="[ROM 187] American Laser Games - Gallagher&apos;s Gallery v2.1 (2x128k)">
+			<rom name="gg_21_rom1.bin" size="131072" crc="4109f39e" sha1="42d06de42c56f21e4899b4c4252baabb51f24fda"/>
+			<rom name="gg_21_rom2.bin" size="131072" crc="70f887e5" sha1="cd6cedc85bbe67674dfd140fed9018778f8cd8db"/>
+		</game>
+		<game name="[ROM 188] American Laser Games - Fast Draw Showdown v1.31 (256k)">
+			<rom name="fd_131.bin" size="262144" crc="6977addf" sha1="dc845431bb1a39bd615afe5f7cb7c8d03433ef8c"/>
+		</game>
+		<game name="[ROM 188] American Laser Games - Fast Draw Showdown v1.31 (2x128k)">
+			<rom name="fd_131_u1.bin" size="131072" crc="b7c79ab3" sha1="6eca1bc9590c22a004fb85901e5c7d41f5b14ee2"/>
+			<rom name="fd_131_u2.bin" size="131072" crc="e1ed7982" sha1="f7562c6e0ce6bf1a9885cc593e08c2509f82bbe1"/>
+		</game>
+		<game name="[ROM 189] American Laser Games - Fast Draw Showdown v1.30 (256k)">
+			<rom name="fast.bin" size="262144" crc="47772e36" sha1="5af67b5ea56b2337fdd427fbd82d478fb1994dbc"/>
+		</game>
+		<game name="[ROM 189] American Laser Games - Fast Draw Showdown v1.30 (2x128k)">
+			<rom name="fast_01.bin" size="131072" crc="4c4eb71e" sha1="3bd487c546b6c80770a5fc880dcb10395ca431a2"/>
+			<rom name="fast_02.bin" size="131072" crc="0d76a2da" sha1="d396371ae1b9b0b6e6bc6f1f85c4b97bfc5dc34d"/>
+		</game>
+		<game name="[ROM 190] American Laser Games - The Last Bounty Hunter v1.01 (256k)">
+			<rom name="lbh_101.bin" size="262144" crc="d2a5a539" sha1="b97c799b53355b554dfbf3356f20fd2ba5998806"/>
+		</game>
+		<game name="[ROM 190] American Laser Games - The Last Bounty Hunter v1.01 (2x128k)">
+			<rom name="lbh_101_u1.bin" size="131072" crc="f13b25d2" sha1="e2f663c23b03592f482ef5e1df87b651937a500d"/>
+			<rom name="lbh_101_u2.bin" size="131072" crc="b21c5c42" sha1="9ac856cdf2c9538cc4ae55f079f337376d3361c0"/>
+		</game>
+		<game name="[ROM 191] American Laser Games - The Last Bounty Hunter v0.06 (256k)">
+			<rom name="bounty.bin" size="262144" crc="ce600734" sha1="e52aea03080dcd088d4b61ede46de9c7fc4dd74e"/>
+		</game>
+		<game name="[ROM 191] American Laser Games - The Last Bounty Hunter v0.06 (2x128k)">
+			<rom name="bounty_01.bin" size="131072" crc="977566b2" sha1="937e079e992ecb5930b17c1024c326e10962642b"/>
+			<rom name="bounty_02.bin" size="131072" crc="2727ef1d" sha1="f53421390b65c21a7666ff9d0f53ebf2a463d836"/>
+		</game>
+		<game name="[ROM 192] American Laser Games - Crime Patrol v1.51 (256k)">
+			<rom name="cp_151.bin" size="262144" crc="cada2bed" sha1="c5da9d827864feff75d87dd19ec065297d2b318b"/>
+		</game>
+		<game name="[ROM 192] American Laser Games - Crime Patrol v1.51 (2x128k)">
+			<rom name="cp_151_u1.bin" size="131072" crc="f2270cee" sha1="1e735373723c3cffb6dd04d5c30c08e757deae61"/>
+			<rom name="cp_151_u2.bin" size="131072" crc="aefd6e09" sha1="351e665e2e6368047a5cc80d0f9d876bca068b6a"/>
+		</game>
+		<game name="[ROM 193] American Laser Games - Crime Patrol v1.4 (256k)">
+			<rom name="cp.dat" size="262144" crc="51ba3153" sha1="55086ba0ef41c6d641041b73047cad38af2a21f3"/>
+		</game>
+		<game name="[ROM 193] American Laser Games - Crime Patrol v1.4 (2x128k)">
+			<rom name="cp01.dat" size="131072" crc="e41fd2e8" sha1="1cd9875fb4133ba4e3616271975dc736b343f156"/>
+			<rom name="cp02.dat" size="131072" crc="a39a8b50" sha1="55ca317ef13c3a42f12d68c480e6cc2d4459f6a4"/>
+		</game>
+		<game name="[ROM 194] American Laser Games - Crime Patrol v1.2 (256k)">
+			<rom name="cp_1.20.bin" size="262144" crc="63e9f444" sha1="6f2624a56a672f97c751ae51b4b834a5097a855a"/>
+		</game>
+		<game name="[ROM 194] American Laser Games - Crime Patrol v1.2 (2x128k)">
+			<rom name="cp_1.20_u1.bin" size="131072" crc="814f5777" sha1="341a1d7b64112af3e8243bdbfec72e7fa85aa903"/>
+			<rom name="cp_1.20_u2.bin" size="131072" crc="475e847a" sha1="82fd160835758cd51ea22f90b08921a40409f94d"/>
+		</game>
+		<game name="[ROM 195] American Laser Games - Crime Patrol 2 - Drug Wars v1.3 (256k)">
+			<rom name="cp2_1.3.bin" size="262144" crc="57d1f606" sha1="ffbee51c9c52a9c66440cbf83414432175036282"/>
+		</game>
+		<game name="[ROM 195] American Laser Games - Crime Patrol 2 - Drug Wars v1.3 (2x128k)">
+			<rom name="cp2_1.3_1.bin" size="131072" crc="e653395d" sha1="8f6c86d98a52b7d85ae285fd841167cd07979318"/>
+			<rom name="cp2_1.3_2.bin" size="131072" crc="dbdaa79a" sha1="998044909d5c93e3bd1baafefab818fdb7b3f55e"/>
+		</game>
+		<game name="[ROM 196] American Laser Games - Crime Patrol 2 - Drug Wars v1.1 (256k)">
+			<rom name="cp2.dat" size="262144" crc="49c751db" sha1="789679f9a3fe3aa0f9b8bb351f3ea632e429408d"/>
+		</game>
+		<game name="[ROM 196] American Laser Games - Crime Patrol 2 - Drug Wars v1.1 (2x128k)">
+			<rom name="cp2_1.dat" size="131072" crc="47879042" sha1="8bb6c541e4e8e4508da8d4b93600176a2e7a1f41"/>
+			<rom name="cp2_2.dat" size="131072" crc="f4e5251e" sha1="e0c91343a98193d487c40e7a85f542b2a7a88f03"/>
+		</game>
+		<game name="[ROM 197] American Laser Games - Platoon V.3.1 US (256k)">
+			<rom name="platoonv4.bin" size="262144" crc="ad975c96" sha1="9565207f6684baa8e5c85c34740a3f6075d3a7b5"/>
+		</game>
+		<game name="[ROM 197] American Laser Games - Platoon V.3.1 US (2x128k)">
+			<rom name="platoonv4u1.bin" size="131072" crc="8b33263e" sha1="a1df38236321af90b522e2a783984fdf02e4c597"/>
+			<rom name="platoonv4u2.bin" size="131072" crc="09a133cf" sha1="9b3ff63035be8576c88fb284a25c2da5db0d5160"/>
+		</game>
+		<game name="[ROM 198] Picmatic - Zorton Brothers v1.00 (128k)">
+			<rom name="zb.bin" size="131072" crc="9cda09ae" sha1="3353ae6364b3d0b1006db48ea2bdc7b54946bbb9"/>
+		</game>
+		<game name="[ROM 198] Picmatic - Zorton Brothers v1.00 (2x64k)">
+			<rom name="zb_u2.bin" size="65536" crc="938b25cb" sha1="d0114bbc588dcfce6a469013d0e35afb93e38af5"/>
+			<rom name="zb_u3.bin" size="65536" crc="f59cfc4a" sha1="9fadf7f1e23d6b4e828bf2b3de919d087c690a3f"/>
+		</game>
+		<game name="[ROM 270] American Laser Games - Crime Patrol v1.0 (256k)">
+			<rom name="cp_10_rom.bin" size="262144" crc="b3846a9f" sha1="0157ff74b10b0bc2576ddcab80af64666d49afc9"/>
+		</game>
+		<game name="[ROM 270] American Laser Games - Crime Patrol v1.0 (2x128k)">
+			<rom name="cp_10_rom1.bin" size="131072" crc="aac76488" sha1="fabf4700610480a28dad6e1483e58ec227e465ff"/>
+			<rom name="cp_10_rom2.bin" size="131072" crc="6e4614cd" sha1="0f73f477e13b3f184e9a55f4be95474661c912d5"/>
+		</game>
+		<game name="[ROM 301] Picmatic - Zorton Brothers v1.01 (128k)">
+			<rom name="zort_1-01_23-3-94.bin" size="131072" crc="37d274c2" sha1="b756f787fca4c1904813b1e4ddf36c24c815c708"/>
+		</game>
+		<game name="[ROM 301] Picmatic - Zorton Brothers v1.01 (2x64k)">
+			<rom name="zort_1-01_23-3-94_even.u3" size="65536" crc="6a051c6a" sha1="f8daafab068fef57e47287bd72be860b84e2e75c"/>
+			<rom name="zort_1-01_23-3-94_odd.u2" size="65536" crc="21e63949" sha1="0a62ad108f8cfa00dc8f03dea2ff6f1b277e8d5d"/>
+		</game>
+		<game name="[ROM 302] Picmatic - Marbella Vice (128k)">
+			<rom name="mspsl 200 30394.bin" size="131072" crc="f78c8fa2" sha1="07656cbfdb6135f26add3b5fa4ce5d46dda706f9"/>
+		</game>
+		<game name="[ROM 302] Picmatic - Marbella Vice (2x64k)">
+			<rom name="mspsl 200 even 30394.u3" size="65536" crc="78eb6fd6" sha1="e404818095f03b6e0746620f5ce48c3f7149b8a0"/>
+			<rom name="mspsl 200 odd 30394.u2" size="65536" crc="01c9a503" sha1="f61ec2cd241b2bf8a982e81e5a18178601f0a0a0"/>
+		</game>
+		<game name="[TMP 269] American Laser Games - Gallagher&apos;s Gallery v2.0 (256k)">
+			<rom name="gg_20_rom.bin" size="262144" crc="ec0a948f" sha1="97942bdf14e2bbe55114c973d7d5bd9884795a51"/>
+		</game>
+		<game name="[TMP 269] American Laser Games - Gallagher&apos;s Gallery v2.0 (2x128k)">
+			<rom name="gg_20_rom1.bin" size="131072" crc="b7e96e7b" sha1="7bfc560015c94edc2c57b53395eebae451c644ff"/>
+			<rom name="gg_20_rom2.bin" size="131072" crc="229dd4b8" sha1="982b3c954bbd6aeb71e7cfa0e10742645d726332"/>
+		</game>
+		<game name="[TMP 271] American Laser Games - Space Pirates v1.4 (Rev B PCB hack)(256k)">
+			<rom name="sp_14b.bin" size="262144" crc="024092d3" sha1="d5e04a80abeb1ffeff08953901e398d8adce9bb2"/>
+		</game>
+		<game name="[TMP 271] American Laser Games - Space Pirates v1.4 (Rev B PCB hack)(2x128k)">
+			<rom name="sp_14b_u1.bin" size="131072" crc="1e6ec8d6" sha1="9472613e209cab7dc73940f81030c857d3d6a47c"/>
+			<rom name="sp_14b_u2.bin" size="131072" crc="0b77952b" sha1="c1497f16e042a248224f8527dff69d7adc00f46c"/>
+		</game>
+		<game name="[TMP 272] American Laser Games - Who Shot Johnny Rock v1.6 (Maddog Rev A PCB hack)(128k)">
+			<rom name="wsjrA.bin" size="131072" crc="aa413638" sha1="387e9613f7034ac2509f90dc796da9ca39e506f9"/>
+		</game>
+		<game name="[TMP 272] American Laser Games - Who Shot Johnny Rock v1.6 (Maddog Rev A PCB hack)(2x64k)">
+			<rom name="wsjrU1A.bin" size="65536" crc="1e10eb58" sha1="80cd169ef1959852f5b1ec3b2e2f995d588cf1df"/>
+			<rom name="wsjrU2A.bin" size="65536" crc="2a9225a7" sha1="644428b2000ce281bc0247dda927635592849717"/>
+		</game>
+		<game name="[TMP 273] American Laser Games - Who Shot Johnny Rock v1.6 (Rev B PCB hack)(256k)">
+			<rom name="wsjrB.bin" size="262144" crc="a8cb412c" sha1="2059d37cf63fdeaf9c0fc83ead018a8f982dc11f"/>
+		</game>
+		<game name="[TMP 273] American Laser Games - Who Shot Johnny Rock v1.6 (Rev B PCB hack)(2x128k)">
+			<rom name="wsjrU1B.bin" size="131072" crc="c6634148" sha1="5c99ca647b421383df6e3391ac685b354a1a5539"/>
+			<rom name="wsjrU2B.bin" size="131072" crc="0848dc29" sha1="9b70ac17705f06d38c8285bb7edead7d2b286fd2"/>
+		</game>
+	</dir>
+</datafile>

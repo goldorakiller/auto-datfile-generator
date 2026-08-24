@@ -1,0 +1,471 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ROMs - Prismatic Gaming - EPROMs</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="M(1.1).eprom.def">
+		<rom name="M(1.1).eprom.def.xml" size="394" crc="0a655199" sha1="ab94e3d18e85be0cf33027886ac00e346a2d4efb"/>
+	</game>
+	<game name="M(1.4).eprom.def">
+		<rom name="M(1.4).eprom.def.xml" size="71498" crc="963fedb3" sha1="654f8b1f43ae15247b5423e70c48b6181fa420f1"/>
+	</game>
+	<game name="M(1.4).eprom.vp">
+		<rom name="M(1.4).eprom.vp.xml" size="537" crc="cecc8802" sha1="5b58a1f10e8dfff53efe4ce0421f6973396975ce"/>
+	</game>
+	<game name="M(1.4).InspiredOpenTITO.eprom">
+		<rom name="M(1.4).InspiredOpenTITO.eprom.xml" size="140" crc="7a5fc90a" sha1="6f93ecfffd6a57dc5473fd52209874fc7306b5a7"/>
+	</game>
+	<game name="M(1.4).LocalTournament.eprom.xml">
+		<rom name="M(1.4).LocalTournament.eprom.xml" size="104" crc="be97157d" sha1="ff5affc9f218ae91c5b34563687717e83551dd2a"/>
+	</game>
+	<game name="M(1.4).LocalTournament.eprom.xml~AGI">
+		<rom name="M(1.4).LocalTournament.eprom.xml~AGI" size="48" crc="08d279fa" sha1="530db1429c723afff8d36d3161e1fb10d9fe9903"/>
+	</game>
+	<game name="M(1.4).operatorname.eprom.xml">
+		<rom name="M(1.4).operatorname.eprom.xml" size="119" crc="b991431d" sha1="399f298ed8e0237a08d86be8ef3cdf13ab8f1c0e"/>
+	</game>
+	<game name="M(1.4).operatorname.eprom.xml~AGI">
+		<rom name="M(1.4).operatorname.eprom.xml~AGI" size="48" crc="194f04d7" sha1="2497f092a279745f7a3b2efd090bd4c76b67b462"/>
+	</game>
+	<game name="M(1.4).PINSettings.eprom.xml">
+		<rom name="M(1.4).PINSettings.eprom.xml" size="178" crc="4c573df3" sha1="bb0e0a4a7019f19468b5ae87c0ce6e4090bbe413"/>
+	</game>
+	<game name="M(1.4).PINSettings.eprom.xml~AGI">
+		<rom name="M(1.4).PINSettings.eprom.xml~AGI" size="48" crc="7ec161db" sha1="da53e9d8d51a40ec7daaebe00930766903987494"/>
+	</game>
+	<game name="M(1.4).PromoSystem.eprom">
+		<rom name="M(1.4).PromoSystem.eprom.xml" size="918" crc="ec892b9c" sha1="3c331d89edbc43e6a76fc44faa8903e8c76be142"/>
+	</game>
+	<game name="M(1.4).region.MCU.eprom">
+		<rom name="M(1.4).region.MCU.eprom.xml" size="9876" crc="b1c12ff6" sha1="7ee046f193eaab1dbd651de52bc6ac499dead0aa"/>
+	</game>
+	<game name="M(1.4).selscreen.ita.eprom">
+		<rom name="M(1.4).selscreen.ita.eprom.xml" size="132" crc="16a19152" sha1="f95b855b656035e67e3df4adbbc4024bfb6ed81c"/>
+	</game>
+	<game name="M(1.4).selscreen.nlexternal.eprom">
+		<rom name="M(1.4).selscreen.nlexternal.eprom.xml" size="136" crc="7997c33a" sha1="f10f552ecd65243ce2cf075b359fde0d25bdb84a"/>
+	</game>
+	<game name="M(1.4).ticket2go.eprom">
+		<rom name="M(1.4).ticket2go.eprom.xml" size="138" crc="d15c86b1" sha1="2df34bb620a9768b49b07170e5ebd9d84131d9b3"/>
+	</game>
+	<game name="M(2.100).eprom.def.xml">
+		<rom name="M(2.100).eprom.def.xml" size="5708" crc="817694fe" sha1="f38330be40e32125d7a5dbf5e82b9bc2e6aef5ae"/>
+	</game>
+	<game name="M(2.100).eprom.def.xml~AGI">
+		<rom name="M(2.100).eprom.def.xml~AGI" size="48" crc="f8b41c74" sha1="85745d355c08f0f962b6e535f2625f61db209649"/>
+	</game>
+	<game name="M(2.1046).eprom.def">
+		<rom name="M(2.1046).eprom.def.xml" size="4574" crc="6833ab9d" sha1="1897fcd4f4c95144661117c019cd3a5ae9d02cd2"/>
+	</game>
+	<game name="M(2.1103).eprom.def">
+		<rom name="M(2.1103).eprom.def.xml" size="2291" crc="d57b8bdc" sha1="cce22a78463fdb30da1d021ee189b2e1c4aa7602"/>
+	</game>
+	<game name="M(2.1116).eprom.def">
+		<rom name="M(2.1116).eprom.def.xml" size="1895" crc="c121ed10" sha1="13e53bc7d47ea798c94295742c2e838c885e6b22"/>
+	</game>
+	<game name="M(2.1133).eprom.def">
+		<rom name="M(2.1133).eprom.def.xml" size="2271" crc="fce1e3ef" sha1="010bf14e520475fdfff0e03d912db5df3fb3d575"/>
+	</game>
+	<game name="M(2.1146).eprom.def">
+		<rom name="M(2.1146).eprom.def.xml" size="3800" crc="e7271493" sha1="459c9a3ce0d1809fd2186a3e38fe5be35423b602"/>
+	</game>
+	<game name="M(2.1158).eprom.def">
+		<rom name="M(2.1158).eprom.def.xml" size="2950" crc="950c7228" sha1="f10e3a300acaf120c7816aeeeb411da4daf8c6a8"/>
+	</game>
+	<game name="M(2.1160).eprom.out">
+		<rom name="M(2.1160).eprom.out.xml" size="358" crc="f81345ac" sha1="75d9110bef295f1ff23d820606cff55c1b6de997"/>
+	</game>
+	<game name="M(2.1161).eprom.def">
+		<rom name="M(2.1161).eprom.def.xml" size="3145" crc="5d5c4f34" sha1="98b01541cc073892f8afbee30e86e6c0cb3b9181"/>
+	</game>
+	<game name="M(2.1214).eprom.def">
+		<rom name="M(2.1214).eprom.def.xml" size="1890" crc="0628a878" sha1="bc174b53dc5526a56c6476ceeb2fe84fb7dd3da1"/>
+	</game>
+	<game name="M(2.1221).eprom.def">
+		<rom name="M(2.1221).eprom.def.xml" size="2290" crc="1e40310b" sha1="6b64e0f2892ae52123027b2bc3f52465468ad8af"/>
+	</game>
+	<game name="M(2.1224).eprom.def">
+		<rom name="M(2.1224).eprom.def.xml" size="2294" crc="1cd476a7" sha1="0e9b7653c25d0088804d2a2d7355cb3edb932675"/>
+	</game>
+	<game name="M(2.1229).eprom.def">
+		<rom name="M(2.1229).eprom.def.xml" size="2262" crc="d05e3427" sha1="1d325437e03c199714b57690f0e4644abf45014e"/>
+	</game>
+	<game name="M(2.1240).eprom.def">
+		<rom name="M(2.1240).eprom.def.xml" size="2234" crc="02779f7c" sha1="2bbf58d8c7ecc0123edd5ad73d8c4ae1dc4394d7"/>
+	</game>
+	<game name="M(2.1249).eprom.def">
+		<rom name="M(2.1249).eprom.def.xml" size="2612" crc="33ae85da" sha1="fd28cc0464fef06aeae0b1f1331355f196ec1802"/>
+	</game>
+	<game name="M(2.1254).eprom.def">
+		<rom name="M(2.1254).eprom.def.xml" size="2618" crc="6d463b81" sha1="7e6137e1a143f27c56e28bcf26229d28987b99dc"/>
+	</game>
+	<game name="M(2.1283).eprom.def">
+		<rom name="M(2.1283).eprom.def.xml" size="2393" crc="d9ba8a19" sha1="308825d618e44a488124e10c281964f6e54cd995"/>
+	</game>
+	<game name="M(2.1289).eprom.def">
+		<rom name="M(2.1289).eprom.def.xml" size="2517" crc="54910f4e" sha1="1a3c833016f9ff882227482db3dc22b81de943a5"/>
+	</game>
+	<game name="M(2.1305).eprom.def">
+		<rom name="M(2.1305).eprom.def.xml" size="2860" crc="7e4f3495" sha1="99884ec4115b06dd3ae90b9348ef8cdb5033b3f9"/>
+	</game>
+	<game name="M(2.1323).eprom.def">
+		<rom name="M(2.1323).eprom.def.xml" size="2416" crc="30340cda" sha1="f06ae54382eedd690dbc6ae182625d720cb47712"/>
+	</game>
+	<game name="M(2.1358).eprom.def">
+		<rom name="M(2.1358).eprom.def.xml" size="2250" crc="fdba0fee" sha1="ff46fae7e77ef8fe37ee20114546b72feca0fc50"/>
+	</game>
+	<game name="M(2.1361).eprom.def">
+		<rom name="M(2.1361).eprom.def.xml" size="2253" crc="486c157c" sha1="e3173859fa31d05d98a48edbd5e908a54bf9a5c0"/>
+	</game>
+	<game name="M(2.1377).eprom.def">
+		<rom name="M(2.1377).eprom.def.xml" size="3436" crc="c22bde1f" sha1="2d495b8b254df81448b3afe0251cf21c3e5e9fd2"/>
+	</game>
+	<game name="M(2.1380).eprom.def">
+		<rom name="M(2.1380).eprom.def.xml" size="1381" crc="01cc08be" sha1="39d5d00bafdbdf94ecc901415864d38701c70042"/>
+	</game>
+	<game name="M(2.1381).eprom.def">
+		<rom name="M(2.1381).eprom.def.xml" size="2974" crc="82db398c" sha1="9bd8f13aa503f3acdd52f4a1206d015af6dd6e16"/>
+	</game>
+	<game name="M(2.1384).eprom.def">
+		<rom name="M(2.1384).eprom.def.xml" size="1489" crc="01c4d855" sha1="eb8b3c186bd9142822039f47a1565ae2a4134d95"/>
+	</game>
+	<game name="M(2.1385).eprom.def">
+		<rom name="M(2.1385).eprom.def.xml" size="3713" crc="898e50e8" sha1="a6d4a750b3b2f726de1d2654dcc3a8f0918da3ed"/>
+	</game>
+	<game name="M(2.1387).eprom.def">
+		<rom name="M(2.1387).eprom.def.xml" size="3222" crc="82dd8619" sha1="56d6bfad3c1b9102e19409370b5d621eb9a07a7f"/>
+	</game>
+	<game name="M(2.1388).eprom.def">
+		<rom name="M(2.1388).eprom.def.xml" size="2404" crc="67744d0d" sha1="6628b68deb5e771966fbace3c9c6943cf371de1b"/>
+	</game>
+	<game name="M(2.1421).eprom.def">
+		<rom name="M(2.1421).eprom.def.xml" size="2922" crc="022979a5" sha1="3e641e61db3985d55abbbac97127713f9cf5a4a5"/>
+	</game>
+	<game name="M(2.1432).eprom.def">
+		<rom name="M(2.1432).eprom.def.xml" size="1375" crc="45dfe7b5" sha1="1afb846977a4078567fcd4935b0145a6741d09c9"/>
+	</game>
+	<game name="M(2.1433).eprom.def">
+		<rom name="M(2.1433).eprom.def.xml" size="1929" crc="d30bf707" sha1="6d48f416118f9f51eedc5600078f6b9a7ef304aa"/>
+	</game>
+	<game name="M(2.1444).eprom.def">
+		<rom name="M(2.1444).eprom.def.xml" size="3291" crc="6f86ece4" sha1="80793e6556e1f81554c0e4e5a7bdbc9175adeaf7"/>
+	</game>
+	<game name="M(2.1446).eprom.def">
+		<rom name="M(2.1446).eprom.def.xml" size="2386" crc="c54a98fa" sha1="f461428ef3e3d9abcddd79079cf15fe4721f4e8d"/>
+	</game>
+	<game name="M(2.1469).eprom.def">
+		<rom name="M(2.1469).eprom.def.xml" size="2994" crc="b5feefb9" sha1="2ba8db26fa69b93a0cfe8529b3811186b890a530"/>
+	</game>
+	<game name="M(2.1488).eprom.def">
+		<rom name="M(2.1488).eprom.def.xml" size="2316" crc="24d60256" sha1="cc62ff8f56b59f2cead938b1f0d2347466335514"/>
+	</game>
+	<game name="M(2.1489).eprom.def">
+		<rom name="M(2.1489).eprom.def.xml" size="2309" crc="4bbe43fe" sha1="0b8cfbc931a8c5008d50edde270c00124ce1d6a0"/>
+	</game>
+	<game name="M(2.1533).eprom.def">
+		<rom name="M(2.1533).eprom.def.xml" size="2162" crc="63b5adb4" sha1="2bf6f63ce95e8a6f67b15f088a4c13c747963fee"/>
+	</game>
+	<game name="M(2.1536).eprom.def">
+		<rom name="M(2.1536).eprom.def.xml" size="2207" crc="7cf0bdbf" sha1="19c9cc4e76e822a679b792d300cbc7561ff5dbf9"/>
+	</game>
+	<game name="M(2.1568).eprom.def">
+		<rom name="M(2.1568).eprom.def.xml" size="2730" crc="65a2bbde" sha1="0d853ca3aece2b40349b5633c17d666b1f19ba38"/>
+	</game>
+	<game name="M(2.1576).eprom.def">
+		<rom name="M(2.1576).eprom.def.xml" size="2147" crc="2bf46cbe" sha1="1da8f52e6dfcadeed0a5995f26721957b849eb03"/>
+	</game>
+	<game name="M(2.1588).eprom.def">
+		<rom name="M(2.1588).eprom.def.xml" size="2143" crc="4f7e1544" sha1="7c1e3d79e8a58c2974b54dac63dd0b2e5d54187c"/>
+	</game>
+	<game name="M(2.1590).eprom.def">
+		<rom name="M(2.1590).eprom.def.xml" size="2690" crc="6931787b" sha1="b9a9ce7c8881057600b7314b2f8762acc201f457"/>
+	</game>
+	<game name="M(2.1675).eprom.def">
+		<rom name="M(2.1675).eprom.def.xml" size="3450" crc="cc16ece8" sha1="c22ee67dce2f025726455c142d224a1691c5184e"/>
+	</game>
+	<game name="M(2.1682).eprom.def">
+		<rom name="M(2.1682).eprom.def.xml" size="3450" crc="9b1d7ff3" sha1="98448832246fe8c91b1c73338475143186551a54"/>
+	</game>
+	<game name="M(2.1683).eprom.def">
+		<rom name="M(2.1683).eprom.def.xml" size="3451" crc="79ec10cd" sha1="268f6dc51aa480261a6810734404a808c0b748ab"/>
+	</game>
+	<game name="M(2.1684).eprom.def">
+		<rom name="M(2.1684).eprom.def.xml" size="3455" crc="fb0297f4" sha1="7c8a3170a8e4da299c9cef4739af21da57a93a0b"/>
+	</game>
+	<game name="M(2.1698).eprom.def">
+		<rom name="M(2.1698).eprom.def.xml" size="3031" crc="30502ae7" sha1="774fa40e777895b0cf06e573da38235d4b984116"/>
+	</game>
+	<game name="M(2.1713).eprom.def">
+		<rom name="M(2.1713).eprom.def.xml" size="2486" crc="377ffcb0" sha1="b1315a4450cab74df15a2f9bc287cdabaaa40658"/>
+	</game>
+	<game name="M(2.1720).eprom.def">
+		<rom name="M(2.1720).eprom.def.xml" size="2254" crc="0f0b93fd" sha1="3a70b0c71c855d64147deed4c4adb2c5a760b296"/>
+	</game>
+	<game name="M(2.1726).eprom.def">
+		<rom name="M(2.1726).eprom.def.xml" size="2070" crc="bf58dfdb" sha1="0abb163dbf53300e906e9dbbea39a4556c6df0f8"/>
+	</game>
+	<game name="M(2.1733).eprom.def">
+		<rom name="M(2.1733).eprom.def.xml" size="3231" crc="555da029" sha1="ee5394cc36e48cf995ed84620d0924314c5cf3bd"/>
+	</game>
+	<game name="M(2.1734).eprom.def">
+		<rom name="M(2.1734).eprom.def.xml" size="2179" crc="f830a2cf" sha1="071794c4f6cbcaaaa22c4f47e863fe136ebab5da"/>
+	</game>
+	<game name="M(2.1740).eprom.def">
+		<rom name="M(2.1740).eprom.def.xml" size="2878" crc="e47829e0" sha1="f5693a3c2607795b5b26662cc38b945e0ac7abab"/>
+	</game>
+	<game name="M(2.1756).eprom.def">
+		<rom name="M(2.1756).eprom.def.xml" size="2573" crc="13c03afc" sha1="57b0282988cb278c9a37666fbe71b50b1274c337"/>
+	</game>
+	<game name="M(2.1789).eprom.def">
+		<rom name="M(2.1789).eprom.def.xml" size="2275" crc="aa023944" sha1="8884a5640966aa3a2ec33d16f5de5a07b1df98eb"/>
+	</game>
+	<game name="M(2.1790).eprom.def">
+		<rom name="M(2.1790).eprom.def.xml" size="2204" crc="04cae587" sha1="d71439b9d2d2adae2116423a0a10986ca37bd4d6"/>
+	</game>
+	<game name="M(2.1798).eprom.def">
+		<rom name="M(2.1798).eprom.def.xml" size="3458" crc="347ccefd" sha1="7b29aa07d07aa5195b760f5f2b2a26605dff9c4c"/>
+	</game>
+	<game name="M(2.1803).eprom.def">
+		<rom name="M(2.1803).eprom.def.xml" size="2276" crc="754ba586" sha1="999b2d40eb8ebe2ab2849e392bc0046057c0dac5"/>
+	</game>
+	<game name="M(2.1805).eprom.def">
+		<rom name="M(2.1805).eprom.def.xml" size="3131" crc="a8dd171e" sha1="9861c099fd4eb342ce3351f748853ab2c144a0a8"/>
+	</game>
+	<game name="M(2.1809).eprom.def">
+		<rom name="M(2.1809).eprom.def.xml" size="1676" crc="8bb398e3" sha1="ac7504a814787b7a3f951d93d2a04feeb713d7df"/>
+	</game>
+	<game name="M(2.1811).eprom.def">
+		<rom name="M(2.1811).eprom.def.xml" size="2313" crc="de8afefe" sha1="1b3923826ff2f954977a3cd488bf488941deb5c2"/>
+	</game>
+	<game name="M(2.1830).eprom.def">
+		<rom name="M(2.1830).eprom.def.xml" size="1593" crc="7181a739" sha1="577ce2347dc6c38193315f8b7483d0f17b600c44"/>
+	</game>
+	<game name="M(2.200).eprom.def">
+		<rom name="M(2.200).eprom.def.xml" size="960" crc="805be4e0" sha1="dd5e5af39c2e3d30cdaca9ca412a62e1850935ce"/>
+	</game>
+	<game name="M(2.2005).eprom.def.xml.bak">
+		<rom name="M(2.2005).eprom.def.xml.bak" size="2196" crc="e1744d8c" sha1="20e4b8d004e10c939c518287d24d9e3b8995d760"/>
+	</game>
+	<game name="M(2.2005).eprom.def.xml">
+		<rom name="M(2.2005).eprom.def.xml" size="2196" crc="99fa5ec6" sha1="f36a67a4b050b34197e0e98c0c0c82b1b72fc4be"/>
+	</game>
+	<game name="M(2.2011).eprom.def">
+		<rom name="M(2.2011).eprom.def.xml" size="2258" crc="7d4bdd7c" sha1="0e69423b1263091e0d7d04fb06295348d45c5f97"/>
+	</game>
+	<game name="M(2.2015).eprom.def">
+		<rom name="M(2.2015).eprom.def.xml" size="2198" crc="c3da0fbe" sha1="9f397995aacf1f9c799e5e917fa129d5ec624b2d"/>
+	</game>
+	<game name="M(2.2016).eprom.def">
+		<rom name="M(2.2016).eprom.def.xml" size="3085" crc="0d22d0ff" sha1="6db03f43df224ebc9960cbca6018ff8f37d3a9b5"/>
+	</game>
+	<game name="M(2.2018).eprom.def">
+		<rom name="M(2.2018).eprom.def.xml" size="2334" crc="1278588c" sha1="81e56132491b7ca5dafb04bb1c7b42a3e928cb99"/>
+	</game>
+	<game name="M(2.2022).eprom.def">
+		<rom name="M(2.2022).eprom.def.xml" size="2021" crc="0bab9869" sha1="e725c7769e13ae67c69e3e56de58bbbbb420545a"/>
+	</game>
+	<game name="M(2.2023).eprom.def">
+		<rom name="M(2.2023).eprom.def.xml" size="2184" crc="210713b6" sha1="9c573f6402ed94b33d0e185857a431cf159118aa"/>
+	</game>
+	<game name="M(2.2026).eprom.def">
+		<rom name="M(2.2026).eprom.def.xml" size="2381" crc="0b6204c2" sha1="905e8296bc02c54cf37443d413287f6f72c20b03"/>
+	</game>
+	<game name="M(2.2027).eprom.def">
+		<rom name="M(2.2027).eprom.def.xml" size="2407" crc="aff6150c" sha1="097fc4c373d89cc00ea5cd8e300c4874189ab786"/>
+	</game>
+	<game name="M(2.2029).eprom.def">
+		<rom name="M(2.2029).eprom.def.xml" size="2197" crc="f5ae917a" sha1="ea0f5dba5b01de1da14b4318ae35908e565d245a"/>
+	</game>
+	<game name="M(2.2032).eprom.def">
+		<rom name="M(2.2032).eprom.def.xml" size="2201" crc="83d76f53" sha1="391ad90311952ddc372fab417f8ccd219a0f4199"/>
+	</game>
+	<game name="M(2.2034).eprom.def">
+		<rom name="M(2.2034).eprom.def.xml" size="2205" crc="67cf9886" sha1="e7cc785bd2721b1142eb8df069090928069c6263"/>
+	</game>
+	<game name="M(2.2037).eprom.def">
+		<rom name="M(2.2037).eprom.def.xml" size="2193" crc="a2dd9b72" sha1="2545ccc522684a55300e14a342c43644b3e4d62c"/>
+	</game>
+	<game name="M(2.2039).eprom.def">
+		<rom name="M(2.2039).eprom.def.xml" size="3448" crc="e3b82d94" sha1="c3b7a3a8cd90c529df0929059f7367fb06ec536d"/>
+	</game>
+	<game name="M(2.2046).eprom.def">
+		<rom name="M(2.2046).eprom.def.xml" size="2236" crc="9dfe63e3" sha1="9c059fd66f8272767ca84bed7717fc2d9ab1e10e"/>
+	</game>
+	<game name="M(2.2050).eprom.def">
+		<rom name="M(2.2050).eprom.def.xml" size="3353" crc="e03bbef3" sha1="05bc49a73dfb9f2cb6eb0d6e325d0601e3fee9c7"/>
+	</game>
+	<game name="M(2.2051).eprom.def">
+		<rom name="M(2.2051).eprom.def.xml" size="2638" crc="1f1780fa" sha1="a3b13feacb10138d8cffc65fcfb4ad88f82a7ea4"/>
+	</game>
+	<game name="M(2.2052).eprom.def">
+		<rom name="M(2.2052).eprom.def.xml" size="2527" crc="64255e4d" sha1="3ec38dbf3f8e91d8770c7a4b636e37e87f691c3e"/>
+	</game>
+	<game name="M(2.2053).eprom.def">
+		<rom name="M(2.2053).eprom.def.xml" size="2195" crc="fb5b6258" sha1="8859cc080524ef6022daf20a801e1004c1ef1b62"/>
+	</game>
+	<game name="M(2.2055).eprom.def">
+		<rom name="M(2.2055).eprom.def.xml" size="2240" crc="1f2e93f7" sha1="e79ea4144303c86e272816cf415469aa37796a2b"/>
+	</game>
+	<game name="M(2.2061).eprom.def">
+		<rom name="M(2.2061).eprom.def.xml" size="3055" crc="e25d0634" sha1="c3f0286862d9638dbf0d665a9aaf8dd2aa6b2f38"/>
+	</game>
+	<game name="M(2.2065).eprom.def">
+		<rom name="M(2.2065).eprom.def.xml" size="2486" crc="0acdecf8" sha1="da039e34d3c21e108c7b937de3883dbcfa572942"/>
+	</game>
+	<game name="M(2.2069).eprom.def">
+		<rom name="M(2.2069).eprom.def.xml" size="2500" crc="00fb4543" sha1="19aab8fe0bb8a330f02be1b863cb69e98c554681"/>
+	</game>
+	<game name="M(2.444).eprom.def">
+		<rom name="M(2.444).eprom.def.xml" size="1155" crc="179a34ae" sha1="3bc7faadb18107964eda524be21e55c2923b50b9"/>
+	</game>
+	<game name="M(2.476).eprom.def">
+		<rom name="M(2.476).eprom.def.xml" size="1766" crc="4954bbe6" sha1="ce83d6e0880a7281e97a188d002c77abc060e66a"/>
+	</game>
+	<game name="M(2.504).eprom.def">
+		<rom name="M(2.504).eprom.def.xml" size="2650" crc="50d5e2aa" sha1="5079bc7a4a896fe1082b18233625372af4fbc221"/>
+	</game>
+	<game name="M(2.507).eprom.def">
+		<rom name="M(2.507).eprom.def.xml" size="1524" crc="5069676d" sha1="b354007075c29abe4f28b994081847fc3c88bbd9"/>
+	</game>
+	<game name="M(2.515).eprom.def">
+		<rom name="M(2.515).eprom.def.xml" size="2350" crc="899726e7" sha1="30e230fa508d12276c38aa9a19c0e3f0d97fbd77"/>
+	</game>
+	<game name="M(2.818).eprom.def">
+		<rom name="M(2.818).eprom.def.xml" size="2075" crc="5a0f3f9a" sha1="c75d6a47ab085e1bd6b228093f4dd4bdb626f2e2"/>
+	</game>
+	<game name="M(2.821).eprom.def">
+		<rom name="M(2.821).eprom.def.xml" size="5066" crc="20d0613b" sha1="2dc0a8807b2af8c4aa6a249b9acb22cf29d5e795"/>
+	</game>
+	<game name="M(2.855).eprom.def">
+		<rom name="M(2.855).eprom.def.xml" size="2294" crc="2145f0e0" sha1="beb386aede8f27aea9b069bb2ed205ab03802ca9"/>
+	</game>
+	<game name="M(2.856).eprom.def">
+		<rom name="M(2.856).eprom.def.xml" size="2057" crc="119a846c" sha1="a037862b5fb398131f3c8062682f66ada8fe3f8e"/>
+	</game>
+	<game name="M(2.870).eprom.def">
+		<rom name="M(2.870).eprom.def.xml" size="2058" crc="a1a5e717" sha1="9dedfb5c22105e3adc6558e70ac6e719c9721a4b"/>
+	</game>
+	<game name="M(2.949).eprom.def">
+		<rom name="M(2.949).eprom.def.xml" size="2217" crc="86d29336" sha1="65e959b21295c1f252c7a71ed6f8c2a5d6a6a4fa"/>
+	</game>
+	<game name="M(2.950).eprom.def">
+		<rom name="M(2.950).eprom.def.xml" size="2223" crc="beeb57aa" sha1="1d1b6b03896962aa4804100b43d1db7e19b791af"/>
+	</game>
+	<game name="M(2.951).eprom.def">
+		<rom name="M(2.951).eprom.def.xml" size="2720" crc="0186b92d" sha1="c9cb4abdfa00802208435761c33ccc1d3c805899"/>
+	</game>
+	<game name="M(2.965).eprom.def">
+		<rom name="M(2.965).eprom.def.xml" size="4966" crc="fe80e2e0" sha1="56d24eb71db50e8bfd471fb17f8bebf34eca0db7"/>
+	</game>
+	<game name="M(4.11).eprom.def">
+		<rom name="M(4.11).eprom.def.xml" size="301" crc="85e790ac" sha1="27c6c4814fcc7a1310babda1e3b391a90771938b"/>
+	</game>
+	<game name="M(4.111).eprom.def">
+		<rom name="M(4.111).eprom.def.xml" size="2561" crc="8e57917b" sha1="962affa7a8b688bf0bc5750379eb06541d7ef56d"/>
+	</game>
+	<game name="M(4.111).MCU.eprom">
+		<rom name="M(4.111).MCU.eprom.xml" size="173" crc="cdfd3406" sha1="cfbaae53dfe8ebc0f0d999192d1f4a776889cf7a"/>
+	</game>
+	<game name="M(4.121).eprom.def">
+		<rom name="M(4.121).eprom.def.xml" size="762" crc="36c1dfc0" sha1="49a00d4e42973124965038634b20e64866e03c59"/>
+	</game>
+	<game name="M(4.141).config.InspiredOpenTITO.eprom.def">
+		<rom name="M(4.141).config.InspiredOpenTITO.eprom.def.xml" size="551" crc="8cacbc45" sha1="4dd97d6de5fac243d54b40446bd3f18ff21670b3"/>
+	</game>
+	<game name="M(4.52).eprom.def">
+		<rom name="M(4.52).eprom.def.xml" size="3424" crc="439745d6" sha1="155d156feb71221d59d806648d172fd4a570195b"/>
+	</game>
+	<game name="M(4.61).eprom.def">
+		<rom name="M(4.61).eprom.def.xml" size="3895" crc="9cfb6244" sha1="59dba6a11c8e3508b2bf0a2c86aebba7aae3fc91"/>
+	</game>
+	<game name="M(4.61).MCU.eprom">
+		<rom name="M(4.61).MCU.eprom.xml" size="3758" crc="703f7044" sha1="4ee426c618b89b88b34c9b28356cde5eadc3e669"/>
+	</game>
+	<game name="M(4.81).region.english.eprom">
+		<rom name="M(4.81).region.english.eprom.xml" size="276" crc="c4bd1571" sha1="042d5d203b29eb557e1b677849455ef4b1282c59"/>
+	</game>
+	<game name="M(4.91).region.english.eprom">
+		<rom name="M(4.91).region.english.eprom.xml" size="337" crc="9a98ef7e" sha1="7b2f49d7d2d9610f26630dd33ab5d931736a5aa9"/>
+	</game>
+	<game name="M(5.104).eprom.def">
+		<rom name="M(5.104).eprom.def.xml" size="1555" crc="20dac501" sha1="0a76fad4dc7c56f0a0536d09e236df1638dea044"/>
+	</game>
+	<game name="M(5.105).eprom.def">
+		<rom name="M(5.105).eprom.def.xml" size="428" crc="615228ff" sha1="a2a2ac89cf66b941f7abc9aee8e2bd7930bcc36d"/>
+	</game>
+	<game name="M(5.2).eprom.def">
+		<rom name="M(5.2).eprom.def.xml" size="5303" crc="c12424af" sha1="9c1c9b7a89a50a47cb7fc4c1e89fbc3ebb99edef"/>
+	</game>
+	<game name="M(5.2).eprom.vp">
+		<rom name="M(5.2).eprom.vp.xml" size="236" crc="4be6e3de" sha1="a040b50f4d72404916fa8a003a4583d243782a43"/>
+	</game>
+	<game name="M(5.20).eprom.def">
+		<rom name="M(5.20).eprom.def.xml" size="652" crc="ee04b4a3" sha1="c969ba27a745213e5599a848f1a91ee5a179af35"/>
+	</game>
+	<game name="M(5.24).eprom.def">
+		<rom name="M(5.24).eprom.def.xml" size="728" crc="e071707d" sha1="5c028e59f7f4a19f9d9dd4d2408b7ff02b760f38"/>
+	</game>
+	<game name="M(5.27).eprom.def.xml">
+		<rom name="M(5.27).eprom.def.xml" size="1131" crc="f5b9d432" sha1="b647535489a4633435e84baa886f86ba3374cf5b"/>
+	</game>
+	<game name="M(5.27).eprom.def.xml~AGI">
+		<rom name="M(5.27).eprom.def.xml~AGI" size="48" crc="68a2391b" sha1="67574045532e38e471113a4487b50db2261d5db6"/>
+	</game>
+	<game name="M(5.28).eprom.def.xml">
+		<rom name="M(5.28).eprom.def.xml" size="1522" crc="ba20720c" sha1="a7bfdf29ea2ef576455834cacb7ce1948b35b59e"/>
+	</game>
+	<game name="M(5.28).eprom.def.xml~AGI">
+		<rom name="M(5.28).eprom.def.xml~AGI" size="48" crc="0d5058e7" sha1="2b64e19619fb890009e40998cc86d2a2fc510cbe"/>
+	</game>
+	<game name="M(5.29).eprom.def">
+		<rom name="M(5.29).eprom.def.xml" size="2483" crc="14ae6359" sha1="cc819a8232967593eb80ed19d241c050145d321d"/>
+	</game>
+	<game name="M(5.29).MCUMaxWin.eprom">
+		<rom name="M(5.29).MCUMaxWin.eprom.xml" size="103" crc="5d06d058" sha1="c5f2376f78d7f783433086237fe8d4fe8098a67e"/>
+	</game>
+	<game name="M(5.34).eprom.def.xml">
+		<rom name="M(5.34).eprom.def.xml" size="2256" crc="6e99cb2d" sha1="51ac583d48c553a42442ee840de9f5b598173949"/>
+	</game>
+	<game name="M(5.34).eprom.def.xml~AGI">
+		<rom name="M(5.34).eprom.def.xml~AGI" size="48" crc="cbe1174e" sha1="cc7ea2a69ec97e0987d25c828f6d5adf8c067329"/>
+	</game>
+	<game name="M(5.38).eprom.def.xml">
+		<rom name="M(5.38).eprom.def.xml" size="740" crc="99a5a7b5" sha1="60439b64e18ce38de80b85c26b66c7ce04034e2d"/>
+	</game>
+	<game name="M(5.38).eprom.def.xml~AGI">
+		<rom name="M(5.38).eprom.def.xml~AGI" size="48" crc="01fd22bf" sha1="fafecc6d85f6eb81eb15e590e9909e02b05e6bea"/>
+	</game>
+	<game name="M(5.42).eprom.def.xml">
+		<rom name="M(5.42).eprom.def.xml" size="6475" crc="50ce46f9" sha1="53ea8fa5cf6466fe38c99b56ab82e3ebf6cff6fc"/>
+	</game>
+	<game name="M(5.42).eprom.def.xml~AGI">
+		<rom name="M(5.42).eprom.def.xml~AGI" size="48" crc="4ab89f73" sha1="851db4b3f4429d469acf1d1461bee4b220d9af7c"/>
+	</game>
+	<game name="M(5.44).eprom.def">
+		<rom name="M(5.44).eprom.def.xml" size="12009" crc="0176c49b" sha1="348294de82e3be473bd9f2f695201748888ee834"/>
+	</game>
+	<game name="M(5.52).eprom.def">
+		<rom name="M(5.52).eprom.def.xml" size="968" crc="30f0408d" sha1="86e09bad6f6eca1bf5e9aeca0d99c4dc70238dcf"/>
+	</game>
+	<game name="M(5.60).eprom.def">
+		<rom name="M(5.60).eprom.def.xml" size="1716" crc="aa16679a" sha1="5a7cca1900e780e1c12a24e26ad15f4b443fadab"/>
+	</game>
+	<game name="main.eprom.vpdef">
+		<rom name="main.eprom.vpdef.xml" size="2106" crc="2fbe987a" sha1="1e65355cdb005c70af289e7639d1a4b88418f6d0"/>
+	</game>
+	<game name="MCU_InitialSetup.eprom.custom">
+		<rom name="MCU_InitialSetup.eprom.custom.xml" size="862" crc="9feb9cbe" sha1="6edc167992920d9ccb5800e8f273def0e23f77fa"/>
+	</game>
+	<game name="oldMenuSettings">
+		<rom name="oldMenuSettings.xml" size="8208" crc="c08fc1f9" sha1="2522c40998810451f3ffd383375c5e9171767d5c"/>
+	</game>
+</datafile>

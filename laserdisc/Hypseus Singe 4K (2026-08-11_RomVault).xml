@@ -1,0 +1,207 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Hypseus Singe 4K</name>
+		<description></description>
+		<category>Laserdisc</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault forcepacking="fileonly"/>
+	</header>
+	<rom name="gamecontrollerdb.txt" size="564965" crc="360237fe" sha1="e1655f71eb05c2bdb41425c05ef534d22d3c0a49"/>
+	<rom name="hypjsch.exe" size="4500992" crc="d5ab324f" sha1="59f54b37c2c70ee4b1afe17b872a89577d56b747"/>
+	<rom name="hypseus-logo.png" size="114876" crc="a21fe175" sha1="4d24b293d74a1f09d6a985155187575bf106a673"/>
+	<rom name="hypseus.exe" size="14654464" crc="722efa94" sha1="efaab07faaedd565317b91f6a7e342717b57765a"/>
+	<rom name="hypseus_subsystem.exe" size="14654464" crc="6bcb9a16" sha1="77470e01145d77d68b890d3771abfb0ab35772f7"/>
+	<rom name="LICENSE" size="32472" crc="b792a93a" sha1="a6adc13d0c809ab8cb68e6e3b6eb7571bd0e2920"/>
+	<rom name="README.txt" size="3725" crc="0e2364ee" sha1="b9cb9a8492995aa797965f0631367faf1a3aef7e"/>
+	<rom name="README_BEZELS.txt" size="2050" crc="c4398bbb" sha1="8321a43662cefea66573c5deab2cc9a72bb8ca0c"/>
+	<game name="batch">
+		<rom name="4K Cliff Hanger (Italian) [2880x2160][FS][Video].bat" size="136" crc="63969300" sha1="aa7068553ebae7bcd28a40433826cfa17c5115fe"/>
+		<rom name="4K Cliff Hanger (Italian) [alt][no OSD][2880x2160][FS][Video].bat" size="139" crc="691cedeb" sha1="b78305fde3e30895f727592d1627650b307cb64f"/>
+		<rom name="4K Cliff Hanger [2880x2160][FS][Video].bat" size="122" crc="74507a1d" sha1="872cd67a8e631dca926276365d43a3d91a135006"/>
+		<rom name="4K Cliff Hanger [alt][no OSD][2880x2160][FS][Video].bat" size="125" crc="57b751b5" sha1="b2772ec2b8bddcde0f8d93dc46b513e446a2aa0b"/>
+		<rom name="4K Esh&apos;s Aurunmilla [2880x2160][FS][Video].bat" size="100" crc="86d0b960" sha1="0c37f879b8f6c6d92430b8dc99615306dc5e6336"/>
+		<rom name="4K Esh&apos;s Aurunmilla [2880x2160][nolinear][FS][Video].bat" size="116" crc="140b8b6f" sha1="21463a72b4888d8be16f944c6f7febf9649d79aa"/>
+		<rom name="4K Esh&apos;s Aurunmilla [alt v1][2880x2160][nolinear][FS][Video].bat" size="119" crc="f71f2888" sha1="1659e6fbab4a173f2f2493e0f8627a640c61e30a"/>
+		<rom name="4K Esh&apos;s Aurunmilla [alt v2][2880x2160][nolinear][FS][Video].bat" size="120" crc="b3bf116e" sha1="28c9caaa910188034cf5f52fea2367b495273048"/>
+		<rom name="4K Super Don Quix-ote [2880x2160][FS][Video].bat" size="132" crc="a5ac9e2e" sha1="a5e3c26acbf27a406d69d11bad9ee965700c33ed"/>
+		<rom name="4K Super Don Quix-ote [2880x2160][nolinear][FS][Video].bat" size="150" crc="867f3fa7" sha1="bdfb9e0a73c85943091e3794e7adafc9e88fcceb"/>
+		<rom name="4K Super Don Quix-ote [short][2880x2160][FS][Video].bat" size="137" crc="b16b4120" sha1="1e0f875a06bd57a6598bd5676bb109dbb8408460"/>
+		<rom name="4K Super Don Quix-ote [short][alt][2880x2160][FS][Video].bat" size="140" crc="be1bd925" sha1="54fa08f4d9e93fead8e66e322a22d2fbf8e3a329"/>
+		<rom name="4K Super Don Quix-ote [short][nolinear][2880x2160][FS][Video].bat" size="155" crc="e82f30cd" sha1="2188f2bed47681e155ffe05155ab5adb0ba7286b"/>
+		<rom name="4K Super Don Quix-ote [short][nolinear][alt][2880x2160][FS][Video].bat" size="158" crc="ccf63ca5" sha1="d2dc3cc7c94cabb20b5e9b939aaa1db16ff82fdc"/>
+	</game>
+	<game name="fonts">
+		<rom name="daphne.ttf" size="42316" crc="e8a980c4" sha1="114b34022174570b302fa0b22d71d7d10a6e6fef"/>
+		<rom name="default.ttf" size="38924" crc="7a61047d" sha1="c41977dc265faf65c0a1f2295d36af2fc003eee9"/>
+		<rom name="digital.ttf" size="10044" crc="25f1e07a" sha1="ee33e4cbcec5f752dbf493bd19ddcd2817311911"/>
+		<rom name="timewarp.ttf" size="26612" crc="1c21024f" sha1="ef9dd1ce72ea5e849382aca1a8d77da8f34db9b2"/>
+	</game>
+	<game name="midi">
+		<rom name="COPYING.txt" size="18962" crc="9f0588ba" sha1="ce62f9e8817b2202ba26b04f69d939b5ee5f191e"/>
+		<rom name="soundfont.sf2" size="5969788" crc="d6ff6f31" sha1="63e4eab3162ef10ffd99e89f13e4e67f751e9900"/>
+		<rom name="SOUNDFONTS.txt" size="414" crc="4dbad077" sha1="0699be6a163fdb77010037c29ae6ecf3c1a5fb7e"/>
+	</game>
+	<game name="pics">
+		<rom name="annunoff.png" size="2307" crc="340bcb99" sha1="6e6a390981d3061f175f651d86809d9102ae9a14"/>
+		<rom name="annunon.png" size="2394" crc="59fbf800" sha1="e42050d4e4c13618d30688cd459c6f49e995438f"/>
+		<rom name="cadet.bmp" size="11690" crc="f5355632" sha1="3c5e70c58e2f0cff353eda64478a6f7f2847d80c"/>
+		<rom name="captain.bmp" size="11690" crc="c51114fb" sha1="548dbf981cbcfca7879fd5d4a336aa1073005269"/>
+		<rom name="ConsoleFont.bmp" size="59958" crc="58ed09a5" sha1="df986b2a4128f4db2fd254a624eef3a5c7706276"/>
+		<rom name="credits.bmp" size="6456" crc="79448e1c" sha1="e3c6763a40d47a69f37949e8a8c1cc76363d5dd0"/>
+		<rom name="gamenowook.bmp" size="230456" crc="9efdc49f" sha1="3811b8d2796bae86c37ab49253ae8c9d05187b9f"/>
+		<rom name="ldp1450font.bmp" size="39800" crc="cecb6470" sha1="bf6c086051a3f132669a9d76548e918cc088af6b"/>
+		<rom name="led0.bmp" size="6416" crc="d0bf0ad6" sha1="415ff6e902ece2278974beb0dde0cea7d8d58ebd"/>
+		<rom name="led1.bmp" size="6416" crc="f1e8be3b" sha1="ee10b5be7fce3f69c6a5dc8ffccdbc5eecca4343"/>
+		<rom name="led10.bmp" size="6416" crc="c5d65a56" sha1="08016394c2cf99b67ceb9a96375d244e5e383631"/>
+		<rom name="led11.bmp" size="6416" crc="a8e95d3a" sha1="b185d44f3924464fe064102f1d6a69fa27bd475d"/>
+		<rom name="led12.bmp" size="6416" crc="93763273" sha1="2c994cf58397854a2df8b7e7e4245fccdfd3c029"/>
+		<rom name="led13.bmp" size="6416" crc="548286ae" sha1="47c82335c43bba27b803c60be6c4de4ae73e70d8"/>
+		<rom name="led14.bmp" size="6416" crc="caf0c900" sha1="de9b683ce011207e274431b16e86d1e7fd06574c"/>
+		<rom name="led15.bmp" size="6416" crc="ff083233" sha1="b45a35f055846f9a60053da33111f40d56423101"/>
+		<rom name="led16.bmp" size="6414" crc="9a01d6f9" sha1="858f03b4a6b0c3ebb709b10fb7f47bf4626b51c2"/>
+		<rom name="led17.bmp" size="6482" crc="9b193e27" sha1="81503708600baa3de90bf9a3e9d38006a1e3ba2e"/>
+		<rom name="led2.bmp" size="6416" crc="1aa8e67b" sha1="c9ec4f10c4c68e2355b186c2f2a294de2bef0b63"/>
+		<rom name="led3.bmp" size="6416" crc="42e71d1e" sha1="dadc0e94c2c0a149b9e31bb59b5f266002ed2136"/>
+		<rom name="led4.bmp" size="6416" crc="59d0764a" sha1="a632ee30590e79640c744f8bdb498fb2f3cbf5b3"/>
+		<rom name="led5.bmp" size="6416" crc="1bc2089e" sha1="a39e23d23bd7a5e7faf6b0b8064fb2d2d9728732"/>
+		<rom name="led6.bmp" size="6416" crc="07323b74" sha1="f4c0ebaa64680b9fc1c440f0e9df69c60d60a641"/>
+		<rom name="led7.bmp" size="6416" crc="d763a50e" sha1="56f355db48cc8781c91d14f042c44637123ad012"/>
+		<rom name="led8.bmp" size="6416" crc="955fd0c9" sha1="3647e87dc5b54820e5af32f830d21904a325d50a"/>
+		<rom name="led9.bmp" size="6416" crc="d0b41f03" sha1="894fc497470c19ed1b7ec22452a6627e8cb5318b"/>
+		<rom name="lives.bmp" size="4056" crc="5ecbbb99" sha1="f999e3633da51eaafe0874503cff8bcaab9a74b5"/>
+		<rom name="offcadet.bmp" size="35338" crc="445c85fb" sha1="c82bd6834a590c9e5972939e0b25a4934720d811"/>
+		<rom name="offcaptain.bmp" size="35338" crc="41bc740c" sha1="f90ebc0d81aa40e4ccf094704866d25f5216de8c"/>
+		<rom name="offspaceace.bmp" size="35338" crc="15d8b597" sha1="39f4713b4c08a3db77447798be7671fbbe1f26e8"/>
+		<rom name="oncadet.bmp" size="35338" crc="aab134ac" sha1="29a80f654da3ed08ace7086c26707a7d0eeb32d4"/>
+		<rom name="oncaptain.bmp" size="35338" crc="180311ac" sha1="8e425b8ac9265f31886d3b33b8e49c983b4bf659"/>
+		<rom name="onspaceace.bmp" size="35338" crc="e2744472" sha1="7b04b27ecd2aa6668e8b48ee517859a9eac9f29b"/>
+		<rom name="overlayleds1.bmp" size="5358" crc="ac1b9867" sha1="3f96c2064d186f3f48009ea101baea95dcb296ca"/>
+		<rom name="overlayleds2.bmp" size="5360" crc="4910e777" sha1="9e1af5bc4cbcf41e187e4ce231c48229da8e16af"/>
+		<rom name="player1.bmp" size="12538" crc="0b7b4695" sha1="53186388db16c5b2b2ea84cd18f9089e0166d94a"/>
+		<rom name="player2.bmp" size="12538" crc="6f4307de" sha1="5be47ae05940c5702255b02837bac94b43d2eb6a"/>
+		<rom name="saveme.bmp" size="230456" crc="a4f56e15" sha1="2c6e647595f428ad9b06ebc2bf22e0c21daad926"/>
+		<rom name="shoot.bmp" size="294" crc="a3bfac3d" sha1="c005ab964a0878848dc798e0c1104b0410292d85"/>
+		<rom name="singeme.bmp" size="230522" crc="8048388a" sha1="04971ff0df4cca21fb29722c494b4a5e6615f432"/>
+		<rom name="spaceace.bmp" size="18378" crc="1a2699cf" sha1="76781d6ff69cb8cb7e3497f0e081ba44e8853e12"/>
+		<rom name="time.bmp" size="4378" crc="2600f7a8" sha1="79f9cd76bc6b00625c317435e215d536f08a195c"/>
+		<rom name="tqkeys.png" size="795112" crc="fbeed87d" sha1="0d28b8e4788d95c6abd3f20b8c432ac3285d4684"/>
+	</game>
+	<game name="roms">
+		<rom name="cliff.zip" size="16725" crc="8a6d606e" sha1="8ed9ed6b107fbb8c934b6474f0375b67f40529ed"/>
+		<rom name="cliffalt.zip" size="15414" crc="da258099" sha1="95f21aa0907bd3cc58f420609ab6073f3a9f1f72"/>
+		<rom name="esh.zip" size="22824" crc="789f9cdf" sha1="ced4afb2700af8807b0113b74f520b7ba0a2613e"/>
+		<rom name="eshalt.zip" size="6169" crc="9e1d33b1" sha1="e418e00ff8d511cf47e8367dc41ae2e9b707bc7d"/>
+		<rom name="eshalt2.zip" size="5789" crc="2df868d1" sha1="4fea6be1cf6afcc9c60c8aa41c07ab748f463c4e"/>
+		<rom name="eshfix7.zip" size="17888" crc="36df9561" sha1="20593dc108de76251247edd7614a26a8af37a981"/>
+		<rom name="eshfix7alt.zip" size="31608" crc="466952af" sha1="6cc76f261674ff51e322db106bd6ea104e344874"/>
+		<rom name="eshfix7alt2.zip" size="31601" crc="51a528e4" sha1="81a05a6753f8651eba7f16b7868375e8636b4c12"/>
+		<rom name="sdq.zip" size="11934" crc="8493b470" sha1="b46a940ce4d6907c827b168c5062eb3a5b45f3d7"/>
+		<rom name="sdqshort.zip" size="11697" crc="3c3abc03" sha1="29b4dfb1401549d8eef5df656cd4504fbf385ab1"/>
+		<rom name="sdqshortalt.zip" size="10422" crc="3117d010" sha1="df6755d7f7ffb1a1eeb7d1e23a32e27c55ca513a"/>
+	</game>
+	<game name="sound">
+		<rom name="ab_alarm1.wav" size="8304" crc="28bc4f2e" sha1="7bc31f484a529494a50fb25fb045b2d9f568b2d4"/>
+		<rom name="ab_alarm2.wav" size="8294" crc="404074d0" sha1="a4c93dc8831509397b71f0e25d6f4e543fb49828"/>
+		<rom name="ab_alarm3.wav" size="8592" crc="d678f828" sha1="f04a30887af88026375557c830ad0c7fd1c853d4"/>
+		<rom name="ab_alarm4.wav" size="8142" crc="ee11bd67" sha1="1aae900d3c538280f779f30d31e2f08fd291b602"/>
+		<rom name="ab_enemy.wav" size="23860" crc="86b6c797" sha1="0eab496c59af7496de15c535137b0af312713509"/>
+		<rom name="ab_fire.wav" size="73536" crc="82130fe2" sha1="e6523f1c7ef9c6d133e727f8cd0721ee7bc1b335"/>
+		<rom name="ab_ship.wav" size="80200" crc="df8dd55d" sha1="fd282d7b9da24cc4963ae08e74c476daef97c796"/>
+		<rom name="bl_shot.wav" size="63756" crc="53cc6b38" sha1="e79b312701c960be0b2fc2a67edb269966292ba8"/>
+		<rom name="cliff_correct.wav" size="8882" crc="32ced736" sha1="89973149b747af01eafd4ce34ed189ddef9dae4d"/>
+		<rom name="cliff_startup.wav" size="22218" crc="9c518272" sha1="5574bb8a73bcf4306dd7b0204ef878d8d2c94f2d"/>
+		<rom name="cliff_wrong.wav" size="13450" crc="ee46d33e" sha1="063afc867016ae6aca0c06ee242063567b78e428"/>
+		<rom name="dl2_bad.wav" size="18730" crc="434078c6" sha1="331f634d54b19249e1aa049b905203ed97d1cd24"/>
+		<rom name="dl2_coin1.wav" size="35386" crc="8fd03bdb" sha1="fb2bf85565af2fb9809810604e2016f0e80494f6"/>
+		<rom name="dl2_coin2.wav" size="35386" crc="8fd03bdb" sha1="fb2bf85565af2fb9809810604e2016f0e80494f6"/>
+		<rom name="dl2_coin3.wav" size="35386" crc="8fd03bdb" sha1="fb2bf85565af2fb9809810604e2016f0e80494f6"/>
+		<rom name="dl2_coin4.wav" size="35386" crc="8fd03bdb" sha1="fb2bf85565af2fb9809810604e2016f0e80494f6"/>
+		<rom name="dl2_error.wav" size="8882" crc="32ced736" sha1="89973149b747af01eafd4ce34ed189ddef9dae4d"/>
+		<rom name="dl2_good.wav" size="13098" crc="73405af2" sha1="3e0b72e32d93064f4af6f1369c3cf1cf6722ef2e"/>
+		<rom name="dl2_tic.wav" size="22218" crc="9c518272" sha1="5574bb8a73bcf4306dd7b0204ef878d8d2c94f2d"/>
+		<rom name="dl2_toc.wav" size="22218" crc="9c518272" sha1="5574bb8a73bcf4306dd7b0204ef878d8d2c94f2d"/>
+		<rom name="dl2_warble.wav" size="3452" crc="a4d6dfa0" sha1="ec63b0b823d2568dd1fe45a741ad5c8dede4b09f"/>
+		<rom name="dl2_warn.wav" size="13450" crc="ee46d33e" sha1="063afc867016ae6aca0c06ee242063567b78e428"/>
+		<rom name="dl_accept.wav" size="12952" crc="dae821d2" sha1="52fde6e148bef23c201cf0e1ae85f2f05b82d1f3"/>
+		<rom name="dl_buzz.wav" size="17756" crc="0e23aecb" sha1="8141f95cc7610b1d9c8e6d1374408821e292191c"/>
+		<rom name="dl_credit.wav" size="35660" crc="e4840ec7" sha1="a3b767b9fac0561cdd02a6561e2496c6e06cb3d6"/>
+		<rom name="esh_beep.wav" size="88244" crc="78c30065" sha1="79a577c1e8edcc0844c6f24d7a86a3f68a7ce180"/>
+		<rom name="gp_count.wav" size="48588" crc="0196e907" sha1="a7be6a7412ceeb638bbb54dedf5a86e4009f30e7"/>
+		<rom name="gp_crash.wav" size="88278" crc="ac460ff1" sha1="2acd02b44776ba9e8c0757de2d9ef01c98a35034"/>
+		<rom name="gp_engine1.wav" size="70722" crc="7cb3f253" sha1="0c10deba2d70439e2f51ab744481f5087d934d5e"/>
+		<rom name="gp_engine2.wav" size="70722" crc="85a79d15" sha1="de096e18ee3564bf613a6ef00b0c0f8f85450122"/>
+		<rom name="gp_roar.wav" size="70638" crc="61eb2259" sha1="fce89eb3458b7cc2a03f5769df6a58526418a729"/>
+		<rom name="gp_signal.wav" size="39768" crc="d7a2f71d" sha1="4b7e64eae5bf72c7cf8e178cef25e2cff7696fd8"/>
+		<rom name="gp_tires.wav" size="73630" crc="82c04d64" sha1="42a025bdb92c4959e084b3dd9468f5d8f6811d98"/>
+		<rom name="gr_alarm1.wav" size="9176" crc="1ddc423b" sha1="3e7f83ed7198320521065a162491973c86d7c642"/>
+		<rom name="gr_alarm2.wav" size="9114" crc="f182a3f3" sha1="e9a3a470351d5b1d30caa8dc4f9e0b811891366b"/>
+		<rom name="gr_alarm3.wav" size="9028" crc="251932fb" sha1="342830ffb34b8cfcc549aa2b8c733912d60ecdc9"/>
+		<rom name="gr_alarm4.wav" size="9114" crc="9d69795f" sha1="7ef21a2c2b8f1a8727e0d76cb2a2f7a94495e63c"/>
+		<rom name="gr_attack.wav" size="23886" crc="5feb3eb6" sha1="8567d44e586af3d5d7ea1eeb92e8b430fa6330c9"/>
+		<rom name="gr_cannon.wav" size="117458" crc="35f202c2" sha1="a0e842358ffb71509479276f70fb9c3284861309"/>
+		<rom name="gr_fire.wav" size="48556" crc="67bfdcda" sha1="29f988e96daec106b75915f332eadf258fc711de"/>
+		<rom name="gr_mineon.wav" size="272942" crc="d9bc6865" sha1="37b4d89a675b48ab726b8117150f94e97e34a3fb"/>
+		<rom name="grumble.wav" size="243756" crc="49a0a136" sha1="345d1a977cd5ecc287f54fc86be08259235b55eb"/>
+		<rom name="mach3-01.ogg" size="5859" crc="a6c5d8cd" sha1="a0684ff8a559d0f40feb262befbdb65e1e5ee658"/>
+		<rom name="mach3-02.ogg" size="13753" crc="720b670e" sha1="9704393dad3b3771c04b1f14fd8d236cca49ef18"/>
+		<rom name="mach3-03.ogg" size="4646" crc="f9c173dc" sha1="740b74ead93b56b995d80a62fd0e774157fc5f72"/>
+		<rom name="mach3-04.ogg" size="42350" crc="82bc24a5" sha1="96e5c294371ad642ac864e83158494b6ed803297"/>
+		<rom name="mach3-05.ogg" size="13723" crc="7fac433d" sha1="167684ca52ccbea1048f25280d3c20429925816a"/>
+		<rom name="mach3-06.ogg" size="19912" crc="9bd96c5e" sha1="ad5ccb9ad4037f1134170bdd02f1b6be3c34a7fc"/>
+		<rom name="mach3-07.ogg" size="20618" crc="8516533d" sha1="14b8ad1d951d65f241f9712e94878ee302510f0d"/>
+		<rom name="mach3-08.ogg" size="15158" crc="21ec42ff" sha1="f30864074511d456f788e3af3ea6fd01dae90c91"/>
+		<rom name="mach3-09.ogg" size="8942" crc="a02cfafa" sha1="a6743ecaab722c313ca64ec1f734ec03f4e0c70d"/>
+		<rom name="mach3-11.ogg" size="6771" crc="97c506da" sha1="4554f701c4542fc0ffc29b76f4e9da2ce28260e0"/>
+		<rom name="mach3-13.ogg" size="24766" crc="43526ce3" sha1="b1af31dd52b131f8db966a066726b6ead7a168eb"/>
+		<rom name="mach3-15.ogg" size="18061" crc="108df98d" sha1="74146594e97c3e9d30736c45745bd47e632b0303"/>
+		<rom name="mach3-19.ogg" size="25810" crc="625b390e" sha1="311ad6e6f8f29f196a37d3a37d7c03d62c6de517"/>
+		<rom name="mach3-20.ogg" size="24032" crc="17268569" sha1="bd34699d4ca9ad0c5d98dc189a9639eb5931dfa2"/>
+		<rom name="mach3-22.ogg" size="38250" crc="26ff3db1" sha1="d0531bed46670bd09645184327ebb8b5e4c7b79e"/>
+		<rom name="mach3-33.ogg" size="21982" crc="b8a9675d" sha1="58e2869c94528a4085b73a509c2ffca3c590f799"/>
+		<rom name="mach3-34.ogg" size="5630" crc="12479281" sha1="bdeb7a82947b6fa5fa17d030716335cc34665257"/>
+		<rom name="mach3-35.ogg" size="8182" crc="a8431070" sha1="7e51173a0b8a546f196039a0ae46174aefbef702"/>
+		<rom name="mach3-36.ogg" size="32764" crc="c86d2a29" sha1="f497ac2529ada09dffaaface55db71d6439710e1"/>
+		<rom name="mach3-37.ogg" size="33135" crc="ab3ea2ac" sha1="2da58a0014979f4e1f9b843d11317f3b1d593488"/>
+		<rom name="mach3-39.ogg" size="30700" crc="28322d43" sha1="bb28449ecfb7f63dc999087268958acf232eed5a"/>
+		<rom name="mach3-40.ogg" size="20653" crc="6fd5f8b3" sha1="8ffeb3f36b1f9e434624ad90204fbad0c6e881f4"/>
+		<rom name="mach3-41.ogg" size="25080" crc="21d58dd1" sha1="b2957b66ae1e0115597a3f501c7847693427ec24"/>
+		<rom name="mach3-42.ogg" size="21271" crc="a3a50f3e" sha1="811484a1947276cef3dfa947aaf0e20715f6cc6b"/>
+		<rom name="mach3-43.ogg" size="7322" crc="33863f41" sha1="80aeb19041a7089a4ffd2286bc49b6b850584ddc"/>
+		<rom name="mach3-45.ogg" size="30016" crc="71ae0ce0" sha1="370bc6d6ee9efb89f7bd380d7141d9a5b33284fa"/>
+		<rom name="mach3-49.ogg" size="17933" crc="d4327e82" sha1="0ff4abf03f39e97207490c130f32b3e4d880a56a"/>
+		<rom name="mach3-null.ogg" size="3753" crc="3f6eb8f0" sha1="7d39117c05ba1bfcfb83dddd94a6bd3129976aef"/>
+		<rom name="saveme.wav" size="162338" crc="302c8f3e" sha1="8622b8e01bb0257a531421bf14bd26217a2339f2"/>
+		<rom name="sd_coin.wav" size="97064" crc="72e79a68" sha1="f7a198b9e61f14d767ce4bcc1b1be1e3c33dcdd0"/>
+		<rom name="sd_fail.wav" size="15214" crc="b7d072cc" sha1="1e2feac580e6f984bca981ed7b60183a905d852b"/>
+		<rom name="sd_succeed.wav" size="11782" crc="77ce2283" sha1="87df33ff512dcd73d41158108083c455387ce805"/>
+		<rom name="sda_success_hi.wav" size="11796" crc="bf579648" sha1="28ebdaef0992463b3ad055989dc9c65aa5f2a8dc"/>
+		<rom name="sda_success_lo.wav" size="11822" crc="4b6cc3cf" sha1="d9f3a18b64dabddf459c87b4edd81a4e74699c97"/>
+	</game>
+	<dir name="vldp">
+		<game name="cliff">
+			<rom name="cliff-it.ogg" size="34020558" crc="0a293e5e" sha1="e6b72fc1f55fbb0e65ec1707db0277755efbbe60"/>
+			<rom name="cliff.m2v" size="5299437429" crc="526fdf86" sha1="71077f798e561097fa22d40a496c160279ae991d"/>
+			<rom name="cliff.ogg" size="12788179" crc="5458dc1a" sha1="20ae2e5516f9d3ba7ae9f7e4c57a34d300718132"/>
+			<rom name="cliff.txt" size="18" crc="5b07aaad" sha1="9b80ec0df14390c578e6b696a6d74a13f25e3585"/>
+		</game>
+		<game name="esh">
+			<rom name="esh.m2v" size="4928586945" crc="d064345a" sha1="d27f007d8be188663cd13a03e0a99823e6548168"/>
+			<rom name="esh.ogg" size="20380767" crc="34f6c6c6" sha1="bbeb87a733fdebf8a9caeae8f8aef2c8b7650576"/>
+			<rom name="esh.txt" size="13" crc="22ead434" sha1="32b4557fefbea81b0029090c61b919cd3f92b212"/>
+		</game>
+		<game name="sdq">
+			<rom name="sdq-blank.m2v" size="111911" crc="6aef3bcb" sha1="b99bdec3ef9c7059d7663fe21f91f80ba0fe3206"/>
+			<rom name="sdq-colorbars.m2v" size="366367" crc="1a24b345" sha1="c4ce3057078941ff9e1bdeb5e4c7b64d3f4dfccb"/>
+			<rom name="sdq-crosshairs.m2v" size="446721" crc="2429140b" sha1="8485924d4d41e5a5c48b760d32497d625d83ec42"/>
+			<rom name="sdq.m2v" size="2907593522" crc="68559351" sha1="92681112e8d9ac60436e94068602bce6f13c2c11"/>
+			<rom name="sdq.ogg" size="21437159" crc="29d045e0" sha1="b427b877cbe1d5f68801efbe12ed119c3b534f02"/>
+			<rom name="sdq.txt" size="89" crc="544ed45a" sha1="2c1c729eb4d8318ce55344090e2bd27df87bb305"/>
+		</game>
+	</dir>
+</datafile>

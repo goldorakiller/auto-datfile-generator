@@ -1,0 +1,385 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ROMs - Astra (Novomatic)</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="!CODEC DECODER &amp; NET FRAMEWORK FILES">
+		<rom name="dotnetfx.exe" size="23510720" crc="7709e3ad" sha1="a3625c59d7a2995fb60877b5f5324892a1693b2a"/>
+		<rom name="ffdshow (18-01-2010).exe" size="4323036" crc="a3084470" sha1="189673137ee7ab9f09c8cd71f2d788f7f831a730"/>
+	</game>
+	<game name="!INSTRUCTIONS PLEASE READ FIRST">
+		<rom name="--== INSTRUCTIONS  PLEASE READ FIRST ==--.txt" size="2554" crc="c77a343d" sha1="d8edc3612af51cfb5ab6749d4b6a4bf10e62ba1b"/>
+	</game>
+	<game name="Bullion_Bars_5">
+		<rom name="Bullion Bars £5/ButtonConfig.cfg" size="73" crc="3e52037a" sha1="f7414980fcf91483311163fdb2330c4086ee44aa"/>
+		<rom name="Bullion Bars £5/Game.exe" size="686592" crc="f1fb672b" sha1="59dc16b0ea776f94d2021e3ac73ad1be4bb18fb0"/>
+		<rom name="Bullion Bars £5/Meters/meters.mtr" size="512" crc="a0c12094" sha1="385d20ff76e6a22c79af30f512f3341b089e1007"/>
+		<rom name="Bullion Bars £5/PGPSplash.PNG" size="847112" crc="97f66e6e" sha1="6ebf88474af0247eeced0c42d7d56d5274fe9e1b"/>
+		<rom name="Bullion Bars £5/Resources/Button.wad" size="675459" crc="00432d1e" sha1="4fa924f99a2584264abbfa5c6222f3869e9eef13"/>
+		<rom name="Bullion Bars £5/Resources/Extra.wad" size="621111" crc="79612320" sha1="3d1fddb13a1937fdce16435665a3d89ea5ba0d1a"/>
+		<rom name="Bullion Bars £5/Resources/Primary.wad" size="1147999" crc="b5d4e5ba" sha1="e2938e4ea108657d66b8ae74cfe9f1366eae9e01"/>
+		<rom name="Bullion Bars £5/Resources/Resource.wad" size="2797738" crc="aac63fa0" sha1="d7a6a356013aae707d7e359e1b81a3be61eb985e"/>
+		<rom name="Bullion Bars £5/Resources/Secondary.wad" size="863273" crc="0c354ca4" sha1="075fbfa61d7bb73ed5538b705d7f98da3532b7a5"/>
+		<rom name="Bullion Bars £5/ShellDll.dll" size="647168" crc="3b0a14b6" sha1="a057eed6cac183240e80518c0deddac58a7f6b46"/>
+		<rom name="Bullion Bars £5/Sounds/FX5.wav" size="268066" crc="d5ebea67" sha1="63fcaabf3f34269bfb2d4c1c60f1d21b16ed0441"/>
+		<rom name="Bullion Bars £5/Sounds/FX5long1.wav" size="60460" crc="cd994deb" sha1="195bd01e58a06dd0dc01656b4b86b847bcf6f2e9"/>
+		<rom name="Bullion Bars £5/Sounds/FX5long2.wav" size="72620" crc="45f034f8" sha1="9b5f90b9b1d7423c39197ea67717033613f4a7dd"/>
+		<rom name="Bullion Bars £5/Sounds/FX5long3.wav" size="84776" crc="b0496299" sha1="a52624e1818543fd8359a8c5b522139dd1936b6e"/>
+		<rom name="Bullion Bars £5/Sounds/FX5long4.wav" size="96966" crc="f6b94502" sha1="de5b391db0a2709968c9dcdda1afefa2d0ca1e26"/>
+		<rom name="Bullion Bars £5/Sounds/FX6.wav" size="70778" crc="17b3a4aa" sha1="101d53f25cf508424f00e5e65a15b61bd656546a"/>
+		<rom name="Bullion Bars £5/Sounds/FeatureExit.wav" size="481240" crc="8b36fee5" sha1="4d0b749d844a71b52b6b1f7053b429d44956b169"/>
+		<rom name="Bullion Bars £5/Sounds/FeatureIntro.wav" size="196488" crc="28db2b9f" sha1="11dcc1570d094225f625161f2b425e09f5120689"/>
+		<rom name="Bullion Bars £5/Sounds/FeatureLoop.wav" size="2822452" crc="d4111497" sha1="5128a06dd6e94450bc30777ddc7b91295d376542"/>
+		<rom name="Bullion Bars £5/Sounds/Flash.wav" size="401096" crc="6600ab9b" sha1="b9a1afcc346eadaf02031b34f00cc6304b6679f1"/>
+		<rom name="Bullion Bars £5/Sounds/Vault.wav" size="422444" crc="1de96998" sha1="57c53f52fd0854055d4d93da68350f2142832fc6"/>
+		<rom name="Bullion Bars £5/Sounds/Win0.wav" size="88246" crc="1b3ff726" sha1="415d4bc52c532bf7766f140dd98dfded1f6e9a0b"/>
+		<rom name="Bullion Bars £5/Sounds/Win1.wav" size="88248" crc="deeba73f" sha1="b665fd81f718596f071bb8983e6286d757db27ad"/>
+		<rom name="Bullion Bars £5/Sounds/Win2.wav" size="32044" crc="7606dfae" sha1="4eeb89e4a223052024cf63f793bda0efd134f30e"/>
+		<rom name="Bullion Bars £5/Sounds/Win3.wav" size="127028" crc="850bfeba" sha1="a4141e42ae83e8e9df310da9eac90f80f22d883b"/>
+		<rom name="Bullion Bars £5/Sounds/Win4.wav" size="32046" crc="ffd615c5" sha1="56f2effbee01461a20706a482c76b2c367f0e7b5"/>
+		<rom name="Bullion Bars £5/Sounds/Win5.wav" size="88250" crc="9e684887" sha1="d219813ed2f1d35a44a9699b1ac50772dc3fb162"/>
+		<rom name="Bullion Bars £5/Sounds/altReel.wav" size="80656" crc="a36f2443" sha1="81f93f4a16f1e5d6e90753297ed005233e2b9d2c"/>
+		<rom name="Bullion Bars £5/Sounds/bmcash0.wav" size="88244" crc="bcbe1efe" sha1="d69cde0582dc1c499cbea215a63f2ae66ae7db79"/>
+		<rom name="Bullion Bars £5/Sounds/bmcash1.wav" size="88204" crc="8af786f3" sha1="8110bcad39bd0a5d7932a7219d9fab3a2c1afc5e"/>
+		<rom name="Bullion Bars £5/Sounds/bmcash2.wav" size="88244" crc="87471a8e" sha1="49a48091ca0356dbc6aaaa689b342360343c86f5"/>
+		<rom name="Bullion Bars £5/Sounds/bmcash3.wav" size="88240" crc="4a640a76" sha1="ef932f31162cad0636cf1b3dc3056576ce81aa11"/>
+		<rom name="Bullion Bars £5/Sounds/bmcash4.wav" size="88244" crc="9cfb369c" sha1="781992783631038085914ddc5d8ed9b5fc5dc9af"/>
+		<rom name="Bullion Bars £5/Sounds/bmcash5.wav" size="88244" crc="9cfb369c" sha1="781992783631038085914ddc5d8ed9b5fc5dc9af"/>
+		<rom name="Bullion Bars £5/Sounds/cashfinal.wav" size="29860" crc="0af2287a" sha1="82fa9a240b7f5f9543a6eabf0d31671e8aeaa0af"/>
+		<rom name="Bullion Bars £5/Sounds/ching.wav" size="80862" crc="40886a3a" sha1="79bf9fd45e5e89505e3b7bef7d24f04a15d49f00"/>
+		<rom name="Bullion Bars £5/Sounds/count18.wav" size="2182" crc="f56597bf" sha1="e6fa92c822f8784a2418ac59aeb90179d92b650d"/>
+		<rom name="Bullion Bars £5/Sounds/countup.wav" size="21586" crc="2b203004" sha1="52e9951921e6cbdd4f89990477ce022008711a3d"/>
+		<rom name="Bullion Bars £5/Sounds/countupold.wav" size="11908" crc="64c25f07" sha1="8735cda2fb5192aa7a4e636e10e964f2fd2e55db"/>
+		<rom name="Bullion Bars £5/Sounds/gamble2a+1.wav" size="9228" crc="363fda69" sha1="3e8169f22af720a3283f1a108c2452ad686a0556"/>
+		<rom name="Bullion Bars £5/Sounds/gamble2a+2.wav" size="8716" crc="8d537870" sha1="d6b7aaee421c1cb85d7474ddc8995dc9a0391463"/>
+		<rom name="Bullion Bars £5/Sounds/gamble2a+3.wav" size="8234" crc="cc9d16ab" sha1="9f9e2071eb6db274de7e8947a6cb59adfa88df0d"/>
+		<rom name="Bullion Bars £5/Sounds/gamble2a+4.wav" size="7780" crc="28225e7b" sha1="35fb8234cfcacac07425ac6bf543fb7a6733aba4"/>
+		<rom name="Bullion Bars £5/Sounds/gamble2a+5.wav" size="7350" crc="e617f676" sha1="8c3ba39d7bf6edfd5324de149c9743e53995f624"/>
+		<rom name="Bullion Bars £5/Sounds/gamble2a+6.wav" size="6944" crc="a522a169" sha1="929ce827ed9ff6ecf41386cce7286b8f5ce6c02a"/>
+		<rom name="Bullion Bars £5/Sounds/gamble2a-1.wav" size="9996" crc="ab91ed52" sha1="db9aa249f1fe11fefa84d270888d96334acd8a51"/>
+		<rom name="Bullion Bars £5/Sounds/gamble2a.wav" size="9692" crc="d36e9d39" sha1="a5a5281fbb5e5a24c32e609a8fb0377901f0018c"/>
+		<rom name="Bullion Bars £5/Sounds/gamble2b+1.wav" size="9330" crc="fe63aec1" sha1="078e4b80374a1c2a607076e710a544896882de70"/>
+		<rom name="Bullion Bars £5/Sounds/gamble2b+2.wav" size="8814" crc="23e04c50" sha1="c83aba213b1f4b6176c96589a40c7962120235e0"/>
+		<rom name="Bullion Bars £5/Sounds/gamble2b+3.wav" size="8326" crc="50cbd78b" sha1="86976444cddc5a7c6ed2670eb7d6819bc4cd9215"/>
+		<rom name="Bullion Bars £5/Sounds/gamble2b+4.wav" size="7866" crc="57c252e4" sha1="43073596779d00d4f7e948ea4c6dc170eb8c771f"/>
+		<rom name="Bullion Bars £5/Sounds/gamble2b+5.wav" size="7430" crc="4498b643" sha1="67142c4e3a123e19c82c8c8119b140a099192d48"/>
+		<rom name="Bullion Bars £5/Sounds/gamble2b+6.wav" size="7020" crc="7d142942" sha1="45e64a8655ad3a537c59c9c3a12305265c2c0dfe"/>
+		<rom name="Bullion Bars £5/Sounds/gamble2b-1.wav" size="10280" crc="f28da088" sha1="982be88421e0b667ac9b98fece19f68410670ddb"/>
+		<rom name="Bullion Bars £5/Sounds/gamble2b.wav" size="9800" crc="08b31efa" sha1="99855e19abeea18ffedc0892fde0d3706162fa1d"/>
+		<rom name="Bullion Bars £5/Sounds/gamble2new.wav" size="25196" crc="3225705c" sha1="93325fe52e1020ce4a82cb0f4a78300721a4f2f5"/>
+		<rom name="Bullion Bars £5/Sounds/jackpota.wav" size="89960" crc="a5d3004f" sha1="c75191b8cfb87e772dab036bdf222d78bdae68d3"/>
+		<rom name="Bullion Bars £5/Sounds/lose2.wav" size="63580" crc="45dd1763" sha1="aa9db68cb3f4920e15b4bb145c87055e316ed186"/>
+		<rom name="Bullion Bars £5/Sounds/loser.wav" size="268286" crc="0c066dd6" sha1="6ed6ee73480a438df5610960ab7de476912c7cf2"/>
+		<rom name="Bullion Bars £5/Sounds/rstop.wav" size="13526" crc="ddd2a97a" sha1="11da285bb942e468a6d8f552874c85be19dd89ae"/>
+		<rom name="Bullion Bars £5/Sounds/turn_card1.wav" size="69098" crc="012073a7" sha1="145628327699aad88f3f478760682a4af7c7c5d4"/>
+		<rom name="Bullion Bars £5/Sounds/vibes.wav" size="315462" crc="41d966b9" sha1="0018554df058eee1b8eb1138f3100bc0263ec469"/>
+		<rom name="Bullion Bars £5/Sounds/winsound3.wav" size="88244" crc="bcbe1efe" sha1="d69cde0582dc1c499cbea215a63f2ae66ae7db79"/>
+		<rom name="Bullion Bars £5/Sounds/winsound4.wav" size="88204" crc="8af786f3" sha1="8110bcad39bd0a5d7932a7219d9fab3a2c1afc5e"/>
+		<rom name="Bullion Bars £5/Sounds/winsound5.wav" size="88244" crc="87471a8e" sha1="49a48091ca0356dbc6aaaa689b342360343c86f5"/>
+		<rom name="Bullion Bars £5/VersionInfo.txt" size="38" crc="f290c491" sha1="3c65d9fdf653cefe0f897ad2bcd812405c9cbe6e"/>
+		<rom name="Bullion Bars £5/attract.avi" size="17309696" crc="1dc80ec2" sha1="f55bd4cfbb4fe79e0f948b527cd3274332fdb393"/>
+		<rom name="Bullion Bars £5/config.dat" size="28" crc="ec7a8940" sha1="97605b7db25c25ca6ff3f141e79f2c014cb6fd8a"/>
+		<rom name="Bullion Bars £5/recall/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Bullion_Bars_500">
+		<rom name="Bullion Bars £500/Bitmaps/20lineshelp.png" size="436627" crc="d815d596" sha1="abbbdb27d6043a809a7d0609c5a9eb7578adec9c"/>
+		<rom name="Bullion Bars £500/Bitmaps/Jackpot.png" size="109518" crc="62cad3f9" sha1="037710c95107e6521d93e322ec05c112bd745a92"/>
+		<rom name="Bullion Bars £500/Meters/meters.mtr" size="512" crc="967cdea0" sha1="1f9e8f951036c444c3ff71ec3988ccbe536a6339"/>
+		<rom name="Bullion Bars £500/PGPSplash.PNG" size="769133" crc="b53927be" sha1="b73a07e1c2075f18a390081076209cc552b52d81"/>
+		<rom name="Bullion Bars £500/Paytable.bmp" size="2359350" crc="5eb3556b" sha1="7a4f359d6eba9941aa55e58df98810cc284c862f"/>
+		<rom name="Bullion Bars £500/Resources/Button.wad" size="1222982" crc="d687b89e" sha1="09d53528b7dc57bbf9fa55ff9ee174b606914ae9"/>
+		<rom name="Bullion Bars £500/Resources/Primary.wad" size="1147999" crc="b5d4e5ba" sha1="e2938e4ea108657d66b8ae74cfe9f1366eae9e01"/>
+		<rom name="Bullion Bars £500/Resources/Resource.wad" size="2797738" crc="aac63fa0" sha1="d7a6a356013aae707d7e359e1b81a3be61eb985e"/>
+		<rom name="Bullion Bars £500/Resources/Secondary.wad" size="863273" crc="0c354ca4" sha1="075fbfa61d7bb73ed5538b705d7f98da3532b7a5"/>
+		<rom name="Bullion Bars £500/ShellDll.dll" size="630784" crc="13a2838a" sha1="458066d4917dcb02c9d1264b9960ef25fe2eb15a"/>
+		<rom name="Bullion Bars £500/Sounds/FX5.wav" size="268066" crc="d5ebea67" sha1="63fcaabf3f34269bfb2d4c1c60f1d21b16ed0441"/>
+		<rom name="Bullion Bars £500/Sounds/FX5long1.wav" size="60460" crc="cd994deb" sha1="195bd01e58a06dd0dc01656b4b86b847bcf6f2e9"/>
+		<rom name="Bullion Bars £500/Sounds/FX5long2.wav" size="72620" crc="45f034f8" sha1="9b5f90b9b1d7423c39197ea67717033613f4a7dd"/>
+		<rom name="Bullion Bars £500/Sounds/FX5long3.wav" size="84776" crc="b0496299" sha1="a52624e1818543fd8359a8c5b522139dd1936b6e"/>
+		<rom name="Bullion Bars £500/Sounds/FX5long4.wav" size="96966" crc="f6b94502" sha1="de5b391db0a2709968c9dcdda1afefa2d0ca1e26"/>
+		<rom name="Bullion Bars £500/Sounds/FX6.wav" size="70778" crc="17b3a4aa" sha1="101d53f25cf508424f00e5e65a15b61bd656546a"/>
+		<rom name="Bullion Bars £500/Sounds/FeatureExit.wav" size="481240" crc="8b36fee5" sha1="4d0b749d844a71b52b6b1f7053b429d44956b169"/>
+		<rom name="Bullion Bars £500/Sounds/FeatureIntro.wav" size="196488" crc="28db2b9f" sha1="11dcc1570d094225f625161f2b425e09f5120689"/>
+		<rom name="Bullion Bars £500/Sounds/FeatureLoop.wav" size="2822452" crc="d4111497" sha1="5128a06dd6e94450bc30777ddc7b91295d376542"/>
+		<rom name="Bullion Bars £500/Sounds/Flash.wav" size="401096" crc="6600ab9b" sha1="b9a1afcc346eadaf02031b34f00cc6304b6679f1"/>
+		<rom name="Bullion Bars £500/Sounds/Vault.wav" size="422444" crc="1de96998" sha1="57c53f52fd0854055d4d93da68350f2142832fc6"/>
+		<rom name="Bullion Bars £500/Sounds/Win0.wav" size="88246" crc="1b3ff726" sha1="415d4bc52c532bf7766f140dd98dfded1f6e9a0b"/>
+		<rom name="Bullion Bars £500/Sounds/Win1.wav" size="88248" crc="deeba73f" sha1="b665fd81f718596f071bb8983e6286d757db27ad"/>
+		<rom name="Bullion Bars £500/Sounds/Win2.wav" size="32044" crc="7606dfae" sha1="4eeb89e4a223052024cf63f793bda0efd134f30e"/>
+		<rom name="Bullion Bars £500/Sounds/Win3.wav" size="88246" crc="745ccb54" sha1="83bd5f4c84ba16a8fa463e0022042fa76ffa020b"/>
+		<rom name="Bullion Bars £500/Sounds/Win4.wav" size="32046" crc="ffd615c5" sha1="56f2effbee01461a20706a482c76b2c367f0e7b5"/>
+		<rom name="Bullion Bars £500/Sounds/Win5.wav" size="88250" crc="9e684887" sha1="d219813ed2f1d35a44a9699b1ac50772dc3fb162"/>
+		<rom name="Bullion Bars £500/Sounds/altReel.wav" size="80656" crc="a36f2443" sha1="81f93f4a16f1e5d6e90753297ed005233e2b9d2c"/>
+		<rom name="Bullion Bars £500/Sounds/bmcash0.wav" size="88244" crc="bcbe1efe" sha1="d69cde0582dc1c499cbea215a63f2ae66ae7db79"/>
+		<rom name="Bullion Bars £500/Sounds/bmcash1.wav" size="88204" crc="8af786f3" sha1="8110bcad39bd0a5d7932a7219d9fab3a2c1afc5e"/>
+		<rom name="Bullion Bars £500/Sounds/bmcash2.wav" size="88244" crc="87471a8e" sha1="49a48091ca0356dbc6aaaa689b342360343c86f5"/>
+		<rom name="Bullion Bars £500/Sounds/bmcash3.wav" size="88240" crc="4a640a76" sha1="ef932f31162cad0636cf1b3dc3056576ce81aa11"/>
+		<rom name="Bullion Bars £500/Sounds/bmcash4.wav" size="88244" crc="9cfb369c" sha1="781992783631038085914ddc5d8ed9b5fc5dc9af"/>
+		<rom name="Bullion Bars £500/Sounds/bmcash5.wav" size="88244" crc="9cfb369c" sha1="781992783631038085914ddc5d8ed9b5fc5dc9af"/>
+		<rom name="Bullion Bars £500/Sounds/cashfinal.wav" size="29860" crc="0af2287a" sha1="82fa9a240b7f5f9543a6eabf0d31671e8aeaa0af"/>
+		<rom name="Bullion Bars £500/Sounds/ching.wav" size="80862" crc="40886a3a" sha1="79bf9fd45e5e89505e3b7bef7d24f04a15d49f00"/>
+		<rom name="Bullion Bars £500/Sounds/countup.wav" size="11908" crc="64c25f07" sha1="8735cda2fb5192aa7a4e636e10e964f2fd2e55db"/>
+		<rom name="Bullion Bars £500/Sounds/jackpota.wav" size="89960" crc="a5d3004f" sha1="c75191b8cfb87e772dab036bdf222d78bdae68d3"/>
+		<rom name="Bullion Bars £500/Sounds/rstop.wav" size="13526" crc="ddd2a97a" sha1="11da285bb942e468a6d8f552874c85be19dd89ae"/>
+		<rom name="Bullion Bars £500/Sounds/vibes.wav" size="315462" crc="41d966b9" sha1="0018554df058eee1b8eb1138f3100bc0263ec469"/>
+		<rom name="Bullion Bars £500/attract.avi" size="16687104" crc="32053270" sha1="fb97c50b2219c27cf88a8612c01c853badeeae8d"/>
+		<rom name="Bullion Bars £500/buttonConfig.cfg" size="73" crc="d01b2d96" sha1="398152bdd025e2c3ba022a99a9d9bcbd30b3d51b"/>
+		<rom name="Bullion Bars £500/config.BAK" size="214" crc="9f5d6b25" sha1="7fcce1f68504d3697dcdc79a2399205809dc1db8"/>
+		<rom name="Bullion Bars £500/config.lua" size="214" crc="1f4c0a14" sha1="ddb9586d59f6207063633b8f88d09fe87e00ebb6"/>
+		<rom name="Bullion Bars £500/game.exe" size="1802240" crc="a609b4b9" sha1="40856583f7c93d538bd33ff77fcd1d33b94c10b6"/>
+		<rom name="Bullion Bars £500/recall/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Bullion Bars £500/versioninfo.txt" size="25" crc="4a556b6a" sha1="6efb4ccaec8628d73aa1f7a64b78816dcd390483"/>
+	</game>
+	<game name="Little_Devils_500">
+		<rom name="Little Devils £500/AstraNet.dll" size="114688" crc="024714c5" sha1="0bdc4d1c4e8aae8bc410f29ec9d3ccd349cb80d2"/>
+		<rom name="Little Devils £500/Log.txt" size="7725" crc="230db8d2" sha1="2bb6fa358f6b34edaf4b81f453487d5fe331bbe9"/>
+		<rom name="Little Devils £500/RNGDLL.dll" size="241664" crc="8ef0b39f" sha1="e501e625960bdeba66685f4cf627a6668ce04ee8"/>
+		<rom name="Little Devils £500/Resources/Recall Resource.wad" size="977647" crc="d8977ec6" sha1="46d32e36ea2a45b90079be4a779048182947f04a"/>
+		<rom name="Little Devils £500/Resources/Resource.wad" size="29032817" crc="fd23d6ac" sha1="895fa77bd86e5fd5521e940fb41372de7f9c7f30"/>
+		<rom name="Little Devils £500/Resources/Thumbs.db" size="924672" crc="70c6bab9" sha1="6c4ee9e2bede4bd4f4a3d360d459cd7207ef4b3e"/>
+		<rom name="Little Devils £500/SerialDriver.dll" size="40960" crc="d9c2b5be" sha1="cbba8f08a0b4f3029449ab0dd3bd46de63ab1d1a"/>
+		<rom name="Little Devils £500/Sounds/FX5.wav" size="268066" crc="d5ebea67" sha1="63fcaabf3f34269bfb2d4c1c60f1d21b16ed0441"/>
+		<rom name="Little Devils £500/Sounds/FX6.wav" size="70778" crc="17b3a4aa" sha1="101d53f25cf508424f00e5e65a15b61bd656546a"/>
+		<rom name="Little Devils £500/Sounds/Track 36.wav" size="5073212" crc="83cf25c4" sha1="8820bebf7d3c1aea72c48d0b4ac44d8d28de2e5a"/>
+		<rom name="Little Devils £500/Sounds/cauldronnormal.wav" size="216536" crc="75991522" sha1="d278014a56d26738229f1a7164ca5056bce5535e"/>
+		<rom name="Little Devils £500/Sounds/ching.wav" size="80862" crc="40886a3a" sha1="79bf9fd45e5e89505e3b7bef7d24f04a15d49f00"/>
+		<rom name="Little Devils £500/Sounds/coincollcaulda.wav" size="76750" crc="1a08b3f0" sha1="e74d5f0b3be3d79e487019d213d1a70ed7e6df28"/>
+		<rom name="Little Devils £500/Sounds/jackpota.wav" size="89960" crc="a5d3004f" sha1="c75191b8cfb87e772dab036bdf222d78bdae68d3"/>
+		<rom name="Little Devils £500/Sounds/pop.wav" size="48262" crc="a729da73" sha1="b78e149cd9b9d771ce53fc70d55e280bef37dabb"/>
+		<rom name="Little Devils £500/Sounds/pop3.wav" size="24150" crc="b4d49305" sha1="32a8227c82c109c58cd20152eb853b36d55191a8"/>
+		<rom name="Little Devils £500/Sounds/rstop.wav" size="54198" crc="03adb001" sha1="2bf9e9c99f64de09011890ba0c006536d86e7d6a"/>
+		<rom name="Little Devils £500/Sounds/vibes.wav" size="315462" crc="41d966b9" sha1="0018554df058eee1b8eb1138f3100bc0263ec469"/>
+		<rom name="Little Devils £500/attract.avi" size="32149850" crc="adcc729e" sha1="43709e4c4d4a5798899f5b8c15d0ad82b8257f2c"/>
+		<rom name="Little Devils £500/config.lua" size="214" crc="1f4c0a14" sha1="ddb9586d59f6207063633b8f88d09fe87e00ebb6"/>
+		<rom name="Little Devils £500/game.exe" size="712704" crc="185935e3" sha1="340cd0326e4840dc62e9474be05a3ef8df313acc"/>
+		<rom name="Little Devils £500/recall/Index.dat" size="1" crc="a2681b02" sha1="8dc00598417d4eb788a77ac6ccef3cb484905d8b"/>
+		<rom name="Little Devils £500/recall/recall_game_0.dat" size="26" crc="e0f44491" sha1="4a9bef77bbebe2a3f169097a640c9b5588e83932"/>
+		<rom name="Little Devils £500/recall/recall_game_1.dat" size="26" crc="9c17cddc" sha1="a87c7a91c5160a0e97ee18f49237fd81e0d51c6d"/>
+		<rom name="Little Devils £500/recall/recall_game_2.dat" size="26" crc="7b916ebc" sha1="fdc98eeea7d7efa0aa6160356a1417c795108864"/>
+		<rom name="Little Devils £500/recall/recall_game_3.dat" size="26" crc="47d01610" sha1="8582427523b4aeda372e001bece4087fc4c12573"/>
+		<rom name="Little Devils £500/recall/recall_game_4.dat" size="26" crc="659a3b67" sha1="21ccf9c8a52225b0deb3b044814415d7f715c19f"/>
+		<rom name="Little Devils £500/recall/recall_game_5.dat" size="26" crc="4c120960" sha1="17cf15ec8262db2f70d01186a78f01ea25978f42"/>
+		<rom name="Little Devils £500/recall/recall_game_6.dat" size="26" crc="2743b40b" sha1="81d002484d92181ec1b10f784e8646dcd7ee12b2"/>
+		<rom name="Little Devils £500/recall/recall_game_7.dat" size="26" crc="1db745b5" sha1="0f27d93ad48c96c17982a2c410c36714e8c8012a"/>
+		<rom name="Little Devils £500/recall/recall_game_8.dat" size="26" crc="8aa88c5b" sha1="eb2f56efb0a83014dd6c70720d481b91cc5c60a1"/>
+		<rom name="Little Devils £500/recall/recall_game_9.dat" size="26" crc="0afa7839" sha1="6f14f8dceb8ec1a71989c25518ff7ab45ad2d78f"/>
+		<rom name="Little Devils £500/reels.lua" size="3221" crc="c65fcb7d" sha1="2637278f555167298cbc047b2f9e321a83fc93f5"/>
+		<rom name="Little Devils £500/session.lua" size="214" crc="d22170d3" sha1="cd1d7a9b8f414bc7f6bf5023cca7ffc74ab4b7bb"/>
+	</game>
+	<game name="Master £500 (Astra Novomatic)">
+		<rom name="Master 500 config USB files/Customization.xml" size="2210" crc="719970ac" sha1="5644bd89ea4f1c134af77d2d203f3775f514816c"/>
+		<rom name="Master 500 config USB files/Novomatic/CONFIG/GAMECTRL/GAMESTATE_BACKUP.XML" size="2613" crc="288eecb2" sha1="05d41b517be2daaecbdae9fef06407a71a739f31"/>
+		<rom name="Master 500 config USB files/Novomatic/CONFIG/Global_Params/ConfigStickVer.xml" size="320" crc="8aad9e20" sha1="bdef893b005a72b7cefb1ff2b06f4a6b6e7080e2"/>
+		<rom name="Master 500 config USB files/Novomatic/CONFIG/PARAMS/S5DNM_Default_FutureLogic_TITO_Data.exchange.xml" size="3725" crc="33d314fc" sha1="30cbace4351f0a651212d095126163a00afba0c9"/>
+		<rom name="Master 500 config USB files/Novomatic/CONFIG/PARAMS/S5DNM_Default_FutureLogic_TITO_Standard.exchange.xml" size="3578" crc="59c0e729" sha1="65c500aa7fc68269028e89eb7a2501047e579943"/>
+		<rom name="Master 500 config USB files/Novomatic/CONFIG/PARAMS/S5DNM_Default_MARS_Data.exchange.xml" size="3831" crc="be963442" sha1="639f55496cc3a6d269ed4bb9dc081311d5995fff"/>
+		<rom name="Master 500 config USB files/Novomatic/CONFIG/PARAMS/S5DNM_Default_MARS_Standard.exchange.xml" size="3684" crc="5cf01f26" sha1="5f21eab44913d488a06284dd9243cdc7c8aed5a8"/>
+		<rom name="Master 500 config USB files/Novomatic/CONFIG/PARAMS/S5DNM_Default_NV11_Cash_Data.exchange.xml" size="3107" crc="3056a7ac" sha1="24e5c924cbbe3fbb342b1e2e1089fe9e68e3d7b6"/>
+		<rom name="Master 500 config USB files/Novomatic/CONFIG/PARAMS/S5DNM_Default_NV11_Cash_Standard.exchange.xml" size="2658" crc="d67847d3" sha1="49f391d1ef59f972404c3dfb2827f61c2c95db75"/>
+		<rom name="Master 500 config USB files/Novomatic/CONFIG/PARAMS/user.exchange.xml" size="2686" crc="16395eed" sha1="f57ccb6a82cc381435e8cd0785e9ed787c005ba7"/>
+		<rom name="Master 500 config USB files/Novomatic/CONFIG/SelScreen/MovieState.xml" size="6107" crc="507d43d3" sha1="8becc6a57019a55bd5e438994d66c6f29e8d6028"/>
+		<rom name="Master 500 config USB files/Novomatic/CONFIG/SelScreen/PlayList.xml" size="2675" crc="09b7ddcb" sha1="c938737f0b3a4d80b865d88c9c2324d28721b70c"/>
+		<rom name="Master 500 config USB files/Novomatic/CONFIG/SelScreen/Walls.xml" size="5976" crc="3a042dee" sha1="229c1bd167c95a6ef4ce93a98e51abc633705d2e"/>
+		<rom name="Master £500 Astra.adi" size="17274946224" crc="de77997e" sha1="07356c2c7ebe9ff25642cd224239db03f06e742e"/>
+	</game>
+	<game name="Reelking_35">
+		<rom name="Reelking £35/ButtonConfig.cfg" size="76" crc="56a193ee" sha1="48d87031ba9004191f9c6044ebdf3bc0f1700ffe"/>
+		<rom name="Reelking £35/PGPSplash.PNG" size="769133" crc="b53927be" sha1="b73a07e1c2075f18a390081076209cc552b52d81"/>
+		<rom name="Reelking £35/Resources/Primary.wad" size="2386381" crc="d906271a" sha1="eef516278e97465db9dcc47b2c1d2c8f2bd3b8d5"/>
+		<rom name="Reelking £35/Resources/Secondary.wad" size="21551494" crc="23be14aa" sha1="76d82a2e8811a8f924d6d82711af5e89014d7aa1"/>
+		<rom name="Reelking £35/Shelldll.dll" size="630784" crc="25536285" sha1="79504e3c7cd5f0d5b0eef0c1e74cf229e1b78b02"/>
+		<rom name="Reelking £35/Sounds/0.wav" size="18952" crc="69544ee0" sha1="510e530d0489eac5d3529bd3379f69f2ea2e27ae"/>
+		<rom name="Reelking £35/Sounds/1.wav" size="18966" crc="b8d25ab3" sha1="a34307093c2b7379ab1db549bc5b6d586e06d517"/>
+		<rom name="Reelking £35/Sounds/2.wav" size="19034" crc="0df75572" sha1="8c73efc09a273d8a72ddf5f7447d19b443c646a7"/>
+		<rom name="Reelking £35/Sounds/3.wav" size="19000" crc="78d4eb7c" sha1="45f92b2cb34b640d9c84f9bd9e6052bfe02605ae"/>
+		<rom name="Reelking £35/Sounds/4.wav" size="19034" crc="dc60fd73" sha1="dcefabbda47077d8caa27a2a613c723c55ecdfc8"/>
+		<rom name="Reelking £35/Sounds/Fx5.wav" size="268066" crc="d5ebea67" sha1="63fcaabf3f34269bfb2d4c1c60f1d21b16ed0441"/>
+		<rom name="Reelking £35/Sounds/Fx5long1.wav" size="60460" crc="cd994deb" sha1="195bd01e58a06dd0dc01656b4b86b847bcf6f2e9"/>
+		<rom name="Reelking £35/Sounds/Fx5long2.wav" size="72620" crc="45f034f8" sha1="9b5f90b9b1d7423c39197ea67717033613f4a7dd"/>
+		<rom name="Reelking £35/Sounds/Fx5long3.wav" size="84776" crc="b0496299" sha1="a52624e1818543fd8359a8c5b522139dd1936b6e"/>
+		<rom name="Reelking £35/Sounds/Fx5long4.wav" size="96966" crc="f6b94502" sha1="de5b391db0a2709968c9dcdda1afefa2d0ca1e26"/>
+		<rom name="Reelking £35/Sounds/Fx6.wav" size="70778" crc="17b3a4aa" sha1="101d53f25cf508424f00e5e65a15b61bd656546a"/>
+		<rom name="Reelking £35/Sounds/Jackpot.wav" size="51538" crc="b0a3d34f" sha1="2c2dc6e08ea5f885620ebab9eaaea20162d9b50b"/>
+		<rom name="Reelking £35/Sounds/ReelIntro.wav" size="267774" crc="6bd16dd2" sha1="ffad51289c0b5603bc1f059aef359f3fa0bb27a6"/>
+		<rom name="Reelking £35/Sounds/ReelOutro.wav" size="63562" crc="e4f27867" sha1="ad86eb78b77ce74badf855e9c741f1a554833eae"/>
+		<rom name="Reelking £35/Sounds/Rkstop.wav" size="15064" crc="7dbb4a32" sha1="1e5f0a62df4dd7a09bb46f05ea3818cd40151127"/>
+		<rom name="Reelking £35/Sounds/StartSpin.wav" size="12852" crc="e2c6ad75" sha1="5680baf1c17a1f55fa39c368e2a3e42b375a2d4f"/>
+		<rom name="Reelking £35/Sounds/ching.wav" size="80862" crc="40886a3a" sha1="79bf9fd45e5e89505e3b7bef7d24f04a15d49f00"/>
+		<rom name="Reelking £35/Sounds/count18.wav" size="2182" crc="f56597bf" sha1="e6fa92c822f8784a2418ac59aeb90179d92b650d"/>
+		<rom name="Reelking £35/Sounds/count1c.wav" size="72598" crc="20984136" sha1="c3fd2b118d90f74a7e838b50e5a9bc877c0f1997"/>
+		<rom name="Reelking £35/Sounds/edit b.wav" size="63572" crc="04c7624e" sha1="54a58a573c8058da85cf5d6f405738b032d43c24"/>
+		<rom name="Reelking £35/Sounds/edit.wav" size="109804" crc="ff220582" sha1="cd2f02a618931cc96b79798c2cfc2faa1d0a6adf"/>
+		<rom name="Reelking £35/Sounds/gamble.wav" size="526364" crc="d55a9c78" sha1="2f87cf056b395f54b11486e105aaeaa1222851c9"/>
+		<rom name="Reelking £35/Sounds/horn5.wav" size="10144" crc="16980c61" sha1="b5579530d338773ee246ad140917659ec81e0b08"/>
+		<rom name="Reelking £35/Sounds/hrpsilpb.wav" size="168606" crc="e5041f2a" sha1="81970c7de183c0246c358010153248bdcd3d5c61"/>
+		<rom name="Reelking £35/Sounds/jackpota.wav" size="617774" crc="1f46b70f" sha1="62bf8d68d5de701e9d52d5cf4a6c51e2d8a90466"/>
+		<rom name="Reelking £35/Sounds/knight3.wav" size="45294" crc="52971d08" sha1="bec9fcf6f86f3289587ded56ebc85068e5bac3db"/>
+		<rom name="Reelking £35/Sounds/lose1.wav" size="205848" crc="56d9c5b9" sha1="ab9b1907c8c13003b686f51e4697847181c0638f"/>
+		<rom name="Reelking £35/Sounds/losera.wav" size="60034" crc="42c828a3" sha1="28f290d4dd0987caadcda0b68ce62d88c00f06ee"/>
+		<rom name="Reelking £35/Sounds/pop.wav" size="48262" crc="a729da73" sha1="b78e149cd9b9d771ce53fc70d55e280bef37dabb"/>
+		<rom name="Reelking £35/Sounds/pop3.wav" size="12146" crc="9623ac51" sha1="71e08259412ac8b2eb32305314d40ae1407aeddf"/>
+		<rom name="Reelking £35/Sounds/rstop.wav" size="9792" crc="d13f7b5d" sha1="df2763617d0831984ed26b738e1460f841896cd9"/>
+		<rom name="Reelking £35/Sounds/scrolls.wav" size="30482" crc="bfea4a2f" sha1="7e7af8fe9cb6fe2649f6a9380434c3b37841cf14"/>
+		<rom name="Reelking £35/Sounds/vibes.wav" size="315462" crc="41d966b9" sha1="0018554df058eee1b8eb1138f3100bc0263ec469"/>
+		<rom name="Reelking £35/Sounds/win1.wav" size="265144" crc="0bc2bb37" sha1="01fc650a6627fe4e1f000f43c6133443fec942aa"/>
+		<rom name="Reelking £35/config.BAK" size="214" crc="9f5d6b25" sha1="7fcce1f68504d3697dcdc79a2399205809dc1db8"/>
+		<rom name="Reelking £35/config.lua" size="214" crc="1f4c0a14" sha1="ddb9586d59f6207063633b8f88d09fe87e00ebb6"/>
+		<rom name="Reelking £35/game.exe" size="749568" crc="95e4a282" sha1="c60ee96cd53ca49acfb82cf84fe16b04f775ecd4"/>
+		<rom name="Reelking £35/recall/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Reelking £35/versioninfo.txt" size="24" crc="27f210c9" sha1="47b1a06b5c702854de3b157cf2106f8f6e2294ae"/>
+		<rom name="Reelking £35/zca.avi" size="169167412" crc="d308437b" sha1="9068fa7f2f3c53ff98f130e9222b5448e32997c2"/>
+	</game>
+	<game name="Reelking_500">
+		<rom name="Reelking £500/Log.txt" size="23995" crc="85d2f40f" sha1="af1118ccef2073336e3672c9fa01e27f8d8ff88b"/>
+		<rom name="Reelking £500/Resources/RecallResource.wad" size="681118" crc="0a4316b6" sha1="3485d59c02a3b2531b6ed78a75450af7447331aa"/>
+		<rom name="Reelking £500/Resources/Resource Recall.wad" size="977647" crc="d8977ec6" sha1="46d32e36ea2a45b90079be4a779048182947f04a"/>
+		<rom name="Reelking £500/Resources/Resource.wad" size="30377237" crc="44d3872e" sha1="68f3bbf22532cf0a19a572e843fece14aff9405c"/>
+		<rom name="Reelking £500/Rngdll.dll" size="14848" crc="ed3d0e95" sha1="7bd18f22ecb3514c7c0e9ee8e9989341077cf92c"/>
+		<rom name="Reelking £500/Shell/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Reelking £500/Sounds/0.wav" size="18952" crc="69544ee0" sha1="510e530d0489eac5d3529bd3379f69f2ea2e27ae"/>
+		<rom name="Reelking £500/Sounds/1.wav" size="18966" crc="b8d25ab3" sha1="a34307093c2b7379ab1db549bc5b6d586e06d517"/>
+		<rom name="Reelking £500/Sounds/2.wav" size="19034" crc="0df75572" sha1="8c73efc09a273d8a72ddf5f7447d19b443c646a7"/>
+		<rom name="Reelking £500/Sounds/3.wav" size="19000" crc="78d4eb7c" sha1="45f92b2cb34b640d9c84f9bd9e6052bfe02605ae"/>
+		<rom name="Reelking £500/Sounds/4.wav" size="19034" crc="dc60fd73" sha1="dcefabbda47077d8caa27a2a613c723c55ecdfc8"/>
+		<rom name="Reelking £500/Sounds/Fx5.wav" size="268066" crc="d5ebea67" sha1="63fcaabf3f34269bfb2d4c1c60f1d21b16ed0441"/>
+		<rom name="Reelking £500/Sounds/Fx5long1.wav" size="60460" crc="cd994deb" sha1="195bd01e58a06dd0dc01656b4b86b847bcf6f2e9"/>
+		<rom name="Reelking £500/Sounds/Fx5long2.wav" size="72620" crc="45f034f8" sha1="9b5f90b9b1d7423c39197ea67717033613f4a7dd"/>
+		<rom name="Reelking £500/Sounds/Fx5long3.wav" size="84776" crc="b0496299" sha1="a52624e1818543fd8359a8c5b522139dd1936b6e"/>
+		<rom name="Reelking £500/Sounds/Fx5long4.wav" size="96966" crc="f6b94502" sha1="de5b391db0a2709968c9dcdda1afefa2d0ca1e26"/>
+		<rom name="Reelking £500/Sounds/Fx6.wav" size="70778" crc="17b3a4aa" sha1="101d53f25cf508424f00e5e65a15b61bd656546a"/>
+		<rom name="Reelking £500/Sounds/Jackpot.wav" size="51538" crc="b0a3d34f" sha1="2c2dc6e08ea5f885620ebab9eaaea20162d9b50b"/>
+		<rom name="Reelking £500/Sounds/ReelIntro.wav" size="267774" crc="6bd16dd2" sha1="ffad51289c0b5603bc1f059aef359f3fa0bb27a6"/>
+		<rom name="Reelking £500/Sounds/ReelOutro.wav" size="63572" crc="04c7624e" sha1="54a58a573c8058da85cf5d6f405738b032d43c24"/>
+		<rom name="Reelking £500/Sounds/Rkstop.wav" size="15064" crc="7dbb4a32" sha1="1e5f0a62df4dd7a09bb46f05ea3818cd40151127"/>
+		<rom name="Reelking £500/Sounds/StartSpin.wav" size="12852" crc="e2c6ad75" sha1="5680baf1c17a1f55fa39c368e2a3e42b375a2d4f"/>
+		<rom name="Reelking £500/Sounds/allknght.wav" size="32074" crc="91857099" sha1="a588d59c1b3b18969ce06c28fd61d38de8a463d3"/>
+		<rom name="Reelking £500/Sounds/ching.wav" size="80862" crc="40886a3a" sha1="79bf9fd45e5e89505e3b7bef7d24f04a15d49f00"/>
+		<rom name="Reelking £500/Sounds/horn5.wav" size="10144" crc="16980c61" sha1="b5579530d338773ee246ad140917659ec81e0b08"/>
+		<rom name="Reelking £500/Sounds/hrpsilpb.wav" size="168606" crc="e5041f2a" sha1="81970c7de183c0246c358010153248bdcd3d5c61"/>
+		<rom name="Reelking £500/Sounds/jackpota.wav" size="89960" crc="a5d3004f" sha1="c75191b8cfb87e772dab036bdf222d78bdae68d3"/>
+		<rom name="Reelking £500/Sounds/knight3.wav" size="45294" crc="52971d08" sha1="bec9fcf6f86f3289587ded56ebc85068e5bac3db"/>
+		<rom name="Reelking £500/Sounds/losera.wav" size="60034" crc="42c828a3" sha1="28f290d4dd0987caadcda0b68ce62d88c00f06ee"/>
+		<rom name="Reelking £500/Sounds/pop.wav" size="48262" crc="a729da73" sha1="b78e149cd9b9d771ce53fc70d55e280bef37dabb"/>
+		<rom name="Reelking £500/Sounds/pop3.wav" size="24150" crc="b4d49305" sha1="32a8227c82c109c58cd20152eb853b36d55191a8"/>
+		<rom name="Reelking £500/Sounds/rstop.wav" size="9792" crc="d13f7b5d" sha1="df2763617d0831984ed26b738e1460f841896cd9"/>
+		<rom name="Reelking £500/Sounds/scrolls.wav" size="30482" crc="bfea4a2f" sha1="7e7af8fe9cb6fe2649f6a9380434c3b37841cf14"/>
+		<rom name="Reelking £500/Sounds/vibes.wav" size="315462" crc="41d966b9" sha1="0018554df058eee1b8eb1138f3100bc0263ec469"/>
+		<rom name="Reelking £500/attract.mpg" size="22454276" crc="a44afbf1" sha1="ad53516023d8fb967ce2cc6bfc5684c766a403c9"/>
+		<rom name="Reelking £500/config.lua" size="215" crc="3398effc" sha1="6ade736dbc1be44439afec1c9ad31e3732a65fbf"/>
+		<rom name="Reelking £500/game.exe" size="647168" crc="e9456b74" sha1="4d935d99d95718c48096ce1e8f80592960eff4fc"/>
+		<rom name="Reelking £500/msvcp70.dll" size="487424" crc="4f125705" sha1="2f0c431be7da7f359bb75b9ba319d6f3dea08919"/>
+		<rom name="Reelking £500/msvcp71.dll" size="499712" crc="5a3b11d4" sha1="c8ccb04eedac821a13fae314a2435192860c72b8"/>
+		<rom name="Reelking £500/msvcp71d.dll" size="765952" crc="e6c4adf0" sha1="be218e1af26d33eac26316bcc9494a1487b8d3e3"/>
+		<rom name="Reelking £500/msvcr70.dll" size="344064" crc="516c28bc" sha1="61b8f573db448ae6351ae3475c2e7c482d81533c"/>
+		<rom name="Reelking £500/msvcr71.dll" size="348160" crc="35563170" sha1="d5502a1d00787d68f548ddeebbde1eca5e2b38ca"/>
+		<rom name="Reelking £500/msvcr71d.dll" size="544768" crc="9202f261" sha1="68fb2078475fe7f1cad47fe78091d4209c52fcc0"/>
+		<rom name="Reelking £500/recall/Index.dat" size="1" crc="dcd967bf" sha1="8d883f1577ca8c334b7c6d75ccb71209d71ced13"/>
+		<rom name="Reelking £500/recall/recall_game_0.dat" size="35" crc="3ff47bbc" sha1="248f43865a3c744068248625433773f7b51c88f2"/>
+		<rom name="Reelking £500/recall/recall_game_1.dat" size="35" crc="b7411142" sha1="fab5f0a12ef3dd912be2781cb886df660d079c3e"/>
+		<rom name="Reelking £500/recall/recall_game_2.dat" size="35" crc="41791792" sha1="ef3d50f381fae96b6caf77b43057ae2eae53db7f"/>
+		<rom name="Reelking £500/recall/recall_game_3.dat" size="35" crc="3b126a04" sha1="01e2feab02a0e5254503988bef927e9dea59c14d"/>
+		<rom name="Reelking £500/recall/recall_game_4.dat" size="35" crc="956c0986" sha1="0b5c217117139e53a563b86486e9e059f12a654e"/>
+		<rom name="Reelking £500/recall/recall_game_5.dat" size="35" crc="be5cdb53" sha1="ba9a7ac5dd0d0ddefc10526d217903626ac4750d"/>
+		<rom name="Reelking £500/recall/recall_game_6.dat" size="35" crc="7b062b90" sha1="d8535eda6bc7aa3ab5c23423034f4f481dc363fa"/>
+		<rom name="Reelking £500/recall/recall_game_7.dat" size="35" crc="28d2ff1a" sha1="14a4e1263c3d3ad037243887c9d5f0c3210427e4"/>
+		<rom name="Reelking £500/recall/recall_game_8.dat" size="35" crc="27d66764" sha1="12720697545dbab0c2e8073ed091f45a698020e5"/>
+		<rom name="Reelking £500/recall/recall_game_9.dat" size="35" crc="27f81fc4" sha1="8f67be7c1508049f207dcdadc6174b0887320f89"/>
+		<rom name="Reelking £500/reels.lua" size="1093" crc="21836d2e" sha1="d21029cd6460e4f1205ab69a062867595a36a186"/>
+		<rom name="Reelking £500/session.lua" size="214" crc="d22170d3" sha1="cd1d7a9b8f414bc7f6bf5023cca7ffc74ab4b7bb"/>
+	</game>
+	<game name="Slotto_Party_Games_35">
+		<rom name="Slotto Party Games £35/ButtonConfig.cfg" size="75" crc="bc8d4e83" sha1="2838d08f044620b6699a3c6ec356c7b1d8d2703e"/>
+		<rom name="Slotto Party Games £35/PGPSplash.PNG" size="769133" crc="b53927be" sha1="b73a07e1c2075f18a390081076209cc552b52d81"/>
+		<rom name="Slotto Party Games £35/Resources/Primary.bin" size="1437202" crc="76a86f77" sha1="e257aa7d109fc9908904b00049f98a6945b488e1"/>
+		<rom name="Slotto Party Games £35/Resources/Primary.prj" size="45600" crc="7d83e188" sha1="b24634c08d6f010f3053b39b6fddc050cd48b8a7"/>
+		<rom name="Slotto Party Games £35/Resources/Primary.txt" size="3259" crc="e04bcad9" sha1="e47ae2cbaeacb9fc54c3e3c9cd175c1ef34cff9c"/>
+		<rom name="Slotto Party Games £35/Resources/Primary.wad" size="1440465" crc="eb8daa50" sha1="e3feeb5162afa0555b9a115df6f5dc3d8f6b364e"/>
+		<rom name="Slotto Party Games £35/Resources/Secondary.Bin" size="15724288" crc="d0b93cc3" sha1="d0cfd3d41dfe9330928dd3d78d26a65116fc4878"/>
+		<rom name="Slotto Party Games £35/Resources/Secondary.prj" size="198742" crc="55853a3a" sha1="906be460b36ae39265afadc6b202f9bb0d722b56"/>
+		<rom name="Slotto Party Games £35/Resources/Secondary.txt" size="14743" crc="15a0bba9" sha1="53f8e559135fe9da730840aa3c322c9e0814d229"/>
+		<rom name="Slotto Party Games £35/Resources/Secondary.wad" size="15739035" crc="62c441d0" sha1="ddf5ea7345a0d85af831e9c435fa6349367909d8"/>
+		<rom name="Slotto Party Games £35/Resources/Thumbs.db" size="924672" crc="70c6bab9" sha1="6c4ee9e2bede4bd4f4a3d360d459cd7207ef4b3e"/>
+		<rom name="Slotto Party Games £35/Shelldll.dll" size="630784" crc="25536285" sha1="79504e3c7cd5f0d5b0eef0c1e74cf229e1b78b02"/>
+		<rom name="Slotto Party Games £35/Sounds/button.wav" size="31918" crc="c6df707a" sha1="00960347ddace0b3d3bc03f3b75934188de8489e"/>
+		<rom name="Slotto Party Games £35/Sounds/ching.wav" size="40502" crc="54eb126e" sha1="10994df806f0057f253cad925bab4a57374aea09"/>
+		<rom name="Slotto Party Games £35/Sounds/count18.wav" size="2182" crc="f56597bf" sha1="e6fa92c822f8784a2418ac59aeb90179d92b650d"/>
+		<rom name="Slotto Party Games £35/Sounds/count1c.wav" size="72598" crc="20984136" sha1="c3fd2b118d90f74a7e838b50e5a9bc877c0f1997"/>
+		<rom name="Slotto Party Games £35/Sounds/countup.wav" size="21586" crc="2b203004" sha1="52e9951921e6cbdd4f89990477ce022008711a3d"/>
+		<rom name="Slotto Party Games £35/Sounds/end_seq.wav" size="113018" crc="5ee764b9" sha1="38be2172ec4f32634249a5910dc387d53ef99fde"/>
+		<rom name="Slotto Party Games £35/Sounds/gamble.wav" size="526364" crc="d55a9c78" sha1="2f87cf056b395f54b11486e105aaeaa1222851c9"/>
+		<rom name="Slotto Party Games £35/Sounds/gamble2.wav" size="755654" crc="071e13d1" sha1="78c0129131c3b593537ac6a1831f108efac66189"/>
+		<rom name="Slotto Party Games £35/Sounds/jackpota.wav" size="617774" crc="1f46b70f" sha1="62bf8d68d5de701e9d52d5cf4a6c51e2d8a90466"/>
+		<rom name="Slotto Party Games £35/Sounds/lose1.wav" size="205848" crc="56d9c5b9" sha1="ab9b1907c8c13003b686f51e4697847181c0638f"/>
+		<rom name="Slotto Party Games £35/Sounds/pop.wav" size="24202" crc="eb3ad360" sha1="0954c157b9753df02011ace35c98aef43743d29b"/>
+		<rom name="Slotto Party Games £35/Sounds/pop3.wav" size="12146" crc="9623ac51" sha1="71e08259412ac8b2eb32305314d40ae1407aeddf"/>
+		<rom name="Slotto Party Games £35/Sounds/rstop.wav" size="27170" crc="4d0a359b" sha1="c37bfa73406235c7a17af5b7304e72e8e2e16a83"/>
+		<rom name="Slotto Party Games £35/Sounds/rstop2.wav" size="28214" crc="25e10bd2" sha1="10337f0ab79c035d28e5494334671bf198cc9875"/>
+		<rom name="Slotto Party Games £35/Sounds/rstopold.wav" size="6410" crc="1213b2d2" sha1="2ac9109151c2582a7f5d0d5d9781dad3e5bfe709"/>
+		<rom name="Slotto Party Games £35/Sounds/turn_card1.wav" size="69098" crc="012073a7" sha1="145628327699aad88f3f478760682a4af7c7c5d4"/>
+		<rom name="Slotto Party Games £35/Sounds/vibes.wav" size="157802" crc="4ec949c6" sha1="b09cac62d0880177aea090c24939ec9af065f543"/>
+		<rom name="Slotto Party Games £35/Sounds/vibesold.wav" size="166516" crc="fc2a50af" sha1="6e9aa6b74b629989dc9c48ee9c5f9cd41e576346"/>
+		<rom name="Slotto Party Games £35/Sounds/win1.wav" size="265144" crc="d2593cc1" sha1="e3e7b865a0cbdb328279f7485f872f0bae2d079d"/>
+		<rom name="Slotto Party Games £35/VersionInfo.txt" size="28" crc="0e61c684" sha1="62d439518d22ca25df12354291e50ed7c3132860"/>
+		<rom name="Slotto Party Games £35/config.BAK" size="216" crc="263172c6" sha1="39936540c4fda0b8697580e951f09c31dd1dc721"/>
+		<rom name="Slotto Party Games £35/config.lua" size="216" crc="dad9a4ab" sha1="47342952a83e1aad848984e398b0b92aeca87ff4"/>
+		<rom name="Slotto Party Games £35/game.exe" size="720896" crc="7eb5a720" sha1="1d3e557baaddad85c2b47c24cba06f9abd47b7d5"/>
+		<rom name="Slotto Party Games £35/party.exe" size="716800" crc="c72141ac" sha1="a70bd74224906710568de4fbfe967b96a8a82124"/>
+		<rom name="Slotto Party Games £35/recall/recall_game_0.dat" size="104" crc="6ed6d959" sha1="fd81cc9d5bd2fc4326a4b9ad38559ddee8ea023b"/>
+		<rom name="Slotto Party Games £35/recall/recall_game_1.dat" size="104" crc="82e49641" sha1="9ba5d5a5ad68f226f0b0190cd8143801dab9c9a3"/>
+		<rom name="Slotto Party Games £35/recall/recall_game_2.dat" size="104" crc="24f065a2" sha1="6c7017a9c44d018ba3cd3372e695a2db88d7052e"/>
+		<rom name="Slotto Party Games £35/recall/recall_game_3.dat" size="104" crc="42495fb3" sha1="e621e778b249e7ead9878e2bff0d6a204273006c"/>
+		<rom name="Slotto Party Games £35/recall/recall_game_4.dat" size="104" crc="0188e17f" sha1="4015034ee61e532390abc3918c713f8a2ff9d8df"/>
+		<rom name="Slotto Party Games £35/recall/recall_game_5.dat" size="104" crc="dc041b6f" sha1="b31187279316da5c33492ded1aa2488064a84361"/>
+		<rom name="Slotto Party Games £35/recall/recall_game_6.dat" size="104" crc="d60a21f7" sha1="427434ef6ad78066e9f40669010dfeee1c73992c"/>
+		<rom name="Slotto Party Games £35/recall/recall_game_7.dat" size="104" crc="bcb6964a" sha1="9d05a7c8b70d617a2fec02700baef330f63d7c46"/>
+		<rom name="Slotto Party Games £35/recall/recall_game_8.dat" size="104" crc="8b8107ea" sha1="e4438d17e40edd1f1ffc8baa0f1d19d3ba4617c2"/>
+		<rom name="Slotto Party Games £35/recall/recall_game_9.dat" size="104" crc="38e2c91e" sha1="5588fb341e098db896f22fb916456f23142bab78"/>
+		<rom name="Slotto Party Games £35/zca.avi" size="77709516" crc="a2572745" sha1="27525fe0937315056b7defb41d43685bcdea541e"/>
+	</game>
+	<game name="Slotto_Party_Games_500">
+		<rom name="Slotto Party Games £500/ReelBands.lua" size="386" crc="24b5088a" sha1="1b9bd69afc6e028c3175b1aa03357633464f3bb1"/>
+		<rom name="Slotto Party Games £500/Resources/Resource.wad" size="17148550" crc="af2e4901" sha1="fc1d8569be26038766f41eb410d8e6cfac7716db"/>
+		<rom name="Slotto Party Games £500/Resources/Thumbs.db" size="924672" crc="70c6bab9" sha1="6c4ee9e2bede4bd4f4a3d360d459cd7207ef4b3e"/>
+		<rom name="Slotto Party Games £500/SerialDriver.dll" size="40960" crc="d9c2b5be" sha1="cbba8f08a0b4f3029449ab0dd3bd46de63ab1d1a"/>
+		<rom name="Slotto Party Games £500/Sounds/button.wav" size="14396" crc="7a02950e" sha1="701ca5efad61601b13c10eaa61e6546a7007f17f"/>
+		<rom name="Slotto Party Games £500/Sounds/ching.wav" size="18492" crc="a1d48b4c" sha1="7a485d440d6a36f6236e7fbb3e7ad2a2f2f47da2"/>
+		<rom name="Slotto Party Games £500/Sounds/countup.wav" size="10300" crc="921beb0b" sha1="875cffc540f88ae925337fd56c7953ef33ce19b9"/>
+		<rom name="Slotto Party Games £500/Sounds/end_seq.wav" size="55356" crc="0c5f692b" sha1="cbd50c621031aeee2c654c2ae17aece1e86f0b85"/>
+		<rom name="Slotto Party Games £500/Sounds/gamble2.wav" size="274162" crc="a35d4dbc" sha1="824ac7507c9b92a9ff474cddddb702bfd7bdd6c9"/>
+		<rom name="Slotto Party Games £500/Sounds/jackpota.wav" size="89960" crc="a5d3004f" sha1="c75191b8cfb87e772dab036bdf222d78bdae68d3"/>
+		<rom name="Slotto Party Games £500/Sounds/pop.wav" size="10300" crc="9e34e0e5" sha1="486e6ed77c87ec3333a4b5d8f3fc3cb9d549d787"/>
+		<rom name="Slotto Party Games £500/Sounds/pop3.wav" size="4156" crc="bc1fdc5d" sha1="acc8b8071cd31cb68e4e877d22f41f91e9da82b0"/>
+		<rom name="Slotto Party Games £500/Sounds/rstop.wav" size="12348" crc="84a7758d" sha1="465475b991a7228e1e31191fc020508d65d138f1"/>
+		<rom name="Slotto Party Games £500/Sounds/rstop2.wav" size="12348" crc="deac6736" sha1="17f21b97c79b4c2828b0cf44f86d457a24e8a555"/>
+		<rom name="Slotto Party Games £500/Sounds/rstopold.wav" size="2108" crc="2caa37f0" sha1="e62c1ff946915916a5e934a235e96222406ea7bd"/>
+		<rom name="Slotto Party Games £500/Sounds/turn_card1.wav" size="32828" crc="f781308f" sha1="9666536a33f5a60dde3a2d229f32cc311f54e896"/>
+		<rom name="Slotto Party Games £500/Sounds/vibes.wav" size="77884" crc="f398f110" sha1="6bb16292d6ccaa1fe411f8a74069588b25cf4f45"/>
+		<rom name="Slotto Party Games £500/Sounds/vibesold.wav" size="81980" crc="8cde48ef" sha1="ee7c636615c2a2fea02e3c41428a1831cbb17fd3"/>
+		<rom name="Slotto Party Games £500/Thumbs.db" size="7680" crc="91f50192" sha1="6856037e4ff0e42126b07fe35b558bedcfe3ee91"/>
+		<rom name="Slotto Party Games £500/attract.avi" size="11094794" crc="61a75159" sha1="3e78d6ef244d377cebe85fdca16b634caa5c1a04"/>
+		<rom name="Slotto Party Games £500/config.lua" size="214" crc="1f4c0a14" sha1="ddb9586d59f6207063633b8f88d09fe87e00ebb6"/>
+		<rom name="Slotto Party Games £500/game.exe" size="622592" crc="47eab433" sha1="7d5bbc8ffdeda0e086a865a8cc0750fc2b51159f"/>
+		<rom name="Slotto Party Games £500/recall/Index.dat" size="1" crc="d56f2b94" sha1="a42c6cf1de3abfdea9b95f34687cbbe92b9a7383"/>
+		<rom name="Slotto Party Games £500/recall/recall_game_0.dat" size="26" crc="daf2ee62" sha1="214715a985d85992f3bb4d33edff87f8e70b88bd"/>
+		<rom name="Slotto Party Games £500/recall/recall_game_1.dat" size="26" crc="f7a81a56" sha1="a5a65f97aa7a30ecf42d742d07d6a831a18d5344"/>
+		<rom name="Slotto Party Games £500/recall/recall_game_2.dat" size="26" crc="96a98aba" sha1="4d9e44a77b9631b55269aea56b310701da438e17"/>
+		<rom name="Slotto Party Games £500/recall/recall_game_3.dat" size="26" crc="2e2f1aef" sha1="d07fccb71eb0e95906f493eb6d8afff2c73db54c"/>
+		<rom name="Slotto Party Games £500/recall/recall_game_4.dat" size="26" crc="f9962ed1" sha1="3fff03f0c73c4bc55e0ec1129cca1290c1b93a21"/>
+		<rom name="Slotto Party Games £500/recall/recall_game_5.dat" size="26" crc="a64847a6" sha1="b16755e29a9438de1755d2c01b0e17024395fd7e"/>
+		<rom name="Slotto Party Games £500/recall/recall_game_6.dat" size="26" crc="03d80f46" sha1="3f8a5765867148d2efa66a49a410207d7cfe061f"/>
+		<rom name="Slotto Party Games £500/recall/recall_game_7.dat" size="26" crc="9608b152" sha1="845fe62d8aec3412b7291685c6929e62a090a425"/>
+		<rom name="Slotto Party Games £500/recall/recall_game_8.dat" size="26" crc="26e65e4e" sha1="655f8fb66893470cd97023206dc71ec9ec32bb35"/>
+		<rom name="Slotto Party Games £500/recall/recall_game_9.dat" size="26" crc="486ce51e" sha1="16ef25a58e0e018b609fa3b6ea0b14e93e557a21"/>
+		<rom name="Slotto Party Games £500/reels.lua" size="3221" crc="c65fcb7d" sha1="2637278f555167298cbc047b2f9e321a83fc93f5"/>
+		<rom name="Slotto Party Games £500/session.lua" size="214" crc="d22170d3" sha1="cd1d7a9b8f414bc7f6bf5023cca7ffc74ab4b7bb"/>
+	</game>
+</datafile>

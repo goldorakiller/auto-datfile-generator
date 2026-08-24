@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>eXoDOS Media Add-On Pack</name>
+		<description>Mixed (Archive as File)</description>
+		<category>Computer</category>
+		<version>6.04</version>
+		<date>2024-11-28</date>
+		<author>eXo (dat by Eggman)</author>
+		<homepage>https://www.retro-exo.com/</homepage>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<romvault forcepacking="fileonly" />
+	</header>
+	<game name="Content">
+		<description>Content</description>
+		<rom name="DOS_linux_Magazines.zip" size="2766551" crc="0cd234bd" sha1="5312496604b834607b76528b7a8407d2f98b8196"/>
+		<rom name="DOS_linux_Videos.zip" size="76049" crc="5ecb8119" sha1="272fb2860982069c8285320a8834d436d8c82da7"/>
+		<rom name="DOSBooks.zip" size="44951035942" crc="945c526c" sha1="f2cf0087d0031b86ee41e5622e2ab88ee43278a7"/>
+		<rom name="DOSCatalogs.zip" size="1712824979" crc="2fd40337" sha1="79abfa572eb49cc86a2fda47be3975171ef4e441"/>
+		<rom name="DOSMagazines.zip" size="102005486074" crc="83bb4c02" sha1="e6ad3ee0f1bacc4cfbe83833cf7f1b5b7ece4149"/>
+		<rom name="DOSSoundtracks.zip" size="38907149249" crc="bd787317" sha1="2277fb0d870720c1c03f44b338897b3ae9ca2c5d"/>
+		<rom name="DOSVideos.zip" size="49242800010" crc="9a8e2861" sha1="4364dd6981d4b8025921732600656aeff9d01cbb"/>
+		<rom name="MediaPack.ver" size="12" crc="ea86612f" sha1="782d38cd9e768fb90b97c52da0c7282544192b39"/>
+	</game>
+	<rom name="Media Pack ReadMe.txt" size="772" crc="b30fc26a" sha1="7dcca106e933f53dac5afcc65e7640c67eccb263"/>
+</datafile>

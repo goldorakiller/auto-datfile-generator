@@ -1,0 +1,312 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>GoodVect v1.06</name>
+		<version>1.06</version>
+		<description>GoodTools Collection</description>
+		<author>Cowering (dat by Eggman)</author>
+		<date>2025-04-01</date>
+		<comment>dir2dat of completed GoodTools sets</comment>
+		<romvault/>
+	</header>
+	<game name="GoodVect v1.06">
+		<description>GoodVect v1.06</description>
+		<rom name="Good.doc" size="19101" crc="0c6b14ec" sha1="2fe052cf7d1a5689e5d459736cfafb75a1a35dd6"/>
+		<rom name="Good.fr.doc" size="24526" crc="5d500a0f" sha1="f92934f0739ba81aa6e00dd7b88e40065ad78fae"/>
+		<rom name="GoodCodes.txt" size="8570" crc="09f34a2c" sha1="996a1f55f5121fed42ef591325ed01c6702d651a"/>
+		<rom name="Goodinfo.cfg" size="18067" crc="767301ec" sha1="b204b2412176b80f2b38fb924af6bec005db11dc"/>
+		<rom name="GoodVect.db" size="1156" crc="02e67317" sha1="d12b38aef7f0bdf0b2346d6d76ad74a424f47071"/>
+		<rom name="GoodVECT.exe" size="66560" crc="0ed39cce" sha1="a806efd393f40d583059ab55f34b270ce63bbda4"/>
+		<rom name="GoodVECT.news" size="304" crc="3c5ead8b" sha1="ffff0bdef7f19a51ccbcb2bfa54af90a150ec758"/>
+		<rom name="license.txt" size="1187" crc="48bca521" sha1="eb1b5c3fd0a514b91a6205e8305dec619d936ffd"/>
+		<rom name="VectHave.txt" size="11421" crc="7d435b55" sha1="c6657285e38383c534b835ff89022a9e352281c8"/>
+		<rom name="VectMiss.txt" size="59" crc="298cd449" sha1="d977e2a6a4ea259eedcb00e5b17aebe8bc60f2bd"/>
+		<rom name="VectRen/&apos;NO&apos; Sound by Chris Salomon (1998) (PD).vec" size="3423" crc="f6220e61" sha1="a51491355711171c93e27a7f4146f7e99df4f950"/>
+		<rom name="VectRen/0ldsk00l Demo by Manu (2002) (PD).vec" size="6825" crc="f28d2746" sha1="59bac071532fb9fabcbc71af7a57aac508ea0abc"/>
+		<rom name="VectRen/3-D Crazy Coaster (1983) [b1].vec" size="8192" crc="23a542c2" sha1="319974609e4292a0e6b6a7c34264cba082855509"/>
+		<rom name="VectRen/3-D Crazy Coaster (1983) [b2].vec" size="8243" crc="071b1dc9" sha1="bb89953e586009e43b774df2baf519e5e7183ebd"/>
+		<rom name="VectRen/3-D Crazy Coaster (1983).vec" size="8192" crc="92709b11" sha1="4a833e4869221f832dacb7ef0fb2997c870b7d7f"/>
+		<rom name="VectRen/3-D Demo by Chris (Mar 06) (2000) (PD).vec" size="25886" crc="bd447845" sha1="438e1cb5cd956b94a398ee3c70f81a885334669c"/>
+		<rom name="VectRen/3-D Demo by Chris (Mar 08) (2000) (PD).vec" size="29872" crc="36daf32c" sha1="90a0557d7bf761c2eaa30a154d2494845388ec6a"/>
+		<rom name="VectRen/3-D Mine Storm (1983) [b1].vec" size="8233" crc="3cc9f092" sha1="17de7250a48f4a5da536956697751369fd9b7524"/>
+		<rom name="VectRen/3-D Mine Storm (1983).vec" size="8192" crc="b2313487" sha1="1731e892da8945fe4945b43847d23960c581682a"/>
+		<rom name="VectRen/3-D Narrow Escape (1983) [b1].vec" size="7168" crc="09ae457a" sha1="4ff2caa11ba111b256610d34a19de97b28053026"/>
+		<rom name="VectRen/3-D Narrow Escape (1983) [b2].vec" size="7936" crc="9dff64da" sha1="e7e0a8d12cf7b7451c7f643e8a793e47295f4d31"/>
+		<rom name="VectRen/3-D Narrow Escape (1983) [b3].vec" size="8240" crc="b4c45b4b" sha1="084e5161ec6db4df0cb3c4124dc5fa26a69fd423"/>
+		<rom name="VectRen/3-D Narrow Escape (1983).vec" size="8192" crc="050bd949" sha1="9e5d23cb7ef111394e1804e105b6dd277c062df6"/>
+		<rom name="VectRen/3-D Scrolling Demo by Christopher Tumber (2001) (PD).vec" size="835" crc="6101e5e7" sha1="fc8527c3ee6af51a366538d6b0c731553514f735"/>
+		<rom name="VectRen/4-D Rotating Cube Demo (19xx) (PD).vec" size="4096" crc="5d7af9b8" sha1="76325ce2d696ddbfdef7c9ff32e0b4e3d351e1e6"/>
+		<rom name="VectRen/8Ball by Christopher Tumber (2001) (PD).vec" size="1805" crc="8957ed6b" sha1="1a4343635345ec0ac45ac5a5a72d3118c53134aa"/>
+		<rom name="VectRen/Abyss Demo (1999) (PD).vec" size="3489" crc="0d5f6408" sha1="7fc188e68782aad9ccad9d99bc21fdc8c1934904"/>
+		<rom name="VectRen/All Good Things by John Dondzila (1996).vec" size="16384" crc="e98ab5a2" sha1="85588ca116fe3695f19e1d06dd0853220a5b2f39"/>
+		<rom name="VectRen/All Your Base Demo by Manu (2001) (PD).vec" size="3808" crc="b6f1cdb9" sha1="02cf9658c9347ae9c67f21f993834d0da620a2af"/>
+		<rom name="VectRen/Alpha Demo (2001) (PD).vec" size="312" crc="6f7a27b9" sha1="74d65dc5a48cda013428d8cc66dd20bb901a90f8"/>
+		<rom name="VectRen/Animaction (1983) (light pen) [b1].vec" size="8254" crc="f958602c" sha1="16589b7be4774bb26d53c04f4433a73ddf5b19e1"/>
+		<rom name="VectRen/Animaction (1983) (light pen).vec" size="8192" crc="9f62e167" sha1="71946be47debae89ad191ac382c2015d6a862072"/>
+		<rom name="VectRen/Animation Demo by Manu (2002) (PD).vec" size="191" crc="0d2bbc4b" sha1="3b8de41101d7fb5b51a721d5d872f01b21d3394a"/>
+		<rom name="VectRen/Arkanoid - Revenge of DOH Sound by Chris Salomon (1998) (PD).vec" size="764" crc="9c93e4f6" sha1="2a2f5a394f08be1e5f059432f3efb877558010fa"/>
+		<rom name="VectRen/Armor Attack (1982) (Spinner Hack) [a1].vec" size="4265" crc="131ee522" sha1="e4f5739c9f9ed054963a6535ed0b2a067f1ced95"/>
+		<rom name="VectRen/Armor Attack (1982) (Spinner Hack).vec" size="4269" crc="b4725dbe" sha1="9c6ed40a420461919344a3207974a4b70c948685"/>
+		<rom name="VectRen/Armor Attack (1982) [b1].vec" size="4110" crc="7a859c8b" sha1="2ea5f2ea3237a80c6aa96af10464adf5547409d8"/>
+		<rom name="VectRen/Armor Attack (1982).vec" size="4096" crc="b7510971" sha1="eb76f860130f8cc87826fa931350467760511213"/>
+		<rom name="VectRen/Arsek by Marq (2000) (PD).vec" size="1059" crc="b707612b" sha1="6af97a4453f23cdbfbb9c298f0b4d5e8c3fd04a9"/>
+		<rom name="VectRen/Art Master (1983) (light pen) [b1].vec" size="4136" crc="6a989118" sha1="2aa0b01c2594ba5b15bbc65feac55738967c3c2f"/>
+		<rom name="VectRen/Art Master (1983) (light pen).vec" size="4096" crc="c8e2f247" sha1="8f35bac5e8e0fc4ad7291bbfe5ae6e693272de06"/>
+		<rom name="VectRen/Axel F - Beverly Hills Cop by Chris Salomon (1998) (PD) [a1].vec" size="30538" crc="6a875048" sha1="5131f6eddaa7e9555ff8600942c4eac360ef0fa1"/>
+		<rom name="VectRen/Axel F - Beverly Hills Cop by Chris Salomon (1998) (PD).vec" size="30538" crc="8fa4280e" sha1="d6336b23282cc8c8e821b3c904461329f38da33f"/>
+		<rom name="VectRen/Bach Prelude #1 by Jeff Woolsey (1985) (PD).vec" size="1536" crc="8fdb6c3a" sha1="2987e773cc47aadafa631491e685b5709ba49e3f"/>
+		<rom name="VectRen/Battle Earth Terror Hazard &amp; Vecsports Boxing (2000) (PD).vec" size="3823" crc="b4d846fb" sha1="308107295ac4ed7bd1eb4c3bd1ccbdbd4c1d6c1a"/>
+		<rom name="VectRen/Battle Earth Terror Hazard V1 by Manu (2000) (PD).vec" size="1038" crc="4b6e2949" sha1="d50bad595610608ad8fd149f2d277539cb83eb25"/>
+		<rom name="VectRen/Battle Earth Terror Hazard V2 by Manu (2000) (PD).vec" size="1169" crc="96fa93ff" sha1="fb136954a87febd6cbbc8a0054fe8131964a2471"/>
+		<rom name="VectRen/Battle Earth Terror Hazard V3 by Manu (2000) (PD).vec" size="1464" crc="3e908770" sha1="15577afe813b2421bccc952cdb1abb11263af0eb"/>
+		<rom name="VectRen/Battle Earth Terror Hazard V4 by Manu (2000) (PD).vec" size="2103" crc="b06012b3" sha1="b19afa5e412bb1e8dd80e1158074efe78003f8ff"/>
+		<rom name="VectRen/Battlezone Demo by Christopher Tumber (2001) (PD).vec" size="1517" crc="4d63357b" sha1="06d86fe997bc013799da6cedd6aaf420ee5c62b9"/>
+		<rom name="VectRen/BB2 Demo by Manu (2002) (PD).vec" size="5725" crc="f0d97f3f" sha1="503aa23f63ffadad37084a541c213cb8b96a5c15"/>
+		<rom name="VectRen/BCor-FTS Demo by Clay Cowgill (1997) (PD).vec" size="2499" crc="309e6b20" sha1="ed22d2adbe8b3d8fa7e0404482c8bc1bf01c68dc"/>
+		<rom name="VectRen/Bebop Best Sound by Chris Salomon (1998) (PD).vec" size="4769" crc="a1358e8c" sha1="deb719de9b354625dcce2ab33e85626d34ad0bdb"/>
+		<rom name="VectRen/Bebop Sound by Chris Salomon (1998) (PD).vec" size="9180" crc="144e1d02" sha1="e7c86f9d3414f271c015fedccdd4c9cc8f06f021"/>
+		<rom name="VectRen/Bedlam (1983) (Spinner Hack).vec" size="4251" crc="2094c6b1" sha1="7ba5a345e6882003c1cc7c5162dc5d162c3b165c"/>
+		<rom name="VectRen/Bedlam (1983) [b1].vec" size="3584" crc="1006dbe1" sha1="38027413986ff31917f6ddb5346ada1ff96ebb63"/>
+		<rom name="VectRen/Bedlam (1983) [b2].vec" size="4122" crc="39553b6e" sha1="2d727aad037f0f072a10d45d0c5355db8577de85"/>
+		<rom name="VectRen/Bedlam (1983) [b3].vec" size="3968" crc="bcc631d3" sha1="9340244989dd922d93db92cc33fd169d33587b0d"/>
+		<rom name="VectRen/Bedlam (1983).vec" size="4096" crc="a2fa649b" sha1="3ff3fa4feda6d562dedff2a10cfa8679d8318044"/>
+		<rom name="VectRen/Berzerk (1982) (Bugfixed Prototype) [o1].vec" size="32768" crc="2adc4eaa" sha1="88031823ed2af95e8a7a6239cd83b158f9b7c16a"/>
+		<rom name="VectRen/Berzerk (1982) (Bugfixed Prototype).vec" size="4096" crc="e9d149de" sha1="9e2221ce5f75b49a084c284cc9db0df4cc8a62ea"/>
+		<rom name="VectRen/Berzerk (1982).vec" size="4096" crc="eafe2455" sha1="e4badd494ed548721328ef869d33ad70e3e522c9"/>
+		<rom name="VectRen/Birds of Prey by John Dondzila (1999).vec" size="7156" crc="a337b848" sha1="f4aa288a6170ff2e3fb49ddafcf0953e1488bdf5"/>
+		<rom name="VectRen/Blitz! - Action Football (1982) [b1].vec" size="8192" crc="0f11ce0c" sha1="60893dfada42cf50c94083d45ad5bd14d0c031c8"/>
+		<rom name="VectRen/Blitz! - Action Football (1982) [b2].vec" size="8212" crc="fe9e1d33" sha1="e49826a5ab04007a93a5e163a1ca5ef3cb51e487"/>
+		<rom name="VectRen/Blitz! - Action Football (1982).vec" size="8192" crc="881b27c5" sha1="aa1aa811c9ce5e19f43b78a6531cdd0e707337bd"/>
+		<rom name="VectRen/Bubble Bobble (Diamond Room) by Chris Salomon (1998) (PD).vec" size="820" crc="82d63f96" sha1="8b5c55c13e659d05d54789d5018c160b0316fda1"/>
+		<rom name="VectRen/Bubble Bobble Sound 0 by Chris Salomon (1998) (PD).vec" size="3929" crc="aa6b74b6" sha1="5fd16b524c54cb734775e572c343e8616b5c9801"/>
+		<rom name="VectRen/Bubble Bobble Sound 1 by Chris Salomon (1998) (PD).vec" size="915" crc="620f1323" sha1="d73c00316d04b7699b56c6b3434447d2038e8f25"/>
+		<rom name="VectRen/Bubble Bobble Sound 2 by Chris Salomon (1998) (PD).vec" size="1219" crc="5754a961" sha1="364f3ed4254f8f378e1065be744fa05721b92c1a"/>
+		<rom name="VectRen/Bubble Bobble Sound 2best by Chris Salomon (1998) (PD).vec" size="1208" crc="4f218a28" sha1="6a30017534b38399e41b9136736160f3f26af3bb"/>
+		<rom name="VectRen/Bubble Bobble Sound 3 by Chris Salomon (1998) (PD).vec" size="1079" crc="811e585d" sha1="891c594d5a0d55de9c29e2784b68381091c58954"/>
+		<rom name="VectRen/Calibration Demo (19xx) (Christopher Tumber) (PD).vec" size="3027" crc="3f3536ff" sha1="18cb76846bc5d632b781bd4fad52d3f75d48cc4e"/>
+		<rom name="VectRen/CGM Example by Marq (2000) (PD).vec" size="1085" crc="be26b83c" sha1="31222acdf992e7e16aaf9930a63d97a29d5cfaab"/>
+		<rom name="VectRen/Clean Sweep (1982) [b1].vec" size="4148" crc="d2a6b4d3" sha1="25898388304ec608cfb2207e2757fcd2fc4f296b"/>
+		<rom name="VectRen/Clean Sweep (1982).vec" size="4096" crc="f1b1de78" sha1="67f8513958c04e936b135740ed4ec6e6fa1763d5"/>
+		<rom name="VectRen/Clean Sweep (Mr Boston Version) (1982).vec" size="8192" crc="bd4da4c2" sha1="299841a116e59399af4e74ccae23ddfc078e007b"/>
+		<rom name="VectRen/Collision Test by Manu (2000) (PD).vec" size="218" crc="fb1c144c" sha1="dcfb19042054f31ad22e728cff6768443cb81d34"/>
+		<rom name="VectRen/Commando - High Score Sound by Chris Salomon (1998) (PD).vec" size="9279" crc="b5715d30" sha1="ec486280f8f875411e02e57e7f526c37751ccc0b"/>
+		<rom name="VectRen/Cosmic Chasm (1982).vec" size="4096" crc="6c1afa52" sha1="56a7f277bf09f94461dda542c04c36266d838b86"/>
+		<rom name="VectRen/Count05 Sound by Chris Salomon (1998) (PD).vec" size="12470" crc="786b4945" sha1="0caf0962f4b46dddc10f3cde048f055ca60fa1ec"/>
+		<rom name="VectRen/Curved Lines Demo (1998) (PD).vec" size="368" crc="e818c1cd" sha1="efd6e59bb1afcfde966f0d89d8d7821592f00b23"/>
+		<rom name="VectRen/Dark Tower (1983) (Prototype) (Fred Taft Hack) [h1].vec" size="12288" crc="09f51459" sha1="fbfd58464d42986d10f1b37f321071ec74525469"/>
+		<rom name="VectRen/Dark Tower (1983) (Prototype) [b1].vec" size="12322" crc="5de945a1" sha1="c3f305fe0e28de4d5cd82690ec4d457a34c5b159"/>
+		<rom name="VectRen/Dark Tower (1983) (Prototype) [b2].vec" size="8192" crc="d3c252c5" sha1="eb15f5c90c7c312a799816aa9f69c6fc27063ece"/>
+		<rom name="VectRen/Dark Tower (1983) (Prototype) [b3].vec" size="4096" crc="5107c081" sha1="75f91fd2c1ef43dcc8f215da3bb992fe8c21f48b"/>
+		<rom name="VectRen/Dark Tower (1983) (Prototype).vec" size="12288" crc="9dcfd5b7" sha1="dbb0b378aacc2a18dfb476aa99ab00d6ab395205"/>
+		<rom name="VectRen/Disc Duel Demo (1997) (PD).vec" size="4548" crc="2e54332e" sha1="e81f3e64cca103f64f78757c0bc563520ed41307"/>
+		<rom name="VectRen/Dr. Who Theme by Chris Salomon (1998) (PD).vec" size="8183" crc="5ea65185" sha1="a8158b5d9015efc3bf9b321dc476344a4998cd4a"/>
+		<rom name="VectRen/Dual Vectrex Test #1 (1983) (PD) [b1].vec" size="4110" crc="1cda1fb6" sha1="7903dd5df2c7c7df1cd79abf359e21bf771c9979"/>
+		<rom name="VectRen/Dual Vectrex Test #1 (1983) (PD).vec" size="4096" crc="2fe6d308" sha1="bf1242593c1fa08e8c3670cb6e4b8d517863d02e"/>
+		<rom name="VectRen/Dual Vectrex Test #2 (1983) (PD) [b1].vec" size="4110" crc="017e7251" sha1="7df3c0dee62647cc46683ecf008860d1b1863d1d"/>
+		<rom name="VectRen/Dual Vectrex Test #2 (1983) (PD).vec" size="4096" crc="5b268391" sha1="c7bca23e90e6f8ade5c668f7ff55c6c72c2a0871"/>
+		<rom name="VectRen/Engine Analyzer (1983) (light pen).vec" size="4096" crc="fe9a501a" sha1="c226d78301dbe40f2194c165f2124d5afa885be4"/>
+		<rom name="VectRen/Etch-a-Sketch by Jeff Woolsey (1985) (light pen) (PD) [b1].vec" size="513" crc="997ca4b1" sha1="7c3325aa994d8336f7daec1780f7218345c1ee0c"/>
+		<rom name="VectRen/Etch-a-Sketch by Jeff Woolsey (1985) (light pen) (PD).vec" size="512" crc="963062a6" sha1="53e038e736e8e5c78dcd908a9fa950c787a6db07"/>
+		<rom name="VectRen/Exec Rom Dumper (2000) (Ronen Habot).vec" size="408" crc="81f72997" sha1="ab2c7e308eca62604e763f6254ba3d01c4966a97"/>
+		<rom name="VectRen/Fast Food Sound 1 by Chris Salomon (1998) (PD).vec" size="16409" crc="947221e4" sha1="4cfedf2ae3d919988b8efaf842bb5da554438657"/>
+		<rom name="VectRen/Fast Food Sound 2 by Chris Salomon (1998) (PD).vec" size="7479" crc="a3df0880" sha1="244758670486a71e0b85d960276ef6159d45eacc"/>
+		<rom name="VectRen/Fortress of Narzod (1982) [b1].vec" size="8217" crc="c56ddc79" sha1="f7d289918d5a7856885cfa55a7a77abf04f4f048"/>
+		<rom name="VectRen/Fortress of Narzod (1982).vec" size="8192" crc="13a35c8a" sha1="286e061331289b031de33725a4966c379c1df47f"/>
+		<rom name="VectRen/Ghosts &apos;n&apos; Goblins Sound 7 by Chris Salomon (1998) (PD).vec" size="1235" crc="69b310a7" sha1="236a110bbb29f88b0d1e61145c7c42a1b4aae11d"/>
+		<rom name="VectRen/Ghosts &apos;n&apos; Goblins Sound 8 by Chris Salomon (1998) (PD).vec" size="1217" crc="1c3c376f" sha1="ccbcc13539e202767f0fc86e57cc5d9f16934cf8"/>
+		<rom name="VectRen/Ghosts &apos;n&apos; Goblins Sound 9 by Chris Salomon (1998) (PD).vec" size="1230" crc="ae4a81fa" sha1="3772280f755b3dc6ee669cef98634d236f3e9878"/>
+		<rom name="VectRen/Ghosts &apos;n&apos; Goblins Sound 9best by Chris Salomon (1998) (PD).vec" size="1163" crc="1bed4a1c" sha1="21b56455b1a782196a9210b3ad4bd8e99c85bf52"/>
+		<rom name="VectRen/Ghouls &apos;n&apos; Ghosts Sound by Chris Salomon (1998) (PD).vec" size="1369" crc="c7ab8914" sha1="c12ec6421f8dc5b615dc2768be9831e32f036097"/>
+		<rom name="VectRen/Gravitrex by John Dondzila (2002).vec" size="32768" crc="83b06492" sha1="4120a657ce2a702371d09fe7fd58dc9cc4b7e5cb"/>
+		<rom name="VectRen/Great Giana Sisters (Bonus) by Chris Salomon (1998) (PD).vec" size="5026" crc="5f06979d" sha1="d07078b67a880c99da75af132736767c817b957e"/>
+		<rom name="VectRen/Great Giana Sisters (Ingame) by Chris Salomon (1998) (PD).vec" size="18385" crc="745eae5b" sha1="b0ae20ceaef6e60c3ebac95fa85defd2571ee067"/>
+		<rom name="VectRen/Great Giana Sisters (Title) by Chris Salomon (1998) (PD).vec" size="9305" crc="711728a6" sha1="6330b98fc860edf42b6ff664516096e152d48964"/>
+		<rom name="VectRen/Heads Up - Action Soccer (1983) [b1].vec" size="8223" crc="05bb5c7e" sha1="5e8f6f9e9c6c6f784b910773ca387048a5941726"/>
+		<rom name="VectRen/Heads Up - Action Soccer (1983).vec" size="8192" crc="e61a7de3" sha1="0406c13952fb0bd6adc68298ae163ebc6160484c"/>
+		<rom name="VectRen/Hey, Music Lover Sound by Chris Salomon (1998) (PD).vec" size="5388" crc="b390e343" sha1="af938f05214d3516b45c7589ffe0b7cab58736eb"/>
+		<rom name="VectRen/Hyperchase (1982) [b1].vec" size="4121" crc="c7f86149" sha1="1c79e8a995f814ce2c0273139089dd99575f5610"/>
+		<rom name="VectRen/Hyperchase (1982).vec" size="4096" crc="4bb13472" sha1="a246f1d94a5b062b60784787a1d6d499b21c10cd"/>
+		<rom name="VectRen/Jaws Theme Music by Chris Salomon (1998) (PD).vec" size="6553" crc="772945de" sha1="15b4fa6c266e6bee43550be39738c03f61bf2bbf"/>
+		<rom name="VectRen/Joystick Demo by Manu (2000) (PD).vec" size="216" crc="4c54a3d5" sha1="4367a7fc3de661af325c0c5c7829ab8e9ed76e9a"/>
+		<rom name="VectRen/Klax (Level Begin) Sound by Chris Salomon (1998) (PD).vec" size="3544" crc="4240008e" sha1="46278f9130dd876fcf73e95503d88a5483791ad6"/>
+		<rom name="VectRen/Labyrinth Rev 1 by Chris Salomon (1998) (PD).vec" size="3944" crc="7525e02a" sha1="9060ce5ceed5163ea905e857fe5847f4d132438a"/>
+		<rom name="VectRen/Labyrinth Rev 2 by Chris Salomon (1998) (PD).vec" size="15026" crc="05d5ea98" sha1="139891ccaf0fc7c4ce0d24f05b2999498eac3f66"/>
+		<rom name="VectRen/Labyrinth Rev 3 by Chris Salomon (1998) (PD).vec" size="12760" crc="f3494cfa" sha1="d20129539b4104e73041baa2a84c0a1cf6cc48f4"/>
+		<rom name="VectRen/Labyrinth Rev 4 (Vector Rouge) by Chris Salomon (1998) (PD).vec" size="13913" crc="c6e46807" sha1="80cf22643f6e4c5e3d9dc725ecd70d8dc7c283d9"/>
+		<rom name="VectRen/Line Demo (2001) (PD).vec" size="166" crc="59181c32" sha1="16aa5973850c5386ec81213872af41adf1cc9f67"/>
+		<rom name="VectRen/Lines and Digitized Sounds Demo (1998) (PD).vec" size="6765" crc="c99abda6" sha1="760a09aea9461ec8aebbe9a00a2dd17314d2ac03"/>
+		<rom name="VectRen/Lunar Lander Demo by Thomas Landspurg (19xx) (PD).vec" size="1216" crc="67ed5845" sha1="4318d453257b35991b926fbef824348088a631f3"/>
+		<rom name="VectRen/Mad Planetoids Demo by John Dondzila (2001) (PD).vec" size="955" crc="da03c220" sha1="f29559a75b057a91abd6fe68fc637bbaa7f81424"/>
+		<rom name="VectRen/Madonna&apos;s Get Into the Groove by Chris Salomon (1998) (PD).vec" size="11804" crc="6ecad660" sha1="fea63075a476088328c3c0fb8b5f6c58e383d01b"/>
+		<rom name="VectRen/Melody Master (1983) (light pen) [b1].vec" size="8232" crc="7213c28c" sha1="55a6d6a2c56996d16a7c39ca0878b33bc2fe4f03"/>
+		<rom name="VectRen/Melody Master (1983) (light pen).vec" size="8192" crc="afefa29c" sha1="58aecc7fb1d26a22b09e9a13d845e4ed12e2449d"/>
+		<rom name="VectRen/Mike&apos;s Molecules Demo by Mike Blackwell (1985) (PD) [a1].vec" size="333" crc="bcc59075" sha1="0699ce4d4f79c1c372d643510a61ac43c02280da"/>
+		<rom name="VectRen/Mike&apos;s Molecules Demo by Mike Blackwell (1985) (PD) [b1].vec" size="513" crc="611cf078" sha1="164d1dc97e2c7e9d1d1e1ef0651a0ee6bfa32bde"/>
+		<rom name="VectRen/Mike&apos;s Molecules Demo by Mike Blackwell (1985) (PD).vec" size="512" crc="c6ed30ab" sha1="b2432b5fdad1c4c1043edd647a26a4b76376b763"/>
+		<rom name="VectRen/Mine Storm (1982) (Karrsoft Hack) [h1].vec" size="8192" crc="a6e4dac4" sha1="e0900be6d6858b985fd7f0999d864b2fceaf01a1"/>
+		<rom name="VectRen/Mine Storm (1982) (RLB Hack) [b1].vec" size="4121" crc="36263b03" sha1="75b70b679ac65d297dc9520a3fef08cabf8bc526"/>
+		<rom name="VectRen/Mine Storm (1982) (RLB Hack) [b1][o1].vec" size="8217" crc="3c535de3" sha1="e881db60389f8c2fb6c1be7ed8dddb375b768578"/>
+		<rom name="VectRen/Mine Storm (1982) (RLB Hack) [b1][o2].vec" size="8217" crc="6e0fcd2a" sha1="f6a50dc6d7dbb1017b3461bcd9f3304f10a88f86"/>
+		<rom name="VectRen/Mine Storm (1982) (RLB Hack) [h1].vec" size="4096" crc="410d7d82" sha1="a96144bb36a94eb0a2f981701213ce59791185d1"/>
+		<rom name="VectRen/Mine Storm (1982) (RLB Hack) [o1].vec" size="8192" crc="65d9ad00" sha1="c6c40b4f56d6f84cb64758d00a745496e3e81d68"/>
+		<rom name="VectRen/Mine Storm (1982) (RLB Hack) [o2].vec" size="8192" crc="fd74f4d6" sha1="1142f7570efccd7d03b4f5a64472534303bfcfdf"/>
+		<rom name="VectRen/Mine Storm (1982).vec" size="8192" crc="ba13fb57" sha1="65d07426b520ddd3115d40f255511e0fd2e20ae7"/>
+		<rom name="VectRen/Mine Storm II (1983) (Fred Taft Hack) [h1].vec" size="4538" crc="8b310d4b" sha1="b456780dfbb2a5ec46feb7eba05d3b1c0f589b1b"/>
+		<rom name="VectRen/Mine Storm II (1983) (Spinner Hack).vec" size="4220" crc="c06dba91" sha1="62469ad35eafd546f595b3f98468e0ad30cc6cd0"/>
+		<rom name="VectRen/Mine Storm II (1983).vec" size="4096" crc="f5b3b374" sha1="1fdcc6e54ae5177bc9cdc79ce616ae3401e5c229"/>
+		<rom name="VectRen/Misfits 1 Music by Chris Salomon (1998) (PD).vec" size="22941" crc="7795c0ae" sha1="b46c7e0aab9e84ba5939be619c62f5f0291e1795"/>
+		<rom name="VectRen/Missile Lords by Christopher Tumber (2001) (PD).vec" size="8685" crc="8d39abc5" sha1="afd01651101e21de5afbf3fc493f6ad51deb007f"/>
+		<rom name="VectRen/Monty on the Run HiScore Sound by Chris Salomon (1998) (PD).vec" size="12096" crc="e53d028d" sha1="5d38c627a5d551637ec67aaccf938eb214b010d7"/>
+		<rom name="VectRen/Monty on the Run Sound by Chris Salomon (1998) (PD) [a1].vec" size="3120" crc="863250fc" sha1="3a06ca37b2e5cbc37d2126d66cd01009106719ff"/>
+		<rom name="VectRen/Monty on the Run Sound by Chris Salomon (1998) (PD).vec" size="15956" crc="70b39c13" sha1="144b29a9ce58edbc51de479b0586e0ee95b903ec"/>
+		<rom name="VectRen/Moon Lander Demo by Clay Cowgill (1997) (PD) [a1].vec" size="32768" crc="8617c304" sha1="7c0752c24b3645b716337b57fe6f4bc4064e9eb0"/>
+		<rom name="VectRen/Moon Lander Demo by Clay Cowgill (1997) (PD).vec" size="8700" crc="55a79111" sha1="0758bfd187b449ff0111bd637ecebd33ea326bae"/>
+		<rom name="VectRen/Music Demo (2001) (PD).vec" size="190" crc="6397b8b6" sha1="383062cee645db9ce07ae5cd7767dc8e88af6f25"/>
+		<rom name="VectRen/My Bonnie Lies Over The Ocean by Jeff Woolsey (1985) (PD).vec" size="414" crc="24e2f808" sha1="1510d6a139fe9a21d8eb88a7238c051066918744"/>
+		<rom name="VectRen/Narrow Escape (2-D Version by Fred Taft) (1983) [h1].vec" size="7573" crc="1eda284c" sha1="34515c515f11afa2f57d4b03d5c213828158b3d5"/>
+		<rom name="VectRen/Nona3 by Manu (Mar 10) (2003).vec" size="7436" crc="c7ffec5f" sha1="0a01f3991ddc555095a198269d075e3466811f9b"/>
+		<rom name="VectRen/Omega Chase (Final Version) (1998) (PD).vec" size="16913" crc="9b4d0540" sha1="00ba347f71cccd6d38f012263b75fa6d17b0603c"/>
+		<rom name="VectRen/Omega Chase by Christopher Tumber (2000) (PD).vec" size="16361" crc="1ae8e788" sha1="c390f580f841b2702274565521385879b8d9fd1a"/>
+		<rom name="VectRen/Pac-Mania Sound 1 by Chris Salomon (1998) (PD).vec" size="20604" crc="9ec71a7c" sha1="4deda85d726606505daf9e0596889fd08cd70eca"/>
+		<rom name="VectRen/Pac-Mania Sound 2 by Chris Salomon (1998) (PD).vec" size="17823" crc="d78f52de" sha1="ea08fbf848b9194d56ecd65d15b9d65f6c645467"/>
+		<rom name="VectRen/Pac-Mania Sound 4 by Chris Salomon (1998) (PD).vec" size="1912" crc="28582a01" sha1="5750bb463e264160b6f45ee4e586e71f1c210672"/>
+		<rom name="VectRen/Patriots by John Dondzila (1996) [a1].vec" size="8192" crc="7d709da2" sha1="481aa3b761f34747fe769c8420564e4f37529c26"/>
+		<rom name="VectRen/Patriots by John Dondzila (1996) [b1].vec" size="8190" crc="1417f83c" sha1="23f8ea355bc8335f4c0b57fed25bced324c12374"/>
+		<rom name="VectRen/Patriots by John Dondzila (1996).vec" size="8169" crc="f0073328" sha1="228dc86174f12aca8717b4fc782049b9e1a56c30"/>
+		<rom name="VectRen/Patriots III - BALListics Busters by John Dondzila (1996).vec" size="2345" crc="58452261" sha1="b9dc68ef0f573476518f6f543641c67a3fe4cded"/>
+		<rom name="VectRen/Patriots III - BALListics Busters by John Dondzila (2002).vec" size="16384" crc="d783de03" sha1="3e8ffd3f569c69dd4aa647aa8f392ea338fefe42"/>
+		<rom name="VectRen/Patriots Remix by John Dondzila (1999).vec" size="8393" crc="45cef85b" sha1="6ce0dd588c93ba50a6f81f60180f2a4a8002830d"/>
+		<rom name="VectRen/Philly Classic 3 Demo (2002) (PD).vec" size="7352" crc="b28fd369" sha1="fb6e71c031aba0efeb332fd5d0379d403a92f5ff"/>
+		<rom name="VectRen/Pokemon Demo 1 by Manu (2000) (PD).vec" size="172" crc="f2ef5951" sha1="93620e3dd374935e33afa9751a7268ec95472b03"/>
+		<rom name="VectRen/Pokemon Demo 2 by Manu (2000) (PD).vec" size="415" crc="e0803eb0" sha1="4a8521998e6ded2fbdcebde34a2848cd0846f67f"/>
+		<rom name="VectRen/Pokemon Demo 3 by Manu and Marq (2000) (PD).vec" size="490" crc="e9583600" sha1="8852a57a4df16ca128fdf668a7cd1b6d4e1b6b55"/>
+		<rom name="VectRen/Pokemon Demo 4 - Psyduck&apos;s Eyes by Manu (2000) (PD).vec" size="429" crc="cfef018d" sha1="7956e64746aaca7337a1cb30663dd19be18a972e"/>
+		<rom name="VectRen/Polar Rescue (1983) [a1].vec" size="8192" crc="ad844645" sha1="b7bd8c8003c60535e1e776758f5c289aa9a77e81"/>
+		<rom name="VectRen/Polar Rescue (1983) [a1][o1].vec" size="32768" crc="4fdfdc80" sha1="fec113dfd3931f14a6e7cad225571860f9a7221f"/>
+		<rom name="VectRen/Polar Rescue (1983) [b1].vec" size="8252" crc="82dbbb6e" sha1="a990578e7b3fb3d6a81a3d4e534898609dd41c13"/>
+		<rom name="VectRen/Polar Rescue (1983).vec" size="8192" crc="a7471784" sha1="87248dcd3db51c1ebf3f8e07e21ec021eec0b9be"/>
+		<rom name="VectRen/Pole Position (1982) (Spinner Hack).vec" size="8411" crc="addc25e4" sha1="4bb008ea3129b22b9827178d7a9de2c468658f2f"/>
+		<rom name="VectRen/Pole Position (1982) [b1].vec" size="8208" crc="b4906cc6" sha1="0c64fa53d87a199200d8fffe10c89c25a0d8ba27"/>
+		<rom name="VectRen/Pole Position (1982) [f1].vec" size="8192" crc="c10f37d8" sha1="9f5b0b5e6caf6d887d3637ace70ad6a6258b999d"/>
+		<rom name="VectRen/Pole Position (1982).vec" size="8192" crc="a00ed3d6" sha1="8454d472435e7a6a4ca5fe129162480ca6e84b87"/>
+		<rom name="VectRen/POP Demo by Christopher Tumber (19xx) (PD).vec" size="3419" crc="c999f9c5" sha1="5608ced5aa8b4c1e8bdd23784b46aaa698cb2874"/>
+		<rom name="VectRen/Pythagorian Theorem by Rob Mitchell (2002) (PD).vec" size="1987" crc="c0801749" sha1="fc20ab8e4c31ecb06e52f575102d246024ffca87"/>
+		<rom name="VectRen/Rainbow Islands Sound by Chris Salomon (1998) (PD).vec" size="7375" crc="94139a13" sha1="4dced2d73bb7e73fb7bd83220d457d962893cd68"/>
+		<rom name="VectRen/Real Ghostbusters Sound by Chris Salomon (1998) (PD).vec" size="13524" crc="93825567" sha1="d758e942b0aa36ef2a19a0860bcdeafcff514734"/>
+		<rom name="VectRen/Repulse by John Dondzila (1999).vec" size="6073" crc="4c4d1786" sha1="993d03e92844ba56d07819d9e062e4db9c924d17"/>
+		<rom name="VectRen/Rip-Off (1982) [b1].vec" size="4132" crc="3aa38de0" sha1="c8f9bef26068134f501819e423f01b73c27a4893"/>
+		<rom name="VectRen/Rip-Off (1982).vec" size="4096" crc="34a98132" sha1="22f7a490f6f7aaa31e892b03a85178af211f62e3"/>
+		<rom name="VectRen/Robin Hood Sound by Chris Salomon (1998) (PD).vec" size="5059" crc="8f056694" sha1="0bcefc0b83f8f2d71be0a7e922c28c5c10ab7aa8"/>
+		<rom name="VectRen/Rockaroids Remix - 3rd Rock by John Dondzila (1996) [a1].vec" size="4096" crc="d1e0268f" sha1="a10ffb6efdf32a63f7c4da8bb0b7f8d5fd6cdb98"/>
+		<rom name="VectRen/Rockaroids Remix - 3rd Rock by John Dondzila (1996).vec" size="4245" crc="e8d3bbc2" sha1="0a82ca2ace9db627829dd4b5e2390e8d3614ad7d"/>
+		<rom name="VectRen/Rocket Sledge Demo (1985) (PD).vec" size="3671" crc="863b89e8" sha1="526b347bc02a47c8bda326b1f6da50284127f038"/>
+		<rom name="VectRen/ROM Music Demo by Manu (2000) (PD).vec" size="90" crc="6ed7358c" sha1="68e3121eda4ebbb82f7ebfa4ee82ecefdd8216bc"/>
+		<rom name="VectRen/Ronen&apos;s Game Cart (2000) (Ronen Habot).vec" size="15602" crc="aacf1d20" sha1="5f942034ed8e953361d2c01898b80b81489618f6"/>
+		<rom name="VectRen/Rotation Demo by Manu (2000) (PD).vec" size="172" crc="f1e0bc2e" sha1="fd601edf0582c377e161df90de154bbe1e9f0e27"/>
+		<rom name="VectRen/Rounders by Ronen Habot (2000) (PD).vec" size="9630" crc="f2f08482" sha1="f521611b349ab2bda09440dfad4e8dd454d7dea2"/>
+		<rom name="VectRen/SAW Gallery 1 by Christopher Tumber (1999) (PD).vec" size="5168" crc="81a2cff6" sha1="e9cb3f6317509a41c7bfb05fc4e832245ef7dce8"/>
+		<rom name="VectRen/SAW Gallery 2 by Christopher Tumber (1999) (PD).vec" size="7874" crc="e09e946e" sha1="bff4a25d0bd5a8cc78dec96e82cf6d0902fb1de8"/>
+		<rom name="VectRen/SAW Gallery 3 by Christopher Tumber (1999) (PD).vec" size="7930" crc="d2f92f8f" sha1="d8ccf60a49eaa2a305f31f1b4fff3b5104c7e83b"/>
+		<rom name="VectRen/Scorefont 3 by Manu (Aug 26) (2002).vec" size="299" crc="8bf60c99" sha1="8dfe96cb1161f972e11903fc1e72aadb1cb2847f"/>
+		<rom name="VectRen/Scramble (1982) [b1].vec" size="4155" crc="686f0169" sha1="7901a6e6dba40f3a21bf17f313d27713726891c4"/>
+		<rom name="VectRen/Scramble (1982).vec" size="4096" crc="707c8ffe" sha1="38e38b5c60466146d4648f8929b5ce3a08dcbe0d"/>
+		<rom name="VectRen/Solar Quest (1982) (Spinner Hack).vec" size="4227" crc="e8b9db6d" sha1="78e5629348d2731d76e2614432748c6e19105d60"/>
+		<rom name="VectRen/Solar Quest (1982) [b1].vec" size="4118" crc="80d29fe9" sha1="92d26f1a4dfc11bf724f57a1d8863b6a1b2a3ff2"/>
+		<rom name="VectRen/Solar Quest (1982).vec" size="4096" crc="5c4611c8" sha1="38072dc491d5c729c06f4c50bc310d361e0ff62a"/>
+		<rom name="VectRen/Song Demo by Christopher Tumber (1998) (PD).vec" size="1565" crc="46779d76" sha1="806e654d7e9d05c95ecc4551cb19e9e65ef7d680"/>
+		<rom name="VectRen/Sound1 Demo (19xx) (PD).vec" size="23040" crc="8a0858e7" sha1="a23815d23094ee05be9c543231d119669323ac13"/>
+		<rom name="VectRen/Space Wars (1982) [b1].vec" size="4122" crc="1302f1cb" sha1="f78d62da701372c92acbfabf622f8c011e45daae"/>
+		<rom name="VectRen/Space Wars (1982).vec" size="4096" crc="a3be5aff" sha1="0c229dd12a55044681585f7fdabd37dbc1243b59"/>
+		<rom name="VectRen/Space16 Demo by Manu (2000) (PD).vec" size="284" crc="7ede44cc" sha1="cb10decd63a2f0f1bb111912bc19886db6d99baa"/>
+		<rom name="VectRen/Spectrum I+ Demo (1982) (PD).vec" size="32768" crc="20af7f3f" sha1="7ce85db8dd32687ad7629631ae113820371faf7c"/>
+		<rom name="VectRen/Spike (1983).vec" size="8192" crc="62a61843" sha1="8bba6705e6f69f55ab6d105eac2fd5b0c0d16d9f"/>
+		<rom name="VectRen/Spike Goes Skiing (1998) (PD).vec" size="2010" crc="d17ddc97" sha1="ba48b40d4745b9cc2a0c1fb2e8d7c64057915049"/>
+		<rom name="VectRen/Spike Goes Skiing Demo V.03 (1998) (PD).vec" size="1841" crc="de0c20ed" sha1="0c452f25fb3f42ae455b0fab9f5d621408fd0efa"/>
+		<rom name="VectRen/Spike Hoppin&apos; by John Dondzila (1998) [b1].vec" size="8216" crc="f487ab41" sha1="93e33ca1d276d62eedad646827cd1dbc5bca2f49"/>
+		<rom name="VectRen/Spike Hoppin&apos; by John Dondzila (1998) [b2].vec" size="16446" crc="7e3359ea" sha1="723aa7e0d0f301e899d6d5d44d2faca47d2ae42a"/>
+		<rom name="VectRen/Spike Hoppin&apos; by John Dondzila (1998).vec" size="16384" crc="1c6b030e" sha1="775d6e5fd438246a256f27a2a5145368ec7d2cbe"/>
+		<rom name="VectRen/Spike&apos;s Slam Pit Demo by Gauze (2001) (PD).vec" size="1844" crc="91b546dc" sha1="62d1fbb2e0012916deba2623da31281951f9de9b"/>
+		<rom name="VectRen/Spike&apos;s Water Balloons (Analog) by John Dondzila (2001) (PD).vec" size="2980" crc="95188f66" sha1="b83fa76da4e4bbe861be821c4eb78abd8c9657b9"/>
+		<rom name="VectRen/Spinball (1983) [b1].vec" size="8221" crc="8ae2b9a2" sha1="f1efee6d3e83200e0b52faa2851e2bcb99ae4931"/>
+		<rom name="VectRen/Spinball (1983) [b2].vec" size="8192" crc="b1591c89" sha1="161db68a5c87653f87bb34e0bdd395fcbf0ce079"/>
+		<rom name="VectRen/Spinball (1983).vec" size="8192" crc="02f41733" sha1="2e8285061530ccadfa2d8d11c374ae244449ebfa"/>
+		<rom name="VectRen/Star Castle (1983) (Spinner Hack).vec" size="4220" crc="66e1d134" sha1="12dc9716d7621555c8c2dfcf4646cadde9196909"/>
+		<rom name="VectRen/Star Castle (1983) [b1].vec" size="4120" crc="b2ecdd85" sha1="6c60f4e2dbf962f71ec01f79e09295bcfa0273a0"/>
+		<rom name="VectRen/Star Castle (1983).vec" size="4096" crc="c9039623" sha1="c9b79f1ba30dcbce5a068b606a97775cf863fe0a"/>
+		<rom name="VectRen/Star Fire Spirits by John Dondzila (1999) [a1].vec" size="8560" crc="651d3afc" sha1="abf12b7798d790576aa2ae17bd9ed52e6f14b373"/>
+		<rom name="VectRen/Star Fire Spirits by John Dondzila (1999).vec" size="8516" crc="421cea28" sha1="f4d2a7a2ca4560e8e68bf87ff31e12ce4f8e1229"/>
+		<rom name="VectRen/Star Hawk (1982) [b1].vec" size="4113" crc="7e955785" sha1="696b1a030c34a2caf1b021bd24407f753db10441"/>
+		<rom name="VectRen/Star Hawk (1982).vec" size="4096" crc="4de1f06b" sha1="d6b388b3951e34971c1b00c7fdf8dd00ad52df09"/>
+		<rom name="VectRen/Star Seige by John Dondzila (1999).vec" size="7326" crc="0ccca430" sha1="66ef12db183ae0443eb322bed71e0483b733bcab"/>
+		<rom name="VectRen/Star Ship (1982).vec" size="4096" crc="7967a8cb" sha1="d182eac5a54ffc642fcbe4a495c7c09f87b43585"/>
+		<rom name="VectRen/Star Spangles Banner Music Demo by Jeff Woolsey (1985) (PD).vec" size="508" crc="5ec7d559" sha1="18af445e5fc0a1bd8b160eb36a1c57efbef24208"/>
+		<rom name="VectRen/Star Trek - The Motion Picture (1982) (controller hack) [h1].vec" size="4137" crc="a0ecb4db" sha1="a8cbab762eba29fbb532cffa37e140035e6eefa6"/>
+		<rom name="VectRen/Star Trek - The Motion Picture (1982) [a1].vec" size="4096" crc="563f846b" sha1="21707811e544edae66ca076351bf0743842b46e5"/>
+		<rom name="VectRen/Star Trek - The Motion Picture (1982) [b1].vec" size="4096" crc="e827ef51" sha1="f3d2fa2c1e78da1f615692631e09eee1e4be1884"/>
+		<rom name="VectRen/Star Trek - The Motion Picture (1982) [o1].vec" size="4126" crc="081f7c7c" sha1="1a947684579d697c9600897639ee0edd2ed26a60"/>
+		<rom name="VectRen/Star Trek - The Motion Picture (1982).vec" size="4096" crc="3768d8c3" sha1="3a2ee61316fb316d9e9efdf5ee405e813475b466"/>
+		<rom name="VectRen/Star Wars Sound by Chris Salomon (1998) (PD).vec" size="4464" crc="df57b5c2" sha1="657b1f47ceaa7fd15534116440b44ec32d15b389"/>
+		<rom name="VectRen/Star Wars Theme by Chris Salomon (1998) (PD).vec" size="9718" crc="e8e6fe06" sha1="56cea447704286d88533db99fd209816ae1b96a4"/>
+		<rom name="VectRen/Tank Demo 1 (19xx) (PD).vec" size="937" crc="6c68baf6" sha1="8d5a0b53194455eaf7179b9677b057562e9ac410"/>
+		<rom name="VectRen/Tank Demo 2 (2001) (PD).vec" size="6930" crc="cda54427" sha1="08fa966dde129f43e328143d5ca352a026436201"/>
+		<rom name="VectRen/Taulukko Demo by Manu (2002) (PD).vec" size="118" crc="b76a85c2" sha1="f3c899a3ff925725f7b5c52cd07fc91936fa5f4f"/>
+		<rom name="VectRen/Test Rev. 4 (1982) (PD) [b1].vec" size="4104" crc="628cdb37" sha1="8d2617fc6bb31e037ecc67ad85178cc0932bfefe"/>
+		<rom name="VectRen/Test Rev. 4 (1982) (PD).vec" size="4096" crc="7297e815" sha1="e3418055f1e79a2300572c557e71bf2ce8badbfa"/>
+		<rom name="VectRen/Text Demo (2001) (PD).vec" size="128" crc="e2c6c910" sha1="83f2a693fad4f983abf13844680b4112f46742fd"/>
+		<rom name="VectRen/This is Just a Non-Playable Demo (1999) (PD).vec" size="1935" crc="61bae868" sha1="cd96f7abf10baf4597962ccc4e16bbc8e44a9447"/>
+		<rom name="VectRen/Tono Demo by Marq &amp; Antti (2000) (PD).vec" size="1374" crc="1213d554" sha1="4761136fa2a7c96e0e98f1b68bea057ae7bb61af"/>
+		<rom name="VectRen/Tour De France (1983) (Prototype).vec" size="8192" crc="bb4791f1" sha1="4f461b0b51c82433e70130eac5494f26239b4453"/>
+		<rom name="VectRen/Tsunami by Christopher Tumber (2001) (PD) [a1].vec" size="21863" crc="c9f8e0de" sha1="25c4cf4609566564d406b28aec7190eff45af2c8"/>
+		<rom name="VectRen/Tsunami by Christopher Tumber (2001) (PD) [a2].vec" size="25431" crc="db787558" sha1="8c07f9db3b5eefb993efa36da08ca83dc645b162"/>
+		<rom name="VectRen/Tsunami by Christopher Tumber (2001) (PD).vec" size="11407" crc="cbabec97" sha1="cab4882d9ed324926080dc56ca0dd39842692fde"/>
+		<rom name="VectRen/Turrican 1 Sound by Chris Salomon (1998) (PD).vec" size="1247" crc="2c391ac7" sha1="a0cca9bd43d3a4f17cf8d6c8df5f197a3aa1145a"/>
+		<rom name="VectRen/Turrican 2 Sound by Chris Salomon (1998) (PD).vec" size="1259" crc="17a4d996" sha1="44f23c2dc16946675346f69dd027d5d394c55acc"/>
+		<rom name="VectRen/V-Frogger by Chris Salomon (1998) (PD) [a1].vec" size="16384" crc="667e4029" sha1="7bd5c296866a3a7136a990e11f3126d19041b3ce"/>
+		<rom name="VectRen/V-Frogger by Chris Salomon (1998) (PD).vec" size="16384" crc="9c5410be" sha1="7f014697309efca22f310448acb02c8e5da89c6a"/>
+		<rom name="VectRen/V-Frogger by Chris Salomon, Sound by Kurt Woloch (2001) (PD).vec" size="16384" crc="9d971ee8" sha1="eec5741ae85ae10e4a0ba78ef7ee29468b223140"/>
+		<rom name="VectRen/Vaboom! by Ronen Habot (2000) (PD) [a1].vec" size="11011" crc="2ff8721d" sha1="4e916c6251e9e172cdf6b87280d1a9724a75ece0"/>
+		<rom name="VectRen/Vaboom! by Ronen Habot (2000) (PD).vec" size="12216" crc="0b833d2e" sha1="d3d831630e4b5208ae3090c5d63b7b481c31bc7d"/>
+		<rom name="VectRen/Vecmania Part 1 (1999) (PD) [a1].vec" size="32768" crc="6c2cfd3f" sha1="9366bbf17fb44a28fe0e1db2f4c0b8c31ce0cfe8"/>
+		<rom name="VectRen/Vecmania Part 1 (1999) (PD).vec" size="32768" crc="0eeb4805" sha1="9f60aef3dd8a8b1106f85a8edf4d653a0b515732"/>
+		<rom name="VectRen/Vecmania Part 2 (1999) (PD).vec" size="32768" crc="8c915c4d" sha1="0c8b899b22d35784b73e1c3b3d9156c139aac14c"/>
+		<rom name="VectRen/Vecsports Boxing Demo by Manu (2000) (PD).vec" size="1212" crc="083a2616" sha1="7fdacd5e2181b1b2150e74d3a66631dcbaa3abb6"/>
+		<rom name="VectRen/Vecsports Boxing With Sound Demo by Manu (2000) (PD).vec" size="3090" crc="59119454" sha1="d7ac5d05a905ad2717a3955c11ec85b7815f7f82"/>
+		<rom name="VectRen/VecSports Kingpin Bowling by Manu (V0.2) (2002).vec" size="3448" crc="a1be9786" sha1="7a0e691d49ab56dc7e67d5b093061040e51e5026"/>
+		<rom name="VectRen/VecSports Kingpin Bowling by Manu (V0.3) (2002).vec" size="4517" crc="1968f7de" sha1="b32fdda57a2a97afb7b3d25ae085c7f7049a1d01"/>
+		<rom name="VectRen/VecSports Kingpin Bowling by Manu (V0.4) (Aug 26) (2002).vec" size="5783" crc="b9801d7b" sha1="098c4f5a487eba0a4aec351bdb5ed3e52f7b2969"/>
+		<rom name="VectRen/VecSports Kingpin Bowling Demo by Manu (Aug 19) (2002).vec" size="1031" crc="3cde1fd5" sha1="36b9b0bd65480a7e92eadc78b7a67dd369a2077f"/>
+		<rom name="VectRen/Vectopia by John Dondzila (2001) (PD).vec" size="32768" crc="070b9ecb" sha1="785970293348996a1803a8d5083f81a0f9be14b9"/>
+		<rom name="VectRen/Vector Vaders by John Dondzila (1996) [a1].vec" size="8058" crc="8bd103c1" sha1="bd8cd7cc527844fd7620ac5e6e82579d5f5dd0a0"/>
+		<rom name="VectRen/Vector Vaders by John Dondzila (1996) [b1].vec" size="8073" crc="db24d8cc" sha1="acab2b661c005775456efaebb4ddfd54aa0cab71"/>
+		<rom name="VectRen/Vector Vaders by John Dondzila (1996).vec" size="8192" crc="825987e3" sha1="83a6269a9275d8ce48c58b5560fb2d7324eaeea0"/>
+		<rom name="VectRen/Vector Vaders Remix by John Dondzila (1999).vec" size="8103" crc="cc515522" sha1="af22b2d6af67fe099449240509f43489494e9a77"/>
+		<rom name="VectRen/Vectrace (2000) (Ronen Habot) [a1].vec" size="2782" crc="6c327889" sha1="1a4ed43e03cb6cd8da7bf0bbeb57fc158630a871"/>
+		<rom name="VectRen/Vectrace (2000) (Ronen Habot) [a2].vec" size="3750" crc="e50bb30d" sha1="7db46b4db8124c18646c77380a3f10cae9686bdf"/>
+		<rom name="VectRen/Vectrace (2000) (Ronen Habot).vec" size="3976" crc="635b3377" sha1="567616c50b49c03539daeff90efcb6479039107b"/>
+		<rom name="VectRen/Vectrex BIOS (1982).vec" size="4096" crc="f27d4371" sha1="b9bbf5bb0eac52d039a4a993a2d8064b862c9e28"/>
+		<rom name="VectRen/Vectrex Bootstrap Loader by Jeff Woolsey (1985) (PD).vec" size="256" crc="01cd710b" sha1="8cab85b0ae3e892150e692a01491163a30de943d"/>
+		<rom name="VectRen/Vectrex Demo 1 by Manu (2000) (PD).vec" size="669" crc="098a8230" sha1="03cda3bdd0ffbbcbb3d11143188766211011c37c"/>
+		<rom name="VectRen/Vectrex Demo 2 by Manu (2000) (PD).vec" size="1748" crc="ba77da17" sha1="879278a9c5c9666369f4db58881c021c44e93599"/>
+		<rom name="VectRen/Vectrex Demo 3 by Manu (2000) (PD).vec" size="1915" crc="35b57912" sha1="13380cac0ae0918a0a7ee2a465f75783f0830bec"/>
+		<rom name="VectRen/Vectrex Maze by Chris Salomon (1998) (PD).vec" size="626" crc="3af042f6" sha1="ae1d16609ddd6f414aa0ca54838ade1efdef6e84"/>
+		<rom name="VectRen/Vectrex Pong (1998) (PD).vec" size="1214" crc="0a5ff28d" sha1="4b1e43808aefc8235b130d2dbac41fa087d9aedf"/>
+		<rom name="VectRen/Vectrexians (1999) (PD).vec" size="13434" crc="05f67127" sha1="9b40748fb9e395f70d1266f1a40828331f1d4012"/>
+		<rom name="VectRen/VecVoice Demo by Richard Hutchinson (2002).vec" size="241" crc="49d8d798" sha1="cbe092d64f7d2d780eafef0b0e5dd18ec5b5f38b"/>
+		<rom name="VectRen/Version Nine by Christopher Tumber (1999) (PD) [a1].vec" size="3829" crc="441518f0" sha1="fd5d9f3346072490b70801db18459165705692a0"/>
+		<rom name="VectRen/Version Nine by Christopher Tumber (1999) (PD).vec" size="9177" crc="e3f141ac" sha1="d0797366e16163cf326930dd2281eecdf4cda170"/>
+		<rom name="VectRen/Version Nine by Christopher Tumber (2000) (PD).vec" size="8387" crc="15eed280" sha1="f1b2a5072850f882c126974eb95ff7c9ecfa04be"/>
+		<rom name="VectRen/Verzerk by Alex Herbert (2002).vec" size="29218" crc="59665f3d" sha1="a118510a934184762a032326bb105e2de084a5c1"/>
+		<rom name="VectRen/Vexperience - B.E.T.H. &amp; Vecsports Boxing by Manu (2000).vec" size="4148" crc="e32dc6a4" sha1="6e715c85a82d9fb37ba4ced33264bf84c2e36c57"/>
+		<rom name="VectRen/Vimpula by Manu (2002) (PD).vec" size="893" crc="63a66698" sha1="af48bfb1f8158ce09cbb787500cd3acc79faf102"/>
+		<rom name="VectRen/We Wish You a Merry Christmas by J. Woolsey (1985) (PD) [a1].vec" size="276" crc="068cd49f" sha1="284592d4969c87a034f8028efa7a7f75b27ed86e"/>
+		<rom name="VectRen/We Wish You a Merry Christmas by J. Woolsey (1985) (PD).vec" size="914" crc="3947506a" sha1="876dac1a2a8d1e1bd0d0b1d3df08a06bf4dcd6ea"/>
+		<rom name="VectRen/We Wish You a Merry Christmas by J. Woolsey (1986) (PD).vec" size="1119" crc="ba7be9d3" sha1="4db372a56e7d173d9c265fbe1bd68c1e1fa057fa"/>
+		<rom name="VectRen/Web Warp (1983).vec" size="8192" crc="521107c3" sha1="9681dc5d38a31cb0d0c6c3bd0fc76bfdde531cce"/>
+		<rom name="VectRen/Web Wars (1983) [b1].vec" size="8225" crc="9550b174" sha1="ddfa44536f5a7a6e7d1f53cf4cffeee8655d2d8b"/>
+		<rom name="VectRen/Web Wars (1983).vec" size="8192" crc="2ee20103" sha1="08e2df9f7769c16a4d730adf8d659f8ea4be7f9d"/>
+		<rom name="VectRen/Wormhole by John Dondzila (2001) (PD).vec" size="32768" crc="6371ec9d" sha1="745ddbdc285f1da4f7c3eb5e44fe252d503c7a15"/>
+		<rom name="VectRen/YM001 Sound by Chris Salomon (1998) (PD).vec" size="3987" crc="661ee846" sha1="cbd72904b4395a19fab41a612005d61ef4dbee86"/>
+		<rom name="VectRen/Zombies from the Crypt Music by Chris Salomon (1998) (PD).vec" size="10869" crc="e007d5f8" sha1="496af545bc26e0b322fc5316710e6260bb92aeca"/>
+		<rom name="VectRen/ZZAP - Scrolling Space Game Demo (1989) (PD).vec" size="24214" crc="4d467e41" sha1="1db76a96327738be20e60539f05ef6e351413519"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ROMs - Fruit Machine ROMs (unemulated) - Global</name>
+		<description></description>
+		<category>Fruit Machines</category>
+		<version></version>
+		<date>2026-08-11</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="zzz_unk Rock Star £35">
+		<rom name="Data/STAR1-2P.P0" size="131072" crc="d61b7dae" sha1="3a6e0af0e1add87f4f0521873821098d34a62c68"/>
+		<rom name="Data/STAR1-2P.P1" size="131072" crc="e1110239" sha1="f2483ae81ca8a777c74d684e9c7898baff992df4"/>
+	</game>
+</datafile>
