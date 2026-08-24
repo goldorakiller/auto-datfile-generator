@@ -36,6 +36,10 @@ jobs:
         if: ${{ ! cancelled() }}
         run: pipenv run python3 no-intro.py
 
+      - name: Download dats and generate profile.xml for TOSEC
+        if: ${{ ! cancelled() }}
+        run: pipenv run python3 tosec.py
+
         # HTGD disabled for now
         #- name: Download dats and generate profile.xml for HTGD
         #  if: ${{ ! cancelled() }}

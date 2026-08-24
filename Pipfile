@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-# redump.py, dats-site.py, smdb.py
+# redump.py, dats-site.py, smdb.py, tosec.py
 requests = "*"
 # no-intro.py
 selenium = "*"

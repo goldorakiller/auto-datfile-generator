@@ -1,3 +1,4 @@
+import os
 import re
 import xml.etree.ElementTree as ET
 import zipfile
@@ -10,7 +11,7 @@ import requests
 URL_HOME      = "http://redump.org/"
 URL_DOWNLOADS = "http://redump.org/downloads/"
 XML_FILENAME  = "redump.xml"
-XML_URL       = "https://github.com/dantob/auto-datfile-generator/releases/latest/download/redump.zip"
+XML_URL       = f"https://github.com/{os.environ.get('GITHUB_REPOSITORY', 'goldorakiller/auto-datfile-generator')}/releases/latest/download/redump.zip"
 
 regex = {
     "datfile"  : r'<a href="/datfile/(.*?)">',
