@@ -41,12 +41,11 @@ LOOSE_FOLDERS = {
     "Future Pinball": "future-pinball",
     "FBNeo": "fbneo",
     "Libretro-database": "libretro-database-dat",
+    # eggmansworld-datfiles.py met les 19 collections a plat dans un seul
+    # dossier (demande explicite de Cedric) : une seule source ici, comme
+    # les autres, plutot qu'une par collection.
+    "Eggmansworld - Datfiles": "Eggmansworld - Datfiles",
 }
-
-# eggmansworld-datfiles.py cree un sous-dossier par collection (19+, suit
-# les releases de Eggmansworld/Datfiles) — chaque sous-dossier devient sa
-# propre source ici, pas un dict fixe comme LOOSE_FOLDERS.
-EGGMANSWORLD_ROOT = "eggmansworld-datfiles"
 
 _QUALIFIER_RE = re.compile(r"(\s*\([^)]*\))+\s*$")
 _ALT_NAME_RE = re.compile(r"\s*&.*$")
@@ -188,22 +187,6 @@ def load_loose_folder(folder):
     return entries
 
 
-def load_eggmansworld_collections():
-    """Une source par sous-dossier (une par collection Eggmansworld) plutot
-    qu'une seule source "Eggmansworld" fourre-tout — chaque collection a son
-    propre theme (laserdisc, hvsc, touhou...), pas comparable entre elles."""
-    catalogs = {}
-    if not os.path.isdir(EGGMANSWORLD_ROOT):
-        return catalogs
-
-    for tag in sorted(os.listdir(EGGMANSWORLD_ROOT)):
-        folder = os.path.join(EGGMANSWORLD_ROOT, tag)
-        if not os.path.isdir(folder):
-            continue
-        catalogs[f"Eggmansworld - {tag}"] = load_loose_folder(folder)
-    return catalogs
-
-
 def build():
     print("Loading official RetroBat systems list ...")
     systems = load_es_systems()
@@ -219,11 +202,6 @@ def build():
         entries = load_loose_folder(folder)
         catalogs[source] = entries
         print(f"{source}: {len(entries)} entries ({folder}/)")
-
-    eggmansworld_catalogs = load_eggmansworld_collections()
-    for source, entries in eggmansworld_catalogs.items():
-        catalogs[source] = entries
-    print(f"Eggmansworld: {len(eggmansworld_catalogs)} collection(s)")
 
     results = []
     matched_count = 0
