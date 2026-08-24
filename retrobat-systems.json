@@ -23,6 +23,27 @@
         "Version": "2026-03-14 01-23-03",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/redump/VTech - V.Flash & V.Smile Pro - Datfile (51) (2026-03-14 01-23-03).dat",
         "File": "VTech - V.Flash & V.Smile Pro - Datfile (51) (2026-03-14 01-23-03).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Flashback",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Flashback.dat",
+        "File": "Flashback.dat"
+      },
+      {
+        "Source": "Eggmansworld - bluemaxima",
+        "Name": "Flashpoint Ultimate 14 (2025-08-30_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/bluemaxima/Flashpoint Ultimate 14 (2025-08-30_RomVault).dat",
+        "File": "Flashpoint Ultimate 14 (2025-08-30_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - touhou",
+        "Name": "Fan Content - Games - Touhou Flash Project (2025-06-08_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/touhou/Fan Content - Games - Touhou Flash Project (2025-06-08_RomVault).dat",
+        "File": "Fan Content - Games - Touhou Flash Project (2025-06-08_RomVault).dat"
       }
     ]
   },
@@ -34,12 +55,455 @@
   {
     "SystemCode": "mame",
     "FullName": "MAME",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "MAME 0.288 Multimedia",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/MAME 0.288 Multimedia.dat",
+        "File": "MAME 0.288 Multimedia.dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "MAME 0.289 CHDs (merged) (dir2dat)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/MAME 0.289 CHDs (merged) (dir2dat).dat",
+        "File": "MAME 0.289 CHDs (merged) (dir2dat).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "MAME 0.289 CHDs (merged)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/MAME 0.289 CHDs (merged).xml",
+        "File": "MAME 0.289 CHDs (merged).xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "MAME 0.289 ROMs (bios-devices)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/MAME 0.289 ROMs (bios-devices).xml",
+        "File": "MAME 0.289 ROMs (bios-devices).xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "MAME 0.289 ROMs (merged)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/MAME 0.289 ROMs (merged).xml",
+        "File": "MAME 0.289 ROMs (merged).xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "MAME 0.289 ROMs (non-merged)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/MAME 0.289 ROMs (non-merged).xml",
+        "File": "MAME 0.289 ROMs (non-merged).xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "MAME 0.289 ROMs (split)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/MAME 0.289 ROMs (split).xml",
+        "File": "MAME 0.289 ROMs (split).xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "MAME 0.289 Rollback CHDs (dir2dat)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/MAME 0.289 Rollback CHDs (dir2dat).dat",
+        "File": "MAME 0.289 Rollback CHDs (dir2dat).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "MAME 0.289 Rollback CHDs",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/MAME 0.289 Rollback CHDs.dat",
+        "File": "MAME 0.289 Rollback CHDs.dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "MAME 0.289 Rollback ROMs",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/MAME 0.289 Rollback ROMs.dat",
+        "File": "MAME 0.289 Rollback ROMs.dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "MAME 0.289 Software List CHDs (merged) (dir2dat)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/MAME 0.289 Software List CHDs (merged) (dir2dat).dat",
+        "File": "MAME 0.289 Software List CHDs (merged) (dir2dat).dat"
+      },
+      {
+        "Source": "Pleasuredome HBMAME",
+        "Name": "HBMAME 0.289.1 ROMs (bios-devices)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-hbmame/HBMAME 0.289.1 ROMs (bios-devices).xml",
+        "File": "HBMAME 0.289.1 ROMs (bios-devices).xml"
+      },
+      {
+        "Source": "Pleasuredome HBMAME",
+        "Name": "HBMAME 0.289.1 ROMs (merged)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-hbmame/HBMAME 0.289.1 ROMs (merged).xml",
+        "File": "HBMAME 0.289.1 ROMs (merged).xml"
+      },
+      {
+        "Source": "Pleasuredome HBMAME",
+        "Name": "HBMAME 0.289.1 Rollback CHDs (dir2dat)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-hbmame/HBMAME 0.289.1 Rollback CHDs (dir2dat).dat",
+        "File": "HBMAME 0.289.1 Rollback CHDs (dir2dat).dat"
+      },
+      {
+        "Source": "Pleasuredome HBMAME",
+        "Name": "HBMAME 0.289.1 Rollback CHDs",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-hbmame/HBMAME 0.289.1 Rollback CHDs.xml",
+        "File": "HBMAME 0.289.1 Rollback CHDs.xml"
+      },
+      {
+        "Source": "Pleasuredome HBMAME",
+        "Name": "HBMAME 0.289.1 Rollback ROMs",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-hbmame/HBMAME 0.289.1 Rollback ROMs.dat",
+        "File": "HBMAME 0.289.1 Rollback ROMs.dat"
+      },
+      {
+        "Source": "Pleasuredome PinMAME",
+        "Name": "PinMAME 3.6.0-1227 ROMs (split)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-pinmame/PinMAME 3.6.0-1227 ROMs (split).xml",
+        "File": "PinMAME 3.6.0-1227 ROMs (split).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [DX9] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [DX9] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [DX9] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP1-VP6] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP1-VP6] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP1-VP6] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP6] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP6] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP6] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP7] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP7] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP7] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP8] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP8] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP8] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP8] PinMame Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP8] PinMame Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP8] PinMame Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP8] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP8] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VP8] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] PinMame Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] PinMame Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] PinMame Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] PinMame Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] PinMame Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] PinMame Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] PinMame Tables [Hybrid View] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] PinMame Tables [Hybrid View] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] PinMame Tables [Hybrid View] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] PinMame Tables [WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] PinMame Tables [WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] PinMame Tables [WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] PinMame Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] PinMame Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] PinMame Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] PinMame Tables [Hybrid View] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] PinMame Tables [Hybrid View] (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] PinMame Tables [Hybrid View] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] PinMame Tables [WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] PinMame Tables [WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] PinMame Tables [WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] PinMame Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] PinMame Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] PinMame Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] PinMame Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] PinMame Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] PinMame Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] PinMame Tables [Hybrid View] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] PinMame Tables [Hybrid View] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] PinMame Tables [Hybrid View] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] PinMame Tables [WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] PinMame Tables [WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] PinMame Tables [WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] PinMame Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] PinMame Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] PinMame Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] PinMame Tables [FullScreen spanned] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] PinMame Tables [FullScreen spanned] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] PinMame Tables [FullScreen spanned] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] PinMame Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] PinMame Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] PinMame Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] PinMame Tables [WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] PinMame Tables [WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] PinMame Tables [WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] PinMame Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] PinMame Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] PinMame Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] PinMame Tables [Full Single Screen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] PinMame Tables [Full Single Screen] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] PinMame Tables [Full Single Screen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] PinMame Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] PinMame Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] PinMame Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX06] VR PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX06] VR PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX06] VR PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX07] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX07] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX07] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX07] PinMame Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX07] PinMame Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX07] PinMame Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX07] PinMame Tables [Full Single Screen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX07] PinMame Tables [Full Single Screen] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX07] PinMame Tables [Full Single Screen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX07] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX07] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX07] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX07] VR PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX07] VR PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX07] VR PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX08] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX08] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX08] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX08] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX08] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX08] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "HBMAME",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/HBMAME.dat",
+        "File": "HBMAME.dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "MAME (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/MAME (2026-08-11_RomVault).xml",
+        "File": "MAME (2026-08-11_RomVault).xml"
+      }
+    ]
   },
   {
     "SystemCode": "hbmame",
     "FullName": "MAME Homebrew",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "MAME (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/MAME (2026-08-11_RomVault).xml",
+        "File": "MAME (2026-08-11_RomVault).xml"
+      }
+    ]
   },
   {
     "SystemCode": "fbneo",
@@ -49,7 +513,15 @@
   {
     "SystemCode": "cave",
     "FullName": "CAVE",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "Cave Story",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Cave Story.dat",
+        "File": "Cave Story.dat"
+      }
+    ]
   },
   {
     "SystemCode": "daphne",
@@ -59,7 +531,36 @@
   {
     "SystemCode": "singe",
     "FullName": "Singe",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Extras - Hypseus Singe (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Extras - Hypseus Singe (2026-08-11_RomVault).xml",
+        "File": "Extras - Hypseus Singe (2026-08-11_RomVault).xml"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Hypseus Singe (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Hypseus Singe (2026-08-11_RomVault).xml",
+        "File": "Hypseus Singe (2026-08-11_RomVault).xml"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Hypseus Singe 4K (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Hypseus Singe 4K (2026-08-11_RomVault).xml",
+        "File": "Hypseus Singe 4K (2026-08-11_RomVault).xml"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Hypseus Singe HD AI (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Hypseus Singe HD AI (2026-08-11_RomVault).xml",
+        "File": "Hypseus Singe HD AI (2026-08-11_RomVault).xml"
+      }
+    ]
   },
   {
     "SystemCode": "actionmax",
@@ -84,7 +585,15 @@
   {
     "SystemCode": "dice",
     "FullName": "DICE",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "DICE",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/DICE.dat",
+        "File": "DICE.dat"
+      }
+    ]
   },
   {
     "SystemCode": "neogeo",
@@ -110,6 +619,13 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/SNK Neo-Geo AES - Magazines - Official Neo-Geo Newsletter, The (TOSEC-v2011-01-25_CM).dat",
         "File": "SNK Neo-Geo AES - Magazines - Official Neo-Geo Newsletter, The (TOSEC-v2011-01-25_CM).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "SNK - Neo Geo",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/SNK - Neo Geo.dat",
+        "File": "SNK - Neo Geo.dat"
       }
     ]
   },
@@ -123,6 +639,13 @@
         "Version": "2026-05-06 12-21-03",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/redump/SNK - Neo Geo CD - Datfile (111) (2026-05-06 12-21-03).dat",
         "File": "SNK - Neo Geo CD - Datfile (111) (2026-05-06 12-21-03).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "SNK - Neo Geo",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/SNK - Neo Geo.dat",
+        "File": "SNK - Neo Geo.dat"
       }
     ]
   },
@@ -146,6 +669,13 @@
         "Version": "20230406-090500",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Acorn - Atom (Tapes) (Bitstream) (Parent-Clone) (20230406-090500).dat",
         "File": "Acorn - Atom (Tapes) (Bitstream) (Parent-Clone) (20230406-090500).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Atomiswave",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Atomiswave.dat",
+        "File": "Atomiswave.dat"
       }
     ]
   },
@@ -241,7 +771,15 @@
   {
     "SystemCode": "multivision",
     "FullName": "Multivision",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "vis",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/vis.xml",
+        "File": "vis.xml"
+      }
+    ]
   },
   {
     "SystemCode": "mastersystem",
@@ -386,18 +924,55 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Xerox 860 - System (TOSEC-v2017-04-05_CM).dat",
         "File": "Xerox 860 - System (TOSEC-v2017-04-05_CM).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "System",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/System.dat",
+        "File": "System.dat"
       }
     ]
   },
   {
     "SystemCode": "megadrive",
     "FullName": "Megadrive - Genesis",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "megadriv",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/megadriv.xml",
+        "File": "megadriv.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "nes",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/nes.xml",
+        "File": "nes.xml"
+      }
+    ]
   },
   {
     "SystemCode": "megadrive-msu",
     "FullName": "Megadrive - Genesis (MSU)",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "megadriv",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/megadriv.xml",
+        "File": "megadriv.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "nes",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/nes.xml",
+        "File": "nes.xml"
+      }
+    ]
   },
   {
     "SystemCode": "megacd",
@@ -576,6 +1151,13 @@
         "Version": "20260317-140429",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Sega - 32X (Parent-Clone) (20260317-140429).dat",
         "File": "Sega - 32X (Parent-Clone) (20260317-140429).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "32x",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/32x.xml",
+        "File": "32x.xml"
       }
     ]
   },
@@ -624,6 +1206,20 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Sega Saturn - Magazines - Sega Saturn Magazine (GB) (TOSEC-v2024-12-23_CM).dat",
         "File": "Sega Saturn - Magazines - Sega Saturn Magazine (GB) (TOSEC-v2024-12-23_CM).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "saturn",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/saturn.xml",
+        "File": "saturn.xml"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Sega - Saturn",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Sega - Saturn.dat",
+        "File": "Sega - Saturn.dat"
       }
     ]
   },
@@ -880,6 +1476,13 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Xerox 860 - System (TOSEC-v2017-04-05_CM).dat",
         "File": "Xerox 860 - System (TOSEC-v2017-04-05_CM).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "System",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/System.dat",
+        "File": "System.dat"
       }
     ]
   },
@@ -1040,6 +1643,20 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Commodore Amiga CDTV - Entertainment (TOSEC-v2016-07-02_CM).dat",
         "File": "Commodore Amiga CDTV - Entertainment (TOSEC-v2016-07-02_CM).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Nintendo - Nintendo Entertainment System",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Nintendo - Nintendo Entertainment System.dat",
+        "File": "Nintendo - Nintendo Entertainment System.dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "System",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/System.dat",
+        "File": "System.dat"
       }
     ]
   },
@@ -1200,13 +1817,28 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Commodore Amiga CDTV - Entertainment (TOSEC-v2016-07-02_CM).dat",
         "File": "Commodore Amiga CDTV - Entertainment (TOSEC-v2016-07-02_CM).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Nintendo - Super Nintendo Entertainment System",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Nintendo - Super Nintendo Entertainment System.dat",
+        "File": "Nintendo - Super Nintendo Entertainment System.dat"
       }
     ]
   },
   {
     "SystemCode": "snes-msu1",
     "FullName": "Super NES MSU-1",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "nes",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/nes.xml",
+        "File": "nes.xml"
+      }
+    ]
   },
   {
     "SystemCode": "gb-msu",
@@ -1218,6 +1850,20 @@
         "Version": "20260512-134045",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Nintendo - Game & Watch (Parent-Clone) (20260512-134045).dat",
         "File": "Nintendo - Game & Watch (Parent-Clone) (20260512-134045).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "gameboy",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/gameboy.xml",
+        "File": "gameboy.xml"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -1338,6 +1984,20 @@
         "Version": "2026-06-13 18-14-01",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/redump/Nintendo - GameCube - Datfile (2019) (2026-06-13 18-14-01).dat",
         "File": "Nintendo - GameCube - Datfile (2019) (2026-06-13 18-14-01).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Nintendo - GameCube",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Nintendo - GameCube.dat",
+        "File": "Nintendo - GameCube.dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -1386,6 +2046,13 @@
         "Version": "2026-06-15 03-13-28",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/redump/Nintendo - Wii - Datfile (3780) (2026-06-15 03-13-28).dat",
         "File": "Nintendo - Wii - Datfile (3780) (2026-06-15 03-13-28).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Nintendo - Wii",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Nintendo - Wii.dat",
+        "File": "Nintendo - Wii.dat"
       }
     ]
   },
@@ -1420,6 +2087,13 @@
         "Version": "2026-06-15 03-13-28",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/redump/Nintendo - Wii - Datfile (3780) (2026-06-15 03-13-28).dat",
         "File": "Nintendo - Wii - Datfile (3780) (2026-06-15 03-13-28).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Nintendo - Wii U",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Nintendo - Wii U.dat",
+        "File": "Nintendo - Wii U.dat"
       }
     ]
   },
@@ -1433,6 +2107,13 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Nintendo Switch - Magazines - Switch Player (GB) (TOSEC-v2024-12-23_CM).dat",
         "File": "Nintendo Switch - Magazines - Switch Player (GB) (TOSEC-v2024-12-23_CM).dat"
+      },
+      {
+        "Source": "Eggmansworld - touhou",
+        "Name": "Other Platforms - Nintendo Switch (2026-05-29_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/touhou/Other Platforms - Nintendo Switch (2026-05-29_RomVault).dat",
+        "File": "Other Platforms - Nintendo Switch (2026-05-29_RomVault).dat"
       }
     ]
   },
@@ -2009,6 +2690,20 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Sony PlayStation 4 - Magazines - Official UK Playstation Magazine (TOSEC-v2024-12-23_CM).dat",
         "File": "Sony PlayStation 4 - Magazines - Official UK Playstation Magazine (TOSEC-v2024-12-23_CM).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Sony - PlayStation 3",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Sony - PlayStation 3.dat",
+        "File": "Sony - PlayStation 3.dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Sony - PlayStation Minis",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Sony - PlayStation Minis.dat",
+        "File": "Sony - PlayStation Minis.dat"
       }
     ]
   },
@@ -2105,6 +2800,13 @@
         "Version": "2026-06-14 10-20-40",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/redump/Sony - PlayStation 3 - Datfile (4503) (2026-06-14 10-20-40).dat",
         "File": "Sony - PlayStation 3 - Datfile (4503) (2026-06-14 10-20-40).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Sony - PlayStation 3",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Sony - PlayStation 3.dat",
+        "File": "Sony - PlayStation 3.dat"
       }
     ]
   },
@@ -2318,6 +3020,20 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/3DO 3DO Interactive Multiplayer - Magazines - Discovery 3DO (IT) (TOSEC-v2019-04-22_CM).dat",
         "File": "3DO 3DO Interactive Multiplayer - Magazines - Discovery 3DO (IT) (TOSEC-v2019-04-22_CM).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "3do",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/3do.xml",
+        "File": "3do.xml"
+      },
+      {
+        "Source": "Eggmansworld - digitoxin",
+        "Name": "CD-DVD - New World Computing - The 3DO Company PC CD Image Collection (2026-04-17_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/digitoxin/CD-DVD - New World Computing - The 3DO Company PC CD Image Collection (2026-04-17_RomVault).dat",
+        "File": "CD-DVD - New World Computing - The 3DO Company PC CD Image Collection (2026-04-17_RomVault).dat"
       }
     ]
   },
@@ -2331,6 +3047,13 @@
         "Version": "20260817-003537",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Commodore - Amiga (Parent-Clone) (20260817-003537).dat",
         "File": "Commodore - Amiga (Parent-Clone) (20260817-003537).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Commodore - Amiga",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Commodore - Amiga.dat",
+        "File": "Commodore - Amiga.dat"
       }
     ]
   },
@@ -2344,6 +3067,13 @@
         "Version": "20260817-003537",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Commodore - Amiga (Parent-Clone) (20260817-003537).dat",
         "File": "Commodore - Amiga (Parent-Clone) (20260817-003537).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Commodore - Amiga",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Commodore - Amiga.dat",
+        "File": "Commodore - Amiga.dat"
       }
     ]
   },
@@ -2357,6 +3087,13 @@
         "Version": "20260817-003537",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Commodore - Amiga (Parent-Clone) (20260817-003537).dat",
         "File": "Commodore - Amiga (Parent-Clone) (20260817-003537).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Commodore - Amiga",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Commodore - Amiga.dat",
+        "File": "Commodore - Amiga.dat"
       }
     ]
   },
@@ -2391,6 +3128,27 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Commodore Amiga CD32 - Magazines - Amiga CD32 Gamer (GB) (TOSEC-v2023-06-13_CM).dat",
         "File": "Commodore Amiga CD32 - Magazines - Amiga CD32 Gamer (GB) (TOSEC-v2023-06-13_CM).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "cd32",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/cd32.xml",
+        "File": "cd32.xml"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Commodore - Amiga",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Commodore - Amiga.dat",
+        "File": "Commodore - Amiga.dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Commodore - CD32",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Commodore - CD32.dat",
+        "File": "Commodore - CD32.dat"
       }
     ]
   },
@@ -2411,6 +3169,20 @@
         "Version": "2026-05-16 20-58-08",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/redump/Commodore - Amiga CDTV - Datfile (61) (2026-05-16 20-58-08).dat",
         "File": "Commodore - Amiga CDTV - Datfile (61) (2026-05-16 20-58-08).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "cdtv",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/cdtv.xml",
+        "File": "cdtv.xml"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Commodore - Amiga",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Commodore - Amiga.dat",
+        "File": "Commodore - Amiga.dat"
       }
     ]
   },
@@ -2424,13 +3196,28 @@
         "Version": "20230406-091045",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Amstrad - CPC (Flux) (Parent-Clone) (20230406-091045).dat",
         "File": "Amstrad - CPC (Flux) (Parent-Clone) (20230406-091045).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Amstrad - CPC",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Amstrad - CPC.dat",
+        "File": "Amstrad - CPC.dat"
       }
     ]
   },
   {
     "SystemCode": "gx4000",
     "FullName": "Amstrad GX4000",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "gx4000",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/gx4000.xml",
+        "File": "gx4000.xml"
+      }
+    ]
   },
   {
     "SystemCode": "apple2",
@@ -2853,6 +3640,20 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Xerox 860 - System (TOSEC-v2017-04-05_CM).dat",
         "File": "Xerox 860 - System (TOSEC-v2017-04-05_CM).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "System",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/System.dat",
+        "File": "System.dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -2880,6 +3681,13 @@
         "Version": "2026-04-03 15-50-49",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/redump/Atari - Jaguar CD Interactive Multimedia System - Datfile (38) (2026-04-03 15-50-49).dat",
         "File": "Atari - Jaguar CD Interactive Multimedia System - Datfile (38) (2026-04-03 15-50-49).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "jaguar",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/jaguar.xml",
+        "File": "jaguar.xml"
       }
     ]
   },
@@ -2900,6 +3708,13 @@
         "Version": "2026-04-03 15-50-49",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/redump/Atari - Jaguar CD Interactive Multimedia System - Datfile (38) (2026-04-03 15-50-49).dat",
         "File": "Atari - Jaguar CD Interactive Multimedia System - Datfile (38) (2026-04-03 15-50-49).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "jaguar",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/jaguar.xml",
+        "File": "jaguar.xml"
       }
     ]
   },
@@ -2920,6 +3735,20 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Coleco ColecoVision - Magazines - ColecoVision Experience (TOSEC-v2010-01-17_CM).dat",
         "File": "Coleco ColecoVision - Magazines - ColecoVision Experience (TOSEC-v2010-01-17_CM).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "coleco",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/coleco.xml",
+        "File": "coleco.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "vis",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/vis.xml",
+        "File": "vis.xml"
       }
     ]
   },
@@ -2983,7 +3812,15 @@
   {
     "SystemCode": "c128",
     "FullName": "Commodore 128",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "Enterprise - 128",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Enterprise - 128.dat",
+        "File": "Enterprise - 128.dat"
+      }
+    ]
   },
   {
     "SystemCode": "intellivision",
@@ -2995,6 +3832,13 @@
         "Version": "20260811-144508",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Mattel - Intellivision (Parent-Clone) (20260811-144508).dat",
         "File": "Mattel - Intellivision (Parent-Clone) (20260811-144508).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "vis",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/vis.xml",
+        "File": "vis.xml"
       }
     ]
   },
@@ -3152,6 +3996,118 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Multi-format - Magazines - MSX and Spectravideo Computer Forum (AU) (TOSEC-v2024-12-23_CM).dat",
         "File": "Multi-format - Magazines - MSX and Spectravideo Computer Forum (AU) (TOSEC-v2024-12-23_CM).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msx1_bee_card",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msx1_bee_card.xml",
+        "File": "msx1_bee_card.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msx1_cart",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msx1_cart.xml",
+        "File": "msx1_cart.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msx1_cass",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msx1_cass.xml",
+        "File": "msx1_cass.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msx1_flop",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msx1_flop.xml",
+        "File": "msx1_flop.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msx1_flop_525",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msx1_flop_525.xml",
+        "File": "msx1_flop_525.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msx2_cart",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msx2_cart.xml",
+        "File": "msx2_cart.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msx2_cass",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msx2_cass.xml",
+        "File": "msx2_cass.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msx2_flop",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msx2_flop.xml",
+        "File": "msx2_flop.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msx2p_cart",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msx2p_cart.xml",
+        "File": "msx2p_cart.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msx2p_flop",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msx2p_flop.xml",
+        "File": "msx2p_flop.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msx_softcard",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msx_softcard.xml",
+        "File": "msx_softcard.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msx_yamaha_minicart",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msx_yamaha_minicart.xml",
+        "File": "msx_yamaha_minicart.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msxr_cart",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msxr_cart.xml",
+        "File": "msxr_cart.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msxr_flop",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msxr_flop.xml",
+        "File": "msxr_flop.xml"
+      },
+      {
+        "Source": "Eggmansworld - goodtools",
+        "Name": "GoodMSX1 v0.999.3",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/goodtools/GoodMSX1 v0.999.3.dat",
+        "File": "GoodMSX1 v0.999.3.dat"
+      },
+      {
+        "Source": "Eggmansworld - goodtools",
+        "Name": "GoodMSX2 v0.999.3",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/goodtools/GoodMSX2 v0.999.3.dat",
+        "File": "GoodMSX2 v0.999.3.dat"
       }
     ]
   },
@@ -3165,6 +4121,48 @@
         "Version": "20260124-112728",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Microsoft - MSX2 (Parent-Clone) (20260124-112728).dat",
         "File": "Microsoft - MSX2 (Parent-Clone) (20260124-112728).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msx2_cart",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msx2_cart.xml",
+        "File": "msx2_cart.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msx2_cass",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msx2_cass.xml",
+        "File": "msx2_cass.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msx2_flop",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msx2_flop.xml",
+        "File": "msx2_flop.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msx2p_cart",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msx2p_cart.xml",
+        "File": "msx2p_cart.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "msx2p_flop",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/msx2p_flop.xml",
+        "File": "msx2p_flop.xml"
+      },
+      {
+        "Source": "Eggmansworld - goodtools",
+        "Name": "GoodMSX2 v0.999.3",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/goodtools/GoodMSX2 v0.999.3.dat",
+        "File": "GoodMSX2 v0.999.3.dat"
       }
     ]
   },
@@ -3347,6 +4345,13 @@
         "Version": "20231101-162607",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/NEC - PC-98 (Parent-Clone) (20231101-162607).dat",
         "File": "NEC - PC-98 (Parent-Clone) (20231101-162607).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "NEC - PC-98",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/NEC - PC-98.dat",
+        "File": "NEC - PC-98.dat"
       }
     ]
   },
@@ -3402,6 +4407,13 @@
         "Version": "20260525-000205",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/GCE - Vectrex (Parent-Clone) (20260525-000205).dat",
         "File": "GCE - Vectrex (Parent-Clone) (20260525-000205).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "vectrex",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/vectrex.xml",
+        "File": "vectrex.xml"
       }
     ]
   },
@@ -3506,6 +4518,13 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Sony PlayStation 2 - Video (TOSEC-v2022-12-21_CM).dat",
         "File": "Sony PlayStation 2 - Video (TOSEC-v2022-12-21_CM).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "videopac",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/videopac.xml",
+        "File": "videopac.xml"
       }
     ]
   },
@@ -3522,7 +4541,15 @@
   {
     "SystemCode": "zx81",
     "FullName": "ZX 81",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "Sinclair - ZX 81",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Sinclair - ZX 81.dat",
+        "File": "Sinclair - ZX 81.dat"
+      }
+    ]
   },
   {
     "SystemCode": "zxspectrum",
@@ -3541,6 +4568,13 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Sinclair ZX Spectrum - Magazines - ZX Spectrum Gamer (GB) (TOSEC-v2024-12-23_CM).dat",
         "File": "Sinclair ZX Spectrum - Magazines - ZX Spectrum Gamer (GB) (TOSEC-v2024-12-23_CM).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Sinclair - ZX Spectrum",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Sinclair - ZX Spectrum.dat",
+        "File": "Sinclair - ZX Spectrum.dat"
       }
     ]
   },
@@ -3561,6 +4595,20 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Atari Lynx - Magazines - Atari Lynx Grey Matters (US) (TOSEC-v2023-06-13_CM).dat",
         "File": "Atari Lynx - Magazines - Atari Lynx Grey Matters (US) (TOSEC-v2023-06-13_CM).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "lynx",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/lynx.xml",
+        "File": "lynx.xml"
+      },
+      {
+        "Source": "Eggmansworld - goodtools",
+        "Name": "GoodLynx v2.01",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/goodtools/GoodLynx v2.01.dat",
+        "File": "GoodLynx v2.01.dat"
       }
     ]
   },
@@ -3574,6 +4622,13 @@
         "Version": "20260822-061808",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Sega - Game Gear (Parent-Clone) (20260822-061808).dat",
         "File": "Sega - Game Gear (Parent-Clone) (20260822-061808).dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -3587,6 +4642,13 @@
         "Version": "20260512-134045",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Nintendo - Game & Watch (Parent-Clone) (20260512-134045).dat",
         "File": "Nintendo - Game & Watch (Parent-Clone) (20260512-134045).dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -3614,6 +4676,13 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Nintendo - Magazines - Planet Game Boy (TOSEC-v2013-10-01_CM).dat",
         "File": "Nintendo - Magazines - Planet Game Boy (TOSEC-v2013-10-01_CM).dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -3634,6 +4703,13 @@
         "Version": "20260821-085450",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Nintendo - Game Boy (Parent-Clone) (20260821-085450).dat",
         "File": "Nintendo - Game Boy (Parent-Clone) (20260821-085450).dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -3654,6 +4730,13 @@
         "Version": "20250313-191959",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Source Code - Nintendo - Game Boy Color (Parent-Clone) (20250313-191959).dat",
         "File": "Source Code - Nintendo - Game Boy Color (Parent-Clone) (20250313-191959).dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -3688,6 +4771,13 @@
         "Version": "20250313-191959",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Source Code - Nintendo - Game Boy Color (Parent-Clone) (20250313-191959).dat",
         "File": "Source Code - Nintendo - Game Boy Color (Parent-Clone) (20250313-191959).dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -3743,6 +4833,13 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Nintendo - Game Boy Advance - Catalogs (TOSEC-v2022-12-21_CM).dat",
         "File": "Nintendo - Game Boy Advance - Catalogs (TOSEC-v2022-12-21_CM).dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -3805,13 +4902,35 @@
         "Version": "20230107-011927",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Source Code - Nintendo - Game Boy Advance (Parent-Clone) (20230107-011927).dat",
         "File": "Source Code - Nintendo - Game Boy Advance (Parent-Clone) (20230107-011927).dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
   {
     "SystemCode": "karaoke",
     "FullName": "Karaoke",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "easy_karaoke_cart",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/easy_karaoke_cart.xml",
+        "File": "easy_karaoke_cart.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "singingstarkaraoke_cart",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/singingstarkaraoke_cart.xml",
+        "File": "singingstarkaraoke_cart.xml"
+      }
+    ]
   },
   {
     "SystemCode": "pokemini",
@@ -3857,6 +4976,13 @@
         "Version": "20220204-041058",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Source Code - Nintendo - Nintendo DS (Parent-Clone) (20220204-041058).dat",
         "File": "Source Code - Nintendo - Nintendo DS (Parent-Clone) (20220204-041058).dat"
+      },
+      {
+        "Source": "Eggmansworld - touhou",
+        "Name": "Other Platforms - Nintendo DS (2026-05-29_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/touhou/Other Platforms - Nintendo DS (2026-05-29_RomVault).dat",
+        "File": "Other Platforms - Nintendo DS (2026-05-29_RomVault).dat"
       }
     ]
   },
@@ -3973,12 +5099,28 @@
   {
     "SystemCode": "ngp",
     "FullName": "Neo Geo Pocket",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "SNK - Neo Geo",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/SNK - Neo Geo.dat",
+        "File": "SNK - Neo Geo.dat"
+      }
+    ]
   },
   {
     "SystemCode": "ngpc",
     "FullName": "Neo Geo Pocket Color",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "SNK - Neo Geo",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/SNK - Neo Geo.dat",
+        "File": "SNK - Neo Geo.dat"
+      }
+    ]
   },
   {
     "SystemCode": "supervision",
@@ -3990,6 +5132,13 @@
         "Version": "20250625-093232",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Watara - Supervision (Parent-Clone) (20250625-093232).dat",
         "File": "Watara - Supervision (Parent-Clone) (20250625-093232).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "vis",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/vis.xml",
+        "File": "vis.xml"
       }
     ]
   },
@@ -4022,7 +5171,22 @@
   {
     "SystemCode": "scummvm",
     "FullName": "ScummVM",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "ScummVM",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/ScummVM.dat",
+        "File": "ScummVM.dat"
+      },
+      {
+        "Source": "Eggmansworld - exo",
+        "Name": "eXoScummVM v2016.1.0 (2026-02-14_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/exo/eXoScummVM v2016.1.0 (2026-02-14_RomVault).dat",
+        "File": "eXoScummVM v2016.1.0 (2026-02-14_RomVault).dat"
+      }
+    ]
   },
   {
     "SystemCode": "ports",
@@ -4174,6 +5338,27 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Multi-format - Magazines - GameFan Sports Network (US) (TOSEC-v2024-12-23_CM).dat",
         "File": "Multi-format - Magazines - GameFan Sports Network (US) (TOSEC-v2024-12-23_CM).dat"
+      },
+      {
+        "Source": "Eggmansworld - digitoxin",
+        "Name": "CD-DVD - Electronic Arts - Sports PC CD-DVD Image Collection (2026-04-17_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/digitoxin/CD-DVD - Electronic Arts - Sports PC CD-DVD Image Collection (2026-04-17_RomVault).dat",
+        "File": "CD-DVD - Electronic Arts - Sports PC CD-DVD Image Collection (2026-04-17_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - fruitmachines",
+        "Name": "PC Ports (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/fruitmachines/PC Ports (2026-08-11_RomVault).xml",
+        "File": "PC Ports (2026-08-11_RomVault).xml"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Ports (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Ports (2026-08-11_RomVault).xml",
+        "File": "Ports (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -4185,7 +5370,15 @@
   {
     "SystemCode": "lutro",
     "FullName": "Lutro Lua Framework",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "Lutro",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Lutro.dat",
+        "File": "Lutro.dat"
+      }
+    ]
   },
   {
     "SystemCode": "devilutionx",
@@ -4210,7 +5403,15 @@
   {
     "SystemCode": "easyrpg",
     "FullName": "EasyRPG - RPG Maker 2000/2003 player",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "RPG Maker",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/RPG Maker.dat",
+        "File": "RPG Maker.dat"
+      }
+    ]
   },
   {
     "SystemCode": "ecwolf",
@@ -4245,7 +5446,15 @@
   {
     "SystemCode": "gzdoom",
     "FullName": "GZDoom",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "DOOM",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/DOOM.dat",
+        "File": "DOOM.dat"
+      }
+    ]
   },
   {
     "SystemCode": "raze",
@@ -4263,17 +5472,41 @@
   {
     "SystemCode": "doom3",
     "FullName": "Doom 3",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "DOOM",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/DOOM.dat",
+        "File": "DOOM.dat"
+      }
+    ]
   },
   {
     "SystemCode": "tyrquake",
     "FullName": "Quake",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "Quake",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Quake.dat",
+        "File": "Quake.dat"
+      }
+    ]
   },
   {
     "SystemCode": "vitaquake2",
     "FullName": "Quake II",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "Quake II",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Quake II.dat",
+        "File": "Quake II.dat"
+      }
+    ]
   },
   {
     "SystemCode": "cavestory",
@@ -4339,6 +5572,69 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Tandy Radio Shack - Magazines - DOSPLUS News Information Center (TOSEC-v2010-01-21_CM).dat",
         "File": "Tandy Radio Shack - Magazines - DOSPLUS News Information Center (TOSEC-v2010-01-21_CM).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "DOS",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/DOS.dat",
+        "File": "DOS.dat"
+      },
+      {
+        "Source": "Eggmansworld - digitoxin",
+        "Name": "CD-DVD - Eidos Interactive PC CD-DVD Image Collection (2026-04-17_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/digitoxin/CD-DVD - Eidos Interactive PC CD-DVD Image Collection (2026-04-17_RomVault).dat",
+        "File": "CD-DVD - Eidos Interactive PC CD-DVD Image Collection (2026-04-17_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - exo",
+        "Name": "eXoDOS 6.04 (2026-04-17_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/exo/eXoDOS 6.04 (2026-04-17_RomVault).dat",
+        "File": "eXoDOS 6.04 (2026-04-17_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - exo",
+        "Name": "eXoDOS 6.04 Linux Patch (2024-11-28_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/exo/eXoDOS 6.04 Linux Patch (2024-11-28_RomVault).dat",
+        "File": "eXoDOS 6.04 Linux Patch (2024-11-28_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - exo",
+        "Name": "eXoDOS 6.04 Media Add-On Pack (2024-11-28_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/exo/eXoDOS 6.04 Media Add-On Pack (2024-11-28_RomVault).dat",
+        "File": "eXoDOS 6.04 Media Add-On Pack (2024-11-28_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - exo",
+        "Name": "eXoDOS v6 German Language Pack (2024-11-01_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/exo/eXoDOS v6 German Language Pack (2024-11-01_RomVault).dat",
+        "File": "eXoDOS v6 German Language Pack (2024-11-01_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - exo",
+        "Name": "eXoDOS v6 Polish, Czech, & Slovak Language Pack (2024-12-19_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/exo/eXoDOS v6 Polish, Czech, & Slovak Language Pack (2024-12-19_RomVault).dat",
+        "File": "eXoDOS v6 Polish, Czech, & Slovak Language Pack (2024-12-19_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - exo",
+        "Name": "eXoDOS v6 Spanish Language Pack (2025-09-23_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/exo/eXoDOS v6 Spanish Language Pack (2025-09-23_RomVault).dat",
+        "File": "eXoDOS v6 Spanish Language Pack (2025-09-23_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - fruitmachines",
+        "Name": "Extras - Emulators - MAGE - MAGE 0.10 DOS (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/fruitmachines/Extras - Emulators - MAGE - MAGE 0.10 DOS (2026-08-11_RomVault).xml",
+        "File": "Extras - Emulators - MAGE - MAGE 0.10 DOS (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -4355,12 +5651,28 @@
   {
     "SystemCode": "gog",
     "FullName": "GOG.com",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Eggmansworld - pinballpc",
+        "Name": "Pinball PC Games Collection - GOG (2026-06-26_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/pinballpc/Pinball PC Games Collection - GOG (2026-06-26_RomVault).xml",
+        "File": "Pinball PC Games Collection - GOG (2026-06-26_RomVault).xml"
+      }
+    ]
   },
   {
     "SystemCode": "epic",
     "FullName": "EPIC",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Eggmansworld - digitoxin",
+        "Name": "Mixed - Epic Games PC Image Collection (2026-04-17_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/digitoxin/Mixed - Epic Games PC Image Collection (2026-04-17_RomVault).dat",
+        "File": "Mixed - Epic Games PC Image Collection (2026-04-17_RomVault).dat"
+      }
+    ]
   },
   {
     "SystemCode": "eagames",
@@ -5541,6 +6853,34 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/ZAPiT Games Game Wave Family Entertainment System - Games (TOSEC-v2014-07-01_CM).dat",
         "File": "ZAPiT Games Game Wave Family Entertainment System - Games (TOSEC-v2014-07-01_CM).dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
+      },
+      {
+        "Source": "Eggmansworld - projectegg",
+        "Name": "Project EGG Collection - Games (bin) (2026-04-06_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/projectegg/Project EGG Collection - Games (bin) (2026-04-06_RomVault).dat",
+        "File": "Project EGG Collection - Games (bin) (2026-04-06_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - projectegg",
+        "Name": "Project EGG Collection - Games (extracted) (2026-04-06_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/projectegg/Project EGG Collection - Games (extracted) (2026-04-06_RomVault).dat",
+        "File": "Project EGG Collection - Games (extracted) (2026-04-06_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - touhou",
+        "Name": "Official Content - Games (2026-05-29_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/touhou/Official Content - Games (2026-05-29_RomVault).dat",
+        "File": "Official Content - Games (2026-05-29_RomVault).dat"
       }
     ]
   },
@@ -5575,18 +6915,1007 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/IBM PC Compatibles - Magazines - Windows The Official Magazine (GB) (TOSEC-v2023-06-13_CM).dat",
         "File": "IBM PC Compatibles - Magazines - Windows The Official Magazine (GB) (TOSEC-v2023-06-13_CM).dat"
+      },
+      {
+        "Source": "Eggmansworld - touhou",
+        "Name": "Other Platforms - Windows PC (2026-05-29_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/touhou/Other Platforms - Windows PC (2026-05-29_RomVault).dat",
+        "File": "Other Platforms - Windows PC (2026-05-29_RomVault).dat"
       }
     ]
   },
   {
     "SystemCode": "vpinball",
     "FullName": "Visual Pinball",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "vis",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/vis.xml",
+        "File": "vis.xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball Miscellaneous (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball Miscellaneous (2026-07-15).xml",
+        "File": "Visual Pinball Miscellaneous (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball PuP-Pack Add-ons and Patches (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball PuP-Pack Add-ons and Patches (2026-07-15).xml",
+        "File": "Visual Pinball PuP-Pack Add-ons and Patches (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [DX9] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [DX9] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [DX9] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [PhysMod5] Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [PhysMod5] Tables (2026-07-15).xml",
+        "File": "Visual Pinball [PhysMod5] Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [PhysMod5] Tables [FullScreen+WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [PhysMod5] Tables [FullScreen+WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [PhysMod5] Tables [FullScreen+WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [PhysMod5] Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [PhysMod5] Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [PhysMod5] Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [PhysMod] Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [PhysMod] Tables (2026-07-15).xml",
+        "File": "Visual Pinball [PhysMod] Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP1-VP6] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP1-VP6] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP1-VP6] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP1-VP7] Original Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP1-VP7] Original Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP1-VP7] Original Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP1-VP7] Original Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP1-VP7] Original Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP1-VP7] Original Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP1-VP7] Recreated Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP1-VP7] Recreated Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP1-VP7] Recreated Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP1-VP7] Recreated Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP1-VP7] Recreated Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP1-VP7] Recreated Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP6] Original Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP6] Original Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP6] Original Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP6] Original Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP6] Original Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP6] Original Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP6] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP6] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP6] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP6] Recreated Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP6] Recreated Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP6] Recreated Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP6] Recreated Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP6] Recreated Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP6] Recreated Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP7] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP7] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP7] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP8] Original Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP8] Original Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP8] Original Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP8] Original Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP8] Original Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP8] Original Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP8] Original Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP8] Original Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VP8] Original Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP8] Original Tables [VP Plus] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP8] Original Tables [VP Plus] (2026-07-15).xml",
+        "File": "Visual Pinball [VP8] Original Tables [VP Plus] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP8] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP8] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP8] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP8] PinMame Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP8] PinMame Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP8] PinMame Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP8] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP8] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VP8] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP8] Recreated Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP8] Recreated Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP8] Recreated Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP8] Recreated Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP8] Recreated Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP8] Recreated Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP8] Recreated Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP8] Recreated Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VP8] Recreated Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] Original Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] Original Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] Original Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] Original Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] Original Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] Original Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] Original Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] Original Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] Original Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] Original Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] Original Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] Original Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] Original Tables [WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] Original Tables [WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] Original Tables [WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] PinMame Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] PinMame Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] PinMame Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] PinMame Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] PinMame Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] PinMame Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] PinMame Tables [Hybrid View] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] PinMame Tables [Hybrid View] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] PinMame Tables [Hybrid View] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] PinMame Tables [WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] PinMame Tables [WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] PinMame Tables [WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] Recreated Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] Recreated Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] Recreated Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] Recreated Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] Recreated Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] Recreated Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] Recreated Tables [Flipperless][FS+WS] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] Recreated Tables [Flipperless][FS+WS] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] Recreated Tables [Flipperless][FS+WS] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] Recreated Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] Recreated Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] Recreated Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] Recreated Tables [Hybrid View] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] Recreated Tables [Hybrid View] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] Recreated Tables [Hybrid View] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] Recreated Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] Recreated Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] Recreated Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP91x] Recreated Tables [WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP91x] Recreated Tables [WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP91x] Recreated Tables [WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] Original Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] Original Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] Original Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] Original Tables [Hybrid View] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] Original Tables [Hybrid View] (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] Original Tables [Hybrid View] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] Original Tables [WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] Original Tables [WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] Original Tables [WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] PinMame Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] PinMame Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] PinMame Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] PinMame Tables [Hybrid View] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] PinMame Tables [Hybrid View] (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] PinMame Tables [Hybrid View] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] PinMame Tables [WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] PinMame Tables [WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] PinMame Tables [WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] Recreated Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] Recreated Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] Recreated Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] Recreated Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] Recreated Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] Recreated Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] Recreated Tables [Flipperless][FS+WS] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] Recreated Tables [Flipperless][FS+WS] (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] Recreated Tables [Flipperless][FS+WS] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] Recreated Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] Recreated Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] Recreated Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP92x] Recreated Tables [WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP92x] Recreated Tables [WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP92x] Recreated Tables [WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] Original Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] Original Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] Original Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] Original Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] Original Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] Original Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] Original Tables [Hybrid View] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] Original Tables [Hybrid View] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] Original Tables [Hybrid View] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] Original Tables [WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] Original Tables [WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] Original Tables [WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] PinMame Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] PinMame Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] PinMame Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] PinMame Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] PinMame Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] PinMame Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] PinMame Tables [Hybrid View] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] PinMame Tables [Hybrid View] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] PinMame Tables [Hybrid View] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] PinMame Tables [WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] PinMame Tables [WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] PinMame Tables [WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] Recreated Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] Recreated Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] Recreated Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] Recreated Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] Recreated Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] Recreated Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] Recreated Tables [Flipperless][FS+WS] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] Recreated Tables [Flipperless][FS+WS] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] Recreated Tables [Flipperless][FS+WS] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] Recreated Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] Recreated Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] Recreated Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] Recreated Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] Recreated Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] Recreated Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP99x] Recreated Tables [WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP99x] Recreated Tables [WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP99x] Recreated Tables [WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] Original Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] Original Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] Original Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] Original Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] Original Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] Original Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] Original Tables [FullScreen spanned] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] Original Tables [FullScreen spanned] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] Original Tables [FullScreen spanned] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] Original Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] Original Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] Original Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] Original Tables [WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] Original Tables [WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] Original Tables [WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] PinMame Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] PinMame Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] PinMame Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] PinMame Tables [FullScreen spanned] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] PinMame Tables [FullScreen spanned] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] PinMame Tables [FullScreen spanned] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] PinMame Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] PinMame Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] PinMame Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] PinMame Tables [WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] PinMame Tables [WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] PinMame Tables [WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] Recreated Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] Recreated Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] Recreated Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] Recreated Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] Recreated Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] Recreated Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] Recreated Tables [Flipperless] [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] Recreated Tables [Flipperless] [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] Recreated Tables [Flipperless] [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] Recreated Tables [FullScreen spanned] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] Recreated Tables [FullScreen spanned] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] Recreated Tables [FullScreen spanned] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] Recreated Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] Recreated Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] Recreated Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] Recreated Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] Recreated Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] Recreated Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VP9] Recreated Tables [WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VP9] Recreated Tables [WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VP9] Recreated Tables [WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] Original Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] Original Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] Original Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] Original Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] Original Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] Original Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] Original Tables [Full Single Screen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] Original Tables [Full Single Screen] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] Original Tables [Full Single Screen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] Original Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] Original Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] Original Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] Original Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] Original Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] Original Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] Original Tables [WideScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] Original Tables [WideScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] Original Tables [WideScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] PinMame Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] PinMame Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] PinMame Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] PinMame Tables [Full Single Screen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] PinMame Tables [Full Single Screen] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] PinMame Tables [Full Single Screen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] PinMame Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] PinMame Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] PinMame Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] Recreated Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] Recreated Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] Recreated Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] Recreated Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] Recreated Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] Recreated Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] Recreated Tables [Full Single Screen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] Recreated Tables [Full Single Screen] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] Recreated Tables [Full Single Screen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] Recreated Tables [FullScreen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] Recreated Tables [FullScreen] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] Recreated Tables [FullScreen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX0-VPX06] Recreated Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX0-VPX06] Recreated Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX0-VPX06] Recreated Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX06] VR PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX06] VR PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX06] VR PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX06] [PuP-Pack] Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX06] [PuP-Pack] Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX06] [PuP-Pack] Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX07] Original Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX07] Original Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX07] Original Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX07] Original Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX07] Original Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX07] Original Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX07] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX07] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX07] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX07] PinMame Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX07] PinMame Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX07] PinMame Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX07] PinMame Tables [Full Single Screen] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX07] PinMame Tables [Full Single Screen] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX07] PinMame Tables [Full Single Screen] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX07] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX07] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX07] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX07] Recreated Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX07] Recreated Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX07] Recreated Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX07] Recreated Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX07] Recreated Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX07] Recreated Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX07] Recreated Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX07] Recreated Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX07] Recreated Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX07] VR PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX07] VR PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX07] VR PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX07] [PuP-Pack] Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX07] [PuP-Pack] Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX07] [PuP-Pack] Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX08] Original Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX08] Original Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX08] Original Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX08] Original Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX08] Original Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX08] Original Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX08] Original Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX08] Original Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX08] Original Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX08] PinMame Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX08] PinMame Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX08] PinMame Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX08] PinMame Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX08] PinMame Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX08] PinMame Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX08] Recreated Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX08] Recreated Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX08] Recreated Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX08] Recreated Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX08] Recreated Tables [Flipperless] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX08] Recreated Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX08] Recreated Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX08] Recreated Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Visual Pinball [VPX08] Recreated Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX08] VR Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX08] VR Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX08] VR Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball [VPX08] [PuP-Pack] Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball [VPX08] [PuP-Pack] Tables (2026-07-15).xml",
+        "File": "Visual Pinball [VPX08] [PuP-Pack] Tables (2026-07-15).xml"
+      }
+    ]
   },
   {
     "SystemCode": "fpinball",
     "FullName": "Future Pinball",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Future Pinball",
+        "Name": "Future Pinball Miscellaneous (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/future-pinball/Future Pinball Miscellaneous (2026-07-15).xml",
+        "File": "Future Pinball Miscellaneous (2026-07-15).xml"
+      },
+      {
+        "Source": "Future Pinball",
+        "Name": "Future Pinball Original Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/future-pinball/Future Pinball Original Tables (2026-07-15).xml",
+        "File": "Future Pinball Original Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Future Pinball",
+        "Name": "Future Pinball Original Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/future-pinball/Future Pinball Original Tables [Flipperless] (2026-07-15).xml",
+        "File": "Future Pinball Original Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Future Pinball",
+        "Name": "Future Pinball Original Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/future-pinball/Future Pinball Original Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Future Pinball Original Tables [MODs, HACKs] (2026-07-15).xml"
+      },
+      {
+        "Source": "Future Pinball",
+        "Name": "Future Pinball Recreated Tables (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/future-pinball/Future Pinball Recreated Tables (2026-07-15).xml",
+        "File": "Future Pinball Recreated Tables (2026-07-15).xml"
+      },
+      {
+        "Source": "Future Pinball",
+        "Name": "Future Pinball Recreated Tables [Flipperless] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/future-pinball/Future Pinball Recreated Tables [Flipperless] (2026-07-15).xml",
+        "File": "Future Pinball Recreated Tables [Flipperless] (2026-07-15).xml"
+      },
+      {
+        "Source": "Future Pinball",
+        "Name": "Future Pinball Recreated Tables [MODs, HACKs] (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/future-pinball/Future Pinball Recreated Tables [MODs, HACKs] (2026-07-15).xml",
+        "File": "Future Pinball Recreated Tables [MODs, HACKs] (2026-07-15).xml"
+      }
+    ]
   },
   {
     "SystemCode": "pinballfx",
@@ -5596,7 +7925,22 @@
   {
     "SystemCode": "pinballm",
     "FullName": "Pinball M",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Visual Pinball",
+        "Name": "Visual Pinball Miscellaneous (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/visual-pinball/Visual Pinball Miscellaneous (2026-07-15).xml",
+        "File": "Visual Pinball Miscellaneous (2026-07-15).xml"
+      },
+      {
+        "Source": "Future Pinball",
+        "Name": "Future Pinball Miscellaneous (2026-07-15)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/future-pinball/Future Pinball Miscellaneous (2026-07-15).xml",
+        "File": "Future Pinball Miscellaneous (2026-07-15).xml"
+      }
+    ]
   },
   {
     "SystemCode": "pinballfx2",
@@ -5623,18 +7967,48 @@
         "Version": "20250220-080006",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Sega - PICO (Parent-Clone) (20250220-080006).dat",
         "File": "Sega - PICO (Parent-Clone) (20250220-080006).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "pico",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/pico.xml",
+        "File": "pico.xml"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "PICO-8",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/PICO-8.dat",
+        "File": "PICO-8.dat"
       }
     ]
   },
   {
     "SystemCode": "tic80",
     "FullName": "TIC-80",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "TIC-80",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/TIC-80.dat",
+        "File": "TIC-80.dat"
+      }
+    ]
   },
   {
     "SystemCode": "wasm4",
     "FullName": "WASM-4",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "WASM-4",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/WASM-4.dat",
+        "File": "WASM-4.dat"
+      }
+    ]
   },
   {
     "SystemCode": "cdi",
@@ -5679,6 +8053,13 @@
         "Version": "20260701-060337",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Entex - Adventure Vision (Parent-Clone) (20260701-060337).dat",
         "File": "Entex - Adventure Vision (Parent-Clone) (20260701-060337).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "vis",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/vis.xml",
+        "File": "vis.xml"
       }
     ]
   },
@@ -6861,6 +9242,34 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/ZAPiT Games Game Wave Family Entertainment System - Games (TOSEC-v2014-07-01_CM).dat",
         "File": "ZAPiT Games Game Wave Family Entertainment System - Games (TOSEC-v2014-07-01_CM).dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
+      },
+      {
+        "Source": "Eggmansworld - projectegg",
+        "Name": "Project EGG Collection - Games (bin) (2026-04-06_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/projectegg/Project EGG Collection - Games (bin) (2026-04-06_RomVault).dat",
+        "File": "Project EGG Collection - Games (bin) (2026-04-06_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - projectegg",
+        "Name": "Project EGG Collection - Games (extracted) (2026-04-06_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/projectegg/Project EGG Collection - Games (extracted) (2026-04-06_RomVault).dat",
+        "File": "Project EGG Collection - Games (extracted) (2026-04-06_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - touhou",
+        "Name": "Official Content - Games (2026-05-29_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/touhou/Official Content - Games (2026-05-29_RomVault).dat",
+        "File": "Official Content - Games (2026-05-29_RomVault).dat"
       }
     ]
   },
@@ -6922,23 +9331,61 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Arduboy Arduboy - Games - [ARDUBOY] (TOSEC-v2024-01-15_CM).dat",
         "File": "Arduboy Arduboy - Games - [ARDUBOY] (TOSEC-v2024-01-15_CM).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Arduboy Inc - Arduboy",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Arduboy Inc - Arduboy.dat",
+        "File": "Arduboy Inc - Arduboy.dat"
       }
     ]
   },
   {
     "SystemCode": "uzebox",
     "FullName": "Uzebox",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "uzebox",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/uzebox.xml",
+        "File": "uzebox.xml"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Uzebox",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Uzebox.dat",
+        "File": "Uzebox.dat"
+      }
+    ]
   },
   {
     "SystemCode": "lowresnx",
     "FullName": "Lowres NX",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "LowRes NX",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/LowRes NX.dat",
+        "File": "LowRes NX.dat"
+      }
+    ]
   },
   {
     "SystemCode": "vircon32",
     "FullName": "Vircon32",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "Vircon32",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Vircon32.dat",
+        "File": "Vircon32.dat"
+      }
+    ]
   },
   {
     "SystemCode": "pv1000",
@@ -6976,6 +9423,13 @@
         "Version": "20260805-022641",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/VTech - CreatiVision (Parent-Clone) (20260805-022641).dat",
         "File": "VTech - CreatiVision (Parent-Clone) (20260805-022641).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "vis",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/vis.xml",
+        "File": "vis.xml"
       }
     ]
   },
@@ -6989,6 +9443,20 @@
         "Version": "20260529-061509",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Tiger - Game.com (Parent-Clone) (20260529-061509).dat",
         "File": "Tiger - Game.com (Parent-Clone) (20260529-061509).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "gamecom",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/gamecom.xml",
+        "File": "gamecom.xml"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -7002,6 +9470,13 @@
         "Version": "20211122-141248",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Epoch - Game Pocket Computer (Parent-Clone) (20211122-141248).dat",
         "File": "Epoch - Game Pocket Computer (Parent-Clone) (20211122-141248).dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -7015,6 +9490,13 @@
         "Version": "20260512-134045",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Nintendo - Game & Watch (Parent-Clone) (20260512-134045).dat",
         "File": "Nintendo - Game & Watch (Parent-Clone) (20260512-134045).dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -7028,6 +9510,13 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Technosys Aamber Pegasus - Magazines - Pegasus Newsletter (NZ) (TOSEC-v2011-01-26_CM).dat",
         "File": "Technosys Aamber Pegasus - Magazines - Pegasus Newsletter (NZ) (TOSEC-v2011-01-26_CM).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "pegasus_cart",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/pegasus_cart.xml",
+        "File": "pegasus_cart.xml"
       }
     ]
   },
@@ -7041,6 +9530,13 @@
         "Version": "20250612-221105",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Epoch - Super Cassette Vision (Parent-Clone) (20250612-221105).dat",
         "File": "Epoch - Super Cassette Vision (Parent-Clone) (20250612-221105).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "vis",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/vis.xml",
+        "File": "vis.xml"
       }
     ]
   },
@@ -7168,13 +9664,91 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Multi-format - Magazines - Electronics Today International (AU) (TOSEC-v2024-12-23_CM).dat",
         "File": "Multi-format - Magazines - Electronics Today International (AU) (TOSEC-v2024-12-23_CM).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "electron_cart",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/electron_cart.xml",
+        "File": "electron_cart.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "electron_cass",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/electron_cass.xml",
+        "File": "electron_cass.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "electron_flop",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/electron_flop.xml",
+        "File": "electron_flop.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "electron_rom",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/electron_rom.xml",
+        "File": "electron_rom.xml"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Handheld Electronic Game",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Handheld Electronic Game.dat",
+        "File": "Handheld Electronic Game.dat"
+      },
+      {
+        "Source": "Eggmansworld - digitoxin",
+        "Name": "CD-DVD - Electronic Arts - Sports PC CD-DVD Image Collection (2026-04-17_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/digitoxin/CD-DVD - Electronic Arts - Sports PC CD-DVD Image Collection (2026-04-17_RomVault).dat",
+        "File": "CD-DVD - Electronic Arts - Sports PC CD-DVD Image Collection (2026-04-17_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - digitoxin",
+        "Name": "CD-DVD - Electronic Arts PC CD-DVD Image Collection (2026-04-17_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/digitoxin/CD-DVD - Electronic Arts PC CD-DVD Image Collection (2026-04-17_RomVault).dat",
+        "File": "CD-DVD - Electronic Arts PC CD-DVD Image Collection (2026-04-17_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - digitoxin",
+        "Name": "Floppy - Electronic Arts PC Floppy Disk Image Collection (2026-04-17_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/digitoxin/Floppy - Electronic Arts PC Floppy Disk Image Collection (2026-04-17_RomVault).dat",
+        "File": "Floppy - Electronic Arts PC Floppy Disk Image Collection (2026-04-17_RomVault).dat"
       }
     ]
   },
   {
     "SystemCode": "adam",
     "FullName": "ADAM",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "adam_cart",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/adam_cart.xml",
+        "File": "adam_cart.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "adam_cass",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/adam_cass.xml",
+        "File": "adam_cass.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "adam_flop",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/adam_flop.xml",
+        "File": "adam_flop.xml"
+      }
+    ]
   },
   {
     "SystemCode": "atom",
@@ -7214,6 +9788,34 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Multi-format - Magazines - Atomix (MX) (TOSEC-v2010-01-23_CM).dat",
         "File": "Multi-format - Magazines - Atomix (MX) (TOSEC-v2010-01-23_CM).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "atom_cass",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/atom_cass.xml",
+        "File": "atom_cass.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "atom_flop",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/atom_flop.xml",
+        "File": "atom_flop.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "atom_rom",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/atom_rom.xml",
+        "File": "atom_rom.xml"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Atomiswave",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Atomiswave.dat",
+        "File": "Atomiswave.dat"
       }
     ]
   },
@@ -7262,6 +9864,13 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Acorn Archimedes - Collections - Skyfall Archimedes Public Domain - [SCP] (TOSEC-v2024-07-03_CM).dat",
         "File": "Acorn Archimedes - Collections - Skyfall Archimedes Public Domain - [SCP] (TOSEC-v2024-07-03_CM).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "archimedes",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/archimedes.xml",
+        "File": "archimedes.xml"
       }
     ]
   },
@@ -7275,6 +9884,13 @@
         "Version": "20240811-205103",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Emerson - Arcadia 2001 (Parent-Clone) (20240811-205103).dat",
         "File": "Emerson - Arcadia 2001 (Parent-Clone) (20240811-205103).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "arcadia",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/arcadia.xml",
+        "File": "arcadia.xml"
       }
     ]
   },
@@ -7288,6 +9904,13 @@
         "Version": "20211012-064712",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Hartung - Game Master (Parent-Clone) (20211012-064712).dat",
         "File": "Hartung - Game Master (Parent-Clone) (20211012-064712).dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -7341,6 +9964,13 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Tomy Tutor & Pyuuta - Games (TOSEC-v2022-06-08_CM).dat",
         "File": "Tomy Tutor & Pyuuta - Games (TOSEC-v2022-06-08_CM).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "tutor",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/tutor.xml",
+        "File": "tutor.xml"
       }
     ]
   },
@@ -8574,6 +11204,34 @@
         "Version": "2025-03-13",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/ZAPiT Games Game Wave Family Entertainment System - Games (TOSEC-v2014-07-01_CM).dat",
         "File": "ZAPiT Games Game Wave Family Entertainment System - Games (TOSEC-v2014-07-01_CM).dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
+      },
+      {
+        "Source": "Eggmansworld - projectegg",
+        "Name": "Project EGG Collection - Games (bin) (2026-04-06_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/projectegg/Project EGG Collection - Games (bin) (2026-04-06_RomVault).dat",
+        "File": "Project EGG Collection - Games (bin) (2026-04-06_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - projectegg",
+        "Name": "Project EGG Collection - Games (extracted) (2026-04-06_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/projectegg/Project EGG Collection - Games (extracted) (2026-04-06_RomVault).dat",
+        "File": "Project EGG Collection - Games (extracted) (2026-04-06_RomVault).dat"
+      },
+      {
+        "Source": "Eggmansworld - touhou",
+        "Name": "Official Content - Games (2026-05-29_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/touhou/Official Content - Games (2026-05-29_RomVault).dat",
+        "File": "Official Content - Games (2026-05-29_RomVault).dat"
       }
     ]
   },
@@ -8587,18 +11245,62 @@
         "Version": "20260820-070115",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/VTech - V.Smile (Parent-Clone) (20260820-070115).dat",
         "File": "VTech - V.Smile (Parent-Clone) (20260820-070115).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "vsmile_cart",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/vsmile_cart.xml",
+        "File": "vsmile_cart.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "vsmile_cd",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/vsmile_cd.xml",
+        "File": "vsmile_cd.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "vsmileb_cart",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/vsmileb_cart.xml",
+        "File": "vsmileb_cart.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "vsmilem_cart",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/vsmilem_cart.xml",
+        "File": "vsmilem_cart.xml"
       }
     ]
   },
   {
     "SystemCode": "camplynx",
     "FullName": "Camputers Lynx",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "lynx",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/lynx.xml",
+        "File": "lynx.xml"
+      }
+    ]
   },
   {
     "SystemCode": "vc4000",
     "FullName": "VC4000",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "vc4000",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/vc4000.xml",
+        "File": "vc4000.xml"
+      }
+    ]
   },
   {
     "SystemCode": "supracan",
@@ -8623,6 +11325,13 @@
         "Version": "20230627-112619",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Bit Corporation - Gamate (Parent-Clone) (20230627-112619).dat",
         "File": "Bit Corporation - Gamate (Parent-Clone) (20230627-112619).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "gamate",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/gamate.xml",
+        "File": "gamate.xml"
       }
     ]
   },
@@ -8643,13 +11352,28 @@
         "Version": "20260821-085450",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Nintendo - Game Boy (Parent-Clone) (20260821-085450).dat",
         "File": "Nintendo - Game Boy (Parent-Clone) (20260821-085450).dat"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
   {
     "SystemCode": "neogeo64",
     "FullName": "Hyper Neo Geo 64",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "SNK - Neo Geo",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/SNK - Neo Geo.dat",
+        "File": "SNK - Neo Geo.dat"
+      }
+    ]
   },
   {
     "SystemCode": "psvita",
@@ -8674,7 +11398,15 @@
   {
     "SystemCode": "cannonball",
     "FullName": "Cannonball",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "Cannonball",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Cannonball.dat",
+        "File": "Cannonball.dat"
+      }
+    ]
   },
   {
     "SystemCode": "cdogs",
@@ -8704,7 +11436,15 @@
   {
     "SystemCode": "openjazz",
     "FullName": "OpenJazz",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "jazz",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/jazz.xml",
+        "File": "jazz.xml"
+      }
+    ]
   },
   {
     "SystemCode": "pdark",
@@ -8747,7 +11487,15 @@
   {
     "SystemCode": "dinothawr",
     "FullName": "Dinothawr",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "Dinothawr",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Dinothawr.dat",
+        "File": "Dinothawr.dat"
+      }
+    ]
   },
   {
     "SystemCode": "eduke32",
@@ -8835,7 +11583,15 @@
   {
     "SystemCode": "atarijaguargroup",
     "FullName": "Jaguar (Group)",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "jaguar",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/jaguar.xml",
+        "File": "jaguar.xml"
+      }
+    ]
   },
   {
     "SystemCode": "bandaiwonderswan",
@@ -8853,7 +11609,15 @@
   {
     "SystemCode": "segamegadrive",
     "FullName": "Megadrive (Group)",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "megadriv",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/megadriv.xml",
+        "File": "megadriv.xml"
+      }
+    ]
   },
   {
     "SystemCode": "mess",
@@ -8878,6 +11642,20 @@
         "Version": "20260512-134045",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Nintendo - Game & Watch (Parent-Clone) (20260512-134045).dat",
         "File": "Nintendo - Game & Watch (Parent-Clone) (20260512-134045).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "gameboy",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/gameboy.xml",
+        "File": "gameboy.xml"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -8891,6 +11669,20 @@
         "Version": "20260512-134045",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Nintendo - Game & Watch (Parent-Clone) (20260512-134045).dat",
         "File": "Nintendo - Game & Watch (Parent-Clone) (20260512-134045).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "gameboy",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/gameboy.xml",
+        "File": "gameboy.xml"
+      },
+      {
+        "Source": "Eggmansworld - laserdisc",
+        "Name": "Video - Game (raw) (2026-08-11_RomVault)",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-datfiles/laserdisc/Video - Game (raw) (2026-08-11_RomVault).xml",
+        "File": "Video - Game (raw) (2026-08-11_RomVault).xml"
       }
     ]
   },
@@ -8917,22 +11709,61 @@
   {
     "SystemCode": "nintendones",
     "FullName": "NES (Group)",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "nes",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/nes.xml",
+        "File": "nes.xml"
+      }
+    ]
   },
   {
     "SystemCode": "nintendosnes",
     "FullName": "SNES (Group)",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "nes",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/nes.xml",
+        "File": "nes.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "snes",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/snes.xml",
+        "File": "snes.xml"
+      }
+    ]
   },
   {
     "SystemCode": "necpcengine",
     "FullName": "PCEngine (Group)",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "pce",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/pce.xml",
+        "File": "pce.xml"
+      }
+    ]
   },
   {
     "SystemCode": "snkneogeo",
     "FullName": "Neogeo (Group)",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "neogeo",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/neogeo.xml",
+        "File": "neogeo.xml"
+      }
+    ]
   },
   {
     "SystemCode": "snkneogeopocket",
@@ -8944,6 +11775,13 @@
         "Version": "20250904-215533",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/SNK - NeoGeo Pocket (Parent-Clone) (20250904-215533).dat",
         "File": "SNK - NeoGeo Pocket (Parent-Clone) (20250904-215533).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "neogeo",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/neogeo.xml",
+        "File": "neogeo.xml"
       }
     ]
   },
