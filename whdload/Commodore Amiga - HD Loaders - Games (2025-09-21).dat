@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - HD Loaders - Games</name>
+		<description>Commodore Amiga - HD Loaders - Games</description>
+		<category>Standard DatFile</category>
+		<version>2025-09-21</version>
+		<date>2025-09-21</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>yyyy/mm/dd</comment>
+		<clrmamepro forcepacking="unzip"/>
+	</header>
+	<machine name="A">
+		<description>A</description>
+		<rom name="AbuSimbelProfanation_AGA_HD_Es_S0Y.lha" size="668841" crc="b49fdefa" md5="e51e5f66d86a636fa026ce4c50cbb803" sha1="1432dd7e869e084ce0e9124da5b4cab7a32dc585"/>
+		<rom name="AbuSimbelProfanation_AGA_HD_S0Y.lha" size="668652" crc="b60abaf3" md5="a4a09e5198601a391fec7e98ff596adb" sha1="a4978141c00b36c879404f67c5450a480eefdf99"/>
+		<rom name="Aladdin_v1.1a_AGA_HD_JOTD_0420.lha" size="2309860" crc="4e07114b" md5="da05993326764788d321f3a65a564522" sha1="125131667535ed41da084b08939fe7745f72aeca"/>
+		<rom name="AlienBreed2_AGA_HD_StefanBobergNov93_0044.lha" size="2561456" crc="e7259881" md5="3f078258287cafaa41248a84e0d8ce81" sha1="cf1855d5ad38aea54cdc6f89e8b6f40a736ebe71"/>
+		<rom name="AlienBreed2_HD_StefanBobergNov93_0278.lha" size="1930947" crc="c89dadc9" md5="43a1d7b5dd65937f6ee14dbfb81cc67a" sha1="8f539e35a841b61a624615218c1a6c4da8f025e0"/>
+		<rom name="ArabianNights_HD_TRSI.lha" size="1348312" crc="74855134" md5="a5e0a8f0061578647529307e395278ac" sha1="c2849625c3d7f60927c5556f05cd8485f6aa8f69"/>
+	</machine>
+	<machine name="B">
+		<description>B</description>
+		<rom name="BattleChess_CD32_HD_JOTD.lha" size="3736251" crc="e5e2e784" md5="1c929ed21d3f6e4fac75a0efe88efe22" sha1="84de0b075f941acb0346833a2c0c793ce6890f5e"/>
+		<rom name="BattleChess_HD_JOTD_0263.lha" size="788528" crc="30906e6a" md5="7281f0db2ed1347f547e88def168f5ca" sha1="90fe1df3c3ad66232337ac2765b2db4b227ccac0"/>
+		<rom name="BirdsOfPrey_v1.0_HD_JOTD.lha" size="1328785" crc="43e8cbe3" md5="8257031ad6a27502d99b66be72c8bf43" sha1="b03bdf51730d24fb924385c20808d2d3d2ca9bd0"/>
+		<rom name="BodyBlows_v1.0_AGA_HD_JOTD.lha" size="2380160" crc="689ae9e0" md5="2dc4bc02468eb7712a1b21c297775c62" sha1="8f1888faf833f6344c3443c5a2cc19e7bb8d1594"/>
+		<rom name="BrutalFootball_v0.9_AGA_HD_BoredSeal_1837.lha" size="1023133" crc="5e8e1288" md5="0ed49cd56a0c84a6d21c3c115b708713" sha1="f5cc7866817dfdf713e85ccace5f881a56732df7"/>
+	</machine>
+	<machine name="C">
+		<description>C</description>
+		<rom name="CannonFodder2_v1.2a_HD_JOTD_0104.lha" size="1449634" crc="61ccf11d" md5="12db9786ea2611cfd78b6f11efe2d266" sha1="1e3f01133dce0e7f8f0e8af04ae09d53fd0ea93f"/>
+		<rom name="ChampionshipManager2_HD_Galahad.lha" size="600733" crc="b473c59a" md5="c99b9ea24cc6be1e21fff3c633b05643" sha1="0bd8737d02d9fc63aa605396453892803e9288b4"/>
+	</machine>
+	<machine name="D">
+		<description>D</description>
+		<rom name="Darkmere_HD_JOTD.lha" size="2353358" crc="b3a5ba7c" md5="23c4e71398e15a8c31c4f762d5948a52" sha1="183d7df9a644793fccf1e6909eb69fd4046fda34"/>
+	</machine>
+	<machine name="E">
+		<description>E</description>
+		<rom name="Exile_v1.0_AGA_HD_JOTD_0885.lha" size="937868" crc="c9ab34f1" md5="fe66256c8d1d7729b96bf013b57fa538" sha1="ca08878cec1c8e232b953371c5aeb8068297c2ba"/>
+	</machine>
+	<machine name="F">
+		<description>F</description>
+		<rom name="FA18Interceptor_HD_JOTD_0119.lha" size="395306" crc="99a6beb9" md5="ef160dc1386680547b743fdbdd2e2126" sha1="049b833065b2777ad6002b1408fb416581e94c23"/>
+	</machine>
+	<machine name="H">
+		<description>H</description>
+		<rom name="HeartOfTheAlienRedux_v1.1_HD_DaliborJavorcek.lha" size="18713875" crc="37fd4353" md5="d795ba9d6337fb2e407d4427c1cb1960" sha1="b797a0d34696caf59ea759743dd8ffd84052b2a1"/>
+		<rom name="Hugo_v1.0_De_HD_JOTD_0685.lha" size="4603606" crc="9e8443df" md5="0825de8b5503881fd8d153d975ea99d0" sha1="1a670b1e4f9c0e72d5d05bf81b2f931113e7510a"/>
+	</machine>
+	<machine name="I">
+		<description>I</description>
+		<rom name="Imperium_HD_JOTD_0341.lha" size="355443" crc="5801ec45" md5="09309a4af160df50aa303f89521afc7b" sha1="cb5d5786fb8e0ce8fbcc374ea3e598df742508df"/>
+	</machine>
+	<machine name="J">
+		<description>J</description>
+		<rom name="JamesPond2_AGA_HD_JOTD.lha" size="419636" crc="cf61fd4c" md5="36a8e05bdaca99dfc3be8fe6478ce377" sha1="c431cb99f783436cf99bf65c85c7e9b616425e1a"/>
+		<rom name="JamesPond2_CD32_HD_JOTD.lha" size="2394937" crc="011b9cef" md5="4ece89b4cff9c41d7421634de2f5ef0d" sha1="01de3521384c7ebc7b3f041f9758d9b49eb05d21"/>
+	</machine>
+	<machine name="L">
+		<description>L</description>
+		<rom name="Lemmings2_HD_BlackHawk.lha" size="2571213" crc="e6afeb47" md5="9ad8bbb36a7aae67b2612491431611df" sha1="2861ae393dc478bb0f4c4591babf65db39e93aba"/>
+	</machine>
+	<machine name="M">
+		<description>M</description>
+		<rom name="MarbleMadness_v2.0_HD_JOTD_0013.lha" size="394690" crc="48664645" md5="8e9880a94980ddb523a10221413a4d01" sha1="a5d6b810c99073868e673acc84831741b074948c"/>
+		<rom name="MicroProseGolf_HD_JOTD.lha" size="1076897" crc="175d6f20" md5="e964e0bca374e5608f42f1fc4bf8157b" sha1="2bee3da7769462f0a8c86ad56d7b93be566670cf"/>
+		<rom name="MortalKombat2_v1.1b_HD_JOTD.lha" size="2810643" crc="e4ad886e" md5="6d29296244000ac0c6480650eb1f200c" sha1="7ba4f5b5562093f6cb0de5e5953bb00f9c9a7d1b"/>
+	</machine>
+	<machine name="N">
+		<description>N</description>
+		<rom name="NipponSafesInc_HD_JOTD_1050.lha" size="3762315" crc="330c08e4" md5="2105923992c303c470593c474d982f37" sha1="d86b6b5890dc5dfabe24eb458a614fe282cbc8a5"/>
+	</machine>
+	<machine name="O">
+		<description>O</description>
+		<rom name="Odyssey_HD_JOTD.lha" size="770262" crc="312f7c1f" md5="9e23037d33331c0d9ccddbcdd50a66d5" sha1="a6b820474bf3678400ac769d7f7abb102840c1de"/>
+		<rom name="OnEscapee_v1.3_AGA_HD_DrZarkov.lha" size="86905504" crc="ce4fc3ab" md5="31e53dce13877a328f4e401b6a10246e" sha1="66ffd974905f60aac7ee76c92881dda571e4cba8"/>
+		<rom name="Oscar_v1.2_AGA_HD_ThomasKessler_1095.lha" size="1829333" crc="52e9b325" md5="8664aaa16856c9cd3da9a24a83fb1535" sha1="9765962b22dcf8e60a9307ee68e522675fc44c64"/>
+		<rom name="OutRunAmigaEdition_v0.9.2_AGA_HD_68040_Reassembler.lha" size="2451506" crc="b99fe3a7" md5="ae3db405bdcb08b4e22081b6e9a5845d" sha1="37dfc0d874aaff8b64d70b5fa70dae80b66c1417"/>
+		<rom name="OutRunAmigaEdition_v0.9.2_AGA_HD_Reassembler.lha" size="2451497" crc="e5140b3a" md5="5c700dfc16ea99d26f11d8ae04859b56" sha1="59520cf15dff3aca594f7d6cf40526ed2c16f072"/>
+	</machine>
+	<machine name="P">
+		<description>P</description>
+		<rom name="Populous_v1.1_HD_Harry.lha" size="392621" crc="9bc0e39d" md5="311f92674ebd19ddae2ead747ba36ee0" sha1="521cebd156a55dd1e57a1ab778d618aaeda074eb"/>
+		<rom name="Powerdrome_v1.0_HD_JOTD_0140.lha" size="471454" crc="b0a7f382" md5="579f5925dfe9ea5c4a08f5a1e4379774" sha1="c43e609d764de017b59c785f8751e3e5a1121cc7"/>
+	</machine>
+	<machine name="Q">
+		<description>Q</description>
+		<rom name="Qwak_v1.3a_HD_JOTD_0715.lha" size="379127" crc="5920515b" md5="1d73fcfcba92a4ea045fc8a36026e851" sha1="f01a840f7e7282efbee0fc7636f7dc44fe02eb33"/>
+	</machine>
+	<machine name="R">
+		<description>R</description>
+		<rom name="Recoil_v1.3_HD_Galahad.lha" size="171710" crc="aea7a9a6" md5="7d26bae8b20ba089b89a70d34204ac0c" sha1="208b4813a3493a39d3304ead8ee3f50a4c62daa3"/>
+		<rom name="RiseOfTheRobots_v1.1_AGA_HD_JOTD_1763.lha" size="7490668" crc="bb39fe8c" md5="cc238cf76d1b1072cca1fc4b3a5a7c50" sha1="d15ff9267cccf95d642b19982aab3fa99d207e6a"/>
+		<rom name="RiseOfTheRobots_v1.1_CD32_HD_JOTD.lha" size="8159923" crc="7a12a613" md5="b234859e2db63844323fca40f2fcd04a" sha1="2ef5271dd53b55a62602cafc72add9f170424d0f"/>
+		<rom name="RiseOfTheRobots_v1.1_HD_JOTD_1365.lha" size="4637271" crc="e85b0f69" md5="2e9bcf532307bf13df673b9958e5cc79" sha1="6a44f2808ebdcf72631a6835bc1555bb449fc4cb"/>
+		<rom name="RType_v1.0_HD_JohnGirvin.lha" size="657890" crc="1d4562da" md5="88696392737ef0f2e1b3ef77024d970a" sha1="35f2fdef3c7c0cff52807e9a5df459986f45fd95"/>
+	</machine>
+	<machine name="S">
+		<description>S</description>
+		<rom name="ShufflepuckCafe_HD_DarkAngel.lha" size="517673" crc="a6f8444c" md5="1407ababcb516f5b2401f458e9768a13" sha1="321f61d7308375d3f0b135a7a412997874f0963a"/>
+		<rom name="Skidmarks2_HD_AcidSoftware.lha" size="4541133" crc="d2d3a458" md5="a615ecf17d78397fdb7fcaaae3f8a865" sha1="0d46807e2a67c492cdd1d2766b6246d2e206fffb"/>
+		<rom name="Skidmarks_v1.0_HD_JOTD.lha" size="2845654" crc="48edf984" md5="66815e8b59a5c00f1e081f4f188da447" sha1="179df8a9ac42ef95263ce678213a6e58dc583785"/>
+		<rom name="SpaceHulk_HD_AndreBarton_1279.lha" size="2086848" crc="e6a29f74" md5="282bf5cfc4aa5445031ffc3ed511ee87" sha1="185ac01a81fa02789ffa909140d744ae4d4b7fa3"/>
+	</machine>
+	<machine name="T">
+		<description>T</description>
+		<rom name="Tangram_HD_JOTD_2840.lha" size="209469" crc="1f58f539" md5="b2d468871d37e69700b9bad208e9e8a8" sha1="1e7f73665d791d20b75bc9b2e68c9d69127a750e"/>
+		<rom name="TestDrive2&amp;DataDisks_v1.1_HD_JOTD.lha" size="1412072" crc="54ac8d17" md5="5a7496d1413fb5219b3ecff58a85aa97" sha1="1bda81fda4dafedae6aa5d8255a81555e3c09607"/>
+		<rom name="ThreeStooges_v1.0_HD_JohnGirvin.lha" size="1090365" crc="1808a73f" md5="31eac403197556a3d4a4dcd6eb15b65d" sha1="0a35339a115c76dfa64bfe6ef97347989b7a0239"/>
+	</machine>
+	<machine name="W">
+		<description>W</description>
+		<rom name="WarZone_v1.2_HD_JOTD.lha" size="563239" crc="b565cee5" md5="195d47a701f3f89d136d8484ea007705" sha1="c7836cb0acaafd88de8483a75f9c466fd39031b7"/>
+	</machine>
+</datafile>

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - JST - Games</name>
+		<description>Commodore Amiga - JST - Games</description>
+		<category>Standard DatFile</category>
+		<version>2025-07-24</version>
+		<date>2025-07-24</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>yyyy/mm/dd</comment>
+		<clrmamepro forcepacking="unzip"/>
+	</header>
+	<machine name="A">
+		<description>A</description>
+		<rom name="AbandonedPlaces2_v1.0_JST.lha" size="2966410" crc="07838a93" md5="52e327614ba0c053c2287a29dbaa77a6" sha1="f9357f23235b8d4eb7f456a36be6f11df623c5ef"/>
+		<rom name="ActionFighter_v1.0_JST.lha" size="170402" crc="468dbdf5" md5="09fe74617ac5768378120cbe1e11db63" sha1="5a0b954a08471da085a8c2feb479181f297803f0"/>
+		<rom name="AddamsFamily_v1.1_0419_JST.lha" size="739987" crc="ec986bd6" md5="332e8209ce7dd7ff964532b25dc57643" sha1="db3364911c728f1309831ecbbe62dec803546661"/>
+		<rom name="AdvancedDestroyerSimulator_v0.9_JST.lha" size="231151" crc="1464b489" md5="405e531607c14ce951423a7d98af565c" sha1="c651a20754dc31a0b07963f9ad27e27dddfb4397"/>
+		<rom name="AdventuresOfQuik&amp;Silva_v1.0_JST.lha" size="283949" crc="223abcca" md5="6efba29d2c2ae606c4e2fcd78fa0590d" sha1="2ade183637e9c3b1f2ffd752f0976a818058b775"/>
+		<rom name="Agony_v2.1_0960_JST.lha" size="2297645" crc="cf227af0" md5="65895d797767c8cf9055d3ed35a21f00" sha1="5d056e0f2b172d6144ad2187fa8edebe469c1c07"/>
+		<rom name="Agony_v2.1_NTSC_2701_JST.lha" size="2297685" crc="f6bca017" md5="481d78cedac60296705afd56801c5968" sha1="a56093fa69d14877c1264e2bc5538c36eccff5e3"/>
+		<rom name="Airball_v0.9_JST.lha" size="340205" crc="d6cfae4a" md5="dc4b44f6e85d44e8612dc00d5e52f055" sha1="cedf2cd0f6d1be7848bd96125e0848a6c6cd765c"/>
+		<rom name="AlfredChicken_v1.0b_JST.lha" size="481180" crc="d14deb1f" md5="2818d593fd71b6ec2fb5f5854cbe52e1" sha1="924299f4b632e637c70cf2793144669bebeedb50"/>
+		<rom name="Alien3_v1.1_0261_JST.lha" size="1551539" crc="5c90285e" md5="4376c0c85d8e35ae0bd7e9a52e917f3a" sha1="76791a1a131587922f690d69e187c01f68f721b8"/>
+		<rom name="AlienBreed2_v1.2_AGA_0044_JST.lha" size="2820635" crc="06f0d0c2" md5="14d4fe63d3897fe72fa18728adaa0a5f" sha1="6f1e487c1009dc7a75dcf8bdd95f866a578c06c5"/>
+		<rom name="AlienBreedSpecialEdition1992_v1.0_CD32_JST.lha" size="1236317" crc="a7bd91f1" md5="2ff897d1fe445bfcf1e20ba0fb73ba2b" sha1="ecc49cb948caf11d8e7341b030fe9c9cbca20086"/>
+		<rom name="AlienBreedSpecialEdition1992_v1.2a_0615_JST.lha" size="1434634" crc="389ff523" md5="28d4247d7f6c926a4393634eec367f3c" sha1="9f5a374e3cd70943c86f5f8c1df190dae3df9d1b"/>
+		<rom name="AlienBreedTowerAssault_v1.0b_AGA_JST.lha" size="3054559" crc="394aa116" md5="3b66c1cc990139b6f55a9cc46b17b0a4" sha1="3d3fc4015dd416ec3d13f8a97fa587056526a976"/>
+		<rom name="AlienBreedTowerAssault_v1.1_CD32_JST.lha" size="4618523" crc="ef3e4d5c" md5="bd4ff5f2a852dfb9589fcb34889cfa24" sha1="bea7361b5ecd717bf73abc7259c23406ea3ae918"/>
+		<rom name="AlienSyndrome_2352_JST.lha" size="285164" crc="ebddbb35" md5="fe7b7e1f741160b67abfea6f4f691f02" sha1="a06e7e1d45dc01df5e47c7d0c9c65a59f13ff64e"/>
+		<rom name="AllTerrainRacing_v1.1_JST.lha" size="648088" crc="f5c73e02" md5="67b3c9cd6a989f671b0906ccd7d3a233" sha1="f63a4bd549248a10d4d32ceb74f4c0049d6adeaf"/>
+		<rom name="AlteredBeast_v1.1b_0819_JST.lha" size="723219" crc="1037ccd7" md5="b67bf57e48cdb92b0bf61ff673c81d67" sha1="4be8559ca37961f805c181c1786f91f04c70985c"/>
+		<rom name="Anarchy_v1.0_0424_JST.lha" size="930842" crc="31f9755e" md5="4efa6da92aa80db39636b2b939abfb1e" sha1="5e4d2ae219c31167179c4827d1a94f8b899485a4"/>
+		<rom name="Apache&amp;OverdriveDemo_v0.9_0426_JST.lha" size="933858" crc="6d246ec8" md5="8345129c3e8170c9fe47fbe208ac540b" sha1="2ad848cc8e054ab766cb5103121808d0856789c5"/>
+		<rom name="APB_v0.9_1708_JST.lha" size="413483" crc="e56da02c" md5="bc8cabcf5e4804290c62006e92862a6b" sha1="dfd5be8613d549dd83b4f832de1ec387775fc0d2"/>
+		<rom name="Apprentice_v1.0_2288_JST.lha" size="828175" crc="8e1e1995" md5="8676f2431c29c5017b16cec1ab964330" sha1="edba65c7a85308ce5d4cb4b82c83969fc188b239"/>
+		<rom name="Aquanaut_v1.1_F1Licenceware_JST.lha" size="435382" crc="426628bf" md5="495147fff6981b46dee0c784f114c03e" sha1="7e4cdb550af3212df87847e54cdb641a4bed3370"/>
+		<rom name="AquaticGames_v1.1_1351_JST.lha" size="367864" crc="b0627a9f" md5="784546bd991a5d0f374a08f61167ee22" sha1="6d21b698fea12c4937a19e2819a28109a883e442"/>
+		<rom name="ArcadePool_v2.0_AGA_0298_JST.lha" size="689111" crc="20aced78" md5="f0c291757373e7f597fdee701d34efb3" sha1="e03c9fdb75d847748a4ae541a0507e33b0fb5668"/>
+		<rom name="ArcadeSnooker_v1.0_AGA_JST.lha" size="385636" crc="b02d02ff" md5="7751c451d852263d1c5f65f72cec2633" sha1="2e28e1b0dd6cc2a5eeadd6139e32ff3eea543505"/>
+		<rom name="Armalyte_v1.1_1686_JST.lha" size="1295202" crc="95171f67" md5="de4f82bc829d3336771cfc98b0d78310" sha1="8795e90f517439787d2672aacf8feb0bb34ef941"/>
+		<rom name="Artura_v1.0b_JST.lha" size="211133" crc="726495ad" md5="9c650c1aee216b62a6f643409b3d0262" sha1="009350e5d5204f7bf22a2c2dad60e387a1163257"/>
+		<rom name="Assassin_v1.4_1214_JST.lha" size="1783052" crc="37ac8fb4" md5="06ad5aa677b326473810a371af659384" sha1="eb509cc946e5c1422aadd4eda987299120040036"/>
+		<rom name="AssassinSpecialEdition_v1.4_0766_JST.lha" size="1952059" crc="bccf866d" md5="ff378d13585d416d51ab49a683a148b9" sha1="4704ac7e5a7925bc544220d4ff26e9e30c05f3dd"/>
+		<rom name="AtomicRoboKid_v1.2_2243_JST.lha" size="658956" crc="05f13abc" md5="fabdffb4d51f9e644130689ef7d842a1" sha1="405e34f05f98aa0433b0f08d5d95b0c30a56e719"/>
+		<rom name="AventuresDeMoktar_v2.1_Fr_1636_JST.lha" size="724201" crc="fe3926f5" md5="5f7bd27315fa55f0b16d3977f4f3d46b" sha1="aeef218566767c210784e2ce274979c901acf16f"/>
+		<rom name="AxelsMagicHammer_v1.0_1524_JST.lha" size="241806" crc="b4dd42b7" md5="38632eba3cf94ef669c711410e4f082a" sha1="4d95b23f71f4162270005e72ed482fdcb3b50aee"/>
+	</machine>
+	<machine name="B">
+		<description>B</description>
+		<rom name="Baal_v1.0b_1350_JST.lha" size="374842" crc="6d955682" md5="ca7b180ee4e00997cf1cd96ae3caee89" sha1="42122cb5911a22739cfa30a4fc967c69141db15d"/>
+		<rom name="Backlash_v1.2_1118_JST.lha" size="172615" crc="0b60f09f" md5="391fcf9334f596a069efbc30d1416e36" sha1="4257ffc72446e9617cde85782f259d53169ce5cb"/>
+		<rom name="BackToTheFuture3_v1.1_0265_JST.lha" size="1158115" crc="49dee714" md5="7724044f638b66cd7750e2b1eb664b2a" sha1="da40aec97b5524afb2c7e6375a0d806414451e78"/>
+		<rom name="BackToTheFuture3_v1.1_NTSC_1171_JST.lha" size="1166233" crc="036462d3" md5="0b037d599cb970ac0dbbffdf0c391d47" sha1="b9c5db1a2318b412a365293a5c0e58ff12d2ed9b"/>
+		<rom name="BallGame_v1.0_2051_JST.lha" size="213683" crc="5f083f61" md5="75253bf28298bc0a562ba6ccc95eaf36" sha1="0031a45146b8806d7a85e9daa305cb5ef2102327"/>
+		<rom name="Ballistix_v1.0_0433_JST.lha" size="435036" crc="95bbe6b5" md5="96d7306578203fa21b0b5d739b7ed963" sha1="2f44a9d64e713258629ffe758fa88a66458d5c01"/>
+		<rom name="Banshee_v3.1_AGA_0633_JST.lha" size="2939326" crc="4af25abb" md5="7ddabb3c0793cbcc59ef7124136acde5" sha1="c7ef9ff0dcb4e4c50e910f675d338feee4ad0844"/>
+		<rom name="Barbarian2_v1.0_Palace_JST.lha" size="697604" crc="a6c78d67" md5="e17b3e3b5b40f241c831a254727bd2ae" sha1="98e16615409e0cbe3ff63a1caae37b2e5ff504e2"/>
+		<rom name="BartVsTheSpaceMutants_v1.1_JST.lha" size="1116758" crc="f6c31ce7" md5="9c709fb5e6466c6caab78a6c74a51435" sha1="40edf316bab877766ae3457c5c3098eedf248188"/>
+		<rom name="BartVsTheWorld_v1.0_0634_JST.lha" size="621565" crc="66fea52c" md5="bfc6676880b2a0f3379c922a7a6c5c89" sha1="c36a8419ea7b4210eb724a18604d044a9653aa0c"/>
+		<rom name="BattleSquadron_v1.1b_NTSC_JST.lha" size="862462" crc="8cd83880" md5="e24a1634a72f12ff97ca35519aa30551" sha1="84bc51899b7efbaf3685652519ba9a52b981ceb2"/>
+		<rom name="Beastlord_v1.0_2452_JST.lha" size="1262970" crc="e37fabb6" md5="4d5515a752423fca8ba9ed905b9ddfde" sha1="415f1eab8a1b5750e2a6a753b8c9146c0e7fafea"/>
+		<rom name="Beavers_v1.1_2575_JST.lha" size="2523738" crc="018a8e6c" md5="3577eca57db7ad86cb64cd797fffb041" sha1="7ffee5a94c782f0c2cc06ac06b69445da10b82b5"/>
+		<rom name="BillsTomatoGame_v1.0_1748_JST.lha" size="872024" crc="f394248f" md5="5e468cd7ec1db00fd70b0acdf38a024e" sha1="c5c01e7dd7579b3edccde0368048ebd57a172cd6"/>
+		<rom name="BlackTiger_v1.0_JST.lha" size="353997" crc="b5232448" md5="36e89e887e6c73255cea200d16230104" sha1="024f45e760c743dd66a641e1abb81a5d60f6e177"/>
+		<rom name="BladeWarrior_v1.0c_2201_JST.lha" size="414261" crc="76fa523e" md5="5ed6a1e6d1f981e7972520affd4b98b3" sha1="b3e80ac2f28b687034c32d59fe189bad01821d08"/>
+		<rom name="Blastar_v1.1a_JST.lha" size="2455224" crc="1bea82cc" md5="74a8d6100c82b16ab5684e1f8b724029" sha1="73923a288ad043aa654c424f2c3f0c2174909c16"/>
+		<rom name="BluesBrothers_v1.0_3081_JST.lha" size="359789" crc="72e19346" md5="0e0067d2bcfddea4d40b8dd97408dc3b" sha1="f695f9039d82a31cd2c5a36aecb16ac787c41ba9"/>
+		<rom name="BodyBlows_v1.4_JST.lha" size="2776191" crc="d151f17a" md5="53d4c28f4c8ca7c05817a563047a4502" sha1="aeedf2a16447a69d6b8e927e970df6d7a349d789"/>
+		<rom name="BodyBlowsGalactic_v1.5a_1231_JST.lha" size="1880770" crc="214943dc" md5="5957b21d4534b52bb0fe1b33c24471dc" sha1="ed4275201cc0ccb6b56d18c05635a5abc05fe225"/>
+		<rom name="BodyBlowsGalactic_v1.5a_AGA_0440_JST.lha" size="1879187" crc="225f9c24" md5="c5b95110c75bb8a70e21a485423731ca" sha1="7a3845f6af095c29e3b888c410c1c7aba227a894"/>
+		<rom name="BonanzaBros_v1.0_0859_JST.lha" size="510315" crc="5a2093e0" md5="6c867c412a457a6a60fcc4bae6867ccd" sha1="110eb4c009da8e7f4f6feb83c3e90128b0836702"/>
+		<rom name="BostonBombClub_v1.0_1502_JST.lha" size="312740" crc="5cfe70a7" md5="5a06efa7c65668bfeb5b7dbe677f8aa9" sha1="69e1c11ece9e00c7eb4b9f18c0211d8e20e43261"/>
+		<rom name="BoulderDashConstructionKit_v2.0_0464_JST.lha" size="96919" crc="65cf2525" md5="1fa27f91826955e516308cba69f0c9b7" sha1="e14a3bfcd8a4fedf3c3023ddec3a617cc0509800"/>
+		<rom name="Brat_v1.2_JST.lha" size="1127284" crc="dca7a1a1" md5="5f2bbdfb5f37f11e97a26de69ce18821" sha1="bed31858f1458729d10e56ee838f1fd4963d37fa"/>
+		<rom name="BrianTheLion_v1.0_AGA_0843_JST.lha" size="2457784" crc="0a9f2555" md5="35737b3f1d1fd16050b626e68db3498c" sha1="c3be961569c2af9245e83b4066d0bb6339f95297"/>
+		<rom name="BrianTheLion_v1.0_JST.lha" size="2338473" crc="33d1b8df" md5="f9ea91619af183ed34dac2ac856ba9b7" sha1="394debf5db7294b636fcb7da7a75ab6a3c5f6248"/>
+		<rom name="BubbaNStix_v1.0_JST.lha" size="1451937" crc="e03ee7ee" md5="7cac9e17319545e4c09f2d9f012e3ff8" sha1="2a09970d72b4a5c1308aeb62371a99c58f35bd36"/>
+		<rom name="BubbleBobble_v2.0_2518_JST.lha" size="133186" crc="3faaa568" md5="7fd43e24df1b5ad015f855f792a55eae" sha1="1eece01e52bb7b6a13c1ce40c764623acd63e33a"/>
+		<rom name="BubbleBobble_v2.0_NTSC_1342_JST.lha" size="134458" crc="023f6ea4" md5="f67805c96bf28325a468724dddca0d54" sha1="c6f45dfeddaf64d3069fbe6c34a9657aaba14c86"/>
+		<rom name="BubbleDizzy_v1.0_JST.lha" size="253267" crc="3ea5ec90" md5="2f039e2c2e4d1fbf5a291dc2c629c67e" sha1="62d2cbbe7d7b27b49836dda21310779c519e360b"/>
+		<rom name="Budokan_v1.1_JST.lha" size="1053311" crc="09f11d7a" md5="5c92c11ab3fd47995008e3bc6c32d6e6" sha1="76cdef141f54517a9ca111204a7252a44d98c9c1"/>
+		<rom name="BugBash_v1.1_2953_JST.lha" size="395248" crc="b5df6d9b" md5="35e7602e92ccb1b6e8e125ab587de808" sha1="e5543185ae99fd27cc6d4a745e784209055fec2c"/>
+		<rom name="BugBomber_v1.0_1579_JST.lha" size="175960" crc="4ee60944" md5="a071c268763eca32ef702c4b41be5870" sha1="d0244894541722c57d94ab35bcc1341267e83608"/>
+		<rom name="BuggyBoy&amp;IkariWarriors_v1.0_ThrillTime_JST.lha" size="363805" crc="35ed646f" md5="7c1ad8489a61931fd9e89feb5ab2b2f3" sha1="b91ee90af78d0c423c0ae8b29cc46d3206d00fc5"/>
+		<rom name="BumpNBurn_v1.0_JST.lha" size="4688784" crc="b94ef765" md5="9b4ab3ac35ac9c3d3e31e3443a9247cb" sha1="d738240d5b213f9450239492049f4baa00f19e93"/>
+	</machine>
+	<machine name="C">
+		<description>C</description>
+		<rom name="Cabal_v1.0_JST.lha" size="667969" crc="f40aba9e" md5="19f2330dfd6eae738a6ef14ab022c4e0" sha1="e4b82b871c1c6d47136303234534ceb8a84c379c"/>
+		<rom name="CabaretAsteroids_v0.9_JST.lha" size="155551" crc="f907709f" md5="2cb0328d7d8e046c41a0a11b3e80d323" sha1="ec44e74375a032b49804807292b3ccb98cfeb4c5"/>
+		<rom name="Cadaver_v1.3_0900_JST.lha" size="1397257" crc="7af6eb3d" md5="62e9480a559775b220d98ad9f3b67e4b" sha1="f9f2f204fc83a9f06c3bb321983d87aebe60b97f"/>
+		<rom name="CadaverDemos_JST.lha" size="444839" crc="dd97b5b9" md5="512f56e32d73a37b15d3cc92a66e9cf4" sha1="71cee2406fe671cee2992d1dad2fd36fe7fb2ea6"/>
+		<rom name="CadaverThePayOff_v1.3_0900_JST.lha" size="1386977" crc="6c639015" md5="78a3d3cc9b7f1c3ab95389318700863f" sha1="d0ba8c0b27df136782b8bb65e456dbc2f36b284e"/>
+		<rom name="CannonFodder_v2.0_CD32_JST.lha" size="1853499" crc="c71d3fb0" md5="7e730238d4ce9ede584c7a1353116d47" sha1="85d70d4169303e02997e555256c573c8069a2649"/>
+		<rom name="CannonFodder_v2.0_JST.lha" size="1567072" crc="d5fb901d" md5="4edea817b9290fa4e80d5f60993658e9" sha1="8aa86cd81acc81c87f2853dce790ab63a8cafadd"/>
+		<rom name="CartoonCollection_v1.0b_JST.lha" size="764531" crc="26e480d1" md5="7d148d9fd5211a927875cb93e1847622" sha1="ceab658d0b0f6ad814f46f17cdc5b956d599e291"/>
+		<rom name="CarVup_v1.1_1232_JST.lha" size="562583" crc="1e10f5f7" md5="ec76432d3383041958e06ecce5bef500" sha1="3b62c1cf9ceb36b7b2b4b41aed1f6b8bbcfaae68"/>
+		<rom name="Cedric_v0.9_CD32_JST.lha" size="2750967" crc="2d038905" md5="eaf791188b467c5e97e523a36d06c16a" sha1="cdefabf8361f690d99ce03c25bcf95a417b36fab"/>
+		<rom name="ChaosEngine2_v2.0_AGA_JST.lha" size="2486215" crc="780e8b71" md5="72731661afbb582ae5f628aa87e098cd" sha1="4cfd9c338c6c391fc9eaea4d601554b405995667"/>
+		<rom name="ChaosEngine2_v2.0_JST.lha" size="2621292" crc="c66d8007" md5="efb4eb504ed4194bcd1a0d6f4e77a5ff" sha1="c22bdb4c8ec77f9d845cfde92bf8cbdf30dfab33"/>
+		<rom name="ChaosEngine_v2.0_0106_JST.lha" size="1645047" crc="f3ab8675" md5="445a4844c3a8344fc0e8420fb2b10f94" sha1="8853084bd7033fbd8d5dbdbe0d8b56bee8f56299"/>
+		<rom name="ChaosEngine_v2.0_AGA_JST.lha" size="1697982" crc="8c03f147" md5="3dab331a9b65edc5246f5c36e055a227" sha1="a2d791f8d3427e9ae24eb6e666a3ce1ff7622875"/>
+		<rom name="ChaosEngine_v2.0_CD32_JST.lha" size="2231550" crc="6a83d003" md5="7177a13f3cb791729789ef9bd9cc5b56" sha1="259151aa297b30fd73c5bb60497d3d4a0d64e33b"/>
+		<rom name="ChaseHQ_v1.0_1443_JST.lha" size="457659" crc="80a4594e" md5="fb8c5b62adbf34561b23145d1f170877" sha1="17ab90322da4b740ac8415d11b21153158181cd8"/>
+		<rom name="ChipsChallenge_v1.0_2009_JST.lha" size="246182" crc="8d0d4f1a" md5="4053e59ecf9f696e8717a779edafb987" sha1="51e59b14fe01bfd57955ec93b5425bcce0b03548"/>
+		<rom name="ChuckRock2_v1.3_0282_JST.lha" size="1339897" crc="e1887f04" md5="e04ad93b5ed0495ab48b7186ed85e002" sha1="1280afded9bcc38d6f2967a47d7b9a08d767a23e"/>
+		<rom name="ChuckRock2_v1.3_CD32_JST.lha" size="1340071" crc="7317f8f3" md5="ec21259e9435a1ca39a389aa59dc9e90" sha1="251894a9a3779adee3f48464f3f24c8f15e47008"/>
+		<rom name="ChuckRock_v1.1a_0767_JST.lha" size="1303873" crc="a7fb516a" md5="357574d71b6bf9d30e000e4751e0f4af" sha1="b7255d17abe745b500e3b56ed25b85ba3a46333f"/>
+		<rom name="ChuckRock_v1.1a_CD32_JST.lha" size="1307360" crc="d241f95b" md5="be6ea340cc439ec2da172d9a8f694e78" sha1="61272c941434c5ac0349b96303354019093c4b59"/>
+		<rom name="CiscoHeat_v1.0_1393_JST.lha" size="369992" crc="e0d2ff5e" md5="5524a07b80a9280b9b7bebd9a2bea427" sha1="ead54bacee611014149fdfca48da98af4cd34fb4"/>
+		<rom name="CJInTheUSA_v1.0b_1946_JST.lha" size="231535" crc="77c2668f" md5="10f69745dd20306a7d056765a79a5ef5" sha1="9ca2c1bc105252ae9f52e1a33dee7c68ff71316a"/>
+		<rom name="Classic&amp;BabyArcadia_v1.0_1017_JST.lha" size="620648" crc="3cb0ff4d" md5="0c2f42d6e01e86fa3398e047b7e159bc" sha1="811982604d012ccdcd766b51bfc8648f6dc312c2"/>
+		<rom name="ClikClak_v1.0_JST.lha" size="539422" crc="43ef4e4c" md5="8a20c13d16ec1148405a7efb9406534d" sha1="ad349e44ba8c4c84ff52a5588603d9c62764fa1f"/>
+		<rom name="Clockwiser_v0.9b_CD32_JST.lha" size="507637" crc="85ae27df" md5="dc8594ec51a89220aa1edb690b3e4e27" sha1="7b4349aeb7c6eaba1d12c2222183d09e3978459c"/>
+		<rom name="Clockwiser_v0.9b_JST.lha" size="548969" crc="72238804" md5="59753bb965ef82a8251cf08a93f01976" sha1="65863b96497b3dc0ee7f69ea1ceb97f24a63eac2"/>
+		<rom name="CombatAirPatrol_v1.0_0674_JST.lha" size="1280770" crc="e4bbc0cf" md5="ce6d7ce0234182695961de36d801d277" sha1="2e0795451ba471438442d89af2318032457028ee"/>
+		<rom name="Commando_v1.1_0002_JST.lha" size="253613" crc="9c694908" md5="943ed38c9ad8d29670157d323505826c" sha1="bea14f3519515d8d8ce652d5b95f1a8527e19d82"/>
+		<rom name="CoolWorld_v1.0_1826_JST.lha" size="1127224" crc="693a7ed7" md5="8f940331f61c0d4826b4c61fd24066a5" sha1="e9bebe257d10ab2ce983a3fc3b3848f91f62e8e3"/>
+		<rom name="CosmicRelief_v1.0_NTSC_1893_JST.lha" size="276594" crc="ce137e1c" md5="edeee309d5520b258f0458f17a73e403" sha1="276573360f7e31fe898674923ea8d7ea3f0d05a0"/>
+		<rom name="CosmicSpacehead_v1.0_JST.lha" size="931426" crc="439fe830" md5="44afdf376aefce9105cf40a1865ebb5e" sha1="b64c84d3be19bf95d758dd0359cfb1c56be51fa5"/>
+		<rom name="CountDuckula2_v1.0_JST.lha" size="148945" crc="7a269626" md5="50b0a73ab0a03b9c6f76baa3a51a712e" sha1="292c25026c9752a82901b5d97d386962ba4602a1"/>
+		<rom name="CountDuckula_v1.0_JST.lha" size="175788" crc="f01dfcf2" md5="bbc3e9b114258ce83eb3d3a54a0b1cb8" sha1="20eb9c9012fe0f6d159dadd0514b95b1e21c32b0"/>
+		<rom name="CrackDown_v1.0_JST.lha" size="813612" crc="67814077" md5="66b77eb26a1abc9013c6444c0bf3a9fe" sha1="5385a5ec9c0343504009895926ca1f5fa67162ca"/>
+		<rom name="Creatures_v1.0_JST.lha" size="1559584" crc="ef8b0418" md5="c36622f883016635bbfc992af18b75c3" sha1="cdba8c3e1e297fe9bd3d0adf6f7f54239b24d1ac"/>
+		<rom name="CrystalKingdomDizzy_v1.0_JST.lha" size="799931" crc="e827b575" md5="f6c70850a21b4428cee4e5223f39df1e" sha1="2d1229a4aef1a477a44f44ffc27851c159c22336"/>
+		<rom name="CurseOfRa_v2.0_JST.lha" size="566592" crc="89d6cc5e" md5="7b44197bb749996bb0712d686ea6ea13" sha1="a7513775520fe77e285b9f25d69f0a3832f745f7"/>
+		<rom name="Custodian_v1.1_JST.lha" size="161925" crc="d434c12f" md5="d34c4e766bc166987f26814de204c72b" sha1="a22ac385ab88e8fd72502a376b593b22883f5804"/>
+		<rom name="Cyberpunks_v1.0_0365_JST.lha" size="631927" crc="1cf2f7a8" md5="5bbf8941e751d053a503ccbec00d1f43" sha1="011be4edef9b78f5b3bc427e6e568f672e0257fb"/>
+	</machine>
+	<machine name="D">
+		<description>D</description>
+		<rom name="DalekAttack_v1.0_Sci-Fi_Collection_JST.lha" size="1367850" crc="7a3a33c7" md5="2540d7ece84f165c8a6ef892f14319a0" sha1="63a450cd7ce380697b94379e4ecb0ac130b1505b"/>
+		<rom name="DarkSeed_JST.lha" size="4817698" crc="e9da55a3" md5="b3801b269d31474aa249a4a04c82b33e" sha1="9c6c484f36b8dbd2b314902ecf1e5625f4a43120"/>
+		<rom name="DarkSide_v1.0_JST.lha" size="328809" crc="b8691d30" md5="022dd7e9b71c55de7885ac1ea7cd2dd4" sha1="d9848883bd4bd970b740e77bc6919d3339a83f1c"/>
+		<rom name="DefendersOfTheEarth_v1.0b_JST.lha" size="457920" crc="00c7c291" md5="19ad125eac5fdfc1b8f822ceda7cf6a6" sha1="6a50b7e43a0556ecc0261f566186f3b4a4859db5"/>
+		<rom name="DemonBlue_v1.0_JST.lha" size="543703" crc="62b648b6" md5="b3f86250de8ca265bcdc699f13da775a" sha1="c94420af1d710162005c5a3fe2ae1c05a6f52602"/>
+		<rom name="Dennis_v1.3_AGA_DesktopDynamite_JST.lha" size="949370" crc="365c90fb" md5="af24505aae2c07031e0d26e9533559c6" sha1="77c05ac852d11f2e61fb4dc55ce217c09c1fb6c2"/>
+		<rom name="Dennis_v1.3_AGA_JST.lha" size="1267823" crc="8ab757bb" md5="306091f6be02bee93820f5f92d3e0491" sha1="f4b17c53af0ec2b56b75cb079091a263ae518491"/>
+		<rom name="DesertStrike_v2.2_0112_JST.lha" size="2479559" crc="96cd960e" md5="15b73b3c65e08c5514b0e1f8e93cc179" sha1="ca6f77eb63c3bada119a65789daeb834267a46a0"/>
+		<rom name="DGeneration_0677_JST.lha" size="748534" crc="0c0fd3c6" md5="4f54e87faa647004ca1f136c73c7d2b2" sha1="8745b195cacdacf188af66f002c5aae50ac2ff9e"/>
+		<rom name="DGeneration_CD32_JST.lha" size="939324" crc="6096d025" md5="33420f0751612c3426ba15c6678b5c87" sha1="017cd8f2d9b2804350f859c43da01397f4b9650d"/>
+		<rom name="DizzyCollection_v1.0b_JST.lha" size="1171990" crc="a243fd9d" md5="49fccd808fd5e1d8421b1919d89f00cf" sha1="723abf3c8a367e44cfd9da3e9e8a60b446b61de9"/>
+		<rom name="DizzysExcellentAdventures_v1.1_JST.lha" size="1011486" crc="1502c14a" md5="27e4fab09a281e2c2aa0d4ad47f34b41" sha1="7cde533fba4f7e8c4afd6b8c3e1363d34939420d"/>
+		<rom name="Dogfight_v1.1_1293_JST.lha" size="1704655" crc="e9137446" md5="096702261e44d259e19f7be3dd75e7a0" sha1="e91a59e5b0f2d5eeda0d954f82c706a0fdcc0899"/>
+		<rom name="DogsOfWar_v1.0_JST.lha" size="515387" crc="12af58f9" md5="d5de7e1c9520395f780ec522fc860917" sha1="5837ede5726fd4eff02af81c124b37c7140630dd"/>
+		<rom name="DojoDan_v1.0c_JST.lha" size="1707123" crc="8c15cd96" md5="2258fc2701a2863a2483ede8d049b19c" sha1="9e7bd1d477371e72bfcd9698a5b1b91f630bebec"/>
+		<rom name="Doodlebug_v1.2_JST.lha" size="568828" crc="68106f4e" md5="1410f80aa839928d4f7c8440c84cb722" sha1="d9a1e30bd25daa7d41e1781a4eb59785b7d06eb6"/>
+		<rom name="DoubleDragon_v1.1_0320_JST.lha" size="646032" crc="d91d46e8" md5="5804b4a64ec5715374ffc3c3300e52d7" sha1="5dc2ff1142a18a8d16ef50aafaaffa89e57cf466"/>
+		<rom name="DragonNinja_v1.0_JST.lha" size="602595" crc="24adc399" md5="c7f06741110a31b3743bdb6852456538" sha1="fdc5d68158b6ee502a9156a3c5607b5a8c0b915d"/>
+		<rom name="DragonScape_v1.0_JST.lha" size="305282" crc="ee427dd2" md5="21d3d7bd9e8d19a12c491a33872931ae" sha1="4568a8abb80addb45da86e81cb2efb6c885e4ac4"/>
+		<rom name="DragonSpirit_v1.0b_JST.lha" size="567025" crc="afee418f" md5="52ceaa66affb471f329b6864e509a672" sha1="5e98a27678daacd4ea94e6e1f7c29e09ed9a86e7"/>
+		<rom name="Driller_v1.0_JST.lha" size="273709" crc="a41967d9" md5="51e55c976466bc4fd4be41c97f0ca9ff" sha1="2d762146d6f3f2d3b3cad2c9429a90b4a49f1b8a"/>
+		<rom name="DrMario_JST.lha" size="153829" crc="4c12c555" md5="bf16ebc47e482938557a63317bdcb37e" sha1="02cb533ba2a0823f2d81eed46b71c555abdadfc4"/>
+		<rom name="DynaBlaster_v2.0_0664_JST.lha" size="740493" crc="50837d00" md5="61bc4408e1c0bd25264c3f6468c17b31" sha1="435b708712aa34471968ec5f9eba9fdd4e4cf097"/>
+		<rom name="DynamiteDux_v1.1_1183_JST.lha" size="545808" crc="8132cf98" md5="aca7bd9201fb351be6fdb48ad38742df" sha1="88075d423304791ec547583a92c1cf983d81bccd"/>
+	</machine>
+	<machine name="E">
+		<description>E</description>
+		<rom name="EddTheDuck2_v1.0_JST.lha" size="281455" crc="c56ce2d1" md5="f7033259e7e89c782fc4e98213cdbb4e" sha1="433810bb9cc83d1b2f08318fe0acc9bf48339c34"/>
+		<rom name="EddTheDuck_v1.0_JST.lha" size="377407" crc="f2cf8711" md5="da844327e8140c832bcb03bfd4e357ac" sha1="594477b91a50cb628592192ff8ec3e283ceed2c2"/>
+		<rom name="Elf_Ocean_0473_BETA_JST.lha" size="1563569" crc="5791e0f6" md5="f3ababb35b6a72fa503e031435afe6a4" sha1="f7767ce9a701b45cab26c639cca3da7538dc44ba"/>
+		<rom name="Elfmania_v1.0_0114_JST.lha" size="962486" crc="770c2467" md5="55d1c466c819801bd397e7d8a566f9df" sha1="707112bb58d0ea4df9c70376b58e8e10af1929ed"/>
+		<rom name="Elite_v1.2b_0811_JST.lha" size="335051" crc="acb6a779" md5="3f7d821b0c3a9271315f753dfc805407" sha1="f490a39f871a07a7132abe336d73c3ba38dc5cfb"/>
+		<rom name="EMotion_v1.0_0475_JST.lha" size="243599" crc="c373a933" md5="ed12eee3d7293fadf8aca55feadd76d6" sha1="9676e947e6fe4ed44917bef75e8c2233c5e85457"/>
+		<rom name="Entity_v1.1_1735_JST.lha" size="3067697" crc="e3226b86" md5="836febb0e4efc15de7dd5ab6c35c546c" sha1="2a67b311ab32eb8cc6d3cca4c7bceb0687f2a178"/>
+		<rom name="EskimoGames_v0.9_JST.lha" size="836134" crc="0841baec" md5="d4e003101330dcf019a872500c3c0524" sha1="2782c71e7ed797ea52b1472bd1bc762c80191721"/>
+		<rom name="EyeOfHorus_v0.9_JST.lha" size="256800" crc="0c9a8bb7" md5="5b9ac4bbd28d4c96cd9ff7e638e0332a" sha1="aa8a0ee3bd12dd6427ab8ba1a68b3c9638a96470"/>
+	</machine>
+	<machine name="F">
+		<description>F</description>
+		<rom name="F17Challenge_v1.0_JST.lha" size="1686904" crc="696f1226" md5="4bb434fbfd1f20e01c7e7ca42cd4fce0" sha1="d34be8d75fa0d944b6e1996cc7bf36b0ac655aed"/>
+		<rom name="FantasticDizzy_v1.1_JST.lha" size="830660" crc="2cfb56ef" md5="bcb684219ceca56a965283a21af16d36" sha1="74fc95547c8cc148b794fa16c005da2f54572e41"/>
+		<rom name="FantasticVoyage_v1.0_JST.lha" size="1232813" crc="8ac557bd" md5="b760fdddfaebfe4f6f13e50acf0358e5" sha1="a393fed4be0572a90a888248bcc41a05e99c4236"/>
+		<rom name="FantasyWorldDizzy_v1.1_JST.lha" size="297751" crc="b6906677" md5="7fd833f2bf6c3dc34aef40218876d22c" sha1="4ed2292aa5ce75a7fa15e86fb29488417dff5c56"/>
+		<rom name="Fatman_v1.01_AGA_0480_JST.lha" size="3531337" crc="362c1bbe" md5="cea814b999cd7114b5a6ea1bf50e0f33" sha1="303826c6244fcd0888f65100430cb63e6cde1edc"/>
+		<rom name="Fatman_v1.0_0943_JST.lha" size="3251236" crc="53b18b90" md5="13988b8dd33398b4afd4fc1c191b1b01" sha1="a7ceeada0ae018447b7230d9bfde69f8207152a7"/>
+		<rom name="FighterBomber_v0.9d_JST.lha" size="955799" crc="b9e62b9c" md5="7ed2c3bbebc95181a470a63fa2f8bb1b" sha1="344af1ce9c8b804ee1d111242750275cb8ca2113"/>
+		<rom name="FightingSoccer_v1.0_JST.lha" size="787839" crc="509dc5a1" md5="6fef04445e385cae4652a732ecdd4c70" sha1="75f751e7a68e2b381a81da78d537231fe45d885d"/>
+		<rom name="FightinSpirit_v0.9_AGA_JST.lha" size="4016917" crc="5ef87cc4" md5="75350bf4e0f3ee407fd6b7967ad9dd24" sha1="b66a431afdb54d487a2c269bc99ea3dbae15df55"/>
+		<rom name="FinalTrip_v1.0_JST.lha" size="156500" crc="5435264c" md5="f817d1d1502434006a54c2bce577f21b" sha1="c14002e5fca4888a0eb15b511ac2cce3a0a236bb"/>
+		<rom name="FireAndBrimstone_v1.1_JST.lha" size="612648" crc="de438f60" md5="9ddb55edf2d551a4b12b83a380f105f3" sha1="ae53179bfd2ec771f96bcb0d3890c504c8cb0f3d"/>
+		<rom name="FireAndIce_v1.1_0502_JST.lha" size="952987" crc="fd3fc870" md5="5a146326be3f91d8a21dc1cf991dcd15" sha1="9dcfd265528680c81dc4d07679c1d547c5fc95db"/>
+		<rom name="FireAndIce_v2.1_CD32_JST.lha" size="1375950" crc="4ae1aa67" md5="ba79635ec3b8ee74357843192f5c5557" sha1="1e82f6055cfdd2d40702f38cac7b08231c387e0e"/>
+		<rom name="Fireblaster_v1.0_JST.lha" size="71675" crc="b82f533f" md5="1b09ab65491f71036c0e8e409d71b7a6" sha1="4a8f1f0804ba82010b579f0ec408f649281e019d"/>
+		<rom name="Firehawk_v1.0_JST.lha" size="359703" crc="20628f44" md5="f65d3a65fb0d6b4d7c120e9c300f7161" sha1="bc537bb53952508a5b505ce665015065af3b306b"/>
+		<rom name="Flashback_v3.1_JST.lha" size="2189896" crc="260ab2df" md5="56fd3354914b51499ee28a9a0c47318d" sha1="78bdc55c01d2e726fdadcf46854707f3aa926093"/>
+		<rom name="Flintstones_v1.0_JST.lha" size="334400" crc="1d87906e" md5="ee5da5216199507e4b93d158e6d7c6be" sha1="9488d766ab78f6689ca304b1da3b5698b04798d6"/>
+		<rom name="Flood_v1.2_0504_JST.lha" size="475385" crc="443875c2" md5="de810952f147f7e9b82bcddf0a401511" sha1="5eb00a56e3ea1f7badfc8e89e03be641d61e3d78"/>
+		<rom name="FormulaOne3D_v1.0_JST.lha" size="687213" crc="0eeb219f" md5="0b27cbb53e52651ed83a88191aa8afa3" sha1="dd9901e002b90e95c6e2fd811a6f1d4e86ddf7ca"/>
+		<rom name="Frenetic_v1.1_1438_JST.lha" size="956516" crc="163a4ed5" md5="7d42c26e6082971e52a3f2ec1db2b6ca" sha1="3a2051f477488833364869aad6e79a925ab5db05"/>
+		<rom name="FrightNight_v1.0_JST.lha" size="249417" crc="4caa7bfa" md5="596637d648ff23e302ee3b7e4767990f" sha1="55451430b71ef59da414e4f7a5b8439c8c4bcc5f"/>
+		<rom name="Frontier_v1.1_1960_JST.lha" size="374297" crc="e0a052a1" md5="90d6bb3aa4dac6470740c79ba68647e7" sha1="51c4e0bfb5df7cbcdee4c8eaa8f18e244fcde7c2"/>
+		<rom name="Frontier_v1.1_De_0505_JST.lha" size="375794" crc="589216ca" md5="bf2ada8c417a4f820dcac6a3b3dad803" sha1="9f5b8e99f6306cc32c55df927f374af4216485f8"/>
+		<rom name="Frontier_v1.1_Fr_2745_JST.lha" size="375551" crc="783b38b6" md5="e013454c47bdf26af814e1095c33ff82" sha1="17aedb492ad88f64e6d26bda970894aabc44e88a"/>
+		<rom name="FullContact_v1.0b_JST.lha" size="1486094" crc="13c86c58" md5="c92edf7f3b2260e943091eccb294d0f3" sha1="f5988e11272125f6e16d2a3c49cc30064697dcfe"/>
+		<rom name="FullMetalPlanete_v1.1_0656_JST.lha" size="494911" crc="788bb534" md5="3c695b5b37c859fc81c55415068b63c1" sha1="80e292278dd45d8da92bfa539554d8211e528eca"/>
+		<rom name="Fuzzball_v1.1_JST.lha" size="1046813" crc="347e5a5e" md5="bce2815c65e2e99c3addfd4d9dbf22ac" sha1="10e374165062c52f8022d85bbaef1957146fcf81"/>
+	</machine>
+	<machine name="G">
+		<description>G</description>
+		<rom name="GalacticWarriorRats_v1.0_Sci-Fi_Collection_JST.lha" size="481869" crc="7f39fc40" md5="53a1349662631ef7af9f920061585f02" sha1="cfe1abe7a3bae2af13951ff73cf59f06488d6705"/>
+		<rom name="GaldregonsDomain_v1.0_JST.lha" size="657349" crc="eb771a7a" md5="2aa03b7fac1d2092a351ad832158b3ab" sha1="0f9878732ea2e9901fe65aa1a2ee7fc7eae2ed93"/>
+		<rom name="GhostsNGoblins_BETA_JST.lha" size="391702" crc="12e1b594" md5="636fb79fd61a07c3204396db532a03ca" sha1="5f484425ffdcabd9a8b945abf16f032c995d350a"/>
+		<rom name="GhoulsNGhosts_v1.1_JST.lha" size="630161" crc="38d85e9b" md5="25b5177c79b6e6b5c03e8aeabf8d792f" sha1="4605b954e06215383f007c3c767b76861004b772"/>
+		<rom name="Gods_v1.3_0666_JST.lha" size="1269547" crc="538e15a3" md5="14db5d3e56578fec46e352d8862a00c8" sha1="ea97c7812ebf463cc1e0ba831ed15e38cf6e1605"/>
+		<rom name="GoldOfTheAztecs_v1.0_JST.lha" size="1454816" crc="db3b6d4a" md5="803e3a7174e26f00ccf1eec58cbe1211" sha1="6f2136f1bd2af2011b58d7e52d4fb776ed921263"/>
+		<rom name="GrandPrixMaster_v1.0_JST.lha" size="244811" crc="9e57f459" md5="12bffd2aa5a610786e88dda21ccdb885" sha1="22a5b2f6ae05ff957723200a271b9c938c68bc42"/>
+		<rom name="GreatCourts2_v1.0_0333_JST.lha" size="628753" crc="43bc77cb" md5="465ee3ffd9f8d96a43def2afa51aec9a" sha1="61c3b9edafd8d6d495080795effede2a6bd0f0a8"/>
+		<rom name="Guardian_v1.0_CD32_JST.lha" size="964021" crc="bb52c1ca" md5="81d8b37e32f1310c7ece013960eb4ef4" sha1="12e83dd4a3cf23be10a48bf848b2f99348cd2d63"/>
+		<rom name="Gunship2000_v1.0_CD32_JST.lha" size="4903003" crc="3ae294e7" md5="7ee9f61df901f29c4cd09e5ac084b22b" sha1="03afff15578212e4f5a8bb43743649ebd5007a8d"/>
+	</machine>
+	<machine name="H">
+		<description>H</description>
+		<rom name="HardNHeavy_v1.0_1631_JST.lha" size="376878" crc="2ff8ca12" md5="4fd8f2a2d7241193000a9842066f4fa2" sha1="af664ed5e44daf7bce145a822624a8ca0b56ea8f"/>
+		<rom name="Harlequin_v1.1_JST.lha" size="1591226" crc="3f7b6fc1" md5="e39339a4d97b78696c630ba75a07f8bb" sha1="16fc2f812d7819ee13631ec02a6a4dbbc5fe2827"/>
+		<rom name="Heimdall2_v0.9_AGA_1166_JST.lha" size="4479934" crc="143a2d67" md5="5c445243fbb981b00cebcd5128ca76d5" sha1="c8454b6b4d73a18a46d39b749668ec48a8d3e370"/>
+		<rom name="Heimdall_v1.2_De_JST.lha" size="4258679" crc="40800613" md5="ff1a100a7e0e61a7e8d90a23d400b0ce" sha1="7125bf667169006d2661453143e10be842014e3a"/>
+		<rom name="Heimdall_v1.2_JST.lha" size="4260812" crc="88b38a79" md5="3e2f19f80c3462680e9419c0a910066e" sha1="8bb3e23260dcb03e4535f49f864d7877212437be"/>
+		<rom name="HeroQuest2_v1.0_1455_JST.lha" size="1925403" crc="1a8be68b" md5="2f509e1e6913ff59beb08923c8317385" sha1="3b82e23d381c4f8866ec0a3a4794d5f36fef70d0"/>
+		<rom name="HolidayLemmings1993_v1.6_0337_JST.lha" size="327185" crc="7908a5d0" md5="a9723a895db1bdb39f3f0ca09fc780ef" sha1="f05cf7ccaeb828206414fedc692f67db163085be"/>
+		<rom name="HolidayLemmings1994_v1.6_0492_JST.lha" size="345498" crc="14e7ea79" md5="22568182e2a83899bdad318c08b81aff" sha1="e7f9f612ccbad95b802a26c4d19571efbfd26401"/>
+		<rom name="Hook_v1.2_0887_JST.lha" size="2836960" crc="df9ac579" md5="2a72a619b9a871d22e488c60ff6fdd22" sha1="2aebcf3b0df10712c6d7f1d8ff74e9763b4e790d"/>
+		<rom name="HorrorZombiesFromTheCrypt_v1.0_JST.lha" size="498395" crc="53519b87" md5="1beddad89f9f4aa2a03643c46af45478" sha1="40933eb6eafe0cc0a329c38bae0600aad765c3b0"/>
+	</machine>
+	<machine name="I">
+		<description>I</description>
+		<rom name="IK+_v0.9_JST.lha" size="201123" crc="992a3300" md5="f08104ee405b2fc6105e9a4d3146d4b9" sha1="625b85ea2506aa19b16b0e7fd83ddebc510fa5f0"/>
+		<rom name="IkariWarriors_v0.8_JST.lha" size="201773" crc="c182e8b7" md5="65d22af8e5a7748ac4d80c2b23f3daeb" sha1="69e5d11c178a010f284d851ba3153a3c1e7e94ed"/>
+		<rom name="Immortal_v1.2_0340_JST.lha" size="791762" crc="84a28471" md5="2bd901dd0e9cf242490dbe35102d3c0e" sha1="9385ede8350e23794563ea9c9a8dfb982ff690c9"/>
+		<rom name="Impossamole_v1.0_JST.lha" size="566120" crc="bfc921f6" md5="4ed0334167a00a0908fb7bc585be2762" sha1="9a60f3c16d501838c62f09dcd5c18543c9efdb95"/>
+		<rom name="ImpossibleMission2015_v1.1_1107_JST.lha" size="1051783" crc="b27d7f16" md5="b2ea5de914d52dad2af8b5279546979e" sha1="dcf504aeccde31d9b3d6eb309784cf22d6fb0250"/>
+		<rom name="IndianaJones&amp;TheFateOfAtlantisAdventure_v1.0_0851_JST.lha" size="5653181" crc="dd5e4583" md5="322c877d49b94b62bcffd47e32161bb2" sha1="5a6a6700871861dd61ed132941da9b7ed1552bc4"/>
+		<rom name="IndianaJones&amp;TheLastCrusade_v1.3_JST.lha" size="383445" crc="466b2211" md5="b9d7b3f4cde9fcb57fd8e0ee5ee11fca" sha1="e0746372b1d60e93cec96e46c1bfd49e21669b4d"/>
+		<rom name="Infestation_v1.0_JST.lha" size="383328" crc="b2ad3cd9" md5="b3395d83ef222d02815b6bf7fc0b8cb6" sha1="32670505076e921d7bc173789c994269c991dda3"/>
+	</machine>
+	<machine name="J">
+		<description>J</description>
+		<rom name="JaguarXJ220_v1.2_JST.lha" size="1672287" crc="9e81e792" md5="c1717cc4bc9ed165c8a11e16a2356932" sha1="6bea961faa6e5274379d741c8e3e6dda3286f3cc"/>
+		<rom name="JamesPond3_v1.1b_CD32_JST.lha" size="1778210" crc="52c38a3b" md5="966f0cd22da6ae7bbdbe358f9fa701bf" sha1="0e48098089d113bf7cfb0acabca5f1254894a052"/>
+		<rom name="JamesPond_v1.1_JST.lha" size="503409" crc="6318adc2" md5="fa684f37759e3226652843d727835cf9" sha1="2037adb0949a0bcd397b72e0f4f0befe2f2e1f7b"/>
+		<rom name="JimPower_v0.9_0068_JST.lha" size="1669212" crc="a53eae3b" md5="1327decd293e73fb453acd40cca3e176" sha1="a2e56d8917961e638eca2113fee530de59908f9e"/>
+		<rom name="Joe&amp;Mac_v1.0_JST.lha" size="1903484" crc="2a42bf47" md5="0da768860d24320cfd193866f7d8c2a1" sha1="a94b6bb44ffdebf126731c8b447d54b315440ae2"/>
+		<rom name="JungleStrike_v1.1_2MB_2581_JST.lha" size="2170491" crc="99a11378" md5="08f03c5b39c88621174ce29dbfc913b1" sha1="4f4edd122f35676f03f87f96b5a9e027b1e4f22e"/>
+	</machine>
+	<machine name="K">
+		<description>K</description>
+		<rom name="KarateKid2_v1.0_JST.lha" size="473764" crc="5e27ea4c" md5="258c8d004c6f0b7978c7cf8edcb1b495" sha1="66dae0054725f949bb0309ce2d087d75717ca87a"/>
+		<rom name="Katakis_v1.0_1273_JST.lha" size="670576" crc="c6ad72c8" md5="c8cda73540aba8034fd13f0f92683bfe" sha1="39b4385b83ee5c511e348ec2c5509157f4583150"/>
+		<rom name="KidChaos_v1.1_CD32_JST.lha" size="2817187" crc="64882c18" md5="592aab24d5436dccbf10f64012994eaf" sha1="50b1685c2df1a60945060ca6e3cdf7ed8c383b21"/>
+		<rom name="KidGloves2_v1.0_JST.lha" size="450862" crc="a23587e3" md5="2f693d65b88dc0cad4ded2123f1578f3" sha1="ff728963247374b3ece2a3c0665f4d02a6778efa"/>
+		<rom name="KidGloves_v1.0_JST.lha" size="215372" crc="15569bbf" md5="4fefeaea9b91c15a7dba23d162bcc691" sha1="264205504711d14778dc584ef7485246cddeef1f"/>
+		<rom name="Killerball_v1.0_2565_JST.lha" size="539352" crc="9fb4660d" md5="7b96a2838ae3e86058a2eac0524dd82c" sha1="a7cdfcabbd55221846de9763a8de0891e2861dca"/>
+		<rom name="Klax_v1.2_JST.lha" size="382081" crc="45b78c8c" md5="04fdc754d647ffd98d398d2b937dba4a" sha1="a9e96eeab8c03170c92428d2ee5c2cd7433c805e"/>
+		<rom name="Kristal_v1.0_JST.lha" size="1916543" crc="0e2a4a30" md5="0b95763cd1528bd6c2110692ae1a3cb5" sha1="6d34ac863ac4c94cb2bffaa551a55d8ec8a1f6f6"/>
+		<rom name="KrustysSuperFunHouse_v1.1b_1599_JST.lha" size="508433" crc="33919f85" md5="0bf1ee4325e9dc6e852be0fc35a3cbb7" sha1="3dd949f7f4e20481903f70e4cb79a0f7546989f1"/>
+	</machine>
+	<machine name="L">
+		<description>L</description>
+		<rom name="LaserSquad_v1.1_1907_JST.lha" size="725479" crc="9d0f47e1" md5="d46f4a22f062452b241fcc3e5c031af5" sha1="643b1abd79899e47ef8d20074e618a72c030b465"/>
+		<rom name="LaserSquad_v1.1_JST.lha" size="696520" crc="aaf47369" md5="a87dd7c5881ff6209cf21bf362f9de3e" sha1="0dde801b3d6d09980cd3f8b205ceeafb422b4f15"/>
+		<rom name="LastActionHero_v1.0_JST.lha" size="1387470" crc="d2be7fcb" md5="729ebd17221339fb6e711a68d29e6dec" sha1="5d1dcb6101f20f4b3fd789f0e00b179edf0d2e82"/>
+		<rom name="LastDuel_v1.0_JST.lha" size="286674" crc="259e3b4a" md5="c2a60650eab751b8382aae41393b91ee" sha1="b556b9ab12a79d2145a447ea61d1a2b41dab732a"/>
+		<rom name="LastNinja2_v1.1_0131_JST.lha" size="772194" crc="36802fc1" md5="c2c41287bf9f7925c412d3d764ec2b2b" sha1="4343ccb0f90670598b8cbc25bebdd86cdfcf3d60"/>
+		<rom name="Leander_v1.5_0496_JST.lha" size="2183123" crc="addf16fe" md5="9496779e27efa6f708f37134ad05b419" sha1="83544df62c7b44bcbff9e072c17f3514750e298d"/>
+		<rom name="Leander_v1.5_NTSC_2351_JST.lha" size="2357429" crc="f6eccb1c" md5="f76ff8cf7adb8cafdd720da6388c0c38" sha1="2290118709e6853361e9b165702e31bc889e56aa"/>
+		<rom name="Leatherneck_v1.0_JST.lha" size="175612" crc="2d0541c9" md5="d857194015f7985ab83d7dd59b43ee72" sha1="53bdbaf656a96fd48658144ed1cc0c4abacffdf8"/>
+		<rom name="LEDStorm_v2.0_0934_JST.lha" size="442410" crc="b861d91b" md5="56d65f6a4b121e1dceff370e01a87b50" sha1="acb546a0fe5a5759964859c00ded46b0dc0a3e5a"/>
+		<rom name="Lemmings2_BlackHawk&amp;DrZarkov_0351_JST.lha" size="2312533" crc="ee3820db" md5="1af1624ffbde032ae37bd83e3cfcd1e9" sha1="2892d559f89d01b7dbe5d6b2aa85651d3d46f162"/>
+		<rom name="Lemmings_v1.6_0132_JST.lha" size="1451597" crc="12d3dfb3" md5="e1bfdfc136a5c9a1005a3ca5dae1fcae" sha1="3b2952d53384ed8963f11c5ca8de808fb15d5c28"/>
+		<rom name="Lemmings_v1.6_CDTV_JST.lha" size="1355214" crc="7fcee2f2" md5="549f353b88109739b85c94d7b59ef68d" sha1="752b5b1d169c6511877c5c7aa2145e1df7ded120"/>
+		<rom name="Lemmings_v1.6_NTSC_1977_JST.lha" size="1455842" crc="785fb763" md5="30d79b9e640051ceedb8f0b0dbd19e88" sha1="4b500d72b3c50044ee7724327d37d157df7161ac"/>
+		<rom name="Leonardo_v1.0_JST.lha" size="384552" crc="f6cad1f3" md5="6062a0229f55ec699413c599ee7267ec" sha1="a660860be318030175f7abb3bc315f9bc717f49e"/>
+		<rom name="LethalWeapon_v1.1_JST.lha" size="869271" crc="40ec0b90" md5="faafd3f521b7cd5b9e0b37119be2478a" sha1="eef25237dfc9555c3b88e709bcb4a82180f2862e"/>
+		<rom name="LionKing_v1.0_AGA_0527_JST.lha" size="2238017" crc="5f59dee5" md5="87da087b4ede92ead738df759253be3f" sha1="98357e6c4f2c7c903f094d818f740d9bac0d3e67"/>
+		<rom name="Logical_v1.0_0529_JST.lha" size="438631" crc="650f59ad" md5="e98dd2decca7d0ba405d7b9600d031f1" sha1="7b7b6561f4455ea9b4451a2ee852c71b0cc6f6cc"/>
+		<rom name="Loom_v1.0_De_JST.lha" size="1184571" crc="556647db" md5="1cc7d5a8e0e6675953b67c049c4af969" sha1="997f9b49075757dd4260f4f8ac6d5b6819201819"/>
+		<rom name="Loom_v1.0_Es_JST.lha" size="1183536" crc="62a02f68" md5="d2edd2f044a6f7352534cf0be47e204a" sha1="8f6ad6ff4439c02b6df722ba8ac6188437b8e260"/>
+		<rom name="Loom_v1.0_Fr_JST.lha" size="1185060" crc="b6df564b" md5="8e77ebf1a22995699e9579b9ba10690c" sha1="f283135c732297ed2f9926f1b30e2289070303f2"/>
+		<rom name="Loom_v1.0_JST.lha" size="1178396" crc="862c70fa" md5="9a7684f3b2cd8e57c26cc8c99650849f" sha1="ad641afb7cd8c2b591c2507776d01e11c8c94435"/>
+		<rom name="LordsOfChaos_v1.0_JST.lha" size="581447" crc="da2f0401" md5="8174426672f97dcc9a7633fa1e7dcb67" sha1="2afa8379479f9e7147ae84f4d3295676f9d32663"/>
+		<rom name="Lorna_v1.0_JST.lha" size="743735" crc="e7ee7b89" md5="f45056c928de16ebb4c73e978d3bf354" sha1="83ef07684f42c34498b3a244acc045d5048afcfd"/>
+		<rom name="LostVikings_v0.9_2235_JST.lha" size="1433958" crc="647eaf7e" md5="3a8f1a4cf37885d996c5b9118122d10a" sha1="f17ec59a2096d1d2b52bd0f27beb27f8cd5a6cbc"/>
+		<rom name="LostVikings_v0.9_Fr_2236_JST.lha" size="1434782" crc="04ab4adf" md5="ecc7bc326d558b2160c391fdc6c935bc" sha1="5c2a96d343f2638b4bcb80eac1530f9cabd71094"/>
+		<rom name="Lotus2_v1.0_JST.lha" size="839610" crc="06b22dde" md5="13eb2667a445c6b7b0a7a0d473c74231" sha1="30ed043904c709f041fd9cb5051ca435651f7939"/>
+		<rom name="Lotus3_v0.9c_JST.lha" size="1459050" crc="1d5d6388" md5="b99c6cf181c854a075c922a81c6ac6bd" sha1="176b5366232ff4a21e60e534a17ac0967f0b91db"/>
+		<rom name="Lotus_v1.1_0774_JST.lha" size="692079" crc="2ebb60fb" md5="47b99a11fda6ec4cedb78f0019e967ba" sha1="c4b7d6cac1ea9575193a98c24f4e00d054fb13dd"/>
+		<rom name="Lotus_v1.1_CD32_JST.lha" size="754734" crc="0f6fb4b4" md5="4ff7693014f967de30cb5e7e0434481b" sha1="4e57b531006cbc0edfda4dffbf6e7e3996c3ae30"/>
+		<rom name="LureOfTheTemptress_v1.2_De_JST.lha" size="2566394" crc="1e658e82" md5="7eeedc4e7e4f79b985409e245dad92a3" sha1="147fb3cb243e037119ff65fb1e2ac8d019c70371"/>
+		<rom name="LureOfTheTemptress_v1.2_Fr_2040_JST.lha" size="2564866" crc="bb5ad1dd" md5="d8367141c582042e05adfe7844b7e4a2" sha1="ca5a023ded57913c882ccd726db0d47bf9ff866c"/>
+		<rom name="LureOfTheTemptress_v1.2_JST.lha" size="2597436" crc="6800c8b8" md5="5116e6d69c1f3f08f51b224afda5c854" sha1="2c77c0122be3f778cf9cf86591a654b7f8587f71"/>
+	</machine>
+	<machine name="M">
+		<description>M</description>
+		<rom name="MadTV_DeFr_0533_JST.lha" size="758480" crc="6a250e6c" md5="f26f8477b0dc275c2c8340c6f47d72e6" sha1="2c3cc26d4c150113454ec525710f53159a17e8c3"/>
+		<rom name="MadTV_EnEs_JST.lha" size="737547" crc="f33800ab" md5="8dbda072602e3c6dd7d2fea9950caa5b" sha1="4f6a5ae24b9247b34b9c5f315b0130efd829aee0"/>
+		<rom name="MagiclandDizzy_v1.0_JST.lha" size="410634" crc="a2973d37" md5="79534ab6723e2d480c1a7a4443d6ae30" sha1="985515c4df384116e6f87ad6cb41235d9aecd58b"/>
+		<rom name="MagicPockets_v2.0_0917_JST.lha" size="863791" crc="5d5f1565" md5="49ec2de9a4a445d9fb27d93d9492fd54" sha1="f167b431cc0a29d53909c197993668f1f3625b71"/>
+		<rom name="MajorMotion_v1.0_JST.lha" size="172608" crc="d0f13455" md5="2c27cd08be6a274023a76176614d42f1" sha1="6a95028997859b64d9bacfb30c9f358782663bb0"/>
+		<rom name="MatrixMarauders_v1.1_JST.lha" size="716276" crc="c008bc09" md5="747bf33114539d15ab3d4551056012d6" sha1="2394eb290f497a96e2a5e4987c3ab7ad188d3093"/>
+		<rom name="McDonaldLand_v1.1_JST.lha" size="632170" crc="cda016ee" md5="189f87f6ce2cf0a369f20febfc951e84" sha1="949f0b3e817374c8a1c882f667f61661afa4e337"/>
+		<rom name="MegaPhoenix_v1.2_JST.lha" size="392288" crc="4d6581a9" md5="9d0c118a793db503e187b8b87d12e81c" sha1="103a0577ca357ee2aca640931a83a20571385170"/>
+		<rom name="MegaTwins_v1.2_JST.lha" size="903813" crc="61111685" md5="d7ac85e10580c33c15f6b1f14722fc31" sha1="5fecc64f36b145e987b2735dc7a29ea2a14ab562"/>
+		<rom name="Menace_v1.3_0823_JST.lha" size="415857" crc="a5d4fd0f" md5="e377ab272c24234f007c75f3ab00074c" sha1="233f0237b7ecf78133fc3a80de0841a16718d878"/>
+		<rom name="MentalImage2_v1.0_JST.lha" size="650072" crc="8372155b" md5="fc3bca85e9fa7138909bcb20f16c9dec" sha1="ea06f0d9e23a2ad27baf4eb167c691fb1915c3e8"/>
+		<rom name="MicroMachines_v1.0_0357_JST.lha" size="723374" crc="1cbce239" md5="19e7dce51d0e5f292b4ac4eb59515b31" sha1="bb1a9ab5471d98676366506063a43af8265b4ea7"/>
+		<rom name="Minskies_v2.0_AGA_JST.lha" size="3100240" crc="6ac9fcdb" md5="c6598e8ebe33c425529481c790513edc" sha1="6ae90fbdfe1c83baca071f506115e4ba90bfe18a"/>
+		<rom name="Minskies_v2.0_JST.lha" size="3100023" crc="07f4f7e5" md5="df8c41cd66b903ec0909c081b2600d1f" sha1="a253af1228a50be9f7f49c63e88bc952834612b8"/>
+		<rom name="MontyPythonsFlyingCircus_v1.0_JST.lha" size="454791" crc="f1dd7d22" md5="c70fd6ede2a2ad815e238778351e2abf" sha1="a61e11421ae6b3530c452a1b318d2f56a8db7d28"/>
+		<rom name="MoonshineRacers_v1.0_JST.lha" size="1376243" crc="490d5f71" md5="000f0e57fa3eb5078430ec7b1612d891" sha1="94012b747f1c7be7023993e14922aa877ae9d3f7"/>
+		<rom name="Morph_v1.0_AGA_1070_JST.lha" size="1066906" crc="5f43abce" md5="00db685b519f0352cdeb65122cdff7a4" sha1="71fbb90eecffae393cfe9e73cb38ab7070336014"/>
+		<rom name="Morph_v1.0_CD32_JST.lha" size="1059806" crc="da860649" md5="6224fc52745e24434bb380aa04dfec3e" sha1="83fc19921f45eabb2629a570385374600c9ae316"/>
+		<rom name="MortalKombat_v1.7_0288_JST.lha" size="1666030" crc="78032c1c" md5="42948358836d6a714859e8e9c45dd5aa" sha1="6b79344d40258a1c47c3e0c86c448ff05d7c3f41"/>
+		<rom name="Motorhead_v1.0c_JST.lha" size="775942" crc="f9b28b30" md5="9075e486fcefaa71368ec91fa804922a" sha1="5e90bb3ff2a3d05609aba4175908500b2a0f3db4"/>
+		<rom name="Mystical_v1.0_0541_JST.lha" size="452475" crc="6c2651b8" md5="1606551c07609c1b0b023ea86ee6473a" sha1="99cfd52d0880614c6c4fcb49cf9d5f019a09eec5"/>
+		<rom name="Myth_v1.0_0700_JST.lha" size="2576617" crc="ed99fffe" md5="7e2ddf92058dba5aaeec2f10692ac96f" sha1="a983cc65cfbd77493fd759157e5f459c102acf61"/>
+		<rom name="Myth_v1.0_CD32_JST.lha" size="2582053" crc="2252752a" md5="67e966aad6ec2f8a31a09fe28362e366" sha1="f33e8ec5c99d3dcf006d4f79807c229f4fce8b3a"/>
+	</machine>
+	<machine name="N">
+		<description>N</description>
+		<rom name="NaughtyOnes_v1.2_AGA_1715_JST.lha" size="669563" crc="607ad931" md5="11864787813e98e24d744393388ecf30" sha1="6c9670f7ed7cc12b8694a3a0fe4415ba01891aa4"/>
+		<rom name="Netherworld_v1.0_JST.lha" size="258693" crc="6032d40d" md5="c0e9da7103cf9cee2f43129bda228f86" sha1="64e0d494eae5a0155e1cceaef6361c1ddbb04f1b"/>
+		<rom name="NeverEndingStory2_v1.0_JST.lha" size="849923" crc="e4d78b8b" md5="f08353e7b1cdaff740f2f495305f7692" sha1="6d8666395befa5bcf32d21810112ce79096ab6e5"/>
+		<rom name="NeverMind_v1.0_JST.lha" size="365639" crc="5dfcf614" md5="a9f625fb38293ce6de843f0a2b943254" sha1="3140af941bfa9e0dfa5602e64aa0ad664554fdf2"/>
+		<rom name="NewZealandStory_v1.3_1180_JST.lha" size="401729" crc="a7b7cf7b" md5="d44f6de5e35eafbbee39b79b7072ab3c" sha1="dfc966bdd0064afdcbb1bec8666241cd317595e9"/>
+		<rom name="NickFaldosChampionshipGolf_BETA_JST.lha" size="756216" crc="3aec8ec9" md5="de89b4b83b369eb6a7b702009da99c5e" sha1="09022569ea19cee262350ed4921d94604c839fe4"/>
+		<rom name="Nicky2_v1.0_JST.lha" size="663164" crc="f5e55aee" md5="df0b84a4c5e5775e4fe7034935b91305" sha1="ebc7e51430fc987ab64997f50160918cbd28acdd"/>
+		<rom name="NickyBoom_v1.1_1516_JST.lha" size="714755" crc="46540444" md5="bdd85d4c74d9b76775ba7ccc66d6449b" sha1="90187ebf922a31df20f69131f1f843ec12e4cba3"/>
+		<rom name="NightbreedMovie_v1.1_JST.lha" size="994466" crc="6dadc984" md5="d5379a5803db5de725fb6c65f2bfbda2" sha1="e87d8159df82aefa492a186c285a3b3da0ae5e3c"/>
+		<rom name="NightHunter_v1.0_JST.lha" size="343635" crc="a651c34d" md5="99b2da3b9ab2df632f44fa9cdc7379aa" sha1="819d6be494705114d30fa537383e081461e431ec"/>
+		<rom name="NightShift_v1.0_JST.lha" size="375433" crc="4f890c88" md5="86fcd71792e851c8a7465571263df98a" sha1="52c16fbcceeb550ef6329238552d986e0e93f239"/>
+		<rom name="NinjaRabbits_v1.0_JST.lha" size="401845" crc="6f3cb10e" md5="0657f08be9f088e594e289182b986a4e" sha1="2119e5ea301d78f0e8b75906be3be561d2b3c74a"/>
+		<rom name="NinjaSpirit_v1.1_JST.lha" size="554303" crc="09ab05ce" md5="ca6f3ea3a4aed97e09ba1e9e70ea4af4" sha1="533312c1184fe4bf61b710b47cdcc4d05edacf4f"/>
+		<rom name="NoSecondPrize_v0.9_JST.lha" size="752553" crc="cc922d6c" md5="a15ef0825e846f2c96477fedda52790c" sha1="25885766c8628590724e3f5e6e82d2c1c5a97c0f"/>
+		<rom name="Nucleus_v1.0_JST.lha" size="278805" crc="b9bae3a7" md5="0bd1df5343018501643bef8b9b9fd31e" sha1="fe16cdd3f37f96de766b728d803705e1e238fcd3"/>
+	</machine>
+	<machine name="O">
+		<description>O</description>
+		<rom name="OhNoMoreLemmings_v1.6_0697_JST.lha" size="605642" crc="c88381d8" md5="c065fead0951953dc412b54294e40bf0" sha1="79d3a893245ba3314bc731359981742df118599f"/>
+		<rom name="OneStepBeyond_v1.1_JST.lha" size="1563823" crc="7078cc1f" md5="18e258aaf8276ac09ff60cca0f979cd5" sha1="ad334c4eba0dc14bc2c601b992d649c5b84cc6d1"/>
+		<rom name="OperationStealth_1052_JST.lha" size="2092115" crc="d42e50ff" md5="47cc1ee4fac4c19c893900da74f7026a" sha1="2b24a5ae1c86ad335d08e2a62ab2f1df1b7720a9"/>
+		<rom name="OperationWolf_v1.1_JST.lha" size="975803" crc="4f1fbc1d" md5="e8ae6491067e9ed5331b23f2112de62d" sha1="3dddad2c03069e3c3e9ad20843fc70bb8db8c1c7"/>
+		<rom name="Ork_v1.1d_JST.lha" size="1180986" crc="5becd61f" md5="8e9a50b4100af2ea937e76a82c3650e2" sha1="5822945adeece61631719ffce8f378fdc034c212"/>
+		<rom name="Oscar_v1.1_CD32_JST.lha" size="2000803" crc="5b3a8ddc" md5="0bb418787a9f694bed1f15a072985f00" sha1="e0d91deb9d63574e912529c174167e3321832967"/>
+		<rom name="Overdrive_v1.3_1149_JST.lha" size="1909642" crc="8a9105d5" md5="a2c88263c111d96b74ac97e39a611274" sha1="f2bbe0e47e0f3cace2c2902b705d22c0945683e0"/>
+		<rom name="Overkill_v1.1_AGA_JST.lha" size="955037" crc="2c5dba74" md5="32705fe2dad7de68f067eb48ac6797fa" sha1="b1f164067617ccbacf0231e7a12b3c20d5c5cb36"/>
+	</machine>
+	<machine name="P">
+		<description>P</description>
+		<rom name="P47Thunderbolt_v1.2_JST.lha" size="385412" crc="8f11029c" md5="a2149c0d84cd7f97373f654c28c172db" sha1="b4600e2106c17477e7aed3499b1d33e905b2683b"/>
+		<rom name="PacLand_v1.0_JST.lha" size="122203" crc="82be256b" md5="0a29d892cbcfe255704899860d9b2c15" sha1="00e46a340f797f38811de5b45845da9c4c7b867d"/>
+		<rom name="PacMania_v1.0_JST.lha" size="306400" crc="0aa6aaf2" md5="d0684f33d324eddb956ada2530b78f6d" sha1="d1d417a23c71120ff6342e194ee986bae269133e"/>
+		<rom name="Paperboy_v1.0_JST.lha" size="344005" crc="d65bd9ff" md5="af0ef3f91bd2e3e53111cf3066c97f08" sha1="16faea652830deabe83547dcb90255b955224326"/>
+		<rom name="PGAEuropeanTour_v2.0_AGA_2435_JST.lha" size="969412" crc="6fd79c93" md5="39627d9773a3de4614694f7a23125985" sha1="92636038f13430480657c51a226fd159682b4611"/>
+		<rom name="PierreLeChefIsOutToLunch_v1.2_AGA_JST.lha" size="1335613" crc="575f6dc7" md5="0b87b7aa258e7a192356f6cfad986c1d" sha1="f38fc347159ad0f8e67b4f855e3d9c1611d641ab"/>
+		<rom name="PinballDreams_v1.2c_0377_JST.lha" size="1172419" crc="ebcfcc65" md5="b9932d53cf6b87bfb234a6526ded420c" sha1="1dd57ece590b8c8629aa0346e8d16d5eda773a68"/>
+		<rom name="PinballIllusions_v1.0_AGA_0710_JST.lha" size="3044872" crc="2c3a800b" md5="5aaffb7cf8f959817fd434b5b363a775" sha1="01ac94be718634d2ab9568fc3684fd182ff5e42a"/>
+		<rom name="PipeMania_v1.2_0220_JST.lha" size="197753" crc="0b500ff5" md5="a2c31161f98d23fc42866a4a8b08d1e8" sha1="045ead172100e48ce0dca11207d072527d73d8d1"/>
+		<rom name="Platoon_v1.1_JST.lha" size="459296" crc="c8f91629" md5="e7993a7687d8354396e18b87616d3a78" sha1="1a4bc849d03633fdb1a1b9ea1a3e07c4d3a78ddf"/>
+		<rom name="PowerDrift_v1.0_JST.lha" size="560722" crc="db68a248" md5="5024862db13a58e0b849e1092218b9fd" sha1="659fe04167819a18534b2bc5b7a82acb439e8394"/>
+		<rom name="Powerstyx_v1.1_JST.lha" size="473653" crc="ab699502" md5="af95d0faa6d5346dc3a372835fcbbd2f" sha1="c60fbefc61aa841b98942f3b5c2fea7392df1210"/>
+		<rom name="Predator2_v1.0_JST.lha" size="1237492" crc="1fb48f7a" md5="401edc71858166d46bec3700701316ba" sha1="0592fb8ec74436a209b07f6b9831536a22689215"/>
+		<rom name="Premiere_v1.2_1553_JST.lha" size="2457823" crc="c16a23e5" md5="da733087e7007cc6770750acde381b5f" sha1="f8350332bc864b656df55f98184135f46dc72742"/>
+		<rom name="Premiere_v1.2_CD32_JST.lha" size="2458092" crc="c2a5918c" md5="0162424cc036df380219a3485e290713" sha1="cb3ca21b871b21cdef9cb2fefef98c4ff251c455"/>
+		<rom name="PrimalRage_v1.0_AGA_JST.lha" size="3157370" crc="1f6bfa2e" md5="144aa80ad7c6ae1f2bc75108d98d3798" sha1="4c1b2f6e947660e191bbc21e2bae99bb1b92b59f"/>
+		<rom name="PrimeMover_v0.9_0694_JST.lha" size="1327532" crc="5c256d11" md5="ea751e362c3e4aefe9d41beaf49b7643" sha1="54a8430716d4d859fed19d7a2355d0efcbb96689"/>
+		<rom name="PrinceOfPersia_v1.1e_1823_JST.lha" size="324256" crc="d9348faf" md5="ebfcd0eb9f785dd91393530a897eb0aa" sha1="05b047963957105db82e7e0d667f0b4bfad83c47"/>
+		<rom name="PrinceOfPersia_v1.1e_NTSC_1407_JST.lha" size="323015" crc="abbdd8cc" md5="fcf488f156f6344ce9a8979075793c9a" sha1="3042beab1fe85055fc88164518f325c93cb64e6f"/>
+		<rom name="ProjectX_v1.4_JST.lha" size="3218800" crc="3de5a43a" md5="6a3beeea538cb4ebbdcac5da593cbd8d" sha1="2cc8516e323a287c485022b7a0b76018c25cb257"/>
+		<rom name="ProjectXSE93_v3.0_0927_JST.lha" size="2778996" crc="8548cee0" md5="6764982242061bea41d2e4b4c5ca68b5" sha1="c52b819a05710df0932997c9fd259c4315efda44"/>
+		<rom name="ProPowerBoat&amp;PubTrivia_v1.2_JST.lha" size="583941" crc="0e40438b" md5="d4a146ef9343317c736f1f3abf1490d2" sha1="502a2c578160ba544c6ca9129472e7faae4f8474"/>
+		<rom name="ProTennisTour2_v1.0_3077_JST.lha" size="628380" crc="e39eb524" md5="88ee0e540ce467f737ee2c90692971f3" sha1="ea798fd556b2b41cc493cdbf20a315e32bcf4d6f"/>
+		<rom name="Puggsy_v1.0_1113_JST.lha" size="2166860" crc="4839cd67" md5="a2ab425f549b85578521d999f5cc10ae" sha1="d39e81bc223ce6690a6b50b8bf3133248e944565"/>
+		<rom name="Puzznic_v1.2_0041_JST.lha" size="119056" crc="0ec6d81f" md5="cf8c956eb81088f2003673aac0044e26" sha1="bc72cd5adba69f36a09601953dbed4dda6c05221"/>
+		<rom name="Pyramax_v1.0_JST.lha" size="407251" crc="1ff6be13" md5="b2381833b8148dc1fd1accdf4e06bd2d" sha1="e87e5733590947ce092178c30fbe25ea738ce6dd"/>
+	</machine>
+	<machine name="Q">
+		<description>Q</description>
+		<rom name="QBic_JST.lha" size="200087" crc="a185b8f8" md5="257c4aa6501dd59ad5c46f3a5a4bbc2b" sha1="7ab43e0f627a1006709161d5ff4f9fffa76b19c8"/>
+		<rom name="Qix_v1.0_NTSC_JST.lha" size="186806" crc="fc50d922" md5="efd9e12f9d7fead22f4ba4df4bbdbf81" sha1="533c7c369735e3b1b738850afb2bf4ce07a55275"/>
+		<rom name="QuestOfAgravain_v1.0_JST.lha" size="319118" crc="d3dfba23" md5="9fbc80536e0e43ab1288c4fae48e0987" sha1="f32cf40bc69f3774b2e928bde99e794d2fc31f2b"/>
+		<rom name="Qwak_v1.0_CD32_JST.lha" size="332926" crc="295a9039" md5="83f63ef9f91a03c5b64469cbe58c1b69" sha1="27049c666cfe2a844e76113a0ea7961b13828d0c"/>
+		<rom name="Qwak_v1.3c_JST.lha" size="370144" crc="9e954b3b" md5="309b5ce3493c1ae18583f184775ffc68" sha1="f73b371e9cfef6b6ab69966c0af258fb8dd08c56"/>
+	</machine>
+	<machine name="R">
+		<description>R</description>
+		<rom name="RainbowIslands_v1.1_JST.lha" size="309706" crc="e3d2e3d3" md5="d50abc27016355cff9fde81ca7b373a7" sha1="3660ddcbfcab65c8cce47947b0aebad9faebec5e"/>
+		<rom name="Rampage_v2.0_JST.lha" size="281696" crc="eedbb368" md5="c69d46bf09ef64a5bfa5ae54b163ac58" sha1="e1c92f8b4d3560a6bdde211e66773aa6c49dc362"/>
+		<rom name="RealGhostbusters_v1.0b_Files_JST.lha" size="465044" crc="3c8fcc8b" md5="aa5251ab4b83377e3ef6153f3d12e1b8" sha1="ba2d3866c0800e562e79524cbf0468378eba9073"/>
+		<rom name="RealGhostbusters_v1.0b_Image_JST.lha" size="385852" crc="e6da8df5" md5="9c086971fcf1d14cbe04a9f6abe894cf" sha1="cb35851043ebb651e1738f1ee1f75f3e5785bedc"/>
+		<rom name="RickDangerous2_v1.1_Files_JST.lha" size="295811" crc="1934bdfd" md5="7eafa73178d29a0553311a6dcd4c97bd" sha1="ae88d3fd1494139d2075059620e8ee6b70b69895"/>
+		<rom name="RickDangerous2_v1.1_Image_JST.lha" size="544660" crc="9d7332c1" md5="cc20e77f4762d577a084f79eb8a959f0" sha1="2dd0ab73e4a5948380f7c00a5e805567bf93caba"/>
+		<rom name="RickDangerous_v1.5_JST.lha" size="315970" crc="d22b8186" md5="e14cc8cae968e97def9bcffd3acc3545" sha1="fad12baf5583d44b94012ddb4f4fee14848fcecb"/>
+		<rom name="RiskyWoods_v1.0a_0571_JST.lha" size="1108043" crc="1a2b0271" md5="0985d1620b4d021bc2232fd427ca154a" sha1="45917dd5befb84bcc8a49a34cc700663eea1b063"/>
+		<rom name="RoadRash_v1.2_1313_JST.lha" size="1271750" crc="95ef1be6" md5="6687f3972e684bfb437cef2386102225" sha1="a98ace1ad9a69a5d471c4aec14b8bca8062bf7d7"/>
+		<rom name="RobinHoodLegendQuest_v1.0_JST.lha" size="179454" crc="329bad17" md5="c24c1b94be11f0be7945f186e74b78cb" sha1="385a9f7f20d10bf945067638aae119bcbb900bf2"/>
+		<rom name="RodLand_v1.2_1509_JST.lha" size="682817" crc="2a999a43" md5="b63d0d1bc56e618c685ceaa556500704" sha1="a34ded8d34ba14e08f6a08d09571037ecc113eb4"/>
+		<rom name="RollingRonny_v1.1_JST.lha" size="786593" crc="36aa118a" md5="5399bc950c32d13339c1a9ac01b3745a" sha1="65ae12974ad7f6efe4e8bc89d400ea3532073267"/>
+		<rom name="RollingThunder_v1.0_JST.lha" size="135522" crc="efd21baa" md5="af263a5cf14408a8feb4cf8fa830deac" sha1="a0e15c06fcdd1bad49809b000d8745f257ddfd6f"/>
+		<rom name="RType2_v1.0b_2065_JST.lha" size="578808" crc="c23c605d" md5="7f606d23275d3a925c010d50d3bfa606" sha1="b0d0a4087b99dff63efcc2c55ed63aa283a81678"/>
+		<rom name="RuffNTumble_v1.2_0199_JST.lha" size="1523983" crc="4d9c8e12" md5="d15ffb7c80599ea5759ee3f55da2fcff" sha1="430b79b6ce7a1f914fee0a789a809e08ca33fbb3"/>
+		<rom name="RVFHonda_v1.0_JST.lha" size="606607" crc="833403b0" md5="235a5257581a3c49e4b3dc78b9d3cd22" sha1="16d7af3a59568e5f6105755cfc74479ec68e0f1a"/>
+	</machine>
+	<machine name="S">
+		<description>S</description>
+		<rom name="SantasXmasCaper_v1.0_JST.lha" size="374726" crc="affd01cb" md5="5c39d251b8f96daf08407ff1873c45aa" sha1="2c485dea9d3214e914569bf553ddff644193bc40"/>
+		<rom name="Satan_v1.0_JST.lha" size="605769" crc="48098d9a" md5="6d1af9b64f204e93d0f49845dfff1763" sha1="6f82011d28b5b3d92bbcb3ba83fe9e27abf6096b"/>
+		<rom name="Savage_v1.0_JST.lha" size="800051" crc="65ba35aa" md5="e42d1641207a7951bfe8cc5ae10fbef2" sha1="422ed4e5b5ac11909e6aa4aeb5773407c079b15f"/>
+		<rom name="SecretOfMonkeyIsland_v1.2_1625_JST.lha" size="2103630" crc="c7aeedb3" md5="5b7a7e0ebefad86e1e1eccd2f299aff5" sha1="c52d8833d343ca1dd01c602c6faa512cfcfac905"/>
+		<rom name="SecretOfMonkeyIsland_v1.2_De_0359_JST.lha" size="2060209" crc="3f22f4c8" md5="7e084b2ba070a95e3b10fda71e5fda31" sha1="7b8bb13ee831ad815545f262056ce66fdb3cd735"/>
+		<rom name="SecretOfMonkeyIsland_v1.2_Es_JST.lha" size="2056546" crc="18a13182" md5="87b79176f5b7a61a4f67704debf6f892" sha1="14b325cbd4fec154162a7916fb751daecde60f49"/>
+		<rom name="SecretOfMonkeyIsland_v1.2_Fr_1750_JST.lha" size="1996347" crc="c26f6755" md5="8bad2ec647fa5e99286aa0da31e2e5e5" sha1="12758224ed011b4fb07569a03f2c310979767754"/>
+		<rom name="SecretOfMonkeyIsland_v1.2_It_JST.lha" size="2055968" crc="5c96b9a2" md5="3f18b290db3319f6c2f77def24cd6f35" sha1="f10a6df4ea6812ef06d05cfd3ac7093fbfdda374"/>
+		<rom name="SensibleGolf_v1.4b_0200_JST.lha" size="1168112" crc="0b90c82a" md5="bf231dfea9fe0305639ff9f6afe12aca" sha1="bc96d38fc524c2703ee70dd817d388711502e1fa"/>
+		<rom name="SensibleSoccer_v2.1_CD32_JST.lha" size="574794" crc="bd949e88" md5="8755c9a5810c6331a4111e0e9c41359a" sha1="7caa12e1bf7fdf2e85ca810fb87b20f53df98204"/>
+		<rom name="SensibleWorldOfSoccer9596_v2.0_1755_JST.lha" size="1544294" crc="66b6c21a" md5="bf0a015d89c2d43c192d740ff20fa753" sha1="4cc808c5a1f1ad9cdfbc21860c90a9be5285b928"/>
+		<rom name="SensibleWorldOfSoccer9596EuropeanChampions_v2.0_1825_JST.lha" size="1545562" crc="eed5654b" md5="bf62a2e123d16e312929f0f7ed0de112" sha1="545d00e556dc337467bd5a0fcb6b2e84cea32978"/>
+		<rom name="SensibleWorldOfSoccer_v2.0_0840_JST.lha" size="1539729" crc="3ae47f0d" md5="5a83ca963840ec896be3c495f81c196c" sha1="ecdb3113fb584e41c9e0b129e413c391072506ce"/>
+		<rom name="Settlers_v1.0_0143_JST.lha" size="1935027" crc="ade1ebe6" md5="78b422ba9809cf8a3f91603952c05cb0" sha1="eac25759e1c9e29a6f75937412a45c9eea4c7d06"/>
+		<rom name="SevenGatesOfJambala_v1.0_JST.lha" size="670547" crc="de4b6380" md5="bb1491e3808f116e7a466dcda8bb6e41" sha1="bd8611cdb7d735262dc3140651b3993a3147612e"/>
+		<rom name="ShadowFighter_v1.1_CD32_JST.lha" size="4355992" crc="9ffa2c0b" md5="64622637a3768a21c7a1b7a42e4d2a5c" sha1="496526eb829fac5ae20ecf3d16b0f5a80f955108"/>
+		<rom name="ShadowFighter_v1.2a_1630_JST.lha" size="3221363" crc="a14a86df" md5="adeeeecc8220bd83e45463d03cb90a68" sha1="2a28eb096bf606e75d6a3062584452941a0d3654"/>
+		<rom name="ShadowOfTheBeast3_v1.3_0016_JST.lha" size="1452688" crc="12d446bc" md5="db925bb0dd155da92c2a5df725c92b42" sha1="5f3918b6f85dfcb39b30cf65a22e51abd0114105"/>
+		<rom name="ShadowOfTheBeast3_v1.3_NTSC_1176_JST.lha" size="1453047" crc="420967b6" md5="81aa976f870bec1234dcb79c4913a410" sha1="a9faedcc34464972334c81464da5220f887d6305"/>
+		<rom name="ShaqFu_v1.0_AGA_1761_JST.lha" size="4236320" crc="cd1fbdc6" md5="fba5ea81cd14b0c04607126b5d11245a" sha1="26fe5ac8f3019fa679025972271f23c558d0a089"/>
+		<rom name="ShaqFu_v1.0_JST.lha" size="4138551" crc="5650359b" md5="07a2189887f45018a7b66afe95b70717" sha1="8addabc6541c2572146ae1f778ed46481b0caa2c"/>
+		<rom name="ShermanM4_v1.0_JST.lha" size="282487" crc="8cb86997" md5="9cf2f28f472602c7760c0884393cc0f8" sha1="92757ef4926de3cb21ecce4bd863927eaa08ff3d"/>
+		<rom name="Silkworm_v1.4_JST.lha" size="235881" crc="acfcaeab" md5="7e795269cfb38d0e2f93e74d98fdb4cc" sha1="56cf3c005eceb104d0c4f66e1ce8868215ad570d"/>
+		<rom name="Sixiang_v1.0_JST.lha" size="192900" crc="1b2f2e40" md5="9e7ac8feaa95ffc2c16dd361659dbd9c" sha1="faa9c15d664943a4a19f45720d589adc5e006aaf"/>
+		<rom name="SkeletonKrew_v1.0_AGA_JST.lha" size="2030395" crc="9de5c3f6" md5="ce0075f1f14859c0bb681a64ccafe4e2" sha1="c3093b2dc3b8f3a242acbc1316ef7508330c45ec"/>
+		<rom name="SkeletonKrew_v1.2_CD32_JST.lha" size="1851334" crc="1a57b457" md5="099b0bcada6717ae12a5bc206c0f3426" sha1="fab5ab706cce3ea73278e6fce993d15cd4a73c10"/>
+		<rom name="Skidz_v1.0_JST.lha" size="676631" crc="b46e2231" md5="bf607d00636209e9f2f21760e7a8d30e" sha1="e4dd738cee8df8850aadb03a24bb97a28d2ac64a"/>
+		<rom name="Skull&amp;Crossbones_v1.1_JST.lha" size="639141" crc="504ff024" md5="428d3ff2e8e659b6bcf2cd54bea4f0fe" sha1="12d85808b09b38cb0cdea4954d30335143310849"/>
+		<rom name="SlamTilt_v2.2_AGA_1151_JST.lha" size="3689092" crc="4a383548" md5="49d8f179d533480375cc48cbc22b5b22" sha1="d7118f4c6b00b55d46db72bf271a0df16a5eec1a"/>
+		<rom name="Sleepwalker_v1.1_AGA_0577_JST.lha" size="3401316" crc="5475e549" md5="56df9f4d2468eed83053db388a90324d" sha1="3b6b531960971ae7900a8465cdb7b8dad82cc391"/>
+		<rom name="SlightlyMagic_v1.0b_JST.lha" size="616075" crc="f439694a" md5="1eef8d3e8663c52ae6ee93135a90ba37" sha1="dedc6d1e5c4184c7a79367e0ea1115801cc7c1bd"/>
+		<rom name="SmashTV_v0.8_JST.lha" size="682586" crc="2a9f7743" md5="69c6c17b1e8dbe2463cd8b17a8763afa" sha1="c9ac2c2e20d59812761a02b327226f0eafb8dce6"/>
+		<rom name="SnoopyAndPeanuts_v1.1_JST.lha" size="193234" crc="88c93755" md5="0d953f8e77efa691e2b33801a880225f" sha1="6c5407b1fe68fd9b1a720f11d56345d42ee2896d"/>
+		<rom name="Sooty&amp;Sweep_v1.0_JST.lha" size="260614" crc="e32da2f6" md5="d8df6a32aadcb333c35edcae284a3e88" sha1="ab2b2dca70b618ae56218394292fa63ff2c8c545"/>
+		<rom name="SpaceCrusade&amp;TheVoyageBeyond_v2.0_1535_JST.lha" size="1645802" crc="12e61323" md5="30858066b5d7cf4cbc36d14888a1e94e" sha1="c385758ac3cf3ad1096371737e09e3d2aadea469"/>
+		<rom name="SpaceCrusade_v2.0_1535_JST.lha" size="915873" crc="b0ab26a1" md5="6e31ed60c3dcfa553aea03d7e0d640bc" sha1="6cfef2adf028f27a15e930f39e73e9357ebe31e6"/>
+		<rom name="SpaceGun_v1.0_JST.lha" size="1559718" crc="0970619d" md5="c96cd34abda71af6f8ef15610758f5e6" sha1="df59c2c91525de84f65216a085bdf5199d7f47b1"/>
+		<rom name="SpaceHulk_v1.2_1279_JST.lha" size="2084149" crc="b0533f43" md5="3c0aefc01a76b983205e9764e493d5d2" sha1="866b08436eb6140480868b549118970a0a0d1dde"/>
+		<rom name="Speedball2_v1.4_1876_JST.lha" size="639334" crc="56ef4f27" md5="b22f466728ac9721a2df4abab80d646c" sha1="912a9b9c96ae58e214551597c7fe69f50ce65790"/>
+		<rom name="Speedball2_v1.4_CD32_JST.lha" size="710977" crc="27384a3a" md5="ff7b0ed76f181ea4d3d55ec04e025dc1" sha1="bde31960c87d4017dfdea6027f15c84b727e431a"/>
+		<rom name="Speedball_v2.1_0086_JST.lha" size="265553" crc="d363a585" md5="61929f43355b3e611ab3d9b044a594a9" sha1="b39b5a18c758cdcb0f55e34d2fc58711ac657899"/>
+		<rom name="SpeedBuggy_v1.1_JST.lha" size="191291" crc="ac3e26be" md5="1c3dab59d1e5fe5413e85062da5dd22e" sha1="2e05ddc85843d7b58155da62ae25fa982300db4f"/>
+		<rom name="Spellbound_v1.0_JST.lha" size="809474" crc="0d27d48f" md5="3b0d478459bc522f07d25e39fc87d944" sha1="3e6e0c82ba45d851edcd07b81664143c69665f40"/>
+		<rom name="SpellfireTheSorcerer_v1.0_JST.lha" size="230042" crc="9ee72984" md5="8de738b0caf3ac239402264bb21cfc6a" sha1="57374bfce52148465f164ac32d529a619f4c3267"/>
+		<rom name="SperisLegacy_v1.0_AGA_JST.lha" size="3000468" crc="02857ff3" md5="694f79b809a9039764bd6a5a2f3e1f28" sha1="0a11b306b6b776f902633b028b6d1b8f380427f5"/>
+		<rom name="SpindizzyWorlds_v1.1_JST.lha" size="428595" crc="592f410a" md5="bfe213ba16c1f74d72e88d0361577f8d" sha1="a7354e2bb25fe792d61bc25bf8753950623b7169"/>
+		<rom name="StarRay_v2.0_1721_JST.lha" size="547640" crc="acc7a359" md5="38863611062c91cf1b1666b13673d72d" sha1="06dbc3f2729d0d039e65692f7fc94152b5af0eee"/>
+		<rom name="Stormball_v1.2b_JST.lha" size="442316" crc="ea52e02e" md5="8469c6a09d3919995bce104c269185f2" sha1="a85e1d13c2c5760af6663919ddd9fdd5d210add7"/>
+		<rom name="Stormlord_v1.1_JST.lha" size="433047" crc="c2d4e3b3" md5="c7dd2429da9ccbd1a1e9d5eb7d0adb50" sha1="7ccdd5f9f859a6fc3349c0134d6372e51acc1def"/>
+		<rom name="StreetFighter2_v1.2_JST.lha" size="2330035" crc="62bb1226" md5="b8dc364588019b53c125142c20f1f731" sha1="0bc34c2712f5ac00398f1b45a84498addb70153a"/>
+		<rom name="StreetRacer_v1.2_CD32_JST.lha" size="737375" crc="028b5aec" md5="3ef86cb01f1f3ff89a77dd218d69b16d" sha1="0e055b6b9b7d206abc6cd6dd2ce0dc5a4c906c3b"/>
+		<rom name="Strider2_v1.0_JST.lha" size="315768" crc="31efe3e2" md5="4f18e7deeec0afa45edede17ed2ee860" sha1="62043869ec69b3f09a87c20e54c3cb7d52d891e0"/>
+		<rom name="Strider_v1.1_1224_JST.lha" size="404706" crc="9cb7ab9a" md5="17fd34315e0bc41e68649d5d96aac6e6" sha1="3e4da0009ed5fcb541b84d3fb919fe6946b673a1"/>
+		<rom name="Stryx_v1.1_JST.lha" size="770384" crc="cf2f6635" md5="a3ea4d3fec5d337f45431c595bfa5d02" sha1="fba29f3a84319439142d9be5470990cbc7fc6f89"/>
+		<rom name="StuntTrackRacer_v1.0b_JST.lha" size="517247" crc="df271e56" md5="c9c5eeb968c43410eb13768cb90d3ef4" sha1="4c628c983d2b6e690a16c2aa662ae3b73d4fffce"/>
+		<rom name="SuburbanCommando_v1.0_Sci-Fi_Collection_JST.lha" size="613517" crc="bbf8de83" md5="8689c723825282a6bb34d72fd05360eb" sha1="01dd1aaf542b883a8bb1362aa40391639a0e107f"/>
+		<rom name="SuperCars2_v1.2_0224_JST.lha" size="1783137" crc="35d93cb0" md5="46ee44b34045b7174109d32d27794f52" sha1="9a7fa8a12e7d3d3267f07b0e44485650fbf76b27"/>
+		<rom name="SuperCars_v1.1_1527_JST.lha" size="1169224" crc="e41e300f" md5="d211b41fbdd18a7430468cfdad7936a7" sha1="fd05814ee564cd839bde6b9fb4cb8abe669e0331"/>
+		<rom name="Superfrog_v1.0_CD32_JST.lha" size="3474563" crc="1a7f5018" md5="0aa79358c9703a174c830906781d0a76" sha1="a6e0a0114d97b58dd3787678fce7d62e9c74fd9c"/>
+		<rom name="Superfrog_v1.4_0035_JST.lha" size="2760348" crc="3cb6f8f4" md5="310e76cffe67669f48e321a483b0c344" sha1="c967c4f03f1a9c8cec0eef89ec15ef6395a30ae4"/>
+		<rom name="SuperSpaceInvaders_v1.1_JST.lha" size="1527987" crc="1b2aa859" md5="1c721e52e5b2ac84f161a4b48f4a0390" sha1="c45400bfc6d086ebba715cb166f73bb89664c35a"/>
+		<rom name="SuperStardust_v1.0_AGA_JST.lha" size="4335555" crc="7206123b" md5="d29a0efd352430bf895ae0fa2994221e" sha1="8c88cf891d58e737bedeb0476f6c5f67dc3b3f0f"/>
+		<rom name="SuperStardust_v1.0_CD32_JST.lha" size="16696224" crc="294acde3" md5="0febb79563edc0f92477ad26b6d30ce8" sha1="15046f10505ea063207013daaa10a8371b917587"/>
+		<rom name="Switchblade2_v1.0a_1725_JST.lha" size="846386" crc="caa4e116" md5="1eca75ae140156e2a1718b39fa3966b4" sha1="a38fb191f206eb451f28313dc97c23bcf4e311a3"/>
+		<rom name="Switchblade_v1.0_JST.lha" size="183179" crc="a16ba3b4" md5="916dfaff77e8aee0e8b51a1a606fda11" sha1="02fde9aca17b7a799d9aa3efd56e4b23e222dd6f"/>
+	</machine>
+	<machine name="T">
+		<description>T</description>
+		<rom name="Terminator2_v1.1_JST.lha" size="1436558" crc="c3aab08f" md5="0cd281eefab48292f1cd6a959ebee853" sha1="d93c29601505d69ffea7b62caca07baecb013f0f"/>
+		<rom name="TheatreOfDeath_v1.0_0254_JST.lha" size="1087604" crc="3e946d1d" md5="4db2c30564bc2e2d044c5cdf25625caf" sha1="cafe7114e50dd8d307657a1e246152040cd57553"/>
+		<rom name="ThemeParkMystery_v1.2_JST.lha" size="379663" crc="3c636a36" md5="19fcb4f1817e2510a4294e22fb7d7a3b" sha1="01eea50de8def47642c2ec496c239ceb5de0b758"/>
+		<rom name="ThemeParkMystery_v1.2_NTSC_JST.lha" size="409417" crc="fce4d001" md5="c51302b8758f3353bfc010d00a45f49e" sha1="5a02e54ed7bcc935917933364bfc2020dea643a1"/>
+		<rom name="ThomasTheTankEngine2_v1.0_JST.lha" size="323747" crc="06223f94" md5="b3dde87eb4d5d12de7ac6d31445f592e" sha1="684eb843decd67c7eb5b0ec2814800b149c10035"/>
+		<rom name="TieBreak_BETA_JST.lha" size="413208" crc="c34e9a90" md5="d24dfcddea325a23fa7fa073e14fa709" sha1="e1551c9ff350230fd0bc99c6e9b2301428505d60"/>
+		<rom name="TigerRoad_v1.1_JST.lha" size="463173" crc="4898a2a6" md5="4bba7a88dfad3ca974ed9e0856dedc85" sha1="13f3a78fd6ec542c00c5632fcee879d7d9065014"/>
+		<rom name="TimeMachine_v1.0_JST.lha" size="498813" crc="694f750e" md5="7a747294bb3ec99842e9c3fa0c31c5f0" sha1="b613566de588fc9553b68660cac316cb1b82752c"/>
+		<rom name="TimeSoldier_v1.1_JST.lha" size="976632" crc="44652e6b" md5="114461c5b85512729f1632cf18d6cf20" sha1="0bb222c0d6be9451df418983c8dd33fdcbd31ba7"/>
+		<rom name="TitusTheFox_v2.1_0226_JST.lha" size="700564" crc="37a59de3" md5="a60a79bb75f38b0fe573ba439a5b26a4" sha1="4eb5240e8ea16f7bbcbd1fa67a33b683c0b1f013"/>
+		<rom name="Toki_v1.2_JST.lha" size="807195" crc="e015116a" md5="37576ad510ba65c7222162b144d87ef4" sha1="1762f7edad8ba6f2a60b6c6512f4d61749839021"/>
+		<rom name="Toobin_v1.1_JST.lha" size="362490" crc="0e704fc2" md5="0526617c92e1cf9d1819d94e11aab61b" sha1="01f4e690f43caf718dddf80659c0b48c35bc12eb"/>
+		<rom name="TorvakTheWarrior_v1.0_JST.lha" size="1150973" crc="5a6e6405" md5="09c0620ff353763f4796b0d656bb8adf" sha1="26db8a9f67cd1e6aeeeeaa7b146947ce21338e50"/>
+		<rom name="TotalEclipse_v1.0_JST.lha" size="332364" crc="345c959f" md5="b42937ac25e8e1c4edd9a5467f67ea52" sha1="8bde70031e7dc8ab895f86ff786e314332213658"/>
+		<rom name="TotalFootball_v1.0_JST.lha" size="1037281" crc="c6c8d749" md5="3aff9dfd0fd899bd0fb0b61b84513839" sha1="68dd918a493861eece4926204b6023a4dc10c5d2"/>
+		<rom name="TrapsNTreasures_v1.1_De_JST.lha" size="989168" crc="2a3ff665" md5="8aa6679699a0311aa233a52fbf306bae" sha1="249405519de155c0525b2439b773b5b5a93d22d0"/>
+		<rom name="TrapsNTreasures_v1.1_JST.lha" size="989484" crc="85e20b54" md5="bf4232bdedadd2108bf4034f93b55669" sha1="dcc161b28dfb44823bd85d913981e7a7169f7c47"/>
+		<rom name="TrexWarrior_v0.9_JST.lha" size="613886" crc="bb0575e7" md5="2b844eed54ccfe7809cc64faea54a2ff" sha1="468c33351cd748b6925d5c6be75c43be7c3ffeff"/>
+		<rom name="Troddlers_v1.0_0696_JST.lha" size="785434" crc="3ff4741b" md5="719df8ec15ac671181c06e3c70330590" sha1="cf11e3458ce2f2c80312dcd166b050924e396481"/>
+		<rom name="Trolls_v1.0_AGA_JST.lha" size="1704870" crc="a548e454" md5="197491feac0a62a46987764cc851e417" sha1="4b1e4cea7dede350d09ab61fea740d12635e838c"/>
+		<rom name="Trolls_v1.0_JST.lha" size="1454371" crc="f4b26c06" md5="193a1d354e40db79da3786c81b78ad40" sha1="e92a5df73a7872aae6cae974631243a814c1bead"/>
+		<rom name="Turrican2_v1.1_CDTV_JST.lha" size="1145636" crc="0de3be9a" md5="519618eea0141cd4569b89d699ed2e26" sha1="833a32326835894c013dadd22ca731ef781149c5"/>
+		<rom name="Turrican2_v1.1_JST.lha" size="1044045" crc="48efab38" md5="5c075a39d1ae60cc6bc30bff5250d391" sha1="29ff5179bb9b2f7824459f5e789ed0b22891d88d"/>
+		<rom name="Turrican_v1.0_JST.lha" size="845747" crc="f706a8ff" md5="7bd84aa1c3a364d0f35bf0764651e47a" sha1="025ccd780ec85466cd239661d24a83cdbce7a623"/>
+	</machine>
+	<machine name="U">
+		<description>U</description>
+		<rom name="UltimateBodyBlows_v1.0_CD32_JST.lha" size="5600504" crc="492a84ce" md5="d37b97e18173b9d59fe0ae9a10272349" sha1="77ac6251f0c54d1c442820a896dadb0d6863364f"/>
+		<rom name="UltimatePinballQuest_v1.0_JST.lha" size="2206674" crc="3d0d4708" md5="b8f2e210c0615bb084252053e1349aac" sha1="8b6d8521f49bc3469fb61420ea6aaba52511fca1"/>
+		<rom name="UnderPressure_v0.9_JST.lha" size="838744" crc="372bd177" md5="9e7774e2930bbd6dda1176a3131932e4" sha1="0deb6486943c5f43a527f483a35439fef967b05c"/>
+		<rom name="Universe_v1.0_CD32_JST.lha" size="4353068" crc="4027361d" md5="7ad5661f4ac5cfde916d7fea3b9a7d8e" sha1="e2d7443ec7ea3da89e1c51f2ea1aae01529f6730"/>
+		<rom name="UNSquadron_v1.0_JST.lha" size="583031" crc="7598b428" md5="24c371fdca7cf21d6f62dd8c11312817" sha1="be26089d7dc37e0c51526b5275147541c73cc7a6"/>
+	</machine>
+	<machine name="V">
+		<description>V</description>
+		<rom name="Vaxine_v1.0_0747_JST.lha" size="241642" crc="9c73aa51" md5="81b286366d1f318d5e09852b51454be6" sha1="0910a74dd80e4d5c0d26f11d9fba73973be14bee"/>
+		<rom name="VectorChampionshipRun_v1.0_JST.lha" size="230970" crc="16c8978c" md5="fda246b4c1eadcb010cbf72bf1902d5e" sha1="f9459ccfccdb0eb99668fed6b99616126c8c8a34"/>
+		<rom name="Vindicators_v0.9_JST.lha" size="571291" crc="6077b61c" md5="a2c8b1000b21a1d3b3b6df797b962801" sha1="8c8de4c7b7e055c25f24745dbb5cf3ad7545ba06"/>
+	</machine>
+	<machine name="W">
+		<description>W</description>
+		<rom name="Walker_v1.2_0159_JST.lha" size="2065952" crc="6d5b9473" md5="823fe65e312b96e9aea0cae4bed5efd8" sha1="c47a1c52ea463f535ead8edf258ced8d61fede07"/>
+		<rom name="WarlockTheAvenger_v1.0b_JST.lha" size="453172" crc="57fc3590" md5="50fcbd0770243c526f268fc2e18d107e" sha1="62a665983b78ffcaaceb20d0b300c1f8027b5332"/>
+		<rom name="Wicked_v1.0_JST.lha" size="304002" crc="dae559b3" md5="2229dc34d97d12c5bb3b48ce847cc45a" sha1="9dc3d9f09c5642f59302e07f1e4b27e6234f921c"/>
+		<rom name="WinterOlympics_v1.0_JST.lha" size="2201458" crc="ae2ff448" md5="67819570dee6a641b5a84b9884709adc" sha1="4f5bf598bc2fbe1acbe6adba8c78df73bc7b9fcb"/>
+		<rom name="WizNLiz_v1.0b_JST.lha" size="1195262" crc="896ea101" md5="82fe7909f04b93870f60e4598a42ab1c" sha1="1a75927f0712fedd3645194ef559335862756333"/>
+		<rom name="Wolfchild_v1.0_JST.lha" size="1300358" crc="b3894af5" md5="19162611dcfad08abbbf04424730db26" sha1="ceb562535f2d489abc647d6766365478f5bb8bc4"/>
+		<rom name="WonderboyInMonsterland_v1.2_JST.lha" size="426766" crc="73e857ef" md5="f9fd0e1116303091e1da062fc6bf1d6e" sha1="81d5b3b1be6eb09bf8b470169a11bce26b36467b"/>
+		<rom name="WonderDog_v1.1_JST.lha" size="1317881" crc="49ac0525" md5="a5e6dc2da994aa5f97850a62e34bb02c" sha1="a16a7a396fd1be5c8226547ae56dcbc1a8aac401"/>
+		<rom name="WoodysWorld_v1.1b_JST.lha" size="1957183" crc="b2cb370e" md5="6a78735b50c06dffa6fd4aa3560d3d82" sha1="f796ddbba018d2fbffba899d615cbefc5b99f84b"/>
+		<rom name="Wreckers_v1.0_JST.lha" size="580874" crc="8136b38a" md5="fdb1a9062737bfc6517d1133c652fb25" sha1="af5509bf8723478084344926bb891916a014effe"/>
+		<rom name="WWFWrestleMania_v1.0_JST.lha" size="1071688" crc="9084b89b" md5="8a0fb3877b8e67f8d677cf68a9174685" sha1="a793391d92dbf61924d8f5296a9c172f0163df4a"/>
+	</machine>
+	<machine name="X">
+		<description>X</description>
+		<rom name="Xenon2_v1.3a_JST.lha" size="982885" crc="676127e5" md5="d3a41b5281c1df77077b456cb8a128ae" sha1="6f806ad40a4853aab5369efa266efaf257878f3e"/>
+		<rom name="Xenon_v0.9_JST.lha" size="280063" crc="ec1ac69e" md5="228903f7a0785bd6f09b7bd0e5062770" sha1="7bd808fd2038c81e00d09fe4394725ec28fa3ecb"/>
+		<rom name="XOut_v1.0_1Disk_1274_JST.lha" size="794425" crc="6a009f13" md5="397b8816bb8c22227aaabb8182660f13" sha1="6babf0a98f0cb7ddcdee92ad09fd1fa7279a967c"/>
+		<rom name="XOut_v1.0_2Disk_0412_JST.lha" size="786101" crc="1f21b915" md5="5e3137a7e377dc068f5a66eba7bf8c6e" sha1="405ec6effc0aa3175510c016161bd2a50a588b74"/>
+		<rom name="Xybots_v0.9_Files_JST.lha" size="327659" crc="5aef6e88" md5="d073826b08f157f62a9519236b0e152f" sha1="0a777b63b3ec3f5132bbbe7fadb349339052fdef"/>
+		<rom name="Xybots_v0.9_Image_JST.lha" size="325395" crc="2737e7ae" md5="e48f8653cbf7f61d05339b94d7405023" sha1="919395b926f21a50e0c446c53fbf0f8cac61e052"/>
+	</machine>
+	<machine name="Y">
+		<description>Y</description>
+		<rom name="YoJoe_v1.0_JST_0750.lha" size="1142952" crc="abaa366f" md5="4ec5292816aa896a3d4b386a0b12c008" sha1="7a1a3dc6029911c39e2e11d8eaa875b5539ca677"/>
+		<rom name="Yolanda_v1.0_JST.lha" size="201479" crc="1ce1b961" md5="36712e0ff04d2c5f4207cecc75423f52" sha1="ff5460f1a6514b5d99610d228523031c2f44667e"/>
+	</machine>
+	<machine name="Z">
+		<description>Z</description>
+		<rom name="Zarathrusta_v1.2_JST.lha" size="780937" crc="adb1d267" md5="a8f56271c225861219043c0eee88c066" sha1="12a41f54d2f4e343530dceb128d39015838d9da2"/>
+		<rom name="Zool2_v0.9_AGA_0415_JST.lha" size="1312370" crc="6ab56f08" md5="fa22d44cb66897f28a01d160d95567b9" sha1="aaeb772fe99ea9d4ac57cab35cf12421c09b0cfe"/>
+		<rom name="Zool_v1.1_CD32_JST.lha" size="5600379" crc="a04c9c76" md5="441086ecd8ee676b03d72c34bb337dbd" sha1="8b80a370e1839598825bc7f5bbccb416a9adea5b"/>
+		<rom name="Zool_v1.1a_AGA_1675_JST.lha" size="1451991" crc="e34cac3c" md5="8dda33cb789b32d3210efa2083456dbc" sha1="fc7ae55ee9bd456a55446bfabd5167edd29cb779"/>
+		<rom name="Zool_v1.5a_JST.lha" size="1211919" crc="dd4c0b65" md5="103dc3323d5f51fd6b8ee0c847b415f0" sha1="0e1aed09de59d27deca81c6d6caabefde4787d6a"/>
+		<rom name="ZOut_v2.0_0609_JST.lha" size="751824" crc="38e19871" md5="79af7dc5a183519ee62024b5d2a0969b" sha1="44c34aacadce75b4bcb732fd2674bca2db4b4ee4"/>
+		<rom name="Zynaps_v1.0_0879_JST.lha" size="286857" crc="56825035" md5="0e098d18208ae3505777d57439171f68" sha1="1f7f244e7a08ff072048d047f8f3d56eb85085ce"/>
+	</machine>
+</datafile>
