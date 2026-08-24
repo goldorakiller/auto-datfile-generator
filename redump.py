@@ -11,7 +11,8 @@ import requests
 URL_HOME      = "http://redump.org/"
 URL_DOWNLOADS = "http://redump.org/downloads/"
 XML_FILENAME  = "redump.xml"
-XML_URL       = f"https://github.com/{os.environ.get('GITHUB_REPOSITORY', 'goldorakiller/auto-datfile-generator')}/releases/latest/download/redump.zip"
+INDIVIDUAL_DIR = "redump"
+REPO          = os.environ.get("GITHUB_REPOSITORY", "goldorakiller/auto-datfile-generator")
 
 regex = {
     "datfile"  : r'<a href="/datfile/(.*?)">',
@@ -34,6 +35,11 @@ def update_XML():
 
     # zip file to store all DAT files
     zip_object = zipfile.ZipFile("redump.zip", "w", compression=zipfile.ZIP_DEFLATED, compresslevel=9)
+
+    # Dossier plat "redump/" : une copie individuelle de chaque dat, pour que
+    # le manifeste pointe directement dessus (raw.githubusercontent.com) au
+    # lieu d'obliger a telecharger tout le zip partage pour en extraire un seul.
+    os.makedirs(INDIVIDUAL_DIR, exist_ok=True)
 
     # clrmamepro XML file
     tag_clrmamepro = ET.Element("clrmamepro")
@@ -60,13 +66,14 @@ def update_XML():
         ET.SubElement(tag_datfile, "name").text = temp_name
         ET.SubElement(tag_datfile, "description").text = temp_name
 
-        # URL tag in XML
-        ET.SubElement(tag_datfile, "url").text = XML_URL
-
         # File tag in XML
         original_filename = re.findall(regex["filename"], content_header)[0]
         filename = f"{original_filename[:-4]}.dat"
         ET.SubElement(tag_datfile, "file").text = filename
+
+        # URL tag in XML : le fichier individuel directement (redump/<file>),
+        # pas le zip partage — evite tout telechargement+extraction cote client.
+        ET.SubElement(tag_datfile, "url").text = f"https://raw.githubusercontent.com/{REPO}/master/{INDIVIDUAL_DIR}/{filename}"
 
         # Author tag in XML
         ET.SubElement(tag_datfile, "author").text = "redump.org"
@@ -82,11 +89,16 @@ def update_XML():
             zipdata = BytesIO()
             zipdata.write(response.content)
             archive = zipfile.ZipFile(zipdata)
-            zip_object.writestr(datfile_name, archive.read(datfile_name))
+            datfile_bytes = archive.read(datfile_name)
+            zip_object.writestr(datfile_name, datfile_bytes)
         else:
             # add datfile to DB zip file
-            datfile = response.text
-            zip_object.writestr(datfile_name, datfile)
+            datfile_bytes = response.content
+            zip_object.writestr(datfile_name, datfile_bytes)
+
+        with open(os.path.join(INDIVIDUAL_DIR, datfile_name), "wb") as individual_file:
+            individual_file.write(datfile_bytes)
+
         print()
         sleep(5)
 

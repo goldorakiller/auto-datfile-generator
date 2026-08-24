@@ -54,7 +54,13 @@ def update_XML():
             f.write(chunk)
 
     repo = os.environ.get("GITHUB_REPOSITORY", "goldorakiller/auto-datfile-generator")
-    published_url = f"https://github.com/{repo}/releases/latest/download/{ZIP_FILENAME}"
+
+    # Dossier plat "tosec/" : une copie individuelle de chaque dat (a plat,
+    # meme si le zip officiel a des sous-dossiers par categorie), pour que le
+    # manifeste pointe directement dessus au lieu d'obliger a telecharger les
+    # ~100 Mo du pack complet pour en extraire un seul fichier.
+    individual_dir = "tosec"
+    os.makedirs(individual_dir, exist_ok=True)
 
     print("\nBuilding clrmamepro datfile ...\n")
     tag_clrmamepro = ET.Element("clrmamepro")
@@ -64,8 +70,15 @@ def update_XML():
             if not name.lower().endswith(".dat"):
                 continue
 
-            print(name)
-            display_name = name[:-4]  # sans l'extension .dat
+            # A plat : la seule partie qui compte cote consommateur (voir
+            # RetroBat.Dat/Catalog/Sources/TosecZipSource.cs) est le nom de
+            # fichier, jamais le chemin complet dans le zip.
+            file_name = os.path.basename(name)
+            print(file_name)
+            display_name = file_name[:-4]  # sans l'extension .dat
+
+            with archive.open(name) as entry, open(os.path.join(individual_dir, file_name), "wb") as out:
+                out.write(entry.read())
 
             tag_datfile = ET.SubElement(tag_clrmamepro, "datfile")
             # TOSEC ne date pas chaque dat individuellement (contrairement a
@@ -74,8 +87,8 @@ def update_XML():
             ET.SubElement(tag_datfile, "version").text = release_date
             ET.SubElement(tag_datfile, "name").text = display_name
             ET.SubElement(tag_datfile, "description").text = display_name
-            ET.SubElement(tag_datfile, "url").text = published_url
-            ET.SubElement(tag_datfile, "file").text = name
+            ET.SubElement(tag_datfile, "url").text = f"https://raw.githubusercontent.com/{repo}/master/{individual_dir}/{file_name}"
+            ET.SubElement(tag_datfile, "file").text = file_name
             ET.SubElement(tag_datfile, "author").text = "TOSEC"
             ET.SubElement(tag_datfile, "comment").text = "_"
 

@@ -115,6 +115,12 @@ for key, value in no_intro_type.items():
     if os.path.exists("index.txt"):
         os.remove("index.txt")
 
+    # Dossier plat "no-intro/" : une copie individuelle de chaque dat, pour
+    # que le manifeste puisse pointer directement dessus (raw.githubusercontent.com)
+    # au lieu d'obliger a telecharger tout le zip partage pour en extraire un seul.
+    individual_dir = os.path.join(dir_path, "no-intro")
+    os.makedirs(individual_dir, exist_ok=True)
+
     with zipfile.ZipFile(os.path.join(dir_path, archive_full), mode="w", compression=zipfile.ZIP_DEFLATED, compresslevel=9) as archive:
         target_folders = {"No-Intro", "Non-Redump", "Source Code", "Unofficial"}
         for f in os.listdir(dir_path):
@@ -126,6 +132,7 @@ for key, value in no_intro_type.items():
                         print("Adding to Archive: ", x)
                         filepath = os.path.join(target_dir, x)
                         archive.write(filepath, arcname=x)
+                        shutil.copy(filepath, os.path.join(individual_dir, x))
                         os.remove(filepath)
                 shutil.rmtree(target_dir, ignore_errors=True)
         dat_files = archive.namelist()
@@ -161,15 +168,16 @@ for key, value in no_intro_type.items():
         ET.SubElement(tag_datfile, "description").text = temp_name
         print(temp_name)
 
-        # URL tag in XML
-        repo = os.environ.get("GITHUB_REPOSITORY", "goldorakiller/auto-datfile-generator")
-        ET.SubElement(tag_datfile, "url").text = f"https://github.com/{repo}/releases/latest/download/{archive_name}"
-
         # File tag in XML
         file_name = dat
         file_name = f"{file_name[:-4]}.dat"
         ET.SubElement(tag_datfile, "file").text = file_name
         print(file_name)
+
+        # URL tag in XML : le fichier individuel directement (no-intro/<file>),
+        # pas le zip partage — evite tout telechargement+extraction cote client.
+        repo = os.environ.get("GITHUB_REPOSITORY", "goldorakiller/auto-datfile-generator")
+        ET.SubElement(tag_datfile, "url").text = f"https://raw.githubusercontent.com/{repo}/master/no-intro/{file_name}"
 
         # Author tag in XML
         ET.SubElement(tag_datfile, "author").text = "no-intro.org"

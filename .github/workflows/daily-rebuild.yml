@@ -11,6 +11,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v6
@@ -49,6 +51,21 @@ jobs:
         #- name: Download dats and generate profile.xml for dats.site
         #  if: ${{ ! cancelled() }}
         #  run: pipenv run python3 dats-site.py
+
+      - name: Commit and push individual dat files
+        # Publie chaque dat individuel (no-intro/, redump/, tosec/) dans le
+        # repo, pour que le manifeste XML puisse pointer dessus directement
+        # via raw.githubusercontent.com — le client (RBTools) n'a plus besoin
+        # de telecharger le zip complet pour en extraire un seul fichier.
+        # GITHUB_TOKEN ne redeclenche pas ce workflow (push sur "on: push") :
+        # pas de risque de boucle infinie.
+        if: ${{ ! cancelled() }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add no-intro redump tosec
+          git diff --staged --quiet || git commit -m "Update individual dat files"
+          git push
 
       - name: Create release
         if: ${{ ! cancelled() }}
