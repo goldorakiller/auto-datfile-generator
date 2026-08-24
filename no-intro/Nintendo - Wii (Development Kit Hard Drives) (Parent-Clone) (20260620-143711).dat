@@ -1,0 +1,1333 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
+	<header>
+		<id>423</id>
+		<name>Nintendo - Wii (Development Kit Hard Drives) (Parent-Clone)</name>
+		<description>Nintendo - Wii (Development Kit Hard Drives) (Parent-Clone)</description>
+		<version>20260620-143711</version>
+		<date>20260620-143711</date>
+		<author>Hiccup, NovaAurora, rarenight, relax</author>
+		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
+	</header>
+	<game name="[BIOS] Factory Test NAND (Japan)">
+		<description>[BIOS] Factory Test NAND (Japan)</description>
+		<rom name="keys.bin" size="1024" crc="7bf88d0a" md5="864c77a38265b3e067f8c00fc7ff5123" sha1="e54509ced1bfd7651024c8dc13dfa6292e2f4319"/>
+		<rom name="nand.bin" size="553649152" crc="2df7dcbd" md5="4070abe17563c5926dc5227539fc1927" sha1="3b7b9578f798a26d4c763104c4ae80b6247f7ff6"/>
+	</game>
+	<game name="[BIOS] NDEV NAND (USA)">
+		<description>[BIOS] NDEV NAND (USA)</description>
+		<rom name="keys.bin" size="1024" crc="b1dc32e5" md5="dec03017ae26f11b7675578fba77ccdc" sha1="865b87c510a5b2d31bb1e762f8fecdfcf8a2269b"/>
+		<rom name="nand.bin" size="553649152" crc="40bc8a40" md5="b21df865d46d606a8f735b928e59af43" sha1="8571c635c5086ef44b47a98a436bb0a5412a9524"/>
+	</game>
+	<game name="[BIOS] NDEV NAND (USA) (v4.2U) [b]">
+		<description>[BIOS] NDEV NAND (USA) (v4.2U) [b]</description>
+		<rom name="keys.bin" size="1024" crc="1e25be16" md5="98679c18b7ce6e72de60ce7a2eb885c6" sha1="b8563399a48220571fa916c9ead663ce8bdecb1e" status="baddump"/>
+		<rom name="nand.bin" size="553649152" crc="10c0031a" md5="6b85463d73e3162097e3d2d0cdff7825" sha1="6d5cd672ce72cca7311d8585abb6baaeacce5d10" status="baddump"/>
+	</game>
+	<game name="[BIOS] NDEV NAND - Factor 5 (Europe)">
+		<description>[BIOS] NDEV NAND - Factor 5 (Europe)</description>
+		<rom name="keys.bin" size="1024" crc="009f3cfc" md5="4519fa89b13643c9bd4369b8cffd6f27" sha1="00a2bec1dd203a8cb8626f60255936923ff82ba5"/>
+		<rom name="nand.bin" size="536870912" crc="77aaa596" md5="739e48fff92694a9d6991f2d921c2112" sha1="83af00091595db8470d0d5dfda70387d25018916"/>
+	</game>
+	<game name="[BIOS] RVA Revolution Arcade NAND - Mario Party Fushigi no Korokoro Catcher 2 (Japan)">
+		<description>[BIOS] RVA Revolution Arcade NAND - Mario Party Fushigi no Korokoro Catcher 2 (Japan)</description>
+		<rom name="keys.bin" size="1024" crc="b1b443a7" md5="d3243e1877ac87d6fcc70fe2b9cc6873" sha1="66f64bea434f661cea7673f88c6dde6a4d850c80"/>
+		<rom name="nand.bin" size="553648128" crc="8480f6c4" md5="5bd525d2f9793d9721f5fca791a3d5d9" sha1="7716fcdfa47557af20b8d47e22254f19e5d03ce4"/>
+	</game>
+	<game name="[BIOS] RVA Revolution Arcade NAND - Tatsunoko vs. Capcom - Cross Generation of Heroes (Japan)">
+		<description>[BIOS] RVA Revolution Arcade NAND - Tatsunoko vs. Capcom - Cross Generation of Heroes (Japan)</description>
+		<rom name="keys.bin" size="1024" crc="d0e05072" md5="5d60fdb18a53540c04f126ee0c7aff65" sha1="e243847fefbe234c9836d9de263c7ca63579f794"/>
+		<rom name="nand.bin" size="553648128" crc="c0e0492d" md5="93d51fd07c028d748e78a0b5442026e9" sha1="2689290e503935fe5399c503d7a43f4d3699fb7d"/>
+		<rom name="RVA-TvC-Key-Seeprom-OTP-Boot0-Cert-Dumps\boot0.bin" size="8192" crc="4b524a8e" md5="2a90fc37238a74160ca44c82ca74cf77" sha1="4c39c5326be18a19eec4d72dbf4ec1b75e8de046"/>
+		<rom name="RVA-TvC-Key-Seeprom-OTP-Boot0-Cert-Dumps\bootmii_keys.bin" size="1024" crc="de552131" md5="4d8c1e95d034b4fac3caefe86f7ff9d9" sha1="692d385bd708029ab447a6208bdf8b96a9d2bf1d"/>
+		<rom name="RVA-TvC-Key-Seeprom-OTP-Boot0-Cert-Dumps\device.cert" size="384" crc="6ddbd352" md5="eeba99513e803c97bee8c683707cca40" sha1="8df3b479807723e45b5759aec67a08eec248f2f5"/>
+		<rom name="RVA-TvC-Key-Seeprom-OTP-Boot0-Cert-Dumps\keys.txt" size="636" crc="ef402079" md5="20c21bfe717f791fb25ddae5129a7b34" sha1="6fd35767f91b1d24310da39262bc6bcc9f3c7de1"/>
+		<rom name="RVA-TvC-Key-Seeprom-OTP-Boot0-Cert-Dumps\otp.bin" size="128" crc="aa8275a9" md5="f20960da3c443894dcb41393403b9a47" sha1="71a7b5ae964d408b9e37dcf5c7cd0873b11fb35f"/>
+		<rom name="RVA-TvC-Key-Seeprom-OTP-Boot0-Cert-Dumps\seeprom.bin" size="256" crc="7993f0ea" md5="0772a9532713923822179d5dea599402" sha1="611109038a44c0fcac59c038d397705ba42f77cc"/>
+	</game>
+	<game name="[BIOS] RVT SD Card (World)">
+		<description>[BIOS] RVT SD Card (World)</description>
+		<rom name="[BIOS] RVT SD Card (World).img" size="993001472" crc="2bcd6cb2" md5="3f18cc8e0e5a9045b44dcc7c79893590" sha1="1963593e994ef8dcb16eefdef1d9a703b09e204d"/>
+	</game>
+	<game name="[BIOS] RVT-H Reader HDD - Gemini Golf &amp; Skylanders - SuperChargers Racing (World)">
+		<description>[BIOS] RVT-H Reader HDD - Gemini Golf &amp; Skylanders - SuperChargers Racing (World)</description>
+		<rom name="[BIOS] RVT-H Reader HDD - Gemini Golf &amp; Skylanders - SuperChargers Racing (World).img" size="40007761920" crc="bfb1935f" md5="f204a2fbfb1c9b6d3cc1d15f275f3701" sha1="d1cd961f02e0ba18e5402837eb4d89f22ad77450"/>
+	</game>
+	<game name="[BIOS] RVT-H Reader HDD - Kodai Ouja Kyouryuu King (World)">
+		<description>[BIOS] RVT-H Reader HDD - Kodai Ouja Kyouryuu King (World)</description>
+		<rom name="[BIOS] RVT-H Reader HDD - Kodai Ouja Kyouryuu King (World).img" size="40007761920" crc="d8f45f2d" md5="28ee91db9e7a7aee1538f043d92a5c27" sha1="0b624abb5c854a62cef8e4f67cdd00265af3ec0e"/>
+	</game>
+	<game name="[BIOS] RVT-H Reader HDD - Monster Lab &amp; Rock Band 3 (World)">
+		<description>[BIOS] RVT-H Reader HDD - Monster Lab &amp; Rock Band 3 (World)</description>
+		<rom name="[BIOS] RVT-H Reader HDD - Monster Lab &amp; Rock Band 3 (World).img" size="40007761920" crc="39f8fc1a" md5="baea059b39bc40e6aac23e51a852dd6e" sha1="d79667f718323055ec999930f56a3d7d97a3fc39"/>
+	</game>
+	<game name="[BIOS] RVT-H Reader HDD - Wii Self Defense 1 (World)">
+		<description>[BIOS] RVT-H Reader HDD - Wii Self Defense 1 (World)</description>
+		<rom name="[BIOS] RVT-H Reader HDD - Wii Self Defense 1 (World).img" size="40007761920" crc="2c6db259" md5="0c5d5fca6e476c1106d8b7a617afe8d7" sha1="a58c0fdc1bec3676be7902c9b92685d14e9d0045"/>
+	</game>
+	<game name="[BIOS] RVT-H Reader HDD - Wii Self Defense 2 (World)">
+		<description>[BIOS] RVT-H Reader HDD - Wii Self Defense 2 (World)</description>
+		<rom name="[BIOS] RVT-H Reader HDD - Wii Self Defense 2 (World).img" size="40007761920" crc="ad664cdd" md5="f0bfc834c74f609fc96c0b7e2352f3ee" sha1="b3f9bb61b08c6bbb419ff38b6f3d1ef78c96732b"/>
+	</game>
+	<game name="[BIOS] RVT-H Reader HDD - Wii Self Defense 3 (World)">
+		<description>[BIOS] RVT-H Reader HDD - Wii Self Defense 3 (World)</description>
+		<rom name="[BIOS] RVT-H Reader HDD - Wii Self Defense 3 (World).img" size="40007761920" crc="4c567835" md5="9fd511b76182db170a2a62b6f44fb992" sha1="d8f0bd638e9cb4047a052780ea2c1e85653dbe57"/>
+	</game>
+	<game name="[BIOS] RVT-H Reader NAND - Sega (Japan)">
+		<description>[BIOS] RVT-H Reader NAND - Sega (Japan)</description>
+		<rom name="keys.bin" size="1024" crc="7a67aba4" md5="df965d4156811f50f3dc8b519911f69c" sha1="0892871659b038046ba3ff9b8cde77934e02a038"/>
+		<rom name="nand.bin" size="553648128" crc="19bf7019" md5="b8086479a81492717dca5743ff843cb1" sha1="7bcaebf5984af3420b36311cd379165944b52705"/>
+	</game>
+	<game name="[BIOS] RVT-R Reader NAND - IE Institute (Japan)">
+		<description>[BIOS] RVT-R Reader NAND - IE Institute (Japan)</description>
+		<rom name="keys.bin" size="1024" crc="51b01075" md5="d8ad84e2a99ae4e8901dbde1582d1e76" sha1="528472a0b90290416d321a82e26e36ce8f76b9e1"/>
+		<rom name="nand.bin" size="553649152" crc="d4c592a3" md5="c28cab77b3f62d762f83d5d1f5557020" sha1="e56455b7b840f1cabf38660c9599e1706e1cfd46"/>
+	</game>
+	<game name="[BIOS] RVT-R Reader NAND - Netflix 1 (USA)">
+		<description>[BIOS] RVT-R Reader NAND - Netflix 1 (USA)</description>
+		<rom name="keys.bin" size="1024" crc="2be22ccf" md5="9e1e5b893d6756ee2971014c83159efb" sha1="5c69c9ae607884077a126df371ecd3c0f75e787e"/>
+		<rom name="nand.bin" size="553649152" crc="d6178148" md5="27490302224324f570956ae4ac7fbfa1" sha1="2ecd238a51e3a75611d044fc5aec52e0961007b6"/>
+	</game>
+	<game name="[BIOS] RVT-R Reader NAND - Netflix 2 (USA)">
+		<description>[BIOS] RVT-R Reader NAND - Netflix 2 (USA)</description>
+		<rom name="keys.bin" size="1024" crc="9c52e3ef" md5="fc4b508a23423429411dac24969fd305" sha1="3447dbc6ddae7a87d4422bb32d094dab29a43473"/>
+		<rom name="nand.bin" size="553649152" crc="f88a0a2d" md5="98038bb6c87b8c1e3f1cfc2e25fdb00e" sha1="b9473d2f982fb1f82dcd613e9747b85e0330ee27"/>
+	</game>
+	<game name="[BIOS] Uji Factory SD Card (World)">
+		<description>[BIOS] Uji Factory SD Card (World)</description>
+		<rom name="[BIOS] Uji Factory SD Card (World).img" size="1967058432" crc="d4fded13" md5="ed63211b5cc9bc289ebff05f0195af4a" sha1="8aadb7164a2b24f00f75f64409ee685728ae4b09"/>
+	</game>
+	<game name="428 - Fuusa Sareta Shibuya de (Japan) (Taikenban) (Kiosk) (1247d98e00)">
+		<description>428 - Fuusa Sareta Shibuya de (Japan) (Taikenban) (Kiosk) (1247d98e00)</description>
+		<rom name="428 - Fuusa Sareta Shibuya de (Japan) (Taikenban) (Kiosk) (1247d98e00).iso" size="683687936" crc="e912dff9" md5="667ce2187030ea6b3e4fc2b534d3587a" sha1="820d1c22b7c8a814cbcf2c470837589d35ddf704"/>
+	</game>
+	<game name="428 - Fuusa Sareta Shibuya de (Japan) (Taikenban) (Kiosk) (d6d3a3e00)">
+		<description>428 - Fuusa Sareta Shibuya de (Japan) (Taikenban) (Kiosk) (d6d3a3e00)</description>
+		<rom name="428 - Fuusa Sareta Shibuya de (Japan) (Taikenban) (Kiosk) (d6d3a3e00).iso" size="687882240" crc="18105a9f" md5="8d00e7c4192b6c79e45d36b938064680" sha1="bf387f3935115000ab6da5e498c0dbd6cc70eb8d"/>
+	</game>
+	<game name="Active Life - Explorer (USA) (Beta) (2010-06-09)">
+		<description>Active Life - Explorer (USA) (Beta) (2010-06-09)</description>
+		<rom name="Active Life - Explorer (USA) (Beta) (2010-06-09).iso" size="3435134976" crc="a295067b" md5="403ccdfc43df3b24905ff2fff11b9be3" sha1="479027f00bf81997b6817d7a31749513872af6e8"/>
+	</game>
+	<game name="Active Life - Magical Carnival (USA) (Beta) (2010-07-02)">
+		<description>Active Life - Magical Carnival (USA) (Beta) (2010-07-02)</description>
+		<rom name="Active Life - Magical Carnival (USA) (Beta) (2010-07-02).iso" size="4707319808" crc="2abaab7c" md5="90d25e571ad3347133ff8a02408ce09d" sha1="483b1228ac9bd928d19eba666c59d158f3aa46bf"/>
+	</game>
+	<game name="All Star Cheer Squad 2 (USA) (Beta) (Earlier) [b]">
+		<description>All Star Cheer Squad 2 (USA) (Beta) (Earlier) [b]</description>
+		<rom name="All Star Cheer Squad 2 (USA) (Beta) (Earlier).iso" size="4707319808" crc="9d1f07c9" md5="161d496d4a36a81ef21591597e6aa984" sha1="6a4fb9f36edcad53b33492bed537d9f79ff10f68" status="baddump"/>
+	</game>
+	<game name="All Star Cheer Squad 2 (USA) (Beta) (2009-09-23)">
+		<description>All Star Cheer Squad 2 (USA) (Beta) (2009-09-23)</description>
+		<rom name="All Star Cheer Squad 2 (USA) (Beta) (2009-09-23).iso" size="4294967296" crc="270d2d52" md5="692e9c646d3cf19cd957b76661bf1b50" sha1="6071bf1bdc935535b0daaf4c51c5a01abccaeade"/>
+	</game>
+	<game name="Bank 2 (Japan) (Program)">
+		<description>Bank 2 (Japan) (Program)</description>
+		<rom name="Bank 2 (Japan) (Program).iso" size="4707319808" crc="3be2bfb6" md5="23ccbc3ee7c9c84b0b6f93aa49638244" sha1="7cef1ff09120d9d3d52a9109d3d39776b7a073c0"/>
+	</game>
+	<game name="Bank 6 (Japan) (Program)">
+		<description>Bank 6 (Japan) (Program)</description>
+		<rom name="Bank 6 (Japan) (Program).iso" size="4707319808" crc="a35222fa" md5="9866f02b4288998c87b973b111effafa" sha1="0234558120ab202fc38ac286e7461d559cd30efe"/>
+	</game>
+	<game name="Bank 8 (Japan) (Program)">
+		<description>Bank 8 (Japan) (Program)</description>
+		<rom name="Bank 8 (Japan) (Program).iso" size="4707319808" crc="da7f63ce" md5="0024906ddc56ed36b600e87a3d56fba2" sha1="ea68c43c81a40186b996abb30e479c3f2820bfd9"/>
+	</game>
+	<game name="Big Top Circus (USA) (Proto)">
+		<description>Big Top Circus (USA) (Proto)</description>
+		<release name="Big Top Circus (USA) (Proto)" region="USA"/>
+		<rom name="Big Top Circus (USA) (Proto).iso" size="4294967296" crc="8686537a" md5="fc354bf33c2e26acf355805f8b94d7bc" sha1="def0ca39b1c5224718e7b6928d3cdd130603b995"/>
+	</game>
+	<game name="Board Checker RVL F (Japan) (Program)">
+		<description>Board Checker RVL F (Japan) (Program)</description>
+		<rom name="Board Checker RVL F (Japan) (Program).iso" size="268435456" crc="d0f781c9" md5="4468ae59cda59b184382c301c13191db" sha1="d02ef9f11c8c9601a2a6a79038fe10b5d7dab7c5"/>
+	</game>
+	<game name="Boy and His Blob, A (USA) (Beta) (2008-10-24)">
+		<description>Boy and His Blob, A (USA) (Beta) (2008-10-24)</description>
+		<rom name="Boy and His Blob, A (USA) (Beta) (2008-10-24).iso" size="4707319808" crc="a4bb2358" md5="6d6a08d8de191be22070006b5b320365" sha1="5db6a7c1e4c78b36bd81279930894629e68ca56e"/>
+	</game>
+	<game name="Boy and His Blob, A (USA) (Beta) (2009-05-27)">
+		<description>Boy and His Blob, A (USA) (Beta) (2009-05-27)</description>
+		<rom name="Boy and His Blob, A (USA) (Beta) (2009-05-27).iso" size="4707319808" crc="b2fcfc15" md5="32b99d476502cb623fcc078d6c6355d1" sha1="48cdf9ea547c46e0ff706dfea0cd2cc77caab2fe"/>
+	</game>
+	<game name="Bully - Scholarship Edition (USA) (Beta) (2007-11-13) (Patched)">
+		<description>Bully - Scholarship Edition (USA) (Beta) (2007-11-13) (Patched)</description>
+		<rom name="Bully - Scholarship Edition (USA) (Beta) (2007-11-13) (Patched).iso" size="4699979776" crc="909d5d88" md5="0cb21b334b934b0b412573118f4ea901" sha1="86d159cb97a9bdda5535a3b822cc42afbc258a0f"/>
+	</game>
+	<game name="Bully - Scholarship Edition (USA) (Beta) (2007-11-13) (Unpatched)">
+		<description>Bully - Scholarship Edition (USA) (Beta) (2007-11-13) (Unpatched)</description>
+		<rom name="Bully - Scholarship Edition (USA) (Beta) (2007-11-13) (Unpatched).iso" size="4294967296" crc="fc0c9d0d" md5="9934975750f5b509870dbdd9e0109fde" sha1="814ddae8d08b27db6c8ed0ac1eff5572262036e8"/>
+	</game>
+	<game name="Bully - Scholarship Edition (USA) (Beta) (2007-11-16) (Patched)">
+		<description>Bully - Scholarship Edition (USA) (Beta) (2007-11-16) (Patched)</description>
+		<rom name="Bully - Scholarship Edition (USA) (Beta) (2007-11-16) (Patched).iso" size="5445905920" crc="b79bcba7" md5="16adbf90a7e46cf68800111d2e809864" sha1="7c46801a7c1ee6a730a338be3d05d507c7e63fe2"/>
+	</game>
+	<game name="Bully - Scholarship Edition (USA) (Beta) (2007-11-16) (Unpatched)">
+		<description>Bully - Scholarship Edition (USA) (Beta) (2007-11-16) (Unpatched)</description>
+		<rom name="Bully - Scholarship Edition (USA) (Beta) (2007-11-16) (Unpatched).iso" size="4294967296" crc="5a34a9b8" md5="4e28c845891095af7e429cb3a5aeb3eb" sha1="f63fa78e267ad7d341679428739a29d770591a5f"/>
+	</game>
+	<game name="Bully - Scholarship Edition (USA) (Beta) (2008-01-11)">
+		<description>Bully - Scholarship Edition (USA) (Beta) (2008-01-11)</description>
+		<rom name="Bully - Scholarship Edition (USA) (Beta) (2008-01-11).iso" size="4707319808" crc="4b83f1a9" md5="5289a3738e673c3955892334030744e1" sha1="4c91d34d643126e0c8c81dae5f9c9ecf26c9912c"/>
+	</game>
+	<game name="Bully - Scholarship Edition (USA) (Beta) (Debug)">
+		<description>Bully - Scholarship Edition (USA) (Beta) (Debug)</description>
+		<rom name="Bully - Scholarship Edition (USA) (Beta) (Debug).iso" size="4699979776" crc="c29d81d1" md5="c16faa2aad4aa74609ad4036f29d825e" sha1="9f971e68de1ab651134949fa38e87cbe6524a534"/>
+	</game>
+	<game name="Bully - Scholarship Edition (USA) (Beta) (Later)">
+		<description>Bully - Scholarship Edition (USA) (Beta) (Later)</description>
+		<rom name="Bully - Scholarship Edition (USA) (Beta) (Later).iso" size="4699979776" crc="3b399a1e" md5="243ab9a23a5e7a5abcbe5ecf639c8f49" sha1="1a7c0bb4ffdcf0dfa8aa1e539c6dfcdcaa23ac08"/>
+	</game>
+	<game name="Call of Duty - Modern Warfare - Reflex Edition (Europe) (En,Fr) (Beta)">
+		<description>Call of Duty - Modern Warfare - Reflex Edition (Europe) (En,Fr) (Beta)</description>
+		<release name="Call of Duty - Modern Warfare - Reflex Edition (Europe) (En,Fr) (Beta)" region="EUR"/>
+		<rom name="Call of Duty - Modern Warfare - Reflex Edition (Europe) (En,Fr) (Beta).iso" size="4707319808" crc="51ef73fc" md5="75dd800a7aa1075fd1334794e35ab912" sha1="4c76be2cce66f60e82f88b331cc9b95817861ba7"/>
+	</game>
+	<game name="Conduit 2 (Europe) (Beta) (2010-09-24)">
+		<description>Conduit 2 (Europe) (Beta) (2010-09-24)</description>
+		<release name="Conduit 2 (Europe) (Beta) (2010-09-24)" region="EUR"/>
+		<rom name="Conduit 2 (Europe) (Beta) (2010-09-24).iso" size="4294967296" crc="90b9b734" md5="1375782a49774ae86711538531b5edd3" sha1="171b020c0a4e98c67d3a3dda04f68faed54d7d73"/>
+	</game>
+	<game name="Conduit, The (USA) (Beta) (2009-02-24)">
+		<description>Conduit, The (USA) (Beta) (2009-02-24)</description>
+		<rom name="Conduit, The (USA) (Beta) (2009-02-24).iso" size="4707319808" crc="9182d0bc" md5="dd06796427c757b9a0568a07460f50b7" sha1="b4d41a6ddf25d2f9cb9cd88190fe55a3565ee10b"/>
+	</game>
+	<game name="Cooking Mama - Cook Off (USA) (Debug Signed)">
+		<description>Cooking Mama - Cook Off (USA) (Debug Signed)</description>
+		<rom name="Cooking Mama - Cook Off (USA) (Debug Signed).iso" size="4699979776" crc="24f8a46d" md5="e1c4f0b325f33b669e05798038791408" sha1="2e9be4abbe4400a238d3df750a5f33e04843cd55"/>
+	</game>
+	<game name="Crazy Mini Golf 2 (USA) (Beta)">
+		<description>Crazy Mini Golf 2 (USA) (Beta)</description>
+		<rom name="Crazy Mini Golf 2 (USA) (Beta).iso" size="4707319808" crc="350712fc" md5="9aa0b07aba7b3a7fceeb9b7bb417ea64" sha1="7a788a79831a24737acdf00a99991d5753e24123"/>
+	</game>
+	<game name="Crusher for RVO (USA) (Program)">
+		<description>Crusher for RVO (USA) (Program)</description>
+		<rom name="Crusher for RVO (USA) (Program).iso" size="134217728" crc="9747dfde" md5="485859a9d1664b6aafcd7e4c56e68dac" sha1="9487e87f7a687e22727e05560d47cc89e4711736"/>
+	</game>
+	<game name="Dead Space - Extraction (USA) (Beta) (v1111)">
+		<description>Dead Space - Extraction (USA) (Beta) (v1111)</description>
+		<rom name="Dead Space - Extraction (USA) (Beta) (v1111).iso" size="4707319808" crc="76ee443d" md5="06501a4d359248edf637937bb9fa7982" sha1="e5820c9ab14644113eed0cc7d10290bb513a4511"/>
+	</game>
+	<game name="Dead Space - Extraction (USA) (Beta) (v430)" cloneof="Dead Space - Extraction (USA) (Beta) (v1111)">
+		<description>Dead Space - Extraction (USA) (Beta) (v430)</description>
+		<rom name="Dead Space - Extraction (USA) (Beta) (v430).iso" size="4707319808" crc="b6893f82" md5="1264a7448a5e62538083403ace25f4ab" sha1="9f9b8576167cec9059eac52a540aa65efe27a3d9"/>
+	</game>
+	<game name="Dead Space - Extraction (USA) (Beta) (2009-04-22) (v441)" cloneof="Dead Space - Extraction (USA) (Beta) (v1111)">
+		<description>Dead Space - Extraction (USA) (Beta) (2009-04-22) (v441)</description>
+		<rom name="Dead Space - Extraction (USA) (Beta) (2009-04-22) (v441).iso" size="4707319808" crc="d020e5cb" md5="4c77a1ec543be8b8ff4e44dc58164a40" sha1="f3c4588f2adf0c94f508b37f7693b8ccd1632a7f"/>
+	</game>
+	<game name="Dead Space - Extraction (USA) (Beta) (v512)" cloneof="Dead Space - Extraction (USA) (Beta) (v1111)">
+		<description>Dead Space - Extraction (USA) (Beta) (v512)</description>
+		<rom name="Dead Space - Extraction (USA) (Beta) (v512).iso" size="4294967296" crc="c8daf9bd" md5="57df9487b7505a6e2f43d4cfd3f2c5d7" sha1="800b947f6e7eee9ad9f853fbb3faf8fd748fa1a9"/>
+	</game>
+	<game name="Def Jam - Rapstar (Europe) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-28)">
+		<description>Def Jam - Rapstar (Europe) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-28)</description>
+		<release name="Def Jam - Rapstar (Europe) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-28)" region="EUR"/>
+		<rom name="Def Jam - Rapstar (Europe) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-28).iso" size="4707319808" crc="5a0dc23a" md5="f63dc21e9825b371fc2d9fb6ffa610a7" sha1="b5d1d974bd0631acf98d792df8584ba139bfdf86"/>
+	</game>
+	<game name="Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-29)">
+		<description>Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-29)</description>
+		<release name="Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-29)" region="GER"/>
+		<rom name="Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-29).iso" size="4707319808" crc="d5ea171a" md5="b2d44460cef881b96b44fe305d274db6" sha1="5432aa1083e1e1477e732724c0dfc22327a22504"/>
+	</game>
+	<game name="Def Jam - Rapstar (USA) (En,Fr,De,Es,It,Pt) (Beta) (2010-07-26)" cloneof="Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-29)">
+		<description>Def Jam - Rapstar (USA) (En,Fr,De,Es,It,Pt) (Beta) (2010-07-26)</description>
+		<rom name="Def Jam - Rapstar (USA) (En,Fr,De,Es,It,Pt) (Beta) (2010-07-26).iso" size="4707319808" crc="878088dc" md5="ccc0ee7c5c26d4b1fd8073721c80e769" sha1="8ddf372cf0728efd029fec3bfd47c857581ce22c"/>
+	</game>
+	<game name="Def Jam - Rapstar (USA) (En,Fr,De,Es,It,Pt) (Beta) (2010-07-28)" cloneof="Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-29)">
+		<description>Def Jam - Rapstar (USA) (En,Fr,De,Es,It,Pt) (Beta) (2010-07-28)</description>
+		<release name="Def Jam - Rapstar (USA) (En,Fr,De,Es,It,Pt) (Beta) (2010-07-28)" region="USA"/>
+		<rom name="Def Jam - Rapstar (USA) (En,Fr,De,Es,It,Pt) (Beta) (2010-07-28).iso" size="4707319808" crc="62af2e2b" md5="e9a21559f7677b4e2a3b81894d01aa3d" sha1="6a5605b03c085bb5e1d035e80c670a0e047e4fb2"/>
+	</game>
+	<game name="Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-08-12)" cloneof="Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-29)">
+		<description>Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-08-12)</description>
+		<rom name="Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-08-12).iso" size="4707319808" crc="1dcb4e14" md5="dbee30a152f3afd7dfd85365809927cd" sha1="8c8f2ef96120f4d843a610e9bb5b1e84212d3b33"/>
+	</game>
+	<game name="Def Jam - Rapstar (United Kingdom) (En,Fr,De,Es,It,Pt) (Beta) (2010-08-19)" cloneof="Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-29)">
+		<description>Def Jam - Rapstar (United Kingdom) (En,Fr,De,Es,It,Pt) (Beta) (2010-08-19)</description>
+		<release name="Def Jam - Rapstar (United Kingdom) (En,Fr,De,Es,It,Pt) (Beta) (2010-08-19)" region="UK"/>
+		<rom name="Def Jam - Rapstar (United Kingdom) (En,Fr,De,Es,It,Pt) (Beta) (2010-08-19).iso" size="4707319808" crc="6d331d94" md5="bd81842dce036176e3ce9c6ae17c38a0" sha1="8d45a08b1abb97767536898b62e56e9013119ea1"/>
+	</game>
+	<game name="Def Jam - Rapstar (France) (En,Fr,De,Es,It,Pt) (Beta)" cloneof="Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-29)">
+		<description>Def Jam - Rapstar (France) (En,Fr,De,Es,It,Pt) (Beta)</description>
+		<release name="Def Jam - Rapstar (France) (En,Fr,De,Es,It,Pt) (Beta)" region="FRA"/>
+		<rom name="Def Jam - Rapstar (France) (En,Fr,De,Es,It,Pt) (Beta).iso" size="4707319808" crc="b13f92c5" md5="c6d08494cdaa5c4d655aac682eb1efea" sha1="12d94d4c8b6c29364328575778597cc691c5a988"/>
+	</game>
+	<game name="Disney Bolt (USA) (En,Fr,Es) (Debug Signed)">
+		<description>Disney Bolt (USA) (En,Fr,Es) (Debug Signed)</description>
+		<rom name="Disney Bolt (USA) (En,Fr,Es) (Debug Signed).iso" size="4707319808" crc="8405d931" md5="54247381af00f5e4c1faaeccec908cd2" sha1="2d3d63e1823d5b7c86909b71c9e866430e995d45"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 8) (2012-03-23)">
+		<description>Disney Epic Mickey 2 - The Power of Two (USA) (Beta 8) (2012-03-23)</description>
+		<release name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 8) (2012-03-23)" region="USA"/>
+		<rom name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 8) (2012-03-23).iso" size="4294967296" crc="42399f3f" md5="5727563e274bd87fede0ebcb989b30fa" sha1="85866441a795b411d45dc311f3a13779bfe0e32b"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 1) (2011-07-28)" cloneof="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 8) (2012-03-23)">
+		<description>Disney Epic Mickey 2 - The Power of Two (USA) (Beta 1) (2011-07-28)</description>
+		<rom name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 1) (2011-07-28).iso" size="4294967296" crc="1ed7e8ca" md5="c14b7ba55228e7c7e8ad77eb1b7c09d1" sha1="1b886b55cf92c9a04e76a63d9abd2113623ff53c"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 2) (2011-07-xx)" cloneof="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 8) (2012-03-23)">
+		<description>Disney Epic Mickey 2 - The Power of Two (USA) (Beta 2) (2011-07-xx)</description>
+		<rom name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 2) (2011-07-xx).iso" size="4707319808" crc="b5dd95af" md5="97ca616f6bea5659276953fc259b452c" sha1="bf515cf63bf63be7b09210c924ac77f6ccc5566c"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 3) (2011-xx-xx)" cloneof="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 8) (2012-03-23)">
+		<description>Disney Epic Mickey 2 - The Power of Two (USA) (Beta 3) (2011-xx-xx)</description>
+		<rom name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 3) (2011-xx-xx).iso" size="4707319808" crc="86e68ba5" md5="d42ecc1ca7296f6116f971d287cd1420" sha1="e4e875ed66c7d263bd7f5fb845794a902dd57fa4"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 4) (2012-02-xx)" cloneof="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 8) (2012-03-23)">
+		<description>Disney Epic Mickey 2 - The Power of Two (USA) (Beta 4) (2012-02-xx)</description>
+		<rom name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 4) (2012-02-xx).iso" size="4707319808" crc="38472423" md5="675c030e4b33e7e3f4461117057b1f9a" sha1="b59c2cfc16996c64d8dec81b04fc3b8461a99d08"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 5) (2012-xx-xx)" cloneof="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 8) (2012-03-23)">
+		<description>Disney Epic Mickey 2 - The Power of Two (USA) (Beta 5) (2012-xx-xx)</description>
+		<rom name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 5) (2012-xx-xx).iso" size="4707319808" crc="8219f210" md5="84492e0f70581323617c4e233d6d2b0b" sha1="8a9694e6451ed4f067c1c24ff3d4c4cbc0cc509f"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 6) (2012-03-12)" cloneof="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 8) (2012-03-23)">
+		<description>Disney Epic Mickey 2 - The Power of Two (USA) (Beta 6) (2012-03-12)</description>
+		<rom name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 6) (2012-03-12).iso" size="4707319808" crc="2fc81068" md5="75150156597830ce3373e06eff90e53d" sha1="751e17138423106a490149f641008a860e70ed8f"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 7) (2012-03-23) (Debug)" cloneof="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 8) (2012-03-23)">
+		<description>Disney Epic Mickey 2 - The Power of Two (USA) (Beta 7) (2012-03-23) (Debug)</description>
+		<rom name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 7) (2012-03-23) (Debug).iso" size="4707319808" crc="5b5a2382" md5="7ec83b9e6b0490db1dae23883af3e53c" sha1="6b458815a518e5d241a34c1a6f39ea480374ea02"/>
+	</game>
+	<game name="Disney Universe (USA) (Beta)">
+		<description>Disney Universe (USA) (Beta)</description>
+		<rom name="Disney Universe (USA) (Beta).iso" size="4707319808" crc="c9b8de49" md5="5160afa87bacd561bf3a420195fef088" sha1="5f9ea7ade830978dc1e80d7871b2a521c8d9e071"/>
+	</game>
+	<game name="Disney Universe (USA) (Beta) (Debug)">
+		<description>Disney Universe (USA) (Beta) (Debug)</description>
+		<rom name="Disney Universe (USA) (Beta) (Debug).iso" size="4707319808" crc="323e8c22" md5="1609b495891fd65de6525cbddb4093f5" sha1="500e3dc1edffd22ea157590f28c3b4e6a5e6e761"/>
+	</game>
+	<game name="Disney Universe (USA) (Beta) (2011-02-07)">
+		<description>Disney Universe (USA) (Beta) (2011-02-07)</description>
+		<rom name="Disney Universe (USA) (Beta) (2011-02-07).iso" size="4707319808" crc="e51a792f" md5="65b223825b0ef84f90cc4a65c8b35f94" sha1="99788e60cd3274a2446cca86bdc7cbfb6db38c95"/>
+	</game>
+	<game name="Disney Universe (USA) (Beta) (2011-03-29)">
+		<description>Disney Universe (USA) (Beta) (2011-03-29)</description>
+		<rom name="Disney Universe (USA) (Beta) (2011-03-29).iso" size="4707319808" crc="60bf8f93" md5="8834d19acdd9fdf98878d7bdcfe70e1e" sha1="3de9820735c5f48d76a1184a0a6c7ca175b27acc"/>
+	</game>
+	<game name="Disney Universe (USA) (Beta) (2011-04-03)">
+		<description>Disney Universe (USA) (Beta) (2011-04-03)</description>
+		<rom name="Disney Universe (USA) (Beta) (2011-04-03).iso" size="4707319808" crc="d062d705" md5="2fa83783cec6677559880fcbe9e87b5e" sha1="f07f178e5e981f1216388877bff12e4370f19178"/>
+	</game>
+	<game name="Donkey Kong Jungle Beat (Japan) (Taikenban) (Kiosk)">
+		<description>Donkey Kong Jungle Beat (Japan) (Taikenban) (Kiosk)</description>
+		<rom name="Donkey Kong Jungle Beat (Japan) (Taikenban) (Kiosk).iso" size="423641088" crc="4ccc186a" md5="5dd202ca2fde4dea75f748d8a392949d" sha1="6b3997f84b720cdf00a611f99e06b10b40d45c0d"/>
+	</game>
+	<game name="DreamWorks Kung Fu Panda (USA) (Beta) (2007-12-07)">
+		<description>DreamWorks Kung Fu Panda (USA) (Beta) (2007-12-07)</description>
+		<rom name="DATA\cert.bin" size="2560" crc="bf34f23d" md5="7677ad47baa5d6e3e313e72661fbdc16" sha1="ace0f15d2a851c383fe4657afc3840d6ffe30ad0"/>
+		<rom name="DATA\disc\header.bin" size="256" crc="faa70b76" md5="94d046493aa14b8a6215ad9256dfc774" sha1="4d24a413f98115565f54dbbaf8fca60755e7b8a8"/>
+		<rom name="DATA\disc\region.bin" size="32" crc="5bbcf81d" md5="54533e22f714b0d97ca4e9363af344f6" sha1="3ce28017381af76f13ce6669ae7b019b6229bb64"/>
+		<rom name="DATA\files\1stPlayA.bat" size="52" crc="e5d528aa" md5="02c941316a1398addf866210b498e99b" sha1="66165a2f0b2d2faac8ece5dbe3e78933169cecb6"/>
+		<rom name="DATA\files\1stPlayb.bat" size="52" crc="1782c552" md5="cd7c38f4be4cdb8c5d03c130af9eb5aa" sha1="7c1e238c052668b11eb30611dd7215fcd0623946"/>
+		<rom name="DATA\files\aidata\ai.lxb" size="174150" crc="b7cc927a" md5="b6f33df11820a4221f2ba5bebdc11f98" sha1="11ef21d2bf4c486a0de1f1e7a39e08350f142e95"/>
+		<rom name="DATA\files\audio\destructionsound.lxb" size="935" crc="f7eccf9c" md5="438e3b61ec640f3b0d5d2e98bbf3b6d2" sha1="b3bdd6e3b371b8c11adc0d18ee49ef6f958dd834"/>
+		<rom name="DATA\files\audio\footsteps.lxb" size="125" crc="92638f52" md5="844aae35b146e92c9e67636e0fcdeac3" sha1="9a887e04d875033fc63a7f3f1b3baac0ac092a46"/>
+		<rom name="DATA\files\audio\global.fev" size="4429" crc="63ba6a7c" md5="8305b9329d9f5bb898cf14508a9d528b" sha1="af20bf3456de89dd4ce37f9b79ada5f9194f8afa"/>
+		<rom name="DATA\files\audio\global_bank00.fsb" size="43664" crc="2294b478" md5="363b643f31fda28b0ae5a45471e30dff" sha1="d1038776a4e1ace21e26c417b2cde65ecc189cb0"/>
+		<rom name="DATA\files\audio\global_streaming.fev" size="17430" crc="b3c60e42" md5="69e0f35fc8a0d9b8a04a327e41a7d7f0" sha1="21bdc81e1c4f17f2d2bb47443675a7a6bf17fa19"/>
+		<rom name="DATA\files\audio\global_streaming_bank00.fsb" size="90819536" crc="6958bcbd" md5="dcd80525f63068ab295f25462a8ea1ce" sha1="479d81040b49bcb3fe8994da160064686db015f1"/>
+		<rom name="DATA\files\camera.lxb" size="10213" crc="2cd90686" md5="f967672ba54e7fc4778ffbe4b269447f" sha1="79fd1def14109ab815dfda3b3071e1ea31a4259f"/>
+		<rom name="DATA\files\characters\chopstick\anims\chopstick_animset.lxb" size="8925" crc="5d9c26db" md5="fcd7b68520448f2fcc7adb899d4bf92a" sha1="27435f2a035e4ae89b050f41dcbb0bbefdc2ce18"/>
+		<rom name="DATA\files\characters\crane\anims\crane_animset.lxb" size="239937" crc="9bdb8233" md5="f2b9f5019470ab66a5ee7c1b6a2391d2" sha1="1f70ede5aaff91458cb4618d1324cb64a88cc6ff"/>
+		<rom name="DATA\files\characters\crane\anims\crane_incage_animset.lxb" size="12938" crc="d818c497" md5="ca4e990e3eb921d8337cf28670e90424" sha1="aa0c609ca2636efc9641510b22d38be3d56e089a"/>
+		<rom name="DATA\files\characters\crocodile\anims\crocodilesoldier_animset.lxb" size="600937" crc="e90fcbcd" md5="04f657b93bb5de041f1c424ac7b8032b" sha1="789ec1ac584922687303d1bfdff7164268fa198c"/>
+		<rom name="DATA\files\characters\crocodilequeen\anims\crocodilequeen_animset.lxb" size="391626" crc="2bde2d58" md5="e089586b001f8aca2fe5063191dd9970" sha1="78fe143f0c567cf9f636d7ae31e86ba8b3ba7e5f"/>
+		<rom name="DATA\files\characters\crocodilesergeant\anims\crocodilesergeant_animset.lxb" size="295362" crc="e3253157" md5="77070390acd362de9857d97be3635869" sha1="00afc50d41fd8c0e7cd1a9f66ba7faa4eb2a66e1"/>
+		<rom name="DATA\files\characters\goose\anims\goose_animset.lxb" size="155659" crc="d67adc72" md5="18ba500390d1c2370e6c6cc55fc081d3" sha1="4e7d3fd1b36ffd20fb1633155185e90c75503d2d"/>
+		<rom name="DATA\files\characters\gorilla\anims\gorilla_animset.lxb" size="564766" crc="07f1a5f8" md5="d8c77d3030cd18abc18ec244687031f3" sha1="9bd0eb2b7aff0810eeb492eebf85929760deca55"/>
+		<rom name="DATA\files\characters\gorilla\anims\greatgorilla_animset.lxb" size="416133" crc="29bc0c0c" md5="8efe50df65fc5f7959f6c6c0e1757614" sha1="a3e020279d36e30fddc8a955bc1db8059927d788"/>
+		<rom name="DATA\files\characters\juggernaut\anims\juggernaut_animset.lxb" size="198850" crc="81c9869f" md5="c77ce62f51b1dbfaacef61ef9fa77163" sha1="63c9eac36ae0d73fdf84a3df566b6ddec9e550be"/>
+		<rom name="DATA\files\characters\mantis\anims\mantis_animset.lxb" size="64565" crc="6a094895" md5="36c048c84cd2a981ea7baf6a7449e526" sha1="d2962976d5e16d8dfe61de026356506c11432168"/>
+		<rom name="DATA\files\characters\monkey\anims\monkey_animset.lxb" size="810940" crc="854b395e" md5="f3be14a46110b356f597baf22fa61f2f" sha1="9152242fe2c5c40fb047a25fb72ddf4b6b3e15d0"/>
+		<rom name="DATA\files\characters\monkey\anims\monkey_mp_animset.lxb" size="719191" crc="45178b88" md5="7b91c3a0aeec7faa75c75a5b192340d8" sha1="3f894db2f24ecd46f20fe4f7737f5c979de7acc6"/>
+		<rom name="DATA\files\characters\monkey\anims\monkey_npc_incage_animset.lxb" size="14690" crc="fc9d5e07" md5="4af3c30074880442fb8df2cb85356a95" sha1="a2bab072defd66513694283be993679f0afdcbda"/>
+		<rom name="DATA\files\characters\oogway\anims\oogway_animset.lxb" size="14496" crc="0f41f42f" md5="7e3bd5541b51169dd276a519aa93edc8" sha1="bc8231b296f4d31614ddfbfebb981adbd83c41a4"/>
+		<rom name="DATA\files\characters\ox\anims\ox_animset.lxb" size="553050" crc="66a17700" md5="072487c97cf713a363f8b1f835fb9f3f" sha1="92090a41d93752b94f12b1f81d37b37391a2bb4c"/>
+		<rom name="DATA\files\characters\ox\anims\ox_mp_animset.lxb" size="897234" crc="ca213dde" md5="6adad17a2dc80c2b784c086aed100e82" sha1="5aca5b83587c1a0aeb78140598f82add22e326a0"/>
+		<rom name="DATA\files\characters\paparabbit\anims\paparabbit_animset.lxb" size="58377" crc="1258ba0a" md5="0ede82977aa105c48f5179289711800a" sha1="a7ddeb264f9c9c1ce0bfda4ed7741489fd4d0caf"/>
+		<rom name="DATA\files\characters\pig\anims\pig_animset.lxb" size="191845" crc="e2ae5c23" md5="3fdad67697ad5a22dabb2a03ffaf4eea" sha1="9d7a05289b4461d331f2f37a0e5f14ea9c631d91"/>
+		<rom name="DATA\files\characters\pigboss\anims\pigboss_animset.lxb" size="189610" crc="126c50a4" md5="a3121b439d36f243a4a811692065feb0" sha1="9d5356d3cf0940dc938aafc1aec8a0d5dedf5dca"/>
+		<rom name="DATA\files\characters\piggang\anims\piggangsoldier_animset.lxb" size="606066" crc="d912dd7e" md5="3d3d3afab897ab0545495732edf33580" sha1="8a51adc742248548ee2b967c7951111b16fd5314"/>
+		<rom name="DATA\files\characters\po\anims\po_adv_animset.lxb" size="1235955" crc="28c44505" md5="887f2b675504e8a58c32d4e44375faec" sha1="cb24d051c5f64924bd8323c619bb3c1b480c542a"/>
+		<rom name="DATA\files\characters\po\anims\po_animset.lxb" size="1704905" crc="039cc91a" md5="d13cb0c45356781a3eb2d6698d9e375c" sha1="3a289938a2a906efcacaca996667a7d4fdbaf13f"/>
+		<rom name="DATA\files\characters\po\anims\po_nov_animset.lxb" size="700957" crc="addbc528" md5="9753c1b940da94a50ee1f96b491a2506" sha1="772ccdf006fa541e776d480a00b1da0adc6ee3a2"/>
+		<rom name="DATA\files\characters\pomarblemania\anims\pomarblemania_animset.lxb" size="121267" crc="1f7a3eea" md5="06b880042fa0bd326878ffc30bc49c0a" sha1="ecd9379373a0f11f4213442cb7756c423468c898"/>
+		<rom name="DATA\files\characters\potaichi\anims\potaichi_animset.lxb" size="113812" crc="6ac3505b" md5="11df6e3414ce117443318a43122929f2" sha1="e802350d4fce8d81e1f8324dba4d08acbcbc22fe"/>
+		<rom name="DATA\files\characters\rabbandit\anims\rabbandit_animset.lxb" size="342694" crc="a6649828" md5="06994469fb2278a3cbee95667500ca38" sha1="9069eab8a0b0538574771f694578ff445d43c2c3"/>
+		<rom name="DATA\files\characters\rabbit\anims\rabbit_animset.lxb" size="70650" crc="3aeab581" md5="50a0f80081e26686ff82485172d7f313" sha1="0afd2915e5a7978b787a1f46729ff2e41a33367e"/>
+		<rom name="DATA\files\characters\rhino\anims\rhino_animset.lxb" size="317088" crc="ae7e9f4a" md5="b1252ea830fb9ce9315d1a451d8b9c53" sha1="9805bf26c8199c52ed2c11a585ddbd09106b1dd6"/>
+		<rom name="DATA\files\characters\shifu\anims\shifu_animset.lxb" size="802397" crc="6704f9ae" md5="af4e3bc2c3ee6c5be977fd7816fa6dc3" sha1="2f2f9149ddbbc63442d3619c8e441838823b883e"/>
+		<rom name="DATA\files\characters\shifu\anims\shifunpc_animset.lxb" size="482292" crc="f6b0c91f" md5="cfd05aae9b9860ca6982a872261676d0" sha1="1243f3e9f3ee1a31237fec267c869f40da1807fc"/>
+		<rom name="DATA\files\characters\tailung\anims\tailung_animset.lxb" size="930730" crc="aea87275" md5="c519506030c024724c697f40c41b700e" sha1="f3541ee10b79d26617a3b55473342f9add8b35ca"/>
+		<rom name="DATA\files\characters\tailung\anims\tailung_mp_animset.lxb" size="993480" crc="3834319f" md5="75cb6067ba1114722b8dc9d66e54b529" sha1="bfe6fdef742ca7ac1f82a49051b0b88f094214d0"/>
+		<rom name="DATA\files\characters\tigress\anims\tigress_animset.lxb" size="1062774" crc="2845d9ce" md5="2992be45631607822160231b59b82e8e" sha1="499edf54e5ab54f34674b381643f9d593553a88e"/>
+		<rom name="DATA\files\characters\tigress\anims\tigress_mp_animset.lxb" size="1014514" crc="88bf4bce" md5="59214a8a7ec94dcb28bddf5184ed2a0f" sha1="b260dd0a9e3cdb6f64b54b8672ce0b848b362837"/>
+		<rom name="DATA\files\characters\tigresswounded\anims\tigresswounded_animset.lxb" size="137467" crc="a843f03d" md5="b8c1246a51b62b5537d7e44781f66089" sha1="b8bff0d3bf7c438e6d8ab0e3ac903881fccb1914"/>
+		<rom name="DATA\files\characters\trainingdummy\anims\trainingdummy_animset.lxb" size="18563" crc="1176c1dd" md5="bb89159b47445f9117a27a30b5b006a6" sha1="127f555bfcec61b8c3b5a96a6e8fb79cc167046d"/>
+		<rom name="DATA\files\characters\trainingdummyfast\anims\trainingdummyfast_animset.lxb" size="11588" crc="40619fff" md5="390a8d1968ca941b0f3f51557b05fcf5" sha1="e02e574f9153f8ca9763e583fcbf6964c4e767c8"/>
+		<rom name="DATA\files\characters\trainingdummystrong\anims\trainingdummystrong_animset.lxb" size="10782" crc="0585eec3" md5="5d8acdd1972804b129d844442cddf4d3" sha1="c25e730b528cdbe806ed96947e913acdece2801c"/>
+		<rom name="DATA\files\characters\turtle\anims\turtle_animset.lxb" size="275886" crc="3a9a8077" md5="b6d62b81f97dba3bbfbf98b9583160cc" sha1="2228d7a91b0f6446cf600ab3bafa8350b07690fd"/>
+		<rom name="DATA\files\characters\turtlebaby\anims\turtlebaby_animset.lxb" size="8064" crc="f793df22" md5="8a2f5e025b724c51e292da97b68a50ce" sha1="df92d6e240cf631d332695c903cedccd4a729b6f"/>
+		<rom name="DATA\files\characters\viper\anims\viper_animset.lxb" size="53846" crc="b36d224c" md5="7cd11fcedcf5f774d90d01fb64556bcc" sha1="4a29d41676af14824c22552caff796997c1eb6cf"/>
+		<rom name="DATA\files\characters\viper\anims\viper_incage_animset.lxb" size="13440" crc="b8af094f" md5="afa32012d57b1b2b2a46b20427560eeb" sha1="f371e5e94e1e92dfede9915984a3d228b377d383"/>
+		<rom name="DATA\files\characters\vulture\anims\vulture_animset.lxb" size="63522" crc="c171e87c" md5="63cfbdb9110496e28694220b52249c53" sha1="eb4459f665ebccf1c35cf8ec932fc0aa52b4866e"/>
+		<rom name="DATA\files\characters\wolf\anims\wolf_mp_animset.lxb" size="514638" crc="37f9c8c2" md5="a3432c5715480870e5eb7be341c3b0c8" sha1="3fee75eb116aab99a0baf3669aaffc0e0304a9b7"/>
+		<rom name="DATA\files\characters\wolf\anims\wolfarcher_animset.lxb" size="255676" crc="139a3198" md5="7139be78064a9019525af5a8ce8fe936" sha1="cf904c8a1aafd5eba78ba93a633b4174bfa3e9c5"/>
+		<rom name="DATA\files\characters\wolf\anims\wolfheavy_animset.lxb" size="179865" crc="43118b47" md5="8d4779d4bd3b548b9edd5ef6f94c8ee2" sha1="21926eb2811877f6108a4a9c4e4a4df72fb1e324"/>
+		<rom name="DATA\files\characters\wolf\anims\wolfsergeant_animset.lxb" size="306094" crc="3991c19d" md5="3dd1eec3409c7c4f9d64e1feae307caa" sha1="7b02d8702090c9c3e4dbbbf843c542f8cc85ddbc"/>
+		<rom name="DATA\files\characters\wolf\anims\wolfshieldbearer_animset.lxb" size="236521" crc="27b74fa3" md5="0dae23db604626c5718612eae2c77ab0" sha1="13a0a151e0ff45b013b11f0de9cd54e0df5861d3"/>
+		<rom name="DATA\files\characters\wolf\anims\wolfslasher_animset.lxb" size="363604" crc="b489f985" md5="0ea8c980a0b59668f26051ce08bf77a7" sha1="e9aea9f656adebe6bd0420ce222ceadbe6f39a9a"/>
+		<rom name="DATA\files\characters\wolf\anims\wolfsoldier_animset.lxb" size="419062" crc="2496c944" md5="e1768f9143fa1600b988aa4ec05ad90c" sha1="2bbfb9ab4a3833cf00cfe34d805fd305d114ef5a"/>
+		<rom name="DATA\files\characters\wusister\anims\wusister_animset.lxb" size="974579" crc="04a23e13" md5="e20a2c44e8d7c88f14fcfb0ed5ae709e" sha1="7f605dd93d4612079be961977d51b345822f275d"/>
+		<rom name="DATA\files\characters\wusister\anims\wusister_mp_animset.lxb" size="970554" crc="134cf844" md5="30bcf71400ce6c97d7b8ff8d9c6492c7" sha1="28502ed49b4a7d731d56b7c35a9d7ee59e02769a"/>
+		<rom name="DATA\files\ChopstickA.bat" size="54" crc="d42c56fd" md5="162c676192cf16544a4f6bdf74d05d3f" sha1="9eb4e50eb1857a9f988dc77a19632128e4333497"/>
+		<rom name="DATA\files\collisionmaterials.lxb" size="1681" crc="93d3769d" md5="a870ddcbeec7e9b03fedb8427488559f" sha1="08d697331081d7d1b3aad6df16d0f1cb547d8708"/>
+		<rom name="DATA\files\colmaskpresets.lxb" size="2060" crc="02b98bdc" md5="9839837f243ae2ec3779b05d8f9162c1" sha1="5e792d17ea7c8f36b6a16095e703c4faa8b4945f"/>
+		<rom name="DATA\files\controller\WiiMotions.lmc" size="10384" crc="87921103" md5="97cebc9fa9c77b1616d3a7c110edc0b2" sha1="4f674dd0fb7f8c2b71b2c7ecedc28c70226ea706"/>
+		<rom name="DATA\files\Dojo_A.bat" size="50" crc="75e1e211" md5="c4e8b6e419e2567d24cbdee16225be5f" sha1="14b39b24a1cdf5f7135147d38d0841558e1be02f"/>
+		<rom name="DATA\files\effects\block.apk" size="689700" crc="2345d2c7" md5="35954f6a4512d4769b448c7bc1823993" sha1="d3921ade99825d68d36ee460ed2fac860917194a"/>
+		<rom name="DATA\files\effects\block.lxb" size="6498" crc="cd35c783" md5="71ebe0e0306f18b157353ead4baab969" sha1="2e5ecb620a0907bd2607e4e2776c05c8406e3de1"/>
+		<rom name="DATA\files\effects\butterfly.apk" size="180" crc="308223db" md5="495219e681d55868055321a5586e2a2f" sha1="7b47b4845fb15367b310b079aa909e7a905339db"/>
+		<rom name="DATA\files\effects\butterfly.lxb" size="9385" crc="dbbcfe42" md5="e22c2bb4b64d21d234bffcd4ab658aff" sha1="5f01c7748a2352317b8e2256864796da631bbe33"/>
+		<rom name="DATA\files\effects\dizzybirds.apk" size="135808" crc="8e2e9ac2" md5="5a8d31d4ac29522e18f392c5f0fe430f" sha1="f2e6a48252b7f11d4a5f25f4058c691d583de7bb"/>
+		<rom name="DATA\files\effects\dizzybirds.lxb" size="26862" crc="f482c035" md5="a7cf79b4037d0543f66a57802d10c274" sha1="0f4804661479fea5a44a2dbbbd528b8ed96445a3"/>
+		<rom name="DATA\files\effects\firefly.apk" size="180" crc="6b4e2338" md5="ee92a78d30c45d335e38157a51cade10" sha1="8a3533962b276ec0f6aba3c524b8036f31ac2182"/>
+		<rom name="DATA\files\effects\firefly.lxb" size="5952" crc="211517e5" md5="99a8dd180793183df1faa51aac912d0c" sha1="8d99f62714df43fbfdc93be7d28a17ea10715a43"/>
+		<rom name="DATA\files\effects\globaleffects.apk" size="4320864" crc="924e6593" md5="f43e91dc25a810bd5716601da0abd3e5" sha1="94c816182bf8df18a774bfc14ff2fa9bc0895f7f"/>
+		<rom name="DATA\files\effects\globaleffects.lxb" size="146994" crc="f05479e6" md5="6a1b9736bd6a2ccefa3a49ebb5ccc4ff" sha1="8329ed7faeb46aed6f48565fcb617700f0096bc9"/>
+		<rom name="DATA\files\effects\globalparticlefx.apk" size="5998004" crc="3b399f15" md5="e27de74db1a131119a33204d4c5289b7" sha1="d78b9065e5a716dc586a8478ca28b27dc18def5f"/>
+		<rom name="DATA\files\effects\globalparticlefx.lxb" size="444738" crc="ff7c5639" md5="65c6c87c3e11c5d77733921f4621bb08" sha1="5fa08441bd9e688cfc5121b3321849311522e3d0"/>
+		<rom name="DATA\files\effects\hitflashblue.apk" size="344612" crc="6fd98a4d" md5="ed74ae308061df506910cc045b75d7c3" sha1="9ab08240fbb99fef1b0c9fd6857b4a4599ea7439"/>
+		<rom name="DATA\files\effects\hitflashblue.lxb" size="6675" crc="37b4d79d" md5="e8cfb7fc379172cc6ab3bf6fd43dbf90" sha1="dfc18729759944e457e8b635aa6691e448949fe8"/>
+		<rom name="DATA\files\effects\hitflashes.apk" size="605804" crc="bfffea03" md5="a1ffccaecef4f37608c49117acedbf99" sha1="eaac4740d57cb9566ff807734e6f4df22ca4239b"/>
+		<rom name="DATA\files\effects\hitflashes.lxb" size="16052" crc="9ea025d9" md5="70ab709496915094fe805136ffb26feb" sha1="3510f76c35816b2e5ebce29858eb18d773c33843"/>
+		<rom name="DATA\files\effects\hitflashred.apk" size="344612" crc="df3949a1" md5="4842613ef090cb72d9b20088879d9b61" sha1="ad18902f8103f91ba81538c053c2e2104c8e82a1"/>
+		<rom name="DATA\files\effects\hitflashred.lxb" size="6672" crc="ee74fecc" md5="b1ee2080ad9c57d707aba3a7065437b9" sha1="ef6a433e336f280ff3cf22e821848294a5e2c5d5"/>
+		<rom name="DATA\files\effects\hitflashwhite.apk" size="344612" crc="3ad948aa" md5="2dcb085e52aabf3583a6cc0e716a66c3" sha1="c25fc08b3cf94a5ce6f807fa01360b7c0ed3be17"/>
+		<rom name="DATA\files\effects\hitflashwhite.lxb" size="4574" crc="84834492" md5="145ba8de2b08dcf42bd6179fd5db43e4" sha1="ef288923d241ecb5561c76d306929c33ab903fc6"/>
+		<rom name="DATA\files\effects\karmaripple.apk" size="90448" crc="31dfa580" md5="17dbd946d8c1542fd9ec32c9f715d292" sha1="44e54da9403379641c6395aa9fcf1d0432dbd794"/>
+		<rom name="DATA\files\effects\karmaripple.lxb" size="1956" crc="4e8747fd" md5="918893fe4ce1a7ba1f5881c631eaed35" sha1="5f0f370533d370d02059bc151f597531ad593981"/>
+		<rom name="DATA\files\effects\monkeytailloop.apk" size="60388" crc="8645ca86" md5="e951d6dc5d27368edbda42909afa315a" sha1="00f11f750c5d0961649fa4675bd7b361add6d474"/>
+		<rom name="DATA\files\effects\monkeytailloop.lxb" size="1613" crc="eefb420a" md5="a52b5a85b2ba358b0f185a0c91b6a23f" sha1="dc716ae4d575307d73cf229117d0bf4cc6bcc456"/>
+		<rom name="DATA\files\effects\mp_damagestrongchargedattack.apk" size="172912" crc="0d52a8a0" md5="9bb1409c242ec5aca05f8ea0ee64c574" sha1="e18ea5887cfad79280edd72ebae6446c57c82441"/>
+		<rom name="DATA\files\effects\mp_damagestrongchargedattack.lxb" size="6806" crc="48e10761" md5="4296b358ebc1d11252fa1c2af1353a4b" sha1="08dd3e9e25e4d45c4b355ffaddb1b7946ac956df"/>
+		<rom name="DATA\files\effects\mp_hitflashblue.apk" size="430928" crc="cea1d342" md5="ef42cdd3de407b1c75f40d0241bea412" sha1="feba40d1ac77bafb070dca40fda9fb6c04ccf1dd"/>
+		<rom name="DATA\files\effects\mp_hitflashblue.lxb" size="9690" crc="8a998005" md5="b39657c12db16c976f20c2e6169aeb20" sha1="2988d3eb0032af0122c38d9a7fe4a16e9a98dddd"/>
+		<rom name="DATA\files\effects\mp_hitflashred.apk" size="430928" crc="81e01c8a" md5="c597d04cdd2e5c0ac0b62c98ffa8ace8" sha1="750e0ad7b2dc119e1b88a5b3c6afa3c633ab8505"/>
+		<rom name="DATA\files\effects\mp_hitflashred.lxb" size="9687" crc="b529627c" md5="3d716559f73e2ed924555892bf96215c" sha1="98616e76a0a793fd63170589ed8f29ffe8173586"/>
+		<rom name="DATA\files\effects\mp_lowhealth.apk" size="8040" crc="eee8add1" md5="bf19a4d10813e0a43ebe0dbbf0f993ae" sha1="6e2e50fa28ee770203cc6fab9339087aeb80ad5e"/>
+		<rom name="DATA\files\effects\mp_lowhealth.lxb" size="4203" crc="589c2f1f" md5="aa6ba42fb90c584a7270fb176d66f90b" sha1="ff17a064e87022f226a08d5b49ae42497a10911f"/>
+		<rom name="DATA\files\effects\mp_particlefx.apk" size="2498672" crc="5ec63a18" md5="8b61514cf5efa09f8dc4bc31273264d8" sha1="50700b39902df898e4fa44cad7a127cdbee936a1"/>
+		<rom name="DATA\files\effects\mp_particlefx.lxb" size="40166" crc="ff30f947" md5="3c2eea8df149e2641035f95d002e6e91" sha1="d680dce7fa2d2efd243aa1114e11ea4331dd6396"/>
+		<rom name="DATA\files\effects\mp_pointleader.apk" size="15496" crc="d16bbc68" md5="ec54a5b9fb363173028d58600d586554" sha1="8809a688450ecc3a902c8131961985b796ce75c9"/>
+		<rom name="DATA\files\effects\mp_pointleader.lxb" size="3852" crc="575eef3b" md5="1fe985e68846b0fbbb6da57f93b0dba3" sha1="fb5cd10d5dd8fa5326c2b4d0d208b4962c90e968"/>
+		<rom name="DATA\files\effects\rumblefx.lxb" size="700" crc="7b2c72d4" md5="fbdce4db3a6a12ea8457b86a602ee01b" sha1="cdb0b828853683998fe940943b0a0f600e41d86e"/>
+		<rom name="DATA\files\Forest_A.bat" size="52" crc="3655513f" md5="533832bb4da92fc353a8e8b95e11878e" sha1="f6273885809c6d64deba94ae7b03d7b69d12fd49"/>
+		<rom name="DATA\files\global\balancemeter3d.apk" size="179704" crc="c746589e" md5="e37e901b7972b7d1e4cde06796758828" sha1="2ef792e54465acd3f348f930aa22133bf9d514ff"/>
+		<rom name="DATA\files\global\balancemeter3d.lxb" size="2441" crc="b7565ea6" md5="74f8136b2941f342269d4d6ce65c206e" sha1="b7795523e6be84ac05581271635adbaea636a219"/>
+		<rom name="DATA\files\global\button_dpad_down.apk" size="12016" crc="40fe210b" md5="331d53813088a12955e581199de77dfa" sha1="c4631ea065f68fc375e82fd88db34888eea8c619"/>
+		<rom name="DATA\files\global\button_dpad_down.lxb" size="4310" crc="cc5a9965" md5="815b082cac6f5e1ed16efae88cd0ffef" sha1="7b3345a7fa2dd1cb5f6852c0a6cef78fd03a1403"/>
+		<rom name="DATA\files\global\button_dpad_left.apk" size="12016" crc="1a1c6210" md5="8f452d34e51a88efa7291b266b1eb95c" sha1="07e6b617efc056eb0b7fcdebab6df5276903c060"/>
+		<rom name="DATA\files\global\button_dpad_left.lxb" size="4310" crc="afa5f6e3" md5="2df48349ac12393ee510315d08b58f23" sha1="067ebdcb4f8bf042cd952aeb833c505acbcbd46e"/>
+		<rom name="DATA\files\global\button_dpad_right.apk" size="12756" crc="01ebe7b6" md5="b38a08b5adf8bd7871c42333093f8278" sha1="2f0a100328d4e9a5b4522141e7ba77e2045b55b0"/>
+		<rom name="DATA\files\global\button_dpad_right.lxb" size="4300" crc="a2c357b3" md5="a95360c6583432ce71ffbfb31b9e96c6" sha1="9c0e98b95f1b0da4954d66dea4a55e9f97e0c460"/>
+		<rom name="DATA\files\global\button_dpad_up.apk" size="11984" crc="96d28734" md5="5004bfa3c1c6193da92a1bade04f0934" sha1="cc6951d50a318f1d27c38bd2b1978461ada2a4cc"/>
+		<rom name="DATA\files\global\button_dpad_up.lxb" size="4308" crc="b4470df2" md5="8fc20900af17cb8bc43ed4950a744778" sha1="6aa7b7e2ec118123d11f2616b0bcf30581223190"/>
+		<rom name="DATA\files\global\button_failure.apk" size="972" crc="8cc65d7b" md5="cf7b54fa9e67239ba80d6888d44035e5" sha1="1ef0923cdc29cb0c15f418041490ba5d286b5057"/>
+		<rom name="DATA\files\global\button_failure.lxb" size="1433" crc="5d5e3fc7" md5="def84cc6f4c797835518a5acb4875af9" sha1="a348ee5076ed837c8169be7148a831e2cf8a329a"/>
+		<rom name="DATA\files\global\button_success.apk" size="345328" crc="954adc79" md5="6373b51f48b6977f1e73b2d950d2abca" sha1="9d8c17fe41901368be07cebe226ee5083a09b390"/>
+		<rom name="DATA\files\global\button_success.lxb" size="1387" crc="b00b97f7" md5="78980e708c48055132a155dade0be2f7" sha1="291d183766423d94cfc36cddd53a27e3c91e0302"/>
+		<rom name="DATA\files\global\buttons.apk" size="738120" crc="012121d4" md5="a3e90571ebf00d8f61585b2ae5aab182" sha1="de9c846552c6da55127bc0037763eab85849fc52"/>
+		<rom name="DATA\files\global\buttons.lxb" size="4892" crc="e3f6785b" md5="bf51eb603e7bdc740324d57f45c22014" sha1="a29954973ef972938ba32791c6ea65d7cb12ad5e"/>
+		<rom name="DATA\files\global\chidrop.apk" size="430928" crc="1fe4dc8e" md5="8a61683610f5b0a5a309ddcd836457b1" sha1="aed6bf550a526c221ea96689f038161609857070"/>
+		<rom name="DATA\files\global\chidrop.lxb" size="9151" crc="4ea2c51a" md5="991c7467f6e81b1494d99c6e71cd680a" sha1="9df7d55f82e62f8a51d68075bd6804e2cd299df6"/>
+		<rom name="DATA\files\global\furiousfocus.apk" size="1395496" crc="575972a7" md5="65c429cf2aa704e5ff7622ef28fff6bb" sha1="b77b325fb56b6cf92cbd9907ccd360585d0492b1"/>
+		<rom name="DATA\files\global\furiousfocus.lxb" size="3158" crc="adb30383" md5="19b2a93fd398548b917ea95b3b4b3db6" sha1="bba77d16e95f1247e0a2475a3cb34560a001eac2"/>
+		<rom name="DATA\files\global\globalfootstepsfx.apk" size="1037524" crc="90e01916" md5="64ed881ce01353c16664da938b2eae43" sha1="b168ca25f37428a6d005036d65fbc2789a728e08"/>
+		<rom name="DATA\files\global\globalfootstepsfx.lxb" size="12944" crc="7c14fe63" md5="ed8887447acbfcc51a51e3d77342b605" sha1="97965448fbf672016d823353ea5507ce39c69716"/>
+		<rom name="DATA\files\global\multiplayer.lxb" size="2818" crc="73bfed0f" md5="c4a79ab40541fe6c80731b3369264a1e" sha1="81b5d2f9479dbbbb3ac76c331073621f4812b037"/>
+		<rom name="DATA\files\global\stumblesign.apk" size="101100" crc="25459620" md5="30bf7a6553e268fc393333142a5a5c0c" sha1="91703e1c8fb2509788392d9a39dd73b261babe11"/>
+		<rom name="DATA\files\global\stumblesign.lxb" size="3092" crc="d32fc5d0" md5="490ab7b9ca67c3300eabdd75f605b599" sha1="c5f8f9eed941ed7bb90e99c0d1eb3be6450b3318"/>
+		<rom name="DATA\files\globalaudioevent.lxb" size="272" crc="dc74d511" md5="f2218e594abfb141f5a3a85b7f879ce2" sha1="96c93e4640412ba72bd18181c66c1e90e12ed250"/>
+		<rom name="DATA\files\level_audio\1stplaya\level.fev" size="35024" crc="300535fe" md5="9125255b65c0f3ad158ae8f73bc213f5" sha1="b299730d9ecef3779fb5964ff0759a921dcbe7c9"/>
+		<rom name="DATA\files\level_audio\1stplaya\Sample.fsb" size="1735696" crc="bbd08adb" md5="29f7513d385aef4837d4411200110a83" sha1="ddf3c6530bbdd6bbb97472e5384e1c6af225451f"/>
+		<rom name="DATA\files\level_audio\1stplaya\Stream.fsb" size="2427552" crc="c3ac69a0" md5="5d7fe9a2209afcf602e516040e322540" sha1="504d0f7e1ccda4ba11728cdcc33cbe28e06d2273"/>
+		<rom name="DATA\files\levels\1stplaya\ai.lxb" size="53358" crc="d3314cde" md5="2f7b7b82ca80410d2f20ec2b1f71eee6" sha1="6c017f412aeabbeb123bb6cb3da4e940771a98d0"/>
+		<rom name="DATA\files\levels\1stplaya\art.apk" size="17001228" crc="408cd654" md5="ee1e48e59c089e0a80c9e731a1ef30b2" sha1="5f5d222147a80bb9a343feac1aafc2882c999b7d"/>
+		<rom name="DATA\files\levels\1stplaya\art.lxb" size="1013930" crc="669cf2b6" md5="548b93aac5052457e3a92b0f7c7fecb4" sha1="ed3279b1492bc34ab756fa1e1582ad55362e9e38"/>
+		<rom name="DATA\files\levels\1stplaya\art_grass_a.apk" size="59504" crc="0669243c" md5="d35b0086b824eab5029c05f6f19ef26f" sha1="c114f230363a7523c568d6e1c2c3eec6774ee50b"/>
+		<rom name="DATA\files\levels\1stplaya\art_grass_a.lxb" size="2989892" crc="7166b5a8" md5="9c1acb2590d864a7d5f3c438185bec47" sha1="86d43c6b3fd8735faecff8fbcca108b932cc2fe6"/>
+		<rom name="DATA\files\levels\1stplaya\art_grass_b.apk" size="22052" crc="6d126502" md5="041037d6eb3f3ae3bc57ea38b7c7ce65" sha1="8ea10a76b5cf8263cc39b4c45b9c4506eea68666"/>
+		<rom name="DATA\files\levels\1stplaya\art_grass_b.lxb" size="2377488" crc="e84d7c14" md5="aec5c004025f627a9561d273dd70b478" sha1="b0242f216d68931bc2fc3e788331488c6a490eba"/>
+		<rom name="DATA\files\levels\1stplaya\art_grass_c.apk" size="33104" crc="71415a0b" md5="64ae6e56dd8287364e92f2b90cf7fa3d" sha1="0248125e523e474dc67683ac2b544f86ed0c9dc7"/>
+		<rom name="DATA\files\levels\1stplaya\art_grass_c.lxb" size="1807665" crc="101be818" md5="e8bf926d1f0c9a7fd6aff7283fc911d0" sha1="1aefde11b5cf7b9ac49e1ae397a270f328aeeb90"/>
+		<rom name="DATA\files\levels\1stplaya\art_grass_d.apk" size="22052" crc="8e14270d" md5="fdc0fabd21f913572a8d89dd91b2110e" sha1="afd971b70ed32df40dd2c10cfd65b7e0bee2ee05"/>
+		<rom name="DATA\files\levels\1stplaya\art_grass_d.lxb" size="1608981" crc="765b0423" md5="bdfdb542556db32fe823a6cabc9111a1" sha1="13d4f6771349b6d74ac810c7b44c2f6fbd3cbca9"/>
+		<rom name="DATA\files\levels\1stplaya\art_grass_e.apk" size="33104" crc="a45cdd46" md5="3ca80d401934393992ccb1c5dd6505d3" sha1="226f1461ef8ef48e28f8232adf7068b4b9a9f3f0"/>
+		<rom name="DATA\files\levels\1stplaya\art_grass_e.lxb" size="2106721" crc="16a84b32" md5="6b3e06544b00f57541c1ebdd7dea3c00" sha1="e5bbe890ad2267f22ed8bc6eab4a10f2653c81b4"/>
+		<rom name="DATA\files\levels\1stplaya\audio.lxb" size="7813" crc="80a68e51" md5="78eff8bf2963902ccd8b96b3ca2cdc2c" sha1="65b443c6c741bdee5162eab3f5c6cdd66812ec31"/>
+		<rom name="DATA\files\levels\1stplaya\audioevent.lxb" size="202" crc="d4f5eb92" md5="c8b08e085c614e0603ab28342ab8f402" sha1="2221e8d845c360c06e6a51825f1b5d033607f998"/>
+		<rom name="DATA\files\levels\1stplaya\cinematics\cinematic1.lxb" size="4774" crc="1a4ad1af" md5="78c0686dd4e62f9cb8d6f07a2a9852b7" sha1="d70dfb098305e0aba3ed9e6f2c1e0a94bd2c90f7"/>
+		<rom name="DATA\files\levels\1stplaya\cinematics\cinematic2.lxb" size="50381" crc="8c86d086" md5="bab5c6dc9db11313712119ea3ae457d3" sha1="eba73f870b89cfd5c47cdd60dd2c64804c2797bf"/>
+		<rom name="DATA\files\levels\1stplaya\cinematics\sc01intro.lxb" size="449099" crc="a81576e3" md5="bada54cbafc7181ba0e8ecc75423cffd" sha1="9f9ecc2b309a6047babe2f4fc81293e952b37750"/>
+		<rom name="DATA\files\levels\1stplaya\cinematics\sc03bouldertoss.lxb" size="183929" crc="f3ccb2cb" md5="b10904b1a9a92706e4e5bc94a21d3ad1" sha1="4fd626dc5b44a1cd8691434b00e6ecb4eda93faf"/>
+		<rom name="DATA\files\levels\1stplaya\cinematics\sc04bridgedestruction.lxb" size="114879" crc="f8c03d18" md5="b2aef37d19392b27f7aa430635a29e94" sha1="1feccfb9826a7bc3c0803ad9692cc5339233673f"/>
+		<rom name="DATA\files\levels\1stplaya\cinematics\sc05ashifufail.lxb" size="102601" crc="e3c98dc4" md5="433686335c899b0bef3f740c4367ca51" sha1="620f3ec32deeab6dae4f7c775ea2cbf5fa68bd9f"/>
+		<rom name="DATA\files\levels\1stplaya\cinematics\sc05bshifusuccess.lxb" size="73594" crc="089a1f70" md5="c343631f5adb821d93a196265f06d561" sha1="0496f9a6259d496345c3aba00484bb8fe6eaee9b"/>
+		<rom name="DATA\files\levels\1stplaya\cinematics\sc07finalbattlestart.lxb" size="135078" crc="d8f7eef3" md5="05cdfcef1927aa5fd4ce8c804c1229d6" sha1="000fc6bdc3a36238213c106331fe591e49deee00"/>
+		<rom name="DATA\files\levels\1stplaya\cinematics\sc08finalbattleend.lxb" size="133756" crc="7af28d67" md5="0f052cbece471d55b9a806ecbdb3e118" sha1="5f18c417a4a45d97df208050cf22f605d200472f"/>
+		<rom name="DATA\files\levels\1stplaya\cinematics\sc09shifureward.lxb" size="36812" crc="4e66b14c" md5="ef0d5b1e828e8ab0e9d869169638316b" sha1="c750f869febfe48c03eb923a4ab148f87e3dd088"/>
+		<rom name="DATA\files\levels\1stplaya\gameplay.apk" size="4780012" crc="59ad3d3d" md5="49efa94c02e4e4a141288109df7035f5" sha1="d407d023b2404cc59e0ace4eac2a6211e218d08e"/>
+		<rom name="DATA\files\levels\1stplaya\gameplay.lxb" size="503936" crc="7cbafb53" md5="e532be8bb41766c5a5f0e7790ef35dfd" sha1="82e17aca0af61f5a97a18d3926698574c7e97c8b"/>
+		<rom name="DATA\files\levels\1stplaya\level.str" size="1636" crc="c4b3e142" md5="3a98acf5a1269b6004624845698a15be" sha1="096d38c8d0f830aa250c0072e6c6ef8bdb4733ba"/>
+		<rom name="DATA\files\levels\1stplaya\lit.lit" size="5956" crc="f8cde0d9" md5="4046390ea64aebe3c73eaa1d7c05c25f" sha1="2525f9d0216cbe9f8b0b1de90595a58286859210"/>
+		<rom name="DATA\files\levels\1stplaya\sky.apk" size="1232372" crc="e1806c5c" md5="488d321658aef8bec0b53e67d41447e7" sha1="b04d50bc181d5da0a71f20f3c9b8c7f3269262ab"/>
+		<rom name="DATA\files\levels\1stplaya\sky.lxb" size="5503" crc="c6f75e50" md5="0e52a149e9dc3e23462587bec2b2d69a" sha1="4468856813a50179f0e1e8f9bba4297dada1f135"/>
+		<rom name="DATA\files\levels\1stplayb\art.apk" size="9945364" crc="e9d2de91" md5="063554ed8ed54ce30095745aa7af1fd8" sha1="c93f1a487772e55db3941c73f894d793e3f51153"/>
+		<rom name="DATA\files\levels\1stplayb\art.lxb" size="402982" crc="95db244b" md5="5b4dcb0b4dc69d23e550dcc8a5eb957b" sha1="0fbb255ed246800ce5539f116172a7ec7f0a7ba7"/>
+		<rom name="DATA\files\levels\1stplayb\audio.lxb" size="13411" crc="c644ca4d" md5="8a2de0f37638877509356c53dce53cdb" sha1="e527aed3da7c2f1e172aca847fadea80623409cc"/>
+		<rom name="DATA\files\levels\1stplayb\cinematics\sc01intro.lxb" size="1104037" crc="2b9d0dfe" md5="c55ffc04710c05dc13cfae7ca6ddfa36" sha1="57efd798c540dd9c4920c12e73d15e47fc9f20b0"/>
+		<rom name="DATA\files\levels\1stplayb\cinematics\sc03meetshifu.lxb" size="311267" crc="76fcb31e" md5="2d7dd45dcda8c8563151a45bc2a1e720" sha1="1b27b987faf7e39d939e9fcbad91d0abb8dd553e"/>
+		<rom name="DATA\files\levels\1stplayb\cinematics\sc04end.lxb" size="704610" crc="a76f3df0" md5="328f3e366b2c82e5fc62483c2799c426" sha1="bf264088a693c6e5f3d62853d09d85f3859380f0"/>
+		<rom name="DATA\files\levels\1stplayb\gameplay.apk" size="3873948" crc="8ae095ed" md5="eb39fb1b2a57ae5b8606924909138fd3" sha1="1f92312b730072e01a18ef8c30dacbe70ca1505b"/>
+		<rom name="DATA\files\levels\1stplayb\gameplay.lxb" size="277669" crc="55fedf71" md5="43161c51a203165b10bc65c0f30669a8" sha1="6c54db1330c9ccf4674092868b48e60ef89d03d2"/>
+		<rom name="DATA\files\levels\1stplayb\level.str" size="676" crc="47bb77d4" md5="8b7d670a78869d98393883f8258068f3" sha1="0ff47fb8750fd33ce8b7847715dd5f443b6d95b5"/>
+		<rom name="DATA\files\levels\1stplayb\sky.apk" size="24908" crc="725a5e70" md5="ea41a9c5b21d6809d91d279183b2b6e2" sha1="6fb4870840da4bd2b9a08c402de55ac4c19e1c99"/>
+		<rom name="DATA\files\levels\1stplayb\sky.lxb" size="8335" crc="7985ff3f" md5="e7b6e96e28266951f63232a9878b451c" sha1="ada67c00e9419e6a8682a5609b1b9e705cd88c2b"/>
+		<rom name="DATA\files\levels\chopsticka\art.apk" size="2566948" crc="dc3350aa" md5="d4872966d912abfc9fe82a716a2c472f" sha1="b9cf504d9e11086c55a262676a86bf78f64bd364"/>
+		<rom name="DATA\files\levels\chopsticka\art.lxb" size="23230" crc="088cdb27" md5="9170e1ba15a559ca49b490f95bd48edd" sha1="dacc71ab7a4f6b11f54e5d92cf81840b35707acd"/>
+		<rom name="DATA\files\levels\chopsticka\gameplay.apk" size="730764" crc="479b3ade" md5="79cf3c4a8750afba0006477b5886e539" sha1="acfd2508e6f7a801ad90baad29355f0ec9551fbe"/>
+		<rom name="DATA\files\levels\chopsticka\gameplay.lxb" size="54522" crc="03247039" md5="bd7137659646ef108a3f7ba6198d63d8" sha1="deede4dc464c694f329197d0c9a2d65a344835fc"/>
+		<rom name="DATA\files\levels\chopsticka\level.str" size="516" crc="9d5d72de" md5="0a47336eebff6b959c582203e67abd14" sha1="ffc463ccc2f78212a36b69260c40c08c55f4d5a2"/>
+		<rom name="DATA\files\levels\chopsticka\sky.apk" size="1288300" crc="b1c4bb27" md5="68fc256f572b6cc76bcf7221b29108df" sha1="986efcf4ea0651a5274d400920f54718b8a9cab2"/>
+		<rom name="DATA\files\levels\chopsticka\sky.lxb" size="3710" crc="d517fe6d" md5="555389d2058bf8f34978e389fd47a326" sha1="72eefdb4e52ef68d90e4a7c2b5c76a9271c8ff30"/>
+		<rom name="DATA\files\levels\dojo_a\art.apk" size="7586764" crc="ead6f488" md5="a6c8382bc4b4dadebfedffe474e7d4d0" sha1="dbf792493e22cc18d00201ec6f0b167970cb79c3"/>
+		<rom name="DATA\files\levels\dojo_a\art.lxb" size="320014" crc="e3de3f43" md5="e832cce7359c4415e3768138ff338dbf" sha1="4083111a51aa856a221e0433e8121a5ffe80a0ca"/>
+		<rom name="DATA\files\levels\dojo_a\audio.lxb" size="6542" crc="3748c266" md5="7062a325380385f39875cee255226a87" sha1="13aaf9d0184e54b0eeb1cdb258c9989b4e208bfb"/>
+		<rom name="DATA\files\levels\dojo_a\cinematics\sc01intro.lxb" size="314211" crc="dd21db08" md5="9aa62ccf2deae32db52b42c715370201" sha1="ea70cda1f4f45a45905d279f12deff62d81d9e74"/>
+		<rom name="DATA\files\levels\dojo_a\cinematics\sc021sttorch.lxb" size="4002" crc="614f2d6a" md5="dfb40b457370a44bbbdaa456789fff88" sha1="46a1d48f3644ed2e0e4f5734202be3d53475bfa4"/>
+		<rom name="DATA\files\levels\dojo_a\cinematics\sc03alltorches.lxb" size="5097" crc="8db8f3ff" md5="b511747356b97679264cf3c3ed9bfa70" sha1="3023423592bd89990e711c1451fcdcb74b3dee8e"/>
+		<rom name="DATA\files\levels\dojo_a\cinematics\sc041stdoorfly.lxb" size="42879" crc="8ccc33d2" md5="bb262cc6e0aa24479f55723a35f9e72c" sha1="8426b8f9dd32c68682ea288466763a8834a42d39"/>
+		<rom name="DATA\files\levels\dojo_a\cinematics\sc052stdoorfly.lxb" size="71639" crc="14266594" md5="6df20adb9504f13ae229c4ce703cbf27" sha1="eeb1ffa3be3c7284cb665434821f747bd1784d3c"/>
+		<rom name="DATA\files\levels\dojo_a\cinematics\sc063stdoorfly.lxb" size="136997" crc="fe16cea8" md5="2e361e87df7419665af6ff7ecfeb96d7" sha1="b5bacf6f3039fef40f248b0d945a7faace642318"/>
+		<rom name="DATA\files\levels\dojo_a\cinematics\sc07reward.lxb" size="107988" crc="7698e399" md5="a4f4f48cee12e6022ad262fdf90825ce" sha1="17e6080b33a745bac984d574c85292f085b29b39"/>
+		<rom name="DATA\files\levels\dojo_a\cinematics\scdoortofire.lxb" size="5167" crc="574e1559" md5="88684c76d576b51761200132f5e130fd" sha1="4cea387c8fe74fd99daaea447e9b30e7f3f679ae"/>
+		<rom name="DATA\files\levels\dojo_a\cinematics\scdoortotrophy.lxb" size="4563" crc="3f668bad" md5="fc3b78a73cfef18408ccee80c1fffa52" sha1="bdec00bfd350441612e62a20a095165bc5219905"/>
+		<rom name="DATA\files\levels\dojo_a\cinematics\scdoortowind.lxb" size="4303" crc="bd32178a" md5="0b8a2dacfabb5e030e696c60722996fb" sha1="58c84b0b69959d6d3ad02b953803e424e6e5fe32"/>
+		<rom name="DATA\files\levels\dojo_a\gameplay.apk" size="2554020" crc="f3233e07" md5="a80bdce4b153718369ddad3a88989e0a" sha1="e43888bb0954480f138a2f86c0105d086753c81d"/>
+		<rom name="DATA\files\levels\dojo_a\gameplay.lxb" size="306508" crc="1c2a1d70" md5="363866da228419d529917466f5df920b" sha1="69ee27ed23bc778b421054a69fb2ee21a1133422"/>
+		<rom name="DATA\files\levels\dojo_a\level.str" size="676" crc="ced7414a" md5="f5c9d3af749bbb1958287346f39e5777" sha1="c41d14306fac9af1a35fa4c58eb0762412b4651d"/>
+		<rom name="DATA\files\levels\dojo_a\lit.lit" size="13860" crc="b99aff65" md5="d05455f24499664c5d6658c50036788d" sha1="619ce3462df74b1eb8cbe398b000a7b5feedba0c"/>
+		<rom name="DATA\files\levels\dojo_a\sky.apk" size="45472" crc="3b5a59da" md5="bd6cc4789ede3143fd1609d83a1be5b0" sha1="8d73773a861ac3b57682b223398e1a389c66adfc"/>
+		<rom name="DATA\files\levels\dojo_a\sky.lxb" size="4747" crc="341cadea" md5="a0b0fd9ff24eb1333c97ce4c58ef7a85" sha1="68f4948e72164e660fe842eb09787d0cc242cdb4"/>
+		<rom name="DATA\files\levels\forest_a\art.apk" size="7460484" crc="f0e72e2b" md5="57e43c3c5e46f112433ddc2fe81faf13" sha1="20ed704122b396cac1881aa1ef444b3171a46698"/>
+		<rom name="DATA\files\levels\forest_a\art.lxb" size="612214" crc="41ddc7a3" md5="1b4aa7b7315bcd2d0ac60e5267ac5626" sha1="28e305f2f924449a6bde626b45889ca0125263cd"/>
+		<rom name="DATA\files\levels\forest_a\audio.lxb" size="17958" crc="bdb0c90e" md5="9becd4f53cd256b3c13b9c4385c6e07d" sha1="e67089170bf0a29877ef4573bff2625953eea3c7"/>
+		<rom name="DATA\files\levels\forest_a\cinematics\sc01intro.lxb" size="29071" crc="563dcee1" md5="fbe00ec06924bbeea84b9b5ee7287c08" sha1="e2236daa179f34e5ccee339e1a2a1a975bcd4855"/>
+		<rom name="DATA\files\levels\forest_a\cinematics\sc02treecollapse.lxb" size="212144" crc="b55afc9f" md5="300138fcb6607831db0c265d40c5ff3a" sha1="6cd5176ba70ff8e95f2df50499e7cdbe54a2d920"/>
+		<rom name="DATA\files\levels\forest_a\cinematics\sc03swingtrap.lxb" size="20085" crc="340c879b" md5="10ab3ba4d7ab0e028ca352d383f18d8b" sha1="26680e071975cf3dac36ae48fa147a1dfbed8c02"/>
+		<rom name="DATA\files\levels\forest_a\cinematics\sc04finalbattlestart.lxb" size="355048" crc="14c71d78" md5="16f2673e222351b000c37e1ab6d51e43" sha1="4c7822d393e016bcb8ec3b2fbb7cd6c3e1fc3772"/>
+		<rom name="DATA\files\levels\forest_a\cinematics\sc05finalbattleend.lxb" size="146969" crc="28d08411" md5="7eec1a6bdbaa920ce61563315830776d" sha1="1ef42ac979ce1b323964144789a551e619b8bf31"/>
+		<rom name="DATA\files\levels\forest_a\gameplay.apk" size="4671892" crc="056968f1" md5="59a480fd2a259296484740f70a591622" sha1="c0f3d12bc4012e779b212d1ffaa97605ecef92fe"/>
+		<rom name="DATA\files\levels\forest_a\gameplay.lxb" size="216850" crc="29deaee4" md5="a037b63c6dbe7d7af659c0ee128c1343" sha1="a4b390d88778fd626575c6d85494d304f8a21d7e"/>
+		<rom name="DATA\files\levels\forest_a\level.str" size="676" crc="75753ff6" md5="165d63ad5c4e20b74cae14115f24936c" sha1="4042e3985d8793c391b3e5417721abb996b481ab"/>
+		<rom name="DATA\files\levels\forest_a\sky.apk" size="461668" crc="6189d723" md5="e9d7af12a2ce46f7f0e2c846557ff5b7" sha1="998bfca5985f51af11210b645bfa8a64f28cccfa"/>
+		<rom name="DATA\files\levels\forest_a\sky.lxb" size="9040" crc="7c02f796" md5="36ca77cf0e43f2c985c28134050811e9" sha1="5aa2923321462f1b188b62a0d5cd5ebfaf082676"/>
+		<rom name="DATA\files\levels\frontend\art.lxb" size="2273" crc="63e0909e" md5="9844db0cd105a53737883f6b86b0e5ad" sha1="51d0591bbf90f49835a915f1a6f30da78b035db6"/>
+		<rom name="DATA\files\levels\frontend\level.str" size="108" crc="60e4c520" md5="728260e0b0aa12be547323942933043a" sha1="ac75fece93dcd7d2613118d78a02765a4589d65b"/>
+		<rom name="DATA\files\levels\lotuslake_b\art.apk" size="16708040" crc="bc82c39e" md5="e92a95152ddab66086da240119f67928" sha1="49d2c528f8e9975d68f216a73eb6627a400c4bf3"/>
+		<rom name="DATA\files\levels\lotuslake_b\art.lxb" size="262920" crc="7b31962d" md5="4ec3f14eec42bc4cdfe4b5d661b1ab52" sha1="6c066cef488983b84bb816dda6e2c15843e45a7e"/>
+		<rom name="DATA\files\levels\lotuslake_b\audio.lxb" size="17090" crc="6b46fb4b" md5="d0dddaee025f6978c6857bc4e6f19361" sha1="d1a947da94bccf194aa7036cd9a4aeeb4cb1ac30"/>
+		<rom name="DATA\files\levels\lotuslake_b\cinematics\sc01intro.lxb" size="498027" crc="8bedeb74" md5="1fbd71350b1bb1e80b388fa4b5d64783" sha1="8b8a70715f2e1428240f7c40f6f6fad8d06cbced"/>
+		<rom name="DATA\files\levels\lotuslake_b\cinematics\sc02crocattack.lxb" size="316565" crc="4336f49b" md5="686aee6f4d15e7c519e82037e53c83d0" sha1="4f2ca1266e1d3f61178ab1991598fb55c31a4a2c"/>
+		<rom name="DATA\files\levels\lotuslake_b\cinematics\sc03trutlebeatdown.lxb" size="297709" crc="6927835c" md5="695d3fe3dce2d2e1a7b24aae44cf0251" sha1="69db03a3291a19fea0dfa14942bc01dc6fac7b54"/>
+		<rom name="DATA\files\levels\lotuslake_b\cinematics\sc04momtrutlebeatdown.lxb" size="357906" crc="b1169a10" md5="0b75c4d9c8cc9d5ac36685f01cd90ac4" sha1="253088f1e0c1ceb3fbf2d4089011ceb79e7e87b2"/>
+		<rom name="DATA\files\levels\lotuslake_b\cinematics\sc05momtrutlesave.lxb" size="215517" crc="0d2f4cf1" md5="918ac6a43204c54745bf63aec115a1ec" sha1="67f6782ea17eedfb25d08f9aa57b4ab2c94985a6"/>
+		<rom name="DATA\files\levels\lotuslake_b\cinematics\sc06finalbattlestart.lxb" size="607972" crc="890f5bc2" md5="764e2ce3df7e6b778c97d8fd64d32d1d" sha1="9f99e5e7d1a3164658f946d883156383a4c4c94f"/>
+		<rom name="DATA\files\levels\lotuslake_b\cinematics\sc07finalbattleend.lxb" size="914178" crc="85798cc4" md5="ad6f2c040d23de797bc7013643d6e937" sha1="b4805b54548c162272c6e287c1ca65200329bb78"/>
+		<rom name="DATA\files\levels\lotuslake_b\gameplay.apk" size="6396688" crc="b3cdbddc" md5="2c9513e867da8ca6060cd77aff3c5011" sha1="5d4ad9f0f77ae31d38fd1413d6e60019d451dbb0"/>
+		<rom name="DATA\files\levels\lotuslake_b\gameplay.lxb" size="762808" crc="2e02d18c" md5="ea2c7ffedd1ec24f8e64226a85db7deb" sha1="5d1f5213e90e3b7a334c8d861913ac874698dbac"/>
+		<rom name="DATA\files\levels\lotuslake_b\level.str" size="676" crc="392a06f9" md5="0488ee432c910fb8166d595dc589367b" sha1="65cc3751fa54bff7c33ab77c875d9cee4e4c7bca"/>
+		<rom name="DATA\files\levels\lotuslake_b\lit.lit" size="14500" crc="0b203cf9" md5="ea6dc5feb9f5dcd68a8d9e0cd7db3081" sha1="95c9bb29d9206037b24a286da465640d3ed17e59"/>
+		<rom name="DATA\files\levels\lotuslake_b\sky.apk" size="726680" crc="c13aa5f3" md5="dc97c2c50f462376a472f6a3683c382a" sha1="2c74d12e14e0c2753e96ea6c5154c51e1dd00b4f"/>
+		<rom name="DATA\files\levels\lotuslake_b\sky.lxb" size="8206" crc="e44e9160" md5="03a0c6b030154ca5cff907e4367d2093" sha1="aede7a074ce6b09c39fbf2b662b3a33b431a7023"/>
+		<rom name="DATA\files\levels\minigame_marblemania\gameplay.apk" size="3694536" crc="7b6c905a" md5="311ee88b9b7f4776aa332cccd376486e" sha1="8b06ed4cabfa2e6da46f09f2c64ac75c673e4f07"/>
+		<rom name="DATA\files\levels\minigame_marblemania\gameplay.lxb" size="112179" crc="2df2e4e1" md5="04cc73935d88611a09ea994b05fbfc90" sha1="03f3e16fc51a1da232fc51d46b457de73ca09c60"/>
+		<rom name="DATA\files\levels\minigame_marblemania\level.fev" size="35024" crc="300535fe" md5="9125255b65c0f3ad158ae8f73bc213f5" sha1="b299730d9ecef3779fb5964ff0759a921dcbe7c9"/>
+		<rom name="DATA\files\levels\minigame_marblemania\level.str" size="196" crc="d335cb40" md5="e59f33951539fc6c375568d4123bfbf3" sha1="c3a60af0260ea10deda98c3101fb1f001e4c21da"/>
+		<rom name="DATA\files\levels\minigame_marblemania\Sample.fsb" size="1735696" crc="bbd08adb" md5="29f7513d385aef4837d4411200110a83" sha1="ddf3c6530bbdd6bbb97472e5384e1c6af225451f"/>
+		<rom name="DATA\files\levels\minigame_marblemania\Stream.fsb" size="2427552" crc="c3ac69a0" md5="5d7fe9a2209afcf602e516040e322540" sha1="504d0f7e1ccda4ba11728cdcc33cbe28e06d2273"/>
+		<rom name="DATA\files\levels\missions.lxb" size="6104" crc="87981ac8" md5="117858e8653d3ce81763fb4f1743a2f3" sha1="e9f4c9a00240c022a2e15ca905c921738a26d292"/>
+		<rom name="DATA\files\levels\mplillypad\art.apk" size="8595264" crc="3a6df87c" md5="943009e26c4ff3265b0da4f67336c6fc" sha1="d7efecf45c63050a0593def6b98dd5effa3b0034"/>
+		<rom name="DATA\files\levels\mplillypad\art.lxb" size="1880434" crc="42378411" md5="cd2c030fe53a64964d91d94b27a62636" sha1="298b6095a87579837ae8d7a2baaad17a88bd0696"/>
+		<rom name="DATA\files\levels\mplillypad\audio.lxb" size="10273" crc="064ddde8" md5="e5eba3b3f093db0cd3563879f57718c9" sha1="2c498c2594b8b59847f93993621d8cb0895f0e6c"/>
+		<rom name="DATA\files\levels\mplillypad\cinematics\sc01_intro.lxb" size="4765" crc="ba6002d4" md5="df477808737ae7c9309313495efccc4a" sha1="1a04faa72b04176c8fdcbffd979ad635d62b8413"/>
+		<rom name="DATA\files\levels\mplillypad\gameplay_sparring.apk" size="3216260" crc="df43ac0b" md5="f4141594e1c49ccb72eb189f912449c3" sha1="5565bcffe7e56abd7a5675b14ee7034108d32235"/>
+		<rom name="DATA\files\levels\mplillypad\gameplay_sparring.lxb" size="163771" crc="2bfd4d54" md5="40be493965db1be43a8f2c4a58251bf5" sha1="f8f752eb6574d37c2cc9c47b6e2a5cbc4a3062a2"/>
+		<rom name="DATA\files\levels\mplillypad\level.str" size="516" crc="8fa86d15" md5="bf70b90c24a81c8523c027473e67f905" sha1="464d5c88ab1fd9716db7cfeba0f0f41267389326"/>
+		<rom name="DATA\files\levels\mytest\art.apk" size="342928" crc="d78ea34b" md5="9b20b40c7bb56c14cacd84099ff3a03c" sha1="d7e4bcd6c8acb264948119930f16d2a9d8abfab1"/>
+		<rom name="DATA\files\levels\mytest\art.lxb" size="23343" crc="a0cc56d4" md5="cf8e356cfbe6e9a1ba4e2249d6299164" sha1="66e188956e1ad77ea0b145688388b525620677b2"/>
+		<rom name="DATA\files\levels\mytest\ga.apk" size="124888" crc="285182d1" md5="1431d4f71e0b734572a61aab7c2183e9" sha1="d611a807cde5e97a1f516df58e89a49897ad3ce3"/>
+		<rom name="DATA\files\levels\mytest\ga.lxb" size="2422" crc="13ad2046" md5="21b976369f0ed98159a48749dca9b359" sha1="0802477db454d7f3b8ed6da6e545ea02eeafefb4"/>
+		<rom name="DATA\files\levels\mytest\level.str" size="356" crc="e0143bf9" md5="f4036c38a8f5b8f0b550fc9a673ea41d" sha1="d8f241b3dc56fb365d0f9b6e002f559d3883945b"/>
+		<rom name="DATA\files\levels\palace_a\art.apk" size="5201524" crc="990cc6c4" md5="3e1d570536cc8d7e0af9bbd251439d4c" sha1="308c9713d61fc4c712c938173df1299826e8ed5a"/>
+		<rom name="DATA\files\levels\palace_a\art.lxb" size="136597" crc="9cf5c8e0" md5="fa6dffcea8a460eb566505ffbc06c397" sha1="e6e94bafb9f7afade7431d7c99d1181133017fc4"/>
+		<rom name="DATA\files\levels\palace_a\audio.lxb" size="11362" crc="43cb6a1d" md5="968ec244080fd52c84bb73f859c13d90" sha1="17df0babda2e9b37a0989eda193a37768ffc01c1"/>
+		<rom name="DATA\files\levels\palace_a\cinematics\sc01intro.lxb" size="751832" crc="d511ae9d" md5="68a4004ff52a8a09d50b76b31465ce7f" sha1="f0851c1f5e13abdd2a39ba8e8fbb0acf97df986c"/>
+		<rom name="DATA\files\levels\palace_a\cinematics\sc02landing.lxb" size="604242" crc="1ba35db7" md5="1c73b379946ae1619f83f10bfdbe603d" sha1="f215f54287c948e518b02a550db764898445328c"/>
+		<rom name="DATA\files\levels\palace_a\cinematics\sc03backdoorclose.lxb" size="26014" crc="0075e848" md5="0ccba19a26559a323d788bf100215caf" sha1="f37364463e25083258957a614871ec1cf2185d4c"/>
+		<rom name="DATA\files\levels\palace_a\cinematics\sc04frontdoorclose.lxb" size="38534" crc="f4ea3dbf" md5="0be6aa8e79ee548dbfa52cb9cce9d33c" sha1="5ffabcef3bca6692835f5d39f38c8d37fd97b69a"/>
+		<rom name="DATA\files\levels\palace_a\cinematics\sc05rightdoorclose.lxb" size="26822" crc="74ce875e" md5="210ca0b82642f3724cde3a2cff7953ed" sha1="5c4f541830b668f98b0dd8ee442b6af6e95a7a0a"/>
+		<rom name="DATA\files\levels\palace_a\cinematics\sc06leftdoorclose.lxb" size="36977" crc="b44ed5dc" md5="f4533932a22852696db3c39f196cab29" sha1="866b86762508af26c21443ef064768413690238f"/>
+		<rom name="DATA\files\levels\palace_a\cinematics\sc07finalbattlestart.lxb" size="187447" crc="73fbe59e" md5="9ffb8a39a0d76c8d652d77a64bbff4a7" sha1="b8e81baa98a47a78737678023453423c5cd0cc2b"/>
+		<rom name="DATA\files\levels\palace_a\cinematics\sc07pigbossintro.lxb" size="2520" crc="8a863700" md5="b35950f98622d44b23ccb161bd7d65f9" sha1="2c55201073601fab0fe905926416eb40ea627c25"/>
+		<rom name="DATA\files\levels\palace_a\cinematics\sc08finalbattleend.lxb" size="45357" crc="f9cb4e0a" md5="b7c2f3f85a5cbf2edd69d42965a6ecea" sha1="2a44d40b5ef9a1b7ce7b4148901a9f70706463a1"/>
+		<rom name="DATA\files\levels\palace_a\gameplay.apk" size="10689508" crc="218c559c" md5="eb7027a28b3800ee8e51211530248710" sha1="5089e2a223a0370e7e1acf29579351e1a8f2a6a4"/>
+		<rom name="DATA\files\levels\palace_a\gameplay.lxb" size="605031" crc="fb1d97d5" md5="7b84dbaad20050edcb147399bc0f463b" sha1="ef8e412117c984e5653c0fb921e08c563cab7111"/>
+		<rom name="DATA\files\levels\palace_a\level.str" size="676" crc="403feb72" md5="7f901118a8af9fa4dd930cbad1a14a45" sha1="586e89478a9597fe6de6bb123fa16c37cf902328"/>
+		<rom name="DATA\files\levels\palace_a\sky.apk" size="1809048" crc="e9f518b8" md5="d3b6b4dd41f969505a8daa5a019c4673" sha1="294dd935c4232607b4f5263b3781947c4997fea6"/>
+		<rom name="DATA\files\levels\palace_a\sky.lxb" size="8337" crc="f867a7bd" md5="4b2d691d050b8aac79783c795a3a8ec5" sha1="29b86c4b04b1db3764ff0c16651e35a62b9417bd"/>
+		<rom name="DATA\files\levels\palace_b\art.apk" size="8725320" crc="52f6dc08" md5="3d904aab854c29dce66ed5ca579edaec" sha1="daa0bbf8dae5d7f55758bd3751a3baf3a357ad3f"/>
+		<rom name="DATA\files\levels\palace_b\art.lxb" size="355671" crc="401e7775" md5="7e6b7d85a4ee7631f9df6a91036b08f2" sha1="92b0be7814cf9dc0d7eae656f2f9ed6a3692544e"/>
+		<rom name="DATA\files\levels\palace_b\audio.lxb" size="9678" crc="40260919" md5="a159a1e54e6eb3baddc8692febf98e61" sha1="0310b90848efd255bdd3df6ec6fd89bb0f04d0b7"/>
+		<rom name="DATA\files\levels\palace_b\cinematics\sc01intro.lxb" size="433188" crc="1a3eed02" md5="7dd3c759604f318f38b6e737762f97f4" sha1="7043029711cf9cc9d9ca7b21d99c5451584d3e87"/>
+		<rom name="DATA\files\levels\palace_b\cinematics\sc02crashdown.lxb" size="161442" crc="053245c6" md5="ca47bb881073bf2cca719c8a5f078d10" sha1="10dd23840690bd91fb7ac56f4293f5b27e7e5863"/>
+		<rom name="DATA\files\levels\palace_b\cinematics\sc03secondfloor.lxb" size="364346" crc="b8e6ae4a" md5="21539b1d687fa037db86a134416ac345" sha1="3d2e1159a47edcd11722cadc086013931ee7991b"/>
+		<rom name="DATA\files\levels\palace_b\cinematics\sc04_b_thirdfloor.lxb" size="613364" crc="b773630d" md5="20b5de1b67e49f2246d49d3a71ff9213" sha1="aabc38c1c011ca5f77f852623718c4f19d3a342b"/>
+		<rom name="DATA\files\levels\palace_b\cinematics\sc04pillarfall.lxb" size="23530" crc="944b85a5" md5="90263f4ef78fcf5ef1a196e334c58d8c" sha1="9db47921f17bab55d95d0412b4175f17d132c7f8"/>
+		<rom name="DATA\files\levels\palace_b\cinematics\sc05finalbattleend.lxb" size="60268" crc="f12fd85b" md5="15331f39ef44c954880cb66154eb5ccc" sha1="2340dfacc9cc7c880531f6ee6cd764a99150302d"/>
+		<rom name="DATA\files\levels\palace_b\cinematics\tailung_cinematic1.lxb" size="217005" crc="10afac7c" md5="7ce2633836cc72e9264d3fe9553ecfd1" sha1="bd9055a66c0493c62984711357f7c54fe6c3a5cc"/>
+		<rom name="DATA\files\levels\palace_b\cinematics\tailung_cinematic2.lxb" size="216137" crc="9423bbb7" md5="09ae8adc4b72858e80cd8b600ba638dd" sha1="d77a663d31a7d8a49b36109ed3a20c11cf9171eb"/>
+		<rom name="DATA\files\levels\palace_b\cinematics\tailung_cinematic3.lxb" size="249587" crc="25785779" md5="093177ebf8c01f6c129d733e13fe4379" sha1="0faa582a54e0e362914fc430880acd87333bc4c9"/>
+		<rom name="DATA\files\levels\palace_b\cinematics\tailung_cinematic4.lxb" size="198310" crc="265af12d" md5="bb70692907c5ac5340d326795b8f134c" sha1="db20864c3d2f5959bb48ee37346e48c7658c208c"/>
+		<rom name="DATA\files\levels\palace_b\cinematics\tailung_cinematic5.lxb" size="200004" crc="2f025ec5" md5="49e5ed615b2bee3b869f2e3af84a5019" sha1="3c43370ca8505f02fa14c761d5ba2e8af5e187b0"/>
+		<rom name="DATA\files\levels\palace_b\cinematics\tailung_cinematic6.lxb" size="233945" crc="1d968b51" md5="dacc122ef4b84a0878622f3c82dd9863" sha1="388e7859320200680234313a740dc0c7747ae7cc"/>
+		<rom name="DATA\files\levels\palace_b\cinematics\tailung_cinematic7.lxb" size="502089" crc="ae5ea3be" md5="feaecd45c7e19e4672c49445a4c8ad75" sha1="95a042bb02288fd6f0a614b011d5ae943be8bd52"/>
+		<rom name="DATA\files\levels\palace_b\cinematics\tailung_cinematic7fail.lxb" size="46504" crc="6843d0b8" md5="0b9cbd6d79c664d1fae2101f53e1b652" sha1="3747764ee36126f4916a9ae509279135c0ad2639"/>
+		<rom name="DATA\files\levels\palace_b\cinematics\tailung_debrisfail.lxb" size="42524" crc="5c493f81" md5="d52fce4c782c9baa4ff5077ba1050615" sha1="03fda8f9b26244062d37d567f703c74340cb75f6"/>
+		<rom name="DATA\files\levels\palace_b\cinematics\tailung_finalfail.lxb" size="101070" crc="01736359" md5="1cd8333e90650c757a7cc3f5ee081414" sha1="3da960ade83258ea14d498b01b7547ad94f73d94"/>
+		<rom name="DATA\files\levels\palace_b\cinematics\tailung_pillarthrowfail.lxb" size="44590" crc="424765a6" md5="d2991646bf442585943861c2b5820f3f" sha1="64d2c4660fffc9e89debff44f3d5715ce9489800"/>
+		<rom name="DATA\files\levels\palace_b\gameplay.apk" size="6206828" crc="74ec3726" md5="9a5db2df1de77b0796e654e4cc82a010" sha1="3b713a8c17e1b6672215105df1cae827af514e60"/>
+		<rom name="DATA\files\levels\palace_b\gameplay.lxb" size="657031" crc="fa85cd6e" md5="e1c81e46ab3477bbd1e6c3b74cd1e8ac" sha1="2b9986de6e6520755900106e7fba5ca81410a927"/>
+		<rom name="DATA\files\levels\palace_b\level.str" size="676" crc="9cdbc7a9" md5="86aaa33bc69acbdcf41f15b7c61c956c" sha1="8bf83c9d39bbffd4e1089d8b74d7898bac47fad0"/>
+		<rom name="DATA\files\levels\palace_b\sky.apk" size="1764352" crc="830085fb" md5="677d1290a2b7cab23018f737223e8d7b" sha1="8e921001a4de11ba1d0312a457b09a45335306c9"/>
+		<rom name="DATA\files\levels\palace_b\sky.lxb" size="17898" crc="21d4aa38" md5="206ff5d68592982b4b51e709a086ee97" sha1="e883bce7456b83a5d3d18569c4ea7769b29c598b"/>
+		<rom name="DATA\files\levels\ps2_a\art.apk" size="3164264" crc="529688ee" md5="571731e71f1f7746da26955f65a19efa" sha1="eac01218bc84ebae234a1efa04d396db57a4b846"/>
+		<rom name="DATA\files\levels\ps2_a\art.lxb" size="11293" crc="8579c97c" md5="0d975c76cc73299eea8840b1063ce97e" sha1="024c5c170914c8475d2213fd858f3897ba1b046d"/>
+		<rom name="DATA\files\levels\ps2_a\gameplay.apk" size="4315608" crc="ec578991" md5="7d2106c50762352bf01589eb5b6a74a1" sha1="157aa31160459a55cb20a610c805ab7ffa581af9"/>
+		<rom name="DATA\files\levels\ps2_a\gameplay.lxb" size="201149" crc="1437c6b3" md5="9cb56f251533f4874867964de0ac9a30" sha1="29c4eba4c60e2049418c25e0844e47e72378753f"/>
+		<rom name="DATA\files\levels\ps2_a\level.str" size="356" crc="84957283" md5="bfb78826200ed9e46f368f9b33411f6b" sha1="948b87e0353662ca0a43b99847fc21ecdb292687"/>
+		<rom name="DATA\files\levels\tltraining_a\art.apk" size="5389448" crc="1f6f8db8" md5="ff0576694c113cb628626eb92d57c39e" sha1="9542d050b3a539f64e7afa1cf8ab4f6a6c5870e2"/>
+		<rom name="DATA\files\levels\tltraining_a\art.lxb" size="395746" crc="5c2124bc" md5="f6acde0b2a550abb165b47b266106adc" sha1="3a293547e2f3ff7503d6f80b286d1a58fb252ec3"/>
+		<rom name="DATA\files\levels\tltraining_a\audio.lxb" size="8057" crc="d53292fa" md5="a2d744d1222dd667ed6d39d1be12f7a5" sha1="10d368276d5be924393c2629798d83bb16156c81"/>
+		<rom name="DATA\files\levels\tltraining_a\cinematics\sc01intro.lxb" size="421677" crc="bf7645b9" md5="4c0674a3d9e66e5186b368e145942c0b" sha1="c8ff89ef7da52e2cf82e13af57c18cf5b5bfae00"/>
+		<rom name="DATA\files\levels\tltraining_a\cinematics\sc02ballone.lxb" size="8095" crc="b94dbf78" md5="fba80e58146beb34a7872fb1695e3f10" sha1="6de31267fb5b81c20c16ae72b435b6ef0c522c88"/>
+		<rom name="DATA\files\levels\tltraining_a\cinematics\sc03balltwocamera.lxb" size="5947" crc="93ff1c83" md5="9706304fa43d8c3c1bd78a2b8b05039a" sha1="6e465e1f49757c6c670112a4ec60b7e11919f150"/>
+		<rom name="DATA\files\levels\tltraining_a\cinematics\sc04ballthreecamera.lxb" size="7293" crc="72a551d7" md5="7aba98f67c72a7f17e8e9ef2280a4992" sha1="a4a95c0d0dd186768629792d041ca104b451deed"/>
+		<rom name="DATA\files\levels\tltraining_a\cinematics\sc05lastball.lxb" size="826524" crc="767c7187" md5="b6c45face1bd1847c513875bfad10646" sha1="93b94304919ffe71250a83f4d709fd79b6570c6e"/>
+		<rom name="DATA\files\levels\tltraining_a\cinematics\sc06end.lxb" size="216873" crc="a88e0922" md5="58bd33be84ee5d2dbc0517a2e6cb9212" sha1="889a44cad682a1eb214e3cb1991c2731a609e749"/>
+		<rom name="DATA\files\levels\tltraining_a\gameplay.apk" size="6400088" crc="645fe3f3" md5="0c0c527a04edbb941807a34f41f9df97" sha1="191ef882ff8d9261a8f4d547c6761d59b47993eb"/>
+		<rom name="DATA\files\levels\tltraining_a\gameplay.lxb" size="600552" crc="d745f464" md5="e16270145ceae5633cc574214dafcdf8" sha1="0ff65a7325953135c69d10993778f41864ab8d18"/>
+		<rom name="DATA\files\levels\tltraining_a\level.str" size="676" crc="adf7ee5c" md5="74e880f1ebc64da37688f222855c4228" sha1="92f8e95aef5e91b0fb8eb6003472808805ddc9ce"/>
+		<rom name="DATA\files\levels\tltraining_a\sky.apk" size="1527804" crc="f42c621b" md5="ec63c36ba9b11f030b54ebcafdb9faf9" sha1="f03fe79bea6bbb41a5e15d3c14c5c22de33f2142"/>
+		<rom name="DATA\files\levels\tltraining_a\sky.lxb" size="46994" crc="6384385c" md5="64201603f9a913f0f953358996195583" sha1="59a0d783c3437ba78a6f55175197886fa2ece2fa"/>
+		<rom name="DATA\files\levels\village_a\art.apk" size="22325980" crc="eaa99dda" md5="c82ea9c002c151025c06acba7754469d" sha1="fa582b75983b7fe1915ca4172260e324d2af220d"/>
+		<rom name="DATA\files\levels\village_a\art.lxb" size="421259" crc="b60086c4" md5="04aae35613e7030ef005cf3e3582c81f" sha1="d48eced839c60c0141712096ddb41d4da211c6f2"/>
+		<rom name="DATA\files\levels\village_a\audio.lxb" size="9949" crc="d21b8c02" md5="d461239adfaa036bb69b7e785d46e7ad" sha1="bdf6d4ee73a8e07104619072f12e771731c2162c"/>
+		<rom name="DATA\files\levels\village_a\cinematics\ladder1.lxb" size="32990" crc="031640e3" md5="baa4cbfa89eb3b79973b6327ee2206ae" sha1="dd36e73952987bddf79678691c59e8130f787aff"/>
+		<rom name="DATA\files\levels\village_a\cinematics\ladder2.lxb" size="31984" crc="e8ca1cd4" md5="785d22cc4bd07ea1dd0f5e4cdad528ee" sha1="4729cfd480a8c0625c52acfac056c905a5770c66"/>
+		<rom name="DATA\files\levels\village_a\cinematics\ladder3.lxb" size="32148" crc="e5ee5d1b" md5="cad085f22564c9e04b28a8c58730527d" sha1="4c328a35b659e5368e7eced225d916d802f1b7b2"/>
+		<rom name="DATA\files\levels\village_a\cinematics\ladder4.lxb" size="32952" crc="24c9dcf4" md5="24b05edf9d8a075c9378028dc64c2717" sha1="0c72b42b214c40ec47c94ab8d2f919652beaf4a3"/>
+		<rom name="DATA\files\levels\village_a\cinematics\qte_oxmonkeypofail_1.lxb" size="51365" crc="92faa6dd" md5="d9578a445c7f59c1ca6b873febd93eb1" sha1="5d60216db02ab8647c02e0e1511c8b7f6da003aa"/>
+		<rom name="DATA\files\levels\village_a\cinematics\qte_oxmonkeypostart.lxb" size="471583" crc="5249277f" md5="df72e368df3eabb1fbf8cdd2a74fd38e" sha1="2333a44e4fa61ea92b6c7b8fcc12076888815077"/>
+		<rom name="DATA\files\levels\village_a\cinematics\sc01intro.lxb" size="603039" crc="3b1af769" md5="7088115b824e1e3730185e1087589d06" sha1="ac9ef44b2cd01489591f5741f55455b9422d1bf8"/>
+		<rom name="DATA\files\levels\village_a\cinematics\sc02doorcrashing01.lxb" size="60776" crc="d71366cf" md5="d117f3450de3dd718147214cab1606d8" sha1="741ca75ffe9a7010ccf499aa74022e3634c6522d"/>
+		<rom name="DATA\files\levels\village_a\cinematics\sc03statue.lxb" size="37497" crc="f83bc50f" md5="e2b1fc43e492d1a42b664e4b9ed119cc" sha1="6caaa339b2a80333f4dfca48a61116d6ab60ea85"/>
+		<rom name="DATA\files\levels\village_a\cinematics\sc04monkeyrivertalk.lxb" size="463571" crc="203df82c" md5="e0eb8be429bc34d6ea14b2ca5e192ada" sha1="34f2e3af2c72f94b8d84ccf644f17901b91e35b5"/>
+		<rom name="DATA\files\levels\village_a\cinematics\sc05doorcrashing02.lxb" size="30117" crc="54188cf0" md5="96c14fb29ebb81c8bd6a2ce5b1e48b7b" sha1="de2cd4c3717aacecc60b980a52a47ae56c972ad2"/>
+		<rom name="DATA\files\levels\village_a\cinematics\sc06btransition.lxb" size="160198" crc="7ee36214" md5="7f0b11c3ad029a9fc05a2ed92ac98774" sha1="d89104291ede3363429ac790f003b2f49a380e42"/>
+		<rom name="DATA\files\levels\village_a\cinematics\sc06monkey.lxb" size="579311" crc="af120b95" md5="a645f0a9cdb23ec5a611383fb768c8ef" sha1="18996e2f4f438237d8fe89a9a23fe4750b7181c5"/>
+		<rom name="DATA\files\levels\village_a\cinematics\sc07finalbattlestart.lxb" size="553821" crc="0f85ad12" md5="34413a9a13c6769af2b45bb3ddcc2867" sha1="058a0c9eac39a32a55235f60cd33663df6219a62"/>
+		<rom name="DATA\files\levels\village_a\cinematics\tos_statuefail.lxb" size="17875" crc="20623d94" md5="0328040eff5296766d78c1a72400765a" sha1="d0be0ac925cd1382fdff65cf9ca0f423c50861be"/>
+		<rom name="DATA\files\levels\village_a\cinematics\tos_statuestart.lxb" size="124882" crc="86360589" md5="bc77ececcb12421c1675e36b6eb729ee" sha1="8a3ecde2cd826e4478472130c518c2f72ac8021c"/>
+		<rom name="DATA\files\levels\village_a\gameplay.apk" size="14647716" crc="0957cc02" md5="44ae83eb2a6f30cfda32d48c3f495b2a" sha1="687b6fd6d269c604c32bf6b206959eec313ae248"/>
+		<rom name="DATA\files\levels\village_a\gameplay.lxb" size="735071" crc="a6e563b8" md5="7d8da8fcb662b33452087497ec761007" sha1="a5a4f9bb11b5da32d1b45106c0f4dee35395f252"/>
+		<rom name="DATA\files\levels\village_a\level.str" size="676" crc="b9bf9f53" md5="39fe98d85bb070b366ad3b987842c236" sha1="d62e5bae8ac78dfaf34a90ccd53c2b4384e3ee55"/>
+		<rom name="DATA\files\levels\village_a\lit.lit" size="260" crc="785027bc" md5="24dee2644992e2864fcabdc2f5346471" sha1="f498f5ed2edc53ddddf3bfea4c1bc7cbd7d0af12"/>
+		<rom name="DATA\files\levels\village_a\sky.apk" size="200780" crc="6b988cbd" md5="08b1b544688849e4ae5dd77f650cec62" sha1="590ef2b050b29bad88d0911d382ef0ce3ea4f415"/>
+		<rom name="DATA\files\levels\village_a\sky.lxb" size="14070" crc="8b0ba5c0" md5="686fb4c34748b39e3f1cf3485c0f45fa" sha1="9b9b701f305e329a8eaf5ec4d8119cc3fe94dde4"/>
+		<rom name="DATA\files\levels\village_a_1\art.apk" size="21979580" crc="63cd81b1" md5="82cec5400a21e8c8c20c0aabb087a5bb" sha1="d343431e32f0db74622d50feda9274922cef0820"/>
+		<rom name="DATA\files\levels\village_a_1\art.lxb" size="421259" crc="b60086c4" md5="04aae35613e7030ef005cf3e3582c81f" sha1="d48eced839c60c0141712096ddb41d4da211c6f2"/>
+		<rom name="DATA\files\levels\village_a_1\audio.lxb" size="9949" crc="d21b8c02" md5="d461239adfaa036bb69b7e785d46e7ad" sha1="bdf6d4ee73a8e07104619072f12e771731c2162c"/>
+		<rom name="DATA\files\levels\village_a_1\cinematics\ladder1.lxb" size="32990" crc="031640e3" md5="baa4cbfa89eb3b79973b6327ee2206ae" sha1="dd36e73952987bddf79678691c59e8130f787aff"/>
+		<rom name="DATA\files\levels\village_a_1\cinematics\ladder2.lxb" size="31984" crc="e8ca1cd4" md5="785d22cc4bd07ea1dd0f5e4cdad528ee" sha1="4729cfd480a8c0625c52acfac056c905a5770c66"/>
+		<rom name="DATA\files\levels\village_a_1\cinematics\ladder3.lxb" size="32148" crc="e5ee5d1b" md5="cad085f22564c9e04b28a8c58730527d" sha1="4c328a35b659e5368e7eced225d916d802f1b7b2"/>
+		<rom name="DATA\files\levels\village_a_1\cinematics\ladder4.lxb" size="32952" crc="24c9dcf4" md5="24b05edf9d8a075c9378028dc64c2717" sha1="0c72b42b214c40ec47c94ab8d2f919652beaf4a3"/>
+		<rom name="DATA\files\levels\village_a_1\cinematics\qte_oxmonkeypofail_1.lxb" size="51365" crc="92faa6dd" md5="d9578a445c7f59c1ca6b873febd93eb1" sha1="5d60216db02ab8647c02e0e1511c8b7f6da003aa"/>
+		<rom name="DATA\files\levels\village_a_1\cinematics\qte_oxmonkeypostart.lxb" size="471583" crc="5249277f" md5="df72e368df3eabb1fbf8cdd2a74fd38e" sha1="2333a44e4fa61ea92b6c7b8fcc12076888815077"/>
+		<rom name="DATA\files\levels\village_a_1\cinematics\sc01intro.lxb" size="603039" crc="3b1af769" md5="7088115b824e1e3730185e1087589d06" sha1="ac9ef44b2cd01489591f5741f55455b9422d1bf8"/>
+		<rom name="DATA\files\levels\village_a_1\cinematics\sc02doorcrashing01.lxb" size="60776" crc="d71366cf" md5="d117f3450de3dd718147214cab1606d8" sha1="741ca75ffe9a7010ccf499aa74022e3634c6522d"/>
+		<rom name="DATA\files\levels\village_a_1\cinematics\sc03statue.lxb" size="37497" crc="f83bc50f" md5="e2b1fc43e492d1a42b664e4b9ed119cc" sha1="6caaa339b2a80333f4dfca48a61116d6ab60ea85"/>
+		<rom name="DATA\files\levels\village_a_1\cinematics\sc04monkeyrivertalk.lxb" size="463571" crc="203df82c" md5="e0eb8be429bc34d6ea14b2ca5e192ada" sha1="34f2e3af2c72f94b8d84ccf644f17901b91e35b5"/>
+		<rom name="DATA\files\levels\village_a_1\cinematics\sc05doorcrashing02.lxb" size="30117" crc="54188cf0" md5="96c14fb29ebb81c8bd6a2ce5b1e48b7b" sha1="de2cd4c3717aacecc60b980a52a47ae56c972ad2"/>
+		<rom name="DATA\files\levels\village_a_1\cinematics\sc06btransition.lxb" size="160198" crc="7ee36214" md5="7f0b11c3ad029a9fc05a2ed92ac98774" sha1="d89104291ede3363429ac790f003b2f49a380e42"/>
+		<rom name="DATA\files\levels\village_a_1\cinematics\sc06monkey.lxb" size="579311" crc="af120b95" md5="a645f0a9cdb23ec5a611383fb768c8ef" sha1="18996e2f4f438237d8fe89a9a23fe4750b7181c5"/>
+		<rom name="DATA\files\levels\village_a_1\cinematics\sc07finalbattlestart.lxb" size="553821" crc="0f85ad12" md5="34413a9a13c6769af2b45bb3ddcc2867" sha1="058a0c9eac39a32a55235f60cd33663df6219a62"/>
+		<rom name="DATA\files\levels\village_a_1\cinematics\tos_statuefail.lxb" size="17875" crc="20623d94" md5="0328040eff5296766d78c1a72400765a" sha1="d0be0ac925cd1382fdff65cf9ca0f423c50861be"/>
+		<rom name="DATA\files\levels\village_a_1\cinematics\tos_statuestart.lxb" size="124882" crc="86360589" md5="bc77ececcb12421c1675e36b6eb729ee" sha1="8a3ecde2cd826e4478472130c518c2f72ac8021c"/>
+		<rom name="DATA\files\levels\village_a_1\gameplay.apk" size="9708836" crc="74e32fef" md5="1a70418cfac6f6921f004b8f20428196" sha1="12fc73c824abd5825a5ef4bfdcc43edc7a12687e"/>
+		<rom name="DATA\files\levels\village_a_1\gameplay.lxb" size="600295" crc="d7f44cac" md5="da78f880d31372d15ed7b790c550da8d" sha1="4bf65949b270fe533c043271f96c13728278d4d0"/>
+		<rom name="DATA\files\levels\village_a_1\level.str" size="596" crc="f7455f55" md5="9b05cb7542e96e08c54b82910cfca6b9" sha1="d330ca36ffbf8a2b66c05f6d8973a67f2fdeb77f"/>
+		<rom name="DATA\files\levels\village_a_1\sky.apk" size="200780" crc="6b988cbd" md5="08b1b544688849e4ae5dd77f650cec62" sha1="590ef2b050b29bad88d0911d382ef0ce3ea4f415"/>
+		<rom name="DATA\files\levels\village_a_1\sky.lxb" size="14070" crc="8b0ba5c0" md5="686fb4c34748b39e3f1cf3485c0f45fa" sha1="9b9b701f305e329a8eaf5ec4d8119cc3fe94dde4"/>
+		<rom name="DATA\files\levels\village_a_2\art.apk" size="16979876" crc="624a858c" md5="63000afcc3af1e67e5b82668562d6a5e" sha1="e9ced5e5b56b61d855b8737edc45c26f24a49461"/>
+		<rom name="DATA\files\levels\village_a_2\art.lxb" size="294051" crc="27cccca6" md5="f4f846da301a28d2e94d6d06c5a3e883" sha1="b526b3979fed5c222839e85acf2668e643ab443c"/>
+		<rom name="DATA\files\levels\village_a_2\gameplay.apk" size="9322044" crc="c1d29610" md5="095a7568346021e4ee25ca8d3e4a70c9" sha1="6d7ea4b0a70301da693388d5756df1c4f7868cc9"/>
+		<rom name="DATA\files\levels\village_a_2\gameplay.lxb" size="517893" crc="21dcee08" md5="0bd27f7582fd0e9777539106a8b1b331" sha1="fdc05dbec5cbc6664111305667647b47cfd65462"/>
+		<rom name="DATA\files\levels\village_a_2\level.str" size="596" crc="6f8010b1" md5="492be58d1bcf3a73144ee35fa327bd75" sha1="b0551ee1a3486b6bf20e8a612af762486fc3bf98"/>
+		<rom name="DATA\files\levels\village_a_2\sky.apk" size="200780" crc="6b988cbd" md5="08b1b544688849e4ae5dd77f650cec62" sha1="590ef2b050b29bad88d0911d382ef0ce3ea4f415"/>
+		<rom name="DATA\files\levels\village_a_2\sky.lxb" size="14070" crc="8b0ba5c0" md5="686fb4c34748b39e3f1cf3485c0f45fa" sha1="9b9b701f305e329a8eaf5ec4d8119cc3fe94dde4"/>
+		<rom name="DATA\files\levels\wudan_b\art.apk" size="5733368" crc="afb5128c" md5="6dc3f97f542c51658deef519a6718a92" sha1="383cc4bfb8e3dd46f6dde1f6b64d6b05d352495e"/>
+		<rom name="DATA\files\levels\wudan_b\art.lxb" size="235697" crc="41ccfca4" md5="9974516c636f70bdecdc2608cb98f56d" sha1="d74f91452749b592bf0e488eb5a2677c9faec2f0"/>
+		<rom name="DATA\files\levels\wudan_b\audio.lxb" size="11112" crc="f13660fd" md5="99bb90cd35d87c2cd708e89e3cef2d3c" sha1="c12ca394b0dac769f1120c2f1c0b22f3e000bb18"/>
+		<rom name="DATA\files\levels\wudan_b\audioevent.lxb" size="185" crc="c5ff2fe7" md5="0d81c9182365761547715a36682aaaa2" sha1="2fd4a6e412aa222be07c9fe185ccac3f27dab5b3"/>
+		<rom name="DATA\files\levels\wudan_b\cinematics\sc01tailungfightstarts.lxb" size="348540" crc="bf120f7b" md5="e633fe9c7866fc36d6c05614d514286d" sha1="368c71910edb215c00608d5fa15876fbf7bbace0"/>
+		<rom name="DATA\files\levels\wudan_b\cinematics\sc02_fail_mantis1.lxb" size="25410" crc="47e2b29f" md5="a0dc790c46646e468342b19385772749" sha1="cdf929dbc328420d56194891a8e7664b88fa82b7"/>
+		<rom name="DATA\files\levels\wudan_b\cinematics\sc02_fail_viper1.lxb" size="27063" crc="156b1105" md5="4ef79404e48fd836a2876548056306e0" sha1="3924759dca98117f70515679376ce6a3bf071619"/>
+		<rom name="DATA\files\levels\wudan_b\cinematics\sc02tailungqte.lxb" size="732852" crc="aa7a8a72" md5="eef84bc75e95ed88d4763c8b62a3f2c6" sha1="9a95f1e440dbe6a4d8b3c6f588b1ab3df3a465fa"/>
+		<rom name="DATA\files\levels\wudan_b\cinematics\sc02tailungqte_fail.lxb" size="24566" crc="368e4d05" md5="a4fc25062eab0b2441e533af311e0ea1" sha1="6a4d19bda3956bf314b96fdf6ba5b8d59bc634d3"/>
+		<rom name="DATA\files\levels\wudan_b\cinematics\sc03tailungwins.lxb" size="872081" crc="77e18c90" md5="408d166bbb79e43a381106ea8f0e3dbc" sha1="00b24b8bfa821d3ebe9a6f946bef375259b21f9f"/>
+		<rom name="DATA\files\levels\wudan_b\cinematics\sc04freecrane.lxb" size="232702" crc="bd4d55c7" md5="5064dc61a26c41bc0ef1ad8b367a146c" sha1="61fda846d9d68fb875597c54aeb36763ffe6507c"/>
+		<rom name="DATA\files\levels\wudan_b\cinematics\sc05freemantis.lxb" size="176696" crc="228fd94e" md5="4e43c0c039dfe49bfe878d3e0e0d12bd" sha1="d0e5cec40548e46b7b856ea7f027ea2e3b02fe9e"/>
+		<rom name="DATA\files\levels\wudan_b\cinematics\sc06freeviper.lxb" size="126496" crc="a1ab5b9f" md5="e264129b3a485248cd4cce935fd5edd7" sha1="31ad605f8c85bad4decf48fdf920ed42fc7e255c"/>
+		<rom name="DATA\files\levels\wudan_b\cinematics\sc07freemonkey.lxb" size="215597" crc="4e5394dc" md5="2aa229ba12effb01cf52eefc5bb201ab" sha1="3b6e65d3bb29eb1be2a4f5d603b0a6e8526f7c77"/>
+		<rom name="DATA\files\levels\wudan_b\cinematics\sc08ballistafightstart.lxb" size="216647" crc="09ada7d8" md5="adddd4f25a1e2bb9d18988d1557c00e1" sha1="d76bc20a466df0bed870cf311b9224f500dc3026"/>
+		<rom name="DATA\files\levels\wudan_b\cinematics\sc09finalbattlestart.lxb" size="386886" crc="0fa25b1e" md5="575470caf6e40c3835dfd2ef9edca899" sha1="8a31e48290492e63f81f7413854ecee2289fdb12"/>
+		<rom name="DATA\files\levels\wudan_b\cinematics\sc11victory.lxb" size="141332" crc="9daf936e" md5="9dc05fe17b9a18f36515e7f4f8ad7831" sha1="02245226e283ab25695e80f2eb7129efe8559839"/>
+		<rom name="DATA\files\levels\wudan_b\cinematics\testqte.lxb" size="430712" crc="8dae9253" md5="5e78c688865e6383fcf4da438eacd16c" sha1="eeda89328cb96f416ec9fa3513440915cd80502f"/>
+		<rom name="DATA\files\levels\wudan_b\cinematics\testqte_fail.lxb" size="43709" crc="ee34c53e" md5="bb4b4ca069d003064fd79278b257c0da" sha1="011332eaa1e4d69f22f29f43f59a393ccab6c901"/>
+		<rom name="DATA\files\levels\wudan_b\gameplay.apk" size="12829628" crc="81328962" md5="e0bf74b185c76258edfeda168735d5b6" sha1="b78f9b558212648684af2149f4dc130b5dd12111"/>
+		<rom name="DATA\files\levels\wudan_b\gameplay.lxb" size="509311" crc="1e40c7ac" md5="f65685f8b707fde60ccb971bdea7e679" sha1="096cb4de8068e15a2caab2932c91b0c51a089a1f"/>
+		<rom name="DATA\files\levels\wudan_b\level.str" size="756" crc="38f0d74c" md5="1fe8e1a0d32cc14e59f87d3dce81367f" sha1="856eaea850745964ffb91892b23aeac847ca7749"/>
+		<rom name="DATA\files\levels\wudan_b\sky.apk" size="912296" crc="3d84ec8c" md5="a861d1b9e244381b7a126cac7830eacd" sha1="0253dac8c2b8233a0fc072d6f6a9fb47e9a09d1a"/>
+		<rom name="DATA\files\levels\wudan_b\sky.lxb" size="11983" crc="a5adfdb1" md5="ecdb5faa79b4ed8f6927623b8dcb82af" sha1="32ca86c58740a75de72c5f2a627beae514d25707"/>
+		<rom name="DATA\files\LotusLake_B.bat" size="55" crc="1e42d25f" md5="fd6ffae68fc61ff45348c15879d591e5" sha1="c81d15b04b50d5f5404f9a29f5e269c500869e46"/>
+		<rom name="DATA\files\MiniGame_MarbleMania.bat" size="64" crc="d33cbd75" md5="df2774888e643b9865d0ed746fec7d2d" sha1="88a07adfabd83d5077d0a1145de74f85001705f0"/>
+		<rom name="DATA\files\MyTest.bat" size="50" crc="63e29c38" md5="fdf7af583ca33e61e68a61394f1175e0" sha1="7dbfc06a37e53bbcd45630d53552d3f48e5dab9c"/>
+		<rom name="DATA\files\opening.bnr" size="481328" crc="ff493a2d" md5="c31071b39fd9ea0743a61ef63c1a0b16" sha1="ffa22b5025af20ae3b1bc02faccad8c55a804f09"/>
+		<rom name="DATA\files\Palace_A.bat" size="52" crc="215a875a" md5="3908e358a249352391615d7b88ec34a6" sha1="f3a2dd888af1008263d4dafd62685d366c51bd3b"/>
+		<rom name="DATA\files\Palace_B.bat" size="52" crc="d30d6aa2" md5="b0b2fe6b30ce08df179684843d30443d" sha1="7a8baa767cff65f06668df327712b16d53fdda45"/>
+		<rom name="DATA\files\PandaWiiR.dlf" size="41773" crc="bff7f36a" md5="e13e893960e463a477c5f0be4f9b4e7d" sha1="79f5a138c1d19c20195d9af70f3dedb1b55104b1"/>
+		<rom name="DATA\files\PandaWiiR.dsf" size="6846508" crc="e80c8991" md5="b1e7442895d8ecd8992e1971aa8f20ee" sha1="166fc13f88831a18a0242c7ef1025786521f4bcf"/>
+		<rom name="DATA\files\PandaWiiR.elf" size="9053144" crc="252208a5" md5="4237adfe4722bcc02d006d6f14cc4e92" sha1="130f059a5ec674a18593e5678312253ca1d8868e"/>
+		<rom name="DATA\files\PandaWiiR.rcf" size="8650752" crc="f1c3a3e5" md5="f62af1b1e916e1528f2610bce7d447ca" sha1="c8acbb1b9a3bd08a6a19a655f1e0038b8d5b043b"/>
+		<rom name="DATA\files\scripts\mp_ballfight.apk" size="2498672" crc="5ec63a18" md5="8b61514cf5efa09f8dc4bc31273264d8" sha1="50700b39902df898e4fa44cad7a127cdbee936a1"/>
+		<rom name="DATA\files\scripts\mp_ballfight.lxb" size="3423" crc="9d74c309" md5="f34778d0ba124c1fbac308f013697830" sha1="76922c8109ea21a4da92ac1d1fda6a6c2e095e8e"/>
+		<rom name="DATA\files\scripts\mp_ballista.lxb" size="3737" crc="22d80531" md5="49af9af5b8cbf8281f417c87ba41c95b" sha1="f19da3787f1f8b35bf5bec164d241b2a23ee21de"/>
+		<rom name="DATA\files\scripts\mp_balls.apk" size="2498672" crc="5ec63a18" md5="8b61514cf5efa09f8dc4bc31273264d8" sha1="50700b39902df898e4fa44cad7a127cdbee936a1"/>
+		<rom name="DATA\files\scripts\mp_balls.lxb" size="3226" crc="ade632cf" md5="17d9748e5a4752ef21e4b4d04405f5d1" sha1="9e42888edc162a66cbe2531b3d973f4639c1e8fd"/>
+		<rom name="DATA\files\scripts\mp_basketball.lxb" size="3779" crc="eae91cc3" md5="c69a0a6432f21bb5f1f8f24aca0d1063" sha1="d78e8711294a452e0e13291f6ce1df93c6a25391"/>
+		<rom name="DATA\files\scripts\mp_bellows.apk" size="2498672" crc="5ec63a18" md5="8b61514cf5efa09f8dc4bc31273264d8" sha1="50700b39902df898e4fa44cad7a127cdbee936a1"/>
+		<rom name="DATA\files\scripts\mp_bellows.lxb" size="3356" crc="f97b8277" md5="e66d83889597fe72e3f27e8e07c4b08b" sha1="9ad2cd1edcd47fefe875828ac032edd4718b0740"/>
+		<rom name="DATA\files\scripts\mp_brawl.apk" size="2498672" crc="5ec63a18" md5="8b61514cf5efa09f8dc4bc31273264d8" sha1="50700b39902df898e4fa44cad7a127cdbee936a1"/>
+		<rom name="DATA\files\scripts\mp_brawl.lxb" size="3635" crc="2912a11e" md5="579474a25d96b11bbe7dc40a0144049a" sha1="5d8ab82e8761184622c026bdc561e31760cf89ba"/>
+		<rom name="DATA\files\scripts\mp_coincollect.lxb" size="3777" crc="16c2facf" md5="29a8b16de8d3512f30cf72e994a67e71" sha1="96a7d03a94e1f83bb4d122d79cf3d7695e48bffa"/>
+		<rom name="DATA\files\scripts\mp_community.apk" size="2498672" crc="5ec63a18" md5="8b61514cf5efa09f8dc4bc31273264d8" sha1="50700b39902df898e4fa44cad7a127cdbee936a1"/>
+		<rom name="DATA\files\scripts\mp_community.lxb" size="1357" crc="e8c5ce67" md5="fbdc942f1952a0088f324847edf4b573" sha1="f783a7a0d41069d20c855acbdd28b67c24c5c419"/>
+		<rom name="DATA\files\scripts\mp_concentration.apk" size="2498672" crc="5ec63a18" md5="8b61514cf5efa09f8dc4bc31273264d8" sha1="50700b39902df898e4fa44cad7a127cdbee936a1"/>
+		<rom name="DATA\files\scripts\mp_concentration.lxb" size="2869" crc="f5f3c6bb" md5="09a3e6855c3764cb8c8833b5ad94f0df" sha1="ffa2d547ceb85ccecb66ae56ee31d5bc9994feb5"/>
+		<rom name="DATA\files\scripts\mp_coop.apk" size="2498672" crc="5ec63a18" md5="8b61514cf5efa09f8dc4bc31273264d8" sha1="50700b39902df898e4fa44cad7a127cdbee936a1"/>
+		<rom name="DATA\files\scripts\mp_coop.lxb" size="3341" crc="4f4adbc2" md5="09dbed6e5c3471187cba876ee77316a5" sha1="433671bdc3b71ff01ad597b012cfe1b83d152886"/>
+		<rom name="DATA\files\scripts\mp_escort.lxb" size="4696" crc="b73fbf2c" md5="3dd9bcfc1093084f8153ede05b0f3c88" sha1="3359a891534abf6940a170bd181256ae4e01687b"/>
+		<rom name="DATA\files\scripts\mp_hongkong.lxb" size="3127" crc="b3b61fcb" md5="ced12347b7959fd8be42567206d22af0" sha1="3f4fc5376750dc3d50bb617640e5b6d2b702fda0"/>
+		<rom name="DATA\files\scripts\mp_jumping.lxb" size="3788" crc="d0042e64" md5="18b987e758b87af07084a7b29e71f20f" sha1="04760212db0b4b0aba4417e4e546ad5e4182ffe8"/>
+		<rom name="DATA\files\scripts\mp_pigbattle.apk" size="2498672" crc="5ec63a18" md5="8b61514cf5efa09f8dc4bc31273264d8" sha1="50700b39902df898e4fa44cad7a127cdbee936a1"/>
+		<rom name="DATA\files\scripts\mp_pigbattle.lxb" size="3861" crc="12dc48bf" md5="98e334b23498ba50d5243f9f7ab97368" sha1="05550e715c1224fccc560a044b670d1ef2d9f827"/>
+		<rom name="DATA\files\scripts\mp_pothello.apk" size="2498672" crc="5ec63a18" md5="8b61514cf5efa09f8dc4bc31273264d8" sha1="50700b39902df898e4fa44cad7a127cdbee936a1"/>
+		<rom name="DATA\files\scripts\mp_pothello.lxb" size="2804" crc="422690ae" md5="eacd87f44172bc0f071cd6788c78c664" sha1="ba988c32863387b577547d7490d283fe22ed7cf2"/>
+		<rom name="DATA\files\scripts\mp_shanghai.lxb" size="3511" crc="1c041fb7" md5="2efab05c9948f872a5d169cd6ea1767e" sha1="c6a4af7ead3bbbc5a081e79950e0ebcccd42e767"/>
+		<rom name="DATA\files\scripts\mp_sparring.lxb" size="3865" crc="82f55ae5" md5="5004a039d7ce48e5e173f7232c24ce76" sha1="b7f25a03874e03d61c3455d20485969fc5e9e51e"/>
+		<rom name="DATA\files\scripts\mp_tag.apk" size="2498672" crc="5ec63a18" md5="8b61514cf5efa09f8dc4bc31273264d8" sha1="50700b39902df898e4fa44cad7a127cdbee936a1"/>
+		<rom name="DATA\files\scripts\mp_tag.lxb" size="4480" crc="55f86091" md5="0cf49b2389c0c62ed894e9bdde6e6286" sha1="8dc3ee160204156e463668a438bab06eb210f139"/>
+		<rom name="DATA\files\scripts\mp_teahouse.lxb" size="4066" crc="935472ae" md5="2fd4474ff863a70f1f0f0e9fdfc97010" sha1="c8c242e355d36496f7b2893b447c69f8c16a4b1e"/>
+		<rom name="DATA\files\scripts\mp_tournament.lxb" size="4176" crc="3d5230c2" md5="f1d2e263f751241d90b36e37fa96e9f4" sha1="34684c9626611ceba27807ec3df1be9fc7a0c5bb"/>
+		<rom name="DATA\files\scripts\rabbit.lxb" size="1439" crc="779b93d4" md5="122f466bcd2bc7f27a0fa65eaf76ec2b" sha1="8dad32aee585ef0ec41378d4c779dca1c885effb"/>
+		<rom name="DATA\files\scripts\scriptperceptions.lxb" size="103" crc="e9549bf7" md5="d43177f394234f893b21cebead9373c4" sha1="776919629ad20c98a74ee60289a512f833c946f6"/>
+		<rom name="DATA\files\scripts\testscript.lxb" size="1990" crc="f77c6dcc" md5="7aa296aae9e751ee8e8ea630d4fcb771" sha1="dc5521d84f0754f2c60466e02d73b2d6d546aef0"/>
+		<rom name="DATA\files\text\eng\1stplaya.lxb" size="929" crc="901bd120" md5="15762a496bb8198ee29c83ac168fc5cf" sha1="79f00707f0256fc50633cf587b37702d3013aee8"/>
+		<rom name="DATA\files\text\eng\1stplayb.lxb" size="466" crc="105ed63b" md5="0b66c97826d2e4694f81c50e987874e9" sha1="237413cc64453860db18a2d8d6c53ea3d9168f64"/>
+		<rom name="DATA\files\text\eng\assessment.lxb" size="189" crc="585438a7" md5="aafa77f14397e2b0ec117aa29ec94888" sha1="be17a3ba6af0db626f9b20606b0fae2df62b1a8c"/>
+		<rom name="DATA\files\text\eng\dojo_a.lxb" size="1198" crc="1f0633b5" md5="9488884cd3ca37103af3c5f7d1ea18d4" sha1="964937b50372704cb20d7c1d0544d53dccf6ee8b"/>
+		<rom name="DATA\files\text\eng\forest_a.lxb" size="1363" crc="dc448685" md5="60048966f36b61fe4415a59a0d513ca6" sha1="33e2fb0f6b25b5841b35f5a67a246284a576a0cc"/>
+		<rom name="DATA\files\text\eng\global.lxb" size="46282" crc="43140f5c" md5="042d4a6401cae32d2dc3838c26bb4f4c" sha1="373cb5a2454fb2397e63aec23a9dd997d488b56d"/>
+		<rom name="DATA\files\text\eng\lotuslake_b.lxb" size="1036" crc="c6133fda" md5="3e3a807a1ada4e3bc1766fcf096c8d03" sha1="a576a70ba47821f0fcc584d81e1f6a8cf69d854b"/>
+		<rom name="DATA\files\text\eng\mp_hongkong.lxb" size="401" crc="3db9b2c4" md5="05f3d7ccaa00cca995d4412525fa43ee" sha1="5d2139a0364b1e248b97a451c39c109c71cebe58"/>
+		<rom name="DATA\files\text\eng\mp_shanghai.lxb" size="1898" crc="3372bd59" md5="486e382f69dcde59811d1ad504323f48" sha1="97680595eb96d3860208a690013602d7d3934d8a"/>
+		<rom name="DATA\files\text\eng\mpriver.lxb" size="608" crc="a05d77fc" md5="f1212ce0b2acffa5dc39f0bca14a7236" sha1="9247d0c2f5d9b7da9f36fc28397c16a2a1d638a2"/>
+		<rom name="DATA\files\text\eng\palace_a.lxb" size="1973" crc="6a759519" md5="313ad485a02eef97366450e7d5bd7294" sha1="b9b27a4088a371cb4e57ecc77b9efa0588327778"/>
+		<rom name="DATA\files\text\eng\palace_b.lxb" size="794" crc="2ee161f1" md5="8c67c248fd95b287e24d83a1fcaaf28d" sha1="b51e18d78860e52c8265533035d4979e87b55dde"/>
+		<rom name="DATA\files\text\eng\test.lxb" size="189" crc="585438a7" md5="aafa77f14397e2b0ec117aa29ec94888" sha1="be17a3ba6af0db626f9b20606b0fae2df62b1a8c"/>
+		<rom name="DATA\files\text\eng\tltraining_a.lxb" size="1031" crc="e0f123b4" md5="d7249331a46034cd84339addbac5b216" sha1="37ae241cd8cd0cbcc15bb702976e915025831b80"/>
+		<rom name="DATA\files\text\eng\tournament_a.lxb" size="2091" crc="a6ce8966" md5="a4ef451585e25cf504bdda33b6d023fa" sha1="afd0ec2c1b696f9ba1a1017a6a4d6dcd78e3960f"/>
+		<rom name="DATA\files\text\eng\tournament_b.lxb" size="742" crc="7534dd3b" md5="39ab0e9ae91a0bc0a130248c404ccd4d" sha1="3c37fbce8a22c489a09e4df03bb6d036aee2f535"/>
+		<rom name="DATA\files\text\eng\village_a.lxb" size="1393" crc="60bd428f" md5="82de740aecb05130ad1b9951c418675d" sha1="e6ee1f645ee5cd201f772ae05080c5b0e5b1c7be"/>
+		<rom name="DATA\files\text\eng\village_c.lxb" size="1414" crc="15ca1dae" md5="6f72da7078999e51f177d7b5289208e3" sha1="5f5e70361b95d892cb6cd6b6f1530937db6fd0a0"/>
+		<rom name="DATA\files\text\eng\wudan_b.lxb" size="675" crc="2cad7e72" md5="31bc4a46be364b99ab47ebfa5213326d" sha1="a1598733271c1f43fc23d6904375c4e073942b51"/>
+		<rom name="DATA\files\text\jap\assessment.lxb" size="243" crc="a7eaacb2" md5="024c4a9ef586998a3b48c594c48e36dd" sha1="900549ed91e2fdb92a41f316cb25397fc02a6bf4"/>
+		<rom name="DATA\files\text\jap\global.lxb" size="2225" crc="d8e01058" md5="d6ab5088719ada7443c544512aff5bb6" sha1="9b164b77347c62d6c2da915681ad7fc2be755275"/>
+		<rom name="DATA\files\text\jap\test.lxb" size="237" crc="5289f312" md5="fef81bfe62e7f1dea2966015d26503ae" sha1="838d0e0db0240eed02ae964747469b7cd1c22177"/>
+		<rom name="DATA\files\text\swe\1stplaya.lxb" size="938" crc="c6dfc0bd" md5="b4d2d92cc58da0c9a000e7ce916db158" sha1="7ab899386261c89d3362a2ed85873c5d93871360"/>
+		<rom name="DATA\files\text\swe\1stplayb.lxb" size="250" crc="c23868b2" md5="80298dc24c324c98e2d622a816134422" sha1="6fb80c21755e8cd23349bea52857193ed9013cca"/>
+		<rom name="DATA\files\text\swe\assessment.lxb" size="189" crc="585438a7" md5="aafa77f14397e2b0ec117aa29ec94888" sha1="be17a3ba6af0db626f9b20606b0fae2df62b1a8c"/>
+		<rom name="DATA\files\text\swe\dojo_a.lxb" size="870" crc="d887df53" md5="e157749c3a064935773d0420bfb2e4b9" sha1="afc891d65cfd30872a786ef2bfe86527524dc972"/>
+		<rom name="DATA\files\text\swe\forest_a.lxb" size="1003" crc="ea51993e" md5="4b3e36e898a1cc93311c8533034b7e13" sha1="ee5a125946379d605351bfca055cc9700b131437"/>
+		<rom name="DATA\files\text\swe\global.lxb" size="26016" crc="7b2ae8ac" md5="5edec608ba4bc24b734d448bb08e815a" sha1="6908b6f43ed65abe1b04cb40359dbd1916d4db60"/>
+		<rom name="DATA\files\text\swe\lotuslake_b.lxb" size="846" crc="98116458" md5="352afb87d3d6df701ae2da3da6a21908" sha1="37a7b4965c8c8a2ba80a19a2570e9b2e1a2bab29"/>
+		<rom name="DATA\files\text\swe\mpriver.lxb" size="255" crc="735ec305" md5="29caedcbeaba2e0ae3bd36bfec61bede" sha1="3aa1c4282ff085ff31d6a2cdf80f64bd66ca61a1"/>
+		<rom name="DATA\files\text\swe\palace_a.lxb" size="1625" crc="81d140d9" md5="9d1169a38a57c3fe5f75c59af184cd36" sha1="49459ef7cee4be3c67d6894469de26dd7f84fbda"/>
+		<rom name="DATA\files\text\swe\test.lxb" size="189" crc="585438a7" md5="aafa77f14397e2b0ec117aa29ec94888" sha1="be17a3ba6af0db626f9b20606b0fae2df62b1a8c"/>
+		<rom name="DATA\files\text\swe\tltraining_a.lxb" size="591" crc="7ef05fb9" md5="e1dbd597f8a8cf411e7a92fc8d2e7076" sha1="840b6cdba8151bc40fae4a74844813f72c5d4397"/>
+		<rom name="DATA\files\text\swe\tournament_a.lxb" size="2091" crc="1300223e" md5="08bf365f0c3a658b59cf4e3624cdf50a" sha1="54511157dae4a36705ecb307e4891b86f0721c50"/>
+		<rom name="DATA\files\text\swe\tournament_b.lxb" size="792" crc="b0e34695" md5="6ced0e37aec57c04fc85ebeebbf82839" sha1="28763a603cf842e28112f08d43d3325a192fdd77"/>
+		<rom name="DATA\files\text\swe\village_a.lxb" size="1217" crc="6e639084" md5="a5610d952158204da2cf8a5b3b7b0754" sha1="1deb0339c60b158625964cdb96c5cc75d5ff772f"/>
+		<rom name="DATA\files\text\swe\village_c.lxb" size="1434" crc="6c20a5fb" md5="db327136053d9061fc9ece7587f5f670" sha1="db7183151378536256178b8520e77082861e89af"/>
+		<rom name="DATA\files\text\swe\wudan_b.lxb" size="600" crc="a97a8a80" md5="21c1ce8ed446493c7ab358f74e926239" sha1="470e325a1c31f21288a83fd960abffe19ed2f41a"/>
+		<rom name="DATA\files\Textures\arial.fnt" size="764" crc="b73d8b8a" md5="4cb1e4666e478f3b9428846ab6194cbc" sha1="07be300a931868637b90bb5a448f6ba3d410b25f"/>
+		<rom name="DATA\files\Textures\HudNumber.apk" size="1423856" crc="43c1558b" md5="11eb78fe5a254f4b3237465d66113dce" sha1="354483e8834af7c698f0ba0194872a2f7cebb19b"/>
+		<rom name="DATA\files\TLTraining_A.bat" size="56" crc="b339a43c" md5="a33ef3204e085ab507c2fc9491a6ecae" sha1="d3902dc84a6f52c774310b52faf48b1d35db41fd"/>
+		<rom name="DATA\files\tuning.lxb" size="23172" crc="183f582f" md5="732a6a68dccb1c8180028222c7d2e7c3" sha1="627b47c0dd387baa665c6bc9a99fdba902a1e090"/>
+		<rom name="DATA\files\ui\_globalassets.apk" size="186588" crc="f6109fec" md5="2d54155eac0f5b3c8ddc3beb9f60a670" sha1="c68780b12a7f7d94944ead78d83bffc43ab019ef"/>
+		<rom name="DATA\files\ui\_globalassets.gfx" size="17494" crc="16cde187" md5="1a86902f7914c40a238ce2f2fe2d3dd9" sha1="b28be75fcae1ebad3bf1b03b4341317a880bc50c"/>
+		<rom name="DATA\files\ui\buttons_plat.apk" size="271972" crc="67d10111" md5="7d315d2fc99cec6ba4b77d611cc8798b" sha1="fe40d38d3fede0a83408b4f82fd239360b22aa4f"/>
+		<rom name="DATA\files\ui\buttons_plat.gfx" size="692" crc="efd292a6" md5="fe1824cc4b7921ad7af17c8b8fe3d804" sha1="374abcb7c3c536fb4259efc42dca5f24f202b148"/>
+		<rom name="DATA\files\ui\dialog.gfx" size="4228" crc="ef484f46" md5="fff906e494ac9b2579e18ea7f3c71516" sha1="22e164c97e42cc77e530d604394ee002bca21944"/>
+		<rom name="DATA\files\ui\font.gfx" size="44384" crc="54e7a9af" md5="b6a0482d257594f172ca1c2c5fdb5fda" sha1="6cd837948086f0e621a1ee31d4225877e2d78131"/>
+		<rom name="DATA\files\ui\font_chs.gfx" size="91522" crc="817a7eb6" md5="7f16fcee96fbc1ff291aba2b35917ffd" sha1="a7e4036d8da50c817330ef87f795f28ca0fb5ba0"/>
+		<rom name="DATA\files\ui\font_cht.gfx" size="91522" crc="62e569a0" md5="d85559d257f3788f957ba4ae5dc1211d" sha1="a982af565758e65ebe42328ee9fc2e48a90e82c9"/>
+		<rom name="DATA\files\ui\font_eng.gfx" size="91522" crc="92fe7ec1" md5="a2127fde8d2944946c600649752b4ea8" sha1="f3495fc11eb88d26d6880dce32adf1c0a858df0e"/>
+		<rom name="DATA\files\ui\font_euk.gfx" size="91522" crc="18a1d7bf" md5="3a97d706efebca768ab1fbda6a9c3c6c" sha1="98453878e6557c0f9dfa16c35bc02cc32913f196"/>
+		<rom name="DATA\files\ui\font_fre.gfx" size="91522" crc="e356c564" md5="2bba3bbd6186cea3b994e41acb200898" sha1="fc7c3ee59b0afa6ed55f1aa3d7b116eb54dd2c5e"/>
+		<rom name="DATA\files\ui\font_ger.gfx" size="91522" crc="329d4d5b" md5="e76dd119a582f324c971ae2a6aa601ec" sha1="d1fc642ecca9accc78b41d8073075443d765be0f"/>
+		<rom name="DATA\files\ui\font_glyphs.gfx" size="85681" crc="0d99beeb" md5="ea33564029cbc5e2b98113d6be15cf4f" sha1="48f1252c4fd148572a269ffb97b5f0bb544e4ee9"/>
+		<rom name="DATA\files\ui\font_ita.gfx" size="91522" crc="aab7c1bb" md5="22704d96706347a0fbfb542d372c85e5" sha1="e8c07681cbdc0e7552969b9c013ae109c17a4e1a"/>
+		<rom name="DATA\files\ui\font_jap.gfx" size="36195" crc="1be2d38a" md5="b6d2bbbc3c5ff74e32d36b72cef3cd3f" sha1="69ab73360fab2bc1755bdf98cdd68878ff5ff3fe"/>
+		<rom name="DATA\files\ui\font_jap_glyphs.gfx" size="1448477" crc="3a1b92b1" md5="b728b63abd871859fc6d451165b4691a" sha1="d15619195454737130de8ab852eb3183a205bd1d"/>
+		<rom name="DATA\files\ui\font_kor.gfx" size="91522" crc="5801d008" md5="c730eb8b1ba7b9ac746b50d7384f0266" sha1="ca238381c7df5fe859ff94d685efc03b05377474"/>
+		<rom name="DATA\files\ui\font_spa.gfx" size="91522" crc="8aaa28fa" md5="64c6f4719cc69fa10b721ee502c054bd" sha1="ff205fedfb5004e7498c5fda15c5280737ecbdf8"/>
+		<rom name="DATA\files\ui\hud.apk" size="1864928" crc="9d729cbe" md5="084a135262a7f5d7b4467a90a0979d53" sha1="96ee42142c4e88a6c043b4dc77ad3789c250bc8d"/>
+		<rom name="DATA\files\ui\hud.gfx" size="45611" crc="6803ca26" md5="fdc8e489732a48fc311ee1249ca07370" sha1="f4f0bc863a6b58d715edbd1689f574af35862d6a"/>
+		<rom name="DATA\files\ui\hud_mp.apk" size="3236036" crc="25f090f8" md5="e22bb580fc91b881221b4d4b00a2304e" sha1="825821c8704cc46a8c6f2309a33be0dc1082bacc"/>
+		<rom name="DATA\files\ui\hud_mp.gfx" size="14694" crc="46f3e894" md5="ce927a101f1ce30516047b7598af61bc" sha1="ffd46e74e2111b84c39df047ed277f528bbcae7e"/>
+		<rom name="DATA\files\ui\levelcompletionscreen.apk" size="328448" crc="08da95de" md5="faa819932c7af089b49cad33041f9876" sha1="ce8693f98f927367b02eaf5191cc8aa30f40f835"/>
+		<rom name="DATA\files\ui\levelcompletionscreen.gfx" size="8729" crc="6a5af39c" md5="ab4fae2af0eae820de1531826bcaa187" sha1="508dbdc79f847f381118ef73b83c55b3f196d96c"/>
+		<rom name="DATA\files\ui\mp_characterselect.apk" size="5202188" crc="02d56510" md5="89562a372bb06dd647608a18960b608a" sha1="bc28e1810ba341d21cd7832303b96aa7d78a0b4c"/>
+		<rom name="DATA\files\ui\mp_characterselect.gfx" size="27767" crc="5bd12d76" md5="2f7c71440bc77db359d5b8953cff333f" sha1="b595e6e575b3ddbdfbbd710e9d0e9ccefc17b9de"/>
+		<rom name="DATA\files\ui\mp_pausemenu.apk" size="1933884" crc="907ca108" md5="1299268ede6f3bca51221bce8b9658e1" sha1="ba918cd7649060a61046c25b37199a6b89f35ac6"/>
+		<rom name="DATA\files\ui\mp_pausemenu.gfx" size="28309" crc="21c4325d" md5="2bdb3a811356959026480241ebcef738" sha1="2b862443387c38747f6215914a67896afdf37fb0"/>
+		<rom name="DATA\files\ui\mp_postmatch.apk" size="2426768" crc="a586b1df" md5="1467f9e769248dd56995ce7e7ce1ba7e" sha1="1b91aac5cf3c507ff627589dfc8be9d8e5932127"/>
+		<rom name="DATA\files\ui\mp_postmatch.gfx" size="7629" crc="dbf912dd" md5="a7b09f35ede782445137e32c0964dd49" sha1="4009d63847fb6bda1398f05079de31d74b04bd9f"/>
+		<rom name="DATA\files\ui\mp_stageselect.apk" size="3205808" crc="e03911ed" md5="32735d8ab4b01b825c9d2d0e2a84fd85" sha1="b275e2c38534822bb5a8d4a51a8c2cfb91836fc5"/>
+		<rom name="DATA\files\ui\mp_stageselect.gfx" size="34587" crc="a460e8a4" md5="427e9b9624a13213ae747ad079aee1e5" sha1="6576086321cca009ac0681c7243c4d0343cbcd81"/>
+		<rom name="DATA\files\ui\pausemenu.apk" size="4141504" crc="efe4b799" md5="5cfd420a5e3641730dc9826a6162ae0c" sha1="c0b8bcaa11db2116afda3a41fbc4fcb3b950a9e0"/>
+		<rom name="DATA\files\ui\pausemenu.gfx" size="128846" crc="891ad880" md5="4abd34111ee2c2509aa6cf3f3866492b" sha1="8d5135ae5971179fc5f84a07fffd457142fe9571"/>
+		<rom name="DATA\files\ui\pausemenu_newnav.apk" size="6081588" crc="88ed6cac" md5="bd202da272cc355e98f872122f67e571" sha1="70a67cf6ba8ddcf93b091862a8db49f9205e960f"/>
+		<rom name="DATA\files\ui\pausemenu_newnav.gfx" size="136725" crc="576f1324" md5="1861e14b83971b6d81efabcf47a1ae2b" sha1="7b84561e8e9f439d6cd9e631ef4a1aab07ad935e"/>
+		<rom name="DATA\files\ui\progressbar.apk" size="182160" crc="5cbe3bcc" md5="741cbfb40dd027a765f345090fa75093" sha1="a944cfb3922f00b8291f7e23832594adb05c2c68"/>
+		<rom name="DATA\files\ui\progressbar.gfx" size="5260" crc="593109b5" md5="bcbf6e354b818f6f5cfa4539d6616997" sha1="cf6a351fd1d590477bb6ef7ad13c8ad280ab3a85"/>
+		<rom name="DATA\files\ui\startmenu.apk" size="3784148" crc="44c7c05f" md5="83f0ff3f7077549cc1a1f57483539587" sha1="ea1ec629c7172656ba6051feeb9a36174b815e3e"/>
+		<rom name="DATA\files\ui\startmenu.gfx" size="69835" crc="77aea319" md5="ec66a5a05252f66ad598c06ac9dd71cb" sha1="b0295c1709cb9e7b6ab8470c71ef467a7ab84781"/>
+		<rom name="DATA\files\ui\startmenu_newnav.apk" size="5116972" crc="ec2cf3c5" md5="ac8095a3f761d3af4b5888e7f41e0a06" sha1="5728042493e3f33ef8d822f5a39411b63a60365a"/>
+		<rom name="DATA\files\ui\startmenu_newnav.gfx" size="94854" crc="bba7c5ed" md5="fa562721266acdf6d684e7e1d0debbaa" sha1="7de16a09f4d9f5eef62db2c9aa05e10637e322bd"/>
+		<rom name="DATA\files\ui\subtitlefont.gfx" size="34282" crc="65105f76" md5="e042c95b1f74a50c559ba77dd65ecbd9" sha1="afe0e2184b5dba44382bc5173fd6cc1663c1257e"/>
+		<rom name="DATA\files\ui\subtitletext.gfx" size="1280" crc="613f8cf2" md5="aed408164d3805074c17e7e0da07852d" sha1="66e398701544c09767db2bbce7e1fd6ae3a2df3e"/>
+		<rom name="DATA\files\ui\ui.lxb" size="28858" crc="e658929a" md5="ffab0f00a797eaa570dc09edea768de4" sha1="d3931a80b4b644c655001f322b3072bd4b313247"/>
+		<rom name="DATA\files\ui\upgrademenu.apk" size="286308" crc="6553c7ea" md5="24a8dcd27cead374c5c8b01cdafb9baa" sha1="c46478fb9983be88ce9598e2b44b11dc16fe541e"/>
+		<rom name="DATA\files\ui\upgrademenu.gfx" size="35281" crc="17f88821" md5="3a366745aca1ac25b65d9186ad20ca47" sha1="f49d806e3f0e78f441690a67ce8d3d76c70b0bf7"/>
+		<rom name="DATA\files\useroptions.lxb" size="869" crc="98fd92e9" md5="db931d08a89329f5d999d06119bad05a" sha1="ce441384b4866c311372a743ced6d3906007846a"/>
+		<rom name="DATA\files\useroptions_1stPlayA.lxb" size="866" crc="06493b3c" md5="8fb3e01b7ab0242147ccfadc6b83ccef" sha1="634e0edefbbdf2889cb99c948d0410916f5c7381"/>
+		<rom name="DATA\files\useroptions_1stPlayB.lxb" size="866" crc="a6e6a2e5" md5="6df43a3c7417198bb78503e8d295ce2d" sha1="30fc802d1b1f4625caa28e10ddfd859587ea5bbf"/>
+		<rom name="DATA\files\useroptions_ChopstickA.lxb" size="868" crc="b020f4c5" md5="df08c8b1f51ee5c614797a9bd5487ee1" sha1="dfa700394d69394dd4078dc0777d78458269d9dd"/>
+		<rom name="DATA\files\useroptions_default.lxb" size="809" crc="0e7ddc86" md5="d3a24504df7560e97fa77bca9a8c8ae0" sha1="cb39b534e1f7767efc8acdea657461036f54e8dd"/>
+		<rom name="DATA\files\useroptions_Dojo_A.lxb" size="864" crc="c8f6aeb2" md5="ca7d94856e6d09040f729f4a665f4485" sha1="5ea61484a35a4eba54592afcdea7b76dc92adc2a"/>
+		<rom name="DATA\files\useroptions_Forest_A.lxb" size="866" crc="4206299a" md5="baf5ff6d207ee515c619e75d5b6f7feb" sha1="d6d8ad5708e3018250f3ef8bac569856e17dc068"/>
+		<rom name="DATA\files\useroptions_LotusLake_B.lxb" size="869" crc="98fd92e9" md5="db931d08a89329f5d999d06119bad05a" sha1="ce441384b4866c311372a743ced6d3906007846a"/>
+		<rom name="DATA\files\useroptions_MiniGame_MarbleMania.lxb" size="878" crc="fd7d6181" md5="294b9096f8b721139435dfd6e26ba2a0" sha1="a23280571e9ab9d912dabac94b20c465cae80d70"/>
+		<rom name="DATA\files\useroptions_MyTest.lxb" size="864" crc="32d37d53" md5="9eb59a83818f7113feb1ab6c1195b4e1" sha1="edcdbf59a9eea0727e4823849bb31c2735a29bae"/>
+		<rom name="DATA\files\useroptions_Palace_A.lxb" size="866" crc="403f45b5" md5="6fbe073ece9628d68c7c4aecfb04801c" sha1="5e41bad44a4128c9462b9e4d7a45fd65e4b3c3fd"/>
+		<rom name="DATA\files\useroptions_Palace_B.lxb" size="866" crc="a5115991" md5="37e4c243854120453ff518a1de39c579" sha1="e964ce348566e73a225d35d64d8901b0d33b76d1"/>
+		<rom name="DATA\files\useroptions_TLTraining_A.lxb" size="849" crc="1926d79b" md5="e82e2b23f6b0ddd3beb7c00fdb68ccb5" sha1="4c660fd6b3106b691abb073eaa7b6645ce543d98"/>
+		<rom name="DATA\files\useroptions_Village_A.lxb" size="867" crc="6b32b91c" md5="a06d919893537f2824e49f5e27f7dfc3" sha1="600a475a45dbcb70fb513c2d55c4aefd48bbf971"/>
+		<rom name="DATA\files\useroptions_Village_A_1.lxb" size="869" crc="efccbe52" md5="67f261b8ba52ac5c012b5841a0326c8a" sha1="e2d45c923603cd5facc2c76858c4414d1221b620"/>
+		<rom name="DATA\files\useroptions_Village_A_2.lxb" size="869" crc="596a8a88" md5="5fe18395c3d43d87c9bd708e7696abe4" sha1="ff19c0c8b3e998effdd8e240b5b44012eb4728e8"/>
+		<rom name="DATA\files\useroptions_Wudan_B.lxb" size="865" crc="f07a8b1a" md5="111423c68838304b0f304dfff4368daa" sha1="4c91ae845ec027e9a66e3e62b58bc153305cecec"/>
+		<rom name="DATA\files\Village_A.bat" size="53" crc="b951a280" md5="6f717cf85206ff43cdc35334304e4936" sha1="022a23bd7e038dbcfca327f345a8d44cd1878ad6"/>
+		<rom name="DATA\files\Village_A_1.bat" size="55" crc="784d19e0" md5="c7ef8c2df49c21498c7b7ad8815bc2b5" sha1="dfbd1a0ae336bbec7c8e14f7945f962d66a94f2f"/>
+		<rom name="DATA\files\Village_A_2.bat" size="55" crc="8a1af418" md5="8ef1bf0202b9939d56d4f177144077df" sha1="146e3bb2152adbacabad17da926a62598e15b4b6"/>
+		<rom name="DATA\files\Wudan_B.bat" size="51" crc="300da084" md5="e5e241fa49962010b518d792bccdc163" sha1="31af6c04cebf35f5da2ceb786f4f60932f153ede"/>
+		<rom name="DATA\h3.bin" size="98304" crc="89b88bc0" md5="2c0a8a8a91cad4e83c87915efa45311a" sha1="5f29254b8e9febfe05ee6862d8cea752f8f39a04"/>
+		<rom name="DATA\sys\apploader.img" size="243772" crc="ec5f4fed" md5="33166538c2c00516e0abd215d98c9aa6" sha1="903cc4be799803bd94d0b406c6b68fef4a5ad98c"/>
+		<rom name="DATA\sys\bi2.bin" size="8192" crc="80b5e018" md5="25f024fa28625334a8b400b76297578c" sha1="7ca3694b82ec5b51ccb512a9fb16ff046a2f0da7"/>
+		<rom name="DATA\sys\boot.bin" size="1088" crc="960f6edb" md5="4f71ace0da651692dda288786f372c52" sha1="664a860ac83f03f4a5cdaa3138f38c0207413aa5"/>
+		<rom name="DATA\sys\fst.bin" size="30200" crc="2d2d1bab" md5="85859ef71a78ace1182a1f8a9cffe6f7" sha1="d4b7fb16fb860fd9cc561d67f6cb98db43c3b98f"/>
+		<rom name="DATA\sys\main.dol" size="6604640" crc="b79279c4" md5="1746ee6376e3d5b9f0ce2818382eeda0" sha1="ad768383c4244fda0688aefc8d4aa3ce41e50646"/>
+		<rom name="DATA\sys\main.old" size="6292128" crc="0b261b92" md5="5cf643c3a16cc31403104c01821a073d" sha1="01e61f8654784e38b850b4d10538a1ea028b7d11"/>
+		<rom name="DATA\ticket.bin" size="676" crc="b4131a70" md5="c17f4ff593b2c782319a61a6dd0a0641" sha1="7ed971a13fba8a2e74e4967eae15a5be8da4d0e4"/>
+		<rom name="DATA\tmd.bin" size="520" crc="5597d8fa" md5="78dc056306866afc0145f25c0281bfc5" sha1="c7e7ff4664a9606bf55da12ce1cae4ef7e42f58f"/>
+	</game>
+	<game name="DS-Wii Remote Test (World) (Program)">
+		<description>DS-Wii Remote Test (World) (Program)</description>
+		<rom name="DS-Wii Remote Test (World) (Program).iso" size="4707319808" crc="1a55a2b6" md5="99ceabd348ff86a41f3f376ba0db1ac8" sha1="532a92f9ceb50a5be69b6935a4ec3a794aaafd6c"/>
+	</game>
+	<game name="Food Network - Cook or Be Cooked (USA) (Beta) (Demo)">
+		<description>Food Network - Cook or Be Cooked (USA) (Beta) (Demo)</description>
+		<rom name="Food Network - Cook or Be Cooked (USA) (Beta) (Demo).iso" size="4707319808" crc="d5bff057" md5="92a1cac96b7f21e54bc8218376fac4b0" sha1="5d4ffd9c34591b7d05c1e645944f1c231179bcc0"/>
+	</game>
+	<game name="Food Network - Cook or Be Cooked (USA) (Beta) (2009-09-25T104257)">
+		<description>Food Network - Cook or Be Cooked (USA) (Beta) (2009-09-25T104257)</description>
+		<rom name="Food Network - Cook or Be Cooked (USA) (Beta) (2009-09-25T104257).iso" size="4707319808" crc="52c29204" md5="a0d528b7c748fd3fc95f4efe2a319c0d" sha1="ee83e9ff92964c56bbb04b8e2617266dbca80a65"/>
+	</game>
+	<game name="Food Network - Cook or Be Cooked (USA) (Beta) (2009-09-25T104611)">
+		<description>Food Network - Cook or Be Cooked (USA) (Beta) (2009-09-25T104611)</description>
+		<rom name="Food Network - Cook or Be Cooked (USA) (Beta) (2009-09-25T104611).iso" size="4707319808" crc="7a29140d" md5="6d52f318ef1ea885d600d66425252ed7" sha1="2ab74eaf6ec5d32802469f337725731607ebacce"/>
+	</game>
+	<game name="Fragile - Sayonara Tsuki no Haikyo (Japan) (Taikenban) (Kiosk) (10f065be00)">
+		<description>Fragile - Sayonara Tsuki no Haikyo (Japan) (Taikenban) (Kiosk) (10f065be00)</description>
+		<rom name="Fragile - Sayonara Tsuki no Haikyo (Japan) (Taikenban) (Kiosk) (10f065be00).iso" size="666910720" crc="f977dac7" md5="3704f419bbce05918db18b68819184b4" sha1="93f7224896da151c8f342bca4b62cf8356027f7e"/>
+	</game>
+	<game name="Fragile - Sayonara Tsuki no Haikyo (Japan) (Taikenban) (Kiosk) (cf300fe00)">
+		<description>Fragile - Sayonara Tsuki no Haikyo (Japan) (Taikenban) (Kiosk) (cf300fe00)</description>
+		<rom name="Fragile - Sayonara Tsuki no Haikyo (Japan) (Taikenban) (Kiosk) (cf300fe00).iso" size="1644183552" crc="de9e0039" md5="f4d808c61fdecad9fd5876bcf41602e0" sha1="029bebf28eeb4c6d528f74a17130ca211341a71b"/>
+	</game>
+	<game name="Free Loader (Japan) (v0.5) (Program)">
+		<description>Free Loader (Japan) (v0.5) (Program)</description>
+		<rom name="Free Loader (Japan) (v0.5) (Program).iso" size="16777216" crc="2a6669b5" md5="d500a2e45673c05be7153817891348c0" sha1="504c8d7a95c0f554ba13a6dcedd93fdd0a8242f6"/>
+	</game>
+	<game name="G.I. Joe - The Rise of Cobra (USA) (Beta) (2009-03-09)">
+		<description>G.I. Joe - The Rise of Cobra (USA) (Beta) (2009-03-09)</description>
+		<rom name="G.I. Joe - The Rise of Cobra (USA) (Beta) (2009-03-09).iso" size="4707319808" crc="a72a6af1" md5="e250319665f2d2f7c4bb8aaf3f075486" sha1="db83c23dc41a0c0ca3813f6cfb7e460ebe5c57f1"/>
+	</game>
+	<game name="G.I. Joe - The Rise of Cobra (USA) (Beta) (2009-03-10)">
+		<description>G.I. Joe - The Rise of Cobra (USA) (Beta) (2009-03-10)</description>
+		<rom name="G.I. Joe - The Rise of Cobra (USA) (Beta) (2009-03-10).iso" size="4707319808" crc="4b2e00ed" md5="a61df92c51142e28270e248fe61e85ac" sha1="81ed3b4b65572ca5050e880f69f232aab863a61f"/>
+	</game>
+	<game name="Gemini Golf (Europe) (Proto) (2008-02-15)">
+		<description>Gemini Golf (Europe) (Proto) (2008-02-15)</description>
+		<rom name="Gemini Golf (Europe) (Proto) (2008-02-15).iso" size="4707319808" crc="343c4725" md5="91a8f7fc25a735a0b364b800c9a505c0" sha1="5ee1df9e06eeca5837331203a3c1e03a042e8064"/>
+	</game>
+	<game name="Go Vacation (USA) (Beta) (2010-07-02)">
+		<description>Go Vacation (USA) (Beta) (2010-07-02)</description>
+		<rom name="Go Vacation (USA) (Beta) (2010-07-02).iso" size="4707319808" crc="15194947" md5="519349970a8aaacd1f0090a50507aad7" sha1="7a1f0b7715c61d5b07b6f63e6c2c54c4ca92e31f"/>
+	</game>
+	<game name="GoldenEye 007 (Europe) (Beta)">
+		<description>GoldenEye 007 (Europe) (Beta)</description>
+		<release name="GoldenEye 007 (Europe) (Beta)" region="EUR"/>
+		<rom name="GoldenEye 007 (Europe) (Beta).iso" size="4707319808" crc="a2d3e5b1" md5="014d1591a3162a58e472f70dbb52d845" sha1="6f0b786558933746ab18a93b670911c1bd57b85a"/>
+	</game>
+	<game name="BondX (USA) (Beta) (2009-06-29)" cloneof="GoldenEye 007 (Europe) (Beta)">
+		<description>BondX (USA) (Beta) (2009-06-29)</description>
+		<rom name="BondX (USA) (Beta) (2009-06-29).iso" size="4707319808" crc="f15744f5" md5="c39ed80abd6ef31c9c045e035d633edb" sha1="3dd1f8b9a3db375866c748b12e642167bfcce336"/>
+	</game>
+	<game name="GoldenEye 007 (USA) (Beta) (2010-08-02) (v376)" cloneof="GoldenEye 007 (Europe) (Beta)">
+		<description>GoldenEye 007 (USA) (Beta) (2010-08-02) (v376)</description>
+		<rom name="GoldenEye 007 (USA) (Beta) (2010-08-02) (v376).iso" size="4707319808" crc="abfddb06" md5="a31d2acffd1b932ffaeff6d2113c0a6e" sha1="fa39258721bdd43135a4b9497166cf662d51b739"/>
+	</game>
+	<game name="GoldenEye 007 (USA) (Beta) (2010-09-07) (v58000618)" cloneof="GoldenEye 007 (Europe) (Beta)">
+		<description>GoldenEye 007 (USA) (Beta) (2010-09-07) (v58000618)</description>
+		<release name="GoldenEye 007 (USA) (Beta) (2010-09-07) (v58000618)" region="USA"/>
+		<rom name="GoldenEye 007 (USA) (Beta) (2010-09-07) (v58000618).iso" size="4707319808" crc="d4ad527c" md5="fb2efcaa47ae24b7c2a181a1517e3935" sha1="6c33de20cc6ad36cb669458873de0a6f370d9dc8"/>
+	</game>
+	<game name="GoldenEye 007 (Japan) (Beta) (2011-04-12) (v664)" cloneof="GoldenEye 007 (Europe) (Beta)">
+		<description>GoldenEye 007 (Japan) (Beta) (2011-04-12) (v664)</description>
+		<rom name="GoldenEye 007 (Japan) (Beta) (2011-04-12) (v664).iso" size="4707319808" crc="4e85408d" md5="96cfd6eec2a3febe0ae0902de2d67776" sha1="24a01992a4222d858d75b01a066e88105ad49b83"/>
+	</game>
+	<game name="GoldenEye 007 (Japan) (Beta) (2011-04-27) (v664)" cloneof="GoldenEye 007 (Europe) (Beta)">
+		<description>GoldenEye 007 (Japan) (Beta) (2011-04-27) (v664)</description>
+		<release name="GoldenEye 007 (Japan) (Beta) (2011-04-27) (v664)" region="JPN"/>
+		<rom name="GoldenEye 007 (Japan) (Beta) (2011-04-27) (v664).iso" size="4707319808" crc="fe86da7f" md5="89e1f11d66f18a4b7b739b7fb74cd3ca" sha1="38a3b02d6b68fe6d73e18dc95006b8b8e6a0ef80"/>
+	</game>
+	<game name="GoldenEye 2010 (USA) (Beta)" cloneof="GoldenEye 007 (Europe) (Beta)">
+		<description>GoldenEye 2010 (USA) (Beta)</description>
+		<rom name="GoldenEye 2010 (USA) (Beta).iso" size="4707319808" crc="0c33ec92" md5="80d9bc0234bde57af24eda86da5439f8" sha1="f1fe14bcbdb4510c58762b34a60f8f03c2718894"/>
+	</game>
+	<game name="Green Lantern - Rise of the Manhunters (USA) (Beta) (2010-02-11)">
+		<description>Green Lantern - Rise of the Manhunters (USA) (Beta) (2010-02-11)</description>
+		<rom name="Green Lantern - Rise of the Manhunters (USA) (Beta) (2010-02-11).iso" size="4294967296" crc="fa6db042" md5="d1be1bab8c4c4b3131731095ac0d1330" sha1="4f13b451e772363dd71a2944f5c52027592c268d"/>
+	</game>
+	<game name="Green Lantern - Rise of the Manhunters (USA) (Beta) (2010-02-15)">
+		<description>Green Lantern - Rise of the Manhunters (USA) (Beta) (2010-02-15)</description>
+		<rom name="Green Lantern - Rise of the Manhunters (USA) (Beta) (2010-02-15).iso" size="4294967296" crc="6e39d5e6" md5="5440423604214ae6697518aa94f369a3" sha1="4e5c17dfeb40b16055251d5bd07cd93ec4a41a8e"/>
+	</game>
+	<game name="Interpol - The Trail of Dr. Chaos (USA) (Proto) (2009-04-24)">
+		<description>Interpol - The Trail of Dr. Chaos (USA) (Proto) (2009-04-24)</description>
+		<rom name="Interpol - The Trail of Dr. Chaos (USA) (Proto) (2009-04-24).wad" size="202401728" crc="bbb0b434" md5="b7bb05fe9293364b15b7f3f821193c0d" sha1="9d9a6d4ff4d8eac46dd95773dccd7ac03d23f7d5"/>
+	</game>
+	<game name="Interpol - The Trail of Dr. Chaos (USA) (Proto) (2009-04-21)">
+		<description>Interpol - The Trail of Dr. Chaos (USA) (Proto) (2009-04-21)</description>
+		<rom name="Interpol - The Trail of Dr. Chaos (USA) (Proto) (2009-04-21).wad" size="37437568" crc="73ad3b59" md5="73a70c94970d4e3cac43510cbab2ae4a" sha1="f95a26218a9665400074007b82bf2d8959a250d9"/>
+	</game>
+	<game name="Iron Man 2 (USA) (Beta) (2009-04-24)">
+		<description>Iron Man 2 (USA) (Beta) (2009-04-24)</description>
+		<release name="Iron Man 2 (USA) (Beta) (2009-04-24)" region="USA"/>
+		<rom name="Iron Man 2 (USA) (Beta) (2009-04-24).iso" size="4707319808" crc="f3fa59e9" md5="50ed5c8902616b46f339c339bc7bce4a" sha1="4b2a0bd4ff72b0d677480f02972fc25f9defa4eb"/>
+	</game>
+	<game name="Kaze no Klonoa - Door to Phantomile (Japan) (Taikenban) (Kiosk)">
+		<description>Kaze no Klonoa - Door to Phantomile (Japan) (Taikenban) (Kiosk)</description>
+		<rom name="Kaze no Klonoa - Door to Phantomile (Japan) (Taikenban) (Kiosk).iso" size="599801856" crc="b382d388" md5="993294e8a2d84bc9d3fe5af8d56bf240" sha1="d857e6def5556978fb9d120a5592c1cf1f7c2444"/>
+	</game>
+	<game name="Kodai Ouja Kyouryuu King (Japan) (Proto 1)">
+		<description>Kodai Ouja Kyouryuu King (Japan) (Proto 1)</description>
+		<rom name="Kodai Ouja Kyouryuu King (Japan) (Proto 1).iso" size="4707319808" crc="984e2b68" md5="ebb81618532e69139f0daa35d6c9946c" sha1="1f9ca042ebe680cf700bab8cfccf3f905699c43b"/>
+	</game>
+	<game name="Kodai Ouja Kyouryuu King (Japan) (Proto 2)">
+		<description>Kodai Ouja Kyouryuu King (Japan) (Proto 2)</description>
+		<rom name="Kodai Ouja Kyouryuu King (Japan) (Proto 2).iso" size="4707319808" crc="929a49b9" md5="a8cdb6282368e4dec338aa28927186be" sha1="78ea76f3d8bfc6d701fdbe8deec5ede6d455831b"/>
+	</game>
+	<game name="Kodai Ouja Kyouryuu King (Japan) (Proto 3)">
+		<description>Kodai Ouja Kyouryuu King (Japan) (Proto 3)</description>
+		<rom name="Kodai Ouja Kyouryuu King (Japan) (Proto 3).iso" size="4707319808" crc="3ded63b4" md5="5fa8d0a8d4595117c2c3931662046db9" sha1="76b7edbb63161a150ff9e505b907b1bb9c83036b"/>
+	</game>
+	<game name="Kodai Ouja Kyouryuu King (Japan) (Proto 4)">
+		<description>Kodai Ouja Kyouryuu King (Japan) (Proto 4)</description>
+		<rom name="Kodai Ouja Kyouryuu King (Japan) (Proto 4).iso" size="4707319808" crc="639876ab" md5="4500f2eeb69aaf4a63773095e23aa559" sha1="5e926cb2b32785648c3a53a73cca510c52e16a99"/>
+	</game>
+	<game name="Kodai Ouja Kyouryuu King (Japan) (Proto 5)">
+		<description>Kodai Ouja Kyouryuu King (Japan) (Proto 5)</description>
+		<rom name="Kodai Ouja Kyouryuu King (Japan) (Proto 5).iso" size="4707319808" crc="7678dab9" md5="93433d93fc2842ba22945c0f1984f3ae" sha1="4c2051be8d00c6bc4341c7c66ff4b2c3647abbf0"/>
+	</game>
+	<game name="Last Story, The (Europe) (Beta) (2011-11-25)">
+		<description>Last Story, The (Europe) (Beta) (2011-11-25)</description>
+		<rom name="Last Story, The (Europe) (Beta) (2011-11-25).iso" size="7985954816" crc="aefa6e6d" md5="4a83ece5cdefa7a19052156fd71c4603" sha1="50756a43d97e01c85ae4adda128d830344722492"/>
+	</game>
+	<game name="Last Story, The (Europe) (Beta) (2011-11-28)">
+		<description>Last Story, The (Europe) (Beta) (2011-11-28)</description>
+		<rom name="Last Story, The (Europe) (Beta) (2011-11-28).vcdiff" size="1192975" crc="8fcf5ce4" md5="cef772f72148e31f003e4ff097f620d0" sha1="55564fb92190e1cbfaeeb6107290b911dce364f5"/>
+		<rom name="Last Story, The (Europe) (Beta) (2011-11-28).iso" size="7985954816" crc="4117ecb4" md5="ee23a3a39b8efdbe716c5e32de2c2dac" sha1="02fb73b43f1b551c2b8d1ceeb58b5a4d03dc578c"/>
+	</game>
+	<game name="LEGO Racers - The Video Game (Europe) (Proto) (2010-01-19)">
+		<description>LEGO Racers - The Video Game (Europe) (Proto) (2010-01-19)</description>
+		<release name="LEGO Racers - The Video Game (Europe) (Proto) (2010-01-19)" region="EUR"/>
+		<rom name="LEGO Racers - The Video Game (Europe) (Proto) (2010-01-19).iso" size="4707319808" crc="131a2b46" md5="9f3a30a09da6ea7950b95c3a2ea46c1f" sha1="01549e4c26c031d6b5ee2ac0d7bfe53003f0b835"/>
+	</game>
+	<game name="LEGO Racers - The Video Game (Europe) (Proto) (2009-01-09)">
+		<description>LEGO Racers - The Video Game (Europe) (Proto) (2009-01-09)</description>
+		<rom name="LEGO Racers - The Video Game (Europe) (Proto) (2009-01-09).iso" size="4707319808" crc="4615728a" md5="0c5707fe1d3f4801c1c78f66644a5ab8" sha1="979933ac2fc2ec2075e54432e48954655e434a6c"/>
+	</game>
+	<game name="LEGO Racers - The Video Game (Europe) (Proto) (2008-12-05)">
+		<description>LEGO Racers - The Video Game (Europe) (Proto) (2008-12-05)</description>
+		<rom name="LEGO Racers - The Video Game (Europe) (Proto) (2008-12-05).iso" size="4707319808" crc="844a8ac3" md5="37d06ea3d6e6f6bbaee6eed6ee85ada0" sha1="ab5786b6df313bfec91b60f81fd6311127a00cea"/>
+	</game>
+	<game name="Mahjong Tales - Ancient Wisdom (USA) (Proto)">
+		<description>Mahjong Tales - Ancient Wisdom (USA) (Proto)</description>
+		<rom name="Mahjong Tales - Ancient Wisdom (USA) (Proto).iso" size="4707319808" crc="58d3a14a" md5="9ace653d8211f153c02ff046f62a6f48" sha1="0018b69dd6b4771416cf3b113056643d409a692e"/>
+	</game>
+	<game name="Mahjong Tales - Ancient Wisdom (USA) (Proto) (Earlier)">
+		<description>Mahjong Tales - Ancient Wisdom (USA) (Proto) (Earlier)</description>
+		<rom name="Mahjong Tales - Ancient Wisdom (USA) (Proto) (Earlier).wad" size="9950848" crc="8c8ee4a0" md5="fcc589a8a9513130cc4e2f20571821a3" sha1="d190592d2f92e1911f4cf7ab08ae657f3a415599"/>
+	</game>
+	<game name="Mahjong Tales - Ancient Wisdom (USA) (Proto) (2009-04-14)">
+		<description>Mahjong Tales - Ancient Wisdom (USA) (Proto) (2009-04-14)</description>
+		<rom name="Mahjong Tales - Ancient Wisdom (USA) (Proto) (2009-04-14).wad" size="12837888" crc="bbd1c2d0" md5="91b5167c0617ea5b5ff90aab4146329f" sha1="ada1ae4bc7f289e84926533d2d619eb76d4f2a60"/>
+	</game>
+	<game name="Mahjong Tales - Ancient Wisdom (USA) (Proto) (2009-04-20)">
+		<description>Mahjong Tales - Ancient Wisdom (USA) (Proto) (2009-04-20)</description>
+		<rom name="Mahjong Tales - Ancient Wisdom (USA) (Proto) (2009-04-20).wad" size="12884736" crc="f26fe605" md5="d8f5237ce69ca360af1b3301d86fc598" sha1="996e149a0dfb7fd9155641393a5c99aa24f3ab9c"/>
+	</game>
+	<game name="Mahjong Tales - Ancient Wisdom (USA) (Proto) (2009-04-24)">
+		<description>Mahjong Tales - Ancient Wisdom (USA) (Proto) (2009-04-24)</description>
+		<rom name="Mahjong Tales - Ancient Wisdom (USA) (Proto) (2009-04-24).wad" size="17206144" crc="41d9c13b" md5="d6c84c56e28b0ced0af8cf77263e03e6" sha1="012052ca4249ed854cf77de203644c2c565db1b0"/>
+	</game>
+	<game name="Mario Kart Wii (Japan) (Taikenban) (Kiosk)">
+		<description>Mario Kart Wii (Japan) (Taikenban) (Kiosk)</description>
+		<rom name="Mario Kart Wii (Japan) (Taikenban) (Kiosk).iso" size="916439040" crc="ea21be65" md5="690557597a9e28a391582b78159013b7" sha1="219703e3b0a3fd46d9be4ce5aa55a525d2db8fcf"/>
+	</game>
+	<game name="Mighty Switch Force! (USA) (Proto) (2011-12-01)">
+		<description>Mighty Switch Force! (USA) (Proto) (2011-12-01)</description>
+		<rom name="Mighty3Wii_Built.7z" size="153678341" crc="f8e46818" md5="f14b40f266c116e0db9bde41f539a3c2" sha1="8583b442fa36d8f91adc88a1eaa1be555aa107bc"/>
+		<rom name="MSF Wii Playable.7z" size="159586202" crc="8cda71a5" md5="c63e82e51fbe9f85b47843729bb58d39" sha1="e15e42be968b506df62faece514d9f4e6f3849a5"/>
+	</game>
+	<game name="Monster Hunter 3 tri- (Japan) (Taikenban) (Kiosk)">
+		<description>Monster Hunter 3 tri- (Japan) (Taikenban) (Kiosk)</description>
+		<rom name="Monster Hunter 3 tri- (Japan) (Taikenban) (Kiosk).iso" size="557023232" crc="06d53cda" md5="ff808fcc48c59316500601bb0f22c460" sha1="fbbd45ee3ba9c35a8df62495446a23aad93cbf00"/>
+	</game>
+	<game name="Monster Lab (USA) (Beta) (2008-06-10)">
+		<description>Monster Lab (USA) (Beta) (2008-06-10)</description>
+		<rom name="Monster Lab (USA) (Beta) (2008-06-10).iso" size="4707319808" crc="447d1aa0" md5="a279135d6ed76dc4c48ae2e9667a9786" sha1="f94b609b7f9213bc9a59efabc02afbd5a3245647"/>
+	</game>
+	<game name="Naruto Shippuuden - Gekitou Ninja Taisen! EX3 (Japan) (Taikenban) (Kiosk)">
+		<description>Naruto Shippuuden - Gekitou Ninja Taisen! EX3 (Japan) (Taikenban) (Kiosk)</description>
+		<rom name="Naruto Shippuuden - Gekitou Ninja Taisen! EX3 (Japan) (Taikenban) (Kiosk).iso" size="1023639552" crc="271e35db" md5="4ce487ac512dea6d48844f87daee54a1" sha1="01da07598542c21684bd625ba51de24ed0edb618"/>
+	</game>
+	<game name="Need for Speed - Nitro (USA) (Beta) (2009-03-11)">
+		<description>Need for Speed - Nitro (USA) (Beta) (2009-03-11)</description>
+		<rom name="Need for Speed - Nitro (USA) (Beta) (2009-03-11).iso" size="4294967296" crc="be979446" md5="053656a8ae4fa1537c853610fba5d428" sha1="10f6568fee4cca97e67d8b94c83a49545555b8ff"/>
+	</game>
+	<game name="Netflix (USA) (Beta) (v1280)">
+		<description>Netflix (USA) (Beta) (v1280)</description>
+		<rom name="Netflix (USA) (Beta) (v1280).wad" size="7878336" crc="d5c27a77" md5="e996a26951b196d206dcb5c8be6240b6" sha1="05065ea2deb810703dfd4fa2d223a4f303970bcf"/>
+	</game>
+	<game name="Netflix (USA) (Beta) (v1792)">
+		<description>Netflix (USA) (Beta) (v1792)</description>
+		<rom name="Netflix (USA) (Beta) (v1792).wad" size="8494848" crc="1631ec32" md5="0f0d39432c784b93190968a6d0c26ec3" sha1="26c243925f89f0f75e2825ff384c3ae531e1677b"/>
+	</game>
+	<game name="New Super Mario Bros. Wii (Japan) (Taikenban) (Kiosk)">
+		<description>New Super Mario Bros. Wii (Japan) (Taikenban) (Kiosk)</description>
+		<rom name="New Super Mario Bros. Wii (Japan) (Taikenban) (Kiosk).iso" size="497090560" crc="60f34c85" md5="944c7c9bda426be48bc488422e272bb9" sha1="6ef326c7832eb0649977c41ee0984a2703f725cd"/>
+	</game>
+	<game name="Nitrobike (USA) (En,Fr,Es) (Beta) (2008-05-08)">
+		<description>Nitrobike (USA) (En,Fr,Es) (Beta) (2008-05-08)</description>
+		<release name="Nitrobike (USA) (En,Fr,Es) (Beta) (2008-05-08)" region="USA"/>
+		<rom name="Nitrobike (USA) (En,Fr,Es) (Beta) (2008-05-08).iso" size="4294967296" crc="825d9740" md5="93ee7d795fafcf0c8f7348a77ad642aa" sha1="10b59d9d28a036cb05bd12ecca5505c5dc6ecba8"/>
+	</game>
+	<game name="NWC24init (World) (Program)">
+		<description>NWC24init (World) (Program)</description>
+		<rom name="NWC24init (World) (Program).iso" size="4707319808" crc="89cef8a4" md5="27479fbe9dc2700414337ccc73c76ccb" sha1="f5f08af7109d69d8953389ef04c76295acbeb7a6"/>
+	</game>
+	<game name="Olympigs (World) (Beta) (2008-04-21) (PC Build)">
+		<description>Olympigs (World) (Beta) (2008-04-21) (PC Build)</description>
+		<rom name="Diving Test Build.zip" size="558260" crc="1fa7e7f2" md5="22e16206e8c5ad5a9f7bd1adc9e63b10" sha1="38f21745de3296645967842555cf16be15874aa7"/>
+		<rom name="MiniGamePC_R.rar" size="1030787" crc="64edccca" md5="2f149830454ed189f2f5b427eb815bab" sha1="7ad504dd83f4e4208525141c8e8a9f225b9c8d76"/>
+	</game>
+	<game name="Olympigs (World) (Beta) (2008-04-23) (PC Build)">
+		<description>Olympigs (World) (Beta) (2008-04-23) (PC Build)</description>
+		<rom name="Longjump.rar" size="1024789" crc="50798925" md5="866920376a904d5dc675fde4ca36f1b1" sha1="136e881b3fb05ba363bb8a64aa6872471c576b46"/>
+		<rom name="MinigameEngine.zip" size="3897040" crc="e7488aaf" md5="eae3c0016a172fa3d89aafd73248baf0" sha1="6215f0ad9467dcee876c12e10c61d10e4b81664d"/>
+	</game>
+	<game name="Osu! Exercise Dojo (Japan) (Debug Signed)">
+		<description>Osu! Exercise Dojo (Japan) (Debug Signed)</description>
+		<rom name="Osu! Exercise Dojo (Japan) (Debug Signed).wad" size="19785728" crc="fc33da4d" md5="c7d6ea0d7ac9974a0b66f2913d664bb3" sha1="c5ce541f3a3bb3f41c2d3cfdf64ba335de80d83a"/>
+	</game>
+	<game name="Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-10-19)">
+		<description>Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-10-19)</description>
+		<release name="Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-10-19)" region="USA"/>
+		<rom name="Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-10-19).iso" size="4707319808" crc="34043520" md5="2a93f3a964d37191169b606104b80e20" sha1="0bf9b0c2eabea0838217806f4e4e437ab1230d8e"/>
+	</game>
+	<game name="Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-09-01)" cloneof="Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-10-19)">
+		<description>Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-09-01)</description>
+		<rom name="Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-09-01).iso" size="4707319808" crc="e8cd2322" md5="5a64667e31d4ba8f0e85d9a1c4725da7" sha1="b5363835c4ead63cd6153147df7d2b5956367828"/>
+	</game>
+	<game name="Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-08-29)" cloneof="Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-10-19)">
+		<description>Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-08-29)</description>
+		<rom name="Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-08-29).iso" size="4707319808" crc="d5060110" md5="3e9330ad8fbcc91f9f843d4bbd5b7af0" sha1="0a6ab1950fe740fb65fba95bdf260dc3682c25ad"/>
+	</game>
+	<game name="Rock Band 3 (USA) (Beta) (2010-03-16)" cloneof="Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-10-19)">
+		<description>Rock Band 3 (USA) (Beta) (2010-03-16)</description>
+		<rom name="Rock Band 3 (USA) (Beta) (2010-03-16).iso" size="4707319808" crc="2439ed1c" md5="b92bd11e3e8fe92256a5130eb8bd7d94" sha1="f334ff548af97301de05d1f224976a4c575af3a9"/>
+	</game>
+	<game name="Rock Band 3 (USA) (Beta) (2010-01-19)" cloneof="Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-10-19)">
+		<description>Rock Band 3 (USA) (Beta) (2010-01-19)</description>
+		<rom name="Rock Band 3 (USA) (Beta) (2010-01-19).iso" size="4707319808" crc="12ddfeb0" md5="fa35aeb43509f4c5eedad8f295215548" sha1="820cb5c952504d92fe9fdd183cfecf5e2a30e0a5"/>
+	</game>
+	<game name="Safe Frame Viewer (World) (Program)">
+		<description>Safe Frame Viewer (World) (Program)</description>
+		<rom name="Safe Frame Viewer (World) (Program).wad" size="1230720" crc="8b2228b8" md5="88fda04d9de62969b7b0c1b1e56b3ec5" sha1="553de38011a6c925957472e3992bbdc734bc1ee5"/>
+	</game>
+	<game name="Samantha Skye - Rock P.I. (USA) (Proto) (2009-09-23T145324)">
+		<description>Samantha Skye - Rock P.I. (USA) (Proto) (2009-09-23T145324)</description>
+		<rom name="Samantha Skye - Rock P.I. (USA) (Proto) (2009-09-23T145324).iso" size="4294967296" crc="27462320" md5="a359a5f047a148f4dc9d041121e319df" sha1="9bda1bfeb54e2c5091f8f51fd6e4b99a4ddd6ae2"/>
+	</game>
+	<game name="Samantha Skye - Rock P.I. (USA) (Proto) (2009-09-23T164244) [b]">
+		<description>Samantha Skye - Rock P.I. (USA) (Proto) (2009-09-23T164244) [b]</description>
+		<rom name="Samantha Skye - Rock P.I. (USA) (Proto) (2009-09-23T164244).iso" size="4294967296" crc="63b9eacd" md5="64d1390ab70795b6b0d61561068c289f" sha1="5e337de7d2511c4739e1631b5b4014fb776b9baf" status="baddump"/>
+	</game>
+	<game name="School of Rock (USA) (Proto) [b]">
+		<description>School of Rock (USA) (Proto) [b]</description>
+		<rom name="School of Rock (USA) (Proto) [b].iso" size="4707319808" crc="ca137399" md5="25b0e9bb3ff52fae8d6a59c4fe84281d" sha1="9496bf49ad23595f85552204c9dce4a3fad42bf5" status="baddump"/>
+	</game>
+	<game name="SCORE International Baja 1000 (USA) (Beta) (2008-09-02)">
+		<description>SCORE International Baja 1000 (USA) (Beta) (2008-09-02)</description>
+		<release name="SCORE International Baja 1000 (USA) (Beta) (2008-09-02)" region="USA"/>
+		<rom name="SCORE International Baja 1000 (USA) (Beta) (2008-09-02).iso" size="4294967296" crc="3a030dc9" md5="16a266ba1846f7bb399bbada09ee713f" sha1="c8a4efe6877452a032cfea083da5156598798a26"/>
+	</game>
+	<game name="SCORE International Baja 1000 (USA) (Beta) (2008-08-22)" cloneof="SCORE International Baja 1000 (USA) (Beta) (2008-09-02)">
+		<description>SCORE International Baja 1000 (USA) (Beta) (2008-08-22)</description>
+		<rom name="SCORE International Baja 1000 (USA) (Beta) (2008-08-22).iso" size="4294967296" crc="36bbb78c" md5="c00c9d05a9bde6be7442bae8f32e7ed2" sha1="9b92ac061b078b25b3ac2c8845922f75cda37078"/>
+	</game>
+	<game name="SCORE International Baja 1000 (USA) (Beta) (2008-08-28)" cloneof="SCORE International Baja 1000 (USA) (Beta) (2008-09-02)">
+		<description>SCORE International Baja 1000 (USA) (Beta) (2008-08-28)</description>
+		<rom name="SCORE International Baja 1000 (USA) (Beta) (2008-08-28).iso" size="4294967296" crc="3d094b6b" md5="deb8fe27fb65b09ac64ae4f79319264c" sha1="5bf027a9ec82b555cca15a0e2b55637a8bdc447b"/>
+	</game>
+	<game name="Sengoku Basara 3 (Japan) (Taikenban) (Kiosk) (1cb100fe00)">
+		<description>Sengoku Basara 3 (Japan) (Taikenban) (Kiosk) (1cb100fe00)</description>
+		<rom name="Sengoku Basara 3 (Japan) (Taikenban) (Kiosk) (1cb100fe00).iso" size="989872128" crc="20e440e5" md5="434d0e7b9050543253a2f742a5995586" sha1="ab226ee0d2f2d5f26ce4f087a72fd184ca8ff385"/>
+	</game>
+	<game name="Sengoku Basara 3 (Japan) (Taikenban) (Kiosk) (b309d1e00)">
+		<description>Sengoku Basara 3 (Japan) (Taikenban) (Kiosk) (b309d1e00)</description>
+		<rom name="Sengoku Basara 3 (Japan) (Taikenban) (Kiosk) (b309d1e00).iso" size="962068480" crc="2bbf2bb6" md5="7bdcdb2cc941f5cd47b6bcc952ac68e9" sha1="3511cc870fe7ec2a0cd01308461e958276c9050f"/>
+	</game>
+	<game name="Sexy Poker (USA) (Beta)">
+		<description>Sexy Poker (USA) (Beta)</description>
+		<rom name="Sexy Poker (USA) (Beta).wad" size="39267968" crc="6cf1a976" md5="3599d794279beb5acde393ec336726cc" sha1="a576ef2e6be332f47371a56b38d05b02af6344d1"/>
+	</game>
+	<game name="Simpsons Game, The (USA) (Beta) (2007-07-06)">
+		<description>Simpsons Game, The (USA) (Beta) (2007-07-06)</description>
+		<release name="Simpsons Game, The (USA) (Beta) (2007-07-06)" region="USA"/>
+		<rom name="Simpsons Game, The (USA) (Beta) (2007-07-06).iso" size="4707319808" crc="c2a4b3a5" md5="fb73f310895ecb19914640309609f375" sha1="cdb6cf6f749a8291514330969dbe4604e586f729"/>
+	</game>
+	<game name="Sin and Punishment - Sora no Koukeisha (Japan) (Taikenban) (Kiosk)">
+		<description>Sin and Punishment - Sora no Koukeisha (Japan) (Taikenban) (Kiosk)</description>
+		<rom name="Sin and Punishment - Sora no Koukeisha (Japan) (Taikenban) (Kiosk).iso" size="457195520" crc="66a3a581" md5="0bb731a6c919add5c7408818d74cac88" sha1="785922a0f329e794ece48b07d6af2e473a8ea83e"/>
+	</game>
+	<game name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T161508)">
+		<description>Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T161508)</description>
+		<release name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T161508)" region="USA"/>
+		<rom name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T161508).iso" size="4294967296" crc="0c053e6b" md5="247240572d546cbe6bd55d7fd581bf6a" sha1="5a578eb7e6e14ae73b95951b9d8ac87983f3a93c"/>
+	</game>
+	<game name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-04-10)" cloneof="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T161508)">
+		<description>Skylanders - Giants (USA) (En,Fr) (Beta) (2012-04-10)</description>
+		<rom name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-04-10).iso" size="4294967296" crc="1b923fca" md5="12fa67598b558e4a841296cdc98c9825" sha1="8bed308aeef446b74c372c5805a12944f504039d"/>
+	</game>
+	<game name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-04-23)" cloneof="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T161508)">
+		<description>Skylanders - Giants (USA) (En,Fr) (Beta) (2012-04-23)</description>
+		<rom name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-04-23).iso" size="4294967296" crc="07b130f2" md5="db4067845fbc84f3a5d8aa2bcda1056e" sha1="209f04216f01925cd0834ec132932d4650476eb0"/>
+	</game>
+	<game name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-06-28)" cloneof="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T161508)">
+		<description>Skylanders - Giants (USA) (En,Fr) (Beta) (2012-06-28)</description>
+		<rom name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-06-28).iso" size="4294967296" crc="b24a0dfd" md5="91768ba5d5e9c2382be7c1d2ddbadb10" sha1="82e90bc843bbb63072797c1aad23feae9169293b"/>
+	</game>
+	<game name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T160554)" cloneof="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T161508)">
+		<description>Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T160554)</description>
+		<rom name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T160554).iso" size="4294967296" crc="270e2af9" md5="ac424623ada09282a3c0c3235c7ca5e3" sha1="41849e04187e2d991beb877fbf8cff2649642d6e"/>
+	</game>
+	<game name="Skylanders - Giants (USA) (Beta) (2012-03-27)">
+		<description>Skylanders - Giants (USA) (Beta) (2012-03-27)</description>
+		<rom name="Skylanders - Giants (USA) (Beta) (2012-03-27).iso" size="4294967296" crc="4c8140b2" md5="c5a92bea87a0c5424bf0c049de63540c" sha1="38df530954f8e40ab46011d7831c51e726e597ec"/>
+	</game>
+	<game name="Skylanders - Giants (USA) (Beta) (2012-06-05) (Tag Programmer)">
+		<description>Skylanders - Giants (USA) (Beta) (2012-06-05) (Tag Programmer)</description>
+		<rom name="Skylanders - Giants (USA) (Beta) (2012-06-05) (Tag Programmer).iso" size="4707319808" crc="e7ff4951" md5="5543ce9260ee595922c9873e47490b6d" sha1="17920180138daf4178ecb492319dd73d1fa6d559"/>
+	</game>
+	<game name="Skylanders - Giants (USA) (Beta) (2012-08-04) (Tag Programmer)">
+		<description>Skylanders - Giants (USA) (Beta) (2012-08-04) (Tag Programmer)</description>
+		<rom name="Skylanders - Giants (USA) (Beta) (2012-08-04) (Tag Programmer).iso" size="4294967296" crc="4d3f8434" md5="1c5fce7c99267e70a7bec2535f7f8897" sha1="890be1fbe76edd258804eff3a9866e529ec237a5"/>
+	</game>
+	<game name="Skylanders - SuperChargers Racing (USA) (Beta) (2015-06-26)">
+		<description>Skylanders - SuperChargers Racing (USA) (Beta) (2015-06-26)</description>
+		<rom name="Skylanders - SuperChargers Racing (USA) (Beta) (2015-06-26).iso" size="4294967296" crc="aebcd60b" md5="212e45b504c04b10469744a007b93325" sha1="c19e9453cbcb617ca9f6c18770fc53e5a75c8b74"/>
+	</game>
+	<game name="Skylanders - Swap Force (USA) (Beta) (2013-03-25)">
+		<description>Skylanders - Swap Force (USA) (Beta) (2013-03-25)</description>
+		<release name="Skylanders - Swap Force (USA) (Beta) (2013-03-25)" region="USA"/>
+		<rom name="Skylanders - Swap Force (USA) (Beta) (2013-03-25).iso" size="4707319808" crc="26a77e11" md5="7924d9903b5c2680c6bfbaf1a0540989" sha1="e830391674fe8786cb9cf9e2e6eca89859ad415e"/>
+	</game>
+	<game name="Spider-Man 4 (USA) (Proto) (2010-01-15)">
+		<description>Spider-Man 4 (USA) (Proto) (2010-01-15)</description>
+		<rom name="Spider-Man 4 (USA) (Proto) (2010-01-15).iso" size="4294967296" crc="e3e645f0" md5="c4e62724c5fd44a869c71e499015f0df" sha1="eeae72cb79330321d6fa06ff5209de1cc86388e7"/>
+	</game>
+	<game name="SPOGS Racing (USA) (Beta)">
+		<description>SPOGS Racing (USA) (Beta)</description>
+		<rom name="SPOGS Racing (USA) (Beta).wad" size="36999936" crc="c8566d45" md5="c88838de6443631946139bcd2e088804" sha1="63f9e7ceac50bcad6c974a5c1c8dff9f6b5ff7d8"/>
+	</game>
+	<game name="Star Wars - Battlefront III (USA) (Proto) (2008-11-21) (r2.91120a)">
+		<description>Star Wars - Battlefront III (USA) (Proto) (2008-11-21) (r2.91120a)</description>
+		<rom name="Star Wars - Battlefront III (USA) (Proto) (2008-11-21) (r2.91120a).iso" size="7985954816" crc="fe9f0445" md5="62392da89ab6dbde570074afb036a46e" sha1="fbfc22f4cc78788a5e7bad970ca980ff8a5dcc70"/>
+	</game>
+	<game name="Star Wars - Battlefront III (USA) (Proto) (r90776a)">
+		<description>Star Wars - Battlefront III (USA) (Proto) (r90776a)</description>
+		<rom name="Star Wars - Battlefront III (USA) (Proto) (r90776a).iso" size="7985954816" crc="c374490a" md5="359a672075b5842bf0532396d06b0b07" sha1="72f21378773ff377f988ccc3692774ebf0e29580"/>
+	</game>
+	<game name="Star Wars - Battlefront III (USA) (Proto) (r1.90431a)">
+		<description>Star Wars - Battlefront III (USA) (Proto) (r1.90431a)</description>
+		<rom name="Star Wars - Battlefront III (USA) (Proto) (r1.90431a).iso" size="4707319808" crc="9af49e69" md5="fa353d107814798dfb94245d687af453" sha1="becd1a474806684bc9e448b26adbe5823fbd5df4"/>
+	</game>
+	<game name="Super Robot Taisen Neo (Japan) (Taikenban) (Kiosk)">
+		<description>Super Robot Taisen Neo (Japan) (Taikenban) (Kiosk)</description>
+		<rom name="Super Robot Taisen Neo (Japan) (Taikenban) (Kiosk).iso" size="1501560832" crc="b56dc3ac" md5="f2e59d5736367b0d900dc7ad8223069e" sha1="efa0a218fff8c5eeb8a3affa707ce059c3ddce38"/>
+	</game>
+	<game name="SWUpdate (World) (v64.1026.10 + RVL.111.21) (Program)">
+		<description>SWUpdate (World) (v64.1026.10 + RVL.111.21) (Program)</description>
+		<rom name="SWUpdate (World) (v64.1026.10 + RVL.111.21) (Program).iso" size="4707319808" crc="e80767b5" md5="02cb79a03ab9878e9fb0aea101db21ef" sha1="139f71bfb490aa0d2c7d1be4ea56df3b2b0b38b4"/>
+	</game>
+	<game name="SWUpdate (World) (v33.4.16 + RVL.114.33) (Program)">
+		<description>SWUpdate (World) (v33.4.16 + RVL.114.33) (Program)</description>
+		<rom name="SWUpdate (World) (v33.4.16 + RVL.114.33) (Program).iso" size="4707319808" crc="fb630691" md5="276b0d105c1c82b0260f0ae66fc5a3c5" sha1="77f25a8b777ec4cbb2670c5d818af0a4039676fd"/>
+	</game>
+	<game name="SWUpdate (World) (v64.21.2.2 + RVL.111.21) (Program)">
+		<description>SWUpdate (World) (v64.21.2.2 + RVL.111.21) (Program)</description>
+		<rom name="SWUpdate (World) (v64.21.2.2 + RVL.111.21) (Program).iso" size="4707319808" crc="cde0a8d6" md5="b8dcc685cc5e048d4ec450ced98944ae" sha1="1c8f9777b2786eb5d8d4e8c90006faec3ba865b9"/>
+	</game>
+	<game name="SWUpdate (World) (v56.21.29 + RVL.121.56) (Program)">
+		<description>SWUpdate (World) (v56.21.29 + RVL.121.56) (Program)</description>
+		<rom name="SWUpdate (World) (v56.21.29 + RVL.121.56) (Program).iso" size="4707319808" crc="01d5151d" md5="8deef4289f62ce1f45f6c17d614b1cec" sha1="61e9cd937120cd9e18a23422283a987c11c9d511"/>
+	</game>
+	<game name="SWUpdate (World) (v53.16.17 + v55.18.25 + RVL.119.55) (Program)">
+		<description>SWUpdate (World) (v53.16.17 + v55.18.25 + RVL.119.55) (Program)</description>
+		<rom name="SWUpdate (World) (v53.16.17 + v55.18.25 + RVL.119.55) (Program).iso" size="4707319808" crc="c1babbeb" md5="14e1078dbe1d8485b35e740f20ecac06" sha1="fcc6026ca8d9915426d6dcb09f6524dccf0880b7"/>
+	</game>
+	<game name="Tabemon (Japan) (Taikenban) (Kiosk)">
+		<description>Tabemon (Japan) (Taikenban) (Kiosk)</description>
+		<rom name="Tabemon (Japan) (Taikenban) (Kiosk).iso" size="843710464" crc="bfafc91b" md5="fd69e8c71f87cb4c811eaf1b9b10311c" sha1="4743777500cd4fcbf8e75cc45687ae03f7ac4064"/>
+	</game>
+	<game name="TV Show King 2 (USA) (Beta)">
+		<description>TV Show King 2 (USA) (Beta)</description>
+		<rom name="TV Show King 2 (USA) (Beta).wad" size="12987904" crc="a1b4976c" md5="20823cccd5c5a95fb65a2240b9c0ea3d" sha1="6584d6574129edf47481b4f82ed6648415a08e1d"/>
+	</game>
+	<game name="Uno (USA) (Beta)">
+		<description>Uno (USA) (Beta)</description>
+		<rom name="Uno (USA) (Beta).wad" size="39177280" crc="8d789cd4" md5="4f25b4ee1e3a8bfc96cc1ba80c0b2286" sha1="658519b97683a3183fd765269b0b2cfb8f1b996b"/>
+	</game>
+	<game name="Uno (Japan) (Beta)">
+		<description>Uno (Japan) (Beta)</description>
+		<rom name="Uno (Japan) (Beta).wad" size="39176448" crc="b251783a" md5="ae93c184b0999cf289e105973a80e44b" sha1="5b931936eb5d1e9ecd930e2594383b07b1069194"/>
+	</game>
+	<game name="Uno (Europe) (Beta)">
+		<description>Uno (Europe) (Beta)</description>
+		<rom name="Uno (Europe) (Beta).wad" size="39176640" crc="70a06a2d" md5="29dc24bb1a2b49e28ae2924320fb7c01" sha1="484fbc5c7cdca168e63413d6b6206dbd5a6d3976"/>
+	</game>
+	<game name="Wario Land Shake (Japan) (Taikenban) (Kiosk)">
+		<description>Wario Land Shake (Japan) (Taikenban) (Kiosk)</description>
+		<rom name="Wario Land Shake (Japan) (Taikenban) (Kiosk).iso" size="1220558848" crc="a0376be3" md5="a6334401d16ff196268107d1c03b56f5" sha1="34f115a2163d08aa9b9cedab9bf875abe94fd9fb"/>
+	</game>
+	<game name="We Cheer 2 (USA) (Beta) (2009-06-23T110537)">
+		<description>We Cheer 2 (USA) (Beta) (2009-06-23T110537)</description>
+		<rom name="We Cheer 2 (USA) (Beta) (2009-06-23T110537).iso" size="4294967296" crc="70427b21" md5="593b67dd4ed53153dfd6e5beba74ff49" sha1="80482a8036dd9795b1bb5f4abb74cc71d6ae536b"/>
+	</game>
+	<game name="We Cheer 2 (USA) (Beta) (2009-06-23T130804)">
+		<description>We Cheer 2 (USA) (Beta) (2009-06-23T130804)</description>
+		<rom name="We Cheer 2 (USA) (Beta) (2009-06-23T130804).iso" size="4294967296" crc="fa897005" md5="fb10987a6198cae1a55fad61a3de469d" sha1="a0b2d329fa191a138f8bb589a2918d67e3a29784"/>
+	</game>
+	<game name="Wii Menu Changer (World) (v1.13) (Program)">
+		<description>Wii Menu Changer (World) (v1.13) (Program)</description>
+		<rom name="Wii Menu Changer (World) (v1.13) (Program).iso" size="4707319808" crc="82a0bc50" md5="478b0816c0814dbee78c1a89b2d85307" sha1="0b56c0d3713fdb81ac82988c635fe12b825725d4"/>
+	</game>
+	<game name="Wii Menu Changer (World) (v1.08) (Program)">
+		<description>Wii Menu Changer (World) (v1.08) (Program)</description>
+		<rom name="Wii Menu Changer (World) (v1.08) (Program).iso" size="4707319808" crc="6b0b459e" md5="083baf1be7c26fe3b160b271018c4a04" sha1="384ccd05c89b4771bfdf9364c047b99bbc465ec9"/>
+	</game>
+	<game name="Wii Menu Changer (World) (v1.16) (Program)">
+		<description>Wii Menu Changer (World) (v1.16) (Program)</description>
+		<rom name="Wii Menu Changer (World) (v1.16) (Program).iso" size="4707319808" crc="a9ecfe5e" md5="9da7efcf3fee58afd1663ae0d15a586d" sha1="7f6752018be5465ce5ff429cb2157fc66236af44"/>
+	</game>
+	<game name="Wii Self Defense (USA) (Proto 1)">
+		<description>Wii Self Defense (USA) (Proto 1)</description>
+		<rom name="Wii Self Defense (USA) (Proto 1).iso" size="4707319808" crc="ddf15058" md5="fd13b6faa33108d481f3e3f46044be59" sha1="a8a5ee323e990ccc77c6cf706089c4d614a55fc9"/>
+	</game>
+	<game name="Wii Self Defense (USA) (Proto 2)">
+		<description>Wii Self Defense (USA) (Proto 2)</description>
+		<rom name="Wii Self Defense (USA) (Proto 2).iso" size="4707319808" crc="6bf289dd" md5="424f28a0c92e382c39200e8293433779" sha1="35de841135e65e6ce3e8d3c9e87da5e9adff6964"/>
+	</game>
+	<game name="Wii Station Menu (Japan) (Kiosk) (3acb80fe00)">
+		<description>Wii Station Menu (Japan) (Kiosk) (3acb80fe00)</description>
+		<rom name="Wii Station Menu (Japan) (Kiosk) (3acb80fe00).iso" size="276840448" crc="0c27ee2c" md5="4267415790607e8edfec7b3fce2c8393" sha1="aa033ed953f838d9a48e6e5fe3b2e3cfd91adcf9"/>
+	</game>
+	<game name="Wii Station Menu (Japan) (Kiosk) (v0.1.26)">
+		<description>Wii Station Menu (Japan) (Kiosk) (v0.1.26)</description>
+		<rom name="Wii Station Menu (Japan) (Kiosk) (v0.1.26).iso" size="281034752" crc="e76708ee" md5="ddf72abbb805c03e0de02d4b9ae30d3e" sha1="b1238cf048f2945d8c1cd8310e76d24a2db7112d"/>
+	</game>
+	<game name="Wii Station Menu (Japan) (Kiosk) (v1.0.1)">
+		<description>Wii Station Menu (Japan) (Kiosk) (v1.0.1)</description>
+		<rom name="Wii Station Menu (Japan) (Kiosk) (v1.0.1).iso" size="275218432" crc="8ba2c6f2" md5="fc3da15305c0b2349a38bb3a248ec7ec" sha1="1c9cb49982c060fecf51be69404d7499372beb17"/>
+	</game>
+	<game name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Kyouryoku - Kanken - Minna de Wai Wai Kanji Nou (Japan) (Debug Signed)">
+		<description>Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Kyouryoku - Kanken - Minna de Wai Wai Kanji Nou (Japan) (Debug Signed)</description>
+		<rom name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Kyouryoku - Kanken - Minna de Wai Wai Kanji Nou (Japan) (Debug Signed).wad" size="13206976" crc="4acaf773" md5="4a12f7233385a3130f6bca110c6f9a19" sha1="44373ae4e0e3144af102fd4b0531c632908ee9e7"/>
+	</game>
+	<game name="ZooVets (USA) (Beta) (v0.5.0586)">
+		<description>ZooVets (USA) (Beta) (v0.5.0586)</description>
+		<release name="ZooVets (USA) (Beta) (v0.5.0586)" region="USA"/>
+		<rom name="ZooVets (USA) (Beta) (v0.5.0586).iso" size="4294967296" crc="6cd5e489" md5="d7a8d7c233f5600af0fcdffb84e08e20" sha1="500666cbb5611d6c22970c2db5abc5a51c816cf9"/>
+	</game>
+</datafile>

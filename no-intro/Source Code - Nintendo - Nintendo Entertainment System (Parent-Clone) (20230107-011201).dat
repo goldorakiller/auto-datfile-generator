@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>173</id>
+		<name>Source Code - Nintendo - Nintendo Entertainment System (Parent-Clone)</name>
+		<description>Source Code - Nintendo - Nintendo Entertainment System (Parent-Clone)</description>
+		<subset>Source Code</subset>
+		<version>20230107-011201</version>
+		<date>20230107-011201</date>
+		<author>Hiccup, MeguCocoa, SonGoku</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="Captain Comic (Unknown) (Unl)">
+		<description>Captain Comic (Unknown) (Unl)</description>
+		<rom name="Captain Comic Source Code.zip" size="138441" crc="a064656f" md5="eaeab01f43cd38b103f83ede6da30ef2" sha1="36055d2e420c1b10ac4b04b8b8fc60e61582f357"/>
+	</game>
+	<game name="Magician (Unknown)">
+		<description>Magician (Unknown)</description>
+		<rom name="Magician_NES_Project_Package.rar" size="261726" crc="f387b9ba" md5="c116dcae5c676a22cf2ae4c99a252d6e" sha1="db335b5f9f54e531514019fabcd16d45e30d6894"/>
+	</game>
+	<game name="Ninja Hattori-kun (Japan)">
+		<description>Ninja Hattori-kun (Japan)</description>
+		<rom name="nnjhtrkn.bundle" size="60964" crc="cfc691b9" md5="749118bdf7095d4c755d99a00370d602" sha1="91b150bc133692f5511092f48a9bc1d27ee5092a"/>
+		<rom name="nnjhtrkn-master.zip" size="59392" crc="d328882a" md5="d905b8d4bad20e500dfa1e3295b6532f" sha1="22e32cbfced6f06433c6056a285c4ef6b9077a06"/>
+	</game>
+	<game name="Pesterminator (Unknown) (Unl)">
+		<description>Pesterminator (Unknown) (Unl)</description>
+		<rom name="Pesterminator Source Code.zip" size="414657" crc="926d3443" md5="45ac235d3f97927435f299dec0a5fc9d" sha1="ba0c051158beeab2b969c10728b93871cb018be2"/>
+	</game>
+</datafile>

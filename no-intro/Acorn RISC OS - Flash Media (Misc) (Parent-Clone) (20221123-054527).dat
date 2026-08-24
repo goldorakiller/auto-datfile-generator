@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>310</id>
+		<name>Acorn RISC OS - Flash Media (Misc) (Parent-Clone)</name>
+		<description>Acorn RISC OS - Flash Media (Misc) (Parent-Clone)</description>
+		<version>20221123-054527</version>
+		<date>20221123-054527</date>
+		<author>Gefflon, Hiccup, MeguCocoa, SonGoku, xuom2</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="AmCoG Puzzle Game Collection 1, The (United Kingdom) (Flash Media)">
+		<description>AmCoG Puzzle Game Collection 1, The (United Kingdom) (Flash Media)</description>
+		<rom name="AmCoG Puzzle Game Collection 1, The (United Kingdom) (Flash Media).bin" size="531890176" crc="3739fae1" md5="35c009e127a00c8955f0dac715641871" sha1="9425a74a51e5657bff7c59226a47caa52f6c083e"/>
+	</game>
+	<game name="AmCoG Space Game Collection, The (United Kingdom) (Flash Media)">
+		<description>AmCoG Space Game Collection, The (United Kingdom) (Flash Media)</description>
+		<rom name="AmCoG Space Game Collection, The (United Kingdom) (Flash Media).bin" size="1006632960" crc="26027afd" md5="c92ef80f8bba7a3857ae98e5b193439e" sha1="0ffceca53fb5013e01ce929eceed5822061b14c9"/>
+	</game>
+</datafile>

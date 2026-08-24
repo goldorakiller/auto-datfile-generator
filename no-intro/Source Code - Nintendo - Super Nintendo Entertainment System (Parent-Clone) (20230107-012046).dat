@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>174</id>
+		<name>Source Code - Nintendo - Super Nintendo Entertainment System (Parent-Clone)</name>
+		<description>Source Code - Nintendo - Super Nintendo Entertainment System (Parent-Clone)</description>
+		<subset>Source Code</subset>
+		<version>20230107-012046</version>
+		<date>20230107-012046</date>
+		<author>Hiccup, SonGoku</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="EarthBound (USA) (Script)">
+		<description>EarthBound (USA) (Script)</description>
+		<rom name="EarthBound_Script_Source_1995-03-25.zip" size="652969" crc="9b35853e" md5="98ea8256dbcb97e48ac4810252ae1ffe" sha1="940eed97bd03b375cd1c6e468f34eeac63663a3d"/>
+	</game>
+	<game name="Super NES Mouse Check (USA) (Program)">
+		<description>Super NES Mouse Check (USA) (Program)</description>
+		<rom name="mouse_check.zip" size="25217" crc="662b9752" md5="b3c4138c51070e97a044af37be15036f" sha1="1496c760bb6d3ecfb9d1e6c4d1c3cd35f9dccbae"/>
+	</game>
+</datafile>

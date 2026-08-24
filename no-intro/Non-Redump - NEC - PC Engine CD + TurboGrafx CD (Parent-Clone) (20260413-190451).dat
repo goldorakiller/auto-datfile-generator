@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
+	<header>
+		<id>159</id>
+		<name>Non-Redump - NEC - PC Engine CD + TurboGrafx CD (Parent-Clone)</name>
+		<description>Non-Redump - NEC - PC Engine CD + TurboGrafx CD (Parent-Clone)</description>
+		<subset>Non-Redump</subset>
+		<version>20260413-190451</version>
+		<date>20260413-190451</date>
+		<author>baldjared, bikerspade, Hiccup, NovaAurora</author>
+		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
+	</header>
+	<game name="240p Test Suite (World) (v1.15) (Super CDROM2) (Program) (Unl)">
+		<description>240p Test Suite (World) (v1.15) (Super CDROM2) (Program) (Unl)</description>
+		<rom name="240pSuite-00.wav" size="3267856" crc="82cf434c" md5="2b568f93f2165799ef3d943990fd2f19" sha1="3c3b19ed38277b97f166263039f2c1a2066a00d9"/>
+		<rom name="240pSuite-02.wav" size="4182032" crc="5dac9c1d" md5="64566249c613891960f9c13625eaa27f" sha1="9c6d53f6f4f319e78a5f96ca7288a46ed85effcd"/>
+		<rom name="240pSuite-03.wav" size="2645956" crc="5c05ed75" md5="bc3ae39444286270ee258eb56af95b71" sha1="b53ec9869acdb94db7ca34140b163aef5af6f486"/>
+		<rom name="240pSuite-04.wav" size="2169992" crc="1c44263d" md5="533bec7c6b8b53d260149bc28551b13c" sha1="254300d118bc561af36d16b338eacd654403ef1c"/>
+		<rom name="240pSuite-05.wav" size="4182032" crc="b9268148" md5="9ffa861b186497b8ca6082fe64fa541f" sha1="3f38518fb5e7e70d75474fc9e131038a4f52511a"/>
+		<rom name="240pSuite-06.wav" size="4182032" crc="ead6cb53" md5="e782788f5ff96fea0a999cf64bf317fe" sha1="d9c788b42d6f530432944a33d37f2e6bd487b3c7"/>
+		<rom name="240pSuite.cue" size="541" crc="cf26c628" md5="14a43e6aa75bab5e161ef6f4f7860d7a" sha1="741e51ff23d83e733c6ad4bef8e6cb9d3237781a"/>
+		<rom name="240pSuite.iso" size="927744" crc="afe1941f" md5="79210d8399de538b6b2ec110824b6d58" sha1="5792ce4620ceb1b43ec1328c1ba46d92ece36d30"/>
+	</game>
+	<game name="240p Test Suite (World) (v1.12) (Super CDROM2) (Program) (Unl)" cloneof="240p Test Suite (World) (v1.15) (Super CDROM2) (Program) (Unl)">
+		<description>240p Test Suite (World) (v1.12) (Super CDROM2) (Program) (Unl)</description>
+		<rom name="240pSuite.cue" size="399" crc="28185ea4" md5="11b695a086040550a0f8cf8a2e0c6988" sha1="80580067666821d4aa08325c3502de6ba56e59f3"/>
+		<rom name="240pSuite-00.wav" size="3267856" crc="82cf434c" md5="2b568f93f2165799ef3d943990fd2f19" sha1="3c3b19ed38277b97f166263039f2c1a2066a00d9"/>
+		<rom name="240pSuite.iso" size="921600" crc="c78c7984" md5="7337008f1ea9815f7e1ba8acf185119c" sha1="866094f854c5f4ce7f774e766e63c44bcee028da"/>
+		<rom name="240pSuite-02.wav" size="4182032" crc="5dac9c1d" md5="64566249c613891960f9c13625eaa27f" sha1="9c6d53f6f4f319e78a5f96ca7288a46ed85effcd"/>
+		<rom name="240pSuite-03.wav" size="2645956" crc="5c05ed75" md5="bc3ae39444286270ee258eb56af95b71" sha1="b53ec9869acdb94db7ca34140b163aef5af6f486"/>
+		<rom name="240pSuite-04.wav" size="2169992" crc="1c44263d" md5="533bec7c6b8b53d260149bc28551b13c" sha1="254300d118bc561af36d16b338eacd654403ef1c"/>
+	</game>
+	<game name="240p Test Suite (World) (v1.12) (CDROM2) (Program) (Unl)" cloneof="240p Test Suite (World) (v1.15) (Super CDROM2) (Program) (Unl)">
+		<description>240p Test Suite (World) (v1.12) (CDROM2) (Program) (Unl)</description>
+		<rom name="240pSuite-00.wav" size="3267856" crc="82cf434c" md5="2b568f93f2165799ef3d943990fd2f19" sha1="3c3b19ed38277b97f166263039f2c1a2066a00d9"/>
+		<rom name="240pSuite-02.wav" size="4182032" crc="5dac9c1d" md5="64566249c613891960f9c13625eaa27f" sha1="9c6d53f6f4f319e78a5f96ca7288a46ed85effcd"/>
+		<rom name="240pSuite-03.wav" size="2645956" crc="5c05ed75" md5="bc3ae39444286270ee258eb56af95b71" sha1="b53ec9869acdb94db7ca34140b163aef5af6f486"/>
+		<rom name="240pSuite-04.wav" size="2169992" crc="1c44263d" md5="533bec7c6b8b53d260149bc28551b13c" sha1="254300d118bc561af36d16b338eacd654403ef1c"/>
+		<rom name="240pSuite.cue" size="399" crc="28185ea4" md5="11b695a086040550a0f8cf8a2e0c6988" sha1="80580067666821d4aa08325c3502de6ba56e59f3"/>
+		<rom name="240pSuite.iso" size="1083392" crc="9aeeb957" md5="42980cb631915a058658982f9e5c14a6" sha1="a7a22b1c6daf87246d31ade9aca78f6102fc2242"/>
+	</game>
+	<game name="240p Test Suite (World) (v1.15) (CDROM2) (Program) (Unl)" cloneof="240p Test Suite (World) (v1.15) (Super CDROM2) (Program) (Unl)">
+		<description>240p Test Suite (World) (v1.15) (CDROM2) (Program) (Unl)</description>
+		<rom name="240pSuite-00.wav" size="3267856" crc="82cf434c" md5="2b568f93f2165799ef3d943990fd2f19" sha1="3c3b19ed38277b97f166263039f2c1a2066a00d9"/>
+		<rom name="240pSuite-02.wav" size="4182032" crc="5dac9c1d" md5="64566249c613891960f9c13625eaa27f" sha1="9c6d53f6f4f319e78a5f96ca7288a46ed85effcd"/>
+		<rom name="240pSuite-03.wav" size="2645956" crc="5c05ed75" md5="bc3ae39444286270ee258eb56af95b71" sha1="b53ec9869acdb94db7ca34140b163aef5af6f486"/>
+		<rom name="240pSuite-04.wav" size="2169992" crc="1c44263d" md5="533bec7c6b8b53d260149bc28551b13c" sha1="254300d118bc561af36d16b338eacd654403ef1c"/>
+		<rom name="240pSuite-05.wav" size="4182032" crc="b9268148" md5="9ffa861b186497b8ca6082fe64fa541f" sha1="3f38518fb5e7e70d75474fc9e131038a4f52511a"/>
+		<rom name="240pSuite-06.wav" size="4182032" crc="ead6cb53" md5="e782788f5ff96fea0a999cf64bf317fe" sha1="d9c788b42d6f530432944a33d37f2e6bd487b3c7"/>
+		<rom name="240pSuite.cue" size="541" crc="cf26c628" md5="14a43e6aa75bab5e161ef6f4f7860d7a" sha1="741e51ff23d83e733c6ad4bef8e6cb9d3237781a"/>
+		<rom name="240pSuite.iso" size="1089536" crc="18613550" md5="12488a6b5414fa58ef67c8e213386ac2" sha1="47549615894ab205cd137d56db46979fb533db84"/>
+	</game>
+	<game name="Angels 2 - Holy Night (Japan) (En) (Proto)">
+		<description>Angels 2 - Holy Night (Japan) (En) (Proto)</description>
+		<rom name="Angels 2 - Holy Night (Japan) (En) (Proto).bin" size="126852768" crc="269ab588" md5="4436706458b429284b3dde93f83d960b" sha1="68fcc0b2fc635f609579507c19f80168d36cc901"/>
+	</game>
+	<game name="Fantasy Star Soldier (USA) (Beta)">
+		<description>Fantasy Star Soldier (USA) (Beta)</description>
+		<rom name="Fantasy Star Soldier (USA) (Beta).bin" size="652839936" crc="6fbdce07" md5="3785147c99ef12a7402e54e6dd7fcd74" sha1="15f77b5b1471917ac9e5e1497082f9fdfe0f38aa"/>
+	</game>
+	<game name="Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA) (Demo)">
+		<description>Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA) (Demo)</description>
+		<rom name="Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA) (Demo).bin" size="532436352" crc="4349adef" md5="c2c15ece828bae6c9dfff8d89c199cff" sha1="53135d974433d4d27d651914645fafa68f08f59a"/>
+	</game>
+	<game name="Nyanja!, The (World) (Final Demo) (Unl)">
+		<description>Nyanja!, The (World) (Final Demo) (Unl)</description>
+		<rom name="Nyanja!, The (World) (Final Demo) (Unl) (Track 01).wav" size="13332788" crc="1ec3492d" md5="1792bef113a89bf93e5ec1cc558ebd75" sha1="45877f709bcbc226c2b0a931c3a5890d2c385e7f"/>
+		<rom name="Nyanja!, The (World) (Final Demo) (Unl) (Track 02).iso" size="3442688" crc="ae07f209" md5="cf361c9e303221f9f42afdeefb0a2afc" sha1="d3cd568fc61b9ea8959571a2736f101af4e5eb05"/>
+		<rom name="Nyanja!, The (World) (Final Demo) (Unl) (Track 03).wav" size="24081374" crc="fa5886a4" md5="5ea0bb69ff1db933d8178f0824bf22a4" sha1="fbefd5c8c2de7c90b233052cbb0447138b3d07bb"/>
+		<rom name="Nyanja!, The (World) (Final Demo) (Unl) (Track 04).wav" size="26109260" crc="c41168b6" md5="11b8726387977852425bc26edabfa186" sha1="72304dfd8650cfd7f548f877b71ddb66cddcd802"/>
+		<rom name="Nyanja!, The (World) (Final Demo) (Unl) (Track 05).wav" size="1814444" crc="89f0d4b2" md5="dd9da188ebb58ef2361e48b8ab4bb59d" sha1="f1b2305784264f0522c9ae02656aee907572ba49"/>
+		<rom name="Nyanja!, The (World) (Final Demo) (Unl) (Track 06).wav" size="1874420" crc="0ad6ce8f" md5="e8128d4cb128f8b8805deb4f2d1ba845" sha1="9eb010b71b0fe9616cc6f4394227a44726da14e4"/>
+		<rom name="Nyanja!, The (World) (Final Demo) (Unl) (Track 07).wav" size="1855644" crc="5591c482" md5="d98ab7bc3387636f8d37143c414ed4eb" sha1="42cbb71dac5e2fc4140208de063e222ae3f4d5a6"/>
+		<rom name="Nyanja!, The (World) (Final Demo) (Unl) (Track 08).wav" size="29299376" crc="feb4923c" md5="7bbe82a611dfead479166b8a215b2ace" sha1="ad6a0c731e14430a3a343bc96709a02aa9d7f44c"/>
+		<rom name="Nyanja!, The (World) (Final Demo) (Unl) (Track 09).wav" size="14202660" crc="d3d10804" md5="0042028e2c0ff5f5b59390f48065f237" sha1="6f626d1b5c45ca7abeb0eaa84619361487af71a1"/>
+		<rom name="Nyanja!, The (World) (Final Demo) (Unl) (Track 10).wav" size="27820796" crc="28004025" md5="6d6e6371dc2d61cefae9d11f8f514572" sha1="a0be86cc669a07b1fc944ffb13798d4ac05eba74"/>
+		<rom name="Nyanja!, The (World) (Final Demo) (Unl) (Track 11).wav" size="42327060" crc="33d57e40" md5="72ae4af73b573ac975960ad20a604d4f" sha1="0a138e0a6f46fd0e51f89ac8e7b6e4c06bc7089d"/>
+		<rom name="Nyanja!, The (World) (Final Demo) (Unl) (Track 12).wav" size="27007572" crc="4baeeb3a" md5="cd843e40cbad3e6a4ec1df740485cebf" sha1="eccf2ed6d789a96bb77a17703b80d795aa82000e"/>
+	</game>
+	<game name="Nyanja!, The (World) (Demo 4) (Unl)" cloneof="Nyanja!, The (World) (Final Demo) (Unl)">
+		<description>Nyanja!, The (World) (Demo 4) (Unl)</description>
+		<rom name="Nyanja!, The (World) (Demo 4) (Unl) (Track 01).wav" size="13332788" crc="1ec3492d" md5="1792bef113a89bf93e5ec1cc558ebd75" sha1="45877f709bcbc226c2b0a931c3a5890d2c385e7f"/>
+		<rom name="Nyanja!, The (World) (Demo 4) (Unl) (Track 02).iso" size="2398208" crc="fa6d0d33" md5="dd29a8e273cbf8d2b30b63b868aaa292" sha1="0231717a32be3d65384e6b7c4ad5f34b6097fd9b"/>
+		<rom name="Nyanja!, The (World) (Demo 4) (Unl) (Track 03).wav" size="27820796" crc="7f1b9430" md5="3d388ccd3d99ae2030be5c48251d23d6" sha1="de418c41d5b244df8ac08f00e422ca5563218dec"/>
+		<rom name="Nyanja!, The (World) (Demo 4) (Unl) (Track 04).wav" size="29299376" crc="b873fdec" md5="8188e46d3b7e5d5eddbc6d6333d75dff" sha1="bbbd899a1f8e6ea9399b6d5813ce682838cee3ca"/>
+		<rom name="Nyanja!, The (World) (Demo 4) (Unl) (Track 05).wav" size="1855644" crc="f88e7c9e" md5="69c95f7d1945d69b500a813981355c45" sha1="04d69e435d99a5a743ab073aa28e120d6a1e922b"/>
+		<rom name="Nyanja!, The (World) (Demo 4) (Unl) (Track 06).wav" size="1874420" crc="0ff60528" md5="5f5d2b8b4216fb524eaf4d059d6e21c7" sha1="34621d9ee958e8fd98723c0b7106afa7cbf4540f"/>
+		<rom name="Nyanja!, The (World) (Demo 4) (Unl) (Track 07).wav" size="1814444" crc="039f3001" md5="d6836c335c43d3a354ddc93653721693" sha1="f7ad78b881119b15f345aa23aecf5936338cfb2e"/>
+		<rom name="Nyanja!, The (World) (Demo 4) (Unl) (Track 08).wav" size="14202660" crc="bda62b29" md5="6845e6bdc4d9f71276635f6e33ec9205" sha1="b4c46a1a75874f932d5174f319371ce3d76f683c"/>
+		<rom name="Nyanja!, The (World) (Demo 4) (Unl) (Track 09).wav" size="42327060" crc="de1d3fb3" md5="8de1a0eeae1c0d4ae7997bb9c6ca1756" sha1="1fc4984c172d6a8e8f9a36184b9b8d1dfd339a12"/>
+		<rom name="Nyanja!, The (World) (Demo 4) (Unl) (Track 10).wav" size="26109260" crc="fd6f1e51" md5="c1e0a6b49a5413ce7cd679dea9ef2c2d" sha1="c5a8d471f019d93dae7c762e6878249610456a20"/>
+	</game>
+	<game name="Nyanja!, The (World) (Demo 3) (Unl)" cloneof="Nyanja!, The (World) (Final Demo) (Unl)">
+		<description>Nyanja!, The (World) (Demo 3) (Unl)</description>
+		<rom name="Nyanja!, The (World) (Demo 3) (Unl) (Track 01).wav" size="13332788" crc="1ec3492d" md5="1792bef113a89bf93e5ec1cc558ebd75" sha1="45877f709bcbc226c2b0a931c3a5890d2c385e7f"/>
+		<rom name="Nyanja!, The (World) (Demo 3) (Unl) (Track 02).iso" size="1384448" crc="18d24150" md5="b4a5e5ff1fe97bc6dd3abd09b8ecdb12" sha1="9c79ea0574e8c89c5c5083ea380f95bb88a70e3b"/>
+		<rom name="Nyanja!, The (World) (Demo 3) (Unl) (Track 03).wav" size="27820796" crc="7f1b9430" md5="3d388ccd3d99ae2030be5c48251d23d6" sha1="de418c41d5b244df8ac08f00e422ca5563218dec"/>
+		<rom name="Nyanja!, The (World) (Demo 3) (Unl) (Track 04).wav" size="29299376" crc="b873fdec" md5="8188e46d3b7e5d5eddbc6d6333d75dff" sha1="bbbd899a1f8e6ea9399b6d5813ce682838cee3ca"/>
+		<rom name="Nyanja!, The (World) (Demo 3) (Unl) (Track 05).wav" size="1855644" crc="f88e7c9e" md5="69c95f7d1945d69b500a813981355c45" sha1="04d69e435d99a5a743ab073aa28e120d6a1e922b"/>
+		<rom name="Nyanja!, The (World) (Demo 3) (Unl) (Track 06).wav" size="1874420" crc="0ff60528" md5="5f5d2b8b4216fb524eaf4d059d6e21c7" sha1="34621d9ee958e8fd98723c0b7106afa7cbf4540f"/>
+		<rom name="Nyanja!, The (World) (Demo 3) (Unl) (Track 07).wav" size="1814444" crc="039f3001" md5="d6836c335c43d3a354ddc93653721693" sha1="f7ad78b881119b15f345aa23aecf5936338cfb2e"/>
+		<rom name="Nyanja!, The (World) (Demo 3) (Unl) (Track 08).wav" size="14202660" crc="bda62b29" md5="6845e6bdc4d9f71276635f6e33ec9205" sha1="b4c46a1a75874f932d5174f319371ce3d76f683c"/>
+		<rom name="Nyanja!, The (World) (Demo 3) (Unl) (Track 09).wav" size="42327060" crc="de1d3fb3" md5="8de1a0eeae1c0d4ae7997bb9c6ca1756" sha1="1fc4984c172d6a8e8f9a36184b9b8d1dfd339a12"/>
+		<rom name="Nyanja!, The (World) (Demo 3) (Unl) (Track 10).wav" size="6350444" crc="6de904a8" md5="ff5a88d7b82759edc884db57d6c455b9" sha1="a0540970b884b0c08d838e21f234c8de6afffa9d"/>
+	</game>
+	<game name="Space Fantasy Zone (Japan) (En) (Proto)">
+		<description>Space Fantasy Zone (Japan) (En) (Proto)</description>
+		<rom name="Space Fantasy Zone (Japan) (En) (Proto).bin" size="179379984" crc="468f14df" md5="22f8f65429be8df8facdfc41ee37ff0d" sha1="ae4e1c654d132fb32c6d7103dac726d701227ef9"/>
+	</game>
+</datafile>

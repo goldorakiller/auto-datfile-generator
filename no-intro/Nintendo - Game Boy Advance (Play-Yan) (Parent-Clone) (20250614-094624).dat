@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>148</id>
+		<name>Nintendo - Game Boy Advance (Play-Yan) (Parent-Clone)</name>
+		<description>Nintendo - Game Boy Advance (Play-Yan) (Parent-Clone)</description>
+		<version>20250614-094624</version>
+		<date>20250614-094624</date>
+		<author>NovaAurora, rarenight, relax</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="[BIOS] Play-Yan Micro Key File (Japan)">
+		<description>[BIOS] Play-Yan Micro Key File (Japan)</description>
+		<rom name="play_yanmicro.ini" size="183" crc="137d1be0" md5="2c2da8deffdcff3f5497dfe758b92190" sha1="ed5390093d191bfb29c08addfcfdb858a31824a4"/>
+	</game>
+	<game name="[BIOS] Play-Yan Shin Kinou Tsuika File (Japan)">
+		<description>[BIOS] Play-Yan Shin Kinou Tsuika File (Japan)</description>
+		<rom name="playan.fup" size="567695" crc="793cb49e" md5="a65a16fc7150b43c8f349b5ba59117d6" sha1="79289f11d2c1b85d6f8363000d3c7916fdc2ada7"/>
+	</game>
+	<game name="Avoid (Japan)">
+		<description>Avoid (Japan)</description>
+		<release name="Avoid (Japan)" region="JPN"/>
+		<rom name="AVOID.ASF" size="641070" crc="c0c1c3a7" md5="3e4c3607013130211606cf78ad1a21aa" sha1="536515d0403b42608ea0feb6905d933dfdc7e012"/>
+	</game>
+	<game name="Bat (Japan)">
+		<description>Bat (Japan)</description>
+		<release name="Bat (Japan)" region="JPN"/>
+		<rom name="BAT.ASF" size="636974" crc="7e279a3f" md5="852824ab8d676410cae43baf2a41c09d" sha1="3a1d12f20cc2cefae1ad01316f90e5d8b3a09e0d"/>
+	</game>
+	<game name="Credit (Japan)">
+		<description>Credit (Japan)</description>
+		<release name="Credit (Japan)" region="JPN"/>
+		<rom name="CREDIT.ASF" size="645166" crc="8d220a54" md5="13293ed2aee24c4a16f3d9fc49153879" sha1="3f14264ad89ff49423c9bebe3cfe45ec3aae1954"/>
+	</game>
+	<game name="Fire (Japan)">
+		<description>Fire (Japan)</description>
+		<release name="Fire (Japan)" region="JPN"/>
+		<rom name="FIRE.ASF" size="641070" crc="dec7339a" md5="e33ed2398bc8487c35729d1f0ce482c0" sha1="7aef6421ab3bab2a97fe87084372904e8cffc74f"/>
+	</game>
+	<game name="Fish (Japan)">
+		<description>Fish (Japan)</description>
+		<release name="Fish (Japan)" region="JPN"/>
+		<rom name="FISH.ASF" size="645166" crc="aa158c50" md5="e89a0fb1a5d4a51dc7c424504c17921a" sha1="a9a751c45b0fbcf9a5087269199594dced17b7f4"/>
+	</game>
+	<game name="Insect (Japan)">
+		<description>Insect (Japan)</description>
+		<release name="Insect (Japan)" region="JPN"/>
+		<rom name="INSECT.ASF" size="645166" crc="2ad007e8" md5="1c05888409f0a34dc113261ec4382b15" sha1="8ac2fa9f55790b338db38504df1340ebb319f708"/>
+	</game>
+	<game name="Jump (Japan)">
+		<description>Jump (Japan)</description>
+		<release name="Jump (Japan)" region="JPN"/>
+		<rom name="JUMP.ASF" size="641070" crc="63aafd8c" md5="ea683a2c1b918534fc40663a554b76b6" sha1="5bf734243b2aa4192414373b18bf2443519117a5"/>
+	</game>
+	<game name="Keeper (Japan)">
+		<description>Keeper (Japan)</description>
+		<release name="Keeper (Japan)" region="JPN"/>
+		<rom name="KEEPER.ASF" size="645166" crc="7416e659" md5="8128525f400d8fe412db11e2f29845a8" sha1="380287c0f2a72990f74a76fda3f450a0796009e7"/>
+	</game>
+	<game name="Memory (Japan)">
+		<description>Memory (Japan)</description>
+		<release name="Memory (Japan)" region="JPN"/>
+		<rom name="MEMORY.ASF" size="641070" crc="4f27ca62" md5="41ccd37d8b911a9642db8772bc073bea" sha1="ead70f78fe8b244a6cf141c6077c1984ee67a729"/>
+	</game>
+	<game name="Nekoroid (Japan)">
+		<description>Nekoroid (Japan)</description>
+		<release name="Nekoroid (Japan)" region="JPN"/>
+		<rom name="NEKOROID.ASF" size="645166" crc="bb10d561" md5="fa51c4fd7b469abaf615b128a8f04a30" sha1="33410c68ea237bb553c33937e556699ec4ace16d"/>
+	</game>
+	<game name="Nose (Japan)">
+		<description>Nose (Japan)</description>
+		<release name="Nose (Japan)" region="JPN"/>
+		<rom name="NOSE.ASF" size="641070" crc="54bdd509" md5="cd016a28b26ef41e4a0962267b86a7e7" sha1="75dc685715f7c174d0655923d1ecb76f342df0b9"/>
+	</game>
+	<game name="Triple (Japan)">
+		<description>Triple (Japan)</description>
+		<release name="Triple (Japan)" region="JPN"/>
+		<rom name="TRIPLE.ASF" size="641070" crc="cd1efac4" md5="c9ac27b1450228ba3a485f6b3fdc56fb" sha1="fffa4675ecdbbfd099d654c3ccffe3e037f4ae1a"/>
+	</game>
+	<game name="Wave (Japan)">
+		<description>Wave (Japan)</description>
+		<release name="Wave (Japan)" region="JPN"/>
+		<rom name="WAVE.ASF" size="641070" crc="5d0111a9" md5="fe0e6510c581d38152c95d0a7cba7fe2" sha1="2e34ad4249cf5d55a8e20a9521f545739a101223"/>
+	</game>
+</datafile>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>230</id>
+		<name>Source Code - Panasonic - 3DO Interactive Multiplayer (Parent-Clone)</name>
+		<description>Source Code - Panasonic - 3DO Interactive Multiplayer (Parent-Clone)</description>
+		<subset>Source Code</subset>
+		<version>20250820-041043</version>
+		<date>20250820-041043</date>
+		<author>FakeShemp, Schrodinger, SonGoku</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="3DO M1 Opera Portfolio OS (World)">
+		<description>3DO M1 Opera Portfolio OS (World)</description>
+		<rom name="portfolio_os-master.zip" size="3211054" crc="fcf569fe" md5="e3475b23fb31b7649c856faff224a604" sha1="da0262096c7eb512528c4dbef9f78960d7f88cff"/>
+		<rom name="opera.zip" size="3127365" crc="4ab88790" md5="91cd8294f31abf6cc265b1f3737f4b1c" sha1="bed3ac3af7e8eb4e7200662b2351d908fbbe1d3f"/>
+	</game>
+	<game name="Doom (Japan, USA) (En,Ja)">
+		<description>Doom (Japan, USA) (En,Ja)</description>
+		<release name="Doom (Japan, USA) (En,Ja)" region="JPN"/>
+		<release name="Doom (Japan, USA) (En,Ja)" region="USA"/>
+		<rom name="doom3do-master.zip" size="339323922" crc="4622de7f" md5="ec6c4d678f15cbb7cb0328d6541e0e2b" sha1="c7f05858350614b0a4bce5a9700d1f67ae220a45"/>
+	</game>
+	<game name="Escape from Monster Manor (World) (En,Ja)">
+		<description>Escape from Monster Manor (World) (En,Ja)</description>
+		<rom name="EFMM-3DO-main.zip" size="485766" crc="377740c8" md5="a958d53021997910b50f6e6a5ce9414d" sha1="9305f47a8b385fd45022c58e1ea9efaa1198d3a3"/>
+	</game>
+	<game name="Icebreaker (World)">
+		<description>Icebreaker (World)</description>
+		<rom name="Icebreaker (World).zip" size="237730" crc="d4548a44" md5="738ae0b7a2c1bb98b56b61d3cc199596" sha1="dc66f4fdf9fb1de40f9b11ca3c8434153417d936"/>
+		<rom name="icebreaker_3do_5.6_src.zip" size="253397" crc="e9f82613" md5="e14c0bf6e27300fdbdda42a7950df8ff" sha1="7a5fc22508b02df254be3e346ce9226a93be8a95"/>
+	</game>
+	<game name="Icebreaker 2 (World)">
+		<description>Icebreaker 2 (World)</description>
+		<rom name="Icebreaker 2 (World).zip" size="491422" crc="d3fff96e" md5="4644ededcece21d08690ea499a415969" sha1="86f3469c44bfe5062149be2de4b63d1515fe345c"/>
+		<rom name="icetwo_6.6_src.zip" size="510085" crc="dc816a61" md5="5b08146d4e8c52ea34c73acf2abfa6a3" sha1="54fac998d70745709e531edeb5b427937ce09c14"/>
+	</game>
+	<game name="Star Control II (World)">
+		<description>Star Control II (World)</description>
+		<rom name="3do-star-control-2-master.zip" size="4707093" crc="ed4ad033" md5="a5e421f5d48bb43810a8b296d57a2f8c" sha1="96180f5b3d0bd867a0a10141cab8a06227dfd2d9"/>
+	</game>
+	<game name="Star Fighter (USA, Europe)">
+		<description>Star Fighter (USA, Europe)</description>
+		<rom name="3do-star-fighter-master.zip" size="309198986" crc="5d690699" md5="f76b34c7ad55e9ef6039f4e4c1f61643" sha1="97df9b613163941404d914a1b6e336e85bb4cf24"/>
+		<rom name="star_fighter_3do_1995-10-31_src.zip" size="309566475" crc="9a821eda" md5="2ce36090b9535c5fed48ba77b1f72600" sha1="4482530612309b8d4f9dbed32289701be329f002"/>
+	</game>
+</datafile>

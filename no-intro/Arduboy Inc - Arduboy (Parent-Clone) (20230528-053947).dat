@@ -1,0 +1,2147 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>414</id>
+		<name>Arduboy Inc - Arduboy (Parent-Clone)</name>
+		<description>Arduboy Inc - Arduboy (Parent-Clone)</description>
+		<version>20230528-053947</version>
+		<date>20230528-053947</date>
+		<author>EggmanPEI, Hiccup, rarenight, SonGoku</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="101 Starships (World) (Erwin's Collection)">
+		<description>101 Starships (World) (Erwin's Collection)</description>
+		<rom name="101 Starships (World) (Erwin's Collection).hex" size="78428" crc="b201b7bb" md5="6e342f386be88b625185118a81000f70" sha1="856ae2afcde0cd8f018f9984e6626178106edcdd" status="verified"/>
+	</game>
+	<game name="1010 (World) (v0.96) (Erwin's Collection)">
+		<description>1010 (World) (v0.96) (Erwin's Collection)</description>
+		<rom name="1010 (World) (v0.96) (Erwin's Collection).hex" size="37300" crc="212643eb" md5="23716ff447c8fb9ea7b34feb3a095ecd" sha1="47a66316ad0a9389626d311deb18181e9521e2c4" status="verified"/>
+	</game>
+	<game name="1010 (World) (v0.96)">
+		<description>1010 (World) (v0.96)</description>
+		<rom name="1010 (World) (v0.96).hex" size="38149" crc="3bc6d5a1" md5="328f3b061a03448d0d5de16c7f55a605" sha1="cc5c2f0a05efc2e1bedf6a7d284b37352093b97c"/>
+	</game>
+	<game name="1943 (World) (Erwin's Collection)">
+		<description>1943 (World) (Erwin's Collection)</description>
+		<rom name="1943 (World) (Erwin's Collection).hex" size="78564" crc="5a04e17c" md5="191a025a7bda0ce20a9d0e0ae7028051" sha1="0386e3ed0500368e0a1187e205b259350bccb9fc" status="verified"/>
+	</game>
+	<game name="1943 (World) (v1.0.3)">
+		<description>1943 (World) (v1.0.3)</description>
+		<rom name="1943 (World) (v1.0.3).hex" size="78788" crc="07982710" md5="ea93ac3ce30dfb4429d585c10a5e53b8" sha1="f324d13c80b1e32e5856898dc1e4bd20902f9ab9"/>
+	</game>
+	<game name="1943 (World) (v1.0.3) (Alt)">
+		<description>1943 (World) (v1.0.3) (Alt)</description>
+		<rom name="1943 (World) (v1.0.3) (Alt).hex" size="80580" crc="54f22007" md5="094e278fc7661d68dfd9db4b52d11fa3" sha1="755e66eb200b6fcea6ec3f2ae3ef68aa468b1aa0"/>
+	</game>
+	<game name="1944 (World) (Erwin's Collection)">
+		<description>1944 (World) (Erwin's Collection)</description>
+		<rom name="1944 (World) (Erwin's Collection).hex" size="78620" crc="b007f753" md5="38a60f2d30b656bc6b7d54e4c32036f8" sha1="b20e8a53b7c5b643bdc0920bd7d7aacfccd289d5" status="verified"/>
+	</game>
+	<game name="1944 (World) (v1.0.3)">
+		<description>1944 (World) (v1.0.3)</description>
+		<rom name="1944 (World) (v1.0.3).hex" size="80408" crc="4e46deaf" md5="8ebaf3ca6fd73daf4e5383fb3a693e1d" sha1="dd8d5ce223dc371312dd14964e578fa3f360528b"/>
+	</game>
+	<game name="1nvader (World) (v1.0) (Alt)">
+		<description>1nvader (World) (v1.0) (Alt)</description>
+		<rom name="1nvader (World) (v1.0) (Alt).hex" size="73580" crc="b5c9d91a" md5="81a9a966be766d0ae0a1d608eeb97faf" sha1="3b5f087176e016ea5a20ffe825696a98bef54fbe" status="verified"/>
+	</game>
+	<game name="1nvader (World) (Erwin's Collection)">
+		<description>1nvader (World) (Erwin's Collection)</description>
+		<rom name="1nvader (World) (Erwin's Collection).hex" size="71668" crc="afdb1a88" md5="cee7f24fab74cef92ff1e03cd76d38cb" sha1="b535179e2c04c944afe8c50480d4e933d6a83ea9" status="verified"/>
+	</game>
+	<game name="1nvader (World) (v1.1)">
+		<description>1nvader (World) (v1.1)</description>
+		<rom name="1nvader (World) (v1.1).hex" size="72562" crc="c7483aeb" md5="84ed72f4c96b7e9548640c877f41a008" sha1="f8a901613b09528468bc3fc07b91b3f5eeebb926"/>
+	</game>
+	<game name="1nvader (World) (v1.0)">
+		<description>1nvader (World) (v1.0)</description>
+		<rom name="1nvader (World) (v1.0).hex" size="67530" crc="a5b041e6" md5="6544f237ae5a8a6faecec8e84adac539" sha1="7ed32079728f951c37dd7b8c08864f62185914c7"/>
+	</game>
+	<game name="2048 (World) (v0.5)">
+		<description>2048 (World) (v0.5)</description>
+		<rom name="2048 (World) (v0.5).hex" size="63300" crc="ad13b603" md5="dabb96ad031b2fd4f0dbeacaa717134c" sha1="14c24d1e730cc79d16d1aa9b39926584ddfe108b"/>
+	</game>
+	<game name="2048 (World) (v0.5) (Erwin's Collection)" cloneof="2048 (World) (v0.5)">
+		<description>2048 (World) (v0.5) (Erwin's Collection)</description>
+		<rom name="2048 (World) (v0.5) (Erwin's Collection).hex" size="61892" crc="d8941ee3" md5="e8ec91f0a78813a95e17f56cf0b94525" sha1="b6f07b025b765b1fdead5fd72a4fc15acd5d3b30" status="verified"/>
+	</game>
+	<game name="2PlayersPack (World) (Erwin's Collection)">
+		<description>2PlayersPack (World) (Erwin's Collection)</description>
+		<rom name="2PlayersPack (World) (Erwin's Collection).hex" size="55716" crc="583fd256" md5="1a6751f312e584a61b16ae6a302dc0ec" sha1="ea89d9c9e0283f4aa64e9a8d3e03988a4df7a83f" status="verified"/>
+	</game>
+	<game name="3in1A (World) (v3.1) (Erwin's Collection)">
+		<description>3in1A (World) (v3.1) (Erwin's Collection)</description>
+		<rom name="3in1A (World) (v3.1) (Erwin's Collection).hex" size="78179" crc="9209a70b" md5="55bc613237495daa6a22d67427cdf111" sha1="cb0c14264130ff5ab85d763910cad14e9778eb76" status="verified"/>
+	</game>
+	<game name="3in1B (World) (v2) (Erwin's Collection)">
+		<description>3in1B (World) (v2) (Erwin's Collection)</description>
+		<rom name="3in1B (World) (v2) (Erwin's Collection).hex" size="77107" crc="5f5c3154" md5="e25f284de0dfc7b9dfab92d0ea5b8343" sha1="4bf7843bc9d74c267d926f9beed5932ec8a64f1b" status="verified"/>
+	</game>
+	<game name="3in1C (World) (Erwin's Collection)">
+		<description>3in1C (World) (Erwin's Collection)</description>
+		<rom name="3in1C (World) (Erwin's Collection).hex" size="80425" crc="b4411984" md5="5f78623ac3d4312932c49b839fd3ee00" sha1="6754e76a919d159d8913150eabce1908d92914f6" status="verified"/>
+	</game>
+	<game name="3in1D (World) (Erwin's Collection)">
+		<description>3in1D (World) (Erwin's Collection)</description>
+		<rom name="3in1D (World) (Erwin's Collection).hex" size="80146" crc="e18a9f3e" md5="9f6e50de0f5d7afe0a5d8cf016b219e3" sha1="2317f5d3c8317c2eef93a2a3485d00862514aedf" status="verified"/>
+	</game>
+	<game name="3in1E (World) (Erwin's Collection)">
+		<description>3in1E (World) (Erwin's Collection)</description>
+		<rom name="3in1E (World) (Erwin's Collection).hex" size="77888" crc="229d7c9c" md5="be693388b85522b1a9f22aa1731baf87" sha1="edef854be5d0a3a87a079ac446ac52f1a0b756db" status="verified"/>
+	</game>
+	<game name="ABAsm DP1 (World) (Program) (Erwin's Collection)">
+		<description>ABAsm DP1 (World) (Program) (Erwin's Collection)</description>
+		<rom name="ABAsm DP1 (World) (Program) (Erwin's Collection).hex" size="56956" crc="87e46b25" md5="ba50ab184dd6e132eb78b92819b4c322" sha1="ccd1c1e1ba37119994c604e9d2bded27ae407f44" status="verified"/>
+	</game>
+	<game name="Abshell (World) (Program) (Erwin's Collection)">
+		<description>Abshell (World) (Program) (Erwin's Collection)</description>
+		<rom name="Abshell (World) (Program) (Erwin's Collection).hex" size="67676" crc="2f088d5d" md5="2eb0c2868964a6f249c7bbe305285a20" sha1="9b279c1fcf060e4ba20bb83194da628e489f32eb" status="verified"/>
+	</game>
+	<game name="AbSynth FM (World) (Program) (Erwin's Collection)">
+		<description>AbSynth FM (World) (Program) (Erwin's Collection)</description>
+		<rom name="AbSynth FM (World) (Program) (Erwin's Collection).hex" size="60544" crc="c37d71b4" md5="f44a0e0e7b31242a57e1ad5fa6478727" sha1="da2e9ce1538d2ac633e207c2b0fdb244f9f08eee" status="verified"/>
+	</game>
+	<game name="AbSynth FM (World) (v2.0) (Program)">
+		<description>AbSynth FM (World) (v2.0) (Program)</description>
+		<rom name="AbSynth FM (World) (v2.0) (Program).hex" size="63529" crc="f5545897" md5="2b9729d43ef0fb457c74d6b0569f1277" sha1="544002132f19830a6417c9620e55863824dc6a5d"/>
+	</game>
+	<game name="APara (World) (Erwin's Collection)">
+		<description>APara (World) (Erwin's Collection)</description>
+		<rom name="APara (World) (Erwin's Collection).hex" size="37476" crc="63cc8bfd" md5="0c48436c7f0efa11192769553a19306e" sha1="12366e35fb003519ab3d2dcb5b1c552ddda141fb" status="verified"/>
+	</game>
+	<game name="Arcodia (World) (Erwin's Collection)">
+		<description>Arcodia (World) (Erwin's Collection)</description>
+		<rom name="Arcodia (World) (Erwin's Collection).hex" size="70952" crc="7b2edee0" md5="d7112e210f80e02f4ea27520a145a948" sha1="bb21d124e90622eea64d82c4779a013b786d32b1" status="verified"/>
+	</game>
+	<game name="Arcodia (World) (v1.0)">
+		<description>Arcodia (World) (v1.0)</description>
+		<rom name="Arcodia (World) (v1.0).hex" size="72566" crc="fa3bd8e0" md5="fa6bb3283a85b429e1c767986e84a78c" sha1="d152ae6afe4e2934f3686eaf5d1fe0bcacb706aa"/>
+	</game>
+	<game name="Ard-Drivin (World) (Erwin's Collection)">
+		<description>Ard-Drivin (World) (Erwin's Collection)</description>
+		<rom name="Ard-Drivin (World) (Erwin's Collection).hex" size="53132" crc="b2369ffd" md5="0857ab1f220c666ec0f4d8232caa77e2" sha1="26a0c117fce203947607f6c3c1a1a9f536aafbd5" status="verified"/>
+	</game>
+	<game name="Ardletics (World) (Erwin's Collection)">
+		<description>Ardletics (World) (Erwin's Collection)</description>
+		<rom name="Ardletics (World) (Erwin's Collection).hex" size="78704" crc="1a4b9529" md5="e0e591ac80c9cb2e0ddd2b2c1d985770" sha1="147a52dbfcb74b652b62681b94b1ab2d2c1438d6" status="verified"/>
+	</game>
+	<game name="Ardu Buggy (World) (v1.0) (Erwin's Collection)">
+		<description>Ardu Buggy (World) (v1.0) (Erwin's Collection)</description>
+		<rom name="Ardu Buggy (World) (v1.0) (Erwin's Collection).hex" size="52704" crc="db7484c6" md5="0f3f98bab2becd9ed11b95d4da579678" sha1="1c371a05079504ca451791b2e56bed29aee28c4a" status="verified"/>
+	</game>
+	<game name="Ardu Turf Masters (World) (Erwin's Collection)">
+		<description>Ardu Turf Masters (World) (Erwin's Collection)</description>
+		<rom name="Ardu Turf Masters (World) (Erwin's Collection).hex" size="52840" crc="775817a7" md5="094779213579bf610c1d43d94f6e4ebb" sha1="9215f84a15340c810609524f6afcf9093a699f7c" status="verified"/>
+	</game>
+	<game name="Ardu-EZ Button (World) (Program) (Erwin's Collection)">
+		<description>Ardu-EZ Button (World) (Program) (Erwin's Collection)</description>
+		<rom name="Ardu-EZ Button (World) (Program) (Erwin's Collection).hex" size="38740" crc="3a3d07f9" md5="33bbab25de35f4f7bf51432fb7fe1ade" sha1="536e7d6c7a40f6b86d0658c2f894acc6fc2f0e79" status="verified"/>
+	</game>
+	<game name="Ardu-EZ Button (World) (v1.0) (Program)">
+		<description>Ardu-EZ Button (World) (v1.0) (Program)</description>
+		<rom name="Ardu-EZ Button (World) (v1.0) (Program).hex" size="39622" crc="bbb528e8" md5="acd9f74254449081098d1f59038a40f2" sha1="9b4edc816c593c2cf2dc6d17f400a88c97cd0b63"/>
+	</game>
+	<game name="Ardu-man (World) (Erwin's Collection)">
+		<description>Ardu-man (World) (Erwin's Collection)</description>
+		<rom name="Ardu-man (World) (Erwin's Collection).hex" size="64412" crc="676203ca" md5="1a808e185a1e9f9199b55ef84e94b8ef" sha1="a10e18c9f135c7f91bb1c2bbc6514f7df40a6b4c" status="verified"/>
+	</game>
+	<game name="Ardu-Nut Button (World) (v1.0) (Program)">
+		<description>Ardu-Nut Button (World) (v1.0) (Program)</description>
+		<rom name="Ardu-Nut Button (World) (v1.0) (Program).hex" size="39536" crc="7adaa2f7" md5="c6f08ad7c28bd97ea97063074e746ff6" sha1="9ee720cc0a6986bec422d51c37364f01ee87b0e5"/>
+	</game>
+	<game name="Ardu-Racer (World) (Erwin's Collection)">
+		<description>Ardu-Racer (World) (Erwin's Collection)</description>
+		<rom name="Ardu-Racer (World) (Erwin's Collection).hex" size="78852" crc="c61450ed" md5="4959dc52e38115b3324e833f15cbf060" sha1="059c3c87e90a1cb30da5ac8aa437f5b12b27a147" status="verified"/>
+	</game>
+	<game name="Ardu-Racer (World) (v1.1)">
+		<description>Ardu-Racer (World) (v1.1)</description>
+		<rom name="Ardu-Racer (World) (v1.1).hex" size="79725" crc="e6dd55b2" md5="de52a0af843ee9c45425a7f58a0e3b31" sha1="eac62a77c8ff2e81747ddcb377e8f73dd72d5075"/>
+	</game>
+	<game name="Ardu-Racer (World) (v1.3)">
+		<description>Ardu-Racer (World) (v1.3)</description>
+		<rom name="Ardu-Racer (World) (v1.3).hex" size="80645" crc="77547079" md5="f3f12e8efbdb23a22166e5d978a6b415" sha1="7143c0ebdd1b578b23144f3119750516b02b359e"/>
+	</game>
+	<game name="Ardu-Racer (World) (v1.2)">
+		<description>Ardu-Racer (World) (v1.2)</description>
+		<rom name="Ardu-Racer (World) (v1.2).hex" size="80134" crc="7c43bec0" md5="662a36abc66ae7dcec65a443a1014471" sha1="0ac1b313bd9c184055f4d6d74001f590b2ddb2c9"/>
+	</game>
+	<game name="Ardu-Racer (World) (v1.0)">
+		<description>Ardu-Racer (World) (v1.0)</description>
+		<rom name="Ardu-Racer (World) (v1.0).hex" size="79664" crc="9eda8f2e" md5="d88b2b46fd9fa8e89fa726ec1cfd439b" sha1="4a335b9495c269dba5688a3e57379a67c2d8ca11"/>
+	</game>
+	<game name="Ardu-Whack (World) (Erwin's Collection)">
+		<description>Ardu-Whack (World) (Erwin's Collection)</description>
+		<rom name="Ardu-Whack (World) (Erwin's Collection).hex" size="39144" crc="c548788c" md5="4f418f18773bfee547964b1e78171de5" sha1="60bb42f77a467f11a1ce9a5b0c08a806eaa90f19" status="verified"/>
+	</game>
+	<game name="Ardu-Whack (World) (v1.1)">
+		<description>Ardu-Whack (World) (v1.1)</description>
+		<rom name="Ardu-Whack (World) (v1.1).hex" size="40035" crc="e56eac45" md5="0e96e6cfbfbe9c28512900dc691dcf8c" sha1="6689f423fcd1e6ca63bfb27c41c7c93d58cf4c26"/>
+	</game>
+	<game name="Ardu-Whack (World) (v1.2)">
+		<description>Ardu-Whack (World) (v1.2)</description>
+		<rom name="Ardu-Whack (World) (v1.2).hex" size="40284" crc="c4940b3d" md5="f585b7d0a002aa56443cdb355f591303" sha1="376122dd68c979a82288e6a7a927cd4df45b11e2"/>
+	</game>
+	<game name="ArduBall (World) (Erwin's Collection)">
+		<description>ArduBall (World) (Erwin's Collection)</description>
+		<rom name="ArduBall (World) (Erwin's Collection).hex" size="47276" crc="689e3805" md5="1b7f79c91407fb00f0e060ea960adeea" sha1="6e1827954cac4dfacb4f7964442717e44e8ebc4f" status="verified"/>
+	</game>
+	<game name="ArduBall (World) (v1.0)">
+		<description>ArduBall (World) (v1.0)</description>
+		<rom name="ArduBall (World) (v1.0).hex" size="48352" crc="b38d02c1" md5="9098c9096401276360062db7aa5bd9c6" sha1="ed4253d83363b09083c33afd5d6c385fc8943cac"/>
+	</game>
+	<game name="Arduboy Assistant (World) (Program) (Erwin's Collection)">
+		<description>Arduboy Assistant (World) (Program) (Erwin's Collection)</description>
+		<rom name="Arduboy Assistant (World) (Program) (Erwin's Collection).hex" size="46083" crc="d170bf39" md5="fe02f44b192ee262762f5c9c003a80ee" sha1="46db7c39f64295d31dc4fe538aabae23ffab1670" status="verified"/>
+	</game>
+	<game name="Arduboy Assistant (World) (v2.0) (Program)">
+		<description>Arduboy Assistant (World) (v2.0) (Program)</description>
+		<rom name="Arduboy Assistant (World) (v2.0) (Program).hex" size="47133" crc="3053dd9f" md5="a8a98b00e48e52d3d08c24b3ffbc1c74" sha1="31b36899547b3b513de75bd571b3774977917df5"/>
+	</game>
+	<game name="Arduboy Calendar (World) (Program) (Erwin's Collection)">
+		<description>Arduboy Calendar (World) (Program) (Erwin's Collection)</description>
+		<rom name="Arduboy Calendar (World) (Program) (Erwin's Collection).hex" size="43804" crc="b1567b72" md5="47ee162623bb290cc6b6b71fbb537ea6" sha1="7d157989e32d420f194911439238a8b830e83f7d" status="verified"/>
+	</game>
+	<game name="Arduboy Calendar (World) (Program)">
+		<description>Arduboy Calendar (World) (Program)</description>
+		<rom name="Arduboy Calendar (World) (Program).hex" size="47963" crc="c4187725" md5="17d1b9bc39ab8c040662aa725ddf673c" sha1="60ba15758e6c6ed67a235f27de26872b2c9360a4"/>
+	</game>
+	<game name="Arduboy Calendar (World) (Program) (Alt)">
+		<description>Arduboy Calendar (World) (Program) (Alt)</description>
+		<rom name="Arduboy Calendar (World) (Program) (Alt).hex" size="47975" crc="3cad9d6c" md5="12adf7abde199aaa0f7fdc2cd0018505" sha1="238ff121597411a6007a67f7e2a52e3302bdc99b"/>
+	</game>
+	<game name="Arduboy Gamepad (World) (Program) (Erwin's Collection)">
+		<description>Arduboy Gamepad (World) (Program) (Erwin's Collection)</description>
+		<rom name="Arduboy Gamepad (World) (Program) (Erwin's Collection).hex" size="38284" crc="9b4afb9e" md5="6f210e5a153300d445174b84259e84c6" sha1="447236c4e59b3c48b1c0848c8ab6f63718618157" status="verified"/>
+	</game>
+	<game name="Arduboy Says (World) (Erwin's Collection)">
+		<description>Arduboy Says (World) (Erwin's Collection)</description>
+		<rom name="Arduboy Says (World) (Erwin's Collection).hex" size="37084" crc="c3dd619d" md5="890f6eff0cfa64ab0f03b5742b1019d5" sha1="d53d572481b440cf9ca9186bb8450b7cd38fb7aa" status="verified"/>
+	</game>
+	<game name="Arduboy Says (World) (Update 2)">
+		<description>Arduboy Says (World) (Update 2)</description>
+		<rom name="Arduboy Says (World) (Update 2).hex" size="37928" crc="6ee88b31" md5="051e9628c0516c9bb3b6b7ba7950e9ce" sha1="b42f78c49060d9be5a01d70bd3cad770bacf70f1"/>
+	</game>
+	<game name="Arduboy Sings (World) (Program)">
+		<description>Arduboy Sings (World) (Program)</description>
+		<rom name="Arduboy Sings (World) (Program).hex" size="31473" crc="5014b8ef" md5="1977ac48e3d3f65a0ed47e436ff746e2" sha1="b121e232cbf4a22e3cefb459516af7c290c31623" status="verified"/>
+	</game>
+	<game name="Arduboy Sprite Editor (World) (v0.3) (Program) (Erwin's Collection)">
+		<description>Arduboy Sprite Editor (World) (v0.3) (Program) (Erwin's Collection)</description>
+		<rom name="Arduboy Sprite Editor (World) (v0.3) (Program) (Erwin's Collection).hex" size="43556" crc="62ca3e99" md5="d11c83e22fadcd3859918f0caf379465" sha1="54ed703037416ffb777522dd4b846df226712f99" status="verified"/>
+	</game>
+	<game name="Arduboy Sprite Editor (World) (v0.3) (Program)">
+		<description>Arduboy Sprite Editor (World) (v0.3) (Program)</description>
+		<rom name="Arduboy Sprite Editor (World) (v0.3) (Program).hex" size="44547" crc="8cc9a6ae" md5="f4170bcfc806f500bbd58c5ed6d81a31" sha1="55fa56f5f7909ae8425861b984cd4bcb0810f862"/>
+	</game>
+	<game name="Arduboy Visual Novel Demo (World) (Proto)">
+		<description>Arduboy Visual Novel Demo (World) (Proto)</description>
+		<rom name="Arduboy Visual Novel Demo (World) (Proto).hex" size="45361" crc="1214e3f1" md5="0be6b0b8ea0dc090f60f4bbfbe3b552d" sha1="741801de2a87a2be77d102701a3ec889dc48dc27" status="verified"/>
+	</game>
+	<game name="ArduboyLife (World) (Erwin's Collection)">
+		<description>ArduboyLife (World) (Erwin's Collection)</description>
+		<rom name="ArduboyLife (World) (Erwin's Collection).hex" size="30792" crc="dd28ac94" md5="61048af79088409106f059203ed1e8e6" sha1="b94ff27d73cb70ce52cb48c332d9599853b034e2" status="verified"/>
+	</game>
+	<game name="ArduboyLife (World) (v2.0)">
+		<description>ArduboyLife (World) (v2.0)</description>
+		<rom name="ArduboyLife (World) (v2.0).hex" size="31493" crc="5830b2bd" md5="877343f20df7f7fdf9dbd29415f5f27c" sha1="70628eb02a37c21c78afd95ab5d442ef8d912bb4"/>
+	</game>
+	<game name="ArduBOYNG (World) (Erwin's Collection)">
+		<description>ArduBOYNG (World) (Erwin's Collection)</description>
+		<rom name="ArduBOYNG (World) (Erwin's Collection).hex" size="54500" crc="02a6b4b8" md5="c247311138b04da5038335e3aad2c970" sha1="8d63462883255b3b3522d31176f4f987f68014df" status="verified"/>
+	</game>
+	<game name="ArduBrain (World) (Program) (Erwin's Collection)">
+		<description>ArduBrain (World) (Program) (Erwin's Collection)</description>
+		<rom name="ArduBrain (World) (Program) (Erwin's Collection).hex" size="72056" crc="cfa4bd66" md5="26a7193b2616fbc11487419baf349c3f" sha1="d6860e0db00639881928e426ee3632f7bc68cb4f" status="verified"/>
+	</game>
+	<game name="ArduBrain (World) (Program)">
+		<description>ArduBrain (World) (Program)</description>
+		<rom name="ArduBrain (World) (Program).hex" size="73695" crc="d7618b46" md5="d55ba41a438bd9c4345193fa08797b0c" sha1="8934577c8e63f34acbaf51ef5f0f4363f5435662"/>
+	</game>
+	<game name="ARDUBULLETs (World) (v0.11) (Erwin's Collection)">
+		<description>ARDUBULLETs (World) (v0.11) (Erwin's Collection)</description>
+		<rom name="ARDUBULLETs (World) (v0.11) (Erwin's Collection).hex" size="73896" crc="03d567bf" md5="951e1b8f38636343fa8503bd96056304" sha1="5643ef276e0b1569a20f1bb84499dc4f1eff5913" status="verified"/>
+	</game>
+	<game name="ARDUBULLETs (World) (v0.10)">
+		<description>ARDUBULLETs (World) (v0.10)</description>
+		<rom name="ARDUBULLETs (World) (v0.10).hex" size="75573" crc="db7efb62" md5="fdc380a5b9caab306faf005a6b584d8f" sha1="a7882daa51af54e42d1b92bc33ba062f1e3cd1b4"/>
+	</game>
+	<game name="ARDUBULLETs (World) (v0.11)">
+		<description>ARDUBULLETs (World) (v0.11)</description>
+		<rom name="ARDUBULLETs (World) (v0.11).hex" size="69203" crc="96b8349f" md5="0fb40bf560d98b1b911d7a3066e7b565" sha1="08945b2ddbfa248b0123d00462a813ef19e615a7"/>
+	</game>
+	<game name="ARDUBULLETs (World) (v0.11) (Alt)">
+		<description>ARDUBULLETs (World) (v0.11) (Alt)</description>
+		<rom name="ARDUBULLETs (World) (v0.11) (Alt).hex" size="75577" crc="d2eebc5c" md5="c7d3adfc25635bd2a5af2a763c2a4bc3" sha1="e9a867aa7b14687c7dcfddee1a44b1cd52e9f6fb"/>
+	</game>
+	<game name="ArduCC (World) (Program) (Erwin's Collection)">
+		<description>ArduCC (World) (Program) (Erwin's Collection)</description>
+		<rom name="ArduCC (World) (Program) (Erwin's Collection).hex" size="36100" crc="7456939e" md5="6acd231dafd2e215751c8ec0c17b069f" sha1="d6a9479a6ed5d931f6f5c20e9212bba08bf8efce" status="verified"/>
+	</game>
+	<game name="ArduCC (World) (v1.0) (Program)">
+		<description>ArduCC (World) (v1.0) (Program)</description>
+		<rom name="ArduCC (World) (v1.0) (Program).hex" size="36922" crc="bed036b5" md5="1a44c4623d7950e9e50cc2d6a470f18e" sha1="635f3a5552ed46e6c92f0cb52f6000137fc6b26b"/>
+	</game>
+	<game name="ArduChess (World)">
+		<description>ArduChess (World)</description>
+		<rom name="ArduChess (World).hex" size="80187" crc="c892ac39" md5="3377cec6d92a4de5bda379d65bef2fcb" sha1="b53f72eac58c3d98390527600810847e9bc83467"/>
+	</game>
+	<game name="Arducross (World) (Erwin's Collection)">
+		<description>Arducross (World) (Erwin's Collection)</description>
+		<rom name="Arducross (World) (Erwin's Collection).hex" size="29236" crc="2de9ed99" md5="9afc234f0047004ef64b3aeda0d9fe41" sha1="46ede475cd0dfa616b4fdbed0a2b20b205367738" status="verified"/>
+	</game>
+	<game name="ArduGods (World)">
+		<description>ArduGods (World)</description>
+		<rom name="ArduGods (World).hex" size="69878" crc="3b81448d" md5="69599bcb3a0a0269ee053672fbfab8e7" sha1="c8f991eed38206aa11f03683f4c092135f301fff" status="verified"/>
+	</game>
+	<game name="ArduGolf (World)">
+		<description>ArduGolf (World)</description>
+		<rom name="ArduGolf (World).hex" size="78604" crc="6de8862f" md5="4c9a860e13beec44cf15c30a1c0bc1d4" sha1="a73783d0201f380730a8fe674b066cb89d5072f7"/>
+	</game>
+	<game name="ArduGolf (World) (FX Only)">
+		<description>ArduGolf (World) (FX Only)</description>
+		<rom name="ArduGolf (World) (FX Only).hex" size="63807" crc="0e485c48" md5="9de4bb74aabfd538fcd61f6985dbf0b2" sha1="6be8da4e313272afa47afa10ae4de83c735e7b3c"/>
+		<rom name="fxdata.bin" size="19968" crc="bb950731" md5="a3b895c628a7b6f50305791843441939" sha1="8dcee9bde744d92ec2d9421a77fc9695fe630fe3"/>
+		<rom name="fxsave.bin" size="8192" crc="ae150d00" md5="2d0a4f24f471dd3b1cfc77036d43c320" sha1="eecd37f535e2d4a2c378e7b68fa115bedca11840"/>
+	</game>
+	<game name="ArduGolf - 18-Hole Mini Golf (World)">
+		<description>ArduGolf - 18-Hole Mini Golf (World)</description>
+		<rom name="ArduGolf - 18-Hole Mini Golf (World).hex" size="78641" crc="df656df2" md5="20d253cbd712426755d5469d2ccd5d3c" sha1="2cde5824cad09c5ecd243956241e837c8ab0ac8f"/>
+	</game>
+	<game name="ArduIndy (World) (Erwin's Collection)">
+		<description>ArduIndy (World) (Erwin's Collection)</description>
+		<rom name="ArduIndy (World) (Erwin's Collection).hex" size="73820" crc="9972060a" md5="02f8212e7e2dd3b862807d91e565be0d" sha1="042662064b5a72c4bb736fd6ad9552d60b8cf777" status="verified"/>
+	</game>
+	<game name="ArduIndy (World) (v2.50)">
+		<description>ArduIndy (World) (v2.50)</description>
+		<rom name="ArduIndy (World) (v2.50).hex" size="75499" crc="338a8384" md5="ad99770b32306912bd34d52f234e323c" sha1="3550282f8925704fc0dfd66c904e8609c822b7f5"/>
+	</game>
+	<game name="Ardulem (World) (Erwin's Collection)">
+		<description>Ardulem (World) (Erwin's Collection)</description>
+		<rom name="Ardulem (World) (Erwin's Collection).hex" size="77512" crc="3667db1b" md5="2e9b889bc156d0d47552583d4f40d36b" sha1="b70389a8252ace43d9063b090f5ad4bbdabacfbb" status="verified"/>
+	</game>
+	<game name="Ardulem (World) (v1.0)">
+		<description>Ardulem (World) (v1.0)</description>
+		<rom name="Ardulem (World) (v1.0).hex" size="79275" crc="9ab3eab9" md5="3f7ac93fe04add80ec52858f6465a7d3" sha1="7ad9e6aa244b28284f86132e461cffc173122861"/>
+	</game>
+	<game name="ArduLO (World) (Erwin's Collection)">
+		<description>ArduLO (World) (Erwin's Collection)</description>
+		<rom name="ArduLO (World) (Erwin's Collection).hex" size="38320" crc="6dae2ed7" md5="baaadf324cfcdfd1c9e60fdba4a6ccce" sha1="b211e10d4d512ac2f55d9daeca3f72b030e9553b" status="verified"/>
+	</game>
+	<game name="ArduLO (World) (v1.0)">
+		<description>ArduLO (World) (v1.0)</description>
+		<rom name="ArduLO (World) (v1.0).hex" size="39192" crc="88c1b79c" md5="072362b5aaf53a97c397526297c7fb0d" sha1="20556f2df48192ef9afba9bffa426420264d38d9"/>
+	</game>
+	<game name="Arduloop (World) (Program) (Erwin's Collection)">
+		<description>Arduloop (World) (Program) (Erwin's Collection)</description>
+		<rom name="Arduloop (World) (Program) (Erwin's Collection).hex" size="47180" crc="68b9a55f" md5="e3bfc23f9fc154d96b5ba8cb36a78fb6" sha1="c36353cf2e11ab48b7248760928d4552e1d2bff5" status="verified"/>
+	</game>
+	<game name="ArduMetronome (World) (Program) (Erwin's Collection)">
+		<description>ArduMetronome (World) (Program) (Erwin's Collection)</description>
+		<rom name="ArduMetronome (World) (Program) (Erwin's Collection).hex" size="26620" crc="4a855aea" md5="5e480cf5c336ec50815ed6b3f85da2f3" sha1="934d3c90bce614f608f5b838940a3891f8d17474" status="verified"/>
+	</game>
+	<game name="ArduMetronome (World) (v1.0.0) (Program)">
+		<description>ArduMetronome (World) (v1.0.0) (Program)</description>
+		<rom name="ArduMetronome (World) (v1.0.0) (Program).hex" size="27218" crc="16034d8c" md5="c64dc10d4f39209964b3b0de6495c18a" sha1="9d52f9d3d6753f6fb68317b4fa99ad2685e28ffb"/>
+	</game>
+	<game name="ArduMetronome (World) (v1.1.0) (Program)">
+		<description>ArduMetronome (World) (v1.1.0) (Program)</description>
+		<rom name="ArduMetronome (World) (v1.1.0) (Program).hex" size="27226" crc="c0b41904" md5="b487224670f96fc766dba4b004e9d20d" sha1="d45fad2feef68ab5110b9fe3e872cef6fee4e56c"/>
+	</game>
+	<game name="Arduminer (World) (Erwin's Collection)">
+		<description>Arduminer (World) (Erwin's Collection)</description>
+		<rom name="Arduminer (World) (Erwin's Collection).hex" size="71572" crc="24ef05f8" md5="f0ed75d28428f3cfa8cac2c69b0eef37" sha1="fa53aab12ca302654aff62a6ea8ef5495f9389af" status="verified"/>
+	</game>
+	<game name="Arduminer (World) (v1.0)">
+		<description>Arduminer (World) (v1.0)</description>
+		<rom name="Arduminer (World) (v1.0).hex" size="73200" crc="21591858" md5="2b24bded6daa8e8953a9e515569d7c3e" sha1="145a9ddbc83fbeafcd5ad1f4f6d987fccf3c28a0"/>
+	</game>
+	<game name="Arduminer (World) (v1.1)">
+		<description>Arduminer (World) (v1.1)</description>
+		<rom name="Arduminer (World) (v1.1).hex" size="66560" crc="eaad746c" md5="803cd298bf647e6751b2bb4689a75d41" sha1="73628b3a03442f15e0c50d8dc0bb123aaae0897d" status="verified"/>
+	</game>
+	<game name="ArduRemote (World) (Program) (Erwin's Collection)">
+		<description>ArduRemote (World) (Program) (Erwin's Collection)</description>
+		<rom name="ArduRemote (World) (Program) (Erwin's Collection).hex" size="39860" crc="032bc05f" md5="6a83e20ef6402b0bc2356a71af3bd769" sha1="4c6c54ab00b57f5a67b9070c8b05b1a5e716e16e" status="verified"/>
+	</game>
+	<game name="ArduRemote (World) (v0.1) (Program)">
+		<description>ArduRemote (World) (v0.1) (Program)</description>
+		<rom name="ArduRemote (World) (v0.1) (Program).hex" size="40767" crc="0bf20cb3" md5="ae5aa95ca6101e00eaffa268e34178ff" sha1="5cddd26fc5051dba4c3c7851fc5d1229ed1571d2"/>
+	</game>
+	<game name="ArduRogue (World)">
+		<description>ArduRogue (World)</description>
+		<rom name="ArduRogue (World).hex" size="77736" crc="164883a9" md5="d05409bce4376fa925f4f3799d3814aa" sha1="1019a72118b16e01571699efabed14857888aaac"/>
+	</game>
+	<game name="ArduRogue (World) (Alt)">
+		<description>ArduRogue (World) (Alt)</description>
+		<rom name="ArduRogue (World) (Alt).hex" size="79504" crc="bde8b6a5" md5="b20a5e7cbdea2580b646e4e727b34365" sha1="08bb35430026877f1e2c89017377f252a572403e"/>
+	</game>
+	<game name="ArduSaver (World) (Program) (Erwin's Collection)">
+		<description>ArduSaver (World) (Program) (Erwin's Collection)</description>
+		<rom name="ArduSaver (World) (Program) (Erwin's Collection).hex" size="36760" crc="75063add" md5="3405cd054ccea13aeef99fb7c8f9f594" sha1="b3eeff0d4ad5029dcb6a4639116b421a52f0d3c2" status="verified"/>
+	</game>
+	<game name="ArduSaver (World) (Program)">
+		<description>ArduSaver (World) (Program)</description>
+		<rom name="ArduSaver (World) (Program).hex" size="37597" crc="99de8ac0" md5="5ae328b82b3dbad9ad39b14906cff80e" sha1="44d1345577e2d34a69dbc504281ce0312c3e4af9"/>
+	</game>
+	<game name="Arduslide (World) (Erwin's Collection)">
+		<description>Arduslide (World) (Erwin's Collection)</description>
+		<rom name="Arduslide (World) (Erwin's Collection).hex" size="40332" crc="44a23766" md5="01373c174c8f48c697a04258e34ba74a" sha1="31680b954cf3b7ccf106f859627bd0b94d4f31f2" status="verified"/>
+	</game>
+	<game name="Ardusweeper (World) (Erwin's Collection)">
+		<description>Ardusweeper (World) (Erwin's Collection)</description>
+		<rom name="Ardusweeper (World) (Erwin's Collection).hex" size="58252" crc="805f0c80" md5="56eb9ab3af384d4cbb2aa74b1d2cbe2d" sha1="e63e885aa0e9dc1acaf633c5557844536dcfdf23" status="verified"/>
+	</game>
+	<game name="ArduTosh (World) (Program) (Erwin's Collection)">
+		<description>ArduTosh (World) (Program) (Erwin's Collection)</description>
+		<rom name="ArduTosh (World) (Program) (Erwin's Collection).hex" size="77620" crc="6f5375fc" md5="758653b7371cc893e96e28fd3155fe84" sha1="76c683cfe2f47f068bb7ecbb9f239206261dc723" status="verified"/>
+	</game>
+	<game name="ArduTosh (World) (v1.0) (Program)">
+		<description>ArduTosh (World) (v1.0) (Program)</description>
+		<rom name="ArduTosh (World) (v1.0) (Program).hex" size="79075" crc="dc9c1705" md5="9b18a3afdac23ab11e4e8948c40faae2" sha1="55a31083e996637d0036929b10729c3cbf15c613"/>
+	</game>
+	<game name="ArduTosh (World) (v1.0.1) (Program)">
+		<description>ArduTosh (World) (v1.0.1) (Program)</description>
+		<rom name="ArduTosh (World) (v1.0.1) (Program).hex" size="79316" crc="64585b72" md5="a974b6b9adc1f1876047371f77acd672" sha1="c3c8b77a26594687863c0469fd3dc0b61c4f488a"/>
+	</game>
+	<game name="ArduTosh (World) (v1.0.2) (Program)">
+		<description>ArduTosh (World) (v1.0.2) (Program)</description>
+		<rom name="ArduTosh (World) (v1.0.2) (Program).hex" size="79386" crc="3a0a1a55" md5="e9da2dc67c4799ef3f6035ec17ac6638" sha1="dbdd7771dfe8d019a67aec91147a5ded1f31b47b"/>
+	</game>
+	<game name="Arduventure - Trial of the Blade (World)">
+		<description>Arduventure - Trial of the Blade (World)</description>
+		<rom name="Arduventure - Trial of the Blade (World).hex" size="77418" crc="0ff0a52c" md5="e70d4d84dc7e6fae0fee2f1d3f027610" sha1="281ee1417232a883aceb681b3202cd71db674925"/>
+	</game>
+	<game name="Arduventure - Trial of the Blade (World) (v1.01)">
+		<description>Arduventure - Trial of the Blade (World) (v1.01)</description>
+		<rom name="Arduventure - Trial of the Blade (World) (v1.01).hex" size="80560" crc="5fc3cc8a" md5="a6919b649b5f2015ce8fab5200bd5156" sha1="fc14d27aa248b270a8223506b3c63afef082da5e"/>
+	</game>
+	<game name="Ardynia (World) (Erwin's Collection)">
+		<description>Ardynia (World) (Erwin's Collection)</description>
+		<rom name="Ardynia (World) (Erwin's Collection).hex" size="78616" crc="fe92277b" md5="73d6ed9d2fe4d7be3cab822065971d00" sha1="5c43aa1bbe8714280617ecad1cf0cfb6b0dba9e1" status="verified"/>
+	</game>
+	<game name="Ardynia (World)">
+		<description>Ardynia (World)</description>
+		<rom name="Ardynia (World).hex" size="80404" crc="879a1255" md5="36ba0c0d6f94011a4e9d428b68903737" sha1="fef47ff4d7173f930f35a6b359b991964bb56186"/>
+	</game>
+	<game name="Armageddon (World) (Erwin's Collection)">
+		<description>Armageddon (World) (Erwin's Collection)</description>
+		<rom name="Armageddon (World) (Erwin's Collection).hex" size="56988" crc="9119f267" md5="f2152be4d4579900390d5c9218ba0667" sha1="e97010a04f4de0291319a7cca116edfb7cc42d58" status="verified"/>
+	</game>
+	<game name="ARtillery (World) (Erwin's Collection)">
+		<description>ARtillery (World) (Erwin's Collection)</description>
+		<rom name="ARtillery (World) (Erwin's Collection).hex" size="59604" crc="3fbb3cf0" md5="d227c87e9009f13db6057944d164a78a" sha1="91f027c98a091d8358cc2a131fbed0ce0901daae" status="verified"/>
+	</game>
+	<game name="ARtillery (World) (v1)">
+		<description>ARtillery (World) (v1)</description>
+		<rom name="ARtillery (World) (v1).hex" size="60960" crc="424feafb" md5="be273635ee34757914ca9886e9b6c5fb" sha1="989cbc8496a29f6305ac6e5099d59c582b813558"/>
+	</game>
+	<game name="ASTEROIDS (World) (Erwin's Collection)">
+		<description>ASTEROIDS (World) (Erwin's Collection)</description>
+		<rom name="ASTEROIDS (World) (Erwin's Collection).hex" size="70996" crc="1d66d8b6" md5="9ce67e3cba59f5c06cfe58cde0dd3093" sha1="85f8481b408e5d27be9547c86100d3a0b014beb6" status="verified"/>
+	</game>
+	<game name="ASTEROIDS (World) (FP)">
+		<description>ASTEROIDS (World) (FP)</description>
+		<rom name="ASTEROIDS (World) (FP).hex" size="71805" crc="326b5e1e" md5="72c4f8a6a5c397af3c5d6f85e796a38c" sha1="b679f9ca92000d89b8fa6674d3e501c4866afbf7"/>
+	</game>
+	<game name="ASTEROIDS (World) (ST)">
+		<description>ASTEROIDS (World) (ST)</description>
+		<rom name="ASTEROIDS (World) (ST).hex" size="68430" crc="b9208fab" md5="37fbc13d9ba4c031371e08d3a9052fa8" sha1="a4459927b60c34ef074f709de0f6fd2bc34ab114"/>
+	</game>
+	<game name="Atomic Puzzle Pack (World) (Erwin's Collection)">
+		<description>Atomic Puzzle Pack (World) (Erwin's Collection)</description>
+		<rom name="Atomic Puzzle Pack (World) (Erwin's Collection).hex" size="72496" crc="09ef4ed9" md5="e8934bf115a4af9e4e4072b2f9452dbc" sha1="0e5986c457573446b823342570288f15753bda66" status="verified"/>
+	</game>
+	<game name="Back to the Jungle (World) (Erwin's Collection)">
+		<description>Back to the Jungle (World) (Erwin's Collection)</description>
+		<rom name="Back to the Jungle (World) (Erwin's Collection).hex" size="77360" crc="e00c5031" md5="581600eb5d0082aa0a1d9691af7547cc" sha1="06fa653fabc0c68404a3df8d15077cf88d38e26a" status="verified"/>
+	</game>
+	<game name="Balancing Act (World) (v1.0)">
+		<description>Balancing Act (World) (v1.0)</description>
+		<rom name="Balancing Act (World) (v1.0).hex" size="61042" crc="28fa9daf" md5="888340307191fde37430df1118bc8043" sha1="7fa75c6c52666415f0cdad2940ce2b0c729851f2"/>
+	</game>
+	<game name="Bang! Bang! (World) (Erwin's Collection)">
+		<description>Bang! Bang! (World) (Erwin's Collection)</description>
+		<rom name="Bang! Bang! (World) (Erwin's Collection).hex" size="48216" crc="e5afb2a8" md5="0faa980a52bdd8db3e139305738d1f0c" sha1="3571ac8bcd16102c7086a0d67619f2b4f6eac58e" status="verified"/>
+	</game>
+	<game name="Bangi (World) (Erwin's Collection)">
+		<description>Bangi (World) (Erwin's Collection)</description>
+		<rom name="Bangi (World) (Erwin's Collection).hex" size="70796" crc="2db7f657" md5="458f7c2e493f754bdf5873e261c784ad" sha1="c9f8c77844a61a605f9fb6102b0d69ac3d3095af" status="verified"/>
+	</game>
+	<game name="Battle for Zuthsrah (World) (Erwin's Collection)">
+		<description>Battle for Zuthsrah (World) (Erwin's Collection)</description>
+		<rom name="Battle for Zuthsrah (World) (Erwin's Collection).hex" size="47356" crc="f0f6897c" md5="6832d7e6397c037589c8748658a59344" sha1="49068634ad52d6a678cd374a72e84f042ac70744" status="verified"/>
+	</game>
+	<game name="Beam 'Em Up (World) (Erwin's Collection)">
+		<description>Beam 'Em Up (World) (Erwin's Collection)</description>
+		<rom name="Beam 'Em Up (World) (Erwin's Collection).hex" size="46560" crc="0a4370e9" md5="83ec5e47755050d730298c2d36273435" sha1="697311edad5c612f04c11efe626f92d59f1f7e5d" status="verified"/>
+	</game>
+	<game name="BEGEMMED (World)">
+		<description>BEGEMMED (World)</description>
+		<rom name="BEGEMMED (World).hex" size="47579" crc="ee2f8e95" md5="c393dd6d8fe95f2a76fa38be1f9b81c9" sha1="a2aec3fb1c6e46a6f116bfa7a7658955a36401e4"/>
+	</game>
+	<game name="BEGEMMED (World) (No QR Code)">
+		<description>BEGEMMED (World) (No QR Code)</description>
+		<rom name="BEGEMMED (World) (No QR Code).hex" size="45901" crc="45f1a447" md5="6201589b4554ec48cea92c456c0fef35" sha1="dd89e266e06559969bde11655e514c045b3a169b"/>
+	</game>
+	<game name="Biddy Watering (World) (Demo) (Erwin's Collection)">
+		<description>Biddy Watering (World) (Demo) (Erwin's Collection)</description>
+		<rom name="Biddy Watering (World) (Demo) (Erwin's Collection).hex" size="35609" crc="6d04fc77" md5="63f64114f1eeba9962778fecd698b55e" sha1="a86b77d193f10487d9db92167f5e5f29f914c23e"/>
+	</game>
+	<game name="BigBlackBox (World) (Erwin's Collection)">
+		<description>BigBlackBox (World) (Erwin's Collection)</description>
+		<rom name="BigBlackBox (World) (Erwin's Collection).hex" size="76496" crc="7202525e" md5="a1ec79d134b9b901688d22145c9d2a2e" sha1="5c3f473cbe3573b2b67fdb27852469a85d80b39f" status="verified"/>
+	</game>
+	<game name="BiriBiriBeat (World) (Erwin's Collection)">
+		<description>BiriBiriBeat (World) (Erwin's Collection)</description>
+		<rom name="BiriBiriBeat (World) (Erwin's Collection).hex" size="78256" crc="f5e1248a" md5="5b1c604f166f9023c1b13895228d18f9" sha1="10c7d4cd6808a5a6fbc676055e72d5cf74438d3b" status="verified"/>
+	</game>
+	<game name="BitWars (World) (v1.0)">
+		<description>BitWars (World) (v1.0)</description>
+		<rom name="BitWars (World) (v1.0).hex" size="43455" crc="5aab708f" md5="5a494c47822cca3c312965357888596b" sha1="4c65820407770856f00554dcd5d117c67f56ea64" status="verified"/>
+	</game>
+	<game name="BitWars (World) (v1.1)">
+		<description>BitWars (World) (v1.1)</description>
+		<rom name="BitWars (World) (v1.1).hex" size="47026" crc="aa3dd868" md5="d90ad93fdde56d66a0b4c783a5a54526" sha1="1f6fe4590cdfd54c6a116d2083c19ef743a766b2" status="verified"/>
+	</game>
+	<game name="Blackjack (World)">
+		<description>Blackjack (World)</description>
+		<rom name="Blackjack (World).hex" size="74935" crc="5d8bb5a9" md5="84490c2aa6bd9b354d049e25bab6479a" sha1="8d738397042d2885979bbb6b685fefa949b6e6b0" status="verified"/>
+	</game>
+	<game name="Blackjack (World) (Erwin's Collection)">
+		<description>Blackjack (World) (Erwin's Collection)</description>
+		<rom name="Blackjack (World) (Erwin's Collection).hex" size="74940" crc="10a4519f" md5="b9c04db6fa3ebbc25acad67690095373" sha1="294396a553205cdf04155e1ad416904ff80e5eda" status="verified"/>
+	</game>
+	<game name="Blackjack (World) (v1.0)">
+		<description>Blackjack (World) (v1.0)</description>
+		<rom name="Blackjack (World) (v1.0).hex" size="76694" crc="679ef596" md5="52f87261ffc628bbc89bf2b8ff0553fa" sha1="e7b0ef7aa5fdc0868b4343d5f4058f5ba9ec0f0b"/>
+	</game>
+	<game name="Blade Runner (World)">
+		<description>Blade Runner (World)</description>
+		<rom name="Blade Runner (World).hex" size="61819" crc="539068b9" md5="7d5fa2b64f1c0e5b6a511e0367dcab22" sha1="5a667be0b43192a5ee02fcf4cab01e128ae8504a"/>
+	</game>
+	<game name="Blob Attack (World)">
+		<description>Blob Attack (World)</description>
+		<rom name="Blob Attack (World).hex" size="77683" crc="705ee127" md5="98c5eba6894f6e5e445a7da67ea9a0ff" sha1="0746dda1e4e9976d47d7282c8234c2e038c792dd"/>
+	</game>
+	<game name="Blob Attack (World) (No QR Code)">
+		<description>Blob Attack (World) (No QR Code)</description>
+		<rom name="Blob Attack (World) (No QR Code).hex" size="75965" crc="f2c8d055" md5="d61935ec45c1d2d0113dccad03b43c03" sha1="53ccc6aa6ed1b799ba8e0f92aaca2a25769bf8f9"/>
+	</game>
+	<game name="Blocks (World) (Erwin's Collection)">
+		<description>Blocks (World) (Erwin's Collection)</description>
+		<rom name="Blocks (World) (Erwin's Collection).hex" size="42140" crc="c241718d" md5="f73f4f6714539fa8ae5a55ef32d420ca" sha1="56e1a6352ff21714c4ddfb94b1b722de0ad570ae" status="verified"/>
+	</game>
+	<game name="Boids (World) (Erwin's Collection)">
+		<description>Boids (World) (Erwin's Collection)</description>
+		<rom name="Boids (World) (Erwin's Collection).hex" size="50180" crc="9809e9fe" md5="61f2bdbe78718c280c5c8c894db77c08" sha1="26e5955ded7c9a9f56cb2012fb4df6c64fa50830" status="verified"/>
+	</game>
+	<game name="Bomberboy (World)">
+		<description>Bomberboy (World)</description>
+		<rom name="Bomberboy (World).hex" size="70128" crc="3b3ade95" md5="790504bde972bd42fd7b11f1e742a0ac" sha1="77b0ebcfcfed936371fbee8e420fcb205ff8209d"/>
+	</game>
+	<game name="Bombzzle (World) (Erwin's Collection)">
+		<description>Bombzzle (World) (Erwin's Collection)</description>
+		<rom name="Bombzzle (World) (Erwin's Collection).hex" size="47236" crc="ae1e88f7" md5="2a3e6e22a9d5a8990fbcc31328668814" sha1="26545cd878133c940452a21fd4f77541da55bf71" status="verified"/>
+	</game>
+	<game name="Book Reader - The Pig and the Box (World) (Program) (Erwin's Collection)">
+		<description>Book Reader - The Pig and the Box (World) (Program) (Erwin's Collection)</description>
+		<rom name="Book Reader - The Pig and the Box (World) (Program) (Erwin's Collection).hex" size="36240" crc="9387ca73" md5="6a7299fa2f857272ef1b2ecee0c21cc4" sha1="de101bc0a393e16dc6b86ef5579e3c833a71952b" status="verified"/>
+	</game>
+	<game name="Book Reader - The Pig and the Box (World) (Program)">
+		<description>Book Reader - The Pig and the Box (World) (Program)</description>
+		<rom name="Book Reader - The Pig and the Box (World) (Program).hex" size="37065" crc="4b99fc58" md5="fa178bfafebf3b701ec998cb8b16a798" sha1="dd5e7c881aae3af3b523160018ef7b8339ffc0ee"/>
+	</game>
+	<game name="Boris Goes Skiing (World) (Erwin's Collection)">
+		<description>Boris Goes Skiing (World) (Erwin's Collection)</description>
+		<rom name="Boris Goes Skiing (World) (Erwin's Collection).hex" size="43616" crc="e902e565" md5="333e5e5234721c893275755373d9fe62" sha1="73ed12d0ae70292f7c1e3a2daa607e62b0fd1920" status="verified"/>
+	</game>
+	<game name="Boris Goes Skiing (World) (v1.0)">
+		<description>Boris Goes Skiing (World) (v1.0)</description>
+		<rom name="Boris Goes Skiing (World) (v1.0).hex" size="44609" crc="20018b99" md5="7d597636e3fde65b756b3e4ff01a752e" sha1="ee4f5bf28d96e80ae3cfa3968bdb364a14e407b5"/>
+	</game>
+	<game name="Bounce (World) (v1.0)">
+		<description>Bounce (World) (v1.0)</description>
+		<rom name="Bounce (World) (v1.0).hex" size="39605" crc="5e95bb75" md5="dbb0e7b912dd6299527db7bfca91ead6" sha1="1f337f08efb0f409d9898a9432fc4fc968662ba4" status="verified"/>
+	</game>
+	<game name="Bounce (World) (v1.1)">
+		<description>Bounce (World) (v1.1)</description>
+		<rom name="Bounce (World) (v1.1).hex" size="42718" crc="0f40a53e" md5="a42c76a666a2052261d9dda6c86befaa" sha1="6e49cf92e5c32d2c4943e2e70fde382c6b426f73" status="verified"/>
+	</game>
+	<game name="Bounce, The (World) (Erwin's Collection)">
+		<description>Bounce, The (World) (Erwin's Collection)</description>
+		<rom name="Bounce, The (World) (Erwin's Collection).hex" size="76016" crc="4d2e13fc" md5="f557ab3e1ab9a3b6a6b550ff3b6a3d52" sha1="cd6169ecdc359b1cd5ecd0691fc897b15367753f" status="verified"/>
+	</game>
+	<game name="Bounce! (World) (Erwin's Collection)">
+		<description>Bounce! (World) (Erwin's Collection)</description>
+		<rom name="Bounce! (World) (Erwin's Collection).hex" size="48928" crc="fb66e918" md5="662eb1e04147352262b9c6e00b0c698a" sha1="481f10d4112857e7cc078dad2b8aa7d1767007dc"/>
+	</game>
+	<game name="Box Stacker (World) (Erwin's Collection)">
+		<description>Box Stacker (World) (Erwin's Collection)</description>
+		<rom name="Box Stacker (World) (Erwin's Collection).hex" size="36220" crc="eba5ef2b" md5="25e783dfded1ee6ced890bd92eac6263" sha1="52db25bf11858bce0dd7b6118498064a204b2046" status="verified"/>
+	</game>
+	<game name="Brainfuck Interpreter (World) (Program) (Erwin's Collection)">
+		<description>Brainfuck Interpreter (World) (Program) (Erwin's Collection)</description>
+		<rom name="Brainfuck Interpreter (World) (Program) (Erwin's Collection).hex" size="32328" crc="a872e304" md5="72c7982ff4321b713b2fda6ae73a2588" sha1="5e9c3799f6ae1d73c397f1a77d3453f70000d516" status="verified"/>
+	</game>
+	<game name="Brainfuck Interpreter (World) (v0.1) (Program)">
+		<description>Brainfuck Interpreter (World) (v0.1) (Program)</description>
+		<rom name="Brainfuck Interpreter (World) (v0.1) (Program).hex" size="32769" crc="904b63f4" md5="680944b3b21e52bc13ee8d28b961ed92" sha1="68c1eafa5f39b069f1da32366958aceb72b545ed"/>
+	</game>
+	<game name="Breakout-V (World) (Erwin's Collection)">
+		<description>Breakout-V (World) (Erwin's Collection)</description>
+		<rom name="Breakout-V (World) (Erwin's Collection).hex" size="36947" crc="8b894e1c" md5="6d5d61386b7d85b2ab8b6f7c9f641c75" sha1="9f6bfd18e9613e9c8aef9ff0eaba7e7047d66890" status="verified"/>
+	</game>
+	<game name="Breakout-V (World)">
+		<description>Breakout-V (World)</description>
+		<rom name="Breakout-V (World).hex" size="37789" crc="e1d97e30" md5="dd7120358021c789116c8cc5045c72c2" sha1="516386066a63e5c4f00819921fd3904442ff70b2"/>
+	</game>
+	<game name="Bubble Pop (World)">
+		<description>Bubble Pop (World)</description>
+		<rom name="Bubble Pop (World).hex" size="50512" crc="37bf83a9" md5="1921ed6730b8222433e08bf3ead70c15" sha1="f4399db0e86d07f54d820ba19eab3f0ed23cac20"/>
+	</game>
+	<game name="Bubble Pop (World) (No QR Code)">
+		<description>Bubble Pop (World) (No QR Code)</description>
+		<rom name="Bubble Pop (World) (No QR Code).hex" size="48921" crc="128931e2" md5="f7e96166dd5cae837a10210410918a27" sha1="eb2f588603c26d8617ba4777aba9bd58d6ca6232"/>
+	</game>
+	<game name="BurgardTime (World) (Erwin's Collection)">
+		<description>BurgardTime (World) (Erwin's Collection)</description>
+		<rom name="BurgardTime (World) (Erwin's Collection).hex" size="66151" crc="e04809c6" md5="3c99340d27c7f66e7742465b5551dbf4" sha1="4d135e10683dbb62cb419995994df40142f60738" status="verified"/>
+	</game>
+	<game name="BurgardTime (World)">
+		<description>BurgardTime (World)</description>
+		<rom name="BurgardTime (World).hex" size="66152" crc="4030291f" md5="0da91b55d971f2c0b803fe6ac5b7f29c" sha1="8e0ac575d0f6a0094459d5d37ead884b5b8054cb"/>
+	</game>
+	<game name="CandyWar (World)">
+		<description>CandyWar (World)</description>
+		<rom name="CandyWar (World).hex" size="80298" crc="9f594866" md5="2150b92f1e196bf3a36fb72cfa276398" sha1="e2293e0216023732b71815af974b95e3baf317da"/>
+	</game>
+	<game name="Captain Mason's UFO Defence (World)">
+		<description>Captain Mason's UFO Defence (World)</description>
+		<rom name="Captain Mason's UFO Defence (World).hex" size="79353" crc="d94292c3" md5="9ba61555c664a1bedeb0d6afa230253a" sha1="a5c95206a0c4a9c55466b712ca694b362b82fbfd" status="verified"/>
+	</game>
+	<game name="Cascade Path, The (World) (Erwin's Collection)">
+		<description>Cascade Path, The (World) (Erwin's Collection)</description>
+		<rom name="Cascade Path, The (World) (Erwin's Collection).hex" size="73780" crc="8c1cc8f7" md5="73eab8bff16d0216695922527d586f88" sha1="66a06d64c2e5eb2dcb5cc86e106c483ad06aad50" status="verified"/>
+	</game>
+	<game name="CastleBoy (World) (Erwin's Collection)">
+		<description>CastleBoy (World) (Erwin's Collection)</description>
+		<rom name="CastleBoy (World) (Erwin's Collection).hex" size="77932" crc="7dc38d6e" md5="a733217c030dc768c4effc2a0295de6a" sha1="166a9d346a3793b00cb90ea0f2145fec220638f6" status="verified"/>
+	</game>
+	<game name="Cat Mines (World)">
+		<description>Cat Mines (World)</description>
+		<rom name="Cat Mines (World).hex" size="41467" crc="1cde637e" md5="284c0d59e371d8c25ea3f8fe540b78c3" sha1="d3d6d0c41f2890e51634587e16a3aa40483eadf7" status="verified"/>
+	</game>
+	<game name="Catacombs of the Damned (World) (Erwin's Collection)">
+		<description>Catacombs of the Damned (World) (Erwin's Collection)</description>
+		<rom name="Catacombs of the Damned (World) (Erwin's Collection).hex" size="78460" crc="cefcd22c" md5="c34f0985b8ebef2e8359ca5b228b6c40" sha1="4c54260891d04c130484cede7f5571ac7a3a8a82" status="verified"/>
+	</game>
+	<game name="Catacombs of the Damned (World) (v1.0)">
+		<description>Catacombs of the Damned (World) (v1.0)</description>
+		<rom name="Catacombs of the Damned (World) (v1.0).hex" size="80244" crc="691c4c6f" md5="a420a3a38cb472563eb3549522b29c64" sha1="ef73bb4bab0ef6d6554bad8b41afaf39186fd99a"/>
+	</game>
+	<game name="Catacombs of the Damned (World) (v0.1) (Demo)">
+		<description>Catacombs of the Damned (World) (v0.1) (Demo)</description>
+		<rom name="Catacombs of the Damned (World) (v0.1) (Demo).hex" size="35195" crc="1b915c29" md5="fee80d42fa3a7d9e30fe040296cde0a2" sha1="2d19e2bf52a98a6e8a02fa3c6b8ca14ec3096acf"/>
+	</game>
+	<game name="Cattle Quest (World)">
+		<description>Cattle Quest (World)</description>
+		<rom name="Cattle Quest (World).hex" size="63472" crc="d4a88254" md5="db4d1386a7592923ff9b02f5c24a7add" sha1="8f67b332ec069be47fddeedadad3de4a1cce8f28"/>
+	</game>
+	<game name="Chicken Launcher (World) (Erwin's Collection)">
+		<description>Chicken Launcher (World) (Erwin's Collection)</description>
+		<rom name="Chicken Launcher (World) (Erwin's Collection).hex" size="51312" crc="0b2f6a64" md5="73e32bb703126b6bc2bd76231c81f26e" sha1="2d1760d2f83384c76890651f236b3810226963da" status="verified"/>
+	</game>
+	<game name="Chicken Launcher (World) (v1.1)">
+		<description>Chicken Launcher (World) (v1.1)</description>
+		<rom name="Chicken Launcher (World) (v1.1).hex" size="52479" crc="5d4e65ee" md5="71b8bbbb405f51ad89ece387ae320884" sha1="6602ff3c61c2f16a3e8ea73dbfbef666f4a08fe6"/>
+	</game>
+	<game name="Chie Magari Ita (World) (v0.10) (Erwin's Collection)">
+		<description>Chie Magari Ita (World) (v0.10) (Erwin's Collection)</description>
+		<rom name="Chie Magari Ita (World) (v0.10) (Erwin's Collection).hex" size="64600" crc="14f841ef" md5="f012b3b5b7d40bf82cb86d9238fd15f0" sha1="574784aa0a4a7e68244cacdc142f5db8915a8e1e" status="verified"/>
+	</game>
+	<game name="Chie Magari Ita (World) (v0.11)">
+		<description>Chie Magari Ita (World) (v0.11)</description>
+		<rom name="Chie Magari Ita (World) (v0.11).hex" size="65080" crc="e682921b" md5="071c1d7cc06d03ab74282e815ee2a528" sha1="3fbfdf4f4224c43495c87a1ac8b1317461c102fa"/>
+	</game>
+	<game name="Chirp (World) (Program) (Erwin's Collection)">
+		<description>Chirp (World) (Program) (Erwin's Collection)</description>
+		<rom name="Chirp (World) (Program) (Erwin's Collection).hex" size="23800" crc="8ef5eb18" md5="18af7be2a83f4027b47acce509785508" sha1="3ecc30ea1be47361cf44ee4e9c55bc0542aa41af" status="verified"/>
+	</game>
+	<game name="Chirp (World) (Program)">
+		<description>Chirp (World) (Program)</description>
+		<rom name="Chirp (World) (Program).hex" size="24342" crc="e4ec6142" md5="881eec6d813fd873db42e587276cd9ac" sha1="c5dc22c5a88153d52dc993ee0476fe50d36a9189"/>
+	</game>
+	<game name="Choplifter (World) (Erwin's Collection)">
+		<description>Choplifter (World) (Erwin's Collection)</description>
+		<rom name="Choplifter (World) (Erwin's Collection).hex" size="77692" crc="6748c5f7" md5="24ca2fd5536e9d4021beafb1edeea021" sha1="94c2181e3509c8542969a033732022826a8b3484" status="verified"/>
+	</game>
+	<game name="Choplifter (World) (v1.1.1)">
+		<description>Choplifter (World) (v1.1.1)</description>
+		<rom name="Choplifter (World) (v1.1.1).hex" size="72873" crc="3c6ac875" md5="db6588154bd6fd560340894afe9b81ab" sha1="ae79b9deed620fc605c47a7c6ec29cecbf819a86"/>
+	</game>
+	<game name="Choplifter (World) (FX Enhanced)">
+		<description>Choplifter (World) (FX Enhanced)</description>
+		<rom name="Choplifter (World) (FX Enhanced).hex" size="71252" crc="df158fa6" md5="c59378dd66bc4458165f2f3495a84c4b" sha1="0d734471958c4b62ca65540af6791d98f874a163"/>
+	</game>
+	<game name="Chri-Bocchi Cat (World) (v0.03) (Erwin's Collection)">
+		<description>Chri-Bocchi Cat (World) (v0.03) (Erwin's Collection)</description>
+		<rom name="Chri-Bocchi Cat (World) (v0.03) (Erwin's Collection).hex" size="61068" crc="7a8d7d6c" md5="e075a4fa892d2586f6635ace5951e7da" sha1="f3a5e1f705fcb19e7f29abcc91bb94a1cccb4dea" status="verified"/>
+	</game>
+	<game name="Chri-Bocchi Cat (World) (v0.04)">
+		<description>Chri-Bocchi Cat (World) (v0.04)</description>
+		<rom name="Chri-Bocchi Cat (World) (v0.04).hex" size="60371" crc="c845cd55" md5="fc76789258792b4fd2a15208722c75c3" sha1="7a16ab134f606f5dcb95ea93b06b941e760a4d4f"/>
+	</game>
+	<game name="Chrome Dino (World) (Erwin's Collection)">
+		<description>Chrome Dino (World) (Erwin's Collection)</description>
+		<rom name="Chrome Dino (World) (Erwin's Collection).hex" size="35728" crc="1609b014" md5="e8a37a10c86d3a632b9e006458edcf54" sha1="f3947e248fd0a57a17a540f5953178cbd4db6c92" status="verified"/>
+	</game>
+	<game name="Chrome Dino (World)">
+		<description>Chrome Dino (World)</description>
+		<rom name="Chrome Dino (World).hex" size="41880" crc="895845e1" md5="a8c6d553d6f390c95e31c88d561e1bf3" sha1="89ec0f0e87c0b8029c03e353871d02258a4b0ac4"/>
+	</game>
+	<game name="Chrome Dino - Halloween (World) (Erwin's Collection)">
+		<description>Chrome Dino - Halloween (World) (Erwin's Collection)</description>
+		<rom name="Chrome Dino - Halloween (World) (Erwin's Collection).hex" size="37628" crc="5c7a6127" md5="11dc59e4c2d04fd98eca79a2b11b4e3f" sha1="ea1dcbc46cad2a7b4a611334f87af6ba58c1cad4" status="verified"/>
+	</game>
+	<game name="Circuit Dude (World) (v3.2)">
+		<description>Circuit Dude (World) (v3.2)</description>
+		<rom name="Circuit Dude (World) (v3.2).hex" size="77937" crc="b138319f" md5="b0815bef6fae8dfc33adba05bba0c884" sha1="c7c03d2afaf153df33b2dba81eb503d124b79f3a" status="verified"/>
+	</game>
+	<game name="Cistercia (World) (Program) (Erwin's Collection)">
+		<description>Cistercia (World) (Program) (Erwin's Collection)</description>
+		<rom name="Cistercia (World) (Program) (Erwin's Collection).hex" size="30123" crc="955fb137" md5="d423cfc7250c9ba7cdce049ec3bda282" sha1="cbba04311983545e48e659bdb6bdb1e0ac6b8eb2" status="verified"/>
+	</game>
+	<game name="Coder's Toolbox (World) (Program) (Erwin's Collection)">
+		<description>Coder's Toolbox (World) (Program) (Erwin's Collection)</description>
+		<rom name="Coder's Toolbox (World) (Program) (Erwin's Collection).hex" size="61624" crc="9300315e" md5="ae18548d97d23ce50b2042eb01f04c1b" sha1="8b65ca1eb9fbc3b2ac1fc143e32da90d477aa386" status="verified"/>
+	</game>
+	<game name="Coder's Toolbox (World) (FX Enhanced) (Program)">
+		<description>Coder's Toolbox (World) (FX Enhanced) (Program)</description>
+		<rom name="Coder's Toolbox (World) (FX Enhanced) (Program).hex" size="62654" crc="522d8851" md5="c9dc80576e6b6ff9c01903dda2f0b53f" sha1="79de08e3972259d36c07f021771f1c6c188783cb"/>
+	</game>
+	<game name="Coin Rush! (World)">
+		<description>Coin Rush! (World)</description>
+		<rom name="Coin Rush! (World).hex" size="29407" crc="93343faa" md5="ea2673dcc22de02e987d3fa01708419d" sha1="10fdf17d520060e16858e69ad4a3fa23f486a6cd"/>
+	</game>
+	<game name="Cooties Attack (World)">
+		<description>Cooties Attack (World)</description>
+		<rom name="Cooties Attack (World).hex" size="40211" crc="e9677bda" md5="ad9e31dbbbccda4ae0998d5c091d786f" sha1="8acca029a0ebd06eaa43a5292c0719cb950be461" status="verified"/>
+	</game>
+	<game name="Cooties Attack (World) (Alt)">
+		<description>Cooties Attack (World) (Alt)</description>
+		<rom name="Cooties Attack (World) (Alt).hex" size="39916" crc="cf9369d3" md5="2bf37cdd0b0dcb862fdd23ecf3c17ffd" sha1="f695005108cfe814c3ec70e892ec598142ba6474"/>
+	</game>
+	<game name="CosmicPods (World) (Erwin's Collection)">
+		<description>CosmicPods (World) (Erwin's Collection)</description>
+		<rom name="CosmicPods (World) (Erwin's Collection).hex" size="41916" crc="b1f82b23" md5="235d94095075d5552dafaf5c617f8e63" sha1="f20bff9c21ac23d05b693a950ced9519d694438c" status="verified"/>
+	</game>
+	<game name="CowBro (World) (Erwin's Collection)">
+		<description>CowBro (World) (Erwin's Collection)</description>
+		<rom name="CowBro (World) (Erwin's Collection).hex" size="41283" crc="6356a750" md5="4a419323086dc427b7973642ccfde92f" sha1="20dd8c68e2d5b9294b107dbd560cbfeb166253fa" status="verified"/>
+	</game>
+	<game name="CowBro (World)">
+		<description>CowBro (World)</description>
+		<rom name="CowBro (World).hex" size="42224" crc="153b1c71" md5="31e083459cb634956b3969a1863da597" sha1="7c0b08f1c29f81e08152ab68ee5013d1aa8664da"/>
+	</game>
+	<game name="Crabator (World) (Erwin's Collection)">
+		<description>Crabator (World) (Erwin's Collection)</description>
+		<rom name="Crabator (World) (Erwin's Collection).hex" size="64088" crc="e1306446" md5="df80209c226a3476dd990b578b276d61" sha1="a05b90b06ffe0f80c094910555299c7ade818647" status="verified"/>
+	</game>
+	<game name="Crate Confusion (World) (Erwin's Collection)">
+		<description>Crate Confusion (World) (Erwin's Collection)</description>
+		<rom name="Crate Confusion (World) (Erwin's Collection).hex" size="39224" crc="0a3df57c" md5="94e65945a485a90068626a667145dc9c" sha1="bc2c49b04f333b73a37d7915a3ca70e5b78768e3" status="verified"/>
+	</game>
+	<game name="Crate Confusion (World)">
+		<description>Crate Confusion (World)</description>
+		<rom name="Crate Confusion (World).hex" size="40117" crc="10ca575e" md5="3f05284deeb0b7926f985356b900885a" sha1="59aa7aa7a7730a57c78a8f0c69ff92ac5830fb7f"/>
+	</game>
+	<game name="Crates 3D (World) (Erwin's Collection)">
+		<description>Crates 3D (World) (Erwin's Collection)</description>
+		<rom name="Crates 3D (World) (Erwin's Collection).hex" size="56255" crc="76ad2971" md5="874c1c85284507fc439ff6f14a7b30b9" sha1="0efc93ad56797e35d24e1f8f262814ade4d8bd99" status="verified"/>
+	</game>
+	<game name="Crates 3D (World) (v1.0)">
+		<description>Crates 3D (World) (v1.0)</description>
+		<rom name="Crates 3D (World) (v1.0).hex" size="57536" crc="8928358a" md5="3afe05ca33d5ee3cf674806834acbc2d" sha1="49bfca29f46aa80d8eec8380d2633b4b00970cff"/>
+	</game>
+	<game name="Crawl, The (World) (v1.01)">
+		<description>Crawl, The (World) (v1.01)</description>
+		<rom name="Crawl, The (World) (v1.01).hex" size="70680" crc="aea863c8" md5="f45c041c4dc0042bfbff7a9aad4b9046" sha1="8160bdca27eaebf88ef79642fffd2bbf3cc862ed" status="verified"/>
+	</game>
+	<game name="CrazyKart (World) (Erwin's Collection)">
+		<description>CrazyKart (World) (Erwin's Collection)</description>
+		<rom name="CrazyKart (World) (Erwin's Collection).hex" size="45084" crc="71fabc63" md5="4a0b8b8b9a31ddd9f3ff7a73a9fc0d50" sha1="239a2ba9cb831e24d9108176f256b46faf11ad9d" status="verified"/>
+	</game>
+	<game name="Creapawn (World) (v1.2)">
+		<description>Creapawn (World) (v1.2)</description>
+		<rom name="Creapawn (World) (v1.2).hex" size="80604" crc="f6ac0194" md5="43382b39292f791d1e7f709377ad96e8" sha1="a639c1bf1a479f594c5b42a70b1f7932b36958f7"/>
+	</game>
+	<game name="Cribbage (World) (Erwin's Collection)">
+		<description>Cribbage (World) (Erwin's Collection)</description>
+		<rom name="Cribbage (World) (Erwin's Collection).hex" size="78384" crc="1a5ef5fe" md5="49398e45a46dff25d5c8aca6624dbd0b" sha1="08c3a07f123acf0192669cd5ac7eee6b4f47ebd9" status="verified"/>
+	</game>
+	<game name="Cribbage (World) (v1.02)">
+		<description>Cribbage (World) (v1.02)</description>
+		<rom name="Cribbage (World) (v1.02).hex" size="80707" crc="f81a21f5" md5="41d1edb19088c1c05e4cb8a0ff45472b" sha1="b8f67d3732efddde0fc586bf460121d63f73814b"/>
+	</game>
+	<game name="Cripple Mr Onion (World) (Erwin's Collection)">
+		<description>Cripple Mr Onion (World) (Erwin's Collection)</description>
+		<rom name="Cripple Mr Onion (World) (Erwin's Collection).hex" size="73072" crc="76f5e3f8" md5="dd5fdb6cebeebcaac27c6fba0774e087" sha1="caa9563047c524c8d5fca8cea68b49cf7edd916a" status="verified"/>
+	</game>
+	<game name="Cripple Mr Onion (World) (v1.0)">
+		<description>Cripple Mr Onion (World) (v1.0)</description>
+		<rom name="Cripple Mr Onion (World) (v1.0).hex" size="74734" crc="fa28cbf5" md5="d975f67a02a40676a9ce655c2399c834" sha1="f9f6b239901203164cca9ef9170c0cbdbb770028"/>
+	</game>
+	<game name="Curse of Astarok, The (World) (v1.0) (Erwin's Collection)">
+		<description>Curse of Astarok, The (World) (v1.0) (Erwin's Collection)</description>
+		<rom name="Curse of Astarok, The (World) (v1.0) (Erwin's Collection).hex" size="78644" crc="bb4fa382" md5="0993ed56903710adee40c5c5b0da2126" sha1="0ccfa514163c987a36cd5daa40e210c0dc7f7377" status="verified"/>
+	</game>
+	<game name="Curse of Astarok, The (World) (v1.1)">
+		<description>Curse of Astarok, The (World) (v1.1)</description>
+		<rom name="Curse of Astarok, The (World) (v1.1).hex" size="81398" crc="39fa3fc8" md5="6afa31b871ecb16e14c6db76a1f363a0" sha1="0717f2d6a084e75f976fbb1caa85abfe7d693b35"/>
+	</game>
+	<game name="Curve Ball 3D (World) (Demo)">
+		<description>Curve Ball 3D (World) (Demo)</description>
+		<rom name="Curve Ball 3D (World) (Demo).hex" size="27231" crc="8383bcde" md5="ca321f3d9a6d46a16aba46463d1ffe7d" sha1="41b3750873076e3b5c9a834f89b3489c0c712546"/>
+	</game>
+	<game name="Cutie E (World) (Erwin's Collection)">
+		<description>Cutie E (World) (Erwin's Collection)</description>
+		<rom name="Cutie E (World) (Erwin's Collection).hex" size="36116" crc="ee3a5ca2" md5="201135461bbf4ba812869d4b4058794e" sha1="80be04fa8cee0987b7385430c5b2dac5685b3a22" status="verified"/>
+	</game>
+	<game name="CyberHack (World) (Erwin's Collection)">
+		<description>CyberHack (World) (Erwin's Collection)</description>
+		<rom name="CyberHack (World) (Erwin's Collection).hex" size="78784" crc="23999d37" md5="47041bed0dfc00b9c637e877511c5a54" sha1="6ab3c79fd8e72aeed9abc9daf6600c8c5d4c36ed" status="verified"/>
+	</game>
+	<game name="DanceRow (World) (Erwin's Collection)">
+		<description>DanceRow (World) (Erwin's Collection)</description>
+		<rom name="DanceRow (World) (Erwin's Collection).hex" size="49804" crc="e6fd9666" md5="b4ca4ce18a7d6128ebe80e90fd919fd1" sha1="465fe277710be23170004ad6615bef9f6b7232e8" status="verified"/>
+	</game>
+	<game name="Dark and Under (World) (Erwin's Collection)">
+		<description>Dark and Under (World) (Erwin's Collection)</description>
+		<rom name="Dark and Under (World) (Erwin's Collection).hex" size="74759" crc="1f001323" md5="0f43defeddea8b5fc033722080d24820" sha1="826ab468fb76c367e4955356a8f47a88532c5dc4" status="verified"/>
+	</game>
+	<game name="Dark and Under (World) (v2.0.3)">
+		<description>Dark and Under (World) (v2.0.3)</description>
+		<rom name="Dark and Under (World) (v2.0.3).hex" size="77356" crc="a6251e31" md5="9d713d948dc184c6d59a51a3a00194f2" sha1="7baf865caf99ce0546add2bfbedad91f4de335bc"/>
+	</game>
+	<game name="Dark Star (World)">
+		<description>Dark Star (World)</description>
+		<rom name="Dark Star (World).hex" size="35527" crc="3445a9c0" md5="cf3bae690e7b0c95993a95bf28d4f910" sha1="32fafc99c7f58e9ca69f0b0b9da84c9d9a81b097"/>
+	</game>
+	<game name="Deep Dish Nine (World) (Erwin's Collection)">
+		<description>Deep Dish Nine (World) (Erwin's Collection)</description>
+		<rom name="Deep Dish Nine (World) (Erwin's Collection).hex" size="68712" crc="edce7b03" md5="2f617e69989e39505dbc28b2ef10e830" sha1="94fb7b6b3b49f8c85cada5a6ff3c4b59d64fecac" status="verified"/>
+	</game>
+	<game name="Defenduino (World) (v1.0)">
+		<description>Defenduino (World) (v1.0)</description>
+		<rom name="Defenduino (World) (v1.0).hex" size="79790" crc="1174ea2c" md5="048940c0b7048cdb5b6e009269ddfdd5" sha1="4bc5236d27532f21ba223b79cf10492382bf7fd1"/>
+	</game>
+	<game name="Defenduino (World) (v1.1)">
+		<description>Defenduino (World) (v1.1)</description>
+		<rom name="Defenduino (World) (v1.1).hex" size="80007" crc="d5066daa" md5="3a6c46b587b6a329a6d866a7b0451a1c" sha1="b00196c8886069eb5ff5b42aba2a3c91c36670be"/>
+	</game>
+	<game name="Defenduino (World) (v1.2)">
+		<description>Defenduino (World) (v1.2)</description>
+		<rom name="Defenduino (World) (v1.2).hex" size="80203" crc="579fe4b1" md5="033f307458d98af29d9751d0a05d2f6b" sha1="1bbb7ab6288567ff8bb8e62f30b9a204849d7b4f"/>
+	</game>
+	<game name="Defenduino (World) (v1.2) (Erwin's Collection)">
+		<description>Defenduino (World) (v1.2) (Erwin's Collection)</description>
+		<rom name="Defenduino (World) (v1.2) (Erwin's Collection).hex" size="78420" crc="c9d3a8a9" md5="fd9e8233e6272cd75a7122c8dd7dde7e" sha1="6e125b5c9439812fef49a94004ef305e11120f1d"/>
+	</game>
+	<game name="Diamonds (World) (Erwin's Collection)">
+		<description>Diamonds (World) (Erwin's Collection)</description>
+		<rom name="Diamonds (World) (Erwin's Collection).hex" size="75564" crc="5d751132" md5="27d92103b066cff09c0f46329c98ad27" sha1="23f1d1897bf9352b5bd3fe277cb8ae5e24e04831" status="verified"/>
+	</game>
+	<game name="Dice of Fate (World) (v1.7.2) (Program)">
+		<description>Dice of Fate (World) (v1.7.2) (Program)</description>
+		<rom name="Dice of Fate (World) (v1.7.2) (Program).hex" size="68487" crc="00a2ed00" md5="72fb7385e8f9262a6fea2af60880c04e" sha1="603f661e3df93477dcb4b75df14aa088542ec229"/>
+	</game>
+	<game name="Dice of Fate (World) (Program)">
+		<description>Dice of Fate (World) (Program)</description>
+		<rom name="Dice of Fate (World) (Program).hex" size="64863" crc="0def737a" md5="7e1e740236cacf7353ba407f9ab89309" sha1="af5498f955555c38b23c0f2247de08af37ea104a"/>
+	</game>
+	<game name="Dice of Fate (World) (No QR Code) (Program)">
+		<description>Dice of Fate (World) (No QR Code) (Program)</description>
+		<rom name="Dice of Fate (World) (No QR Code) (Program).hex" size="63202" crc="6a350111" md5="26283d1036c4dc551182c596840d25ac" sha1="e310fc8dc3fa7a66d29b2aacaed99c60d906a694"/>
+	</game>
+	<game name="Digger (World) (Erwin's Collection)">
+		<description>Digger (World) (Erwin's Collection)</description>
+		<rom name="Digger (World) (Erwin's Collection).hex" size="78724" crc="84841d4e" md5="fb64d973a4fd6d1da5c0c564a7e81e73" sha1="2686a78174fddfd499c7e0f9dcb65c214b8d07e4" status="verified"/>
+	</game>
+	<game name="Dinosaur (World)">
+		<description>Dinosaur (World)</description>
+		<rom name="Dinosaur (World).hex" size="37155" crc="b11b601f" md5="2f8d0b6c8026bf162f88bf608eea9114" sha1="e6813d7b14d187d3357a6a1497947dd6631dd711"/>
+	</game>
+	<game name="Do You Remember Love (World) (Erwin's Collection)">
+		<description>Do You Remember Love (World) (Erwin's Collection)</description>
+		<rom name="Do You Remember Love (World) (Erwin's Collection).hex" size="75172" crc="a202e70d" md5="7db8d31d810877e6b5d3936946ad7aee" sha1="7912d3d22823a4c2fea75001954b54cae182fe75" status="verified"/>
+	</game>
+	<game name="Dominoes 'All Fives' (World) (Erwin's Collection)">
+		<description>Dominoes 'All Fives' (World) (Erwin's Collection)</description>
+		<rom name="Dominoes 'All Fives' (World) (Erwin's Collection).hex" size="78208" crc="20cc48e6" md5="2778ff086611110bbaa25427af933e1e" sha1="803a434ec5014867c5390be04d0aec8dfc535d39" status="verified"/>
+	</game>
+	<game name="Donkey Kong Jr. (World) (v0.99a) (Demake)">
+		<description>Donkey Kong Jr. (World) (v0.99a) (Demake)</description>
+		<rom name="Donkey Kong Jr. (World) (v0.99a) (Demake).hex" size="78297" crc="db224053" md5="34df74631a878001d52e94a698cbbfe4" sha1="71fd15438d167234ad9e6054fd34efa9691e5ee0"/>
+	</game>
+	<game name="Dungeons (World)">
+		<description>Dungeons (World)</description>
+		<rom name="Dungeons (World).hex" size="14966" crc="629226ce" md5="32845df62c653ebe81dea66deafe6de3" sha1="d98297905e444fbbf7b9ad2335c4d389af8a39ae"/>
+	</game>
+	<game name="Dungeons 2 (World)">
+		<description>Dungeons 2 (World)</description>
+		<rom name="Dungeons 2 (World).hex" size="50295" crc="99a5dac8" md5="85498484bf811ade4eed949aea2678ba" sha1="d447ac77b07586e1cf4be572fb9e84292497fa85"/>
+	</game>
+	<game name="Dungeons 2 (World) (No QR Code)">
+		<description>Dungeons 2 (World) (No QR Code)</description>
+		<rom name="Dungeons 2 (World) (No QR Code).hex" size="48789" crc="ccc2de6f" md5="74328c863d3f3718c83314bb85a17356" sha1="3fdd1ea67b69de7bfcc0a24bf076770883de4e6a"/>
+	</game>
+	<game name="Egg Master Pro 2020 (World) (Erwin's Collection)">
+		<description>Egg Master Pro 2020 (World) (Erwin's Collection)</description>
+		<rom name="Egg Master Pro 2020 (World) (Erwin's Collection).hex" size="53164" crc="bbb45daf" md5="eae64119ce0c2ac7eefd24bce2d409a4" sha1="2513e27d4babb26f1bfc7accbe44818edc8e7ecc" status="verified"/>
+	</game>
+	<game name="Electronic Quarterback (World) (Erwin's Collection)">
+		<description>Electronic Quarterback (World) (Erwin's Collection)</description>
+		<rom name="Electronic Quarterback (World) (Erwin's Collection).hex" size="33764" crc="6c9b4834" md5="c78a13f20532dbe44860c3a4797a95e6" sha1="23543a99084af26c80fee4b6f61f368129f7cc6d" status="verified"/>
+	</game>
+	<game name="ElsieBoy4 (World) (Program) (Erwin's Collection)">
+		<description>ElsieBoy4 (World) (Program) (Erwin's Collection)</description>
+		<rom name="ElsieBoy4 (World) (Program) (Erwin's Collection).hex" size="39380" crc="42f85720" md5="b21a2a3df6d5c2de6100a523a91456c9" sha1="f97f367a5255ad4b8f25868c2eadb60e16c743d4" status="verified"/>
+	</game>
+	<game name="Elventure (World)">
+		<description>Elventure (World)</description>
+		<rom name="Elventure (World).hex" size="53932" crc="d19916ae" md5="b32e5f7301cb4833107cf792a14206eb" sha1="2ee6ae96a8e04c3a31536221baa2cf4ae03a50df"/>
+	</game>
+	<game name="Epic Crates of Mass Destruction (World)">
+		<description>Epic Crates of Mass Destruction (World)</description>
+		<rom name="Epic Crates of Mass Destruction (World).hex" size="61602" crc="8272644e" md5="956e21f9d7f94a428719c56711227da8" sha1="75f987c466829821af78c9cb7c7266c768250ec4"/>
+	</game>
+	<game name="Epic Crates of Mass Destruction (World) (No QR Code)">
+		<description>Epic Crates of Mass Destruction (World) (No QR Code)</description>
+		<rom name="Epic Crates of Mass Destruction (World) (No QR Code).hex" size="60301" crc="897ee313" md5="d74817dc89cecdc16dae29ce3ab5b691" sha1="31ec7742c4a7027dcc02a8d1726a693ecf188771"/>
+	</game>
+	<game name="Epic Mini Games (World) (Erwin's Collection)">
+		<description>Epic Mini Games (World) (Erwin's Collection)</description>
+		<rom name="Epic Mini Games (World) (Erwin's Collection).hex" size="78288" crc="47563c06" md5="10b5f6af0f1d71da0d547efb46441b80" sha1="201d8b85dde916292806ee77d011aa0ac155ffe8" status="verified"/>
+	</game>
+	<game name="Escaper Droid (World)">
+		<description>Escaper Droid (World)</description>
+		<rom name="Escaper Droid (World).hex" size="61762" crc="fff1d5a1" md5="ebe37679593efab8b54baca057b7336f" sha1="b267d6b0d4b56af621f935cbe75ba84b4dc3a23d"/>
+	</game>
+	<game name="Escaper Droid (World) (No QR Code)">
+		<description>Escaper Droid (World) (No QR Code)</description>
+		<rom name="Escaper Droid (World) (No QR Code).hex" size="60158" crc="eca88e20" md5="f76081d4e2abe1c227b978597b350586" sha1="e41d9216611e14f1c07ba1c190372954cb40d82e"/>
+	</game>
+	<game name="Evade (World) (Erwin's Collection)">
+		<description>Evade (World) (Erwin's Collection)</description>
+		<rom name="Evade (World) (Erwin's Collection).hex" size="78796" crc="5c61a9b2" md5="a89b898e513cdf6a6547aad8d28650f0" sha1="32def014ee38699f1b5952a1d91cb1553779c15e" status="verified"/>
+	</game>
+	<game name="Evade 2 (World) (Erwin's Collection)">
+		<description>Evade 2 (World) (Erwin's Collection)</description>
+		<rom name="Evade 2 (World) (Erwin's Collection).hex" size="78568" crc="4febf41f" md5="1d01da4ab70d1890c148792a140d8e54" sha1="4ee4f518c205682ca14510e7bd009391af44fff6" status="verified"/>
+	</game>
+	<game name="Evasion (World) (v0.10)">
+		<description>Evasion (World) (v0.10)</description>
+		<rom name="Evasion (World) (v0.10).hex" size="65366" crc="5597be44" md5="3ec20ee55b9fbeb5ac2a9e2b24a9d06a" sha1="a86bf4339fd0df9469235249505cbe5b1343e574"/>
+	</game>
+	<game name="Evasion (World) (v0.10) (Alt)">
+		<description>Evasion (World) (v0.10) (Alt)</description>
+		<rom name="Evasion (World) (v0.10) (Alt).hex" size="72141" crc="332b1fb1" md5="d6c3ff542fd655b8b3fd094a53e59a58" sha1="f76e8219c91e57ab1cab37b520e9cb9e1cec6c60"/>
+	</game>
+	<game name="Fanboat (World) (Erwin's Collection)">
+		<description>Fanboat (World) (Erwin's Collection)</description>
+		<rom name="Fanboat (World) (Erwin's Collection).hex" size="53827" crc="e367cef2" md5="fa07ee2c37481a5767f90fd5e1d2deca" sha1="d53c03d578f484a5f377abc89fc6cdb33760be75" status="verified"/>
+	</game>
+	<game name="Farkle (World) (Erwin's Collection)">
+		<description>Farkle (World) (Erwin's Collection)</description>
+		<rom name="Farkle (World) (Erwin's Collection).hex" size="78800" crc="8c8bfb69" md5="8614f1e3af73be7911d4225ef826a1f2" sha1="15c37773b413ae6c725ca1450ff04552b0e34aed" status="verified"/>
+	</game>
+	<game name="FateHack (World)">
+		<description>FateHack (World)</description>
+		<rom name="FateHack (World).hex" size="79279" crc="9e2a05c3" md5="c62c49764c5d5aa01bdf29fba7d69984" sha1="4bf809ec457f70d07b1ccdf341996dd4bc72d841"/>
+	</game>
+	<game name="Fatsche (World) (Erwin's Collection)">
+		<description>Fatsche (World) (Erwin's Collection)</description>
+		<rom name="Fatsche (World) (Erwin's Collection).hex" size="77420" crc="c5f47bf5" md5="21b3161cfd18bf4f421d80903bac6c09" sha1="15295c6a20415f77f051b4ca30154894c9c9c73f" status="verified"/>
+	</game>
+	<game name="Fidget Spinner (World) (Erwin's Collection)">
+		<description>Fidget Spinner (World) (Erwin's Collection)</description>
+		<rom name="Fidget Spinner (World) (Erwin's Collection).hex" size="31904" crc="1ea97c92" md5="13f2274b563bd0043ab14ef3c0f7b82e" sha1="480edbd597c8a5797533871f5702002d89d8b417" status="verified"/>
+	</game>
+	<game name="Fill the Cup (World)">
+		<description>Fill the Cup (World)</description>
+		<rom name="Fill the Cup (World).hex" size="36570" crc="aa57e6f7" md5="e86f55a515761c75fbbd2b0d6e6c48f7" sha1="a1c2553a94b44e958f63a1e75cc54032b5abde70"/>
+	</game>
+	<game name="Fire Panic (World) (Alt)">
+		<description>Fire Panic (World) (Alt)</description>
+		<rom name="Fire Panic (World) (Alt).hex" size="75241" crc="6a12f994" md5="b31c2f8cb797ddcc2d8ad9265cda87a1" sha1="bf8c100e213ea1a9e7716a0044d56d666bf66385"/>
+	</game>
+	<game name="Fire Panic (World) (Erwin's Collection)">
+		<description>Fire Panic (World) (Erwin's Collection)</description>
+		<rom name="Fire Panic (World) (Erwin's Collection).hex" size="73376" crc="0e8ca785" md5="3200fff594120ee9473814949ce4e72a" sha1="c68d88bd33c2fbda6111f384ae3cec19e50b5788" status="verified"/>
+	</game>
+	<game name="Flappy Ball (World) (Erwin's Collection)">
+		<description>Flappy Ball (World) (Erwin's Collection)</description>
+		<rom name="Flappy Ball (World) (Erwin's Collection).hex" size="36120" crc="99951359" md5="311a72eba1acd599d7888fe36d01fcb4" sha1="13457e34473dc10d07af56f1aba116136231e1d5" status="verified"/>
+	</game>
+	<game name="Flappy Birdie (World) (Erwin's Collection)">
+		<description>Flappy Birdie (World) (Erwin's Collection)</description>
+		<rom name="Flappy Birdie (World) (Erwin's Collection).hex" size="42352" crc="94364a5b" md5="0e6d0272a0257667cda05d5d7cc5afad" sha1="2a222d71e453e456d072e6529e0e5c23596600ce" status="verified"/>
+	</game>
+	<game name="Flood Fill (World) (Erwin's Collection)">
+		<description>Flood Fill (World) (Erwin's Collection)</description>
+		<rom name="Flood Fill (World) (Erwin's Collection).hex" size="34008" crc="864b9152" md5="e07c01bd7c9fb4fae0869fc5c343bca2" sha1="9e8caeca5b4f2f3ffd0c412e049d9d81262e020e" status="verified"/>
+	</game>
+	<game name="Floor Fall (World) (v0.1.0)">
+		<description>Floor Fall (World) (v0.1.0)</description>
+		<rom name="Floor Fall (World) (v0.1.0).hex" size="30671" crc="697e0b72" md5="773e880b54fdc4c0bc6a884d063e6ec6" sha1="6417eec7251b100b9ea0d3e5e230a83c26ca8184"/>
+	</game>
+	<game name="Fluffle's Rainy Day (World)">
+		<description>Fluffle's Rainy Day (World)</description>
+		<rom name="Fluffle's Rainy Day (World).hex" size="41066" crc="efc42193" md5="622c1342266921c833f2137f502ed8ce" sha1="1837f46840ecadfb6b1e296a35744c86cb81c0c7"/>
+	</game>
+	<game name="Galactea (World)">
+		<description>Galactea (World)</description>
+		<rom name="Galactea (World).hex" size="66090" crc="a5e1640e" md5="4e88ec72c0ceff1263a5c37edd9587c8" sha1="9226c2bc06041093a5f219059810f5d79656c89b"/>
+	</game>
+	<game name="Galaxion (World) (Erwin's Collection)">
+		<description>Galaxion (World) (Erwin's Collection)</description>
+		<rom name="Galaxion (World) (Erwin's Collection).hex" size="71448" crc="083fab5c" md5="0dfe758c5d1225ae6af4e6427398abe3" sha1="a291b9d958983c9558de300af1ba99afd742fe8f" status="verified"/>
+	</game>
+	<game name="Game of Life (World) (Erwin's Collection)">
+		<description>Game of Life (World) (Erwin's Collection)</description>
+		<rom name="Game of Life (World) (Erwin's Collection).hex" size="29924" crc="a1b9f05d" md5="588bee7ff401f4cc459b1ff170b3b86d" sha1="47ea908f6c9073a28dccef3f3afc1caafd620af5" status="verified"/>
+	</game>
+	<game name="Games'N Goblins - The Game (World) (Erwin's Collection)">
+		<description>Games'N Goblins - The Game (World) (Erwin's Collection)</description>
+		<rom name="Games'N Goblins - The Game (World) (Erwin's Collection).hex" size="40207" crc="857c79e2" md5="e3f323069cedea802ff51e4dca3eac85" sha1="970fe842124286807fc5a0a02f2ccc6ce460c321" status="verified"/>
+	</game>
+	<game name="Garboyle's Quest (World)">
+		<description>Garboyle's Quest (World)</description>
+		<rom name="Garboyle's Quest (World).hex" size="80183" crc="2b9aebae" md5="067d4f5d13294b82375c585f53ed1cbc" sha1="861d1ef0d8737c9a4d347e2bb1634689f0556520"/>
+	</game>
+	<game name="German Whist (World) (Erwin's Collection)">
+		<description>German Whist (World) (Erwin's Collection)</description>
+		<rom name="German Whist (World) (Erwin's Collection).hex" size="57740" crc="e9dfc6eb" md5="148dd404ca9cd7395d44877713eb2a7c" sha1="3c999f2a250db67f7194de7d1b8955d6c9d02380" status="verified"/>
+	</game>
+	<game name="Glove (World) (Erwin's Collection)">
+		<description>Glove (World) (Erwin's Collection)</description>
+		<rom name="Glove (World) (Erwin's Collection).hex" size="72348" crc="0a3e8c0c" md5="81803fb00b96c1fb0f583b67898c9652" sha1="f3ab99d343ce869dc018d73d6970ca6e49d52da7" status="verified"/>
+	</game>
+	<game name="Graph (World) (Program) (Erwin's Collection)">
+		<description>Graph (World) (Program) (Erwin's Collection)</description>
+		<rom name="Graph (World) (Program) (Erwin's Collection).hex" size="45536" crc="9d8c29fe" md5="5f60ef41d7b5d99a08ed0f6eaa1bfe51" sha1="9e22c061b308762734e61c79054e44821a690fac" status="verified"/>
+	</game>
+	<game name="Graph 2 (World) (Program) (Erwin's Collection)">
+		<description>Graph 2 (World) (Program) (Erwin's Collection)</description>
+		<rom name="Graph 2 (World) (Program) (Erwin's Collection).hex" size="58324" crc="3bce0d98" md5="d121733014bf0cc2a7be5824d9acc7aa" sha1="e88042cc35ca65aa171109ac13bace4141975641" status="verified"/>
+	</game>
+	<game name="Guy Who Never Complains, The (World) (Erwin's Collection)">
+		<description>Guy Who Never Complains, The (World) (Erwin's Collection)</description>
+		<rom name="Guy Who Never Complains, The (World) (Erwin's Collection).hex" size="54172" crc="00bcd045" md5="33dd2c6e290f5417e275c43076a15383" sha1="5608cd64339b8b42c4b4c8013ebf18fa92aaeda7" status="verified"/>
+	</game>
+	<game name="Hangman! (World) (Erwin's Collection)">
+		<description>Hangman! (World) (Erwin's Collection)</description>
+		<rom name="Hangman! (World) (Erwin's Collection).hex" size="46568" crc="e7152571" md5="14b5019f0f86731d8fa1e1c3a560b73d" sha1="30b012f2141c05713008b746d9c4d3063555ed07" status="verified"/>
+	</game>
+	<game name="Harambe's Revenge (World) (Erwin's Collection)">
+		<description>Harambe's Revenge (World) (Erwin's Collection)</description>
+		<rom name="Harambe's Revenge (World) (Erwin's Collection).hex" size="73960" crc="dd9797df" md5="ba7cafaff7e0ce7c9add4f8de176234b" sha1="a7d8b9a327624644cc6abc6e7d8d0ec877535c9a" status="verified"/>
+	</game>
+	<game name="Hashi (World)">
+		<description>Hashi (World)</description>
+		<rom name="Hashi (World).hex" size="80629" crc="512c49fc" md5="78cd230d94e75f9b5dd6df9ccc47555a" sha1="b58069ced63bc6d5042ecafd8e196d7b9248ccef"/>
+	</game>
+	<game name="Helii (World) (Erwin's Collection)">
+		<description>Helii (World) (Erwin's Collection)</description>
+		<rom name="Helii (World) (Erwin's Collection).hex" size="50860" crc="e7610f79" md5="17c15fa8bb2ed22a740dab5c314c3389" sha1="81ed707a885cb035e147dd6d04c0ef11dd186614" status="verified"/>
+	</game>
+	<game name="Hello, Commander (World) (Erwin's Collection)">
+		<description>Hello, Commander (World) (Erwin's Collection)</description>
+		<rom name="Hello, Commander (World) (Erwin's Collection).hex" size="73256" crc="33425c58" md5="32d2872d145a4dd02b87c0d79603c3ec" sha1="891de0f4dc2a45dbd79a6e71fa26a1f3c626a772" status="verified"/>
+	</game>
+	<game name="Holidate (World)">
+		<description>Holidate (World)</description>
+		<rom name="Holidate (World).hex" size="80154" crc="31b8d05f" md5="966680737e7a65fc66c05951a409f9f3" sha1="4135827498ab6ad3653a7448622de029922f7a45"/>
+	</game>
+	<game name="Hollow Seeker (World) (v0.31) (Erwin's Collection)">
+		<description>Hollow Seeker (World) (v0.31) (Erwin's Collection)</description>
+		<rom name="Hollow Seeker (World) (v0.31) (Erwin's Collection).hex" size="63316" crc="3d11b7d4" md5="5e3f6b5d47a36f760a1f6a4e8cd6b315" sha1="55a32b91608e9c0d37db501142b538d95d845e56" status="verified"/>
+	</game>
+	<game name="Hollow Seeker (World) (v0.32)">
+		<description>Hollow Seeker (World) (v0.32)</description>
+		<rom name="Hollow Seeker (World) (v0.32).hex" size="64286" crc="d0128e40" md5="f60e2974dcab789604b9afc20cc422a6" sha1="64cde476c0ea91705f62faf186d7d2c87e6fe2d0"/>
+	</game>
+	<game name="Hopper (World) (v0.21) (Erwin's Collection)">
+		<description>Hopper (World) (v0.21) (Erwin's Collection)</description>
+		<rom name="Hopper (World) (v0.21) (Erwin's Collection).hex" size="69824" crc="7711d781" md5="109472a9b91b0a5a08512ce6c914720c" sha1="14466515ad79795e4f708d76e585d5acd86a1574" status="verified"/>
+	</game>
+	<game name="Hopper (World) (v0.22)">
+		<description>Hopper (World) (v0.22)</description>
+		<rom name="Hopper (World) (v0.22).hex" size="69911" crc="86eaaaee" md5="4eeefab446efa6b9602eba10ddb5b0df" sha1="ef0ec17eba0aba83118766c46906c2d6bbb2f1af"/>
+	</game>
+	<game name="Horde, The (World) (v0.3)">
+		<description>Horde, The (World) (v0.3)</description>
+		<rom name="Horde, The (World) (v0.3).hex" size="48393" crc="0992162c" md5="0a66545df7ea35acb8029234f1e6dd69" sha1="1aa013d923456c40bfd4a9f4f20e335cf70a2fd4"/>
+	</game>
+	<game name="HP35boy (World) (Program) (Erwin's Collection)">
+		<description>HP35boy (World) (Program) (Erwin's Collection)</description>
+		<rom name="HP35boy (World) (Program) (Erwin's Collection).hex" size="42884" crc="d8fdcc3a" md5="c63e317cbe81d801d8f89568278a879b" sha1="43ff3343eb443e273f87922aac29b9b62651d2f6" status="verified"/>
+	</game>
+	<game name="Humanity Revenge DC (World) (Erwin's Collection)">
+		<description>Humanity Revenge DC (World) (Erwin's Collection)</description>
+		<rom name="Humanity Revenge DC (World) (Erwin's Collection).hex" size="78628" crc="27e7ea7e" md5="4bebf3c12024d061c3525fc7a5308a12" sha1="e05cb123ca27d69061ed9c4adc9262f80784a0b5" status="verified"/>
+	</game>
+	<game name="HUNT! (World)">
+		<description>HUNT! (World)</description>
+		<rom name="HUNT! (World).hex" size="42138" crc="2d2692aa" md5="06ea4739b62ba6a804858ed2cf9bb9f0" sha1="f10426df503c1193c461f4aba5d3813f21244461"/>
+	</game>
+	<game name="I4arduboy (World) (Erwin's Collection)">
+		<description>I4arduboy (World) (Erwin's Collection)</description>
+		<rom name="I4arduboy (World) (Erwin's Collection).hex" size="74208" crc="8fb1cbf6" md5="79d4c7616d32bd8219a3b330be7884e1" sha1="19752d8928e86b96465c49fe1cac8e0152df3a2a" status="verified"/>
+	</game>
+	<game name="IDOUDO (World) (Erwin's Collection)">
+		<description>IDOUDO (World) (Erwin's Collection)</description>
+		<rom name="IDOUDO (World) (Erwin's Collection).hex" size="51804" crc="0f0504d5" md5="f6cfb2d806960a7d09c5e62ae16024db" sha1="d4b46f1811f590689eb32a054698b0d6c40877d1" status="verified"/>
+	</game>
+	<game name="Invaders (World) (Erwin's Collection)">
+		<description>Invaders (World) (Erwin's Collection)</description>
+		<rom name="Invaders (World) (Erwin's Collection).hex" size="51140" crc="ae609526" md5="21bdec278cc30ad21a933ebb1758d692" sha1="ec1b5050dd7a2cd80f35caff9cd0ef2916dfefdd" status="verified"/>
+	</game>
+	<game name="Is This Loss - The Game (World) (Erwin's Collection)">
+		<description>Is This Loss - The Game (World) (Erwin's Collection)</description>
+		<rom name="Is This Loss - The Game (World) (Erwin's Collection).hex" size="35608" crc="269add99" md5="d48a5fae5323b4773206be4c94587117" sha1="0ab580bb5208c63f91b9e83e4706f4a1c2b1a543" status="verified"/>
+	</game>
+	<game name="Jet Pac (World) (Erwin's Collection)">
+		<description>Jet Pac (World) (Erwin's Collection)</description>
+		<rom name="Jet Pac (World) (Erwin's Collection).hex" size="73908" crc="35f31f3c" md5="b82eed248c0a75d3d635914a08d953cc" sha1="f77b02d4874cf5f56caef43934f308d415e9fb7c" status="verified"/>
+	</game>
+	<game name="Jezzball (World) (Erwin's Collection)">
+		<description>Jezzball (World) (Erwin's Collection)</description>
+		<rom name="Jezzball (World) (Erwin's Collection).hex" size="54428" crc="4c417e20" md5="fd927d22def899e39128a0c974874f3a" sha1="48b856664c58b7c2f313622524436d4a69009ca8" status="verified"/>
+	</game>
+	<game name="Joustish (World) (Erwin's Collection)">
+		<description>Joustish (World) (Erwin's Collection)</description>
+		<rom name="Joustish (World) (Erwin's Collection).hex" size="49947" crc="ccb6dd5d" md5="ef3110ffb7ef9cdfd1ccdad1ba8178cf" sha1="9316b667b703fb5670e00c260cbc7a534512c519" status="verified"/>
+	</game>
+	<game name="JumpBoy (World) (Erwin's Collection)">
+		<description>JumpBoy (World) (Erwin's Collection)</description>
+		<rom name="JumpBoy (World) (Erwin's Collection).hex" size="48908" crc="45f76b7d" md5="adec59c1d0bd2521d0934a010a3c59c7" sha1="72141ad45d0d94e32225e1bddcb18b0ef9e8d708" status="verified"/>
+	</game>
+	<game name="Juno First (World) (v1.00) (Erwin's Collection)">
+		<description>Juno First (World) (v1.00) (Erwin's Collection)</description>
+		<rom name="Juno First (World) (v1.00) (Erwin's Collection).hex" size="75904" crc="72694f22" md5="43a66884332c706e4362d507ea218185" sha1="636001d1de7444091c31d9dba8f4095bc6710236" status="verified"/>
+	</game>
+	<game name="Juno First (World) (v1.01)">
+		<description>Juno First (World) (v1.01)</description>
+		<rom name="Juno First (World) (v1.01).hex" size="77802" crc="78e0040e" md5="25c5592cc209df5616e104a5f4551e60" sha1="819e10245a81184b2dde1948215ae406edd6709e"/>
+	</game>
+	<game name="Karateka (World) (FX Enhanced)">
+		<description>Karateka (World) (FX Enhanced)</description>
+		<rom name="Karateka (World) (FX Enhanced).hex" size="71412" crc="50f27e6c" md5="d2578c2edf3a43045f89de0b39028111" sha1="4b2d09c5e45793733241349c57b362bf9a40562f"/>
+	</game>
+	<game name="Karateka (World) (v0.9) (Alt)">
+		<description>Karateka (World) (v0.9) (Alt)</description>
+		<rom name="Karateka (World) (v0.9) (Alt).hex" size="73036" crc="ea6546be" md5="f580ee392e8af8ab21a542ac5eecf5c8" sha1="c15137ac99809a6c255589a9da393908104d9298"/>
+	</game>
+	<game name="Karateka (World) (Erwin's Collection)">
+		<description>Karateka (World) (Erwin's Collection)</description>
+		<rom name="Karateka (World) (Erwin's Collection).hex" size="70524" crc="a464fb41" md5="6f84e42572be10761ea6a1f4a8daba6c" sha1="c94ea186114b55d5d7212d8ad1431bf0eed5b2e4" status="verified"/>
+	</game>
+	<game name="Karateka (World) (v0.9)">
+		<description>Karateka (World) (v0.9)</description>
+		<rom name="Karateka (World) (v0.9).hex" size="72128" crc="91ffbe0e" md5="de14494d118eefaae85779b35e1d2843" sha1="64ad1bc9e2fd8382a815727eef8197e7bb130bb2"/>
+	</game>
+	<game name="Kemono Patrol (World) (Erwin's Collection)">
+		<description>Kemono Patrol (World) (Erwin's Collection)</description>
+		<rom name="Kemono Patrol (World) (Erwin's Collection).hex" size="43956" crc="5b5f0eb7" md5="bab2d1c54921bded4b03875bc90b2569" sha1="f926b4d03dadb50c18f75ee4d25b0bc460780d97" status="verified"/>
+	</game>
+	<game name="KeyKat - I.T. (World) (Erwin's Collection)">
+		<description>KeyKat - I.T. (World) (Erwin's Collection)</description>
+		<rom name="KeyKat - I.T. (World) (Erwin's Collection).hex" size="37372" crc="d0d2b950" md5="3cf4a2a6d545b2aa61af027285467631" sha1="85430417d5854b096ae5ce60175f497899dd5875" status="verified"/>
+	</game>
+	<game name="Knight Move (World) (v0.11) (Erwin's Collection)">
+		<description>Knight Move (World) (v0.11) (Erwin's Collection)</description>
+		<rom name="Knight Move (World) (v0.11) (Erwin's Collection).hex" size="70900" crc="25c00011" md5="b29f86eea51fb11bc388a09c4f09e43f" sha1="166cb81e34ce0530898df69016a9f6dcb6c2d9a1" status="verified"/>
+	</game>
+	<game name="Knight Move (World) (v0.11) (Alt)">
+		<description>Knight Move (World) (v0.11) (Alt)</description>
+		<rom name="Knight Move (World) (v0.11) (Alt).hex" size="72513" crc="8373105d" md5="a72b64e3530e6906009ca4d13a9b00de" sha1="fe07de9b6d86f3043e4782d63d77de1445a22dbf"/>
+	</game>
+	<game name="Knight Move (World) (v0.11)">
+		<description>Knight Move (World) (v0.11)</description>
+		<rom name="Knight Move (World) (v0.11).hex" size="72513" crc="e2b51b5b" md5="48c8956aa7f643f453724bc5933496b1" sha1="3fc5858f9a95e9d3c33fcb04bc1abca54a3da00f"/>
+	</game>
+	<game name="Knight Move (World) (v0.10)">
+		<description>Knight Move (World) (v0.10)</description>
+		<rom name="Knight Move (World) (v0.10).hex" size="72406" crc="8fa99030" md5="11e527ea4755ac7624489eed45044a36" sha1="0e6fa1264bf7ee5e3b3e6fda88321006a59571c7"/>
+	</game>
+	<game name="Kong (World) (Erwin's Collection)">
+		<description>Kong (World) (Erwin's Collection)</description>
+		<rom name="Kong (World) (Erwin's Collection).hex" size="76512" crc="b0b7e5c1" md5="190a4cbe9b13600e56f6eccf3f1fea91" sha1="378be19c5a9e2f3333581fee4a3bb0daf0f80f1d" status="verified"/>
+	</game>
+	<game name="Kong (World) (v1.0.4)">
+		<description>Kong (World) (v1.0.4)</description>
+		<rom name="Kong (World) (v1.0.4).hex" size="76526" crc="26ada9bd" md5="a521a7d17a1a7ccd50ca9ca509395882" sha1="47074b008f2c8c9e6c8ac5bdfacd083f8e9e37f8"/>
+	</game>
+	<game name="Kong II (World) (v1.0.0) (Erwin's Collection)">
+		<description>Kong II (World) (v1.0.0) (Erwin's Collection)</description>
+		<rom name="Kong II (World) (v1.0.0) (Erwin's Collection).hex" size="78828" crc="daf07dca" md5="6d082e8eaa6f39460872cdcaebf311ad" sha1="7b884803dfef6a16e6d32d82041583b37e9a4ae3" status="verified"/>
+	</game>
+	<game name="Kooky Kookies (World) (v1.1) (Erwin's Collection)">
+		<description>Kooky Kookies (World) (v1.1) (Erwin's Collection)</description>
+		<rom name="Kooky Kookies (World) (v1.1) (Erwin's Collection).hex" size="62588" crc="2df85be4" md5="f40f2320959215f4f10741f9d5ad2d3f" sha1="a61859236babe7e7e3a04aa1a9ce4aa0c4cb66b1" status="verified"/>
+	</game>
+	<game name="Kooky Kookies (World) (v1.2)">
+		<description>Kooky Kookies (World) (v1.2)</description>
+		<rom name="Kooky Kookies (World) (v1.2).hex" size="64237" crc="a028a4bb" md5="c829678f91220e95b93fa11f6e486f7b" sha1="25673cfa692d034cf59ce21019ddd186ac46bb02"/>
+	</game>
+	<game name="KPA Quest (World) (v1.0)">
+		<description>KPA Quest (World) (v1.0)</description>
+		<rom name="KPA Quest (World) (v1.0).hex" size="54873" crc="ee7adc2b" md5="8da0dadd2c3079c61d1f0a8aa025d2cd" sha1="11161e76deb44d60e37b2b1f76a4938fc51d4d0e"/>
+	</game>
+	<game name="Kung Fu Escape (World) (Erwin's Collection)">
+		<description>Kung Fu Escape (World) (Erwin's Collection)</description>
+		<rom name="Kung Fu Escape (World) (Erwin's Collection).hex" size="73608" crc="50309618" md5="1960466e27616730083b4e287fa8df93" sha1="f2aa0433442c8f072e623df150888ccb6b2ce6e9" status="verified"/>
+	</game>
+	<game name="Lagunita (World)">
+		<description>Lagunita (World)</description>
+		<rom name="Lagunita (World).hex" size="79528" crc="e2f959b1" md5="709f59324e547e4806b7f0dbc2250cfc" sha1="c429b033285a90fba2cfd32c4d02d3218aa03928"/>
+	</game>
+	<game name="Lasers (World) (v0.11) (Erwin's Collection)">
+		<description>Lasers (World) (v0.11) (Erwin's Collection)</description>
+		<rom name="Lasers (World) (v0.11) (Erwin's Collection).hex" size="67275" crc="37615dc9" md5="5617d9dc32df3870153f85595d2e04c7" sha1="0e06a9c17134d5bf6debc2887b464e5354b1e21a" status="verified"/>
+	</game>
+	<game name="Lasers (World) (v0.11) (Alt)">
+		<description>Lasers (World) (v0.11) (Alt)</description>
+		<rom name="Lasers (World) (v0.11) (Alt).hex" size="68804" crc="26699b14" md5="fb0ce598e3e4c6af321ac8bbec9eb61b" sha1="9489704cbaedb8fbfff8986d63eae61bdb0915d5"/>
+	</game>
+	<game name="Lasers (World) (v0.12)">
+		<description>Lasers (World) (v0.12)</description>
+		<rom name="Lasers (World) (v0.12).hex" size="68115" crc="6ea73db3" md5="23ef0938431baaaf83fa10bf932c7cac" sha1="c9d014589e39b21ee8697a26ad1ef2b0c3dd9b8f"/>
+	</game>
+	<game name="Lasers (World) (v0.11)">
+		<description>Lasers (World) (v0.11)</description>
+		<rom name="Lasers (World) (v0.11).hex" size="67276" crc="d0581dda" md5="967458f0096e7c7d8cab5e2d82cc4c34" sha1="c0ebcaf82462b86fd61152f54a2e41246122f67d"/>
+	</game>
+	<game name="LATE (World) (Erwin's Collection)">
+		<description>LATE (World) (Erwin's Collection)</description>
+		<rom name="LATE (World) (Erwin's Collection).hex" size="77952" crc="66a1b5e5" md5="1bd6f6d2bf74ad0b7e14db305544257e" sha1="013ef1e1201d24b652f304ded950805cfa6d8553" status="verified"/>
+	</game>
+	<game name="Leanna the Lion (World) (v1.1) (Erwin's Collection)">
+		<description>Leanna the Lion (World) (v1.1) (Erwin's Collection)</description>
+		<rom name="Leanna the Lion (World) (v1.1) (Erwin's Collection).hex" size="56536" crc="6d40839f" md5="bb5cdef904d2c7e5ca4b92de3b81aeef" sha1="f97f60c013467055aece4c110c524f19328e3e71" status="verified"/>
+	</game>
+	<game name="Leanna the Lion (World) (v1.2)">
+		<description>Leanna the Lion (World) (v1.2)</description>
+		<rom name="Leanna the Lion (World) (v1.2).hex" size="57994" crc="85047e9c" md5="9a08fc1ca79a8b489c78a1240a1533cf" sha1="95a6e7dd8ad748c328acf4a5d59ab68a68b79e6f"/>
+	</game>
+	<game name="Light Meter (World) (Erwin's Collection)">
+		<description>Light Meter (World) (Erwin's Collection)</description>
+		<rom name="Light Meter (World) (Erwin's Collection).hex" size="32712" crc="294847ed" md5="23d923500ad56563d61a5967549be1b2" sha1="becde38c3376b28bf8c2ebdc92cb97dea4bdc4db" status="verified"/>
+	</game>
+	<game name="Lion Tamer (World) (Erwin's Collection)">
+		<description>Lion Tamer (World) (Erwin's Collection)</description>
+		<rom name="Lion Tamer (World) (Erwin's Collection).hex" size="60612" crc="0c09c07a" md5="f56574207136c7b661a81ecc03c3384e" sha1="9137fc2f2fa6821ccc435a64ae5c5399a6613e3d" status="verified"/>
+	</game>
+	<game name="Lite Out (World) (Erwin's Collection)">
+		<description>Lite Out (World) (Erwin's Collection)</description>
+		<rom name="Lite Out (World) (Erwin's Collection).hex" size="28916" crc="9d7a735f" md5="988974684f69c6ae42a0a64d3785cd9e" sha1="a21110e3c3273be92b893de5a77e7f1f4e4c8199" status="verified"/>
+	</game>
+	<game name="Little Rook Chess (World) (Erwin's Collection)">
+		<description>Little Rook Chess (World) (Erwin's Collection)</description>
+		<rom name="Little Rook Chess (World) (Erwin's Collection).hex" size="51148" crc="7ef9e213" md5="6e39f18a8946acb06e0e6b943865056d" sha1="27ca33e88c15e1d07161dd3901852c81c43efbf1" status="verified"/>
+	</game>
+	<game name="Lode Runner (World) (v1.04) (Levels 1 to 40) (Erwin's Collection)">
+		<description>Lode Runner (World) (v1.04) (Levels 1 to 40) (Erwin's Collection)</description>
+		<rom name="Lode Runner (World) (v1.04) (Levels 1 to 40) (Erwin's Collection).hex" size="77132" crc="1d8929ac" md5="2bd48dbc35228d10014e2c9a99c25341" sha1="f3812eba80fee6803fc66dc340af477081c0a666" status="verified"/>
+	</game>
+	<game name="Lode Runner (World) (v1.04) (Levels 121 to 154) (Erwin's Collection)">
+		<description>Lode Runner (World) (v1.04) (Levels 121 to 154) (Erwin's Collection)</description>
+		<rom name="Lode Runner (World) (v1.04) (Levels 121 to 154) (Erwin's Collection).hex" size="75332" crc="ceecf1f3" md5="3ed88ff5b4b04a8fbc998472be63f79d" sha1="ec2dc02bd44043e1eb074dcd8533426f220946ec" status="verified"/>
+	</game>
+	<game name="Lode Runner (World) (v1.04) (Levels 41 to 80) (Erwin's Collection)">
+		<description>Lode Runner (World) (v1.04) (Levels 41 to 80) (Erwin's Collection)</description>
+		<rom name="Lode Runner (World) (v1.04) (Levels 41 to 80) (Erwin's Collection).hex" size="78312" crc="efc75aeb" md5="f8edc7c8f54ab15c6198c84620ab336f" sha1="bdbafec9ccb5284d46d89e9319d7b4d0e99d2a69" status="verified"/>
+	</game>
+	<game name="Lode Runner (World) (v1.04) (Levels 81 to 120) (Erwin's Collection)">
+		<description>Lode Runner (World) (v1.04) (Levels 81 to 120) (Erwin's Collection)</description>
+		<rom name="Lode Runner (World) (v1.04) (Levels 81 to 120) (Erwin's Collection).hex" size="78672" crc="98497062" md5="fec45f0b7a95ea3a1f768307b39be523" sha1="4f3dad4d8b45697c16521ec4e8e791f2bbfb9654" status="verified"/>
+	</game>
+	<game name="Logix (World) (v0.94) (Erwin's Collection)">
+		<description>Logix (World) (v0.94) (Erwin's Collection)</description>
+		<rom name="Logix (World) (v0.94) (Erwin's Collection).hex" size="69544" crc="52f4cf8c" md5="4e9f06d041a60c07ed82ce13c62b2656" sha1="800a1c4840ee1cceb87cef07208d64b767d6cb90" status="verified"/>
+	</game>
+	<game name="LongCat (World)">
+		<description>LongCat (World)</description>
+		<rom name="LongCat (World).hex" size="75900" crc="67bbce89" md5="789289705d124c347dd927dba7caa1ff" sha1="09d35269d8ca4679c43dee8da3975e4c1e302520"/>
+	</game>
+	<game name="Love Tester (World) (Program) (Erwin's Collection)">
+		<description>Love Tester (World) (Program) (Erwin's Collection)</description>
+		<rom name="Love Tester (World) (Program) (Erwin's Collection).hex" size="33468" crc="9bed7f09" md5="261a0a7b7237f4fc45b807ec70542dfe" sha1="e1db07a2ccdf94d9d6b62964ca921afc012177d8" status="verified"/>
+	</game>
+	<game name="LoveRush (World) (v1.1.1) (Erwin's Collection)">
+		<description>LoveRush (World) (v1.1.1) (Erwin's Collection)</description>
+		<rom name="LoveRush (World) (v1.1.1) (Erwin's Collection).hex" size="70365" crc="3cf95ea7" md5="356e2770ead1816d8e2e7793a0184db0" sha1="4a9d54d467fb36d615fa3608814db18f0e423180" status="verified"/>
+	</game>
+	<game name="LoveRush (World) (v1.1.2)">
+		<description>LoveRush (World) (v1.1.2)</description>
+		<rom name="LoveRush (World) (v1.1.2).hex" size="66380" crc="36cdf7ff" md5="baa611b22be480290155a5c1104c1209" sha1="585a9e6129cae83a56b87def058ac5f22263dcb8"/>
+	</game>
+	<game name="Magic 8 Arduball (World) (Program) (Erwin's Collection)">
+		<description>Magic 8 Arduball (World) (Program) (Erwin's Collection)</description>
+		<rom name="Magic 8 Arduball (World) (Program) (Erwin's Collection).hex" size="68928" crc="2fbfd41c" md5="37250356d6aab54e5fb88b5d8c68d173" sha1="cb672d26b33f36b70974531335a1c41b1dab09ce" status="verified"/>
+	</game>
+	<game name="MallARD Hunt (World)">
+		<description>MallARD Hunt (World)</description>
+		<rom name="MallARD Hunt (World).hex" size="38204" crc="b2192865" md5="1f97890993d9fb44ccf9bf033122a1f2" sha1="cdffefc938d47260999f98af36ad872a46a81210"/>
+	</game>
+	<game name="Manhole (World)">
+		<description>Manhole (World)</description>
+		<rom name="Manhole (World).hex" size="78960" crc="614e1264" md5="c37ac7bb5bb9560d322ec7d4e595cee6" sha1="bfc29a0b8d50917cfb192d7f5f62132e99d50f21"/>
+	</game>
+	<game name="Manic Miner (World) (FX Only)">
+		<description>Manic Miner (World) (FX Only)</description>
+		<rom name="Manic Miner (World) (FX Only).hex" size="50900" crc="cb0649ec" md5="90ac209b0055e4c61db5a65fb1596c5e" sha1="da91fad1eee014341db421756e99cea9f0a3454c"/>
+		<rom name="fxdata.bin" size="19200" crc="26196a16" md5="626aa5b3ca1642abb44babd1d0972901" sha1="8fa7167d75d58eb509df123eb10b49afe4fdcc62"/>
+	</game>
+	<game name="Match the Shape (World) (v1.1)">
+		<description>Match the Shape (World) (v1.1)</description>
+		<rom name="Match the Shape (World) (v1.1).hex" size="50700" crc="885b4e99" md5="dcda6c799b4649174bf398f3b02fdd59" sha1="ff88f3576f4b0a00285d34bbd8697eaf1a7d4b93"/>
+	</game>
+	<game name="MayQ (World) (Erwin's Collection)">
+		<description>MayQ (World) (Erwin's Collection)</description>
+		<rom name="MayQ (World) (Erwin's Collection).hex" size="70316" crc="fbd6ad1a" md5="d035f2392ac7c1b686ef01988d16d1da" sha1="ab697c02d1bfb8f38c80571d62de3814f1d2163d" status="verified"/>
+	</game>
+	<game name="MazezaM (World) (Erwin's Collection)">
+		<description>MazezaM (World) (Erwin's Collection)</description>
+		<rom name="MazezaM (World) (Erwin's Collection).hex" size="65452" crc="a7903983" md5="ec302922638d5d0415e33d937955757f" sha1="bbfdd10a2e895d8a007e265a1ed61db5476aee77" status="verified"/>
+	</game>
+	<game name="Mazogs (World) (Erwin's Collection)">
+		<description>Mazogs (World) (Erwin's Collection)</description>
+		<rom name="Mazogs (World) (Erwin's Collection).hex" size="65499" crc="c5751763" md5="854a2cd7ec6c7a07a6f2b517f1f0195b" sha1="bbe4ea67228feed5b453114b6b630d82e274e2c2" status="verified"/>
+	</game>
+	<game name="Mega Missiles (World)">
+		<description>Mega Missiles (World)</description>
+		<rom name="Mega Missiles (World).hex" size="32598" crc="e89cb171" md5="be4035a88cb35ea3561cd74f6b133e93" sha1="7c5605c4c62ed1b264136e1fd637291da81051bf"/>
+	</game>
+	<game name="Metalog (World) (Erwin's Collection)">
+		<description>Metalog (World) (Erwin's Collection)</description>
+		<rom name="Metalog (World) (Erwin's Collection).hex" size="40940" crc="ff929441" md5="1025e3d03fb54591e2d6f7d6ce48d93c" sha1="67bd086a1c6788a03378079785738bf060ac20bb" status="verified"/>
+	</game>
+	<game name="MicroCheckers (World) (Erwin's Collection)">
+		<description>MicroCheckers (World) (Erwin's Collection)</description>
+		<rom name="MicroCheckers (World) (Erwin's Collection).hex" size="35228" crc="9bc7ff24" md5="ffb56811633e38a03f3ae41e124d220a" sha1="460c07089c4117bb2b7a952e59cea5d4658bd930" status="verified"/>
+	</game>
+	<game name="MicroCity (World) (Erwin's Collection)">
+		<description>MicroCity (World) (Erwin's Collection)</description>
+		<rom name="MicroCity (World) (Erwin's Collection).hex" size="65376" crc="e1df2dff" md5="6717a1b1e960d013ef61eceea6ea0006" sha1="78daf028ecb5e729871fde44c018846bde906272" status="verified"/>
+	</game>
+	<game name="MicroTank (World) (Erwin's Collection)">
+		<description>MicroTank (World) (Erwin's Collection)</description>
+		<rom name="MicroTank (World) (Erwin's Collection).hex" size="73944" crc="69be3e29" md5="758308f5c0fcb54fbf9702889f1db52a" sha1="04cd4687c541d2558e12c582446932bfa3eb1408" status="verified"/>
+	</game>
+	<game name="MicroTD (World) (v1.01) (Erwin's Collection)">
+		<description>MicroTD (World) (v1.01) (Erwin's Collection)</description>
+		<rom name="MicroTD (World) (v1.01) (Erwin's Collection).hex" size="70040" crc="daf50810" md5="de5e77cebaa017d595f4d9fc8d2c542c" sha1="0098bd010349b07a30f4510932285b7efb4a444c" status="verified"/>
+	</game>
+	<game name="Midnight Wild (World)">
+		<description>Midnight Wild (World)</description>
+		<rom name="Midnight Wild (World).hex" size="80666" crc="0ea9f9a6" md5="7497d5cf5341dd992ba258c548d61461" sha1="ebc71a9b5a96c6244e456d6e2cecf72f6dcb2b72"/>
+	</game>
+	<game name="Millipe (World) (Erwin's Collection)">
+		<description>Millipe (World) (Erwin's Collection)</description>
+		<rom name="Millipe (World) (Erwin's Collection).hex" size="34544" crc="5279264b" md5="ea6839c083d11897793f44795bdd1332" sha1="6dec2e0e1169b6e314bb4a83aaba36f67aa09ae3" status="verified"/>
+	</game>
+	<game name="Minesweeper (World) (Erwin's Collection)">
+		<description>Minesweeper (World) (Erwin's Collection)</description>
+		<rom name="Minesweeper (World) (Erwin's Collection).hex" size="60919" crc="c011be39" md5="3f5f23df1c9fde1ede6de45727d3be81" sha1="9cb63eff35da936e3fa1462e5c87bb88a93448f1" status="verified"/>
+	</game>
+	<game name="Mini Rogue (World) (Erwin's Collection)">
+		<description>Mini Rogue (World) (Erwin's Collection)</description>
+		<rom name="Mini Rogue (World) (Erwin's Collection).hex" size="78208" crc="2a760ce7" md5="95a6e026f2c59a5b73dfa90867df9f07" sha1="76c9c221ad9b426bef459990bc7ec51b211a0dc5" status="verified"/>
+	</game>
+	<game name="Miss Snake (World) (Erwin's Collection)">
+		<description>Miss Snake (World) (Erwin's Collection)</description>
+		<rom name="Miss Snake (World) (Erwin's Collection).hex" size="40544" crc="723aaa82" md5="ba7203d8193692e27e3ae316fd0b9d86" sha1="f3a1ca690040bb7c8a18a5ae41617baa629b38b5" status="verified"/>
+	</game>
+	<game name="Mitty the Kitty (World) (v0.1.0)">
+		<description>Mitty the Kitty (World) (v0.1.0)</description>
+		<rom name="Mitty the Kitty (World) (v0.1.0).hex" size="38427" crc="d50c32eb" md5="aba6426da5f84e693c087233a392ed3a" sha1="e54952758b0ce262b39c52298cda225ee32dcaed"/>
+	</game>
+	<game name="Mitty the Kitty (World) (v0.2.0)">
+		<description>Mitty the Kitty (World) (v0.2.0)</description>
+		<rom name="Mitty the Kitty (World) (v0.2.0).hex" size="38480" crc="22f7f850" md5="913af943b981a197d8f67c52a93cd7b8" sha1="1eee6b032ec1a54f5188a49da76d29fa77f2692a"/>
+	</game>
+	<game name="Monpals (World)">
+		<description>Monpals (World)</description>
+		<rom name="Monpals (World).hex" size="79631" crc="1eb2f89b" md5="94400e55213df786e956f7cf1aad6575" sha1="506e24c62a1551252e67924e62e0ddde976d9cdc"/>
+	</game>
+	<game name="Morse Code Trainer (World) (v0.10) (Program) (Alt)">
+		<description>Morse Code Trainer (World) (v0.10) (Program) (Alt)</description>
+		<rom name="Morse Code Trainer (World) (v0.10) (Program) (Alt).hex" size="79054" crc="766065f5" md5="6544ae87751ea2203477d5c89bd6040b" sha1="44443af3b8a5d7119275007b154ac911057cce8e"/>
+	</game>
+	<game name="Morse Code Trainer (World) (v0.10) (Program)">
+		<description>Morse Code Trainer (World) (v0.10) (Program)</description>
+		<rom name="Morse Code Trainer (World) (v0.10) (Program).hex" size="73184" crc="7d52db89" md5="134a934e3dbc46d0f1d91c0e4a9de988" sha1="324e49475c9ae2b87f7c94c5a67a9b87573d5f4c"/>
+	</game>
+	<game name="Morse Code Trainer (World) (v0.11) (Program)">
+		<description>Morse Code Trainer (World) (v0.11) (Program)</description>
+		<rom name="Morse Code Trainer (World) (v0.11) (Program).hex" size="80527" crc="f864ca19" md5="d61bdd2bef1fa005c877a8e66c72296d" sha1="62689a160cd42de421a5d624d6a6e93909088458"/>
+	</game>
+	<game name="Mouse Escape (World) (v1.0)">
+		<description>Mouse Escape (World) (v1.0)</description>
+		<rom name="Mouse Escape (World) (v1.0).hex" size="55216" crc="954027c2" md5="10799722c498f91f65b39a0287aed145" sha1="f1d80cc807c4ad4ee4a68f4860826a036432e2fe" status="verified"/>
+	</game>
+	<game name="MUGICGEN POCKET (World) (Program) (Erwin's Collection)">
+		<description>MUGICGEN POCKET (World) (Program) (Erwin's Collection)</description>
+		<rom name="MUGICGEN POCKET (World) (Program) (Erwin's Collection).hex" size="41440" crc="8a3a5312" md5="169e420bc7bd1ad427591e9d8db1f827" sha1="b34df42bf921a1cdf201fd3191379c2b50093add" status="verified"/>
+	</game>
+	<game name="Mystic Balloon (World) (v1.7)">
+		<description>Mystic Balloon (World) (v1.7)</description>
+		<rom name="Mystic Balloon (World) (v1.7).hex" size="80563" crc="9ac02478" md5="9d43b7e4de888d1d77b72a2db56d95c6" sha1="9ce6877a5939b4dda67b65a3fe48c7843b5b545e"/>
+	</game>
+	<game name="Mystic Balloon (World)">
+		<description>Mystic Balloon (World)</description>
+		<rom name="Mystic Balloon (World).hex" size="78522" crc="2ea08cb9" md5="a74b9ad4a42ad74b49a3e7391bfa2842" sha1="c954427bbf883c25f06468618a48192c52ad38eb"/>
+	</game>
+	<game name="Mystic Balloon (World) (No QR Code)">
+		<description>Mystic Balloon (World) (No QR Code)</description>
+		<rom name="Mystic Balloon (World) (No QR Code).hex" size="77025" crc="68e7b30e" md5="fae7eabb569c734a4d97bb13b3903654" sha1="27569ee7c3af64a6ade2d559a2c1d3465da26e35"/>
+	</game>
+	<game name="Nanoseq (World) (Erwin's Collection)">
+		<description>Nanoseq (World) (Erwin's Collection)</description>
+		<rom name="Nanoseq (World) (Erwin's Collection).hex" size="31500" crc="bee7fa36" md5="d6e3ff15e7d140201315ff5f24646536" sha1="a6f929697f56c313d5b9c11163b744af1f380cf5" status="verified"/>
+	</game>
+	<game name="Night Raid (World) (Erwin's Collection)">
+		<description>Night Raid (World) (Erwin's Collection)</description>
+		<rom name="Night Raid (World) (Erwin's Collection).hex" size="49312" crc="3aa86c05" md5="c2022ca4cb38e56badc9e8c710e59870" sha1="8f35f861a2596c1a7ebc76f6e00988a3a1234ea3" status="verified"/>
+	</game>
+	<game name="Nightmare Park (World)">
+		<description>Nightmare Park (World)</description>
+		<rom name="Nightmare Park (World).hex" size="54791" crc="a611cae5" md5="de8c0bd92a0580cfbfc14fa5f79b5e1f" sha1="2197a152902e02b254aa8cd3dfdbd882aa802b6c"/>
+	</game>
+	<game name="Ninja Fuzzgrawth (World) (Erwin's Collection)">
+		<description>Ninja Fuzzgrawth (World) (Erwin's Collection)</description>
+		<rom name="Ninja Fuzzgrawth (World) (Erwin's Collection).hex" size="76676" crc="5f134180" md5="e938c3bd3f51bbde769cd266fddd775d" sha1="bb58b88f0f762ae0db086e115d07125d89d2517e" status="verified"/>
+	</game>
+	<game name="Nomis (World) (Erwin's Collection)">
+		<description>Nomis (World) (Erwin's Collection)</description>
+		<rom name="Nomis (World) (Erwin's Collection).hex" size="37344" crc="53d64109" md5="10deed86f12f4df3e7cd70f97584b329" sha1="ec4401dbad620ff2287d422f5091b32a7f6a2fb3" status="verified"/>
+	</game>
+	<game name="Not Just a Hat Rack (World) (Erwin's Collection)">
+		<description>Not Just a Hat Rack (World) (Erwin's Collection)</description>
+		<rom name="Not Just a Hat Rack (World) (Erwin's Collection).hex" size="70904" crc="73816add" md5="c5b6c80b75cd53605903c7c81779af91" sha1="6f2a837cd48c3257cef9c6ddf06a0e884f4104fd" status="verified"/>
+	</game>
+	<game name="NumberMind (World) (Erwin's Collection)">
+		<description>NumberMind (World) (Erwin's Collection)</description>
+		<rom name="NumberMind (World) (Erwin's Collection).hex" size="34468" crc="c1c3f8ee" md5="fe5f4d248f3ca82afcde5c02889f8b8f" sha1="08d39724d1f5d4b5e97cbd2e4df3ba75c9d4e56a" status="verified"/>
+	</game>
+	<game name="Octet Night (World)">
+		<description>Octet Night (World)</description>
+		<rom name="Octet Night (World).hex" size="80531" crc="13242d4f" md5="f5e26b57887e41241ae9c3e2b69360e2" sha1="bd5e1390169ed0386fcf3dfbecf28c96030c2d84"/>
+	</game>
+	<game name="Octopus (World) (Demake)">
+		<description>Octopus (World) (Demake)</description>
+		<rom name="Octopus (World) (Demake).hex" size="78935" crc="43c5dea7" md5="51aa303027ec7a53528f0de43654ca1d" sha1="4131c0d6d4a032b59d0ded52ff1cb664dab033e9"/>
+	</game>
+	<game name="Oh Mummy (World) (Erwin's Collection)">
+		<description>Oh Mummy (World) (Erwin's Collection)</description>
+		<rom name="Oh Mummy (World) (Erwin's Collection).hex" size="48925" crc="95d93ce5" md5="fc19db5bdb1c80e54b57cb237880e5e5" sha1="3df93b40ce0abe3f2e71c37be2664722aa4cabb7" status="verified"/>
+	</game>
+	<game name="Oh, You're Gunna Die (World) (Erwin's Collection)">
+		<description>Oh, You're Gunna Die (World) (Erwin's Collection)</description>
+		<rom name="Oh, You're Gunna Die (World) (Erwin's Collection).hex" size="61487" crc="c864c106" md5="3207bd5211c844599bad47b5162d3df3" sha1="6bc5c7601d13dd3d9868f49c871c39568db14183" status="verified"/>
+	</game>
+	<game name="Oil Panic (World) (Erwin's Collection)">
+		<description>Oil Panic (World) (Erwin's Collection)</description>
+		<rom name="Oil Panic (World) (Erwin's Collection).hex" size="78656" crc="f81db874" md5="3ae26dd1c90a5fbff1109ca62815103e" sha1="750d5233a2e8eb3fe3e7e4c061d51cd2511cc86e" status="verified"/>
+	</game>
+	<game name="OktaArduToken (World) (Program) (Erwin's Collection)">
+		<description>OktaArduToken (World) (Program) (Erwin's Collection)</description>
+		<rom name="OktaArduToken (World) (Program) (Erwin's Collection).hex" size="51596" crc="05cf7ea5" md5="c3c71bbace7ab0745e869e92f2ce548e" sha1="ddb341ff2bdbb3a433d1d15ef57a47af0af5c20f" status="verified"/>
+	</game>
+	<game name="Omega Horizon (World) (Erwin's Collection)">
+		<description>Omega Horizon (World) (Erwin's Collection)</description>
+		<rom name="Omega Horizon (World) (Erwin's Collection).hex" size="78584" crc="39a6de4a" md5="0f9b554a6c648ba35a481efec8640594" sha1="efbda250b9c037520124545ff62093c30fb57b48" status="verified"/>
+	</game>
+	<game name="Omega Horizon (World) (v1.3)">
+		<description>Omega Horizon (World) (v1.3)</description>
+		<rom name="Omega Horizon (World) (v1.3).hex" size="80310" crc="efab1531" md5="5ae5b0de5bedb4e15a1783cefec25a38" sha1="1f0c2aa88b9267507c6cd7c2e9d1b57b6be59fc2" status="verified"/>
+	</game>
+	<game name="Orbs (World) (Erwin's Collection)">
+		<description>Orbs (World) (Erwin's Collection)</description>
+		<rom name="Orbs (World) (Erwin's Collection).hex" size="48500" crc="1a2579cf" md5="b02f6154edb37fc73bba4f8762ec2eac" sha1="b46873a43316ed592c4bbf4c8732cf9e750804b4" status="verified"/>
+	</game>
+	<game name="PAC-Tastic (World) (Erwin's Collection)">
+		<description>PAC-Tastic (World) (Erwin's Collection)</description>
+		<rom name="PAC-Tastic (World) (Erwin's Collection).hex" size="46644" crc="ef49c153" md5="ea4ab60340b5c5ea0e58833f08d4cbf7" sha1="63de23fa4538a21fb2ff1801772b7a8974298a00" status="verified"/>
+	</game>
+	<game name="Paqman (World) (Erwin's Collection)">
+		<description>Paqman (World) (Erwin's Collection)</description>
+		<rom name="Paqman (World) (Erwin's Collection).hex" size="61192" crc="0c6316ba" md5="6d764ed131ab107fe1e30df996d88bf5" sha1="70c98f89b6c55a55969ab082bb01c418c84d622c" status="verified"/>
+	</game>
+	<game name="Pawn Path (World)">
+		<description>Pawn Path (World)</description>
+		<rom name="Pawn Path (World).hex" size="69772" crc="92267408" md5="20a1a66e25e4edafd85cd83ba757e3a8" sha1="d709f151dae28b6773e96c9e9b27dd5fcd69bb6f"/>
+	</game>
+	<game name="Petit of the Dead (World) (Erwin's Collection)">
+		<description>Petit of the Dead (World) (Erwin's Collection)</description>
+		<rom name="Petit of the Dead (World) (Erwin's Collection).hex" size="69012" crc="3c663adb" md5="4e14d1b347edd0afe2b328fccddbdde4" sha1="9377dd9726bfdb64bc0f7d047d3fd77c1ac09306" status="verified"/>
+	</game>
+	<game name="Petitseq (World) (Erwin's Collection)">
+		<description>Petitseq (World) (Erwin's Collection)</description>
+		<rom name="Petitseq (World) (Erwin's Collection).hex" size="37116" crc="0535eff3" md5="b2550d923f13d8eb0dbbd1e5f10098ad" sha1="f04c17d439100c137eabe9544c6658debe31c213" status="verified"/>
+	</game>
+	<game name="PI 24k (World) (v0.03) (Program) (Erwin's Collection)">
+		<description>PI 24k (World) (v0.03) (Program) (Erwin's Collection)</description>
+		<rom name="PI 24k (World) (v0.03) (Program) (Erwin's Collection).hex" size="75864" crc="adcbde86" md5="e5b4cbb19e75b6d210a75590763245ee" sha1="bd61f616efb3162b3f03a21bda9b7f17341a6c0b" status="verified"/>
+	</game>
+	<game name="PI 24k (World) (v0.03) (Program) (Alt)">
+		<description>PI 24k (World) (v0.03) (Program) (Alt)</description>
+		<rom name="PI 24k (World) (v0.03) (Program) (Alt).hex" size="77590" crc="2d5d3c0c" md5="a45ea42d5cfe8f808a09ef3991013e47" sha1="ec3018096f5f616ec8a94a6036756ef35b70a3cd"/>
+	</game>
+	<game name="PI 24k (World) (v0.03) (Program)">
+		<description>PI 24k (World) (v0.03) (Program)</description>
+		<rom name="PI 24k (World) (v0.03) (Program).hex" size="77013" crc="7412a6f5" md5="fdb8eb4a1fd06a7d0bf3dc5cc3f1a8c5" sha1="9c0da32c4213fa0f990434c3cf60202b0dbd87c5"/>
+	</game>
+	<game name="Pico Racers (World)">
+		<description>Pico Racers (World)</description>
+		<rom name="Pico Racers (World).hex" size="35052" crc="119d3c47" md5="21dbdbf7efb57568a37839eda5b1bc14" sha1="219952cfe67b41170a2a5815696dcc6ec79a37a4"/>
+	</game>
+	<game name="Pico Racers (World) (No QR Code)">
+		<description>Pico Racers (World) (No QR Code)</description>
+		<rom name="Pico Racers (World) (No QR Code).hex" size="33559" crc="b3938cff" md5="d327125b19215b01d5d26963d76ec9ba" sha1="ba6c876fef16b1d4c9bc490dd4e6b91dcce51298"/>
+	</game>
+	<game name="Picovaders (World) (Erwin's Collection)">
+		<description>Picovaders (World) (Erwin's Collection)</description>
+		<rom name="Picovaders (World) (Erwin's Collection).hex" size="48000" crc="340bec69" md5="0816a7728d17612d07f4ce7d37078ee4" sha1="2ec4c78e79b685d6e700e6728ca6a15fd8eb97ea" status="verified"/>
+	</game>
+	<game name="PiCross (World) (Erwin's Collection)">
+		<description>PiCross (World) (Erwin's Collection)</description>
+		<rom name="PiCross (World) (Erwin's Collection).hex" size="77384" crc="54e9b9eb" md5="75db0d4c0c57d8268b1ecaef6f688c68" sha1="7f0bb4cf2c08dcb1d1bad70900e4b67a13c6b43c" status="verified"/>
+	</game>
+	<game name="Picross a (World)">
+		<description>Picross a (World)</description>
+		<rom name="Picross a (World).hex" size="41610" crc="c4921f93" md5="d7a68c2a5d6b22964307c51adbc28c1f" sha1="daa83fa1de492d4e6796172c20e84a68d9d79b4e"/>
+	</game>
+	<game name="Pipes (World) (Erwin's Collection)">
+		<description>Pipes (World) (Erwin's Collection)</description>
+		<rom name="Pipes (World) (Erwin's Collection).hex" size="71180" crc="4d0b0b94" md5="1774d69cc164843f96ca10d6b72d21bb" sha1="1f2dec0cee095004b1c5a6aaab95c68bfee1432d" status="verified"/>
+	</game>
+	<game name="Pocket Fighter (World) (Erwin's Collection)">
+		<description>Pocket Fighter (World) (Erwin's Collection)</description>
+		<rom name="Pocket Fighter (World) (Erwin's Collection).hex" size="48060" crc="11292dd6" md5="46b168cef530bf77b225e623615e7eae" sha1="cf83246b4a25f346c6a8258e5d867f3797204426" status="verified"/>
+	</game>
+	<game name="Pocket Othello (World) (Erwin's Collection)">
+		<description>Pocket Othello (World) (Erwin's Collection)</description>
+		<rom name="Pocket Othello (World) (Erwin's Collection).hex" size="43780" crc="58a6c03d" md5="2ba327de10d2d575efc0144619a4d155" sha1="503a29cea2cc65a9856f2a83d3576d9ab8109be9" status="verified"/>
+	</game>
+	<game name="Pocket PDA (World) (Program) (Erwin's Collection)">
+		<description>Pocket PDA (World) (Program) (Erwin's Collection)</description>
+		<rom name="Pocket PDA (World) (Program) (Erwin's Collection).hex" size="77884" crc="3be05a25" md5="ba28e6a115fd28cca69aab34ab4cc4ec" sha1="5d7046dad86aad31e02ffa5af37b688d39c97ab1" status="verified"/>
+	</game>
+	<game name="Pocketchi (World)">
+		<description>Pocketchi (World)</description>
+		<rom name="Pocketchi (World).hex" size="52709" crc="70496d4c" md5="71948802b19472bb8eb4fa8774b35d5e" sha1="bcb8e221bc22a4f94870f1dea1423a8da0d3461f"/>
+	</game>
+	<game name="Poitto (World) (Erwin's Collection)">
+		<description>Poitto (World) (Erwin's Collection)</description>
+		<rom name="Poitto (World) (Erwin's Collection).hex" size="64224" crc="49c308fd" md5="4593796806cfc0a755145f2d4a21ee5f" sha1="b2c1327e80aedc8359512320635c2edd51e76c0e" status="verified"/>
+	</game>
+	<game name="Pong (World) (Erwin's Collection)">
+		<description>Pong (World) (Erwin's Collection)</description>
+		<rom name="Pong (World) (Erwin's Collection).hex" size="29156" crc="c20a5492" md5="201801a0a4a20b009e3747a4d6428144" sha1="e0ab64669d5e6206216f0b4507aeb45c7e74b330" status="verified"/>
+	</game>
+	<game name="Poop Panic! (World) (Erwin's Collection)">
+		<description>Poop Panic! (World) (Erwin's Collection)</description>
+		<rom name="Poop Panic! (World) (Erwin's Collection).hex" size="41572" crc="b38440fe" md5="6b46e90570f5f87cd8c72793966255ad" sha1="71309362b9b9b9c96e2d0f19f46f81f79970f292" status="verified"/>
+	</game>
+	<game name="Prince of Arabia (World) (v1.2) (FX Only)">
+		<description>Prince of Arabia (World) (v1.2) (FX Only)</description>
+		<rom name="Prince of Arabia (World) (v1.2) (FX Only).hex" size="83211" crc="4663c261" md5="dd1953a0ab307edd6e13f9e83eed73b9" sha1="b697291f75e936ee428e549a80610af40d40c88b"/>
+		<rom name="fxdata.bin" size="675072" crc="6e34f6e4" md5="f82385fae5016ef61dff3d3d7cfb49df" sha1="39b4427fcb1a9b1f826910307dbfbe920e46dbef"/>
+	</game>
+	<game name="Prince of Arabia (World) (v1.1) (FX Only)">
+		<description>Prince of Arabia (World) (v1.1) (FX Only)</description>
+		<rom name="Prince of Arabia (World) (v1.1) (FX Only).hex" size="83211" crc="c5655b66" md5="731d60fb8bc9b8393df6ee521e3d99aa" sha1="539b7890fc1773dd96b76121bb51401f47b28540"/>
+		<rom name="fxdata.bin" size="675072" crc="2254d962" md5="5cfae5f90116de989461c685cade43df" sha1="ecda94e8a3d600b3a530099557d3cd1b1697e8e9"/>
+	</game>
+	<game name="Prince of Arabia (World) (v1.0) (FX Only)">
+		<description>Prince of Arabia (World) (v1.0) (FX Only)</description>
+		<rom name="Prince of Arabia (World) (v1.0) (FX Only).hex" size="82372" crc="43b1e857" md5="6f7de11e2ccc2159f664658860143566" sha1="230d0747dafd10cbd011d3aa6baca99bc9b0595a"/>
+		<rom name="fxdata.bin" size="959488" crc="856f4535" md5="f26602840a8080ed08e6e3c30cfa05fb" sha1="a1fc0317ed75d46b08f6c978ab7b679933345de5"/>
+	</game>
+	<game name="Prize Frenzy (World)">
+		<description>Prize Frenzy (World)</description>
+		<rom name="Prize Frenzy (World).hex" size="42240" crc="7a2e3d7c" md5="30c86f30308b8f0481b6594ad8f57d1a" sha1="d8318381f9f7b93f4cbbd5294dd4b2a0d01ac2d7"/>
+	</game>
+	<game name="Psi Colo (World) (v0.10) (Erwin's Collection)">
+		<description>Psi Colo (World) (v0.10) (Erwin's Collection)</description>
+		<rom name="Psi Colo (World) (v0.10) (Erwin's Collection).hex" size="76680" crc="48fd7583" md5="d5d382113320f387fda175eeff5930b5" sha1="1a8c8092ab28356370074e964d2aa0d18018410b" status="verified"/>
+	</game>
+	<game name="Psi Colo (World) (v0.11)">
+		<description>Psi Colo (World) (v0.11)</description>
+		<rom name="Psi Colo (World) (v0.11).hex" size="77569" crc="0032d73d" md5="6b4af8fbf6c1e9940bfd933b39b1875a" sha1="8e3606458a1360950497e7a85dec380dde576342"/>
+	</game>
+	<game name="Pyoro (World) (v1.1) (Erwin's Collection)">
+		<description>Pyoro (World) (v1.1) (Erwin's Collection)</description>
+		<rom name="Pyoro (World) (v1.1) (Erwin's Collection).hex" size="37472" crc="1dc9eae1" md5="11e307abe7b2ef0543aba4877ecb9d63" sha1="2be1c20ecdf1d66c8e38845cb5851719c36370a0" status="verified"/>
+	</game>
+	<game name="Quadrastic (World) (Erwin's Collection)">
+		<description>Quadrastic (World) (Erwin's Collection)</description>
+		<rom name="Quadrastic (World) (Erwin's Collection).hex" size="69012" crc="a54c00a3" md5="bfe4fdc75bf8cafeb8b8b113609f2db1" sha1="086854cf844ab5619739fd75febc413f7b49a985" status="verified"/>
+	</game>
+	<game name="Quarto! (World) (v0.10) (Erwin's Collection)">
+		<description>Quarto! (World) (v0.10) (Erwin's Collection)</description>
+		<rom name="Quarto! (World) (v0.10) (Erwin's Collection).hex" size="71348" crc="47a0873b" md5="6a2ab0ba8d2ecb2921d0a41e79d37202" sha1="965c6ff1a376a7a072ec4bf41250e109322b75b5" status="verified"/>
+	</game>
+	<game name="Quarto! (World) (v0.10)">
+		<description>Quarto! (World) (v0.10)</description>
+		<rom name="Quarto! (World) (v0.10).hex" size="72157" crc="379ceb28" md5="f3e1c76a9acfdcb5a7fb9c71511e2b51" sha1="8601697a723195a1f5f04de0fd129d6a386bef1b"/>
+	</game>
+	<game name="Quarto! (World) (v0.10) (Alt)">
+		<description>Quarto! (World) (v0.10) (Alt)</description>
+		<rom name="Quarto! (World) (v0.10) (Alt).hex" size="72971" crc="70c74253" md5="4f4c0ee28ca9efca648dd4b61c871e64" sha1="90ccf4a09499c7a2771363fa014188fbd01f4b20"/>
+	</game>
+	<game name="Quest for Truth, The (World) (v1.0.0)">
+		<description>Quest for Truth, The (World) (v1.0.0)</description>
+		<rom name="Quest for Truth, The (World) (v1.0.0).hex" size="80649" crc="0f814dee" md5="975dedac8415efa199c6fd7bf604b14e" sha1="d7b616653ca2e2c263180bb7b970052cb8b97f5a" status="verified"/>
+	</game>
+	<game name="Quest for Truth, The (World) (Erwin's Collection)">
+		<description>Quest for Truth, The (World) (Erwin's Collection)</description>
+		<rom name="Quest for Truth, The (World) (Erwin's Collection).hex" size="78856" crc="71a371fe" md5="4c21956b785c051c761666126a6dbbd7" sha1="836de9db7c4b441a7bedb405250ba38941c16a7b" status="verified"/>
+	</game>
+	<game name="Radical Racing - Rivalry (World)">
+		<description>Radical Racing - Rivalry (World)</description>
+		<rom name="Radical Racing - Rivalry (World).hex" size="80036" crc="31d9a8f2" md5="67bbde3eb001d68cc01fcc397d8cbd17" sha1="e07b230ffe4ffe1346b66185fb9696d3dfecaf91"/>
+	</game>
+	<game name="Randocity (World) (Erwin's Collection)">
+		<description>Randocity (World) (Erwin's Collection)</description>
+		<rom name="Randocity (World) (Erwin's Collection).hex" size="71776" crc="5000896b" md5="40e9cf1c8315cff376db9b836f5a5bc8" sha1="56a5f225a3b275ee16443f7dc06847c9ead45b82" status="verified"/>
+	</game>
+	<game name="Ravine Despoiler (World) (Erwin's Collection)">
+		<description>Ravine Despoiler (World) (Erwin's Collection)</description>
+		<rom name="Ravine Despoiler (World) (Erwin's Collection).hex" size="42084" crc="26e2c0c1" md5="c90907792879ff91b3c79a65c9476db3" sha1="6b5b50f90af31f6ae924b278a0b8288ae9a303cd" status="verified"/>
+	</game>
+	<game name="Rayne the Rogue (World) (Erwin's Collection)">
+		<description>Rayne the Rogue (World) (Erwin's Collection)</description>
+		<rom name="Rayne the Rogue (World) (Erwin's Collection).hex" size="59288" crc="71cbb8aa" md5="49468ac181d6b6eacb034e1b5e396475" sha1="1690b2e6d632d5fc265ec47af0b72912df3f93f5" status="verified"/>
+	</game>
+	<game name="Rayne the Rogue (World) (v2.9)">
+		<description>Rayne the Rogue (World) (v2.9)</description>
+		<rom name="Rayne the Rogue (World) (v2.9).hex" size="57790" crc="5f1b2638" md5="ab0e8e16f48a65ca4366fe1182a44ddd" sha1="3cc5da9bee43291a6a017061fc16e5292a025f00"/>
+	</game>
+	<game name="Rayne the Rogue (World) (No QR Code)">
+		<description>Rayne the Rogue (World) (No QR Code)</description>
+		<rom name="Rayne the Rogue (World) (No QR Code).hex" size="42068" crc="7a4a1029" md5="afe60f5ffc2a88132f9b59803d9d0678" sha1="d8f481fa15d7f48ec6d883c864b700ff1d403a9b"/>
+	</game>
+	<game name="Rayne the Rogue Deluxe (World)">
+		<description>Rayne the Rogue Deluxe (World)</description>
+		<rom name="Rayne the Rogue Deluxe (World).hex" size="43598" crc="18545b0f" md5="a3a9a032f21729d1ba9fab2d0695c294" sha1="328a819b047c8d3894b625cd0868f31fbc0081e0"/>
+	</game>
+	<game name="Rayne the Rogue Part II (World) (v1.0)">
+		<description>Rayne the Rogue Part II (World) (v1.0)</description>
+		<rom name="Rayne the Rogue Part II (World) (v1.0).hex" size="75646" crc="8157430d" md5="0e40616ef9dc33c539d1045cb37d5771" sha1="b8de46cc4dd1c0695e40038f712e9c6c3a4227be"/>
+	</game>
+	<game name="Reverse Mermaid Hockey (World)">
+		<description>Reverse Mermaid Hockey (World)</description>
+		<rom name="Reverse Mermaid Hockey (World).hex" size="57315" crc="1e625594" md5="c4ceeaca2358fa391c077e4532e7b916" sha1="c1832390e8fcb8034a2112a8d1efcbbfc167ff42"/>
+	</game>
+	<game name="Reverse Mermaid Hockey (World) (No QR Code)">
+		<description>Reverse Mermaid Hockey (World) (No QR Code)</description>
+		<rom name="Reverse Mermaid Hockey (World) (No QR Code).hex" size="55715" crc="e3617a13" md5="740da20cd54c4acba780420440538e22" sha1="2edf8c2d01aa7f5358a2493178e9f3e18da083df"/>
+	</game>
+	<game name="Reversi (World) (v0.10) (Erwin's Collection)">
+		<description>Reversi (World) (v0.10) (Erwin's Collection)</description>
+		<rom name="Reversi (World) (v0.10) (Erwin's Collection).hex" size="69896" crc="0f4371b8" md5="488741e6b349d6169c7733070fe42c31" sha1="1596fea35d7fc871c2ee64113bae80f396045a8c" status="verified"/>
+	</game>
+	<game name="Reversi (World) (v0.11)">
+		<description>Reversi (World) (v0.11)</description>
+		<rom name="Reversi (World) (v0.11).hex" size="70381" crc="ff8d7284" md5="59f0cbcec0fc411fc84ffd9c7c16c083" sha1="770d01b8dab5c1f008af1a4a1f142b61ccd116d2"/>
+	</game>
+	<game name="Rhythum (World) (v1.0.1)">
+		<description>Rhythum (World) (v1.0.1)</description>
+		<rom name="Rhythum (World) (v1.0.1).hex" size="58178" crc="417915d8" md5="704b62faed2d5131abf3978df53738fc" sha1="6301b042828d558f33b53aa9fa450b38e0db678f" status="verified"/>
+	</game>
+	<game name="Rhythum (World) (v1.0.2)">
+		<description>Rhythum (World) (v1.0.2)</description>
+		<rom name="Rhythum (World) (v1.0.2).hex" size="57127" crc="507f36ea" md5="026580d23114a020f50e4a2bec92c550" sha1="d6c8db010f54ebe3c7f772a8d5049f916e0d2c4c" status="verified"/>
+	</game>
+	<game name="Rhythum (World) (v1.0)">
+		<description>Rhythum (World) (v1.0)</description>
+		<rom name="Rhythum (World) (v1.0).hex" size="58440" crc="3420840e" md5="232dade04bd606f9b03698aa27f1bb87" sha1="145fd357d56b70221e4978076309edbe140b1e61"/>
+	</game>
+	<game name="Rick and Morty Game (World) (Erwin's Collection)">
+		<description>Rick and Morty Game (World) (Erwin's Collection)</description>
+		<rom name="Rick and Morty Game (World) (Erwin's Collection).hex" size="27920" crc="5ef32dc0" md5="7c806db164a90b6cc7dda291d40c267b" sha1="a855d9dbf7e5bf260cf30092c3d4eef570416855" status="verified"/>
+	</game>
+	<game name="Ring Puzzle (World) (Erwin's Collection)">
+		<description>Ring Puzzle (World) (Erwin's Collection)</description>
+		<rom name="Ring Puzzle (World) (Erwin's Collection).hex" size="45788" crc="3ec90ad7" md5="7ffb707672f851304fb1389535a45722" sha1="ae3da09183945d569e3c765e673771f14a8c3a7f" status="verified"/>
+	</game>
+	<game name="Road Trip (World) (Erwin's Collection)">
+		<description>Road Trip (World) (Erwin's Collection)</description>
+		<rom name="Road Trip (World) (Erwin's Collection).hex" size="78336" crc="f0018ff5" md5="12c7a6d38e6c0dbaf4b20a61c3a20374" sha1="2a53342ca222f1728085f5b57eaa31ebe9bc63f6" status="verified"/>
+	</game>
+	<game name="RoboDodge (World) (Erwin's Collection)">
+		<description>RoboDodge (World) (Erwin's Collection)</description>
+		<rom name="RoboDodge (World) (Erwin's Collection).hex" size="51152" crc="35ed62c1" md5="f93acc4e983976494c15689685766abd" sha1="528f22ce057525e8b5264e630499cbb376afa2e8" status="verified"/>
+	</game>
+	<game name="Rogue (World) (v1.21) (Erwin's Collection)">
+		<description>Rogue (World) (v1.21) (Erwin's Collection)</description>
+		<rom name="Rogue (World) (v1.21) (Erwin's Collection).hex" size="80572" crc="d9a54374" md5="fe2d0efe3838fa6404c19d9a2a7a98e2" sha1="2e32b927c02523f67243673b501fa422f57fcde9" status="verified"/>
+	</game>
+	<game name="Roo Run (World) (Erwin's Collection)">
+		<description>Roo Run (World) (Erwin's Collection)</description>
+		<rom name="Roo Run (World) (Erwin's Collection).hex" size="51684" crc="c8a59219" md5="edf545b0c7b97cd2547925444b304c33" sha1="253e929d2b1ac3686bd97338bdc31ef9dab6cc3b" status="verified"/>
+	</game>
+	<game name="Rooftop Rescue (World) (Erwin's Collection)">
+		<description>Rooftop Rescue (World) (Erwin's Collection)</description>
+		<rom name="Rooftop Rescue (World) (Erwin's Collection).hex" size="69514" crc="18d75127" md5="7f17a743b8a50e96818da3d88d595d1b" sha1="de8443ac9381513eeda4fdc54a4a9f8434cf2ac1" status="verified"/>
+	</game>
+	<game name="Roshambo (World) (Erwin's Collection)">
+		<description>Roshambo (World) (Erwin's Collection)</description>
+		<rom name="Roshambo (World) (Erwin's Collection).hex" size="38435" crc="02eb0dee" md5="f3c13eea09247c2adaea2695a2762460" sha1="34f2666bae9f5f3f11e52cfabcdab0615dc794a3" status="verified"/>
+	</game>
+	<game name="RYSK (World) (v0.01)">
+		<description>RYSK (World) (v0.01)</description>
+		<rom name="RYSK (World) (v0.01).hex" size="78860" crc="afff87c3" md5="1bbafc66925eaf75991bd2f209e46057" sha1="aae660e9f773c2d531502241e1ce069f9d4be944"/>
+	</game>
+	<game name="RYSK (World) (v0.04)">
+		<description>RYSK (World) (v0.04)</description>
+		<rom name="RYSK (World) (v0.04).hex" size="44704" crc="a7692bdb" md5="6f2d8f9e77b97b7272e99fe65a3d4a33" sha1="f92f986d8ced7ba780200371eed9e7db6977deee"/>
+	</game>
+	<game name="RYSK (World) (v0.10)">
+		<description>RYSK (World) (v0.10)</description>
+		<rom name="RYSK (World) (v0.10).hex" size="43648" crc="128caba9" md5="d30910f6972796e593f5a888bfea451e" sha1="55a2b2bc87cf273c8c872b7e79090f6814ff58a2"/>
+	</game>
+	<game name="SameGame (World) (v0.10) (Erwin's Collection)">
+		<description>SameGame (World) (v0.10) (Erwin's Collection)</description>
+		<rom name="SameGame (World) (v0.10) (Erwin's Collection).hex" size="67216" crc="8548f5ef" md5="1de4294e26554d7edfdbff16f820948d" sha1="c6142dc105a30dcdb2f4990277d35b457d00ffac" status="verified"/>
+	</game>
+	<game name="SameGame (World) (v0.10)">
+		<description>SameGame (World) (v0.10)</description>
+		<rom name="SameGame (World) (v0.10).hex" size="67722" crc="490ede02" md5="a2bca805284b72dd0f348caf5c923acb" sha1="bd86862075e3ec8d402022782a3fa5231ec9ede9"/>
+	</game>
+	<game name="SameGame (World) (v0.10) (Alt)">
+		<description>SameGame (World) (v0.10) (Alt)</description>
+		<rom name="SameGame (World) (v0.10) (Alt).hex" size="68745" crc="49f24f59" md5="17284e33201088ca6996d35cd2ccb414" sha1="67baf93c78836b372b2abc92f5dc970c2dea487a"/>
+	</game>
+	<game name="SanSan (World) (Erwin's Collection)">
+		<description>SanSan (World) (Erwin's Collection)</description>
+		<rom name="SanSan (World) (Erwin's Collection).hex" size="64716" crc="c70dbb84" md5="f94c51edabe6097e261ca82914da6c96" sha1="86cd500a672aacab995ff98824a2ee0104467254" status="verified"/>
+	</game>
+	<game name="Santa's Factory (World)">
+		<description>Santa's Factory (World)</description>
+		<rom name="Santa's Factory (World).hex" size="48826" crc="a086051b" md5="33b2e6a068ca3fa6cb5112dc7e47dc6b" sha1="dfb5c9c4f8478bbc4c55ffb861c16577312ec6f5"/>
+	</game>
+	<game name="Santa's Happy Little Packer (World) (Erwin's Collection)">
+		<description>Santa's Happy Little Packer (World) (Erwin's Collection)</description>
+		<rom name="Santa's Happy Little Packer (World) (Erwin's Collection).hex" size="64228" crc="274ec791" md5="7546fe3e51ae5b22f07dbfa4ee9a0219" sha1="7bc744a468e089f10d99499f7567f1a6db9ff517" status="verified"/>
+	</game>
+	<game name="Self Destruct Message (World) (Program) (Erwin's Collection)">
+		<description>Self Destruct Message (World) (Program) (Erwin's Collection)</description>
+		<rom name="Self Destruct Message (World) (Program) (Erwin's Collection).hex" size="25684" crc="ad21f6d7" md5="0a5dffdd9427c0aa8a44bc5dad0f1814" sha1="40c081467f4f990379a1c77873741027342648ec" status="verified"/>
+	</game>
+	<game name="Sensitive (World) (Erwin's Collection)">
+		<description>Sensitive (World) (Erwin's Collection)</description>
+		<rom name="Sensitive (World) (Erwin's Collection).hex" size="63132" crc="be30c525" md5="f88099ef1d08f75f26221431ee91386e" sha1="46e96e29e84c89421bdc9fa89425e54bf1029498" status="verified"/>
+	</game>
+	<game name="SetSystemEEPROM (World) (Program) (Erwin's Collection)">
+		<description>SetSystemEEPROM (World) (Program) (Erwin's Collection)</description>
+		<rom name="SetSystemEEPROM (World) (Program) (Erwin's Collection).hex" size="36572" crc="b71d918c" md5="c2aa8cecc3324186e1055f11defcaf42" sha1="c6ea0c1d088eb4ce02b927405eeef7fc8731dbad" status="verified"/>
+	</game>
+	<game name="SFCave (World) (Erwin's Collection)">
+		<description>SFCave (World) (Erwin's Collection)</description>
+		<rom name="SFCave (World) (Erwin's Collection).hex" size="33600" crc="fa2f6605" md5="d37ad0b61ed8cdc5165c9edc5e5a3685" sha1="a3f31140e3874f0e09a027fa8a1cecd38ba1f378" status="verified"/>
+	</game>
+	<game name="SFZ (World) (Erwin's Collection)">
+		<description>SFZ (World) (Erwin's Collection)</description>
+		<rom name="SFZ (World) (Erwin's Collection).hex" size="67168" crc="528c2e53" md5="e075b056983236b1723520a51ca61b35" sha1="c25c16fe599544f9d9d71bb4d228b06044dffcb2" status="verified"/>
+	</game>
+	<game name="Shadow Runner (World)">
+		<description>Shadow Runner (World)</description>
+		<rom name="Shadow Runner (World).hex" size="64834" crc="0bf96eb3" md5="58abce6febfd7a6bd5544dfedf72be26" sha1="c101a42d1e4d997c6018fa730932072bfb5aa9a2"/>
+	</game>
+	<game name="Shadow Runner (World) (No QR Code)">
+		<description>Shadow Runner (World) (No QR Code)</description>
+		<rom name="Shadow Runner (World) (No QR Code).hex" size="63239" crc="953d6e48" md5="08f764440a97959aa08f6b7e690a77b1" sha1="2af95faf939f9664e70199724be40b1e29126fbf"/>
+	</game>
+	<game name="Shadows and Eternity (World) (v1.25) (FX Only)">
+		<description>Shadows and Eternity (World) (v1.25) (FX Only)</description>
+		<rom name="Shadows and Eternity (World) (v1.25) (FX Only).hex" size="30732" crc="b2d4753f" md5="174c1f11187c959317f0e7c97a21084b" sha1="e31bd99f8d091799164433caeebb52f6b9fee863"/>
+		<rom name="fxdata.bin" size="24832" crc="781f53ac" md5="c5a812f0a40235d1ea7fb94e2149ac00" sha1="296e5f5f8b1de0f1d1d30b85f7ebbeed88e66511"/>
+	</game>
+	<game name="Shattered Lands - Towers of Perdition (World) (Erwin's Collection)">
+		<description>Shattered Lands - Towers of Perdition (World) (Erwin's Collection)</description>
+		<rom name="Shattered Lands - Towers of Perdition (World) (Erwin's Collection).hex" size="78824" crc="fad8ab34" md5="ae9e388c380ea3b40cbd3d4b56aa80fa" sha1="967c7bb82a36a5d41b97ba0bff72811277a79197" status="verified"/>
+	</game>
+	<game name="Shattered Lands - Towers of Perdition (World) (v1.4)">
+		<description>Shattered Lands - Towers of Perdition (World) (v1.4)</description>
+		<rom name="Shattered Lands - Towers of Perdition (World) (v1.4).hex" size="80654" crc="75ac61d1" md5="2f7cb8ad37814c9349771530bc80f949" sha1="043377d87549ebeed666b53dca5c13d3804fdf73"/>
+	</game>
+	<game name="Siege (World) (Erwin's Collection)">
+		<description>Siege (World) (Erwin's Collection)</description>
+		<rom name="Siege (World) (Erwin's Collection).hex" size="73168" crc="60bcf3a4" md5="ecb57d25756ae887bbde2793fb248d72" sha1="e9aa183aaf3e70406b1ac444f2d90c947fc0464d" status="verified"/>
+	</game>
+	<game name="SIEGE (World) (v1.1)">
+		<description>SIEGE (World) (v1.1)</description>
+		<rom name="SIEGE (World) (v1.1).hex" size="71535" crc="cd3e5567" md5="2225ab09dd362d6b35288f181d0fcc04" sha1="51a231c24dcbcc19acc9a743b52dca428a10ef9e"/>
+	</game>
+	<game name="Single Ennead (World)">
+		<description>Single Ennead (World)</description>
+		<rom name="Single Ennead (World).hex" size="60027" crc="acff0f43" md5="e0d48ca6e452db062bfade9b4bac6736" sha1="69aa4f2f70afa5e3a34a43dacbb5f3bf747d23de"/>
+	</game>
+	<game name="Sirene (World)">
+		<description>Sirene (World)</description>
+		<rom name="Sirene (World).hex" size="73581" crc="049ab4ea" md5="8edf6b83496c15e2e0cda9dcf834a589" sha1="64f7b597a2e20d99e279964399772bceb5ba9962"/>
+	</game>
+	<game name="Sirene (World) (No QR Code)">
+		<description>Sirene (World) (No QR Code)</description>
+		<rom name="Sirene (World) (No QR Code).hex" size="71907" crc="48ccdefc" md5="d4afa66789802586382825692c4226a9" sha1="e848d481128a23b101743d07264bb932628d00ad"/>
+	</game>
+	<game name="Sk8 Ard Die (World) (Erwin's Collection)">
+		<description>Sk8 Ard Die (World) (Erwin's Collection)</description>
+		<rom name="Sk8 Ard Die (World) (Erwin's Collection).hex" size="73599" crc="7b3c1385" md5="179ab955d83e5452e1ae1027d2212e75" sha1="322e54c8ba0baa4dcb54b65b47db6621beddfd0b" status="verified"/>
+	</game>
+	<game name="Sketch-A-Sketch (World) (Erwin's Collection)">
+		<description>Sketch-A-Sketch (World) (Erwin's Collection)</description>
+		<rom name="Sketch-A-Sketch (World) (Erwin's Collection).hex" size="28536" crc="ea0cc31b" md5="9a4ff539109efb70b951bf2d727a229d" sha1="79805c163da4cf7561466d6b8e0dd4b7db54dc54" status="verified"/>
+	</game>
+	<game name="SNAKE (World) (CDRXavier) (Erwin's Collection)">
+		<description>SNAKE (World) (CDRXavier) (Erwin's Collection)</description>
+		<rom name="SNAKE (World) (CDRXavier) (Erwin's Collection).hex" size="39580" crc="f976a33e" md5="0cba6934cdc3264bfbe566c065eba2e9" sha1="995ffd526cfc4c584aa7a6eae1301a9a659a72d7" status="verified"/>
+	</game>
+	<game name="Snake (World) (Stu) (Erwin's Collection)">
+		<description>Snake (World) (Stu) (Erwin's Collection)</description>
+		<rom name="Snake (World) (Stu) (Erwin's Collection).hex" size="42036" crc="9ae3775d" md5="8d04621f8bf443fb50a96df13fc87263" sha1="f433121bfa3add152626c1b396d8d0ca4e33bd42" status="verified"/>
+	</game>
+	<game name="SNAKE (World) (CDRXavier)">
+		<description>SNAKE (World) (CDRXavier)</description>
+		<rom name="SNAKE (World) (CDRXavier).hex" size="43267" crc="1e11d781" md5="5482dc140e863c58c463aacf4a7ab195" sha1="d3d3d87fa29288fc0a2be4d45efb7e70074f128c"/>
+	</game>
+	<game name="SnELk (World) (Erwin's Collection)">
+		<description>SnELk (World) (Erwin's Collection)</description>
+		<rom name="SnELk (World) (Erwin's Collection).hex" size="42912" crc="f93cb0b8" md5="526faabe465cef199dbdefe60f7c7c69" sha1="8ccb6d05fd0e5892b5ec727a41ba5500c139a222" status="verified"/>
+	</game>
+	<game name="Social Distance Game, The (World) (v1.1.0) (Erwin's Collection)">
+		<description>Social Distance Game, The (World) (v1.1.0) (Erwin's Collection)</description>
+		<rom name="Social Distance Game, The (World) (v1.1.0) (Erwin's Collection).hex" size="35128" crc="a37ad6da" md5="ca8b689bed5ce47072a2d04b90806f10" sha1="a3d51734fe7e8fee72b4e2a31dad0f098de0ca9d" status="verified"/>
+	</game>
+	<game name="Solitaire (World) (Erwin's Collection)">
+		<description>Solitaire (World) (Erwin's Collection)</description>
+		<rom name="Solitaire (World) (Erwin's Collection).hex" size="61372" crc="f6b396dc" md5="b7104e80019ca4993890887dfc1ab9ec" sha1="49c23e684f91ca3276ac4bf46e069875ad24dd27" status="verified"/>
+	</game>
+	<game name="Space Battle - Trench Run (World) (v1.1) (Erwin's Collection)">
+		<description>Space Battle - Trench Run (World) (v1.1) (Erwin's Collection)</description>
+		<rom name="Space Battle - Trench Run (World) (v1.1) (Erwin's Collection).hex" size="78384" crc="3a5d6c90" md5="7906ca2c0621bc41cc50af24ffa693df" sha1="9615640ff7ff1de09700c07b196e5b26a11d7d0a" status="verified"/>
+	</game>
+	<game name="Space Cab (World) (v1.0) (Erwin's Collection)">
+		<description>Space Cab (World) (v1.0) (Erwin's Collection)</description>
+		<rom name="Space Cab (World) (v1.0) (Erwin's Collection).hex" size="77376" crc="e62501f3" md5="bf8692979cfcfc5ecb622488cf2828cc" sha1="83043254634b72b4f362d018326f5a5c8e714136" status="verified"/>
+	</game>
+	<game name="Space Fighter (World) (Erwin's Collection)">
+		<description>Space Fighter (World) (Erwin's Collection)</description>
+		<rom name="Space Fighter (World) (Erwin's Collection).hex" size="60892" crc="bb9596c3" md5="9bb78912e9202db6cb7777e79f6667bd" sha1="cb5258a78a714d53c7ba07b2d7059313bce9aea8" status="verified"/>
+	</game>
+	<game name="Space Flappy (World)">
+		<description>Space Flappy (World)</description>
+		<rom name="Space Flappy (World).hex" size="38906" crc="3133a6b2" md5="04d83a1e25761050fd7584724c027c31" sha1="a7b9e407911bdefc9e42d1662c7f793c49553c50"/>
+	</game>
+	<game name="Space Invaders (World) (Erwin's Collection)">
+		<description>Space Invaders (World) (Erwin's Collection)</description>
+		<rom name="Space Invaders (World) (Erwin's Collection).hex" size="47588" crc="a63b8016" md5="6e5737367564846c5a21c2811760c505" sha1="a0d3840409350716d727491811ea7d941f0e472b" status="verified"/>
+	</game>
+	<game name="Space Knife (World) (Erwin's Collection)">
+		<description>Space Knife (World) (Erwin's Collection)</description>
+		<rom name="Space Knife (World) (Erwin's Collection).hex" size="44448" crc="4875a1d1" md5="2253c41e309b9e6a7638b9a71ea6984a" sha1="8e852fd5e94b1d967b2b9d203aec3241029095a4" status="verified"/>
+	</game>
+	<game name="Space Quarth (World) (Erwin's Collection)">
+		<description>Space Quarth (World) (Erwin's Collection)</description>
+		<rom name="Space Quarth (World) (Erwin's Collection).hex" size="70172" crc="7410d333" md5="87929ef4c3fe24897880c75dafcab82f" sha1="500e80d80130089b6d2d45ca134eb20c164ce5a8" status="verified"/>
+	</game>
+	<game name="Square Nose (World) (Erwin's Collection)">
+		<description>Square Nose (World) (Erwin's Collection)</description>
+		<rom name="Square Nose (World) (Erwin's Collection).hex" size="55036" crc="0e27668d" md5="46185f3bc1851e84968e0b6a8becab79" sha1="d0bdfd47a1e99a418bac5e1dab4d0f047e00851e" status="verified"/>
+	</game>
+	<game name="Squario (World) (Erwin's Collection)">
+		<description>Squario (World) (Erwin's Collection)</description>
+		<rom name="Squario (World) (Erwin's Collection).hex" size="72784" crc="287013d4" md5="f91369af957dda3a8625e85f0b357c04" sha1="b61039c893334053871de52773cc98310b9673ed" status="verified"/>
+	</game>
+	<game name="Stairs Sweep (World) (v0.10) (Erwin's Collection)">
+		<description>Stairs Sweep (World) (v0.10) (Erwin's Collection)</description>
+		<rom name="Stairs Sweep (World) (v0.10) (Erwin's Collection).hex" size="67716" crc="e6cd6995" md5="5c30e5252ee04798963b9c65ee2ee000" sha1="c9704b1dbce211530414bd30cf54e318f27f09cc" status="verified"/>
+	</game>
+	<game name="Stairs Sweep (World) (v0.10)">
+		<description>Stairs Sweep (World) (v0.10)</description>
+		<rom name="Stairs Sweep (World) (v0.10).hex" size="69052" crc="ed03234e" md5="4760f83f61c4243649e40fdb7530bc21" sha1="115f78771687b8762f993bb23ece14fce81cf362"/>
+	</game>
+	<game name="Stairs Sweep (World) (v0.10) (Alt)">
+		<description>Stairs Sweep (World) (v0.10) (Alt)</description>
+		<rom name="Stairs Sweep (World) (v0.10) (Alt).hex" size="69256" crc="54c40217" md5="20c649a369cb3d60b7574dc44324fb30" sha1="4906244661c4ad150c0697b6e72fe52707297d5a"/>
+	</game>
+	<game name="Star Honor (World) (Erwin's Collection)">
+		<description>Star Honor (World) (Erwin's Collection)</description>
+		<rom name="Star Honor (World) (Erwin's Collection).hex" size="78735" crc="c3728b10" md5="62c3e54133d3cd82ccc47d899eb0b8d2" sha1="0333db0fd2e95d4691a7d65bdfc920dadf906a3b" status="verified"/>
+	</game>
+	<game name="Starduino (World) (Erwin's Collection)">
+		<description>Starduino (World) (Erwin's Collection)</description>
+		<rom name="Starduino (World) (Erwin's Collection).hex" size="79156" crc="9d4f111b" md5="491333171ab23dc7fe357a19a2bdc012" sha1="77f18613d7bb53c762a4d09b78a177bc4a7fa6a7" status="verified"/>
+	</game>
+	<game name="Starduino Turbo (World) (Erwin's Collection)">
+		<description>Starduino Turbo (World) (Erwin's Collection)</description>
+		<rom name="Starduino Turbo (World) (Erwin's Collection).hex" size="79549" crc="ea1945e5" md5="c62c13806539cc62f39c060051353286" sha1="7310d94790b7554f689bf3da0a659f4a730b5ca7" status="verified"/>
+	</game>
+	<game name="Stellar Impact (World) (Erwin's Collection)">
+		<description>Stellar Impact (World) (Erwin's Collection)</description>
+		<rom name="Stellar Impact (World) (Erwin's Collection).hex" size="71236" crc="26a21950" md5="9d22b7cf09b6c3efa2c241e5e6fab3c7" sha1="c90ae545b8b8af5014fc75a606ff707539036610" status="verified"/>
+	</game>
+	<game name="Street Racer (World)">
+		<description>Street Racer (World)</description>
+		<rom name="Street Racer (World).hex" size="78801" crc="27143395" md5="935086592f5a78c690ccc1811746c6fc" sha1="4fc5483721127f575c6149c3367bb6382e0e8bcb"/>
+	</game>
+	<game name="Sudoku-NBP (World) (Erwin's Collection)">
+		<description>Sudoku-NBP (World) (Erwin's Collection)</description>
+		<rom name="Sudoku-NBP (World) (Erwin's Collection).hex" size="75296" crc="503963c1" md5="e732ecc69f205751c8aa69d10aefdcf0" sha1="26ef59a2cffb66b47aba84def325e58608c0c74a" status="verified"/>
+	</game>
+	<game name="Super Crate Buino (World) (Erwin's Collection)">
+		<description>Super Crate Buino (World) (Erwin's Collection)</description>
+		<rom name="Super Crate Buino (World) (Erwin's Collection).hex" size="72681" crc="46d8909c" md5="3e38f73c8a4ada70823ef63af58eaa34" sha1="8de74a67933310754ed0476f5e54c352b4db7e38" status="verified"/>
+	</game>
+	<game name="Super Soldiers (World) (Erwin's Collection)">
+		<description>Super Soldiers (World) (Erwin's Collection)</description>
+		<rom name="Super Soldiers (World) (Erwin's Collection).hex" size="77884" crc="428295a0" md5="081d4521070d52147c7fba5e6c1ceaa2" sha1="c3d1862b60e98d73284a1f9127cb3702c29ba785" status="verified"/>
+	</game>
+	<game name="Tackle Box (World) (v1.2.0) (Erwin's Collection)">
+		<description>Tackle Box (World) (v1.2.0) (Erwin's Collection)</description>
+		<rom name="Tackle Box (World) (v1.2.0) (Erwin's Collection).hex" size="78824" crc="ed997e00" md5="40657e770e91b7317bd583fc70bd23db" sha1="246d6aabaa17404db0eb375ccdbb046aab65d69e" status="verified"/>
+	</game>
+	<game name="Tamaguino-AB (World) (Erwin's Collection)">
+		<description>Tamaguino-AB (World) (Erwin's Collection)</description>
+		<rom name="Tamaguino-AB (World) (Erwin's Collection).hex" size="69680" crc="9b0a562f" md5="9b5b29c2259e7427eab1cdf66c109415" sha1="11039ca4fe95a396f8beaf3d276297b927529076" status="verified"/>
+	</game>
+	<game name="Techno Monkey (World) (Erwin's Collection)">
+		<description>Techno Monkey (World) (Erwin's Collection)</description>
+		<rom name="Techno Monkey (World) (Erwin's Collection).hex" size="59416" crc="1271966b" md5="da9a31685009bbf432d8ae5b78def9eb" sha1="396f0067e84860163c6f452159d3c09a3837cfc4" status="verified"/>
+	</game>
+	<game name="Techno Monkey (World) (v1.0)">
+		<description>Techno Monkey (World) (v1.0)</description>
+		<rom name="Techno Monkey (World) (v1.0).hex" size="62171" crc="8ad9a025" md5="5b48bda6995b0c363075ef49ed4e8f23" sha1="57e973bd8b5c6bc51fd8fe40f4b43afb3c6d4854"/>
+	</game>
+	<game name="Term Twirl (World)">
+		<description>Term Twirl (World)</description>
+		<rom name="Term Twirl (World).hex" size="80641" crc="9496a6b3" md5="56c169e06a27dd38e903e8641196f1a5" sha1="28f3e7eba8c5f591a31b2868151f77e7e40b8af1"/>
+	</game>
+	<game name="Tetris (World) (Erwin's Collection)">
+		<description>Tetris (World) (Erwin's Collection)</description>
+		<rom name="Tetris (World) (Erwin's Collection).hex" size="43444" crc="1d17d125" md5="b5118087e7728a94f22ee620705b7d7b" sha1="d4c2503442aeb451b9130438e2cfbd63a72eb48d" status="verified"/>
+	</game>
+	<game name="TicTacCurly (World) (Erwin's Collection)">
+		<description>TicTacCurly (World) (Erwin's Collection)</description>
+		<rom name="TicTacCurly (World) (Erwin's Collection).hex" size="43184" crc="93503856" md5="e4a08bc773506f16a8f33299bbd7e94c" sha1="11445bdf0600704fb15931cf62811f3fdba50abe" status="verified"/>
+	</game>
+	<game name="Tiny Asteroids (World) (Erwin's Collection)">
+		<description>Tiny Asteroids (World) (Erwin's Collection)</description>
+		<rom name="Tiny Asteroids (World) (Erwin's Collection).hex" size="44724" crc="273aba28" md5="61b65ed7533540718eb826d053b4b3fb" sha1="d03f136d9b9e7c3c57b95a422b48fc6be4227cff" status="verified"/>
+	</game>
+	<game name="Tiny Depth (World) (Erwin's Collection)">
+		<description>Tiny Depth (World) (Erwin's Collection)</description>
+		<rom name="Tiny Depth (World) (Erwin's Collection).hex" size="48780" crc="4dd7ce93" md5="d87953d3fae7c919196435cfcac758c3" sha1="27c2ce7d5c19e85152f9808ef4c29522d288df40" status="verified"/>
+	</game>
+	<game name="Tiny Digital Invader (World) (Erwin's Collection)">
+		<description>Tiny Digital Invader (World) (Erwin's Collection)</description>
+		<rom name="Tiny Digital Invader (World) (Erwin's Collection).hex" size="37184" crc="477cfac2" md5="459b074324d7db3f70ec6c7a6abe6fe8" sha1="6e3deab1de5910b867c87167296b10977befeb93" status="verified"/>
+	</game>
+	<game name="Tiny Lander (World) (v1.0) (Erwin's Collection)">
+		<description>Tiny Lander (World) (v1.0) (Erwin's Collection)</description>
+		<rom name="Tiny Lander (World) (v1.0) (Erwin's Collection).hex" size="34161" crc="ee7e735d" md5="6e439c849c3f9dcb6c24d9abc6f1e8fb" sha1="c56b5fe72b6f23868a010ea92a254576f906ff8a"/>
+	</game>
+	<game name="Tiny NS-Tower (World) (Erwin's Collection)">
+		<description>Tiny NS-Tower (World) (Erwin's Collection)</description>
+		<rom name="Tiny NS-Tower (World) (Erwin's Collection).hex" size="44276" crc="b10c23a0" md5="c5387f12bd86e05ff9a0cc609116b5fe" sha1="e15a2b72117bff66b2deaf1046901cc3f98ab957" status="verified"/>
+	</game>
+	<game name="Tiny Sokoban (World) (Erwin's Collection)">
+		<description>Tiny Sokoban (World) (Erwin's Collection)</description>
+		<rom name="Tiny Sokoban (World) (Erwin's Collection).hex" size="54904" crc="5ee22bff" md5="c1021b50977c48f87aeebff2e3fee0e5" sha1="f3e988c73902f2b93376eb4d463f72ee35cb0682" status="verified"/>
+	</game>
+	<game name="Tiny-Bert (World) (Erwin's Collection)">
+		<description>Tiny-Bert (World) (Erwin's Collection)</description>
+		<rom name="Tiny-Bert (World) (Erwin's Collection).hex" size="38550" crc="ebed80bb" md5="3f4ab3f28837e8fe4443d5b2fb47a647" sha1="2ac786351fc416d2f5fc81380d499a78ac15e91d" status="verified"/>
+	</game>
+	<game name="Tiny-Bike (World) (Erwin's Collection)">
+		<description>Tiny-Bike (World) (Erwin's Collection)</description>
+		<rom name="Tiny-Bike (World) (Erwin's Collection).hex" size="39483" crc="601f06bf" md5="807c8a877dc7d170fcab6d1e7049debf" sha1="74ff3bfec8f9b38d8f1871dbf473500820e807c1" status="verified"/>
+	</game>
+	<game name="Tiny-DDug (World) (Erwin's Collection)">
+		<description>Tiny-DDug (World) (Erwin's Collection)</description>
+		<rom name="Tiny-DDug (World) (Erwin's Collection).hex" size="39667" crc="245ffb61" md5="8fd2cdbf69970e22723fe3c1695602ef" sha1="7bef79408285c82fadb8996caf964f287352f45e" status="verified"/>
+	</game>
+	<game name="Tiny-Missile (World) (Erwin's Collection)">
+		<description>Tiny-Missile (World) (Erwin's Collection)</description>
+		<rom name="Tiny-Missile (World) (Erwin's Collection).hex" size="39008" crc="38a6433f" md5="d54515be179fb4246afe4441cd9aa5ec" sha1="e2db7dbe4ec9af7d3371483eb8d86effa78b61ba" status="verified"/>
+	</game>
+	<game name="Tiny-Morpion (World) (Erwin's Collection)">
+		<description>Tiny-Morpion (World) (Erwin's Collection)</description>
+		<rom name="Tiny-Morpion (World) (Erwin's Collection).hex" size="38681" crc="dae130d9" md5="865c5d41ee83a46bef0e4cba699a9ad2" sha1="ea001d165d18872511a20c72771d4845cb64dac5" status="verified"/>
+	</game>
+	<game name="Tiny-Pipe (World) (Erwin's Collection)">
+		<description>Tiny-Pipe (World) (Erwin's Collection)</description>
+		<rom name="Tiny-Pipe (World) (Erwin's Collection).hex" size="36967" crc="56ed9a43" md5="b7407cb6b8ab0703116511ee24a81e3a" sha1="3e119632b40d85c3ca7fa1326987c1672f1cd26e" status="verified"/>
+	</game>
+	<game name="Tiny-Plaque (World) (Erwin's Collection)">
+		<description>Tiny-Plaque (World) (Erwin's Collection)</description>
+		<rom name="Tiny-Plaque (World) (Erwin's Collection).hex" size="39728" crc="e866b9b7" md5="78f1494c468168dbdfd04cc56ca6fe43" sha1="afed915683bf46640bd1e71dcd32ed051b81a1b7" status="verified"/>
+	</game>
+	<game name="Tiny-Trick (World) (Erwin's Collection)">
+		<description>Tiny-Trick (World) (Erwin's Collection)</description>
+		<rom name="Tiny-Trick (World) (Erwin's Collection).hex" size="39401" crc="b2ba1bcd" md5="ed1bf37da5ad8b916ffbdc75dc6183d9" sha1="4618186b88f66c1cc3d9cbb83f2dbb51deafa3fb" status="verified"/>
+	</game>
+	<game name="Tiny-Tris (World) (Erwin's Collection)">
+		<description>Tiny-Tris (World) (Erwin's Collection)</description>
+		<rom name="Tiny-Tris (World) (Erwin's Collection).hex" size="37323" crc="2ac8a427" md5="2262eb3f4e83dde315a5ab41492ae56d" sha1="edded114271e3a345b2e2eb17c4f33ca71e530ab" status="verified"/>
+	</game>
+	<game name="TNTANK (World) (v1.0)">
+		<description>TNTANK (World) (v1.0)</description>
+		<rom name="TNTANK (World) (v1.0).hex" size="53024" crc="8790605c" md5="84f7a12f62402fa095d2f61b886d37aa" sha1="ef04850ff836b99463eb75b80738cf95ce824bbe"/>
+	</game>
+	<game name="TNTANK (World) (v2.0)">
+		<description>TNTANK (World) (v2.0)</description>
+		<rom name="TNTANK (World) (v2.0).hex" size="59541" crc="060e0768" md5="675dddf88509f55921a71b182f603e43" sha1="52fb3f0cf260dba21372c12a6b2f97f2287373cb"/>
+	</game>
+	<game name="To (World) (Erwin's Collection)">
+		<description>To (World) (Erwin's Collection)</description>
+		<rom name="To (World) (Erwin's Collection).hex" size="61004" crc="4e43ba8e" md5="100edf264f88de3097a8078fe8a03796" sha1="e312f9b9196f8f664822a3ec908b9704cd60eb0f" status="verified"/>
+	</game>
+	<game name="Tower of Pain (World) (v1.2.2)">
+		<description>Tower of Pain (World) (v1.2.2)</description>
+		<rom name="Tower of Pain (World) (v1.2.2).hex" size="80408" crc="0e2eaf96" md5="b548ee67da194b8324620fd20cf95e0d" sha1="afdbd5609c09818cfeee20deea06ece0bb6fcd25"/>
+	</game>
+	<game name="Toyoshiki Tiny Basic (World) (Program) (Erwin's Collection)">
+		<description>Toyoshiki Tiny Basic (World) (Program) (Erwin's Collection)</description>
+		<rom name="Toyoshiki Tiny Basic (World) (Program) (Erwin's Collection).hex" size="42407" crc="172fa530" md5="55178714c56517fc0efee39241edf2cd" sha1="4b4cccaf354699536b8ac374e870158898e388ca" status="verified"/>
+	</game>
+	<game name="Train Dodge (World) (Erwin's Collection)">
+		<description>Train Dodge (World) (Erwin's Collection)</description>
+		<rom name="Train Dodge (World) (Erwin's Collection).hex" size="56088" crc="c146e99d" md5="5328b7f3c108d3d1ae63ec4d566e646f" sha1="e45659073209231bf81bc31f52dfe79d61b63a18" status="verified"/>
+	</game>
+	<game name="Tres (World) (Erwin's Collection)">
+		<description>Tres (World) (Erwin's Collection)</description>
+		<rom name="Tres (World) (Erwin's Collection).hex" size="69152" crc="801a557d" md5="4a4d5c2d82ffbed63ef46c76c6cd3470" sha1="3b678c676f70b5f7ca66c9b17b8a3d272cf24dd8" status="verified"/>
+	</game>
+	<game name="Tris (World) (Erwin's Collection)">
+		<description>Tris (World) (Erwin's Collection)</description>
+		<rom name="Tris (World) (Erwin's Collection).hex" size="59544" crc="137c148e" md5="e475bea9590bab2fef8279f374b57c74" sha1="4ce38fb3df2c0c2392656b25474a599ae18b1c74" status="verified"/>
+	</game>
+	<game name="Trolly Fish (World) (v1.1)">
+		<description>Trolly Fish (World) (v1.1)</description>
+		<rom name="Trolly Fish (World) (v1.1).hex" size="68696" crc="fe883174" md5="29f36644a6ba1ce9cab521f59a4796d7" sha1="1fbfc3a2f1dae261d0448d85deb25b91d1276587"/>
+	</game>
+	<game name="Trolly Fish (World)">
+		<description>Trolly Fish (World)</description>
+		<rom name="Trolly Fish (World).hex" size="64008" crc="07ba5ab2" md5="657a3bab5313248cacb19fb0c1db60d3" sha1="9f00032d065575e6d6045252ea42cfc06284cd24"/>
+	</game>
+	<game name="Trolly Fish (World) (No QR Code)">
+		<description>Trolly Fish (World) (No QR Code)</description>
+		<rom name="Trolly Fish (World) (No QR Code).hex" size="62465" crc="5fd65376" md5="a1e2f4edec370a353d64d631429cbbae" sha1="2a2eb4171885b867d99d92694515261e1081b45d"/>
+	</game>
+	<game name="Tronduboy (World)">
+		<description>Tronduboy (World)</description>
+		<rom name="Tronduboy (World).hex" size="34128" crc="98739af1" md5="77f0ef1dfa03d18b8dcf2771999c59ad" sha1="cae089d00243f5af598a026e1d367ab4c31241e7"/>
+	</game>
+	<game name="Turtle Bridge (World) (v1.0) (Erwin's Collection)">
+		<description>Turtle Bridge (World) (v1.0) (Erwin's Collection)</description>
+		<rom name="Turtle Bridge (World) (v1.0) (Erwin's Collection).hex" size="70916" crc="7416a1f1" md5="a0619fc0a3af2427333da2e0345d85ec" sha1="51d872fde3f520cc0c714d93046765d31ca9862f" status="verified"/>
+	</game>
+	<game name="Turtle Bridge (World) (v1.3)">
+		<description>Turtle Bridge (World) (v1.3)</description>
+		<rom name="Turtle Bridge (World) (v1.3).hex" size="73544" crc="5c20616e" md5="0111865fb00cdce7634d929554182359" sha1="9039586aadaa996a8532a6e728e0375724cbf4f0"/>
+	</game>
+	<game name="TV Tuner (World) (Program) (Erwin's Collection)">
+		<description>TV Tuner (World) (Program) (Erwin's Collection)</description>
+		<rom name="TV Tuner (World) (Program) (Erwin's Collection).hex" size="24404" crc="89776585" md5="fadebf4b4792a205546b9b8a2798d075" sha1="ecd4bda952e826b719816706bfd3fa2e7e800ee1" status="verified"/>
+	</game>
+	<game name="Twotris (World) (Erwin's Collection)">
+		<description>Twotris (World) (Erwin's Collection)</description>
+		<rom name="Twotris (World) (Erwin's Collection).hex" size="53020" crc="9b9a1629" md5="2f76e5a0c43abd1b9db527f2b7bdfa7e" sha1="0b9747a3ab0053d28f877c9479e193851db6d457" status="verified"/>
+	</game>
+	<game name="Ufo-Race (World) (Erwin's Collection)">
+		<description>Ufo-Race (World) (Erwin's Collection)</description>
+		<rom name="Ufo-Race (World) (Erwin's Collection).hex" size="59084" crc="b3dfc413" md5="7c6cf26e3b49cab9e801864773d03801" sha1="8ef6f5c243ea68193636d0cd1a4c1b64437172f2" status="verified"/>
+	</game>
+	<game name="Umeroose (World) (Erwin's Collection)">
+		<description>Umeroose (World) (Erwin's Collection)</description>
+		<rom name="Umeroose (World) (Erwin's Collection).hex" size="39272" crc="ec6669e6" md5="5689cf13e1aa71276ce19cf23d18c7ef" sha1="1edb68f056534aae7f0450cf4cb745dcc3dca3f8" status="verified"/>
+	</game>
+	<game name="Under the Tower (World) (Erwin's Collection)">
+		<description>Under the Tower (World) (Erwin's Collection)</description>
+		<rom name="Under the Tower (World) (Erwin's Collection).hex" size="80220" crc="c2a56a2f" md5="b392b3941763a25d8fb23f07635c6d5b" sha1="60d22c10abb920c817f426b06e57d97345e35dc9" status="verified"/>
+	</game>
+	<game name="Unicorn Dash (World) (Erwin's Collection)">
+		<description>Unicorn Dash (World) (Erwin's Collection)</description>
+		<rom name="Unicorn Dash (World) (Erwin's Collection).hex" size="40016" crc="7b55f6d8" md5="0fbb2ad38d346a5ac48f8b6469fd9acf" sha1="815db91de6f42a3034193211f553736d13678c98" status="verified"/>
+	</game>
+	<game name="Virtual Gamepad (World) (Program) (Erwin's Collection)">
+		<description>Virtual Gamepad (World) (Program) (Erwin's Collection)</description>
+		<rom name="Virtual Gamepad (World) (Program) (Erwin's Collection).hex" size="41516" crc="5faf7bdd" md5="78ce4530a9f1b9e95bf1995e04ecaeec" sha1="6ef946c934e13f21d7a88a341aa59837da29284e" status="verified"/>
+	</game>
+	<game name="Virus LQP-79 (World) (2020-06-08)">
+		<description>Virus LQP-79 (World) (2020-06-08)</description>
+		<rom name="Virus LQP-79 (World) (2020-06-08).hex" size="76898" crc="578a145d" md5="3c8155e377ae9a5346cbed9b8c005bf1" sha1="d6a81a6a05acbf14de0dd686a9a6eb8a120b203c"/>
+	</game>
+	<game name="Virus LQP-79 (World) (2021-06-21) (No QR Code)">
+		<description>Virus LQP-79 (World) (2021-06-21) (No QR Code)</description>
+		<rom name="Virus LQP-79 (World) (2021-06-21) (No QR Code).hex" size="75205" crc="4ff79af0" md5="19c576fd7d1f35ba2c717880b22301ff" sha1="502e2881ba1e053692273f1d11ba46173e93aa10"/>
+	</game>
+	<game name="Virus LQP-79 (World) (2016-06-07)">
+		<description>Virus LQP-79 (World) (2016-06-07)</description>
+		<rom name="Virus LQP-79 (World) (2016-06-07).hex" size="79042" crc="1dc426ad" md5="118999bca60104634514675c9668bd2c" sha1="ab0df1db94cdac1538a47f203309791f717d994e"/>
+	</game>
+	<game name="VT220 Serial Terminal Emulator (World) (Program) (Erwin's Collection)">
+		<description>VT220 Serial Terminal Emulator (World) (Program) (Erwin's Collection)</description>
+		<rom name="VT220 Serial Terminal Emulator (World) (Program) (Erwin's Collection).hex" size="62564" crc="ed6b17ae" md5="179ed60bef379dd4cb7f8f33758860e3" sha1="b0e384380a84e1b1503743c97db4ce5290d1fe15" status="verified"/>
+	</game>
+	<game name="Waternet (World) (Erwin's Collection)">
+		<description>Waternet (World) (Erwin's Collection)</description>
+		<rom name="Waternet (World) (Erwin's Collection).hex" size="63272" crc="380eaa6f" md5="ddcb0f15c5e40fbd6fd8b41c7511f40f" sha1="841527a8c31624f97692504feaec51f1fe7e68d0" status="verified"/>
+	</game>
+	<game name="WHG (World) (Erwin's Collection)">
+		<description>WHG (World) (Erwin's Collection)</description>
+		<rom name="WHG (World) (Erwin's Collection).hex" size="60508" crc="402efa69" md5="a368811b991c89a0256bab24b0581023" sha1="afe362c5a0bed9047da2ea97153f4f7d5abf04f4" status="verified"/>
+	</game>
+	<game name="Wire Screensaver (World) (Program) (Erwin's Collection)">
+		<description>Wire Screensaver (World) (Program) (Erwin's Collection)</description>
+		<rom name="Wire Screensaver (World) (Program) (Erwin's Collection).hex" size="37103" crc="d4d4ff5d" md5="64bd758c827c1965b8d13ee99de9617f" sha1="87d19296acc14894affe817e5370a8a1761b8904" status="verified"/>
+	</game>
+	<game name="Yatzy (World) (Erwin's Collection)">
+		<description>Yatzy (World) (Erwin's Collection)</description>
+		<rom name="Yatzy (World) (Erwin's Collection).hex" size="51796" crc="4b033db3" md5="3056674a55c13e63ad845e6da6f73c67" sha1="6b545faa616ff0b28162565a754908913f847180" status="verified"/>
+	</game>
+	<game name="Yatzy (World) (v1.3)">
+		<description>Yatzy (World) (v1.3)</description>
+		<rom name="Yatzy (World) (v1.3).hex" size="50487" crc="3025bb5e" md5="bdf32fabba119c86bd1c1184b33f0ab5" sha1="14e82182a38496aed6fabd53d764489c7d2d24fc"/>
+	</game>
+	<game name="You Won't Survive (World) (Erwin's Collection)">
+		<description>You Won't Survive (World) (Erwin's Collection)</description>
+		<rom name="You Won't Survive (World) (Erwin's Collection).hex" size="38828" crc="e9c1d8f8" md5="e4277e3b076b30745b506b0fa72f1a4d" sha1="1ce8be13efd83877df53e4c9a98a4c3183d862c0" status="verified"/>
+	</game>
+	<game name="YUM YUM (World)">
+		<description>YUM YUM (World)</description>
+		<rom name="YUM YUM (World).hex" size="41720" crc="c0f7ea6e" md5="2df58289f4aabfb000c9fd1717e8a9b5" sha1="ed3858ab35df37a220bcd02ae3e4b4d8265e890a"/>
+	</game>
+	<game name="YUM YUM (World) (No QR Code)">
+		<description>YUM YUM (World) (No QR Code)</description>
+		<rom name="YUM YUM (World) (No QR Code).hex" size="40190" crc="8ea247cc" md5="e32b82fa26c4421f2e76714612f49f83" sha1="d7890c9694361cc793e099a28101204c063f64bc"/>
+	</game>
+	<game name="Zoo (World) (Erwin's Collection)">
+		<description>Zoo (World) (Erwin's Collection)</description>
+		<rom name="Zoo (World) (Erwin's Collection).hex" size="58680" crc="aa577739" md5="53b767e1c576d96b7b6e93f725a3790a" sha1="c6ba365a16bca7529367185c7b694047545fcd0f" status="verified"/>
+	</game>
+	<game name="Zoo at Midnight (World) (Erwin's Collection)">
+		<description>Zoo at Midnight (World) (Erwin's Collection)</description>
+		<rom name="Zoo at Midnight (World) (Erwin's Collection).hex" size="58584" crc="d9879358" md5="c8459bc68c1a7bb1886ea092bf107cf3" sha1="dceb9bd9c732790e07ebd386fe29226d4a0f75ae" status="verified"/>
+	</game>
+	<game name="ZooEscape (World) (Erwin's Collection)">
+		<description>ZooEscape (World) (Erwin's Collection)</description>
+		<rom name="ZooEscape (World) (Erwin's Collection).hex" size="59516" crc="01c1f61b" md5="1d9d24019d71a768f3a95c24e676c8c3" sha1="7a99ca8091c8379851a224a14c282ccb48037d15" status="verified"/>
+	</game>
+</datafile>

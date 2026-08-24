@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>161</id>
+		<name>Non-Redump - Nintendo - Wii (Parent-Clone)</name>
+		<description>Non-Redump - Nintendo - Wii (Parent-Clone)</description>
+		<subset>Non-Redump</subset>
+		<version>20260515-120026</version>
+		<date>20260515-120026</date>
+		<author>Gefflon, Hiccup, NovaAurora, rarenight, relax</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="[BIOS] iQue Wii (China) (NAND) [b]">
+		<description>[BIOS] iQue Wii (China) (NAND) [b]</description>
+		<rom name="[BIOS] iQue Wii (China) (NAND) [b].zip" size="32293568" crc="366a6ecc" md5="842245510e2c4375a7bc49b8d68cf635" sha1="4ba7aba22838322671a4ab9fea83f79b8354176e" status="baddump"/>
+	</game>
+	<game name="[BIOS] RVL-101 (USA) (NAND)">
+		<description>[BIOS] RVL-101 (USA) (NAND)</description>
+		<rom name="[BIOS] RVL-101 (USA) (NAND).bin" size="553648128" crc="7e65f2e8" md5="384b6fa29c7f98039c239f89331b2678" sha1="32841236e8b7e40bc1dd5a4bd3cec07c2c00d3a3"/>
+		<rom name="[BIOS] RVL-101 (USA) (NAND) (BackupMii Key Dump).bin" size="1024" crc="b593a301" md5="0cbb98943fa9f289ab5f048b2a42c195" sha1="2e1731ea815eaf779fc7abda0e36905c4dd8ee3b"/>
+	</game>
+	<game name="Aging Disc RVL (Japan)">
+		<description>Aging Disc RVL (Japan)</description>
+		<rom name="Aging Disc RVL (Japan) (v1.0).iso" size="4699979776" crc="28c593af" md5="68c6e2847ccb8cbc453bdcc7d38171f9" sha1="4d7847d81b24fd29fcbedff40f0dcb5e571828a4"/>
+	</game>
+	<game name="Auto Erase Disc (USA) (005E)">
+		<description>Auto Erase Disc (USA) (005E)</description>
+		<rom name="Auto Erase Disc (USA) (005E).iso" size="4699979776" crc="cc04d691" md5="9cfead7ba1a86dc99aa2664fafe17eec" sha1="21f39cf8956624739799334af242aab6e82a6b57"/>
+	</game>
+	<game name="Conduit, The (USA) (Demo) (Kiosk, E3 2008)">
+		<description>Conduit, The (USA) (Demo) (Kiosk, E3 2008)</description>
+		<release name="Conduit, The (USA) (Demo) (Kiosk, E3 2008)" region="USA"/>
+		<rom name="Conduit, The (USA) (Demo) (Kiosk, E3 2008).iso" size="4699979776" crc="7d7ab896" md5="ee23da7b7cfe8cde0cb96fed60edc85d" sha1="f341fd19737d3b52178fb5917211565cdd55a887"/>
+		<rom name="Conduit, The (USA) (Demo) (Kiosk, E3 2008) (Controls).jpg" size="1402615" crc="dc3cdb6f" md5="63e62f4820fea9c1e7d6b950d29ea165" sha1="ad3b41d6fe39fc09f4f3511c1d7f7c4d6732c748"/>
+	</game>
+	<game name="Connie Talbot - Over the Rainbow (Europe) (Proto)">
+		<description>Connie Talbot - Over the Rainbow (Europe) (Proto)</description>
+		<rom name="Connie Talbot - Over the Rainbow (Europe) (Proto).iso" size="4707319808" crc="786d13aa" md5="4a39c0146ca1291985e319a5ab84b695" sha1="c02c0f6a278252ac76304bb7b821c9caa999d3c3"/>
+	</game>
+	<game name="Heatseeker (USA) (Beta) [b]">
+		<description>Heatseeker (USA) (Beta) [b]</description>
+		<rom name="Heatseeker (USA) (Beta) [b].iso" size="4699979776" crc="ed78a91a" md5="74acff564cae85603d76dd3c6fec2973" sha1="b498ce6dd9b3d1c1f16521c0416d1f514252fb02" status="baddump"/>
+	</game>
+	<game name="Legend of Zelda, The - Twilight Princess (Europe) (Demo) (Kiosk)">
+		<description>Legend of Zelda, The - Twilight Princess (Europe) (Demo) (Kiosk)</description>
+		<release name="Legend of Zelda, The - Twilight Princess (Europe) (Demo) (Kiosk)" region="EUR"/>
+		<rom name="Legend of Zelda, The - Twilight Princess (Europe) (Demo) (Kiosk).iso" size="4699979776" crc="9e280f94" md5="6aa87493a4d10d8bdae703388b079386" sha1="21932a1e00433787380aaffd64916317b7b09335"/>
+	</game>
+	<game name="Madden NFL 12 (USA) (Beta) (2011-06-02)">
+		<description>Madden NFL 12 (USA) (Beta) (2011-06-02)</description>
+		<rom name="Madden NFL 12 (USA) (Beta) (2011-06-02).iso" size="4707188736" crc="446c9423" md5="e9456da1e7437e39b08d434edc15947a" sha1="34d4255261312da59ec10e7564a522ea47cd64a6"/>
+	</game>
+	<game name="Madden NFL 12 (USA) (Beta) (2011-06-03)" cloneof="Madden NFL 12 (USA) (Beta) (2011-06-02)">
+		<description>Madden NFL 12 (USA) (Beta) (2011-06-03)</description>
+		<rom name="Madden NFL 12 (USA) (Beta) (2011-06-03).iso" size="4707188736" crc="7de59716" md5="24467f4174c9a685e98ed2335a24f32b" sha1="d82d36ac553b46a3fbdf5c6ec096a045495e7c93"/>
+	</game>
+	<game name="Madden NFL 12 (USA) (Beta) (2011-01-12)" cloneof="Madden NFL 12 (USA) (Beta) (2011-06-02)">
+		<description>Madden NFL 12 (USA) (Beta) (2011-01-12)</description>
+		<rom name="Madden NFL 12 (USA) (Beta) (2011-01-12).iso" size="4707188736" crc="ab176948" md5="dd82a9833cdb2a492eadeff75349fa22" sha1="c14462dd815bcb51f589f5c0371b9973caca56ee"/>
+	</game>
+	<game name="Mario &amp; Sonic at the Olympic Winter Games (Europe) (Beta) (2009-08-19)">
+		<description>Mario &amp; Sonic at the Olympic Winter Games (Europe) (Beta) (2009-08-19)</description>
+		<rom name="Mario &amp; Sonic at the Olympic Winter Games (Europe) (Beta) (2009-08-19).iso" size="4707319808" crc="93265b45" md5="6e64124cd803bdd63d230528ce7e96e5" sha1="c813b8c72a43dbc6506d41ce5667d848323a2dac"/>
+	</game>
+	<game name="Pre-Repair Check Disc (USA) (v2.2) [b]">
+		<description>Pre-Repair Check Disc (USA) (v2.2) [b]</description>
+		<rom name="Pre-Repair Check Disc (USA) (v2.2) [b].iso" size="261652480" crc="871dcdee" md5="c70a6a2c6d96f76339812d4345ac19b6" sha1="ef5d9c6b84682b06a51ee7bf0415dc1149a1d585" status="baddump"/>
+	</game>
+	<game name="Read WAD from SD (USA)">
+		<description>Read WAD from SD (USA)</description>
+		<rom name="Read WAD from SD (USA).iso" size="4699979776" crc="6d9595ea" md5="fefa2fccb40bdbfe1d1711d72710bb05" sha1="dc51094571ab8dfb6b4353c3ceea3254af2ae21d"/>
+	</game>
+	<game name="Rock Band 2 (USA) (Beta) (2008-10-07)">
+		<description>Rock Band 2 (USA) (Beta) (2008-10-07)</description>
+		<rom name="Rock Band 2 (USA) (Beta) (2008-10-07).iso" size="4707319808" crc="98df40aa" md5="163152fc794d613c89a6177139c8b363" sha1="9b266f4e1254b7a10282b4d556550ffd55ce5662"/>
+	</game>
+	<game name="RVL Diag (Japan) (v4.3)">
+		<description>RVL Diag (Japan) (v4.3)</description>
+		<rom name="RVL Diag (Japan) (v4.3).iso" size="4699979776" crc="d27ffc47" md5="7623b42b333845d41d02e8fbba0a474a" sha1="c3f85939c0382604819df68a587e49add4d6591b"/>
+	</game>
+	<game name="RVL Diag (Japan) (v4.4)">
+		<description>RVL Diag (Japan) (v4.4)</description>
+		<rom name="RVL Diag (Japan) (v4.4).iso" size="4707319808" crc="3c5919fd" md5="cd2c15adf10b9957c4493250c7091674" sha1="99b8ce159c229eab8225c3d4054dcbaabab3ed00"/>
+	</game>
+	<game name="RVL Uji Diag (Japan) (v2.0)">
+		<description>RVL Uji Diag (Japan) (v2.0)</description>
+		<rom name="RVL Uji Diag (Japan) (v2.0).iso" size="4699979776" crc="ff180a0b" md5="8b6191dcd3548d0a816e15c1d1835a1a" sha1="5c29a8c291597fd2b3f8ce0a319f076bb42b5f85"/>
+	</game>
+	<game name="RVL Uji Diag (Japan)">
+		<description>RVL Uji Diag (Japan)</description>
+		<rom name="RVL Uji Diag (Japan) (v1.0).iso" size="4707319808" crc="8dd83866" md5="6457d9983cc2d76babffdc84df4ed70f" sha1="d14926faadff9cb7802e6773dff68441f2362dd0"/>
+	</game>
+	<game name="Sky Crawlers, The - Innocent Aces (USA) (Proto)">
+		<description>Sky Crawlers, The - Innocent Aces (USA) (Proto)</description>
+		<rom name="Sky Crawlers, The - Innocent Aces (USA) (Proto).iso" size="4699979776" crc="1309cbb1" md5="09d1ef3239e5d8fc43e50f9e9a997cc8" sha1="6107fb2d5b1770853a4e88c48de72988eb1eaec8"/>
+	</game>
+	<game name="Sonic &amp; Sega All-Stars Racing (Europe) (Beta)">
+		<description>Sonic &amp; Sega All-Stars Racing (Europe) (Beta)</description>
+		<rom name="Sonic &amp; Sega All-Stars Racing (Europe) (Beta).iso" size="4707319808" crc="262ae8ab" md5="22502dd6c6bfcd14a80a412f16185bb5" sha1="e68772c051039d1ed7b8cd23502003bc41e3e309"/>
+	</game>
+	<game name="Sonic and the Black Knight (Europe) (Beta)">
+		<description>Sonic and the Black Knight (Europe) (Beta)</description>
+		<rom name="Sonic and the Black Knight (Europe) (Beta).iso" size="4707319808" crc="dc418d32" md5="0488cd5c9182c51d85c2f8cf993cd72c" sha1="5694f02222768c5edb9d5001f9bf7a8364e7fe2f"/>
+	</game>
+	<game name="The House of the Dead - Overkill (USA) (Beta)">
+		<description>The House of the Dead - Overkill (USA) (Beta)</description>
+		<rom name="The House of the Dead - Overkill (USA) (Beta).iso" size="4699979776" crc="65d05fd8" md5="95067a4282a7977ad3ba12bf2e6be7c5" sha1="cfdad09ae7f8c9a594c10df44ebd969e9becfe65"/>
+	</game>
+	<game name="Urban Extreme - Street Rage (Europe) (Beta) (2009-01-29)">
+		<description>Urban Extreme - Street Rage (Europe) (Beta) (2009-01-29)</description>
+		<rom name="Urban Extreme - Street Rage (Europe) (Beta) (2009-01-29).iso" size="4707319808" crc="cc07cecf" md5="94bca3e811d49a77300f4b8ba2a293fb" sha1="48a4b6e8123ed5a3f2653d6ec75d9611a3c59afd"/>
+	</game>
+	<game name="WAD Installer (Unknown)">
+		<description>WAD Installer (Unknown)</description>
+		<rom name="WAD Installer (Unknown).iso" size="4707319808" crc="a1669fa8" md5="33a34cbf3b2ec76bac5a77e20bc5d0b2" sha1="19beebfec212cb641534003318432f507c1965eb"/>
+	</game>
+	<game name="Wii Startup Disc (USA) (RAAE01-v0.prod) [b]">
+		<description>Wii Startup Disc (USA) (RAAE01-v0.prod) [b]</description>
+		<rom name="Wii Startup Disc (USA) (RAAE01-v0.prod) [b].iso" size="299335680" crc="c17999e4" md5="469203315e7418e30106b0dc6dca724d" sha1="68d0c6e25c4c53edc65594c78f6082ae54c44151" status="baddump"/>
+	</game>
+	<game name="Wii Startup Disc (China) (iQue) [b]">
+		<description>Wii Startup Disc (China) (iQue) [b]</description>
+		<rom name="Wii Startup Disc (China) (iQue) [b].iso" size="101679104" crc="5970d4e8" md5="d18074333f2671f80c2f37ec3ce863c5" sha1="58f0be60096ed5bdb0262fd8f96553eac83cffef" status="baddump"/>
+	</game>
+	<game name="Wii Startup Disc (USA) (RAAE01-v0.devel) [b]">
+		<description>Wii Startup Disc (USA) (RAAE01-v0.devel) [b]</description>
+		<rom name="Wii Startup Disc (USA) (RAAE01-v0.devel) [b].iso" size="299335680" crc="fb408cb5" md5="0bc731c278d91ceaf2c31e40029a52e1" sha1="77d3afb4a3ea8e334601446c1b9815a7f77d9aa6" status="baddump"/>
+	</game>
+	<game name="Wii Startup Disc (USA)">
+		<description>Wii Startup Disc (USA)</description>
+		<rom name="Wii Startup Disc (USA).iso" size="4699979776" crc="635bb6c8" md5="0e3f73e64464b3726b1140be3250ec30" sha1="23fca02a0ecfce34905da5f815271e00104a53e9"/>
+	</game>
+</datafile>
