@@ -50,6 +50,10 @@ jobs:
         if: ${{ ! cancelled() }}
         run: pipenv run python3 pleasuredome-mame.py
 
+      - name: Download dats for Pleasuredome HBMAME (full sets)
+        if: ${{ ! cancelled() }}
+        run: pipenv run python3 pleasuredome-hbmame.py
+
       - name: Build retrobat-systems.json (RetroBat system -> dat candidates)
         if: ${{ ! cancelled() }}
         run: pipenv run python3 retrobat-systems.py
@@ -75,7 +79,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add no-intro redump tosec whdload pleasuredome-mame
+          git add no-intro redump tosec whdload pleasuredome-mame pleasuredome-hbmame
           git diff --staged --quiet || git commit -m "Update individual dat files"
           git push
 
