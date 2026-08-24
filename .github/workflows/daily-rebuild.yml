@@ -75,6 +75,10 @@ jobs:
         if: ${{ ! cancelled() }}
         run: pipenv run python3 eggmansworld-datfiles.py
 
+      - name: Download dats for Libretro-database (dat folder)
+        if: ${{ ! cancelled() }}
+        run: pipenv run python3 libretro-database-dat.py
+
       - name: Build retrobat-systems.json (RetroBat system -> dat candidates)
         if: ${{ ! cancelled() }}
         run: pipenv run python3 retrobat-systems.py
