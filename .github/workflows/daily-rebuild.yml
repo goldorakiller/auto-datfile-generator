@@ -58,6 +58,10 @@ jobs:
         if: ${{ ! cancelled() }}
         run: pipenv run python3 pleasuredome-pinball.py
 
+      - name: Download dats for FBNeo
+        if: ${{ ! cancelled() }}
+        run: pipenv run python3 fbneo.py
+
       - name: Build retrobat-systems.json (RetroBat system -> dat candidates)
         if: ${{ ! cancelled() }}
         run: pipenv run python3 retrobat-systems.py
@@ -83,7 +87,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add no-intro redump tosec whdload pleasuredome-mame pleasuredome-hbmame visual-pinball future-pinball
+          git add no-intro redump tosec whdload pleasuredome-mame pleasuredome-hbmame visual-pinball future-pinball fbneo
           git diff --staged --quiet || git commit -m "Update individual dat files"
           git push
 
