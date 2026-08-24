@@ -1,0 +1,408 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>424</id>
+		<name>Blaze Entertainment - Evercade (Parent-Clone)</name>
+		<description>Blaze Entertainment - Evercade (Parent-Clone)</description>
+		<version>20251020-161035</version>
+		<date>20251020-161035</date>
+		<author>NovaAurora</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="[BIOS] Evercade Bootloader (World) (v3.0.0)">
+		<description>[BIOS] Evercade Bootloader (World) (v3.0.0)</description>
+		<rom name="boot.bin" size="174415" crc="d3672b5e" md5="7651cdfdfbcdaa3ead04412080bd19bd" sha1="ef5fe517a091a8663dbcad0b3017c181e96609ee"/>
+	</game>
+	<game name="[BIOS] Evercade Bootloader (World)">
+		<description>[BIOS] Evercade Bootloader (World)</description>
+		<rom name="boot.bin" size="174414" crc="beb5d579" md5="88d14fb55b28175e8d90010e22ba0f4c" sha1="daa605a8458cb54c22235fade6919d541437510f"/>
+	</game>
+	<game name="[BIOS] Evercade VS Bootloader (World)">
+		<description>[BIOS] Evercade VS Bootloader (World)</description>
+		<rom name="boot.bin" size="194951" crc="f35e56f8" md5="44a2ee91c2b24d6b2d77c61f44ebb57e" sha1="15b9bb89808e16853ed9f27953c63054c380e318"/>
+	</game>
+	<game name="[BIOS] Super Pocket Atari Edition Root File System (World)">
+		<description>[BIOS] Super Pocket Atari Edition Root File System (World)</description>
+		<rom name="[BIOS] Super Pocket Atari Edition Root File System (World).rootfs" size="1610612736" crc="4b2a6894" md5="f3c773e295cb1cf5bc892b485877b4bf" sha1="28bd0969f51d21c7e5d486fa6cce574acfb5e116"/>
+	</game>
+	<game name="[BIOS] Super Pocket Bootloader (World)">
+		<description>[BIOS] Super Pocket Bootloader (World)</description>
+		<rom name="boot.bin" size="139598" crc="69c80bb8" md5="944dab164b07f923ec1ea22117dcd424" sha1="c4f94262993d6639e39f8e2dd38d5d56198e0733"/>
+	</game>
+	<game name="[BIOS] Super Pocket Capcom Edition Root File System (World) (v1.4.0)">
+		<description>[BIOS] Super Pocket Capcom Edition Root File System (World) (v1.4.0)</description>
+		<rom name="[BIOS] Super Pocket Capcom Edition Root File System (World) (v1.4.0).rootfs" size="1610612736" crc="20ec135f" md5="759ab4b92fe5cc000c8f3a579d699b5d" sha1="c348d17754d6578e46317f586a0ba9493ff3f570"/>
+	</game>
+	<game name="[BIOS] Super Pocket Capcom Edition Root File System (World)">
+		<description>[BIOS] Super Pocket Capcom Edition Root File System (World)</description>
+		<rom name="[BIOS] Super Pocket Capcom Edition Root File System (World).rootfs" size="1610612736" crc="149aba3f" md5="5e5ea43d25aaf285048ca64049270963" sha1="fdd933f7a07206d6206d001e569f3fb9d640d41c"/>
+	</game>
+	<game name="[BIOS] Super Pocket Taito Edition Root File System (World)">
+		<description>[BIOS] Super Pocket Taito Edition Root File System (World)</description>
+		<rom name="[BIOS] Super Pocket Taito Edition Root File System (World).rootfs" size="1610612736" crc="4146777e" md5="e764353f79ba77523c2ef273c9ae52ba" sha1="509a52607102a818a885125ee7f60c2f76fa6b93"/>
+	</game>
+	<game name="[BIOS] Super Pocket Technos Edition Root File System (World) (v1.4.0)">
+		<description>[BIOS] Super Pocket Technos Edition Root File System (World) (v1.4.0)</description>
+		<rom name="[BIOS] Super Pocket Technos Edition Root File System (World) (v1.4.0).rootfs" size="1610612736" crc="db3b94e9" md5="7898ccc6b964c8b4bae54bc7fda4da5e" sha1="8b0ec26936a7fbfb1930badaf42b6f8b69430b75"/>
+	</game>
+	<game name="Alwa's Awakening &amp; Cathedral (World)">
+		<description>Alwa's Awakening &amp; Cathedral (World)</description>
+		<rom name="Alwa's Awakening &amp; Cathedral (World).img" size="126877696" crc="2c8bd980" md5="9ce6c34accaf54982993903aeddc7868" sha1="10bb0b641dba6278cef04e6a3ab3190092c98283"/>
+	</game>
+	<game name="Alwa's Awakening &amp; Cathedral (Europe)">
+		<description>Alwa's Awakening &amp; Cathedral (Europe)</description>
+		<rom name="Alwa's Awakening &amp; Cathedral (Europe).img" size="320036864" crc="2306b264" md5="1599e8253b856f0c54bf07d2ca03dc2e" sha1="c6d5380982979411587da9cbb0dc10b04e74721a"/>
+	</game>
+	<game name="Atari Arcade 1 (World)">
+		<description>Atari Arcade 1 (World)</description>
+		<rom name="Atari Arcade 1 (World).img" size="126877696" crc="9f88b74d" md5="57acc93a25f051299739e55ca4661786" sha1="8b576ff1aebb31155b4f44cdc39e522796d9c19e"/>
+	</game>
+	<game name="Atari Arcade 2 (World)">
+		<description>Atari Arcade 2 (World)</description>
+		<rom name="Atari Arcade 2 (World).img" size="126877696" crc="5e1e8637" md5="f131668cc5c8f2cc5d6df3d99ae845f9" sha1="75a06356619fd899c70958e84439f9f8c3cb6e6a"/>
+	</game>
+	<game name="Atari Collection 1 (Europe) [b]">
+		<description>Atari Collection 1 (Europe) [b]</description>
+		<rom name="Atari Collection 1 (Europe) [b].img" size="126746624" crc="7f305e94" md5="8c57292962cc39e5a17ca6f03336ab62" sha1="45e8122512850a9a4f4ead8fa8e762a1f7bd29cd" status="baddump"/>
+	</game>
+	<game name="Atari Collection 2 (Europe)">
+		<description>Atari Collection 2 (Europe)</description>
+		<rom name="Atari Collection 2 (Europe).img" size="126877696" crc="18960957" md5="a28af145c6661bbc1c474f1008c98332" sha1="153f7e49ce174d39a4f9ba3402ca647ddf87450b"/>
+	</game>
+	<game name="Atari Lynx Collection 1 (Europe)">
+		<description>Atari Lynx Collection 1 (Europe)</description>
+		<rom name="Atari Lynx Collection 1 (Europe).img" size="126877696" crc="76cd3f80" md5="8c71dd47e7faf21823d891dead095f4e" sha1="6121a8677544a074733de6fefe457b5eca1779a4"/>
+	</game>
+	<game name="Atari Lynx Collection 2 (Europe) [b]">
+		<description>Atari Lynx Collection 2 (Europe) [b]</description>
+		<rom name="Atari Lynx Collection 2 (Europe) [b].img" size="126877696" crc="f4757669" md5="2e8d1fb01791b873fbfa7a2b3121178f" sha1="f9719183e3f16eeecc79759330b051a079e943e6" status="baddump"/>
+	</game>
+	<game name="Bitmap Brothers Collection 1, The (Europe) [b]">
+		<description>Bitmap Brothers Collection 1, The (Europe) [b]</description>
+		<rom name="Bitmap Brothers Collection 1, The (Europe) [b].img" size="504365056" crc="18ea9631" md5="97ca91553aca70abe171d3320fa13e39" sha1="dce5eff6cc24000f3713895411fdb2a94a27c8dc" status="baddump"/>
+	</game>
+	<game name="Bitmap Brothers Collection 2, The (World)">
+		<description>Bitmap Brothers Collection 2, The (World)</description>
+		<rom name="Bitmap Brothers Collection 2, The (World).img" size="504365056" crc="c6d2700c" md5="afe94d7c843d1738669afbb095b33577" sha1="c144483193d4ac320cfd9577b3bc3e55d722497e"/>
+	</game>
+	<game name="Broken Sword Collection (World)">
+		<description>Broken Sword Collection (World)</description>
+		<rom name="Broken Sword Collection (World).img" size="1010827264" crc="faeb5b70" md5="073f828d5de9d09200dee9b389fb565b" sha1="428641e30e51f0dc82c2429500d5fb9038748769"/>
+	</game>
+	<game name="Codemasters Collection 1 (World)">
+		<description>Codemasters Collection 1 (World)</description>
+		<rom name="Codemasters Collection 1 (World).img" size="126877696" crc="40b0ee3f" md5="0d07a535696b084ac383a4f75aa03d3d" sha1="ab7d08415060f30b2a4de805013d9f20c7e731f6"/>
+	</game>
+	<game name="Codemasters Collection 1 (Europe)">
+		<description>Codemasters Collection 1 (Europe)</description>
+		<rom name="Codemasters Collection 1 (Europe).img" size="126877696" crc="cddf610b" md5="ef278e7aa933754daf43ef422129302b" sha1="ab9b0888b42ccbd7c7302f9fb989b0146836c2f6"/>
+	</game>
+	<game name="Data East Arcade 1 (World) [b]">
+		<description>Data East Arcade 1 (World) [b]</description>
+		<rom name="Data East Arcade 1 (World).img" size="126877696" crc="fdf14571" md5="a755d05544057fa8cdcf3fc2cd2a305b" sha1="59984a9dfe426c9dc1f4e8e1e8b5333bbdf37c4a" status="baddump"/>
+	</game>
+	<game name="Data East Arcade 1 (Europe) [b]">
+		<description>Data East Arcade 1 (Europe) [b]</description>
+		<rom name="Data East Arcade 1 (Europe) [b].img" size="126877696" crc="c87d81b2" md5="f91a4bd6874b15ef78cab49cbfef0205" sha1="451d006c6178eda1811265bb58dd1fe982153a24" status="baddump"/>
+	</game>
+	<game name="Data East Arcade 2 (World)">
+		<description>Data East Arcade 2 (World)</description>
+		<rom name="Data East Arcade 2 (World).img" size="126877696" crc="4767adf9" md5="3ec088dd06aaf5da55f38a778569af05" sha1="819585841b74ae92eb28e79dd38bceb10f000981"/>
+	</game>
+	<game name="Data East Collection 1 (Europe)">
+		<description>Data East Collection 1 (Europe)</description>
+		<rom name="Data East Collection 1 (Europe).img" size="126877696" crc="0bd2f642" md5="f183ee509c31f3e8556af56596b5268a" sha1="addaf0f97fe28b21d3b70fbabefc060e6738703d"/>
+	</game>
+	<game name="Delphine Software Collection 1 (World)">
+		<description>Delphine Software Collection 1 (World)</description>
+		<rom name="Delphine Software Collection 1 (World).img" size="504365056" crc="a8042c97" md5="76c5e0a962e10ee6fa78d345e832134f" sha1="c85c8f843d463ac1180c3ce3286c9d6a222d7ede"/>
+	</game>
+	<game name="Delphine Software Collection 1 (Europe)">
+		<description>Delphine Software Collection 1 (Europe)</description>
+		<rom name="Delphine Software Collection 1 (Europe).img" size="503316480" crc="9293df88" md5="d8d6f7b70780ed4e0def4b91c0b9d947" sha1="183e4e60b4744e444a7063490e06ec65b722a84b"/>
+	</game>
+	<game name="Demons of Asteborg &amp; Astebros (World)">
+		<description>Demons of Asteborg &amp; Astebros (World)</description>
+		<rom name="Demons of Asteborg &amp; Astebros (World).img" size="126877696" crc="e07d0989" md5="83f304ff5cb1f75d8e52d4bcdf85d584" sha1="f9fc0c01640eddb937cfb492f004d23fbae6ae4c"/>
+	</game>
+	<game name="Demons of Asteborg &amp; Astebros (Europe)">
+		<description>Demons of Asteborg &amp; Astebros (Europe)</description>
+		<rom name="Demons of Asteborg &amp; Astebros (Europe).img" size="126877696" crc="979d64aa" md5="c92608511e411f45504dfd4389bd2fdb" sha1="96e10482730facead6c95bf26a4bb639dbf7ba38"/>
+	</game>
+	<game name="Duke Nukem Collection 1 (World)">
+		<description>Duke Nukem Collection 1 (World)</description>
+		<rom name="Duke Nukem Collection 1 (World).img" size="504365056" crc="a6fe7eca" md5="927ce485558314b81ea429f415397443" sha1="4800c19bc4434b365c9fcf6192f07976be31b07c"/>
+	</game>
+	<game name="Duke Nukem Collection 1 (Europe)">
+		<description>Duke Nukem Collection 1 (Europe)</description>
+		<rom name="Duke Nukem Collection 1 (Europe).img" size="504365056" crc="76d1d2cc" md5="635878d68629df9c6f5754137a0bd897" sha1="ed45c04aa15306ed779fe2a7d26958986ee6af0e"/>
+	</game>
+	<game name="Duke Nukem Collection 2 (World)">
+		<description>Duke Nukem Collection 2 (World)</description>
+		<rom name="Duke Nukem Collection 2 (World).img" size="504365056" crc="4c2e9c28" md5="75ae11ff16935efd5078359a2de81b68" sha1="b6b4a241f07be32ecce02b203eb9e49cb559fb2a"/>
+	</game>
+	<game name="Duke Nukem Collection 2 (Europe)">
+		<description>Duke Nukem Collection 2 (Europe)</description>
+		<rom name="Duke Nukem Collection 2 (Europe).img" size="504365056" crc="c3c2d2ea" md5="ccd332d9be4eb6f591fd77c2d959e063" sha1="a83aabe4f9298aa8ecd1920bc3ce922d5bbecc18"/>
+	</game>
+	<game name="Full Void (World)">
+		<description>Full Void (World)</description>
+		<rom name="Full Void (World).img" size="126877696" crc="174b6a9d" md5="8b091f0e363cca6a9324163dda7a8ee9" sha1="4bb57c87e7322af846c3669d3d1d10d019feddef"/>
+	</game>
+	<game name="Full Void (Europe)">
+		<description>Full Void (Europe)</description>
+		<rom name="Full Void (Europe).img" size="126877696" crc="1886bda4" md5="7211da7e7fd2e5b5075cd3b73f9ea25f" sha1="84630d44d810c79c624254c8574735b24392fa44"/>
+	</game>
+	<game name="Goodboy Galaxy &amp; Witch n' Wiz (World) [b]">
+		<description>Goodboy Galaxy &amp; Witch n' Wiz (World) [b]</description>
+		<rom name="Goodboy Galaxy &amp; Witch n' Wiz (World) [b].img" size="126877696" crc="4742453a" md5="59ddda85d00b607291c9312408533eb5" sha1="ea43a8852e5c83db7e2c940157b5d86f6e0e8888" status="baddump"/>
+	</game>
+	<game name="Gremlin Collection 1 (World)">
+		<description>Gremlin Collection 1 (World)</description>
+		<rom name="Gremlin Collection 1 (World).img" size="504365056" crc="7e93a8ee" md5="74216dec7994712c654f86e4ed7b0cd7" sha1="e0f9af6ca76caf1b2e6ea75f771dbccc0617d633"/>
+	</game>
+	<game name="Gremlin Collection 1 (Europe)">
+		<description>Gremlin Collection 1 (Europe)</description>
+		<rom name="Gremlin Collection 1 (Europe).img" size="504365056" crc="0b5486ca" md5="fb6a326d74418ac47edac31ca0768bb0" sha1="b5f43bb8392bc1faea4df6f4206c987106f07e89"/>
+	</game>
+	<game name="Gremlin Collection 2 (World)">
+		<description>Gremlin Collection 2 (World)</description>
+		<rom name="Gremlin Collection 2 (World).img" size="1010827264" crc="44be75bb" md5="ad4267337ae4033c75e5da2f5b4d84bb" sha1="9727b4655d8db21dee7c82bcb47872403a5232f1"/>
+	</game>
+	<game name="Home Computer Heroes Collection 1 (World)">
+		<description>Home Computer Heroes Collection 1 (World)</description>
+		<rom name="Home Computer Heroes Collection 1 (World).img" size="504365056" crc="d47a9f81" md5="f6a226054d6b292a236d8646b7476e9d" sha1="be6c4f9a5af99a34b8dd7b3e2e5562babea9b199"/>
+	</game>
+	<game name="Home Computer Heroes Collection 1 (Europe)">
+		<description>Home Computer Heroes Collection 1 (Europe)</description>
+		<rom name="Home Computer Heroes Collection 1 (Europe).img" size="504365056" crc="17b84dc5" md5="6d547890c4a85fd462baed945e172117" sha1="118f4ffdf5fd6a015016b553486e786cd8b378cf"/>
+	</game>
+	<game name="Indie Heroes Collection 1 (Europe)">
+		<description>Indie Heroes Collection 1 (Europe)</description>
+		<rom name="Indie Heroes Collection 1 (Europe).img" size="126877696" crc="757ad983" md5="b1523dc58feac6294adc3c4d89f72b61" sha1="116b5936e8139ec327fd64bf1b2df68cd60bc8ac"/>
+	</game>
+	<game name="Indie Heroes Collection 2 (World) [b]">
+		<description>Indie Heroes Collection 2 (World) [b]</description>
+		<rom name="Indie Heroes Collection 2 (World) [b].img" size="126877696" crc="0ab47259" md5="818014d517f1b524159687ed1fb9fcf2" sha1="fc9d02313cabbaf94ba2b3157df56387f34fe3ec" status="baddump"/>
+	</game>
+	<game name="Indie Heroes Collection 3 (Europe) (v1.0.1)">
+		<description>Indie Heroes Collection 3 (Europe) (v1.0.1)</description>
+		<rom name="Indie Heroes Collection 3 (Europe) (v1.0.1).img" size="504365056" crc="95e7014a" md5="d0cffce4571320097fd00f198fcd006c" sha1="d6e38b52ec472c28dcf833718179acbbb04228d4"/>
+	</game>
+	<game name="Indie Heroes Collection 4 (World)">
+		<description>Indie Heroes Collection 4 (World)</description>
+		<rom name="Indie Heroes Collection 4 (World).img" size="126877696" crc="e2c8e4ab" md5="3ee36c4a2c6ede98260d74e0822220a2" sha1="2e570cafca6576a808e82dbd73d44e6085ef61cf"/>
+	</game>
+	<game name="Intellivision Collection 1 (Europe)">
+		<description>Intellivision Collection 1 (Europe)</description>
+		<rom name="Intellivision Collection 1 (Europe).img" size="126877696" crc="7c0270cc" md5="26855854c897b4b0aeb79f22bc5fef9f" sha1="b8e3964e21f26548d4af065e437b188400373985"/>
+	</game>
+	<game name="Intellivision Collection 2 (World)">
+		<description>Intellivision Collection 2 (World)</description>
+		<rom name="Intellivision Collection 2 (World).img" size="126877696" crc="486557cd" md5="35035a6db13241767061656c07842632" sha1="ddd5f12d5e5732f877ca4a278b5a51a3621b9402"/>
+	</game>
+	<game name="Interplay Collection 1 (Europe)">
+		<description>Interplay Collection 1 (Europe)</description>
+		<rom name="Interplay Collection 1 (Europe).img" size="126746624" crc="f6e97507" md5="28c41291c4a48af87e2764cd23716965" sha1="5243a0912fc4a258c32608e9666b0f585e9fc288"/>
+	</game>
+	<game name="Interplay Collection 2 (Europe) (2024-11-08)">
+		<description>Interplay Collection 2 (Europe) (2024-11-08)</description>
+		<rom name="Interplay Collection 2 (Europe) (2024-11-08).img" size="126877696" crc="8fba07bd" md5="86cb3bdd714b4a00393604f3b82132b6" sha1="6ab4cd640d8c50650f3c44bd010ed288b1fce23a"/>
+	</game>
+	<game name="Interplay Collection 2 (Europe) (2020-11-17) [b]">
+		<description>Interplay Collection 2 (Europe) (2020-11-17) [b]</description>
+		<rom name="Interplay Collection 2 (Europe) (2020-11-17) [b].img" size="126877696" crc="99eed415" md5="d4136270b199f7fd1063d63c3ef3e304" sha1="1298058731becf5ecc6fd9b2647facb611a9bdc8" status="baddump"/>
+	</game>
+	<game name="Irem Arcade 1 (World)">
+		<description>Irem Arcade 1 (World)</description>
+		<rom name="Irem Arcade 1 (World).img" size="126877696" crc="f9a900d8" md5="cefc020f5f3e6076c5272e9ea3227966" sha1="0e0b3829f838977dec570c3616995f182f985b70"/>
+	</game>
+	<game name="Irem Arcade 1 (Europe)">
+		<description>Irem Arcade 1 (Europe)</description>
+		<rom name="Irem Arcade 1 (Europe).img" size="126877696" crc="19c6a6d2" md5="b0f0e057da4040af13e887abbf1c0736" sha1="7b5cc9d833ef1aa7db8d62a70e1deb2dca184cf7"/>
+	</game>
+	<game name="Jaleco Arcade 1 (World)">
+		<description>Jaleco Arcade 1 (World)</description>
+		<rom name="Jaleco Arcade 1 (World).img" size="126877696" crc="4a23bd3d" md5="4839e1f30bebe984b94a15a6403641bb" sha1="99cfc6b7e390254ae9cc47b494bc5b059650c48e"/>
+	</game>
+	<game name="Jaleco Collection 1 (World)">
+		<description>Jaleco Collection 1 (World)</description>
+		<rom name="Jaleco Collection 1 (World).img" size="126877696" crc="bcb442cc" md5="08674c768ebae42f099ead92195cd7fc" sha1="0ad630905b1607518ff620693f4b37b87d5bf0a9"/>
+	</game>
+	<game name="Legacy of Kain Collection (World)">
+		<description>Legacy of Kain Collection (World)</description>
+		<rom name="Legacy of Kain Collection (World).img" size="1010827264" crc="6df1db14" md5="d14ab3abb4e6c68b2aae93064ad5fbed" sha1="89470cb9859bcb4814432aa9afbefa1cae789ffb"/>
+	</game>
+	<game name="Mega Cat Studios Collection 1 (Europe)">
+		<description>Mega Cat Studios Collection 1 (Europe)</description>
+		<rom name="Mega Cat Studios Collection 1 (Europe).img" size="126877696" crc="80be4151" md5="865b0e2ed4dbe00c667de722d12b765f" sha1="5e55b194aecda65e2fda2c4636734a9672d17e41"/>
+	</game>
+	<game name="Mega Cat Studios Collection 2 (Europe) (2023-12-29)">
+		<description>Mega Cat Studios Collection 2 (Europe) (2023-12-29)</description>
+		<rom name="Mega Cat Studios Collection 2 (Europe) (2023-12-29).img" size="126877696" crc="d02e267b" md5="b2a54d743474eb766219f6de3e170088" sha1="c77839a931b2705d726187bd479320ae42ece761"/>
+	</game>
+	<game name="Mega Cat Studios Collection 2 (Europe) (2021-05-25)">
+		<description>Mega Cat Studios Collection 2 (Europe) (2021-05-25)</description>
+		<rom name="Mega Cat Studios Collection 2 (Europe) (2021-05-25).img" size="122683392" crc="9cabe0f0" md5="8f5b648cff82c861231018a82d6162ce" sha1="1c3b92c2f16fbeb36ba8de6fb1d24ba1e2230be2"/>
+	</game>
+	<game name="Metal Dragon &amp; Life on Mars (World)">
+		<description>Metal Dragon &amp; Life on Mars (World)</description>
+		<rom name="Metal Dragon &amp; Life on Mars (World).img" size="126877696" crc="1897b886" md5="b20f96e45366ed31e261ceebd050687c" sha1="6eaad76dba85a1178ca1a7e72b2cd815f5188dfd"/>
+	</game>
+	<game name="Morphcat Games Collection 1 (World) [b]">
+		<description>Morphcat Games Collection 1 (World) [b]</description>
+		<rom name="Morphcat Games Collection 1 (World) [b].img" size="126877696" crc="7093b9d8" md5="520a7874da134e6002e2db799c3f2921" sha1="66b29830f932a64201584cf507a8d91f7cc09a06" status="baddump"/>
+	</game>
+	<game name="Namco Museum Collection 1 (Europe)">
+		<description>Namco Museum Collection 1 (Europe)</description>
+		<rom name="Namco Museum Collection 1 (Europe).img" size="126877696" crc="c87bb069" md5="4778eafab75718e741bca0bb536a5498" sha1="312df40de8c0f64b58fca6377a0ca738de546c70"/>
+	</game>
+	<game name="Namco Museum Collection 2 (Europe)">
+		<description>Namco Museum Collection 2 (Europe)</description>
+		<rom name="Namco Museum Collection 2 (Europe).img" size="126877696" crc="993cc8b5" md5="dbb85ed2214a3fd3f21f9f247fe711b1" sha1="2655fc13f38c8d3c5ad397f9c066a06ddbb5bbf9"/>
+	</game>
+	<game name="NeoGeo Arcade 1 (World)">
+		<description>NeoGeo Arcade 1 (World)</description>
+		<rom name="NeoGeo Arcade 1 (World).img" size="504365056" crc="ba6cc2ec" md5="377ae4bbf5519cc26173a50b052c936a" sha1="236aed04fdb070f50adff08d9fe4ef04a3850752"/>
+	</game>
+	<game name="Oliver Twins Collection, The (Europe) [b]">
+		<description>Oliver Twins Collection, The (Europe) [b]</description>
+		<rom name="Oliver Twins Collection, The (Europe) [b].img" size="126877696" crc="906029ec" md5="f4dba7cb22b2558de835aabce0f40eb1" sha1="c3d93db62332f1110e72c1e2f1752e959fc82e42" status="baddump"/>
+	</game>
+	<game name="Piko Gaelco Arcade 1 (World)">
+		<description>Piko Gaelco Arcade 1 (World)</description>
+		<rom name="Piko Gaelco Arcade 1 (World).img" size="126877696" crc="cec2ea83" md5="d955661e68563e58de50c2eeb78a0987" sha1="55d2cde7f541806709518945df0633c33761a907"/>
+	</game>
+	<game name="Piko Gaelco Arcade 2 (World)">
+		<description>Piko Gaelco Arcade 2 (World)</description>
+		<rom name="Piko Gaelco Arcade 2 (World).img" size="126877696" crc="a5ab9f7c" md5="55aff9375ed77c8396d2d21b55e355ec" sha1="c59e37819a7ec1fa9a8107f79349a0c94c4fc7f6"/>
+	</game>
+	<game name="Piko Interactive Arcade 1 (World)">
+		<description>Piko Interactive Arcade 1 (World)</description>
+		<rom name="Piko Interactive Arcade 1 (World).img" size="126877696" crc="265da9c4" md5="84bb5ab2d6a973784f5cb35580ed2120" sha1="383db2a60c77dd6a6d36973fcd7a5b18a2ac1e08"/>
+	</game>
+	<game name="Piko Interactive Collection 1 (Europe)">
+		<description>Piko Interactive Collection 1 (Europe)</description>
+		<rom name="Piko Interactive Collection 1 (Europe).img" size="126746624" crc="ba5e2ec2" md5="5722aa033bc83dbeb499ac04c2284149" sha1="b5b3f5ecb662e1c65bc0c7eba8f8a34a61e51fc7"/>
+	</game>
+	<game name="Piko Interactive Collection 2 (World)">
+		<description>Piko Interactive Collection 2 (World)</description>
+		<rom name="Piko Interactive Collection 2 (World).img" size="126877696" crc="717e8294" md5="9271797d9cfa1fadb9b312ec33a10e40" sha1="dc5a11a761027dbbb9316391cd59845a4b5c011d"/>
+	</game>
+	<game name="Piko Interactive Collection 3 (World)">
+		<description>Piko Interactive Collection 3 (World)</description>
+		<rom name="Piko Interactive Collection 3 (World).img" size="504365056" crc="20b4e91a" md5="1eb138593bf9751c77f64f17bf1d88dd" sha1="e21943cb39167432d5a3c9d712ac5936bd0965aa"/>
+	</game>
+	<game name="Piko Interactive Collection 4 (Europe)">
+		<description>Piko Interactive Collection 4 (Europe)</description>
+		<rom name="Piko Interactive Collection 4 (Europe).img" size="126877696" crc="48c8b63b" md5="351a71e3a38d22d019bfce516df11ed9" sha1="4c8cdd72edef058a55a157cea26f1c10e12b1e63"/>
+	</game>
+	<game name="Renovation Collection 1 (World)">
+		<description>Renovation Collection 1 (World)</description>
+		<rom name="Renovation Collection 1 (World).img" size="126877696" crc="a6973b01" md5="9214eecf035619761bd28a89fd3b5744" sha1="3d99612a7785f84337a0897d0c9a26b2ba4d7d1f"/>
+	</game>
+	<game name="Renovation Collection 1 (Europe)">
+		<description>Renovation Collection 1 (Europe)</description>
+		<rom name="Renovation Collection 1 (Europe).img" size="126877696" crc="3d90d162" md5="423687c46613c1229778798cd9fd5003" sha1="1e7d6b7d5c01bef9e7fb2d4424428a0b479b2040"/>
+	</game>
+	<game name="Roguecraft DX (World)">
+		<description>Roguecraft DX (World)</description>
+		<rom name="Roguecraft DX (World).img" size="126877696" crc="7924aa0b" md5="c5729dfd572fb708aa1ebd53bab65c29" sha1="56a35f4bc071d52a1777973c005f2efb1559888a"/>
+	</game>
+	<game name="Sunsoft Collection 1 (World)">
+		<description>Sunsoft Collection 1 (World)</description>
+		<rom name="Sunsoft Collection 1 (World).img" size="126877696" crc="a609bbfa" md5="1338ea1e079f07f5e551ff2911b568fe" sha1="6eaed54d945e58455108d2501ecd7f67631990b0"/>
+	</game>
+	<game name="Sunsoft Collection 2 (Europe) [b]">
+		<description>Sunsoft Collection 2 (Europe) [b]</description>
+		<rom name="Sunsoft Collection 2 (Europe) [b].img" size="504365056" crc="a7078c54" md5="fdb2d52a8ccc30a4fa921601e05ba39c" sha1="5ef02bae0d4cee8acc0d48f5cc9647a9392f36a0" status="baddump"/>
+	</game>
+	<game name="Sydney Hunter Collection, The (World)">
+		<description>Sydney Hunter Collection, The (World)</description>
+		<rom name="Sydney Hunter Collection, The (World).img" size="126877696" crc="44bed671" md5="9b8cf7ba9a51d38475983fe893ddc09c" sha1="24743ec936abdeb518615464c3e706949a8c72c3"/>
+	</game>
+	<game name="Sydney Hunter Collection, The (Europe)">
+		<description>Sydney Hunter Collection, The (Europe)</description>
+		<rom name="Sydney Hunter Collection, The (Europe).img" size="126877696" crc="c5bf7891" md5="400f357d4a5663dd99efc47d9dbe4391" sha1="3bc4a63c0b58edf36935268a9530b2a352089ce7"/>
+	</game>
+	<game name="Taito Arcade 1 (World)">
+		<description>Taito Arcade 1 (World)</description>
+		<rom name="Taito Arcade 1 (World).img" size="126877696" crc="db4b8804" md5="04725e84c30a8582d00dbf2842b1cb35" sha1="0843343abecb144f92d85d4012f22b128da237dd"/>
+	</game>
+	<game name="Taito Arcade 2 (World)">
+		<description>Taito Arcade 2 (World)</description>
+		<rom name="Taito Arcade 2 (World).img" size="126877696" crc="54a87486" md5="304196ddb90f1d3f41c1e6aaeed46a75" sha1="47fd1ac3885de43fdb67596531b580c9936cce2a"/>
+	</game>
+	<game name="Team17 Collection 1 (World)">
+		<description>Team17 Collection 1 (World)</description>
+		<rom name="Team17 Collection 1 (World).img" size="504365056" crc="2538fb96" md5="04059aa382a5e86510473018e1ee3544" sha1="6af44792d0006222949175e9c2eb87c67a832a8a"/>
+	</game>
+	<game name="Team17 Collection 1 (Europe) (v1.0.4)">
+		<description>Team17 Collection 1 (Europe) (v1.0.4)</description>
+		<rom name="Team17 Collection 1 (Europe) (v1.0.4).img" size="504365056" crc="c10cb441" md5="7761ea8eb87479480bda3bfaf82807b6" sha1="342d92d4950c559f1887d1a44693ff338335826d"/>
+	</game>
+	<game name="Technos Arcade 1 (World)">
+		<description>Technos Arcade 1 (World)</description>
+		<rom name="Technos Arcade 1 (World).img" size="126877696" crc="4b776260" md5="38e17c4080c53b524bb4ba90aeaed2d2" sha1="0dc55505a0e83b34b8cc52aaa4f8f496a9afecc5"/>
+	</game>
+	<game name="Technos Collection 1 (Europe) [b]">
+		<description>Technos Collection 1 (Europe) [b]</description>
+		<rom name="Technos Collection 1 (Europe) [b].img" size="126746624" crc="bfdcf18e" md5="b26b39d28410f937abede76ccd30639c" sha1="33412e84e89e947ca3c5611f1b36f7fef6abdd36" status="baddump"/>
+	</game>
+	<game name="Thalamus Collection 1 (World)">
+		<description>Thalamus Collection 1 (World)</description>
+		<rom name="Thalamus Collection 1 (World).img" size="126877696" crc="3c99f090" md5="98494053edc23a6048103a950a16178b" sha1="7f4eb17e5150960f35a653c0eb6502f47fc10ac7"/>
+	</game>
+	<game name="THEC64 Collection 1 (World) [b]">
+		<description>THEC64 Collection 1 (World) [b]</description>
+		<rom name="THEC64 Collection 1 (World) [b].img" size="126877696" crc="f9ae552d" md5="040beb96a4b779a7e9f33ff989b9cccd" sha1="31f2387c1664dda70450403cdd3df4024c5db0df" status="baddump"/>
+	</game>
+	<game name="THEC64 Collection 2 (World)">
+		<description>THEC64 Collection 2 (World)</description>
+		<rom name="THEC64 Collection 2 (World).img" size="126877696" crc="3432bde8" md5="1cd300a2b0022dd3fe0143cf3389d59e" sha1="e43d69c4156fcd5752d53322966298f4aeb1dca5"/>
+	</game>
+	<game name="THEC64 Collection 3 (Europe) [b]">
+		<description>THEC64 Collection 3 (Europe) [b]</description>
+		<rom name="THEC64 Collection 3 (Europe) [b].img" size="126877696" crc="ba9aa22a" md5="ca356be5a907d0f3cd29dfee82d66b66" sha1="821cc448d67ca2540d4eb542b221aa9a50478833" status="baddump"/>
+	</game>
+	<game name="Toaplan Arcade 1 (World) [b]">
+		<description>Toaplan Arcade 1 (World) [b]</description>
+		<rom name="Toaplan Arcade 1 (World) [b].img" size="126877696" crc="2d8d61be" md5="06b070bce0c79d64797f2ec8b60f60af" sha1="a5af58c24047af427fb6eff267f967458c327023" status="baddump"/>
+	</game>
+	<game name="Toaplan Arcade 2 (World)">
+		<description>Toaplan Arcade 2 (World)</description>
+		<rom name="Toaplan Arcade 2 (World).img" size="126877696" crc="55acdd75" md5="310aa67693ca08192c93852cbdf2c3b7" sha1="b2e70b2183410a9f567a7b3d958ea58dfda81f8e"/>
+	</game>
+	<game name="Toaplan Arcade 3 (World)">
+		<description>Toaplan Arcade 3 (World)</description>
+		<rom name="Toaplan Arcade 3 (World).img" size="126877696" crc="171d8bf2" md5="593c15138ff149e19e16026115300e7d" sha1="36f7d50f64bb05a498a430df10b7de4cffe68380"/>
+	</game>
+	<game name="Toaplan Arcade 4 (World)">
+		<description>Toaplan Arcade 4 (World)</description>
+		<rom name="Toaplan Arcade 4 (World).img" size="126877696" crc="aac85cc0" md5="317b71a4b3fdc3e4154d9a9f8633d9dd" sha1="0e59c7029db33dda8d36982ca0753f825c857b3c"/>
+	</game>
+	<game name="Tomb Raider Collection 1 (World)">
+		<description>Tomb Raider Collection 1 (World)</description>
+		<rom name="Tomb Raider Collection 1 (World).img" size="1010827264" crc="0458d26b" md5="bfc3dcabc7cca95dbb49479c24228540" sha1="f1668c0136229d2785dba6ee582d27f785269f04"/>
+	</game>
+	<game name="Tomb Raider Collection 2 (World)">
+		<description>Tomb Raider Collection 2 (World)</description>
+		<rom name="Tomb Raider Collection 2 (World).img" size="1010827264" crc="55e43dbb" md5="9db9715350a7eff0b8fe4c370015bc66" sha1="e02a5ece50ba659907eb5f273a743effa0d4d5e6"/>
+	</game>
+	<game name="Windjammers, Karnov &amp; Friends (World)">
+		<description>Windjammers, Karnov &amp; Friends (World)</description>
+		<rom name="Windjammers, Karnov &amp; Friends (World).img" size="126877696" crc="d4210886" md5="8a50085a34eee08a4abaf450dff354f7" sha1="04e4934f964e7c3b646504a3579a77ac5f98d490"/>
+	</game>
+	<game name="Worms Collection 1 (World) [b]">
+		<description>Worms Collection 1 (World) [b]</description>
+		<rom name="Worms Collection 1 (World) [b].img" size="504365056" crc="1a3514ef" md5="c02d2a5c537ebb6b36d1da47ad9219e6" sha1="9d75035bd30da22b54fbab6492da48a8761e3227" status="baddump"/>
+	</game>
+	<game name="Worms Collection 1 (Europe)">
+		<description>Worms Collection 1 (Europe)</description>
+		<rom name="Worms Collection 1 (Europe).img" size="503316480" crc="fb927839" md5="42bfad39a8bfaf0a7480e69c9265441e" sha1="e254e86b34f5af39853050d89646cae9e948c20d"/>
+	</game>
+	<game name="Xeno Crisis &amp; Tanglewood (Europe)">
+		<description>Xeno Crisis &amp; Tanglewood (Europe)</description>
+		<rom name="Xeno Crisis &amp; Tanglewood (Europe).img" size="126877696" crc="ff8e7526" md5="dc2b2e7c50de9b45134c8ec9dd59a8c1" sha1="41b1031a58b548920c44477f7a7fd695170e1f57"/>
+	</game>
+</datafile>

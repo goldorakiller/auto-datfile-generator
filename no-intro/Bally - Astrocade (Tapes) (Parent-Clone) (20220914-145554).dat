@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>205</id>
+		<name>Bally - Astrocade (Tapes) (Parent-Clone)</name>
+		<description>Bally - Astrocade (Tapes) (Parent-Clone)</description>
+		<version>20220914-145554</version>
+		<date>20220914-145554</date>
+		<author>MeguCocoa</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="Super Slope (USA)">
+		<description>Super Slope (USA)</description>
+		<rom name="Super Slope (USA).bin" size="7895" crc="30b7d466" md5="f03fe5a888336a78f0ce7d1356ed83d8" sha1="89dfcd32866e7b476cbc03a8a1a005d97266724c"/>
+	</game>
+</datafile>

@@ -1,0 +1,1109 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
+	<header>
+		<id>74</id>
+		<name>Atari - Atari 7800 (BIN) (Parent-Clone)</name>
+		<description>Atari - Atari 7800 (BIN) (Parent-Clone)</description>
+		<clrmamepro header="No-Intro_A7800.xml"/>
+		<version>20260601-051249</version>
+		<date>20260601-051249</date>
+		<author>Arctic Circle System, BigFred, bikerspade, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, psykopat, rarenight, relax, smesgr, SonGoku</author>
+		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
+	</header>
+	<game name="[BIOS] Atari 7800 (Europe)">
+		<description>[BIOS] Atari 7800 (Europe)</description>
+		<release name="[BIOS] Atari 7800 (Europe)" region="EUR"/>
+		<rom name="[BIOS] Atari 7800 (Europe).bin" size="16384" crc="d5b61170" md5="397bb566584be7b9764e7a68974c4263" sha1="5a140136a16d1d83e4ff32a19409ca376a8df874"/>
+	</game>
+	<game name="[BIOS] Atari 7800 (USA)" cloneof="[BIOS] Atari 7800 (Europe)">
+		<description>[BIOS] Atari 7800 (USA)</description>
+		<release name="[BIOS] Atari 7800 (USA)" region="USA"/>
+		<rom name="[BIOS] Atari 7800 (USA).bin" size="4096" crc="5d13730c" md5="0763f1ffb006ddbe32e52d497ee848ae" sha1="d9d134bb6b36907c615a594cc7688f7bfcef5b43"/>
+	</game>
+	<game name="1942 (World) (Aftermarket) (Unl)">
+		<description>1942 (World) (Aftermarket) (Unl)</description>
+		<rom name="1942 (World) (Aftermarket) (Unl).bin" size="262144" crc="f9e37618" md5="fd9353d42cca5f81fe7af866592b94c3" sha1="ff87c796e86d7e0fd29455c44c1f3f4f3aff2bc2"/>
+	</game>
+	<game name="1942 (Extended) (World) (Aftermarket) (Unl)" cloneof="1942 (World) (Aftermarket) (Unl)">
+		<description>1942 (Extended) (World) (Aftermarket) (Unl)</description>
+		<rom name="1942 (Extended) (World) (Aftermarket) (Unl).bin" size="262144" crc="98328e15" md5="0fec9c1f5973c7a1dc55318ec97d8d17" sha1="dbcfbf95d4c62d29f4d4838ac2e0aa959bb2f349"/>
+	</game>
+	<game name="1942 (Small) (World) (Aftermarket) (Unl)" cloneof="1942 (World) (Aftermarket) (Unl)">
+		<description>1942 (Small) (World) (Aftermarket) (Unl)</description>
+		<rom name="1942 (Small) (World) (Aftermarket) (Unl).bin" size="131072" crc="75e09ff6" md5="0430094ad660d9900a8489c936fa2f20" sha1="90763d46cf73dc145103904b1a5fb7be57cd091a"/>
+	</game>
+	<game name="2048 (World) (Aftermarket) (Unl)">
+		<description>2048 (World) (Aftermarket) (Unl)</description>
+		<rom name="2048 (World) (Aftermarket) (Unl).bin" size="49152" crc="7432a34a" md5="6f157f421c7ed5d952b393122d37915e" sha1="2036b24140427b44ea4fec6e85410e986292e014"/>
+	</game>
+	<game name="7800 Monitor Cart (USA) (Program) (Unl)">
+		<description>7800 Monitor Cart (USA) (Program) (Unl)</description>
+		<release name="7800 Monitor Cart (USA) (Program) (Unl)" region="USA"/>
+		<rom name="7800 Monitor Cart (USA) (Program) (Unl).bin" size="8192" crc="d98bc2f8" md5="441ac404cdc7bcbd4d787f911df7bf0d" sha1="1cddbc51c924f38ee7f7587bc608aaa71bb16c24"/>
+	</game>
+	<game name="Ace of Aces (Europe)">
+		<description>Ace of Aces (Europe)</description>
+		<release name="Ace of Aces (Europe)" region="EUR"/>
+		<rom name="Ace of Aces (Europe).bin" size="131072" crc="20c5db80" md5="aadde920b3aaba03bc10b40bd0619c94" sha1="c43249ba2d38441461e5ffe07ad2e0b46ab1c6df" status="verified"/>
+	</game>
+	<game name="Ace of Aces (USA)" cloneof="Ace of Aces (Europe)">
+		<description>Ace of Aces (USA)</description>
+		<release name="Ace of Aces (USA)" region="USA"/>
+		<rom name="Ace of Aces (USA).bin" size="131072" crc="05a2b94c" md5="0be996d25144966d5541c9eb4919b289" sha1="efd20bd321a81d67fb6430d9ba93d23fb90d8029"/>
+	</game>
+	<game name="Alien Brigade (Europe)">
+		<description>Alien Brigade (Europe)</description>
+		<release name="Alien Brigade (Europe)" region="EUR"/>
+		<rom name="Alien Brigade (Europe).bin" size="147456" crc="6a19f0fe" md5="de3e9496cb7341f865f27e5a72c7f2f5" sha1="990711ae451d901a960af8ad9ae70813f16257b1"/>
+	</game>
+	<game name="Alien Brigade (USA)" cloneof="Alien Brigade (Europe)">
+		<description>Alien Brigade (USA)</description>
+		<release name="Alien Brigade (USA)" region="USA"/>
+		<rom name="Alien Brigade (USA).bin" size="147456" crc="c8849d36" md5="877dcc97a775ed55081864b2dbf5f1e2" sha1="a8629fac962cc20b263a60bb2d2386d605713387"/>
+	</game>
+	<game name="Alpha Race (World) (Aftermarket) (Unl)">
+		<description>Alpha Race (World) (Aftermarket) (Unl)</description>
+		<rom name="Alpha Race (World) (Aftermarket) (Unl).bin" size="32768" crc="dc81ddd0" md5="10ff87ebfeec99858cc80293b0c1686e" sha1="6963bb6aacda0870209f9dc298e17c5803807f7f"/>
+	</game>
+	<game name="Arkanoid (World) (Demo) (Aftermarket) (Unl)">
+		<description>Arkanoid (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Arkanoid (World) (Demo) (Aftermarket) (Unl).bin" size="131072" crc="48e43794" md5="e1da4c3ea0d26ae0a893741b49be2274" sha1="c4530683cebdc22fd39ef908ebaaddece8f87d70"/>
+	</game>
+	<game name="Armor Attack II (World) (Aftermarket) (Unl)">
+		<description>Armor Attack II (World) (Aftermarket) (Unl)</description>
+		<rom name="Armor Attack II (World) (Aftermarket) (Unl).bin" size="16384" crc="6cf67401" md5="eea04359df6770d66b0d97c2cea1932f" sha1="5921cd22a4d5790d7cc5fb3901ca8dc50d845cb9"/>
+	</game>
+	<game name="Asteroids (USA)">
+		<description>Asteroids (USA)</description>
+		<release name="Asteroids (USA)" region="USA"/>
+		<rom name="Asteroids (USA).bin" size="16384" crc="dfb93f40" md5="07342c78619ba6ffcc61c10e907e3b50" sha1="d96ec4e043fcdacab367d8a69d29904b3b2896f1"/>
+	</game>
+	<game name="Asteroids (USA) (Beta)" cloneof="Asteroids (USA)">
+		<description>Asteroids (USA) (Beta)</description>
+		<rom name="Asteroids (USA) (Beta).bin" size="16384" crc="6ddfb54c" md5="4332c24e4f3bc72e7fe1b77adf66c2b7" sha1="85d9ce187497877005e991f2bf139d21034ccf9d"/>
+	</game>
+	<game name="Asteroids Deluxe (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Asteroids Deluxe (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Asteroids Deluxe (World) (NTSC) (Aftermarket) (Unl).bin" size="32768" crc="56239d62" md5="a65f79ad4a0bbdecd59d5f7eb3623fd7" sha1="514fb53dcd8c47251fcbe5047bb2d9d13ccf6aef"/>
+	</game>
+	<game name="Asteroids Deluxe (World) (PAL) (Aftermarket) (Unl)" cloneof="Asteroids Deluxe (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Asteroids Deluxe (World) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Asteroids Deluxe (World) (PAL) (Aftermarket) (Unl).bin" size="32768" crc="ab72ea89" md5="1baf41de200f26ec643625021290bec2" sha1="341c7be2823e69e95a61567cb79042c140278c4c"/>
+	</game>
+	<game name="Astro Blaster (World) (Aftermarket) (Unl)">
+		<description>Astro Blaster (World) (Aftermarket) (Unl)</description>
+		<rom name="Astro Blaster (World) (Aftermarket) (Unl).bin" size="49152" crc="fb86a5a0" md5="55ffe535897c368be7a80d582f6a68cb" sha1="093e0317adc0a1ecba5ecb689addf062d1746db7"/>
+	</game>
+	<game name="Astro Fighter (World) (Aftermarket) (Unl)">
+		<description>Astro Fighter (World) (Aftermarket) (Unl)</description>
+		<rom name="Astro Fighter (World) (Aftermarket) (Unl).bin" size="32768" crc="c7133ea4" md5="b4be9c25ea078608310f0ddc409e7cc1" sha1="eeaa4021b24a012720b3234d69704a4d6df62f98"/>
+	</game>
+	<game name="Atari 7800 Development Card (USA)">
+		<description>Atari 7800 Development Card (USA)</description>
+		<release name="Atari 7800 Development Card (USA)" region="USA"/>
+		<rom name="Atari 7800 Development Card (USA).bin" size="16384" crc="3fbe74ce" md5="0d9452d4db4d1e1cf843f4f10605eb7d" sha1="4df3657f57e3086bee26fb5c6ea946c509d08553"/>
+	</game>
+	<game name="Atlas (World) (Aftermarket) (Unl)">
+		<description>Atlas (World) (Aftermarket) (Unl)</description>
+		<rom name="Atlas (World) (Aftermarket) (Unl).bin" size="32768" crc="045fe06d" md5="a6c02ae92d6937cb885f6909c0a8a2e1" sha1="2e4ed00ee4c52508da12a6c8ee0bac8722aeef32"/>
+	</game>
+	<game name="Ballblazer (Europe)">
+		<description>Ballblazer (Europe)</description>
+		<release name="Ballblazer (Europe)" region="EUR"/>
+		<rom name="Ballblazer (Europe).bin" size="32768" crc="aff85565" md5="b558814d54904ce0582e2f6a801d03af" sha1="1aa1a508ada1521ae1d373a6860681093e3f851c" status="verified"/>
+	</game>
+	<game name="Ballblazer (USA)" cloneof="Ballblazer (Europe)">
+		<description>Ballblazer (USA)</description>
+		<release name="Ballblazer (USA)" region="USA"/>
+		<rom name="Ballblazer (USA).bin" size="32768" crc="a4c4808b" md5="8fc3a695eaea3984912d98ed4a543376" sha1="4eb5424360691a38b199d91a0e2c9095d0862dbe" status="verified"/>
+	</game>
+	<game name="Barnyard Blaster (Europe)">
+		<description>Barnyard Blaster (Europe)</description>
+		<release name="Barnyard Blaster (Europe)" region="EUR"/>
+		<rom name="Barnyard Blaster (Europe).bin" size="131072" crc="02764a86" md5="babe2bc2976688bafb8b23c192658126" sha1="a5797cf7e747bbd755c99fde6936caa15fbba6b1" status="verified"/>
+	</game>
+	<game name="Barnyard Blaster (USA)" cloneof="Barnyard Blaster (Europe)">
+		<description>Barnyard Blaster (USA)</description>
+		<release name="Barnyard Blaster (USA)" region="USA"/>
+		<rom name="Barnyard Blaster (USA).bin" size="131072" crc="ed0a587d" md5="42682415906c21c6af80e4198403ffda" sha1="cbcde3d85c8778dea402394568677884cd781de3"/>
+	</game>
+	<game name="Baseball (Europe)">
+		<description>Baseball (Europe)</description>
+		<release name="Baseball (Europe)" region="EUR"/>
+		<rom name="Baseball (Europe).bin" size="32768" crc="68d48fdc" md5="386bded4a944bae455fedf56206dd1dd" sha1="c44fe244206590abc26fbbd520a5726353899e35"/>
+	</game>
+	<game name="Pete Rose Baseball (USA)" cloneof="Baseball (Europe)">
+		<description>Pete Rose Baseball (USA)</description>
+		<release name="Pete Rose Baseball (USA)" region="USA"/>
+		<rom name="Pete Rose Baseball (USA).bin" size="32768" crc="f33d4dfa" md5="1a5207870dec6fae9111cb747e20d8e3" sha1="ffb4fbed8d8f28ea71668542b7ebd019955c5a11"/>
+	</game>
+	<game name="Basketbrawl (Europe)">
+		<description>Basketbrawl (Europe)</description>
+		<release name="Basketbrawl (Europe)" region="EUR"/>
+		<rom name="Basketbrawl (Europe).bin" size="131072" crc="a4265d4b" md5="fba002089fcfa176454ab507e0eb76cb" sha1="e7ef6b11bb6836ff7d11a25f8d4e2c9361fa69b3" status="verified"/>
+	</game>
+	<game name="Basketbrawl (USA)" cloneof="Basketbrawl (Europe)">
+		<description>Basketbrawl (USA)</description>
+		<release name="Basketbrawl (USA)" region="USA"/>
+		<rom name="Basketbrawl (USA).bin" size="131072" crc="c8b9d7b5" md5="f5f6b69c5eb4b55fc163158d1a6b423e" sha1="39877a4c88498bf6656451e3d1acaf7e8638bdfd"/>
+	</game>
+	<game name="Bentley Bear's Crystal Quest (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Bentley Bear's Crystal Quest (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Bentley Bear's Crystal Quest (World) (NTSC) (Aftermarket) (Unl).bin" size="147456" crc="d44622b3" md5="34483432b92f565f4ced82a141119164" sha1="4a850d4b97bea621e9b6df142afeec8b398d6d6c" status="verified"/>
+	</game>
+	<game name="bonQ (World) (Aftermarket) (Unl)">
+		<description>bonQ (World) (Aftermarket) (Unl)</description>
+		<rom name="bonQ (World) (Aftermarket) (Unl).bin" size="49152" crc="4dd3160d" md5="4307a86b0d23d171c3b40bcdbe7638fd" sha1="2c8e1f88a142a66555e7c546878bbef57f5209e4"/>
+	</game>
+	<game name="Boom! (World) (Demo) (Aftermarket) (Unl)">
+		<description>Boom! (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Boom! (World) (Demo) (Aftermarket) (Unl).bin" size="49152" crc="dbd45794" md5="4a8a22cff154f479f1ddaa386f21fc39" sha1="ff58fe9985619ca83dd60446442e14f3aa5ed088"/>
+	</game>
+	<game name="Cartesian Chaos (World) (Aftermarket) (Unl)">
+		<description>Cartesian Chaos (World) (Aftermarket) (Unl)</description>
+		<rom name="Cartesian Chaos (World) (Aftermarket) (Unl).bin" size="32768" crc="56cc4aa6" md5="825c03c049306c16bd654d9d0e344cf3" sha1="4407c39d2de6ef0e71312f314d5c4a085282f733"/>
+	</game>
+	<game name="Centipede (Europe)">
+		<description>Centipede (Europe)</description>
+		<release name="Centipede (Europe)" region="EUR"/>
+		<rom name="Centipede (Europe).bin" size="16384" crc="33f8a8f6" md5="38c056a48472d9a9e16ebda5ed91dae7" sha1="323f9fc4fde9aa6fcbaac8ae300aaa06bafa745a"/>
+	</game>
+	<game name="Centipede (USA)" cloneof="Centipede (Europe)">
+		<description>Centipede (USA)</description>
+		<release name="Centipede (USA)" region="USA"/>
+		<rom name="Centipede (USA).bin" size="16384" crc="020efe25" md5="5a09946e57dbe30408a8f253a28d07db" sha1="c8377ad7fb6afec5c88c14a23a68e2ecebba4e5a" status="verified"/>
+	</game>
+	<game name="Centipede (USA) (Beta) (1984-05-02)" cloneof="Centipede (Europe)">
+		<description>Centipede (USA) (Beta) (1984-05-02)</description>
+		<rom name="Centipede (USA) (Beta) (1984-05-02).bin" size="16384" crc="0b85a1f2" md5="bf7a6103337086840093af257048c834" sha1="2446325f139d8cb93743b6668fee96c4fc99fc48"/>
+	</game>
+	<game name="Choplifter! (Europe)">
+		<description>Choplifter! (Europe)</description>
+		<release name="Choplifter! (Europe)" region="EUR"/>
+		<rom name="Choplifter! (Europe).bin" size="49152" crc="12efeb07" md5="59d4edb0230b5acc918b94f6bc94779f" sha1="f2fe1c82e5b333f4c59f76a28a9d379228596d89"/>
+	</game>
+	<game name="Choplifter! (USA)" cloneof="Choplifter! (Europe)">
+		<description>Choplifter! (USA)</description>
+		<release name="Choplifter! (USA)" region="USA"/>
+		<rom name="Choplifter! (USA).bin" size="32768" crc="419bff61" md5="93e4387864b014c155d7c17877990d1e" sha1="6df15e73494d0a498dd044753a27544214210b14" status="verified"/>
+	</game>
+	<game name="Commando (Europe)">
+		<description>Commando (Europe)</description>
+		<release name="Commando (Europe)" region="EUR"/>
+		<rom name="Commando (Europe).bin" size="131072" crc="7c211612" md5="55da6c6c3974d013f517e725aa60f48e" sha1="2bdad24967fe4f5492ae294b1ccf8f148930a419" status="verified"/>
+	</game>
+	<game name="Commando (USA)" cloneof="Commando (Europe)">
+		<description>Commando (USA)</description>
+		<release name="Commando (USA)" region="USA"/>
+		<rom name="Commando (USA).bin" size="131072" crc="cd1a98c5" md5="2e8e28f6ad8b9b9267d518d880c73ebb" sha1="f8ae7da650ad38675b81675b77096794a9cd52e8"/>
+	</game>
+	<game name="Commando (USA) (Beta) (1988-04-29)" cloneof="Commando (Europe)">
+		<description>Commando (USA) (Beta) (1988-04-29)</description>
+		<rom name="Commando (USA) (Beta) (1988-04-29).bin" size="16384" crc="9ef973a9" md5="2a4f20c216e77048449d26205b62c563" sha1="2eacc14a41bb747ec4b431f7d1b092fd2061701e"/>
+	</game>
+	<game name="Crack'ed (Europe)">
+		<description>Crack'ed (Europe)</description>
+		<release name="Crack'ed (Europe)" region="EUR"/>
+		<rom name="Crack'ed (Europe).bin" size="131072" crc="50fd19cb" md5="7cbe78fa06f47ba6516a67a4b003c9ee" sha1="0c1a7806e431efbf0c826a11b92d74eb45e08661" status="verified"/>
+	</game>
+	<game name="Crack'ed (USA)" cloneof="Crack'ed (Europe)">
+		<description>Crack'ed (USA)</description>
+		<release name="Crack'ed (USA)" region="USA"/>
+		<rom name="Crack'ed (USA).bin" size="131072" crc="e645fd1f" md5="db691469128d9a4217ec7e315930b646" sha1="664d267d1245d5698cbf6ff0622ee0d629da3a11"/>
+	</game>
+	<game name="Crazy Bricks (World) (Aftermarket) (Unl)">
+		<description>Crazy Bricks (World) (Aftermarket) (Unl)</description>
+		<rom name="Crazy Bricks (World) (Aftermarket) (Unl).bin" size="16384" crc="32a87b61" md5="299d31c8e181fdd011df2014451bdf0f" sha1="dbf5ef0ef31c44336a8527ca288488d5a6bfd6f3"/>
+	</game>
+	<game name="Crossbow (Europe)">
+		<description>Crossbow (Europe)</description>
+		<release name="Crossbow (Europe)" region="EUR"/>
+		<rom name="Crossbow (Europe).bin" size="147456" crc="e93d8894" md5="63db371d67a98daec547b2abd5e7aa95" sha1="f26d292210a91a714b4b87712ff53b8e49da611e"/>
+	</game>
+	<game name="Crossbow (USA)" cloneof="Crossbow (Europe)">
+		<description>Crossbow (USA)</description>
+		<release name="Crossbow (USA)" region="USA"/>
+		<rom name="Crossbow (USA).bin" size="147456" crc="d2ea5686" md5="a94e4560b6ad053a1c24e096f1262ebf" sha1="d5e47da88e232cd9ea059e133e7c0f13d921a04c"/>
+	</game>
+	<game name="Dark Chambers (Europe)">
+		<description>Dark Chambers (Europe)</description>
+		<release name="Dark Chambers (Europe)" region="EUR"/>
+		<rom name="Dark Chambers (Europe).bin" size="131072" crc="c93a563e" md5="a2b8e2f159642c4b91de82e9a2928494" sha1="2b888c95b31109ffd0441f586ba18f21a3a4f22e" status="verified"/>
+	</game>
+	<game name="Dark Chambers (USA)" cloneof="Dark Chambers (Europe)">
+		<description>Dark Chambers (USA)</description>
+		<release name="Dark Chambers (USA)" region="USA"/>
+		<rom name="Dark Chambers (USA).bin" size="131072" crc="366777f1" md5="179b76ff729d4849b8f66a502398acae" sha1="848077f15114fec31f8290be2583566f4486fe65" status="verified"/>
+	</game>
+	<game name="DeathMerchant (World) (v1.30) (Digital) (Aftermarket) (Unl)">
+		<description>DeathMerchant (World) (v1.30) (Digital) (Aftermarket) (Unl)</description>
+		<rom name="DeathMerchant (World) (v1.30) (Digital) (Aftermarket) (Unl).bin" size="49152" crc="dfe8e67a" md5="fab7b59dd580dce0b28be3e74a7b8433" sha1="15accd401a9c04f969be8336932741b6537d4f3a"/>
+	</game>
+	<game name="Desert Falcon (Europe)">
+		<description>Desert Falcon (Europe)</description>
+		<release name="Desert Falcon (Europe)" region="EUR"/>
+		<rom name="Desert Falcon (Europe).bin" size="49152" crc="33991ee8" md5="2d5d99b993a885b063f9f22ce5e6523d" sha1="185d104614e23699e074e850d5ab8c36a159071c"/>
+	</game>
+	<game name="Desert Falcon (USA)" cloneof="Desert Falcon (Europe)">
+		<description>Desert Falcon (USA)</description>
+		<release name="Desert Falcon (USA)" region="USA"/>
+		<rom name="Desert Falcon (USA).bin" size="49152" crc="a1dc0899" md5="95ac811c7d27af0032ba090f28c107bd" sha1="725f893f9a98926c627ef37eacc3f241620c3ffc" status="verified"/>
+	</game>
+	<game name="Desert Falcon (USA) (Beta) (1987-03-09) [b]" cloneof="Desert Falcon (Europe)">
+		<description>Desert Falcon (USA) (Beta) (1987-03-09) [b]</description>
+		<rom name="Desert Falcon (USA) (Beta) (1987-03-09) [b].bin" size="49152" crc="70451fc5" md5="fc81d3a35cecae454629d3fe93b88133" sha1="502b2aad951361d2762f67129c57b623983d8b65" status="baddump"/>
+	</game>
+	<game name="Desert Falcon (USA) (Beta) (1987-03-25)" cloneof="Desert Falcon (Europe)">
+		<description>Desert Falcon (USA) (Beta) (1987-03-25)</description>
+		<rom name="Desert Falcon (USA) (Beta) (1987-03-25).bin" size="49152" crc="63887912" md5="f4ed29662536267db967182b6ba8d40e" sha1="1bc856c38e299980c66bfa23c283c06ba17e29a1"/>
+	</game>
+	<game name="Destroyer 7800 (World) (v1.03) (Aftermarket) (Unl)">
+		<description>Destroyer 7800 (World) (v1.03) (Aftermarket) (Unl)</description>
+		<rom name="Destroyer 7800 (World) (v1.03) (Aftermarket) (Unl).bin" size="32768" crc="82a8141d" md5="1b1a9d0676af86bc92dd0c5cef1e1877" sha1="05b2bd7f82f4a7b7d33b65af611595fde8011d62"/>
+	</game>
+	<game name="Diagnostic Test Cartridge (USA)">
+		<description>Diagnostic Test Cartridge (USA)</description>
+		<release name="Diagnostic Test Cartridge (USA)" region="USA"/>
+		<rom name="Diagnostic Test Cartridge (USA).bin" size="32768" crc="a1eaa7c1" md5="91041aadd1700a7a4076f4005f2c362f" sha1="76ec76c423d88bdf739e673c051c5b9c174881c6"/>
+	</game>
+	<game name="Diagnostic Test Cartridge (USA) (Beta)" cloneof="Diagnostic Test Cartridge (USA)">
+		<description>Diagnostic Test Cartridge (USA) (Beta)</description>
+		<rom name="Diagnostic Test Cartridge (USA) (Beta).bin" size="16384" crc="729dd769" md5="6bfc9970b1a78e53653b650d3a833145" sha1="ea4df28c6bedc09f7013013f257c984aed9b5319"/>
+	</game>
+	<game name="Dig Dug (Europe)">
+		<description>Dig Dug (Europe)</description>
+		<release name="Dig Dug (Europe)" region="EUR"/>
+		<rom name="Dig Dug (Europe).bin" size="32768" crc="efab7077" md5="408dca9fc40e2b5d805f403fa0509436" sha1="ce05d3270b0e0d36d80a4f0731d0173cb5921bce"/>
+	</game>
+	<game name="Dig Dug (USA)" cloneof="Dig Dug (Europe)">
+		<description>Dig Dug (USA)</description>
+		<release name="Dig Dug (USA)" region="USA"/>
+		<rom name="Dig Dug (USA).bin" size="16384" crc="50cb13f3" md5="731879ea82fc0ca245e39e036fe293e6" sha1="19cee8dc40fabd7022bedc27e4896c09e3cadfdd" status="verified"/>
+	</game>
+	<game name="Donkey Kong (Europe)">
+		<description>Donkey Kong (Europe)</description>
+		<release name="Donkey Kong (Europe)" region="EUR"/>
+		<rom name="Donkey Kong (Europe).bin" size="49152" crc="0a43d1c5" md5="8e96ef14ce9b5d84bcbc996b66d6d4c7" sha1="dc69fa8fdf3fcba8557195358b8d206463652e0f" status="verified"/>
+	</game>
+	<game name="Donkey Kong (USA)" cloneof="Donkey Kong (Europe)">
+		<description>Donkey Kong (USA)</description>
+		<release name="Donkey Kong (USA)" region="USA"/>
+		<rom name="Donkey Kong (USA).bin" size="49152" crc="065e063f" md5="19f1ee292a23636bd57d408b62de79c7" sha1="820c852caa7957179bf7d6faf2e6922dde5a1a8e" status="verified"/>
+	</game>
+	<game name="Donkey Kong Junior (Europe)">
+		<description>Donkey Kong Junior (Europe)</description>
+		<release name="Donkey Kong Junior (Europe)" region="EUR"/>
+		<rom name="Donkey Kong Junior (Europe).bin" size="49152" crc="c784dbac" md5="4dc5f88243250461bd61053b13777060" sha1="2626a9cd3326b8ce0ee0e834e17a0eedae005669" status="verified"/>
+	</game>
+	<game name="Donkey Kong Junior (USA)" cloneof="Donkey Kong Junior (Europe)">
+		<description>Donkey Kong Junior (USA)</description>
+		<release name="Donkey Kong Junior (USA)" region="USA"/>
+		<rom name="Donkey Kong Junior (USA).bin" size="49152" crc="1c5a1082" md5="5e332fbfc1e0fc74223d2e73271ce650" sha1="e9392259fff682fcc3476009771a3cfd7d5bdb6d"/>
+	</game>
+	<game name="Donkey Kong XM (World) (Demo) (NTSC) (Aftermarket) (Unl)">
+		<description>Donkey Kong XM (World) (Demo) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Donkey Kong XM (World) (Demo) (NTSC) (Aftermarket) (Unl).bin" size="147456" crc="2c67fea7" md5="c3107d3e3e17d67e3a11d47a5946a4f3" sha1="7825c1946e3c7492fa9bbfae33029cd68c0d1135"/>
+	</game>
+	<game name="Donkey Kong XM (World) (Demo) (PAL) (Aftermarket) (Unl)" cloneof="Donkey Kong XM (World) (Demo) (NTSC) (Aftermarket) (Unl)">
+		<description>Donkey Kong XM (World) (Demo) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Donkey Kong XM (World) (Demo) (PAL) (Aftermarket) (Unl).bin" size="147456" crc="6510b674" md5="8caa29a8d9214ca02697b3357102309a" sha1="65b723b470d287af51e9888813149c43fb11ac26"/>
+	</game>
+	<game name="Double Dragon (Europe)">
+		<description>Double Dragon (Europe)</description>
+		<release name="Double Dragon (Europe)" region="EUR"/>
+		<rom name="Double Dragon (Europe).bin" size="131072" crc="f29abdb2" md5="de2ebafcf0e37aaa9d0e9525a7f4dd62" sha1="210f3ac989549e89425e7677127715aee713af32"/>
+	</game>
+	<game name="Double Dragon (USA)" cloneof="Double Dragon (Europe)">
+		<description>Double Dragon (USA)</description>
+		<release name="Double Dragon (USA)" region="USA"/>
+		<rom name="Double Dragon (USA).bin" size="131072" crc="aa265865" md5="543484c00ba233736bcaba2da20eeea9" sha1="c3fb140836a4ed84cda7a999832703e8b72c0d21"/>
+	</game>
+	<game name="Dragon's Cache (World) (2021-02-07) (Aftermarket) (Unl)">
+		<description>Dragon's Cache (World) (2021-02-07) (Aftermarket) (Unl)</description>
+		<rom name="Dragon's Cache (World) (2021-02-07) (Aftermarket) (Unl).bin" size="49152" crc="f163c3e6" md5="7b7825ca2c79148f1c4ade6baacc1a76" sha1="631c1707667638664c6a819fbf9e5a75ac3e68b6"/>
+	</game>
+	<game name="Dragon's Cache (World) (2020-10-24) (Aftermarket) (Unl)" cloneof="Dragon's Cache (World) (2021-02-07) (Aftermarket) (Unl)">
+		<description>Dragon's Cache (World) (2020-10-24) (Aftermarket) (Unl)</description>
+		<rom name="Dragon's Cache (World) (2020-10-24) (Aftermarket) (Unl).bin" size="49152" crc="4e6270b8" md5="e3cdb632ffce5ec97c3e889578aca437" sha1="a20c97c7706f706cf7c3da45db575e4956a6ccd0"/>
+	</game>
+	<game name="Dragon's Cache (World) (2020-10-24) (BupSystem) (Aftermarket) (Unl)" cloneof="Dragon's Cache (World) (2021-02-07) (Aftermarket) (Unl)">
+		<description>Dragon's Cache (World) (2020-10-24) (BupSystem) (Aftermarket) (Unl)</description>
+		<rom name="Dragon's Cache (World) (2020-10-24) (BupSystem) (Aftermarket) (Unl).bin" size="49152" crc="d28d735c" md5="9bcba331599c03e6b91e69c6874768f8" sha1="f6b8a36f5d75c9d2c17136ef5f7ee852fc33213f"/>
+	</game>
+	<game name="Dragon's Descent (World) (2021-07-31) (Aftermarket) (Unl)">
+		<description>Dragon's Descent (World) (2021-07-31) (Aftermarket) (Unl)</description>
+		<rom name="Dragon's Descent (World) (2021-07-31) (Aftermarket) (Unl).bin" size="49152" crc="9478eb46" md5="77164df89ae49b4dd72906a21e787233" sha1="5c56045fab0f1f8bc7f8d22a01bef542fa195309"/>
+	</game>
+	<game name="Dragon's Havoc (World) (2022-12-31) (Demo) (Aftermarket) (Unl)">
+		<description>Dragon's Havoc (World) (2022-12-31) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Dragon's Havoc (World) (2022-12-31) (Demo) (Aftermarket) (Unl).bin" size="49152" crc="25e45e5e" md5="8c2798f929a43317f300d3ccbe25918e" sha1="941fb0c790b231c08eaad0cb809050526213f147"/>
+	</game>
+	<game name="Drelbs (World) (Aftermarket) (Unl)">
+		<description>Drelbs (World) (Aftermarket) (Unl)</description>
+		<rom name="Drelbs (World) (Aftermarket) (Unl).bin" size="32768" crc="ee4cce69" md5="e36725e9e8f3963a17e521a89dea1a85" sha1="c4b0589369021fd0e861732611e7f2917c28de18"/>
+	</game>
+	<game name="Dungeon Stalker (World) (1.245d) (Aftermarket) (Unl)">
+		<description>Dungeon Stalker (World) (1.245d) (Aftermarket) (Unl)</description>
+		<rom name="Dungeon Stalker (World) (1.245d) (Aftermarket) (Unl).bin" size="49152" crc="ba519f24" md5="b3143adbbb7d7d189e918e5b29d55a72" sha1="b110bd4de900ecd4d8590d1866fe4d77ec676804"/>
+	</game>
+	<game name="Easter Klondike Solitaire (World) (Aftermarket) (Unl)">
+		<description>Easter Klondike Solitaire (World) (Aftermarket) (Unl)</description>
+		<rom name="Easter Klondike Solitaire (World) (Aftermarket) (Unl).bin" size="49152" crc="9689894c" md5="454f3abc266e8fe4554cc729f530d650" sha1="bc98da54c58443de5159eb0f6307aa5fc1181afd"/>
+	</game>
+	<game name="F-18 Hornet (Europe)">
+		<description>F-18 Hornet (Europe)</description>
+		<release name="F-18 Hornet (Europe)" region="EUR"/>
+		<rom name="F-18 Hornet (Europe).bin" size="65536" crc="e5d714b0" md5="e7709da8e49d3767301947a0a0b9d2e6" sha1="673d912b2f9ab7a43f95e0e90bd80249b360fe0d"/>
+	</game>
+	<game name="F-18 Hornet (USA)" cloneof="F-18 Hornet (Europe)">
+		<description>F-18 Hornet (USA)</description>
+		<release name="F-18 Hornet (USA)" region="USA"/>
+		<rom name="F-18 Hornet (USA).bin" size="65536" crc="63d1c7c1" md5="2251a6a0f3aec84cc0aff66fc9fa91e8" sha1="13a18a6b85db6222b01d37800e5e57db616a85a6"/>
+	</game>
+	<game name="FailSafe (World) (NTSC) (Aftermarket) (Unl)">
+		<description>FailSafe (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="FailSafe (World) (NTSC) (Aftermarket) (Unl).bin" size="49152" crc="67ebf1ed" md5="6287727ab36391a62f728bbdee88675c" sha1="e3221e285adaee30f36b60e85a35b63cb4d63292"/>
+	</game>
+	<game name="FailSafe (World) (PAL) (Aftermarket) (Unl)" cloneof="FailSafe (World) (NTSC) (Aftermarket) (Unl)">
+		<description>FailSafe (World) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="FailSafe (World) (PAL) (Aftermarket) (Unl).bin" size="49152" crc="56ac5864" md5="84c4b4ed75f41417ac7cbceac71e3856" sha1="2d810a0e521e06ce560fe42f9e1c15d759071d4d"/>
+	</game>
+	<game name="Fatal Run (Europe)">
+		<description>Fatal Run (Europe)</description>
+		<release name="Fatal Run (Europe)" region="EUR"/>
+		<rom name="Fatal Run (Europe).bin" size="131072" crc="2a0a93be" md5="23505651ac2e47f3637152066c3aa62f" sha1="f23173d2e42bca0767f3d8ecb6bb1c0d23dde996" status="verified"/>
+	</game>
+	<game name="Fatal Run (USA)" cloneof="Fatal Run (Europe)">
+		<description>Fatal Run (USA)</description>
+		<release name="Fatal Run (USA)" region="USA"/>
+		<rom name="Fatal Run (USA).bin" size="131072" crc="a44df354" md5="d25d5d19188e9f149977c49eb0367cd1" sha1="69aab1e6ef332c6844c693ac41965e4c33ff822a"/>
+	</game>
+	<game name="Fight Night (Europe)">
+		<description>Fight Night (Europe)</description>
+		<release name="Fight Night (Europe)" region="EUR"/>
+		<rom name="Fight Night (Europe).bin" size="131072" crc="64d9c4be" md5="e80f24e953563e6b61556737d67d3836" sha1="ded89f3a4ac0d95aa158c98302b7939e5b89e4c6" status="verified"/>
+	</game>
+	<game name="Fight Night (USA)" cloneof="Fight Night (Europe)">
+		<description>Fight Night (USA)</description>
+		<release name="Fight Night (USA)" region="USA"/>
+		<rom name="Fight Night (USA).bin" size="131072" crc="720ebc74" md5="07dbbfe612a0a28e283c01545e59f25e" sha1="1e8a8704a77b15e70cbc72b0ae9bc25fb91d7c21"/>
+	</game>
+	<game name="Food Fight (Europe)">
+		<description>Food Fight (Europe)</description>
+		<release name="Food Fight (Europe)" region="EUR"/>
+		<rom name="Food Fight (Europe).bin" size="49152" crc="c64549ec" md5="de0d4f5a9bf1c1bddee3ed2f7ec51209" sha1="40b8e5eeb9e9ad7239963ed79dc085092ccbec4c" status="verified"/>
+	</game>
+	<game name="Food Fight (USA)" cloneof="Food Fight (Europe)">
+		<description>Food Fight (USA)</description>
+		<release name="Food Fight (USA)" region="USA"/>
+		<rom name="Food Fight (USA).bin" size="32768" crc="e64a5cde" md5="cf76b00244105b8e03cdc37677ec1073" sha1="3f5f42d5aaf6ccd4979658a1387aac5933549357" status="verified"/>
+	</game>
+	<game name="Food Fight (USA) (Beta)" cloneof="Food Fight (Europe)">
+		<description>Food Fight (USA) (Beta)</description>
+		<rom name="Food Fight (USA) (Beta).bin" size="32768" crc="47e94868" md5="e05041ad193e354f9fa37c18f3550b5a" sha1="ca47caff9cb976da34192e4fb9eea8dedf2222cd"/>
+	</game>
+	<game name="Frenzy (World) (v1.07) (Aftermarket) (Unl)">
+		<description>Frenzy (World) (v1.07) (Aftermarket) (Unl)</description>
+		<rom name="Frenzy (World) (v1.07) (Aftermarket) (Unl).bin" size="49152" crc="3a554710" md5="26031dea7251fb861cb55f86742c9d6e" sha1="7eff182169597e9cfce6fd6e01eaf2d638f8acb3"/>
+	</game>
+	<game name="Frenzy (World) (v1.06) (Aftermarket) (Unl)" cloneof="Frenzy (World) (v1.07) (Aftermarket) (Unl)">
+		<description>Frenzy (World) (v1.06) (Aftermarket) (Unl)</description>
+		<rom name="Frenzy (World) (v1.06) (Aftermarket) (Unl).bin" size="49152" crc="789e5321" md5="e7d89669a7f92ec2cc99d9663a28671c" sha1="5b37fb0a4b2f1e5652b9f086e90278b66ab12fda"/>
+	</game>
+	<game name="Froggie (World) (Aftermarket) (Unl)">
+		<description>Froggie (World) (Aftermarket) (Unl)</description>
+		<rom name="Froggie (World) (Aftermarket) (Unl).bin" size="32768" crc="224b93d4" md5="6053233cb59c0b4ca633623fd76c4576" sha1="586b43ca3acd35307bb58f32d08649c755944c5e"/>
+	</game>
+	<game name="Galaga (Europe)">
+		<description>Galaga (Europe)</description>
+		<release name="Galaga (Europe)" region="EUR"/>
+		<rom name="Galaga (Europe).bin" size="49152" crc="5990a9f8" md5="f5dc7dc8e38072d3d65bd90a660148ce" sha1="f1ae5df03cf90041380d77c1b49c94611443330b"/>
+	</game>
+	<game name="Galaga (USA)" cloneof="Galaga (Europe)">
+		<description>Galaga (USA)</description>
+		<release name="Galaga (USA)" region="USA"/>
+		<rom name="Galaga (USA).bin" size="32768" crc="1a0a3eb3" md5="fb8d803b328b2e442548f7799cfa9a4a" sha1="33178d682564d70955e13d0633359e87b512253b"/>
+	</game>
+	<game name="Galaxian (World) (Aftermarket) (Unl)">
+		<description>Galaxian (World) (Aftermarket) (Unl)</description>
+		<rom name="Galaxian (World) (Aftermarket) (Unl).bin" size="32768" crc="1e08b8ca" md5="0c097bc8c786af182935081ac5cd631f" sha1="944ad170253bdf2987b53381b37c7e9b3a10464b"/>
+	</game>
+	<game name="GATO (USA) (Proto)">
+		<description>GATO (USA) (Proto)</description>
+		<release name="GATO (USA) (Proto)" region="USA"/>
+		<rom name="GATO (USA) (Proto).bin" size="49152" crc="a0529db5" md5="06204dadc975be5e5e37e7cc66f984cf" sha1="d17a710adca8d69e2a864ed93368c1d9f9bcfbd8"/>
+	</game>
+	<game name="GoSub (World) (Digital) (Aftermarket) (Unl)">
+		<description>GoSub (World) (Digital) (Aftermarket) (Unl)</description>
+		<rom name="GoSub (World) (Digital) (Aftermarket) (Unl).bin" size="32768" crc="ec8a9736" md5="e443f7fb5be3283dd44c0f5d80c3a7b3" sha1="01691ab12332872eabbb667a97462cb07e8cee22"/>
+	</game>
+	<game name="Harpy's Curse (World) (2023-09-17) (Proto) (Aftermarket) (Unl)">
+		<description>Harpy's Curse (World) (2023-09-17) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Harpy's Curse (World) (2023-09-17) (Proto) (Aftermarket) (Unl).bin" size="131072" crc="a0cfae6f" md5="ac7444b4f6cffc9c78a4bdf383f21b63" sha1="9a1611e3d8b6e09b7b3eca134003e77de938467b"/>
+	</game>
+	<game name="Hat Trick (Europe)">
+		<description>Hat Trick (Europe)</description>
+		<release name="Hat Trick (Europe)" region="EUR"/>
+		<rom name="Hat Trick (Europe).bin" size="49152" crc="057d9c3c" md5="0baec96787ce17f390e204de1a136e59" sha1="0e9fa678bb4aedc7bb7cf5d38fe27556c4c2bbbd" status="verified"/>
+	</game>
+	<game name="Hat Trick (USA)" cloneof="Hat Trick (Europe)">
+		<description>Hat Trick (USA)</description>
+		<release name="Hat Trick (USA)" region="USA"/>
+		<rom name="Hat Trick (USA).bin" size="49152" crc="cf6f4a6c" md5="fd9e78e201b6baafddfd3e1fbfe6ba31" sha1="14c0cfd01df1c725f399c23810e4854a639fce52" status="verified"/>
+	</game>
+	<game name="Hat Trick (USA) (Beta) (1987-05-01)" cloneof="Hat Trick (Europe)">
+		<description>Hat Trick (USA) (Beta) (1987-05-01)</description>
+		<rom name="Hat Trick (USA) (Beta) (1987-05-01).bin" size="49152" crc="70c5d996" md5="69766137ade953cbcaad23e6c8cfa197" sha1="7a453377ce65eccf6ba3abe2d038af2b813c5fc4"/>
+	</game>
+	<game name="High Score Cartridge (USA) (Proto)">
+		<description>High Score Cartridge (USA) (Proto)</description>
+		<release name="High Score Cartridge (USA) (Proto)" region="USA"/>
+		<rom name="High Score Cartridge (USA) (Proto).bin" size="4096" crc="9be408d3" md5="c8a73288ab97226c52602204ab894286" sha1="a3af676991391a6dd716c79022d4947206b78164"/>
+	</game>
+	<game name="Ikari Warriors (Europe)">
+		<description>Ikari Warriors (Europe)</description>
+		<release name="Ikari Warriors (Europe)" region="EUR"/>
+		<rom name="Ikari Warriors (Europe).bin" size="131072" crc="cb621cdc" md5="8c2c2a1ea6e9a928a44c3151ba5c1ce3" sha1="275cae6c693d9bd1906fdc684460ec596869bbad" status="verified"/>
+	</game>
+	<game name="Ikari Warriors (USA)" cloneof="Ikari Warriors (Europe)">
+		<description>Ikari Warriors (USA)</description>
+		<release name="Ikari Warriors (USA)" region="USA"/>
+		<rom name="Ikari Warriors (USA).bin" size="131072" crc="8a6c1f15" md5="c3672482ca93f70eafd9134b936c3feb" sha1="e368c6c7ffca5ffac314dec1effea4e2c809519a"/>
+	</game>
+	<game name="Impossible Mission (Europe)">
+		<description>Impossible Mission (Europe)</description>
+		<release name="Impossible Mission (Europe)" region="EUR"/>
+		<rom name="Impossible Mission (Europe).bin" size="131072" crc="994af6e0" md5="80dead01ea2db5045f6f4443faa6fce8" sha1="9770b61472510aba1cf3ea35ceca1859c3493676"/>
+	</game>
+	<game name="Impossible Mission (USA)" cloneof="Impossible Mission (Europe)">
+		<description>Impossible Mission (USA)</description>
+		<rom name="Impossible Mission (USA).bin" size="131072" crc="3b1f2f47" md5="baebc9246c087e893dfa489632157180" sha1="5437c0efb63a349953ec047efe6ec24144ed6914"/>
+	</game>
+	<game name="Impossible Mission (USA) (Rev 1) (Proto)" cloneof="Impossible Mission (Europe)">
+		<description>Impossible Mission (USA) (Rev 1) (Proto)</description>
+		<release name="Impossible Mission (USA) (Rev 1) (Proto)" region="USA"/>
+		<rom name="Impossible Mission (USA) (Rev 1) (Proto).bin" size="131072" crc="97a0ea98" md5="55c959a86b7bbb78b85a3fb3dbafeb6d" sha1="cfac849981a15e6bd2c86c26ba935c7931153348"/>
+	</game>
+	<game name="Jacks or Better Poker (World) (v1.37) (Aftermarket) (Unl)">
+		<description>Jacks or Better Poker (World) (v1.37) (Aftermarket) (Unl)</description>
+		<rom name="Jacks or Better Poker (World) (v1.37) (Aftermarket) (Unl).bin" size="49152" crc="3495bada" md5="64717953882a4aebe463f453ca00b9be" sha1="f550a66ad1288bea6f10c6fd8675660fdbbab1ab"/>
+	</game>
+	<game name="Jinks (Europe)">
+		<description>Jinks (Europe)</description>
+		<release name="Jinks (Europe)" region="EUR"/>
+		<rom name="Jinks (Europe).bin" size="131072" crc="9207ed3b" md5="dfb86f4d06f05ad00cf418f0a59a24f7" sha1="eb16de0c3d5c4e769ae2314ba21c4dd3bca33c88"/>
+	</game>
+	<game name="Jinks (USA)" cloneof="Jinks (Europe)">
+		<description>Jinks (USA)</description>
+		<release name="Jinks (USA)" region="USA"/>
+		<rom name="Jinks (USA).bin" size="131072" crc="0818d8cd" md5="045fd12050b7f2b842d5970f2414e912" sha1="472bc12c437b015a9e317bac092529f3295033b8" status="verified"/>
+	</game>
+	<game name="Joust (Europe)">
+		<description>Joust (Europe)</description>
+		<release name="Joust (Europe)" region="EUR"/>
+		<rom name="Joust (Europe).bin" size="49152" crc="9b3be616" md5="f2dae0264a4b4a73762b9d7177e989f6" sha1="aae5b9ee00c39d577858aba9d1fd791194be2c0c"/>
+	</game>
+	<game name="Joust (USA)" cloneof="Joust (Europe)">
+		<description>Joust (USA)</description>
+		<release name="Joust (USA)" region="USA"/>
+		<rom name="Joust (USA).bin" size="32768" crc="2c430bce" md5="f18b3b897a25ab3885b43b4bd141b396" sha1="1ccd7c232bcfd5a65d26b9decfe4eceadcbe314c" status="verified"/>
+	</game>
+	<game name="Jr. Pac-Man (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Jr. Pac-Man (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Jr. Pac-Man (World) (NTSC) (Aftermarket) (Unl).bin" size="32768" crc="1b79aa55" md5="bde3abe40d302d8c4c65c9690c05dbc4" sha1="350fcb98cd55355bceed043ddc75453bcc6ee7d8"/>
+	</game>
+	<game name="Jr. Pac-Man (World) (PAL) (Aftermarket) (Unl)" cloneof="Jr. Pac-Man (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Jr. Pac-Man (World) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Jr. Pac-Man (World) (PAL) (Aftermarket) (Unl).bin" size="32768" crc="b039b160" md5="a9211b4fe543aac629ecb7eb0816c4f5" sha1="7c61d9e201ba9ed7362a8f0d560b40ee9d9dc864"/>
+	</game>
+	<game name="K.C. Munchkin (World) (v1.01) (Aftermarket) (Unl)">
+		<description>K.C. Munchkin (World) (v1.01) (Aftermarket) (Unl)</description>
+		<rom name="K.C. Munchkin (World) (v1.01) (Aftermarket) (Unl).bin" size="16384" crc="6bd7388c" md5="aa0b9560d6610378bda58f09f265d6ad" sha1="7816de63e052338fe43422a455e9191d3153b784"/>
+	</game>
+	<game name="K.C. Munchkin (World) (v1.00) (Aftermarket) (Unl)" cloneof="K.C. Munchkin (World) (v1.01) (Aftermarket) (Unl)">
+		<description>K.C. Munchkin (World) (v1.00) (Aftermarket) (Unl)</description>
+		<rom name="K.C. Munchkin (World) (v1.00) (Aftermarket) (Unl).bin" size="16384" crc="83cf579d" md5="927edf157f88b8f5863254d9a65f05a8" sha1="1a9b0cca06c121b4f1e0dbed8ed204cd4e81f8de"/>
+	</game>
+	<game name="Karateka (Europe)">
+		<description>Karateka (Europe)</description>
+		<release name="Karateka (Europe)" region="EUR"/>
+		<rom name="Karateka (Europe).bin" size="65536" crc="6c8d9e68" md5="5e0a1e832bbcea6facb832fde23a440a" sha1="c5f25c88eefe0c7b3571ab3c3ec5185e537eb151" status="verified"/>
+	</game>
+	<game name="Karateka (USA)" cloneof="Karateka (Europe)">
+		<description>Karateka (USA)</description>
+		<release name="Karateka (USA)" region="USA"/>
+		<rom name="Karateka (USA).bin" size="49152" crc="fec21472" md5="c3a5a8692a423d43d9d28dd5b7d109d9" sha1="9fb97bbc7dcc610251cee1695c48b82a087f32d2"/>
+	</game>
+	<game name="Keystone Koppers (World) (Aftermarket) (Unl)">
+		<description>Keystone Koppers (World) (Aftermarket) (Unl)</description>
+		<rom name="Keystone Koppers (World) (Aftermarket) (Unl).bin" size="131072" crc="6dc46004" md5="8151cd4d4bce851b553e0eae51d94f0c" sha1="421e5fd929be9234825215c1121e239111c11d53"/>
+	</game>
+	<game name="Keystone Koppers (World) (2022-12-22) (Demo) (Aftermarket) (Unl)" cloneof="Keystone Koppers (World) (Aftermarket) (Unl)">
+		<description>Keystone Koppers (World) (2022-12-22) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Keystone Koppers (World) (2022-12-22) (Demo) (Aftermarket) (Unl).bin" size="131072" crc="fcb02b92" md5="1c9deabc48f07d1bf2c68731fccd27b5" sha1="373ecb89234be12a13d22e5ce8eef098630ddec0"/>
+	</game>
+	<game name="Klax (USA) (Proto)">
+		<description>Klax (USA) (Proto)</description>
+		<release name="Klax (USA) (Proto)" region="USA"/>
+		<rom name="Klax (USA) (Proto).bin" size="131072" crc="f26621e3" md5="17b3b764d33eae9b5260f01df7bb9d2f" sha1="0ea6a04b8f9713040ce57b6f23a6589f98409d46"/>
+	</game>
+	<game name="Kung-Fu Master (Europe)">
+		<description>Kung-Fu Master (Europe)</description>
+		<release name="Kung-Fu Master (Europe)" region="EUR"/>
+		<rom name="Kung-Fu Master (Europe).bin" size="32768" crc="c1531fc4" md5="2931b75811ad03f3ac9330838f3d231b" sha1="0f0e24246d9e684b7f900a362fb08878b232580c"/>
+	</game>
+	<game name="Kung-Fu Master (USA)" cloneof="Kung-Fu Master (Europe)">
+		<description>Kung-Fu Master (USA)</description>
+		<release name="Kung-Fu Master (USA)" region="USA"/>
+		<rom name="Kung-Fu Master (USA).bin" size="32768" crc="297899bb" md5="f57d0af323d4e173fb49ed447f0563d7" sha1="8824bffdf4f30a8191e581752a75259a663092ca"/>
+	</game>
+	<game name="Legend of Silverpeak (World) (v1.01) (Aftermarket) (Unl)">
+		<description>Legend of Silverpeak (World) (v1.01) (Aftermarket) (Unl)</description>
+		<rom name="Legend of Silverpeak (World) (v1.01) (Aftermarket) (Unl).bin" size="524288" crc="55238725" md5="271864e0978278a3e2fb04273db69d57" sha1="a6dabdbf9c4c82bab5b2ffa9a1ac21ecbb03a6da"/>
+	</game>
+	<game name="Legend of Silverpeak (World) (v1.00) (Aftermarket) (Unl)" cloneof="Legend of Silverpeak (World) (v1.01) (Aftermarket) (Unl)">
+		<description>Legend of Silverpeak (World) (v1.00) (Aftermarket) (Unl)</description>
+		<rom name="Legend of Silverpeak (World) (v1.00) (Aftermarket) (Unl).bin" size="524288" crc="6721bcd9" md5="8385daccee02ccda081eed45eba1479d" sha1="17c8c1dee46a5988d4375eb56a4117be8273011c"/>
+	</game>
+	<game name="Mario Bros. (Europe)">
+		<description>Mario Bros. (Europe)</description>
+		<release name="Mario Bros. (Europe)" region="EUR"/>
+		<rom name="Mario Bros. (Europe).bin" size="49152" crc="efad3d9d" md5="d2e861306be78e44248bb71d7475d8a3" sha1="881beff5103713e655fed80b32e0bbd774e78ee8"/>
+	</game>
+	<game name="Mario Bros. (USA)" cloneof="Mario Bros. (Europe)">
+		<description>Mario Bros. (USA)</description>
+		<release name="Mario Bros. (USA)" region="USA"/>
+		<rom name="Mario Bros. (USA).bin" size="49152" crc="8021a13b" md5="431ca060201ee1f9eb49d44962874049" sha1="12e04b67094af622641c536379c69ecad2ee98ed"/>
+	</game>
+	<game name="Mat Mania Challenge (Europe)">
+		<description>Mat Mania Challenge (Europe)</description>
+		<release name="Mat Mania Challenge (Europe)" region="EUR"/>
+		<rom name="Mat Mania Challenge (Europe).bin" size="131072" crc="065f3873" md5="6819c37b96063b024898a19dbae2df54" sha1="119bb784f1a0638cc6778841131ca1766e94a112" status="verified"/>
+	</game>
+	<game name="Mat Mania Challenge (USA)" cloneof="Mat Mania Challenge (Europe)">
+		<description>Mat Mania Challenge (USA)</description>
+		<release name="Mat Mania Challenge (USA)" region="USA"/>
+		<rom name="Mat Mania Challenge (USA).bin" size="131072" crc="aba91829" md5="37b5692e33a98115e574185fa8398c22" sha1="bb849b603cf1091e4f032936b209ff33fc3b714e"/>
+	</game>
+	<game name="Mean 18 Ultimate Golf (Europe)">
+		<description>Mean 18 Ultimate Golf (Europe)</description>
+		<release name="Mean 18 Ultimate Golf (Europe)" region="EUR"/>
+		<rom name="Mean 18 Ultimate Golf (Europe).bin" size="131072" crc="3cec4be8" md5="2e9dbad6c0fa381a6cd1bb9abf98a104" sha1="47702ee71c64af4ada09cd41122c779c7d8d94f1" status="verified"/>
+	</game>
+	<game name="Mean 18 Ultimate Golf (USA)" cloneof="Mean 18 Ultimate Golf (Europe)">
+		<description>Mean 18 Ultimate Golf (USA)</description>
+		<release name="Mean 18 Ultimate Golf (USA)" region="USA"/>
+		<rom name="Mean 18 Ultimate Golf (USA).bin" size="131072" crc="cf21d9ac" md5="f2f5e5841e4dda89a2faf8933dc33ea6" sha1="a3e50c0e56c9675ffb1b6439f40789bc64c606b2"/>
+	</game>
+	<game name="Meltdown (Europe)">
+		<description>Meltdown (Europe)</description>
+		<release name="Meltdown (Europe)" region="EUR"/>
+		<rom name="Meltdown (Europe).bin" size="131072" crc="177fc850" md5="c80155d7eec9e3dcb79aa6b83c9ccd1e" sha1="ac448f369c3c6334415095e4ff344fdd73b473be"/>
+	</game>
+	<game name="Meltdown (USA)" cloneof="Meltdown (Europe)">
+		<description>Meltdown (USA)</description>
+		<release name="Meltdown (USA)" region="USA"/>
+		<rom name="Meltdown (USA).bin" size="131072" crc="4a8f2171" md5="bedc30ec43587e0c98fc38c39c1ef9d0" sha1="e601c45aaa1cc25f01493867664c8b9fefeca70e"/>
+	</game>
+	<game name="Meteor Shower (World) (v1.06) (NTSC) (Aftermarket) (Unl)">
+		<description>Meteor Shower (World) (v1.06) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Meteor Shower (World) (v1.06) (NTSC) (Aftermarket) (Unl).bin" size="16384" crc="aa7fc852" md5="a44241d782ee14b53483487cc8216274" sha1="687ffa98659be34bd04e3602a74ed678463549a6"/>
+	</game>
+	<game name="Meteor Shower (World) (v1.06) (PAL) (Aftermarket) (Unl)" cloneof="Meteor Shower (World) (v1.06) (NTSC) (Aftermarket) (Unl)">
+		<description>Meteor Shower (World) (v1.06) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Meteor Shower (World) (v1.06) (PAL) (Aftermarket) (Unl).bin" size="16384" crc="7afc495b" md5="198b2f269ddff80aaff066b9318b09e6" sha1="228577c293febd6a5ffd20a621a6b146fb2f3276"/>
+	</game>
+	<game name="Meteor Shower (World) (v1.05) (NTSC) (Aftermarket) (Unl)" cloneof="Meteor Shower (World) (v1.06) (NTSC) (Aftermarket) (Unl)">
+		<description>Meteor Shower (World) (v1.05) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Meteor Shower (World) (v1.05) (NTSC) (Aftermarket) (Unl).bin" size="16384" crc="1a6b1e88" md5="c3f6201d6a9388e860328c963a3301cc" sha1="fe49cc7b92b3f1d44c91b4f645ee8348ebe7e017"/>
+	</game>
+	<game name="Meteor Shower (World) (v1.05) (PAL) (Aftermarket) (Unl)" cloneof="Meteor Shower (World) (v1.06) (NTSC) (Aftermarket) (Unl)">
+		<description>Meteor Shower (World) (v1.05) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Meteor Shower (World) (v1.05) (PAL) (Aftermarket) (Unl).bin" size="16384" crc="ea240bf3" md5="dc0bf52475030c05671dd187e9a99f08" sha1="5e06ce4a823407234e9c784ba51bbe6edd7ae7cf"/>
+	</game>
+	<game name="Midnight Mutants (Europe)">
+		<description>Midnight Mutants (Europe)</description>
+		<release name="Midnight Mutants (Europe)" region="EUR"/>
+		<rom name="Midnight Mutants (Europe).bin" size="131072" crc="7ca6d521" md5="6794ea31570eba0b88a0bf1ead3f3f1b" sha1="85f0e0556df65c0732f71ab3f2bbde3615355f72"/>
+	</game>
+	<game name="Midnight Mutants (USA)" cloneof="Midnight Mutants (Europe)">
+		<description>Midnight Mutants (USA)</description>
+		<release name="Midnight Mutants (USA)" region="USA"/>
+		<rom name="Midnight Mutants (USA).bin" size="131072" crc="187ec84e" md5="bc1e905db1008493a9632aa83ab4682b" sha1="db5ea4c1456f3b403f6b8978432ecbcdac89d432"/>
+	</game>
+	<game name="Missing in Action (USA) (Proto)">
+		<description>Missing in Action (USA) (Proto)</description>
+		<release name="Missing in Action (USA) (Proto)" region="USA"/>
+		<rom name="Missing in Action (USA) (Proto).bin" size="147456" crc="ff7a4c60" md5="017066f522908081ec3ee624f5e4a8aa" sha1="26b0b187a43bf9a9397cb5e8b0033e8833f48f88"/>
+	</game>
+	<game name="Moon Cresta (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Moon Cresta (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Moon Cresta (World) (NTSC) (Aftermarket) (Unl).bin" size="32768" crc="7e4ae0c3" md5="3a15fe7bead3d9b90f3fb13d63e1ee42" sha1="e6677db1dacc73eb10663abc88a83da3733967df"/>
+	</game>
+	<game name="Moon Cresta (World) (PAL) (Aftermarket) (Unl)" cloneof="Moon Cresta (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Moon Cresta (World) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Moon Cresta (World) (PAL) (Aftermarket) (Unl).bin" size="32768" crc="a6c810b2" md5="3c05784f55167a10028225d20b38fef5" sha1="1b93c4b5797bfd31b63f6d2ef7b6ae812055ceba"/>
+	</game>
+	<game name="Motor Psycho (Europe)">
+		<description>Motor Psycho (Europe)</description>
+		<release name="Motor Psycho (Europe)" region="EUR"/>
+		<rom name="Motor Psycho (Europe).bin" size="131072" crc="38bb45ba" md5="5330bfe428a6b601b7e76c2cfc4cd049" sha1="3b72d6b3e28ca9182f1f25dc57115d2ec33aa63e" status="verified"/>
+	</game>
+	<game name="Motor Psycho (USA)" cloneof="Motor Psycho (Europe)">
+		<description>Motor Psycho (USA)</description>
+		<release name="Motor Psycho (USA)" region="USA"/>
+		<rom name="Motor Psycho (USA).bin" size="131072" crc="1e219482" md5="3bc8f554cf86f8132a623cc2201a564b" sha1="b9381f4d0413b6c48e27f26ed94c7a9eb1a49624"/>
+	</game>
+	<game name="Ms. Pac-Man (Europe)">
+		<description>Ms. Pac-Man (Europe)</description>
+		<release name="Ms. Pac-Man (Europe)" region="EUR"/>
+		<rom name="Ms. Pac-Man (Europe).bin" size="32768" crc="8421033a" md5="56469e8c5ff8983c6cb8dadc64eb0363" sha1="a5b0826a130acf8b8dbc59ef980d40b802c22b30"/>
+	</game>
+	<game name="Ms. Pac-Man (USA)" cloneof="Ms. Pac-Man (Europe)">
+		<description>Ms. Pac-Man (USA)</description>
+		<release name="Ms. Pac-Man (USA)" region="USA"/>
+		<rom name="Ms. Pac-Man (USA).bin" size="16384" crc="e42fc700" md5="fc0ea52a9fac557251b65ee680d951e5" sha1="ff22e21fc953a288453c40eb6fc5378d42b871f6"/>
+	</game>
+	<game name="Ms. Pac-Man 320 (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Ms. Pac-Man 320 (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Ms. Pac-Man 320 (World) (NTSC) (Aftermarket) (Unl).bin" size="32768" crc="65d0da06" md5="35433868dfe383ae21fd77507e5a478d" sha1="50d6c46158dd80acf6b8be3401915ea2072fe019"/>
+	</game>
+	<game name="Ms. Pac-Man 320 (World) (PAL) (Aftermarket) (Unl)" cloneof="Ms. Pac-Man 320 (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Ms. Pac-Man 320 (World) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Ms. Pac-Man 320 (World) (PAL) (Aftermarket) (Unl).bin" size="32768" crc="9430a1a1" md5="bc56f803d65658f92c17e6c2b271a507" sha1="6d8c688ebba1f7a1975064c016cdcc04c55a1c8d"/>
+	</game>
+	<game name="Ninja Golf (Europe)">
+		<description>Ninja Golf (Europe)</description>
+		<release name="Ninja Golf (Europe)" region="EUR"/>
+		<rom name="Ninja Golf (Europe).bin" size="131072" crc="2b5382b7" md5="ea0c859aa54fe5eaf4c1f327fab06221" sha1="99ce5711e38ff7ef3311216f954cf0ab70e289cf" status="verified"/>
+	</game>
+	<game name="Ninja Golf (USA)" cloneof="Ninja Golf (Europe)">
+		<description>Ninja Golf (USA)</description>
+		<release name="Ninja Golf (USA)" region="USA"/>
+		<rom name="Ninja Golf (USA).bin" size="131072" crc="cb48e8dc" md5="220121f771fc4b98cef97dc040e8d378" sha1="96d0e59e703770eea8d8d9c2c4e5a87ce6f2de76"/>
+	</game>
+	<game name="One-on-One Basketball (Europe)">
+		<description>One-on-One Basketball (Europe)</description>
+		<release name="One-on-One Basketball (Europe)" region="EUR"/>
+		<rom name="One-on-One Basketball (Europe).bin" size="49152" crc="7a628295" md5="8dba0425f0262e5704581d8757a1a6e3" sha1="01dfc5e4e615cf20ee4f07245285f85684ee445d"/>
+	</game>
+	<game name="One-on-One Basketball (USA)" cloneof="One-on-One Basketball (Europe)">
+		<description>One-on-One Basketball (USA)</description>
+		<release name="One-on-One Basketball (USA)" region="USA"/>
+		<rom name="One-on-One Basketball (USA).bin" size="49152" crc="7d9370fb" md5="74569571a208f8b0b1ccfb22d7c914e1" sha1="5173f892a8d70aeca6c324c138c56208e0db2b98"/>
+	</game>
+	<game name="Oozy the Goo Gaiden (World) (Aftermarket) (Unl)">
+		<description>Oozy the Goo Gaiden (World) (Aftermarket) (Unl)</description>
+		<rom name="Oozy the Goo Gaiden (World) (Aftermarket) (Unl).bin" size="147456" crc="3d73d926" md5="3d9c52142f9e53f516d3408daad376f3" sha1="1a22b8e7f768d12001b3992168dc34c4ee6d997a"/>
+	</game>
+	<game name="Orion Assault (World) (v01.78b) (Proto) (Aftermarket) (Unl)">
+		<description>Orion Assault (World) (v01.78b) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Orion Assault (World) (v01.78b) (Proto) (Aftermarket) (Unl).bin" size="131072" crc="625b896e" md5="89678ebc7d4605e86cffd2a1ec7cc7b9" sha1="22c697d14c705086f36f22c3d774b504a99fbf9d"/>
+	</game>
+	<game name="Pac-Man - Energy Drink Edition (World) (v1.02) (Aftermarket) (Unl)">
+		<description>Pac-Man - Energy Drink Edition (World) (v1.02) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man - Energy Drink Edition (World) (v1.02) (Aftermarket) (Unl).bin" size="49152" crc="60be7493" md5="2b51ebf2f371d0790a5629e27727ebba" sha1="b5a67fef7062f2b9525e2e3ccd0ab674c8603193"/>
+	</game>
+	<game name="Pac-Man 320 (World) (v1.05) (NTSC) (Aftermarket) (Unl)">
+		<description>Pac-Man 320 (World) (v1.05) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man 320 (World) (v1.05) (NTSC) (Aftermarket) (Unl).bin" size="32768" crc="545e868b" md5="60982f430b762343d53e48f70acfa6d0" sha1="87d94a984e759708b6f8b251a309e6860d6d9ab9"/>
+	</game>
+	<game name="Pac-Man 320 (World) (v1.05) (PAL) (Aftermarket) (Unl)" cloneof="Pac-Man 320 (World) (v1.05) (NTSC) (Aftermarket) (Unl)">
+		<description>Pac-Man 320 (World) (v1.05) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man 320 (World) (v1.05) (PAL) (Aftermarket) (Unl).bin" size="32768" crc="1c0dbc7c" md5="180121ecb4aabc7daa945b355e15c254" sha1="8de5e06d8eaf7c92c7e66140906bb645a5aa2b3a"/>
+	</game>
+	<game name="Pac-Man Collection - Remastered Edition (World) (NTSC) (TIA) (Aftermarket) (Unl)">
+		<description>Pac-Man Collection - Remastered Edition (World) (NTSC) (TIA) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man Collection - Remastered Edition (World) (NTSC) (TIA) (Aftermarket) (Unl).bin" size="49152" crc="a3ac92b3" md5="200ef9c7b36afd3b1b6ce32065a259bb" sha1="74d8964631b95084f5f09921705ee88fdf0862b4"/>
+	</game>
+	<game name="Pac-Man Collection - Remastered Edition (World) (PAL) (TIA) (Aftermarket) (Unl)" cloneof="Pac-Man Collection - Remastered Edition (World) (NTSC) (TIA) (Aftermarket) (Unl)">
+		<description>Pac-Man Collection - Remastered Edition (World) (PAL) (TIA) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man Collection - Remastered Edition (World) (PAL) (TIA) (Aftermarket) (Unl).bin" size="49152" crc="5cd69784" md5="fddb22207cf6159f91ba31edcb8c5ce5" sha1="787251bef5147a34113cc5bc91f4e070db65e454"/>
+	</game>
+	<game name="Pac-Man Collection - Ultimate Edition (World) (NTSC) (Pokey) (Aftermarket) (Unl)">
+		<description>Pac-Man Collection - Ultimate Edition (World) (NTSC) (Pokey) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man Collection - Ultimate Edition (World) (NTSC) (Pokey) (Aftermarket) (Unl).bin" size="32768" crc="fd2f3867" md5="6a432fd1e9d42a294bdb04d2c3d1e17f" sha1="20c697c298b05984a2fd333bdce7ffc486d22712"/>
+	</game>
+	<game name="Pac-Man Collection - Ultimate Edition (World) (PAL) (Pokey) (Aftermarket) (Unl)" cloneof="Pac-Man Collection - Ultimate Edition (World) (NTSC) (Pokey) (Aftermarket) (Unl)">
+		<description>Pac-Man Collection - Ultimate Edition (World) (PAL) (Pokey) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man Collection - Ultimate Edition (World) (PAL) (Pokey) (Aftermarket) (Unl).bin" size="32768" crc="0d71db9a" md5="41c6dcd63db9c90795903c362a09c5d8" sha1="692774c60ff42029efef733213e2e33f491cae6a"/>
+	</game>
+	<game name="Pac-Man Plus 320 (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Pac-Man Plus 320 (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man Plus 320 (World) (NTSC) (Aftermarket) (Unl).bin" size="32768" crc="43b6c1c0" md5="d0bf3b841ad4bbd356e9588874749a13" sha1="b9fa09860bd3af0924edff693831964527e760cf"/>
+	</game>
+	<game name="Pac-Man Plus 320 (World) (PAL) (Aftermarket) (Unl)" cloneof="Pac-Man Plus 320 (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Pac-Man Plus 320 (World) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man Plus 320 (World) (PAL) (Aftermarket) (Unl).bin" size="32768" crc="86936d1b" md5="1482beef7dbdb122f6bb4b03640888f2" sha1="eb01729384c3a2b704b8a3f43afe6e2279839915"/>
+	</game>
+	<game name="Pirate Cove (World) (Aftermarket) (Unl)">
+		<description>Pirate Cove (World) (Aftermarket) (Unl)</description>
+		<rom name="Pirate Cove (World) (Aftermarket) (Unl).bin" size="32768" crc="6a6678ba" md5="a6b91a759b34f6c61462195fc783b6db" sha1="2f39f77e07f52e0d189c4d468e3fd8afaaccbb06"/>
+	</game>
+	<game name="Pit Fighter (USA) (Proto)">
+		<description>Pit Fighter (USA) (Proto)</description>
+		<release name="Pit Fighter (USA) (Proto)" region="USA"/>
+		<rom name="Pit Fighter (USA) (Proto).bin" size="65536" crc="a5e75537" md5="05f43244465943ce819780a71a5b572a" sha1="378addef67aca55500f0f5f9f0075dcb177406b5"/>
+	</game>
+	<game name="Planet Smashers (Europe)">
+		<description>Planet Smashers (Europe)</description>
+		<release name="Planet Smashers (Europe)" region="EUR"/>
+		<rom name="Planet Smashers (Europe).bin" size="131072" crc="95dc7e96" md5="2837a8fd49b7fc7ccd70fd45b69c5099" sha1="f12cbb576607ec38d6111f4346412ccc5bfbcf42" status="verified"/>
+	</game>
+	<game name="Planet Smashers (USA)" cloneof="Planet Smashers (Europe)">
+		<description>Planet Smashers (USA)</description>
+		<release name="Planet Smashers (USA)" region="USA"/>
+		<rom name="Planet Smashers (USA).bin" size="131072" crc="4e3b9e64" md5="33aea1e2b6634a1dec8c7006d9afda22" sha1="503b975fc1f8edc16110ac2c5b884c4e8b2b6efb"/>
+	</game>
+	<game name="Plink (World) (Aftermarket) (Unl)">
+		<description>Plink (World) (Aftermarket) (Unl)</description>
+		<rom name="Plink (World) (Aftermarket) (Unl).bin" size="131072" crc="f945cbd9" md5="851f901cbc78824f6754f362c00ae648" sha1="c82ba36a29bd71b36de25368d2e92efbe94d8c57"/>
+	</game>
+	<game name="Plutos (USA) (Proto)">
+		<description>Plutos (USA) (Proto)</description>
+		<release name="Plutos (USA) (Proto)" region="USA"/>
+		<rom name="Plutos (USA) (Proto).bin" size="131072" crc="2f211f7f" md5="86546808dc60961cdb1b20e761c50ab1" sha1="fa55d6a366b237917f18487fc51817394839a3bc"/>
+	</game>
+	<game name="Plutos XM (World) (Aftermarket) (Unl)">
+		<description>Plutos XM (World) (Aftermarket) (Unl)</description>
+		<rom name="Plutos XM (World) (Aftermarket) (Unl).bin" size="131072" crc="77e3b09b" md5="74f0283c566bdee8543e4fdc5cb8b201" sha1="0ebe7ae68c3d1771eb9b122500833f700b12aa37"/>
+	</game>
+	<game name="Poetiru (World) (Aftermarket) (Unl)">
+		<description>Poetiru (World) (Aftermarket) (Unl)</description>
+		<rom name="Poetiru (World) (Aftermarket) (Unl).bin" size="32768" crc="65804dd9" md5="f0abd58c1de2ba3e577f90c3d52dd7fc" sha1="58fa0e899b1522cfd5d613e44eb011b3e06a010d"/>
+	</game>
+	<game name="Pole Position II (Europe)">
+		<description>Pole Position II (Europe)</description>
+		<release name="Pole Position II (Europe)" region="EUR"/>
+		<rom name="Pole Position II (Europe).bin" size="32768" crc="d751c7a6" md5="865457e0e0f48253b08f77b9e18f93b2" sha1="268e53b5b2117bf853e0aae6adb0b2d3aad8ad5c"/>
+	</game>
+	<game name="Pole Position II (USA)" cloneof="Pole Position II (Europe)">
+		<description>Pole Position II (USA)</description>
+		<release name="Pole Position II (USA)" region="USA"/>
+		<rom name="Pole Position II (USA).bin" size="32768" crc="a85fb962" md5="584582bb09ee8122e7fc09dc7d1ed813" sha1="ccfa6f3f83ddbed2a2fb32735fea316a718fbaaa" status="verified"/>
+	</game>
+	<game name="Pole Position II (USA) (Beta)" cloneof="Pole Position II (Europe)">
+		<description>Pole Position II (USA) (Beta)</description>
+		<rom name="Pole Position II (USA) (Beta).bin" size="32768" crc="fd40b838" md5="dab84748d29d3854bca3675a8937988b" sha1="e65e2bbf62f902c4dee3f2e95ec5a222d151beb4"/>
+	</game>
+	<game name="Rampage (USA)">
+		<description>Rampage (USA)</description>
+		<release name="Rampage (USA)" region="USA"/>
+		<rom name="Rampage (USA).bin" size="131072" crc="39a316aa" md5="ac03806cef2558fc795a7d5d8dba7bc0" sha1="13745b5eaaab7e2c992f3312285e112cdeb424f6"/>
+	</game>
+	<game name="Rampart (USA) (Proto)">
+		<description>Rampart (USA) (Proto)</description>
+		<release name="Rampart (USA) (Proto)" region="USA"/>
+		<rom name="Rampart (USA) (Proto).bin" size="131072" crc="e8c2a662" md5="442761655bb25ddfe5f7ab16bf591c6f" sha1="53516794cb442208af5d54760324c006510553b3"/>
+	</game>
+	<game name="RealSports Baseball (USA)">
+		<description>RealSports Baseball (USA)</description>
+		<release name="RealSports Baseball (USA)" region="USA"/>
+		<rom name="RealSports Baseball (USA).bin" size="65536" crc="b1508030" md5="383ed9bd1efb9b6cb3388a777678c928" sha1="9a9f60251d049630099f56d2d3efb013828b8a2c"/>
+	</game>
+	<game name="Rescue on Fractalus (USA) (Proto)">
+		<description>Rescue on Fractalus (USA) (Proto)</description>
+		<release name="Rescue on Fractalus (USA) (Proto)" region="USA"/>
+		<rom name="Rescue on Fractalus (USA) (Proto).bin" size="32768" crc="9a74fbf2" md5="8f7eb10ad0bd75474abf0c6c36c08486" sha1="6653022f38e553d475896a918850158eaf8f77ff"/>
+	</game>
+	<game name="Rip-Off (World) (v1.06) (NTSC) (Aftermarket) (Unl)">
+		<description>Rip-Off (World) (v1.06) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Rip-Off (World) (v1.06) (NTSC) (Aftermarket) (Unl).bin" size="16384" crc="ac056f59" md5="803743fe18600f292456539906464421" sha1="2402033a1d275ec6d8e499264f7f388ce576186c"/>
+	</game>
+	<game name="Rip-Off (World) (v1.06) (PAL) (Aftermarket) (Unl)" cloneof="Rip-Off (World) (v1.06) (NTSC) (Aftermarket) (Unl)">
+		<description>Rip-Off (World) (v1.06) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Rip-Off (World) (v1.06) (PAL) (Aftermarket) (Unl).bin" size="16384" crc="f2e26485" md5="7389b31c8bb7442c708416d818d8d19a" sha1="df8dd497f9275d7e8a26298e67aced08afc9b040"/>
+	</game>
+	<game name="Rip-Off (World) (v1.05) (NTSC) (Aftermarket) (Unl)" cloneof="Rip-Off (World) (v1.06) (NTSC) (Aftermarket) (Unl)">
+		<description>Rip-Off (World) (v1.05) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Rip-Off (World) (v1.05) (NTSC) (Aftermarket) (Unl).bin" size="16384" crc="ab65a41d" md5="43525a0405184875c2ecfd0196886a34" sha1="6c377ef750c8a7eebccde2c6cdaa3c0d0df65852"/>
+	</game>
+	<game name="Rip-Off (World) (v1.05) (PAL) (Aftermarket) (Unl)">
+		<description>Rip-Off (World) (v1.05) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Rip-Off (World) (v1.05) (PAL) (Aftermarket) (Unl).bin" size="16384" crc="b1c8d47d" md5="106b409c6f4c219b1a3b3d099ead3b2b" sha1="52ddb5fdf55c5862dc435dfec37d0c59948dcb19"/>
+	</game>
+	<game name="Robot Finds Kitten (World) (2022-03-31) (Aftermarket) (Unl)">
+		<description>Robot Finds Kitten (World) (2022-03-31) (Aftermarket) (Unl)</description>
+		<rom name="Robot Finds Kitten (World) (2022-03-31) (Aftermarket) (Unl).bin" size="32768" crc="42201cca" md5="e4c2179b37693b84aa9c8d85f2527004" sha1="9e5b985dc5508019e2bc18ad364fbfb2b3689bb4"/>
+	</game>
+	<game name="Robot Finds Kitten (World) (2005-06-19) (Aftermarket) (Unl)" cloneof="Robot Finds Kitten (World) (2022-03-31) (Aftermarket) (Unl)">
+		<description>Robot Finds Kitten (World) (2005-06-19) (Aftermarket) (Unl)</description>
+		<rom name="Robot Finds Kitten (World) (2005-06-19) (Aftermarket) (Unl).bin" size="32768" crc="fcb76abe" md5="9646d482a8ad187ae52cd21c0de365fb" sha1="9d71e736923a226174126099d3e46197ea4452b8"/>
+	</game>
+	<game name="Robotron - 2084 (USA)">
+		<description>Robotron - 2084 (USA)</description>
+		<release name="Robotron - 2084 (USA)" region="USA"/>
+		<rom name="Robotron - 2084 (USA).bin" size="32768" crc="cb22305d" md5="66ecaafe1b82ae68ffc96267aaf7a4d7" sha1="ccc9753cdcbd2a2f8cb7966b8227801ba0bfd41d" status="verified"/>
+	</game>
+	<game name="Santa Simon (World) (Aftermarket) (Unl)">
+		<description>Santa Simon (World) (Aftermarket) (Unl)</description>
+		<rom name="Santa Simon (World) (Aftermarket) (Unl).bin" size="49152" crc="deafa85e" md5="ae85689b21bdf85cb9dc57c3b1fec9db" sha1="635340bb2e0060fb47b0156f105d0d2e4c2cf635"/>
+	</game>
+	<game name="Scramble (World) (v1.15) (NTSC) (Aftermarket) (Unl)">
+		<description>Scramble (World) (v1.15) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Scramble (World) (v1.15) (NTSC) (Aftermarket) (Unl).bin" size="49152" crc="753dca0a" md5="31b20a4710e691300bb4aa62cf02284c" sha1="bcaba22502bee85d20e4012df2fcd90ffc3de43b"/>
+	</game>
+	<game name="Scramble (World) (v1.15) (PAL) (Aftermarket) (Unl)" cloneof="Scramble (World) (v1.15) (NTSC) (Aftermarket) (Unl)">
+		<description>Scramble (World) (v1.15) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Scramble (World) (v1.15) (PAL) (Aftermarket) (Unl).bin" size="49152" crc="298897c8" md5="d79a44f51f21fc5bfe4448453d402d30" sha1="d51e3f56665e2c92dba7a7844c5d9bd68041ab7b"/>
+	</game>
+	<game name="Scramble (World) (v1.14) (NTSC) (Aftermarket) (Unl)" cloneof="Scramble (World) (v1.15) (NTSC) (Aftermarket) (Unl)">
+		<description>Scramble (World) (v1.14) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Scramble (World) (v1.14) (NTSC) (Aftermarket) (Unl).bin" size="49152" crc="6bbb722a" md5="57651b6c8e62811fab0361cea537b79c" sha1="dad62d7803cf7ecb3d4f978b3f8b08e97d14ac15"/>
+	</game>
+	<game name="Scramble (World) (v1.14) (PAL) (Aftermarket) (Unl)" cloneof="Scramble (World) (v1.15) (NTSC) (Aftermarket) (Unl)">
+		<description>Scramble (World) (v1.14) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Scramble (World) (v1.14) (PAL) (Aftermarket) (Unl).bin" size="49152" crc="b0ea0214" md5="65fe82f419f6583a0f9a736242cb303d" sha1="64c22cb614bd2ffcf45a4648c5b0572166189a34"/>
+	</game>
+	<game name="Scrapyard Dog (Europe)">
+		<description>Scrapyard Dog (Europe)</description>
+		<release name="Scrapyard Dog (Europe)" region="EUR"/>
+		<rom name="Scrapyard Dog (Europe).bin" size="131072" crc="46dd9662" md5="53db322c201323fe2ca8f074c0a2bf86" sha1="ebfed67cfeebc6a558dbb087e4784e5e5258c2e1" status="verified"/>
+	</game>
+	<game name="Scrapyard Dog (USA)" cloneof="Scrapyard Dog (Europe)">
+		<description>Scrapyard Dog (USA)</description>
+		<release name="Scrapyard Dog (USA)" region="USA"/>
+		<rom name="Scrapyard Dog (USA).bin" size="131072" crc="5cc8c34f" md5="980c35ae9625773a450aa7ef51751c04" sha1="f2249321d0cc296b9f9e516bbc5ecc9aab56ca22"/>
+	</game>
+	<game name="Sentinel (Europe)">
+		<description>Sentinel (Europe)</description>
+		<release name="Sentinel (Europe)" region="EUR"/>
+		<rom name="Sentinel (Europe).bin" size="131072" crc="47340df9" md5="5469b4de0608f23a5c4f98f331c9e75f" sha1="6d85a73a56d2f02ff439736eace86691aa613444"/>
+	</game>
+	<game name="Sentinel (USA) (Proto)" cloneof="Sentinel (Europe)">
+		<description>Sentinel (USA) (Proto)</description>
+		<release name="Sentinel (USA) (Proto)" region="USA"/>
+		<rom name="Sentinel (USA) (Proto).bin" size="131072" crc="2fddad78" md5="b697d9c2d1b9f6cb21041286d1bbfa7f" sha1="bd7de03a28b168c992bcaa96539c2310f3bfe30c"/>
+	</game>
+	<game name="Serpentine (World) (Aftermarket) (Unl)">
+		<description>Serpentine (World) (Aftermarket) (Unl)</description>
+		<rom name="Serpentine (World) (Aftermarket) (Unl).bin" size="131072" crc="d9660cdc" md5="9bd70c06d3386f76f8162881699a777a" sha1="8c89962af171ae17bc595b7b81728a89bcc2c9f7"/>
+	</game>
+	<game name="Shoot the UFO 2015 (World) (Aftermarket) (Unl)">
+		<description>Shoot the UFO 2015 (World) (Aftermarket) (Unl)</description>
+		<rom name="Shoot the UFO 2015 (World) (Aftermarket) (Unl).bin" size="32768" crc="15eead4b" md5="19586366f625db75b145f62c1d668f8e" sha1="8eabcfb451ce3e60e492cd86ce5625fc1e285d80"/>
+	</game>
+	<game name="Shuriken (World) (Aftermarket) (Unl)">
+		<description>Shuriken (World) (Aftermarket) (Unl)</description>
+		<rom name="Shuriken (World) (Aftermarket) (Unl).bin" size="32768" crc="379a709a" md5="16069c1f1416a84c0e7d9325885dd9bc" sha1="6b1aed2253900aaefe9f1e4faa1e49000f920e2b"/>
+	</game>
+	<game name="Sick Pickles (World) (Aftermarket) (Unl)">
+		<description>Sick Pickles (World) (Aftermarket) (Unl)</description>
+		<rom name="Sick Pickles (World) (Aftermarket) (Unl).bin" size="49152" crc="632696da" md5="96f69b85e0b43bbebbbd59bb8276a372" sha1="999b4f2412c7908d4e2eb8e98cd090153b38fe07"/>
+	</game>
+	<game name="Sirius (USA) (Proto)">
+		<description>Sirius (USA) (Proto)</description>
+		<release name="Sirius (USA) (Proto)" region="USA"/>
+		<rom name="Sirius (USA) (Proto).bin" size="131072" crc="65ae616e" md5="2d643ac548c40e58c99d0fe433ba4ba0" sha1="cd9f6dea96f102262065d7472e73121b67f9e244"/>
+	</game>
+	<game name="Sirius XM (World) (Aftermarket) (Unl)">
+		<description>Sirius XM (World) (Aftermarket) (Unl)</description>
+		<rom name="Sirius XM (World) (Aftermarket) (Unl).bin" size="131072" crc="b0f30a69" md5="c044ac97a06a537b68ec116363147086" sha1="75ba274c7d3ed2dab32670fdb8f3b60540ba2e06"/>
+	</game>
+	<game name="Slide Boy in Maze Land (World) (Digital) (Aftermarket) (Unl)">
+		<description>Slide Boy in Maze Land (World) (Digital) (Aftermarket) (Unl)</description>
+		<rom name="Slide Boy in Maze Land (World) (Digital) (Aftermarket) (Unl).bin" size="49152" crc="0dee43de" md5="f415904c5b48c294e627ab7dbf697830" sha1="3f85be79d26fc09fdbe23dcf97c80a980850d7da"/>
+	</game>
+	<game name="Slide Boy in Maze Land (World) (2021-05-10) (Beta) (Aftermarket) (Unl)" cloneof="Slide Boy in Maze Land (World) (Digital) (Aftermarket) (Unl)">
+		<description>Slide Boy in Maze Land (World) (2021-05-10) (Beta) (Aftermarket) (Unl)</description>
+		<rom name="Slide Boy in Maze Land (World) (2021-05-10) (Beta) (Aftermarket) (Unl).bin" size="49152" crc="b4562d58" md5="280c599bef1abbd9f70c1e26696ef242" sha1="f490347e7c29db7463013cde587e43b13f12b247"/>
+	</game>
+	<game name="Space Duel (World) (v1.09) (NTSC) (Aftermarket) (Unl)">
+		<description>Space Duel (World) (v1.09) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Space Duel (World) (v1.09) (NTSC) (Aftermarket) (Unl).bin" size="32768" crc="ef2d2560" md5="771cb4609347657f63e6f0eb26036e35" sha1="199d06cf7f54bb0a1fa328d3cff955f4bcf90450"/>
+	</game>
+	<game name="Space Duel (World) (v1.09) (PAL) (Aftermarket) (Unl)" cloneof="Space Duel (World) (v1.09) (NTSC) (Aftermarket) (Unl)">
+		<description>Space Duel (World) (v1.09) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Space Duel (World) (v1.09) (PAL) (Aftermarket) (Unl).bin" size="32768" crc="0e6a8443" md5="a84c1b2300fbfbf21b1c02387f613dad" sha1="03d3c7e6255fc6f1b8bbf6dc3ccdbaf51b7eabf7"/>
+	</game>
+	<game name="Space Invaders (World) (v2.02) (Aftermarket) (Unl)">
+		<description>Space Invaders (World) (v2.02) (Aftermarket) (Unl)</description>
+		<rom name="Space Invaders (World) (v2.02) (Aftermarket) (Unl).bin" size="16384" crc="be900754" md5="783d09ad9542b0bb28aa4cc6ffcf8aa6" sha1="d68e4896fc50053a37c66669af4b73b930286ea1"/>
+	</game>
+	<game name="Space Invaders (World) (v2.01) (NTSC) (Aftermarket) (Unl)" cloneof="Space Invaders (World) (v2.02) (Aftermarket) (Unl)">
+		<description>Space Invaders (World) (v2.01) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Space Invaders (World) (v2.01) (NTSC) (Aftermarket) (Unl).bin" size="16384" crc="9c3086eb" md5="6adf79558a3d7f5beca1bb8d34337417" sha1="167c06a5d9364f3359bb531d5533f4ff49283d47"/>
+	</game>
+	<game name="Space Invaders (World) (v2.01) (PAL) (Aftermarket) (Unl)" cloneof="Space Invaders (World) (v2.02) (Aftermarket) (Unl)">
+		<description>Space Invaders (World) (v2.01) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Space Invaders (World) (v2.01) (PAL) (Aftermarket) (Unl).bin" size="32768" crc="9f36c33d" md5="57c5026c60e939c285c44e6fa1bfbc81" sha1="6405e4d5f9f5b86addbf83867398233bb128b928"/>
+	</game>
+	<game name="Space Race (World) (v0.96) (Aftermarket) (Unl)">
+		<description>Space Race (World) (v0.96) (Aftermarket) (Unl)</description>
+		<rom name="Space Race (World) (v0.96) (Aftermarket) (Unl).bin" size="49152" crc="e59c249d" md5="9a11430d4eaeb3f7375bc2b92353c5db" sha1="38f0a2646642ec8ff0b9702d4e1c08d537fc28c8"/>
+	</game>
+	<game name="Stinger (World) (Aftermarket) (Unl)">
+		<description>Stinger (World) (Aftermarket) (Unl)</description>
+		<rom name="Stinger (World) (Aftermarket) (Unl).bin" size="32768" crc="cfbbd60d" md5="32b920423d0e131acfd745c0e5e43e67" sha1="e38a104f18df878a6c35c1ca990b76cf445a3edd"/>
+	</game>
+	<game name="Summer Games (USA)">
+		<description>Summer Games (USA)</description>
+		<release name="Summer Games (USA)" region="USA"/>
+		<rom name="Summer Games (USA).bin" size="131072" crc="65c6df3f" md5="cbb0746192540a13b4c7775c7ce2021f" sha1="31d46b32a2aa8d5bd6028cff1f41037426b22409"/>
+	</game>
+	<game name="Super Circus AtariAge (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Super Circus AtariAge (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Super Circus AtariAge (World) (NTSC) (Aftermarket) (Unl).bin" size="32768" crc="ec839981" md5="81cee326b99d6831de10a566e338bd25" sha1="e6bb155d5746d21e1b660c674097f836ba22e773" status="verified"/>
+	</game>
+	<game name="Super Circus AtariAge (World) (PAL) (Aftermarket) (Unl)" cloneof="Super Circus AtariAge (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Super Circus AtariAge (World) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Super Circus AtariAge (World) (PAL) (Aftermarket) (Unl).bin" size="32768" crc="2a9088c6" md5="2d6c9658cf770a396a106195f81fcc21" sha1="d7d39ebd7285827e8173671b15a4a408cb515a9a"/>
+	</game>
+	<game name="Super Huey UH-IX (Europe)">
+		<description>Super Huey UH-IX (Europe)</description>
+		<release name="Super Huey UH-IX (Europe)" region="EUR"/>
+		<rom name="Super Huey UH-IX (Europe).bin" size="49152" crc="6b27ea2c" md5="162f9c953f0657689cc74ab20b40280f" sha1="469e03ee1e22ef0978c8095a38d662d34a413723" status="verified"/>
+	</game>
+	<game name="Super Huey UH-IX (USA)" cloneof="Super Huey UH-IX (Europe)">
+		<description>Super Huey UH-IX (USA)</description>
+		<release name="Super Huey UH-IX (USA)" region="USA"/>
+		<rom name="Super Huey UH-IX (USA).bin" size="49152" crc="71846500" md5="cc18e3b37a507c4217eb6cb1de8c8538" sha1="29aea9e90c446942001fd08d3c4c929f4ce048d7"/>
+	</game>
+	<game name="Super Pac-Man (World) (v1.10) (NTSC) (Aftermarket) (Unl)">
+		<description>Super Pac-Man (World) (v1.10) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Super Pac-Man (World) (v1.10) (NTSC) (Aftermarket) (Unl).bin" size="32768" crc="7da18272" md5="88b9de0eba37ba516590fa8b860155f0" sha1="756f3f28d1ec31d30182cfefa8a57394c3d88dd7"/>
+	</game>
+	<game name="Super Pac-Man (World) (v1.10) (PAL) (Aftermarket) (Unl)" cloneof="Super Pac-Man (World) (v1.10) (NTSC) (Aftermarket) (Unl)">
+		<description>Super Pac-Man (World) (v1.10) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Super Pac-Man (World) (v1.10) (PAL) (Aftermarket) (Unl).bin" size="32768" crc="24c93682" md5="28aa5db1ae42578e4dad83eb0b78c472" sha1="0637e4cf50f7903aa56758b67974c0bf4f3f4563"/>
+	</game>
+	<game name="Super Pac-Man (World) (v1.09) (NTSC) (Aftermarket) (Unl)" cloneof="Super Pac-Man (World) (v1.10) (NTSC) (Aftermarket) (Unl)">
+		<description>Super Pac-Man (World) (v1.09) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Super Pac-Man (World) (v1.09) (NTSC) (Aftermarket) (Unl).bin" size="32768" crc="415a28ad" md5="7ab539bb0e99e1e5a1c89230bde64610" sha1="e1c51fa453b8dc600e5d7f46df1443b99a1507d0"/>
+	</game>
+	<game name="Super Pac-Man (World) (v1.09) (PAL) (Aftermarket) (Unl)" cloneof="Super Pac-Man (World) (v1.10) (NTSC) (Aftermarket) (Unl)">
+		<description>Super Pac-Man (World) (v1.09) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Super Pac-Man (World) (v1.09) (PAL) (Aftermarket) (Unl).bin" size="32768" crc="e920a2dc" md5="61aa4a074ad08c524fbee88d15e369ea" sha1="58375542cb3c2ecf2e2800d280c2d56a58804e77"/>
+	</game>
+	<game name="Super Skateboardin' (Europe)">
+		<description>Super Skateboardin' (Europe)</description>
+		<release name="Super Skateboardin' (Europe)" region="EUR"/>
+		<rom name="Super Skateboardin' (Europe).bin" size="32768" crc="8f167ba9" md5="95d7c321dce8f57623a9c5b4947bb375" sha1="fab349584af7b6b3f9b034af3034f43257e2c25f"/>
+	</game>
+	<game name="Super Skateboardin' (USA)" cloneof="Super Skateboardin' (Europe)">
+		<description>Super Skateboardin' (USA)</description>
+		<release name="Super Skateboardin' (USA)" region="USA"/>
+		<rom name="Super Skateboardin' (USA).bin" size="32768" crc="13b68650" md5="59b5793bece1c80f77b55d60fb39cb94" sha1="666d9383c112b66026898e6002b803801e269c51"/>
+	</game>
+	<game name="Super Stunt Cycle (USA) (Proto) (1989-05-26)">
+		<description>Super Stunt Cycle (USA) (Proto) (1989-05-26)</description>
+		<release name="Super Stunt Cycle (USA) (Proto) (1989-05-26)" region="USA"/>
+		<rom name="Super Stunt Cycle (USA) (Proto) (1989-05-26).bin" size="65536" crc="3f4da5c3" md5="2e0b41aa4a8989f4e599ebe8d5c661d7" sha1="eedfb030e50cf762695199ffed3efa1a56eb91e4"/>
+	</game>
+	<game name="Super Stunt Cycle (USA) (Proto) (1989-04-14)" cloneof="Super Stunt Cycle (USA) (Proto) (1989-05-26)">
+		<description>Super Stunt Cycle (USA) (Proto) (1989-04-14)</description>
+		<rom name="Super Stunt Cycle (USA) (Proto) (1989-04-14).bin" size="65536" crc="cb3dff09" md5="914a4598882d232af7ac992d594c6896" sha1="94b283ca311639371e72b758948c71f19198daca"/>
+	</game>
+	<game name="Super Stunt Cycle (USA) (Proto) (1988-11-03)" cloneof="Super Stunt Cycle (USA) (Proto) (1989-05-26)">
+		<description>Super Stunt Cycle (USA) (Proto) (1988-11-03)</description>
+		<rom name="Super Stunt Cycle (USA) (Proto) (1988-11-03).bin" size="65536" crc="60d253e2" md5="2ba7ffb58607d52a5bda7b259d4c6a9c" sha1="c03f030e92b7049a20b0517f68ea2dd02c300efc"/>
+	</game>
+	<game name="Tank Command (USA)">
+		<description>Tank Command (USA)</description>
+		<release name="Tank Command (USA)" region="USA"/>
+		<rom name="Tank Command (USA).bin" size="65536" crc="db91b181" md5="5c4f752371a523f15e9980fea73b874d" sha1="1d2975d754806416a25a821db6a9fe389bf5d946"/>
+	</game>
+	<game name="Title Match Pro Wrestling (Europe)">
+		<description>Title Match Pro Wrestling (Europe)</description>
+		<release name="Title Match Pro Wrestling (Europe)" region="EUR"/>
+		<rom name="Title Match Pro Wrestling (Europe).bin" size="32768" crc="16b54d5b" md5="3bb9c8d9adc912dd7f8471c97445cd8d" sha1="7ab281c9b69692823b3b6b594856172363c507b5"/>
+	</game>
+	<game name="Title Match Pro Wrestling (USA)" cloneof="Title Match Pro Wrestling (Europe)">
+		<description>Title Match Pro Wrestling (USA)</description>
+		<release name="Title Match Pro Wrestling (USA)" region="USA"/>
+		<rom name="Title Match Pro Wrestling (USA).bin" size="32768" crc="bc23c57b" md5="1af475ff6429a160752b592f0f92b287" sha1="80d11bcbb953ccd8bf3c3e64162711e7edb95090"/>
+	</game>
+	<game name="Tomcat - The F-14 Fighter Simulator (Europe)">
+		<description>Tomcat - The F-14 Fighter Simulator (Europe)</description>
+		<release name="Tomcat - The F-14 Fighter Simulator (Europe)" region="EUR"/>
+		<rom name="Tomcat - The F-14 Fighter Simulator (Europe).bin" size="32768" crc="b01205bf" md5="682338364243b023ecc9d24f0abfc9a7" sha1="825381773593365b5ca7eeca968cca00879eee71"/>
+	</game>
+	<game name="Tomcat - The F-14 Fighter Simulator (USA)" cloneof="Tomcat - The F-14 Fighter Simulator (Europe)">
+		<description>Tomcat - The F-14 Fighter Simulator (USA)</description>
+		<release name="Tomcat - The F-14 Fighter Simulator (USA)" region="USA"/>
+		<rom name="Tomcat - The F-14 Fighter Simulator (USA).bin" size="32768" crc="513cb9ee" md5="c3903ab01a51222a52197dbfe6538ecf" sha1="80c615fb60d0004c1accde25e42759572e030928"/>
+	</game>
+	<game name="Touchdown Challenge (World) (v2.21) (Aftermarket) (Unl)">
+		<description>Touchdown Challenge (World) (v2.21) (Aftermarket) (Unl)</description>
+		<rom name="Touchdown Challenge (World) (v2.21) (Aftermarket) (Unl).bin" size="49152" crc="65952659" md5="ff825fcbed9bf6993edd422fcc592673" sha1="d93f294baaa5e2046cec7ab4242e07a86a414004"/>
+	</game>
+	<game name="Touchdown Football (USA)">
+		<description>Touchdown Football (USA)</description>
+		<release name="Touchdown Football (USA)" region="USA"/>
+		<rom name="Touchdown Football (USA).bin" size="131072" crc="aae12695" md5="208ef955fa90a29815eb097bce89bace" sha1="364bf0fef8a67f7e66761c76a3a6a0dd186f04aa"/>
+	</game>
+	<game name="Tower Toppler (Europe)">
+		<description>Tower Toppler (Europe)</description>
+		<release name="Tower Toppler (Europe)" region="EUR"/>
+		<rom name="Tower Toppler (Europe).bin" size="65536" crc="0f87fd7b" md5="32a37244a9c6cc928dcdf02b45365aa8" sha1="56e1b795e80382edb376e4536d1dee539d4ac548"/>
+	</game>
+	<game name="Tower Toppler (USA)" cloneof="Tower Toppler (Europe)">
+		<description>Tower Toppler (USA)</description>
+		<release name="Tower Toppler (USA)" region="USA"/>
+		<rom name="Tower Toppler (USA).bin" size="65536" crc="4407ba04" md5="8d64763db3100aadc552db5e6868506a" sha1="53976013986e0ad3694ab9c021420b8172465de7" status="verified"/>
+	</game>
+	<game name="Tunnels of Hyperion (World) (Aftermarket) (Unl)">
+		<description>Tunnels of Hyperion (World) (Aftermarket) (Unl)</description>
+		<rom name="Tunnels of Hyperion (World) (Aftermarket) (Unl).bin" size="49152" crc="aca9af3e" md5="0d7e2674d802b41286e667bbae3bcc94" sha1="5c5f69620cdf8d590615cce0e5c2c60baeed9df6"/>
+	</game>
+	<game name="UniWarS (World) (v1.06) (Aftermarket) (Unl)">
+		<description>UniWarS (World) (v1.06) (Aftermarket) (Unl)</description>
+		<rom name="UniWarS (World) (v1.06) (Aftermarket) (Unl).bin" size="32768" crc="f2cc89f8" md5="f982c7dbf74c9c049cf7f875a46ed818" sha1="1470397b0af5a72eed91ee7ad7f9fc9f81084e17"/>
+	</game>
+	<game name="UniWarS (World) (v1.05) (Aftermarket) (Unl)" cloneof="UniWarS (World) (v1.06) (Aftermarket) (Unl)">
+		<description>UniWarS (World) (v1.05) (Aftermarket) (Unl)</description>
+		<rom name="UniWarS (World) (v1.05) (Aftermarket) (Unl).bin" size="32768" crc="2f8df482" md5="79df20ee86a989e669158bcb9d113e8a" sha1="b25996712608e3a9e9a7c2ee23bf9f3fe4f7b1e1"/>
+	</game>
+	<game name="Wasp! (World) (Aftermarket) (Unl)">
+		<description>Wasp! (World) (Aftermarket) (Unl)</description>
+		<rom name="Wasp! (World) (Aftermarket) (Unl).bin" size="32768" crc="ccdc2dbf" md5="412cc5bfa08bd03244b9c4e8d46cd0a0" sha1="4e259a2a01e86e970aa58acd94325f8a37eea1cc"/>
+	</game>
+	<game name="Water Ski (USA)">
+		<description>Water Ski (USA)</description>
+		<release name="Water Ski (USA)" region="USA"/>
+		<rom name="Water Ski (USA).bin" size="65536" crc="930b30df" md5="427cb05d0a1abb068998e2760d77f4fb" sha1="621c67c2228843405445222743ba3d7c1f04a3c4"/>
+	</game>
+	<game name="Winter Games (USA)">
+		<description>Winter Games (USA)</description>
+		<release name="Winter Games (USA)" region="USA"/>
+		<rom name="Winter Games (USA).bin" size="131072" crc="8981b531" md5="3799d72f78dda2ee87b0ef8bf7b91186" sha1="b3725d6f0834c68ac62ce13eb9eb0d01d1124e5e"/>
+	</game>
+	<game name="Wizard's Dungeon (World) (Aftermarket) (Unl)">
+		<description>Wizard's Dungeon (World) (Aftermarket) (Unl)</description>
+		<rom name="Wizard's Dungeon (World) (Aftermarket) (Unl).bin" size="49152" crc="b5010737" md5="846751861993b907c512cc9c10c67035" sha1="3ac2f32c9a4f4370bb3b245aec5044939140e1e1"/>
+	</game>
+	<game name="Wordle (World) (v1.07) (Aftermarket) (Unl)">
+		<description>Wordle (World) (v1.07) (Aftermarket) (Unl)</description>
+		<rom name="Wordle (World) (v1.07) (Aftermarket) (Unl).bin" size="131072" crc="02c9ea66" md5="71ce8910b0efd5d0014a9695cce3b7ad" sha1="66e663e698a2b327f924f46241f8dc720b947506"/>
+	</game>
+	<game name="Worm! (World) (Aftermarket) (Unl)">
+		<description>Worm! (World) (Aftermarket) (Unl)</description>
+		<rom name="Worm! (World) (Aftermarket) (Unl).bin" size="16384" crc="39296da2" md5="6813ffff510f930c867b3f0aba78ac85" sha1="d1b7cd5c27c2ec39cba55542eb1f90b027abd50b"/>
+	</game>
+	<game name="Xenophobe (Europe)">
+		<description>Xenophobe (Europe)</description>
+		<release name="Xenophobe (Europe)" region="EUR"/>
+		<rom name="Xenophobe (Europe).bin" size="131072" crc="cf0e44f1" md5="70937c3184f0be33d06f7f4382ca54de" sha1="b2cf7d6164d6e5acd47e9f6d7cf60bb0f775b4a3"/>
+	</game>
+	<game name="Xenophobe (USA)" cloneof="Xenophobe (Europe)">
+		<description>Xenophobe (USA)</description>
+		<release name="Xenophobe (USA)" region="USA"/>
+		<rom name="Xenophobe (USA).bin" size="131072" crc="5fd9a141" md5="05fb699db9eef564e2fe45c568746dbc" sha1="867adbfd7539ff81e68726ed6f5ff7326409539f"/>
+	</game>
+	<game name="Xevious (Europe)">
+		<description>Xevious (Europe)</description>
+		<release name="Xevious (Europe)" region="EUR"/>
+		<rom name="Xevious (Europe).bin" size="49152" crc="d5ac738b" md5="b1a9f196ce5f47ca8caf8fa7bc4ca46c" sha1="81647c8ce432f891328631b57dd3268dd315f8e8"/>
+	</game>
+	<game name="Xevious (USA)" cloneof="Xevious (Europe)">
+		<description>Xevious (USA)</description>
+		<release name="Xevious (USA)" region="USA"/>
+		<rom name="Xevious (USA).bin" size="32768" crc="75fc124f" md5="d7dc17379aa25e5ae3c14b9e780c6f6d" sha1="1d4f0335b152239553534fcbbacdca273802e3bd" status="verified"/>
+	</game>
+	<game name="Xevious (USA) (Beta)" cloneof="Xevious (Europe)">
+		<description>Xevious (USA) (Beta)</description>
+		<rom name="Xevious (USA) (Beta).bin" size="32768" crc="6fd15498" md5="dbbe99aeeb8cbc0f5f17cd0082d260a0" sha1="5f7d2d52ed8c9a3263ee0aefb3bc05a2847665dd"/>
+	</game>
+</datafile>

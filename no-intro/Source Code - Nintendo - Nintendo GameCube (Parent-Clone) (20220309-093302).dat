@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>192</id>
+		<name>Source Code - Nintendo - Nintendo GameCube (Parent-Clone)</name>
+		<description>Source Code - Nintendo - Nintendo GameCube (Parent-Clone)</description>
+		<subset>Source Code</subset>
+		<version>20220309-093302</version>
+		<date>20220309-093302</date>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="Killer7 (Unknown)">
+		<description>Killer7 (Unknown)</description>
+		<rom name="Killer7 GameCube Source Code.7z" size="2788615406" crc="34859d54" md5="b802dd467387ce04270d136d6b96690d" sha1="fbb061e7de62084bc17ca625b5aef130a51cd78a"/>
+	</game>
+</datafile>

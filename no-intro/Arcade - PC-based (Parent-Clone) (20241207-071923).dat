@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>399</id>
+		<name>Arcade - PC-based (Parent-Clone)</name>
+		<description>Arcade - PC-based (Parent-Clone)</description>
+		<version>20241207-071923</version>
+		<date>20241207-071923</date>
+		<author>Hiccup</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="Mario Kart Arcade GP DX (Unknown) (v1.18) [b]">
+		<description>Mario Kart Arcade GP DX (Unknown) (v1.18) [b]</description>
+		<rom name="Mario Kart Arcade GP DX (Unknown) (v1.18) [b].7z" size="1688871977" crc="4400aeca" md5="8152f02e94472b3cd0367ed7825ff41d" sha1="daf9023b967024d5f08aa0bba20160efd6486a84" status="baddump"/>
+	</game>
+	<game name="New Super Mario Bros. Wii Coin World (Unknown)">
+		<description>New Super Mario Bros. Wii Coin World (Unknown)</description>
+		<rom name="vdimg_ec_dec.img" size="250609664" crc="a87b5473" md5="6018f7b4103bba5af90b0fcbb4240a64" sha1="09d78eed0c49349f604e3d692a927c8f8f9e3fc2"/>
+	</game>
+</datafile>

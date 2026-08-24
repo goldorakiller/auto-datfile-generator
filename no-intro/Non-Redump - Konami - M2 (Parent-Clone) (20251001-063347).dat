@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
+	<header>
+		<id>468</id>
+		<name>Non-Redump - Konami - M2 (Parent-Clone)</name>
+		<description>Non-Redump - Konami - M2 (Parent-Clone)</description>
+		<subset>Non-Redump</subset>
+		<version>20251001-063347</version>
+		<date>20251001-063347</date>
+		<author>Schrodinger</author>
+		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
+	</header>
+	<game name="Total Vice (Asia) (AAC)">
+		<description>Total Vice (Asia) (AAC)</description>
+		<rom name="Total Vice (Asia) (AAC).bin" size="522489744" crc="b6273e5d" md5="d7a98c2043c1def4cf8b5064d329945b" sha1="097ff3203aae2b95e314ff7f66568739ddfeb947"/>
+	</game>
+	<game name="Total Vice (Europe) (EAC)">
+		<description>Total Vice (Europe) (EAC)</description>
+		<rom name="Total Vice (Europe) (EAC).bin" size="522489744" crc="f984b12c" md5="f049894c9ca687a864d64f28ff1b536b" sha1="eba06de705fa66a2de96f6975d49a814d2f58552"/>
+	</game>
+	<game name="Total Vice (Europe) (EBA)">
+		<description>Total Vice (Europe) (EBA)</description>
+		<rom name="Total Vice (Europe) (EBA).bin" size="522489744" crc="2b20e2f9" md5="b6fe38db8c964610f0fbfc2d49350310" sha1="6b7e21fc1eafe8a0a67e777d8ecd678dfbd54874"/>
+	</game>
+	<game name="Total Vice (USA) (UAC)">
+		<description>Total Vice (USA) (UAC)</description>
+		<rom name="Total Vice (USA) (UAC).bin" size="522489744" crc="f52278d4" md5="dd0f9407dbab68a1917bb3084e9ab038" sha1="ab71612bd0bd35441962190bd7959640a1a5660e"/>
+	</game>
+	<game name="World Soccer Championship (Japan) (JAA)">
+		<description>World Soccer Championship (Japan) (JAA)</description>
+		<rom name="World Soccer Championship (Japan) (JAA).bin" size="314906928" crc="4ccbbbf9" md5="14378375cb06300e54798da6f2beee38" sha1="24027219df4805427993c31fa3d3329f4dd1ffb3"/>
+	</game>
+</datafile>

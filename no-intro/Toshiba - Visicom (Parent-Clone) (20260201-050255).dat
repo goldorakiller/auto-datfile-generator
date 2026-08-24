@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>135</id>
+		<name>Toshiba - Visicom (Parent-Clone)</name>
+		<description>Toshiba - Visicom (Parent-Clone)</description>
+		<version>20260201-050255</version>
+		<date>20260201-050255</date>
+		<author>relax</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="[BIOS] Toshiba Visicom (Japan)">
+		<description>[BIOS] Toshiba Visicom (Japan)</description>
+		<release name="[BIOS] Toshiba Visicom (Japan)" region="JPN"/>
+		<rom name="[BIOS] Toshiba Visicom (Japan).bin" size="2048" crc="23d22074" md5="aeec6fe3934481e20eb7db6d5ff56a54" sha1="a0a8be23f70621a2bd8010b1134e8a0019075bf1"/>
+	</game>
+	<game name="Gambler I (Japan) (En)">
+		<description>Gambler I (Japan) (En)</description>
+		<release name="Gambler I (Japan) (En)" region="JPN"/>
+		<rom name="Gambler I (Japan) (En).rom" size="2048" crc="565be7c2" md5="ee7e9b2ddc0f5360b51bd663a78f5fcf" sha1="561fb51db880e3a668231fddd4c4a10d1a981c80"/>
+	</game>
+	<game name="Gambler II (Japan)">
+		<description>Gambler II (Japan)</description>
+		<release name="Gambler II (Japan)" region="JPN"/>
+		<rom name="Gambler II (Japan).rom" size="2048" crc="9da5c845" md5="2f29654b1656fbb462a8223100e2c6cc" sha1="438d9fc67de1ef408718b4737c0d0fd48844dacb"/>
+	</game>
+	<game name="Inspiration - Fortunetelling &amp; Biorhythm (Japan)">
+		<description>Inspiration - Fortunetelling &amp; Biorhythm (Japan)</description>
+		<release name="Inspiration - Fortunetelling &amp; Biorhythm (Japan)" region="JPN"/>
+		<rom name="Inspiration - Fortunetelling &amp; Biorhythm (Japan).rom" size="2048" crc="a6b5d88c" md5="355b28a14a8229e72b850c35445746d7" sha1="6eb2710111e1d05a9d6881bc5d1a87ba6cef4688"/>
+	</game>
+	<game name="Sansuu Drill (Japan)">
+		<description>Sansuu Drill (Japan)</description>
+		<release name="Sansuu Drill (Japan)" region="JPN"/>
+		<rom name="Sansuu Drill (Japan).rom" size="2048" crc="009cfaa2" md5="f6effaa00d1be8c35574e17b4aaabb89" sha1="fb567b904ded23a1c9256b39565b8a2bc3e35736"/>
+	</game>
+	<game name="Space Command (Japan)">
+		<description>Space Command (Japan)</description>
+		<release name="Space Command (Japan)" region="JPN"/>
+		<rom name="Space Command (Japan).rom" size="2048" crc="566dcc8a" md5="3b8369eb489e961929ca302230a0a0d1" sha1="b5e0313b7d4aacd9444c1987c51eaaba88fdc6bb"/>
+	</game>
+	<game name="Sports Fan (Japan) (En)">
+		<description>Sports Fan (Japan) (En)</description>
+		<release name="Sports Fan (Japan) (En)" region="JPN"/>
+		<rom name="Sports Fan (Japan) (En).rom" size="2048" crc="1f218f46" md5="69ba44ce797abdc837d1ce180802143e" sha1="af9c7e707cba98bea30b0c9e886652f2fedcb284"/>
+	</game>
+</datafile>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>195</id>
+		<name>Nichibutsu - My Vision (Mame) (Parent-Clone)</name>
+		<description>Nichibutsu - My Vision (Mame) (Parent-Clone)</description>
+		<version>20230724-090438</version>
+		<date>20230724-090438</date>
+		<author>Hiccup, MeguCocoa</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="Gomoku Narabe Renju (Japan)">
+		<description>Gomoku Narabe Renju (Japan)</description>
+		<rom name="rj1" size="8192" crc="fa3df109" md5="08d1f367067ce0f715d34fce4590a411" sha1="a3b5640fa465de3004a05e59c1362d440842355f"/>
+		<rom name="rj2" size="8192" crc="eae282e3" md5="b73b1f67f9fd8d0b7b808a043582a05f" sha1="829a34a2d0685b68280d8251a641cadd12e3b3c4"/>
+	</game>
+	<game name="Hanafuda (Japan)">
+		<description>Hanafuda (Japan)</description>
+		<rom name="f1" size="8192" crc="31f662c8" md5="4101bac5adb7d6daef649a48f3d74a6f" sha1="608c9fbcbcb134d3dfcecd9c3ea81d2f075b3fb9"/>
+		<rom name="f2" size="8192" crc="0e9fb68b" md5="28411c330e296c924dacc2b28df4df5a" sha1="1730dededd220dd0a0c6fee41460981471283018"/>
+		<rom name="f3" size="8192" crc="057cc785" md5="4cae897f297623becbaa11f8b7da5d5a" sha1="90d84df698a0166ed19e3c3f8d2da57b72cfde97"/>
+	</game>
+	<game name="Mahjong (Japan)">
+		<description>Mahjong (Japan)</description>
+		<rom name="mj1" size="8192" crc="f7dff3c3" md5="c6fe47ab00e88ce4c0fa30c223b22533" sha1="07d7916ebf1bf29d4da12ca11f29271da520023a"/>
+		<rom name="mj2" size="8192" crc="0b75671c" md5="1bb9d089f3aeb02166ecd1bd8d6b8b69" sha1="e69a6606d21cd487f3481afa51076320278eb543"/>
+		<rom name="mj3" size="8192" crc="b476c2c1" md5="e6534022bccf5749a420152b549ff68e" sha1="44d0c5738321cd4aa37b8ad25a4a4e77b144b6db"/>
+	</game>
+	<game name="Tsume Shougi (Japan)">
+		<description>Tsume Shougi (Japan)</description>
+		<rom name="s1" size="8192" crc="bc4ae5b2" md5="b5fa884a341b10aa9a9bb37ea0ff31d0" sha1="758ac3ab00d9b97026e67a9bad6b34d9e4a19e1c"/>
+		<rom name="s2" size="8192" crc="348b0074" md5="e43f4fb4b31b291cb587757356994697" sha1="d9373b04664c419cf2a2f0120a12ee2810313fb5"/>
+		<rom name="s3" size="8192" crc="d927a49d" md5="cc51c3afcfcd1543260eb3be3e0bd38a" sha1="2b8ded33cda425229d0fd5bbe236102afdcaf6cf"/>
+	</game>
+</datafile>

@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>261</id>
+		<name>Nintendo - Nintendo GameCube (NPDP Carts) (Parent-Clone)</name>
+		<description>Nintendo - Nintendo GameCube (NPDP Carts) (Parent-Clone)</description>
+		<version>20260313-183736</version>
+		<date>20260313-183736</date>
+		<author>Hiccup, NovaAurora, relax, togemet2</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="2 Games in 1 - Nickelodeon Bob L'eponge - Le Film &amp; Nickelodeon Bob L'eponge - La Bataille de Bikini Bottom (France) (Disc 1) (Proto)">
+		<description>2 Games in 1 - Nickelodeon Bob L'eponge - Le Film &amp; Nickelodeon Bob L'eponge - La Bataille de Bikini Bottom (France) (Disc 1) (Proto)</description>
+		<rom name="2 Games in 1 - Nickelodeon Bob L'eponge - Le Film &amp; Nickelodeon Bob L'eponge - La Bataille de Bikini Bottom (France) (Disc 1) (Proto).iso" size="1459978240" crc="75a51568" md5="fe3f90953a51a296af0ffddeced57ec0" sha1="26ebef10cfe279385bc1709b52e5a9a9c715dec8"/>
+	</game>
+	<game name="2 Games in 1 - Nickelodeon Bob L'eponge - Le Film &amp; Nickelodeon Bob L'eponge - La Bataille de Bikini Bottom (France) (Disc 2) (Proto)" cloneof="2 Games in 1 - Nickelodeon Bob L'eponge - Le Film &amp; Nickelodeon Bob L'eponge - La Bataille de Bikini Bottom (France) (Disc 1) (Proto)">
+		<description>2 Games in 1 - Nickelodeon Bob L'eponge - Le Film &amp; Nickelodeon Bob L'eponge - La Bataille de Bikini Bottom (France) (Disc 2) (Proto)</description>
+		<rom name="2 Games in 1 - Nickelodeon Bob L'eponge - Le Film &amp; Nickelodeon Bob L'eponge - La Bataille de Bikini Bottom (France) (Disc 2) (Proto).iso" size="1459978240" crc="4d3ea301" md5="623194c072b69e2521ac92d9982c2685" sha1="c61f74db3d7dedac3e93a34ff6c901a526282ebf"/>
+	</game>
+	<game name="2 Games in 1 - Nickelodeon SpongeBob SquarePants - The Movie &amp; Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (Europe) (Disc 1) (Proto) (2005-11-10)">
+		<description>2 Games in 1 - Nickelodeon SpongeBob SquarePants - The Movie &amp; Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (Europe) (Disc 1) (Proto) (2005-11-10)</description>
+		<rom name="2 Games in 1 - Nickelodeon SpongeBob SquarePants - The Movie &amp; Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (Europe) (Disc 1) (Proto) (2005-11-10).iso" size="1459978240" crc="09fbd438" md5="face4ab02e61ae7f6905e0824603a208" sha1="df85835fc6216aa074a90654d90e502b1411aa35"/>
+	</game>
+	<game name="2 Games in 1 - Nickelodeon SpongeBob SquarePants - The Movie &amp; Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (Europe) (Disc 2) (Proto) (2005-11-10)" cloneof="2 Games in 1 - Nickelodeon SpongeBob SquarePants - The Movie &amp; Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (Europe) (Disc 1) (Proto) (2005-11-10)">
+		<description>2 Games in 1 - Nickelodeon SpongeBob SquarePants - The Movie &amp; Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (Europe) (Disc 2) (Proto) (2005-11-10)</description>
+		<rom name="2 Games in 1 - Nickelodeon SpongeBob SquarePants - The Movie &amp; Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (Europe) (Disc 2) (Proto) (2005-11-10).iso" size="1459978240" crc="a582fd52" md5="66048f7dc3ddb9326a9c05aec6cb720f" sha1="b21c8bfef984f0fd0c3aa2f8c1acd19b9ae70394"/>
+	</game>
+	<game name="Batman Begins (Europe) (Beta) (2005-05-01)">
+		<description>Batman Begins (Europe) (Beta) (2005-05-01)</description>
+		<release name="Batman Begins (Europe) (Beta) (2005-05-01)" region="EUR"/>
+		<rom name="Batman Begins (Europe) (Beta) (2005-05-01).iso" size="1459978240" crc="02257052" md5="bb96b0fb81c3270ac8272717224954f5" sha1="20ee958717211d217f64b681192d6d19704617aa"/>
+	</game>
+	<game name="Crash Bandicoot - The Wrath of Cortex (USA) (Beta) (2002-07-24)">
+		<description>Crash Bandicoot - The Wrath of Cortex (USA) (Beta) (2002-07-24)</description>
+		<release name="Crash Bandicoot - The Wrath of Cortex (USA) (Beta) (2002-07-24)" region="USA"/>
+		<rom name="Crash Bandicoot - The Wrath of Cortex (USA) (Beta) (2002-07-24).iso" size="1459978240" crc="f11e97f0" md5="6769d7ec3cd073578e4654c7201887d1" sha1="46964de0d45bf251d4fdf329a9b6888a336b52d6"/>
+	</game>
+	<game name="Crash Bandicoot - The Wrath of Cortex (USA) (Beta) (2001-12-17)" cloneof="Crash Bandicoot - The Wrath of Cortex (USA) (Beta) (2002-07-24)">
+		<description>Crash Bandicoot - The Wrath of Cortex (USA) (Beta) (2001-12-17)</description>
+		<rom name="Crash Bandicoot - The Wrath of Cortex (USA) (Beta) (2001-12-17).iso" size="1459978240" crc="3a214885" md5="0ba69be36d249ce4afa71e8046cce0b9" sha1="d2e66b9799bca1c462b71fba96e642ad4e31dd13"/>
+	</game>
+	<game name="Disney-Pixar Mr. Incredible (Japan) (Beta) (2004-09-13)">
+		<description>Disney-Pixar Mr. Incredible (Japan) (Beta) (2004-09-13)</description>
+		<rom name="Disney-Pixar Mr. Incredible (Japan) (Beta) (2004-09-13).iso" size="1459978240" crc="ecfaa615" md5="9876d5bca863ebb700531bb2ca466e7d" sha1="c68823cb2b4e759350780d4df24d5b3c73a568cb"/>
+	</game>
+	<game name="Disney-Pixar Mr. Incredible (Japan) (Beta) (2004-09-20)">
+		<description>Disney-Pixar Mr. Incredible (Japan) (Beta) (2004-09-20)</description>
+		<rom name="Disney-Pixar Mr. Incredible (Japan) (Beta) (2004-09-20).iso" size="1459978240" crc="f250e2ed" md5="3a44c962eb0f3dfbfb5ee7ed85b76248" sha1="b5ad24c3b4290b4900cfab0a70cacd72c2381e15"/>
+	</game>
+	<game name="Disney-Pixar Mr. Incredible - Kyouteki Underminer Toujou (Japan) (Beta) (2005-09-15)">
+		<description>Disney-Pixar Mr. Incredible - Kyouteki Underminer Toujou (Japan) (Beta) (2005-09-15)</description>
+		<rom name="Disney-Pixar Mr. Incredible - Kyouteki Underminer Toujou (Japan) (Beta) (2005-09-15).iso" size="1459978240" crc="d218556f" md5="24b9e09645b661f00625934539337ae2" sha1="3d9debbeed127cd1d362335183760e030cfb7582"/>
+	</game>
+	<game name="Disney-Pixar Mr. Incredible - Kyouteki Underminer Toujou (Japan) (Beta) (2005-10-21)">
+		<description>Disney-Pixar Mr. Incredible - Kyouteki Underminer Toujou (Japan) (Beta) (2005-10-21)</description>
+		<rom name="Disney-Pixar Mr. Incredible - Kyouteki Underminer Toujou (Japan) (Beta) (2005-10-21).iso" size="1459978240" crc="159a0b00" md5="fa0bd879f7d488889a8c5bfe904b4770" sha1="cf528ef871e58744c60d282e0f9f0eb30711046b"/>
+	</game>
+	<game name="Disney-Pixar Ratatouille (USA) (Beta) (Later)">
+		<description>Disney-Pixar Ratatouille (USA) (Beta) (Later)</description>
+		<release name="Disney-Pixar Ratatouille (USA) (Beta) (Later)" region="USA"/>
+		<rom name="Disney-Pixar Ratatouille (USA) (Beta) (Later).iso" size="1459978240" crc="7b595396" md5="027171c92d603ae4c90d69956d0bd94a" sha1="ba44bbe5780c34d2a6ebd66eeed52eaaab941468"/>
+	</game>
+	<game name="Disney-Pixar Ratatouille (USA) (Beta) (2006-01-18)" cloneof="Disney-Pixar Ratatouille (USA) (Beta) (Later)">
+		<description>Disney-Pixar Ratatouille (USA) (Beta) (2006-01-18)</description>
+		<rom name="Disney-Pixar Ratatouille (USA) (Beta) (2006-01-18).iso" size="1459978240" crc="524b2418" md5="e277ac9371b89ac6c06588a65c4d0c2d" sha1="0901c7a4fbbd9a8ba86589513a7d37e546cfb6c6"/>
+	</game>
+	<game name="Disney-Pixar The Incredibles (USA) (Beta) (2004-07-19)">
+		<description>Disney-Pixar The Incredibles (USA) (Beta) (2004-07-19)</description>
+		<rom name="Disney-Pixar The Incredibles (USA) (Beta) (2004-07-19).iso" size="1459978240" crc="e5d4fa8a" md5="7d4f8bb9b0fa4a739c71aecf879a6c7a" sha1="12748f0e726199bfba3af6b98ef52d5ef750574f"/>
+	</game>
+	<game name="Disney-Pixar The Incredibles (USA) (Beta) (2004-09-12)">
+		<description>Disney-Pixar The Incredibles (USA) (Beta) (2004-09-12)</description>
+		<rom name="Disney-Pixar The Incredibles (USA) (Beta) (2004-09-12).iso" size="1459978240" crc="8bcdcaaf" md5="eb7529c0932291614aeaa846b9fd7b79" sha1="8100b0fc005ec46ee472c6ec79ec76b5503231b2"/>
+	</game>
+	<game name="Disney-Pixar The Incredibles - Rise of the Underminer (Europe) (Beta) (2005-09-15)">
+		<description>Disney-Pixar The Incredibles - Rise of the Underminer (Europe) (Beta) (2005-09-15)</description>
+		<rom name="Disney-Pixar The Incredibles - Rise of the Underminer (Europe) (Beta) (2005-09-15).iso" size="1459978240" crc="5adab4b5" md5="ed5a39eddd75df27bbd9fdaf0bef8100" sha1="2e9eb84c8c845450842170114a042bba95489575"/>
+	</game>
+	<game name="Gun (USA) (Beta) (2004-04-07)">
+		<description>Gun (USA) (Beta) (2004-04-07)</description>
+		<release name="Gun (USA) (Beta) (2004-04-07)" region="USA"/>
+		<rom name="Gun (USA) (Beta) (2004-04-07).iso" size="1459978240" crc="c98922bb" md5="d556b453ce46d0b521722f11eee22fcc" sha1="55999e5c50edc82bb4ed93beb1d6b51d641698d8"/>
+	</game>
+	<game name="Ice Age 2 - The Meltdown (Europe) (En,Fr,De,Nl) (Beta) (2005-12-12)">
+		<description>Ice Age 2 - The Meltdown (Europe) (En,Fr,De,Nl) (Beta) (2005-12-12)</description>
+		<release name="Ice Age 2 - The Meltdown (Europe) (En,Fr,De,Nl) (Beta) (2005-12-12)" region="EUR"/>
+		<rom name="Ice Age 2 - The Meltdown (Europe) (En,Fr,De,Nl) (Beta) (2005-12-12).iso" size="1459978240" crc="85b0ae66" md5="add555f6926d847f1b31e71ae786b294" sha1="14284b7976c7eaead364eb12a5d9fa517fa03301"/>
+	</game>
+	<game name="Ice Age 2 - The Meltdown (Europe) (Beta)" cloneof="Ice Age 2 - The Meltdown (Europe) (En,Fr,De,Nl) (Beta) (2005-12-12)">
+		<description>Ice Age 2 - The Meltdown (Europe) (Beta)</description>
+		<rom name="Ice Age 2 - The Meltdown (Europe) (Beta).iso" size="1459978240" crc="a7e661da" md5="e446973ca12a66f54f5cc2fd5299811e" sha1="1402cf45209ae18bfc609dcec05574670ee78e5f"/>
+	</game>
+	<game name="kpaddemo (Unknown)">
+		<description>kpaddemo (Unknown)</description>
+		<rom name="kpaddemo (Unknown).iso" size="1459978240" crc="911795ae" md5="02e8f7e86df9c3e4dceed8fff66a1fdc" sha1="cdc13d1de7bc99ccfeda88e6197dd51d46e7e900"/>
+	</game>
+	<game name="Memory Card Utility Program (USA) (v1.1.0)">
+		<description>Memory Card Utility Program (USA) (v1.1.0)</description>
+		<rom name="Memory Card Utility Program (USA) (v1.1.0).iso" size="1459978240" crc="af7e5d39" md5="7b6d6c0e5c2d96a0b1fe85ea9c901de2" sha1="221fcf1109a0df55dcd7009682d645add15c7f88"/>
+	</game>
+	<game name="Memory Card Utility Program (Unknown) (v1.0.4)">
+		<description>Memory Card Utility Program (Unknown) (v1.0.4)</description>
+		<rom name="Memory Card Utility Program (Unknown) (v1.0.4).iso" size="1459978240" crc="ee959c7e" md5="1ecfd29e8b723e7239e2b6755c7eb753" sha1="ba2050fddb5ba172e8fad55d357f8042a1430060"/>
+	</game>
+	<game name="Memory Card Utility Program (Unknown) (v1.0.4) (Alt)" cloneof="Memory Card Utility Program (Unknown) (v1.0.4)">
+		<description>Memory Card Utility Program (Unknown) (v1.0.4) (Alt)</description>
+		<rom name="Memory Card Utility Program (Unknown) (v1.0.4) (Alt).iso" size="1459978240" crc="0c20db86" md5="efa23737d1df50a1a14fd329c6a9e943" sha1="613adf9e4c5ff341260ff1c1f6d0d11ed5d787cf"/>
+	</game>
+	<game name="Memory Card Utility Program (Japan) (v1.1.0)">
+		<description>Memory Card Utility Program (Japan) (v1.1.0)</description>
+		<rom name="Memory Card Utility Program (Japan) (v1.1.0).iso" size="1459978240" crc="1d74ad4a" md5="ed44f29fd55b3cfb7f9d5b5b1a24e148" sha1="1a4a14148901ac27d24e93b949ed66e51d2e1c85"/>
+	</game>
+	<game name="Metroid Prime 3 - Corruption (USA) (Demo) (Kiosk, E3 2006)">
+		<description>Metroid Prime 3 - Corruption (USA) (Demo) (Kiosk, E3 2006)</description>
+		<rom name="Metroid Prime 3 - Corruption (USA) (Demo) (Kiosk, E3 2006).iso" size="1459978240" crc="97ba74c5" md5="2f8a935e5209f6ae86923e977c86de67" sha1="c84d04d98919c45502dcb54db3e2cd3bf6969b91"/>
+	</game>
+	<game name="Pirates of the Caribbean (USA) (Proto) (2004-04-05)">
+		<description>Pirates of the Caribbean (USA) (Proto) (2004-04-05)</description>
+		<release name="Pirates of the Caribbean (USA) (Proto) (2004-04-05)" region="USA"/>
+		<rom name="Pirates of the Caribbean (USA) (Proto) (2004-04-05).iso" size="1459978240" crc="f1eef03f" md5="1d3608f19a16f0d9d1f4296104d7e13c" sha1="80f0fc50a2602f1281cf84aa2d44cf330dcf50b3"/>
+	</game>
+	<game name="Shadow the Hedgehog - Trial Version (Japan) (Demo) (2005-10-31)">
+		<description>Shadow the Hedgehog - Trial Version (Japan) (Demo) (2005-10-31)</description>
+		<rom name="Shadow the Hedgehog - Trial Version (Japan) (Demo) (2005-10-31).iso" size="1459978240" crc="15dc6e3d" md5="27d5be21b6e9a198dd61ed92e6c9cfd5" sha1="bc071ad2ee8bb992dbddbfff84ef06496e630abd"/>
+	</game>
+	<game name="Sonic Heroes (Japan) (Beta) (2003-10-30)">
+		<description>Sonic Heroes (Japan) (Beta) (2003-10-30)</description>
+		<rom name="Sonic Heroes (Japan) (Beta) (2003-10-30).iso" size="1459978240" crc="e291dd98" md5="42c93193d0b50a2aba3cf56071c8c892" sha1="35219e4e4e9120aa24862fa9f2622b7b3a4d2540"/>
+	</game>
+	<game name="Sonic Heroes (USA) (Beta)">
+		<description>Sonic Heroes (USA) (Beta)</description>
+		<rom name="Sonic Heroes (USA) (Beta).iso" size="1459978240" crc="dafde48b" md5="95c1feb22eb3271e9d89fcbbcaaed50e" sha1="949ddae3973272f622c422a66262cf4639bbd497"/>
+	</game>
+	<game name="Sonic Riders (USA) (Beta)">
+		<description>Sonic Riders (USA) (Beta)</description>
+		<rom name="Sonic Riders (USA) (Beta).iso" size="1459978240" crc="5f4eb455" md5="4fd040173b6ade79c533a3c2d5434939" sha1="e3d5bcf51deab5801d7e7f8b0c226c6cd764cc3e"/>
+	</game>
+	<game name="Summoner - The Prophecy (USA) (Beta) (Rev 1121B)">
+		<description>Summoner - The Prophecy (USA) (Beta) (Rev 1121B)</description>
+		<release name="Summoner - The Prophecy (USA) (Beta) (Rev 1121B)" region="USA"/>
+		<rom name="Summoner - The Prophecy (USA) (Beta) (Rev 1121B).iso" size="1459978240" crc="146e4a5a" md5="ff5f979d070b96dc71cbdb6194556078" sha1="7f40be75acaf413f635726221714493582e7330d"/>
+	</game>
+	<game name="Summoner - The Prophecy (USA) (Beta) (Rev 1121A)" cloneof="Summoner - The Prophecy (USA) (Beta) (Rev 1121B)">
+		<description>Summoner - The Prophecy (USA) (Beta) (Rev 1121A)</description>
+		<rom name="Summoner - The Prophecy (USA) (Beta) (Rev 1121A).iso" size="1459978240" crc="16d7bcce" md5="9f4fb9ee478d0b808ee0234950b69234" sha1="07e402efe512f5b664bc8f3a6f43ec36da6afa03"/>
+	</game>
+	<game name="There Is No Program on This Disc (Unknown)">
+		<description>There Is No Program on This Disc (Unknown)</description>
+		<rom name="There Is No Program on This Disc (Unknown).iso" size="1459978240" crc="64addc63" md5="6f26e9779e57150182a5c8247a714b83" sha1="09fb6c2dc26fe66a52bf9a4b50ad6970851d98bc"/>
+	</game>
+</datafile>
