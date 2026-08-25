@@ -7,10 +7,16 @@ import xml.etree.ElementTree as ET
 # demande) : le chargement des catalogues (manifestes + dossiers "loose")
 # est identique dans les deux, seul ce qu'on en fait diverge.
 
+# no-intro.py produit DEUX manifestes ("standard" et "parent-clone"), tous
+# les deux publies dans le meme dossier "no-intro/" — n'indexer que
+# no-intro_parent-clone.xml faisait rater tous les dats "standard" (ex.
+# "Mobile - J2ME" sans le suffixe "(Parent-Clone)") lors du rafraichissement,
+# constate en reel : 133 candidats "introuvables" a chaque run alors qu'ils
+# existent bien sur disque.
 MANIFESTS = {
-    "No-Intro": "no-intro_parent-clone.xml",
-    "Redump": "redump.xml",
-    "TOSEC": "tosec.xml",
+    "No-Intro": ["no-intro.xml", "no-intro_parent-clone.xml"],
+    "Redump": ["redump.xml"],
+    "TOSEC": ["tosec.xml"],
 }
 
 # Fournisseurs sans manifeste externe : chaque fichier du dossier EST son
@@ -39,6 +45,20 @@ LOOSE_FOLDERS = {
     "Libretro-database (No-Intro)": "libretro-database-metadat/no-intro",
     "Libretro-database (Redump)": "libretro-database-metadat/redump",
     "Libretro-database (TOSEC)": "libretro-database-metadat/tosec",
+}
+
+# Ces dats ont un nom de fichier peu parlant (souvent juste le nom de code
+# du driver MAME, ex. "neogeo.xml", "sms.xml") : on lit la <description> de
+# l'en-tete Logiqx a la place. Meme mecanique que
+# CatalogScanner.TryReadDatHeaderDescription cote RetrobatSystemsEditor
+# (l'editeur manuel de Cedric) — sans ca, les deux outils identifiaient le
+# meme fichier sous deux noms differents (nom de fichier ici, description
+# la-bas) et ne se retrouvaient jamais lors du rafraichissement (87
+# candidats "introuvables" constates en reel).
+READ_XML_DESCRIPTION = {
+    "Pleasuredome MAME",
+    "Pleasuredome HBMAME",
+    "Pleasuredome PinMAME",
 }
 
 # Les fournisseurs sans manifeste (load_loose_folder) embarquent souvent une
@@ -99,11 +119,41 @@ def load_manifest(path):
     return entries
 
 
-def load_loose_folder(folder):
+def _read_dat_header_description(path):
+    """Lit uniquement <header><description>, sans jamais parser le reste du
+    fichier (liste des <machine>/<game>) — certains dats Pleasuredome font
+    plusieurs dizaines de Mo une fois decompresses. iterparse est un parseur
+    incremental : arreter la boucle (return) arrete aussi la lecture du
+    fichier, pas de cout cache. Depth calque sur XmlReader.Depth cote C#
+    (racine = 0, <header> = 1, <description> = 2)."""
+    depth = -1
+    try:
+        with open(path, "rb") as f:
+            for event, elem in ET.iterparse(f, events=("start", "end")):
+                if event == "start":
+                    depth += 1
+                    if depth == 1 and elem.tag != "header":
+                        return None
+                    continue
+
+                if depth == 2 and elem.tag == "description":
+                    text = (elem.text or "").strip()
+                    return text or None
+                if depth == 1 and elem.tag == "header":
+                    return None
+                depth -= 1
+    except ET.ParseError:
+        return None
+    return None
+
+
+def load_loose_folder(folder, read_xml_description=False):
     """Pas de manifeste : chaque fichier .dat/.xml du dossier est lui-meme
     un catalogue a une seule entree — son nom de fichier (sans extension,
-    sans date/version embarquee) sert de nom stable, son URL brute est deja
-    publiee par le script qui a rempli ce dossier plus tot dans le meme run."""
+    sans date/version embarquee), ou sa <description> XML pour les sources
+    listees dans READ_XML_DESCRIPTION, sert de nom stable. Son URL brute est
+    deja publiee par le script qui a rempli ce dossier plus tot dans le
+    meme run."""
     if not os.path.isdir(folder):
         return []
 
@@ -112,9 +162,17 @@ def load_loose_folder(folder):
     for filename in sorted(os.listdir(folder)):
         if not (filename.lower().endswith(".dat") or filename.lower().endswith(".xml")):
             continue
-        name, version = _split_trailing_date(os.path.splitext(filename)[0])
+
+        name = os.path.splitext(filename)[0]
+        if read_xml_description:
+            description = _read_dat_header_description(os.path.join(folder, filename))
+            if description:
+                name = description
+
+        name, version = _split_trailing_date(name)
         if not version:
             name, version = _split_leading_version(name)
+
         entries.append({
             "name": name,
             "version": version,
@@ -129,13 +187,15 @@ def load_all_catalogs():
     dossiers loose). Suppose que les scripts de mirroring ont deja tourne
     dans ce meme run (fichiers deja sur disque, pas de telechargement ici)."""
     catalogs = {}
-    for source, filename in MANIFESTS.items():
-        entries = load_manifest(filename)
+    for source, filenames in MANIFESTS.items():
+        entries = []
+        for filename in filenames:
+            entries.extend(load_manifest(filename))
         catalogs[source] = entries
-        print(f"{source}: {len(entries)} entries ({filename})")
+        print(f"{source}: {len(entries)} entries ({', '.join(filenames)})")
 
     for source, folder in LOOSE_FOLDERS.items():
-        entries = load_loose_folder(folder)
+        entries = load_loose_folder(folder, source in READ_XML_DESCRIPTION)
         catalogs[source] = entries
         print(f"{source}: {len(entries)} entries ({folder}/)")
 
