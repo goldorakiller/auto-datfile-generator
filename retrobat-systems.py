@@ -60,6 +60,24 @@ _QUALIFIER_RE = re.compile(r"(\s*\([^)]*\))+\s*$")
 _ALT_NAME_RE = re.compile(r"\s*&.*$")
 _MARKERS = {"non-redump", "redump", "source code", "unofficial"}
 
+# Les fournisseurs sans manifeste (load_loose_folder) embarquent souvent une
+# date/version DANS le nom de fichier lui-meme (pas de <version> separee a
+# lire) : No-Intro/Redump-style "(20251208-180029)", WHDLoad-style
+# "(2026-08-24)", Eggmansworld-style "(2024-11-10_RomVault)". Sans ca, cette
+# date polluait "Name" et "Version" restait vide. Ancre en fin de chaine
+# uniquement : ne doit jamais toucher un qualificatif non-date comme
+# "(Parent-Clone)" ou "(merged)", qui doit rester dans le nom.
+_TRAILING_DATE_RE = re.compile(
+    r"\s*\((\d{4}-\d{2}-\d{2}(?:_\w+)?|\d{8}-\d{6})\)\s*$"
+)
+
+
+def _split_trailing_date(name):
+    match = _TRAILING_DATE_RE.search(name)
+    if not match:
+        return name, ""
+    return name[:match.start()].strip(), match.group(1)
+
 # Categories de contenu qui ne correspondent jamais a un "systeme" au sens
 # RetroBat (magazines scannes, extras, musique...) — pour en exclure une
 # nouvelle, il suffit d'ajouter le mot ici, aucune autre modification
@@ -197,9 +215,10 @@ def load_loose_folder(folder):
     for filename in sorted(os.listdir(folder)):
         if not (filename.lower().endswith(".dat") or filename.lower().endswith(".xml")):
             continue
+        name, version = _split_trailing_date(os.path.splitext(filename)[0])
         entries.append({
-            "name": os.path.splitext(filename)[0],
-            "version": "",
+            "name": name,
+            "version": version,
             "url": f"https://raw.githubusercontent.com/{repo}/master/{folder}/{filename}",
             "file": filename,
         })
