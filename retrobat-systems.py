@@ -87,8 +87,14 @@ def _split_trailing_date(name):
 # selon le systeme). Sans extraction, "0.289" etc. polluait "Name" et
 # "Version" restait vide, meme symptome que _split_trailing_date mais
 # ailleurs dans la chaine.
+#
+# Retire UNIQUEMENT le numero de version, garde le prefixe (MAME/HBMAME/
+# PinMAME) dans le nom : une premiere version retirait aussi le prefixe, ce
+# qui cassait le rapprochement avec le systeme RetroBat correspondant (plus
+# aucun token "mame"/"hbmame"/"pinmame" dans le nom => plus aucun candidat
+# pour le systeme MAME lui-meme, constate en reel).
 _LEADING_VERSION_RE = re.compile(
-    r"^(?:MAME|HBMAME|PinMAME)\s+(\d+(?:\.\d+)+(?:-\d+)?)\s+(.+)$"
+    r"^(MAME|HBMAME|PinMAME)\s+(\d+(?:\.\d+)+(?:-\d+)?)\s+(.+)$"
 )
 
 
@@ -96,7 +102,8 @@ def _split_leading_version(name):
     match = _LEADING_VERSION_RE.match(name)
     if not match:
         return name, ""
-    return match.group(2).strip(), match.group(1)
+    prefix, version, rest = match.group(1), match.group(2), match.group(3)
+    return f"{prefix} {rest}".strip(), version
 
 # Categories de contenu qui ne correspondent jamais a un "systeme" au sens
 # RetroBat (magazines scannes, extras, musique...) — pour en exclure une
