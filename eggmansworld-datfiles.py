@@ -54,6 +54,12 @@ def build():
     for release in releases:
         shutil.rmtree(release["tag_name"], ignore_errors=True)
 
+    # Repart aussi d'un dossier plat vide : chaque fichier est nomme d'apres
+    # sa release (ex. "Arcade Ambience Project (2024-11-10_RomVault).dat"),
+    # donc sans ca une nouvelle release avec une date differente s'ajouterait
+    # a cote de l'ancienne au lieu de la remplacer.
+    shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
+
     for release in releases:
         tag = release["tag_name"]
         asset = find_romvault_zip(release.get("assets", []))

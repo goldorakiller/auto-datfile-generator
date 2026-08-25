@@ -1,6 +1,7 @@
 import html
 import os
 import re
+import shutil
 import zipfile
 from io import BytesIO
 from urllib.parse import unquote
@@ -23,6 +24,9 @@ def find_zips():
 
 
 def build():
+    # Meme raison que pleasuredome-mame.py : eviter que d'anciennes versions
+    # de dats restent a cote des nouvelles.
+    shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     urls = find_zips()
     print(f"{len(urls)} datfile(s) trouve(s)")

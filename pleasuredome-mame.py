@@ -1,6 +1,7 @@
 import html
 import os
 import re
+import shutil
 import zipfile
 from io import BytesIO
 from urllib.parse import unquote
@@ -36,6 +37,11 @@ def find_full_set_zips():
 
 
 def build():
+    # Repart d'un dossier vide a chaque run : le nom des dats MAME embarque
+    # le numero de version (ex. "MAME 0.289 ROMs (merged).xml"), donc sans
+    # ca l'ancienne version ne serait jamais ecrasee et s'accumulerait a
+    # cote de la nouvelle a chaque changement de version.
+    shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     urls = find_full_set_zips()
     print(f"{len(urls)} datfile(s) complet(s) trouve(s)")

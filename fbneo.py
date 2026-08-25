@@ -1,4 +1,5 @@
 import os
+import shutil
 
 import requests
 
@@ -11,6 +12,9 @@ OUTPUT_DIR = "fbneo"
 
 
 def build():
+    # Repart d'un dossier vide : si un fichier est renomme/retire en amont,
+    # l'ancienne copie ne serait jamais nettoyee sinon.
+    shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     resp = requests.get(CONTENTS_API, timeout=150)

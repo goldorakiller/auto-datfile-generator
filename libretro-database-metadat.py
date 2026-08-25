@@ -1,4 +1,5 @@
 import os
+import shutil
 
 import requests
 
@@ -23,6 +24,9 @@ MAX_FILE_SIZE = 95 * 1024 * 1024
 def build():
     for category in TARGETS:
         out_dir = os.path.join(OUTPUT_DIR, category)
+        # Repart d'un dossier vide : si un fichier est renomme/retire en
+        # amont, l'ancienne copie ne serait jamais nettoyee sinon.
+        shutil.rmtree(out_dir, ignore_errors=True)
         os.makedirs(out_dir, exist_ok=True)
 
         resp = requests.get(f"{CONTENTS_API}/{category}", timeout=150)

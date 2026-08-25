@@ -1,6 +1,7 @@
 import html
 import os
 import re
+import shutil
 import zipfile
 from io import BytesIO
 
@@ -26,6 +27,9 @@ def find_root_zips():
 
 
 def build():
+    # Repart d'un dossier vide : si un pack racine change de nom/version
+    # d'une fois sur l'autre, l'ancien fichier ne serait jamais ecrase sinon.
+    shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     hrefs = find_root_zips()
     print(f"{len(hrefs)} zip(s) trouves a la racine")

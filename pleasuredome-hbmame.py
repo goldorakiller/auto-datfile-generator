@@ -1,6 +1,7 @@
 import html
 import os
 import re
+import shutil
 import zipfile
 from io import BytesIO
 from urllib.parse import unquote
@@ -34,6 +35,10 @@ def find_full_set_zips():
 
 
 def build():
+    # Meme raison que pleasuredome-mame.py : le nom du dat embarque la
+    # version, sans nettoyage prealable l'ancienne version resterait a cote
+    # de la nouvelle a chaque changement.
+    shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     urls = find_full_set_zips()
     print(f"{len(urls)} datfile(s) complet(s) trouve(s)")

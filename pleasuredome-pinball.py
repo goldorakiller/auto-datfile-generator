@@ -1,5 +1,6 @@
 import os
 import re
+import shutil
 import zipfile
 from io import BytesIO
 
@@ -28,6 +29,11 @@ def find_zips():
 
 
 def build():
+    # Meme raison que pleasuredome-mame.py : eviter que d'anciennes versions
+    # de dats restent a cote des nouvelles.
+    for folder in TARGETS.values():
+        shutil.rmtree(folder, ignore_errors=True)
+
     urls = find_zips()
     print(f"{len(urls)} zip(s) trouve(s) sur la page")
 

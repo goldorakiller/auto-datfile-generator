@@ -1,5 +1,6 @@
 import os
 import re
+import shutil
 import zipfile
 import xml.etree.ElementTree as ET
 
@@ -60,6 +61,10 @@ def update_XML():
     # manifeste pointe directement dessus au lieu d'obliger a telecharger les
     # ~100 Mo du pack complet pour en extraire un seul fichier.
     individual_dir = "tosec"
+    # Repart d'un dossier vide a chaque release TOSEC (~2x/an) : si un dat
+    # disparait ou change de nom entre deux releases, l'ancienne copie ne
+    # serait jamais nettoyee sinon.
+    shutil.rmtree(individual_dir, ignore_errors=True)
     os.makedirs(individual_dir, exist_ok=True)
 
     print("\nBuilding clrmamepro datfile ...\n")
