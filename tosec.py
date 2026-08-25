@@ -18,6 +18,13 @@ regex = {
     "download" : r'href="([^"]*\?download=[^"]+)"',
 }
 
+# Chaque categorie TOSEC est en fait mise a jour independamment (meme
+# mecanisme que Pleasuredome MAME) : le nom de fichier embarque SA PROPRE
+# date de derniere regeneration, ex. "... (TOSEC-v2014-06-12_CM).dat" —
+# plus precise que la date de la release entiere du pack. Signale par
+# Cedric : cette date polluait "Name" au lieu d'aller dans "Version".
+_TOSEC_ENTRY_VERSION_RE = re.compile(r"\s*\(TOSEC-v(\d{4}-\d{2}-\d{2})[^)]*\)\s*$")
+
 
 def _resolve_zip_url():
     """Le lien de release change a chaque publication TOSEC (~2x/an) : pas
@@ -82,14 +89,20 @@ def update_XML():
             print(file_name)
             display_name = file_name[:-4]  # sans l'extension .dat
 
+            version_match = _TOSEC_ENTRY_VERSION_RE.search(display_name)
+            if version_match:
+                entry_version = version_match.group(1)
+                display_name = display_name[:version_match.start()].strip()
+            else:
+                # Pas de date individuelle trouvee (rare) : la date de la
+                # release entiere du pack sert de repli.
+                entry_version = release_date
+
             with archive.open(name) as entry, open(os.path.join(out_dir, file_name), "wb") as out:
                 out.write(entry.read())
 
             tag_datfile = ET.SubElement(tag_clrmamepro, "datfile")
-            # TOSEC ne date pas chaque dat individuellement (contrairement a
-            # No-Intro) : la date de la release entiere sert de version, la
-            # meme pour toutes les entrees de ce pack.
-            ET.SubElement(tag_datfile, "version").text = release_date
+            ET.SubElement(tag_datfile, "version").text = entry_version
             ET.SubElement(tag_datfile, "name").text = display_name
             ET.SubElement(tag_datfile, "description").text = display_name
             ET.SubElement(tag_datfile, "url").text = f"https://raw.githubusercontent.com/{repo}/master/{individual_dir}/{file_name}"
