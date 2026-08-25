@@ -103,21 +103,4 @@ fichier.
 
 `https://github.com/goldorakiller/auto-datfile-generator/releases/latest/download/retrobat-systems.json`
 
-![clrmamepro screenshot](./img/clrmamepro.png)
-
 Projet d'origine inspiré de [redump-xml-updater](https://github.com/bilakispa/redump-xml-updater)
-
-## Header support
-
-Certains DATs No-Intro nécessitent un fichier XML supplémentaire pour
-détecter les headers.
-
-![clrmamepro header warning screenshot](./img/headers.png)
-
-Télécharger les zips suivants, les extraire et placer les XML dans le dossier
-`headers` de clrmamepro :
-
-- [Atari Jaguar](https://datomatic.no-intro.org/stuff/header_a7800.zip)
-- [Atari Lynx](https://datomatic.no-intro.org/stuff/header_lynx.zip)
-- [Nintendo FDS](https://datomatic.no-intro.org/stuff/header_fds.zip)
-- [Nintendo NES](https://datomatic.no-intro.org/stuff/header_nes.zip)
