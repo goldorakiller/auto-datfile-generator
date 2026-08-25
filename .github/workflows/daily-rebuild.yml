@@ -79,7 +79,7 @@ jobs:
         if: ${{ ! cancelled() }}
         run: pipenv run python3 libretro-database-dat.py
 
-      - name: Download dats for Libretro-database (metadat folder: mame-split, mame, no-intro, redump, tosec)
+      - name: "Download dats for Libretro-database (metadat folder: mame-split, mame, no-intro, redump, tosec)"
         if: ${{ ! cancelled() }}
         run: pipenv run python3 libretro-database-metadat.py
 
