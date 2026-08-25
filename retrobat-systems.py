@@ -78,6 +78,26 @@ def _split_trailing_date(name):
         return name, ""
     return name[:match.start()].strip(), match.group(1)
 
+
+# Meme probleme, mais en tete de nom plutot qu'en fin : les dats
+# Pleasuredome MAME/HBMAME/PinMAME embarquent le numero de version du
+# romset dans le nom lui-meme, juste apres le nom du systeme — "MAME 0.289
+# ROMs (merged)", "HBMAME 0.289.1 ROMs (bios-devices)", "PinMAME 3.6.0-1227
+# ROMs (split)" (verifie en reel aout 2026, formats X.Y / X.Y.Z / X.Y.Z-build
+# selon le systeme). Sans extraction, "0.289" etc. polluait "Name" et
+# "Version" restait vide, meme symptome que _split_trailing_date mais
+# ailleurs dans la chaine.
+_LEADING_VERSION_RE = re.compile(
+    r"^(?:MAME|HBMAME|PinMAME)\s+(\d+(?:\.\d+)+(?:-\d+)?)\s+(.+)$"
+)
+
+
+def _split_leading_version(name):
+    match = _LEADING_VERSION_RE.match(name)
+    if not match:
+        return name, ""
+    return match.group(2).strip(), match.group(1)
+
 # Categories de contenu qui ne correspondent jamais a un "systeme" au sens
 # RetroBat (magazines scannes, extras, musique...) — pour en exclure une
 # nouvelle, il suffit d'ajouter le mot ici, aucune autre modification
@@ -216,6 +236,8 @@ def load_loose_folder(folder):
         if not (filename.lower().endswith(".dat") or filename.lower().endswith(".xml")):
             continue
         name, version = _split_trailing_date(os.path.splitext(filename)[0])
+        if not version:
+            name, version = _split_leading_version(name)
         entries.append({
             "name": name,
             "version": version,
