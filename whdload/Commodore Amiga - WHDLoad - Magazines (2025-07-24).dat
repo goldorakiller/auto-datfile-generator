@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - WHDLoad - Magazines</name>
+		<description>Commodore Amiga - WHDLoad - Magazines</description>
+		<category>Standard DatFile</category>
+		<version>2025-07-24</version>
+		<date>2025-07-24</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>yyyy/mm/dd</comment>
+		<clrmamepro forcepacking="unzip"/>
+	</header>
+	<machine name="0">
+		<description>0</description>
+		<rom name="42Issue1_v1.0_Talent.lha" size="459106" crc="a9b7a527" md5="42cce06f969d4916c879f9ffa40bff3f" sha1="3406dd26d8506c542bdcac1f45aaaf5549563ff1"/>
+		<rom name="42Issue1_v1.0_Talent_AGA.lha" size="676264" crc="08e04953" md5="36219629c98d7d46165528b27cbc5c00" sha1="203023b720157870361c1f8e83ea2f0f31d01fea"/>
+		<rom name="42Issue2_v1.0_Talent.lha" size="417625" crc="42304663" md5="1b198b6dfce553769059d334c10e4798" sha1="f9e82cc67ee2423ba887a2caa0f6d93421508f36"/>
+	</machine>
+	<machine name="A">
+		<description>A</description>
+		<rom name="Almighty_v1.0_Manitou.lha" size="811465" crc="8387cc8d" md5="fcfdd113acd26c6924fbd5294f89b4de" sha1="5c0b49064a6de2b33446bc800a08d31047934791"/>
+	</machine>
+	<machine name="C">
+		<description>C</description>
+		<rom name="Compass1_v1.0_Alcatraz.lha" size="679540" crc="4af2c824" md5="336f53721fb9c50cef7f8223f93f0cf1" sha1="1309919d92b578430d93946fac4122cd96d4ffdc"/>
+		<rom name="CrackerJournal01_v1.1_AlphaFlight.lha" size="100156" crc="d14a6326" md5="28818ccbae75df396fc2101423bbbcda" sha1="6db61b92c792b0d6ab7ecebc8e4a1bb8a732eadc"/>
+		<rom name="CrackerJournal02_v1.0_AlphaFlight.lha" size="166047" crc="247f04cb" md5="6961e60b8d4379fc564cf19505337872" sha1="315e9567cd8a7c58b3013cfcff4bf86bcc9c90a6"/>
+		<rom name="CrackerJournal03_v1.0_AlphaFlight.lha" size="202108" crc="b87a2d6d" md5="b3fbd2ce9dfa4053984e60a04c773096" sha1="6b0445c86cb9d755e96b3a8d38fb8fc9962b9abe"/>
+		<rom name="CrackerJournal04_v1.01_AlphaFlight.lha" size="404138" crc="73b85efe" md5="c0cff1e3ebd0fbcacdd21824fa4c8a2b" sha1="97f31f92772540d4c701107dfbf40edcaabe2829"/>
+		<rom name="CrackerJournal05_v1.0_AlphaFlight.lha" size="406930" crc="cf5c60fc" md5="3a9eb5b1270aa2cac70cc4874c6d7fd7" sha1="8ece90e20cc25ddded442c87776321f8d5fe671a"/>
+		<rom name="CrackerJournal06_v1.0_AlphaFlight.lha" size="456768" crc="372a2e73" md5="1cf9d44f540e11280f26f796495f0295" sha1="4af0a9454cc3e42a5c848d9ef9915dc9a41af778"/>
+		<rom name="CrackerJournal07&amp;08_v1.0_AlphaFlight.lha" size="433165" crc="515c82a6" md5="f5efcdfcd5ecb3d844784de416e402ef" sha1="0f7649411d39ace7c2d88bd262f72f0ec15a9145"/>
+		<rom name="CrackerJournal09_v1.0_AlphaFlight.lha" size="404096" crc="68c0596b" md5="26830af2a50a8c3d971a672dfbd0b7fa" sha1="e7e0f2021894dee1ae23cd765fe7b48d026ee323"/>
+		<rom name="CrackerJournal10_v1.0_AlphaFlight.lha" size="447033" crc="d3349bf0" md5="e9b060c3b3ab519ee48a515b48c06d41" sha1="7546ea35caa7cdc08b5fbb247e74529518b82333"/>
+		<rom name="CrackerJournal11_v1.0_AlphaFlight.lha" size="426552" crc="21874102" md5="b682bd40ca67261e903081cdd319d9c5" sha1="11f593af79b4f8664bb049ea1456844ad2029d4e"/>
+		<rom name="CrackerJournal12_v1.01_AlphaFlight.lha" size="422787" crc="4244af96" md5="d856afce067cbf8230d9c68420f48b99" sha1="d7f0b58a010ae7cf60cc26bb2d31c5149a51bc57"/>
+		<rom name="CrackerJournal13_v1.0_AlphaFlight.lha" size="460654" crc="11bc6d32" md5="9407676800004308117e8e7840371c06" sha1="e10361f82ce1020131588f073ad34429028a4531"/>
+		<rom name="CrackerJournal14_v1.0_AlphaFlight.lha" size="734426" crc="c0152eb8" md5="ec5ce3f11ea3913fa219de73e939f360" sha1="e398053f589461df7cea699ec52de33582f7d8b0"/>
+		<rom name="CrackerJournal15_v1.0_AlphaFlight.lha" size="724863" crc="ddc5d4a9" md5="4e0a61ee0af502545383025fc2381500" sha1="060044cd19d45979582e9d9a0bc837c098a00805"/>
+		<rom name="CrackerJournal16_v1.0_AlphaFlight.lha" size="715015" crc="a5f29f80" md5="bc83e0b3468082626209774a3ce1fed8" sha1="b097df238617bcb904d292bf1bbcc68598ce2e8f"/>
+		<rom name="CrackerJournal17_v1.0_AlphaFlight.lha" size="623595" crc="54af21d0" md5="3ea807c6f6035badc792bd367fda97dd" sha1="7d909a350a0883ca36fb785f81961a92f747eb24"/>
+		<rom name="CrackerJournal18_v1.0_AlphaFlight.lha" size="731043" crc="168ae9ec" md5="b826ac58d6b675b65868a92444837826" sha1="007138548d2349b0b610e374e5cecd0f694538df"/>
+		<rom name="CrackerJournal19_v1.0_AlphaFlight.lha" size="732989" crc="870bd111" md5="965f53cf12f473ab8760a3f95cbdfacc" sha1="7b165de72cdff25fb42550e026929d9a5b0bd6d0"/>
+		<rom name="CrackerJournal20_v1.0_AlphaFlight.lha" size="736645" crc="f1156378" md5="edcff14fb7d361cc3056fc9d5bab864a" sha1="bdae3b96319f33702f1ca4f9ee79a3fbfbfd5500"/>
+		<rom name="CrackerJournal21_v1.0_AlphaFlight.lha" size="1470522" crc="28abf210" md5="486a3d7c9f54bd4c03179c2a443dbbfd" sha1="3fd836888b1c70242577e5f0712cfd6eae018ec4"/>
+		<rom name="CrackerJournal22_v1.0_AlphaFlight.lha" size="695608" crc="57dc3204" md5="d0e3fedf103e1e747e3e9ffa743d0366" sha1="d6a1e36b8ef24725266cfc2ff4886ff881c6417c"/>
+	</machine>
+	<machine name="D">
+		<description>D</description>
+		<rom name="DISC1_v1.0_Level4.lha" size="242027" crc="85b7c7d8" md5="ef8b2647b60f15ac63eb516076d9c8ad" sha1="4d97f667fdc711d29a9c322d080388d296ac0970"/>
+		<rom name="DISC2_v1.0_Level4.lha" size="329178" crc="4e15ba9e" md5="224a87288f8b1b1c50dd9734750e695a" sha1="1eaa79993fe544208630e914630cf62b7cc388ae"/>
+		<rom name="DISC3_v1.0_Level4.lha" size="232625" crc="77d1430d" md5="c415a47ee7dc31710ddd3f7f0079e8b3" sha1="eed73a999f1a84e85314c51374b80e5fb0b4c30c"/>
+		<rom name="DISC4_v1.0_Level4.lha" size="331306" crc="a45510ba" md5="14c4045ce228a29d288cf04145c42e62" sha1="da68c8d203008872f5a7f24f23b37f2cde9dee2f"/>
+		<rom name="DISC5_v1.0_Level4.lha" size="419255" crc="4d1fa73a" md5="a2bcf26e68edd7e3c5df5c4bc99e2ab5" sha1="9ce52d9d932ef65553cddc77a5b9355800f2da6b"/>
+		<rom name="DISC6_v1.0_Level4.lha" size="494079" crc="a52a0599" md5="06234f3e31e0dc8b04e0defae04acb6e" sha1="907f630066c793f2b14051c7aee9513f72b60ccc"/>
+		<rom name="DISC7_v1.0_Level4.lha" size="382853" crc="345d0ac7" md5="ded57a165694f52d680d0ebbd011b7ee" sha1="7b5263182650abadb458fafd8d60ca5ab2174b4d"/>
+		<rom name="DISC8_v1.0_Level4.lha" size="258624" crc="a96cb4cb" md5="55975c1bab4614013be099937b1089a7" sha1="12a26c3a47a328e6b49e66f54b7cbac3f4eb9c09"/>
+	</machine>
+	<machine name="E">
+		<description>E</description>
+		<rom name="Exit1_v1.0_Vectors.lha" size="676747" crc="c74fdbe8" md5="7d43bb2699e68ad13ad5f99d1af95b48" sha1="7c4592163c0061b651035d2e96edefbee59ca30c"/>
+		<rom name="Exit2_v1.0_Vectors.lha" size="810185" crc="e61c3c2c" md5="aaff9d0db09b40b30154e455e5bf6012" sha1="8a81c6e2ec766894617f5b0a4de2f4bbd6f05980"/>
+		<rom name="Exit3_v1.0_Vectors.lha" size="861791" crc="cbd26480" md5="9cb07f2ffdfe41d441eec684e955978c" sha1="72260a589912d3d1a8f5059952f2ec10e99c1d77"/>
+		<rom name="Exit4_v1.0_Vectors.lha" size="830854" crc="0fd003b0" md5="39af2fc0f111b3680f72bb924cd053eb" sha1="5b46472397379bdc479c8e40bbe904ef4a911117"/>
+	</machine>
+	<machine name="F">
+		<description>F</description>
+		<rom name="FourthDimension1_v1.0_Cryptoburners.lha" size="314917" crc="c98dc416" md5="f37182220c61f46cd60232580cb20544" sha1="dbb58a013b004590fe0d27aebe0cfaa51e976ba6"/>
+		<rom name="FourthDimension2_v1.0_Cryptoburners.lha" size="183966" crc="c3787c70" md5="b36388eb580b3da27c37d111d298b93d" sha1="dcb1ceaada04028bb80e050d36fa68fb0dbc5c16"/>
+		<rom name="FourthDimension3_v1.0_Cryptoburners.lha" size="248092" crc="7108a63d" md5="ce4aec14f78bb891679a10d9c19f9a54" sha1="a4e0fe8a2e1067084e656a6c039aeff29ecbec95"/>
+	</machine>
+	<machine name="G">
+		<description>G</description>
+		<rom name="Grapevine05_v1.0_LSD.lha" size="506149" crc="67cda937" md5="b4847fa1e0926404f77d0e68a6280d5d" sha1="c8b4a01c2cb42c9bf8983e7ffb3ea60fe41d9864"/>
+		<rom name="Grapevine06_v1.0_LSD.lha" size="438268" crc="a8004a65" md5="c004b5f52192f6a6fbe474cb0d149d7c" sha1="f0b257108a13affcbf79c40b5bdcdcd232508b3a"/>
+		<rom name="Grapevine07_v1.0_LSD.lha" size="776521" crc="5fd0de91" md5="b88c740df8dabe4127d841ba4bb3da95" sha1="eb988ff9a175245a3857c2b0eed204a1eb473dcd"/>
+		<rom name="Grapevine08_v1.0_LSD.lha" size="771257" crc="984f89ee" md5="36a826bfb996580e8d3f973989da5146" sha1="312ff62ab33259a8737659537b0479d783f8c66f"/>
+		<rom name="Grapevine09_v1.0_LSD.lha" size="1523535" crc="60332b2b" md5="3fd8ff6918d3cfa9c9986257ec812797" sha1="cf319e7776cf893ab1a112428ca88fa67749446a"/>
+		<rom name="Grapevine10_v1.0_LSD.lha" size="2295539" crc="bc3a274e" md5="6cd09a882565d1942d62197c093a4acf" sha1="7b46aa372c32a50d73f678a5729ad1fe9f8a181d"/>
+		<rom name="Grapevine11_v1.0_LSD.lha" size="1592450" crc="2d3f6765" md5="b57aae0629099a65ba4746e649eb9cf0" sha1="26e461bf9da48d08a665e063fba2eb07edb4c009"/>
+		<rom name="Grapevine12_v1.0_LSD.lha" size="2415149" crc="fbcea7dd" md5="5f72ab5ea616d521cdfdcc18218b1795" sha1="4c2acecd2f4693062ac3c330d3d24d47fd97a8b9"/>
+		<rom name="Grapevine13_v1.0_LSD.lha" size="2424309" crc="dd5ea907" md5="3c51eba38beff23af4150621a55fce3a" sha1="080cb46d8a170a19fa418ac1223f0be9828188ac"/>
+		<rom name="Grapevine14_v1.01_LSD.lha" size="2408319" crc="e76a9151" md5="6f0071f9e6ea1ce22c14b44e483e00ab" sha1="00c3d37f21ce42679b3ccc44cff483b1e20e0469"/>
+		<rom name="Grapevine15_v1.01_LSD.lha" size="2276619" crc="538a4e9f" md5="824cd75b5f516c25f3a0bf19881e5eb9" sha1="38c494e7e758b94d3a69b49d09dafc67b379d2ab"/>
+		<rom name="Grapevine16_v1.02_LSD.lha" size="2335842" crc="682ded29" md5="cd92c84a8c38fd78f45f52712a0cf5de" sha1="17fab543a7e025355b3c3391241e763a06ef4aa9"/>
+		<rom name="Grapevine17_v1.01_LSD.lha" size="2349810" crc="da859102" md5="c18066529698236fb35d559ad5756097" sha1="bac66885dd57bebf5f956c95ad95800dd5df7594"/>
+		<rom name="Grapevine18_v1.0_LSD.lha" size="2337496" crc="5703cdf4" md5="f77096107a4a9d8ee29a55316794a675" sha1="75978014b125969ffad877ea9bca97fa57773da7"/>
+		<rom name="Grapevine19_v1.0_LSD.lha" size="2353999" crc="59a311eb" md5="0cbd32e21f47f8570625d8a7ed467b62" sha1="f01c276b7c34762c64cf53a8a9557c53d9ad691a"/>
+		<rom name="Grapevine20_v1.0_LSD.lha" size="1554475" crc="477df6a6" md5="fdf7db5bd6415c6477b03a811fd3293c" sha1="e05430d1af183fdefabeb9b9bb1589811adc7023"/>
+		<rom name="Grapevine21_v1.0_LSD.lha" size="1319545" crc="3278aad7" md5="55951d669e2624702f938b276f142452" sha1="c17956b7dea7eb09601931c9c8204a228065cbca"/>
+	</machine>
+	<machine name="I">
+		<description>I</description>
+		<rom name="Ice1_v1.0_Cytax.lha" size="255354" crc="c4aa733d" md5="8a0acb400e0e09789c422a7abb23a394" sha1="a614f58d34766a303149043bd0a12553712714d4"/>
+		<rom name="Ice2_v1.02_Cytax.lha" size="383562" crc="f7429295" md5="0013d628e18f750a4164103f609eee33" sha1="861817a5c2518995d69de76e682caa49b7f711e3"/>
+		<rom name="Ice3_v1.0_Cytax.lha" size="515025" crc="87d4ed23" md5="e7b0c73116049a81fd24adca2eec0d27" sha1="109f09ab71fea466c50bceb11730eee7fce26a2c"/>
+		<rom name="Ice4_v1.0_Cytax.lha" size="467312" crc="9b100ddf" md5="76759ad911e841dee19899ea3788a5ba" sha1="87063515e5c74d162f780bdf110f65538c9966b0"/>
+		<rom name="Ice5_v1.0_Cytax.lha" size="579946" crc="487b442e" md5="8651e35d089ac0e61b6a5ac8d3ff1c40" sha1="5b3085764bd3e7a5e278007161ce642ae19ed4c3"/>
+		<rom name="Ice6_v1.0_Cytax.lha" size="703557" crc="31bebb3f" md5="4d3f0f6bd4f89900feccef77b744f9a2" sha1="18993aedff8c50b09bd55e84e085491f279dcaa6"/>
+		<rom name="Ice7_v1.0_Cytax.lha" size="1130538" crc="b3ac17ab" md5="c655a8269bb223658972a25638a1ff54" sha1="3715402be815b5e0c50c76eb8e013705daa3202f"/>
+		<rom name="Ice8_v1.0_Cytax.lha" size="721683" crc="fd8f66c2" md5="cf9885752034fc3f9728435bcd875ee3" sha1="7b273aa18b412c7fa89e98f0f9cb7857e4e16529"/>
+	</machine>
+	<machine name="M">
+		<description>M</description>
+		<rom name="McDisk1_v1.0_Coma.lha" size="491008" crc="3340819c" md5="9e8f282cf5233f191ca153c03513c767" sha1="70d307a5ba9e95933b9368d83632593636b4ea59"/>
+		<rom name="McDisk2_v1.0_Coma.lha" size="529164" crc="d9516347" md5="cc9a09e7d2af2f40994850d925d83c45" sha1="f0a40a396b4f87fdf2e9d7f979ca997b62feb048"/>
+		<rom name="McDisk3_v1.0_Coma.lha" size="668596" crc="8693e135" md5="1c5cbcf69432f8266de21fa151a0bea3" sha1="a2f256f83f96a36371180bd15647060ede06fe26"/>
+	</machine>
+	<machine name="P">
+		<description>P</description>
+		<rom name="PENIS1_v1.0_DMOC.lha" size="302066" crc="8b41158c" md5="26ce1396d84f4368bd48d0859df7f24a" sha1="938c59b5c72c6ce83cb23c199cf7fda05d3cf240"/>
+		<rom name="PENIS2_v1.0_DMOC.lha" size="386612" crc="d7f794ae" md5="c97200db3d00b00503be5981afe3938a" sha1="e9bfb64b49383b07212bc7f9a3d386fecfc91325"/>
+		<rom name="PENIS3_v1.0_DMOC.lha" size="477155" crc="3b176760" md5="7fe9cba74994441ec3a6a6f2959127b8" sha1="a0f0b9613ab5f8fd49b74bbfe4d050f6c68897e4"/>
+	</machine>
+	<machine name="R">
+		<description>R</description>
+		<rom name="ROM1_v1.0_Essence.lha" size="840880" crc="3fd1d87b" md5="b768a3abfec41bcf503c1f7a061872d1" sha1="2bf66c58cf9673e1fd9076666e2f0107be6f0e80"/>
+		<rom name="ROM2_v1.0_Essence.lha" size="773020" crc="3cb46554" md5="21d9238088f3e1b46d9890685f8ab767" sha1="450f9e1199f219d996b9bd8ef6bb509496d000ec"/>
+	</machine>
+	<machine name="S">
+		<description>S</description>
+		<rom name="Scene1_v1.0_Mystix.lha" size="419954" crc="9266bbf7" md5="c85f5029e2bbf01eeec61cc091d86276" sha1="b2af651173727eacd69d96a29cbda47fabcad111"/>
+		<rom name="Scene2_v1.0_Abel.lha" size="138152" crc="9b1a6818" md5="aed7b495fea787ba85fe10c81f76f4f9" sha1="b0aa3705e6026ffe4cbab451fb713f80823fe549"/>
+		<rom name="Scene3_v1.0_Decay.lha" size="104003" crc="b1de3376" md5="6e0839282d3dae43a7f2bdf30a274fdc" sha1="e16f72dd5d69a28bc0931aa7cd62a41121fa6191"/>
+		<rom name="Scene4_v1.0_Prophecy.lha" size="230156" crc="eaaee082" md5="a102e585e2e5408bb751ae4696b51dbd" sha1="1a133d4e9644f619f2d1938cbf9e74b1262e2d12"/>
+		<rom name="SceneTalk1_v1.01_Submission.lha" size="403459" crc="513163f0" md5="0a08f4b0a5acfc04fbeafb58dc688138" sha1="ade3d0fdf4d36c0edce39670190c0cc56c6be032"/>
+		<rom name="SceneTalk2_v1.01_Submission.lha" size="507976" crc="caee9ec2" md5="343b26696964ef170e351aead33baa6a" sha1="f3a17719880565aeaab5eba6c72031dcdb4acfae"/>
+		<rom name="SceneTalk3_v1.01_Submission.lha" size="487258" crc="b398307c" md5="60ba8e592524c6555fa40995dfcae62d" sha1="a7254a14d82957cfb39ee4dd10130a614b591b85"/>
+		<rom name="SceneTalk4_v1.0_Submission.lha" size="561084" crc="f56cb5b2" md5="1af49fbcbf7029c8cdfdd171c1b247a6" sha1="e40f6f960cd1f2e5c60f3491ee7c6660378bde36"/>
+		<rom name="SceneTalk5_v1.0_Mystic.lha" size="661718" crc="56ec2f98" md5="97a31b111dcb081cea6d87ef3d7f50d4" sha1="b3b7079e7acae7ee43378a7e9719c6e78ee7b5db"/>
+		<rom name="SceneTalk6_v1.0_Mystic.lha" size="433917" crc="f4181300" md5="c1f62091a42383332d51f17737cffccd" sha1="c6751efee93cc503d0eb8654154d7523ac19cc92"/>
+		<rom name="SceneTalk7_v1.0_Mystic.lha" size="748377" crc="38c4ddcb" md5="d4e57a1c56a9170808654621895f80fe" sha1="b1d872dd5aa680d34b9d8f0c64d4f26086673443"/>
+		<rom name="SceneTalk8_v1.0_Mystic.lha" size="1812796" crc="f04f6d69" md5="5c700c4682e773070517651e4ed57a34" sha1="7e4a486bbad536a041168217f0ecbfe1acfd4c4e"/>
+		<rom name="StolenData07_v1.0_Anarchy&amp;FlashProductions.lha" size="473819" crc="ff983b8e" md5="ff7d9c8ee0e2c5f185796a1e9ff03d8b" sha1="fac20b8fa60d73712ddbebc157db72c43cced779"/>
+		<rom name="StolenData08_v1.0_Anarchy.lha" size="666467" crc="c8934f1c" md5="a5cdfc7b862e9f4df33ddc66cacf4692" sha1="31f5bac6a83d0349df72bf1118d56cd14f538969"/>
+		<rom name="StolenData09_v1.0_Anarchy.lha" size="1160776" crc="32738225" md5="33bb22c2a9b29709ab99f869b8129b9a" sha1="29307cb19bb66312bc9524b73dd4689f6673c79b"/>
+		<rom name="StolenData10_v1.0_Anarchy.lha" size="1418705" crc="46deb1ed" md5="d441fdde4c6bb89ff9d9bcd1f5fc1b4d" sha1="a7a9ca88035a1302d3f07d3b4c13e99bb0a68fd8"/>
+	</machine>
+	<machine name="U">
+		<description>U</description>
+		<rom name="Upstream01_v1.0_Frogs.lha" size="569921" crc="0adf62cb" md5="88cbbbf1da935fada814fedce12cde8a" sha1="d9e023a8e7cfcfda409b5ae1d0edbc3c581e9145"/>
+	</machine>
+	<machine name="V">
+		<description>V</description>
+		<rom name="VisualIntensity1_v1.0_Dual4Mat.lha" size="802007" crc="80c77e0d" md5="37320cc82724cc4d47088976b42166c4" sha1="920836e657628ed9311de836daea62858b44b63b"/>
+	</machine>
+	<machine name="W">
+		<description>W</description>
+		<rom name="WorldCharts09_v1.0_Silents.lha" size="156240" crc="357699b2" md5="0372e04a8af96b5119ff492c62436541" sha1="49e0c1cb357286bd05f7cc0164b8f7fecffacafb"/>
+	</machine>
+	<machine name="Z">
+		<description>Z</description>
+		<rom name="Zine01_v1.0_Brainstorm.lha" size="134535" crc="a19630f2" md5="5db9e2e4e4b4af4384c2d1fff396fbb1" sha1="097be44d1f0d89c912ed14761f416580dd60c1ef"/>
+		<rom name="Zine02_v1.0_Brainstorm.lha" size="229553" crc="8cd4dbe9" md5="fb7b542a7d6a4b49f7ef2603fc6140a8" sha1="fed4cb029dd0f759ae95328b8a29178cf7f7586c"/>
+		<rom name="Zine03_v1.0_Brainstorm.lha" size="212208" crc="1159baa5" md5="a0e45989c0194df6254abf05a22bc6b5" sha1="04b1fa4630165930789569ea07f724f1faf23098"/>
+		<rom name="Zine04_v1.0_Brainstorm.lha" size="331958" crc="466c83cd" md5="7cd14ca8c32dcdd5c86326656cecfa9c" sha1="31dd67d62697841d688d694e52eeefc0ebac1c55"/>
+		<rom name="Zine05_v1.0a_Brainstorm.lha" size="171759" crc="3bd42c2d" md5="16d4ee06b3c652402859a78369c00f8b" sha1="86292c4725ab4a477847979c6f00741c8dc2afd8"/>
+		<rom name="Zine06_v1.0a_Brainstorm.lha" size="436290" crc="254e18ba" md5="b02ad5f5c4c5b111cdaa514a68083f39" sha1="b5c128c173d41f500ec9bb6a0edbd3ece20d9f81"/>
+		<rom name="Zine07_v1.0a_Brainstorm.lha" size="470773" crc="af3301b4" md5="d1fde45465f63d56ab31b689198f291c" sha1="36bbfd0488633b91a5247e2ddfb4ac4af7c0a26e"/>
+		<rom name="Zine08_v1.0_Brainstorm.lha" size="549469" crc="1df1d2ce" md5="50a6883d61565e6699d72edbdd587c5c" sha1="28834e46aa0d6e48ec29927ff954226db49aa847"/>
+		<rom name="Zine09_v1.0_Brainstorm.lha" size="559212" crc="2c3e282c" md5="ec7531d47ea0608eaa342aeaea44ca74" sha1="a187777e682ecd71a89058d339051461538a159c"/>
+		<rom name="Zine10_v1.0_Brainstorm.lha" size="553123" crc="dd1cca45" md5="a499d43d88eae6255c5d911895a88c3a" sha1="1979c7b1dfc25a09638251cd7fa5f6469172ea32"/>
+		<rom name="Zine11_v1.0_Brainstorm.lzx" size="595959" crc="8e525423" md5="57ca7cf2175dbd6596574845ec106b08" sha1="b355bd50b7460bb27b3e490e5cc3dc5434a5a9fd"/>
+	</machine>
+</datafile>

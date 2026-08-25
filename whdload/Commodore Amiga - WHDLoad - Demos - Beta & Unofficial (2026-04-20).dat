@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - WHDLoad - Demos - Beta &amp; Unofficial</name>
+		<description>Commodore Amiga - WHDLoad - Demos - Beta &amp; Unofficial</description>
+		<category>Standard DatFile</category>
+		<version>2026-04-20</version>
+		<date>2026-04-20</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>yyyy/mm/dd</comment>
+		<clrmamepro forcepacking="unzip"/>
+	</header>
+	<machine name="A">
+		<description>A</description>
+		<rom name="AmsterdamBlessings_v0.1_Madwizards_AGA.lha" size="6903964" crc="5c1d1e80" md5="8648e10db0572d794dcd6e6c931d3cff" sha1="34bd571b62b7385a24b7a2679b7378a47d2bfd9f"/>
+	</machine>
+	<machine name="B">
+		<description>B</description>
+		<rom name="BosniskMetall_v1.0_Gigatron_AGA.lha" size="599538" crc="ee50b346" md5="5479b6f03b362ae080fdbc95e8ad1f5b" sha1="74993c92d75846671aeeffdfa066f1a3877b5bab"/>
+	</machine>
+	<machine name="D">
+		<description>D</description>
+		<rom name="Delta_v1.0_Embassy_AGA.lha" size="3433123" crc="1ccb24cc" md5="3b3a608643487c7267488a22566a126e" sha1="29390182b713eb89e13eb1a947140ca06cd24bcf"/>
+	</machine>
+	<machine name="I">
+		<description>I</description>
+		<rom name="ImpossiblePossibility_v1.0_Mystic_AGA.lha" size="1148292" crc="d01c199a" md5="af3d8414ad03e1ab8eef20d3ce6bf6b0" sha1="c2b7410da20f845c31e17c55c92abfaea09e5e82"/>
+	</machine>
+	<machine name="K">
+		<description>K</description>
+		<rom name="KninPeaks_v0.1_Reality.lha" size="717716" crc="17fc0157" md5="4a5bdd448f1d4cd069de250570fd51d4" sha1="73ebdc237a313b71f146ed6fd72e7fda7de7a44c"/>
+	</machine>
+	<machine name="L">
+		<description>L</description>
+		<rom name="LastTrainToDanzig_v1.0_Ghostown&amp;Haujobb_AGA.lha" size="11637948" crc="8993603f" md5="ca2798c312de1d0961fa5301dc6c6c36" sha1="b3429ae726c6497732376e12a118654dc7d5c2f6"/>
+	</machine>
+	<machine name="M">
+		<description>M</description>
+		<rom name="Mime_v0.1_Silicon_AGA.lha" size="2703206" crc="7058bce6" md5="f14fad572db2f5e3f7a21164e2d9e64d" sha1="d525561e92272ee3ab4c93f9f417799b43a42f48"/>
+		<rom name="Myster&amp;Tremor_v1.0_Embassy_AGA.lha" size="3883371" crc="f762c838" md5="6771bde61b8da019684fbf1a99f2f26b" sha1="17161b38cb82e33e805ef473d6923128fa02d279"/>
+	</machine>
+	<machine name="Q">
+		<description>Q</description>
+		<rom name="QuattroStageOne_v1.0_Nature_AGA.lha" size="2290924" crc="48640093" md5="abc95a10e2c67671cbec2f470441fbe8" sha1="0167056b758fb899c3bf31234cc4dfe22a7d5ab8"/>
+	</machine>
+	<machine name="S">
+		<description>S</description>
+		<rom name="SecondNature_v1.0_Desire&amp;TTE.lha" size="1195564" crc="70a10f51" md5="7ed2c60d2fd70785142fbeadd51157d5" sha1="47fdf15852d8e48a3f9990990686b6193d70cbd1"/>
+	</machine>
+	<machine name="T">
+		<description>T</description>
+		<rom name="Transhuman_v0.1_TheElectronicKnights_BETA.lha" size="856854" crc="57ef3714" md5="dfd1da13da1d160480c0b2595b3394f2" sha1="fe641779f47586975d521fb097b9162243c3ef18"/>
+		<rom name="Transhuman_v1.0_TheElectronicKnights.lha" size="859884" crc="a2977019" md5="190b7fd9fc961b942e4f9f305cb32441" sha1="62164acebbfc501d0aa36c38ff86e7af371cd2f6"/>
+	</machine>
+</datafile>
