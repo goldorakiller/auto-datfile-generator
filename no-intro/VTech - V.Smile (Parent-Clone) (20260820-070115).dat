@@ -257,10 +257,15 @@
 		<release name="Cars - Rev It Up in Radiator Springs (United Kingdom) (Rev 5)" region="UK"/>
 		<rom name="Cars - Rev It Up in Radiator Springs (United Kingdom) (Rev 5).bin" size="8388608" crc="d88af931" md5="b3648fc1efd1b0a7bb32449011414907" sha1="04dab1eccde66a80fc252b30e91d8718ace5a525"/>
 	</game>
-	<game name="Bilar - Koer ikapp i Kylarkoeping (Sweden)" cloneof="Cars - Rev It Up in Radiator Springs (United Kingdom) (Rev 5)">
-		<description>Bilar - Koer ikapp i Kylarkoeping (Sweden)</description>
-		<release name="Bilar - Koer ikapp i Kylarkoeping (Sweden)" region="SWE"/>
-		<rom name="Bilar - Koer ikapp i Kylarkoeping (Sweden).bin" size="8388608" crc="825a43eb" md5="7919c5e9bc43be88045ade562aebfa5e" sha1="d63109bc1dcc8549fbed0f0b15efc53327bfd0d9"/>
+	<game name="Bilar - Koer ikapp i Kylarkoeping (Sweden) [b]" cloneof="Cars - Rev It Up in Radiator Springs (United Kingdom) (Rev 5)">
+		<description>Bilar - Koer ikapp i Kylarkoeping (Sweden) [b]</description>
+		<release name="Bilar - Koer ikapp i Kylarkoeping (Sweden) [b]" region="SWE"/>
+		<rom name="Bilar - Koer ikapp i Kylarkoeping (Sweden) [b].bin" size="8388608" crc="69b535f2" md5="35651479fc4942a4d66908ba0fb7217a" sha1="7785e4e92a0edbb90fd0e0a4f2de3afafae5e957" status="baddump"/>
+	</game>
+	<game name="Bilar - Koer ikapp i Kylarkoeping (Sweden) (Alt)" cloneof="Cars - Rev It Up in Radiator Springs (United Kingdom) (Rev 5)">
+		<description>Bilar - Koer ikapp i Kylarkoeping (Sweden) (Alt)</description>
+		<release name="Bilar - Koer ikapp i Kylarkoeping (Sweden) (Alt)" region="SWE"/>
+		<rom name="Bilar - Koer ikapp i Kylarkoeping (Sweden) (Alt).bin" size="8388608" crc="825a43eb" md5="7919c5e9bc43be88045ade562aebfa5e" sha1="d63109bc1dcc8549fbed0f0b15efc53327bfd0d9"/>
 	</game>
 	<game name="Biler - Raes i Kolerkildekobing (Denmark)" cloneof="Cars - Rev It Up in Radiator Springs (United Kingdom) (Rev 5)">
 		<description>Biler - Raes i Kolerkildekobing (Denmark)</description>
@@ -290,10 +295,6 @@
 		<description>Cars - Quatre roues (France) (2006)</description>
 		<rom name="Cars - Quatre roues (France) (2006).bin" size="8388608" crc="c481b319" md5="1c755541ec8183f0b7b3284a6c2c4cef" sha1="3c9f5fdb90b37150b60d83a81faa555b9c4a5a54"/>
 	</game>
-	<game name="Cars - Rev It Up in Radiator Springs (USA)" cloneof="Cars - Rev It Up in Radiator Springs (United Kingdom) (Rev 5)">
-		<description>Cars - Rev It Up in Radiator Springs (USA)</description>
-		<rom name="Cars - Rev It Up in Radiator Springs (USA).bin" size="8388608" crc="ff65d967" md5="062aac716d97425290bfbb943840304e" sha1="27b229b6e308dfc0cea7e594c7b006f27961c05f"/>
-	</game>
 	<game name="Cars - Rev It Up in Radiator Springs (United Kingdom)" cloneof="Cars - Rev It Up in Radiator Springs (United Kingdom) (Rev 5)">
 		<description>Cars - Rev It Up in Radiator Springs (United Kingdom)</description>
 		<rom name="Cars - Rev It Up in Radiator Springs (United Kingdom).bin" size="8388608" crc="fbcf207a" md5="63f84e96711ab6980660b1e5322287e4" sha1="c25ac103c07a13a369f8d47a8bb5f14c752a6f53"/>
@@ -313,6 +314,10 @@
 	<game name="Cars - Rev It Up in Radiator Springs (USA) (V.Smile Motion)" cloneof="Cars - Rev It Up in Radiator Springs (United Kingdom) (Rev 5)">
 		<description>Cars - Rev It Up in Radiator Springs (USA) (V.Smile Motion)</description>
 		<rom name="Cars - Rev It Up in Radiator Springs (USA) (V.Smile Motion).bin" size="8388608" crc="1e6363ef" md5="b45f02c52fb94156603766acf21ce24c" sha1="5db9fe5626ebae102ee0ec8e6b42c7987c7df686"/>
+	</game>
+	<game name="Cars - Rev It Up in Radiator Springs (USA)" cloneof="Cars - Rev It Up in Radiator Springs (United Kingdom) (Rev 5)">
+		<description>Cars - Rev It Up in Radiator Springs (USA)</description>
+		<rom name="Cars - Rev It Up in Radiator Springs (USA).bin" size="8388608" crc="ff65d967" md5="062aac716d97425290bfbb943840304e" sha1="27b229b6e308dfc0cea7e594c7b006f27961c05f"/>
 	</game>
 	<game name="Cars - Vollgas in Radiator Springs (Germany)" cloneof="Cars - Rev It Up in Radiator Springs (United Kingdom) (Rev 5)">
 		<description>Cars - Vollgas in Radiator Springs (Germany)</description>
@@ -865,6 +870,11 @@
 	<game name="Disney-Pixar Wall-E (Spain)" cloneof="Disney-Pixar Wall-E (Germany)">
 		<description>Disney-Pixar Wall-E (Spain)</description>
 		<rom name="Disney-Pixar Wall-E (Spain).bin" size="8388608" crc="ac1e10fb" md5="2d3199227b05e855e5ede4d7225c8fba" sha1="3701ed1b4f37303d476fd21b46c4fa4e1a432e74"/>
+	</game>
+	<game name="Disney-Pixar Wall-E (Sweden) (Alt)" cloneof="Disney-Pixar Wall-E (Germany)">
+		<description>Disney-Pixar Wall-E (Sweden) (Alt)</description>
+		<release name="Disney-Pixar Wall-E (Sweden) (Alt)" region="SWE"/>
+		<rom name="Disney-Pixar Wall-E (Sweden) (Alt).bin" size="8388608" crc="832e4d06" md5="261d0f616d5e58a15a2bf96c3668643a" sha1="9a4b46c931d5de17b6e8370e3b5a2e1e74ec4bdb"/>
 	</game>
 	<game name="Disney's Mickey Mouse - Mickey's Magical Adventure (United Kingdom)">
 		<description>Disney's Mickey Mouse - Mickey's Magical Adventure (United Kingdom)</description>
