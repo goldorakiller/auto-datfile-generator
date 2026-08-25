@@ -1,10 +1,12 @@
 import os
 import re
-import shutil
 import zipfile
+from contextlib import ExitStack
 from io import BytesIO
 
 import requests
+
+from dat_output_dir import replace_directory
 
 # Config — meme site que MAME/HBMAME, mais chaque datfile va dans SON PROPRE
 # dossier (demande explicite : "un dossier Visual Pinball et un dossier
@@ -29,40 +31,46 @@ def find_zips():
 
 
 def build():
-    # Meme raison que pleasuredome-mame.py : eviter que d'anciennes versions
-    # de dats restent a cote des nouvelles.
-    for folder in TARGETS.values():
-        shutil.rmtree(folder, ignore_errors=True)
-
     urls = find_zips()
     print(f"{len(urls)} zip(s) trouve(s) sur la page")
 
-    for url in urls:
-        filename = url.rsplit("/", 1)[-1]
-        output_dir = None
-        for prefix, folder in TARGETS.items():
-            if filename.startswith(prefix):
-                output_dir = folder
-                break
+    # Meme raison que pleasuredome-mame.py : eviter que d'anciennes versions
+    # de dats restent a cote des nouvelles, sans pour autant publier un
+    # dossier vide/partiel si une panne reseau survient en cours de route.
+    # Les deux dossiers (Visual Pinball / Future Pinball) sont alimentes
+    # dans la meme boucle, donc les deux echanges n'ont lieu qu'a la toute
+    # fin, ensemble.
+    with ExitStack() as stack:
+        out_dirs = {
+            folder: stack.enter_context(replace_directory(folder))
+            for folder in TARGETS.values()
+        }
 
-        if output_dir is None:
-            print(f"Ignore (systeme non reconnu) : {filename}")
-            continue
+        for url in urls:
+            filename = url.rsplit("/", 1)[-1]
+            output_dir = None
+            for prefix, folder in TARGETS.items():
+                if filename.startswith(prefix):
+                    output_dir = out_dirs[folder]
+                    break
 
-        os.makedirs(output_dir, exist_ok=True)
-        print(f"Downloading {filename} -> {output_dir}/")
-        resp = requests.get(url, timeout=600)
-        resp.raise_for_status()
+            if output_dir is None:
+                print(f"Ignore (systeme non reconnu) : {filename}")
+                continue
 
-        with zipfile.ZipFile(BytesIO(resp.content)) as archive:
-            for name in archive.namelist():
-                if not name.lower().endswith(".xml"):
-                    continue
-                data = archive.read(name)
-                out_name = os.path.basename(name)
-                with open(os.path.join(output_dir, out_name), "wb") as f:
-                    f.write(data)
-                print(f"  -> {out_name} ({len(data)} bytes)")
+            print(f"Downloading {filename} -> {output_dir}/")
+            resp = requests.get(url, timeout=600)
+            resp.raise_for_status()
+
+            with zipfile.ZipFile(BytesIO(resp.content)) as archive:
+                for name in archive.namelist():
+                    if not name.lower().endswith(".xml"):
+                        continue
+                    data = archive.read(name)
+                    out_name = os.path.basename(name)
+                    with open(os.path.join(output_dir, out_name), "wb") as f:
+                        f.write(data)
+                    print(f"  -> {out_name} ({len(data)} bytes)")
 
     print("Finished")
 

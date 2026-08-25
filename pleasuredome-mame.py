@@ -1,12 +1,13 @@
 import html
 import os
 import re
-import shutil
 import zipfile
 from io import BytesIO
 from urllib.parse import unquote
 
 import requests
+
+from dat_output_dir import replace_directory
 
 # Config
 INDEX_URL = "https://pleasuredome.github.io/pleasuredome/mame/index.html"
@@ -37,30 +38,32 @@ def find_full_set_zips():
 
 
 def build():
-    # Repart d'un dossier vide a chaque run : le nom des dats MAME embarque
-    # le numero de version (ex. "MAME 0.289 ROMs (merged).xml"), donc sans
-    # ca l'ancienne version ne serait jamais ecrasee et s'accumulerait a
-    # cote de la nouvelle a chaque changement de version.
-    shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
     urls = find_full_set_zips()
     print(f"{len(urls)} datfile(s) complet(s) trouve(s)")
 
-    for url in urls:
-        filename = unquote(url.rsplit("/", 1)[-1])
-        print(f"Downloading {filename}")
-        resp = requests.get(url, timeout=600)
-        resp.raise_for_status()
+    # Le nom des dats MAME embarque le numero de version (ex.
+    # "MAME 0.289 ROMs (merged).xml") : sans repartir d'un dossier vide,
+    # l'ancienne version ne serait jamais ecrasee et s'accumulerait a cote
+    # de la nouvelle a chaque changement de version. Mais l'echange avec le
+    # vrai dossier n'a lieu qu'a la fin, si tout s'est bien passe — une
+    # panne reseau en cours de route laisse l'ancien mirror intact au lieu
+    # de publier un dossier vide ou partiel.
+    with replace_directory(OUTPUT_DIR) as out_dir:
+        for url in urls:
+            filename = unquote(url.rsplit("/", 1)[-1])
+            print(f"Downloading {filename}")
+            resp = requests.get(url, timeout=600)
+            resp.raise_for_status()
 
-        with zipfile.ZipFile(BytesIO(resp.content)) as archive:
-            for name in archive.namelist():
-                if not (name.lower().endswith(".xml") or name.lower().endswith(".dat")):
-                    continue
-                data = archive.read(name)
-                out_name = os.path.basename(name)
-                with open(os.path.join(OUTPUT_DIR, out_name), "wb") as f:
-                    f.write(data)
-                print(f"  -> {out_name} ({len(data)} bytes)")
+            with zipfile.ZipFile(BytesIO(resp.content)) as archive:
+                for name in archive.namelist():
+                    if not (name.lower().endswith(".xml") or name.lower().endswith(".dat")):
+                        continue
+                    data = archive.read(name)
+                    out_name = os.path.basename(name)
+                    with open(os.path.join(out_dir, out_name), "wb") as f:
+                        f.write(data)
+                    print(f"  -> {out_name} ({len(data)} bytes)")
 
     print("Finished")
 

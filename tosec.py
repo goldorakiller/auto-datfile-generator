@@ -1,10 +1,11 @@
 import os
 import re
-import shutil
 import zipfile
 import xml.etree.ElementTree as ET
 
 import requests
+
+from dat_output_dir import replace_directory
 
 # Config
 DOWNLOADS_URL = "https://www.tosecdev.org/downloads"
@@ -61,16 +62,15 @@ def update_XML():
     # manifeste pointe directement dessus au lieu d'obliger a telecharger les
     # ~100 Mo du pack complet pour en extraire un seul fichier.
     individual_dir = "tosec"
-    # Repart d'un dossier vide a chaque release TOSEC (~2x/an) : si un dat
-    # disparait ou change de nom entre deux releases, l'ancienne copie ne
-    # serait jamais nettoyee sinon.
-    shutil.rmtree(individual_dir, ignore_errors=True)
-    os.makedirs(individual_dir, exist_ok=True)
 
     print("\nBuilding clrmamepro datfile ...\n")
     tag_clrmamepro = ET.Element("clrmamepro")
 
-    with zipfile.ZipFile(ZIP_FILENAME, "r") as archive:
+    # Repart d'un dossier vide a chaque release TOSEC (~2x/an) : si un dat
+    # disparait ou change de nom entre deux releases, l'ancienne copie ne
+    # serait jamais nettoyee sinon. L'echange avec le vrai dossier n'a lieu
+    # qu'a la fin en cas de succes complet.
+    with zipfile.ZipFile(ZIP_FILENAME, "r") as archive, replace_directory(individual_dir) as out_dir:
         for name in archive.namelist():
             if not name.lower().endswith(".dat"):
                 continue
@@ -82,7 +82,7 @@ def update_XML():
             print(file_name)
             display_name = file_name[:-4]  # sans l'extension .dat
 
-            with archive.open(name) as entry, open(os.path.join(individual_dir, file_name), "wb") as out:
+            with archive.open(name) as entry, open(os.path.join(out_dir, file_name), "wb") as out:
                 out.write(entry.read())
 
             tag_datfile = ET.SubElement(tag_clrmamepro, "datfile")

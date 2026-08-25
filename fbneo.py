@@ -1,7 +1,8 @@
 import os
-import shutil
 
 import requests
+
+from dat_output_dir import replace_directory
 
 # Config — le plus simple des mirrors : les .dat sont deja individuels a la
 # racine du dossier "dats" du repo officiel FBNeo (libretro), un par systeme
@@ -12,11 +13,6 @@ OUTPUT_DIR = "fbneo"
 
 
 def build():
-    # Repart d'un dossier vide : si un fichier est renomme/retire en amont,
-    # l'ancienne copie ne serait jamais nettoyee sinon.
-    shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-
     resp = requests.get(CONTENTS_API, timeout=150)
     resp.raise_for_status()
     entries = resp.json()
@@ -24,14 +20,18 @@ def build():
     dat_entries = [e for e in entries if e["name"].lower().endswith(".dat")]
     print(f"{len(dat_entries)} dat(s) trouve(s)")
 
-    for entry in dat_entries:
-        print(f"Downloading {entry['name']}")
-        file_resp = requests.get(entry["download_url"], timeout=150)
-        file_resp.raise_for_status()
+    # Repart d'un dossier vide (si un fichier est renomme/retire en amont,
+    # l'ancienne copie ne serait jamais nettoyee sinon), mais l'echange
+    # avec le vrai dossier n'a lieu qu'a la fin en cas de succes complet.
+    with replace_directory(OUTPUT_DIR) as out_dir:
+        for entry in dat_entries:
+            print(f"Downloading {entry['name']}")
+            file_resp = requests.get(entry["download_url"], timeout=150)
+            file_resp.raise_for_status()
 
-        with open(os.path.join(OUTPUT_DIR, entry["name"]), "wb") as f:
-            f.write(file_resp.content)
-        print(f"  -> {len(file_resp.content)} bytes")
+            with open(os.path.join(out_dir, entry["name"]), "wb") as f:
+                f.write(file_resp.content)
+            print(f"  -> {len(file_resp.content)} bytes")
 
     print("Finished")
 

@@ -5,6 +5,8 @@ from io import BytesIO
 
 import requests
 
+from dat_output_dir import replace_directory
+
 # Config — 19 collections independantes (verifie en reel aout 2026 : pcsx2x6,
 # linuxloader, vic20ultimatetape, exo, ipodclickwheel, bluemaxima, rpgmaker,
 # projectegg, digitoxin, pinballpc, touhou, sharpx68000, segaalldotnet,
@@ -57,39 +59,41 @@ def build():
     # Repart aussi d'un dossier plat vide : chaque fichier est nomme d'apres
     # sa release (ex. "Arcade Ambience Project (2024-11-10_RomVault).dat"),
     # donc sans ca une nouvelle release avec une date differente s'ajouterait
-    # a cote de l'ancienne au lieu de la remplacer.
-    shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
+    # a cote de l'ancienne au lieu de la remplacer. L'echange avec le vrai
+    # dossier n'a lieu qu'a la toute fin, si les 19 collections ont ete
+    # traitees sans exception — une panne reseau sur UNE collection en
+    # cours de route laisse tout le dossier intact (etat de la veille)
+    # plutot que de publier un dossier partiel.
+    with replace_directory(OUTPUT_DIR) as out_dir:
+        for release in releases:
+            tag = release["tag_name"]
+            asset = find_romvault_zip(release.get("assets", []))
+            if asset is None:
+                print(f"{tag} : aucun zip RomVault trouve, ignore")
+                continue
 
-    for release in releases:
-        tag = release["tag_name"]
-        asset = find_romvault_zip(release.get("assets", []))
-        if asset is None:
-            print(f"{tag} : aucun zip RomVault trouve, ignore")
-            continue
+            print(f"{tag} : telechargement {asset['name']}")
+            file_resp = requests.get(asset["browser_download_url"], timeout=600)
+            file_resp.raise_for_status()
 
-        print(f"{tag} : telechargement {asset['name']}")
-        file_resp = requests.get(asset["browser_download_url"], timeout=600)
-        file_resp.raise_for_status()
+            with zipfile.ZipFile(BytesIO(file_resp.content)) as archive:
+                for name in archive.namelist():
+                    if not (name.lower().endswith(".dat") or name.lower().endswith(".xml")):
+                        continue
 
-        with zipfile.ZipFile(BytesIO(file_resp.content)) as archive:
-            for name in archive.namelist():
-                if not (name.lower().endswith(".dat") or name.lower().endswith(".xml")):
-                    continue
+                    info = archive.getinfo(name)
+                    if info.file_size > MAX_FILE_SIZE:
+                        print(f"  IGNORE (trop gros pour git, {info.file_size} bytes) : {name}")
+                        continue
 
-                info = archive.getinfo(name)
-                if info.file_size > MAX_FILE_SIZE:
-                    print(f"  IGNORE (trop gros pour git, {info.file_size} bytes) : {name}")
-                    continue
-
-                os.makedirs(OUTPUT_DIR, exist_ok=True)
-                data = archive.read(name)
-                out_name = os.path.basename(name)
-                out_path = os.path.join(OUTPUT_DIR, out_name)
-                if os.path.exists(out_path):
-                    print(f"  ATTENTION : {out_name} existe deja (collision entre collections), ecrase")
-                with open(out_path, "wb") as f:
-                    f.write(data)
-                print(f"  -> {out_name} ({len(data)} bytes)")
+                    data = archive.read(name)
+                    out_name = os.path.basename(name)
+                    out_path = os.path.join(out_dir, out_name)
+                    if os.path.exists(out_path):
+                        print(f"  ATTENTION : {out_name} existe deja (collision entre collections), ecrase")
+                    with open(out_path, "wb") as f:
+                        f.write(data)
+                    print(f"  -> {out_name} ({len(data)} bytes)")
 
     print("Finished")
 

@@ -1,11 +1,12 @@
 import html
 import os
 import re
-import shutil
 import zipfile
 from io import BytesIO
 
 import requests
+
+from dat_output_dir import replace_directory
 
 # Config
 ROOT_URL = "https://ftp2.grandis.nu/turran/FTP/Retroplay%20WHDLoad%20Packs/"
@@ -27,28 +28,30 @@ def find_root_zips():
 
 
 def build():
-    # Repart d'un dossier vide : si un pack racine change de nom/version
-    # d'une fois sur l'autre, l'ancien fichier ne serait jamais ecrase sinon.
-    shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
     hrefs = find_root_zips()
     print(f"{len(hrefs)} zip(s) trouves a la racine")
 
-    for href in hrefs:
-        url = ROOT_URL + href
-        print(f"Downloading {href}")
-        resp = requests.get(url, timeout=150)
-        resp.raise_for_status()
+    # Repart d'un dossier vide (si un pack racine change de nom/version,
+    # l'ancien fichier ne serait jamais ecrase sinon), mais l'echange avec
+    # le vrai dossier n'a lieu qu'a la fin en cas de succes complet — une
+    # panne reseau transitoire (deja vue plusieurs fois sur ce site) laisse
+    # l'ancien mirror intact au lieu de publier un dossier vide.
+    with replace_directory(OUTPUT_DIR) as out_dir:
+        for href in hrefs:
+            url = ROOT_URL + href
+            print(f"Downloading {href}")
+            resp = requests.get(url, timeout=150)
+            resp.raise_for_status()
 
-        with zipfile.ZipFile(BytesIO(resp.content)) as archive:
-            for name in archive.namelist():
-                if not name.lower().endswith(".dat"):
-                    continue
-                data = archive.read(name)
-                out_name = os.path.basename(name)
-                with open(os.path.join(OUTPUT_DIR, out_name), "wb") as f:
-                    f.write(data)
-                print(f"  -> {out_name} ({len(data)} bytes)")
+            with zipfile.ZipFile(BytesIO(resp.content)) as archive:
+                for name in archive.namelist():
+                    if not name.lower().endswith(".dat"):
+                        continue
+                    data = archive.read(name)
+                    out_name = os.path.basename(name)
+                    with open(os.path.join(out_dir, out_name), "wb") as f:
+                        f.write(data)
+                    print(f"  -> {out_name} ({len(data)} bytes)")
 
     print("Finished")
 

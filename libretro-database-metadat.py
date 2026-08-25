@@ -1,7 +1,8 @@
 import os
-import shutil
 
 import requests
+
+from dat_output_dir import replace_directory
 
 # Config — meme mecanique que libretro-database-dat.py, mais sur le dossier
 # "metadat" du meme repo (contenu different : dats par mainteneur MAME et
@@ -23,12 +24,6 @@ MAX_FILE_SIZE = 95 * 1024 * 1024
 
 def build():
     for category in TARGETS:
-        out_dir = os.path.join(OUTPUT_DIR, category)
-        # Repart d'un dossier vide : si un fichier est renomme/retire en
-        # amont, l'ancienne copie ne serait jamais nettoyee sinon.
-        shutil.rmtree(out_dir, ignore_errors=True)
-        os.makedirs(out_dir, exist_ok=True)
-
         resp = requests.get(f"{CONTENTS_API}/{category}", timeout=150)
         resp.raise_for_status()
         entries = resp.json()
@@ -39,18 +34,23 @@ def build():
         ]
         print(f"{category} : {len(dat_entries)} dat(s) trouve(s)")
 
-        for entry in dat_entries:
-            if entry["size"] > MAX_FILE_SIZE:
-                print(f"  IGNORE (trop gros pour git, {entry['size']} bytes) : {entry['name']}")
-                continue
+        # Repart d'un dossier vide (si un fichier est renomme/retire en
+        # amont, l'ancienne copie ne serait jamais nettoyee sinon), mais
+        # l'echange avec le vrai dossier n'a lieu qu'a la fin en cas de
+        # succes complet pour cette categorie.
+        with replace_directory(os.path.join(OUTPUT_DIR, category)) as out_dir:
+            for entry in dat_entries:
+                if entry["size"] > MAX_FILE_SIZE:
+                    print(f"  IGNORE (trop gros pour git, {entry['size']} bytes) : {entry['name']}")
+                    continue
 
-            print(f"  Downloading {entry['name']}")
-            file_resp = requests.get(entry["download_url"], timeout=150)
-            file_resp.raise_for_status()
+                print(f"  Downloading {entry['name']}")
+                file_resp = requests.get(entry["download_url"], timeout=150)
+                file_resp.raise_for_status()
 
-            with open(os.path.join(out_dir, entry["name"]), "wb") as f:
-                f.write(file_resp.content)
-            print(f"    -> {len(file_resp.content)} bytes")
+                with open(os.path.join(out_dir, entry["name"]), "wb") as f:
+                    f.write(file_resp.content)
+                print(f"    -> {len(file_resp.content)} bytes")
 
     print("Finished")
 
