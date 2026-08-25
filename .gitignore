@@ -12,6 +12,9 @@ firefox-webdriver.log
 # ...) : chacun ecrit dans SON PROPRE sous-dossier (jamais a la racine, ou
 # vivent les manifestes .xml de travail qui eux doivent rester ignores) —
 # une regle generique plutot qu'une ligne par dossier, pour ne pas avoir a
-# toucher ce fichier a chaque nouvelle source ajoutee.
+# toucher ce fichier a chaque nouvelle source ajoutee. Deux niveaux : certaines
+# sources (libretro-database-metadat) ont un sous-dossier par categorie.
 !*/*.dat
 !*/*.xml
+!*/*/*.dat
+!*/*/*.xml

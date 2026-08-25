@@ -45,6 +45,15 @@ LOOSE_FOLDERS = {
     # dossier (demande explicite de Cedric) : une seule source ici, comme
     # les autres, plutot qu'une par collection.
     "Eggmansworld - Datfiles": "Eggmansworld - Datfiles",
+    # libretro-database-metadat.py garde un sous-dossier par categorie
+    # (contrairement a Eggmansworld) : no-intro et tosec y partagent des
+    # noms de fichiers identiques (ex. "Atari - 2600.dat"), un dossier plat
+    # les ecraserait l'un l'autre.
+    "Libretro-database (MAME-Split)": "libretro-database-metadat/mame-split",
+    "Libretro-database (MAME)": "libretro-database-metadat/mame",
+    "Libretro-database (No-Intro)": "libretro-database-metadat/no-intro",
+    "Libretro-database (Redump)": "libretro-database-metadat/redump",
+    "Libretro-database (TOSEC)": "libretro-database-metadat/tosec",
 }
 
 _QUALIFIER_RE = re.compile(r"(\s*\([^)]*\))+\s*$")
