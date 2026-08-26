@@ -37,28 +37,28 @@
     "Candidates": [
       {
         "Source": "Pleasuredome MAME",
-        "Name": "MAME CHDs (merged)",
+        "Name": "MAME 0.289 CHDs (merged)",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/MAME 0.289 CHDs (merged).xml",
         "File": "MAME 0.289 CHDs (merged).xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "MAME ROMs (merged)",
+        "Name": "MAME 0.289 ROMs (merged)",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/MAME 0.289 ROMs (merged).xml",
         "File": "MAME 0.289 ROMs (merged).xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "MAME ROMs (non-merged)",
+        "Name": "MAME 0.289 ROMs (non-merged)",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/MAME 0.289 ROMs (non-merged).xml",
         "File": "MAME 0.289 ROMs (non-merged).xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "MAME ROMs (split)",
+        "Name": "MAME 0.289 ROMs (split)",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/MAME 0.289 ROMs (split).xml",
         "File": "MAME 0.289 ROMs (split).xml"
@@ -71,7 +71,7 @@
     "Candidates": [
       {
         "Source": "Pleasuredome HBMAME",
-        "Name": "HBMAME ROMs (merged)",
+        "Name": "HBMAME 0.289.1 ROMs (merged)",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-hbmame/HBMAME 0.289.1 ROMs (merged).xml",
         "File": "HBMAME 0.289.1 ROMs (merged).xml"
@@ -768,14 +768,14 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Sega Saturn cartridges",
+        "Name": "sat_cart",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/sat_cart.xml",
         "File": "sat_cart.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Sega Saturn VideoCD cartridges",
+        "Name": "sat_vccart",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/sat_vccart.xml",
         "File": "sat_vccart.xml"
@@ -878,7 +878,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Sega Dreamcast GD-ROMs",
+        "Name": "dc",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/dc.xml",
         "File": "dc.xml"
@@ -1031,7 +1031,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Nintendo SNES Satellaview Memory Packs",
+        "Name": "snes_bspack",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/snes_bspack.xml",
         "File": "snes_bspack.xml"
@@ -1072,7 +1072,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Nintendo SNES - Sufami Turbo cartridges",
+        "Name": "snes_strom",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/snes_strom.xml",
         "File": "snes_strom.xml"
@@ -1573,7 +1573,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "NEC Supergrafx HuCards",
+        "Name": "sgx",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/sgx.xml",
         "File": "sgx.xml"
@@ -2570,14 +2570,14 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Atari 400 / 800 cassettes",
+        "Name": "a800_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/a800_cass.xml",
         "File": "a800_cass.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Atari 400 / 800 floppy disks",
+        "Name": "a800_flop",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/a800_flop.xml",
         "File": "a800_flop.xml"
@@ -2646,7 +2646,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Atari 2600 cassettes",
+        "Name": "a2600_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/a2600_cass.xml",
         "File": "a2600_cass.xml"
@@ -2902,14 +2902,14 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Atari ST cartridges",
+        "Name": "st_cart",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/st_cart.xml",
         "File": "st_cart.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Atari ST disk images",
+        "Name": "st_flop",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/st_flop.xml",
         "File": "st_flop.xml"
@@ -3199,7 +3199,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Coleco ColecoVision homebrew cartridges",
+        "Name": "coleco_homebrew",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/coleco_homebrew.xml",
         "File": "coleco_homebrew.xml"
@@ -4870,14 +4870,14 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Commodore 64 miscellaneous disks",
+        "Name": "c64_flop_misc",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/c64_flop_misc.xml",
         "File": "c64_flop_misc.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Commodore 64 original disks",
+        "Name": "c64_flop_orig",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/c64_flop_orig.xml",
         "File": "c64_flop_orig.xml"
@@ -4932,14 +4932,14 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Commodore Plus/4 / C16 / C116 cassettes",
+        "Name": "plus4_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/plus4_cass.xml",
         "File": "plus4_cass.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Commodore Plus/4 diskettes",
+        "Name": "plus4_flop",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/plus4_flop.xml",
         "File": "plus4_flop.xml"
@@ -4987,14 +4987,14 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Commodore PET diskettes",
+        "Name": "pet_flop",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/pet_flop.xml",
         "File": "pet_flop.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Commodore PET hard disks",
+        "Name": "pet_hdd",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/pet_hdd.xml",
         "File": "pet_hdd.xml"
@@ -5133,7 +5133,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Commodore 128 Function ROMs",
+        "Name": "c128_rom",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/c128_rom.xml",
         "File": "c128_rom.xml"
@@ -5800,7 +5800,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "MGT SAM CoupÃƒÂ© cassettes",
+        "Name": "samcoupe_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/samcoupe_cass.xml",
         "File": "samcoupe_cass.xml"
@@ -5959,14 +5959,14 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Sharp X1 cassettes",
+        "Name": "x1_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/x1_cass.xml",
         "File": "x1_cass.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Sharp X1 disk images",
+        "Name": "x1_flop",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/x1_flop.xml",
         "File": "x1_flop.xml"
@@ -6042,14 +6042,14 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Thomson MO5 floppy disks",
+        "Name": "mo5_flop",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/mo5_flop.xml",
         "File": "mo5_flop.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Thomson MO5 cassettes",
+        "Name": "mo5_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/mo5_cass.xml",
         "File": "mo5_cass.xml"
@@ -6151,14 +6151,14 @@
     "Candidates": [
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Philips P2000T/P2000M Mini cassettes",
+        "Name": "p2000_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/p2000_cass.xml",
         "File": "p2000_cass.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Philips P2000T/P2000M cartridges",
+        "Name": "p2000_cart",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/p2000_cart.xml",
         "File": "p2000_cart.xml"
@@ -6178,7 +6178,7 @@
     "Candidates": [
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Philips VG-5000 cassette",
+        "Name": "vg5k",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/vg5k.xml",
         "File": "vg5k.xml"
@@ -6247,14 +6247,14 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Sinclair ZX80 cassettes",
+        "Name": "zx80_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/zx80_cass.xml",
         "File": "zx80_cass.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Sinclair ZX81 cassettes",
+        "Name": "zx81_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/zx81_cass.xml",
         "File": "zx81_cass.xml"
@@ -6449,21 +6449,21 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Sinclair ZX Spectrum +3 disk images",
+        "Name": "specpls3_flop",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/specpls3_flop.xml",
         "File": "specpls3_flop.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Sinclair ZX Spectrum cartridges",
+        "Name": "spectrum_cart",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/spectrum_cart.xml",
         "File": "spectrum_cart.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Sinclair ZX Spectrum cassettes",
+        "Name": "spectrum_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/spectrum_cass.xml",
         "File": "spectrum_cass.xml"
@@ -6594,7 +6594,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Sega Game Gear cartridges",
+        "Name": "gamegear",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/gamegear.xml",
         "File": "gamegear.xml"
@@ -6718,7 +6718,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Nintendo Game Boy cartridges",
+        "Name": "gameboy",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/gameboy.xml",
         "File": "gameboy.xml"
@@ -6779,7 +6779,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Nintendo Game Boy Color cartridges",
+        "Name": "gbcolor",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/gbcolor.xml",
         "File": "gbcolor.xml"
@@ -6875,14 +6875,14 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Nintendo Game Boy Advance cartridges",
+        "Name": "gba",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/gba.xml",
         "File": "gba.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Nintendo Game Boy Advance (e-cards)",
+        "Name": "gba_ereader",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/gba_ereader.xml",
         "File": "gba_ereader.xml"
@@ -6975,7 +6975,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Nintendo Pokemini cartridges",
+        "Name": "pokemini",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/pokemini.xml",
         "File": "pokemini.xml"
@@ -7426,14 +7426,14 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "SNK Neo Geo Pocket cartridges",
+        "Name": "ngp",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/ngp.xml",
         "File": "ngp.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "SNK Neo Geo Pocket Color cartridges",
+        "Name": "ngpc",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/ngpc.xml",
         "File": "ngpc.xml"
@@ -7481,7 +7481,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "SNK Neo Geo Pocket Color cartridges",
+        "Name": "ngpc",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/ngpc.xml",
         "File": "ngpc.xml"
@@ -7550,7 +7550,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Watara Supervision cartridges",
+        "Name": "svision",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/svision.xml",
         "File": "svision.xml"
@@ -7591,7 +7591,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Bandai Wonderswan cartridges",
+        "Name": "wswan",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/wswan.xml",
         "File": "wswan.xml"
@@ -7632,7 +7632,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Bandai Wonderswan Color cartridges",
+        "Name": "wscolor",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/wscolor.xml",
         "File": "wscolor.xml"
@@ -9006,7 +9006,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Philips CD-i images (Green Book)",
+        "Name": "cdi",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/cdi.xml",
         "File": "cdi.xml"
@@ -9088,7 +9088,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Entex Adventure Vision cartridges",
+        "Name": "advision",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/advision.xml",
         "File": "advision.xml"
@@ -9134,7 +9134,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Creatronic Mega Duck cartridges",
+        "Name": "megaduck",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/megaduck.xml",
         "File": "megaduck.xml"
@@ -9255,14 +9255,14 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Casio PV-2000 cartridges",
+        "Name": "pv2000",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/pv2000.xml",
         "File": "pv2000.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Casio PV-1000 cartridges",
+        "Name": "pv1000",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/pv1000.xml",
         "File": "pv1000.xml"
@@ -9331,7 +9331,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Casio Loopy cartridges",
+        "Name": "casloopy",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/casloopy.xml",
         "File": "casloopy.xml"
@@ -9379,7 +9379,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "V-Tech Creativision cartridges",
+        "Name": "crvision",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/crvision.xml",
         "File": "crvision.xml"
@@ -9447,7 +9447,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Epoch Game Pocket Computer cartridges",
+        "Name": "gamepock",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/gamepock.xml",
         "File": "gamepock.xml"
@@ -9495,7 +9495,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "GamePark GP32 SmartMedia cards",
+        "Name": "gp32",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/gp32.xml",
         "File": "gp32.xml"
@@ -9515,7 +9515,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Technosys Aamber Pegasus ROM expansions",
+        "Name": "pegasus_cart",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/pegasus_cart.xml",
         "File": "pegasus_cart.xml"
@@ -9535,7 +9535,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Epoch Super Cassette Vision cartridges",
+        "Name": "scv",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/scv.xml",
         "File": "scv.xml"
@@ -9549,7 +9549,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Epoch Cassette Vision cartridges",
+        "Name": "cassvisn_cart",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/cassvisn_cart.xml",
         "File": "cassvisn_cart.xml"
@@ -9597,14 +9597,14 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Fujitsu FM-7 disk images",
+        "Name": "fm7_disk",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/fm7_disk.xml",
         "File": "fm7_disk.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Fujitsu FM-7 cassettes",
+        "Name": "fm7_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/fm7_cass.xml",
         "File": "fm7_cass.xml"
@@ -9694,7 +9694,7 @@
     "Candidates": [
       {
         "Source": "Pleasuredome MAME",
-        "Name": "APF M-1000 cartridges",
+        "Name": "apfm1000",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/apfm1000.xml",
         "File": "apfm1000.xml"
@@ -9735,49 +9735,49 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Acorn BBC Micro Model B disks",
+        "Name": "bbcb_flop",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/bbcb_flop.xml",
         "File": "bbcb_flop.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Acorn BBC Micro Model B Original disks",
+        "Name": "bbcb_flop_orig",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/bbcb_flop_orig.xml",
         "File": "bbcb_flop_orig.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Acorn BBC Micro Model B (US) disks",
+        "Name": "bbcb_flop_us",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/bbcb_flop_us.xml",
         "File": "bbcb_flop_us.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Acorn BBC Micro cassettes",
+        "Name": "bbc_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/bbc_cass.xml",
         "File": "bbc_cass.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Acorn BBC Micro hard disks",
+        "Name": "bbc_hdd",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/bbc_hdd.xml",
         "File": "bbc_hdd.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Acorn BBC Micro ROMs",
+        "Name": "bbc_rom",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/bbc_rom.xml",
         "File": "bbc_rom.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Acorn BBC Micro Speech PHROMs",
+        "Name": "bbc_vsm",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/bbc_vsm.xml",
         "File": "bbc_vsm.xml"
@@ -9818,28 +9818,28 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Acorn Electron cartridges",
+        "Name": "electron_cart",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/electron_cart.xml",
         "File": "electron_cart.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Acorn Electron cassettes",
+        "Name": "electron_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/electron_cass.xml",
         "File": "electron_cass.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Acorn Electron disks",
+        "Name": "electron_flop",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/electron_flop.xml",
         "File": "electron_flop.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Acorn Electron ROMs",
+        "Name": "electron_rom",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/electron_rom.xml",
         "File": "electron_rom.xml"
@@ -9894,21 +9894,21 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Coleco Adam cartridges",
+        "Name": "adam_cart",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/adam_cart.xml",
         "File": "adam_cart.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Coleco Adam diskettes",
+        "Name": "adam_flop",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/adam_flop.xml",
         "File": "adam_flop.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Coleco Adam Digital Data Packs",
+        "Name": "adam_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/adam_cass.xml",
         "File": "adam_cass.xml"
@@ -9977,14 +9977,14 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Acorn Atom cassettes",
+        "Name": "atom_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/atom_cass.xml",
         "File": "atom_cass.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Acorn Atom disk images",
+        "Name": "atom_flop",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/atom_flop.xml",
         "File": "atom_flop.xml"
@@ -10074,14 +10074,14 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Acorn Archimedes hard disks",
+        "Name": "archimedes_hdd",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/archimedes_hdd.xml",
         "File": "archimedes_hdd.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Acorn Archimedes ROM images",
+        "Name": "archimedes_rom",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/archimedes_rom.xml",
         "File": "archimedes_rom.xml"
@@ -10163,7 +10163,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Hartung Game Master cartridges",
+        "Name": "gmaster",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/gmaster.xml",
         "File": "gmaster.xml"
@@ -10253,7 +10253,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Bally Professional Arcade cartridges",
+        "Name": "astrocde",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/astrocde.xml",
         "File": "astrocde.xml"
@@ -10280,7 +10280,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "TI-99/4A cartridges",
+        "Name": "ti99_cart",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/ti99_cart.xml",
         "File": "ti99_cart.xml"
@@ -10355,14 +10355,14 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Radio Shack TRS-80 cassettes",
+        "Name": "trs80_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/trs80_cass.xml",
         "File": "trs80_cass.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Radio Shack TRS-80 floppies",
+        "Name": "trs80_flop",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/trs80_flop.xml",
         "File": "trs80_flop.xml"
@@ -10375,7 +10375,7 @@
     "Candidates": [
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Dragon 32/64 cassettes",
+        "Name": "dragon_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/dragon_cass.xml",
         "File": "dragon_cass.xml"
@@ -10491,7 +10491,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "VTech V.Smile cartridges",
+        "Name": "vsmile_cart",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/vsmile_cart.xml",
         "File": "vsmile_cart.xml"
@@ -10511,14 +10511,14 @@
     "Candidates": [
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Camputers Lynx cassettes",
+        "Name": "camplynx_cass",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/camplynx_cass.xml",
         "File": "camplynx_cass.xml"
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Camputers Lynx diskettes",
+        "Name": "camplynx_flop",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/camplynx_flop.xml",
         "File": "camplynx_flop.xml"
@@ -10586,7 +10586,7 @@
       },
       {
         "Source": "Pleasuredome MAME",
-        "Name": "Funtech Super A'Can cartridges",
+        "Name": "supracan",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/supracan.xml",
         "File": "supracan.xml"

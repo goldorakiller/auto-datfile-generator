@@ -47,15 +47,13 @@ LOOSE_FOLDERS = {
     "Libretro-database (TOSEC)": "libretro-database-metadat/tosec",
 }
 
-# Ces dats ont un nom de fichier peu parlant (souvent juste le nom de code
-# du driver MAME, ex. "neogeo.xml", "sms.xml") : on lit la <description> de
-# l'en-tete Logiqx a la place. Meme mecanique que
-# CatalogScanner.TryReadDatHeaderDescription cote RetrobatSystemsEditor
-# (l'editeur manuel de Cedric) — sans ca, les deux outils identifiaient le
-# meme fichier sous deux noms differents (nom de fichier ici, description
-# la-bas) et ne se retrouvaient jamais lors du rafraichissement (87
-# candidats "introuvables" constates en reel).
-READ_XML_DESCRIPTION = {
+# Choix de Cedric : garder le nom de fichier court (ex. "sg1000",
+# "samcoupe_cass"), meme quand l'en-tete Logiqx a une <description> plus
+# parlante — mais ces dats individuels par driver n'ont ni date ni version
+# dans leur nom de fichier (contrairement aux gros sets "MAME 0.289 ROMs
+# (merged)..."), donc Version reste vide sans aller la lire dans l'en-tete
+# a la place (voir _read_dat_header_version).
+READ_XML_VERSION = {
     "Pleasuredome MAME",
     "Pleasuredome HBMAME",
     "Pleasuredome PinMAME",
@@ -119,14 +117,21 @@ def load_manifest(path):
     return entries
 
 
-def _read_dat_header_description(path):
-    """Lit uniquement <header><description>, sans jamais parser le reste du
-    fichier (liste des <machine>/<game>) — certains dats Pleasuredome font
-    plusieurs dizaines de Mo une fois decompresses. iterparse est un parseur
-    incremental : arreter la boucle (return) arrete aussi la lecture du
-    fichier, pas de cout cache. Depth calque sur XmlReader.Depth cote C#
-    (racine = 0, <header> = 1, <description> = 2)."""
+def _read_dat_header_version(path):
+    """Lit uniquement <header><date> (a defaut <header><version>), sans
+    jamais parser le reste du fichier (liste des <machine>/<game>) —
+    certains dats Pleasuredome font plusieurs dizaines de Mo une fois
+    decompresses. iterparse est un parseur incremental : arreter la boucle
+    (return) arrete aussi la lecture du fichier, pas de cout cache. Depth
+    calque sur XmlReader.Depth (racine = 0, <header> = 1, <date>/<version> = 2).
+
+    Prefere <date> a <version> : <version> ne fait souvent que refleter la
+    version globale de MAME au moment de l'export (deja capturee par
+    ailleurs pour les gros sets), <date> dit vraiment quand CE fichier a
+    ete regenere."""
     depth = -1
+    date_value = None
+    version_value = None
     try:
         with open(path, "rb") as f:
             for event, elem in ET.iterparse(f, events=("start", "end")):
@@ -136,24 +141,26 @@ def _read_dat_header_description(path):
                         return None
                     continue
 
-                if depth == 2 and elem.tag == "description":
-                    text = (elem.text or "").strip()
-                    return text or None
+                if depth == 2 and elem.tag == "date":
+                    date_value = (elem.text or "").strip() or None
+                elif depth == 2 and elem.tag == "version":
+                    version_value = (elem.text or "").strip() or None
                 if depth == 1 and elem.tag == "header":
-                    return None
+                    return date_value or version_value
                 depth -= 1
     except ET.ParseError:
         return None
-    return None
+    return date_value or version_value
 
 
-def load_loose_folder(folder, read_xml_description=False):
+def load_loose_folder(folder, read_xml_version=False):
     """Pas de manifeste : chaque fichier .dat/.xml du dossier est lui-meme
     un catalogue a une seule entree — son nom de fichier (sans extension,
-    sans date/version embarquee), ou sa <description> XML pour les sources
-    listees dans READ_XML_DESCRIPTION, sert de nom stable. Son URL brute est
-    deja publiee par le script qui a rempli ce dossier plus tot dans le
-    meme run."""
+    sans date/version embarquee) sert de nom stable. Son URL brute est deja
+    publiee par le script qui a rempli ce dossier plus tot dans le meme
+    run. Pour les sources listees dans READ_XML_VERSION, si aucune
+    date/version n'a pu etre extraite du nom lui-meme, on va la lire dans
+    l'en-tete XML du fichier (voir _read_dat_header_version)."""
     if not os.path.isdir(folder):
         return []
 
@@ -164,14 +171,12 @@ def load_loose_folder(folder, read_xml_description=False):
             continue
 
         name = os.path.splitext(filename)[0]
-        if read_xml_description:
-            description = _read_dat_header_description(os.path.join(folder, filename))
-            if description:
-                name = description
 
         name, version = _split_trailing_date(name)
         if not version:
             name, version = _split_leading_version(name)
+        if not version and read_xml_version:
+            version = _read_dat_header_version(os.path.join(folder, filename)) or ""
 
         entries.append({
             "name": name,
@@ -195,7 +200,7 @@ def load_all_catalogs():
         print(f"{source}: {len(entries)} entries ({', '.join(filenames)})")
 
     for source, folder in LOOSE_FOLDERS.items():
-        entries = load_loose_folder(folder, source in READ_XML_DESCRIPTION)
+        entries = load_loose_folder(folder, source in READ_XML_VERSION)
         catalogs[source] = entries
         print(f"{source}: {len(entries)} entries ({folder}/)")
 
