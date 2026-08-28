@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>18</id>
 		<name>Sega - PICO (Parent-Clone)</name>
@@ -8,6 +8,8 @@
 		<date>20250220-080006</date>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Connie, FakeShemp, fuzzball, Gefflon, Hiccup, Money_114, omonim2007, Powerpuff, relax, scorp256, TeamEurope, xNo, xuom2</author>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 	</header>
 	<game name="3-choume no Tama - Momo-chan wa Doko! (Japan) (Rev A)">
 		<description>3-choume no Tama - Momo-chan wa Doko! (Japan) (Rev A)</description>
@@ -205,16 +207,6 @@
 		<release name="Cooking Pico (Korea)" region="KOR"/>
 		<rom name="Cooking Pico (Korea).md" size="2097152" crc="c8fd3ad4" md5="2c579cf7728aab08b89c0709052e6ce9" sha1="6d35b3411df37222acb3a36e4c7830e92a8e3fba"/>
 	</game>
-	<game name="Copera no Chikyuu Daisuki (Japan) (Copera)">
-		<description>Copera no Chikyuu Daisuki (Japan) (Copera)</description>
-		<release name="Copera no Chikyuu Daisuki (Japan) (Copera)" region="JPN"/>
-		<rom name="Copera no Chikyuu Daisuki (Japan) (Copera).md" size="1048576" crc="9a5dd562" md5="9d56e4ed21d91630fb7a94090a8d6ac5" sha1="730195fc41efb923a4f8e8acd5228d1ae8b16c16"/>
-	</game>
-	<game name="Copera no Kono Oto Naani (Japan) (Copera)">
-		<description>Copera no Kono Oto Naani (Japan) (Copera)</description>
-		<release name="Copera no Kono Oto Naani (Japan) (Copera)" region="JPN"/>
-		<rom name="Copera no Kono Oto Naani (Japan) (Copera).md" size="1048576" crc="1041e52a" md5="b5a6e6d8236e04f644599c51e8b26992" sha1="422f46d670a5f8094267984051ed6f90babe2dce"/>
-	</game>
 	<game name="Copera no Time Machine (Japan) (Copera)">
 		<description>Copera no Time Machine (Japan) (Copera)</description>
 		<release name="Copera no Time Machine (Japan) (Copera)" region="JPN"/>
@@ -286,11 +278,6 @@
 		<description>Disney Princess - Suteki ni Lesson! Hiragana-Katakana (Japan)</description>
 		<release name="Disney Princess - Suteki ni Lesson! Hiragana-Katakana (Japan)" region="JPN"/>
 		<rom name="Disney Princess - Suteki ni Lesson! Hiragana-Katakana (Japan).md" size="2097152" crc="761e7d3c" md5="bcd2677b40fffdb54d7b3e609a2bc074" sha1="f7e35cb1084130b95ca5add40e263d15dc54b6a5"/>
-	</game>
-	<game name="Do Re Mi Fa Densetsu (Japan) (Copera)">
-		<description>Do Re Mi Fa Densetsu (Japan) (Copera)</description>
-		<release name="Do Re Mi Fa Densetsu (Japan) (Copera)" region="JPN"/>
-		<rom name="Do Re Mi Fa Densetsu (Japan) (Copera).md" size="1048576" crc="24aa1251" md5="4613aad140e70f206ba1fe70dd8bc44b" sha1="1a7d5156aa3f2ffba168bce1bbd9436cb0c11510"/>
 	</game>
 	<game name="Donald no Obake Taiji (Japan) (Hajimema Series 1)">
 		<description>Donald no Obake Taiji (Japan) (Hajimema Series 1)</description>
@@ -924,11 +911,6 @@
 		<release name="McDonald's de Asobo! (Japan)" region="JPN"/>
 		<rom name="McDonald's de Asobo! (Japan).md" size="2097152" crc="474d946e" md5="3cde721d78ba49f685b3d9fa7ea24d54" sha1="3615cf2f28133c3d35003bef16a517d5379e9c20" status="verified"/>
 	</game>
-	<game name="Melody Land (Japan) (Copera)">
-		<description>Melody Land (Japan) (Copera)</description>
-		<release name="Melody Land (Japan) (Copera)" region="JPN"/>
-		<rom name="Melody Land (Japan) (Copera).md" size="1048576" crc="9b05acc9" md5="43e1b061f492c0e7c7bf8687dc30528f" sha1="cd4f3260309a1236f6f0d491f385d4dececa349e"/>
-	</game>
 	<game name="Mezase Pro Yakyuu (Japan)">
 		<description>Mezase Pro Yakyuu (Japan)</description>
 		<release name="Mezase Pro Yakyuu (Japan)" region="JPN"/>
@@ -1048,11 +1030,6 @@
 		<description>Miimi to Taata no Wai Wai Oekaki Doubutsuen!! (Japan)</description>
 		<release name="Miimi to Taata no Wai Wai Oekaki Doubutsuen!! (Japan)" region="JPN"/>
 		<rom name="Miimi to Taata no Wai Wai Oekaki Doubutsuen!! (Japan).md" size="524288" crc="070cb5d6" md5="b744e234ab93b94fbdb1920f267dae1a" sha1="b056919eed642d3838c4d9cd71750bce9bf3a999"/>
-	</game>
-	<game name="Mike to Asobou Tobidase Milky Way (Japan) (Copera)">
-		<description>Mike to Asobou Tobidase Milky Way (Japan) (Copera)</description>
-		<release name="Mike to Asobou Tobidase Milky Way (Japan) (Copera)" region="JPN"/>
-		<rom name="Mike to Asobou Tobidase Milky Way (Japan) (Copera).md" size="1048576" crc="0cb5727d" md5="302b85f7e8c526c7c812ab741269021c" sha1="5f271c69f574a761f2c83f8005978dcb0635e81b"/>
 	</game>
 	<game name="MiniMoni. - Eigo de Asobun Da pyon! (Japan)">
 		<description>MiniMoni. - Eigo de Asobun Da pyon! (Japan)</description>
@@ -1254,20 +1231,10 @@
 		<release name="Oshare Pico - Suteki ni Henshin! Runa-chan no Oshare Hair Salon (Japan)" region="JPN"/>
 		<rom name="Oshare Pico - Suteki ni Henshin! Runa-chan no Oshare Hair Salon (Japan).md" size="2097152" crc="376cfa05" md5="67a43e2b6a090a2d49810ca82fc8cfdb" sha1="ff7b03a62620ea668ab41fe731af07b78db984fc"/>
 	</game>
-	<game name="Otto Katachitchi (Japan) (Copera)">
-		<description>Otto Katachitchi (Japan) (Copera)</description>
-		<release name="Otto Katachitchi (Japan) (Copera)" region="JPN"/>
-		<rom name="Otto Katachitchi (Japan) (Copera).md" size="1048576" crc="d1aee834" md5="0a63402c8ea767e9b5419ec386f24b2d" sha1="93c825160286b483904428eece2b14e521c20d15"/>
-	</game>
 	<game name="Ougon Yuusha Goldran Himitsu Daihyakka (Japan)">
 		<description>Ougon Yuusha Goldran Himitsu Daihyakka (Japan)</description>
 		<release name="Ougon Yuusha Goldran Himitsu Daihyakka (Japan)" region="JPN"/>
 		<rom name="Ougon Yuusha Goldran Himitsu Daihyakka (Japan).md" size="524288" crc="9a167a43" md5="9ab7ee48c43236f0b16100cbb43fe3e9" sha1="a5c3da1403fc8a17abefa68b8dbcde751cfa74a9"/>
-	</game>
-	<game name="Outa no Canvas (Japan) (Copera)">
-		<description>Outa no Canvas (Japan) (Copera)</description>
-		<release name="Outa no Canvas (Japan) (Copera)" region="JPN"/>
-		<rom name="Outa no Canvas (Japan) (Copera).md" size="1048576" crc="b25e7134" md5="098b96c6a2d9c27be529ee00a3b4ca93" sha1="0578314e66b2385e0520a421af695ccfef44f076"/>
 	</game>
 	<game name="Paddington no Sekai Ryokou (Japan)">
 		<description>Paddington no Sekai Ryokou (Japan)</description>

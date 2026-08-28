@@ -3,9 +3,9 @@
 	<header>
 		<name>Ports</name>
 		<description></description>
-		<category>Laserdisc</category>
+		<category>Laserdisc Supplementary</category>
 		<version></version>
-		<date>2026-08-11</date>
+		<date>2026-08-27</date>
 		<author>Eggman</author>
 		<comment></comment>
 		<url>https://github.com/Eggmansworld/Datfiles</url>
@@ -9193,423 +9193,592 @@
 		</game>
 	</dir>
 	<dir name="Commodore 64">
-		<dir name="[CRT]">
-			<game name="!Easyflash Collections-Dragon&apos;s Lair I &amp; II.crt">
-				<rom name="!Easyflash Collections-Dragon&apos;s Lair I &amp; II.crt" size="270928" crc="461aeaaa" sha1="7bc9d9a4c85e00378d9b2ed70cf0a93fe7ddd299"/>
-			</game>
-			<game name="Dragon&apos;s Lair (Europe).crt">
-				<rom name="Dragon&apos;s Lair (Europe).crt" size="270928" crc="461aeaaa" sha1="7bc9d9a4c85e00378d9b2ed70cf0a93fe7ddd299"/>
-			</game>
-			<game name="Dragon&apos;s Lair [DD].crt">
-				<rom name="Dragon&apos;s Lair [DD].crt" size="311968" crc="0ca3bece" sha1="6467dc5754c8ef509ec58889b406b6841b5d2857"/>
-			</game>
-			<game name="dragon&apos;s lair duology.crt">
-				<rom name="dragon&apos;s lair duology.crt" size="270928" crc="c1280686" sha1="5b49f79d9f9c8d6eca7fa17098edc9e651674d75"/>
-			</game>
-			<game name="Dragon&apos;s Lair I &amp; II [EasyFlash].crt">
-				<rom name="Dragon&apos;s Lair I &amp; II [EasyFlash].crt" size="270928" crc="461aeaaa" sha1="7bc9d9a4c85e00378d9b2ed70cf0a93fe7ddd299"/>
-			</game>
-			<game name="Dragon&apos;s Lair I &amp; II.crt">
-				<rom name="Dragon&apos;s Lair I &amp; II.crt" size="270928" crc="461aeaaa" sha1="7bc9d9a4c85e00378d9b2ed70cf0a93fe7ddd299"/>
-			</game>
-			<game name="Dragon&apos;s Lair(1).crt">
-				<rom name="Dragon&apos;s Lair(1).crt" size="139600" crc="08b20f63" sha1="777bd972e8741f145e7695902f37329457014613"/>
-			</game>
-			<game name="Dragon&apos;s Lair+-xbank.crt">
-				<rom name="Dragon&apos;s Lair+-xbank.crt" size="139600" crc="d89a8574" sha1="fa02e3572010d9534b8add31aead65a98068e924"/>
-			</game>
-			<game name="Dragon&apos;s Lair+.crt">
-				<rom name="Dragon&apos;s Lair+.crt" size="147808" crc="5c819473" sha1="e25eac91aac57cc3bc293382fd5b5057a4cb17d4"/>
-			</game>
-			<game name="Dragon&apos;s Lair-xbank.crt">
-				<rom name="Dragon&apos;s Lair-xbank.crt" size="131392" crc="adbece38" sha1="c04c3b671b6a3e4fad62200eb6f0afdcfb132806"/>
-			</game>
-			<game name="Dragon&apos;s Lair.crt">
-				<rom name="Dragon&apos;s Lair.crt" size="139600" crc="f966be2d" sha1="de7e93da044c196e1ed213482857abea7a5f1646"/>
-			</game>
-			<game name="Dragon&apos;s Lair_1987_Electronic_Arts.crt">
-				<rom name="Dragon&apos;s Lair_1987_Electronic_Arts.crt" size="270928" crc="461aeaaa" sha1="7bc9d9a4c85e00378d9b2ed70cf0a93fe7ddd299"/>
-			</game>
-			<game name="Dragon&apos;sLair II_TMC.crt">
-				<rom name="Dragon&apos;sLair II_TMC.crt" size="164224" crc="86d008ec" sha1="e0ac6e2c0cfa11dd01618c9bfd83127e0e2d870d"/>
-			</game>
-			<game name="Dragon&apos;sLair2_TMC.crt">
-				<rom name="Dragon&apos;sLair2_TMC.crt" size="164224" crc="08506d3b" sha1="22751e3ec656b4797c25ce58885249768b387166"/>
-			</game>
-			<game name="Dragons Lair (by $olo1870) [EasyFlash].crt">
-				<rom name="Dragons Lair (by $olo1870) [EasyFlash].crt" size="213472" crc="28661767" sha1="3573e4964c0d009380e8b3a6a5f5f222185e9e2c"/>
-			</game>
-			<game name="Dragons Lair II (by $olo1870) [EasyFlash].crt">
-				<rom name="Dragons Lair II (by $olo1870) [EasyFlash].crt" size="197056" crc="404bf1c9" sha1="380596b2d0a9dd19e0c2dfe5920793897fbbfeea"/>
-			</game>
-			<game name="dragonslair_1987_electronic_arts.crt">
-				<rom name="dragonslair_1987_electronic_arts.crt" size="270928" crc="461aeaaa" sha1="7bc9d9a4c85e00378d9b2ed70cf0a93fe7ddd299"/>
-			</game>
-		</dir>
-		<dir name="[D64]">
-			<game name="Dragon&apos;s Lair (1984)(Datamost)[cr Pete].d64">
-				<rom name="Dragon&apos;s Lair (1984)(Datamost)[cr Pete].d64" size="174848" crc="05dd8b1d" sha1="15060bc321fa0532a717dfb8bcaa71a63eb7e5b4"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects).d64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects).d64" size="174848" crc="e3b8f62f" sha1="b497d32a12bd9500542e35da862df287245f14bf"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[a2].d64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a2].d64" size="174848" crc="ff71c44c" sha1="f02a82a69988d96b42af255361d7e8ab0a5478c7"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[a3].d64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a3].d64" size="175531" crc="8801fa38" sha1="5e5c8a78eb8c92677f5ef649faad8543a1b84b93"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[a].d64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a].d64" size="174848" crc="5402ff70" sha1="dc844017c1e451cd10e0b4193aa1d0c54d550fa8"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr Bad Rat Club][t +1 Bad Rat Club].d64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr Bad Rat Club][t +1 Bad Rat Club].d64" size="174848" crc="3213f3d5" sha1="dd19bc3a4fb9c29b673873fadd6c2f0b4030298d"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr Bad Rat Club][t +1 Bad Rat Club][a].d64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr Bad Rat Club][t +1 Bad Rat Club][a].d64" size="174848" crc="1af1ecd1" sha1="d21e4df9e09983017826f3c370e87d361dc30e8b"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr DD].d64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr DD].d64" size="174848" crc="da325bc4" sha1="1e2d8058454b0273f2e1b4f0242a6974aa1aa41a"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr DD][a2].d64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr DD][a2].d64" size="174848" crc="0d9db1f0" sha1="45f3f1131cd9a8471d20b87c85e006766ced7e74"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr DD][a].d64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr DD][a].d64" size="174848" crc="d776d256" sha1="f0326b199cd2f66dc41dc21c217963492a64aa9d"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr Migges+Eurosoft].d64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr Migges+Eurosoft].d64" size="174848" crc="9639eb91" sha1="77188604d2117caa194b0e42f00dd96fa52db25b"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr Migges+Eurosoft][a2].d64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr Migges+Eurosoft][a2].d64" size="174848" crc="4d88946a" sha1="9b62c433dee00d0a28585c107edd20363f39b952"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr Migges+Eurosoft][a].d64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr Migges+Eurosoft][a].d64" size="174848" crc="7e737daf" sha1="858945fa3a8c76a2257f30b7fdf3c2ed6948c099"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr TFG].d64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr TFG].d64" size="174848" crc="5c9cdb68" sha1="8f61b06ddf65c4331784d5223934b121804b5195"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr WDR][t +36].d64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr WDR][t +36].d64" size="174848" crc="d39c2018" sha1="afe672f6628e8511cf9e9a43ccff4550a442668d"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr WDR][t +36][a].d64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr WDR][t +36][a].d64" size="174848" crc="09c52828" sha1="f290791015de08bf2aaddd789a28e6818033cd22"/>
-			</game>
-			<game name="Dragon&apos;s Lair (198x)(-)(de).d64">
-				<rom name="Dragon&apos;s Lair (198x)(-)(de).d64" size="174848" crc="aee9e844" sha1="ce9eaf5c39068f67fa6da29346b39e9479b5f130"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].d64" size="175531" crc="9778b8f0" sha1="c2d8666eb857cc480c4d80205c8394b17132317f"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI][a2].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI][a2].d64" size="174848" crc="65dc11ed" sha1="69b38024fb375a1bd95c26e2ee9229aaea9d664b"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI][a].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI][a].d64" size="175531" crc="6d5d8a09" sha1="a09ff876f33e13014244e6b9dd81b72adbff4f86"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC].d64" size="174848" crc="6cda40f6" sha1="19a5d7c8fbb6ad466cad838cd5706315db6ba1fb"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a2].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a2].d64" size="174848" crc="db9918a0" sha1="904c111206bdfd1bf75e4e7505f40718a0a00265"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a3].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a3].d64" size="175531" crc="99ba2ccc" sha1="7ffcf53b8609348af998ba69b32eb655f997b373"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a4].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a4].d64" size="174848" crc="af0a28a5" sha1="045388fc4090cc52b485220c55584688b4d0d091"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a5].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a5].d64" size="174848" crc="54f0370f" sha1="cb103ad26c00f8d71c76f13f354ccca847d343d0"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a6].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a6].d64" size="174848" crc="4a8fa321" sha1="7301ee28b6f7e2be4454784dd44249c8cdcb09d0"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a7].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a7].d64" size="174848" crc="3ff6f3ff" sha1="8f2d71ea7d3978614710a8e47681a8efe28599e3"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a8].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a8].d64" size="174848" crc="4b1a67c9" sha1="2fb11ae05076b64e1ffec4a81dca7f34310f8ac0"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a9].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a9].d64" size="175531" crc="6eabdcf8" sha1="e390aaaa8227352b8b619d0129549d22769088c4"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a].d64" size="174848" crc="52b1f0aa" sha1="b65a855a40317e96e0b732ec3da18c2528f7ea73"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].d64" size="174848" crc="e9219701" sha1="455d891863b03bc47ff7cb1c7ea335a78da2851e"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a10].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a10].d64" size="174848" crc="b19d9752" sha1="4f55e15fac5baba5728834deb901fb4567d9aa49"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a11].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a11].d64" size="174848" crc="06bd3725" sha1="68d2fe417de266e8be9186429bfc766bc727b33a"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a12].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a12].d64" size="174848" crc="861483ac" sha1="c4cf8adbb4818f840c45c3cfef0b01539131adb2"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a13].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a13].d64" size="174848" crc="ef88b7ec" sha1="3fb13e6e2362ab9b0970d3b0dde0e860b7cdeb63"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a14].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a14].d64" size="174848" crc="cad85ccf" sha1="a5ed22171be1ec007013f9124fb28ee6de3a730f"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a15].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a15].d64" size="174848" crc="320bc70a" sha1="4e29e86c49348f6c91f75ce6e71beee4bb20445c"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a16].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a16].d64" size="174848" crc="6451efcf" sha1="9810dbe63fb4bc3986c922b861682866fc2c8686"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a2].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a2].d64" size="174848" crc="c83eaeb3" sha1="5db0373598f66da85646b7c10d4f7256288837da"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a3].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a3].d64" size="196608" crc="a4f19852" sha1="a4ec4917bced6ca59de1ff8ac83e432599af6827"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a4].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a4].d64" size="174848" crc="94fafd8b" sha1="b694aba625d13f3a54adfb2e56e5540022660fcb"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a5].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a5].d64" size="174848" crc="42f9de1d" sha1="5ac527d3b16ea50028c502af7310b7fda0403cc9"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a6].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a6].d64" size="174848" crc="d5418b59" sha1="5ea533899c1ec416fcbdc633deb16b6e689d628a"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a7].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a7].d64" size="175531" crc="56aff264" sha1="2fa751b7efefe40f88e6a6dd8e96be7843868afa"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a8].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a8].d64" size="174848" crc="bde18fc9" sha1="69c19a2bdeb7bd5a9cbaa007ee3d5af4c90c0e8f"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a9].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a9].d64" size="174848" crc="de2cdd6a" sha1="d2d8a898cc063bd07b47f32725d2c322b95a0fc8"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a].d64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a].d64" size="174848" crc="a9257d8f" sha1="63abf9eff14fc69b1c2808f45cacd51d100b03fb"/>
-			</game>
-			<game name="Space Ace (1986)(Mikko Heleva).d64">
-				<rom name="Space Ace (1986)(Mikko Heleva).d64" size="174848" crc="01011e12" sha1="a9915469ae84cf42d2f7e498099e10ca0070c941"/>
-			</game>
-			<game name="Space Ace (1990)(CP Verlag - Game On)[cr REB].d64">
-				<rom name="Space Ace (1990)(CP Verlag - Game On)[cr REB].d64" size="174848" crc="61707e34" sha1="d11b58042a1924d38998cd541800b2799bbfb5c0"/>
-			</game>
-			<game name="Space Ace (1990)(CP Verlag).d64">
-				<rom name="Space Ace (1990)(CP Verlag).d64" size="174848" crc="2faaf925" sha1="f318c6722ed20cd4f22d571637acca7e4ddf4a8a"/>
-			</game>
-			<game name="Space Ace (1990)(CP Verlag)[a].d64">
-				<rom name="Space Ace (1990)(CP Verlag)[a].d64" size="174848" crc="e6b638d8" sha1="668f3806aad9f0add2f79741cc7096a6db054154"/>
-			</game>
-			<game name="Space Ace (1990)(CP Verlag)[cr Fresh][t].d64">
-				<rom name="Space Ace (1990)(CP Verlag)[cr Fresh][t].d64" size="174848" crc="c3b6cd34" sha1="25b60ba88f928dda51728dc11cc4ccbde1750da5"/>
-			</game>
-			<game name="Space Ace (demo) (1988)(Kustudic, Gregg)[cr ONS].d64">
-				<rom name="Space Ace (demo) (1988)(Kustudic, Gregg)[cr ONS].d64" size="174848" crc="43d1224d" sha1="fd56edac004be3d6db68c28bf3adb1940fcc082c"/>
-			</game>
-			<game name="Space Ace (demo) (1988)(Kustudic, Gregg)[cr ONS][a].d64">
-				<rom name="Space Ace (demo) (1988)(Kustudic, Gregg)[cr ONS][a].d64" size="174848" crc="bbd0a85b" sha1="6282c9c7a8455668afe5d07855bb9306b93155ed"/>
-			</game>
-		</dir>
-		<dir name="[DFI]">
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr TFG].dfi">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr TFG].dfi" size="196608" crc="abfae940" sha1="e15be9924c26983bb9b471e54f41adc3cdcfdcf6"/>
-			</game>
-		</dir>
-		<dir name="[G64]">
-			<game name="Dragon&apos;s Lair (1986)(Software Projects).g64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects).g64" size="333744" crc="050a47b5" sha1="0a02e063df442b4426cab182f2fbae0f0402f2c6"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[a2].g64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a2].g64" size="333744" crc="24dd85c1" sha1="ebe50c6b947a705abc606a5f5ecb5807d88d1f7a"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[a3].g64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a3].g64" size="286164" crc="89dd98ff" sha1="0d5f59ac1bf07fa886044ab18ad555e652e98564"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[a4].g64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a4].g64" size="294094" crc="e70c224f" sha1="d581bcf17cd9b94249ad014e187f66156d527ce2"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[a].g64">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a].g64" size="333744" crc="48575c08" sha1="cbcd265b2002ba6d0d61376093120419e7c1c22e"/>
-			</game>
-		</dir>
-		<dir name="[NBZ]">
-			<game name="Dragon&apos;s Lair (1986)(Software Projects).nbz">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects).nbz" size="167989" crc="2721a31b" sha1="314c919827c50fb18246694da31a9c24c56aefa7"/>
-			</game>
-		</dir>
-		<dir name="[NIB]">
-			<game name="Dragon&apos;s Lair (1986)(Software Projects).nib">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects).nib" size="327936" crc="f60d809d" sha1="8672b30e45cc7a91cde486795cdc0dbcaa5b7325"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[a].nib">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a].nib" size="336128" crc="050b768f" sha1="91e7596d7784c146059d68f03a246a39f9a39277"/>
-			</game>
-			<game name="Dragon&apos;s Lair (Europe) (Elite Platinum Vol. 1 Compilation).nib">
-				<rom name="Dragon&apos;s Lair (Europe) (Elite Platinum Vol. 1 Compilation).nib" size="336128" crc="91260905" sha1="96b67e514b160e2661b4b875a191c6aecc08279e"/>
-			</game>
-			<game name="Dragon&apos;s Lair (USA).nib">
-				<rom name="Dragon&apos;s Lair (USA).nib" size="327936" crc="f60d809d" sha1="8672b30e45cc7a91cde486795cdc0dbcaa5b7325"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].nib">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].nib" size="286976" crc="f79a543d" sha1="96d56a1130401c10af86a03e4b65ed36b928f4c5"/>
-			</game>
-			<game name="Dragon&apos;s Lair Part II - Escape from Singe&apos;s Castle (USA).nib">
-				<rom name="Dragon&apos;s Lair Part II - Escape from Singe&apos;s Castle (USA).nib" size="327936" crc="0bb98b4e" sha1="359b1e2de7948872bccc8e6a3f10a28867273baf"/>
-			</game>
-		</dir>
-		<dir name="[P00]">
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].p00">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].p00" size="26646" crc="1031b3b8" sha1="a7ddd811ca3a5ddeeeaa5d4237d5650da678dd0f"/>
-			</game>
-			<game name="Space Ace (1990)(CP Verlag).p00">
-				<rom name="Space Ace (1990)(CP Verlag).p00" size="33937" crc="ca838142" sha1="41816da9bf263988b3ba55bf2dc0c4396c79c9f0"/>
-			</game>
-			<game name="Space Ace (1990)(CP Verlag)[a].p00">
-				<rom name="Space Ace (1990)(CP Verlag)[a].p00" size="33937" crc="b311e8c7" sha1="d3a0e346b6ecb6455b6fa8335046fa13d20cde75"/>
-			</game>
-		</dir>
-		<dir name="[PRG]">
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].prg">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].prg" size="26620" crc="4f2470d7" sha1="affdae8dcffa3605511f7f73f633073bf085ea2f"/>
-			</game>
-			<game name="Space Ace (1986)(Mikko Heleva).prg">
-				<rom name="Space Ace (1986)(Mikko Heleva).prg" size="2256" crc="4cfcbd66" sha1="0ec867c04d1f9ced2722333505bda1ef963ec9b0"/>
-			</game>
-			<game name="Space Ace (1990)(CP Verlag).prg">
-				<rom name="Space Ace (1990)(CP Verlag).prg" size="33911" crc="3232829c" sha1="a49809dd55c8f52b2e124af7979610643835dd15"/>
-			</game>
-		</dir>
-		<dir name="[T64]">
-			<game name="Dragon&apos;s Lair (1984)(Datamost)[cr Pete].t64">
-				<rom name="Dragon&apos;s Lair (1984)(Datamost)[cr Pete].t64" size="4917" crc="fbd79963" sha1="699b57c2f02c931665e188aa5ae8814af5281a7b"/>
-			</game>
-			<game name="Dragon&apos;s Lair (198x)(-)(de).t64">
-				<rom name="Dragon&apos;s Lair (198x)(-)(de).t64" size="4940" crc="95a3841c" sha1="a6514e9057b66ffdd45009103449078e21ac51cd"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].t64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].t64" size="28808" crc="a9cb89bd" sha1="f51c189b872c205c4cc0a3d6c1e2494ffbac2cdc"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a].t64">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a].t64" size="26796" crc="7ce4458e" sha1="85a5934ad6ea993b00b9eb262f132474fb86018e"/>
-			</game>
-			<game name="Space Ace (1986)(Mikko Heleva).t64">
-				<rom name="Space Ace (1986)(Mikko Heleva).t64" size="2350" crc="09661be9" sha1="fe0d1fd5127ad1ada89b7856b2f821f456aeca44"/>
-			</game>
-			<game name="Space Ace (1990)(CP Verlag - Game On)[cr REB].t64">
-				<rom name="Space Ace (1990)(CP Verlag - Game On)[cr REB].t64" size="34940" crc="346d0e3e" sha1="d5d14868c1ac158dd815ad5955424bb4f25e7e81"/>
-			</game>
-			<game name="Space Ace (1990)(CP Verlag).t64">
-				<rom name="Space Ace (1990)(CP Verlag).t64" size="34005" crc="ba0d12df" sha1="4e6766dc62d0c52252fe4469dd152f6979c7733b"/>
-			</game>
-			<game name="Space Ace (1990)(CP Verlag)[a2].t64">
-				<rom name="Space Ace (1990)(CP Verlag)[a2].t64" size="34005" crc="2c46b024" sha1="8fcf92ad00335bd3f7fbe571fd82153ce06c994f"/>
-			</game>
-			<game name="Space Ace (1990)(CP Verlag)[a3].t64">
-				<rom name="Space Ace (1990)(CP Verlag)[a3].t64" size="34933" crc="e22e7271" sha1="58e09659b47e948ac6ec4cb54da08aa64e008dd2"/>
-			</game>
-			<game name="Space Ace (1990)(CP Verlag)[a].t64">
-				<rom name="Space Ace (1990)(CP Verlag)[a].t64" size="34933" crc="8db0c204" sha1="b68fc1c7a4c637836c76e2bdca7c60ee251d8e61"/>
-			</game>
-			<game name="Space Ace (demo) (1989)(Firebird)[cr Bros &amp; Destiny].t64">
-				<rom name="Space Ace (demo) (1989)(Firebird)[cr Bros &amp; Destiny].t64" size="41633" crc="5b0d69fa" sha1="fe517a40fbf1e798d53caf5711e8dbd4ea261bc1"/>
-			</game>
-		</dir>
-		<dir name="[TAP]">
-			<game name="Dragon&apos;s Lair (1986)(Software Projects).tap">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects).tap" size="1222276" crc="12583edf" sha1="ce66d07c13a26a4e2620737b7dd053df959cf1c5"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[a2].tap">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a2].tap" size="1222786" crc="8e8e079e" sha1="b306c722266c9b1ccb10651b84c444bbafdc3b99"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[a3].tap">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a3].tap" size="1222090" crc="acfe16e8" sha1="f2ff5962ee2d8d0601d86ae3ce8b759415907d86"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[a4].tap">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a4].tap" size="1222090" crc="1bcc3461" sha1="dac6e54d5b6ec93bde01c722adf4367b8cfc0a3c"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1986)(Software Projects)[a].tap">
-				<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a].tap" size="1222295" crc="6abdfc6c" sha1="302263e4b086ea9bdfc8cdfdba90c15b7686ee6e"/>
-			</game>
-			<game name="Dragon&apos;s Lair (1988)(Encore).tap">
-				<rom name="Dragon&apos;s Lair (1988)(Encore).tap" size="1222091" crc="ad74cfc0" sha1="a87bd2c54f69cd835c5ab69eca9f3f372607bd45"/>
-			</game>
-			<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects).tap">
-				<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects).tap" size="1281201" crc="39b9c2ac" sha1="502585c702e6a744e758f5c2de11fe67f8863fe3"/>
-			</game>
-			<game name="Dragon&apos;s Lair Part II- Escape from Singe&apos;s Castle (1987)(Software Projects).tap">
-				<rom name="Dragon&apos;s Lair Part II- Escape from Singe&apos;s Castle (1987)(Software Projects).tap" size="1265044" crc="6b321750" sha1="4f5dab8bd35dc2486156cfa02dae27bc6860ba51"/>
-			</game>
-			<game name="Dragon&apos;s Lair Preview (1986)(Software Projects).tap">
-				<rom name="Dragon&apos;s Lair Preview (1986)(Software Projects).tap" size="980926" crc="360fdbf0" sha1="368704513e0d0bd891abf87cd028a9042b175f3f"/>
-			</game>
-			<game name="Dragon&apos;s Lair Preview (1986)(Software Projects)[a].tap">
-				<rom name="Dragon&apos;s Lair Preview (1986)(Software Projects)[a].tap" size="981341" crc="05f74201" sha1="e11da9387edc626af97d8e5cdbd90af04a7799bd"/>
-			</game>
-			<game name="Dragon&apos;s_Lair_(1986_Software_Projects)_[398]">
-				<rom name="Dragon&apos;s_Lair.idx" size="105" crc="245b34d7" sha1="e0d5b6b7fa152eed7abda838c9b059517e6dc0cf"/>
-				<rom name="Dragon&apos;s_Lair.tap" size="1222090" crc="acfe16e8" sha1="f2ff5962ee2d8d0601d86ae3ce8b759415907d86"/>
-				<rom name="Dragon&apos;s_Lair_a1.idx" size="105" crc="245b34d7" sha1="e0d5b6b7fa152eed7abda838c9b059517e6dc0cf"/>
-				<rom name="Dragon&apos;s_Lair_a1.tap" size="1222094" crc="e037e376" sha1="4fae3a597c3097fefd574b708dd95096cbbe3486"/>
-				<rom name="Extras/Cassette.jpg" size="402808" crc="acca3c5a" sha1="90f5a36d294002e791c09934fa6602f38207eafd"/>
-				<rom name="Extras/Cassette_2.jpg" size="385271" crc="ef9ad2d7" sha1="659f62fe45ea9f0d83cc36f84ea29a8c8a743655"/>
-				<rom name="Extras/Extras.zip" size="1727381" crc="76131e8c" sha1="e5b6f142e566ac92e6f5a4c919da50e456b579c9"/>
-				<rom name="Extras/Inlay.jpg" size="3608185" crc="6e002d92" sha1="283aed52afe77fd7db49fbe5ac05616267ede057"/>
-				<rom name="Extras/Instructions.pdf" size="6211675" crc="f5ed473b" sha1="d03c28eb7421080977687757ea2c2d47a052e6c6"/>
-				<rom name="Front.jpg" size="1408809" crc="07d6a639" sha1="6b9f4553d2a8981868991123b889163e55dfa7c3"/>
-			</game>
-			<game name="Dragon&apos;s_Lair_(1988_Encore)_[7503]">
-				<rom name="Dragon&apos;s_Lair.idx" size="90" crc="085a0510" sha1="e92cdc1da5bb49eac0a4e147cd1307ab1aa9ea75"/>
-				<rom name="Dragon&apos;s_Lair.tap" size="1222091" crc="ad74cfc0" sha1="a87bd2c54f69cd835c5ab69eca9f3f372607bd45"/>
-				<rom name="Extras/Cassette.jpg" size="309482" crc="b6114f0d" sha1="912c6d1bbdcb40a4864f70b65e9956fb4a8d42b8"/>
-				<rom name="Extras/Inlay.jpg" size="1837575" crc="3fd5ede1" sha1="2303c147d9b6c03a71214822ed4bacf272498ea8"/>
-				<rom name="Extras/Inlay_back.jpg" size="1055858" crc="2966a062" sha1="ac8b6e1801fdd7326236baf65106aca4c6fe9b97"/>
-				<rom name="Front.jpg" size="730726" crc="f2fda586" sha1="54d01b339064194ffff35df655afd17b1aefec15"/>
-			</game>
-			<game name="Dragon&apos;s_Lair_Part_II-_Escape_from_Singe&apos;s_Castle_(1987_Software_Projects)_[395]">
-				<rom name="Dragon&apos;s_Lair_Part_II-_Escape_from_Singe&apos;s_Castle.idx" size="108" crc="806c89ba" sha1="37f6af489034f52905ffcfb5aea012ce23a6146c"/>
-				<rom name="Dragon&apos;s_Lair_Part_II-_Escape_from_Singe&apos;s_Castle.tap" size="1265048" crc="996619f6" sha1="0364d46c6c7d9e2bf033518adc16b22c49c8014e"/>
-				<rom name="Extras/Cassette.jpg" size="401908" crc="0c2a88ca" sha1="837b4e32a0cef058cfa6bceb80612a46b96160fe"/>
-				<rom name="Extras/Inlay.jpg" size="3384747" crc="3af4adb7" sha1="55dccc58c07daa780ea26b3fdfd59e9c25413f76"/>
-				<rom name="Extras/Instructions.pdf" size="5760521" crc="d10f3ec0" sha1="cd47d7ba3eec04b6f01194b18577e09f85a4f36b"/>
-				<rom name="Front.jpg" size="1233106" crc="e0011064" sha1="64cf22de4afd5c551e9cd4bbb63e7166a3ce50e8"/>
-			</game>
-			<game name="Dragon&apos;s_Lair_Preview_(1986_Software_Projects)_[0]">
-				<rom name="Dragon&apos;s_Lair_Preview.tap" size="980926" crc="360fdbf0" sha1="368704513e0d0bd891abf87cd028a9042b175f3f"/>
-				<rom name="Dragon&apos;s_Lair_Preview_a1.tap" size="981341" crc="05f74201" sha1="e11da9387edc626af97d8e5cdbd90af04a7799bd"/>
-				<rom name="Extras/Cassette.jpg" size="419204" crc="bf095679" sha1="22043444bbef4511ecd88d9a31f2253a4e346c69"/>
-				<rom name="Extras/Cassette_2.jpg" size="417474" crc="9e4522ce" sha1="77b37357a9055803570d88b6813c1716216445a2"/>
-				<rom name="Extras/Extras.zip" size="1853174" crc="22a61f67" sha1="db66c13a8214630e9f8252e514de5fb1a7a085df"/>
-				<rom name="Extras/Inlay.jpg" size="3543239" crc="77f767d2" sha1="32b1a9d5edf468b3654fc9fede2be6321a50678f"/>
-				<rom name="Extras/Instructions.pdf" size="6231804" crc="d20fd34f" sha1="c7b3ebc19c398b19a52a76f1519d318c368ebba7"/>
-				<rom name="Front.jpg" size="1389958" crc="9f20afb1" sha1="2b2692098322f712cf95934bbd24e8501a7ccfc4"/>
-			</game>
-		</dir>
-		<dir name="[Z64]">
-			<game name="1!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64">
-				<rom name="1!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64" size="26338" crc="a549113d" sha1="c14e71617b8739360d56f0b32e679464036aa2a1"/>
-			</game>
-			<game name="1!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64">
-				<rom name="1!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64" size="43129" crc="c321eee7" sha1="dadf815d11ec1bd1ddb11f742a884820293942fd"/>
-			</game>
-			<game name="2!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64">
-				<rom name="2!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64" size="43295" crc="9e7fefeb" sha1="5220d5154a21e7de11a08b7b3930788468426449"/>
-			</game>
-			<game name="2!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64">
-				<rom name="2!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64" size="43149" crc="9d638f8c" sha1="b0c50daff64c03f2e91daceb45ea288c470743e9"/>
-			</game>
-			<game name="3!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64">
-				<rom name="3!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64" size="39572" crc="037cc6df" sha1="5269a7ebdb4414bace2b0a37eb75e37ccbf4f5a2"/>
-			</game>
-			<game name="3!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64">
-				<rom name="3!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64" size="39799" crc="2bc17e61" sha1="b0474ca1097b778f5758e50ebfdde5f1b0e279cd"/>
-			</game>
-			<game name="4!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64">
-				<rom name="4!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64" size="26162" crc="1246d7a8" sha1="1ab345550f441448f4c11d87c2ee1c026b0bf8c1"/>
-			</game>
-			<game name="4!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64">
-				<rom name="4!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64" size="5594" crc="b3e71a90" sha1="899e12b48ab096225d895b9e9bf765907a771240"/>
-			</game>
-		</dir>
+	<dir name="[CRT]">
+		<game name="!Easyflash Collections-Dragon&apos;s Lair I &amp; II.crt">
+			<description>!Easyflash Collections-Dragon&apos;s Lair I &amp; II.crt</description>
+			<rom name="!Easyflash Collections-Dragon&apos;s Lair I &amp; II.crt" size="270928" crc="461aeaaa" sha1="7bc9d9a4c85e00378d9b2ed70cf0a93fe7ddd299"/>
+		</game>
+		<game name="Dragon&apos;s Lair (Europe).crt">
+			<description>Dragon&apos;s Lair (Europe).crt</description>
+			<rom name="Dragon&apos;s Lair (Europe).crt" size="270928" crc="461aeaaa" sha1="7bc9d9a4c85e00378d9b2ed70cf0a93fe7ddd299"/>
+		</game>
+		<game name="Dragon&apos;s Lair [DD].crt">
+			<description>Dragon&apos;s Lair [DD].crt</description>
+			<rom name="Dragon&apos;s Lair [DD].crt" size="311968" crc="0ca3bece" sha1="6467dc5754c8ef509ec58889b406b6841b5d2857"/>
+		</game>
+		<game name="dragon&apos;s lair duology.crt">
+			<description>dragon&apos;s lair duology.crt</description>
+			<rom name="dragon&apos;s lair duology.crt" size="270928" crc="c1280686" sha1="5b49f79d9f9c8d6eca7fa17098edc9e651674d75"/>
+		</game>
+		<game name="Dragon&apos;s Lair I &amp; II [EasyFlash].crt">
+			<description>Dragon&apos;s Lair I &amp; II [EasyFlash].crt</description>
+			<rom name="Dragon&apos;s Lair I &amp; II [EasyFlash].crt" size="270928" crc="461aeaaa" sha1="7bc9d9a4c85e00378d9b2ed70cf0a93fe7ddd299"/>
+		</game>
+		<game name="Dragon&apos;s Lair I &amp; II.crt">
+			<description>Dragon&apos;s Lair I &amp; II.crt</description>
+			<rom name="Dragon&apos;s Lair I &amp; II.crt" size="270928" crc="461aeaaa" sha1="7bc9d9a4c85e00378d9b2ed70cf0a93fe7ddd299"/>
+		</game>
+		<game name="Dragon&apos;s Lair(1).crt">
+			<description>Dragon&apos;s Lair(1).crt</description>
+			<rom name="Dragon&apos;s Lair(1).crt" size="139600" crc="08b20f63" sha1="777bd972e8741f145e7695902f37329457014613"/>
+		</game>
+		<game name="Dragon&apos;s Lair+-xbank.crt">
+			<description>Dragon&apos;s Lair+-xbank.crt</description>
+			<rom name="Dragon&apos;s Lair+-xbank.crt" size="139600" crc="d89a8574" sha1="fa02e3572010d9534b8add31aead65a98068e924"/>
+		</game>
+		<game name="Dragon&apos;s Lair+.crt">
+			<description>Dragon&apos;s Lair+.crt</description>
+			<rom name="Dragon&apos;s Lair+.crt" size="147808" crc="5c819473" sha1="e25eac91aac57cc3bc293382fd5b5057a4cb17d4"/>
+		</game>
+		<game name="Dragon&apos;s Lair-xbank.crt">
+			<description>Dragon&apos;s Lair-xbank.crt</description>
+			<rom name="Dragon&apos;s Lair-xbank.crt" size="131392" crc="adbece38" sha1="c04c3b671b6a3e4fad62200eb6f0afdcfb132806"/>
+		</game>
+		<game name="Dragon&apos;s Lair.crt">
+			<description>Dragon&apos;s Lair.crt</description>
+			<rom name="Dragon&apos;s Lair.crt" size="139600" crc="f966be2d" sha1="de7e93da044c196e1ed213482857abea7a5f1646"/>
+		</game>
+		<game name="Dragon&apos;s Lair_1987_Electronic_Arts.crt">
+			<description>Dragon&apos;s Lair_1987_Electronic_Arts.crt</description>
+			<rom name="Dragon&apos;s Lair_1987_Electronic_Arts.crt" size="270928" crc="461aeaaa" sha1="7bc9d9a4c85e00378d9b2ed70cf0a93fe7ddd299"/>
+		</game>
+		<game name="Dragon&apos;sLair II_TMC.crt">
+			<description>Dragon&apos;sLair II_TMC.crt</description>
+			<rom name="Dragon&apos;sLair II_TMC.crt" size="164224" crc="86d008ec" sha1="e0ac6e2c0cfa11dd01618c9bfd83127e0e2d870d"/>
+		</game>
+		<game name="Dragon&apos;sLair2_TMC.crt">
+			<description>Dragon&apos;sLair2_TMC.crt</description>
+			<rom name="Dragon&apos;sLair2_TMC.crt" size="164224" crc="08506d3b" sha1="22751e3ec656b4797c25ce58885249768b387166"/>
+		</game>
+		<game name="Dragons Lair (by $olo1870) [EasyFlash].crt">
+			<description>Dragons Lair (by $olo1870) [EasyFlash].crt</description>
+			<rom name="Dragons Lair (by $olo1870) [EasyFlash].crt" size="213472" crc="28661767" sha1="3573e4964c0d009380e8b3a6a5f5f222185e9e2c"/>
+		</game>
+		<game name="Dragons Lair II (by $olo1870) [EasyFlash].crt">
+			<description>Dragons Lair II (by $olo1870) [EasyFlash].crt</description>
+			<rom name="Dragons Lair II (by $olo1870) [EasyFlash].crt" size="197056" crc="404bf1c9" sha1="380596b2d0a9dd19e0c2dfe5920793897fbbfeea"/>
+		</game>
+		<game name="dragonslair_1987_electronic_arts.crt">
+			<description>dragonslair_1987_electronic_arts.crt</description>
+			<rom name="dragonslair_1987_electronic_arts.crt" size="270928" crc="461aeaaa" sha1="7bc9d9a4c85e00378d9b2ed70cf0a93fe7ddd299"/>
+		</game>
+	</dir>
+	<dir name="[D64]">
+		<game name="Dragon&apos;s Lair (1984)(Datamost)[cr Pete].d64">
+			<description>Dragon&apos;s Lair (1984)(Datamost)[cr Pete].d64</description>
+			<rom name="Dragon&apos;s Lair (1984)(Datamost)[cr Pete].d64" size="174848" crc="05dd8b1d" sha1="15060bc321fa0532a717dfb8bcaa71a63eb7e5b4"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects).d64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects).d64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects).d64" size="174848" crc="e3b8f62f" sha1="b497d32a12bd9500542e35da862df287245f14bf"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[a2].d64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[a2].d64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a2].d64" size="174848" crc="ff71c44c" sha1="f02a82a69988d96b42af255361d7e8ab0a5478c7"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[a3].d64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[a3].d64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a3].d64" size="175531" crc="8801fa38" sha1="5e5c8a78eb8c92677f5ef649faad8543a1b84b93"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[a].d64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[a].d64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a].d64" size="174848" crc="5402ff70" sha1="dc844017c1e451cd10e0b4193aa1d0c54d550fa8"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr Bad Rat Club][t +1 Bad Rat Club].d64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[cr Bad Rat Club][t +1 Bad Rat Club].d64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr Bad Rat Club][t +1 Bad Rat Club].d64" size="174848" crc="3213f3d5" sha1="dd19bc3a4fb9c29b673873fadd6c2f0b4030298d"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr Bad Rat Club][t +1 Bad Rat Club][a].d64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[cr Bad Rat Club][t +1 Bad Rat Club][a].d64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr Bad Rat Club][t +1 Bad Rat Club][a].d64" size="174848" crc="1af1ecd1" sha1="d21e4df9e09983017826f3c370e87d361dc30e8b"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr DD].d64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[cr DD].d64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr DD].d64" size="174848" crc="da325bc4" sha1="1e2d8058454b0273f2e1b4f0242a6974aa1aa41a"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr DD][a2].d64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[cr DD][a2].d64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr DD][a2].d64" size="174848" crc="0d9db1f0" sha1="45f3f1131cd9a8471d20b87c85e006766ced7e74"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr DD][a].d64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[cr DD][a].d64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr DD][a].d64" size="174848" crc="d776d256" sha1="f0326b199cd2f66dc41dc21c217963492a64aa9d"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr Migges+Eurosoft].d64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[cr Migges+Eurosoft].d64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr Migges+Eurosoft].d64" size="174848" crc="9639eb91" sha1="77188604d2117caa194b0e42f00dd96fa52db25b"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr Migges+Eurosoft][a2].d64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[cr Migges+Eurosoft][a2].d64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr Migges+Eurosoft][a2].d64" size="174848" crc="4d88946a" sha1="9b62c433dee00d0a28585c107edd20363f39b952"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr Migges+Eurosoft][a].d64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[cr Migges+Eurosoft][a].d64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr Migges+Eurosoft][a].d64" size="174848" crc="7e737daf" sha1="858945fa3a8c76a2257f30b7fdf3c2ed6948c099"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr TFG].d64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[cr TFG].d64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr TFG].d64" size="174848" crc="5c9cdb68" sha1="8f61b06ddf65c4331784d5223934b121804b5195"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr WDR][t +36].d64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[cr WDR][t +36].d64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr WDR][t +36].d64" size="174848" crc="d39c2018" sha1="afe672f6628e8511cf9e9a43ccff4550a442668d"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr WDR][t +36][a].d64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[cr WDR][t +36][a].d64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr WDR][t +36][a].d64" size="174848" crc="09c52828" sha1="f290791015de08bf2aaddd789a28e6818033cd22"/>
+		</game>
+		<game name="Dragon&apos;s Lair (198x)(-)(de).d64">
+			<description>Dragon&apos;s Lair (198x)(-)(de).d64</description>
+			<rom name="Dragon&apos;s Lair (198x)(-)(de).d64" size="174848" crc="aee9e844" sha1="ce9eaf5c39068f67fa6da29346b39e9479b5f130"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].d64" size="175531" crc="9778b8f0" sha1="c2d8666eb857cc480c4d80205c8394b17132317f"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI][a2].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI][a2].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI][a2].d64" size="174848" crc="65dc11ed" sha1="69b38024fb375a1bd95c26e2ee9229aaea9d664b"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI][a].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI][a].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI][a].d64" size="175531" crc="6d5d8a09" sha1="a09ff876f33e13014244e6b9dd81b72adbff4f86"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC].d64" size="174848" crc="6cda40f6" sha1="19a5d7c8fbb6ad466cad838cd5706315db6ba1fb"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a2].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a2].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a2].d64" size="174848" crc="db9918a0" sha1="904c111206bdfd1bf75e4e7505f40718a0a00265"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a3].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a3].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a3].d64" size="175531" crc="99ba2ccc" sha1="7ffcf53b8609348af998ba69b32eb655f997b373"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a4].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a4].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a4].d64" size="174848" crc="af0a28a5" sha1="045388fc4090cc52b485220c55584688b4d0d091"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a5].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a5].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a5].d64" size="174848" crc="54f0370f" sha1="cb103ad26c00f8d71c76f13f354ccca847d343d0"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a6].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a6].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a6].d64" size="174848" crc="4a8fa321" sha1="7301ee28b6f7e2be4454784dd44249c8cdcb09d0"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a7].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a7].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a7].d64" size="174848" crc="3ff6f3ff" sha1="8f2d71ea7d3978614710a8e47681a8efe28599e3"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a8].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a8].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a8].d64" size="174848" crc="4b1a67c9" sha1="2fb11ae05076b64e1ffec4a81dca7f34310f8ac0"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a9].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a9].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a9].d64" size="175531" crc="6eabdcf8" sha1="e390aaaa8227352b8b619d0129549d22769088c4"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr TMC][a].d64" size="174848" crc="52b1f0aa" sha1="b65a855a40317e96e0b732ec3da18c2528f7ea73"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].d64" size="174848" crc="e9219701" sha1="455d891863b03bc47ff7cb1c7ea335a78da2851e"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a10].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a10].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a10].d64" size="174848" crc="b19d9752" sha1="4f55e15fac5baba5728834deb901fb4567d9aa49"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a11].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a11].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a11].d64" size="174848" crc="06bd3725" sha1="68d2fe417de266e8be9186429bfc766bc727b33a"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a12].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a12].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a12].d64" size="174848" crc="861483ac" sha1="c4cf8adbb4818f840c45c3cfef0b01539131adb2"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a13].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a13].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a13].d64" size="174848" crc="ef88b7ec" sha1="3fb13e6e2362ab9b0970d3b0dde0e860b7cdeb63"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a14].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a14].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a14].d64" size="174848" crc="cad85ccf" sha1="a5ed22171be1ec007013f9124fb28ee6de3a730f"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a15].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a15].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a15].d64" size="174848" crc="320bc70a" sha1="4e29e86c49348f6c91f75ce6e71beee4bb20445c"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a16].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a16].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a16].d64" size="174848" crc="6451efcf" sha1="9810dbe63fb4bc3986c922b861682866fc2c8686"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a2].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a2].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a2].d64" size="174848" crc="c83eaeb3" sha1="5db0373598f66da85646b7c10d4f7256288837da"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a3].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a3].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a3].d64" size="196608" crc="a4f19852" sha1="a4ec4917bced6ca59de1ff8ac83e432599af6827"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a4].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a4].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a4].d64" size="174848" crc="94fafd8b" sha1="b694aba625d13f3a54adfb2e56e5540022660fcb"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a5].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a5].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a5].d64" size="174848" crc="42f9de1d" sha1="5ac527d3b16ea50028c502af7310b7fda0403cc9"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a6].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a6].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a6].d64" size="174848" crc="d5418b59" sha1="5ea533899c1ec416fcbdc633deb16b6e689d628a"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a7].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a7].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a7].d64" size="175531" crc="56aff264" sha1="2fa751b7efefe40f88e6a6dd8e96be7843868afa"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a8].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a8].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a8].d64" size="174848" crc="bde18fc9" sha1="69c19a2bdeb7bd5a9cbaa007ee3d5af4c90c0e8f"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a9].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a9].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a9].d64" size="174848" crc="de2cdd6a" sha1="d2d8a898cc063bd07b47f32725d2c322b95a0fc8"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a].d64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a].d64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a].d64" size="174848" crc="a9257d8f" sha1="63abf9eff14fc69b1c2808f45cacd51d100b03fb"/>
+		</game>
+		<game name="Space Ace (1986)(Mikko Heleva).d64">
+			<description>Space Ace (1986)(Mikko Heleva).d64</description>
+			<rom name="Space Ace (1986)(Mikko Heleva).d64" size="174848" crc="01011e12" sha1="a9915469ae84cf42d2f7e498099e10ca0070c941"/>
+		</game>
+		<game name="Space Ace (1990)(CP Verlag - Game On)[cr REB].d64">
+			<description>Space Ace (1990)(CP Verlag - Game On)[cr REB].d64</description>
+			<rom name="Space Ace (1990)(CP Verlag - Game On)[cr REB].d64" size="174848" crc="61707e34" sha1="d11b58042a1924d38998cd541800b2799bbfb5c0"/>
+		</game>
+		<game name="Space Ace (1990)(CP Verlag).d64">
+			<description>Space Ace (1990)(CP Verlag).d64</description>
+			<rom name="Space Ace (1990)(CP Verlag).d64" size="174848" crc="2faaf925" sha1="f318c6722ed20cd4f22d571637acca7e4ddf4a8a"/>
+		</game>
+		<game name="Space Ace (1990)(CP Verlag)[a].d64">
+			<description>Space Ace (1990)(CP Verlag)[a].d64</description>
+			<rom name="Space Ace (1990)(CP Verlag)[a].d64" size="174848" crc="e6b638d8" sha1="668f3806aad9f0add2f79741cc7096a6db054154"/>
+		</game>
+		<game name="Space Ace (1990)(CP Verlag)[cr Fresh][t].d64">
+			<description>Space Ace (1990)(CP Verlag)[cr Fresh][t].d64</description>
+			<rom name="Space Ace (1990)(CP Verlag)[cr Fresh][t].d64" size="174848" crc="c3b6cd34" sha1="25b60ba88f928dda51728dc11cc4ccbde1750da5"/>
+		</game>
+		<game name="Space Ace (demo) (1988)(Kustudic, Gregg)[cr ONS].d64">
+			<description>Space Ace (demo) (1988)(Kustudic, Gregg)[cr ONS].d64</description>
+			<rom name="Space Ace (demo) (1988)(Kustudic, Gregg)[cr ONS].d64" size="174848" crc="43d1224d" sha1="fd56edac004be3d6db68c28bf3adb1940fcc082c"/>
+		</game>
+		<game name="Space Ace (demo) (1988)(Kustudic, Gregg)[cr ONS][a].d64">
+			<description>Space Ace (demo) (1988)(Kustudic, Gregg)[cr ONS][a].d64</description>
+			<rom name="Space Ace (demo) (1988)(Kustudic, Gregg)[cr ONS][a].d64" size="174848" crc="bbd0a85b" sha1="6282c9c7a8455668afe5d07855bb9306b93155ed"/>
+		</game>
+	</dir>
+	<dir name="[DFI]">
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[cr TFG].dfi">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[cr TFG].dfi</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[cr TFG].dfi" size="196608" crc="abfae940" sha1="e15be9924c26983bb9b471e54f41adc3cdcfdcf6"/>
+		</game>
+	</dir>
+	<dir name="[G64]">
+		<game name="Dragon&apos;s Lair (1986)(Software Projects).g64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects).g64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects).g64" size="333744" crc="050a47b5" sha1="0a02e063df442b4426cab182f2fbae0f0402f2c6"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[a2].g64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[a2].g64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a2].g64" size="333744" crc="24dd85c1" sha1="ebe50c6b947a705abc606a5f5ecb5807d88d1f7a"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[a3].g64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[a3].g64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a3].g64" size="286164" crc="89dd98ff" sha1="0d5f59ac1bf07fa886044ab18ad555e652e98564"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[a4].g64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[a4].g64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a4].g64" size="294094" crc="e70c224f" sha1="d581bcf17cd9b94249ad014e187f66156d527ce2"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[a].g64">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[a].g64</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a].g64" size="333744" crc="48575c08" sha1="cbcd265b2002ba6d0d61376093120419e7c1c22e"/>
+		</game>
+	</dir>
+	<dir name="[NBZ]">
+		<game name="Dragon&apos;s Lair (1986)(Software Projects).nbz">
+			<description>Dragon&apos;s Lair (1986)(Software Projects).nbz</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects).nbz" size="167989" crc="2721a31b" sha1="314c919827c50fb18246694da31a9c24c56aefa7"/>
+		</game>
+	</dir>
+	<dir name="[NIB]">
+		<game name="Dragon&apos;s Lair (1986)(Software Projects).nib">
+			<description>Dragon&apos;s Lair (1986)(Software Projects).nib</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects).nib" size="327936" crc="f60d809d" sha1="8672b30e45cc7a91cde486795cdc0dbcaa5b7325"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[a].nib">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[a].nib</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a].nib" size="336128" crc="050b768f" sha1="91e7596d7784c146059d68f03a246a39f9a39277"/>
+		</game>
+		<game name="Dragon&apos;s Lair (Europe) (Elite Platinum Vol. 1 Compilation).nib">
+			<description>Dragon&apos;s Lair (Europe) (Elite Platinum Vol. 1 Compilation).nib</description>
+			<rom name="Dragon&apos;s Lair (Europe) (Elite Platinum Vol. 1 Compilation).nib" size="336128" crc="91260905" sha1="96b67e514b160e2661b4b875a191c6aecc08279e"/>
+		</game>
+		<game name="Dragon&apos;s Lair (USA).nib">
+			<description>Dragon&apos;s Lair (USA).nib</description>
+			<rom name="Dragon&apos;s Lair (USA).nib" size="327936" crc="f60d809d" sha1="8672b30e45cc7a91cde486795cdc0dbcaa5b7325"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].nib">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].nib</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].nib" size="286976" crc="f79a543d" sha1="96d56a1130401c10af86a03e4b65ed36b928f4c5"/>
+		</game>
+		<game name="Dragon&apos;s Lair Part II - Escape from Singe&apos;s Castle (USA).nib">
+			<description>Dragon&apos;s Lair Part II - Escape from Singe&apos;s Castle (USA).nib</description>
+			<rom name="Dragon&apos;s Lair Part II - Escape from Singe&apos;s Castle (USA).nib" size="327936" crc="0bb98b4e" sha1="359b1e2de7948872bccc8e6a3f10a28867273baf"/>
+		</game>
+	</dir>
+	<dir name="[P00]">
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].p00">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].p00</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].p00" size="26646" crc="1031b3b8" sha1="a7ddd811ca3a5ddeeeaa5d4237d5650da678dd0f"/>
+		</game>
+		<game name="Space Ace (1990)(CP Verlag).p00">
+			<description>Space Ace (1990)(CP Verlag).p00</description>
+			<rom name="Space Ace (1990)(CP Verlag).p00" size="33937" crc="ca838142" sha1="41816da9bf263988b3ba55bf2dc0c4396c79c9f0"/>
+		</game>
+		<game name="Space Ace (1990)(CP Verlag)[a].p00">
+			<description>Space Ace (1990)(CP Verlag)[a].p00</description>
+			<rom name="Space Ace (1990)(CP Verlag)[a].p00" size="33937" crc="b311e8c7" sha1="d3a0e346b6ecb6455b6fa8335046fa13d20cde75"/>
+		</game>
+	</dir>
+	<dir name="[PRG]">
+		<game name="Dragon&apos;s Lair C64 Player (20xx)(Inuyaska)">
+			<description>Dragon&apos;s Lair C64 Player (20xx)(Inuyaska)</description>
+			<rom name="Dragon&apos;s Lair #00 (20xx)(Inuyaksa).reu" size="16777216" crc="da47784c" sha1="3cd5e3c74b6c1c376fc3b2b3ee0395412e3b7c30"/>
+			<rom name="Dragon&apos;s Lair #01 (20xx)(Inuyaksa).reu" size="16777216" crc="3e579586" sha1="4155ade5ca517b22bdbda8d77d0f5aa16ff0cd68"/>
+			<rom name="Dragon&apos;s Lair #02 (20xx)(Inuyaksa).reu" size="16777216" crc="5e3e4222" sha1="6a2e9f5d081d0028ed72ad29eec7b2c549621bbd"/>
+			<rom name="Dragon&apos;s Lair #03 (20xx)(Inuyaksa).reu" size="16777216" crc="d1701158" sha1="daef635990fce1d7a25faa391342329bc5079e17"/>
+			<rom name="Dragon&apos;s Lair #04 (20xx)(Inuyaksa).reu" size="16777216" crc="29810ebd" sha1="dd9489a342339896557b338d282c37aa55855e09"/>
+			<rom name="Dragon&apos;s Lair #05 (20xx)(Inuyaksa).reu" size="16777216" crc="f3d409c5" sha1="40548252f708e14035a4afa80fc91dd74f713735"/>
+			<rom name="Dragon&apos;s Lair #06 (20xx)(Inuyaksa).reu" size="16777216" crc="bdd932b4" sha1="a1e57e79eed4af6337467dd70526dec7e0f26790"/>
+			<rom name="Dragon&apos;s Lair #07 (20xx)(Inuyaksa).reu" size="16777216" crc="13696194" sha1="9e04356602b3d47333033212d89f236ceaf94799"/>
+			<rom name="Dragon&apos;s Lair #08 (20xx)(Inuyaksa).reu" size="16777216" crc="a3d26a59" sha1="f0775d8ea2882d13490042e6d471cefa2d6808ea"/>
+			<rom name="Dragon&apos;s Lair #09 (20xx)(Inuyaksa).reu" size="16777216" crc="a94ea243" sha1="f2b5a072a9bfa49704b8566f24d67808cfb411d8"/>
+			<rom name="Dragon&apos;s Lair #10 (20xx)(Inuyaksa).reu" size="16777216" crc="4ef07024" sha1="f658da0ee7d848f2015e259197542b98652ca1bb"/>
+			<rom name="Dragon&apos;s Lair #11 (20xx)(Inuyaksa).reu" size="16777216" crc="f73b3dff" sha1="e90eb66be76df74c66848cadbba0c1817f386dc3"/>
+			<rom name="Dragon&apos;s Lair #12 (20xx)(Inuyaksa).reu" size="16777216" crc="b9128926" sha1="6bdbcd90c307526da444af88dded3016b74b7f3c"/>
+			<rom name="Dragon&apos;s Lair #13 (20xx)(Inuyaksa).reu" size="16777216" crc="3c1269d5" sha1="0cd755b590f5f7f773a99b95b943cd9b92d66f5a"/>
+			<rom name="Dragon&apos;s Lair #14 (20xx)(Inuyaksa).reu" size="16777216" crc="6257b8b9" sha1="673ef6eb6aa1ae0e4b0ed2884cf974e0fa4565c6"/>
+			<rom name="Dragon&apos;s Lair #15 (20xx)(Inuyaksa).reu" size="16777216" crc="4aac6e76" sha1="cbd488c77e73e67768b79725cc1436a045b155ab"/>
+			<rom name="Dragon&apos;s Lair #16 (20xx)(Inuyaksa).reu" size="16777216" crc="73e2b921" sha1="cefe1c9b234ce25d8e5dcffa2deeb685700fe531"/>
+			<rom name="Dragon&apos;s Lair #17 (20xx)(Inuyaksa).reu" size="16777216" crc="8ec016d2" sha1="6e6ca5c97e5dbb63ca2320f3c882fe264ac065c5"/>
+			<rom name="Dragon&apos;s Lair #18 (20xx)(Inuyaksa).reu" size="16777216" crc="e8ecbaee" sha1="d21c45d7f6a83ceaf0ff326a32c4fa71244629c3"/>
+			<rom name="Dragon&apos;s Lair #19 (20xx)(Inuyaksa).reu" size="16777216" crc="2f4dc2a5" sha1="863455b10043bede121df057c9e6eefda44e5f90"/>
+			<rom name="Dragon&apos;s Lair #20 (20xx)(Inuyaksa).reu" size="16777216" crc="845019f8" sha1="c6cec3507aec6e8541b51f81cf4bf9f3d055ae8e"/>
+			<rom name="Dragon&apos;s Lair #21 (20xx)(Inuyaksa).reu" size="16777216" crc="d967ca69" sha1="207055fe48bdc5d24d0c09b711f34805a2a1d006"/>
+			<rom name="Dragon&apos;s Lair #22 (20xx)(Inuyaksa).reu" size="16777216" crc="a9e2ecee" sha1="7efb9e51785c80403f256f1cea257968524dd18f"/>
+			<rom name="Dragon&apos;s Lair #23 (20xx)(Inuyaksa).reu" size="16777216" crc="eb9e4de8" sha1="3ad0b46b93cc1f1126fa51da749836c42736cf9b"/>
+			<rom name="Dragon&apos;s Lair #24 (20xx)(Inuyaksa).reu" size="16777216" crc="4be41560" sha1="c0f8198f17cf9d715150672035cb6299c42634a4"/>
+			<rom name="Dragon&apos;s Lair #25 (20xx)(Inuyaksa).reu" size="16777216" crc="e8d42720" sha1="e33a2ee4d0b290d7bd79e3a1e42d7acbb451f066"/>
+			<rom name="Dragon&apos;s Lair #26 (20xx)(Inuyaksa).reu" size="16777216" crc="5a7db081" sha1="0fb36b4f87993c74de3f59cf52d210262f374d25"/>
+			<rom name="Dragon&apos;s Lair #27 (20xx)(Inuyaksa).reu" size="16777216" crc="d74a5898" sha1="e055696b65b5b9f32ea0d1f234a469eca8c4caf7"/>
+			<rom name="Dragon&apos;s Lair #28 (20xx)(Inuyaksa).reu" size="16777216" crc="43ce22d0" sha1="3dc1e2adc173fec8dd925bb3fec54c86a77324a7"/>
+			<rom name="Dragon&apos;s Lair #29 (20xx)(Inuyaksa).reu" size="16777216" crc="63460422" sha1="e5e57b8279aabb0ea42bd5129843c7f3ee602fb0"/>
+			<rom name="Dragon&apos;s Lair #30 (20xx)(Inuyaksa).reu" size="16777216" crc="fddf0947" sha1="1253d09525292480a8269ca77d65aea3db67c206"/>
+			<rom name="Dragon&apos;s Lair #37 (20xx)(Inuyaksa).reu" size="16777216" crc="444f6f1c" sha1="deaf400cb3b68577c3999cb10d24101573e34627"/>
+			<rom name="Dragon&apos;s Lair #38 (20xx)(Inuyaksa).reu" size="16777216" crc="5310e278" sha1="97cdfd690707b24941e26d8b1ef09ff756ae029d"/>
+			<rom name="Dragon&apos;s Lair #41 (20xx)(Inuyaksa).reu" size="16777216" crc="15dfc6f8" sha1="5c30302a7d62971c1b6182389273faf83612c328"/>
+			<rom name="Dragon&apos;s Lair #43 (20xx)(Inuyaksa).reu" size="16777216" crc="48b69de7" sha1="ba7bcd75a9fc7a2f8c09be2aec51acd3ba2d71fa"/>
+			<rom name="Dragon&apos;s Lair #45 (20xx)(Inuyaksa).reu" size="16777216" crc="f713ae06" sha1="7a8d4fdd83bdb48794dbce04d54f9074e795ba7e"/>
+			<rom name="Dragon&apos;s Lair #47 (20xx)(Inuyaksa).reu" size="16777216" crc="084d5980" sha1="f152e451547f70b345e62f134ed5f42f4facc799"/>
+			<rom name="Dragon&apos;s Lair #52 (20xx)(Inuyaksa).reu" size="16777216" crc="9b25d4f5" sha1="083afbd853c78ff724eb7a4f55d72a8f63ce844f"/>
+			<rom name="Dragon&apos;s Lair #54 (20xx)(Inuyaksa).reu" size="16777216" crc="e81f3636" sha1="983a41f7a760ded22b3918571b4c99259ca35844"/>
+			<rom name="Dragon&apos;s Lair #62 (20xx)(Inuyaksa).reu" size="16777216" crc="1bbb2335" sha1="e1517a4194186c0f4be3a94a700f2782728e0776"/>
+			<rom name="Dragon&apos;s Lair #64 (20xx)(Inuyaksa).reu" size="16777216" crc="b8c391d3" sha1="2ab4f289b2bbc139e92ec7488b30f2c08a5d25d8"/>
+			<rom name="Dragon&apos;s Lair #90 (20xx)(Inuyaksa).reu" size="16777216" crc="f0df80c2" sha1="4e5db3d3335259ec75183f619471ffb22c774d86"/>
+			<rom name="Dragon&apos;s Lair C64 Player (20xx)(Inuyaska).prg" size="3318" crc="035edd85" sha1="f699eed44ba747576f1fc6074da51b45f2590e10"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].prg">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].prg</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].prg" size="26620" crc="4f2470d7" sha1="affdae8dcffa3605511f7f73f633073bf085ea2f"/>
+		</game>
+		<game name="Space Ace (1986)(Mikko Heleva).prg">
+			<description>Space Ace (1986)(Mikko Heleva).prg</description>
+			<rom name="Space Ace (1986)(Mikko Heleva).prg" size="2256" crc="4cfcbd66" sha1="0ec867c04d1f9ced2722333505bda1ef963ec9b0"/>
+		</game>
+		<game name="Space Ace (1990)(CP Verlag).prg">
+			<description>Space Ace (1990)(CP Verlag).prg</description>
+			<rom name="Space Ace (1990)(CP Verlag).prg" size="33911" crc="3232829c" sha1="a49809dd55c8f52b2e124af7979610643835dd15"/>
+		</game>
+	</dir>
+	<dir name="[T64]">
+		<game name="Dragon&apos;s Lair (1984)(Datamost)[cr Pete].t64">
+			<description>Dragon&apos;s Lair (1984)(Datamost)[cr Pete].t64</description>
+			<rom name="Dragon&apos;s Lair (1984)(Datamost)[cr Pete].t64" size="4917" crc="fbd79963" sha1="699b57c2f02c931665e188aa5ae8814af5281a7b"/>
+		</game>
+		<game name="Dragon&apos;s Lair (198x)(-)(de).t64">
+			<description>Dragon&apos;s Lair (198x)(-)(de).t64</description>
+			<rom name="Dragon&apos;s Lair (198x)(-)(de).t64" size="4940" crc="95a3841c" sha1="a6514e9057b66ffdd45009103449078e21ac51cd"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].t64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].t64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].t64" size="28808" crc="a9cb89bd" sha1="f51c189b872c205c4cc0a3d6c1e2494ffbac2cdc"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a].t64">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a].t64</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad][a].t64" size="26796" crc="7ce4458e" sha1="85a5934ad6ea993b00b9eb262f132474fb86018e"/>
+		</game>
+		<game name="Space Ace (1986)(Mikko Heleva).t64">
+			<description>Space Ace (1986)(Mikko Heleva).t64</description>
+			<rom name="Space Ace (1986)(Mikko Heleva).t64" size="2350" crc="09661be9" sha1="fe0d1fd5127ad1ada89b7856b2f821f456aeca44"/>
+		</game>
+		<game name="Space Ace (1990)(CP Verlag - Game On)[cr REB].t64">
+			<description>Space Ace (1990)(CP Verlag - Game On)[cr REB].t64</description>
+			<rom name="Space Ace (1990)(CP Verlag - Game On)[cr REB].t64" size="34940" crc="346d0e3e" sha1="d5d14868c1ac158dd815ad5955424bb4f25e7e81"/>
+		</game>
+		<game name="Space Ace (1990)(CP Verlag).t64">
+			<description>Space Ace (1990)(CP Verlag).t64</description>
+			<rom name="Space Ace (1990)(CP Verlag).t64" size="34005" crc="ba0d12df" sha1="4e6766dc62d0c52252fe4469dd152f6979c7733b"/>
+		</game>
+		<game name="Space Ace (1990)(CP Verlag)[a2].t64">
+			<description>Space Ace (1990)(CP Verlag)[a2].t64</description>
+			<rom name="Space Ace (1990)(CP Verlag)[a2].t64" size="34005" crc="2c46b024" sha1="8fcf92ad00335bd3f7fbe571fd82153ce06c994f"/>
+		</game>
+		<game name="Space Ace (1990)(CP Verlag)[a3].t64">
+			<description>Space Ace (1990)(CP Verlag)[a3].t64</description>
+			<rom name="Space Ace (1990)(CP Verlag)[a3].t64" size="34933" crc="e22e7271" sha1="58e09659b47e948ac6ec4cb54da08aa64e008dd2"/>
+		</game>
+		<game name="Space Ace (1990)(CP Verlag)[a].t64">
+			<description>Space Ace (1990)(CP Verlag)[a].t64</description>
+			<rom name="Space Ace (1990)(CP Verlag)[a].t64" size="34933" crc="8db0c204" sha1="b68fc1c7a4c637836c76e2bdca7c60ee251d8e61"/>
+		</game>
+		<game name="Space Ace (demo) (1989)(Firebird)[cr Bros &amp; Destiny].t64">
+			<description>Space Ace (demo) (1989)(Firebird)[cr Bros &amp; Destiny].t64</description>
+			<rom name="Space Ace (demo) (1989)(Firebird)[cr Bros &amp; Destiny].t64" size="41633" crc="5b0d69fa" sha1="fe517a40fbf1e798d53caf5711e8dbd4ea261bc1"/>
+		</game>
+	</dir>
+	<dir name="[TAP]">
+		<game name="Dragon&apos;s Lair (1986)(Software Projects).tap">
+			<description>Dragon&apos;s Lair (1986)(Software Projects).tap</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects).tap" size="1222276" crc="12583edf" sha1="ce66d07c13a26a4e2620737b7dd053df959cf1c5"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[a2].tap">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[a2].tap</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a2].tap" size="1222786" crc="8e8e079e" sha1="b306c722266c9b1ccb10651b84c444bbafdc3b99"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[a3].tap">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[a3].tap</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a3].tap" size="1222090" crc="acfe16e8" sha1="f2ff5962ee2d8d0601d86ae3ce8b759415907d86"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[a4].tap">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[a4].tap</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a4].tap" size="1222090" crc="1bcc3461" sha1="dac6e54d5b6ec93bde01c722adf4367b8cfc0a3c"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1986)(Software Projects)[a].tap">
+			<description>Dragon&apos;s Lair (1986)(Software Projects)[a].tap</description>
+			<rom name="Dragon&apos;s Lair (1986)(Software Projects)[a].tap" size="1222295" crc="6abdfc6c" sha1="302263e4b086ea9bdfc8cdfdba90c15b7686ee6e"/>
+		</game>
+		<game name="Dragon&apos;s Lair (1988)(Encore).tap">
+			<description>Dragon&apos;s Lair (1988)(Encore).tap</description>
+			<rom name="Dragon&apos;s Lair (1988)(Encore).tap" size="1222091" crc="ad74cfc0" sha1="a87bd2c54f69cd835c5ab69eca9f3f372607bd45"/>
+		</game>
+		<game name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects).tap">
+			<description>Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects).tap</description>
+			<rom name="Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects).tap" size="1281201" crc="39b9c2ac" sha1="502585c702e6a744e758f5c2de11fe67f8863fe3"/>
+		</game>
+		<game name="Dragon&apos;s Lair Part II- Escape from Singe&apos;s Castle (1987)(Software Projects).tap">
+			<description>Dragon&apos;s Lair Part II- Escape from Singe&apos;s Castle (1987)(Software Projects).tap</description>
+			<rom name="Dragon&apos;s Lair Part II- Escape from Singe&apos;s Castle (1987)(Software Projects).tap" size="1265044" crc="6b321750" sha1="4f5dab8bd35dc2486156cfa02dae27bc6860ba51"/>
+		</game>
+		<game name="Dragon&apos;s Lair Preview (1986)(Software Projects).tap">
+			<description>Dragon&apos;s Lair Preview (1986)(Software Projects).tap</description>
+			<rom name="Dragon&apos;s Lair Preview (1986)(Software Projects).tap" size="980926" crc="360fdbf0" sha1="368704513e0d0bd891abf87cd028a9042b175f3f"/>
+		</game>
+		<game name="Dragon&apos;s Lair Preview (1986)(Software Projects)[a].tap">
+			<description>Dragon&apos;s Lair Preview (1986)(Software Projects)[a].tap</description>
+			<rom name="Dragon&apos;s Lair Preview (1986)(Software Projects)[a].tap" size="981341" crc="05f74201" sha1="e11da9387edc626af97d8e5cdbd90af04a7799bd"/>
+		</game>
+		<game name="Dragon&apos;s_Lair_(1986_Software_Projects)_[398]">
+			<description>Dragon&apos;s_Lair_(1986_Software_Projects)_[398]</description>
+			<rom name="Dragon&apos;s_Lair.idx" size="105" crc="245b34d7" sha1="e0d5b6b7fa152eed7abda838c9b059517e6dc0cf"/>
+			<rom name="Dragon&apos;s_Lair.tap" size="1222090" crc="acfe16e8" sha1="f2ff5962ee2d8d0601d86ae3ce8b759415907d86"/>
+			<rom name="Dragon&apos;s_Lair_a1.idx" size="105" crc="245b34d7" sha1="e0d5b6b7fa152eed7abda838c9b059517e6dc0cf"/>
+			<rom name="Dragon&apos;s_Lair_a1.tap" size="1222094" crc="e037e376" sha1="4fae3a597c3097fefd574b708dd95096cbbe3486"/>
+			<rom name="Extras/Cassette.jpg" size="402808" crc="acca3c5a" sha1="90f5a36d294002e791c09934fa6602f38207eafd"/>
+			<rom name="Extras/Cassette_2.jpg" size="385271" crc="ef9ad2d7" sha1="659f62fe45ea9f0d83cc36f84ea29a8c8a743655"/>
+			<rom name="Extras/Extras.zip" size="1727381" crc="76131e8c" sha1="e5b6f142e566ac92e6f5a4c919da50e456b579c9"/>
+			<rom name="Extras/Inlay.jpg" size="3608185" crc="6e002d92" sha1="283aed52afe77fd7db49fbe5ac05616267ede057"/>
+			<rom name="Extras/Instructions.pdf" size="6211675" crc="f5ed473b" sha1="d03c28eb7421080977687757ea2c2d47a052e6c6"/>
+			<rom name="Front.jpg" size="1408809" crc="07d6a639" sha1="6b9f4553d2a8981868991123b889163e55dfa7c3"/>
+		</game>
+		<game name="Dragon&apos;s_Lair_(1988_Encore)_[7503]">
+			<description>Dragon&apos;s_Lair_(1988_Encore)_[7503]</description>
+			<rom name="Dragon&apos;s_Lair.idx" size="90" crc="085a0510" sha1="e92cdc1da5bb49eac0a4e147cd1307ab1aa9ea75"/>
+			<rom name="Dragon&apos;s_Lair.tap" size="1222091" crc="ad74cfc0" sha1="a87bd2c54f69cd835c5ab69eca9f3f372607bd45"/>
+			<rom name="Extras/Cassette.jpg" size="309482" crc="b6114f0d" sha1="912c6d1bbdcb40a4864f70b65e9956fb4a8d42b8"/>
+			<rom name="Extras/Inlay.jpg" size="1837575" crc="3fd5ede1" sha1="2303c147d9b6c03a71214822ed4bacf272498ea8"/>
+			<rom name="Extras/Inlay_back.jpg" size="1055858" crc="2966a062" sha1="ac8b6e1801fdd7326236baf65106aca4c6fe9b97"/>
+			<rom name="Front.jpg" size="730726" crc="f2fda586" sha1="54d01b339064194ffff35df655afd17b1aefec15"/>
+		</game>
+		<game name="Dragon&apos;s_Lair_Part_II-_Escape_from_Singe&apos;s_Castle_(1987_Software_Projects)_[395]">
+			<description>Dragon&apos;s_Lair_Part_II-_Escape_from_Singe&apos;s_Castle_(1987_Software_Projects)_[395]</description>
+			<rom name="Dragon&apos;s_Lair_Part_II-_Escape_from_Singe&apos;s_Castle.idx" size="108" crc="806c89ba" sha1="37f6af489034f52905ffcfb5aea012ce23a6146c"/>
+			<rom name="Dragon&apos;s_Lair_Part_II-_Escape_from_Singe&apos;s_Castle.tap" size="1265048" crc="996619f6" sha1="0364d46c6c7d9e2bf033518adc16b22c49c8014e"/>
+			<rom name="Extras/Cassette.jpg" size="401908" crc="0c2a88ca" sha1="837b4e32a0cef058cfa6bceb80612a46b96160fe"/>
+			<rom name="Extras/Inlay.jpg" size="3384747" crc="3af4adb7" sha1="55dccc58c07daa780ea26b3fdfd59e9c25413f76"/>
+			<rom name="Extras/Instructions.pdf" size="5760521" crc="d10f3ec0" sha1="cd47d7ba3eec04b6f01194b18577e09f85a4f36b"/>
+			<rom name="Front.jpg" size="1233106" crc="e0011064" sha1="64cf22de4afd5c551e9cd4bbb63e7166a3ce50e8"/>
+		</game>
+		<game name="Dragon&apos;s_Lair_Preview_(1986_Software_Projects)_[0]">
+			<description>Dragon&apos;s_Lair_Preview_(1986_Software_Projects)_[0]</description>
+			<rom name="Dragon&apos;s_Lair_Preview.tap" size="980926" crc="360fdbf0" sha1="368704513e0d0bd891abf87cd028a9042b175f3f"/>
+			<rom name="Dragon&apos;s_Lair_Preview_a1.tap" size="981341" crc="05f74201" sha1="e11da9387edc626af97d8e5cdbd90af04a7799bd"/>
+			<rom name="Extras/Cassette.jpg" size="419204" crc="bf095679" sha1="22043444bbef4511ecd88d9a31f2253a4e346c69"/>
+			<rom name="Extras/Cassette_2.jpg" size="417474" crc="9e4522ce" sha1="77b37357a9055803570d88b6813c1716216445a2"/>
+			<rom name="Extras/Extras.zip" size="1853174" crc="22a61f67" sha1="db66c13a8214630e9f8252e514de5fb1a7a085df"/>
+			<rom name="Extras/Inlay.jpg" size="3543239" crc="77f767d2" sha1="32b1a9d5edf468b3654fc9fede2be6321a50678f"/>
+			<rom name="Extras/Instructions.pdf" size="6231804" crc="d20fd34f" sha1="c7b3ebc19c398b19a52a76f1519d318c368ebba7"/>
+			<rom name="Front.jpg" size="1389958" crc="9f20afb1" sha1="2b2692098322f712cf95934bbd24e8501a7ccfc4"/>
+		</game>
+	</dir>
+	<dir name="[Z64]">
+		<game name="1!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64">
+			<description>1!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64</description>
+			<rom name="1!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64" size="26338" crc="a549113d" sha1="c14e71617b8739360d56f0b32e679464036aa2a1"/>
+		</game>
+		<game name="1!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64">
+			<description>1!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64</description>
+			<rom name="1!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64" size="43129" crc="c321eee7" sha1="dadf815d11ec1bd1ddb11f742a884820293942fd"/>
+		</game>
+		<game name="2!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64">
+			<description>2!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64</description>
+			<rom name="2!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64" size="43295" crc="9e7fefeb" sha1="5220d5154a21e7de11a08b7b3930788468426449"/>
+		</game>
+		<game name="2!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64">
+			<description>2!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64</description>
+			<rom name="2!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64" size="43149" crc="9d638f8c" sha1="b0c50daff64c03f2e91daceb45ea288c470743e9"/>
+		</game>
+		<game name="3!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64">
+			<description>3!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64</description>
+			<rom name="3!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64" size="39572" crc="037cc6df" sha1="5269a7ebdb4414bace2b0a37eb75e37ccbf4f5a2"/>
+		</game>
+		<game name="3!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64">
+			<description>3!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64</description>
+			<rom name="3!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64" size="39799" crc="2bc17e61" sha1="b0474ca1097b778f5758e50ebfdde5f1b0e279cd"/>
+		</game>
+		<game name="4!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64">
+			<description>4!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64</description>
+			<rom name="4!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr ESI].z64" size="26162" crc="1246d7a8" sha1="1ab345550f441448f4c11d87c2ee1c026b0bf8c1"/>
+		</game>
+		<game name="4!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64">
+			<description>4!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64</description>
+			<rom name="4!Dragon&apos;s Lair II - Escape from Singe&apos;s Castle (1987)(Software Projects)[cr Triad].z64" size="5594" crc="b3e71a90" sha1="899e12b48ab096225d895b9e9bf765907a771240"/>
+		</game>
+	</dir>
 	</dir>
 	<dir name="Commodore Amiga">
 		<dir name="[ADF]">
@@ -11377,22 +11546,25 @@
 		</game>
 	</dir>
 	<dir name="HD-DVD">
-		<game name="Unreleased - Space Ace (USA).txt">
-			<rom name="Unreleased - Space Ace (USA).txt" size="32" crc="32bc8053" sha1="e8aed1655808ace80b66e55fbc18417441dd1c0c"/>
+	<dir name="Dragon&apos;s Lair (USA)">
+		<game name="Dragon&apos;s Lair (USA) (2006) [HD-DVD]">
+			<description>Dragon&apos;s Lair (USA) (2006) [HD-DVD]</description>
+			<rom name="Dragon&apos;s Lair (USA).iso" size="13228179456" crc="b6ead4a1" sha1="cdd4c528d34ac3907c1fb9c25629f6038bb7e498"/>
 		</game>
-		<dir name="Dragon&apos;s Lair (USA)">
-			<game name="Dragon&apos;s Lair (USA) (iso)">
-				<rom name="Dragon&apos;s Lair (USA).iso" size="13228179456" crc="b6ead4a1" sha1="cdd4c528d34ac3907c1fb9c25629f6038bb7e498"/>
-			</game>
-			<game name="Dragon&apos;s Lair (USA) artwork">
-				<rom name="Dragon&apos;s Lair (USA) Box Cover.jpg" size="47820962" crc="c18c529f" sha1="7ff645f740f4e9461504153529db627c2dd117e2"/>
-				<rom name="Dragon&apos;s Lair (USA) Disc - Back.jpg" size="1913739" crc="044e19a0" sha1="890ca876dab2c3d1fced11f738bd1b93fd1b8800"/>
-				<rom name="Dragon&apos;s Lair (USA) Disc - Front.jpg" size="20546022" crc="bdf75f82" sha1="5cb716521222f0d98d11a502dd5a667d662a5d1d"/>
-				<rom name="Dragon&apos;s Lair (USA) Manual 1.jpg" size="21385291" crc="cbdd130c" sha1="572c955c18b4e2befaa45283f34e1be937f387e3"/>
-				<rom name="Dragon&apos;s Lair (USA) Manual 2.jpg" size="16615465" crc="2883e5e4" sha1="fd855c6401e69f60d254b6ec5e8341ccb2665928"/>
-				<rom name="Dragon&apos;s Lair (USA) Sleeve.jpg" size="89927929" crc="55ea0603" sha1="4f284f3c2706602394017c466a33c8ec064f78b7"/>
-			</game>
-		</dir>
+		<game name="Dragon&apos;s Lair artwork (USA) (2006) [HD-DVD]">
+			<description>Dragon&apos;s Lair artwork (USA) (2006) [HD-DVD]</description>
+			<rom name="Dragon&apos;s Lair (USA) Box Cover.jpg" size="47820962" crc="c18c529f" sha1="7ff645f740f4e9461504153529db627c2dd117e2"/>
+			<rom name="Dragon&apos;s Lair (USA) Disc - Back.jpg" size="1913739" crc="044e19a0" sha1="890ca876dab2c3d1fced11f738bd1b93fd1b8800"/>
+			<rom name="Dragon&apos;s Lair (USA) Disc - Front.jpg" size="20546022" crc="bdf75f82" sha1="5cb716521222f0d98d11a502dd5a667d662a5d1d"/>
+			<rom name="Dragon&apos;s Lair (USA) Manual 1.jpg" size="21385291" crc="cbdd130c" sha1="572c955c18b4e2befaa45283f34e1be937f387e3"/>
+			<rom name="Dragon&apos;s Lair (USA) Manual 2.jpg" size="16615465" crc="2883e5e4" sha1="fd855c6401e69f60d254b6ec5e8341ccb2665928"/>
+			<rom name="Dragon&apos;s Lair (USA) Sleeve.jpg" size="89927929" crc="55ea0603" sha1="4f284f3c2706602394017c466a33c8ec064f78b7"/>
+		</game>
+	</dir>
+	<game name="Unreleased - Space Ace (USA).txt">
+		<description>Unreleased - Space Ace (USA).txt</description>
+		<rom name="Unreleased - Space Ace (USA).txt" size="32" crc="32bc8053" sha1="e8aed1655808ace80b66e55fbc18417441dd1c0c"/>
+	</game>
 	</dir>
 	<dir name="IBM PC DOS 3½ Floppy">
 		<game name="Dragon&apos;s Lair (1989)(Merit Software)(3 Disk)(1.4M)[cp codebook]">
@@ -18406,11 +18578,24 @@
 		</game>
 	</dir>
 	<dir name="Windows DVD-ROM">
-		<game name="Dragon&apos;s Lair II - Time Warp (USA) (1999) [DVD-ROM]">
-			<rom name="Dragon&apos;s Lair II - Time Warp (USA) (1999) [DVD-ROM].iso" size="3568861184" crc="0cff31b9" sha1="84ce61ffa37d76cb8358c369db471932afc401a0"/>
-		</game>
-		<game name="Space Ace (USA) (1999) (Digital Leisure) [DVD-ROM]">
-			<rom name="Space Ace (USA) (1999) (Digital Leisure) [DVD-ROM].iso" size="2541912064" crc="17de24f1" sha1="a41f36c4aeeb7e05adfab5f6cd8641d7045e3c49"/>
-		</game>
+	<game name="Dragon&apos;s Lair II - Time Warp (USA) (1999) (Digital Leisure) [DVD-ROM]">
+		<description>Dragon&apos;s Lair II - Time Warp (USA) (1999) (Digital Leisure) [DVD-ROM]</description>
+		<rom name="Dragon&apos;s Lair II - Time Warp (USA) (1999) [DVD-ROM].iso" size="3568861184" crc="0cff31b9" sha1="84ce61ffa37d76cb8358c369db471932afc401a0"/>
+	</game>
+	<game name="Dragons Lair HD (2006) (Digital Leisure) [DVD-ROM]">
+		<description>Dragons Lair HD (2006) (Digital Leisure) [DVD-ROM]</description>
+		<rom name="dlhd.iso" size="8490917888" crc="405d151e" sha1="a7b4823e318d651fedc03d11c6ed80456b78b855"/>
+		<rom name="DLHD.nfo" size="7909" crc="7463c086" sha1="df54cf651e35df8abf170e674eb888c0eda0f55e"/>
+		<rom name="DLHDrev5_1.zip" size="158768" crc="67b72490" sha1="3002b5423b84906d315f0dfa1abbdec6a36839f3"/>
+	</game>
+	<game name="Space Ace (USA) (1999) (Digital Leisure) [DVD-ROM]">
+		<description>Space Ace (USA) (1999) (Digital Leisure) [DVD-ROM]</description>
+		<rom name="Space Ace (USA) (1999) (Digital Leisure) [DVD-ROM].iso" size="2541912064" crc="17de24f1" sha1="a41f36c4aeeb7e05adfab5f6cd8641d7045e3c49"/>
+	</game>
+	<game name="Space Ace HD (2007) (Digital Leisure) [DVD-ROM]">
+		<description>Space Ace HD (2007) (Digital Leisure) [DVD-ROM]</description>
+		<rom name="SAHD.nfo" size="7417" crc="fde6931c" sha1="0893997decbcf1a853f416ec48af59067251d009"/>
+		<rom name="Space Ace HD DVD.iso" size="8422883328" crc="f0ce39e0" sha1="937e1b96d4ebadd6566206556a34ad38429749b1"/>
+	</game>
 	</dir>
 </datafile>
