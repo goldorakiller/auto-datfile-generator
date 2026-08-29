@@ -5,14 +5,13 @@
 		<description></description>
 		<category>Laserdisc Supplementary</category>
 		<version></version>
-		<date>2026-08-27</date>
+		<date>2026-08-28</date>
 		<author>Eggman</author>
 		<url>https://github.com/Eggmansworld/Datfiles</url>
 		<homepage></homepage>
 		<comment></comment>
 		<romvault forcepacking="fileonly"/>
 	</header>
-	<game name="DaphneAI">
 		<rom name="!README.txt" size="1391" crc="d348490d" sha1="a9d710959ef9012e394ed6705c0aff305c8f415d"/>
 		<rom name="COPYING" size="18332" crc="e253da7b" sha1="b9e28040de9d8773c5b0cc8108869e8f3f287798"/>
 		<rom name="daphne-changelog.txt" size="9479" crc="c4ac1b2b" sha1="c40fbf7f3072945373f9d6c73234614b52043f3c"/>
@@ -4116,5 +4115,4 @@
 		<rom name="sound/sda_success_lo.wav" size="11822" crc="4b6cc3cf" sha1="d9f3a18b64dabddf459c87b4edd81a4e74699c97"/>
 		<rom name="sound/sdq-short-success-hi.wav" size="11796" crc="bf579648" sha1="28ebdaef0992463b3ad055989dc9c65aa5f2a8dc"/>
 		<rom name="sound/sdq-short-success-low.wav" size="11822" crc="4b6cc3cf" sha1="d9f3a18b64dabddf459c87b4edd81a4e74699c97"/>
-	</game>
 </datafile>

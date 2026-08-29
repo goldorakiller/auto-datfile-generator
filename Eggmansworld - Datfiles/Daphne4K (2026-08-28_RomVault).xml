@@ -5,14 +5,13 @@
 		<description></description>
 		<category>Laserdisc Supplementary</category>
 		<version></version>
-		<date>2026-08-27</date>
+		<date>2026-08-28</date>
 		<author>Eggman</author>
 		<url>https://github.com/Eggmansworld/Datfiles</url>
 		<homepage></homepage>
 		<comment></comment>
 		<romvault forcepacking="fileonly"/>
 	</header>
-	<game name="Daphne4K">
 		<rom name="Daphne4K 60FPS Remastered Collection v7 [LizardKing].txt" size="5159" crc="d23ac66a" sha1="83a1f27c4ee896af136e3717c9c79fb202058c5e"/>
 		<rom name="Daphne4K.exe" size="3097600" crc="19d65778" sha1="83e682812c1e2437b15145a89af4d61efe8dd692"/>
 		<rom name="Daphne/config.xml" size="174903" crc="50b49c90" sha1="b7c3ea7ef61f9ef05a3db42f0249a622abfca196"/>
@@ -7914,5 +7913,4 @@
 		<rom name="Daphne/sound/sda_success_lo.wav" size="11822" crc="4b6cc3cf" sha1="d9f3a18b64dabddf459c87b4edd81a4e74699c97"/>
 		<rom name="Daphne/sound/sdq-short-success-hi.wav" size="11796" crc="bf579648" sha1="28ebdaef0992463b3ad055989dc9c65aa5f2a8dc"/>
 		<rom name="Daphne/sound/sdq-short-success-low.wav" size="11822" crc="4b6cc3cf" sha1="d9f3a18b64dabddf459c87b4edd81a4e74699c97"/>
-	</game>
 </datafile>

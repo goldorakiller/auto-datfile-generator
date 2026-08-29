@@ -5,7 +5,7 @@
 		<description></description>
 		<category>Laserdisc Collection</category>
 		<version></version>
-		<date>2026-08-27</date>
+		<date>2026-08-28</date>
 		<author>Eggman</author>
 		<url>https://github.com/Eggmansworld/Datfiles</url>
 		<homepage></homepage>
@@ -259,7 +259,6 @@
 		<rom name="vldp/" size="0" crc="00000000"/>
 		<rom name="vldp/astron/" size="0" crc="00000000"/>
 		<rom name="vldp/astron/astron.txt" size="22" crc="5aec6e32" sha1="80c2b6d5bcccd11ec1951e6aeb410e5cc271f4d5"/>
-		<rom name="vldp/astron/astron512.dat" size="423216" crc="38a70a76" sha1="3e7ba90791e9f0bf64896b88356d9560ecc9eeb2"/>
 		<rom name="vldp/astron/astron512.m2v" size="483016074" crc="a0601b7b" sha1="792baad18f0176eef54128765f680be655a97942"/>
 		<rom name="vldp/astron/astron512.ogg" size="35202796" crc="cccc6feb" sha1="1be76a713f950886724664504c9b5a32a962e006"/>
 		<rom name="vldp/astron/blazer.txt" size="22" crc="5aec6e32" sha1="80c2b6d5bcccd11ec1951e6aeb410e5cc271f4d5"/>
@@ -2451,34 +2450,24 @@
 		<rom name="singe/cliffhanger/cliffhanger.txt" size="260" crc="76611fff" sha1="035f6660b7cd5035134a8b7f5bd8eb378a6b13a9"/>
 		<rom name="singe/cliffhanger/cliffhanger.zip" size="374539" crc="bdc54606" sha1="45cacb2f25d42544a45e05a38a3c57da3ed0a904"/>
 		<rom name="singe/cliffhanger/dvd/" size="0" crc="00000000"/>
-		<rom name="singe/cliffhanger/dvd/intro01.dat" size="9848" crc="dce4d79c" sha1="8eecf9d529d6127985501f39dc20c9179fb89937"/>
 		<rom name="singe/cliffhanger/dvd/intro01.m2v" size="194638749" crc="84a4312b" sha1="1f53a58999cb87b9a134dcb2e5835da7939a237c"/>
 		<rom name="singe/cliffhanger/dvd/intro01.ogg" size="2002119" crc="f91ab528" sha1="b3f9a2d3a97b95232bfb713eb2e6bbc3b65df5f4"/>
-		<rom name="singe/cliffhanger/dvd/level01.dat" size="20680" crc="4a6a8478" sha1="818d828155333864ba2f0bd54d6865ece6b11e2f"/>
 		<rom name="singe/cliffhanger/dvd/level01.m2v" size="416027297" crc="a7f9ee78" sha1="a8e639a5122b35bfa1ed73c16607bea4b2d94d41"/>
 		<rom name="singe/cliffhanger/dvd/level01.ogg" size="4541212" crc="8314a500" sha1="b0acb4baff4a5c4a868045bd10ce5a81b0afc381"/>
-		<rom name="singe/cliffhanger/dvd/level02.dat" size="48800" crc="3a41db1d" sha1="22bd2e9fba3c51c070f74b9bb161331ea3488721"/>
 		<rom name="singe/cliffhanger/dvd/level02.m2v" size="967963742" crc="dfb30b96" sha1="d2a47ce3fc704b7cd03385dd113ed30d491b47cd"/>
 		<rom name="singe/cliffhanger/dvd/level02.ogg" size="10429451" crc="52fc8893" sha1="f7d980e8165204a2f6e98456a5ebfff5029c4ba0"/>
-		<rom name="singe/cliffhanger/dvd/level03.dat" size="54376" crc="920e3de4" sha1="5b956aa711e9466699b2583aac6bb39376a52b35"/>
 		<rom name="singe/cliffhanger/dvd/level03.m2v" size="1079882950" crc="4bcf1d90" sha1="b029d4b91e6ef5e2847319f59e9ef1e18ae40180"/>
 		<rom name="singe/cliffhanger/dvd/level03.ogg" size="11270328" crc="812e494b" sha1="a769dacd2a8764b6330ffafa1fac0c822ae94a52"/>
-		<rom name="singe/cliffhanger/dvd/level04.dat" size="30976" crc="26b6ce65" sha1="6f285eb714528edff2b6e35fdf3f81cd6f4effb2"/>
 		<rom name="singe/cliffhanger/dvd/level04.m2v" size="616299153" crc="22a8b818" sha1="6fce9379c360d529d48bb8a4ad6515384730a998"/>
 		<rom name="singe/cliffhanger/dvd/level04.ogg" size="6532082" crc="0600bccc" sha1="6331343e959dbead5a1675f2e82c7971c0bd2666"/>
-		<rom name="singe/cliffhanger/dvd/level05.dat" size="17832" crc="0685605e" sha1="c9750c74d4b44088e8cb9835590f56d776416632"/>
 		<rom name="singe/cliffhanger/dvd/level05.m2v" size="357904336" crc="5c0ecf96" sha1="33f8fcf29857dd57db2fdfe3fb84e53a9f05650b"/>
 		<rom name="singe/cliffhanger/dvd/level05.ogg" size="3682559" crc="1e8c3fca" sha1="70957723970143bfbe36996458665c33d5a26200"/>
-		<rom name="singe/cliffhanger/dvd/level06.dat" size="30360" crc="f3cb6f15" sha1="482e276e9212f9f65a4977a0186e7ae12eaab7a3"/>
 		<rom name="singe/cliffhanger/dvd/level06.m2v" size="606895287" crc="c5e025c3" sha1="9d503909c7662652ac3c9d668b8043e246f7a8fa"/>
 		<rom name="singe/cliffhanger/dvd/level06.ogg" size="6340546" crc="8de1f69e" sha1="db03716e7ba5da4f278ff86eb0df3cf27214b1ee"/>
-		<rom name="singe/cliffhanger/dvd/level07.dat" size="53344" crc="cf215fbd" sha1="64fe446f4ae97a1b2800b06d9b985e53a91e8c29"/>
 		<rom name="singe/cliffhanger/dvd/level07.m2v" size="1063885400" crc="891a6673" sha1="b154398e8cd6550a092aaabcb8b83fa33c2e81bc"/>
 		<rom name="singe/cliffhanger/dvd/level07.ogg" size="11217163" crc="95002fe5" sha1="d2f5e67a6ca8f1014a3bbf3a971515625559edb6"/>
-		<rom name="singe/cliffhanger/dvd/level08.dat" size="51592" crc="a6285bf7" sha1="ce2e8d8e74e18497cbf57e6e51c5c7445e7d0c6e"/>
 		<rom name="singe/cliffhanger/dvd/level08.m2v" size="1026375953" crc="fd5c79b8" sha1="5f6d574c4dbd273e9b3691efbad3ef226748fbec"/>
 		<rom name="singe/cliffhanger/dvd/level08.ogg" size="10716803" crc="78359bdc" sha1="67317ad374d85e8976ad29874064a1d050018b47"/>
-		<rom name="singe/cliffhanger/dvd/menus.dat" size="16112" crc="45a2edad" sha1="46c5c8b72bede8505b238d929518c207232bd9c2"/>
 		<rom name="singe/cliffhanger/dvd/menus.m2v" size="326349466" crc="2550c81d" sha1="9cbbb8852b3d60d709c1dccfa2e988180d372156"/>
 		<rom name="singe/cliffhanger/dvd/menus.ogg" size="3754854" crc="78fb8168" sha1="97af810076e615b3bcf06cecfb9aa39e91e53c61"/>
 		<rom name="singe/cliffhanger/README.md" size="1329" crc="30ff707c" sha1="38f382972d7e1302c8e32d892eef4e94574ba016"/>
@@ -6927,8 +6916,8 @@
 		<rom name="batch/Space Ace SE (06-06-24) [4x3][1440x1080][SAe_xb Scoreboard][FS][V].bat" size="231" crc="afc5259a" sha1="0e81d4576e1e4e99f21bfebd6498467313b4aff8"/>
 		<rom name="batch/Space Ace SE (06-06-24) [4x3][1440x1080][SAe_xc Scoreboard][FS][V].bat" size="231" crc="70c3a858" sha1="5f1bd3f3e0dee3b8125ca9a21f7a49f83a3ba831"/>
 		<rom name="batch/Space Pirates HD [4x3][1440x1080][FS][V].bat" size="201" crc="485022bf" sha1="77cf6a8d251d108a649c45debfe0080cd8528775"/>
-		<rom name="batch/Space Rocks (Carpenter Brut Remix) [16x9][896x504][FS][V].bat" size="199" crc="6396b849" sha1="8c2b9edc02de42c10f59cd055594800789ed3b34"/>
-		<rom name="batch/Space Rocks [16x9][896x504][FS][V].bat" size="179" crc="aa53e738" sha1="37d8801dcfd7a035c1a931f63af635538e52eff6"/>
+		<rom name="batch/Space Rocks (Carpenter Brut Remix)(v1.2.1 enhanced)[16x9][896x504][FS][V].bat" size="184" crc="5eebde30" sha1="72c80767f9357c5f93e32c4b27c138513397ee3a"/>
+		<rom name="batch/Space Rocks (v1.2.1 enhanced)[16x9][896x504][FS][V].bat" size="169" crc="fb1ee2ad" sha1="eb619a88871b011c70b2144d9ea0737a49e7533b"/>
 		<rom name="batch/SpiderHand [16x9][1440x810][FS][V].bat" size="179" crc="41d0c4e8" sha1="c672dcf03d5f4a5c0fa72be38a5175c986d76271"/>
 		<rom name="batch/Starship Troopers [16x9][1920x1080][FS][V].bat" size="203" crc="afc128a4" sha1="e60ccfc8b30be39799304d3ec3ca0fdf1bd50e88"/>
 		<rom name="batch/Sucker Punch [16x9 centercut][1920x1080][FS][V].bat" size="184" crc="8cb98e4a" sha1="96d263408bd01872fa7c4c2ecf7c9f4f20b76142"/>
@@ -7746,11 +7735,11 @@
 		<rom name="singe/spacerocks/" size="0" crc="00000000"/>
 		<rom name="singe/spacerocks/spacerocks.m2v" size="79778858" crc="d39d8b25" sha1="f5215c2fb89cf8e350fd4cff31dd9893820027b8"/>
 		<rom name="singe/spacerocks/spacerocks.txt" size="20" crc="3f0f69fa" sha1="03365de7dedac8dae43203856e95a677eb0bf9a7"/>
-		<rom name="singe/spacerocks/spacerocks.zip" size="48841224" crc="e258039d" sha1="c05cbb63da036561d15c5ae644730948292af206"/>
+		<rom name="singe/spacerocks/spacerocks.zip" size="52740313" crc="65cead62" sha1="c79b8c285c3671e2b6e82086d7bb1618fd622e68"/>
 		<rom name="singe/spacerocks_brut/" size="0" crc="00000000"/>
-		<rom name="singe/spacerocks_brut/spacerocks_brut.m2v" size="79778858" crc="d39d8b25" sha1="f5215c2fb89cf8e350fd4cff31dd9893820027b8"/>
-		<rom name="singe/spacerocks_brut/spacerocks_brut.txt" size="25" crc="378747f4" sha1="b0a05e7da1ff3eda920a1ec9b21ad47f13bc2176"/>
-		<rom name="singe/spacerocks_brut/spacerocks_brut.zip" size="119385262" crc="2d883d38" sha1="364a5a2eb34a1924b2e61dfefa1cab602d82ed0e"/>
+		<rom name="singe/spacerocks_brut/spacerocks.m2v" size="79778858" crc="d39d8b25" sha1="f5215c2fb89cf8e350fd4cff31dd9893820027b8"/>
+		<rom name="singe/spacerocks_brut/spacerocks.txt" size="20" crc="3f0f69fa" sha1="03365de7dedac8dae43203856e95a677eb0bf9a7"/>
+		<rom name="singe/spacerocks_brut/spacerocks.zip" size="130693763" crc="2bc3d2a3" sha1="5f44d30b73c4710d783fd1e10dfefa32ca250d2f"/>
 		<rom name="singe/SpiderHand/" size="0" crc="00000000"/>
 		<rom name="singe/SpiderHand/SpiderHand.txt" size="28" crc="c4246dae" sha1="9037478531555f2d31a3b6136521958f85bc9da9"/>
 		<rom name="singe/SpiderHand/SpiderHand.zip" size="21022032" crc="70505532" sha1="ffe92fcd35dfc39ec88542ef888c220f888c9298"/>
