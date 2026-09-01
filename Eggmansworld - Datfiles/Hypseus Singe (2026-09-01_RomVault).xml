@@ -1,20 +1,26 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <datafile>
 	<header>
 		<name>Hypseus Singe</name>
 		<description></description>
 		<category>Laserdisc Collection</category>
 		<version></version>
-		<date>2026-08-28</date>
+		<date>2026-09-01</date>
 		<author>Eggman</author>
 		<url>https://github.com/Eggmansworld/Datfiles</url>
-		<homepage></homepage>
-		<comment></comment>
+		<homepage>https://github.com/DirtBagXon/hypseus-singe</homepage>
+		<comment>https://dirtbagxon.itch.io/hypseus</comment>
 		<romvault forcepacking="fileonly"/>
 	</header>
 	<game name="Daphne">
-		<description>Daphne</description>
-		<rom name="batch/" size="0" crc="00000000"/>
+		<rom name="gamecontrollerdb.txt" size="564965" crc="360237fe" sha1="e1655f71eb05c2bdb41425c05ef534d22d3c0a49"/>
+		<rom name="hypjsch.exe" size="4500992" crc="d5ab324f" sha1="59f54b37c2c70ee4b1afe17b872a89577d56b747"/>
+		<rom name="hypseus-logo.png" size="114876" crc="a21fe175" sha1="4d24b293d74a1f09d6a985155187575bf106a673"/>
+		<rom name="hypseus.exe" size="14663168" crc="683a162c" sha1="c0e6947e25439f9b669a29f6b63e89166b388700"/>
+		<rom name="hypseus_subsystem.exe" size="14654464" crc="6bcb9a16" sha1="77470e01145d77d68b890d3771abfb0ab35772f7"/>
+		<rom name="LICENSE" size="32472" crc="b792a93a" sha1="a6adc13d0c809ab8cb68e6e3b6eb7571bd0e2920"/>
+		<rom name="README.txt" size="3774" crc="f78408a1" sha1="d7714b450793ee1f6b5d3ea3a2f756b96d9f03ac"/>
+		<rom name="README_BEZELS.txt" size="2050" crc="c4398bbb" sha1="8321a43662cefea66573c5deab2cc9a72bb8ca0c"/>
 		<rom name="batch/Daphne - Astron Belt [4x3][512x480][FS][V].bat" size="117" crc="706c5517" sha1="db98df782d994dc27f1ead1b7aff756ba31fc818"/>
 		<rom name="batch/Daphne - Badlands [4x3][640x480][FS][V].bat" size="159" crc="4b349f8f" sha1="c1c4440d7f5db7ac7fdb43590180c10a3eae08f2"/>
 		<rom name="batch/Daphne - Bega&apos;s Battle [4x3][512x480][FS][V].bat" size="113" crc="ccc68636" sha1="dc137a94c42df9c9beb0408e70f0f3c186900c87"/>
@@ -68,28 +74,18 @@
 		<rom name="batch/Daphne - Thayer&apos;s Quest [4x3][1920x1440][FS][V].bat" size="127" crc="8c582e93" sha1="7e36320c844a27b359fbde98c19839f9d9041742"/>
 		<rom name="batch/Daphne - Thayer&apos;s Quest [4x3][1920x1440][interactive keyboard OSD][FS][V].bat" size="135" crc="d74873a4" sha1="28956325318124120e003e04c370f3e13c0c2f62"/>
 		<rom name="batch/Daphne - Us vs. Them [4x3][512x480][FS][V].bat" size="136" crc="db2364f8" sha1="e239b78027fb2f196f568c477d2d841d6b9937c3"/>
-		<rom name="bezels/" size="0" crc="00000000"/>
 		<rom name="bezels/tq_bezel.png" size="1389701" crc="db98071e" sha1="f78586ab4331ca058a272ccf66e02f5e9b3dada4"/>
 		<rom name="bezels/tqkeys README.txt" size="671" crc="cd49569a" sha1="ee0a6d19e45b12bfafc8b61805dd9c965025e5ad"/>
 		<rom name="bezels/tqkeys.png" size="1585923" crc="c4e2b8c7" sha1="1572e48430acd34e374608325c75ae2323d49764"/>
 		<rom name="bezels/tqkeys_alt.png" size="828863" crc="3d395d0c" sha1="b83d8d6bda0c284c40fa7466aa224a0401ad4613"/>
-		<rom name="fonts/" size="0" crc="00000000"/>
 		<rom name="fonts/daphne.ttf" size="42316" crc="e8a980c4" sha1="114b34022174570b302fa0b22d71d7d10a6e6fef"/>
 		<rom name="fonts/default.ttf" size="38924" crc="7a61047d" sha1="c41977dc265faf65c0a1f2295d36af2fc003eee9"/>
 		<rom name="fonts/digital.ttf" size="10044" crc="25f1e07a" sha1="ee33e4cbcec5f752dbf493bd19ddcd2817311911"/>
 		<rom name="fonts/pixel.ttf" size="44468" crc="f3866188" sha1="6a57320632315d1b457f9ba5f59326ba0ab37427"/>
 		<rom name="fonts/timewarp.ttf" size="26612" crc="1c21024f" sha1="ef9dd1ce72ea5e849382aca1a8d77da8f34db9b2"/>
-		<rom name="gamecontrollerdb.txt" size="564965" crc="360237fe" sha1="e1655f71eb05c2bdb41425c05ef534d22d3c0a49"/>
-		<rom name="hypjsch.exe" size="4500992" crc="d5ab324f" sha1="59f54b37c2c70ee4b1afe17b872a89577d56b747"/>
-		<rom name="hypseus-logo.png" size="114876" crc="a21fe175" sha1="4d24b293d74a1f09d6a985155187575bf106a673"/>
-		<rom name="hypseus.exe" size="14654464" crc="722efa94" sha1="efaab07faaedd565317b91f6a7e342717b57765a"/>
-		<rom name="hypseus_subsystem.exe" size="14654464" crc="6bcb9a16" sha1="77470e01145d77d68b890d3771abfb0ab35772f7"/>
-		<rom name="LICENSE" size="32472" crc="b792a93a" sha1="a6adc13d0c809ab8cb68e6e3b6eb7571bd0e2920"/>
-		<rom name="midi/" size="0" crc="00000000"/>
 		<rom name="midi/COPYING.txt" size="18962" crc="9f0588ba" sha1="ce62f9e8817b2202ba26b04f69d939b5ee5f191e"/>
 		<rom name="midi/soundfont.sf2" size="5969788" crc="d6ff6f31" sha1="63e4eab3162ef10ffd99e89f13e4e67f751e9900"/>
 		<rom name="midi/SOUNDFONTS.txt" size="414" crc="4dbad077" sha1="0699be6a163fdb77010037c29ae6ecf3c1a5fb7e"/>
-		<rom name="pics/" size="0" crc="00000000"/>
 		<rom name="pics/annunoff.png" size="2307" crc="340bcb99" sha1="6e6a390981d3061f175f651d86809d9102ae9a14"/>
 		<rom name="pics/annunon.png" size="2394" crc="59fbf800" sha1="e42050d4e4c13618d30688cd459c6f49e995438f"/>
 		<rom name="pics/cadet.bmp" size="11690" crc="f5355632" sha1="3c5e70c58e2f0cff353eda64478a6f7f2847d80c"/>
@@ -133,9 +129,6 @@
 		<rom name="pics/spaceace.bmp" size="18378" crc="1a2699cf" sha1="76781d6ff69cb8cb7e3497f0e081ba44e8853e12"/>
 		<rom name="pics/time.bmp" size="4378" crc="2600f7a8" sha1="79f9cd76bc6b00625c317435e215d536f08a195c"/>
 		<rom name="pics/tqkeys.png" size="795112" crc="fbeed87d" sha1="0d28b8e4788d95c6abd3f20b8c432ac3285d4684"/>
-		<rom name="README.txt" size="3725" crc="0e2364ee" sha1="b9cb9a8492995aa797965f0631367faf1a3aef7e"/>
-		<rom name="README_BEZELS.txt" size="2050" crc="c4398bbb" sha1="8321a43662cefea66573c5deab2cc9a72bb8ca0c"/>
-		<rom name="roms/" size="0" crc="00000000"/>
 		<rom name="roms/ace.zip" size="22133" crc="9cc33480" sha1="d0090537af457be4252fce04d22aa0d2750c0259"/>
 		<rom name="roms/ace91.zip" size="27636" crc="44719219" sha1="becd81c432953d875bf825a7b9312f509c4a299d"/>
 		<rom name="roms/ace91_euro.zip" size="27634" crc="2d89004e" sha1="ea5f798925f4e6bd154e6db9f4f52fd845e2c561"/>
@@ -150,15 +143,6 @@
 		<rom name="roms/cobraab.zip" size="21217" crc="3ef4190f" sha1="0dbf031fbccef57625980f997729c2a70966514c"/>
 		<rom name="roms/cobraconv.zip" size="28229" crc="8ac5f0d4" sha1="97b340b00d77ce0de366fb31d8d73e01943cf4ce"/>
 		<rom name="roms/cobram3.zip" size="26196" crc="4493a9a6" sha1="2a8d649811c571345950ca7cd3a44d9096f6b581"/>
-		<rom name="roms/cputest/" size="0" crc="00000000"/>
-		<rom name="roms/cputest/branchtest.asm" size="448" crc="3b5f5418" sha1="92b9d186e70547f02ed19f9e70902ab12a81b947"/>
-		<rom name="roms/cputest/branchtest.bin" size="106" crc="7d0c9115" sha1="8785e3b984660daaf0d520c2523db3b70e83c477"/>
-		<rom name="roms/cputest/prelim.com" size="1280" crc="bde35080" sha1="2b60053304be0c65a84889e28328eb8f4f3fa23a"/>
-		<rom name="roms/cputest/prog1.bin" size="113" crc="aefca341" sha1="851e5447630d9731f461003e97580696e93eae24"/>
-		<rom name="roms/cputest/prog2.bin" size="113" crc="0c6c8ce9" sha1="1b962199ae130c2c6f83de5ae92f88342b987f43"/>
-		<rom name="roms/cputest/savage.com" size="14080" crc="c8d0edf6" sha1="f82df7047011c08e8fa9c355e82d8720f892cbab"/>
-		<rom name="roms/cputest/zexall.com" size="8704" crc="ecf70fd6" sha1="1dbdf5c84c262e83cafacd26db787fba68b9605d"/>
-		<rom name="roms/cputest/zexdoc.com" size="8704" crc="a610193a" sha1="2b91e88db9460567e23c1bc2b9903b6cd004ceae"/>
 		<rom name="roms/dle21.zip" size="24883" crc="de990760" sha1="e25c805475430b10e3ccc6129cd98e4591a56974"/>
 		<rom name="roms/esh.zip" size="17201" crc="ce0a5a0b" sha1="887c64c3379c6e4fc9633c8a8052688cb86ecca6"/>
 		<rom name="roms/eshfix7.zip" size="17888" crc="36df9561" sha1="20593dc108de76251247edd7614a26a8af37a981"/>
@@ -179,7 +163,14 @@
 		<rom name="roms/sdq.zip" size="11934" crc="8493b470" sha1="b46a940ce4d6907c827b168c5062eb3a5b45f3d7"/>
 		<rom name="roms/tq.zip" size="24414" crc="7b3a9ab5" sha1="0e806f666d9c4b78b3ec0489dce6ec31c1aaf744"/>
 		<rom name="roms/uvt.zip" size="62400" crc="5a023b30" sha1="019be23564e7c30505fe2473925120b8ba2a6053"/>
-		<rom name="sound/" size="0" crc="00000000"/>
+		<rom name="roms/cputest/branchtest.asm" size="448" crc="3b5f5418" sha1="92b9d186e70547f02ed19f9e70902ab12a81b947"/>
+		<rom name="roms/cputest/branchtest.bin" size="106" crc="7d0c9115" sha1="8785e3b984660daaf0d520c2523db3b70e83c477"/>
+		<rom name="roms/cputest/prelim.com" size="1280" crc="bde35080" sha1="2b60053304be0c65a84889e28328eb8f4f3fa23a"/>
+		<rom name="roms/cputest/prog1.bin" size="113" crc="aefca341" sha1="851e5447630d9731f461003e97580696e93eae24"/>
+		<rom name="roms/cputest/prog2.bin" size="113" crc="0c6c8ce9" sha1="1b962199ae130c2c6f83de5ae92f88342b987f43"/>
+		<rom name="roms/cputest/savage.com" size="14080" crc="c8d0edf6" sha1="f82df7047011c08e8fa9c355e82d8720f892cbab"/>
+		<rom name="roms/cputest/zexall.com" size="8704" crc="ecf70fd6" sha1="1dbdf5c84c262e83cafacd26db787fba68b9605d"/>
+		<rom name="roms/cputest/zexdoc.com" size="8704" crc="a610193a" sha1="2b91e88db9460567e23c1bc2b9903b6cd004ceae"/>
 		<rom name="sound/ab_alarm1.wav" size="8304" crc="28bc4f2e" sha1="7bc31f484a529494a50fb25fb045b2d9f568b2d4"/>
 		<rom name="sound/ab_alarm2.wav" size="8294" crc="404074d0" sha1="a4c93dc8831509397b71f0e25d6f4e543fb49828"/>
 		<rom name="sound/ab_alarm3.wav" size="8592" crc="d678f828" sha1="f04a30887af88026375557c830ad0c7fd1c853d4"/>
@@ -256,83 +247,67 @@
 		<rom name="sound/sd_succeed.wav" size="11782" crc="77ce2283" sha1="87df33ff512dcd73d41158108083c455387ce805"/>
 		<rom name="sound/sda_success_hi.wav" size="11796" crc="bf579648" sha1="28ebdaef0992463b3ad055989dc9c65aa5f2a8dc"/>
 		<rom name="sound/sda_success_lo.wav" size="11822" crc="4b6cc3cf" sha1="d9f3a18b64dabddf459c87b4edd81a4e74699c97"/>
-		<rom name="vldp/" size="0" crc="00000000"/>
-		<rom name="vldp/astron/" size="0" crc="00000000"/>
+		<rom name="vldp/blazer_README.txt" size="54" crc="6fec83c1" sha1="b2a3ead5b9ecf565af720a89e2efdb932c7bc1a4"/>
+		<rom name="vldp/cobra_README.txt" size="54" crc="990bc950" sha1="17e1cc11ba9b82b39699536061b6a5d53256eb71"/>
 		<rom name="vldp/astron/astron.txt" size="22" crc="5aec6e32" sha1="80c2b6d5bcccd11ec1951e6aeb410e5cc271f4d5"/>
 		<rom name="vldp/astron/astron512.m2v" size="483016074" crc="a0601b7b" sha1="792baad18f0176eef54128765f680be655a97942"/>
 		<rom name="vldp/astron/astron512.ogg" size="35202796" crc="cccc6feb" sha1="1be76a713f950886724664504c9b5a32a962e006"/>
 		<rom name="vldp/astron/blazer.txt" size="22" crc="5aec6e32" sha1="80c2b6d5bcccd11ec1951e6aeb410e5cc271f4d5"/>
-		<rom name="vldp/badlands/" size="0" crc="00000000"/>
 		<rom name="vldp/badlands/badlands-pc.m2v" size="683422357" crc="54a32285" sha1="0ecf2b549d05ddb6f0b0986ff898443b90e77da5"/>
 		<rom name="vldp/badlands/badlands-pc.ogg" size="29905831" crc="82e671d9" sha1="54df87dbc7bdf58a30a10f66c542e3434d3ab53c"/>
 		<rom name="vldp/badlands/badlands.txt" size="32" crc="63eb4943" sha1="5b9ab3c05e3dc455336143e26dedbfa84f56ea82"/>
-		<rom name="vldp/bega/" size="0" crc="00000000"/>
 		<rom name="vldp/bega/bega.m2v" size="434853992" crc="4b65fc10" sha1="6889744ff4e023d3fc446fad6235feb5eb19e9e7"/>
 		<rom name="vldp/bega/bega.ogg" size="21249503" crc="4d039790" sha1="f85216eb398ee851152a0874ddcc8b065d34b3ff"/>
 		<rom name="vldp/bega/bega.txt" size="23" crc="38c2f5b6" sha1="5206e07d99e991e6edc88a45df904efed7089ed8"/>
-		<rom name="vldp/blazer_README.txt" size="54" crc="6fec83c1" sha1="b2a3ead5b9ecf565af720a89e2efdb932c7bc1a4"/>
-		<rom name="vldp/cliff/" size="0" crc="00000000"/>
 		<rom name="vldp/cliff/cliff-it.ogg" size="34020558" crc="0a293e5e" sha1="e6b72fc1f55fbb0e65ec1707db0277755efbbe60"/>
 		<rom name="vldp/cliff/cliff.m2v" size="1229882508" crc="922671a9" sha1="968bd6923b2920a7c880b398cc8bca33c7c70912"/>
 		<rom name="vldp/cliff/cliff.ogg" size="12788179" crc="5458dc1a" sha1="20ae2e5516f9d3ba7ae9f7e4c57a34d300718132"/>
 		<rom name="vldp/cliff/cliff.txt" size="18" crc="5b07aaad" sha1="9b80ec0df14390c578e6b696a6d74a13f25e3585"/>
-		<rom name="vldp/cobra_README.txt" size="54" crc="990bc950" sha1="17e1cc11ba9b82b39699536061b6a5d53256eb71"/>
-		<rom name="vldp/cobraab/" size="0" crc="00000000"/>
 		<rom name="vldp/cobraab/cc-frame53930_to_end.m2v" size="1889522" crc="a834e309" sha1="42d883ea1ac7681205dfc95e5d04e8ea0da27128"/>
 		<rom name="vldp/cobraab/cobra.m2v" size="2170461220" crc="5c327016" sha1="0043f9a0db8af17ab0f96bf5d331f9c43a21ac29"/>
 		<rom name="vldp/cobraab/cobra.ogg" size="29348487" crc="408f49e3" sha1="3b7fb2cafff83698573407b395676960c7848540"/>
 		<rom name="vldp/cobraab/cobra.txt" size="54" crc="d1dff286" sha1="0cffe9124740e1ba7ee2356c1e890eab1f770642"/>
 		<rom name="vldp/cobraab/cobraab.txt" size="54" crc="cae4f24b" sha1="a27347fc8db447f2788a1daea60e5c6780c95a72"/>
-		<rom name="vldp/esh/" size="0" crc="00000000"/>
 		<rom name="vldp/esh/esh-ja-hd.ogg" size="52722037" crc="60917e5e" sha1="dbc9816b29628a7b04e1aeba0f0b5ed5a8816539"/>
 		<rom name="vldp/esh/esh-ja.ogg" size="19082007" crc="ac91294f" sha1="9c5c6fb4e48fa31a4c9e8e032812f9718cde318d"/>
 		<rom name="vldp/esh/esh-ja.txt" size="5730" crc="1b21d5d1" sha1="26e2ad1b7c414726dbcb6180c9ba630fa39b58bf"/>
 		<rom name="vldp/esh/esh.m2v" size="865235968" crc="0c71f67b" sha1="b9077560b44c3eb7f48986fe7b20e7ea4bf1a5d6"/>
 		<rom name="vldp/esh/esh.ogg" size="20380767" crc="34f6c6c6" sha1="bbeb87a733fdebf8a9caeae8f8aef2c8b7650576"/>
 		<rom name="vldp/esh/esh.txt" size="13" crc="22ead434" sha1="32b4557fefbea81b0029090c61b919cd3f92b212"/>
-		<rom name="vldp/galaxy/" size="0" crc="00000000"/>
 		<rom name="vldp/galaxy/galaxy.txt" size="18" crc="596ba7ae" sha1="cde4ce4670d7cf8e0750e9fb9cee2220e44ea2d3"/>
 		<rom name="vldp/galaxy/galaxyr.m2v" size="502459789" crc="d42958d8" sha1="ff2ea39aa5e1541cd8a984c47f3f1c075743246d"/>
 		<rom name="vldp/galaxy/galaxyr.ogg" size="33314759" crc="f28e2e2c" sha1="e61ba86945ec786b27db320afbda14866972dfb8"/>
-		<rom name="vldp/gpworld/" size="0" crc="00000000"/>
 		<rom name="vldp/gpworld/gpdiags.m2v" size="10983772" crc="b173414a" sha1="4b8fca5c943904d130a130723b4a31c512ac4864"/>
 		<rom name="vldp/gpworld/gpdiags.ogg" size="843268" crc="3bcbcc45" sha1="d6fc9bf3ff7ee535002e1659b30f7b74c6400b1b"/>
 		<rom name="vldp/gpworld/gpworld.m2v" size="413309869" crc="c2fd77a8" sha1="6a38871fa952903ca9ba947356596c2ba51c92c1"/>
 		<rom name="vldp/gpworld/gpworld.ogg" size="14388247" crc="709a8a1c" sha1="519ac80b507caefa3f7cf65dc44717363a9f0ed0"/>
 		<rom name="vldp/gpworld/gpworld.txt" size="41" crc="8210791c" sha1="12202d36501a080eaef486681268874befde59a8"/>
-		<rom name="vldp/gtg/" size="0" crc="00000000"/>
 		<rom name="vldp/gtg/gtg.m2v" size="1258899165" crc="1fc3197d" sha1="b1bf84b1620743a4246d0239cba6414fc06568e1"/>
 		<rom name="vldp/gtg/gtg.ogg" size="24100257" crc="2c68f37b" sha1="6446565dfd7ae2b1521e0499851f69ef50c598c0"/>
 		<rom name="vldp/gtg/gtg.txt" size="15" crc="f1f09e31" sha1="57adf5a50cafcff3e18b37d2a0e30d8a7667f19b"/>
-		<rom name="vldp/interstellar/" size="0" crc="00000000"/>
 		<rom name="vldp/interstellar/interstellar.m2v" size="390083309" crc="f063804c" sha1="4e90c50d54071f3a728ad54ece8a9deab4244c59"/>
 		<rom name="vldp/interstellar/interstellar.ogg" size="25741275" crc="6042cacf" sha1="656950349ff43922d1bfb28b984f55472f8ba3ad"/>
 		<rom name="vldp/interstellar/interstellar.txt" size="25" crc="f3de63fd" sha1="666416d7f6e56f04c3caad7ae17d14abc3edd6f9"/>
-		<rom name="vldp/lair/" size="0" crc="00000000"/>
 		<rom name="vldp/lair/lair.m2v" size="1491833976" crc="5e2f6d95" sha1="79bab500aaaa823d014f3a01a6b27d743a207adc"/>
 		<rom name="vldp/lair/lair.ogg" size="48452357" crc="d06523f9" sha1="153e93873768650ce889e3766ff8e15507919db4"/>
 		<rom name="vldp/lair/lair.txt" size="15" crc="9ac4e508" sha1="1d4b2c481a9a9f8d8c19d4fe7278ae05ed5d114b"/>
-		<rom name="vldp/mach3/" size="0" crc="00000000"/>
 		<rom name="vldp/mach3/mach3.m2v" size="1983856749" crc="0382f567" sha1="8fd257fed0a6551623123280573aa079daf9048b"/>
 		<rom name="vldp/mach3/mach3.ogg" size="28611260" crc="e9476269" sha1="2ff2f9c3cb32523c97419a6865d895d4b22403b8"/>
 		<rom name="vldp/mach3/mach3.txt" size="16" crc="299e9260" sha1="c54f5eb7e06a250aa10264d5c8006fe426e99678"/>
-		<rom name="vldp/roadblaster/" size="0" crc="00000000"/>
 		<rom name="vldp/roadblaster/rb.m2v" size="705733047" crc="7835db29" sha1="06840906e10c3b3c7797d38b54ebb19509f524f7"/>
 		<rom name="vldp/roadblaster/rb.ogg" size="33437613" crc="7730ae60" sha1="4b6c6376dcae4d980086f9719a7f9d17be64c6ee"/>
 		<rom name="vldp/roadblaster/roadblaster.txt" size="12" crc="a80e14fd" sha1="67bcb2e10490152f080130820efc12fef74e5a98"/>
-		<rom name="vldp/sdq/" size="0" crc="00000000"/>
 		<rom name="vldp/sdq/sdq-blank.m2v" size="27731" crc="a322a89c" sha1="ee36010bf912d07926377e0b18910506770694db"/>
 		<rom name="vldp/sdq/sdq-colorbars.m2v" size="77705" crc="ddae7f4d" sha1="257fe0f86826c6429b5780c52b27ff558c2b3899"/>
 		<rom name="vldp/sdq/sdq-crosshairs.m2v" size="118017" crc="0a2e0bc6" sha1="37d23f6122d66179f0b234bde7802775b9c9b3c7"/>
 		<rom name="vldp/sdq/sdq.m2v" size="1115930563" crc="a0aade3d" sha1="7f5f40637583a3ec730494facb8f7f54d7a4755b"/>
 		<rom name="vldp/sdq/sdq.ogg" size="21437159" crc="29d045e0" sha1="b427b877cbe1d5f68801efbe12ed119c3b534f02"/>
 		<rom name="vldp/sdq/sdq.txt" size="89" crc="544ed45a" sha1="2c1c729eb4d8318ce55344090e2bd27df87bb305"/>
-		<rom name="vldp/uvt/" size="0" crc="00000000"/>
 		<rom name="vldp/uvt/uvt-170606.m2v" size="579213449" crc="91d336d5" sha1="48f665cb61e7a0eded90bb78dfcb81c8ee883e21"/>
 		<rom name="vldp/uvt/uvt-170606.ogg" size="27606370" crc="5dd2a065" sha1="de4f6e02c1c43a9b8b7cfe7a01fff769177d8deb"/>
 		<rom name="vldp/uvt/uvt.txt" size="21" crc="ac465eeb" sha1="19ec1e274f6557aef8371ec83bf999625041fb40"/>
-		<rom name="vldp_dl/" size="0" crc="00000000"/>
-		<rom name="vldp_dl/ace/" size="0" crc="00000000"/>
+		<rom name="vldp_dl/dle21_README.txt" size="51" crc="8e1652d4" sha1="b1a0c0dfd06321baa01bec4dc84ad31276e4184e"/>
+		<rom name="vldp_dl/sae_README.txt" size="48" crc="249c6828" sha1="d21038c2a0b01bca7a340322d82342abdbfe77f0"/>
 		<rom name="vldp_dl/ace/ace.txt" size="6130" crc="2535f292" sha1="804a450cd321d58ec15ed38f08988fcc1a6a0133"/>
 		<rom name="vldp_dl/ace/sa-slates.m2v" size="16434965" crc="f1833b8d" sha1="18864bc1a7a2e1f380eb8d2b782f03859af78157"/>
 		<rom name="vldp_dl/ace/sae.txt" size="6130" crc="2535f292" sha1="804a450cd321d58ec15ed38f08988fcc1a6a0133"/>
@@ -1044,16 +1019,12 @@
 		<rom name="vldp_dl/ace/spa24p1.vob.m2v" size="191820448" crc="97b9191f" sha1="91d53608b1cf394112fb7876e3f4392cee0948e5"/>
 		<rom name="vldp_dl/ace/spa24p1.vob.ogg" size="918301" crc="e159ff9b" sha1="77523b1901ed45b2900464b074504e20dd85516d"/>
 		<rom name="vldp_dl/ace/spa24p1.vob_ita.ogg" size="1316911" crc="a4262ba5" sha1="3f3a3518a68157aecf91b3ea45fb04fdd6fc316b"/>
-		<rom name="vldp_dl/ace91/" size="0" crc="00000000"/>
 		<rom name="vldp_dl/ace91/ace91.m2v" size="1527865839" crc="5e8e36ab" sha1="9fb90fc031ae548c1fc3061d4856c3724d0757c5"/>
 		<rom name="vldp_dl/ace91/ace91.ogg" size="36925026" crc="703e71f2" sha1="609c0f27e66153eb7d186d8a1e63f807015875f1"/>
 		<rom name="vldp_dl/ace91/ace91.txt" size="15" crc="0d966162" sha1="20af9cb8c87c8ba81edb9bfe277ca75a6974347b"/>
-		<rom name="vldp_dl/aceeuro/" size="0" crc="00000000"/>
 		<rom name="vldp_dl/aceeuro/aceeuro.m2v" size="1752340728" crc="70729ea2" sha1="d960560daa219adcbdb158bf0ed030c872e8beb2"/>
 		<rom name="vldp_dl/aceeuro/aceeuro.ogg" size="33261677" crc="46c41671" sha1="17236a44b390493d8b7468bcea8b21345093aad5"/>
 		<rom name="vldp_dl/aceeuro/aceeuro.txt" size="21" crc="0cb74a8d" sha1="536eff2d11911d04c55cd2ddfa5a9963a4d8bdf8"/>
-		<rom name="vldp_dl/dle21_README.txt" size="51" crc="8e1652d4" sha1="b1a0c0dfd06321baa01bec4dc84ad31276e4184e"/>
-		<rom name="vldp_dl/lair/" size="0" crc="00000000"/>
 		<rom name="vldp_dl/lair/dl-slates.m2v" size="19636282" crc="24956bd6" sha1="929cd854534367d4621dff9ec1b6ab94d22a7ac7"/>
 		<rom name="vldp_dl/lair/dle21.txt" size="4530" crc="99a10b1a" sha1="e21feba865a16ec42b9722dfd3f5b70418335091"/>
 		<rom name="vldp_dl/lair/dls00.vob.m2v" size="147271992" crc="871f1705" sha1="a3576bd6c20872bc43737c726f2ab18af50161af"/>
@@ -1639,7 +1610,6 @@
 		<rom name="vldp_dl/lair/dls38d6.vob.ogg" size="36247" crc="91afe450" sha1="2b295da4f39c8d9779c8e105a12ba263e7330fa8"/>
 		<rom name="vldp_dl/lair/dls38d6.vob_ita.ogg" size="36247" crc="91afe450" sha1="2b295da4f39c8d9779c8e105a12ba263e7330fa8"/>
 		<rom name="vldp_dl/lair/lair.txt" size="4530" crc="99a10b1a" sha1="e21feba865a16ec42b9722dfd3f5b70418335091"/>
-		<rom name="vldp_dl/lair2/" size="0" crc="00000000"/>
 		<rom name="vldp_dl/lair2/dl2-credits.m2v" size="2519993" crc="77f8a9a3" sha1="c8424fc55fa4a5121debc9dc2dc6ac0d5d6ed05c"/>
 		<rom name="vldp_dl/lair2/dl2-slates-2.m2v" size="227017" crc="45de78e8" sha1="bf839df5e5c2fb19240547b0c3636dd1733106ab"/>
 		<rom name="vldp_dl/lair2/dl2-slates.m2v" size="15793763" crc="8debfacc" sha1="c95e913897ea8636d0681dcef9e3b9d2d6e6857b"/>
@@ -2252,36 +2222,35 @@
 		<rom name="vldp_dl/lair2/filelist.txt" size="3245" crc="d09eacca" sha1="e3001ca4629aa18a2ac740cf121ee516b5800d8b"/>
 		<rom name="vldp_dl/lair2/install.bat" size="116" crc="937324e3" sha1="872da6880ecc004ba16e447951789542b7af217a"/>
 		<rom name="vldp_dl/lair2/lair2.txt" size="7256" crc="1e62d310" sha1="559c65fe42b0bc301656c7ebd38ea1b31812f75b"/>
-		<rom name="vldp_dl/lair_chd/" size="0" crc="00000000"/>
 		<rom name="vldp_dl/lair_chd/lair_chd.m2v" size="2486301531" crc="e56ca3fd" sha1="0016c1e4c6ca05f7eb8e7f00f8f7c3cb41bbe83a"/>
 		<rom name="vldp_dl/lair_chd/lair_chd.ogg" size="28621340" crc="d3fbe51c" sha1="73c1a8f3bcbfd8742a241dd1fc0389e40403b024"/>
 		<rom name="vldp_dl/lair_chd/lair_chd.txt" size="22" crc="46506db9" sha1="03832c18fe10018de5c3653affb978a623d19aab"/>
-		<rom name="vldp_dl/lair_n1/" size="0" crc="00000000"/>
 		<rom name="vldp_dl/lair_n1/lair_n1.m2v" size="893769849" crc="0cf8b2ae" sha1="53659c6c9714c792fa6508836cfe7cb2c9ad138b"/>
 		<rom name="vldp_dl/lair_n1/lair_n1.ogg" size="28457523" crc="2b955a97" sha1="b095c0362f4e4573555f2c5b404461085d134a6d"/>
 		<rom name="vldp_dl/lair_n1/lair_n1.txt" size="19" crc="87aac150" sha1="01b77147f95b9a62315b9e64e786dd355eee31fd"/>
 		<rom name="vldp_dl/lair_n1/lair_n1_ita.ogg" size="37189641" crc="8d030835" sha1="b15269ebeb416e0ff350dd918face0c981334b83"/>
-		<rom name="vldp_dl/laireuro/" size="0" crc="00000000"/>
 		<rom name="vldp_dl/laireuro/laireuro.m2v" size="1505205016" crc="5b411335" sha1="ffe34829145eeb11b5c9065a8596b42060c6d9ae"/>
 		<rom name="vldp_dl/laireuro/laireuro.ogg" size="28628502" crc="2647f4f0" sha1="3480a2e83d6fcf61f884f5643894089350fe0f9e"/>
 		<rom name="vldp_dl/laireuro/laireuro.txt" size="22" crc="ecf99c00" sha1="9bae3d492930277a612a3b3cb26cecbf970b390e"/>
-		<rom name="vldp_dl/sae_README.txt" size="48" crc="249c6828" sha1="d21038c2a0b01bca7a340322d82342abdbfe77f0"/>
-		<rom name="vldp_dl/tq/" size="0" crc="00000000"/>
 		<rom name="vldp_dl/tq/tq.txt" size="31" crc="02e30b37" sha1="5368005b490eb576eb806d4ad1612e683333d6f7"/>
 		<rom name="vldp_dl/tq/tq1.m2v" size="2184630511" crc="de604ee8" sha1="24ba0585284f993cd9c10febd5058a892ab6c4ca"/>
 		<rom name="vldp_dl/tq/tq1.ogg" size="26686109" crc="9af3c3ea" sha1="8eadfd834396e0563202008b8a465f5078855029"/>
 		<rom name="vldp_dl/tq/tq2.m2v" size="2066618522" crc="7f436375" sha1="34d0e35964e69e4a3cf26b0c80cb1749b793fd1b"/>
 		<rom name="vldp_dl/tq/tq2.ogg" size="28966510" crc="2d920739" sha1="bd7b5bba5147dcfa7f6d5fdd0f9f8735eb2eb2c2"/>
-		<rom name="vldp_dl/tq_chd/" size="0" crc="00000000"/>
 		<rom name="vldp_dl/tq_chd/thayers_chd.m2v" size="3171486031" crc="8b18392d" sha1="d5856e3f18f2e7b0dd66613a7d1777c366171ef2"/>
 		<rom name="vldp_dl/tq_chd/thayers_chd.ogg" size="32296859" crc="9950ce52" sha1="46d70e4290808d1ae62e346096a877a873ce9a5a"/>
 		<rom name="vldp_dl/tq_chd/tq_chd.txt" size="24" crc="da19fa40" sha1="57d9e9e86e7b69d46874e6261508e0fcd3e48f5e"/>
-		<rom name="win32/" size="0" crc="00000000"/>
 		<rom name="win32/README.md" size="1758" crc="c5b70b24" sha1="c065043e5177fac1d8b5fbd0ea5e475b31486299"/>
 	</game>
 	<game name="Singe1">
-		<description>Singe1</description>
-		<rom name="batch/" size="0" crc="00000000"/>
+		<rom name="gamecontrollerdb.txt" size="564965" crc="360237fe" sha1="e1655f71eb05c2bdb41425c05ef534d22d3c0a49"/>
+		<rom name="hypjsch.exe" size="4500992" crc="d5ab324f" sha1="59f54b37c2c70ee4b1afe17b872a89577d56b747"/>
+		<rom name="hypseus-logo.png" size="114876" crc="a21fe175" sha1="4d24b293d74a1f09d6a985155187575bf106a673"/>
+		<rom name="hypseus.exe" size="14663168" crc="683a162c" sha1="c0e6947e25439f9b669a29f6b63e89166b388700"/>
+		<rom name="hypseus_subsystem.exe" size="14654464" crc="6bcb9a16" sha1="77470e01145d77d68b890d3771abfb0ab35772f7"/>
+		<rom name="LICENSE" size="32472" crc="b792a93a" sha1="a6adc13d0c809ab8cb68e6e3b6eb7571bd0e2920"/>
+		<rom name="README.txt" size="3774" crc="f78408a1" sha1="d7714b450793ee1f6b5d3ea3a2f756b96d9f03ac"/>
+		<rom name="README_BEZELS.txt" size="2050" crc="c4398bbb" sha1="8321a43662cefea66573c5deab2cc9a72bb8ca0c"/>
 		<rom name="batch/ActionMax - .38 Ambush Alley (bezel) [4x3][720x480][FS][V].bat" size="218" crc="ffd6e395" sha1="03eb2009c460e4d7328d2f3dbbbf749ae5185200"/>
 		<rom name="batch/ActionMax - .38 Ambush Alley (bezel, light) [4x3][720x480][FS][V].bat" size="226" crc="e146ccbc" sha1="ec46a4c43a7dc6a7b16739dd9d6722aa881ec601"/>
 		<rom name="batch/ActionMax - Blue Thunder (bezel) [4x3][720x480][FS][V].bat" size="214" crc="851ec132" sha1="15a0bd3d32c7a32ec6eb6e7bb86274e88b08c932"/>
@@ -2320,29 +2289,19 @@
 		<rom name="batch/Triad Stone [4x3][1280x960][FS][V].bat" size="155" crc="ddcc636f" sha1="0ac437a6b1ad655a2de94b475a1f377d92ab7871"/>
 		<rom name="batch/Warriors, The (Italian) [4x3][1280x720][FS][V].bat" size="169" crc="d7806d2b" sha1="6dd041c1b7efb278535c873ccc3c23a0429fd556"/>
 		<rom name="batch/Who Shot Johnny Rock [4x3][720x480][FS][C].bat" size="181" crc="f6ec8b00" sha1="b3385b46ffd251eabaa2149ca16f486f9257e8db"/>
-		<rom name="bezels/" size="0" crc="00000000"/>
 		<rom name="bezels/Actionmax.png" size="960549" crc="97ba83ee" sha1="3cca31057cc5bb9fec034a0c19f02c8191d0281b"/>
 		<rom name="bezels/ActionMax_bezel.png" size="1175733" crc="4e2e7de4" sha1="10f644dbf645579da801972a4817e0176c07736e"/>
 		<rom name="bezels/aurunmilla_night.png" size="2274270" crc="f0214988" sha1="ae20145d00571b941555fa24a360976eb0787e85"/>
 		<rom name="bezels/tqkeys_alt.png" size="828863" crc="3d395d0c" sha1="b83d8d6bda0c284c40fa7466aa224a0401ad4613"/>
-		<rom name="fonts/" size="0" crc="00000000"/>
 		<rom name="fonts/daphne.ttf" size="42316" crc="e8a980c4" sha1="114b34022174570b302fa0b22d71d7d10a6e6fef"/>
 		<rom name="fonts/default.ttf" size="38924" crc="7a61047d" sha1="c41977dc265faf65c0a1f2295d36af2fc003eee9"/>
 		<rom name="fonts/digital.ttf" size="10044" crc="25f1e07a" sha1="ee33e4cbcec5f752dbf493bd19ddcd2817311911"/>
 		<rom name="fonts/m39.ttf" size="15836" crc="9fa18359" sha1="ac4179a92d1eb888a812a350d8ca1c8b662d9c72"/>
 		<rom name="fonts/pixel.ttf" size="44468" crc="f3866188" sha1="6a57320632315d1b457f9ba5f59326ba0ab37427"/>
 		<rom name="fonts/timewarp.ttf" size="26612" crc="1c21024f" sha1="ef9dd1ce72ea5e849382aca1a8d77da8f34db9b2"/>
-		<rom name="gamecontrollerdb.txt" size="564965" crc="360237fe" sha1="e1655f71eb05c2bdb41425c05ef534d22d3c0a49"/>
-		<rom name="hypjsch.exe" size="4500992" crc="d5ab324f" sha1="59f54b37c2c70ee4b1afe17b872a89577d56b747"/>
-		<rom name="hypseus-logo.png" size="114876" crc="a21fe175" sha1="4d24b293d74a1f09d6a985155187575bf106a673"/>
-		<rom name="hypseus.exe" size="14654464" crc="722efa94" sha1="efaab07faaedd565317b91f6a7e342717b57765a"/>
-		<rom name="hypseus_subsystem.exe" size="14654464" crc="6bcb9a16" sha1="77470e01145d77d68b890d3771abfb0ab35772f7"/>
-		<rom name="LICENSE" size="32472" crc="b792a93a" sha1="a6adc13d0c809ab8cb68e6e3b6eb7571bd0e2920"/>
-		<rom name="midi/" size="0" crc="00000000"/>
 		<rom name="midi/COPYING.txt" size="18962" crc="9f0588ba" sha1="ce62f9e8817b2202ba26b04f69d939b5ee5f191e"/>
 		<rom name="midi/soundfont.sf2" size="5969788" crc="d6ff6f31" sha1="63e4eab3162ef10ffd99e89f13e4e67f751e9900"/>
 		<rom name="midi/SOUNDFONTS.txt" size="414" crc="4dbad077" sha1="0699be6a163fdb77010037c29ae6ecf3c1a5fb7e"/>
-		<rom name="pics/" size="0" crc="00000000"/>
 		<rom name="pics/annunoff.png" size="2307" crc="340bcb99" sha1="6e6a390981d3061f175f651d86809d9102ae9a14"/>
 		<rom name="pics/annunon.png" size="2394" crc="59fbf800" sha1="e42050d4e4c13618d30688cd459c6f49e995438f"/>
 		<rom name="pics/cadet.bmp" size="11690" crc="f5355632" sha1="3c5e70c58e2f0cff353eda64478a6f7f2847d80c"/>
@@ -2386,9 +2345,6 @@
 		<rom name="pics/spaceace.bmp" size="18378" crc="1a2699cf" sha1="76781d6ff69cb8cb7e3497f0e081ba44e8853e12"/>
 		<rom name="pics/time.bmp" size="4378" crc="2600f7a8" sha1="79f9cd76bc6b00625c317435e215d536f08a195c"/>
 		<rom name="pics/tqkeys.png" size="795112" crc="fbeed87d" sha1="0d28b8e4788d95c6abd3f20b8c432ac3285d4684"/>
-		<rom name="README.txt" size="3725" crc="0e2364ee" sha1="b9cb9a8492995aa797965f0631367faf1a3aef7e"/>
-		<rom name="README_BEZELS.txt" size="2050" crc="c4398bbb" sha1="8321a43662cefea66573c5deab2cc9a72bb8ca0c"/>
-		<rom name="roms/" size="0" crc="00000000"/>
 		<rom name="roms/dle11.zip" size="28296" crc="6391df44" sha1="b2000f6961ad6fe705332b36e382fd18182e697f"/>
 		<rom name="roms/dle20.zip" size="25955" crc="3b430766" sha1="a34f7bf04d9a456d106e2397686dbf275b9ae8ad"/>
 		<rom name="roms/dle21.zip" size="24883" crc="a7b871e6" sha1="c811d8053e472900d535bb2c6c5f640a5da11857"/>
@@ -2402,7 +2358,6 @@
 		<rom name="roms/lair_ita.zip" size="6773" crc="a42ca0e8" sha1="1dcb7c2b8689bfea3e01c6bc834917efbcfec1a4"/>
 		<rom name="roms/lair_n1.zip" size="26985" crc="cf7e65ea" sha1="8cd377fb9e26da58c8b825db92079553058bd92f"/>
 		<rom name="roms/lair_x.zip" size="24592" crc="e7ddaf10" sha1="1682dedebdf01e979a67f1c547ce3e995d5df517"/>
-		<rom name="script/" size="0" crc="00000000"/>
 		<rom name="script/controls.cfg" size="1441" crc="02138ff3" sha1="4e059068e39a9048fed8bf5d5a23efcfdcb2acf7"/>
 		<rom name="script/globals.singe" size="6807" crc="dcff09fb" sha1="e29ae2e478399d45bdf8feadd14652518ec1022a"/>
 		<rom name="script/hscore.singe" size="29355" crc="54b9cc04" sha1="c4d3479e00f8c8e3cf7bdc7de05bfbc91eb69ec4"/>
@@ -2410,46 +2365,36 @@
 		<rom name="script/menu.singe" size="13850" crc="5c3ae73c" sha1="7781405bb16b88b0a31eff6479804d6045402c15"/>
 		<rom name="script/service.singe" size="85751" crc="b218a1e4" sha1="c2c4659fc8316631350309b8e37aa89320cb2247"/>
 		<rom name="script/toolbox.singe" size="4124" crc="447a6fa2" sha1="a133cc4379f155add5cf6e9b039d89afaa55c2c5"/>
-		<rom name="singe/" size="0" crc="00000000"/>
-		<rom name="singe/actionmax/" size="0" crc="00000000"/>
 		<rom name="singe/actionmax/38ambushalley.txt" size="125" crc="fe8a9cf4" sha1="b96f6a54f07f9e114be3ce3e55f664fbaed494ca"/>
-		<rom name="singe/actionmax/38ambushalley/" size="0" crc="00000000"/>
+		<rom name="singe/actionmax/actionmax.zip" size="1422432" crc="72c1b261" sha1="c5b96bc4fed6c75afbe4a386a96a250ccaef9ba1"/>
+		<rom name="singe/actionmax/bluethunder.txt" size="121" crc="b74167dd" sha1="bc01e4fad224fdc603f1efd7d8eff7a49fe77f35"/>
+		<rom name="singe/actionmax/hydrosub2021.txt" size="123" crc="49fd3342" sha1="2b7426ee852d22b1b42309da9da805c94bd0d91f"/>
+		<rom name="singe/actionmax/popsghostly.txt" size="121" crc="e0c07cbc" sha1="5fb23e6441326d71c2109b816dc6404fbc19a50e"/>
+		<rom name="singe/actionmax/README.md" size="1977" crc="ae2b5534" sha1="fe3bee62bee98410a5761c03df22ccbc075b1da7"/>
+		<rom name="singe/actionmax/sonicfury.txt" size="117" crc="6a5465a9" sha1="d742aa40660ade98babda7c02fd66f15bc27b52a"/>
 		<rom name="singe/actionmax/38ambushalley/video_38ambushalley.m2v" size="733184761" crc="74ca7872" sha1="40e75b40e2fcf72298cf104e9f968edb78f27c3d"/>
 		<rom name="singe/actionmax/38ambushalley/video_38ambushalley.ogg" size="9467184" crc="7f3d7fdf" sha1="e1a4216057d44a0ceb272ad3b53845e6f244f82c"/>
-		<rom name="singe/actionmax/actionmax.zip" size="1422432" crc="72c1b261" sha1="c5b96bc4fed6c75afbe4a386a96a250ccaef9ba1"/>
-		<rom name="singe/actionmax/actionmax/" size="0" crc="00000000"/>
 		<rom name="singe/actionmax/actionmax/video_actionmaxintro.m2v" size="12781051" crc="8a6dde97" sha1="3dae0416c008d1e935fe8dc8077807ac1cd8a707"/>
 		<rom name="singe/actionmax/actionmax/video_actionmaxintro.ogg" size="141514" crc="0d085134" sha1="626b5b7e2dfe2e76224813f3d3bf07bb61375687"/>
 		<rom name="singe/actionmax/actionmax/video_menu.m2v" size="800953" crc="6425046c" sha1="a6a9eec6dadb88dbfc03c172fd8d882f4ce103ef"/>
 		<rom name="singe/actionmax/actionmax/video_menu.ogg" size="42067" crc="74fef25e" sha1="f8978eaa4fb548ebf66a724c3211b4ff37fbb29b"/>
-		<rom name="singe/actionmax/bluethunder.txt" size="121" crc="b74167dd" sha1="bc01e4fad224fdc603f1efd7d8eff7a49fe77f35"/>
-		<rom name="singe/actionmax/bluethunder/" size="0" crc="00000000"/>
 		<rom name="singe/actionmax/bluethunder/video_bluethunder.m2v" size="733080602" crc="4faf531b" sha1="9b3e653de45daa35047bf81b35d156931763fcc7"/>
 		<rom name="singe/actionmax/bluethunder/video_bluethunder.ogg" size="12288195" crc="affd952e" sha1="e6927241c382f0d62c63a04fde3d13757afcd13e"/>
-		<rom name="singe/actionmax/hydrosub2021.txt" size="123" crc="49fd3342" sha1="2b7426ee852d22b1b42309da9da805c94bd0d91f"/>
-		<rom name="singe/actionmax/hydrosub2021/" size="0" crc="00000000"/>
 		<rom name="singe/actionmax/hydrosub2021/video_hydrosub2021.m2v" size="732798526" crc="a742cb62" sha1="d34c534a40b33882607b0f1db213a0ad88078d52"/>
 		<rom name="singe/actionmax/hydrosub2021/video_hydrosub2021.ogg" size="9704476" crc="39f5e6e5" sha1="753684767d9025f61a266f4adc603936827299b1"/>
-		<rom name="singe/actionmax/popsghostly.txt" size="121" crc="e0c07cbc" sha1="5fb23e6441326d71c2109b816dc6404fbc19a50e"/>
-		<rom name="singe/actionmax/popsghostly/" size="0" crc="00000000"/>
 		<rom name="singe/actionmax/popsghostly/video_popsghostly.m2v" size="732802686" crc="ba4ed262" sha1="733fe7f36b3adfc914cf11b41a0b78f538e718cd"/>
 		<rom name="singe/actionmax/popsghostly/video_popsghostly.ogg" size="10815788" crc="be35b6c8" sha1="ae8529ce71e393853ac03d5af734df903b69752f"/>
-		<rom name="singe/actionmax/README.md" size="1977" crc="ae2b5534" sha1="fe3bee62bee98410a5761c03df22ccbc075b1da7"/>
-		<rom name="singe/actionmax/sonicfury.txt" size="117" crc="6a5465a9" sha1="d742aa40660ade98babda7c02fd66f15bc27b52a"/>
-		<rom name="singe/actionmax/sonicfury/" size="0" crc="00000000"/>
 		<rom name="singe/actionmax/sonicfury/video_sonicfury.m2v" size="732805551" crc="87913140" sha1="cb3e8059439c6dae849ecb432fb467f4a6a1d247"/>
 		<rom name="singe/actionmax/sonicfury/video_sonicfury.ogg" size="8929163" crc="f9355625" sha1="6b77de0830a0a299b565c4f505f0bfb2e35f54ff"/>
-		<rom name="singe/aurunmilla/" size="0" crc="00000000"/>
 		<rom name="singe/aurunmilla/aurunmilla-ja-hq.ogg" size="49388450" crc="91b1cbdf" sha1="ad341d8b129e06e037477461afd8366bbdc065fe"/>
 		<rom name="singe/aurunmilla/aurunmilla-ja.ogg" size="27304082" crc="650ac4c5" sha1="1cada35e7cf49fbad3c4a1265cdc777758ea1c41"/>
 		<rom name="singe/aurunmilla/aurunmilla.m2v" size="903219929" crc="b8ea578f" sha1="18ed21e4594864c07a5321d81cf1232dbaa7ae89"/>
 		<rom name="singe/aurunmilla/aurunmilla.ogg" size="18541420" crc="eff8e829" sha1="a450da531ef45934f41d9b3f929678b74875fa04"/>
 		<rom name="singe/aurunmilla/aurunmilla.txt" size="20" crc="a3e375fb" sha1="5c6a2754226c040d952ac564b1d1a855fddb5a16"/>
 		<rom name="singe/aurunmilla/aurunmilla.zip" size="1350266" crc="feee298f" sha1="18e195df77504c3f02dc9ca8b33acf4d4cad5624"/>
-		<rom name="singe/cliffhanger/" size="0" crc="00000000"/>
 		<rom name="singe/cliffhanger/cliffhanger.txt" size="260" crc="76611fff" sha1="035f6660b7cd5035134a8b7f5bd8eb378a6b13a9"/>
 		<rom name="singe/cliffhanger/cliffhanger.zip" size="374539" crc="bdc54606" sha1="45cacb2f25d42544a45e05a38a3c57da3ed0a904"/>
-		<rom name="singe/cliffhanger/dvd/" size="0" crc="00000000"/>
+		<rom name="singe/cliffhanger/README.md" size="1329" crc="30ff707c" sha1="38f382972d7e1302c8e32d892eef4e94574ba016"/>
 		<rom name="singe/cliffhanger/dvd/intro01.m2v" size="194638749" crc="84a4312b" sha1="1f53a58999cb87b9a134dcb2e5835da7939a237c"/>
 		<rom name="singe/cliffhanger/dvd/intro01.ogg" size="2002119" crc="f91ab528" sha1="b3f9a2d3a97b95232bfb713eb2e6bbc3b65df5f4"/>
 		<rom name="singe/cliffhanger/dvd/level01.m2v" size="416027297" crc="a7f9ee78" sha1="a8e639a5122b35bfa1ed73c16607bea4b2d94d41"/>
@@ -2470,11 +2415,8 @@
 		<rom name="singe/cliffhanger/dvd/level08.ogg" size="10716803" crc="78359bdc" sha1="67317ad374d85e8976ad29874064a1d050018b47"/>
 		<rom name="singe/cliffhanger/dvd/menus.m2v" size="326349466" crc="2550c81d" sha1="9cbbb8852b3d60d709c1dccfa2e988180d372156"/>
 		<rom name="singe/cliffhanger/dvd/menus.ogg" size="3754854" crc="78fb8168" sha1="97af810076e615b3bcf06cecfb9aa39e91e53c61"/>
-		<rom name="singe/cliffhanger/README.md" size="1329" crc="30ff707c" sha1="38f382972d7e1302c8e32d892eef4e94574ba016"/>
-		<rom name="singe/conan/" size="0" crc="00000000"/>
 		<rom name="singe/conan/conan.txt" size="315" crc="59031a0a" sha1="da66c401cd6b704193c38d8764ee0979760b12d0"/>
 		<rom name="singe/conan/conan.zip" size="480560" crc="560c9f89" sha1="fbc306805b5af6648ce8af066ba1552c4ec5f784"/>
-		<rom name="singe/conan/video/" size="0" crc="00000000"/>
 		<rom name="singe/conan/video/death.m2v" size="26038222" crc="1bf73805" sha1="9b496c1cdfb81425b6aa563a967a31bd21ba26c8"/>
 		<rom name="singe/conan/video/death.ogg" size="527788" crc="ef1dd25c" sha1="7e8f84837e57aad817ffd81422f1f2b7a8b3dc46"/>
 		<rom name="singe/conan/video/intro01.m2v" size="127486410" crc="c47988d9" sha1="8492188549029e7b25f761fa5fe422aa7d744530"/>
@@ -2499,8 +2441,9 @@
 		<rom name="singe/conan/video/menus.ogg" size="2095580" crc="9161ad1d" sha1="23cc16c1faa0977bdb81f6f8fcd97760de9f3be8"/>
 		<rom name="singe/conan/video/title.m2v" size="20929266" crc="a39c0ac5" sha1="7d6847066ecdb33f1144069ff05913270aaa68d3"/>
 		<rom name="singe/conan/video/title.ogg" size="524965" crc="7c13a1ba" sha1="1b51b099cb93fe292c2c20a00930998f3d8dc8c2"/>
-		<rom name="singe/crimepatrol/" size="0" crc="00000000"/>
-		<rom name="singe/crimepatrol/cdrom/" size="0" crc="00000000"/>
+		<rom name="singe/crimepatrol/crimepatrol.txt" size="8237" crc="d8731410" sha1="2d986ca6f6614d987cb0fe5478930f6baec7ccbe"/>
+		<rom name="singe/crimepatrol/crimepatrol.zip" size="1332694" crc="d2b99d7e" sha1="9c6230fcb4516501cf815bbff55f9165f8517a04"/>
+		<rom name="singe/crimepatrol/readme.txt" size="13883" crc="36d2c8f2" sha1="09632521abafa337663517fb669d6cfb3e7bae32"/>
 		<rom name="singe/crimepatrol/cdrom/a_cpintro.m2v" size="38028987" crc="8531c098" sha1="b50d4a7c3d3b824d7582941e947b35566ca98f4d"/>
 		<rom name="singe/crimepatrol/cdrom/a_cpintro.ogg" size="910158" crc="61b28e6b" sha1="b805212319933b7fc44ae251a45352dac013ace0"/>
 		<rom name="singe/crimepatrol/cdrom/b_airterrorist.m2v" size="39889110" crc="1bf0a0db" sha1="d6fc745e0d41ef487d705b9d9b1ed34ec8b50a31"/>
@@ -3264,14 +3207,9 @@
 		<rom name="singe/crimepatrol/cdrom/z_levelselect.ogg" size="4028708" crc="6206254d" sha1="7a38f19007a937760d1b43164d47292c5a763bf9"/>
 		<rom name="singe/crimepatrol/cdrom/z_menus.m2v" size="49137537" crc="493a38c5" sha1="37d9ee23634aaaf819a1e7589923611a91c97827"/>
 		<rom name="singe/crimepatrol/cdrom/z_menus.ogg" size="1044626" crc="1dec13d1" sha1="eff44a5182877881e5f905e9554cbd51a936c72c"/>
-		<rom name="singe/crimepatrol/crimepatrol.txt" size="8237" crc="d8731410" sha1="2d986ca6f6614d987cb0fe5478930f6baec7ccbe"/>
-		<rom name="singe/crimepatrol/crimepatrol.zip" size="1332694" crc="d2b99d7e" sha1="9c6230fcb4516501cf815bbff55f9165f8517a04"/>
-		<rom name="singe/crimepatrol/readme.txt" size="13883" crc="36d2c8f2" sha1="09632521abafa337663517fb669d6cfb3e7bae32"/>
-		<rom name="singe/daitarn/" size="0" crc="00000000"/>
 		<rom name="singe/daitarn/daitarn.txt" size="302" crc="fa29f31c" sha1="f3587c48253de89c3af7e2cd35019418cef3d74a"/>
 		<rom name="singe/daitarn/daitarn.zip" size="291382" crc="144f2cfe" sha1="d83b660f14fcffd921db9fdee0df44ca88f85ef7"/>
 		<rom name="singe/daitarn/README.md" size="1545" crc="c2ca6b73" sha1="3dc7f156d377a70cc9da874ee4f57b94be8f6499"/>
-		<rom name="singe/daitarn/video/" size="0" crc="00000000"/>
 		<rom name="singe/daitarn/video/death.m2v" size="23128284" crc="19745a6a" sha1="8966f0a741776d476b4faf2ec30382c21dbdb0a6"/>
 		<rom name="singe/daitarn/video/death.ogg" size="439911" crc="887286f4" sha1="6ebf1db94ad8908cfbb33600ba0e812d986f4150"/>
 		<rom name="singe/daitarn/video/intro01.m2v" size="110739001" crc="dc06a807" sha1="e30465031052f247f323b33158543441e97d56ec"/>
@@ -3296,11 +3234,9 @@
 		<rom name="singe/daitarn/video/menus.ogg" size="1880064" crc="7e1fe396" sha1="09cf5c509e12d4e104c25b750960c517787cc9f0"/>
 		<rom name="singe/daitarn/video/title.m2v" size="28040936" crc="7782a24b" sha1="a21a5fb4472f05aaddc43ff4fec8331ea7207344"/>
 		<rom name="singe/daitarn/video/title.ogg" size="725328" crc="9b4a11ac" sha1="b634dffe7ca8ed7f24dd76ae63289e9759b2177b"/>
-		<rom name="singe/dragon/" size="0" crc="00000000"/>
 		<rom name="singe/dragon/dragon.txt" size="380" crc="b2b58025" sha1="185abb7b4cdcf246fc243a039b4bc0a5180b8a30"/>
 		<rom name="singe/dragon/dragon.zip" size="1073640" crc="bddbc0d3" sha1="1b113be4e5b5363d03fea4138a8cb57fcd428fef"/>
 		<rom name="singe/dragon/README.md" size="49" crc="1a14b606" sha1="7713ae5f354e1c26e3711f60f58e1d9ea60a31a1"/>
-		<rom name="singe/dragon/video/" size="0" crc="00000000"/>
 		<rom name="singe/dragon/video/death.m2v" size="29416586" crc="39de3ab9" sha1="b33be79525f9632ab696f7311a9d1936c7fd65b3"/>
 		<rom name="singe/dragon/video/death.ogg" size="535729" crc="db11f4c0" sha1="435ef2fa328391e618e9e76c072469332e5b396a"/>
 		<rom name="singe/dragon/video/intro01.m2v" size="199240590" crc="f30a4535" sha1="f26ca29595d40cade50594960d054cf684253bbf"/>
@@ -3331,8 +3267,9 @@
 		<rom name="singe/dragon/video/menus.ogg" size="2393406" crc="0a74fbbd" sha1="fd337394081239d625e8ea9247acc287f083f7c1"/>
 		<rom name="singe/dragon/video/title.m2v" size="10153272" crc="0382026d" sha1="9f3fa6ccb56e6a36e1a959f0857615720840e617"/>
 		<rom name="singe/dragon/video/title.ogg" size="162986" crc="79bfeee5" sha1="b9c560cc33f92c3468e91b64925ce98986186005"/>
-		<rom name="singe/drugwars/" size="0" crc="00000000"/>
-		<rom name="singe/drugwars/cdrom/" size="0" crc="00000000"/>
+		<rom name="singe/drugwars/drugwars.txt" size="10604" crc="e31ec4db" sha1="dfde9ac23876a6ba3ec0f80fa0ffeaee51e2d5bf"/>
+		<rom name="singe/drugwars/drugwars.zip" size="1000411" crc="83330eb1" sha1="847ff23d83a432e5155ba3d360d08d77407657c1"/>
+		<rom name="singe/drugwars/readme.txt" size="13883" crc="36d2c8f2" sha1="09632521abafa337663517fb669d6cfb3e7bae32"/>
 		<rom name="singe/drugwars/cdrom/a_dwintro.m2v" size="120730922" crc="f6d832a0" sha1="23af575fda6603484e8ac98ff61b7d8812591047"/>
 		<rom name="singe/drugwars/cdrom/a_dwintro.ogg" size="2795864" crc="dd7856c4" sha1="7c7840d8f30d67b082ccf741092140ada0d7daa6"/>
 		<rom name="singe/drugwars/cdrom/b_partner01.m2v" size="1984319" crc="8c63ae62" sha1="8f28ee1d49743389fa5562078d1c79440578e586"/>
@@ -3917,11 +3854,8 @@
 		<rom name="singe/drugwars/cdrom/z_levelselect.ogg" size="3904320" crc="da7771b8" sha1="a039e912526cf58974abacd4bfc15661ec781c6b"/>
 		<rom name="singe/drugwars/cdrom/z_menus.m2v" size="36269265" crc="1a23ad4b" sha1="9003baca54001cb299e78ccd26421618ec5a2320"/>
 		<rom name="singe/drugwars/cdrom/z_menus.ogg" size="1057143" crc="48243feb" sha1="e54cc0a44f572ed63de9eac28c75ef783a1cab67"/>
-		<rom name="singe/drugwars/drugwars.txt" size="10604" crc="e31ec4db" sha1="dfde9ac23876a6ba3ec0f80fa0ffeaee51e2d5bf"/>
-		<rom name="singe/drugwars/drugwars.zip" size="1000411" crc="83330eb1" sha1="847ff23d83a432e5155ba3d360d08d77407657c1"/>
-		<rom name="singe/drugwars/readme.txt" size="13883" crc="36d2c8f2" sha1="09632521abafa337663517fb669d6cfb3e7bae32"/>
-		<rom name="singe/freedomfighter/" size="0" crc="00000000"/>
-		<rom name="singe/freedomfighter/cdrom/" size="0" crc="00000000"/>
+		<rom name="singe/freedomfighter/freedomfighter.txt" size="374" crc="e35cb191" sha1="b8cf21962cafd79e0c930498d122669754590b39"/>
+		<rom name="singe/freedomfighter/freedomfighter.zip" size="497749" crc="444786ca" sha1="b93bb1aaa7148349858494fdff5f75ff6a08ee74"/>
 		<rom name="singe/freedomfighter/cdrom/boom.m2v" size="4131673" crc="91415772" sha1="460535e9390dae4f6fe741b82b6e021a3d44e628"/>
 		<rom name="singe/freedomfighter/cdrom/boom.ogg" size="282241" crc="c11ee081" sha1="5a3c3d49fb75e63e29ec14163cd3ede84cc2cad4"/>
 		<rom name="singe/freedomfighter/cdrom/death.m2v" size="154967471" crc="a4587ec0" sha1="dec2e8cce51b5356d0b2ee961bc96ba13ee63172"/>
@@ -3950,12 +3884,8 @@
 		<rom name="singe/freedomfighter/cdrom/morte_robot.ogg" size="321654" crc="c593ca24" sha1="d5afa40668c3028e15706b05afc7213ff27c97fa"/>
 		<rom name="singe/freedomfighter/cdrom/title.m2v" size="5123532" crc="744977d6" sha1="ee72254c7d3f78713e2003e9f5ac12b67631ea8b"/>
 		<rom name="singe/freedomfighter/cdrom/title.ogg" size="386754" crc="b847a0bf" sha1="f30d78fd1df1589775654310258d0dfe382a982f"/>
-		<rom name="singe/freedomfighter/freedomfighter.txt" size="374" crc="e35cb191" sha1="b8cf21962cafd79e0c930498d122669754590b39"/>
-		<rom name="singe/freedomfighter/freedomfighter.zip" size="497749" crc="444786ca" sha1="b93bb1aaa7148349858494fdff5f75ff6a08ee74"/>
-		<rom name="singe/goldrake/" size="0" crc="00000000"/>
 		<rom name="singe/goldrake/goldrake.txt" size="304" crc="d661817e" sha1="5abb2cce6a1df4980ddb38260e145ba9e25b8d84"/>
 		<rom name="singe/goldrake/goldrake.zip" size="280754" crc="1969516f" sha1="9d1a39166cab1dd364dfc96727d95b77fc4b1cb0"/>
-		<rom name="singe/goldrake/video/" size="0" crc="00000000"/>
 		<rom name="singe/goldrake/video/death.m2v" size="2698616" crc="4f0aeb5f" sha1="23cfb83d770aeb3a738588308855a29245a6bd9d"/>
 		<rom name="singe/goldrake/video/death.ogg" size="439911" crc="887286f4" sha1="6ebf1db94ad8908cfbb33600ba0e812d986f4150"/>
 		<rom name="singe/goldrake/video/intro01.m2v" size="24115067" crc="5e5b9ce4" sha1="1c7c2c33876896b18707022edabb12d72f933247"/>
@@ -3979,20 +3909,16 @@
 		<rom name="singe/goldrake/video/menus.m2v" size="6608795" crc="da2c0124" sha1="d12adaab6dbd38c2c47b554f3351069d96a0ecc2"/>
 		<rom name="singe/goldrake/video/menus.ogg" size="1676091" crc="7004a55a" sha1="30e6171a784d4fd4a9dadeb56589517999115954"/>
 		<rom name="singe/goldrake/video/title.m2v" size="19999793" crc="aca3554a" sha1="21f21109f6f68b71769acd6b220e18ce6a6df3f6"/>
-		<rom name="singe/hayate/" size="0" crc="00000000"/>
 		<rom name="singe/hayate/hayate.m2v" size="1057581587" crc="b03fbe17" sha1="3241d6904354b46e1926f4b2333bd368ea340514"/>
 		<rom name="singe/hayate/hayate.ogg" size="23481071" crc="c6796cb9" sha1="95c93ec5caac26e83555316b52e0b270b6d2a129"/>
 		<rom name="singe/hayate/hayate.txt" size="19" crc="e78538fe" sha1="a9431b55f114878f7caa5c8c739ed327b232ce64"/>
 		<rom name="singe/hayate/hayate.zip" size="492271" crc="ee766951" sha1="d86567a1040adcd77c2725eda5e5c13547abd847"/>
 		<rom name="singe/hayate/README" size="92" crc="ffb0505c" sha1="9d5d5b7634de1c54317f70643184ecbd4c14141d"/>
-		<rom name="singe/hayate_hvg/" size="0" crc="00000000"/>
 		<rom name="singe/hayate_hvg/hayate.m2v" size="1405334930" crc="35eb46d0" sha1="11b67c4636f7a7fbd95588238592f0e70421c17d"/>
 		<rom name="singe/hayate_hvg/hayate.zip" size="495425" crc="86c2102f" sha1="35eb7abbd1f5ae193b19abc48d08a4bfd1e5b8e8"/>
-		<rom name="singe/jack/" size="0" crc="00000000"/>
 		<rom name="singe/jack/jack.txt" size="252" crc="5dbbd6cf" sha1="6d306a3de6a5b08786283262badcb848539ce364"/>
 		<rom name="singe/jack/jack.zip" size="286687" crc="559bd8d5" sha1="fe48fba6ccc0fc3e7f1a09163945005f52066e18"/>
 		<rom name="singe/jack/README.md" size="77" crc="e01b1d68" sha1="113bb5aacf73f0561365a3435e974f91f638ea2e"/>
-		<rom name="singe/jack/video/" size="0" crc="00000000"/>
 		<rom name="singe/jack/video/death.m2v" size="47513460" crc="a606849b" sha1="c6d1dd364f70bbe0525a329b696737e43241f57b"/>
 		<rom name="singe/jack/video/death.ogg" size="941474" crc="cbc23007" sha1="bda376ffa800cb78a71488564f176dfba6670eb4"/>
 		<rom name="singe/jack/video/intro01.m2v" size="173199981" crc="5728a970" sha1="964b451e80a46c1b732206ae50a9957f4c480a67"/>
@@ -4013,10 +3939,8 @@
 		<rom name="singe/jack/video/menus.ogg" size="2465931" crc="35d62fa5" sha1="de8b6ba7a6e82965aad940630ea3c2be5ea25caf"/>
 		<rom name="singe/jack/video/title.m2v" size="5878125" crc="dcc6e201" sha1="afb33dfe42ec538f2a239dda3a3ef4c4fcd48fa3"/>
 		<rom name="singe/jack/video/title.ogg" size="264243" crc="49bf7caa" sha1="13200ad683ad46f4d38b407844a4cf0cff2f5f39"/>
-		<rom name="singe/jeeg/" size="0" crc="00000000"/>
 		<rom name="singe/jeeg/jeeg.txt" size="304" crc="d661817e" sha1="5abb2cce6a1df4980ddb38260e145ba9e25b8d84"/>
 		<rom name="singe/jeeg/jeeg.zip" size="287357" crc="a1e55436" sha1="a94cc3a1a049ed1da6953c96c8d4cf274ad4591b"/>
-		<rom name="singe/jeeg/video/" size="0" crc="00000000"/>
 		<rom name="singe/jeeg/video/death.m2v" size="22739433" crc="9cb33eab" sha1="8741a40c52d46a29750feae5e871db9d86b0d118"/>
 		<rom name="singe/jeeg/video/death.ogg" size="259464" crc="310512ab" sha1="1ec11feb1029ccd3d32507771bd35492ea20b9eb"/>
 		<rom name="singe/jeeg/video/intro01.m2v" size="106604483" crc="e7ce9db8" sha1="71c219ecc14a0e6ee5f3e848fc98feb9173e277c"/>
@@ -4041,8 +3965,9 @@
 		<rom name="singe/jeeg/video/menus.ogg" size="2057266" crc="5aaaad33" sha1="018682c170cedd0eefd4670c35d4a9d343fed8d7"/>
 		<rom name="singe/jeeg/video/title.m2v" size="4899722" crc="3a3c9413" sha1="6026111c436874c9992a466e41e4446eeb1f6f85"/>
 		<rom name="singe/jeeg/video/title.ogg" size="119045" crc="2389ac1f" sha1="f41a0625f8158f5b3789e2403b3a6134a3fa13e8"/>
-		<rom name="singe/johnnyrock/" size="0" crc="00000000"/>
-		<rom name="singe/johnnyrock/cdrom/" size="0" crc="00000000"/>
+		<rom name="singe/johnnyrock/johnnyrock.txt" size="8613" crc="ea8c8136" sha1="7be669ea6a404bb6b34a0601b56f9ab312a3f988"/>
+		<rom name="singe/johnnyrock/johnnyrock.zip" size="671676" crc="c5d5cea4" sha1="4f082f4e90f743af295e4b5f000f962bafc8195a"/>
+		<rom name="singe/johnnyrock/readme.txt" size="13883" crc="36d2c8f2" sha1="09632521abafa337663517fb669d6cfb3e7bae32"/>
 		<rom name="singe/johnnyrock/cdrom/a_intro.m2v" size="63605423" crc="fb18a6fb" sha1="1e5e736ceca97846ad42e981d72f17d2f397b9ae"/>
 		<rom name="singe/johnnyrock/cdrom/a_intro.ogg" size="2763359" crc="d3fd70a7" sha1="81223d66ff4c97b56fc11a9b49357bd8b4e70f9a"/>
 		<rom name="singe/johnnyrock/cdrom/b_astart.m2v" size="59933103" crc="11fb6914" sha1="88f866fba595a17c18bf7c4c1346a78747aba3c0"/>
@@ -4489,11 +4414,9 @@
 		<rom name="singe/johnnyrock/cdrom/z_menus.ogg" size="1678967" crc="bb8fc76e" sha1="400903c7a19e8e71edcf2e7d1d55058d93e506a2"/>
 		<rom name="singe/johnnyrock/cdrom/z_other.m2v" size="20089322" crc="b3087fb4" sha1="fe3fc654f091217dce763767ccd70d222f308b36"/>
 		<rom name="singe/johnnyrock/cdrom/z_other.ogg" size="862431" crc="62a08fae" sha1="72d6c6995956b2907363cd4172572f16b69366bd"/>
-		<rom name="singe/johnnyrock/johnnyrock.txt" size="8613" crc="ea8c8136" sha1="7be669ea6a404bb6b34a0601b56f9ab312a3f988"/>
-		<rom name="singe/johnnyrock/johnnyrock.zip" size="671676" crc="c5d5cea4" sha1="4f082f4e90f743af295e4b5f000f962bafc8195a"/>
-		<rom name="singe/johnnyrock/readme.txt" size="13883" crc="36d2c8f2" sha1="09632521abafa337663517fb669d6cfb3e7bae32"/>
-		<rom name="singe/lbh/" size="0" crc="00000000"/>
-		<rom name="singe/lbh/cdrom/" size="0" crc="00000000"/>
+		<rom name="singe/lbh/lbh.txt" size="9179" crc="d73cf2a5" sha1="b7ee4c0bac7209d235d3a7751c8aa15ab82aadd3"/>
+		<rom name="singe/lbh/lbh.zip" size="810161" crc="a7108f7d" sha1="7bca9ac4197eade001852556d1bb90e782d52826"/>
+		<rom name="singe/lbh/readme.txt" size="13883" crc="36d2c8f2" sha1="09632521abafa337663517fb669d6cfb3e7bae32"/>
 		<rom name="singe/lbh/cdrom/a_trailer.m2v" size="74888323" crc="85503852" sha1="ab0a1b2c73cc02efed07e13819398901a67c4466"/>
 		<rom name="singe/lbh/cdrom/a_trailer.ogg" size="1992701" crc="13088d70" sha1="4bf6853fffe1b07ffea5a2d0573650b04cbe075d"/>
 		<rom name="singe/lbh/cdrom/b_armybase.m2v" size="39517027" crc="ff446cdc" sha1="6ff88a329995662c5a704a81bfeee6ec3692fe9a"/>
@@ -5258,11 +5181,9 @@
 		<rom name="singe/lbh/cdrom/z_menus.ogg" size="1515012" crc="639536a2" sha1="a3089d9e19d20bd5522580c7cf4d0944c6e80add"/>
 		<rom name="singe/lbh/cdrom/z_nlevelselect.m2v" size="44423120" crc="ad528f62" sha1="08b3ede18e693e013ce395d4557b9973fdc1ecae"/>
 		<rom name="singe/lbh/cdrom/z_nlevelselect.ogg" size="2594986" crc="553d87b4" sha1="27a5e5caaa4ace3c53cb5a494a8d66a73abc8dd5"/>
-		<rom name="singe/lbh/lbh.txt" size="9179" crc="d73cf2a5" sha1="b7ee4c0bac7209d235d3a7751c8aa15ab82aadd3"/>
-		<rom name="singe/lbh/lbh.zip" size="810161" crc="a7108f7d" sha1="7bca9ac4197eade001852556d1bb90e782d52826"/>
-		<rom name="singe/lbh/readme.txt" size="13883" crc="36d2c8f2" sha1="09632521abafa337663517fb669d6cfb3e7bae32"/>
-		<rom name="singe/maddog/" size="0" crc="00000000"/>
-		<rom name="singe/maddog/dvd/" size="0" crc="00000000"/>
+		<rom name="singe/maddog/maddog.txt" size="415" crc="b0f8eadc" sha1="dfd5245e33fc315c654400d3392645ba8714e427"/>
+		<rom name="singe/maddog/maddog.zip" size="1535557" crc="35cdf4fd" sha1="d510b11dae626f24b1272896f4a113c2c64f6cd5"/>
+		<rom name="singe/maddog/readme.txt" size="13111" crc="65eb6b54" sha1="ddbfa387a0eb18ced291ac50cb197309c6d6e56d"/>
 		<rom name="singe/maddog/dvd/menus.m2v" size="1907628" crc="3b402b8d" sha1="c65235ce36b70d9f2a3292c6809a085e48aa1102"/>
 		<rom name="singe/maddog/dvd/vts_01_1.m2v" size="81635428" crc="afac4b44" sha1="e8b4cccbee0ca8c1f8296f0a55ebfeb907ed9ee2"/>
 		<rom name="singe/maddog/dvd/vts_01_1.ogg" size="1718350" crc="4600aa7a" sha1="674cdbe3f63ad573eb4d2b40830d8b1e96bde16c"/>
@@ -5293,11 +5214,8 @@
 		<rom name="singe/maddog/dvd/vts_14_1b.m2v" size="46331583" crc="b344ec59" sha1="2b3eeab04b2194549f31f21c2672e790c86f7743"/>
 		<rom name="singe/maddog/dvd/vts_14_1b.ogg" size="881076" crc="cd5175a0" sha1="aa0e84d239c3c596bcb402c9b5e6ffe3a8864a2b"/>
 		<rom name="singe/maddog/dvd/z_other.m2v" size="3307350" crc="6a4dcc6c" sha1="7e44b215c7946ca3fb1d5b840566b8eaf92fe500"/>
-		<rom name="singe/maddog/maddog.txt" size="415" crc="b0f8eadc" sha1="dfd5245e33fc315c654400d3392645ba8714e427"/>
-		<rom name="singe/maddog/maddog.zip" size="1535557" crc="35cdf4fd" sha1="d510b11dae626f24b1272896f4a113c2c64f6cd5"/>
-		<rom name="singe/maddog/readme.txt" size="13111" crc="65eb6b54" sha1="ddbfa387a0eb18ced291ac50cb197309c6d6e56d"/>
-		<rom name="singe/maddog2/" size="0" crc="00000000"/>
-		<rom name="singe/maddog2/cdrom/" size="0" crc="00000000"/>
+		<rom name="singe/maddog2/maddog2.txt" size="6558" crc="6905e988" sha1="4565d0e9e10cb451e1a2ee4309229ccab26fbd99"/>
+		<rom name="singe/maddog2/maddog2.zip" size="855255" crc="cc8f289b" sha1="c3060ff3bb3bb5a3cab24a072682b5581f41c5a6"/>
 		<rom name="singe/maddog2/cdrom/a_trailer.m2v" size="91896869" crc="3fc62b90" sha1="613f26037bf25cf9ca9e85adc19e68938538071f"/>
 		<rom name="singe/maddog2/cdrom/a_trailer.ogg" size="1962855" crc="584bf766" sha1="269c857c2b2410f2ab807dc945d0889b7796469d"/>
 		<rom name="singe/maddog2/cdrom/b_aintro.m2v" size="100278560" crc="15eebace" sha1="3ae2d6ff64d338760429393c93a938df4b722c06"/>
@@ -5722,13 +5640,9 @@
 		<rom name="singe/maddog2/cdrom/q_u12.ogg" size="94743" crc="b20d5536" sha1="72d728647998dc1d6b05f18ec5816e320e91b675"/>
 		<rom name="singe/maddog2/cdrom/z_menus.m2v" size="131264741" crc="c51d644c" sha1="9c31e132ed0a083abddae852e7703c657d3ff49c"/>
 		<rom name="singe/maddog2/cdrom/z_menus.ogg" size="2073687" crc="9c57c0fe" sha1="99d72da7065d6777b58fee90e36c0889a2873789"/>
-		<rom name="singe/maddog2/maddog2.txt" size="6558" crc="6905e988" sha1="4565d0e9e10cb451e1a2ee4309229ccab26fbd99"/>
-		<rom name="singe/maddog2/maddog2.zip" size="855255" crc="cc8f289b" sha1="c3060ff3bb3bb5a3cab24a072682b5581f41c5a6"/>
-		<rom name="singe/pussinboots/" size="0" crc="00000000"/>
 		<rom name="singe/pussinboots/pussinboots.txt" size="280" crc="298c1a36" sha1="157f653a5842a21525ce5e7bafb4d5946a9e7707"/>
 		<rom name="singe/pussinboots/pussinboots.zip" size="1037286" crc="9a8030ba" sha1="6081fc9f2042ba27da6d7dc16e68c45c37524ed4"/>
 		<rom name="singe/pussinboots/README.md" size="2169" crc="f8142cbe" sha1="c3cad914f5905046d662b55b94069d9f261bcffc"/>
-		<rom name="singe/pussinboots/video/" size="0" crc="00000000"/>
 		<rom name="singe/pussinboots/video/death-it.ogg" size="545121" crc="96714de2" sha1="41afc388577f0114bd2bbc84352d79e34ea68bb0"/>
 		<rom name="singe/pussinboots/video/death.m2v" size="27911629" crc="59b02307" sha1="5b5d98539ec7835b1f28abf350e6d4c0d646d5ab"/>
 		<rom name="singe/pussinboots/video/death.ogg" size="545121" crc="96714de2" sha1="41afc388577f0114bd2bbc84352d79e34ea68bb0"/>
@@ -5762,8 +5676,9 @@
 		<rom name="singe/pussinboots/video/title-it.ogg" size="335969" crc="6e1e8d9f" sha1="dc6f4f802a4ce5884b0bd305409cdff847160cbf"/>
 		<rom name="singe/pussinboots/video/title.m2v" size="18427839" crc="f90bab72" sha1="f7a13b286e5612c79f77436c18ae27548d72ba64"/>
 		<rom name="singe/pussinboots/video/title.ogg" size="338397" crc="d2be1658" sha1="7b27a8ae7d4cfb92b67d11a2858447fe79135f23"/>
-		<rom name="singe/spacepirates/" size="0" crc="00000000"/>
-		<rom name="singe/spacepirates/cdrom/" size="0" crc="00000000"/>
+		<rom name="singe/spacepirates/readme.txt" size="13883" crc="36d2c8f2" sha1="09632521abafa337663517fb669d6cfb3e7bae32"/>
+		<rom name="singe/spacepirates/spacepirates.txt" size="4139" crc="875d8403" sha1="6c6ef5f31d656785e0108906807daf49b72211c6"/>
+		<rom name="singe/spacepirates/spacepirates.zip" size="1505146" crc="edad1190" sha1="9cef4777c9a41f2a5826012784458c27355430eb"/>
 		<rom name="singe/spacepirates/cdrom/a_spintro.m2v" size="94604374" crc="c61df449" sha1="35c0aa01e38ce80435ac530aeeba3fb0dbffe909"/>
 		<rom name="singe/spacepirates/cdrom/a_spintro.ogg" size="3578908" crc="70fad33a" sha1="ee95f99b4483b12fb1c5e155a92cf7c7d31a42cf"/>
 		<rom name="singe/spacepirates/cdrom/a_trailer.m2v" size="94604374" crc="c61df449" sha1="35c0aa01e38ce80435ac530aeeba3fb0dbffe909"/>
@@ -6144,11 +6059,8 @@
 		<rom name="singe/spacepirates/cdrom/z_levelselect.ogg" size="2837981" crc="f0f867ae" sha1="327767ab5a30a9e242d2fb61e7f3cbb217a40b57"/>
 		<rom name="singe/spacepirates/cdrom/z_menus.m2v" size="100457496" crc="4c4fa6dc" sha1="d141288f0e61aeec7e9bb79a999bf5cb7ece09c7"/>
 		<rom name="singe/spacepirates/cdrom/z_menus.ogg" size="2982334" crc="42e1ccf3" sha1="b6cc6093d1cf5fe01064a7fa02b7849ae668e733"/>
-		<rom name="singe/spacepirates/readme.txt" size="13883" crc="36d2c8f2" sha1="09632521abafa337663517fb669d6cfb3e7bae32"/>
-		<rom name="singe/spacepirates/spacepirates.txt" size="4139" crc="875d8403" sha1="6c6ef5f31d656785e0108906807daf49b72211c6"/>
-		<rom name="singe/spacepirates/spacepirates.zip" size="1505146" crc="edad1190" sha1="9cef4777c9a41f2a5826012784458c27355430eb"/>
-		<rom name="singe/starblazers/" size="0" crc="00000000"/>
-		<rom name="singe/starblazers/dvd/" size="0" crc="00000000"/>
+		<rom name="singe/starblazers/starblazers.txt" size="271" crc="8b36b466" sha1="d658ed08743038a0e125b55b9dbca34dccecd836"/>
+		<rom name="singe/starblazers/starblazers.zip" size="1074693" crc="4fe440fd" sha1="70b535811627647d3eb8fb6f607ff6c1437de9cf"/>
 		<rom name="singe/starblazers/dvd/choice.m2v" size="59365402" crc="d4e039c5" sha1="65bae732c0411f2a8ae8df4166253941416f828d"/>
 		<rom name="singe/starblazers/dvd/choice.ogg" size="1470246" crc="37573c14" sha1="551e1f2a8ef6f1a6f2084a534da2cdc714fcfdba"/>
 		<rom name="singe/starblazers/dvd/death.m2v" size="98418360" crc="d7e56258" sha1="047e762643cba81f0c22ad81e62a41f8cb1fced6"/>
@@ -6173,20 +6085,16 @@
 		<rom name="singe/starblazers/dvd/level08.ogg" size="6988544" crc="a7971f25" sha1="51df7ab10e2e0e6b000331fdc884789a04ef9f6c"/>
 		<rom name="singe/starblazers/dvd/title.m2v" size="12962361" crc="09542304" sha1="5649b97613d8fe753c562ef531516f73ced7c26a"/>
 		<rom name="singe/starblazers/dvd/title.ogg" size="243493" crc="4c3a7314" sha1="6f810111fb46a936fa46b19161ecb0a6d1c3ea88"/>
-		<rom name="singe/starblazers/starblazers.txt" size="271" crc="8b36b466" sha1="d658ed08743038a0e125b55b9dbca34dccecd836"/>
-		<rom name="singe/starblazers/starblazers.zip" size="1074693" crc="4fe440fd" sha1="70b535811627647d3eb8fb6f607ff6c1437de9cf"/>
-		<rom name="singe/timegal-rdg/" size="0" crc="00000000"/>
-		<rom name="singe/timegal-rdg/timegal.m2v" size="2019095151" crc="1e79e572" sha1="eedd487f1cdc70b2b2f08c14b3101118c2bac65e"/>
-		<rom name="singe/timegal-rdg/timegal.ogg" size="38863289" crc="97e056c5" sha1="c33c149011335cacd1ffcfd0bed9381f84a3593d"/>
-		<rom name="singe/timegal-rdg/timegal.txt" size="18" crc="ccf2ffbb" sha1="fa73acfaa8263c69b5ad14ca9175c86e18923237"/>
-		<rom name="singe/timegal-rdg/timegal.zip" size="689776" crc="080e48ba" sha1="e2468b877c0d93161d6fe360399b554b8de4ea22"/>
-		<rom name="singe/timegal/" size="0" crc="00000000"/>
 		<rom name="singe/timegal/timegal.m2v" size="2103988858" crc="afd33462" sha1="8d86749a1019d699c0841ef2f146cd6885486735"/>
 		<rom name="singe/timegal/timegal.ogg" size="38863289" crc="97e056c5" sha1="c33c149011335cacd1ffcfd0bed9381f84a3593d"/>
 		<rom name="singe/timegal/timegal.txt" size="18" crc="ccf2ffbb" sha1="fa73acfaa8263c69b5ad14ca9175c86e18923237"/>
 		<rom name="singe/timegal/timegal.zip" size="742069" crc="987000b9" sha1="45a03e7ff2d0d48b698041e6c5d5f5c77194ef3b"/>
-		<rom name="singe/timetraveler/" size="0" crc="00000000"/>
-		<rom name="singe/timetraveler/dvd/" size="0" crc="00000000"/>
+		<rom name="singe/timegal-rdg/timegal.m2v" size="2019095151" crc="1e79e572" sha1="eedd487f1cdc70b2b2f08c14b3101118c2bac65e"/>
+		<rom name="singe/timegal-rdg/timegal.ogg" size="38863289" crc="97e056c5" sha1="c33c149011335cacd1ffcfd0bed9381f84a3593d"/>
+		<rom name="singe/timegal-rdg/timegal.txt" size="18" crc="ccf2ffbb" sha1="fa73acfaa8263c69b5ad14ca9175c86e18923237"/>
+		<rom name="singe/timegal-rdg/timegal.zip" size="689776" crc="080e48ba" sha1="e2468b877c0d93161d6fe360399b554b8de4ea22"/>
+		<rom name="singe/timetraveler/timetraveler.txt" size="566" crc="3886b29e" sha1="dcc08419110d4a80ff32957f7e5e82e939d3dad3"/>
+		<rom name="singe/timetraveler/timetraveler.zip" size="260024" crc="4bf89101" sha1="74b6789531ba82859a4cea105093fbd990984d0d"/>
 		<rom name="singe/timetraveler/dvd/vts_01_1.m2v" size="46984573" crc="cb688680" sha1="792a4612961c39f347d47ff6f630d2db5adb7a4c"/>
 		<rom name="singe/timetraveler/dvd/vts_01_1.ogg" size="2139273" crc="83d83186" sha1="f4b8f6a3506ec927acdf1a295e88e5428623867c"/>
 		<rom name="singe/timetraveler/dvd/vts_02_1.m2v" size="27204060" crc="212a6fcb" sha1="b3ce9433be0afc1c0a5e535cb4a9095578bafb15"/>
@@ -6221,10 +6129,8 @@
 		<rom name="singe/timetraveler/dvd/vts_17_1.ogg" size="157374" crc="b4d67d74" sha1="c16fe6508439dd661aed855802878dedeaca3d7f"/>
 		<rom name="singe/timetraveler/dvd/vts_18_1.m2v" size="22948893" crc="abb40e53" sha1="7a867ad4b175b92ed29396378d76b74744468650"/>
 		<rom name="singe/timetraveler/dvd/vts_18_1.ogg" size="1556616" crc="796eef4f" sha1="73bbed78267e3303512017b44fc880874567209a"/>
-		<rom name="singe/timetraveler/timetraveler.txt" size="566" crc="3886b29e" sha1="dcc08419110d4a80ff32957f7e5e82e939d3dad3"/>
-		<rom name="singe/timetraveler/timetraveler.zip" size="260024" crc="4bf89101" sha1="74b6789531ba82859a4cea105093fbd990984d0d"/>
-		<rom name="singe/timetraveler3d/" size="0" crc="00000000"/>
-		<rom name="singe/timetraveler3d/dvd/" size="0" crc="00000000"/>
+		<rom name="singe/timetraveler3d/timetraveler3d.txt" size="566" crc="3886b29e" sha1="dcc08419110d4a80ff32957f7e5e82e939d3dad3"/>
+		<rom name="singe/timetraveler3d/timetraveler3d.zip" size="262273" crc="aab3d4fd" sha1="2fe3c1d83fcd2dffc7fcb2b6d257354a4cc794cf"/>
 		<rom name="singe/timetraveler3d/dvd/vts_01_1.m2v" size="81005420" crc="42eef9a1" sha1="9ddafc66cadffe15644ae42f04c01f8f707d537d"/>
 		<rom name="singe/timetraveler3d/dvd/vts_01_1.ogg" size="2139273" crc="83d83186" sha1="f4b8f6a3506ec927acdf1a295e88e5428623867c"/>
 		<rom name="singe/timetraveler3d/dvd/vts_02_1.m2v" size="44137124" crc="4f435fff" sha1="99b0ff4e77b634affea8fdcf42a2a6de80ba14d1"/>
@@ -6259,17 +6165,15 @@
 		<rom name="singe/timetraveler3d/dvd/vts_17_1.ogg" size="157374" crc="b4d67d74" sha1="c16fe6508439dd661aed855802878dedeaca3d7f"/>
 		<rom name="singe/timetraveler3d/dvd/vts_18_1.m2v" size="22948893" crc="abb40e53" sha1="7a867ad4b175b92ed29396378d76b74744468650"/>
 		<rom name="singe/timetraveler3d/dvd/vts_18_1.ogg" size="1556616" crc="796eef4f" sha1="73bbed78267e3303512017b44fc880874567209a"/>
-		<rom name="singe/timetraveler3d/timetraveler3d.txt" size="566" crc="3886b29e" sha1="dcc08419110d4a80ff32957f7e5e82e939d3dad3"/>
-		<rom name="singe/timetraveler3d/timetraveler3d.zip" size="262273" crc="aab3d4fd" sha1="2fe3c1d83fcd2dffc7fcb2b6d257354a4cc794cf"/>
-		<rom name="singe/triad/" size="0" crc="00000000"/>
 		<rom name="singe/triad/maptriad.m2v" size="44413019" crc="a925f3f3" sha1="6eb09d6985b8a82aeb7d70eb5f0b71701da31c34"/>
 		<rom name="singe/triad/maptriad.ogg" size="115486" crc="76f75e23" sha1="b67cfbc161983514ce36e942ef776c7e92af095e"/>
 		<rom name="singe/triad/triad.m2v" size="1723939774" crc="a4a4349e" sha1="a4edda9a2b5fb1059a5fcf6df646476fed60448e"/>
 		<rom name="singe/triad/triad.ogg" size="28733328" crc="3aa93d23" sha1="4d9e9ce7a3b82117d4a3cf80ad5e1e3c32fedfcb"/>
 		<rom name="singe/triad/triad.txt" size="36" crc="d447bcc9" sha1="c388f0dbca00c760607f536a66208818b9e52219"/>
 		<rom name="singe/triad/triad.zip" size="10628709" crc="f201abdc" sha1="5d9c1d3ce09de4cf80e0c8ae3c9699f726e0be03"/>
-		<rom name="singe/typing-md2/" size="0" crc="00000000"/>
-		<rom name="singe/typing-md2/cdrom/" size="0" crc="00000000"/>
+		<rom name="singe/typing-md2/README.md" size="27465" crc="95b5da9a" sha1="833f2dc44db585560953c6b7aa4e5f96e77240b6"/>
+		<rom name="singe/typing-md2/typing-md2.txt" size="6585" crc="527bb7d9" sha1="9520978d0a8b694d5b9026d83302670755b34e96"/>
+		<rom name="singe/typing-md2/typing-md2.zip" size="6267111" crc="cf969910" sha1="f9a982da0e9f5afab89eb24ce12050a259594863"/>
 		<rom name="singe/typing-md2/cdrom/a_trailer.m2v" size="103858609" crc="e14cd9c9" sha1="5f67deea070cb70ccfa7d24132773ffd1126b5ec"/>
 		<rom name="singe/typing-md2/cdrom/a_trailer.ogg" size="1962855" crc="584bf766" sha1="269c857c2b2410f2ab807dc945d0889b7796469d"/>
 		<rom name="singe/typing-md2/cdrom/b_aintro.m2v" size="144079178" crc="d89eeb3d" sha1="2b3d47576507b46cd76ab0029134281ea55426a8"/>
@@ -6696,11 +6600,8 @@
 		<rom name="singe/typing-md2/cdrom/z_menus.ogg" size="2073687" crc="c1c9d9a0" sha1="bbdd9ed30214283bda49740ba718d74aba7349f7"/>
 		<rom name="singe/typing-md2/cdrom/z_type.m2v" size="16405299" crc="2e83adce" sha1="630ff79264c1d5d5ab860c3661bb26d52db02328"/>
 		<rom name="singe/typing-md2/cdrom/z_type.ogg" size="547930" crc="6c146dc3" sha1="647ff8b1cc95bb05248feafdd8873e1bcc7bcbca"/>
-		<rom name="singe/typing-md2/README.md" size="27465" crc="95b5da9a" sha1="833f2dc44db585560953c6b7aa4e5f96e77240b6"/>
-		<rom name="singe/typing-md2/typing-md2.txt" size="6585" crc="527bb7d9" sha1="9520978d0a8b694d5b9026d83302670755b34e96"/>
-		<rom name="singe/typing-md2/typing-md2.zip" size="6267111" crc="cf969910" sha1="f9a982da0e9f5afab89eb24ce12050a259594863"/>
-		<rom name="singe/warriors/" size="0" crc="00000000"/>
-		<rom name="singe/warriors/video/" size="0" crc="00000000"/>
+		<rom name="singe/warriors/warriors.txt" size="279" crc="821f2c7e" sha1="c006b1ed89673a8a7c47b76da03df2441f238b13"/>
+		<rom name="singe/warriors/warriors.zip" size="312453" crc="7a45b09f" sha1="760655a588ba64776bb46bf71a712505b96d711e"/>
 		<rom name="singe/warriors/video/death.m2v" size="6095354" crc="8df96be4" sha1="2f09373041d258d1f6019b0830086cc1414574d9"/>
 		<rom name="singe/warriors/video/death.ogg" size="395019" crc="9cde0b7c" sha1="62c23fa35ca5d2199a02f3b65b40b3a6c6b3d9ce"/>
 		<rom name="singe/warriors/video/intro01.m2v" size="182942271" crc="0472a561" sha1="bf11daa2e5a6a9cc0f49807317320fe84a55d9bb"/>
@@ -6723,9 +6624,6 @@
 		<rom name="singe/warriors/video/menus.ogg" size="919361" crc="577d5adb" sha1="931a3ad23ef12f6b05918d58c94b6a73ef0c325e"/>
 		<rom name="singe/warriors/video/title.m2v" size="10143934" crc="37a872df" sha1="98df24ad44757c2c0fd9f59896b68acaa08bf273"/>
 		<rom name="singe/warriors/video/title.ogg" size="423458" crc="18a94db5" sha1="b16cec5b0ec5d3158e68cc2e977a59af66c9ae5c"/>
-		<rom name="singe/warriors/warriors.txt" size="279" crc="821f2c7e" sha1="c006b1ed89673a8a7c47b76da03df2441f238b13"/>
-		<rom name="singe/warriors/warriors.zip" size="312453" crc="7a45b09f" sha1="760655a588ba64776bb46bf71a712505b96d711e"/>
-		<rom name="sound/" size="0" crc="00000000"/>
 		<rom name="sound/ab_alarm1.wav" size="8304" crc="28bc4f2e" sha1="7bc31f484a529494a50fb25fb045b2d9f568b2d4"/>
 		<rom name="sound/ab_alarm2.wav" size="8294" crc="404074d0" sha1="a4c93dc8831509397b71f0e25d6f4e543fb49828"/>
 		<rom name="sound/ab_alarm3.wav" size="8592" crc="d678f828" sha1="f04a30887af88026375557c830ad0c7fd1c853d4"/>
@@ -6804,8 +6702,15 @@
 		<rom name="sound/sda_success_lo.wav" size="11822" crc="4b6cc3cf" sha1="d9f3a18b64dabddf459c87b4edd81a4e74699c97"/>
 	</game>
 	<game name="Singe2">
-		<description>Singe2</description>
-		<rom name="batch/" size="0" crc="00000000"/>
+		<rom name="gamecontrollerdb.txt" size="564965" crc="360237fe" sha1="e1655f71eb05c2bdb41425c05ef534d22d3c0a49"/>
+		<rom name="hypinput.ini" size="1544" crc="1dc7f502" sha1="1c6508b5fb4415347b2ad5736906639d542388cc"/>
+		<rom name="hypjsch.exe" size="4500992" crc="d5ab324f" sha1="59f54b37c2c70ee4b1afe17b872a89577d56b747"/>
+		<rom name="hypseus-logo.png" size="114876" crc="a21fe175" sha1="4d24b293d74a1f09d6a985155187575bf106a673"/>
+		<rom name="hypseus.exe" size="14663168" crc="683a162c" sha1="c0e6947e25439f9b669a29f6b63e89166b388700"/>
+		<rom name="hypseus_subsystem.exe" size="14654464" crc="6bcb9a16" sha1="77470e01145d77d68b890d3771abfb0ab35772f7"/>
+		<rom name="LICENSE" size="32472" crc="b792a93a" sha1="a6adc13d0c809ab8cb68e6e3b6eb7571bd0e2920"/>
+		<rom name="README.txt" size="3774" crc="f78408a1" sha1="d7714b450793ee1f6b5d3ea3a2f756b96d9f03ac"/>
+		<rom name="README_BEZELS.txt" size="2050" crc="c4398bbb" sha1="8321a43662cefea66573c5deab2cc9a72bb8ca0c"/>
 		<rom name="batch/Alestorm Party [16x9][1920x810][FS][V].bat" size="189" crc="449af0aa" sha1="df607067c72c402c7546cbc08143b65b07195d71"/>
 		<rom name="batch/Alita Battle Angel (LaserForge)[16x9][1600x900][FS][V].bat" size="179" crc="a6f8fe98" sha1="2737606d84af3dda3f13cd46f2ef0c66f95a741c"/>
 		<rom name="batch/Altered Carbon (Karis original)[16x9][1920x1080][FS][V].bat" size="191" crc="2b0b8d23" sha1="f046e70b5c036b534bcfd8d73a3583b49ec3769f"/>
@@ -6916,8 +6821,8 @@
 		<rom name="batch/Space Ace SE (06-06-24) [4x3][1440x1080][SAe_xb Scoreboard][FS][V].bat" size="231" crc="afc5259a" sha1="0e81d4576e1e4e99f21bfebd6498467313b4aff8"/>
 		<rom name="batch/Space Ace SE (06-06-24) [4x3][1440x1080][SAe_xc Scoreboard][FS][V].bat" size="231" crc="70c3a858" sha1="5f1bd3f3e0dee3b8125ca9a21f7a49f83a3ba831"/>
 		<rom name="batch/Space Pirates HD [4x3][1440x1080][FS][V].bat" size="201" crc="485022bf" sha1="77cf6a8d251d108a649c45debfe0080cd8528775"/>
-		<rom name="batch/Space Rocks (Carpenter Brut Remix)(v1.2.1 enhanced)[16x9][896x504][FS][V].bat" size="184" crc="5eebde30" sha1="72c80767f9357c5f93e32c4b27c138513397ee3a"/>
-		<rom name="batch/Space Rocks (v1.2.1 enhanced)[16x9][896x504][FS][V].bat" size="169" crc="fb1ee2ad" sha1="eb619a88871b011c70b2144d9ea0737a49e7533b"/>
+		<rom name="batch/Space Rocks (Carpenter Brut Remix)(v1.2.1 enhanced)[16x9][896x504][FS][V].bat" size="128" crc="727bbeaa" sha1="e14acb1d7896c79e50c18f3318ee5a5c559060ea"/>
+		<rom name="batch/Space Rocks (v1.2.1 enhanced)[16x9][896x504][FS][V].bat" size="118" crc="13a6736f" sha1="da170f5df0aefe8f9b01ce5612f53a68956526b4"/>
 		<rom name="batch/SpiderHand [16x9][1440x810][FS][V].bat" size="179" crc="41d0c4e8" sha1="c672dcf03d5f4a5c0fa72be38a5175c986d76271"/>
 		<rom name="batch/Starship Troopers [16x9][1920x1080][FS][V].bat" size="203" crc="afc128a4" sha1="e60ccfc8b30be39799304d3ec3ca0fdf1bd50e88"/>
 		<rom name="batch/Sucker Punch [16x9 centercut][1920x1080][FS][V].bat" size="184" crc="8cb98e4a" sha1="96d263408bd01872fa7c4c2ecf7c9f4f20b76142"/>
@@ -6943,7 +6848,6 @@
 		<rom name="batch/Video Driver - Seaside Drive [800x450][FS][V].bat" size="191" crc="fe06d2b7" sha1="76c2c5f8194f0b8efc059854fc96780501bd6618"/>
 		<rom name="batch/WARLIKE [16x9][1280x720][FS][V].bat" size="167" crc="cb825ff7" sha1="8d5cc535d7f46c64c408c41a419b077ac7c7a1c8"/>
 		<rom name="batch/Wednesday (English, French, Spanish) [16x9][1920x1080][FS][V].bat" size="173" crc="4ee6d3a4" sha1="8b13450dbf6aac6e9772744b5011d376317e8611"/>
-		<rom name="bezels/" size="0" crc="00000000"/>
 		<rom name="bezels/bd13.png" size="792501" crc="0bdd880f" sha1="ab57cc45620d956c979c2e108f9c20c4a3dec194"/>
 		<rom name="bezels/bezel_minesweeper.png" size="673481" crc="595cf30f" sha1="3e05e29c478116f1703b47ef476f62769db1b8ca"/>
 		<rom name="bezels/cliff01.png" size="441106" crc="cbef72b7" sha1="b54fc850d23c453f641aa504c6a40e1f03bc7170"/>
@@ -6998,7 +6902,6 @@
 		<rom name="bezels/ThayersQuest_bezel.png" size="1389701" crc="db98071e" sha1="f78586ab4331ca058a272ccf66e02f5e9b3dada4"/>
 		<rom name="bezels/timegal.png" size="2220891" crc="bdc73de0" sha1="08e60d32b9bbd157317e26c397e124e74b772488"/>
 		<rom name="bezels/tqkeys_alt.png" size="828863" crc="3d395d0c" sha1="b83d8d6bda0c284c40fa7466aa224a0401ad4613"/>
-		<rom name="fonts/" size="0" crc="00000000"/>
 		<rom name="fonts/arial.ttf" size="1045960" crc="79acda34" sha1="77b225a694c39468a15ea94754eaf5edc93f2e02"/>
 		<rom name="fonts/daphne.ttf" size="42316" crc="e8a980c4" sha1="114b34022174570b302fa0b22d71d7d10a6e6fef"/>
 		<rom name="fonts/default.ttf" size="38924" crc="7a61047d" sha1="c41977dc265faf65c0a1f2295d36af2fc003eee9"/>
@@ -7006,18 +6909,9 @@
 		<rom name="fonts/m39.ttf" size="15836" crc="9fa18359" sha1="ac4179a92d1eb888a812a350d8ca1c8b662d9c72"/>
 		<rom name="fonts/pixel.ttf" size="44468" crc="f3866188" sha1="6a57320632315d1b457f9ba5f59326ba0ab37427"/>
 		<rom name="fonts/timewarp.ttf" size="26612" crc="1c21024f" sha1="ef9dd1ce72ea5e849382aca1a8d77da8f34db9b2"/>
-		<rom name="gamecontrollerdb.txt" size="564965" crc="360237fe" sha1="e1655f71eb05c2bdb41425c05ef534d22d3c0a49"/>
-		<rom name="hypinput.ini" size="1544" crc="1dc7f502" sha1="1c6508b5fb4415347b2ad5736906639d542388cc"/>
-		<rom name="hypjsch.exe" size="4500992" crc="d5ab324f" sha1="59f54b37c2c70ee4b1afe17b872a89577d56b747"/>
-		<rom name="hypseus-logo.png" size="114876" crc="a21fe175" sha1="4d24b293d74a1f09d6a985155187575bf106a673"/>
-		<rom name="hypseus.exe" size="14654464" crc="722efa94" sha1="efaab07faaedd565317b91f6a7e342717b57765a"/>
-		<rom name="hypseus_subsystem.exe" size="14654464" crc="6bcb9a16" sha1="77470e01145d77d68b890d3771abfb0ab35772f7"/>
-		<rom name="LICENSE" size="32472" crc="b792a93a" sha1="a6adc13d0c809ab8cb68e6e3b6eb7571bd0e2920"/>
-		<rom name="midi/" size="0" crc="00000000"/>
 		<rom name="midi/COPYING.txt" size="18962" crc="9f0588ba" sha1="ce62f9e8817b2202ba26b04f69d939b5ee5f191e"/>
 		<rom name="midi/soundfont.sf2" size="5969788" crc="d6ff6f31" sha1="63e4eab3162ef10ffd99e89f13e4e67f751e9900"/>
 		<rom name="midi/SOUNDFONTS.txt" size="414" crc="4dbad077" sha1="0699be6a163fdb77010037c29ae6ecf3c1a5fb7e"/>
-		<rom name="pics/" size="0" crc="00000000"/>
 		<rom name="pics/annunoff.png" size="2307" crc="340bcb99" sha1="6e6a390981d3061f175f651d86809d9102ae9a14"/>
 		<rom name="pics/annunon.png" size="2394" crc="59fbf800" sha1="e42050d4e4c13618d30688cd459c6f49e995438f"/>
 		<rom name="pics/cadet.bmp" size="11690" crc="f5355632" sha1="3c5e70c58e2f0cff353eda64478a6f7f2847d80c"/>
@@ -7061,19 +6955,12 @@
 		<rom name="pics/spaceace.bmp" size="18378" crc="1a2699cf" sha1="76781d6ff69cb8cb7e3497f0e081ba44e8853e12"/>
 		<rom name="pics/time.bmp" size="4378" crc="2600f7a8" sha1="79f9cd76bc6b00625c317435e215d536f08a195c"/>
 		<rom name="pics/tqkeys.png" size="795112" crc="fbeed87d" sha1="0d28b8e4788d95c6abd3f20b8c432ac3285d4684"/>
-		<rom name="README.txt" size="3725" crc="0e2364ee" sha1="b9cb9a8492995aa797965f0631367faf1a3aef7e"/>
-		<rom name="README_BEZELS.txt" size="2050" crc="c4398bbb" sha1="8321a43662cefea66573c5deab2cc9a72bb8ca0c"/>
-		<rom name="singe/" size="0" crc="00000000"/>
-		<rom name="singe/AlestormParty/" size="0" crc="00000000"/>
 		<rom name="singe/AlestormParty/AlestormParty.txt" size="31" crc="6bbc9c5b" sha1="ad84b00ccb9fa6072a17b6ea0597e2026e4a9f3f"/>
 		<rom name="singe/AlestormParty/AlestormParty.zip" size="20601247" crc="6f8d8ea5" sha1="9073fc51260156107eb54a3340462480b6891215"/>
-		<rom name="singe/AlestormParty/Video/" size="0" crc="00000000"/>
 		<rom name="singe/AlestormParty/Video/AlestormParty.m2v" size="156804184" crc="2103248a" sha1="95305ff8b57341bc1a599d88c58135225d52917d"/>
 		<rom name="singe/AlestormParty/Video/AlestormParty.ogg" size="4269656" crc="48f4f857" sha1="523962a4bad1503698a6266f4d525e652404f2e5"/>
-		<rom name="singe/AlitaBattleAngel/" size="0" crc="00000000"/>
 		<rom name="singe/AlitaBattleAngel/AlitaBattleAngel.txt" size="259" crc="6671c731" sha1="a79dc3f01dce20e525f2896fb7df4a29091da5b8"/>
 		<rom name="singe/AlitaBattleAngel/AlitaBattleAngel.zip" size="1916575" crc="94a7714a" sha1="f0356b6c29dbf25d63580696d4940220b346dba6"/>
-		<rom name="singe/AlitaBattleAngel/Video/" size="0" crc="00000000"/>
 		<rom name="singe/AlitaBattleAngel/Video/AlitaBattleAngel-attract1-cze.ogg" size="2166355" crc="ab2650f4" sha1="4b0f419079a94a7141748f83a05be53aae7b1565"/>
 		<rom name="singe/AlitaBattleAngel/Video/AlitaBattleAngel-attract1-fre.ogg" size="2166355" crc="ab2650f4" sha1="4b0f419079a94a7141748f83a05be53aae7b1565"/>
 		<rom name="singe/AlitaBattleAngel/Video/AlitaBattleAngel-attract1-ger.ogg" size="2166355" crc="ab2650f4" sha1="4b0f419079a94a7141748f83a05be53aae7b1565"/>
@@ -7158,16 +7045,12 @@
 		<rom name="singe/AlitaBattleAngel/Video/Hypseus_Singe_instructions-tha.ogg" size="4528" crc="db037fc2" sha1="255f9f0906b696414e8af997361eedb3a6ae3bee"/>
 		<rom name="singe/AlitaBattleAngel/Video/Hypseus_Singe_instructions.m2v" size="5527481" crc="463f735c" sha1="9630009dfdfd5442492ddb2fd6ff03e12356b7e6"/>
 		<rom name="singe/AlitaBattleAngel/Video/Hypseus_Singe_instructions.ogg" size="4528" crc="db037fc2" sha1="255f9f0906b696414e8af997361eedb3a6ae3bee"/>
-		<rom name="singe/AlteredCarbon/" size="0" crc="00000000"/>
 		<rom name="singe/AlteredCarbon/AlteredCarbon.txt" size="22" crc="c3552b9e" sha1="51ec51a07728cec2dd6beb16859c0abdfd4d132c"/>
 		<rom name="singe/AlteredCarbon/AlteredCarbon.zip" size="1555160" crc="ec20389a" sha1="5c2909badbdcc716287a5b3b064ef2177622b80b"/>
-		<rom name="singe/AlteredCarbon/Video/" size="0" crc="00000000"/>
 		<rom name="singe/AlteredCarbon/Video/carbon.m2v" size="4354883555" crc="9560aee3" sha1="66390ba99accb858120f4e9693a23725fbac943b"/>
 		<rom name="singe/AlteredCarbon/Video/carbon.ogg" size="32987399" crc="a16266d0" sha1="be85ad184844e04fb681bfdb2de8b2ecc86de638"/>
-		<rom name="singe/AlteredCarbonResleeved/" size="0" crc="00000000"/>
 		<rom name="singe/AlteredCarbonResleeved/AlteredCarbonResleeved.txt" size="229" crc="4217d928" sha1="996a2be5c8de031ae284c6df4c2efa43d3d1680d"/>
 		<rom name="singe/AlteredCarbonResleeved/AlteredCarbonResleeved.zip" size="2072683" crc="d82bdd90" sha1="bbb583f7001881dc6303fc8878838248cb68f2a6"/>
-		<rom name="singe/AlteredCarbonResleeved/Video/" size="0" crc="00000000"/>
 		<rom name="singe/AlteredCarbonResleeved/Video/AlteredCarbonResleeved-fre.ogg" size="71715265" crc="a18adcc5" sha1="9b48d6e1d66b256faf683e3b40b48e908d269d1a"/>
 		<rom name="singe/AlteredCarbonResleeved/Video/AlteredCarbonResleeved-ger.ogg" size="73179672" crc="0c857744" sha1="977b753c7f77cbe9b01e52848f0964369cd0556b"/>
 		<rom name="singe/AlteredCarbonResleeved/Video/AlteredCarbonResleeved-jpn.ogg" size="73135041" crc="f708bf52" sha1="b903cb8c2d5e0da88663d0e560016072ea4e579e"/>
@@ -7198,138 +7081,99 @@
 		<rom name="singe/AlteredCarbonResleeved/Video/Hypseus_Singe_instructions-jpn.ogg" size="4528" crc="db037fc2" sha1="255f9f0906b696414e8af997361eedb3a6ae3bee"/>
 		<rom name="singe/AlteredCarbonResleeved/Video/Hypseus_Singe_instructions.m2v" size="3417566" crc="b7a7943e" sha1="29faf411b0f4a0256bb88bdb61091bb0535b3e7b"/>
 		<rom name="singe/AlteredCarbonResleeved/Video/Hypseus_Singe_instructions.ogg" size="4528" crc="db037fc2" sha1="255f9f0906b696414e8af997361eedb3a6ae3bee"/>
-		<rom name="singe/Arcade_Xperience_Vol1/" size="0" crc="00000000"/>
 		<rom name="singe/Arcade_Xperience_Vol1/Arcade_Xperience_Vol1.txt" size="24" crc="e8841ae0" sha1="4277a3cb3b88469805dde30e8fbbaf8505e429a1"/>
 		<rom name="singe/Arcade_Xperience_Vol1/Arcade_Xperience_Vol1.zip" size="2753019" crc="9f31804e" sha1="129c780223876797cc12802dc03a028635d04eeb"/>
-		<rom name="singe/Arcade_Xperience_Vol1/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Arcade_Xperience_Vol1/Video/arcadex1.m2v" size="1520317138" crc="e4cf4886" sha1="a50de5de922019514f30fc53c955ec1c7a8486f8"/>
 		<rom name="singe/Arcade_Xperience_Vol1/Video/arcadex1.ogg" size="20523360" crc="9d2cc0ac" sha1="40ed3bfe883576a9b1ad80b8f0e6537b08363f60"/>
-		<rom name="singe/Arcade_Xperience_Vol2/" size="0" crc="00000000"/>
 		<rom name="singe/Arcade_Xperience_Vol2/Arcade_Xperience_Vol2.txt" size="24" crc="6e10684e" sha1="0cb83603e3b4caa0d7a14771dc5cea55ec3b7ad0"/>
 		<rom name="singe/Arcade_Xperience_Vol2/Arcade_Xperience_Vol2.zip" size="2752142" crc="4a2ebefa" sha1="911e36c852be0646050dbf9c75daf2e145ef682e"/>
-		<rom name="singe/Arcade_Xperience_Vol2/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Arcade_Xperience_Vol2/Video/arcadex2.m2v" size="1705591144" crc="8fa3148c" sha1="e98483ec4d42afd78a9f96cd1254502603a7499c"/>
 		<rom name="singe/Arcade_Xperience_Vol2/Video/arcadex2.ogg" size="35009678" crc="720ee566" sha1="edaaa351856661933b3ad91a14882727f5e17d27"/>
-		<rom name="singe/Arcade_Xperience_Vol3/" size="0" crc="00000000"/>
 		<rom name="singe/Arcade_Xperience_Vol3/Arcade_Xperience_Vol3.txt" size="26" crc="9fe952bb" sha1="890676efc364fa30d64ed8aa145ad37089b8208f"/>
 		<rom name="singe/Arcade_Xperience_Vol3/Arcade_Xperience_Vol3.zip" size="1540948" crc="0c58b8ff" sha1="be843c6495fcc454ec2bf0766c86457c02d2446b"/>
-		<rom name="singe/Arcade_Xperience_Vol3/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Arcade_Xperience_Vol3/Video/arcadex3.m2v" size="3220065514" crc="ac5aa75c" sha1="069ed19e1d0a75518971e83496479cca8d361c9c"/>
 		<rom name="singe/Arcade_Xperience_Vol3/Video/arcadex3.ogg" size="39111633" crc="b934704c" sha1="595b4b8d9e551823f990c74bbd78937315f298a7"/>
-		<rom name="singe/Asterix/" size="0" crc="00000000"/>
 		<rom name="singe/Asterix/Asterix.txt" size="23" crc="d697ccf5" sha1="e82a0d6557b7e1956ddb5eb1c6a676f4c11922c8"/>
 		<rom name="singe/Asterix/Asterix.zip" size="2388932" crc="bc3c31cf" sha1="7843acdaab487746736cbad9bf564643995e108a"/>
-		<rom name="singe/Asterix/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Asterix/Video/asterix-it.ogg" size="37553351" crc="63b496b3" sha1="dd8bf7e55f1c36300276bce3c0bb35ba30bf92d3"/>
 		<rom name="singe/Asterix/Video/asterix.m2v" size="1511453167" crc="3a4226a7" sha1="44e6dc24bd18bae8883fa9e4c249eb1dd5d86302"/>
 		<rom name="singe/Asterix/Video/asterix.ogg" size="35847433" crc="5bfd2045" sha1="2d5e86f7f3cf083928d522ab66907daa6853f7cf"/>
-		<rom name="singe/Astroboy/" size="0" crc="00000000"/>
 		<rom name="singe/Astroboy/Astroboy.txt" size="24" crc="f19700a9" sha1="d22a8b0964721388fb63317cef1bf59339ccdfd3"/>
 		<rom name="singe/Astroboy/Astroboy.zip" size="1482986" crc="43f68d30" sha1="d6e5b6ad2ceb9b066cb48da6e52e3140e0943278"/>
-		<rom name="singe/Astroboy/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Astroboy/Video/Astroboy.m2v" size="1246439485" crc="d24594ad" sha1="4893f68f4a3f9d1ae264423337610e3d6299fa80"/>
 		<rom name="singe/Astroboy/Video/Astroboy.ogg" size="24116517" crc="a9880049" sha1="8b77bcf38148304433c9c3e69bf242af98878538"/>
-		<rom name="singe/Astroboy_french/" size="0" crc="00000000"/>
 		<rom name="singe/Astroboy_french/Astroboy_french.txt" size="31" crc="9cdc6de4" sha1="ae9125262c4a193adde766145da24e2e53f2dad0"/>
 		<rom name="singe/Astroboy_french/Astroboy_french.zip" size="2488047" crc="74f01014" sha1="af67e83ba8d319ae1830c4caf95d1dcafdb56e51"/>
-		<rom name="singe/Astroboy_french/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Astroboy_french/Video/Astroboy_french.m2v" size="1320332948" crc="318fdf57" sha1="9d46f8a012445635c5283baedf339ddfb014fd76"/>
 		<rom name="singe/Astroboy_french/Video/Astroboy_french.ogg" size="19916003" crc="b5d71b9f" sha1="4bbbb04afa09dfdb7cace366896c250f3fa71bd6"/>
-		<rom name="singe/autorace/" size="0" crc="00000000"/>
 		<rom name="singe/autorace/autorace-snap.mp4" size="4580800" crc="80d0482f" sha1="b2beda320cce5ec632509d23d276a9e7ed313af1"/>
 		<rom name="singe/autorace/autorace.m2v" size="287498" crc="f4fdee17" sha1="19e6eabd51f2c938ac4a4d29b8fd7622ce221968"/>
 		<rom name="singe/autorace/autorace.txt" size="19" crc="bfaddbe6" sha1="5d2b0dd0740c693dc46ab91e99f829c01a53afdc"/>
 		<rom name="singe/autorace/autorace.zip" size="145618" crc="eadea621" sha1="bb1b028b69368641baa7cc2cd90f763b32fa90ca"/>
-		<rom name="singe/badlands_lite/" size="0" crc="00000000"/>
 		<rom name="singe/badlands_lite/badlands_lite.txt" size="26" crc="bba647cf" sha1="51bd75c4245d2e76ac8e458f1bda5727d9e45e36"/>
 		<rom name="singe/badlands_lite/badlands_lite.zip" size="1774010" crc="3af59c0c" sha1="e116f66f69c05241006a4dfee0ba47283117973a"/>
 		<rom name="singe/badlands_lite/badlands_lite_eggman.zip" size="1828052" crc="8cd68659" sha1="afaeaad8f345a7627dbdf914503d67a82e4a754f"/>
-		<rom name="singe/badlands_lite/Video/" size="0" crc="00000000"/>
 		<rom name="singe/badlands_lite/Video/Badlands.m2v" size="1391955760" crc="2b632751" sha1="2f06edab56087730215c95f185879779a3637c93"/>
 		<rom name="singe/badlands_lite/Video/Badlands.ogg" size="12473136" crc="1bb4bb0c" sha1="69a8072667ef44eb5b5ec75f58d338aaf16a3133"/>
-		<rom name="singe/BD13/" size="0" crc="00000000"/>
 		<rom name="singe/BD13/BD13.txt" size="20" crc="06e23b06" sha1="b86bdbfd1be4015c61db306f0ae004ef84779872"/>
 		<rom name="singe/BD13/BD13.zip" size="2363034" crc="e96aad52" sha1="563f483cc779f9ffb69824b6c2d19a20b79fc73b"/>
-		<rom name="singe/BD13/Video/" size="0" crc="00000000"/>
 		<rom name="singe/BD13/Video/BD13.m2v" size="1981230457" crc="c72e61cc" sha1="18ad8a9ca0b792a6eaeb465446e9b6b6ae1138bc"/>
 		<rom name="singe/BD13/Video/BD13.ogg" size="61973676" crc="edda8f8a" sha1="f384550e39e5825463e3430c527ea75add067b4a"/>
-		<rom name="singe/Chantze_HD/" size="0" crc="00000000"/>
 		<rom name="singe/Chantze_HD/Chantze_HD.txt" size="23" crc="dbb85b05" sha1="c778e0505c50c4e08dba50b74e6dd8b429060dd7"/>
 		<rom name="singe/Chantze_HD/Chantze_HD.zip" size="4214924" crc="f1523494" sha1="218dcaa7ffeb1c68521ae9faae7a39ae769cd4f9"/>
-		<rom name="singe/Chantze_HD/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Chantze_HD/Video/Chantze.m2v" size="1542250381" crc="87f5b705" sha1="abf25fdbb60d1666a8a483b285a01204526e1d7f"/>
 		<rom name="singe/Chantze_HD/Video/Chantze.ogg" size="25648761" crc="be854b21" sha1="23b8f19cfa91f5c4ab9ae3e3b0b1f28b980ac37b"/>
-		<rom name="singe/cliff_se_1080/" size="0" crc="00000000"/>
 		<rom name="singe/cliff_se_1080/cliff_se_1080.txt" size="21" crc="2e058121" sha1="2510eb006c24fda29448fd6a53af0f997433dbf0"/>
 		<rom name="singe/cliff_se_1080/cliff_se_1080.zip" size="7870478" crc="ebd46672" sha1="2b0056c3929db72776e70d016f080b487347eda3"/>
-		<rom name="singe/cliff_se_1080/Video/" size="0" crc="00000000"/>
 		<rom name="singe/cliff_se_1080/Video/cliff.m2v" size="4889926719" crc="52cbc4dc" sha1="a8aac58fff74209ad1ed48badccb8800b1cf8f5c"/>
 		<rom name="singe/cliff_se_1080/Video/cliff.ogg" size="17268842" crc="6d98c821" sha1="f63b8d62c303bc38adde4dbd7b277ff08359d6d1"/>
-		<rom name="singe/CliffHanger43/" size="0" crc="00000000"/>
 		<rom name="singe/CliffHanger43/CliffHanger43.txt" size="29" crc="ee85be6e" sha1="b4a6b4f2bca98bd67ab85da578748746104d016d"/>
 		<rom name="singe/CliffHanger43/CliffHanger43.zip" size="2143343" crc="55e8e787" sha1="ee61820ad4f3bd91e84f31274259ef723a9584f9"/>
-		<rom name="singe/CliffHanger43/Video/" size="0" crc="00000000"/>
 		<rom name="singe/CliffHanger43/Video/!Convert MP4 (Singe) to Hypseus M2V-OGG.bat" size="1944" crc="54da0ef0" sha1="671591e6873ba8d2c9526b99232102212518a870"/>
 		<rom name="singe/CliffHanger43/Video/CliffHanger43.m2v" size="975675987" crc="6bc3627c" sha1="eea35236f1f30a23076edd6cfd04d9bad2a37edd"/>
 		<rom name="singe/CliffHanger43/Video/CliffHanger43.ogg" size="20546358" crc="2e9882c5" sha1="a70df96ee2abf023bd8369a6e84aa108d689dc8b"/>
-		<rom name="singe/CliffHD/" size="0" crc="00000000"/>
 		<rom name="singe/CliffHD/CliffHD.txt" size="21" crc="2e058121" sha1="2510eb006c24fda29448fd6a53af0f997433dbf0"/>
 		<rom name="singe/CliffHD/CliffHD.zip" size="980018" crc="d2fe58fe" sha1="5f31fb6ade20583c758f5f204054a6f3e9020c44"/>
-		<rom name="singe/CliffHD/Video/" size="0" crc="00000000"/>
 		<rom name="singe/CliffHD/Video/cliff.m2v" size="1179501226" crc="d790205d" sha1="7b4035fb0723ccd7a1499914b96d190712622e1b"/>
 		<rom name="singe/CliffHD/Video/cliff.ogg" size="20554935" crc="132cb37d" sha1="dbc3edaed696e43fe9df7b661067f09c72feeac3"/>
-		<rom name="singe/CP2DW_HD/" size="0" crc="00000000"/>
 		<rom name="singe/CP2DW_HD/CP2DW_HD.txt" size="24" crc="4911535b" sha1="1196fce9aa192b3ac5074f47c036c212f8db6867"/>
 		<rom name="singe/CP2DW_HD/CP2DW_HD.zip" size="3774487" crc="9a8cb606" sha1="d05d0e280da88cb9e91bd58225eb97335cd646cc"/>
-		<rom name="singe/CP2DW_HD/Video/" size="0" crc="00000000"/>
 		<rom name="singe/CP2DW_HD/Video/drugwars.m2v" size="1603395135" crc="0ecfa830" sha1="1747530f707180d4758cd4be7a001b4d8cbae14f"/>
 		<rom name="singe/CP2DW_HD/Video/drugwars.ogg" size="35779237" crc="6bdd6207" sha1="d435f9ef780c9d86cbba82606712321eac3cd3da"/>
-		<rom name="singe/CP_HD/" size="0" crc="00000000"/>
 		<rom name="singe/CP_HD/CP_HD.txt" size="27" crc="7b93e930" sha1="b5e9af95449f6a4c3fa3726818839924bf93898a"/>
 		<rom name="singe/CP_HD/CP_HD.zip" size="4151542" crc="f0c57f38" sha1="10f1680026ad3a2657e438a22899d02d48c20c30"/>
-		<rom name="singe/CP_HD/Video/" size="0" crc="00000000"/>
 		<rom name="singe/CP_HD/Video/crimepatrol.m2v" size="1433191107" crc="b9bf252f" sha1="74fab3a9c78b52003bcf0e1621b12930775ea5e4"/>
 		<rom name="singe/CP_HD/Video/crimepatrol.ogg" size="35001158" crc="898a5ba7" sha1="59d3c4ce780a737e914695eb41d608eb02e641fe"/>
-		<rom name="singe/Daitarn_3/" size="0" crc="00000000"/>
 		<rom name="singe/Daitarn_3/Daitarn_3.txt" size="23" crc="791cb932" sha1="3dd630991787a236edd520bfc8cba90656b603ed"/>
 		<rom name="singe/Daitarn_3/Daitarn_3.zip" size="1519667" crc="a9341860" sha1="4c6ff79d8ca2b0796e8cefffdd9b0fe842482a94"/>
-		<rom name="singe/Daitarn_3/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Daitarn_3/Video/daitarn3.m2v" size="2083972957" crc="287e49fe" sha1="5ff2f0845d6823cc96480d6a9f2f9efd5d9b9639"/>
 		<rom name="singe/Daitarn_3/Video/daitarn3.ogg" size="51644530" crc="029855a4" sha1="90aa1726a1088ec148e6ed9cc00902ed934340dd"/>
-		<rom name="singe/Danmachi/" size="0" crc="00000000"/>
 		<rom name="singe/Danmachi/Danmachi.txt" size="26" crc="5bf4f2a5" sha1="86135a2072eb278d4b1a0b5a91cae235f78cbec0"/>
 		<rom name="singe/Danmachi/Danmachi.zip" size="1637843" crc="847caa1e" sha1="37cb82b937af93dc2334fe405b204febf70bdfdb"/>
-		<rom name="singe/Danmachi/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Danmachi/Video/Danmachi-es.ogg" size="108220774" crc="3e099ad9" sha1="711a4317718abaddfcb0e0f59822e9bd6ad795d7"/>
 		<rom name="singe/Danmachi/Video/Danmachi.m2v" size="1741336246" crc="b828a290" sha1="370aa63262fb6db188afc3c721e103f7e5c69a3a"/>
 		<rom name="singe/Danmachi/Video/Danmachi.ogg" size="87764473" crc="b2bcaa82" sha1="ce49c99346ea4a181385ecdd0bca50d3d5329d28"/>
-		<rom name="singe/DL2e/" size="0" crc="00000000"/>
 		<rom name="singe/DL2e/DL2e.txt" size="20" crc="36a548bb" sha1="1e6d73f994fdb798591571b5831a089af87bdaa4"/>
 		<rom name="singe/DL2e/DL2e.zip" size="693042" crc="df7725ab" sha1="68a395026b14beb1cf038e344e14c33d5cfb096b"/>
-		<rom name="singe/DL2e/Video/" size="0" crc="00000000"/>
 		<rom name="singe/DL2e/Video/DL2e.m2v" size="1515827824" crc="10a82e6e" sha1="2f31d64dc5cf1567cf4405943a98553626215b33"/>
 		<rom name="singe/DL2e/Video/DL2e.ogg" size="28266408" crc="0d1e3e7c" sha1="fff0de015a9c2ca7ca376ac001bf04e8b9b9d75f"/>
-		<rom name="singe/DL2e_ext/" size="0" crc="00000000"/>
 		<rom name="singe/DL2e_ext/DL2e_ext.txt" size="24" crc="f8e76052" sha1="3209e87c45c426ef513c017c08f991896a355f7c"/>
 		<rom name="singe/DL2e_ext/DL2e_ext.zip" size="3394559" crc="3be5d7d9" sha1="55536093b9706ce11800586672bd0ad06924e8f4"/>
 		<rom name="singe/DL2e_ext/DL2e_ext_hidden.txt" size="24" crc="f8e76052" sha1="3209e87c45c426ef513c017c08f991896a355f7c"/>
-		<rom name="singe/DL2e_ext/Video/" size="0" crc="00000000"/>
 		<rom name="singe/DL2e_ext/Video/DL2e_ext.m2v" size="1509482170" crc="0ec59a2b" sha1="e43b7e2ac34884a9f832d967672eee635576ff0d"/>
 		<rom name="singe/DL2e_ext/Video/DL2e_ext.ogg" size="28265769" crc="5049e66a" sha1="ecb81d40aa670e7f99221f7092b66d2fd2717c99"/>
-		<rom name="singe/DL_TV/" size="0" crc="00000000"/>
 		<rom name="singe/DL_TV/DL_TV.txt" size="20" crc="943c78cd" sha1="b984cf3d7bb8097b802b68953016e65e4afb678e"/>
 		<rom name="singe/DL_TV/DL_TV.zip" size="1194136" crc="07e7a031" sha1="0582466d32df597a397e350e0400968acd5dfc90"/>
-		<rom name="singe/DL_TV/Video/" size="0" crc="00000000"/>
 		<rom name="singe/DL_TV/Video/dltv.m2v" size="3133125647" crc="9bb308e3" sha1="f89cca3c65be4b0f690aa24a4139abfbffd332ee"/>
 		<rom name="singe/DL_TV/Video/dltv.ogg" size="168663706" crc="efcdddcd" sha1="dbe59019a93cfb23ee9a07988ed7e7072ba7fca6"/>
-		<rom name="singe/DLe/" size="0" crc="00000000"/>
 		<rom name="singe/DLe/DLe.txt" size="20" crc="2979701c" sha1="4b12950615cc26679b3cafb65a4267e803202cc6"/>
 		<rom name="singe/DLe/DLe.zip" size="2246444" crc="e7093ee7" sha1="cbacf206e5e695e9382026ad612e152e674b290a"/>
-		<rom name="singe/DLe/Video/" size="0" crc="00000000"/>
 		<rom name="singe/DLe/Video/lair.m2v" size="1205312083" crc="12b69df1" sha1="39013c9e7ebbab8a2114fc099ccaf6e0b0f60324"/>
 		<rom name="singe/DLe/Video/lair.ogg" size="15822577" crc="61a306cb" sha1="fc6890beb92ea4f8c0864385227256edbb2fd285"/>
-		<rom name="singe/dragons_lair_1080/" size="0" crc="00000000"/>
-		<rom name="singe/dragons_lair_1080/Assets/" size="0" crc="00000000"/>
+		<rom name="singe/dragons_lair_1080/Dragon&apos;s Lair Reconstructed Install.txt" size="4562" crc="6361cef9" sha1="afa05aefd650e62ad1be8ebac6682524557c40cc"/>
+		<rom name="singe/dragons_lair_1080/dragons_lair_1080.txt" size="20" crc="2979701c" sha1="4b12950615cc26679b3cafb65a4267e803202cc6"/>
+		<rom name="singe/dragons_lair_1080/dragons_lair_1080.zip" size="2427168" crc="c2ba2aa4" sha1="1e0005adab94fa732ae01025b5172c115ca11071"/>
+		<rom name="singe/dragons_lair_1080/mastercontrol.ini" size="2155" crc="509bd4e4" sha1="856a94522888ab62861bce003d1c0c49ca7d27f2"/>
 		<rom name="singe/dragons_lair_1080/Assets/3D-1.png" size="918363" crc="d150e8ed" sha1="977567275c05bd4e1f05c90d4a20f75274d581cb"/>
 		<rom name="singe/dragons_lair_1080/Assets/3D-2.png" size="729601" crc="de28ab76" sha1="f954fa962be2b629f75fec1025cfb68bd66135de"/>
 		<rom name="singe/dragons_lair_1080/Assets/Attract.mp4" size="28133309" crc="b144e8fd" sha1="45e742643fadf4600ddec011145e86080b77a897"/>
@@ -7345,36 +7189,34 @@
 		<rom name="singe/dragons_lair_1080/Assets/Kimmy Tutorial v401.pdf" size="26262829" crc="6262464d" sha1="55d69db12832e9a2bde9dc3da02d8a565b9fa085"/>
 		<rom name="singe/dragons_lair_1080/Assets/laserdisc.png" size="2218934" crc="1df52748" sha1="c56cb57eacdee44e544ae520312cf8ffa2dd6e3a"/>
 		<rom name="singe/dragons_lair_1080/Assets/marquee.jpg" size="309224" crc="5f946435" sha1="7df7a946b3ffa2b9c7b4e8e1c9b3a4e3ebad1f3e"/>
-		<rom name="singe/dragons_lair_1080/Assets/optional LED created by Rhikki/" size="0" crc="00000000"/>
 		<rom name="singe/dragons_lair_1080/Assets/optional LED created by Rhikki/Blue LED.7z" size="8334" crc="ed00031b" sha1="af2f5c3ec703545b15d9a17a6faf11e83ffb6fb4"/>
 		<rom name="singe/dragons_lair_1080/Assets/optional LED created by Rhikki/L Green LED.7z" size="8252" crc="d190f1fd" sha1="4d27cd8f508857db33764b466366f787d1c7fb71"/>
 		<rom name="singe/dragons_lair_1080/Assets/optional LED created by Rhikki/LBlue LED.7z" size="8468" crc="c8623f6e" sha1="3bf9f299671c1c3c12f0a024bf1cc5d8c672e631"/>
 		<rom name="singe/dragons_lair_1080/Assets/optional LED created by Rhikki/Pink LED.7z" size="8807" crc="5428c187" sha1="d26ccad2ad17a1cdf5c275d5b8b41d01abf2b979"/>
 		<rom name="singe/dragons_lair_1080/Assets/optional LED created by Rhikki/White LED.7z" size="7970" crc="343b29d6" sha1="ad614b987585c6f08c0059b7610e169522a650d2"/>
 		<rom name="singe/dragons_lair_1080/Assets/optional LED created by Rhikki/Yellow LED.7z" size="8762" crc="c2370277" sha1="5759a40ef080e040812da06b55443a3ead9a0e45"/>
-		<rom name="singe/dragons_lair_1080/Dragon&apos;s Lair Reconstructed Install.txt" size="4562" crc="6361cef9" sha1="afa05aefd650e62ad1be8ebac6682524557c40cc"/>
-		<rom name="singe/dragons_lair_1080/dragons_lair_1080.txt" size="20" crc="2979701c" sha1="4b12950615cc26679b3cafb65a4267e803202cc6"/>
-		<rom name="singe/dragons_lair_1080/dragons_lair_1080.zip" size="2427168" crc="c2ba2aa4" sha1="1e0005adab94fa732ae01025b5172c115ca11071"/>
-		<rom name="singe/dragons_lair_1080/mastercontrol.ini" size="2155" crc="509bd4e4" sha1="856a94522888ab62861bce003d1c0c49ca7d27f2"/>
-		<rom name="singe/dragons_lair_1080/Video/" size="0" crc="00000000"/>
 		<rom name="singe/dragons_lair_1080/Video/lair.m2v" size="5792077969" crc="566639f9" sha1="c963ed2747df14f498a10c4771ce7cbb9b972834"/>
 		<rom name="singe/dragons_lair_1080/Video/lair.ogg" size="62003607" crc="78200a86" sha1="0a1098f5131b5d1e82d780ed17cc5727a450d596"/>
-		<rom name="singe/dragons_lair_2_se/" size="0" crc="00000000"/>
 		<rom name="singe/dragons_lair_2_se/dragons_lair_2_se.txt" size="21" crc="2acfcfc7" sha1="cfdaf471062b45f1b515ac00878fb7d4dd2eaaaa"/>
 		<rom name="singe/dragons_lair_2_se/dragons_lair_2_se.zip" size="7956595" crc="a8357401" sha1="04a76565244f47273845235668dea1677dd193b0"/>
-		<rom name="singe/dragons_lair_2_se/Video/" size="0" crc="00000000"/>
 		<rom name="singe/dragons_lair_2_se/Video/lair2.m2v" size="2652256195" crc="5a629834" sha1="166458e454428921f1ab3e2100288d39fc04927b"/>
 		<rom name="singe/dragons_lair_2_se/Video/lair2.ogg" size="26433722" crc="6d98e413" sha1="c5d1e586ddbc24c79398e56de14196b411d2d3d1"/>
-		<rom name="singe/dragons_lair_classic/" size="0" crc="00000000"/>
 		<rom name="singe/dragons_lair_classic/dragons_lair_classic.txt" size="20" crc="2979701c" sha1="4b12950615cc26679b3cafb65a4267e803202cc6"/>
 		<rom name="singe/dragons_lair_classic/dragons_lair_classic.zip" size="4367485" crc="3c5331d5" sha1="f17cdb40af1eb6def35e79deca4494bdffccb9d0"/>
-		<rom name="singe/dragons_lair_classic/Video/" size="0" crc="00000000"/>
 		<rom name="singe/dragons_lair_classic/Video/lair.m2v" size="2368500487" crc="d44987bd" sha1="5c5116f2cc5b4c255c20897800a45a36e9174535"/>
 		<rom name="singe/dragons_lair_classic/Video/lair.ogg" size="15822577" crc="4dcbce51" sha1="7795516189d320eeac503fb08ea2122ec89595b3"/>
-		<rom name="singe/dragons_lair_II_1080/" size="0" crc="00000000"/>
-		<rom name="singe/dragons_lair_II_1080/Assets/" size="0" crc="00000000"/>
+		<rom name="singe/dragons_lair_II_1080/DRAGON&apos;S LAIR II Reconstructed Install.txt" size="3999" crc="bb718f41" sha1="9d8e883097faeb627f09e63d8fb12d621867f111"/>
+		<rom name="singe/dragons_lair_II_1080/dragons_lair_II_1080.txt" size="21" crc="2acfcfc7" sha1="cfdaf471062b45f1b515ac00878fb7d4dd2eaaaa"/>
+		<rom name="singe/dragons_lair_II_1080/dragons_lair_II_1080.zip" size="2538754" crc="40fb9992" sha1="c60fdb92bad1827001dc2273b32d6928937268e2"/>
 		<rom name="singe/dragons_lair_II_1080/Assets/3Dbox.png" size="675912" crc="2b9dcc59" sha1="2027aae2b58ec276119ba46bc8c762a362803384"/>
-		<rom name="singe/dragons_lair_II_1080/Assets/Alt Treasure Icons/" size="0" crc="00000000"/>
+		<rom name="singe/dragons_lair_II_1080/Assets/Attract.mp4" size="37378999" crc="9be74241" sha1="3cdbf623d3c77b494fe28a4114bf259544a3dfc4"/>
+		<rom name="singe/dragons_lair_II_1080/Assets/clear.png" size="85963" crc="52e80695" sha1="34d82cbe2e0e83e6e4052a3bb8eaa6c2b267713d"/>
+		<rom name="singe/dragons_lair_II_1080/Assets/disc.png" size="2734670" crc="d14d0d04" sha1="4e9d453f2275373971711448565e7a652e6ebc6f"/>
+		<rom name="singe/dragons_lair_II_1080/Assets/DL2.png" size="1748430" crc="ef27f6e1" sha1="29f9427c5783a95b6413c8ba461afe36b59850c6"/>
+		<rom name="singe/dragons_lair_II_1080/Assets/front.png" size="1306878" crc="b718a58f" sha1="4f7e590915260fe969ad07264f422695037df171"/>
+		<rom name="singe/dragons_lair_II_1080/Assets/Kimmy Tutorial v401.pdf" size="26262829" crc="6262464d" sha1="55d69db12832e9a2bde9dc3da02d8a565b9fa085"/>
+		<rom name="singe/dragons_lair_II_1080/Assets/marquee.jpg" size="264171" crc="29c60277" sha1="88dcf8e03152ef74f51aef84233cdcfa83ebf2ca"/>
+		<rom name="singe/dragons_lair_II_1080/Assets/mzm.wbptzayy.png" size="290290" crc="eb74feba" sha1="9b6eacc2e506e93b404564224c81d09d18856cc9"/>
 		<rom name="singe/dragons_lair_II_1080/Assets/Alt Treasure Icons/ace.png" size="2202" crc="80e7c1f8" sha1="3a13ceaeff00e603e1bfe612a0a15a653ebf2799"/>
 		<rom name="singe/dragons_lair_II_1080/Assets/Alt Treasure Icons/apple1.png" size="2366" crc="eb5430dd" sha1="cc5fa776ce91e70ce4bd560faf8f9499b674dc97"/>
 		<rom name="singe/dragons_lair_II_1080/Assets/Alt Treasure Icons/apple2.png" size="2591" crc="12f64181" sha1="4322d548c8017771a0a1ddafb05b0801b047cec5"/>
@@ -7398,174 +7240,116 @@
 		<rom name="singe/dragons_lair_II_1080/Assets/Alt Treasure Icons/hourglass.png" size="2826" crc="4f1ff801" sha1="df0c108213f2987d94dcb2e453177257448487f3"/>
 		<rom name="singe/dragons_lair_II_1080/Assets/Alt Treasure Icons/key.png" size="2152" crc="4eb66317" sha1="862ac578dbeb9aab0092e1178498b01687d1eae7"/>
 		<rom name="singe/dragons_lair_II_1080/Assets/Alt Treasure Icons/knife.png" size="2452" crc="370ac296" sha1="40310e9428f8a35a5d1923f34aed9a88f39e945d"/>
-		<rom name="singe/dragons_lair_II_1080/Assets/Attract.mp4" size="37378999" crc="9be74241" sha1="3cdbf623d3c77b494fe28a4114bf259544a3dfc4"/>
-		<rom name="singe/dragons_lair_II_1080/Assets/clear.png" size="85963" crc="52e80695" sha1="34d82cbe2e0e83e6e4052a3bb8eaa6c2b267713d"/>
-		<rom name="singe/dragons_lair_II_1080/Assets/disc.png" size="2734670" crc="d14d0d04" sha1="4e9d453f2275373971711448565e7a652e6ebc6f"/>
-		<rom name="singe/dragons_lair_II_1080/Assets/DL2.png" size="1748430" crc="ef27f6e1" sha1="29f9427c5783a95b6413c8ba461afe36b59850c6"/>
-		<rom name="singe/dragons_lair_II_1080/Assets/front.png" size="1306878" crc="b718a58f" sha1="4f7e590915260fe969ad07264f422695037df171"/>
-		<rom name="singe/dragons_lair_II_1080/Assets/Kimmy Tutorial v401.pdf" size="26262829" crc="6262464d" sha1="55d69db12832e9a2bde9dc3da02d8a565b9fa085"/>
-		<rom name="singe/dragons_lair_II_1080/Assets/marquee.jpg" size="264171" crc="29c60277" sha1="88dcf8e03152ef74f51aef84233cdcfa83ebf2ca"/>
-		<rom name="singe/dragons_lair_II_1080/Assets/mzm.wbptzayy.png" size="290290" crc="eb74feba" sha1="9b6eacc2e506e93b404564224c81d09d18856cc9"/>
-		<rom name="singe/dragons_lair_II_1080/DRAGON&apos;S LAIR II Reconstructed Install.txt" size="3999" crc="bb718f41" sha1="9d8e883097faeb627f09e63d8fb12d621867f111"/>
-		<rom name="singe/dragons_lair_II_1080/dragons_lair_II_1080.txt" size="21" crc="2acfcfc7" sha1="cfdaf471062b45f1b515ac00878fb7d4dd2eaaaa"/>
-		<rom name="singe/dragons_lair_II_1080/dragons_lair_II_1080.zip" size="2538754" crc="40fb9992" sha1="c60fdb92bad1827001dc2273b32d6928937268e2"/>
-		<rom name="singe/dragons_lair_II_1080/Video/" size="0" crc="00000000"/>
 		<rom name="singe/dragons_lair_II_1080/Video/lair2-it.ogg" size="25922560" crc="d6be499c" sha1="5d6e8fd6f386d9bfea1efc756fe356e19e140fd2"/>
 		<rom name="singe/dragons_lair_II_1080/Video/lair2.m2v" size="6566445312" crc="8ad6cd12" sha1="33a22599e4fa14863dd6ef3c372015352d6abaf2"/>
 		<rom name="singe/dragons_lair_II_1080/Video/lair2.ogg" size="78051172" crc="352d8efa" sha1="9af4d0280b571d0b4b930873e13d94a379cc9aab"/>
-		<rom name="singe/dragons_lair_se/" size="0" crc="00000000"/>
 		<rom name="singe/dragons_lair_se/dragons_lair_se.txt" size="20" crc="2979701c" sha1="4b12950615cc26679b3cafb65a4267e803202cc6"/>
 		<rom name="singe/dragons_lair_se/dragons_lair_se.zip" size="28484323" crc="3b5eabe3" sha1="d778587b82158ba0cd6172b8a4080ef5fb4c8301"/>
-		<rom name="singe/dragons_lair_se/Video/" size="0" crc="00000000"/>
 		<rom name="singe/dragons_lair_se/Video/lair.m2v" size="2368500487" crc="d44987bd" sha1="5c5116f2cc5b4c255c20897800a45a36e9174535"/>
 		<rom name="singe/dragons_lair_se/Video/lair.ogg" size="47302417" crc="01f9a062" sha1="b4fa862cdf039ff32f25ec550141684207d61dc7"/>
-		<rom name="singe/DragonTrainer/" size="0" crc="00000000"/>
 		<rom name="singe/DragonTrainer/DragonTrainer.txt" size="28" crc="6801feaf" sha1="a2b5efc8b54f26bd39ff1f1bced06db08bda5928"/>
 		<rom name="singe/DragonTrainer/DragonTrainer.zip" size="1317149" crc="93f22285" sha1="748a24de1b6abdf7d4fa25f1ab526393fbcfcdd1"/>
-		<rom name="singe/DragonTrainer/Video/" size="0" crc="00000000"/>
 		<rom name="singe/DragonTrainer/Video/DragonTrainer-it.ogg" size="47733144" crc="5783e615" sha1="44d8a82b9787a78108abf03659966bc28021d2e8"/>
 		<rom name="singe/DragonTrainer/Video/DragonTrainer.m2v" size="1448996858" crc="0b4c944b" sha1="e846056f87d1cd32fd6f89b077e4533597292cdc"/>
 		<rom name="singe/DragonTrainer/Video/DragonTrainer.ogg" size="47856182" crc="dd21cfc1" sha1="c4986d38072b080b04e35a3e27906d136382cfe1"/>
-		<rom name="singe/Esh_Aurunmilla/" size="0" crc="00000000"/>
 		<rom name="singe/Esh_Aurunmilla/Esh_Aurunmilla.txt" size="20" crc="a096b49d" sha1="a269c12f9dc16f10df7480a1b6178e3d19472f8b"/>
 		<rom name="singe/Esh_Aurunmilla/Esh_Aurunmilla.zip" size="1705854" crc="d3393d12" sha1="8533627df7fcc6752fda002741b57ac0b57ccdfe"/>
-		<rom name="singe/Esh_Aurunmilla/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Esh_Aurunmilla/Video/esh-jp.ogg" size="49388450" crc="91b1cbdf" sha1="ad341d8b129e06e037477461afd8366bbdc065fe"/>
 		<rom name="singe/Esh_Aurunmilla/Video/esh.m2v" size="1022362539" crc="9d7d9a4d" sha1="707cc5105f7124c4f22d81406c8db983469de65b"/>
 		<rom name="singe/Esh_Aurunmilla/Video/esh.ogg" size="18541511" crc="db0ead89" sha1="c2aaa1b8f57098b811ae2885fe335ac65d5cf1de"/>
-		<rom name="singe/esh_aurunmilla_se/" size="0" crc="00000000"/>
 		<rom name="singe/esh_aurunmilla_se/esh_aurunmilla_se.txt" size="20" crc="a096b49d" sha1="a269c12f9dc16f10df7480a1b6178e3d19472f8b"/>
 		<rom name="singe/esh_aurunmilla_se/esh_aurunmilla_se.zip" size="10561011" crc="1730dda3" sha1="508cffefb8e3cd9fc6ecc18b2e4963bad5f3d295"/>
-		<rom name="singe/esh_aurunmilla_se/Video/" size="0" crc="00000000"/>
 		<rom name="singe/esh_aurunmilla_se/Video/esh.m2v" size="1022362539" crc="9d7d9a4d" sha1="707cc5105f7124c4f22d81406c8db983469de65b"/>
 		<rom name="singe/esh_aurunmilla_se/Video/esh.ogg" size="18541511" crc="db0ead89" sha1="c2aaa1b8f57098b811ae2885fe335ac65d5cf1de"/>
-		<rom name="singe/F13/" size="0" crc="00000000"/>
 		<rom name="singe/F13/F13.txt" size="19" crc="6ed72139" sha1="5e2ef08c181e87ceaa7ff7c3460927f7b0c59bb7"/>
 		<rom name="singe/F13/F13.zip" size="3508664" crc="e536585e" sha1="d68eabb0df6f118f3ecf9a225f6ea07369c12c6f"/>
-		<rom name="singe/F13/Video/" size="0" crc="00000000"/>
 		<rom name="singe/F13/Video/f13.m2v" size="2200697411" crc="abac1baf" sha1="c0c5dabaa36b152214a5dc55011cff49bc81c8a6"/>
 		<rom name="singe/F13/Video/f13.ogg" size="56190571" crc="a8aa2f3d" sha1="8421760a6b2d50f89f5035dd4ceb13982b00472c"/>
-		<rom name="singe/FBC/" size="0" crc="00000000"/>
 		<rom name="singe/FBC/FBC.txt" size="21" crc="34b9081e" sha1="2222be00279d36f3ba187a3a0d14d1f2e34d4013"/>
 		<rom name="singe/FBC/FBC.zip" size="6430749" crc="017f28e5" sha1="0572957a6e3ba6fae5222bcd6361b33231bf17fc"/>
-		<rom name="singe/FBC/Video/" size="0" crc="00000000"/>
 		<rom name="singe/FBC/Video/conan-fr.ogg" size="46571797" crc="bbd1406d" sha1="69ffd74c834fa8599fc3e357221fa5bba806e862"/>
 		<rom name="singe/FBC/Video/conan-it.ogg" size="42696912" crc="7b0afa4d" sha1="66eee9a4d1c3b27c97399a86b02e029fbb78a156"/>
 		<rom name="singe/FBC/Video/conan.m2v" size="1961478864" crc="baca4815" sha1="200ff9af7cee21c22d8a83ab24703448772d7577"/>
 		<rom name="singe/FBC/Video/conan.ogg" size="51508052" crc="cda54e86" sha1="c38c9a4440c804fc5d6cfdb7e16b2f1d4e5f6b07"/>
-		<rom name="singe/Fire_and_Ice/" size="0" crc="00000000"/>
 		<rom name="singe/Fire_and_Ice/Fire_and_Ice.txt" size="25" crc="f8aed5e3" sha1="fb4be88be520f1392810f5dce8587042bb9c7298"/>
 		<rom name="singe/Fire_and_Ice/Fire_and_Ice.zip" size="1623254" crc="9273ce03" sha1="086e464211c204fcb159067a2a0db64076d4a2c2"/>
-		<rom name="singe/Fire_and_Ice/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Fire_and_Ice/Video/fireandice.m2v" size="3118360946" crc="bfa8ad6e" sha1="b3ffc804970498adc7841c0673d3bfde925f9f17"/>
 		<rom name="singe/Fire_and_Ice/Video/fireandice.ogg" size="41180096" crc="cb54782a" sha1="6b4ea0b6165ac0f19716e31fc54e3892290c7bd8"/>
-		<rom name="singe/Freddy/" size="0" crc="00000000"/>
 		<rom name="singe/Freddy/Freddy.txt" size="22" crc="6c81fdd1" sha1="ed72567f9609ea36a558f9dbcdca0b0f44544291"/>
 		<rom name="singe/Freddy/Freddy.zip" size="3909487" crc="d9f6ab94" sha1="652f3a2dfda6a3d3811a8a7f906626161d2fa1c0"/>
-		<rom name="singe/Freddy/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Freddy/Video/freddy.m2v" size="1266941035" crc="98741cd4" sha1="565f862e09469c04f406cc5d25affa40f337cae3"/>
 		<rom name="singe/Freddy/Video/freddy.ogg" size="53753149" crc="037896e3" sha1="80974305ef6e8fa14ba5c6fa7b1e5b92a5402469"/>
 		<rom name="singe/Freddy/Video/Secret Level.txt" size="341" crc="ba62665b" sha1="c387800bfd86b57f37cdee72ea5fb1cd0535974c"/>
-		<rom name="singe/FumaConspiracy/" size="0" crc="00000000"/>
 		<rom name="singe/FumaConspiracy/FumaConspiracy.txt" size="20" crc="35ab9175" sha1="31697599b22bc740d91f28436d152ec069114be8"/>
 		<rom name="singe/FumaConspiracy/FumaConspiracy.zip" size="4788802" crc="83725f0c" sha1="ae67f4303e9d96543c287171b3511dcbc5b017d3"/>
-		<rom name="singe/FumaConspiracy/Video/" size="0" crc="00000000"/>
 		<rom name="singe/FumaConspiracy/Video/fuma-it.ogg" size="45732939" crc="525a81c0" sha1="8c5e3180a327814e7d77682227d45ba22cd862b7"/>
 		<rom name="singe/FumaConspiracy/Video/fuma-jp.ogg" size="47800183" crc="2c56d4ae" sha1="627c65e239e50ed81edf7e2407511e799826a3db"/>
 		<rom name="singe/FumaConspiracy/Video/fuma.m2v" size="2730662573" crc="f8a0f161" sha1="c43f6e47189b3231d99b7940f4a1e5e60779ec68"/>
 		<rom name="singe/FumaConspiracy/Video/fuma.ogg" size="43283178" crc="f111a2a4" sha1="afc170daa0205835c49504f102f0fb36b70072c0"/>
-		<rom name="singe/Future_Boy/" size="0" crc="00000000"/>
 		<rom name="singe/Future_Boy/Future_Boy.txt" size="20" crc="0673df03" sha1="d5b7edb99735b47392a67759fff19a58dfab436c"/>
 		<rom name="singe/Future_Boy/Future_Boy.zip" size="1418127" crc="4cb0af2a" sha1="fe68224cf9ece3dfc1783699da98c859651dff1d"/>
 		<rom name="singe/Future_Boy/README.txt" size="921" crc="28f7027b" sha1="134c649349b8c49c06aa25e8300d8caf7199c1a8"/>
-		<rom name="singe/Future_Boy/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Future_Boy/Video/conan-fr.ogg" size="47162735" crc="be8e1730" sha1="bb18647cc26ca122ad4f4429fbf806a4a0373bf4"/>
 		<rom name="singe/Future_Boy/Video/conan-it.ogg" size="40031376" crc="8efa501c" sha1="b0433484b5ceae439e0306e3cc4efcae0d7de029"/>
 		<rom name="singe/Future_Boy/Video/conan.m2v" size="1900540235" crc="adb28ff5" sha1="dc1f5bc03283aacf1d4edc5be4f4122e316fe589"/>
 		<rom name="singe/Future_Boy/Video/conan.ogg" size="49868377" crc="8f001bdc" sha1="3da31c4692b1af25fab31e6b05a0e73e43d050b2"/>
-		<rom name="singe/hayate_1080/" size="0" crc="00000000"/>
 		<rom name="singe/hayate_1080/hayate_1080.txt" size="22" crc="e3b00d13" sha1="63387540d6b48cfcbdf03cf5fb0f4b86b6301147"/>
 		<rom name="singe/hayate_1080/hayate_1080.zip" size="3318099" crc="8d4c193d" sha1="83d87d22df29d7aced26e9abe7828b0a1979c84c"/>
-		<rom name="singe/hayate_1080/Video/" size="0" crc="00000000"/>
 		<rom name="singe/hayate_1080/Video/hayate.m2v" size="2987476183" crc="c741bdc0" sha1="15c3e0377780c69152a2e26b8659fbf6015092a0"/>
 		<rom name="singe/hayate_1080/Video/hayate.ogg" size="26405713" crc="06b351ed" sha1="519bdf2a9d4425d21d02e792bcbc97a83a585565"/>
-		<rom name="singe/hayate_se/" size="0" crc="00000000"/>
 		<rom name="singe/hayate_se/hayate_se.txt" size="22" crc="e3b00d13" sha1="63387540d6b48cfcbdf03cf5fb0f4b86b6301147"/>
 		<rom name="singe/hayate_se/hayate_se.zip" size="22084249" crc="19af0180" sha1="2d6d085a898d58e861314b1343e306ba18dd41c4"/>
-		<rom name="singe/hayate_se/Video/" size="0" crc="00000000"/>
 		<rom name="singe/hayate_se/Video/hayate-ja.ogg" size="19477285" crc="90cd0a5b" sha1="0120abc923b3bfb15460a4e5bc25c6a67e17cd50"/>
 		<rom name="singe/hayate_se/Video/hayate.m2v" size="1172415879" crc="a5e42272" sha1="966f2dfd66ed2b696c0e4be717aa5cad45b4f1c1"/>
 		<rom name="singe/hayate_se/Video/hayate.ogg" size="57380283" crc="674a51f3" sha1="306c156644b548e3c8a78dd38c658e0c59f494a1"/>
-		<rom name="singe/HayateHD/" size="0" crc="00000000"/>
 		<rom name="singe/HayateHD/HayateHD.txt" size="22" crc="e3b00d13" sha1="63387540d6b48cfcbdf03cf5fb0f4b86b6301147"/>
 		<rom name="singe/HayateHD/HayateHD.zip" size="2767568" crc="418aef21" sha1="5147eee106339af260c50e0d0d401ad2fc9182e6"/>
-		<rom name="singe/HayateHD/Video/" size="0" crc="00000000"/>
 		<rom name="singe/HayateHD/Video/hayate.m2v" size="1172415879" crc="a5e42272" sha1="966f2dfd66ed2b696c0e4be717aa5cad45b4f1c1"/>
 		<rom name="singe/HayateHD/Video/hayate.ogg" size="19477285" crc="90cd0a5b" sha1="0120abc923b3bfb15460a4e5bc25c6a67e17cd50"/>
-		<rom name="singe/Hologram/" size="0" crc="00000000"/>
 		<rom name="singe/Hologram/Hologram.txt" size="26" crc="b02378c1" sha1="0347ef1ffbc3149ba124dc58ac689ccff241dfb8"/>
 		<rom name="singe/Hologram/Hologram.zip" size="13804591" crc="d9b9df87" sha1="9718e9db5009b69b887ac140d15fb5c8f4ce49b2"/>
-		<rom name="singe/Hologram/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Hologram/Video/Hologram.m2v" size="595617616" crc="d3a305ea" sha1="fe21305d92fc1b8c13990a79403a8325113a584a"/>
 		<rom name="singe/Hologram/Video/Hologram.ogg" size="31005336" crc="f3c1af46" sha1="e4cba4201ffdd8bacd249165724b3aa72bf3c66f"/>
-		<rom name="singe/LBH_HD/" size="0" crc="00000000"/>
 		<rom name="singe/LBH_HD/LBH_HD.txt" size="19" crc="8b6336ef" sha1="d21717210a561ed018cdfdec526f386af06a1c5c"/>
 		<rom name="singe/LBH_HD/LBH_HD.zip" size="3126276" crc="650aebb6" sha1="de3dc14852e2ebcd229f5d265d4135b85edb432a"/>
-		<rom name="singe/LBH_HD/Video/" size="0" crc="00000000"/>
 		<rom name="singe/LBH_HD/Video/lbh.m2v" size="1949881879" crc="402ae893" sha1="a5f19637da54e433fa2498ac5bfa549505067a99"/>
 		<rom name="singe/LBH_HD/Video/lbh.ogg" size="31713803" crc="1a38288a" sha1="c995aac6456da4b6b75bb86539a83b98db786b7e"/>
-		<rom name="singe/Maddog2_HD/" size="0" crc="00000000"/>
 		<rom name="singe/Maddog2_HD/Maddog2_HD.txt" size="23" crc="0c901f78" sha1="c9ed21577968da92bacd9def6395435c8413b6c5"/>
 		<rom name="singe/Maddog2_HD/Maddog2_HD.zip" size="7958691" crc="4ba82304" sha1="ef6a9f58ffef62e6c7f0a31b99dfd271644f6095"/>
-		<rom name="singe/Maddog2_HD/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Maddog2_HD/Video/maddog2.m2v" size="2856112093" crc="bf2fa205" sha1="0c17d27082082e24cd1011af76b568b977a8ba1a"/>
 		<rom name="singe/Maddog2_HD/Video/maddog2.ogg" size="30812186" crc="12dc19d8" sha1="2536ad85b67e80545dde08862e86c4a7b4a56f2d"/>
-		<rom name="singe/Maddog_HD/" size="0" crc="00000000"/>
 		<rom name="singe/Maddog_HD/Maddog_HD.txt" size="22" crc="af99632c" sha1="ede515d17a30f21a9f37cf6edce2964bf1271db9"/>
 		<rom name="singe/Maddog_HD/Maddog_HD.zip" size="7710312" crc="299f60d2" sha1="39a4a66e322e6c95af12184d029be26862a0c9ab"/>
-		<rom name="singe/Maddog_HD/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Maddog_HD/Video/maddog-fr.ogg" size="21977734" crc="e75ec781" sha1="95f4546af2959b348ccfeffcd549297f93c4fd93"/>
 		<rom name="singe/Maddog_HD/Video/maddog.m2v" size="1514513595" crc="ef3229f2" sha1="c4e608d6f6a18f0eb1f9a99864d30c1c03eff06f"/>
 		<rom name="singe/Maddog_HD/Video/maddog.ogg" size="21466578" crc="41b6a78e" sha1="e264538fbd28f7a2fe2846f1dbf127523d4b2df4"/>
-		<rom name="singe/mazinga/" size="0" crc="00000000"/>
 		<rom name="singe/mazinga/mazinga.txt" size="50" crc="c0a03f69" sha1="e50799308d5b675e19b206d2298e056146c4caf6"/>
 		<rom name="singe/mazinga/mazinga.zip" size="20189229" crc="3da9df50" sha1="361876af3646472b0ca022a094c29db8867ec2cc"/>
-		<rom name="singe/mazinga/Video/" size="0" crc="00000000"/>
 		<rom name="singe/mazinga/Video/mazinga.m2v" size="2585448513" crc="b11702d2" sha1="7f6ea1fd97d4176c276f752c9bb57e75e1181603"/>
 		<rom name="singe/mazinga/Video/mazinga.ogg" size="36761115" crc="61c7b50e" sha1="b51901454a3af83e397f2f670bc29d7f4ec32682"/>
 		<rom name="singe/mazinga/Video/patch_mazinga.m2v" size="50806660" crc="bf70598a" sha1="ac9f5368e3432ad239c015f44d4ea7a86624ea6e"/>
 		<rom name="singe/mazinga/Video/patch_mazinga.ogg" size="903298" crc="ae578377" sha1="f70b318f29df6f780aad9161edae8a878910a261"/>
-		<rom name="singe/minesweeper/" size="0" crc="00000000"/>
 		<rom name="singe/minesweeper/minesweeper.m2v" size="16541125" crc="7fd8f3c1" sha1="9c9d4e531a22690db5680c585421e0d64e52bf42"/>
 		<rom name="singe/minesweeper/minesweeper.txt" size="21" crc="bdb95655" sha1="4fcfeeed4b425170c88a7e76de10af0c6cb7fd89"/>
 		<rom name="singe/minesweeper/minesweeper.zip" size="760091" crc="6a197e42" sha1="c44d45c99f5bcdefed23bef398e4260170d93b67"/>
-		<rom name="singe/Mononoke/" size="0" crc="00000000"/>
 		<rom name="singe/Mononoke/Mononoke.txt" size="24" crc="f0136859" sha1="5f2a00fe44c51ec6f2a01d517aefa8d5a2528757"/>
 		<rom name="singe/Mononoke/Mononoke.zip" size="1092257" crc="7187fb46" sha1="97cc879426a78f5e1125cd40ad64bc6fdf43f883"/>
-		<rom name="singe/Mononoke/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Mononoke/Video/Mononoke.m2v" size="2903261987" crc="6f8038a9" sha1="0aff409eec845cdb398747110622f5490fd6bdfc"/>
 		<rom name="singe/Mononoke/Video/Mononoke.ogg" size="54004210" crc="380ddd72" sha1="e5f9710c36b2158a72c15a9b8254601228b05d1d"/>
-		<rom name="singe/Oeil-Pour-Oeil/" size="0" crc="00000000"/>
 		<rom name="singe/Oeil-Pour-Oeil/Oeil-Pour-Oeil.txt" size="20" crc="ad6221c8" sha1="27a71f54a5c272a27d4c4f689c21324a5e829c62"/>
 		<rom name="singe/Oeil-Pour-Oeil/Oeil-Pour-Oeil.zip" size="2004183" crc="2c2fb1a4" sha1="0066f5128cf773da98c25a125dd2600a55eb1de7"/>
-		<rom name="singe/Oeil-Pour-Oeil/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Oeil-Pour-Oeil/Video/oeil.m2v" size="284476392" crc="ee292b1b" sha1="7081ebcda041f06157ae09f133285e75da50405d"/>
 		<rom name="singe/Oeil-Pour-Oeil/Video/oeil.ogg" size="6113519" crc="38104afd" sha1="fff4a019a352b147f2a194d2bcb8813ac1d67233"/>
-		<rom name="singe/pinocchio/" size="0" crc="00000000"/>
 		<rom name="singe/pinocchio/pinocchio.txt" size="25" crc="b7f88d30" sha1="9b69c4628940e684862e7fe982f46bb86effb3e0"/>
 		<rom name="singe/pinocchio/pinocchio.zip" size="20484041" crc="930bc343" sha1="1e20e9502245ac5620ae74bfe5b3290196026a83"/>
-		<rom name="singe/pinocchio/Video/" size="0" crc="00000000"/>
 		<rom name="singe/pinocchio/Video/pinocchio-it.ogg" size="55496754" crc="e8f5dd8c" sha1="a597f37fe9b4cfbeecdd19ca18d29d4c0291f8f3"/>
 		<rom name="singe/pinocchio/Video/pinocchio.m2v" size="4730326221" crc="7cfd3b29" sha1="2c61fcc163563e5289a8facd544f133f9f00e10d"/>
 		<rom name="singe/pinocchio/Video/pinocchio.ogg" size="53613944" crc="a11528b7" sha1="461c9a1c98a1ecf04a8fd36673a90970100731de"/>
-		<rom name="singe/Puss_in_Boots/" size="0" crc="00000000"/>
 		<rom name="singe/Puss_in_Boots/Puss_in_Boots.txt" size="37" crc="5b6ed76b" sha1="32cc8744c2905e249a7b9cdf8ba938f0aefa0ebf"/>
 		<rom name="singe/Puss_in_Boots/Puss_in_Boots.zip" size="1305092" crc="a8f258d5" sha1="12f70eadd119ccfc50f576ab446d655428416eeb"/>
-		<rom name="singe/Puss_in_Boots/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Puss_in_Boots/Video/Puss_in_Boots-it.ogg" size="34594664" crc="f8ae57d6" sha1="869c95256ef171c679958deaf667060fb6583b2a"/>
 		<rom name="singe/Puss_in_Boots/Video/Puss_in_Boots.m2v" size="952847511" crc="54f5e0d8" sha1="6eccaa22174521f7ef28cdeda22708cf4d8b115c"/>
 		<rom name="singe/Puss_in_Boots/Video/Puss_in_Boots.ogg" size="33581826" crc="8f435aaf" sha1="f0d9ab3cbcd4c464e596f6da917ea93ec6001373"/>
-		<rom name="singe/rick/" size="0" crc="00000000"/>
 		<rom name="singe/rick/game.singe" size="2032" crc="77286334" sha1="ee9b4c53d2ced782aaf8a0f232f4fdbd34ac3ea4"/>
 		<rom name="singe/rick/rick.01" size="153" crc="063c33b1" sha1="d7e1989d6b576f02b348443a43ba3bb47a66d48e"/>
 		<rom name="singe/rick/rick.02" size="2545741" crc="33e86262" sha1="1280dd84ed4785cca0ceb6dc7b5452188da6d311"/>
@@ -7573,28 +7357,23 @@
 		<rom name="singe/rick/rick.singe" size="166" crc="1d8d19cc" sha1="c4f6480c9c739b843be2d999cd7fe077e5602117"/>
 		<rom name="singe/rick/rick.txt" size="14" crc="2afc1c5e" sha1="d5aa4bd3dd768804d716085d28a302e5226629ec"/>
 		<rom name="singe/rick/rickdat" size="56" crc="6b90bfb1" sha1="9ba7ae36a7a516ec96d657f3d75633d48aec902e"/>
-		<rom name="singe/Road_Blaster/" size="0" crc="00000000"/>
 		<rom name="singe/Road_Blaster/README.txt" size="122" crc="0d706734" sha1="0180bd5607d6c1ea5e487a0ffd224e94fff97317"/>
 		<rom name="singe/Road_Blaster/Road_Blaster.txt" size="27" crc="d0aa58ca" sha1="7e15d8e874e657eb33abe596d8329e7a8e9a4a6b"/>
 		<rom name="singe/Road_Blaster/Road_Blaster.zip" size="820639" crc="293f43a7" sha1="a661a1d7a1849c1d9e804275b274026fa62d0856"/>
 		<rom name="singe/Road_Blaster/Road_Blaster_SD+.txt" size="31" crc="3abb0fd5" sha1="85244ab57aad62975f53e95ff4b0b7a8112731ee"/>
 		<rom name="singe/Road_Blaster/Road_Blaster_SD.txt" size="30" crc="c1177e76" sha1="cc6ae9616749906b6f47879030b6887997865672"/>
-		<rom name="singe/Road_Blaster/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Road_Blaster/Video/roadblaster-sega.ogg" size="28448939" crc="6193564b" sha1="2c3e7ca985f55ff250fababf6c253ffbe90a8a16"/>
 		<rom name="singe/Road_Blaster/Video/roadblaster.m2v" size="2427914554" crc="2c783810" sha1="d516c7eefa9ef83b5e3b70f5045e9131b7123c41"/>
 		<rom name="singe/Road_Blaster/Video/roadblaster.ogg" size="26574409" crc="553b2b70" sha1="59cfabb5bbd831ce3af38c18de17157e941f1601"/>
-		<rom name="singe/Road_Blaster/Video_SD+/" size="0" crc="00000000"/>
-		<rom name="singe/Road_Blaster/Video_SD+/roadblaster-sega.ogg" size="28448939" crc="6193564b" sha1="2c3e7ca985f55ff250fababf6c253ffbe90a8a16"/>
-		<rom name="singe/Road_Blaster/Video_SD+/roadblaster.m2v" size="877091608" crc="96597f69" sha1="221added6614a24ff49e09c32965efbaf855f2f9"/>
-		<rom name="singe/Road_Blaster/Video_SD+/roadblaster.ogg" size="26574409" crc="553b2b70" sha1="59cfabb5bbd831ce3af38c18de17157e941f1601"/>
-		<rom name="singe/Road_Blaster/Video_SD/" size="0" crc="00000000"/>
 		<rom name="singe/Road_Blaster/Video_SD/roadblaster-sega.ogg" size="28448939" crc="6193564b" sha1="2c3e7ca985f55ff250fababf6c253ffbe90a8a16"/>
 		<rom name="singe/Road_Blaster/Video_SD/roadblaster.m2v" size="656416235" crc="f45b49eb" sha1="e15b2110875a2c76ead144aad6a92113016524bb"/>
 		<rom name="singe/Road_Blaster/Video_SD/roadblaster.ogg" size="26574409" crc="553b2b70" sha1="59cfabb5bbd831ce3af38c18de17157e941f1601"/>
-		<rom name="singe/Roller_Coaster/" size="0" crc="00000000"/>
+		<rom name="singe/Road_Blaster/Video_SD+/roadblaster-sega.ogg" size="28448939" crc="6193564b" sha1="2c3e7ca985f55ff250fababf6c253ffbe90a8a16"/>
+		<rom name="singe/Road_Blaster/Video_SD+/roadblaster.m2v" size="877091608" crc="96597f69" sha1="221added6614a24ff49e09c32965efbaf855f2f9"/>
+		<rom name="singe/Road_Blaster/Video_SD+/roadblaster.ogg" size="26574409" crc="553b2b70" sha1="59cfabb5bbd831ce3af38c18de17157e941f1601"/>
 		<rom name="singe/Roller_Coaster/Roller_Coaster.txt" size="294" crc="6b0953b8" sha1="e1eb0747796f205ba1133a01ad9bf4ba9fda5c41"/>
 		<rom name="singe/Roller_Coaster/Roller_Coaster.zip" size="833108" crc="56ba84a6" sha1="203d75fd3f4cd56d3413b086bd49b85d2689eeb0"/>
-		<rom name="singe/Roller_Coaster/Video/" size="0" crc="00000000"/>
+		<rom name="singe/Roller_Coaster/walkthrough.txt" size="818" crc="f2c98090" sha1="e2f418287a69f8ac82ca8690e0cc87431e4f7172"/>
 		<rom name="singe/Roller_Coaster/Video/00000_00030.m2v" size="879783" crc="ecbcc6e8" sha1="5cd3bdf932c6f1e14f19fc733d70d1c37f7ed7e5"/>
 		<rom name="singe/Roller_Coaster/Video/06726_06959.m2v" size="2528125" crc="aae127e8" sha1="1d6d8a80a077ff4e146a1549b37789aabbbd1fe1"/>
 		<rom name="singe/Roller_Coaster/Video/06726_06959.ogg" size="166592" crc="ed8a9e2d" sha1="a91312d0c0e7e53e3011d51eef285929f6057a70"/>
@@ -7620,9 +7399,8 @@
 		<rom name="singe/Roller_Coaster/Video/19801_20007.ogg" size="120515" crc="439c5874" sha1="8323b93d6570a49e756589c20821b697bdd9c68d"/>
 		<rom name="singe/Roller_Coaster/Video/30032_30214.m2v" size="1409227" crc="d3f2fa5b" sha1="0493f1035058c24449c1973ccc978e7a5c1b4e84"/>
 		<rom name="singe/Roller_Coaster/Video/30032_30214.ogg" size="168552" crc="225204ba" sha1="b8fa16ea4c47133d76d462a2ac0c97cfaa3ebc3f"/>
-		<rom name="singe/Roller_Coaster/walkthrough.txt" size="818" crc="f2c98090" sha1="e2f418287a69f8ac82ca8690e0cc87431e4f7172"/>
-		<rom name="singe/rollercoaster/" size="0" crc="00000000"/>
-		<rom name="singe/rollercoaster/cdrom/" size="0" crc="00000000"/>
+		<rom name="singe/rollercoaster/rollercoaster.txt" size="380" crc="5a19c654" sha1="cd9f217ea3dd4b9355d29685c8128177468dd8bb"/>
+		<rom name="singe/rollercoaster/rollercoaster.zip" size="2327531" crc="b8aaa8eb" sha1="19e84001f6699111094ef504aecbacf19584f2ab"/>
 		<rom name="singe/rollercoaster/cdrom/00000_00030.m2v" size="879783" crc="ecbcc6e8" sha1="5cd3bdf932c6f1e14f19fc733d70d1c37f7ed7e5"/>
 		<rom name="singe/rollercoaster/cdrom/01234_33900.m2v" size="900345" crc="438ff9a1" sha1="2af70850109b05e86641bb5a875690173921f324"/>
 		<rom name="singe/rollercoaster/cdrom/06726_06959.m2v" size="2528125" crc="aae127e8" sha1="1d6d8a80a077ff4e146a1549b37789aabbbd1fe1"/>
@@ -7649,43 +7427,31 @@
 		<rom name="singe/rollercoaster/cdrom/19801_20007.ogg" size="120515" crc="439c5874" sha1="8323b93d6570a49e756589c20821b697bdd9c68d"/>
 		<rom name="singe/rollercoaster/cdrom/30032_30214.m2v" size="1409227" crc="d3f2fa5b" sha1="0493f1035058c24449c1973ccc978e7a5c1b4e84"/>
 		<rom name="singe/rollercoaster/cdrom/30032_30214.ogg" size="168552" crc="225204ba" sha1="b8fa16ea4c47133d76d462a2ac0c97cfaa3ebc3f"/>
-		<rom name="singe/rollercoaster/rollercoaster.txt" size="380" crc="5a19c654" sha1="cd9f217ea3dd4b9355d29685c8128177468dd8bb"/>
-		<rom name="singe/rollercoaster/rollercoaster.zip" size="2327531" crc="b8aaa8eb" sha1="19e84001f6699111094ef504aecbacf19584f2ab"/>
-		<rom name="singe/SAe/" size="0" crc="00000000"/>
 		<rom name="singe/SAe/SAe.txt" size="19" crc="954547e1" sha1="c7c004119e18b6c85011a407d1ce80c95e2c658c"/>
 		<rom name="singe/SAe/SAe.zip" size="2191335" crc="3f23a37e" sha1="8561a10a1a8cefddfa8f8cfdef57c204ce5f7bf8"/>
-		<rom name="singe/SAe/Video/" size="0" crc="00000000"/>
 		<rom name="singe/SAe/Video/SAe.m2v" size="1684444307" crc="c43d4673" sha1="856b09796448df14257e0d54964e8d5ddd7cf027"/>
 		<rom name="singe/SAe/Video/SAe.ogg" size="28619746" crc="219b4d87" sha1="fd87f19d1b15383d51108bdd63c4db6e133a35a2"/>
-		<rom name="singe/Samurai_Jack/" size="0" crc="00000000"/>
 		<rom name="singe/Samurai_Jack/Samurai_Jack.txt" size="28" crc="b966a3d0" sha1="92bc8bb6694ea845cfb08b1c3aea46ac13d8a1f6"/>
 		<rom name="singe/Samurai_Jack/Samurai_Jack.zip" size="1440002" crc="c60b79e7" sha1="f5e416ed38d0f79d5d7d2fca39d6efcd0a347a28"/>
-		<rom name="singe/Samurai_Jack/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Samurai_Jack/Video/jack-it.ogg" size="50395778" crc="666ce823" sha1="b80829e26a674874dff8aacd5ea4b33933d1cf47"/>
 		<rom name="singe/Samurai_Jack/Video/jack.m2v" size="1677981419" crc="d6dda3f7" sha1="de4344838344a63b320139ae3580366d6117548f"/>
 		<rom name="singe/Samurai_Jack/Video/jack.ogg" size="46840624" crc="cc12058f" sha1="bc0a43dbbd3e33c411af2d70cba0cc0cdd557fa8"/>
-		<rom name="singe/SecretOfNimh/" size="0" crc="00000000"/>
 		<rom name="singe/SecretOfNimh/SecretOfNimh.txt" size="28" crc="9cff0542" sha1="72f91a75a66b148eae4d8bf647d8c3e703e70786"/>
 		<rom name="singe/SecretOfNimh/SecretOfNimh.zip" size="5152059" crc="ab0e6b53" sha1="466403abc3f2f95add7b7e1aea2af35ea622f9d7"/>
-		<rom name="singe/SecretOfNimh/Video/" size="0" crc="00000000"/>
 		<rom name="singe/SecretOfNimh/Video/SecretOfNimh.m2v" size="2050792586" crc="3101e4f7" sha1="43b9c117d7d41aa9533f56131e6d85d4ce431a92"/>
 		<rom name="singe/SecretOfNimh/Video/SecretOfNimh.ogg" size="103913942" crc="8cabf457" sha1="d59d7a950ecad21cb3ea608e6c04d7d1c077a268"/>
 		<rom name="singe/SecretOfNimh/Video/SecretOfNimh_original.ogg" size="53402066" crc="a1bc79e2" sha1="18ce0a20119385f6da05167fa62a2ae90426085c"/>
-		<rom name="singe/Sintel/" size="0" crc="00000000"/>
 		<rom name="singe/Sintel/Sintel.zip" size="19955629" crc="f443c573" sha1="a39106de17a6fe577801788d9d7a20a5227b946d"/>
 		<rom name="singe/Sintel/Sintel_16x9.txt" size="27" crc="d02d55f9" sha1="c69cb4f3a5c541dd72c6f46ac8fa504c20269e98"/>
 		<rom name="singe/Sintel/Sintel_4x3.txt" size="26" crc="a7ebb9a8" sha1="d616247a3ab0ff861a128d94e10b2ad4ec45f253"/>
-		<rom name="singe/Sintel/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Sintel/Video/Sintel-16-9.m2v" size="323907685" crc="e4d51685" sha1="1e5391166932bc3d10d56c2948c276b9bb3ad219"/>
 		<rom name="singe/Sintel/Video/Sintel-16-9.ogg" size="7855258" crc="b380d722" sha1="2870c93a85883ba341f94bfb660f60f2aedeaf5f"/>
 		<rom name="singe/Sintel/Video/Sintel-4-3.m2v" size="185026397" crc="1690b788" sha1="022c389a5b98cbf8e6ac3c579f425029ebfabfbf"/>
 		<rom name="singe/Sintel/Video/Sintel-4-3.ogg" size="7855258" crc="b380d722" sha1="2870c93a85883ba341f94bfb660f60f2aedeaf5f"/>
-		<rom name="singe/Sonic_the_Hedgehog_1996/" size="0" crc="00000000"/>
 		<rom name="singe/Sonic_the_Hedgehog_1996/default.cfg" size="536" crc="d80fbfcb" sha1="5ea07808546f11a9b66fa4611dfd29800b57220b"/>
 		<rom name="singe/Sonic_the_Hedgehog_1996/game.cfg" size="536" crc="d80fbfcb" sha1="5ea07808546f11a9b66fa4611dfd29800b57220b"/>
 		<rom name="singe/Sonic_the_Hedgehog_1996/Sonic_the_Hedgehog_1996.txt" size="165" crc="480aa42d" sha1="76ad374cd73c4cbfb01218df6158e27d1651ead8"/>
 		<rom name="singe/Sonic_the_Hedgehog_1996/Sonic_the_Hedgehog_1996.zip" size="3428342" crc="26c2090a" sha1="8c791f3c785ce23b84f6e724d68c6941d01f93ea"/>
-		<rom name="singe/Sonic_the_Hedgehog_1996/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Sonic_the_Hedgehog_1996/Video/00000_96959_main.m2v" size="3341047327" crc="1e9b3d05" sha1="06658d86b37ae798215158c5ab769d8ea9839d23"/>
 		<rom name="singe/Sonic_the_Hedgehog_1996/Video/00000_96959_main.ogg" size="160645835" crc="150b0934" sha1="a2c8906e6fc8ef82fa1afa7d626e402d54c33eee"/>
 		<rom name="singe/Sonic_the_Hedgehog_1996/Video/00000_96959_main_japanese.ogg" size="160570491" crc="ae7ec7b6" sha1="98f8eaaf2828f8ebb9dd7a1d818c5bdfaff95310"/>
@@ -7703,8 +7469,10 @@
 		<rom name="singe/Sonic_the_Hedgehog_1996/Video/96960-100580_attract.ogg" size="6246084" crc="02bae974" sha1="acc72a07627519cba86d94e1b954a10860b4410b"/>
 		<rom name="singe/Sonic_the_Hedgehog_1996/Video/96960-100580_attract_japanese.ogg" size="6246084" crc="02bae974" sha1="acc72a07627519cba86d94e1b954a10860b4410b"/>
 		<rom name="singe/Sonic_the_Hedgehog_1996/Video/96960-100580_attract_russian.ogg" size="6246084" crc="02bae974" sha1="acc72a07627519cba86d94e1b954a10860b4410b"/>
-		<rom name="singe/space_ace_1080/" size="0" crc="00000000"/>
-		<rom name="singe/space_ace_1080/Assets/" size="0" crc="00000000"/>
+		<rom name="singe/space_ace_1080/mastercontrol.ini" size="2155" crc="509bd4e4" sha1="856a94522888ab62861bce003d1c0c49ca7d27f2"/>
+		<rom name="singe/space_ace_1080/Space Ace Reconstructed Install.txt" size="5019" crc="573133b1" sha1="708a8e3e8639e69fffa028af8e7fd1ab3d4b9849"/>
+		<rom name="singe/space_ace_1080/space_ace_1080.txt" size="23" crc="2aed97a2" sha1="d77b7b14a811f98016d1f5b6845e93bf0c1cb781"/>
+		<rom name="singe/space_ace_1080/space_ace_1080.zip" size="2369938" crc="5a034e34" sha1="e8beb9c8f8b3af44a729d81c8b3d7d00bfa8f141"/>
 		<rom name="singe/space_ace_1080/Assets/3D.png" size="690516" crc="b40622d2" sha1="c1c858e9a714985dd99c2d79f3c79c557541d0c9"/>
 		<rom name="singe/space_ace_1080/Assets/clear.png" size="52612" crc="a9e08737" sha1="7abb7ce6afb3946b12f914b2643ea838133e6139"/>
 		<rom name="singe/space_ace_1080/Assets/front.jpg" size="750801" crc="cd82408d" sha1="550181a7d4d1d9722ecbd8a2e54289256cdb75b4"/>
@@ -7713,118 +7481,80 @@
 		<rom name="singe/space_ace_1080/Assets/marquee.jpg" size="290796" crc="bdb9c860" sha1="d481db439e5851b3c1d09fda49c973b8efa57eac"/>
 		<rom name="singe/space_ace_1080/Assets/Mastering+Space+Ace+by+David+Curtis+Hill.pdf" size="17054776" crc="f6cd73dd" sha1="70a8d5629474f9a9e03884a91bdcf606e57c9abc"/>
 		<rom name="singe/space_ace_1080/Assets/menu-attract.mp4" size="9661290" crc="375adcff" sha1="d5947e5d7393d8405ae3f4e29927ad9e21b97ef3"/>
-		<rom name="singe/space_ace_1080/mastercontrol.ini" size="2155" crc="509bd4e4" sha1="856a94522888ab62861bce003d1c0c49ca7d27f2"/>
-		<rom name="singe/space_ace_1080/Space Ace Reconstructed Install.txt" size="5019" crc="573133b1" sha1="708a8e3e8639e69fffa028af8e7fd1ab3d4b9849"/>
-		<rom name="singe/space_ace_1080/space_ace_1080.txt" size="23" crc="2aed97a2" sha1="d77b7b14a811f98016d1f5b6845e93bf0c1cb781"/>
-		<rom name="singe/space_ace_1080/space_ace_1080.zip" size="2369938" crc="5a034e34" sha1="e8beb9c8f8b3af44a729d81c8b3d7d00bfa8f141"/>
-		<rom name="singe/space_ace_1080/Video/" size="0" crc="00000000"/>
 		<rom name="singe/space_ace_1080/Video/sae1080.m2v" size="6832179531" crc="9bbd9d8c" sha1="fa231f8227b5d73ee55ae113b53c54b244e17bcf"/>
 		<rom name="singe/space_ace_1080/Video/sae1080.ogg" size="75477939" crc="14a0f331" sha1="21e28b9ad53d567df9a99ecc7f5662aa40814184"/>
-		<rom name="singe/space_ace_se/" size="0" crc="00000000"/>
 		<rom name="singe/space_ace_se/space_ace_se.txt" size="19" crc="a38e1c2b" sha1="d4c19afe3e11a9abb679f06d9583a44c067a1ab7"/>
 		<rom name="singe/space_ace_se/space_ace_se.zip" size="9886945" crc="97542dd7" sha1="87422108ed053e71b280f5bd73fe92dd7b572fb0"/>
-		<rom name="singe/space_ace_se/Video/" size="0" crc="00000000"/>
 		<rom name="singe/space_ace_se/Video/sae.m2v" size="3082595316" crc="13ef5311" sha1="038ae27138e16fc294eafde79b9068725c8623d6"/>
 		<rom name="singe/space_ace_se/Video/sae.ogg" size="26164715" crc="02e13447" sha1="ef5bea1c3be9b61feb2668396cfe2dc2380c251f"/>
-		<rom name="singe/Space_Pirates_HD/" size="0" crc="00000000"/>
 		<rom name="singe/Space_Pirates_HD/Space_Pirates_HD.txt" size="28" crc="de7b3275" sha1="3b5edd94b9bc039fbae0fc62eedb0b215941a3b8"/>
 		<rom name="singe/Space_Pirates_HD/Space_Pirates_HD.zip" size="4099877" crc="67cf000b" sha1="1672976c74f60253dac3cc94dc1e87f4450471e2"/>
-		<rom name="singe/Space_Pirates_HD/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Space_Pirates_HD/Video/spacepirates.m2v" size="1447847189" crc="33f0ec54" sha1="4e5999272cf40a10613e0993dbeb74a5da3a77be"/>
 		<rom name="singe/Space_Pirates_HD/Video/spacepirates.ogg" size="35134632" crc="9e2c9fac" sha1="4277063d1a3609ea79c0d333057acf56cb9bb3c5"/>
-		<rom name="singe/spacerocks/" size="0" crc="00000000"/>
 		<rom name="singe/spacerocks/spacerocks.m2v" size="79778858" crc="d39d8b25" sha1="f5215c2fb89cf8e350fd4cff31dd9893820027b8"/>
 		<rom name="singe/spacerocks/spacerocks.txt" size="20" crc="3f0f69fa" sha1="03365de7dedac8dae43203856e95a677eb0bf9a7"/>
-		<rom name="singe/spacerocks/spacerocks.zip" size="52740313" crc="65cead62" sha1="c79b8c285c3671e2b6e82086d7bb1618fd622e68"/>
-		<rom name="singe/spacerocks_brut/" size="0" crc="00000000"/>
+		<rom name="singe/spacerocks/spacerocks.zip" size="52739773" crc="83dbaf30" sha1="7c9fdc677608cb9716f0ad750898780c718d4c34"/>
 		<rom name="singe/spacerocks_brut/spacerocks.m2v" size="79778858" crc="d39d8b25" sha1="f5215c2fb89cf8e350fd4cff31dd9893820027b8"/>
 		<rom name="singe/spacerocks_brut/spacerocks.txt" size="20" crc="3f0f69fa" sha1="03365de7dedac8dae43203856e95a677eb0bf9a7"/>
-		<rom name="singe/spacerocks_brut/spacerocks.zip" size="130693763" crc="2bc3d2a3" sha1="5f44d30b73c4710d783fd1e10dfefa32ca250d2f"/>
-		<rom name="singe/SpiderHand/" size="0" crc="00000000"/>
+		<rom name="singe/spacerocks_brut/spacerocks.zip" size="130633843" crc="a3e85b85" sha1="343ba57303cc88623180357c692f7539cfb60930"/>
 		<rom name="singe/SpiderHand/SpiderHand.txt" size="28" crc="c4246dae" sha1="9037478531555f2d31a3b6136521958f85bc9da9"/>
 		<rom name="singe/SpiderHand/SpiderHand.zip" size="21022032" crc="70505532" sha1="ffe92fcd35dfc39ec88542ef888c220f888c9298"/>
-		<rom name="singe/SpiderHand/Video/" size="0" crc="00000000"/>
 		<rom name="singe/SpiderHand/Video/SpiderHand.m2v" size="111500040" crc="65e6c036" sha1="914c3e283a27b08a30a3c0226067e52a546db141"/>
 		<rom name="singe/SpiderHand/Video/SpiderHand.ogg" size="2004699" crc="87cc9cf6" sha1="c98e59885acb007673200bfd1962f31a576c571a"/>
-		<rom name="singe/StarshipTroopers/" size="0" crc="00000000"/>
 		<rom name="singe/StarshipTroopers/StarshipTroopers.txt" size="32" crc="1b00e7d1" sha1="dea6227a01860879c2a185eb09f96aa58cb95f13"/>
 		<rom name="singe/StarshipTroopers/StarshipTroopers.zip" size="4322683" crc="e5c343f8" sha1="0be2f23832a12db2d84df8c993517156ce1360d5"/>
-		<rom name="singe/StarshipTroopers/Video/" size="0" crc="00000000"/>
 		<rom name="singe/StarshipTroopers/Video/starshiptroopers.m2v" size="3934094214" crc="8788bf98" sha1="7f0b74593be4c42efb7065c8d048c04d955f870b"/>
 		<rom name="singe/StarshipTroopers/Video/starshiptroopers.ogg" size="60251565" crc="8d14ee35" sha1="9318470e6ecf066077fe925cbe70c47202e03d30"/>
-		<rom name="singe/SuckerPunch/" size="0" crc="00000000"/>
 		<rom name="singe/SuckerPunch/SuckerPunch.txt" size="27" crc="843996a0" sha1="2f526d3cb700a8c5b8ec8d82a1102597862c0f97"/>
 		<rom name="singe/SuckerPunch/SuckerPunch.zip" size="2799163" crc="35fec6a6" sha1="82fac7cbb416bac8e6340a6c32609f9e5cf2f5f0"/>
 		<rom name="singe/SuckerPunch/SuckerPunch169.txt" size="30" crc="359e3faa" sha1="7a04a69fbd5e600f77c5f3f57786697fd780d691"/>
-		<rom name="singe/SuckerPunch/Video/" size="0" crc="00000000"/>
 		<rom name="singe/SuckerPunch/Video/SuckerPunch.m2v" size="2450942179" crc="3b1f3878" sha1="c3b0a7f1a2cc0d7298ea75a97a461e8339266fb6"/>
 		<rom name="singe/SuckerPunch/Video/SuckerPunch.ogg" size="50017327" crc="9028c19b" sha1="d0a037609de6b39c8e26ac9b0862d9dae2dc4c54"/>
 		<rom name="singe/SuckerPunch/Video/SuckerPunch169.m2v" size="2891472588" crc="5fb5a5af" sha1="39f0cc7d99ca1871cdbfddb79ff7f1ba801d10f1"/>
 		<rom name="singe/SuckerPunch/Video/SuckerPunch169.ogg" size="49789111" crc="99155c32" sha1="803705118f9f18a1cb095d949b80ac94a4687083"/>
-		<rom name="singe/Sugar_Rush/" size="0" crc="00000000"/>
 		<rom name="singe/Sugar_Rush/hidden secret level NFO.txt" size="614" crc="26924c28" sha1="40cdbe008c9ef182903ce96405da2ed85cd1f57f"/>
 		<rom name="singe/Sugar_Rush/Sugar_Rush.txt" size="26" crc="2305c837" sha1="fd2d09c0bc69bb06e70bc5aa0f33bbb75929f6db"/>
 		<rom name="singe/Sugar_Rush/Sugar_Rush.zip" size="4530396" crc="3ea9bf20" sha1="1a324030f0c88a533979f5da0c644debea402b95"/>
-		<rom name="singe/Sugar_Rush/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Sugar_Rush/Video/Sugar_Rush.m2v" size="1490859014" crc="1f4f143f" sha1="c5277ca344fb44bcc45726f6f8657ce8ede82dc5"/>
 		<rom name="singe/Sugar_Rush/Video/Sugar_Rush.ogg" size="47632439" crc="3d59e6c5" sha1="3ef27bcc7905d7b59ef60a34ee4d1c98a88d4240"/>
-		<rom name="singe/Super_Don_Quix-ote/" size="0" crc="00000000"/>
 		<rom name="singe/Super_Don_Quix-ote/Super_Don_Quix-ote.txt" size="28" crc="7ba394d7" sha1="b34d99117c4bfabf9ebab48684728b65ba7be9fb"/>
 		<rom name="singe/Super_Don_Quix-ote/Super_Don_Quix-ote.zip" size="824975" crc="c2d127a1" sha1="8738ffd5892cbad23e8b8e777e04aaf4d86dd0c9"/>
-		<rom name="singe/Super_Don_Quix-ote/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Super_Don_Quix-ote/Video/sdq.m2v" size="1325368248" crc="96f4c8b4" sha1="49264354e52250ecba585b23f1ddc8ed149b6869"/>
 		<rom name="singe/Super_Don_Quix-ote/Video/sdq.ogg" size="17692257" crc="aa4d8b91" sha1="1b7ff0492d4f14480334c28ad365a94f05f771c3"/>
-		<rom name="singe/SuperDQ/" size="0" crc="00000000"/>
 		<rom name="singe/SuperDQ/SuperDQ.txt" size="23" crc="9132e5a7" sha1="b47699967eb1cf4f1cdb701ff6e70376d9f2f027"/>
 		<rom name="singe/SuperDQ/SuperDQ.zip" size="4952324" crc="68f01004" sha1="d2752a34741aee7330479656dde938bff636956f"/>
-		<rom name="singe/SuperDQ/Video/" size="0" crc="00000000"/>
 		<rom name="singe/SuperDQ/Video/superdq.m2v" size="2585094477" crc="6fb7c65e" sha1="e88558a9036954a34d55e0296d1e7700a969292a"/>
 		<rom name="singe/SuperDQ/Video/superdq.ogg" size="17692239" crc="7f968f52" sha1="3e079dc82e56b17d907165a96e93dc22fdb91784"/>
-		<rom name="singe/Survival/" size="0" crc="00000000"/>
 		<rom name="singe/Survival/Survival.txt" size="24" crc="a36072cf" sha1="c51f563df23eeb12dba6e1676caa5537f184283e"/>
 		<rom name="singe/Survival/Survival.zip" size="1148119" crc="7cd98cd1" sha1="399aefeff78123a2079d7a6b77cf76c7f4a99e8b"/>
-		<rom name="singe/Survival/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Survival/Video/survival.m2v" size="347397410" crc="f2f4e1a3" sha1="1e0994ad7af5cc9d1235017ebddb01869f007c3d"/>
 		<rom name="singe/Survival/Video/survival.ogg" size="13075068" crc="90611475" sha1="eb2e26ecf3b364be06107084c6869ff15b5691c5"/>
-		<rom name="singe/time_gal_se/" size="0" crc="00000000"/>
 		<rom name="singe/time_gal_se/time_gal_se.txt" size="19" crc="7c707232" sha1="c9f8398b8f635da960c3d9989a1dd05751932419"/>
 		<rom name="singe/time_gal_se/time_gal_se.zip" size="22781355" crc="1dedd11f" sha1="226c2343203f3669177302cd4748534eae06b583"/>
-		<rom name="singe/time_gal_se/Video/" size="0" crc="00000000"/>
 		<rom name="singe/time_gal_se/Video/gal.m2v" size="2507520644" crc="0ba56eb5" sha1="fc8410611d6f54c165d58aa5da92301d01cc920d"/>
 		<rom name="singe/time_gal_se/Video/gal.ogg" size="31243848" crc="de00ccb5" sha1="f35ef91faed64e64b0c8b29d6987a50688d0e70a"/>
-		<rom name="singe/TimegalHD/" size="0" crc="00000000"/>
 		<rom name="singe/TimegalHD/TimegalHD.txt" size="23" crc="4a3d51d1" sha1="d4f79affd642318aaef9dc474fbd21cf75fdca35"/>
 		<rom name="singe/TimegalHD/TimegalHD.zip" size="2259181" crc="2abf4030" sha1="f69df9ee6526bba5a65883260335def38bbb3342"/>
-		<rom name="singe/TimegalHD/Video/" size="0" crc="00000000"/>
 		<rom name="singe/TimegalHD/Video/timegal.m2v" size="2946864053" crc="6143c724" sha1="a14fdae791bdd9975a3e7f01f958e7bc3f314401"/>
 		<rom name="singe/TimegalHD/Video/timegal.ogg" size="31266838" crc="f0177438" sha1="fb36f75c6eede2810e36f8d26a030d32c5ff6f78"/>
-		<rom name="singe/Titan_AE/" size="0" crc="00000000"/>
 		<rom name="singe/Titan_AE/Titan_AE.txt" size="23" crc="f42ae01c" sha1="5682bafff1a375c22e9b669f64331810552a54cc"/>
 		<rom name="singe/Titan_AE/Titan_AE.zip" size="3180156" crc="7f4a4b90" sha1="910549c933286157196b5920d6b2fad03d494c43"/>
 		<rom name="singe/Titan_AE/Titan_AE169.txt" size="27" crc="f9eb60ab" sha1="960f9c8141719e750149a20bb31e78656086d86e"/>
-		<rom name="singe/Titan_AE/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Titan_AE/Video/Titan_AE169.m2v" size="2597708324" crc="cbc6e2b0" sha1="ae5eeb12c6042953129e32f466b0082433452076"/>
 		<rom name="singe/Titan_AE/Video/Titan_AE169.ogg" size="47676263" crc="2bdbd65f" sha1="77e1dd561088bc87225d44ea72409169075c619c"/>
 		<rom name="singe/Titan_AE/Video/titanae.m2v" size="2192061601" crc="9be71817" sha1="8fb0edeade0c8e09e05efbbb52e3cfede54cadc7"/>
 		<rom name="singe/Titan_AE/Video/titanae.ogg" size="47896694" crc="5e5a4626" sha1="6656788b3ca917393459adbf8a35c0a64b623305"/>
-		<rom name="singe/Tron/" size="0" crc="00000000"/>
 		<rom name="singe/Tron/Tron.txt" size="20" crc="db915167" sha1="44573bf179581acf57590e59d0911354cc9ccdda"/>
 		<rom name="singe/Tron/Tron.zip" size="2472520" crc="44d0550d" sha1="4bc9c27d67e7cbf5255ada497f19b7a63d08750c"/>
-		<rom name="singe/Tron/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Tron/Video/TRON.m2v" size="3082797462" crc="dbbbdcfd" sha1="0708089c44319531e84ad7b52c684e5d48477742"/>
 		<rom name="singe/Tron/Video/TRON.ogg" size="47238449" crc="53b31809" sha1="6c5d28ad301e5aed99ce980f2598e1d3129f4113"/>
-		<rom name="singe/Venus_Wars/" size="0" crc="00000000"/>
 		<rom name="singe/Venus_Wars/Venus_Wars.txt" size="26" crc="4235ca09" sha1="2d1041d7276044a2cb012e4e3375f163fbc85f6b"/>
 		<rom name="singe/Venus_Wars/Venus_Wars.zip" size="2247715" crc="ab8fd74e" sha1="1edb46054c751a0745c910bc3e6b1def4d3c9a43"/>
-		<rom name="singe/Venus_Wars/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Venus_Wars/Video/Venus_Wars.m2v" size="1593828427" crc="ffe7232f" sha1="e54d80851d2c076df00a8f5a27f92eef6b0e707c"/>
 		<rom name="singe/Venus_Wars/Video/Venus_Wars.ogg" size="57157124" crc="c639bea5" sha1="36af3a9a5bc10f5bc1075fca7a960db3548d11b1"/>
-		<rom name="singe/videodriver/" size="0" crc="00000000"/>
 		<rom name="singe/videodriver/_README.txt" size="5053" crc="b4189fe4" sha1="16052dbe2d718999d586e1c3313b6c883a908a42"/>
 		<rom name="singe/videodriver/calichase.txt" size="31" crc="cc9136ef" sha1="ec58175fea46d843aab6341c5f013de2091f61ec"/>
 		<rom name="singe/videodriver/halahara.txt" size="30" crc="efc315ea" sha1="ddc33cd239afe678bf184e49092d9bd941ca4668"/>
-		<rom name="singe/videodriver/ini/" size="0" crc="00000000"/>
-		<rom name="singe/videodriver/ini/videodriver.ini" size="2670" crc="ba875204" sha1="3a584e43146592ab09baa2d09066ea4c00f24a4a"/>
 		<rom name="singe/videodriver/patrolman.txt" size="31" crc="db782e3c" sha1="4aba90502cf749b9f16c9a831d62e71ea7fc39ce"/>
 		<rom name="singe/videodriver/pursuit.txt" size="29" crc="4d4928d8" sha1="bfedd39894a2a7b55edcb61a7e29d47f95a1b6e0"/>
 		<rom name="singe/videodriver/roadracer.txt" size="31" crc="a4c66b8b" sha1="14c3a73ce1f970985c48c04919d544abf9f7c169"/>
@@ -7835,7 +7565,8 @@
 		<rom name="singe/videodriver/thumb_pursuit.png" size="643705" crc="060d147c" sha1="6bcc90a579a06d822f92ae2eed7e58cdc8f1bf04"/>
 		<rom name="singe/videodriver/thumb_roadracer.png" size="1356294" crc="97745dbd" sha1="5e2aa39be935f6f2bd3f2cb5430e57833be835ff"/>
 		<rom name="singe/videodriver/thumb_seaside.png" size="348953" crc="682c3aad" sha1="bd9aad3d38f2e2f07dc0672dbf81ca49c735d62b"/>
-		<rom name="singe/videodriver/video/" size="0" crc="00000000"/>
+		<rom name="singe/videodriver/videodriver.zip" size="2491630" crc="34aac463" sha1="68b3f33fdfee6ebe676e312b10dc8916afe5749a"/>
+		<rom name="singe/videodriver/ini/videodriver.ini" size="2670" crc="ba875204" sha1="3a584e43146592ab09baa2d09066ea4c00f24a4a"/>
 		<rom name="singe/videodriver/video/calichase.m2v" size="83404941" crc="40dcd456" sha1="51cc8470c0f7036017d0d8d609de9804745eb9aa"/>
 		<rom name="singe/videodriver/video/calichase.ogg" size="5925727" crc="0e35af24" sha1="939ec43fd8cb0e932c268aa4f6cd4ab25d9e4534"/>
 		<rom name="singe/videodriver/video/halahara.m2v" size="125070164" crc="0b858c96" sha1="1886d8fc3cfc71a7256897aec2040f2aa14fc582"/>
@@ -7848,22 +7579,16 @@
 		<rom name="singe/videodriver/video/roadracer.ogg" size="6411179" crc="e4fa34b5" sha1="07d706cb137467fb723957ac5994b8e527d51cb1"/>
 		<rom name="singe/videodriver/video/seaside.m2v" size="116118233" crc="810193f9" sha1="bd62c384fbb0d12988fbdd139fff552e4b671a23"/>
 		<rom name="singe/videodriver/video/seaside.ogg" size="7901132" crc="df6e8dc6" sha1="56d865d2aa68f14f5e5f1b3a6c9673850b1979aa"/>
-		<rom name="singe/videodriver/videodriver.zip" size="2491630" crc="34aac463" sha1="68b3f33fdfee6ebe676e312b10dc8916afe5749a"/>
-		<rom name="singe/WARLIKE/" size="0" crc="00000000"/>
-		<rom name="singe/WARLIKE/Video/" size="0" crc="00000000"/>
-		<rom name="singe/WARLIKE/Video/WARLIKE.m2v" size="163462174" crc="846a13f8" sha1="534ae8f7d9da955fe68d7c648d2f4c044dee93f6"/>
-		<rom name="singe/WARLIKE/Video/WARLIKE.ogg" size="4429586" crc="af3b2916" sha1="859b2c5c5ccf5629d11a2011816afb906bee6af6"/>
 		<rom name="singe/WARLIKE/WARLIKE.txt" size="25" crc="8b056953" sha1="80575c32f43002e6d418696926813eb1217f47a2"/>
 		<rom name="singe/WARLIKE/WARLIKE.zip" size="21336479" crc="cbd1870b" sha1="edebee34ec0408021c106a28a8caef77b14ae0d8"/>
-		<rom name="singe/Wednesday/" size="0" crc="00000000"/>
-		<rom name="singe/Wednesday/Video/" size="0" crc="00000000"/>
+		<rom name="singe/WARLIKE/Video/WARLIKE.m2v" size="163462174" crc="846a13f8" sha1="534ae8f7d9da955fe68d7c648d2f4c044dee93f6"/>
+		<rom name="singe/WARLIKE/Video/WARLIKE.ogg" size="4429586" crc="af3b2916" sha1="859b2c5c5ccf5629d11a2011816afb906bee6af6"/>
+		<rom name="singe/Wednesday/Wednesday.txt" size="25" crc="be4359ea" sha1="e73adecafa72a9042f6bf74d94d52895783d18b7"/>
+		<rom name="singe/Wednesday/Wednesday.zip" size="22406141" crc="018fcf51" sha1="97f7e291cd7849bc31fcc0ec2f076e4595f143ad"/>
 		<rom name="singe/Wednesday/Video/Wednesday-es.ogg" size="15115110" crc="6de633c4" sha1="b20dae03a989db84bdc415117095b0eb727b2a4f"/>
 		<rom name="singe/Wednesday/Video/Wednesday-fr.ogg" size="13988014" crc="fc5156ed" sha1="d04bdff41d37c6ba133337ec7e13e3bb88f2cfc8"/>
 		<rom name="singe/Wednesday/Video/Wednesday.m2v" size="726471788" crc="1675649b" sha1="14dfb4bfa14170b5ff4da3975f503266fc0af5fc"/>
 		<rom name="singe/Wednesday/Video/Wednesday.ogg" size="12503985" crc="73474ef9" sha1="100ef21ca49d0b069cfa3aad8b3ddf9c76e3ba09"/>
-		<rom name="singe/Wednesday/Wednesday.txt" size="25" crc="be4359ea" sha1="e73adecafa72a9042f6bf74d94d52895783d18b7"/>
-		<rom name="singe/Wednesday/Wednesday.zip" size="22406141" crc="018fcf51" sha1="97f7e291cd7849bc31fcc0ec2f076e4595f143ad"/>
-		<rom name="sound/" size="0" crc="00000000"/>
 		<rom name="sound/ab_alarm1.wav" size="8304" crc="28bc4f2e" sha1="7bc31f484a529494a50fb25fb045b2d9f568b2d4"/>
 		<rom name="sound/ab_alarm2.wav" size="8294" crc="404074d0" sha1="a4c93dc8831509397b71f0e25d6f4e543fb49828"/>
 		<rom name="sound/ab_alarm3.wav" size="8592" crc="d678f828" sha1="f04a30887af88026375557c830ad0c7fd1c853d4"/>
@@ -7942,8 +7667,15 @@
 		<rom name="sound/sda_success_lo.wav" size="11822" crc="4b6cc3cf" sha1="d9f3a18b64dabddf459c87b4edd81a4e74699c97"/>
 	</game>
 	<game name="Singe2-percent">
-		<description>Singe2-percent</description>
-		<rom name="batch/" size="0" crc="00000000"/>
+		<rom name="gamecontrollerdb.txt" size="564965" crc="360237fe" sha1="e1655f71eb05c2bdb41425c05ef534d22d3c0a49"/>
+		<rom name="hypinput.ini" size="1544" crc="1dc7f502" sha1="1c6508b5fb4415347b2ad5736906639d542388cc"/>
+		<rom name="hypjsch.exe" size="4500992" crc="d5ab324f" sha1="59f54b37c2c70ee4b1afe17b872a89577d56b747"/>
+		<rom name="hypseus-logo.png" size="114876" crc="a21fe175" sha1="4d24b293d74a1f09d6a985155187575bf106a673"/>
+		<rom name="hypseus.exe" size="14663168" crc="683a162c" sha1="c0e6947e25439f9b669a29f6b63e89166b388700"/>
+		<rom name="hypseus_subsystem.exe" size="14654464" crc="6bcb9a16" sha1="77470e01145d77d68b890d3771abfb0ab35772f7"/>
+		<rom name="LICENSE" size="32472" crc="b792a93a" sha1="a6adc13d0c809ab8cb68e6e3b6eb7571bd0e2920"/>
+		<rom name="README.txt" size="3774" crc="f78408a1" sha1="d7714b450793ee1f6b5d3ea3a2f756b96d9f03ac"/>
+		<rom name="README_BEZELS.txt" size="2050" crc="c4398bbb" sha1="8321a43662cefea66573c5deab2cc9a72bb8ca0c"/>
 		<rom name="batch/A Guardsman&apos;s Life [16x9][1920x1080][FS][V].bat" size="197" crc="37cd1765" sha1="6e0b1d8e467c7a4305d615179133ce8aa582c5ff"/>
 		<rom name="batch/Agent328 Operation Basement [16x9][1920x820][FS][V].bat" size="177" crc="c22c3bf6" sha1="8fb8b259bc5de12bb1bdfc3c4042ce08bc40d0bb"/>
 		<rom name="batch/Arcane (French) (v2) [16x9][1920x1080][FS][V].bat" size="164" crc="fc221382" sha1="f16e04813d7baea2be9348658d4471e813ad92d1"/>
@@ -7968,9 +7700,7 @@
 		<rom name="batch/The Brave Locomotive [v2][16x9][1440x810][FS][V].bat" size="211" crc="abd6f023" sha1="56f4c59d21d2535f099e93121b61840468fb2e34"/>
 		<rom name="batch/Tittie Tussle [16x9][1920x1080][FS][V].bat" size="191" crc="4d14257b" sha1="888e2eb8427f1e7b9e75395a492bee3604b36efb"/>
 		<rom name="batch/Ultimate Ice Age [16x9][1440x810][FS][V].bat" size="193" crc="492f4ee2" sha1="8f5c47ef986701bdf89c59ef6caed27bba008091"/>
-		<rom name="bezels/" size="0" crc="00000000"/>
 		<rom name="bezels/RoadRunner.png" size="546457" crc="d85b5a81" sha1="cf8834d2a5c51d7596ed255cb9c676f2fa40af72"/>
-		<rom name="fonts/" size="0" crc="00000000"/>
 		<rom name="fonts/arial.ttf" size="1045960" crc="79acda34" sha1="77b225a694c39468a15ea94754eaf5edc93f2e02"/>
 		<rom name="fonts/daphne.ttf" size="42316" crc="e8a980c4" sha1="114b34022174570b302fa0b22d71d7d10a6e6fef"/>
 		<rom name="fonts/default.ttf" size="38924" crc="7a61047d" sha1="c41977dc265faf65c0a1f2295d36af2fc003eee9"/>
@@ -7978,19 +7708,9 @@
 		<rom name="fonts/m39.ttf" size="15836" crc="9fa18359" sha1="ac4179a92d1eb888a812a350d8ca1c8b662d9c72"/>
 		<rom name="fonts/pixel.ttf" size="44468" crc="f3866188" sha1="6a57320632315d1b457f9ba5f59326ba0ab37427"/>
 		<rom name="fonts/timewarp.ttf" size="26612" crc="1c21024f" sha1="ef9dd1ce72ea5e849382aca1a8d77da8f34db9b2"/>
-		<rom name="gamecontrollerdb.txt" size="564965" crc="360237fe" sha1="e1655f71eb05c2bdb41425c05ef534d22d3c0a49"/>
-		<rom name="hypinput.ini" size="1544" crc="1dc7f502" sha1="1c6508b5fb4415347b2ad5736906639d542388cc"/>
-		<rom name="hypjsch.exe" size="4500992" crc="d5ab324f" sha1="59f54b37c2c70ee4b1afe17b872a89577d56b747"/>
-		<rom name="hypseus-logo.png" size="114876" crc="a21fe175" sha1="4d24b293d74a1f09d6a985155187575bf106a673"/>
-		<rom name="hypseus.exe" size="14654464" crc="722efa94" sha1="efaab07faaedd565317b91f6a7e342717b57765a"/>
-		<rom name="hypseus.exe.orig" size="14654464" crc="722efa94" sha1="efaab07faaedd565317b91f6a7e342717b57765a"/>
-		<rom name="hypseus_subsystem.exe" size="14654464" crc="6bcb9a16" sha1="77470e01145d77d68b890d3771abfb0ab35772f7"/>
-		<rom name="LICENSE" size="32472" crc="b792a93a" sha1="a6adc13d0c809ab8cb68e6e3b6eb7571bd0e2920"/>
-		<rom name="midi/" size="0" crc="00000000"/>
 		<rom name="midi/COPYING.txt" size="18962" crc="9f0588ba" sha1="ce62f9e8817b2202ba26b04f69d939b5ee5f191e"/>
 		<rom name="midi/soundfont.sf2" size="5969788" crc="d6ff6f31" sha1="63e4eab3162ef10ffd99e89f13e4e67f751e9900"/>
 		<rom name="midi/SOUNDFONTS.txt" size="414" crc="4dbad077" sha1="0699be6a163fdb77010037c29ae6ecf3c1a5fb7e"/>
-		<rom name="pics/" size="0" crc="00000000"/>
 		<rom name="pics/annunoff.png" size="2307" crc="340bcb99" sha1="6e6a390981d3061f175f651d86809d9102ae9a14"/>
 		<rom name="pics/annunon.png" size="2394" crc="59fbf800" sha1="e42050d4e4c13618d30688cd459c6f49e995438f"/>
 		<rom name="pics/cadet.bmp" size="11690" crc="f5355632" sha1="3c5e70c58e2f0cff353eda64478a6f7f2847d80c"/>
@@ -8034,156 +7754,104 @@
 		<rom name="pics/spaceace.bmp" size="18378" crc="1a2699cf" sha1="76781d6ff69cb8cb7e3497f0e081ba44e8853e12"/>
 		<rom name="pics/time.bmp" size="4378" crc="2600f7a8" sha1="79f9cd76bc6b00625c317435e215d536f08a195c"/>
 		<rom name="pics/tqkeys.png" size="795112" crc="fbeed87d" sha1="0d28b8e4788d95c6abd3f20b8c432ac3285d4684"/>
-		<rom name="README.txt" size="3725" crc="0e2364ee" sha1="b9cb9a8492995aa797965f0631367faf1a3aef7e"/>
-		<rom name="README_BEZELS.txt" size="2050" crc="c4398bbb" sha1="8321a43662cefea66573c5deab2cc9a72bb8ca0c"/>
-		<rom name="singe/" size="0" crc="00000000"/>
-		<rom name="singe/Agent328OB/" size="0" crc="00000000"/>
 		<rom name="singe/Agent328OB/Agent328OB.txt" size="28" crc="4c3afaa3" sha1="31ac64b1d75a8c035b9f7b1a34404623bf675b23"/>
 		<rom name="singe/Agent328OB/Agent328OB.zip" size="20844968" crc="d301753a" sha1="5006e548ad9ca1b4eb9988fd9b174ca59c25a20b"/>
-		<rom name="singe/Agent328OB/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Agent328OB/Video/Agent328OB.m2v" size="144257128" crc="35b02424" sha1="76d44d37493d616d4d5c5961e2764f227fb3921a"/>
 		<rom name="singe/Agent328OB/Video/Agent328OB.ogg" size="3547191" crc="22808101" sha1="a5519a5d09379941f80a249c3318fe9836cac308"/>
-		<rom name="singe/AGuardsmansLife/" size="0" crc="00000000"/>
 		<rom name="singe/AGuardsmansLife/AGuardsmansLife.txt" size="33" crc="cf885c5a" sha1="a131aeca9d6f970520abd7fc0f49684c2743d2eb"/>
 		<rom name="singe/AGuardsmansLife/AGuardsmansLife.zip" size="20406478" crc="7646eee6" sha1="9143681344bce475e149f97658efe4bf3a5c8633"/>
-		<rom name="singe/AGuardsmansLife/Video/" size="0" crc="00000000"/>
 		<rom name="singe/AGuardsmansLife/Video/AGuardsmansLife.m2v" size="131439100" crc="dc1949eb" sha1="489bd627f14e023de659ae7b27ed034375533cfc"/>
 		<rom name="singe/AGuardsmansLife/Video/AGuardsmansLife.ogg" size="2526611" crc="77b60dd4" sha1="b69be9389f26d44850b00c90381908ed1b635e3e"/>
-		<rom name="singe/Arcane/" size="0" crc="00000000"/>
 		<rom name="singe/Arcane/Arcane.txt" size="24" crc="d2c3890a" sha1="93e0880bea4e17c90c279d3266e1e8bb99cb3ff9"/>
 		<rom name="singe/Arcane/Arcane.zip" size="23910556" crc="d2219feb" sha1="fa61bd6c29a1837fa897024c1287410cb45b0415"/>
-		<rom name="singe/Arcane/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Arcane/Video/Arcane.m2v" size="2704085463" crc="72b7f06e" sha1="33650e4f455afb4535039b54a49dcb2e48e5937e"/>
 		<rom name="singe/Arcane/Video/Arcane.ogg" size="159614381" crc="e58ed1ff" sha1="1818e8dfb615ab449295f1c9a621ea7a152bc34d"/>
 		<rom name="singe/Arcane/Video/Arcane_original.ogg" size="85240615" crc="1b7d5461" sha1="55cf4424c46b5d2ea95aeaa0d0fc68715a01ba4b"/>
-		<rom name="singe/Cracke/" size="0" crc="00000000"/>
 		<rom name="singe/Cracke/Cracke.txt" size="24" crc="5341ded0" sha1="1b78f40e478e5fb16f6f00091be41bbef6384e70"/>
 		<rom name="singe/Cracke/Cracke.zip" size="21226157" crc="9ac640e8" sha1="05d08a2737b087f643f3a79b2604ff8afb80e4ba"/>
-		<rom name="singe/Cracke/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Cracke/Video/Cracke.m2v" size="2345403080" crc="3abe0e4a" sha1="b1915b8d0bd6cfe7cc560500f9a205affb98ee94"/>
 		<rom name="singe/Cracke/Video/Cracke.ogg" size="30016396" crc="2a327dd3" sha1="52ea08bd1f8dd447e20632201836563acc2c932a"/>
-		<rom name="singe/GoldenNINJA/" size="0" crc="00000000"/>
 		<rom name="singe/GoldenNINJA/GoldenNINJA.txt" size="29" crc="a2acec99" sha1="c2c4437ef262ce050fa3fab19c001848f3e0242a"/>
 		<rom name="singe/GoldenNINJA/GoldenNINJA.zip" size="20467453" crc="0addd4a4" sha1="1147a141dd72d02c563d5448bdd9da24d8eea9ee"/>
-		<rom name="singe/GoldenNINJA/Video/" size="0" crc="00000000"/>
 		<rom name="singe/GoldenNINJA/Video/GoldenNINJA.m2v" size="381102410" crc="10a3ca4f" sha1="4529198f9ccedffcda0f5593ebd18ca54db9a65b"/>
 		<rom name="singe/GoldenNINJA/Video/GoldenNINJA.ogg" size="5320921" crc="0810f577" sha1="37aa68fca5d593c0971be442bb211723527569e6"/>
-		<rom name="singe/GRIZZY/" size="0" crc="00000000"/>
 		<rom name="singe/GRIZZY/GRIZZY.txt" size="24" crc="64c4e4e4" sha1="64adbda5d3133cc6b3581198dd65a6c3df2f6d46"/>
 		<rom name="singe/GRIZZY/GRIZZY.zip" size="33168234" crc="47c151a7" sha1="290748fedf9388f74a6a1667ba966b0ef04fa5af"/>
-		<rom name="singe/GRIZZY/Video/" size="0" crc="00000000"/>
 		<rom name="singe/GRIZZY/Video/GRIZZY.m2v" size="2378484505" crc="4497dcf4" sha1="10cfb7bc51486088eb89d8353ae69036209cc753"/>
 		<rom name="singe/GRIZZY/Video/GRIZZY.ogg" size="54627078" crc="7e6fd38b" sha1="948cf44ac5a943d978d1525eedc760e2ca11725e"/>
-		<rom name="singe/Hambuster/" size="0" crc="00000000"/>
 		<rom name="singe/Hambuster/Hambuster.txt" size="27" crc="ae252d9e" sha1="88f84f45948ba5bbf80fd0dba7d6c8122830c307"/>
 		<rom name="singe/Hambuster/Hambuster.zip" size="20599883" crc="cd015f2d" sha1="bbde9328e95ba9ed121413f81859c82c97114dbb"/>
-		<rom name="singe/Hambuster/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Hambuster/Video/Hambuster.m2v" size="201836183" crc="5f5a90b8" sha1="a97261335ab44ab4ea41d11830774cbc25abe7a2"/>
 		<rom name="singe/Hambuster/Video/Hambuster.ogg" size="5981660" crc="dd24bbbd" sha1="b00841abf0c4489c2f41ec3bc0008f7c5a88ebac"/>
-		<rom name="singe/Jinx/" size="0" crc="00000000"/>
 		<rom name="singe/Jinx/Jinx.txt" size="22" crc="18380251" sha1="73d69eafad989d105314a5e548590cc9a4223609"/>
 		<rom name="singe/Jinx/Jinx.zip" size="28701913" crc="67488c9a" sha1="5aa878f1bc6313de11b95c41b66f4ad3dd4a01f4"/>
-		<rom name="singe/Jinx/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Jinx/Video/Jinx.m2v" size="197660013" crc="5de8f45c" sha1="481cb343b0a05c22b72d4c35dd4071030c99e544"/>
 		<rom name="singe/Jinx/Video/Jinx.ogg" size="2390526" crc="1c0917c3" sha1="4bcd13a39ccb2f1fc524b68b8652e5b5f82797ce"/>
-		<rom name="singe/JUNGLE_JAIL/" size="0" crc="00000000"/>
 		<rom name="singe/JUNGLE_JAIL/JUNGLE_JAIL.txt" size="29" crc="2dbafb63" sha1="02b8943221c088af5a95bcabc117fc0955f17de1"/>
 		<rom name="singe/JUNGLE_JAIL/JUNGLE_JAIL.zip" size="23271161" crc="915fe659" sha1="a4d061c9fad835a7e19e87a9810723406d990f95"/>
-		<rom name="singe/JUNGLE_JAIL/Video/" size="0" crc="00000000"/>
 		<rom name="singe/JUNGLE_JAIL/Video/JUNGLE_JAIL.m2v" size="336875548" crc="b7dcb96a" sha1="283d3ae9be8e0b5bf022d4996f22e2d806114140"/>
 		<rom name="singe/JUNGLE_JAIL/Video/JUNGLE_JAIL.ogg" size="8419733" crc="5eddd709" sha1="3baf4e8c2d8ce7bb9ee6a0bd95e923b50dabba76"/>
-		<rom name="singe/LINEA/" size="0" crc="00000000"/>
 		<rom name="singe/LINEA/LINEA.txt" size="23" crc="e5109f34" sha1="6aa50a8d25f3f8a321165efffd5fac96c90911de"/>
 		<rom name="singe/LINEA/LINEA.zip" size="20888620" crc="8e06e67f" sha1="613aeb81450e69db9a0040efbbadaa7147767920"/>
-		<rom name="singe/LINEA/Video/" size="0" crc="00000000"/>
 		<rom name="singe/LINEA/Video/LINEA.m2v" size="364988557" crc="8c0c5be5" sha1="4b8cd9e81b3510bfacd43b168269ef68b161d30c"/>
 		<rom name="singe/LINEA/Video/LINEA.ogg" size="18902920" crc="d868e843" sha1="95f97cff5ecdd27db0bedf244febe3dec62a06bc"/>
 		<rom name="singe/LINEA/Video/LINEA_original.ogg" size="10338993" crc="83eeca7b" sha1="9379f9ed00a2a22d47a4ac21e9e4f8a6cfc874e9"/>
-		<rom name="singe/LU3/" size="0" crc="00000000"/>
 		<rom name="singe/LU3/LU3.txt" size="19" crc="14d3cbdc" sha1="cf1b9513c7526d5b82056aa482eaaa2a5b858437"/>
 		<rom name="singe/LU3/LU3.zip" size="22144587" crc="8b19833b" sha1="d2bce2442ae7cada8c3036b51ffd0b44b4bf6be9"/>
-		<rom name="singe/LU3/Video/" size="0" crc="00000000"/>
 		<rom name="singe/LU3/Video/LU3.m2v" size="3071759557" crc="bf656ed3" sha1="344dd77e995ac226bbf156712494414fbbaed575"/>
 		<rom name="singe/LU3/Video/LU3.ogg" size="79712488" crc="6ab911c0" sha1="e94061f56a9ae94e9f41319aa8b4e1c4f06b774d"/>
-		<rom name="singe/Memo_Speed/" size="0" crc="00000000"/>
 		<rom name="singe/Memo_Speed/Memo_Speed.txt" size="28" crc="49afb503" sha1="4ef80195033d0a76c78641741c84017bba2d858d"/>
 		<rom name="singe/Memo_Speed/Memo_Speed.zip" size="20562713" crc="4431b7b4" sha1="0c098e58a7b660637a58d2a9bc76b024416ab24d"/>
-		<rom name="singe/Memo_Speed/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Memo_Speed/Video/Memo_Speed.m2v" size="75706726" crc="1e005495" sha1="5d794fc8ee4177ffd77fbd7b8e84dff57d55b546"/>
 		<rom name="singe/Memo_Speed/Video/Memo_Speed.ogg" size="952070" crc="9c7f3d84" sha1="bf811d603239793f8d9c27026e827e04ae9c2788"/>
-		<rom name="singe/Metal_Family/" size="0" crc="00000000"/>
 		<rom name="singe/Metal_Family/Metal_Family.txt" size="30" crc="fd0e5fe2" sha1="0e69e0ae874ce8c76dab9e386535052463042801"/>
 		<rom name="singe/Metal_Family/Metal_Family.zip" size="20418506" crc="5da61529" sha1="bd334d0045312d930683048e813ad2e9f8741947"/>
-		<rom name="singe/Metal_Family/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Metal_Family/Video/Metal_Family.m2v" size="129542892" crc="e7ab1ecd" sha1="1c418c3fc72b40345c9c7b32f3b0c04dd65fe98c"/>
 		<rom name="singe/Metal_Family/Video/Metal_Family.ogg" size="4824022" crc="6951db8a" sha1="3f52bc28d01a632eb784ee007847e564537bcf64"/>
-		<rom name="singe/MVP/" size="0" crc="00000000"/>
 		<rom name="singe/MVP/MVP.txt" size="21" crc="1633458c" sha1="b3b8c911abe11021dbae0f5bdb3301a9ac854ea1"/>
 		<rom name="singe/MVP/MVP.zip" size="20825760" crc="b741dcc8" sha1="865a3ff6cd4ea8d7abd5f7fec156c675273e48fd"/>
-		<rom name="singe/MVP/Video/" size="0" crc="00000000"/>
 		<rom name="singe/MVP/Video/MVP.m2v" size="129339676" crc="8d3d9118" sha1="72eae84a77a04f4c1d6f9e8dfd749b928343c5cd"/>
 		<rom name="singe/MVP/Video/MVP.ogg" size="3611685" crc="d774d046" sha1="0e49362596fdcd5c08043a864beeceb24d4590c4"/>
-		<rom name="singe/Oggy-Wan-Kenoggy/" size="0" crc="00000000"/>
 		<rom name="singe/Oggy-Wan-Kenoggy/Oggy-Wan-Kenoggy.txt" size="34" crc="e904298c" sha1="bb5e277b0ae5f22c621a51b487c2906d6edeebb9"/>
 		<rom name="singe/Oggy-Wan-Kenoggy/Oggy-Wan-Kenoggy.zip" size="20543321" crc="7a6202c5" sha1="b1f114b8fe1b5c0a66cae8d4db53ceb4b3d3b150"/>
-		<rom name="singe/Oggy-Wan-Kenoggy/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Oggy-Wan-Kenoggy/Video/Oggy-Wan-Kenoggy.m2v" size="104196189" crc="e6b6e02b" sha1="6548575ea1d8a66bec997ca1709c29751827c6a3"/>
 		<rom name="singe/Oggy-Wan-Kenoggy/Video/Oggy-Wan-Kenoggy.ogg" size="4556132" crc="a508a7b0" sha1="128bbf44d8b79cb5fd609f69f0f95a8892306894"/>
-		<rom name="singe/OperationTigerpool/" size="0" crc="00000000"/>
 		<rom name="singe/OperationTigerpool/OperationTigerpool.txt" size="34" crc="802c3630" sha1="20cf4714ac6932094e1bb0aa9b9dfaa507ed7fad"/>
 		<rom name="singe/OperationTigerpool/OperationTigerpool.zip" size="23831385" crc="d405e16a" sha1="607cd011c163d7a9bcf4a03b9ba04a36ad57e4ff"/>
-		<rom name="singe/OperationTigerpool/Video/" size="0" crc="00000000"/>
 		<rom name="singe/OperationTigerpool/Video/OperationTigerpool.m2v" size="244355267" crc="d2de44c3" sha1="7350915b3bdcbb714ff6dd00480b900b0ac4b805"/>
 		<rom name="singe/OperationTigerpool/Video/OperationTigerpool.ogg" size="6936145" crc="61536b7a" sha1="416c9b236c7729ae930e1bd89c48f57e25aa5034"/>
-		<rom name="singe/RoadRunner/" size="0" crc="00000000"/>
 		<rom name="singe/RoadRunner/RoadRunner.txt" size="28" crc="c4eb7d37" sha1="d98f81db7dfbffe5c818d102707f93f2f46c729d"/>
 		<rom name="singe/RoadRunner/RoadRunner.zip" size="20879172" crc="1656355e" sha1="f271ae6b0b8702c8b06c7d414c533f380708ba50"/>
-		<rom name="singe/RoadRunner/Video/" size="0" crc="00000000"/>
 		<rom name="singe/RoadRunner/Video/RoadRunner.m2v" size="148466503" crc="a8d4eb1e" sha1="80ddc4dd9d62f090fcdaaee165add3c810a4de55"/>
 		<rom name="singe/RoadRunner/Video/RoadRunner.ogg" size="3959965" crc="615122fe" sha1="f97036dd7bac6f61cb59848902e8b5004a537dad"/>
-		<rom name="singe/RogerRabbit/" size="0" crc="00000000"/>
 		<rom name="singe/RogerRabbit/RogerRabbit.txt" size="29" crc="91411826" sha1="d79d47f89809aa0c9184c8754c0a9eee541c47b3"/>
 		<rom name="singe/RogerRabbit/RogerRabbit.zip" size="21673882" crc="7d2d4e8c" sha1="60038d9b25b8008656814e79e9420c26884de322"/>
-		<rom name="singe/RogerRabbit/Video/" size="0" crc="00000000"/>
 		<rom name="singe/RogerRabbit/Video/RogerRabbit.m2v" size="504054270" crc="2b9a640a" sha1="703bb21a1e599250b60355f9f002e3ddd3ddb1b4"/>
 		<rom name="singe/RogerRabbit/Video/RogerRabbit.ogg" size="9026730" crc="087410e0" sha1="aa91f7c7cc77d4e464b181e52a4c43605fdb5e03"/>
-		<rom name="singe/SacreesNonnes/" size="0" crc="00000000"/>
 		<rom name="singe/SacreesNonnes/SacreesNonnes.txt" size="37" crc="846174f5" sha1="d1adc68a30e5d6ee26b2776d7d5b83f069878302"/>
 		<rom name="singe/SacreesNonnes/SacreesNonnes.zip" size="20513230" crc="8cd3ba0c" sha1="84063d165b6cffb3ce7badde0a78921084d2a464"/>
-		<rom name="singe/SacreesNonnes/Video/" size="0" crc="00000000"/>
 		<rom name="singe/SacreesNonnes/Video/SacreesNonnes.m2v" size="141801882" crc="99537c5d" sha1="141934b69e7a58437338675072ef74c5702affe3"/>
 		<rom name="singe/SacreesNonnes/Video/SacreesNonnes.ogg" size="4794844" crc="03ec157a" sha1="0e630ff0c585e5537870a0b46f57fba380e95aad"/>
-		<rom name="singe/scrat/" size="0" crc="00000000"/>
 		<rom name="singe/scrat/scrat.txt" size="26" crc="3edda44a" sha1="d1dc0598160077c43a8e7d40d9e00b7a49516e09"/>
 		<rom name="singe/scrat/scrat.zip" size="21116819" crc="59c17b62" sha1="293a3cc3cd8d35aff4404dfb36ea5001f687ffa7"/>
-		<rom name="singe/scrat/Video/" size="0" crc="00000000"/>
 		<rom name="singe/scrat/Video/scrat.m2v" size="353229452" crc="14956de2" sha1="8dcf24af27bfd83a8ee1d45b8b65ff5d23f10230"/>
 		<rom name="singe/scrat/Video/scrat.ogg" size="6860418" crc="101c86a9" sha1="f0ffbede3b1631a4d929fa9afdca99c5bd5a1c72"/>
-		<rom name="singe/SuperMoineHolypop/" size="0" crc="00000000"/>
 		<rom name="singe/SuperMoineHolypop/SuperMoineHolypop.txt" size="35" crc="ff5507b3" sha1="6c441d6304d0456aaade276c6bece5bec866d2dd"/>
 		<rom name="singe/SuperMoineHolypop/SuperMoineHolypop.zip" size="20406597" crc="94d2e1bd" sha1="c0268c918c3afe4d3813fd4d05b8abb31542993c"/>
-		<rom name="singe/SuperMoineHolypop/Video/" size="0" crc="00000000"/>
 		<rom name="singe/SuperMoineHolypop/Video/SuperMoineHolypop.m2v" size="89637801" crc="76b41aba" sha1="82bfedfc989dd2a6a47767c42eaa03e40766c351"/>
 		<rom name="singe/SuperMoineHolypop/Video/SuperMoineHolypop.ogg" size="2413387" crc="9964a646" sha1="b34a59222bd494e8a233e7aafe4c81a5e00be48f"/>
-		<rom name="singe/TheBraveLocomotive/" size="0" crc="00000000"/>
 		<rom name="singe/TheBraveLocomotive/TheBraveLocomotive.txt" size="36" crc="30bc71c4" sha1="6c0940575d42f9a4268d18af6d4d595407929982"/>
 		<rom name="singe/TheBraveLocomotive/TheBraveLocomotive.zip" size="20459471" crc="9f608281" sha1="02a1e91af3ebd37d26ec45346393c7faafd6e2b9"/>
-		<rom name="singe/TheBraveLocomotive/Video/" size="0" crc="00000000"/>
 		<rom name="singe/TheBraveLocomotive/Video/TheBraveLocomotive.m2v" size="400026411" crc="bfa1ebb3" sha1="0d944be04e605d486f9afe89ae23c29dac9254d3"/>
 		<rom name="singe/TheBraveLocomotive/Video/TheBraveLocomotive.ogg" size="7005731" crc="4aba9966" sha1="1079c785ea564b97f8a285039007bbdbe6f1247d"/>
-		<rom name="singe/Tittie_Tussle/" size="0" crc="00000000"/>
 		<rom name="singe/Tittie_Tussle/Tittie_Tussle.txt" size="29" crc="f1c93a5b" sha1="03f4e5e218535be6a6e83bf38c01784a8f9fed8d"/>
 		<rom name="singe/Tittie_Tussle/Tittie_Tussle.zip" size="20601385" crc="e6d1caa5" sha1="d2d093ceea8570f9fb272f48767e1c1357c24ea6"/>
-		<rom name="singe/Tittie_Tussle/Video/" size="0" crc="00000000"/>
 		<rom name="singe/Tittie_Tussle/Video/Tittie_Tussle.m2v" size="104019483" crc="3faabd9e" sha1="b997f2dfe043f50afc4365f39cb0824abd52f3a6"/>
 		<rom name="singe/Tittie_Tussle/Video/Tittie_Tussle.ogg" size="2995934" crc="c2661b0e" sha1="f10fd236e52add6762ee44dc73cfbde5511141ed"/>
-		<rom name="singe/UltimateAgeIce/" size="0" crc="00000000"/>
 		<rom name="singe/UltimateAgeIce/UltimateAgeIce.txt" size="32" crc="0e234a5c" sha1="c9e2d2089a12c2e26787ab881aa4768f089c2d93"/>
 		<rom name="singe/UltimateAgeIce/UltimateAgeIce.zip" size="20468454" crc="ae9dbd10" sha1="6c9a1124e05fda51f4be32583abc70303c976c94"/>
-		<rom name="singe/UltimateAgeIce/Video/" size="0" crc="00000000"/>
 		<rom name="singe/UltimateAgeIce/Video/UltimateAgeIce.m2v" size="129370259" crc="97f710b8" sha1="cfc3fb16bd1b956561a6fca62e93bd6687166c4a"/>
 		<rom name="singe/UltimateAgeIce/Video/UltimateAgeIce.ogg" size="6451852" crc="ed6df90c" sha1="dff4629b250318116652bef173e45c1d8b577afd"/>
-		<rom name="sound/" size="0" crc="00000000"/>
 		<rom name="sound/ab_alarm1.wav" size="8304" crc="28bc4f2e" sha1="7bc31f484a529494a50fb25fb045b2d9f568b2d4"/>
 		<rom name="sound/ab_alarm2.wav" size="8294" crc="404074d0" sha1="a4c93dc8831509397b71f0e25d6f4e543fb49828"/>
 		<rom name="sound/ab_alarm3.wav" size="8592" crc="d678f828" sha1="f04a30887af88026375557c830ad0c7fd1c853d4"/>
@@ -8262,8 +7930,14 @@
 		<rom name="sound/sda_success_lo.wav" size="11822" crc="4b6cc3cf" sha1="d9f3a18b64dabddf459c87b4edd81a4e74699c97"/>
 	</game>
 	<game name="Singe2-ports-gungames">
-		<description>Singe2-ports-gungames</description>
-		<rom name="batch/" size="0" crc="00000000"/>
+		<rom name="gamecontrollerdb.txt" size="564965" crc="360237fe" sha1="e1655f71eb05c2bdb41425c05ef534d22d3c0a49"/>
+		<rom name="hypjsch.exe" size="4500992" crc="d5ab324f" sha1="59f54b37c2c70ee4b1afe17b872a89577d56b747"/>
+		<rom name="hypseus-logo.png" size="114876" crc="a21fe175" sha1="4d24b293d74a1f09d6a985155187575bf106a673"/>
+		<rom name="hypseus.exe" size="14663168" crc="683a162c" sha1="c0e6947e25439f9b669a29f6b63e89166b388700"/>
+		<rom name="hypseus_subsystem.exe" size="14654464" crc="6bcb9a16" sha1="77470e01145d77d68b890d3771abfb0ab35772f7"/>
+		<rom name="LICENSE" size="32472" crc="b792a93a" sha1="a6adc13d0c809ab8cb68e6e3b6eb7571bd0e2920"/>
+		<rom name="README.txt" size="3774" crc="f78408a1" sha1="d7714b450793ee1f6b5d3ea3a2f756b96d9f03ac"/>
+		<rom name="README_BEZELS.txt" size="2050" crc="c4398bbb" sha1="8321a43662cefea66573c5deab2cc9a72bb8ca0c"/>
 		<rom name="batch/Captain Power Greatest Hits [4x3][960x720][FS][V].bat" size="196" crc="3529b5c8" sha1="f5f87590f602cb4f5eee9be24d45c92e4c92227b"/>
 		<rom name="batch/Captain Power Skill Level 1 - Future Force Training [4x3][960x720][FS][V].bat" size="194" crc="4cc11683" sha1="44d399039c7f745e829ac3609d32d3705e91b739"/>
 		<rom name="batch/Captain Power Skill Level 2 - Bio-Dread Strike Mission [4x3][960x720][FS][V].bat" size="194" crc="20c4d00e" sha1="7bc62589c32cff6da7a7df6982f8eb223b7c7a61"/>
@@ -8289,7 +7963,6 @@
 		<rom name="batch/Tierras Salvajes (English, Spanish) (Multiplayer) [4x3][880x550][FS][V].bat" size="197" crc="1673cdda" sha1="afa89fe2b8bdcda5c677957d6bf30e33df9c7286"/>
 		<rom name="batch/Who Shot Johnny Rock HD (Multiplayer) [4x3][1440x1080][FS][V].bat" size="182" crc="8bfbb961" sha1="075d904e86761064b6239be8c511388bf9c81c99"/>
 		<rom name="batch/Who Shot Johnny Rock HD Noir RGB [4x3][1440x1080][FS][V].bat" size="226" crc="99b1cf54" sha1="201c2ea6f5d7dede5ecb698ab5f9bf7bcd6778cd"/>
-		<rom name="bezels/" size="0" crc="00000000"/>
 		<rom name="bezels/bezel_cops.png" size="1580767" crc="fb3c9959" sha1="aedb6d080908c5598a809dcdfe2172ecceac27a5"/>
 		<rom name="bezels/bezel_fastdraw_noborder.png" size="2044779" crc="87e2c1c9" sha1="264b6deeacd2ed640638235287bc1167ed10b1b3"/>
 		<rom name="bezels/bezel_tierras_noborder.png" size="735321" crc="d748c250" sha1="bcab2cd44c3aed7a642130372315817e882dc3f7"/>
@@ -8310,23 +7983,14 @@
 		<rom name="bezels/spacepirates-hd.png" size="656936" crc="6b089303" sha1="c95a10fe3cef8ff69def031d1a23c389c19022e6"/>
 		<rom name="bezels/wsjr-hd.png" size="638463" crc="598a5cf4" sha1="0f263efeacfc4aa7bf5aa1d0b865950126da128e"/>
 		<rom name="bezels/wsjr_noir-hd.png" size="613573" crc="97dc3ac4" sha1="d57d3f4ce8eb3b9319f7acee7eef9950ed21e1a3"/>
-		<rom name="fonts/" size="0" crc="00000000"/>
 		<rom name="fonts/daphne.ttf" size="42316" crc="e8a980c4" sha1="114b34022174570b302fa0b22d71d7d10a6e6fef"/>
 		<rom name="fonts/default.ttf" size="38924" crc="7a61047d" sha1="c41977dc265faf65c0a1f2295d36af2fc003eee9"/>
 		<rom name="fonts/digital.ttf" size="10044" crc="25f1e07a" sha1="ee33e4cbcec5f752dbf493bd19ddcd2817311911"/>
 		<rom name="fonts/m39.ttf" size="15836" crc="9fa18359" sha1="ac4179a92d1eb888a812a350d8ca1c8b662d9c72"/>
 		<rom name="fonts/timewarp.ttf" size="26612" crc="1c21024f" sha1="ef9dd1ce72ea5e849382aca1a8d77da8f34db9b2"/>
-		<rom name="gamecontrollerdb.txt" size="564965" crc="360237fe" sha1="e1655f71eb05c2bdb41425c05ef534d22d3c0a49"/>
-		<rom name="hypjsch.exe" size="4500992" crc="d5ab324f" sha1="59f54b37c2c70ee4b1afe17b872a89577d56b747"/>
-		<rom name="hypseus-logo.png" size="114876" crc="a21fe175" sha1="4d24b293d74a1f09d6a985155187575bf106a673"/>
-		<rom name="hypseus.exe" size="14654464" crc="722efa94" sha1="efaab07faaedd565317b91f6a7e342717b57765a"/>
-		<rom name="hypseus_subsystem.exe" size="14654464" crc="6bcb9a16" sha1="77470e01145d77d68b890d3771abfb0ab35772f7"/>
-		<rom name="LICENSE" size="32472" crc="b792a93a" sha1="a6adc13d0c809ab8cb68e6e3b6eb7571bd0e2920"/>
-		<rom name="midi/" size="0" crc="00000000"/>
 		<rom name="midi/COPYING.txt" size="18962" crc="9f0588ba" sha1="ce62f9e8817b2202ba26b04f69d939b5ee5f191e"/>
 		<rom name="midi/soundfont.sf2" size="5969788" crc="d6ff6f31" sha1="63e4eab3162ef10ffd99e89f13e4e67f751e9900"/>
 		<rom name="midi/SOUNDFONTS.txt" size="414" crc="4dbad077" sha1="0699be6a163fdb77010037c29ae6ecf3c1a5fb7e"/>
-		<rom name="pics/" size="0" crc="00000000"/>
 		<rom name="pics/annunoff.png" size="2307" crc="340bcb99" sha1="6e6a390981d3061f175f651d86809d9102ae9a14"/>
 		<rom name="pics/annunon.png" size="2394" crc="59fbf800" sha1="e42050d4e4c13618d30688cd459c6f49e995438f"/>
 		<rom name="pics/cadet.bmp" size="11690" crc="f5355632" sha1="3c5e70c58e2f0cff353eda64478a6f7f2847d80c"/>
@@ -8370,10 +8034,6 @@
 		<rom name="pics/spaceace.bmp" size="18378" crc="1a2699cf" sha1="76781d6ff69cb8cb7e3497f0e081ba44e8853e12"/>
 		<rom name="pics/time.bmp" size="4378" crc="2600f7a8" sha1="79f9cd76bc6b00625c317435e215d536f08a195c"/>
 		<rom name="pics/tqkeys.png" size="795112" crc="fbeed87d" sha1="0d28b8e4788d95c6abd3f20b8c432ac3285d4684"/>
-		<rom name="README.txt" size="3725" crc="0e2364ee" sha1="b9cb9a8492995aa797965f0631367faf1a3aef7e"/>
-		<rom name="README_BEZELS.txt" size="2050" crc="c4398bbb" sha1="8321a43662cefea66573c5deab2cc9a72bb8ca0c"/>
-		<rom name="singe/" size="0" crc="00000000"/>
-		<rom name="singe/captainpower/" size="0" crc="00000000"/>
 		<rom name="singe/captainpower/_README.txt" size="10970" crc="6bd48cb7" sha1="8dfd1881de837e52e6c5c85679bccd315b9a03ff"/>
 		<rom name="singe/captainpower/Captain Power Battleguide.pdf" size="12395311" crc="fb2894d1" sha1="cc17e4430769819cc9a4fcb82250700f408edfb9"/>
 		<rom name="singe/captainpower/Captain Power Rules Booklet.pdf" size="9317263" crc="d15c3330" sha1="9eae41b4858f4a95a4c0f32a3503c9fb545542f3"/>
@@ -8384,7 +8044,7 @@
 		<rom name="singe/captainpower/cpower4.txt" size="56" crc="e34744a0" sha1="e2e4f981548ad1880b03b6e0c046beb2d23b2bf4"/>
 		<rom name="singe/captainpower/cpowergh.txt" size="90" crc="4563b7cf" sha1="47590cc2de15770ccf58ecb9e85e4eb0dacd5c07"/>
 		<rom name="singe/captainpower/rpi-video.sh" size="2435" crc="5a2e3230" sha1="b687ab848bdd809426166f0b2898ff44b44d5400"/>
-		<rom name="singe/captainpower/video/" size="0" crc="00000000"/>
+		<rom name="singe/captainpower/win-video.bat" size="1213" crc="c003611c" sha1="0d647e2f805ee62d4dd3630160f6d608355c7af4"/>
 		<rom name="singe/captainpower/video/cpower1.m2v" size="762179785" crc="c989a210" sha1="708861bb42910579b18841908779eb622ea35882"/>
 		<rom name="singe/captainpower/video/cpower1.ogg" size="15728238" crc="dd6a5560" sha1="81d2d7ca67aa11738314b6bdbc3d7cae73a5c070"/>
 		<rom name="singe/captainpower/video/cpower1_title.m2v" size="83186" crc="daa408bb" sha1="3f673b596b05067972cb7d7943a5fe02f83080a6"/>
@@ -8401,8 +8061,6 @@
 		<rom name="singe/captainpower/video/cpowergh_title.m2v" size="77323" crc="f552786f" sha1="03329f8da36db8895eb0a934a9e024608d6922b9"/>
 		<rom name="singe/captainpower/video/gameover.m2v" size="3020296" crc="6fea99c5" sha1="91c69b40b1421c9a45f81d9d9cfa13ed944b628c"/>
 		<rom name="singe/captainpower/video/gameover.ogg" size="95763" crc="0dbe93fd" sha1="7fb0610e85e1ce35270bfc4447ab03c5917e4f2f"/>
-		<rom name="singe/captainpower/win-video.bat" size="1213" crc="c003611c" sha1="0d647e2f805ee62d4dd3630160f6d608355c7af4"/>
-		<rom name="singe/cops/" size="0" crc="00000000"/>
 		<rom name="singe/cops/bezel_cops.png" size="1580767" crc="fb3c9959" sha1="aedb6d080908c5598a809dcdfe2172ecceac27a5"/>
 		<rom name="singe/cops/CD_tracks_backup.zip" size="35525455" crc="f4f1f1cc" sha1="df9686a9722bb333726feff95114275c810053d3"/>
 		<rom name="singe/cops/CDTRACKS.txt" size="961" crc="356e3c56" sha1="7c853c8df65e3b1023ea13b1c20cc0aa7c2ee674"/>
@@ -8412,7 +8070,6 @@
 		<rom name="singe/cops/cops.zip" size="37718611" crc="207bd94d" sha1="0e9df020966f99d36b21794d90f06f3243e503c8"/>
 		<rom name="singe/cops/README.txt" size="1215" crc="a5ab8458" sha1="969366e243e7333e6808d6f6bc6b9c4afb7f61c7"/>
 		<rom name="singe/cops/thumb_cops.png" size="43248" crc="f6c422b3" sha1="185ad4ca6ad779b79e58506e5b7e17d5625c8061"/>
-		<rom name="singe/crimepatrol-hd/" size="0" crc="00000000"/>
 		<rom name="singe/crimepatrol-hd/crimepatrol-extra.m2v" size="11541881" crc="5a076892" sha1="dc65e082eb8121583e0881f2e44ed9cd4d18e26b"/>
 		<rom name="singe/crimepatrol-hd/crimepatrol-extra.ogg" size="473907" crc="d23a6bd2" sha1="e778444a7c0e860a92cdaaff90e9d283fc74bca0"/>
 		<rom name="singe/crimepatrol-hd/crimepatrol-hd.txt" size="50" crc="595ae704" sha1="0429897a6be937f7295083942f470824f62dfad8"/>
@@ -8420,7 +8077,6 @@
 		<rom name="singe/crimepatrol-hd/crimepatrol.m2v" size="1433191107" crc="b9bf252f" sha1="74fab3a9c78b52003bcf0e1621b12930775ea5e4"/>
 		<rom name="singe/crimepatrol-hd/crimepatrol.ogg" size="35001158" crc="898a5ba7" sha1="59d3c4ce780a737e914695eb41d608eb02e641fe"/>
 		<rom name="singe/crimepatrol-hd/README.txt" size="1367" crc="d87a1fd9" sha1="a391a510c7d73a1e43bc3f8f3c8257b916f00b6f"/>
-		<rom name="singe/drugwars-hd/" size="0" crc="00000000"/>
 		<rom name="singe/drugwars-hd/drugwars-extra.m2v" size="47401636" crc="a668a121" sha1="af194068b49b8c1ada72c2f637b3724db86e1b5d"/>
 		<rom name="singe/drugwars-hd/drugwars-extra.ogg" size="1441750" crc="38e1ad35" sha1="7efdf8a8f8d5a7b9a6710b968137b7fdc6ba45db"/>
 		<rom name="singe/drugwars-hd/drugwars-hd.txt" size="45" crc="50b315b6" sha1="f922166a326d6d2f1a74fc3f0f92e88f69c2de27"/>
@@ -8428,32 +8084,27 @@
 		<rom name="singe/drugwars-hd/drugwars.m2v" size="1603395135" crc="0ecfa830" sha1="1747530f707180d4758cd4be7a001b4d8cbae14f"/>
 		<rom name="singe/drugwars-hd/drugwars.ogg" size="35779237" crc="6bdd6207" sha1="d435f9ef780c9d86cbba82606712321eac3cd3da"/>
 		<rom name="singe/drugwars-hd/README.txt" size="1331" crc="297e268a" sha1="7826fa346049e043a5719b444c8ba32ffcfed140"/>
-		<rom name="singe/fastdraw/" size="0" crc="00000000"/>
 		<rom name="singe/fastdraw/fastdraw-extra.m2v" size="5418694" crc="994a98c8" sha1="ad33d87f690e7ca10f63df1f0740f26f2c3d393d"/>
 		<rom name="singe/fastdraw/fastdraw.m2v" size="842797506" crc="5b726382" sha1="a2017f4a79157ae17f4f45ef0194c4dc3d03d8e9"/>
 		<rom name="singe/fastdraw/fastdraw.ogg" size="34028593" crc="fe3ab494" sha1="7f0077ac5bb4eb4d2e3b182ab0e13cbf5fdf37db"/>
 		<rom name="singe/fastdraw/fastdraw.txt" size="42" crc="f9b24a41" sha1="ffeee2d568229a3e25e68787133812040a46f330"/>
 		<rom name="singe/fastdraw/fastdraw.zip" size="3803094" crc="9ded92fe" sha1="1716e387c2c9834d9b5296048518badd3dbd61aa"/>
 		<rom name="singe/fastdraw/README.txt" size="6248" crc="a9d24113" sha1="c433799d5212a1f577ba478d22703b55f5ef595d"/>
-		<rom name="singe/gallagher/" size="0" crc="00000000"/>
 		<rom name="singe/gallagher/gallagher.m2v" size="703186852" crc="85482379" sha1="f52990df49a24c033e0559f22c7bbf756654562f"/>
 		<rom name="singe/gallagher/gallagher.ogg" size="35138409" crc="98a8273c" sha1="423d05294cbd672598514fd17c85ac09bf140f09"/>
 		<rom name="singe/gallagher/gallagher.txt" size="19" crc="efc9848c" sha1="550222596d1d8486f4e3e6be2d0a9c5bf3381aa2"/>
 		<rom name="singe/gallagher/gallagher.zip" size="7110591" crc="6f4683b2" sha1="79690fa881753d094063b61a95f28cd664e9b693"/>
 		<rom name="singe/gallagher/README.txt" size="1261" crc="21171958" sha1="9661b81c780fce9e7b6022ede2ffc4f074634aac"/>
-		<rom name="singe/johnnyrocknoir-rgb/" size="0" crc="00000000"/>
 		<rom name="singe/johnnyrocknoir-rgb/johnnyrock.m2v" size="1405673814" crc="b7f7a2a7" sha1="74bed08c1e1be19d09f653b8f9b17a81f55e8469"/>
 		<rom name="singe/johnnyrocknoir-rgb/johnnyrock.ogg" size="28679176" crc="e7f60dd7" sha1="1a5201062c1118a4272f2635e6a685aed323ff4c"/>
 		<rom name="singe/johnnyrocknoir-rgb/johnnyrocknoir-rgb.txt" size="20" crc="2988600d" sha1="e5fc7ed4273a3c6159eb4e8c8c5b52064aa73264"/>
 		<rom name="singe/johnnyrocknoir-rgb/johnnyrocknoir-rgb.zip" size="1822359" crc="3465c2a9" sha1="7bfeb1ebb54f6e4200ebdc9abc89445c408c1fb7"/>
 		<rom name="singe/johnnyrocknoir-rgb/README.txt" size="574" crc="11f92e76" sha1="c79ddf6e358d81753edf7c17bbbe25604579a580"/>
-		<rom name="singe/lbh-hd/" size="0" crc="00000000"/>
 		<rom name="singe/lbh-hd/lbh-hd.txt" size="19" crc="ef52a731" sha1="83b65ce08729e4389a2e9d5e07fd12947d557931"/>
 		<rom name="singe/lbh-hd/lbh-hd.zip" size="2206150" crc="74a46871" sha1="e21f7ba2f2b8243e7865dfb694fde1b02b05e4a9"/>
 		<rom name="singe/lbh-hd/lbh-mp.m2v" size="1566619108" crc="9f21e635" sha1="f0f042dbf601e3626484ad975ff4507af649a698"/>
 		<rom name="singe/lbh-hd/lbh-mp.ogg" size="30652435" crc="41a9c965" sha1="eacaa10c8c44477d23b3108e6843897ed78c1101"/>
 		<rom name="singe/lbh-hd/README.txt" size="1399" crc="543ede07" sha1="a27ee4ea9d9ea286bb4d7f34226400b9516a47ef"/>
-		<rom name="singe/maddog-hd/" size="0" crc="00000000"/>
 		<rom name="singe/maddog-hd/maddog-extra.m2v" size="7093775" crc="0cc6acc9" sha1="b3ca438babf35bd56f395383b8f569fb90d1d311"/>
 		<rom name="singe/maddog-hd/maddog-extra.ogg" size="67348" crc="a2d26df0" sha1="b37545cfa3b45c1a85bb087ad5f750e7f6cbd322"/>
 		<rom name="singe/maddog-hd/maddog-hd.txt" size="41" crc="802decfe" sha1="342de2549190e4aed8e96228baf040d611d4754a"/>
@@ -8461,37 +8112,32 @@
 		<rom name="singe/maddog-hd/maddog.m2v" size="1459457345" crc="22b0a8a8" sha1="ad48a701c4d2878e8a3aa973a2701d37e8862581"/>
 		<rom name="singe/maddog-hd/maddog.ogg" size="22210400" crc="990522fb" sha1="7157254f876f082675bca3be064d12d5d5649582"/>
 		<rom name="singe/maddog-hd/README.txt" size="1281" crc="3e7a08f3" sha1="0b98f30d5e3fe84fe09f6d1637394df9f18c77d7"/>
-		<rom name="singe/maddog2-hd/" size="0" crc="00000000"/>
 		<rom name="singe/maddog2-hd/maddog2-hd.txt" size="24" crc="f16b0183" sha1="233ce0d3185749021142de1ca05e7fdbc5051e0a"/>
 		<rom name="singe/maddog2-hd/maddog2-hd.zip" size="5447853" crc="785ae9c3" sha1="d0dd59b52d9f82fa5bc713bfc81fd579acfd4f91"/>
 		<rom name="singe/maddog2-hd/maddog2-mp.m2v" size="1718030755" crc="2f0b6f06" sha1="95dbefb8c91ab7a53275bf8edc5f8e4ad982cac8"/>
 		<rom name="singe/maddog2-hd/maddog2-mp.ogg" size="32099247" crc="ad42ea6a" sha1="6f2c1b2a975fed6880b8f70cdb4ef1aac2db2810"/>
 		<rom name="singe/maddog2-hd/README.txt" size="1222" crc="b36be76f" sha1="03e93b145e0ccbaafdd294bcfc00c2809aa5479c"/>
-		<rom name="singe/marbvice-ai/" size="0" crc="00000000"/>
-		<rom name="singe/marbvice-ai/marbvice-ai.zip" size="1586938" crc="70356c6b" sha1="63d8896c9fc03d9ad3217e3f21109b7015087217"/>
-		<rom name="singe/marbvice-ai/marbvice-es.ogg" size="27252532" crc="f5be23a1" sha1="9664438a62feb0806f2079e340f92a07e34bb963"/>
-		<rom name="singe/marbvice-ai/marbvice.m2v" size="2291487095" crc="88c96aea" sha1="dc103a8a3728356ea37181f4e6d282d8974d77c9"/>
-		<rom name="singe/marbvice-ai/marbvice.ogg" size="27589804" crc="56b93d3c" sha1="9882eb3f7287192368cfe3cfb1f36d05a8c2add1"/>
-		<rom name="singe/marbvice-ai/marbvice.txt" size="18" crc="a9f28a5d" sha1="9d4c67dd244a8159a83d594a005b36f029d46dc4"/>
-		<rom name="singe/marbvice-hvg/" size="0" crc="00000000"/>
-		<rom name="singe/marbvice-hvg/arbvice-es.ogg" size="27252532" crc="f5be23a1" sha1="9664438a62feb0806f2079e340f92a07e34bb963"/>
-		<rom name="singe/marbvice-hvg/marbvice-hvg.zip" size="1588886" crc="8dc516f0" sha1="fb61fdb3bef75140ad881e95a21778867c398cb0"/>
-		<rom name="singe/marbvice-hvg/marbvice.m2v" size="2468101551" crc="99a2cdb6" sha1="d6a0bbf4f2560f021d2016e1199b740126844030"/>
-		<rom name="singe/marbvice-hvg/marbvice.ogg" size="27589804" crc="56b93d3c" sha1="9882eb3f7287192368cfe3cfb1f36d05a8c2add1"/>
-		<rom name="singe/marbvice-hvg/marbvice.txt" size="18" crc="a9f28a5d" sha1="9d4c67dd244a8159a83d594a005b36f029d46dc4"/>
-		<rom name="singe/marbvice/" size="0" crc="00000000"/>
 		<rom name="singe/marbvice/marbvice-es.ogg" size="27252532" crc="f5be23a1" sha1="9664438a62feb0806f2079e340f92a07e34bb963"/>
 		<rom name="singe/marbvice/marbvice.m2v" size="1561195321" crc="87e223c5" sha1="5f5a3e7900c3614d7c9ab9f2d889842844e34c7a"/>
 		<rom name="singe/marbvice/marbvice.ogg" size="27589804" crc="56b93d3c" sha1="9882eb3f7287192368cfe3cfb1f36d05a8c2add1"/>
 		<rom name="singe/marbvice/marbvice.txt" size="18" crc="a9f28a5d" sha1="9d4c67dd244a8159a83d594a005b36f029d46dc4"/>
 		<rom name="singe/marbvice/marbvice.zip" size="1683963" crc="3d9ae844" sha1="5dd3c543194ca86b9f526bf62e8cad462e8594e8"/>
 		<rom name="singe/marbvice/README.txt" size="1293" crc="68be2ba4" sha1="66d3c19413beb590c01db2b74fab16e61ace2350"/>
-		<rom name="singe/platoon-old-fixed/" size="0" crc="00000000"/>
-		<rom name="singe/platoon-old-fixed/platoon-old-fixed.zip" size="1470771" crc="0b1d76e0" sha1="34d8de902304540d1a483d2fb3c73f3a2baddf1d"/>
-		<rom name="singe/platoon-old-fixed/platoon.m2v" size="472384104" crc="45d5e391" sha1="e572057403514c6de03338ea60da74ab7e386ccf"/>
-		<rom name="singe/platoon-old-fixed/platoon.ogg" size="16711205" crc="aaa64ae5" sha1="2e451a8ff4a1fb5113fae0e644755fa5c890f8c5"/>
-		<rom name="singe/platoon-old-fixed/platoon.txt" size="31" crc="59d41230" sha1="a744b238fd69250db1f018a3db4c1fb1766bdff2"/>
-		<rom name="singe/platoon-old/" size="0" crc="00000000"/>
+		<rom name="singe/marbvice-ai/marbvice-ai.zip" size="1586938" crc="70356c6b" sha1="63d8896c9fc03d9ad3217e3f21109b7015087217"/>
+		<rom name="singe/marbvice-ai/marbvice-es.ogg" size="27252532" crc="f5be23a1" sha1="9664438a62feb0806f2079e340f92a07e34bb963"/>
+		<rom name="singe/marbvice-ai/marbvice.m2v" size="2291487095" crc="88c96aea" sha1="dc103a8a3728356ea37181f4e6d282d8974d77c9"/>
+		<rom name="singe/marbvice-ai/marbvice.ogg" size="27589804" crc="56b93d3c" sha1="9882eb3f7287192368cfe3cfb1f36d05a8c2add1"/>
+		<rom name="singe/marbvice-ai/marbvice.txt" size="18" crc="a9f28a5d" sha1="9d4c67dd244a8159a83d594a005b36f029d46dc4"/>
+		<rom name="singe/marbvice-hvg/arbvice-es.ogg" size="27252532" crc="f5be23a1" sha1="9664438a62feb0806f2079e340f92a07e34bb963"/>
+		<rom name="singe/marbvice-hvg/marbvice-hvg.zip" size="1588886" crc="8dc516f0" sha1="fb61fdb3bef75140ad881e95a21778867c398cb0"/>
+		<rom name="singe/marbvice-hvg/marbvice.m2v" size="2468101551" crc="99a2cdb6" sha1="d6a0bbf4f2560f021d2016e1199b740126844030"/>
+		<rom name="singe/marbvice-hvg/marbvice.ogg" size="27589804" crc="56b93d3c" sha1="9882eb3f7287192368cfe3cfb1f36d05a8c2add1"/>
+		<rom name="singe/marbvice-hvg/marbvice.txt" size="18" crc="a9f28a5d" sha1="9d4c67dd244a8159a83d594a005b36f029d46dc4"/>
+		<rom name="singe/platoon/platoon.m2v" size="647984864" crc="63e871be" sha1="9e02b6846593d68b539b0077897d4c220191b934"/>
+		<rom name="singe/platoon/platoon.ogg" size="29317763" crc="a9b030a3" sha1="e1f50d5c8d1c7565428bce9ba444f6cfc9cbc276"/>
+		<rom name="singe/platoon/platoon.txt" size="33" crc="a7dbf22a" sha1="dfe62710b7c8cd045beab0fe95f7fd21e19c5af1"/>
+		<rom name="singe/platoon/platoon.zip" size="1869652" crc="3e8043b5" sha1="a9285917b1af35e9078c8cbccf6adfe52aa58592"/>
+		<rom name="singe/platoon/README.txt" size="1147" crc="8922509f" sha1="ec5b1b6259a4fd7ea2b066dbe56a6f4a77571c2e"/>
 		<rom name="singe/platoon-old/boom.m2v" size="2869708" crc="1f3cd4bd" sha1="98dc801937fe0fed92408041758dddcad4bc3c9e"/>
 		<rom name="singe/platoon-old/boom.ogg" size="220880" crc="b7bdf984" sha1="1bc63e47ccffbb1abb44925f1db1cd4f415f83dd"/>
 		<rom name="singe/platoon-old/fai.txt" size="328" crc="f101b420" sha1="cbb4f2bfa20dadd357c56daf5569e0f0eca16286"/>
@@ -8522,13 +8168,10 @@
 		<rom name="singe/platoon-old/final_training.m2v" size="127794135" crc="399a1bd4" sha1="90eef41dcd0fc4b93fb743072b3f6e920953aaee"/>
 		<rom name="singe/platoon-old/final_training.ogg" size="8953797" crc="66184cfd" sha1="ff9edc8875ba493ecbcd77e53bb5e8438bd52d80"/>
 		<rom name="singe/platoon-old/platoon-old.zip" size="1848282" crc="46e032f7" sha1="489ddfa0def38220c1002e1a97927e1df3f2e28a"/>
-		<rom name="singe/platoon/" size="0" crc="00000000"/>
-		<rom name="singe/platoon/platoon.m2v" size="647984864" crc="63e871be" sha1="9e02b6846593d68b539b0077897d4c220191b934"/>
-		<rom name="singe/platoon/platoon.ogg" size="29317763" crc="a9b030a3" sha1="e1f50d5c8d1c7565428bce9ba444f6cfc9cbc276"/>
-		<rom name="singe/platoon/platoon.txt" size="33" crc="a7dbf22a" sha1="dfe62710b7c8cd045beab0fe95f7fd21e19c5af1"/>
-		<rom name="singe/platoon/platoon.zip" size="1869652" crc="3e8043b5" sha1="a9285917b1af35e9078c8cbccf6adfe52aa58592"/>
-		<rom name="singe/platoon/README.txt" size="1147" crc="8922509f" sha1="ec5b1b6259a4fd7ea2b066dbe56a6f4a77571c2e"/>
-		<rom name="singe/spacepirates-hd/" size="0" crc="00000000"/>
+		<rom name="singe/platoon-old-fixed/platoon-old-fixed.zip" size="1470771" crc="0b1d76e0" sha1="34d8de902304540d1a483d2fb3c73f3a2baddf1d"/>
+		<rom name="singe/platoon-old-fixed/platoon.m2v" size="472384104" crc="45d5e391" sha1="e572057403514c6de03338ea60da74ab7e386ccf"/>
+		<rom name="singe/platoon-old-fixed/platoon.ogg" size="16711205" crc="aaa64ae5" sha1="2e451a8ff4a1fb5113fae0e644755fa5c890f8c5"/>
+		<rom name="singe/platoon-old-fixed/platoon.txt" size="31" crc="59d41230" sha1="a744b238fd69250db1f018a3db4c1fb1766bdff2"/>
 		<rom name="singe/spacepirates-hd/README.txt" size="1454" crc="a71942db" sha1="44ca4ad0650b1899fea1e0a5c63b5f10fc44e409"/>
 		<rom name="singe/spacepirates-hd/spacepirates-extra.m2v" size="16511987" crc="2f898d05" sha1="27a377cf5d8175e929a598c84f7a6e71f176b1d9"/>
 		<rom name="singe/spacepirates-hd/spacepirates-extra.ogg" size="253951" crc="1df1d948" sha1="e46393a33395cc4f7544941c7039cf7035936b5c"/>
@@ -8536,20 +8179,17 @@
 		<rom name="singe/spacepirates-hd/spacepirates-hd.zip" size="1733224" crc="3b70329d" sha1="d1e6007e6f43d4a87be4a198fd05459fba0cef4f"/>
 		<rom name="singe/spacepirates-hd/spacepirates.m2v" size="1447847189" crc="33f0ec54" sha1="4e5999272cf40a10613e0993dbeb74a5da3a77be"/>
 		<rom name="singe/spacepirates-hd/spacepirates.ogg" size="35134632" crc="9e2c9fac" sha1="4277063d1a3609ea79c0d333057acf56cb9bb3c5"/>
-		<rom name="singe/tierras/" size="0" crc="00000000"/>
 		<rom name="singe/tierras/README.txt" size="1282" crc="13da75d8" sha1="91186d074b24bee262c6aa7d71865f9e739c5a97"/>
 		<rom name="singe/tierras/tierras-es.ogg" size="25326638" crc="a82096a4" sha1="7dc9be1b8e35024673f6682dedb0c04060565f78"/>
 		<rom name="singe/tierras/tierras.m2v" size="3224196134" crc="bd7937ec" sha1="ff15ef50d9b196724af571151e326f0a59da9d50"/>
 		<rom name="singe/tierras/tierras.ogg" size="25383252" crc="f1e8ca0c" sha1="547e5a947a42a093ef4b91f69dca6633f786ae38"/>
 		<rom name="singe/tierras/tierras.txt" size="17" crc="bb39921e" sha1="96ce23535f1ce67b49ecc19db9e3c7d714f372f3"/>
 		<rom name="singe/tierras/tierras.zip" size="1463031" crc="a093faa5" sha1="64c609246c9ae8a4b647c5517ee5d09352593d1d"/>
-		<rom name="singe/wsjr-hd/" size="0" crc="00000000"/>
 		<rom name="singe/wsjr-hd/README.txt" size="1434" crc="974b1944" sha1="6f30a499fc19e1edf675cea58b7cfc51ba0672b6"/>
 		<rom name="singe/wsjr-hd/wsjr-hd.txt" size="14" crc="b6c8ad31" sha1="374bb3b95549214d5656b5480158aca5df7f97e4"/>
 		<rom name="singe/wsjr-hd/wsjr-hd.zip" size="1623806" crc="23a67af3" sha1="e521f89c950e284b035bbde0af0a67c8d1547520"/>
 		<rom name="singe/wsjr-hd/wsjr.m2v" size="1757999078" crc="1972b55d" sha1="b974b8890960649084da11834834b15c6b518706"/>
 		<rom name="singe/wsjr-hd/wsjr.ogg" size="28679176" crc="e7f60dd7" sha1="1a5201062c1118a4272f2635e6a685aed323ff4c"/>
-		<rom name="sound/" size="0" crc="00000000"/>
 		<rom name="sound/ab_alarm1.wav" size="8304" crc="28bc4f2e" sha1="7bc31f484a529494a50fb25fb045b2d9f568b2d4"/>
 		<rom name="sound/ab_alarm2.wav" size="8294" crc="404074d0" sha1="a4c93dc8831509397b71f0e25d6f4e543fb49828"/>
 		<rom name="sound/ab_alarm3.wav" size="8592" crc="d678f828" sha1="f04a30887af88026375557c830ad0c7fd1c853d4"/>
@@ -8626,6 +8266,5 @@
 		<rom name="sound/sd_succeed.wav" size="11782" crc="77ce2283" sha1="87df33ff512dcd73d41158108083c455387ce805"/>
 		<rom name="sound/sda_success_hi.wav" size="11796" crc="bf579648" sha1="28ebdaef0992463b3ad055989dc9c65aa5f2a8dc"/>
 		<rom name="sound/sda_success_lo.wav" size="11822" crc="4b6cc3cf" sha1="d9f3a18b64dabddf459c87b4edd81a4e74699c97"/>
-		<rom name="vldp/" size="0" crc="00000000"/>
 	</game>
 </datafile>
