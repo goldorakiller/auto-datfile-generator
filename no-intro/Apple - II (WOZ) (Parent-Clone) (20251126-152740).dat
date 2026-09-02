@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>221</id>
+		<name>Apple - II (WOZ) (Parent-Clone)</name>
+		<description>Apple - II (WOZ) (Parent-Clone)</description>
+		<version>20251126-152740</version>
+		<date>20251126-152740</date>
+		<author>FakeShemp, MeguCocoa, norkmetnoil577, rarenight</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="Beyond Castle Wolfenstein (USA)">
+		<description>Beyond Castle Wolfenstein (USA)</description>
+		<rom name="Beyond Castle Wolfenstein (USA).woz" size="234756" crc="5ef4f4a5" md5="4306f1381455a8723f42fc98679623c6" sha1="e2f48c957dda8117b8069a17e70b5a7b1465e141"/>
+	</game>
+	<game name="Star Dance (USA)">
+		<description>Star Dance (USA)</description>
+		<rom name="Star Dance (USA).woz" size="101683" crc="61551723" md5="350c905adf55e4a39b91bda2266ba143" sha1="fb89e011fff5dccc442362ace2b526d3a9a36816"/>
+	</game>
+</datafile>

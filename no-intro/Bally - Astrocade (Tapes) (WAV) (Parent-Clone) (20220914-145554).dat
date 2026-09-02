@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>205</id>
+		<name>Bally - Astrocade (Tapes) (WAV) (Parent-Clone)</name>
+		<description>Bally - Astrocade (Tapes) (WAV) (Parent-Clone)</description>
+		<version>20220914-145554</version>
+		<date>20220914-145554</date>
+		<author>MeguCocoa</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="3D Tic-Tac-Toe (USA)">
+		<description>3D Tic-Tac-Toe (USA)</description>
+		<rom name="3D Tic-Tac-Toe (USA).wav" size="442220" crc="308e4ee4" md5="e476995f12fbc704b72c071465d9b153" sha1="f295b72439672b411e3e401927949d4402647776"/>
+	</game>
+</datafile>

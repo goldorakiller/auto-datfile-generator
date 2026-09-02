@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>195</id>
+		<name>Nichibutsu - My Vision (Parent-Clone)</name>
+		<description>Nichibutsu - My Vision (Parent-Clone)</description>
+		<version>20230724-090438</version>
+		<date>20230724-090438</date>
+		<author>Hiccup, MeguCocoa</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="Gomoku Narabe Renju (Japan)">
+		<description>Gomoku Narabe Renju (Japan)</description>
+		<rom name="Gomoku Narabe Renju (Japan).myv" size="16384" crc="11f00f57" md5="2eae556f219fbaf8aeecafa6ad5985c7" sha1="8d93d92d2d560a2701d26a78fff32c3ccd3e8dd5"/>
+	</game>
+	<game name="Hanafuda (Japan)">
+		<description>Hanafuda (Japan)</description>
+		<rom name="Hanafuda (Japan).myv" size="24576" crc="4ab8224b" md5="3258940f6b3d64a500aa5414137c76b1" sha1="d404324ffbff54841e6e0f497199b2456239eeee"/>
+	</game>
+	<game name="Mahjong (Japan)">
+		<description>Mahjong (Japan)</description>
+		<rom name="Mahjong (Japan).myv" size="24576" crc="46bf6c1f" md5="a880ae7e29e33221c7d30f795f01c7cb" sha1="a4505acd7e7c40dd1f0974d0086818a72ea83525"/>
+	</game>
+	<game name="Tsume Shougi (Japan)">
+		<description>Tsume Shougi (Japan)</description>
+		<rom name="Tsume Shougi (Japan).myv" size="24576" crc="b7363738" md5="1a907e2078c04383be77e45277c2ed5f" sha1="cce35889295d4185601958ea3f88dddad22f9728"/>
+	</game>
+</datafile>

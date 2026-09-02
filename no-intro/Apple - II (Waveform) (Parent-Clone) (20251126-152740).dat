@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>221</id>
+		<name>Apple - II (Waveform) (Parent-Clone)</name>
+		<description>Apple - II (Waveform) (Parent-Clone)</description>
+		<version>20251126-152740</version>
+		<date>20251126-152740</date>
+		<author>FakeShemp, MeguCocoa, norkmetnoil577, rarenight</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="Puck Man (Japan)">
+		<description>Puck Man (Japan)</description>
+		<rom name="Puck Man (Japan).wav" size="9585196" crc="ceb62bfa" md5="000e7800f3a47243d485411371c8dfd2" sha1="b4619c553ac22af3ad39fa59b919a57d88940fbe"/>
+	</game>
+	<game name="Yonin Mahjong (Japan)">
+		<description>Yonin Mahjong (Japan)</description>
+		<rom name="Yonin Mahjong (Japan).wav" size="6119523" crc="3318254a" md5="ff50ad20ca17090e8b7abe7fda25e91d" sha1="348fe1a7f135bbc46e2ba24db4a791a185b95547"/>
+	</game>
+</datafile>

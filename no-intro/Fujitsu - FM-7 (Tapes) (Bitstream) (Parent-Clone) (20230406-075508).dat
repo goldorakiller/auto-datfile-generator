@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>410</id>
+		<name>Fujitsu - FM-7 (Tapes) (Bitstream) (Parent-Clone)</name>
+		<description>Fujitsu - FM-7 (Tapes) (Bitstream) (Parent-Clone)</description>
+		<version>20230406-075508</version>
+		<date>20230406-075508</date>
+		<author>FakeShemp, MeguCocoa</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="Arranger II (Japan)">
+		<description>Arranger II (Japan)</description>
+		<rom name="Arranger II (Japan).t77" size="378822" crc="8f0d8a0d" md5="16d7d72e8c582653d65ed66eacc836e1" sha1="22330610d43a7d4ac96b8aa80e1115b51a0f7160"/>
+	</game>
+</datafile>

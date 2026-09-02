@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>42</id>
+		<name>Commodore - Commodore 64 (Headerless) (Parent-Clone)</name>
+		<description>Commodore - Commodore 64 (Headerless) (Parent-Clone)</description>
+		<version>20260410-230500</version>
+		<date>20260410-230500</date>
+		<author>baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, SonGoku, xuom2</author>
+		<url>https://www.no-intro.org</url>
+	</header>
+	<game name="Bis Plus Cartridge (Poland) (En) (Program) (2K)">
+		<description>Bis Plus Cartridge (Poland) (En) (Program) (2K)</description>
+		<rom name="Bis Plus Cartridge (Poland) (En) (Program) (2K).bin" size="2048" crc="5d4815e6" md5="b597edd2b02150f609b3c3d0fe3816c0" sha1="b4cf453a3f919b52ee0eca51a3e8e1e12ef04a0c"/>
+	</game>
+	<game name="Gorf (USA, Europe)">
+		<description>Gorf (USA, Europe)</description>
+		<rom name="Gorf (USA, Europe).crt" size="16384" crc="33812a19" md5="04da026b235cbdc7efa4274d6c736817" sha1="4d24d5ed3d8b38235d9ae5965b675ffece0981cc"/>
+	</game>
+	<game name="Gridrunner (USA, Europe)">
+		<description>Gridrunner (USA, Europe)</description>
+		<rom name="Gridrunner (USA, Europe).crt" size="8192" crc="12f36a09" md5="20f4ce80b6eb3e05f4fcf1686192a8e1" sha1="218625325984ebdef88a5b56bc81bcff229d61db"/>
+	</game>
+	<game name="Lazarian (USA, Europe)">
+		<description>Lazarian (USA, Europe)</description>
+		<rom name="Lazarian (USA, Europe).crt" size="16384" crc="aa5d27d4" md5="986467c4848b5fd9e13cb61e8c7d1aeb" sha1="cf3dedd23375d51c11dbac60167031e6fb8a6a08"/>
+	</game>
+	<game name="Star Ranger (USA, Europe)">
+		<description>Star Ranger (USA, Europe)</description>
+		<rom name="Star Ranger (USA, Europe).crt" size="16384" crc="6305847e" md5="6dda6c4c05fd82749e367a452297f442" sha1="a4e63c7c130f3e6ef3b89ec86888b8dda7ec28a4"/>
+	</game>
+	<game name="Tooth Invaders (USA, Europe)">
+		<description>Tooth Invaders (USA, Europe)</description>
+		<rom name="Tooth Invaders (USA, Europe).bin" size="16384" crc="06d63bc2" md5="33b8940516ff21c5390a2a08c9dc4c6a" sha1="75ece1d16cc635734739dafd4c836222c99ded03"/>
+	</game>
+	<game name="Turbo Cartridge C64-128 (Poland) (Program)">
+		<description>Turbo Cartridge C64-128 (Poland) (Program)</description>
+		<rom name="Turbo Cartridge C64-128 (Poland) (Program).bin" size="4096" crc="2dbd4cb0" md5="a4a0fcebfe58202cff06f7f4e8d501db" sha1="77b0997a799819143cecd7660b74518acf1b40f7"/>
+	</game>
+</datafile>

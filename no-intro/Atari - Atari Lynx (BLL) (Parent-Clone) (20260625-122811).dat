@@ -1,0 +1,388 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
+	<header>
+		<id>30</id>
+		<name>Atari - Atari Lynx (BLL) (Parent-Clone)</name>
+		<description>Atari - Atari Lynx (BLL) (Parent-Clone)</description>
+		<clrmamepro header="No-Intro_LNX.xml"/>
+		<romcenter plugin="lynx.dll"/>
+		<version>20260625-122811</version>
+		<date>20260625-122811</date>
+		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
+		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
+	</header>
+	<game name="2048 (World) (Aftermarket) (Unl)">
+		<description>2048 (World) (Aftermarket) (Unl)</description>
+		<rom name="2048 (World) (Aftermarket) (Unl).bll" size="39209" crc="2f5c3e31" md5="6d9a6d82dfea445b09065ebd33b9c679" sha1="a40ecdc1e2ed9585ba7d582b960ac3c7f96cdf08"/>
+	</game>
+	<game name="Angry Motes (World) (Aftermarket) (Unl)">
+		<description>Angry Motes (World) (Aftermarket) (Unl)</description>
+		<rom name="Angry Motes (World) (Aftermarket) (Unl).bll" size="24659" crc="a6ee8f9e" md5="56f90941e34d3bc030ce57140fd4d360" sha1="3d6f6f63775004d4d7febfcf9434ccd949800857"/>
+	</game>
+	<game name="Atari Tabletops Collection (World) (v1.1) (Aftermarket) (Unl)">
+		<description>Atari Tabletops Collection (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Atari Tabletops Collection (World) (v1.1) (Aftermarket) (Unl).bll" size="25701" crc="46687d65" md5="3b39c02712fbe02d47431c2f42eb1b15" sha1="2e6f19589c1d22eac8af6f868981a067b8614369"/>
+	</game>
+	<game name="Atari Tabletops Collection (World) (Aftermarket) (Unl)" cloneof="Atari Tabletops Collection (World) (v1.1) (Aftermarket) (Unl)">
+		<description>Atari Tabletops Collection (World) (Aftermarket) (Unl)</description>
+		<rom name="Atari Tabletops Collection (World) (v1.0) (Aftermarket) (Unl).bll" size="22624" crc="b1d50276" md5="2e4065427aeede3fb1ce61711f6357d6" sha1="2af4c9a2a73170a296c3a3f0e6fdaba4767e839e"/>
+	</game>
+	<game name="Banana Ghost (World) (v0.2) (Proto) (Aftermarket) (Unl)">
+		<description>Banana Ghost (World) (v0.2) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Banana Ghost (World) (v0.2) (Proto) (Aftermarket) (Unl).bll" size="23075" crc="ef39ba78" md5="8ca8072a1dd0ddb5373f28339fd220a4" sha1="b3d0f94b7db2f9365d456eb06d7fd1bf1620068b"/>
+	</game>
+	<game name="Banana Ghost (World) (v0.1) (Proto) (Aftermarket) (Unl)" cloneof="Banana Ghost (World) (v0.2) (Proto) (Aftermarket) (Unl)">
+		<description>Banana Ghost (World) (v0.1) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Banana Ghost (World) (v0.1) (Proto) (Aftermarket) (Unl).bll" size="22804" crc="af7f9c1b" md5="68328ad57c51196a495ef25e8e1fda43" sha1="0f29a97c583707b777238b630213682c8da10c19"/>
+	</game>
+	<game name="Bars (World) (Proto) (Aftermarket) (Unl)">
+		<description>Bars (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Bars (World) (Proto) (Aftermarket) (Unl).bll" size="7774" crc="0653f8df" md5="1b50eff99209bac2423209faca1e032c" sha1="8fceca7352522825a121410fbd36f4f61100dc99"/>
+	</game>
+	<game name="Bathman (World) (Aftermarket) (Unl)">
+		<description>Bathman (World) (Aftermarket) (Unl)</description>
+		<rom name="Bathman (World) (Aftermarket) (Unl).bll" size="31917" crc="d3324da5" md5="6ebe76c451a2497bbb28f6128d074295" sha1="9fa66d060d4ee545ccc29ba41306299c51bf76a0"/>
+	</game>
+	<game name="Battlespace (World) (Demo) (Aftermarket) (Unl)">
+		<description>Battlespace (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Battlespace (World) (Demo) (Aftermarket) (Unl).bll" size="20188" crc="966c2a8e" md5="abe2d432e1fc16e005441ac774d3d522" sha1="f0ecefde1b90a1b14c6c61c22274f2b42915ed9b"/>
+	</game>
+	<game name="Bbomb Bbot (World) (LynxJam 2024) (Aftermarket) (Unl)">
+		<description>Bbomb Bbot (World) (LynxJam 2024) (Aftermarket) (Unl)</description>
+		<rom name="Bbomb Bbot (World) (LynxJam 2024) (Aftermarket) (Unl).bll" size="31959" crc="45ab13fa" md5="5c59def38ce4909cc58db8b907148518" sha1="f4bd7bcbb77b192538592974f1f9bd9ccb232bd3"/>
+	</game>
+	<game name="Beneath Cruel Sky (World) (Demo) (LynxJam 2024) (Aftermarket) (Unl)">
+		<description>Beneath Cruel Sky (World) (Demo) (LynxJam 2024) (Aftermarket) (Unl)</description>
+		<rom name="Beneath Cruel Sky (World) (Demo) (LynxJam 2024) (Aftermarket) (Unl).bll" size="27237" crc="5d45a20f" md5="5e7bdef1bda3f56ed8b9c02dba55f7fe" sha1="2868804de3099685cc2b3af92cd37b382deba6d9"/>
+	</game>
+	<game name="Bitchy (World) (Digital) (Aftermarket) (Unl)">
+		<description>Bitchy (World) (Digital) (Aftermarket) (Unl)</description>
+		<rom name="Bitchy (World) (Digital) (Aftermarket) (Unl).bll" size="38180" crc="a716df9e" md5="423951c6ab079a3ffb5f80a0307a4970" sha1="7fbf32ad5018f59a3eb13b1bfacc8d9e75682c9f"/>
+	</game>
+	<game name="Black Pit (World) (Proto) (Aftermarket) (Unl)">
+		<description>Black Pit (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Black Pit (World) (Proto) (Aftermarket) (Unl).bll" size="30249" crc="7be17a2a" md5="adf59b18cbaa97d147008c17d7532f56" sha1="a05e02d76511e72696da3d3ecc65aa3a229509b3"/>
+	</game>
+	<game name="Blasting Robots (World) (LynxJam 2024) (Aftermarket) (Unl)">
+		<description>Blasting Robots (World) (LynxJam 2024) (Aftermarket) (Unl)</description>
+		<rom name="Blasting Robots (World) (LynxJam 2024) (Aftermarket) (Unl).bll" size="30463" crc="06428d44" md5="347736aa32b573992dca6f9c2c5f269c" sha1="67cb96b52d4d34245c919d782b0aa6f8626cf854"/>
+	</game>
+	<game name="Bobo (World) (Proto) (Aftermarket) (Unl)">
+		<description>Bobo (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Bobo (World) (Proto) (Aftermarket) (Unl).bll" size="23657" crc="4751d420" md5="3a697a28bdf5ed4a3b5a286138f39ad6" sha1="0e1c4f502c72aa4aedee108533d386c17dd587fb"/>
+	</game>
+	<game name="Booster - Xmas Edition (World) (Demo) (Aftermarket) (Unl)">
+		<description>Booster - Xmas Edition (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Booster - Xmas Edition (World) (Demo) (Aftermarket) (Unl).bll" size="34773" crc="f6fb519c" md5="7849a21194572f6374d50ba52f43155f" sha1="b14faf3a804d4dff0d99f807ce1bfc5fc57bb7dc"/>
+	</game>
+	<game name="Booster (World) (v0.3) (Demo) (Aftermarket) (Unl)" cloneof="Booster - Xmas Edition (World) (Demo) (Aftermarket) (Unl)">
+		<description>Booster (World) (v0.3) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Booster (World) (v0.3) (Demo) (Aftermarket) (Unl).bll" size="32782" crc="dad8720b" md5="63a56d689b485df8c8269faf908611b0" sha1="83b67134c4bac0b2e6991f4cdab17a542aba2d84"/>
+	</game>
+	<game name="Burst Bot (World) (LynxJam 2024) (Aftermarket) (Unl)">
+		<description>Burst Bot (World) (LynxJam 2024) (Aftermarket) (Unl)</description>
+		<rom name="Burst Bot (World) (LynxJam 2024) (Aftermarket) (Unl).bll" size="27643" crc="718bb7ea" md5="87e333b2b057e16e8cf60fed33e605dc" sha1="d97bb9a1a244dba5dfa557cbfcd1c7948deb7e2d"/>
+	</game>
+	<game name="Carzilla (World) (v0.4) (Proto) (LynxJam 2024) (Aftermarket) (Unl)">
+		<description>Carzilla (World) (v0.4) (Proto) (LynxJam 2024) (Aftermarket) (Unl)</description>
+		<rom name="Carzilla (World) (v0.4) (Proto) (LynxJam 2024) (Aftermarket) (Unl).bll" size="32813" crc="086cf662" md5="25b8f1254dc3270c693a419546f81590" sha1="065aa3a98d98ae9ed38c9a39e48314890fd7e88e"/>
+	</game>
+	<game name="Castle of Khon-gis, The (World) (Demo) (Aftermarket) (Unl)">
+		<description>Castle of Khon-gis, The (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Castle of Khon-gis, The (World) (Demo) (Aftermarket) (Unl).bll" size="22714" crc="94e0b754" md5="61903373ad694aeff3dd17cb16f155f5" sha1="0c0df25ae5c743458210e67a0c2380066bfed221"/>
+	</game>
+	<game name="Chasm Warden (World) (Proto) (Aftermarket) (Unl)">
+		<description>Chasm Warden (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Chasm Warden (World) (Proto) (Aftermarket) (Unl).bll" size="34466" crc="873d59e6" md5="e5c41086488a68ff2ae0c5e26053908f" sha1="4e480e8cad7d7233c5a5024e4127930af29e2972"/>
+	</game>
+	<game name="Choplifter X (World) (Aftermarket) (Unl)">
+		<description>Choplifter X (World) (Aftermarket) (Unl)</description>
+		<rom name="Choplifter X (World) (Aftermarket) (Unl).bll" size="34464" crc="8b23867e" md5="fe6150443e0bfedd9b627ee31db3bd79" sha1="4e4ed7aaa3997b5c044bf9759f34e3d9e959f183"/>
+	</game>
+	<game name="Choplifter (World) (Demo) (Aftermarket) (Unl)" cloneof="Choplifter X (World) (Aftermarket) (Unl)">
+		<description>Choplifter (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Choplifter (World) (Demo) (Aftermarket) (Unl).bll" size="15805" crc="ea95c004" md5="f0023ddfed214daabb4099de7ef53ab7" sha1="db71d2ccab25b59f86cb381e61d27be9e0c8f027"/>
+	</game>
+	<game name="Clicks! (World) (Aftermarket) (Unl)">
+		<description>Clicks! (World) (Aftermarket) (Unl)</description>
+		<rom name="Clicks! (World) (Aftermarket) (Unl).bll" size="35183" crc="0ecbfe53" md5="6ac055224917fba6b39769f01bddc35e" sha1="140a308a72ed20885def95f15a14ea9eac560e75"/>
+	</game>
+	<game name="Columns (World) (Proto) (Aftermarket) (Unl)">
+		<description>Columns (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Columns (World) (Proto) (Aftermarket) (Unl).bll" size="12383" crc="77b9b738" md5="2cce9de9474b03e9268475ff933a7f4b" sha1="87f2f41d742c80bb64c702119726f8091dcbfbd6"/>
+	</game>
+	<game name="Crate Challenge (World) (v1.1) (Aftermarket) (Unl)">
+		<description>Crate Challenge (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Crate Challenge (World) (v1.1) (Aftermarket) (Unl).bll" size="19085" crc="43e5fc9b" md5="8af7288271d02d9e1796985fbee67954" sha1="4281f40b2885013f11404525e87366ff63bf7db7"/>
+	</game>
+	<game name="Dance, Bro! (World) (Aftermarket) (Unl)">
+		<description>Dance, Bro! (World) (Aftermarket) (Unl)</description>
+		<rom name="Dance, Bro! (World) (Aftermarket) (Unl).bll" size="36433" crc="ba99eea0" md5="59ec0eeae6a1a41023b328d086350390" sha1="a4da788e00cc419e91b8f5acffae6b31ffe3531e"/>
+	</game>
+	<game name="DrunkWitch (World) (Aftermarket) (Unl)">
+		<description>DrunkWitch (World) (Aftermarket) (Unl)</description>
+		<rom name="DrunkWitch (World) (Aftermarket) (Unl).bll" size="37966" crc="098ffd9c" md5="876f6cd47552c892627b9735f210e005" sha1="e6640a77ac5d4acdde3876f6111f531ad9f2ede7"/>
+	</game>
+	<game name="Dungeddon (World) (v1.1) (Aftermarket) (Unl)">
+		<description>Dungeddon (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Dungeddon (World) (v1.1) (Aftermarket) (Unl).bll" size="33256" crc="d7b1ad68" md5="ce90fd4f14202b316135f7c1dbd65e68" sha1="0249ec9c3a0bf251d5ce4591a87eef0fa0717ba4"/>
+	</game>
+	<game name="Dungeddon (World) (Beta) (Aftermarket) (Unl)" cloneof="Dungeddon (World) (v1.1) (Aftermarket) (Unl)">
+		<description>Dungeddon (World) (Beta) (Aftermarket) (Unl)</description>
+		<rom name="Dungeddon (World) (Beta) (Aftermarket) (Unl).bll" size="31906" crc="6f28cbba" md5="d8d8f9d65739168cb5a3b51d59886012" sha1="795effaa848c574eaa6800935f94d753aefe31ad"/>
+	</game>
+	<game name="Escape from Dungeon of Deja Vu (World) (Proto) (Aftermarket) (Unl)">
+		<description>Escape from Dungeon of Deja Vu (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Escape from Dungeon of Deja Vu (World) (Proto) (Aftermarket) (Unl).bll" size="16068" crc="3f566bbc" md5="6a5f47b281db34ef2b93b132c859ed21" sha1="6db275e8274ccc07c1131500be001ad429ee5417"/>
+	</game>
+	<game name="Final Melee (World) (Aftermarket) (Unl)">
+		<description>Final Melee (World) (Aftermarket) (Unl)</description>
+		<rom name="Final Melee (World) (Aftermarket) (Unl).bll" size="44712" crc="c376b766" md5="5a72b44cbc39b308559700bfe65ecad0" sha1="974218648fd079f6130d01f11ab785034801b38a"/>
+	</game>
+	<game name="Fortress Fighter (World) (Proto) (Aftermarket) (Unl)">
+		<description>Fortress Fighter (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Fortress Fighter (World) (Proto) (Aftermarket) (Unl).bll" size="26166" crc="832b400c" md5="cb2508adae92d4eefd4a121f4402bb5a" sha1="3000a9b4be2dba37129fe7981af437159f79e317"/>
+	</game>
+	<game name="Garci (World) (Proto) (Aftermarket) (Unl)">
+		<description>Garci (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Garci (World) (Proto) (Aftermarket) (Unl).bll" size="5602" crc="6fb015fe" md5="c3f372990b0d534604018be4f7d86a9f" sha1="7be0585c428be0511ba1b423c8effc777f950a19"/>
+	</game>
+	<game name="Gnop! (World) (v0.6) (Proto) (Aftermarket) (Unl)">
+		<description>Gnop! (World) (v0.6) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Gnop! (World) (v0.6) (Proto) (Aftermarket) (Unl).bll" size="24424" crc="0087fe65" md5="623354ec6da68ce483feb46063a98022" sha1="7f4a9606af2af5fa748d5b7dc8a6ed78dd328e8c"/>
+	</game>
+	<game name="Gnop! (World) (v0.4) (Proto) (Aftermarket) (Unl)" cloneof="Gnop! (World) (v0.6) (Proto) (Aftermarket) (Unl)">
+		<description>Gnop! (World) (v0.4) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Gnop! (World) (v0.4) (Proto) (Aftermarket) (Unl).bll" size="17643" crc="71c7087d" md5="d54ff8e1150cb60e54d79d534fae458d" sha1="88a91d549c8d49cb1b79e82e4406eb994f39cb84"/>
+	</game>
+	<game name="Grail of the Lava Kingdom, The (World) (Proto) (Aftermarket) (Unl)">
+		<description>Grail of the Lava Kingdom, The (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Grail of the Lava Kingdom, The (World) (Proto) (Aftermarket) (Unl).bll" size="27784" crc="8d47e3fc" md5="bec8a4b26930ca45521795b79c9511c2" sha1="33c14e6a6a2cce7b246318cd81652fdf63151ed2"/>
+	</game>
+	<game name="Grime 6502 (World) (Demo) (Aftermarket) (Unl)">
+		<description>Grime 6502 (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Grime 6502 (World) (Demo) (Aftermarket) (Unl).bll" size="6513" crc="9725b830" md5="b5c5bb7ab797a1ed9447871e8ce33a41" sha1="b18690f439545fb90070736a2571bc4e3894206d"/>
+	</game>
+	<game name="Grogger (World) (Aftermarket) (Unl)">
+		<description>Grogger (World) (Aftermarket) (Unl)</description>
+		<rom name="Grogger (World) (Aftermarket) (Unl).bll" size="38117" crc="0d5d1685" md5="141771cdad713bf84d0fec0ccf7cd44a" sha1="e692840c39058f1c63a34476c95d6fe151b5a311"/>
+	</game>
+	<game name="Grub-O-Grotto (World) (Aftermarket) (Unl)">
+		<description>Grub-O-Grotto (World) (Aftermarket) (Unl)</description>
+		<rom name="Grub-O-Grotto (World) (Aftermarket) (Unl).bll" size="40581" crc="7929f6fd" md5="6c872bdc1db46bd12eaafe69b4d8eca1" sha1="8b3e574a010de32d516fbac32e2141c101a9882a"/>
+	</game>
+	<game name="Hero Dust (World) (Proto) (Aftermarket) (Unl)">
+		<description>Hero Dust (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Hero Dust (World) (Proto) (Aftermarket) (Unl).bll" size="30364" crc="f6b6bc24" md5="bc0866e85e24fe82e2af19ce495bc3d7" sha1="aa4f670d41049baf4d43c82618a4558301c26fcc"/>
+	</game>
+	<game name="Invaders (World) (Demo) (Aftermarket) (Unl)">
+		<description>Invaders (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Invaders (World) (Demo) (Aftermarket) (Unl).bll" size="971" crc="ad1675b6" md5="bcf91588eca2d69019983388ca987f2a" sha1="51a28a60e9fc6c98964d3c3345ce8540cd3f2977"/>
+	</game>
+	<game name="Jelly Beans (World) (Demo) (Aftermarket) (Unl)">
+		<description>Jelly Beans (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Jelly Beans (World) (Demo) (Aftermarket) (Unl).bll" size="31122" crc="0d4c83dd" md5="db958b386e9b3383bf2dd49e0ae496c8" sha1="ee92f805b76ad980c026c8b6efb19b2d9747bf97"/>
+	</game>
+	<game name="Knight Moves (World) (Aftermarket) (Unl)">
+		<description>Knight Moves (World) (Aftermarket) (Unl)</description>
+		<rom name="Knight Moves (World) (Aftermarket) (Unl).bll" size="40137" crc="0d4d1156" md5="85f0417d2f640287df925ce5618749a3" sha1="4818b273b7a4a39aa577bcd520fd733b8a54f2f4"/>
+	</game>
+	<game name="Krow (World) (v1.01) (Demo) (Aftermarket) (Unl)">
+		<description>Krow (World) (v1.01) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Krow (World) (v1.01) (Demo) (Aftermarket) (Unl).bll" size="30795" crc="eb5933fb" md5="4cf9a35d2ec4d0e513432b3279aa3cc8" sha1="f0b83bf6c56ef2db2fb2814aac00f1bf9a0b3678"/>
+	</game>
+	<game name="Limny (World) (Demo) (Aftermarket) (Unl)">
+		<description>Limny (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Limny (World) (Demo) (Aftermarket) (Unl).bll" size="4096" crc="ed32c3e0" md5="957f29fe3fb3ab0d2894d27171a514ae" sha1="5cbe55be14ea4bc4282b45754c73ca8d66e67afe"/>
+	</game>
+	<game name="Mazeemum Deztruktion (World) (Demo) (LynxJam 2024) (Aftermarket) (Unl)">
+		<description>Mazeemum Deztruktion (World) (Demo) (LynxJam 2024) (Aftermarket) (Unl)</description>
+		<rom name="Mazeemum Deztruktion (World) (Demo) (LynxJam 2024) (Aftermarket) (Unl).bll" size="41357" crc="dca5845f" md5="e148711808177d4791c5aaf7354c4208" sha1="246c53965c363cecca96e7a536bf94a1b6c76ba3"/>
+	</game>
+	<game name="Mines 2 (World) (Demo) (Unl)">
+		<description>Mines 2 (World) (Demo) (Unl)</description>
+		<rom name="Mines 2 (World) (Demo) (Unl).bll" size="5087" crc="cb7e0472" md5="3962e56b23312c3bea8d4deaeaeaead6" sha1="2776b2df46da82cc586fc9c739e7d386832631bf"/>
+	</game>
+	<game name="Moon Runner (World) (Proto) (Aftermarket) (Unl)">
+		<description>Moon Runner (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Moon Runner (World) (Proto) (Aftermarket) (Unl).bll" size="19277" crc="554f8b2d" md5="8bcc16c4cebd604aa5ee1506b2d1a71a" sha1="c771f5588b3adde2e21d0bf78b8ce6d8c40e694e"/>
+	</game>
+	<game name="MultiPong 1k (World) (Aftermarket) (Unl)">
+		<description>MultiPong 1k (World) (Aftermarket) (Unl)</description>
+		<rom name="MultiPong 1k (World) (Aftermarket) (Unl).bll" size="1002" crc="18ca8a62" md5="ecc8a80b60be5ec1851667534a2da57f" sha1="1d67efd658d453e968139c50edae9097d919d73b"/>
+	</game>
+	<game name="Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.2) (Aftermarket) (Unl)">
+		<description>Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.2) (Aftermarket) (Unl)</description>
+		<rom name="Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.2) (Aftermarket) (Unl).bll" size="45308" crc="235e70d0" md5="836a13cb5fe90dee942c90f813cdaa70" sha1="71abcaae6c4030f0b7942fde6c438a7beca44184"/>
+	</game>
+	<game name="Nezumi-kun to Poker Shiyouyo (World) (Ja) (Aftermarket) (Unl)" cloneof="Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.2) (Aftermarket) (Unl)">
+		<description>Nezumi-kun to Poker Shiyouyo (World) (Ja) (Aftermarket) (Unl)</description>
+		<rom name="Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.0) (Aftermarket) (Unl).bll" size="46306" crc="5d2a366b" md5="cb0a88e4465d26a41509e9733195b98c" sha1="bc8dd95a6a1ee2cd1529f86b7662261d8f45b291"/>
+	</game>
+	<game name="Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.1) (Aftermarket) (Unl)" cloneof="Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.2) (Aftermarket) (Unl)">
+		<description>Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.1) (Aftermarket) (Unl).bll" size="45086" crc="99a6bc48" md5="8a7fc5f2c2afd205aa1edad6f9bc7210" sha1="e2a88960325e5e7c3b81c89aba876c24549a16eb"/>
+	</game>
+	<game name="Othello (World) (Aftermarket) (Unl)">
+		<description>Othello (World) (Aftermarket) (Unl)</description>
+		<rom name="Othello (World) (Aftermarket) (Unl).bll" size="23267" crc="8a0e684d" md5="d92d327e7533f83439ae766fbe52772c" sha1="8080497c6b2a89796a4897a512003e8227f7daa6"/>
+	</game>
+	<game name="Paraply (World) (Demo) (Aftermarket) (Unl)">
+		<description>Paraply (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Paraply (World) (Demo) (Aftermarket) (Unl).bll" size="18528" crc="a48a654b" md5="5702abb96f370cf720529eae5b08d264" sha1="8e03d63506760581ce2bff4ec9f0d5c957be136d"/>
+	</game>
+	<game name="Poachin' Jeff (World) (Proto) (Aftermarket) (Unl)">
+		<description>Poachin' Jeff (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Poachin' Jeff (World) (Proto) (Aftermarket) (Unl).bll" size="38006" crc="e964e2bd" md5="f493f7c59eb8ffc7ec2ffd6f532c9100" sha1="0958e622d5f2d49428c1f2133a2820c1c0f3ee1d"/>
+	</game>
+	<game name="Pong-4-Fun (World) (Proto) (Aftermarket) (Unl)">
+		<description>Pong-4-Fun (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Pong-4-Fun (World) (Proto) (Aftermarket) (Unl).bll" size="7905" crc="80727630" md5="d9897fcc4f0b092c70312b1e856c1d0b" sha1="6fef5e203b45a691c2764c3628c3e9b5f2ed1efe"/>
+	</game>
+	<game name="Puyo Puyo (World) (Demo 2) (Aftermarket) (Unl)">
+		<description>Puyo Puyo (World) (Demo 2) (Aftermarket) (Unl)</description>
+		<rom name="Puyo Puyo (World) (Demo 2) (Aftermarket) (Unl).bll" size="15583" crc="31ef2975" md5="203c65c737495060ce410ea2df0e863d" sha1="b668dca803489ae1263d8769573f98454e2caae9"/>
+	</game>
+	<game name="Puyo Puyo (World) (Demo 1) (Aftermarket) (Unl)" cloneof="Puyo Puyo (World) (Demo 2) (Aftermarket) (Unl)">
+		<description>Puyo Puyo (World) (Demo 1) (Aftermarket) (Unl)</description>
+		<rom name="Puyo Puyo (World) (Demo 1) (Aftermarket) (Unl).bll" size="10282" crc="937fca1e" md5="00d3ecea7d8ee4c14078d8309b9bb587" sha1="28441b3a1e6e7844f2038aaf56ba729a38acee73"/>
+	</game>
+	<game name="Quantum Invasion (World) (LynxJam 2024) (Aftermarket) (Unl)">
+		<description>Quantum Invasion (World) (LynxJam 2024) (Aftermarket) (Unl)</description>
+		<rom name="Quantum Invasion (World) (LynxJam 2024) (Aftermarket) (Unl).bll" size="28281" crc="0783b497" md5="a68e975232e8676ccad03426c2bea5a7" sha1="19c8c45c1c6eba02bc8cd62cddd277349705a28b"/>
+	</game>
+	<game name="Rainbow (World) (Proto) (Aftermarket) (Unl)">
+		<description>Rainbow (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Rainbow (World) (Proto) (Aftermarket) (Unl).bll" size="48608" crc="7662151d" md5="7e9374cc90cd22c6e5528452e8a6e387" sha1="56485537a996a77bba3cf2608e98aa44f3aac941"/>
+	</game>
+	<game name="Rapid Racer (World) (Demo) (Aftermarket) (Unl)">
+		<description>Rapid Racer (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Rapid Racer (World) (Demo) (Aftermarket) (Unl).bll" size="35179" crc="9af9fed5" md5="e1d8b907ca47a48d662c35cade350592" sha1="ccf2f94d6d795be2ba36f7f017dd35206e9bc001"/>
+	</game>
+	<game name="Red Square (World) (v1.1) (Aftermarket) (Unl)">
+		<description>Red Square (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Red Square (World) (v1.1) (Aftermarket) (Unl).bll" size="25334" crc="65ad3405" md5="bfbbbacb017be04d4b460903785c1bc6" sha1="9fb81a7d4e2e77889ebec51a2bfdbd3708ff1f98"/>
+	</game>
+	<game name="Red Square (World) (Aftermarket) (Unl)" cloneof="Red Square (World) (v1.1) (Aftermarket) (Unl)">
+		<description>Red Square (World) (Aftermarket) (Unl)</description>
+		<rom name="Red Square (World) (v1.0) (Aftermarket) (Unl).bll" size="25334" crc="8310c8fa" md5="53d3253805facf3f09be6c4c6c406099" sha1="46bf5985a1d1388f8525ab2630c80d75c292e51a"/>
+	</game>
+	<game name="Reussite (World) (Demo) (Aftermarket) (Unl)">
+		<description>Reussite (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Reussite (World) (Demo) (Aftermarket) (Unl).bll" size="41045" crc="9e479001" md5="dee2c87d0583a04da1e6fa196ffa7d6c" sha1="2768627ef5f52f5f991fb897f0ea2bed602a986b"/>
+	</game>
+	<game name="Robo Escape (World) (LynxJam 2024) (Aftermarket) (Unl)">
+		<description>Robo Escape (World) (LynxJam 2024) (Aftermarket) (Unl)</description>
+		<rom name="Robo Escape (World) (LynxJam 2024) (Aftermarket) (Unl).bll" size="35143" crc="f6f47b89" md5="68c181aff30d18ad99c716885f0d99e1" sha1="f2beae683ea777425c929bebb6eb89ac52147d05"/>
+	</game>
+	<game name="Robo Reacher (World) (v2.0) (Aftermarket) (Unl)">
+		<description>Robo Reacher (World) (v2.0) (Aftermarket) (Unl)</description>
+		<rom name="Robo Reacher (World) (v2.0) (Aftermarket) (Unl).bll" size="39930" crc="9590206b" md5="9e2f7c52af5224bd7b3dc6f490bf4494" sha1="6512f451aa78c119459ee863227213a57ef25af2"/>
+	</game>
+	<game name="Running Knight (World) (Aftermarket) (Unl)">
+		<description>Running Knight (World) (Aftermarket) (Unl)</description>
+		<rom name="Running Knight (World) (Aftermarket) (Unl).bll" size="28112" crc="15ca97c2" md5="2e20ddefd2e48c13a594235e487261c8" sha1="d71989fe3cb1d14904cf1519dd5e5d729912c77b"/>
+	</game>
+	<game name="Santa Factory (World) (Aftermarket) (Unl)">
+		<description>Santa Factory (World) (Aftermarket) (Unl)</description>
+		<rom name="Santa Factory (World) (Aftermarket) (Unl).bll" size="28325" crc="964f503f" md5="7d3e95bd889393c3dcf92fa20b379d92" sha1="7184d8c75e255af9b35120f47fc5029fdc42beae"/>
+	</game>
+	<game name="Silly Archery (World) (Aftermarket) (Unl)">
+		<description>Silly Archery (World) (Aftermarket) (Unl)</description>
+		<rom name="Silly Archery (World) (Aftermarket) (Unl).bll" size="24792" crc="b7248686" md5="16e0137c2db4aaf946913cf06b8ca7cc" sha1="acb8aec6a9510a9e8737fbde28f721321c23acc7"/>
+	</game>
+	<game name="Snake (World) (Proto) (Aftermarket) (Unl)">
+		<description>Snake (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Snake (World) (Proto) (Aftermarket) (Unl).bll" size="16118" crc="793d3a6f" md5="fc8557f2e7391cca8b9d9761ce716a45" sha1="4ab2f8c3f5fc6829546a884818b561d51aca7041"/>
+	</game>
+	<game name="Snow Ball (World) (Aftermarket) (Unl)">
+		<description>Snow Ball (World) (Aftermarket) (Unl)</description>
+		<rom name="Snow Ball (World) (Aftermarket) (Unl).bll" size="8729" crc="eda71410" md5="64fecfe4565f157bff215bed329dd830" sha1="d56aa560f2d38361e295e96905df32f8d981728c"/>
+	</game>
+	<game name="Solitaire (World) (Demo) (Inga) (Aftermarket) (Unl)">
+		<description>Solitaire (World) (Demo) (Inga) (Aftermarket) (Unl)</description>
+		<rom name="Solitaire (World) (Demo) (Inga) (Aftermarket) (Unl).bll" size="14013" crc="e7bb6349" md5="e864cde39b217c5972771a9998dd267a" sha1="b5c84bee4774ca3bd55872e20f42a73a8592d3b1"/>
+	</game>
+	<game name="Sorrow (World) (Proto) (Aftermarket) (Unl)">
+		<description>Sorrow (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Sorrow (World) (Proto) (Aftermarket) (Unl).bll" size="31278" crc="9ceede17" md5="d73d7c0d702f387167af0947ac795ec0" sha1="65aa93c41ffa26da3573bfff8576759390b5fe5d"/>
+	</game>
+	<game name="Space Domino (World) (Aftermarket) (Unl)">
+		<description>Space Domino (World) (Aftermarket) (Unl)</description>
+		<rom name="Space Domino (World) (Aftermarket) (Unl).bll" size="33520" crc="9ee8ddf8" md5="07e02e53f82c55f4fb209c4a64edce6d" sha1="11af7d96409bb2e5d96514f11d291eae40ad45c2"/>
+	</game>
+	<game name="Star Raiders (World) (Demo 2) (Aftermarket) (Unl)">
+		<description>Star Raiders (World) (Demo 2) (Aftermarket) (Unl)</description>
+		<rom name="Star Raiders (World) (Demo 2) (Aftermarket) (Unl).bll" size="15418" crc="28a1678c" md5="e3bec70a16da11ffb88e66715a1534e3" sha1="f8bc666a71b49d20fdb13b49a910852eb2cf21b3"/>
+	</game>
+	<game name="Star Raiders (World) (Demo 1) (Aftermarket) (Unl)" cloneof="Star Raiders (World) (Demo 2) (Aftermarket) (Unl)">
+		<description>Star Raiders (World) (Demo 1) (Aftermarket) (Unl)</description>
+		<rom name="Star Raiders (World) (Demo 1) (Aftermarket) (Unl).bll" size="15464" crc="b526fdc7" md5="58800f2517b43d37a77081f2d20e1344" sha1="4b362bfcd83c9f8b3fc05bce02756485349066c4"/>
+	</game>
+	<game name="Sudoku (World) (Proto) (Aftermarket) (Unl)">
+		<description>Sudoku (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Sudoku (World) (Proto) (Aftermarket) (Unl).bll" size="9019" crc="735d6d45" md5="14bda07cbb3395c544dca8d12233b34f" sha1="f1c087e80a8ebd3cfd9d09b7a9aaa0e6f15781e4"/>
+	</game>
+	<game name="Swaping Tiles (World) (Proto) (Aftermarket) (Unl)">
+		<description>Swaping Tiles (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Swaping Tiles (World) (Proto) (Aftermarket) (Unl).bll" size="35184" crc="8cfb68ab" md5="51b024ac3dc0c8cd6c0d686f38954704" sha1="437cc86fd708dbb5d18ac5726675ba24a12da041"/>
+	</game>
+	<game name="T-Tris (World) (Pirate)">
+		<description>T-Tris (World) (Pirate)</description>
+		<rom name="T-Tris (World) (Pirate).bll" size="15914" crc="2708643d" md5="dbc654e957184ff2ad67c23fbe181540" sha1="75c2f2853996dcaf73a014a6f03b6590108b8d59"/>
+	</game>
+	<game name="T-Tris (World) (Pirate) (Alt)" cloneof="T-Tris (World) (Pirate)">
+		<description>T-Tris (World) (Pirate) (Alt)</description>
+		<rom name="T-Tris (World) (Pirate) (Alt).bll" size="15700" crc="a261fcbc" md5="1b6a8a0b7f80332e9c7dfecaded8683e" sha1="d337d0b38e22f42c92691ad2a80d48125d908b7f"/>
+	</game>
+	<game name="Teen Dance (World) (Aftermarket) (Unl)">
+		<description>Teen Dance (World) (Aftermarket) (Unl)</description>
+		<rom name="Teen Dance (World) (Aftermarket) (Unl).bll" size="40195" crc="0e65c881" md5="3285a3d7c541d750a3b4e99940ad6ddf" sha1="52401f6b6b69061d4ecea4e591052d52ac510927"/>
+	</game>
+	<game name="Tetrisnoid (World) (Proto) (Aftermarket) (Unl)">
+		<description>Tetrisnoid (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Tetrisnoid (World) (Proto) (Aftermarket) (Unl).bll" size="34750" crc="84aac886" md5="663d6af8569172072f56ad8228496c68" sha1="a59b95e0b5dfd5f5cbb625038401370f9b16b31a"/>
+	</game>
+	<game name="Town Patrol (World) (v0.4) (Proto) (Aftermarket) (Unl)">
+		<description>Town Patrol (World) (v0.4) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Town Patrol (World) (v0.4) (Proto) (Aftermarket) (Unl).bll" size="39725" crc="b6561d18" md5="a1c294b432f97edb1236c1021cd544ee" sha1="ca46863ded6586564318b46ef1e5610803482e9c"/>
+	</game>
+	<game name="Town Patrol (World) (v0.3) (Proto) (LynxJam 2024) (Aftermarket) (Unl)" cloneof="Town Patrol (World) (v0.4) (Proto) (Aftermarket) (Unl)">
+		<description>Town Patrol (World) (v0.3) (Proto) (LynxJam 2024) (Aftermarket) (Unl)</description>
+		<rom name="Town Patrol (World) (v0.3) (Proto) (LynxJam 2024) (Aftermarket) (Unl).bll" size="37674" crc="c21267c1" md5="9d6aa5334ff2159a1a7ddef3477bca6f" sha1="7622eaab161365d169a834a8d4bf1b5fcb3bd2cb"/>
+	</game>
+	<game name="Tron-6-Fun (World) (Proto) (Aftermarket) (Unl)">
+		<description>Tron-6-Fun (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Tron-6-Fun (World) (Proto) (Aftermarket) (Unl).bll" size="30173" crc="0d44bf68" md5="50606b4412d934732fa8d218b121e0cd" sha1="bcaa914add36b771f33763767349f38ec45dc209"/>
+	</game>
+	<game name="Twitter Panic (World) (Proto) (Aftermarket) (Unl)">
+		<description>Twitter Panic (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Twitter Panic (World) (Proto) (Aftermarket) (Unl).bll" size="29194" crc="6b1d45e1" md5="1fd8202674efcc57c7850f9424d5961c" sha1="40836b04b40d249f39bc5dbbeda28e37a46dde43"/>
+	</game>
+	<game name="Undergrounders (World) (Demo) (Aftermarket) (Unl)">
+		<description>Undergrounders (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Undergrounders (World) (Demo) (Aftermarket) (Unl).bll" size="30144" crc="b3f9a0fd" md5="84bcb888d7e6e0761aef24902c61053e" sha1="61295902c13373c3e349fde1fe7df7f2ef79ace0"/>
+	</game>
+	<game name="YNXA - Leaf and the Guardians of Time (World) (Proto 2) (LynxJam23) (Aftermarket) (Unl)">
+		<description>YNXA - Leaf and the Guardians of Time (World) (Proto 2) (LynxJam23) (Aftermarket) (Unl)</description>
+		<rom name="YNXA - Leaf and the Guardians of Time (World) (Proto 2) (LynxJam23) (Aftermarket) (Unl).bll" size="37427" crc="d46ac6c4" md5="1fbbce131f4bad50d9a5eb6d3fce15b5" sha1="2751a06b1a192266d5019a13e74fae8018596af0"/>
+	</game>
+	<game name="YNXA - Leaf and the Guardians of Time (World) (Proto 1) (Aftermarket) (Unl)" cloneof="YNXA - Leaf and the Guardians of Time (World) (Proto 2) (LynxJam23) (Aftermarket) (Unl)">
+		<description>YNXA - Leaf and the Guardians of Time (World) (Proto 1) (Aftermarket) (Unl)</description>
+		<rom name="YNXA - Leaf and the Guardians of Time (World) (Proto 1) (Aftermarket) (Unl).bll" size="36131" crc="ae7e91b7" md5="9d5b11040da0276971174e7ba9b4a7c9" sha1="1d4ddd41f8f4e034e8e19b51510ce4d5377e3276"/>
+	</game>
+	<game name="Z.A.P. (World) (Aftermarket) (Unl)">
+		<description>Z.A.P. (World) (Aftermarket) (Unl)</description>
+		<rom name="Z.A.P. (World) (Aftermarket) (Unl).bll" size="24608" crc="6673cd82" md5="10f834664f6048a4dbc2d140d165468e" sha1="eb1b7f01a1e383aa610c00472a02b240e00c7e35"/>
+	</game>
+	<game name="Zaku Puzzle (World) (Demo) (Aftermarket) (Unl)">
+		<description>Zaku Puzzle (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Zaku Puzzle (World) (Demo) (Aftermarket) (Unl).bll" size="34240" crc="7ef919a8" md5="474465b15630c6124a39f9b9811e67ce" sha1="11a75dedccf3fef041ade92ec94866370d6f56a7"/>
+	</game>
+	<game name="Zap (World) (Demo) (Aftermarket) (Unl)">
+		<description>Zap (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Zap (World) (Demo) (Aftermarket) (Unl).bll" size="11268" crc="ca40409b" md5="957145ed0902d272d87844185f3d77a3" sha1="c015d76e4ba00fa45f64084fb9c592a385842fa4"/>
+	</game>
+</datafile>
