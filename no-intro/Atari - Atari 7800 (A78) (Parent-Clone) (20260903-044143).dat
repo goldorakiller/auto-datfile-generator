@@ -1,0 +1,480 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
+	<header>
+		<id>74</id>
+		<name>Atari - Atari 7800 (A78) (Parent-Clone)</name>
+		<description>Atari - Atari 7800 (A78) (Parent-Clone)</description>
+		<clrmamepro header="No-Intro_A7800.xml"/>
+		<version>20260903-044143</version>
+		<date>20260903-044143</date>
+		<author>Arctic Circle System, BigFred, bikerspade, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, psykopat, rarenight, relax, smesgr, SonGoku</author>
+		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
+	</header>
+	<game name="1942 (World) (Aftermarket) (Unl)">
+		<description>1942 (World) (Aftermarket) (Unl)</description>
+		<rom name="1942 (World) (Aftermarket) (Unl).a78" size="262272" crc="c44cd08a" md5="9c1ac6c8a85b4787d4c521189485fa98" sha1="c7d22ecdcd7f86b1f114d769cd053c568188bda9"/>
+	</game>
+	<game name="1942 (Extended) (World) (Aftermarket) (Unl)" cloneof="1942 (World) (Aftermarket) (Unl)">
+		<description>1942 (Extended) (World) (Aftermarket) (Unl)</description>
+		<rom name="1942 (Extended) (World) (Aftermarket) (Unl).a78" size="262272" crc="c87f030c" md5="bee92404d49c2136188b296680509874" sha1="eaacb56bbcc5e534c12f45de3012681c4749511b"/>
+	</game>
+	<game name="1942 (Small) (World) (Aftermarket) (Unl)" cloneof="1942 (World) (Aftermarket) (Unl)">
+		<description>1942 (Small) (World) (Aftermarket) (Unl)</description>
+		<rom name="1942 (Small) (World) (Aftermarket) (Unl).a78" size="131200" crc="f8a336f7" md5="2c709a3d4a4c10582ae9beaa544ab748" sha1="934aa6bd79b6aa957da2ee3b97dc3c8ad2849530"/>
+	</game>
+	<game name="2048 (World) (Aftermarket) (Unl)">
+		<description>2048 (World) (Aftermarket) (Unl)</description>
+		<rom name="2048 (World) (Aftermarket) (Unl).a78" size="49280" crc="118ea84d" md5="a43ae0a26441ff804a9fbaf094a3533d" sha1="99ed61f87bad6e119c1ef69099e4c348b3bbf143"/>
+	</game>
+	<game name="Alpha Race (World) (Aftermarket) (Unl)">
+		<description>Alpha Race (World) (Aftermarket) (Unl)</description>
+		<rom name="Alpha Race (World) (Aftermarket) (Unl).a78" size="32896" crc="bdecce7f" md5="4d45fa7989bb3c026187e5650529df54" sha1="d1be28ca38864170558c671fdcbf7f2a091b34ef"/>
+	</game>
+	<game name="Arkanoid (World) (Demo) (Aftermarket) (Unl)">
+		<description>Arkanoid (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Arkanoid (World) (Demo) (Aftermarket) (Unl).a78" size="131200" crc="731bbe78" md5="1b33cec8a5d762f50f3171871855c26e" sha1="3b8926972ea3232b579f8799eee26b07f5afef26"/>
+	</game>
+	<game name="Armor Attack II (World) (Aftermarket) (Unl)">
+		<description>Armor Attack II (World) (Aftermarket) (Unl)</description>
+		<rom name="Armor Attack II (World) (Aftermarket) (Unl).a78" size="16512" crc="680f6143" md5="87d641310f0ce3d6347d3d1d56e96404" sha1="a5893a6738580d7a0a8f3dc2d3600d424a79c8b0"/>
+	</game>
+	<game name="Asteroids Deluxe (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Asteroids Deluxe (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Asteroids Deluxe (World) (NTSC) (Aftermarket) (Unl).a78" size="32896" crc="6e9b0bd8" md5="245c582e77c6be151b651ebb3dfc38c4" sha1="8eabd12465207566499c30ded9a6fda8183de546"/>
+	</game>
+	<game name="Asteroids Deluxe (World) (PAL) (Aftermarket) (Unl)" cloneof="Asteroids Deluxe (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Asteroids Deluxe (World) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Asteroids Deluxe (World) (PAL) (Aftermarket) (Unl).a78" size="32896" crc="93ca7c33" md5="6161241275a3a2470844b70cddb75ec9" sha1="287d1032b1b8fb32682bb35ba12623d8d68978af"/>
+	</game>
+	<game name="Astro Blaster (World) (Aftermarket) (Unl)">
+		<description>Astro Blaster (World) (Aftermarket) (Unl)</description>
+		<rom name="Astro Blaster (World) (Aftermarket) (Unl).a78" size="49280" crc="bbb02d92" md5="2fcb54bb5837b01bb0d33fb734c263da" sha1="6e8668df288619c468dd2dce9e87e6af8b74e794"/>
+	</game>
+	<game name="Astro Fighter (World) (Aftermarket) (Unl)">
+		<description>Astro Fighter (World) (Aftermarket) (Unl)</description>
+		<rom name="Astro Fighter (World) (Aftermarket) (Unl).a78" size="32896" crc="a6d77f38" md5="5b75dae35d5822a33998ef3ddf69b4c0" sha1="6ffde355256a75492d67259d5a5edff83d9a9046"/>
+	</game>
+	<game name="Atlas (World) (Aftermarket) (Unl)">
+		<description>Atlas (World) (Aftermarket) (Unl)</description>
+		<rom name="Atlas (World) (Aftermarket) (Unl).a78" size="32896" crc="41d5f6e5" md5="36afd4aef333dea8c870e057b6b648f8" sha1="54f0b1ec68c6161131e68b442218cd2443cb1ed3"/>
+	</game>
+	<game name="Attack of the PETSCII Robots (World) (Demo) (Aftermarket) (Unl)">
+		<description>Attack of the PETSCII Robots (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Attack of the PETSCII Robots (World) (Demo) (Aftermarket) (Unl).a78" size="262272" crc="c8b83c98" md5="6647ae6ebd3961ec0f15fc388baa1077" sha1="ad90cfb70143e5c06d3b4300484895ce82ff9048"/>
+	</game>
+	<game name="Baby Pac-Man (World) (Digital) (Aftermarket) (Unl)">
+		<description>Baby Pac-Man (World) (Digital) (Aftermarket) (Unl)</description>
+		<rom name="Baby Pac-Man (World) (Digital) (Aftermarket) (Unl).a78" size="49280" crc="e2b65b38" md5="5dda1ced1bc1bc46bdacf3791d9be50e" sha1="f1d24d06642f08840e99b09a4d50594a09a7b8c2"/>
+	</game>
+	<game name="Baby Pac-Man (World) (2019-02-09) (Beta) (Aftermarket) (Unl)" cloneof="Baby Pac-Man (World) (Digital) (Aftermarket) (Unl)">
+		<description>Baby Pac-Man (World) (2019-02-09) (Beta) (Aftermarket) (Unl)</description>
+		<rom name="Baby Pac-Man (World) (2019-02-09) (Beta) (Aftermarket) (Unl).a78" size="49280" crc="4e07c0bc" md5="1d10c83792c1c1a4707cd3f6ac20d1ea" sha1="8443560fc1b1029800dab7d9dc16702a7ab4e2a9"/>
+	</game>
+	<game name="Bentley Bear's Crystal Quest (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Bentley Bear's Crystal Quest (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Bentley Bear's Crystal Quest (World) (NTSC) (Aftermarket) (Unl).a78" size="147584" crc="0c7355d4" md5="164f7319240747bafcabef6b45ca0d87" sha1="992d0db39826ee844541a95c27507be8522acfe0" status="verified"/>
+	</game>
+	<game name="bonQ (World) (Aftermarket) (Unl)">
+		<description>bonQ (World) (Aftermarket) (Unl)</description>
+		<rom name="bonQ (World) (Aftermarket) (Unl).a78" size="49280" crc="cc71caa1" md5="7ba3e43467603413c234518918d9fb76" sha1="ba493e783db0768e79a11759d03cb219adc048d2"/>
+	</game>
+	<game name="Boom! (World) (Demo) (Aftermarket) (Unl)">
+		<description>Boom! (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Boom! (World) (Demo) (Aftermarket) (Unl).a78" size="49280" crc="93432fc4" md5="4a726be7d1537da1cfa8ca8c273bcfe1" sha1="6bfff60e9df8609a2fd3326d0fc4de4afec269c5"/>
+	</game>
+	<game name="Cartesian Chaos (World) (Aftermarket) (Unl)">
+		<description>Cartesian Chaos (World) (Aftermarket) (Unl)</description>
+		<rom name="Cartesian Chaos (World) (Aftermarket) (Unl).a78" size="32896" crc="29a44422" md5="313f715318f0163385cfaa028f52389b" sha1="0c10daf78c985e5a3c9cc660104e806cfc28c1de"/>
+	</game>
+	<game name="Crazy Bricks (World) (Aftermarket) (Unl)">
+		<description>Crazy Bricks (World) (Aftermarket) (Unl)</description>
+		<rom name="Crazy Bricks (World) (Aftermarket) (Unl).a78" size="16512" crc="f8dafbe6" md5="a73306eaf2a2a6f697f3e5ae05e7280a" sha1="1be686cde8c58755e18efe27224f67db43dd5ceb"/>
+	</game>
+	<game name="Danger Zone (World) (Demo) (2020-12-31) (Aftermarket) (Unl)">
+		<description>Danger Zone (World) (Demo) (2020-12-31) (Aftermarket) (Unl)</description>
+		<rom name="Danger Zone (World) (Demo) (2020-12-31) (Aftermarket) (Unl).a78" size="49280" crc="68bcac26" md5="c10d05a225c8c5888104a372e98df2ab" sha1="4ab0e9ccf2870a320bf3362e5f56debfeef979e9"/>
+	</game>
+	<game name="DeathMerchant (World) (v1.30) (Digital) (Aftermarket) (Unl)">
+		<description>DeathMerchant (World) (v1.30) (Digital) (Aftermarket) (Unl)</description>
+		<rom name="DeathMerchant (World) (v1.30) (Digital) (Aftermarket) (Unl).a78" size="49280" crc="57adcd6b" md5="596297af60645bf3db97e4c78a21f526" sha1="e01c232f1c51ad1a7f15b0ec5ecc1a47271bc232"/>
+	</game>
+	<game name="Destroyer 7800 (World) (v1.03) (Aftermarket) (Unl)">
+		<description>Destroyer 7800 (World) (v1.03) (Aftermarket) (Unl)</description>
+		<rom name="Destroyer 7800 (World) (v1.03) (Aftermarket) (Unl).a78" size="32896" crc="48546b5c" md5="0cb52df4e9b2b1d5fc07d985152cb5c8" sha1="f8e659862d26e0895215dfdbd40d5f8b324d3ac4"/>
+	</game>
+	<game name="Donkey Kong XM (World) (Demo) (NTSC) (Aftermarket) (Unl)">
+		<description>Donkey Kong XM (World) (Demo) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Donkey Kong XM (World) (Demo) (NTSC) (Aftermarket) (Unl).a78" size="147584" crc="92f3246e" md5="3efa789ceefcbd3c1d5853b5b4155d7f" sha1="d5af680a586dc0c827852f17343403374d01a9b7"/>
+	</game>
+	<game name="Donkey Kong XM (World) (Demo) (PAL) (Aftermarket) (Unl)" cloneof="Donkey Kong XM (World) (Demo) (NTSC) (Aftermarket) (Unl)">
+		<description>Donkey Kong XM (World) (Demo) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Donkey Kong XM (World) (Demo) (PAL) (Aftermarket) (Unl).a78" size="147584" crc="4ad2fe4e" md5="2d22ff441ae39f7c202240752571a155" sha1="0f1ff65c8905813c49a3d6a94aaf846d71bf9b94"/>
+	</game>
+	<game name="Dragon's Cache (World) (2021-02-07) (Aftermarket) (Unl)">
+		<description>Dragon's Cache (World) (2021-02-07) (Aftermarket) (Unl)</description>
+		<rom name="Dragon's Cache (World) (2021-02-07) (Aftermarket) (Unl).a78" size="49280" crc="dc3c1d8f" md5="6bdf0a2203f6bf3171110fd5bc9972e4" sha1="1db233e2f339cc798938cefde1ebc2b3ecf249df"/>
+	</game>
+	<game name="Dragon's Cache (World) (2020-10-24) (Aftermarket) (Unl)" cloneof="Dragon's Cache (World) (2021-02-07) (Aftermarket) (Unl)">
+		<description>Dragon's Cache (World) (2020-10-24) (Aftermarket) (Unl)</description>
+		<rom name="Dragon's Cache (World) (2020-10-24) (Aftermarket) (Unl).a78" size="49280" crc="633daed1" md5="b514ffe98587caaec7e0492f1aeee7f3" sha1="a9babaa6e3d0c64726fea773a6045b1f33582a0c"/>
+	</game>
+	<game name="Dragon's Cache (World) (2020-10-24) (BupSystem) (Aftermarket) (Unl)" cloneof="Dragon's Cache (World) (2021-02-07) (Aftermarket) (Unl)">
+		<description>Dragon's Cache (World) (2020-10-24) (BupSystem) (Aftermarket) (Unl)</description>
+		<rom name="Dragon's Cache (World) (2020-10-24) (BupSystem) (Aftermarket) (Unl).a78" size="49280" crc="ffd2ad35" md5="22b9444a24d6496ba2dafdbb7f0f76fc" sha1="27ed9b1d37cd30390864614264eef5e53851ff61"/>
+	</game>
+	<game name="Dragon's Descent (World) (2021-07-31) (Aftermarket) (Unl)">
+		<description>Dragon's Descent (World) (2021-07-31) (Aftermarket) (Unl)</description>
+		<rom name="Dragon's Descent (World) (2021-07-31) (Aftermarket) (Unl).a78" size="49280" crc="b927352f" md5="4acbc51c91a2ccb8f350e32d7b4305b2" sha1="b4e17b54e7935bfe7c5ab499bc951865512ede6d"/>
+	</game>
+	<game name="Dragon's Havoc (World) (2022-12-31) (Demo) (Aftermarket) (Unl)">
+		<description>Dragon's Havoc (World) (2022-12-31) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Dragon's Havoc (World) (2022-12-31) (Demo) (Aftermarket) (Unl).a78" size="49280" crc="40585559" md5="721e3824a163f9445a67a2dfc4ee7b96" sha1="c32d2020791b66f3edbb77771251949537d9a690"/>
+	</game>
+	<game name="Drelbs (World) (Aftermarket) (Unl)">
+		<description>Drelbs (World) (Aftermarket) (Unl)</description>
+		<rom name="Drelbs (World) (Aftermarket) (Unl).a78" size="32896" crc="1fb72164" md5="7e0c3abe0a60f4c9c096255a45ccdb65" sha1="239c6d8797420c275048533c7955dce3c7b735fa"/>
+	</game>
+	<game name="Dungeon Stalker (World) (1.245d) (Aftermarket) (Unl)">
+		<description>Dungeon Stalker (World) (1.245d) (Aftermarket) (Unl)</description>
+		<rom name="Dungeon Stalker (World) (1.245d) (Aftermarket) (Unl).a78" size="49280" crc="2bbf626f" md5="eff3eb9f14d93b128f2c52524e938218" sha1="ebb4b845274c2c5c80b9f57a074b11d96e7d2b36"/>
+	</game>
+	<game name="Easter Klondike Solitaire (World) (Aftermarket) (Unl)">
+		<description>Easter Klondike Solitaire (World) (Aftermarket) (Unl)</description>
+		<rom name="Easter Klondike Solitaire (World) (Aftermarket) (Unl).a78" size="49280" crc="fecd04de" md5="c875b6f5e19a41f7c6d6986776cd34ab" sha1="81bc9379b8a391aadcc9b4d9bdc44ce509bd450a"/>
+	</game>
+	<game name="FailSafe (World) (NTSC) (Aftermarket) (Unl)">
+		<description>FailSafe (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="FailSafe (World) (NTSC) (Aftermarket) (Unl).a78" size="49280" crc="d31efe1b" md5="67f25b1eef9f50bfa81cfebe86e89424" sha1="ab7e51b840da47f9e34b061544266eaf02d052a7"/>
+	</game>
+	<game name="FailSafe (World) (PAL) (Aftermarket) (Unl)" cloneof="FailSafe (World) (NTSC) (Aftermarket) (Unl)">
+		<description>FailSafe (World) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="FailSafe (World) (PAL) (Aftermarket) (Unl).a78" size="49280" crc="75fd728a" md5="4b0960ba6706f3db77f8b0523790fa1a" sha1="9fc4866549ed221d129991ddcd64253ff80de2b8"/>
+	</game>
+	<game name="Frenzy (World) (v1.07) (Aftermarket) (Unl)">
+		<description>Frenzy (World) (v1.07) (Aftermarket) (Unl)</description>
+		<rom name="Frenzy (World) (v1.07) (Aftermarket) (Unl).a78" size="49280" crc="7c60adec" md5="a8273d973dd7bab0d333dde6a45db4b3" sha1="5fa12f0ac0f7b381e7852211e2dcbdeb5261b5c7"/>
+	</game>
+	<game name="Frenzy (World) (v1.06) (Aftermarket) (Unl)" cloneof="Frenzy (World) (v1.07) (Aftermarket) (Unl)">
+		<description>Frenzy (World) (v1.06) (Aftermarket) (Unl)</description>
+		<rom name="Frenzy (World) (v1.06) (Aftermarket) (Unl).a78" size="49280" crc="3eabb9dd" md5="f99a7316db33795d722365e96ea673d7" sha1="1d713f9ab2b1964bacaf952ec59c65111402a0c1"/>
+	</game>
+	<game name="Froggie (World) (Aftermarket) (Unl)">
+		<description>Froggie (World) (Aftermarket) (Unl)</description>
+		<rom name="Froggie (World) (Aftermarket) (Unl).a78" size="32896" crc="bc3566e7" md5="5edd4ed463c4159476a5776350174666" sha1="480ff5485ccc3f5a21bfa2d98752ac1637cfa40f"/>
+	</game>
+	<game name="Galaxian (World) (Aftermarket) (Unl)">
+		<description>Galaxian (World) (Aftermarket) (Unl)</description>
+		<rom name="Galaxian (World) (Aftermarket) (Unl).a78" size="32896" crc="d247e353" md5="0c60eec2eeeef4256fe8ca48f843f5a5" sha1="0161b7251db9f8478402ce9d67dfd909f52c2910"/>
+	</game>
+	<game name="GoSub (World) (Digital) (Aftermarket) (Unl)">
+		<description>GoSub (World) (Digital) (Aftermarket) (Unl)</description>
+		<rom name="GoSub (World) (Digital) (Aftermarket) (Unl).a78" size="32896" crc="b17a6ec6" md5="c3808db31a9c8034e65fe3e096a0956f" sha1="9be5f2ffe31076057a6c3abb4e9dd216f145674b"/>
+	</game>
+	<game name="Harpy's Curse (World) (2023-09-17) (Proto) (Aftermarket) (Unl)">
+		<description>Harpy's Curse (World) (2023-09-17) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Harpy's Curse (World) (2023-09-17) (Proto) (Aftermarket) (Unl).a78" size="131200" crc="5b404ce1" md5="ce57d614e6104767c8b31c9f762e1475" sha1="52144277e6c654551c868c5970bf4d0ec802abaa"/>
+	</game>
+	<game name="Jacks or Better Poker (World) (v1.37) (Aftermarket) (Unl)">
+		<description>Jacks or Better Poker (World) (v1.37) (Aftermarket) (Unl)</description>
+		<rom name="Jacks or Better Poker (World) (v1.37) (Aftermarket) (Unl).a78" size="49280" crc="bcd091cb" md5="6e70361a861c5ba3c113abb31f72a778" sha1="f60398b483b7a8667f0eb0f36abc3a14dd72132f"/>
+	</game>
+	<game name="Jr. Pac-Man (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Jr. Pac-Man (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Jr. Pac-Man (World) (NTSC) (Aftermarket) (Unl).a78" size="32896" crc="66acfe73" md5="b9d8efcc1e5651a578eeb484e34b338b" sha1="3e8b869c85a947d3db4694b5316ed7ce296d1b6b"/>
+	</game>
+	<game name="Jr. Pac-Man (World) (PAL) (Aftermarket) (Unl)" cloneof="Jr. Pac-Man (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Jr. Pac-Man (World) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Jr. Pac-Man (World) (PAL) (Aftermarket) (Unl).a78" size="32896" crc="12f0cdd0" md5="259ef5c1a98ea6bcd0bf5a922828231d" sha1="32b4c3561a506b7f6b772727860d6378fbbf510c"/>
+	</game>
+	<game name="K.C. Munchkin (World) (v1.01) (Aftermarket) (Unl)">
+		<description>K.C. Munchkin (World) (v1.01) (Aftermarket) (Unl)</description>
+		<rom name="K.C. Munchkin (World) (v1.01) (Aftermarket) (Unl).a78" size="16512" crc="230d6984" md5="a8ebc4ce6511a75ef81e5715bae8e4d0" sha1="10140ad27acd95545ab7526ae3c84bc41fcf48a3"/>
+	</game>
+	<game name="K.C. Munchkin (World) (v1.00) (Aftermarket) (Unl)" cloneof="K.C. Munchkin (World) (v1.01) (Aftermarket) (Unl)">
+		<description>K.C. Munchkin (World) (v1.00) (Aftermarket) (Unl)</description>
+		<rom name="K.C. Munchkin (World) (v1.00) (Aftermarket) (Unl).a78" size="16512" crc="cb150695" md5="e5b3fcfd214ba332b20c5fbfb1b831b4" sha1="740eefe35b319b75269302e4f5c28744470f8722"/>
+	</game>
+	<game name="Keystone Koppers (World) (Aftermarket) (Unl)">
+		<description>Keystone Koppers (World) (Aftermarket) (Unl)</description>
+		<rom name="Keystone Koppers (World) (Aftermarket) (Unl).a78" size="131200" crc="817dbb38" md5="d2f56ae7b9af53e99db0a6978765bc16" sha1="c9bac0534e6f6846da5bba3a5f9536bedce5f987"/>
+	</game>
+	<game name="Keystone Koppers (World) (2022-12-22) (Demo) (Aftermarket) (Unl)" cloneof="Keystone Koppers (World) (Aftermarket) (Unl)">
+		<description>Keystone Koppers (World) (2022-12-22) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Keystone Koppers (World) (2022-12-22) (Demo) (Aftermarket) (Unl).a78" size="131200" crc="c56cf1fa" md5="de407ad2f2bcbb3b0f2c6cf423967005" sha1="b6ee1eb7c86ed1cc51b0ceffb6a02dabf16657d7"/>
+	</game>
+	<game name="Knight Guy in Low-Res World - Castle Days (World) (RC1.1) (Aftermarket) (Unl)">
+		<description>Knight Guy in Low-Res World - Castle Days (World) (RC1.1) (Aftermarket) (Unl)</description>
+		<rom name="Knight Guy in Low-Res World - Castle Days (World) (RC1.1) (Aftermarket) (Unl).a78" size="147584" crc="539e3dd7" md5="95dfe1404d66dc1dc499c8c06171aec3" sha1="31e9ef48c43b06aa96df459b72b75c73eddc7633"/>
+	</game>
+	<game name="Legend of Silverpeak (World) (v1.01) (Aftermarket) (Unl)">
+		<description>Legend of Silverpeak (World) (v1.01) (Aftermarket) (Unl)</description>
+		<rom name="Legend of Silverpeak (World) (v1.01) (Aftermarket) (Unl).a78" size="524416" crc="863579d2" md5="b20a8587056848d39abc1a32f2d45a95" sha1="cea2b21e00c228718e96dabcbd2dbec8f021c64b"/>
+	</game>
+	<game name="Legend of Silverpeak (World) (v1.00) (Aftermarket) (Unl)" cloneof="Legend of Silverpeak (World) (v1.01) (Aftermarket) (Unl)">
+		<description>Legend of Silverpeak (World) (v1.00) (Aftermarket) (Unl)</description>
+		<rom name="Legend of Silverpeak (World) (v1.00) (Aftermarket) (Unl).a78" size="524416" crc="414c68a4" md5="bda93c462522942f54447fb4849f2771" sha1="1fb196b41f1736268c649b8988291c03d4b61145"/>
+	</game>
+	<game name="Meteor Shower (World) (v1.06) (NTSC) (Aftermarket) (Unl)">
+		<description>Meteor Shower (World) (v1.06) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Meteor Shower (World) (v1.06) (NTSC) (Aftermarket) (Unl).a78" size="16512" crc="30461a69" md5="5e249d115de5eff6143fbd4f23bfef5e" sha1="b1601664cb740b52a867def0dfc876295b248a72"/>
+	</game>
+	<game name="Meteor Shower (World) (v1.06) (PAL) (Aftermarket) (Unl)" cloneof="Meteor Shower (World) (v1.06) (NTSC) (Aftermarket) (Unl)">
+		<description>Meteor Shower (World) (v1.06) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Meteor Shower (World) (v1.06) (PAL) (Aftermarket) (Unl).a78" size="16512" crc="69aba899" md5="e9e83df9fa2abf5fd58708ee64041408" sha1="d6e7c6258fab3a447f5da8f70c9d9068b3f58b18"/>
+	</game>
+	<game name="Meteor Shower (World) (v1.05) (NTSC) (Aftermarket) (Unl)" cloneof="Meteor Shower (World) (v1.06) (NTSC) (Aftermarket) (Unl)">
+		<description>Meteor Shower (World) (v1.05) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Meteor Shower (World) (v1.05) (NTSC) (Aftermarket) (Unl).a78" size="16512" crc="8052ccb3" md5="21d1caaeca24e023fad3df23b452b93a" sha1="50f743e617c4456ea5f2f1d66725e63b9359fd41"/>
+	</game>
+	<game name="Meteor Shower (World) (v1.05) (PAL) (Aftermarket) (Unl)" cloneof="Meteor Shower (World) (v1.06) (NTSC) (Aftermarket) (Unl)">
+		<description>Meteor Shower (World) (v1.05) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Meteor Shower (World) (v1.05) (PAL) (Aftermarket) (Unl).a78" size="16512" crc="f973ea31" md5="9939d7172855e9bac28f880f233b9926" sha1="d180f54254bc61323f265323bcc3ebee435621e2"/>
+	</game>
+	<game name="Moon Cresta (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Moon Cresta (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Moon Cresta (World) (NTSC) (Aftermarket) (Unl).a78" size="32896" crc="9b607d11" md5="4e1006e44840fe7c2baef1af29acb6f9" sha1="dea2231575f55fecb83a864ea9ce1fae72e0b275"/>
+	</game>
+	<game name="Moon Cresta (World) (PAL) (Aftermarket) (Unl)" cloneof="Moon Cresta (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Moon Cresta (World) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Moon Cresta (World) (PAL) (Aftermarket) (Unl).a78" size="32896" crc="a506bae7" md5="619b94832080a6cadd7724d7b2067f40" sha1="b5aacc9b3f832111008534a02095c56c97d0ccfb"/>
+	</game>
+	<game name="Ms. Pac-Man 320 (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Ms. Pac-Man 320 (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Ms. Pac-Man 320 (World) (NTSC) (Aftermarket) (Unl).a78" size="32896" crc="a1fe2e34" md5="7788661b81a6d85cd80269ef3504e0e2" sha1="bb1ac9788f840fdf9dcaa9d9c37e75ed4cee5b9d"/>
+	</game>
+	<game name="Ms. Pac-Man 320 (World) (PAL) (Aftermarket) (Unl)" cloneof="Ms. Pac-Man 320 (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Ms. Pac-Man 320 (World) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Ms. Pac-Man 320 (World) (PAL) (Aftermarket) (Unl).a78" size="32896" crc="dfa80d2e" md5="9fb643fb53394e41f28a0edf4f085f12" sha1="d0027b21d2cd9d2d2a7c7b9f1c6186552fd8a5ef"/>
+	</game>
+	<game name="Oozy the Goo Gaiden (World) (Aftermarket) (Unl)">
+		<description>Oozy the Goo Gaiden (World) (Aftermarket) (Unl)</description>
+		<rom name="Oozy the Goo Gaiden (World) (Aftermarket) (Unl).a78" size="147584" crc="f5efd437" md5="734f8f4fb5183af926127a5b5a10a139" sha1="d38f619b9bfeede74327240a98435151d794e192"/>
+	</game>
+	<game name="Orion Assault (World) (v01.78b) (Proto) (Aftermarket) (Unl)">
+		<description>Orion Assault (World) (v01.78b) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Orion Assault (World) (v01.78b) (Proto) (Aftermarket) (Unl).a78" size="131200" crc="16f45552" md5="0ec73e20f17c37e1abd6b3153d71a33f" sha1="fa25a5720b95ae9e88dbbfb8fc92908f1dd2dd18"/>
+	</game>
+	<game name="Pac-Man - Energy Drink Edition (World) (v1.02) (Aftermarket) (Unl)">
+		<description>Pac-Man - Energy Drink Edition (World) (v1.02) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man - Energy Drink Edition (World) (v1.02) (Aftermarket) (Unl).a78" size="49280" crc="2dcbfa74" md5="50eab1fe52018bad729e623022f33664" sha1="b24a11a731fb6cd9832addef89d38a2b0809dc53"/>
+	</game>
+	<game name="Pac-Man 320 (World) (v1.05) (NTSC) (Aftermarket) (Unl)">
+		<description>Pac-Man 320 (World) (v1.05) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man 320 (World) (v1.05) (NTSC) (Aftermarket) (Unl).a78" size="32896" crc="1b317f72" md5="87282c7f50c7af7b85222676e4b77146" sha1="a275cd00a0642bc67ea02cf2c1939beb1d47f107"/>
+	</game>
+	<game name="Pac-Man 320 (World) (v1.05) (PAL) (Aftermarket) (Unl)" cloneof="Pac-Man 320 (World) (v1.05) (NTSC) (Aftermarket) (Unl)">
+		<description>Pac-Man 320 (World) (v1.05) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man 320 (World) (v1.05) (PAL) (Aftermarket) (Unl).a78" size="32896" crc="0694b7fe" md5="bce39849fe488f06f4b28988acf55c4c" sha1="424dd598a224185d8fb0b47cc01e4d5f84dff708"/>
+	</game>
+	<game name="Pac-Man Collection - Remastered Edition (World) (NTSC) (TIA) (Aftermarket) (Unl)">
+		<description>Pac-Man Collection - Remastered Edition (World) (NTSC) (TIA) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man Collection - Remastered Edition (World) (NTSC) (TIA) (Aftermarket) (Unl).a78" size="49280" crc="e2a5a351" md5="5d418bbe79e1e31351c4d44f7c137e9f" sha1="1efd31d55be8abbe369e47fff5fe97cc04aeff7e"/>
+	</game>
+	<game name="Pac-Man Collection - Remastered Edition (World) (PAL) (TIA) (Aftermarket) (Unl)" cloneof="Pac-Man Collection - Remastered Edition (World) (NTSC) (TIA) (Aftermarket) (Unl)">
+		<description>Pac-Man Collection - Remastered Edition (World) (PAL) (TIA) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man Collection - Remastered Edition (World) (PAL) (TIA) (Aftermarket) (Unl).a78" size="49280" crc="8a7b837e" md5="e5cf753daa3bf5d03cfc3bfab04f735e" sha1="252e5b6fdd143b60690db5b1d4de68a52f9c77c9"/>
+	</game>
+	<game name="Pac-Man Collection - Ultimate Edition (World) (NTSC) (Pokey) (Aftermarket) (Unl)">
+		<description>Pac-Man Collection - Ultimate Edition (World) (NTSC) (Pokey) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man Collection - Ultimate Edition (World) (NTSC) (Pokey) (Aftermarket) (Unl).a78" size="32896" crc="4c89fd07" md5="34e23de8d0f68aa4234f2b4c32d7f357" sha1="8365c31cb7930fb59083b6f6add2a9e49f15f693"/>
+	</game>
+	<game name="Pac-Man Collection - Ultimate Edition (World) (PAL) (Pokey) (Aftermarket) (Unl)" cloneof="Pac-Man Collection - Ultimate Edition (World) (NTSC) (Pokey) (Aftermarket) (Unl)">
+		<description>Pac-Man Collection - Ultimate Edition (World) (PAL) (Pokey) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man Collection - Ultimate Edition (World) (PAL) (Pokey) (Aftermarket) (Unl).a78" size="32896" crc="63caa656" md5="9fd0387a0fe057c97905c87103e5dc33" sha1="108de34dcd8b89402faeb950ba588c7113a04f6f"/>
+	</game>
+	<game name="Pac-Man Plus 320 (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Pac-Man Plus 320 (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man Plus 320 (World) (NTSC) (Aftermarket) (Unl).a78" size="32896" crc="24cc913e" md5="3db5d43c80ab1398665420c56debaac3" sha1="7cc5bd294ef6118bb5ed4276c3c827e00906f20c"/>
+	</game>
+	<game name="Pac-Man Plus 320 (World) (PAL) (Aftermarket) (Unl)" cloneof="Pac-Man Plus 320 (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Pac-Man Plus 320 (World) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man Plus 320 (World) (PAL) (Aftermarket) (Unl).a78" size="32896" crc="9c0a6699" md5="edb11aed4a1bf7334a885dc2d5274256" sha1="42b59d3d3ef9b33db3b2a836d1e9cee97bc48cf7"/>
+	</game>
+	<game name="Pirate Cove (World) (Aftermarket) (Unl)">
+		<description>Pirate Cove (World) (Aftermarket) (Unl)</description>
+		<rom name="Pirate Cove (World) (Aftermarket) (Unl).a78" size="32896" crc="cacd77a3" md5="32e3673302199e531b7793542f61880a" sha1="3a57cab4a10a08838cda74c271951573b1bbf0dd"/>
+	</game>
+	<game name="Plink (World) (Aftermarket) (Unl)">
+		<description>Plink (World) (Aftermarket) (Unl)</description>
+		<rom name="Plink (World) (Aftermarket) (Unl).a78" size="131200" crc="5162cba5" md5="084644ca83a5d9bb15afe5ecb3b48928" sha1="68feaeb49026e39cad7a4935e97643484f7047db"/>
+	</game>
+	<game name="Plutos XM (World) (Aftermarket) (Unl)">
+		<description>Plutos XM (World) (Aftermarket) (Unl)</description>
+		<rom name="Plutos XM (World) (Aftermarket) (Unl).a78" size="131200" crc="07de21cb" md5="f09685feefd44ee75ce1ad65388b7c4a" sha1="c7148a825e5a3b1a4f18bf0d42093f050eff000e"/>
+	</game>
+	<game name="Poetiru (World) (Aftermarket) (Unl)">
+		<description>Poetiru (World) (Aftermarket) (Unl)</description>
+		<rom name="Poetiru (World) (Aftermarket) (Unl).a78" size="32896" crc="526b8eac" md5="241dcf1e267d38e3d8354628b586ae54" sha1="90fe11217b9d3ff09a5c45cc2fe806a13eaea999"/>
+	</game>
+	<game name="Rip-Off (World) (v1.06) (NTSC) (Aftermarket) (Unl)">
+		<description>Rip-Off (World) (v1.06) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Rip-Off (World) (v1.06) (NTSC) (Aftermarket) (Unl).a78" size="16512" crc="e62fe9ca" md5="f8bc85beb039bfca19febf5a60a99fe6" sha1="c29c7a8cfaf78b3a6cf7a65294a45e2002c54d07"/>
+	</game>
+	<game name="Rip-Off (World) (v1.06) (PAL) (Aftermarket) (Unl)" cloneof="Rip-Off (World) (v1.06) (NTSC) (Aftermarket) (Unl)">
+		<description>Rip-Off (World) (v1.06) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Rip-Off (World) (v1.06) (PAL) (Aftermarket) (Unl).a78" size="16512" crc="b8c8e216" md5="66acec89356bc9e18c2f49e2178af1e2" sha1="2dac5e0fbb9c2bfd236d525e031d751ff358c4fe"/>
+	</game>
+	<game name="Rip-Off (World) (v1.05) (NTSC) (Aftermarket) (Unl)" cloneof="Rip-Off (World) (v1.06) (NTSC) (Aftermarket) (Unl)">
+		<description>Rip-Off (World) (v1.05) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Rip-Off (World) (v1.05) (NTSC) (Aftermarket) (Unl).a78" size="16512" crc="e14f228e" md5="6053d17258f0e5307d895fea87314063" sha1="ae42664106ef2793eeae48f89b05bcefbe527beb"/>
+	</game>
+	<game name="Rip-Off (World) (v1.05) (PAL) (Aftermarket) (Unl)">
+		<description>Rip-Off (World) (v1.05) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Rip-Off (World) (v1.05) (PAL) (Aftermarket) (Unl).a78" size="16512" crc="bb7da3e7" md5="2535c4315838ec09c7140af4072653c0" sha1="e4a8158da9e15712940778e8919c3d84a105c429"/>
+	</game>
+	<game name="Robot Finds Kitten (World) (2022-03-31) (Aftermarket) (Unl)">
+		<description>Robot Finds Kitten (World) (2022-03-31) (Aftermarket) (Unl)</description>
+		<rom name="Robot Finds Kitten (World) (2022-03-31) (Aftermarket) (Unl).a78" size="32896" crc="a1030447" md5="69da9cd0c9fe39710a0f1b9aabe44d2f" sha1="3e1d1b795a8431a48db57c70e3b4a523c741ea0a"/>
+	</game>
+	<game name="Robot Finds Kitten (World) (2005-06-19) (Aftermarket) (Unl)" cloneof="Robot Finds Kitten (World) (2022-03-31) (Aftermarket) (Unl)">
+		<description>Robot Finds Kitten (World) (2005-06-19) (Aftermarket) (Unl)</description>
+		<rom name="Robot Finds Kitten (World) (2005-06-19) (Aftermarket) (Unl).a78" size="32896" crc="c1580bba" md5="3525de942c18269a5ad1a1d0271d3f32" sha1="131035773a422d067ca8d3efcd0a7f9095cd3595"/>
+	</game>
+	<game name="Santa Simon (World) (Aftermarket) (Unl)">
+		<description>Santa Simon (World) (Aftermarket) (Unl)</description>
+		<rom name="Santa Simon (World) (Aftermarket) (Unl).a78" size="49280" crc="8689b7d1" md5="c1f23c330d36318cae0617beedcb28f5" sha1="be3c8a89d969409a85c36ec1a63c0b3fa78e1c9b"/>
+	</game>
+	<game name="Scramble (World) (v1.15) (NTSC) (Aftermarket) (Unl)">
+		<description>Scramble (World) (v1.15) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Scramble (World) (v1.15) (NTSC) (Aftermarket) (Unl).a78" size="49280" crc="6736d0ff" md5="f1653c4399a3b5b5cfb300d55f080b5d" sha1="05e73c3a53fadc9214c4cadbed64f73a3c66ee62"/>
+	</game>
+	<game name="Scramble (World) (v1.15) (PAL) (Aftermarket) (Unl)" cloneof="Scramble (World) (v1.15) (NTSC) (Aftermarket) (Unl)">
+		<description>Scramble (World) (v1.15) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Scramble (World) (v1.15) (PAL) (Aftermarket) (Unl).a78" size="49280" crc="50ec4ad0" md5="eeb13dd767793badfc0d0651df048041" sha1="4a2db5eac7df8c33bbf4f4e961f74e542076b549"/>
+	</game>
+	<game name="Scramble (World) (v1.14) (NTSC) (Aftermarket) (Unl)" cloneof="Scramble (World) (v1.15) (NTSC) (Aftermarket) (Unl)">
+		<description>Scramble (World) (v1.14) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Scramble (World) (v1.14) (NTSC) (Aftermarket) (Unl).a78" size="49280" crc="79b068df" md5="8ac39665c208638850a29952c630ddc1" sha1="2b4796fa6e55928d216c719a9319a0000aaafc8b"/>
+	</game>
+	<game name="Scramble (World) (v1.14) (PAL) (Aftermarket) (Unl)" cloneof="Scramble (World) (v1.15) (NTSC) (Aftermarket) (Unl)">
+		<description>Scramble (World) (v1.14) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Scramble (World) (v1.14) (PAL) (Aftermarket) (Unl).a78" size="49280" crc="c98edf0c" md5="70fbc19bf5cc8a973a7c2f18b571bf40" sha1="33f021b672d19db0540b3d3286a0305bcf1f4c3c"/>
+	</game>
+	<game name="Serpentine (World) (Aftermarket) (Unl)">
+		<description>Serpentine (World) (Aftermarket) (Unl)</description>
+		<rom name="Serpentine (World) (Aftermarket) (Unl).a78" size="131200" crc="e2998530" md5="9678d452a26e08a4a55c13c809164399" sha1="6c43626c1a9b8a447bcb1981196a1cc797f9ae17"/>
+	</game>
+	<game name="Shoot the UFO 2015 (World) (Aftermarket) (Unl)">
+		<description>Shoot the UFO 2015 (World) (Aftermarket) (Unl)</description>
+		<rom name="Shoot the UFO 2015 (World) (Aftermarket) (Unl).a78" size="32896" crc="73507bee" md5="f7c8b5f422e2412bbfb8d6f40ac67c71" sha1="595291f4a19bcd3cb7a56f54e67ceef4b12868b9"/>
+	</game>
+	<game name="Shuriken (World) (Aftermarket) (Unl)">
+		<description>Shuriken (World) (Aftermarket) (Unl)</description>
+		<rom name="Shuriken (World) (Aftermarket) (Unl).a78" size="32896" crc="d4b96817" md5="f25b213716ffaa2800343846d116519d" sha1="3eb4383c78172241226df66b0c0c22085b2c7bf4"/>
+	</game>
+	<game name="Sick Pickles (World) (Aftermarket) (Unl)">
+		<description>Sick Pickles (World) (Aftermarket) (Unl)</description>
+		<rom name="Sick Pickles (World) (Aftermarket) (Unl).a78" size="49280" crc="4e7948b3" md5="491ef8d9e4dd0ab592cfea6f88d09c81" sha1="395edcd25a3a42cf6169980e68f128bb8e085e98"/>
+	</game>
+	<game name="Sirius XM (World) (Aftermarket) (Unl)">
+		<description>Sirius XM (World) (Aftermarket) (Unl)</description>
+		<rom name="Sirius XM (World) (Aftermarket) (Unl).a78" size="131200" crc="9b9aedab" md5="e2d39741d9646356c7f0c5db1fe77145" sha1="8fc5dcafed7d08af7ff4fc3bf3a169704deb9773"/>
+	</game>
+	<game name="Slide Boy in Maze Land (World) (Digital) (Aftermarket) (Unl)">
+		<description>Slide Boy in Maze Land (World) (Digital) (Aftermarket) (Unl)</description>
+		<rom name="Slide Boy in Maze Land (World) (Digital) (Aftermarket) (Unl).a78" size="49280" crc="85ab68cf" md5="538ca983bf806de8b863e28fa0c54cd2" sha1="4bc76ad90326fd2a118e797501b6fb35bfa88cb7"/>
+	</game>
+	<game name="Slide Boy in Maze Land (World) (2021-05-10) (Beta) (Aftermarket) (Unl)" cloneof="Slide Boy in Maze Land (World) (Digital) (Aftermarket) (Unl)">
+		<description>Slide Boy in Maze Land (World) (2021-05-10) (Beta) (Aftermarket) (Unl)</description>
+		<rom name="Slide Boy in Maze Land (World) (2021-05-10) (Beta) (Aftermarket) (Unl).a78" size="49280" crc="74f0d327" md5="a8dbc39f12401886e8101d63a3cd3e46" sha1="7fdb898926d7a922a7b681690b7bfb93faecf148"/>
+	</game>
+	<game name="Space Duel (World) (v1.09) (NTSC) (Aftermarket) (Unl)">
+		<description>Space Duel (World) (v1.09) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Space Duel (World) (v1.09) (NTSC) (Aftermarket) (Unl).a78" size="32896" crc="d795b3da" md5="1c34906d1d52d2f517c602d803b24032" sha1="de21b55badd1a4f0a5117aab0fd57a2b3db72d1d"/>
+	</game>
+	<game name="Space Duel (World) (v1.09) (PAL) (Aftermarket) (Unl)" cloneof="Space Duel (World) (v1.09) (NTSC) (Aftermarket) (Unl)">
+		<description>Space Duel (World) (v1.09) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Space Duel (World) (v1.09) (PAL) (Aftermarket) (Unl).a78" size="32896" crc="36d212f9" md5="560e3acf0a07bfa63f57be753c5fc5f2" sha1="8fd416c300f438e9ecc15d8f0c885a3b11981e50"/>
+	</game>
+	<game name="Space Invaders (World) (v2.02) (Aftermarket) (Unl)">
+		<description>Space Invaders (World) (v2.02) (Aftermarket) (Unl)</description>
+		<rom name="Space Invaders (World) (v2.02) (Aftermarket) (Unl).a78" size="16512" crc="8f873069" md5="c3f0acf82157990f1f27334dcf0fbdb8" sha1="795026b9e7a753a683d88b27e5d083c10402be55"/>
+	</game>
+	<game name="Space Invaders (World) (v2.01) (NTSC) (Aftermarket) (Unl)" cloneof="Space Invaders (World) (v2.02) (Aftermarket) (Unl)">
+		<description>Space Invaders (World) (v2.01) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Space Invaders (World) (v2.01) (NTSC) (Aftermarket) (Unl).a78" size="16512" crc="f2699e24" md5="b8a0ff984ccf7e79edad9b3cc221daae" sha1="f04fc68880ba2d6ec57c39012749e413cca144d1"/>
+	</game>
+	<game name="Space Invaders (World) (v2.01) (PAL) (Aftermarket) (Unl)" cloneof="Space Invaders (World) (v2.02) (Aftermarket) (Unl)">
+		<description>Space Invaders (World) (v2.01) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Space Invaders (World) (v2.01) (PAL) (Aftermarket) (Unl).a78" size="32896" crc="a78e5587" md5="d751f0a93c7658793842a2b3d3cb548c" sha1="4c02d00d28bf6e8d58d1ab5f8d2b69d8325a65cb"/>
+	</game>
+	<game name="Space Race (World) (v0.96) (Aftermarket) (Unl)">
+		<description>Space Race (World) (v0.96) (Aftermarket) (Unl)</description>
+		<rom name="Space Race (World) (v0.96) (Aftermarket) (Unl).a78" size="49280" crc="6dd90f8c" md5="6bf94f70e3109cf323f6d10e1eb75c43" sha1="31a3f2618a17b4479c2f08be6b156f4a52b054cf"/>
+	</game>
+	<game name="Stinger (World) (Aftermarket) (Unl)">
+		<description>Stinger (World) (Aftermarket) (Unl)</description>
+		<rom name="Stinger (World) (Aftermarket) (Unl).a78" size="32896" crc="2c98ce80" md5="8f20411a26326459ee3708da1e1adc59" sha1="bcdd587f6da83631207cc2d5e8531688a0e1f700"/>
+	</game>
+	<game name="Super Circus AtariAge (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Super Circus AtariAge (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Super Circus AtariAge (World) (NTSC) (Aftermarket) (Unl).a78" size="32896" crc="110b8249" md5="67cbc77b3e7908ff8ac4d96a8ad6f6ff" sha1="e163a77f2552fa8e5f70316c8ae8afcd6c737943"/>
+	</game>
+	<game name="Super Circus AtariAge (World) (PAL) (Aftermarket) (Unl)" cloneof="Super Circus AtariAge (World) (NTSC) (Aftermarket) (Unl)">
+		<description>Super Circus AtariAge (World) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Super Circus AtariAge (World) (PAL) (Aftermarket) (Unl).a78" size="32896" crc="aac29c8b" md5="ada191beef74a11f53d59bf51810518f" sha1="31d958ca0e8614fd0da4fae2e2cb83bdebe1e667"/>
+	</game>
+	<game name="Super Pac-Man (World) (v1.10) (NTSC) (Aftermarket) (Unl)">
+		<description>Super Pac-Man (World) (v1.10) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Super Pac-Man (World) (v1.10) (NTSC) (Aftermarket) (Unl).a78" size="32896" crc="451914c8" md5="f2bc1c00a444a5835e78b475e4778e03" sha1="14123ae1d19676cbd446c64441805f998a943169"/>
+	</game>
+	<game name="Super Pac-Man (World) (v1.10) (PAL) (Aftermarket) (Unl)" cloneof="Super Pac-Man (World) (v1.10) (NTSC) (Aftermarket) (Unl)">
+		<description>Super Pac-Man (World) (v1.10) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Super Pac-Man (World) (v1.10) (PAL) (Aftermarket) (Unl).a78" size="32896" crc="e94ee02a" md5="0b1fc22955c2888f93b6e8c70ba50174" sha1="5d016126a4e2b9eb923a6e6a66429f9e12b45201"/>
+	</game>
+	<game name="Super Pac-Man (World) (v1.09) (NTSC) (Aftermarket) (Unl)" cloneof="Super Pac-Man (World) (v1.10) (NTSC) (Aftermarket) (Unl)">
+		<description>Super Pac-Man (World) (v1.09) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Super Pac-Man (World) (v1.09) (NTSC) (Aftermarket) (Unl).a78" size="32896" crc="79e2be17" md5="4e424b43ed2aa588f804bc35f21e7236" sha1="0927e0ffd2477d7026a1f24a49d8bb89fd475d55"/>
+	</game>
+	<game name="Super Pac-Man (World) (v1.09) (PAL) (Aftermarket) (Unl)" cloneof="Super Pac-Man (World) (v1.10) (NTSC) (Aftermarket) (Unl)">
+		<description>Super Pac-Man (World) (v1.09) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Super Pac-Man (World) (v1.09) (PAL) (Aftermarket) (Unl).a78" size="32896" crc="d1983466" md5="db13362052f0614a22381fbb6d257343" sha1="1a6cbcb6c7b326d34a99f1481976a8a446e88a27"/>
+	</game>
+	<game name="Super Stunt Cycle (USA) (Proto) (1989-05-26)">
+		<description>Super Stunt Cycle (USA) (Proto) (1989-05-26)</description>
+		<release name="Super Stunt Cycle (USA) (Proto) (1989-05-26)" region="USA"/>
+		<rom name="Super Stunt Cycle (USA) (Proto) (1989-05-26).a78" size="65664" crc="867c2107" md5="d99eddcddf9bf3e0735196b876bc9455" sha1="2f772b44d26369d2ff626dbd43a48707a0653ca7"/>
+	</game>
+	<game name="Super Stunt Cycle (USA) (Proto) (1989-04-14)" cloneof="Super Stunt Cycle (USA) (Proto) (1989-05-26)">
+		<description>Super Stunt Cycle (USA) (Proto) (1989-04-14)</description>
+		<rom name="Super Stunt Cycle (USA) (Proto) (1989-04-14).a78" size="65664" crc="850af1b9" md5="5d636d3cec0d536734f34c356653b7be" sha1="838fb405d7dd807c46c8e724c6ac58ab41393673"/>
+	</game>
+	<game name="Super Stunt Cycle (USA) (Proto) (1988-11-03)" cloneof="Super Stunt Cycle (USA) (Proto) (1989-05-26)">
+		<description>Super Stunt Cycle (USA) (Proto) (1988-11-03)</description>
+		<rom name="Super Stunt Cycle (USA) (Proto) (1988-11-03).a78" size="65664" crc="0ab7b0a4" md5="de35e91830a85714bab7f139752a1bcd" sha1="9995e4c1401e2c8dbb77d51f5e447d7f2052e32f"/>
+	</game>
+	<game name="Touchdown Challenge (World) (v2.21) (Aftermarket) (Unl)">
+		<description>Touchdown Challenge (World) (v2.21) (Aftermarket) (Unl)</description>
+		<rom name="Touchdown Challenge (World) (v2.21) (Aftermarket) (Unl).a78" size="49280" crc="edd00d48" md5="9375a630aeb208eb8880609ffe6234d4" sha1="7cfcd94b92606211d82db5283447fcd9084be927"/>
+	</game>
+	<game name="Tunnels of Hyperion (World) (Aftermarket) (Unl)">
+		<description>Tunnels of Hyperion (World) (Aftermarket) (Unl)</description>
+		<rom name="Tunnels of Hyperion (World) (Aftermarket) (Unl).a78" size="49280" crc="6c0f5141" md5="9fc4b8016564d3070c28ea8436444380" sha1="522d80e7194898afa0eed7d2ce8710a0296452bd"/>
+	</game>
+	<game name="UniWarS (World) (v1.06) (Aftermarket) (Unl)">
+		<description>UniWarS (World) (v1.06) (Aftermarket) (Unl)</description>
+		<rom name="UniWarS (World) (v1.06) (Aftermarket) (Unl).a78" size="32896" crc="8b04d33d" md5="e64d6f6d258566c882d1edb736ab9bfe" sha1="126c214e1b32dbf3dd89a0fe8da0fc3313a19b53"/>
+	</game>
+	<game name="UniWarS (World) (v1.05) (Aftermarket) (Unl)" cloneof="UniWarS (World) (v1.06) (Aftermarket) (Unl)">
+		<description>UniWarS (World) (v1.05) (Aftermarket) (Unl)</description>
+		<rom name="UniWarS (World) (v1.05) (Aftermarket) (Unl).a78" size="32896" crc="5645ae47" md5="1e37bf2a0e6267d49822675540b5a07a" sha1="d20e5dbad5c34c96c79b11c9c494198b22793427"/>
+	</game>
+	<game name="Wasp! (World) (Aftermarket) (Unl)">
+		<description>Wasp! (World) (Aftermarket) (Unl)</description>
+		<rom name="Wasp! (World) (Aftermarket) (Unl).a78" size="32896" crc="9b566f99" md5="2c50134d55fe9ca98280f90a33709009" sha1="45b22dc034444c4511d705473653c47b9c809d49"/>
+	</game>
+	<game name="Wizard's Dungeon (World) (Aftermarket) (Unl)">
+		<description>Wizard's Dungeon (World) (Aftermarket) (Unl)</description>
+		<rom name="Wizard's Dungeon (World) (Aftermarket) (Unl).a78" size="49280" crc="985ed95e" md5="9c71f5f9db92217e9508eaa771a8cf56" sha1="3e6d18447518d79fd920a4dac99f0931856da282"/>
+	</game>
+	<game name="Wordle (World) (v1.07) (Aftermarket) (Unl)">
+		<description>Wordle (World) (v1.07) (Aftermarket) (Unl)</description>
+		<rom name="Wordle (World) (v1.07) (Aftermarket) (Unl).a78" size="131200" crc="718e07c5" md5="f71ec2b94f34b9290b70079550be460c" sha1="5d1bfb4f747ac621be1cd85a5663778c15928baf"/>
+	</game>
+	<game name="Worm! (World) (Aftermarket) (Unl)">
+		<description>Worm! (World) (Aftermarket) (Unl)</description>
+		<rom name="Worm! (World) (Aftermarket) (Unl).a78" size="16512" crc="d10fe951" md5="407d8305ee6604c2dc727bd774982c35" sha1="6aed0c4b4a829221d41f4e326056181e1f926c48"/>
+	</game>
+</datafile>
