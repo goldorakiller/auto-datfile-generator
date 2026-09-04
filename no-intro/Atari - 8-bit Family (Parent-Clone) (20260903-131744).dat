@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
+	<header>
+		<id>203</id>
+		<name>Atari - 8-bit Family (Parent-Clone)</name>
+		<description>Atari - 8-bit Family (Parent-Clone)</description>
+		<version>20260903-131744</version>
+		<date>20260903-131744</date>
+		<author>Arctic Circle System, FakeShemp, Gefflon, MeguCocoa, rarenight, smesgr, SonGoku</author>
+		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
+	</header>
+	<game name="3-D Tic-Tac-Toe (USA)">
+		<description>3-D Tic-Tac-Toe (USA)</description>
+		<rom name="3-D Tic-Tac-Toe (USA).bin" size="8192" crc="4660c404" md5="907780d5740b3ecb9a843918bd0cbf83" sha1="9e70098ab2598edd9c2913d787554590733c49a0"/>
+	</game>
+	<game name="A.E. (USA) (Side A)">
+		<description>A.E. (USA) (Side A)</description>
+		<rom name="A.E. (USA) (Side A).atx" size="95312" crc="8b22deaf" md5="d0e52b931caa7dc7e3bf137bcbb2f0a9" sha1="c65516fde218f1950d7fa8a96f1ad0222bf90b65"/>
+	</game>
+	<game name="Ace of Aces (USA, Europe)">
+		<description>Ace of Aces (USA, Europe)</description>
+		<release name="Ace of Aces (USA, Europe)" region="EUR"/>
+		<release name="Ace of Aces (USA, Europe)" region="USA"/>
+		<rom name="Ace of Aces (USA, Europe).bin" size="131072" crc="ebad3ddb" md5="97081bc626bfa004564cc725a5aacdfb" sha1="7d87658412d983b368b9f6c75d3d6be05485acf9"/>
+	</game>
+	<game name="Acey-Deucey (USA)">
+		<description>Acey-Deucey (USA)</description>
+		<rom name="Acey-Deucey (USA).atx" size="100208" crc="5a2c7194" md5="828d2d2a8e76790af1e562bfee08da7e" sha1="d7efdbab8d6da98a0effb9feb0afbf1046a6d212"/>
+	</game>
+	<game name="Air Rescue I (USA)">
+		<description>Air Rescue I (USA)</description>
+		<rom name="Air Rescue I (USA).atx" size="100208" crc="a219e8ee" md5="09f11ad7f67d4cf76fbb8a911b9bbeff" sha1="95e6f407cb4bc83f4bdd63ff1b42cc4d9675b723"/>
+	</game>
+	<game name="Archon (USA, Europe)">
+		<description>Archon (USA, Europe)</description>
+		<release name="Archon (USA, Europe)" region="EUR"/>
+		<release name="Archon (USA, Europe)" region="USA"/>
+		<rom name="Archon (USA, Europe).bin" size="32768" crc="2636829f" md5="77aba8e96975b4bb7a714591505ce38f" sha1="bfb2782a117cf3efd5b71e225052f737658864c4"/>
+	</game>
+	<game name="Ballblazer (USA)">
+		<description>Ballblazer (USA)</description>
+		<rom name="Ballblazer (USA).bin" size="65536" crc="820e5ce5" md5="06944f52bc52ae8f548be5441dee939e" sha1="16820a57a10fd779ed160e8a25471882e23a719b"/>
+	</game>
+	<game name="Barnyard Blaster (USA, Europe)">
+		<description>Barnyard Blaster (USA, Europe)</description>
+		<release name="Barnyard Blaster (USA, Europe)" region="EUR"/>
+		<release name="Barnyard Blaster (USA, Europe)" region="USA"/>
+		<rom name="Barnyard Blaster (USA, Europe).bin" size="131072" crc="13ae30ed" md5="91098ad7a1049022505359ed68472dab" sha1="e4b22790fce8e2e0f7c972960aec692b7fd5e016"/>
+	</game>
+	<game name="Basketball (USA)">
+		<description>Basketball (USA)</description>
+		<release name="Basketball (USA)" region="USA"/>
+		<rom name="Basketball (USA).bin" size="8192" crc="79934851" md5="ddd9f7e02145ca65b6cc2c5308d366f0" sha1="639e8f9bf907ed2c46d183f2cdbe33783f6da2fa"/>
+	</game>
+	<game name="Boulders and Bombs (USA)">
+		<description>Boulders and Bombs (USA)</description>
+		<rom name="Boulders and Bombs (USA).bin" size="8192" crc="d6d51d3e" md5="24edb74c29e76171a29d6944d464359b" sha1="90901cd874f4ece8e18d9fff63e2368b4a315624"/>
+	</game>
+	<game name="Caverns of Mars (USA)">
+		<description>Caverns of Mars (USA)</description>
+		<rom name="Caverns of Mars (USA).scp" size="7732408" crc="cf94fc60" md5="9a3b11848f1bdeb91bff55e85a47fc4d" sha1="62b674467a2db1026990b1aef564dd6c545e92a6"/>
+		<rom name="Caverns of Mars (USA).atr" size="92176" crc="b5b08100" md5="f831660a323980e0f6471331ef0595b0" sha1="e4cfd18a24734ae2b038810f10765fd440522adc"/>
+	</game>
+	<game name="Centipede (Europe)">
+		<description>Centipede (Europe)</description>
+		<release name="Centipede (Europe)" region="EUR"/>
+		<rom name="Centipede (Europe).atx" size="8192" crc="44bb1842" md5="a52ebb9034af44bea4ae73e088a102c3" sha1="2eed9a6bbc4c0396a0efc48fc810f9363c23a3c3"/>
+	</game>
+	<game name="Coco Notes (USA)">
+		<description>Coco Notes (USA)</description>
+		<release name="Coco Notes (USA)" region="USA"/>
+		<rom name="Coco Notes (USA).bin" size="16384" crc="f93c615b" md5="bf438425bb9aca4bb17e3e154398ac3e" sha1="d70ef079097293256a9b0d2bb34f8b8a49eac565"/>
+	</game>
+	<game name="Desert Falcon (USA, Europe)">
+		<description>Desert Falcon (USA, Europe)</description>
+		<release name="Desert Falcon (USA, Europe)" region="EUR"/>
+		<release name="Desert Falcon (USA, Europe)" region="USA"/>
+		<rom name="Desert Falcon (USA, Europe).bin" size="65536" crc="a8f9324d" md5="cbb80479b6c87b9e341c3662635a3af4" sha1="fd4666796a4498339835d75ddb63c7b99d1d93bb"/>
+	</game>
+	<game name="E.T. Phone Home! (USA)">
+		<description>E.T. Phone Home! (USA)</description>
+		<rom name="E.T. Phone Home! (USA).bin" size="16384" crc="bce4ef51" md5="8b8fb5cfdd26b7f352198af07402f3f5" sha1="c4a10ce59ee183ef4299e50a0825ec23b4315b56"/>
+	</game>
+	<game name="Eastern Front (1941) (USA)">
+		<description>Eastern Front (1941) (USA)</description>
+		<release name="Eastern Front (1941) (USA)" region="USA"/>
+		<rom name="Eastern Front (1941) (USA).bin" size="16384" crc="ccff4a03" md5="54d427cf8e5baf92c1bfd675888943a9" sha1="aee71f33534cf566994358a909b4b2dca63a84f1"/>
+	</game>
+	<game name="Final Legacy (USA)">
+		<description>Final Legacy (USA)</description>
+		<release name="Final Legacy (USA)" region="USA"/>
+		<rom name="Final Legacy (USA).bin" size="16384" crc="6bd0d8e4" md5="61ec87b491ee82cc867f66afac7793d6" sha1="4bdfbab83e336c58e4cc2e3dbb096f29976f5761"/>
+	</game>
+	<game name="Food Fight (USA)">
+		<description>Food Fight (USA)</description>
+		<rom name="Food Fight (USA).bin" size="32768" crc="4236f0ea" md5="1164097e2990778b0f99017fe118de47" sha1="79aafc04d41d5167502b4ea74c531f9c2e706580"/>
+	</game>
+	<game name="Frogger (USA)">
+		<description>Frogger (USA)</description>
+		<release name="Frogger (USA)" region="USA"/>
+		<rom name="Frogger (USA).bin" size="8192" crc="40e9476c" md5="9fbed199d8ed7d6aff7e9f41930b4c68" sha1="a4863c26c9e6752211684c9efe10b86c1650314a"/>
+	</game>
+	<game name="Galaxian (USA)">
+		<description>Galaxian (USA)</description>
+		<release name="Galaxian (USA)" region="USA"/>
+		<rom name="Galaxian (USA).bin" size="8192" crc="d60027be" md5="e297d3e487b2e4d46af5770cd9ae4dab" sha1="aa54b46b90d3f5d639dcb63f0e629803dbd369e2"/>
+	</game>
+	<game name="Gato (USA, Europe)">
+		<description>Gato (USA, Europe)</description>
+		<release name="Gato (USA, Europe)" region="EUR"/>
+		<release name="Gato (USA, Europe)" region="USA"/>
+		<rom name="Gato (USA, Europe).bin" size="131072" crc="ab06a3f5" md5="a14bc5fc0bf309c1bfc51efdc495814b" sha1="cabb1effa554d915521b2a49961d8e61b67ec9b3"/>
+	</game>
+	<game name="HardBall! (USA)">
+		<description>HardBall! (USA)</description>
+		<rom name="HardBall! (USA).bin" size="65536" crc="bf0c6df2" md5="b6c4de367b60ef35a7a778421c990e5d" sha1="8a8556b2398168a557bc04e37f1f3a26bc066147"/>
+	</game>
+	<game name="Joust (USA)">
+		<description>Joust (USA)</description>
+		<release name="Joust (USA)" region="USA"/>
+		<rom name="Joust (USA).bin" size="16384" crc="f6ec618c" md5="79e9146264bb499105ae6815b67c4b6a" sha1="975c5b3f818d20c5feb868a25159a678f8c34e1b"/>
+	</game>
+	<game name="Kaboom! (USA, Europe)">
+		<description>Kaboom! (USA, Europe)</description>
+		<release name="Kaboom! (USA, Europe)" region="EUR"/>
+		<release name="Kaboom! (USA, Europe)" region="USA"/>
+		<rom name="Kaboom! (USA, Europe).bin" size="8192" crc="c2e2e645" md5="a35f49c7ff6d508c4696ede2320055db" sha1="f9275d682581e6a07f2e23831bdf40ab3757ae12"/>
+	</game>
+	<game name="Lode Runner (USA, Europe)">
+		<description>Lode Runner (USA, Europe)</description>
+		<release name="Lode Runner (USA, Europe)" region="EUR"/>
+		<release name="Lode Runner (USA, Europe)" region="USA"/>
+		<rom name="Lode Runner (USA, Europe).bin" size="65536" crc="b9a89bbd" md5="fc1de46e0845304f9886b9a3c5530496" sha1="9c59cf69f1c248fb673a3712ec7e35b1a0c42523"/>
+	</game>
+	<game name="Miner 2049er (USA)">
+		<description>Miner 2049er (USA)</description>
+		<release name="Miner 2049er (USA)" region="USA"/>
+		<rom name="Miner 2049er (USA).bin" size="16384" crc="7df1adfb" md5="d859bff796625e980db1840f15dec4b5" sha1="0564b1867a0b570d66dfcbc11adc3e51a2c6f28c"/>
+	</game>
+	<game name="Missile Command (USA)">
+		<description>Missile Command (USA)</description>
+		<release name="Missile Command (USA)" region="USA"/>
+		<rom name="Missile Command (USA).bin" size="8192" crc="d2e36392" md5="790b71981a0378508864be428c84aded" sha1="df5474e89183ca0313f50ea4fc72c67bf81c7351"/>
+	</game>
+	<game name="Moon Patrol (USA)">
+		<description>Moon Patrol (USA)</description>
+		<rom name="Moon Patrol (USA).bin" size="16384" crc="b845edb8" md5="79de1fa1413b43d9aa943cb91394c0a2" sha1="55b66f8e5dda90035f8c53f5317e95d3b55d57c8"/>
+	</game>
+	<game name="One-on-One (USA, Europe)">
+		<description>One-on-One (USA, Europe)</description>
+		<release name="One-on-One (USA, Europe)" region="EUR"/>
+		<release name="One-on-One (USA, Europe)" region="USA"/>
+		<rom name="One-on-One (USA, Europe).bin" size="32768" crc="ab060567" md5="2c074ec2cc675e6d2d6dd2ae7f6a7f82" sha1="d7eb0ed496db4de878c0f1688aa06ade2e3a4bb2"/>
+	</game>
+	<game name="Pac-Man (Europe)">
+		<description>Pac-Man (Europe)</description>
+		<release name="Pac-Man (Europe)" region="EUR"/>
+		<rom name="Pac-Man (Europe).bin" size="8192" crc="61cf6167" md5="e66e9af9af01b019cd4e54aba813fbac" sha1="bc600ef63f8d1bdd3911981c2752ea23db959960"/>
+	</game>
+	<game name="Pengo (USA, Europe)">
+		<description>Pengo (USA, Europe)</description>
+		<rom name="Pengo (USA, Europe).bin" size="16384" crc="d8a9fe0a" md5="5761a63513222a5095650ee769644dd1" sha1="2c0cb48caeb77b25551d27fade419454fa2fd114"/>
+	</game>
+	<game name="Pole Position (Europe)">
+		<description>Pole Position (Europe)</description>
+		<release name="Pole Position (Europe)" region="EUR"/>
+		<rom name="Pole Position (Europe).bin" size="16384" crc="581570c4" md5="97412c0bfff456724e18fa24329e5c21" sha1="57bbb668072241925cc8d19561cc0d47b3d6a570"/>
+	</game>
+	<game name="Qix (USA)">
+		<description>Qix (USA)</description>
+		<release name="Qix (USA)" region="USA"/>
+		<rom name="Qix (USA).bin" size="8192" crc="967b8051" md5="9a93d84bfcbe8b98d37e411c22458a0c" sha1="0454ced8bdf47402dcda261ad12f6b805645bdbc"/>
+	</game>
+	<game name="Rescue on Fractalus (USA, Europe)">
+		<description>Rescue on Fractalus (USA, Europe)</description>
+		<release name="Rescue on Fractalus (USA, Europe)" region="EUR"/>
+		<release name="Rescue on Fractalus (USA, Europe)" region="USA"/>
+		<rom name="Rescue on Fractalus (USA, Europe).bin" size="65536" crc="1ca549ad" md5="8dd03c7615da801094d5e0b720387e8b" sha1="36bc00b2e4452855d0681c50cdec2403ffb2a6bb"/>
+	</game>
+	<game name="River Raid (USA, Europe)">
+		<description>River Raid (USA, Europe)</description>
+		<release name="River Raid (USA, Europe)" region="EUR"/>
+		<release name="River Raid (USA, Europe)" region="USA"/>
+		<rom name="River Raid (USA, Europe).bin" size="8192" crc="6e601d81" md5="1c1cfdd22b97cf51b43f8921aea07895" sha1="107cb8847329f7d68282f54c95ae5533452b87fd" status="verified"/>
+	</game>
+	<game name="Shattered Alliance, The (USA)">
+		<description>Shattered Alliance, The (USA)</description>
+		<release name="Shattered Alliance, The (USA)" region="USA"/>
+		<rom name="Shattered Alliance, The (USA).scp" size="9643986" crc="b96a8c70" md5="eb713ddc95557342170729daf615ce64" sha1="5a021794a6837cb6a6b2d2766c6293456aa96ca2"/>
+		<rom name="Shattered Alliance, The (USA).atr" size="92176" crc="3bed0e22" md5="f66107970a5884c8618f5b0b13582e37" sha1="e8fd2abf5a8a3666d3872cb8853d9e9f9b6f8560"/>
+	</game>
+	<game name="Space Invaders (USA)">
+		<description>Space Invaders (USA)</description>
+		<release name="Space Invaders (USA)" region="USA"/>
+		<rom name="Space Invaders (USA).bin" size="8192" crc="3614d0aa" md5="d2a9aca3b8e80a847e7dc6928a51b835" sha1="963fc3625a38fd5042a0efef4465274aa849dadc"/>
+	</game>
+	<game name="Star Raiders II (USA, Europe)">
+		<description>Star Raiders II (USA, Europe)</description>
+		<release name="Star Raiders II (USA, Europe)" region="EUR"/>
+		<release name="Star Raiders II (USA, Europe)" region="USA"/>
+		<rom name="Star Raiders II (USA, Europe).bin" size="32768" crc="737d4196" md5="0986d1c14c159c4b9e18786c1db326da" sha1="7e04d33d17a5dfcab5e41fca4ae6880730583dce"/>
+	</game>
+	<game name="Super Breakout (USA)">
+		<description>Super Breakout (USA)</description>
+		<release name="Super Breakout (USA)" region="USA"/>
+		<rom name="Super Breakout (USA).bin" size="8192" crc="4da14cf9" md5="7a312df03dab98276ce8195ed7e88bba" sha1="e0e3cfee1deec5f57fcbd3c98f61225913fc6fb7"/>
+	</game>
+	<game name="Trailblazer (Europe)">
+		<description>Trailblazer (Europe)</description>
+		<release name="Trailblazer (Europe)" region="EUR"/>
+		<rom name="Trailblazer (Europe).scp" size="11090476" crc="d8496dbc" md5="5bb59264336a7d3b07961d839ba8ea0c" sha1="f9282107ad868a83dfdc99b46baafeafde931fd5"/>
+		<rom name="Trailblazer (Europe).atr" size="92176" crc="c3ba7ed9" md5="a979c0563c839b5e83daa63929f71eeb" sha1="636e1b74d13b77fc1bab8ae1871c13de262d0147"/>
+	</game>
+	<game name="Tristam Island (World) (v9) (Demo) (Aftermarket) (Unl)">
+		<description>Tristam Island (World) (v9) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Tristam Island (World) (v9) (Demo) (Aftermarket) (Unl).atr" size="138256" crc="9585c3b5" md5="cc9e4a3834763fa2145078420d27835d" sha1="7505cac240ed92b33eba89671e0637e9c72dde91"/>
+	</game>
+</datafile>

@@ -4,7 +4,7 @@
 	<header>
 		<name>HBMAME Rollback ROMs</name>
 		<description>HBMAME Rollback ROMs</description>
-		<version>0.289.1</version>
+		<version>0.289.2</version>
 		<author>Pleasuredome</author>
 	</header>
 	<machine name="HBMAME (v0.148u1) - dinohc">
@@ -39310,6 +39310,10 @@
 		<description>HBMAME (v0.245.32) - pbert</description>
 		<rom name="pb-bg0.bin" size="4096" crc="14e193e9" sha1="5d67b3da848d4a90a4f9bf7f6145ce1aa33188f7"/>
 	</machine>
+	<machine name="HBMAME (v0.245.32) - pgemeni">
+		<description>HBMAME (v0.245.32) - pgemeni</description>
+		<rom name="pgmdemo.m1" size="2097152" crc="8d89877e" sha1="7d76d48d64d7ac5411d714a4bb83f37e3e5b8df6"/>
+	</machine>
 	<machine name="HBMAME (v0.245.32) - primrage">
 		<description>HBMAME (v0.245.32) - primrage</description>
 		<rom name="136102-1041b.25l" size="524288" crc="6a90d283" sha1="7c18c97cb5e5cdd26a52cd6bc099fbce87055311"/>
@@ -39858,6 +39862,73 @@
 	<machine name="HBMAME (v0.288.2) - turfmast03">
 		<description>HBMAME (v0.288.2) - turfmast03</description>
 		<rom name="200s03.p1" size="2097152" crc="c1c9751c" sha1="83e0b26688499a8e06b9df868b9a830bd14051e6"/>
+	</machine>
+	<machine name="HBMAME (v0.289.1) - cps1frog">
+		<description>HBMAME (v0.289.1) - cps1frog</description>
+		<rom name="frog.p3" size="524288" crc="75660aac" sha1="6a521e1d2a632c26e53b83d2cc4b0edecfc1e68c"/>
+	</machine>
+	<machine name="HBMAME (v0.289.1) - gngknight">
+		<description>HBMAME (v0.289.1) - gngknight</description>
+		<rom name="mm_c_knight_05" size="32768" crc="63320d7d" sha1="1b24f4559139f32224f25f123c4ac7e828ee5647"/>
+	</machine>
+	<machine name="HBMAME (v0.289.1) - gngknighta">
+		<description>HBMAME (v0.289.1) - gngknighta</description>
+		<rom name="mjg_05knight.12n" size="32768" crc="58239e38" sha1="2960d237b6a26fbb80e953ac3668c65ec86cc11b"/>
+	</machine>
+	<machine name="HBMAME (v0.289.1) - gngknightc">
+		<description>HBMAME (v0.289.1) - gngknightc</description>
+		<rom name="gngknight.n12" size="16384" crc="2728c032" sha1="484a64353070f9827fbdcc4b1d24eb86ef8268f1"/>
+	</machine>
+	<machine name="HBMAME (v0.289.1) - gngmaiden">
+		<description>HBMAME (v0.289.1) - gngmaiden</description>
+		<rom name="mm_c_maiden_05" size="32768" crc="02e34e64" sha1="ab2b398c9aabde459a7ecdab1a60b44c3523cf5b"/>
+	</machine>
+	<machine name="HBMAME (v0.289.1) - gngmaidena">
+		<description>HBMAME (v0.289.1) - gngmaidena</description>
+		<rom name="mjg_05maiden.12n" size="32768" crc="39f2dd21" sha1="6d4383d319317af2c54c98302fea8ea72958cc15"/>
+	</machine>
+	<machine name="HBMAME (v0.289.1) - gngmaidenc">
+		<description>HBMAME (v0.289.1) - gngmaidenc</description>
+		<rom name="gngmaiden.n12" size="16384" crc="46f9832b" sha1="35ede9ccb296ae56127b3bb67e78ab53578aab0d"/>
+	</machine>
+	<machine name="HBMAME (v0.289.1) - makknight">
+		<description>HBMAME (v0.289.1) - makknight</description>
+		<rom name="12nknight.rom" size="32768" crc="0d414cbc" sha1="d062f19ac0ce50413ed2b4afab3511b7e0688925"/>
+	</machine>
+	<machine name="HBMAME (v0.289.1) - makknightc">
+		<description>HBMAME (v0.289.1) - makknightc</description>
+		<rom name="mj05cknight.bin" size="32768" crc="f188a681" sha1="e19035d394b8071032cab786b3bcd7f48247af7d"/>
+	</machine>
+	<machine name="HBMAME (v0.289.1) - makknightg">
+		<description>HBMAME (v0.289.1) - makknightg</description>
+		<rom name="mj05gknight.bin" size="32768" crc="df44bfe1" sha1="6ecbe7bdb04e87e8fa6b9880daf7385a047a4d4c"/>
+	</machine>
+	<machine name="HBMAME (v0.289.1) - makmaiden">
+		<description>HBMAME (v0.289.1) - makmaiden</description>
+		<rom name="12nmaiden.rom" size="32768" crc="6c900fa5" sha1="faa7540c295a24c86cd9b536309bccb00e736e4a"/>
+	</machine>
+	<machine name="HBMAME (v0.289.1) - makmaidenc">
+		<description>HBMAME (v0.289.1) - makmaidenc</description>
+		<rom name="mj05cmaiden.bin" size="32768" crc="9059e598" sha1="6ac07e68f8e7b666cce115de460822dea86f8ebf"/>
+	</machine>
+	<machine name="HBMAME (v0.289.1) - makmaideng">
+		<description>HBMAME (v0.289.1) - makmaideng</description>
+		<rom name="mj05gmaiden.bin" size="32768" crc="be95fcf8" sha1="9aacee5fe4fa39fb92186cbeece81a5d9d28a768"/>
+	</machine>
+	<machine name="HBMAME (v0.289.1) - sengoku2s01">
+		<description>HBMAME (v0.289.1) - sengoku2s01</description>
+		<rom name="040s01.c1" size="2097152" crc="5740194a" sha1="f5c43cf1c39c7e3215724403de0ee27db21306de"/>
+		<rom name="040s01.c2" size="2097152" crc="dc5a1591" sha1="172718915268e26578fb5307e6d551d2e3cce634"/>
+		<rom name="040s01.c3" size="524288" crc="5c4040e5" sha1="f865e756992474922117f5766ac8af357e3d64da"/>
+		<rom name="040s01.c4" size="524288" crc="57ca479b" sha1="55e22c1fd972e608f1d9c0a0722a0c2d25a8e0da"/>
+		<rom name="040s01.p1" size="1048576" crc="9a8925fe" sha1="08e1a48af71d7929b041d3f8b04222cd2b902404"/>
+	</machine>
+	<machine name="HBMAME (v0.289.1) - sf2prime">
+		<description>HBMAME (v0.289.1) - sf2prime</description>
+		<rom name="c88pr.p1" size="524288" crc="37cf6a95" sha1="aedb69bfbb19dcae50dcc3575b2522f1f008a4f0"/>
+		<rom name="c88pr.p2" size="524288" crc="bed963d7" sha1="6779de7aed7df07c3d9bc8175b97414b901f00fe"/>
+		<rom name="c88pr.p3" size="524288" crc="fb29feee" sha1="0cbd741c7e6c4cd367e9debe35673b861a976a9a"/>
+		<rom name="c88pr.p4" size="524288" crc="539df3c6" sha1="18978abb4460dd1715abed5d070a904303a5248e"/>
 	</machine>
 	<machine name="MisfitMAME (v0.111) - 1942">
 		<description>MisfitMAME (v0.111) - 1942</description>

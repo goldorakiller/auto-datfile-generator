@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>HBMAME 0.289.2 CHDs (merged)</name>
+		<description>HBMAME 0.289.2 CHDs (merged)</description>
+		<category>Standard DatFile</category>
+		<version>-insert version-</version>
+		<date>-insert date-</date>
+		<author>Pleasuredome</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro forcepacking="unzip"/>
+	</header>
+	<machine name="cd_alice">
+		<description>cd_alice</description>
+		<rom name="819.chd" size="267003" crc="f1dbd559" sha1="706b868d575b3e7d7b592a7e9f76d130b1025f2a"/>
+	</machine>
+	<machine name="cd_chelnov">
+		<description>cd_chelnov</description>
+		<rom name="chelnov.chd" size="90270614" crc="068cf27d" sha1="d7da33743f78141c81b8bb500b6c3087b3b20cef"/>
+	</machine>
+	<machine name="cd_diff">
+		<description>cd_diff</description>
+		<rom name="820.chd" size="975496" crc="4fd71e0b" sha1="4c418ae19d6d05accaa947995f39fb20cb95c16d"/>
+	</machine>
+	<machine name="cd_eira">
+		<description>cd_eira</description>
+		<rom name="817.chd" size="11247866" crc="a9839ea6" sha1="6827d21336530a69b5510f074f33dc13ac221ac1"/>
+	</machine>
+	<machine name="cd_ffury">
+		<description>cd_ffury</description>
+		<rom name="ffuryae.chd" size="321074563" crc="02995803" sha1="84c2e11c97a1886ee403e8f23dff45fdad5c8281"/>
+	</machine>
+	<machine name="cd_fukkireta">
+		<description>cd_fukkireta</description>
+		<rom name="822.chd" size="12151922" crc="56dca9f5" sha1="526bfcc29bb28ea1fbc66581ad64d3d7721c3c8f"/>
+	</machine>
+	<machine name="cd_gaxe">
+		<description>cd_gaxe</description>
+		<rom name="gaxe.chd" size="144017607" crc="11174131" sha1="29862a4b1ab40002d3418dd3605eb53c4fd48fa4"/>
+	</machine>
+	<machine name="cd_gaxearr">
+		<description>cd_gaxearr</description>
+		<rom name="gaxearr.chd" size="194921750" crc="266bbd1b" sha1="fac1f654879bb8fff24836b8cee368275ebdcaf2"/>
+	</machine>
+	<machine name="cd_natademo">
+		<description>cd_natademo</description>
+		<rom name="818.chd" size="30847224" crc="288e8668" sha1="a4965937e8f29226a0ef5e5071f18d181453d7ff"/>
+	</machine>
+	<machine name="cd_ngdark">
+		<description>cd_ngdark</description>
+		<rom name="805.chd" size="79643" crc="f0a68a54" sha1="f574721d322615d09aefadba09c40826625414cb"/>
+	</machine>
+	<machine name="cd_noneon">
+		<description>cd_noneon</description>
+		<rom name="823.chd" size="5175" crc="e06edff7" sha1="ca93558b239175f0b65900b6a6cadc4d5eeb6629"/>
+	</machine>
+	<machine name="cd_ntris3d">
+		<description>cd_ntris3d</description>
+		<rom name="825.chd" size="25997" crc="2e973d7d" sha1="0cbd38f20ac3bc7c766357b9fbeb6ac9b16b46a7"/>
+	</machine>
+	<machine name="cd_phoenix">
+		<description>cd_phoenix</description>
+		<rom name="815.chd" size="207208" crc="4fac1871" sha1="80848dac3e3b4a8bef792dd335a42feada8a0d28"/>
+	</machine>
+	<machine name="cd_pong">
+		<description>cd_pong</description>
+		<rom name="827.chd" size="4836775" crc="3fc0a469" sha1="0092dd8e59633c4b08b5605e11af5d281596b01b"/>
+	</machine>
+	<machine name="cd_pow">
+		<description>cd_pow</description>
+		<rom name="pow.chd" size="42583888" crc="78daf393" sha1="ba3d1ca26e88ff2af260b30d35fddf59c32d85d8"/>
+	</machine>
+	<machine name="cd_pow2">
+		<description>cd_pow2</description>
+		<rom name="pow2.chd" size="42603551" crc="108fbf0a" sha1="8cac64f4edba3a51300d0d323e881f925e92f199"/>
+	</machine>
+	<machine name="cd_shinobiarr">
+		<description>cd_shinobiarr</description>
+		<rom name="shinobiarr.chd" size="141227339" crc="a4f7ac36" sha1="a4609b5ae2372752660893ae8c6bae92912e47fb"/>
+	</machine>
+	<machine name="cd_speedball">
+		<description>cd_speedball</description>
+		<rom name="829.chd" size="111969188" crc="f7ab6dd2" sha1="5d004ea6826dfd1da62dd6dbc1983de2c61bbc17"/>
+	</machine>
+	<machine name="cd_ssrpg">
+		<description>cd_ssrpg</description>
+		<rom name="828.chd" size="288657363" crc="cede01a6" sha1="e8b2733f7355ae70ec038cd705bdbdbd0226bd9d"/>
+	</machine>
+	<machine name="cd_subspecies">
+		<description>cd_subspecies</description>
+		<rom name="824.chd" size="4588" crc="2abcc493" sha1="cf51612d88000122f9417bb3de70209936ad78f7"/>
+	</machine>
+	<machine name="cd_visualnovel">
+		<description>cd_visualnovel</description>
+		<rom name="821.chd" size="25120658" crc="c33637d2" sha1="323737807b045d5618a8e08cf46f4df0802acc9d"/>
+	</machine>
+</datafile>
