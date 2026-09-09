@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games</name>
 		<description>Commodore Amiga - WHDLoad - Games</description>
 		<category>Standard DatFile</category>
-		<version>2026-09-03</version>
-		<date>2026-09-03</date>
+		<version>2026-09-09</version>
+		<date>2026-09-09</date>
 		<author>Retroplay</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -591,10 +591,10 @@
 		<rom name="CannonFodder2_v1.17_It.lha" size="1437299" crc="b045c7fd" md5="8cf143904529426e3df04bb9ffda913b" sha1="8c22602bf79df7d64be1c205f0334adb475769b6"/>
 		<rom name="CannonFodder2AlienLevels_v1.0.lha" size="253700" crc="6c1a6722" md5="05dd42d7a3b725ae4895457b577d4dc4" sha1="c53ed056b80967187e649cc771559ba2b7695fe8"/>
 		<rom name="CannonFodder_v1.2_CD32.lha" size="1523389" crc="c61add27" md5="2a80e907e8b68483e42d29d05b1b3125" sha1="13c2869844bf78d25426f78feee0961b32eedce3"/>
-		<rom name="CannonFodder_v3.2_0860.lha" size="1551828" crc="c0c414dc" md5="1215d7266a8f27b1c3d17c2f1153f100" sha1="11b7fdba69e240d43a994ee40f57e8dc4aeeb9ca"/>
-		<rom name="CannonFodder_v3.2_De.lha" size="1550103" crc="5e9cd347" md5="215f2f0fb6c25323743889e114c54b21" sha1="ee5bdb4acad1663600b79494be5dfc3353bf256d"/>
-		<rom name="CannonFodder_v3.2_Fr_2332.lha" size="1553495" crc="25d96f96" md5="4e9f8f27b0da5e2b90005e1d82278a3e" sha1="4ca810c19d332778b9c3082b70213252503b1e48"/>
-		<rom name="CannonFodder_v3.2_It.lha" size="1549629" crc="c1f69cc4" md5="b1f2c48aef763936dd668bc9e70e5011" sha1="5f5e1bb0ed7edcb2dc140183aa1a21317ea0c5a2"/>
+		<rom name="CannonFodder_v3.3_0860.lha" size="1551797" crc="4cc10544" md5="25db5f7d21b2d696ecce1bc2e3be4cbc" sha1="08b0feac8563b5bc7b74bbab6fb123db7fb053ac"/>
+		<rom name="CannonFodder_v3.3_De.lha" size="1550072" crc="eded6977" md5="b495c5e43325c702a7bb66c3dd6d5ac7" sha1="21f79c3c4e9b58a910fd4026f1c0d317a9327057"/>
+		<rom name="CannonFodder_v3.3_Fr_2332.lha" size="1553464" crc="4dd5477b" md5="f99ae1876a01e5589e4f4df447a94e7a" sha1="22276c5e3afdffdb025112e35b7536dbbaca2050"/>
+		<rom name="CannonFodder_v3.3_It.lha" size="1549598" crc="9e03fafd" md5="e1340bce0f97f1cc70193489d7d8df4e" sha1="d55aed4df8c8a441e8e4e91d5cd3a9d4419da810"/>
 		<rom name="CannonFodderNewCampaign_v2.0.lha" size="1533244" crc="b08193df" md5="de3e58457837b82e7604fa1685cf86b8" sha1="54f118602d8b751533f11c9b3f92f26cf23abeed"/>
 		<rom name="CannonFodderPlus_v1.0_0060.lha" size="400024" crc="a441056e" md5="d8b93315fae7593e8079f963b197dd2a" sha1="562e72390bfc41eddcb9a06458eeec5ce166f4f9"/>
 		<rom name="CannonSoccer_v1.0_0165.lha" size="213762" crc="5d66a688" md5="7fa32b21eb0aa9b169589d78d7bbf8b3" sha1="5969aaea36cfb84526596e978b63d1dbe31fb1e2"/>
@@ -2550,8 +2550,8 @@
 		<rom name="OutOfThisWorld_v2.8_NTSC_1556.lha" size="1005952" crc="ed85894d" md5="a718747b3576580e1d544988ead17b2b" sha1="f0ecbd4d4849eaae5fbc70feb28b1e9c613be82a"/>
 		<rom name="OutRun_v1.2_1161.lha" size="413535" crc="ed63050c" md5="cca0ded9d87a6ef291e81fd79bf0bf53" sha1="c7121d539073319e2b18a86495240bf9a6bcdc02"/>
 		<rom name="OutRun_v1.2_NTSC_2355.lha" size="424644" crc="e0985214" md5="7df3d59f43abd0d0e7abce4e5f3c5a14" sha1="28d5c5d11dae2c2b8509f80552e0edfc42faa165"/>
-		<rom name="OutRunAmigaEdition_v1.3_AGA.lha" size="2457928" crc="48a64773" md5="cbaafe2db70d7460b59ac843b660111c" sha1="73bd1c9b485004a6370e5cd453fe31e1422ff49a"/>
-		<rom name="OutRunAmigaEdition_v1.3_AGA_68040.lha" size="2457925" crc="42bcf831" md5="0e59797e8114284433c2e3a83c1c42ba" sha1="ce0c55a4808a48448bdb86e0c3e44cd8ae941cbe"/>
+		<rom name="OutRunAmigaEdition_v1.4_AGA.lha" size="2462905" crc="f8541c80" md5="f3778a0faa6d78eb3d3c5130c1b01c03" sha1="dba82138915b03de5518bd4437602fb1add1ac70"/>
+		<rom name="OutRunAmigaEdition_v1.4_AGA_68040.lha" size="2462812" crc="e40a85b5" md5="e00dfd908df2f32454d30113cce5aa15" sha1="9cc5bf943b18282e86622609484843ca5228324e"/>
 		<rom name="OutRunEuropa_v1.3.lha" size="1431583" crc="50b0ca9c" md5="bd9dcb8e347d68d833b4f316e6d2b1a3" sha1="2664a68854689762a8f05846290f84bca58d977b"/>
 		<rom name="Outzone_v1.1_2333.lha" size="319478" crc="61ccedc7" md5="b3d6cd78a26779f1616848d0e9b21887" sha1="f068e9138bf593eacc68b286d142f95757221386"/>
 		<rom name="Overdrive_v1.0_Infacto.lha" size="1902630" crc="6e73f30d" md5="4651c458a46e70e0338d608aef8c2b55" sha1="f6a19e0fc10a732ef7e9b8e43581edb91d702ebe"/>
@@ -3472,7 +3472,7 @@
 		<rom name="SuperTwintris_v1.0.lha" size="96227" crc="9ff7656e" md5="e44f9afc4189fa16eb6a810fcda0dc54" sha1="06e4bbd4a7461bc95968aeb2efef0e9db14aa31c"/>
 		<rom name="Supremacy_v1.1_1384.lha" size="1189598" crc="5fb3e004" md5="1e37259a01d1aa4f951976f6d8b300c6" sha1="a0154512d7b8ae315a0cccc6e68cd2f5443d61ea"/>
 		<rom name="SurfNinjas_v1.1_AGA_1291.lha" size="1767630" crc="19c3abd6" md5="92b293a028a18f7c69ba4d2527aa09d9" sha1="f647f274b4179dc34331fb3dd75b64cbae8ccd2e"/>
-		<rom name="SurfNinjas_v1.1_CD32.lha" size="9501757" crc="c82518ea" md5="c981b9937aaf0c59c4e873e3071e889c" sha1="0e3f9d478045481f34f27a198ab7be723f6db7b3"/>
+		<rom name="SurfNinjas_v1.1_CD32.lha" size="9501758" crc="ef016613" md5="c48d2dbb9016f815418eea48208befe8" sha1="469a14e125b51e054c8619c024e58963a7488af3"/>
 		<rom name="SuspiciousCargo_v2.0_0148.lha" size="1437662" crc="0ee61bac" md5="d02e38f17369d49bbed3585eb4cae2a8" sha1="3db4a30ca5f2678b753661f3e58da40743a3e368"/>
 		<rom name="Swap_v1.0.lha" size="260039" crc="b4394736" md5="5cd9b867b510e78ee89bde916f66bc8e" sha1="a778056d0506e9ac76310bd78f72fc64fe9a8130"/>
 		<rom name="Swap_v1.0_Fr_2146.lha" size="275667" crc="ee8298b5" md5="b6a08e64b03a4b932d06fad9a4ae84f7" sha1="f159f1bf1e08ecf9fc31c8b2bcdd40005687b5e8"/>
