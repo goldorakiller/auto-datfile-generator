@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games</name>
 		<description>Commodore Amiga - WHDLoad - Games</description>
 		<category>Standard DatFile</category>
-		<version>2026-09-09</version>
-		<date>2026-09-09</date>
+		<version>2026-09-13</version>
+		<date>2026-09-13</date>
 		<author>Retroplay</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -291,6 +291,7 @@
 		<rom name="Baal_v1.4.lha" size="391365" crc="aeec01d1" md5="48a29f66b45494853bda3f7130ec3a83" sha1="031adc7674f5980584b922e3ec940e5b929c33c8"/>
 		<rom name="BabaYaga_v1.1.lha" size="912980" crc="60353be8" md5="2fb8082d11e81ff166a23b517a2177e6" sha1="25649c615d49057060fdf2653ecc6b5d0c1fdd97"/>
 		<rom name="BabyJoInGoingHome_v1.1_2291.lha" size="530701" crc="8baa0cd3" md5="4fcdd56347a20f14d5f22c894c513eb7" sha1="0d51287436ff422c3634af1b758b66f3140be195"/>
+		<rom name="BabylonianTwins_v1.0.lha" size="1482786" crc="074eb2b0" md5="e8a9bc93c6f802af3f91cd860ebacd19" sha1="04ba161ca37738d5d297a46af671cf0e22885bc5"/>
 		<rom name="BabylonianTwinsDemo_v1.1.lha" size="540883" crc="fab890ac" md5="ad3885fa524624628ed312af1a8cece8" sha1="56e075d0b2dcb65bd95f04d80d6e60169e81e707"/>
 		<rom name="Backlash_v1.0_1118.lha" size="173223" crc="076accca" md5="b1efb3c68f9908df08e9526a79641cf5" sha1="8e9a353827c8e1b610b0ca614f39a7b358503035"/>
 		<rom name="BackToTheFuturePart2_v1.3a_0005.lha" size="510248" crc="e7ba85d6" md5="7c9af9145f16a96636fdc65c84b910ab" sha1="83667fda294e3df7ad3d796c80088927720b35ee"/>
@@ -970,7 +971,7 @@
 		<rom name="Detroit_v1.1_AGA.lha" size="1190294" crc="1c9b224c" md5="8ea9d96b5f5dc5675505f955febae0b0" sha1="c7fa32bf656e887962e1fa0bc535d953ecd8f349"/>
 		<rom name="Detroit_v1.1_AGA_Fr.lha" size="1188798" crc="3523e592" md5="639a980a138d6369f7532bde21f857d7" sha1="5cfed28682de7dfb186ab022c740d66bf8b7332c"/>
 		<rom name="Detroit_v1.1_Fr.lha" size="1125542" crc="1b408d8d" md5="cc110c5690c2b4f5afb232ab3ab49b73" sha1="b6045393a876c91053e41e23655ff3f173864897"/>
-		<rom name="Deuteros_v1.10_0958.lha" size="967771" crc="919ef60c" md5="abeb2f42e54dfa18582cbcaa484f9609" sha1="dd23d52f1f398973999fedf7dbd0eb12a36a3018"/>
+		<rom name="Deuteros_v1.12_0958.lha" size="971168" crc="58881d5b" md5="82f682679587850406e94dae286f0bdc" sha1="1d168ffa6f2e4a3881a2a6cb1c3b808cf26c51ab"/>
 		<rom name="DevilsTempleDemo_v1.0.lha" size="458570" crc="b55747d3" md5="0607aae516b8b4005d15d505a82c15a5" sha1="380b25fd2f58ba9e30329451794cc5eeb243d1b1"/>
 		<rom name="DeviousDesigns_v1.3_0256.lha" size="1456847" crc="d5984df8" md5="94639b12766ed45d597215cf5e90c44a" sha1="a8730f36079f73fc8fae7429883cde173eccf830"/>
 		<rom name="DGeneration_v2.2_0677.lha" size="734710" crc="d3b61aa8" md5="03932171637e194faf3ac4eae1da323d" sha1="3ce6d239fd3a56432903e54ccf08f050f59a6da2"/>
@@ -1950,8 +1951,8 @@
 		<rom name="Kikstart2_v1.1.lha" size="132064" crc="cfc55704" md5="dad59c949ff1735ad63ad7a7c3905465" sha1="ad4c0a4ccdef479fdd00a5c2a7a13bd923b59b5a"/>
 		<rom name="Kikugi_v1.0.lha" size="340121" crc="629751ff" md5="e4612388b18ba0afc1208909583709b3" sha1="034e4fd065aa735759b1ede46c04155ccfac8912"/>
 		<rom name="Killerball_v1.1_2565.lha" size="537942" crc="f8c8ee0f" md5="1e7a025270f2c03e13df27150315673e" sha1="43b27c94ef78a669cf47ede2d813ef9ebdab10ba"/>
-		<rom name="KillingCloud_v2.3_3031.lha" size="1104171" crc="d6b54891" md5="cce674a0c22a854063b7ac4ab4232b2c" sha1="1fdd43133a6be44b68de4c997d93ba745b6ac8d9"/>
-		<rom name="KillingCloud_v2.3_NTSC_3019.lha" size="1053178" crc="2b550fc0" md5="9d2948b4b01af4b31e548c534dd7cda3" sha1="a5c0052f6befc1d844f3cbe426ceaab7d7255e03"/>
+		<rom name="KillingCloud_v2.4_3031.lha" size="1112391" crc="68756a30" md5="3db564670fff8a941c1f9aed0d56b904" sha1="d8c0312ba71e7a8a87120aa88b68df86409a45ea"/>
+		<rom name="KillingCloud_v2.4_NTSC_3019.lha" size="1053280" crc="40869da7" md5="276bbd9b6611e584b297a3b8ceadeea0" sha1="85fb68062bd73c79d5551c9b947367c3ad3d37b3"/>
 		<rom name="KillingGameShow_v1.3.lha" size="1491821" crc="6a84ce1b" md5="f8d84e22b4ff6bc212607b134dbedf76" sha1="ccae91c708f6a6d082ff0cc866ed1ffad02f7324"/>
 		<rom name="KillingGameShow_v1.3_NTSC.lha" size="1491879" crc="6f38732e" md5="ebd62a44ab6dc7a41e2c96bcae1b4b92" sha1="91960730cb6f77f047002cea017d246bc5e2413b"/>
 		<rom name="KillingMachine_v1.0_2504.lha" size="382121" crc="b8310fce" md5="13c3e6e6fdd0f262f7013d300445f418" sha1="33f73be3c1c10290ca1a4eb47c43bd610352a8a6"/>
@@ -3417,8 +3418,8 @@
 		<rom name="SuperCars_v1.3_1Disk_1528.lha" size="872900" crc="9efb5775" md5="b40585f860fa97fb059ac5903070ec4d" sha1="bff5ce80e7dc6cdb105ad9e419464356895a47df"/>
 		<rom name="SuperCars_v1.3_2Disk_1527.lha" size="1173680" crc="b9573da9" md5="4ae9409cb973371c106771edd92de460" sha1="74f25639a54e5e26f01edc9692652047294e78a8"/>
 		<rom name="SuperCauldron_v1.2_3066.lha" size="886352" crc="fd48c991" md5="38e60aa4ba0eb24d4e8ec8a95e47ead5" sha1="d67caf819f00190b9bfb36e79457cced2bf5536a"/>
-		<rom name="Superfrog_v1.8_0035.lha" size="2809000" crc="1cbd0cfb" md5="57a3b47ae551c2e789da274980080110" sha1="fc8eb75436dfbaef471327ee35c1ed70f1463a2e"/>
-		<rom name="Superfrog_v1.8_CD32.lha" size="3363125" crc="dfe8afad" md5="9790726504c603289653045d102a6617" sha1="df585f69a879d1b5c4b4e5d3492234eaad27bd3a"/>
+		<rom name="Superfrog_v1.9_0035.lha" size="2809018" crc="a4b63706" md5="4b1ad46e8a290c4b313dd0a7a337c977" sha1="ae4b19fe0f9fd30ada718ab563f38ee338694160"/>
+		<rom name="Superfrog_v1.9_CD32.lha" size="3363218" crc="79698e3f" md5="926fa48009edf34a85a26c05e10f9578" sha1="8c2a8ed07863854bf0a952a77390831d5043e061"/>
 		<rom name="SuperfrogDemo_v1.1_AmigaAction.lha" size="435644" crc="c07e31b9" md5="97d35d0519e6d95a7024240ad9ee2a9c" sha1="b5dd6c3d2bc8cdb4b95432452cec837363bcd41f"/>
 		<rom name="SuperfrogDemo_v1.1_CUAmiga.lha" size="403797" crc="49d585c7" md5="b65f74e0c8f0aa28a345d51f0dcdc8dd" sha1="5be775ab955357a23a0952a191dd259c29bf57fe"/>
 		<rom name="SuperfrogDemo_v1.1_TheOne.lha" size="393202" crc="5c7be51e" md5="784c5ac315dc20722cb28433adf87112" sha1="c33bd5ca9229782c35c3fb31ce79e8baaca59feb"/>
