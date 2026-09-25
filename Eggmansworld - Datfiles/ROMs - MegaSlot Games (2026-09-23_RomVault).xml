@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ROMs - MegaSlot Games</name>
+		<description></description>
+		<category>Fruit Machine</category>
+		<version></version>
+		<date>2026-09-23</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Megaslot">
+		<rom name="buttonConfig.cfg" size="88" crc="68d1888d" sha1="0733115186f2897606009fa6f9bf93cb637b52ec"/>
+		<rom name="config.lua" size="214" crc="9f5d6b25" sha1="7fcce1f68504d3697dcdc79a2399205809dc1db8"/>
+		<rom name="game.exe" size="729088" crc="d137128a" sha1="bb6cc5522501d6ff79bcaa1550b5682a0d1b8073"/>
+		<rom name="MegaSlotSlave.avi" size="9869414" crc="97788ee0" sha1="fa2fb119b98c88d5f5171a9627df98918038379a"/>
+		<rom name="NVRAM.dat" size="136" crc="604827a5" sha1="ea4a7d38d86dc9b392f8322902fa97206546b9c1"/>
+		<rom name="PGPSplash.png" size="769133" crc="b53927be" sha1="b73a07e1c2075f18a390081076209cc552b52d81"/>
+		<rom name="Players/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Players/player1/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Players/player1/Megaslot/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Players/player1/Megaslot/buttonConfig.cfg" size="88" crc="68d1888d" sha1="0733115186f2897606009fa6f9bf93cb637b52ec"/>
+		<rom name="Players/player1/Megaslot/config.lua" size="214" crc="9f5d6b25" sha1="7fcce1f68504d3697dcdc79a2399205809dc1db8"/>
+		<rom name="Players/player1/Megaslot/game.exe" size="729088" crc="d137128a" sha1="bb6cc5522501d6ff79bcaa1550b5682a0d1b8073"/>
+		<rom name="Players/player1/Megaslot/MegaSlotSlave.avi" size="9869414" crc="97788ee0" sha1="fa2fb119b98c88d5f5171a9627df98918038379a"/>
+		<rom name="Players/player1/Megaslot/NVRAM.dat" size="136" crc="604827a5" sha1="ea4a7d38d86dc9b392f8322902fa97206546b9c1"/>
+		<rom name="Players/player1/Megaslot/PGPSplash.png" size="769133" crc="b53927be" sha1="b73a07e1c2075f18a390081076209cc552b52d81"/>
+		<rom name="Players/player1/Megaslot/Resources/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Players/player1/Megaslot/Resources/Primary.wad" size="4507623" crc="e83f1358" sha1="a8ceb55c4691ed50f35de0d4559cfe74a5a6426c"/>
+		<rom name="Players/player1/Megaslot/Resources/Secondary.wad" size="10638146" crc="27af3519" sha1="145012216385aef5c937f77bb818094ad635889e"/>
+		<rom name="Players/player1/Megaslot/RNGDLL.dll" size="14848" crc="ed3d0e95" sha1="7bd18f22ecb3514c7c0e9ee8e9989341077cf92c"/>
+		<rom name="Players/player1/Megaslot/SharedNVRAM.dat" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Players/player1/Megaslot/ShellDll.dll" size="22528" crc="3cdf9b9b" sha1="2cc5f1daf6e0d8ffa6856e4c9cae22605f8c4847"/>
+		<rom name="Players/player1/Megaslot/Sounds/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Players/player1/Megaslot/Sounds/count18.wav" size="2182" crc="f56597bf" sha1="e6fa92c822f8784a2418ac59aeb90179d92b650d"/>
+		<rom name="Players/player1/Megaslot/Sounds/count1c.wav" size="72598" crc="20984136" sha1="c3fd2b118d90f74a7e838b50e5a9bc877c0f1997"/>
+		<rom name="Players/player1/Megaslot/Sounds/rstop1.wav" size="9558" crc="265fd51f" sha1="cf68218b658bcf73790879ea381f925945347bee"/>
+		<rom name="Players/player1/Megaslot/Sounds/rstop2.wav" size="9118" crc="4784afe5" sha1="d8426b5ca76e6651accda1075f738b6297906e88"/>
+		<rom name="Players/player1/Megaslot/Sounds/rstop3.wav" size="8634" crc="ef34b7c5" sha1="46afbab3bb374de0e81a9f8d5b3c56bab71074d6"/>
+		<rom name="Players/player1/Megaslot/Sounds/rstop4.wav" size="8634" crc="624df433" sha1="308ce41659902dcdaedcf418fe9bfbf3db177ea8"/>
+		<rom name="Players/player1/Megaslot/Sounds/rstop5.wav" size="8634" crc="6482bd8c" sha1="3b912770d26f6477184825b425d1a84d94052982"/>
+		<rom name="Players/player1/Megaslot/Sounds/start.wav" size="4960" crc="59265971" sha1="46e45240019cb521320861507b2e69f98521160d"/>
+		<rom name="Players/player1/Megaslot/Sounds/till.wav" size="19212" crc="3da4b0a1" sha1="0ebac6f25ce8b778c41ba1d2dd91a4c97b97cd0d"/>
+		<rom name="Players/player1/Megaslot/Sounds/win1.wav" size="32428" crc="7996732c" sha1="5ec14ac9b7033ae147ed6e5279f681c53af024b9"/>
+		<rom name="Players/player1/Megaslot/Sounds/winner.wav" size="120466" crc="f28590b3" sha1="772fbdbcb49b68ce00c1ffa74ab3bda21c60adc1"/>
+		<rom name="Players/player1/Megaslot/versioninfo.txt" size="22" crc="80c70f87" sha1="ee306e52e8287c4a661de77184a0ba4dfeffea10"/>
+		<rom name="Players/player2/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Players/player2/Megaslot/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Players/player2/Megaslot/buttonConfig.cfg" size="88" crc="68d1888d" sha1="0733115186f2897606009fa6f9bf93cb637b52ec"/>
+		<rom name="Players/player2/Megaslot/config.lua" size="214" crc="9f5d6b25" sha1="7fcce1f68504d3697dcdc79a2399205809dc1db8"/>
+		<rom name="Players/player2/Megaslot/game.exe" size="729088" crc="dee87850" sha1="edcbd270565f6b3c7a7e1b0e9006d88af216ff90"/>
+		<rom name="Players/player2/Megaslot/MegaSlotSlave.avi" size="9869414" crc="97788ee0" sha1="fa2fb119b98c88d5f5171a9627df98918038379a"/>
+		<rom name="Players/player2/Megaslot/NVRAM.dat" size="136" crc="604827a5" sha1="ea4a7d38d86dc9b392f8322902fa97206546b9c1"/>
+		<rom name="Players/player2/Megaslot/PGPSplash.png" size="769133" crc="b53927be" sha1="b73a07e1c2075f18a390081076209cc552b52d81"/>
+		<rom name="Players/player2/Megaslot/Resources/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Players/player2/Megaslot/Resources/Primary.wad" size="4507623" crc="e83f1358" sha1="a8ceb55c4691ed50f35de0d4559cfe74a5a6426c"/>
+		<rom name="Players/player2/Megaslot/Resources/Secondary.wad" size="10638146" crc="27af3519" sha1="145012216385aef5c937f77bb818094ad635889e"/>
+		<rom name="Players/player2/Megaslot/RNGDLL.dll" size="14848" crc="ed3d0e95" sha1="7bd18f22ecb3514c7c0e9ee8e9989341077cf92c"/>
+		<rom name="Players/player2/Megaslot/SharedNVRAM.dat" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Players/player2/Megaslot/ShellDll.dll" size="22528" crc="3cdf9b9b" sha1="2cc5f1daf6e0d8ffa6856e4c9cae22605f8c4847"/>
+		<rom name="Players/player2/Megaslot/Sounds/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Players/player2/Megaslot/Sounds/count18.wav" size="2182" crc="f56597bf" sha1="e6fa92c822f8784a2418ac59aeb90179d92b650d"/>
+		<rom name="Players/player2/Megaslot/Sounds/count1c.wav" size="72598" crc="20984136" sha1="c3fd2b118d90f74a7e838b50e5a9bc877c0f1997"/>
+		<rom name="Players/player2/Megaslot/Sounds/rstop1.wav" size="9558" crc="265fd51f" sha1="cf68218b658bcf73790879ea381f925945347bee"/>
+		<rom name="Players/player2/Megaslot/Sounds/rstop2.wav" size="9118" crc="4784afe5" sha1="d8426b5ca76e6651accda1075f738b6297906e88"/>
+		<rom name="Players/player2/Megaslot/Sounds/rstop3.wav" size="8634" crc="ef34b7c5" sha1="46afbab3bb374de0e81a9f8d5b3c56bab71074d6"/>
+		<rom name="Players/player2/Megaslot/Sounds/rstop4.wav" size="8634" crc="624df433" sha1="308ce41659902dcdaedcf418fe9bfbf3db177ea8"/>
+		<rom name="Players/player2/Megaslot/Sounds/rstop5.wav" size="8634" crc="6482bd8c" sha1="3b912770d26f6477184825b425d1a84d94052982"/>
+		<rom name="Players/player2/Megaslot/Sounds/start.wav" size="4960" crc="59265971" sha1="46e45240019cb521320861507b2e69f98521160d"/>
+		<rom name="Players/player2/Megaslot/Sounds/till.wav" size="19212" crc="3da4b0a1" sha1="0ebac6f25ce8b778c41ba1d2dd91a4c97b97cd0d"/>
+		<rom name="Players/player2/Megaslot/Sounds/win1.wav" size="32428" crc="7996732c" sha1="5ec14ac9b7033ae147ed6e5279f681c53af024b9"/>
+		<rom name="Players/player2/Megaslot/Sounds/winner.wav" size="120466" crc="f28590b3" sha1="772fbdbcb49b68ce00c1ffa74ab3bda21c60adc1"/>
+		<rom name="Players/player2/Megaslot/versioninfo.txt" size="22" crc="80c70f87" sha1="ee306e52e8287c4a661de77184a0ba4dfeffea10"/>
+		<rom name="Presenter/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Presenter/Master/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Presenter/Master/Astranet.dll" size="192563" crc="d76e4018" sha1="cc3dab5a064c9f4dd94e35301c231f1c66606201"/>
+		<rom name="Presenter/Master/dbghelp.dll" size="489984" crc="91c52e51" sha1="cd24ccec2493b64904cf3c139cd8d58d28d5993b"/>
+		<rom name="Presenter/Master/MegaSlot.exe" size="47715867" crc="5d746cbf" sha1="0aa9ce8b49221e789553ab92fd99563c6dc9f62b"/>
+		<rom name="Presenter/Master/MegaSlot.swf" size="46728560" crc="2f5cf657" sha1="27707bbd80c4d0d58e96ed3a56cbf7f8ea4f4996"/>
+		<rom name="Presenter/Master/Mfco42d.dll" size="827445" crc="cf619047" sha1="25130beda6cafa5e00f3658680dbf1eccb90515f"/>
+		<rom name="Presenter/Master/Msvcp60d.dll" size="516173" crc="4f4512fe" sha1="55ffefb0a33bce9f81a229fa34a4ba7f6bca9aef"/>
+		<rom name="Presenter/Master/Msvcrtd.dll" size="434252" crc="33326f94" sha1="71764c042437c690da80fe9e7bdad852118d25ce"/>
+		<rom name="Presenter/Master/Server App.exe" size="327754" crc="1637dc60" sha1="ed77ac8646d4b8f25f6391f0fab85496aebb9895"/>
+		<rom name="Resources/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Resources/Primary.wad" size="4507623" crc="e83f1358" sha1="a8ceb55c4691ed50f35de0d4559cfe74a5a6426c"/>
+		<rom name="Resources/Secondary.wad" size="10638146" crc="27af3519" sha1="145012216385aef5c937f77bb818094ad635889e"/>
+		<rom name="RNGDLL.dll" size="14848" crc="ed3d0e95" sha1="7bd18f22ecb3514c7c0e9ee8e9989341077cf92c"/>
+		<rom name="SharedNVRAM.dat" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="ShellDll.dll" size="22528" crc="3cdf9b9b" sha1="2cc5f1daf6e0d8ffa6856e4c9cae22605f8c4847"/>
+		<rom name="slotto-balance.bin" size="8" crc="6522df69" sha1="05fe405753166f125559e7c9ac558654f107c7e9"/>
+		<rom name="Sounds/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Sounds/count18.wav" size="2182" crc="f56597bf" sha1="e6fa92c822f8784a2418ac59aeb90179d92b650d"/>
+		<rom name="Sounds/count1c.wav" size="72598" crc="20984136" sha1="c3fd2b118d90f74a7e838b50e5a9bc877c0f1997"/>
+		<rom name="Sounds/rstop1.wav" size="9558" crc="265fd51f" sha1="cf68218b658bcf73790879ea381f925945347bee"/>
+		<rom name="Sounds/rstop2.wav" size="9118" crc="4784afe5" sha1="d8426b5ca76e6651accda1075f738b6297906e88"/>
+		<rom name="Sounds/rstop3.wav" size="8634" crc="ef34b7c5" sha1="46afbab3bb374de0e81a9f8d5b3c56bab71074d6"/>
+		<rom name="Sounds/rstop4.wav" size="8634" crc="624df433" sha1="308ce41659902dcdaedcf418fe9bfbf3db177ea8"/>
+		<rom name="Sounds/rstop5.wav" size="8634" crc="6482bd8c" sha1="3b912770d26f6477184825b425d1a84d94052982"/>
+		<rom name="Sounds/start.wav" size="4960" crc="59265971" sha1="46e45240019cb521320861507b2e69f98521160d"/>
+		<rom name="Sounds/till.wav" size="19212" crc="3da4b0a1" sha1="0ebac6f25ce8b778c41ba1d2dd91a4c97b97cd0d"/>
+		<rom name="Sounds/win1.wav" size="32428" crc="7996732c" sha1="5ec14ac9b7033ae147ed6e5279f681c53af024b9"/>
+		<rom name="Sounds/winner.wav" size="120466" crc="f28590b3" sha1="772fbdbcb49b68ce00c1ffa74ab3bda21c60adc1"/>
+		<rom name="versioninfo.txt" size="22" crc="80c70f87" sha1="ee306e52e8287c4a661de77184a0ba4dfeffea10"/>
+	</game>
+</datafile>

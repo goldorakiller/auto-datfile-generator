@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Extras - Emulators - EFME</name>
+		<description></description>
+		<category>Fruit Machine</category>
+		<version></version>
+		<date>2026-09-23</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="EFME-Setup-public-1.0.26">
+		<rom name="EFME-Setup-public-1.0.26.exe" size="24476790" crc="475309a2" sha1="5514c76f1777ae2970e93fcbfabebc68146d6545"/>
+	</game>
+	<game name="EFME-Setup-public-1.0.35">
+		<rom name="EFME-Setup-public-1.0.35.exe" size="25283155" crc="857adf5d" sha1="c5e85c500ce0d006e7b9846c7071454968c79941"/>
+		<rom name="README.txt" size="1930" crc="a3b187bb" sha1="bfe55f928407f8965863e67a682f4f8f74c12ae3"/>
+	</game>
+</datafile>

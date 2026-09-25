@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Extras - Emulators - Slotto</name>
+		<description></description>
+		<category>Fruit Machine</category>
+		<version></version>
+		<date>2026-09-23</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Slotto (v1, 2026-08-11)">
+		<rom name="Config/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Config/Bookkeeping/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Config/Bookkeeping/Slotto_Bookkeeping_Events.csv" size="2168" crc="17fb53b8" sha1="03a037e22182d57bad5963c69db87c5d5cea06aa"/>
+		<rom name="Config/Bookkeeping/Slotto_Bookkeeping_Summary.csv" size="574" crc="3a9c1c39" sha1="f31d398416fa06ec358e76822f1829daae74c5f4"/>
+		<rom name="Config/Bookkeeping/Slotto_Bookkeeping_Summary.json" size="3395" crc="c2a12bd9" sha1="ce80389ff24738c5b7eba6853cc492c7d9fccbea"/>
+		<rom name="Config/Coins.wav" size="113488" crc="f4d45293" sha1="c1da267e61b7be961d86b7fa1330d0176c6f963c"/>
+		<rom name="Config/Dlls/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Config/Dlls/ITLComms.dll" size="37888" crc="d3c4a6f4" sha1="5339b5a217460a60f640ebde52c232e1ed8876ae"/>
+		<rom name="Config/Dlls/PacDrive32.dll" size="71168" crc="acf4963d" sha1="f77e7836ee114947f38bfd854843c0b987399f0e"/>
+		<rom name="Config/Dlls/PacDrive64.dll" size="77312" crc="3485e868" sha1="cbe57efb1a40d4fc396b8576a0818054def4d205"/>
+		<rom name="Config/GameProfiles.json" size="105330" crc="5ea069bf" sha1="8cf555604b77fc5d3b57df38e291b7cb258dc71c"/>
+		<rom name="Config/Images/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Config/Images/Buttons/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Config/Images/Buttons/autoplay.png" size="935518" crc="4d57fc32" sha1="7ff8e275901d0bc6a8c3169a5cc100106bf9cc7d"/>
+		<rom name="Config/Images/Buttons/cash_2000.png" size="1051119" crc="2732b7c7" sha1="925e058744d603d395f398d2705697b8e040041e"/>
+		<rom name="Config/Images/Buttons/collect.png" size="871861" crc="5a5254a6" sha1="ee03c2ee7f9f1b8a99a8fb207b5a40467343a169"/>
+		<rom name="Config/Images/Buttons/exit.png" size="1176059" crc="24fba8bf" sha1="31cb1a81d6b55bda2fee6c28a54269f1b1962fc2"/>
+		<rom name="Config/Images/Buttons/gamcare.png" size="931012" crc="b2e74e10" sha1="715d8ea3e78f2f003f1554b519f0f43beb3c1d12"/>
+		<rom name="Config/Images/Buttons/help.png" size="833255" crc="66bc7d71" sha1="81e3fb2d36a5309101011b38d107b93c7e929b8c"/>
+		<rom name="Config/Images/Buttons/lineselect.png" size="926839" crc="ddf2467f" sha1="b04ff48e8d7fb809ebd692579a4a3281a5406466"/>
+		<rom name="Config/Images/Buttons/start.png" size="1009276" crc="73910f75" sha1="1a4a85a3e000d91172560727af700b2db47fa2f2"/>
+		<rom name="Config/Images/Buttons/transfer.png" size="831003" crc="47e0018c" sha1="87f0c6e6585ceae490adacbb811a2d58e2d4a06c"/>
+		<rom name="Config/Images/Loading/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Config/Images/Loading/Loading1.png" size="1627531" crc="2aa630de" sha1="49570d5fdecc368fbcf94207024e17b554f20722"/>
+		<rom name="Config/Images/Loading/Loading2.png" size="2120536" crc="dc8cfff9" sha1="4984152804585b2fe2f7f34cbbd69026b3d9f1bb"/>
+		<rom name="Config/Images/Loading/Random.png" size="1710982" crc="6288f738" sha1="5a45867674aacee42118f533492c38c181fb1211"/>
+		<rom name="Config/Images/Themes/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Config/Images/Themes/Antique Gold.png" size="684076" crc="54abe8d2" sha1="6658825bfc79488a74fefd950efceabf367b27ab"/>
+		<rom name="Config/Images/Themes/Brushed Silver.png" size="940664" crc="491fe1ea" sha1="f8fff5c4550a2af2f822a4ea17cb6fbfce61cc1d"/>
+		<rom name="Config/Images/Themes/Emerald Green.png" size="726417" crc="06d37531" sha1="68ecccdd1418579f65c7edadcb2a26701b84f9c4"/>
+		<rom name="Config/Images/Themes/Royal Blue.png" size="987957" crc="3a32952d" sha1="42cfcafcd0069deeb28f4fe297a31e25aedb9965"/>
+		<rom name="Config/Images/Themes/Royal Purple.png" size="628362" crc="a2dbdfd7" sha1="4ec92c7d4abcf2584ced92727866a5e3a45ff2f3"/>
+		<rom name="Config/Images/Themes/Ruby Red.png" size="864889" crc="ef47cab4" sha1="4aae40da2650cca55cb018e93fe116638cf7e5d0"/>
+		<rom name="Config/Images/Warnings/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Config/Images/Warnings/hopper_warning.png" size="1218991" crc="68cc7da6" sha1="7180b544cdcbeab3c6d7e839a166dc7955334e9d"/>
+		<rom name="Config/Launcher_Categories.json" size="6986" crc="daee1c33" sha1="2adb5ff686e41be82254f135452bc5b8e1f40c4b"/>
+		<rom name="Config/Launcher_Favourites.json" size="378" crc="ff764df1" sha1="8d6f742b32ce08b05efca17f2d73f1022fec51e9"/>
+		<rom name="Config/Launcher_State.json" size="162" crc="e4035eed" sha1="c8238d5bda5d4162369a8d1f7af948e479e6f0f0"/>
+		<rom name="Config/Logs/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Config/Slotto_Settings.ini" size="2098" crc="c1fdb405" sha1="635cee5b8d9cee53024aa519ff2d964cbe1e3e68"/>
+		<rom name="Config/Videos/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Config/Videos/Buffer.mp4" size="1158834" crc="faf5cff9" sha1="3cee52676f61d9e308e24965b8957b391638af9a"/>
+		<rom name="Config/Videos/Buffer2.mp4" size="34069969" crc="c1ffe90f" sha1="15e1fd0e8b2738dae35d7d13978c182ee03566b3"/>
+		<rom name="Config/Videos/Intro.mp4" size="15404442" crc="43980699" sha1="02d9ffa6444a24505ca03a40f253b1896c4fbc1d"/>
+		<rom name="Readme.txt" size="12868" crc="a9ea5521" sha1="5e43917fcb458b68be5b98e00df0c873dfb32f8f"/>
+		<rom name="Settings.exe" size="8518030" crc="911c928e" sha1="9952d6954aec790abfcb3b2b29f9165ec9f44fa3"/>
+		<rom name="Slotto.exe" size="8572723" crc="19e0559c" sha1="768d8073dd73b9c223c90d9ec7d5dc21dc396d9e"/>
+	</game>
+</datafile>

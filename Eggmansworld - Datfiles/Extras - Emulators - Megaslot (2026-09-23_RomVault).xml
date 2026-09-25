@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Extras - Emulators - Megaslot</name>
+		<description></description>
+		<category>Fruit Machine</category>
+		<version></version>
+		<date>2026-09-23</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="Megaslot">
+		<rom name="Config/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Config/Images/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Config/Images/MegaslotControls/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Config/Images/MegaslotControls/autoplay.png" size="935518" crc="4d57fc32" sha1="7ff8e275901d0bc6a8c3169a5cc100106bf9cc7d"/>
+		<rom name="Config/Images/MegaslotControls/cash_2000.png" size="1051119" crc="2732b7c7" sha1="925e058744d603d395f398d2705697b8e040041e"/>
+		<rom name="Config/Images/MegaslotControls/collect.png" size="871861" crc="5a5254a6" sha1="ee03c2ee7f9f1b8a99a8fb207b5a40467343a169"/>
+		<rom name="Config/Images/MegaslotControls/gamcare.png" size="931012" crc="b2e74e10" sha1="715d8ea3e78f2f003f1554b519f0f43beb3c1d12"/>
+		<rom name="Config/Images/MegaslotControls/help.png" size="833255" crc="66bc7d71" sha1="81e3fb2d36a5309101011b38d107b93c7e929b8c"/>
+		<rom name="Config/Images/MegaslotControls/lineselect.png" size="926839" crc="ddf2467f" sha1="b04ff48e8d7fb809ebd692579a4a3281a5406466"/>
+		<rom name="Config/Images/MegaslotControls/start.png" size="1009276" crc="73910f75" sha1="1a4a85a3e000d91172560727af700b2db47fa2f2"/>
+		<rom name="Config/Images/MegaslotControls/transfer.png" size="831003" crc="47e0018c" sha1="87f0c6e6585ceae490adacbb811a2d58e2d4a06c"/>
+		<rom name="Config/Images/Megaslots.png" size="1183053" crc="e1a90804" sha1="75aecca1d426f8abe76c699cd10ec9ebbb9975c8"/>
+		<rom name="Config/Slotto_Settings.ini" size="72" crc="c950a5c6" sha1="d86a8330a41bca8cd41a20925797ef03f1ead9a5"/>
+		<rom name="Megaslot.exe" size="140288" crc="649a906e" sha1="97c0aeb821133b4b43beeb255f5a2b5db1f688b8"/>
+	</game>
+</datafile>

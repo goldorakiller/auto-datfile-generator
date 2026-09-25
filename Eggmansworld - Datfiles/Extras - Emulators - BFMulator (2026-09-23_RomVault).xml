@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Extras - Emulators - BFMulator</name>
+		<description></description>
+		<category>Fruit Machine</category>
+		<version></version>
+		<date>2026-09-23</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage></homepage>
+		<comment></comment>
+		<romvault/>
+	</header>
+	<game name="BFMulator 2.02">
+		<rom name="BFMulator 2.02.jpg" size="59330" crc="0d9e2d67" sha1="a958ca02bbedd0cbe7dab80eaa95d47a1d144a5c"/>
+		<rom name="BFMulator 2.02.txt" size="770" crc="53cb0d5f" sha1="ee50e7f09a00bbc7e81c88eec909633fff0afb15"/>
+		<rom name="BFMulator.exe" size="876544" crc="ae8be7d7" sha1="0a859ee6b228c76e07688fb2666a6eabe60ce010"/>
+		<rom name="Disclaimer.txt" size="87" crc="0637af3e" sha1="f05ff1924a79e5eed65af13a53527e376eb489d5"/>
+		<rom name="FreeImage.dll" size="737280" crc="69340bf1" sha1="8dbdbb92e3d4f5f8f29e2b2618eb71c15e8ba01d"/>
+		<rom name="history.txt" size="8052" crc="aa9607df" sha1="a96f0d582516ceb59cf8b370a2bbf5ea2430eee7"/>
+		<rom name="readme.txt" size="2175" crc="999c4133" sha1="2b967abfffdea5c975fe8c2c94ba4ce7d623c06b"/>
+	</game>
+	<game name="BFMulator 2.05 (Test version)">
+		<rom name="BFMulator 2.05 [Test Version].jpg" size="59330" crc="0d9e2d67" sha1="a958ca02bbedd0cbe7dab80eaa95d47a1d144a5c"/>
+		<rom name="BFMulator 2.05 [Test Version].txt" size="375" crc="c7475cfb" sha1="f05f4e75021dead97e55d91df8907831f3566c54"/>
+		<rom name="BFMulator.exe" size="1081344" crc="1f4f756d" sha1="24224a80009b250377617c1391490da3c9461a37"/>
+	</game>
+	<game name="BFMulator 2.07 (Re-Animator)">
+		<rom name="BFMulator.exe" size="1212416" crc="6e38eae1" sha1="2cb794c4f3d92444d46acb9815cee420f6d3b4d9"/>
+		<rom name="FreeImage.dll" size="737280" crc="69340bf1" sha1="8dbdbb92e3d4f5f8f29e2b2618eb71c15e8ba01d"/>
+		<rom name="history.txt" size="9133" crc="d47504a7" sha1="13c3bfce42179e8d2c418d5a87836f627f0218f5"/>
+	</game>
+</datafile>
