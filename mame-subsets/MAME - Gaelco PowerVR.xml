@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>MAME - Gaelco PowerVR</name>
+		<description>MAME ROMs (non-merged) - Gaelco PowerVR (by board, non-merged)</description>
+		<version>0.289</version>
+		<date>2026-07-21</date>
+		<author>Pleasuredome</author>
+		<comment>Subset by board built by auto-datfile-generator (arcade-subsets.py) from the sourcefile attribute of each game</comment>
+	</header>
+	<machine name="atvtrack" sourcefile="gaelco/atvtrack.cpp">
+		<description>ATV Track (set 1)</description>
+		<year>2002</year>
+		<manufacturer>Gaelco</manufacturer>
+		<rom name="14.bin" size="17301504" crc="67983453" sha1="05389a0ffc1a1bae9bac16a53a97d78b6eccc626" />
+		<rom name="15.bin" size="17301504" crc="84eaede7" sha1="6e6230165c3bb35e49c660dfd0d07c132ed89e6a" />
+		<rom name="19.bin" size="17301504" crc="9fc5c579" sha1="8829329ef229564952aea2108ef1750dc226cbac" />
+		<rom name="20.bin" size="17301504" crc="649dc331" sha1="0cac2d0c15dd564c7fdebdf4365422958f453d63" />
+		<rom name="epc1pc8.ic23" size="130817" crc="752444c7" sha1="c77e8fcfcbe15b53eda25553763bdac45f0ef7df" />
+	</machine>
+	<machine name="atvtracka" sourcefile="gaelco/atvtrack.cpp">
+		<description>ATV Track (set 2)</description>
+		<year>2002</year>
+		<manufacturer>Gaelco</manufacturer>
+		<rom name="epc1pc8.ic23" size="130817" crc="752444c7" sha1="c77e8fcfcbe15b53eda25553763bdac45f0ef7df" />
+		<rom name="k9f2808u0b.ic14" size="17301504" crc="02a12085" sha1="acb112c9c7b29d92610465fb92268ce787ca06f4" />
+		<rom name="k9f2808u0b.ic15" size="17301504" crc="10730001" sha1="48c685a6ff7135abd074dc7fb7d10834c44da58f" />
+		<rom name="k9f2808u0b.ic19" size="17301504" crc="856c1e6a" sha1="a6b2839120d61811c36cc6b4095de9cefceb394b" />
+		<rom name="k9f2808u0b.ic20" size="17301504" crc="b0c34433" sha1="852c79bb3d7082cd2c056140071ae7d71679ec1d" />
+	</machine>
+	<machine name="gfootbal" sourcefile="gaelco/atvtrack.cpp">
+		<description>Gaelco Football</description>
+		<year>2002</year>
+		<manufacturer>Gaelco / Zigurat</manufacturer>
+		<rom name="epc1pc8.ic23" size="130817" crc="752444c7" sha1="c77e8fcfcbe15b53eda25553763bdac45f0ef7df" />
+		<rom name="k9f2808u0b.ic14" size="17301504" crc="48d901a3" sha1="00f151b67e5603354a97708247bed46a2f1bbe1d" />
+		<rom name="k9f2808u0b.ic15" size="17301504" crc="876ca493" sha1="d888be59d924fe23e725c6a8aa9609e9abcab608" />
+		<rom name="k9f2808u0b.ic19" size="17301504" crc="2db6c016" sha1="490d23e338014b4e5f2f12dd04dfae2a93a15e11" />
+		<rom name="k9f2808u0b.ic20" size="17301504" crc="df9cf6e2" sha1="07be171c3768de8f548bceeaf3da8d3bf7cb85d3" />
+	</machine>
+	<machine name="smashdrv" sourcefile="gaelco/atvtrack.cpp">
+		<description>Smashing Drive (World)</description>
+		<year>2000</year>
+		<manufacturer>Gaelco</manufacturer>
+		<rom name="prg_world.ic23" size="4194304" crc="c642b059" sha1="8a898f46cebc5951a6355f2b51e31ac5e17b4bca" />
+		<rom name="sdra.ic15" size="16777216" crc="cf702287" sha1="84cd83c339831deff15fe5fcc353e0b596667500" />
+		<rom name="sdrb.ic14" size="16777216" crc="39b76f0e" sha1="529943b6075925e5f72c6e966796e04b2c33686c" />
+		<rom name="sdrc.ic20" size="16777216" crc="c9021dd7" sha1="1d08aab433614810af858a0fc5d7f03c7b782237" />
+	</machine>
+	<machine name="smashdrvb" sourcefile="gaelco/atvtrack.cpp">
+		<description>Smashing Drive (UK)</description>
+		<year>2000</year>
+		<manufacturer>Gaelco (Brent Sales license)</manufacturer>
+		<rom name="prg.ic23" size="4194304" crc="5cc6d3ac" sha1="0c8426774212d891796b59c95b8c70f64db5b67a" />
+		<rom name="sdra.ic15" size="16777216" crc="cf702287" sha1="84cd83c339831deff15fe5fcc353e0b596667500" />
+		<rom name="sdrb.ic14" size="16777216" crc="39b76f0e" sha1="529943b6075925e5f72c6e966796e04b2c33686c" />
+		<rom name="sdrc.ic20" size="16777216" crc="c9021dd7" sha1="1d08aab433614810af858a0fc5d7f03c7b782237" />
+	</machine>
+	<machine name="smashdrvs" sourcefile="gaelco/atvtrack.cpp">
+		<description>Smashing Drive (Spain, Portugal)</description>
+		<year>2000</year>
+		<manufacturer>Gaelco (Covielsa license)</manufacturer>
+		<rom name="prg_spain.ic23" size="4194304" crc="66b80283" sha1="7d569670fd96aaa99da24378c77a265bc2ddc91c" />
+		<rom name="sdra.ic15" size="16777216" crc="cf702287" sha1="84cd83c339831deff15fe5fcc353e0b596667500" />
+		<rom name="sdrb.ic14" size="16777216" crc="39b76f0e" sha1="529943b6075925e5f72c6e966796e04b2c33686c" />
+		<rom name="sdrc.ic20" size="16777216" crc="c9021dd7" sha1="1d08aab433614810af858a0fc5d7f03c7b782237" />
+	</machine>
+</datafile>

@@ -1,0 +1,2567 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//FinalBurn Neo//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>FinalBurn Neo - CAVE</name>
+		<description>FinalBurn Neo v1.0.0.03 Arcade Games - CAVE (by board)</description>
+		<category>Standard DatFile</category>
+		<version>1.0.0.03</version>
+		<author>FinalBurn Neo</author>
+		<homepage>https://neo-source.com/</homepage>
+		<url>https://neo-source.com/</url>
+		<comment>Subset by board built by auto-datfile-generator (arcade-subsets.py) from the sourcefile attribute of each game</comment>
+	</header>
+	<game name="agallet" sourcefile="cave/d_sailormn.cpp">
+		<description>Air Gallet (Europe)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bp962a.u45" size="524288" crc="24815046" />
+		<rom name="bp962a.u9" size="524288" crc="06caddbe" />
+		<rom name="bp962a.u76" size="2097152" crc="858da439" />
+		<rom name="bp962a.u77" size="2097152" crc="ea2ba35e" />
+		<rom name="bp962a.u53" size="2097152" crc="fcd9a107" />
+		<rom name="bp962a.u54" size="2097152" crc="0cfa3409" />
+		<rom name="bp962a.u57" size="2097152" crc="6d608957" />
+		<rom name="bp962a.u65" size="2097152" crc="135fcf9a" />
+		<rom name="bp962a.u48" size="2097152" crc="ae00a1ce" />
+		<rom name="bp962a.u47" size="2097152" crc="6d4e9737" />
+		<rom name="agallet_europe.nv" size="128" crc="ec38bf65" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="agalleth" cloneof="agallet" romof="agallet" sourcefile="cave/d_sailormn.cpp">
+		<description>Air Gallet (Hong Kong)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bp962a.u45" merge="bp962a.u45" size="524288" crc="24815046" />
+		<rom name="bp962a.u9" merge="bp962a.u9" size="524288" crc="06caddbe" />
+		<rom name="bp962a.u76" merge="bp962a.u76" size="2097152" crc="858da439" />
+		<rom name="bp962a.u77" merge="bp962a.u77" size="2097152" crc="ea2ba35e" />
+		<rom name="bp962a.u53" merge="bp962a.u53" size="2097152" crc="fcd9a107" />
+		<rom name="bp962a.u54" merge="bp962a.u54" size="2097152" crc="0cfa3409" />
+		<rom name="bp962a.u57" merge="bp962a.u57" size="2097152" crc="6d608957" />
+		<rom name="bp962a.u65" merge="bp962a.u65" size="2097152" crc="135fcf9a" />
+		<rom name="bp962a.u48" merge="bp962a.u48" size="2097152" crc="ae00a1ce" />
+		<rom name="bp962a.u47" merge="bp962a.u47" size="2097152" crc="6d4e9737" />
+		<rom name="agallet_hongkong.nv" size="128" crc="998d1a74" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="agalletk" cloneof="agallet" romof="agallet" sourcefile="cave/d_sailormn.cpp">
+		<description>Air Gallet (Korea)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bp962a.u45" merge="bp962a.u45" size="524288" crc="24815046" />
+		<rom name="bp962a.u9" merge="bp962a.u9" size="524288" crc="06caddbe" />
+		<rom name="bp962a.u76" merge="bp962a.u76" size="2097152" crc="858da439" />
+		<rom name="bp962a.u77" merge="bp962a.u77" size="2097152" crc="ea2ba35e" />
+		<rom name="bp962a.u53" merge="bp962a.u53" size="2097152" crc="fcd9a107" />
+		<rom name="bp962a.u54" merge="bp962a.u54" size="2097152" crc="0cfa3409" />
+		<rom name="bp962a.u57" merge="bp962a.u57" size="2097152" crc="6d608957" />
+		<rom name="bp962a.u65" merge="bp962a.u65" size="2097152" crc="135fcf9a" />
+		<rom name="bp962a.u48" merge="bp962a.u48" size="2097152" crc="ae00a1ce" />
+		<rom name="bp962a.u47" merge="bp962a.u47" size="2097152" crc="6d4e9737" />
+		<rom name="agallet_korea.nv" size="128" crc="7f41c253" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="agalleta" cloneof="agallet" romof="agallet" sourcefile="cave/d_sailormn.cpp">
+		<description>Air Gallet (older, Europe)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="u45" size="524288" crc="2cab18b0" />
+		<rom name="bp962a.u9" merge="bp962a.u9" size="524288" crc="06caddbe" />
+		<rom name="bp962a.u76" merge="bp962a.u76" size="2097152" crc="858da439" />
+		<rom name="bp962a.u77" merge="bp962a.u77" size="2097152" crc="ea2ba35e" />
+		<rom name="bp962a.u53" merge="bp962a.u53" size="2097152" crc="fcd9a107" />
+		<rom name="bp962a.u54" merge="bp962a.u54" size="2097152" crc="0cfa3409" />
+		<rom name="bp962a.u57" merge="bp962a.u57" size="2097152" crc="6d608957" />
+		<rom name="bp962a.u65" merge="bp962a.u65" size="2097152" crc="135fcf9a" />
+		<rom name="bp962a.u48" merge="bp962a.u48" size="2097152" crc="ae00a1ce" />
+		<rom name="bp962a.u47" merge="bp962a.u47" size="2097152" crc="6d4e9737" />
+		<rom name="agallet_europe.nv" merge="agallet_europe.nv" size="128" crc="ec38bf65" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="agalletah" cloneof="agallet" romof="agallet" sourcefile="cave/d_sailormn.cpp">
+		<description>Air Gallet (older, Hong Kong)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="u45" size="524288" crc="2cab18b0" />
+		<rom name="bp962a.u9" merge="bp962a.u9" size="524288" crc="06caddbe" />
+		<rom name="bp962a.u76" merge="bp962a.u76" size="2097152" crc="858da439" />
+		<rom name="bp962a.u77" merge="bp962a.u77" size="2097152" crc="ea2ba35e" />
+		<rom name="bp962a.u53" merge="bp962a.u53" size="2097152" crc="fcd9a107" />
+		<rom name="bp962a.u54" merge="bp962a.u54" size="2097152" crc="0cfa3409" />
+		<rom name="bp962a.u57" merge="bp962a.u57" size="2097152" crc="6d608957" />
+		<rom name="bp962a.u65" merge="bp962a.u65" size="2097152" crc="135fcf9a" />
+		<rom name="bp962a.u48" merge="bp962a.u48" size="2097152" crc="ae00a1ce" />
+		<rom name="bp962a.u47" merge="bp962a.u47" size="2097152" crc="6d4e9737" />
+		<rom name="agallet_hongkong.nv" size="128" crc="998d1a74" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="agalletak" cloneof="agallet" romof="agallet" sourcefile="cave/d_sailormn.cpp">
+		<description>Air Gallet (older, Korea)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="u45" size="524288" crc="2cab18b0" />
+		<rom name="bp962a.u9" merge="bp962a.u9" size="524288" crc="06caddbe" />
+		<rom name="bp962a.u76" merge="bp962a.u76" size="2097152" crc="858da439" />
+		<rom name="bp962a.u77" merge="bp962a.u77" size="2097152" crc="ea2ba35e" />
+		<rom name="bp962a.u53" merge="bp962a.u53" size="2097152" crc="fcd9a107" />
+		<rom name="bp962a.u54" merge="bp962a.u54" size="2097152" crc="0cfa3409" />
+		<rom name="bp962a.u57" merge="bp962a.u57" size="2097152" crc="6d608957" />
+		<rom name="bp962a.u65" merge="bp962a.u65" size="2097152" crc="135fcf9a" />
+		<rom name="bp962a.u48" merge="bp962a.u48" size="2097152" crc="ae00a1ce" />
+		<rom name="bp962a.u47" merge="bp962a.u47" size="2097152" crc="6d4e9737" />
+		<rom name="agallet_korea.nv" size="128" crc="7f41c253" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="agalletat" cloneof="agallet" romof="agallet" sourcefile="cave/d_sailormn.cpp">
+		<description>Air Gallet (older, Taiwan)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="u45" size="524288" crc="2cab18b0" />
+		<rom name="bp962a.u9" merge="bp962a.u9" size="524288" crc="06caddbe" />
+		<rom name="bp962a.u76" merge="bp962a.u76" size="2097152" crc="858da439" />
+		<rom name="bp962a.u77" merge="bp962a.u77" size="2097152" crc="ea2ba35e" />
+		<rom name="bp962a.u53" merge="bp962a.u53" size="2097152" crc="fcd9a107" />
+		<rom name="bp962a.u54" merge="bp962a.u54" size="2097152" crc="0cfa3409" />
+		<rom name="bp962a.u57" merge="bp962a.u57" size="2097152" crc="6d608957" />
+		<rom name="bp962a.u65" merge="bp962a.u65" size="2097152" crc="135fcf9a" />
+		<rom name="bp962a.u48" merge="bp962a.u48" size="2097152" crc="ae00a1ce" />
+		<rom name="bp962a.u47" merge="bp962a.u47" size="2097152" crc="6d4e9737" />
+		<rom name="agallet_taiwan.nv" size="128" crc="0af46742" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="agalletau" cloneof="agallet" romof="agallet" sourcefile="cave/d_sailormn.cpp">
+		<description>Air Gallet (older, USA)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="u45" size="524288" crc="2cab18b0" />
+		<rom name="bp962a.u9" merge="bp962a.u9" size="524288" crc="06caddbe" />
+		<rom name="bp962a.u76" merge="bp962a.u76" size="2097152" crc="858da439" />
+		<rom name="bp962a.u77" merge="bp962a.u77" size="2097152" crc="ea2ba35e" />
+		<rom name="bp962a.u53" merge="bp962a.u53" size="2097152" crc="fcd9a107" />
+		<rom name="bp962a.u54" merge="bp962a.u54" size="2097152" crc="0cfa3409" />
+		<rom name="bp962a.u57" merge="bp962a.u57" size="2097152" crc="6d608957" />
+		<rom name="bp962a.u65" merge="bp962a.u65" size="2097152" crc="135fcf9a" />
+		<rom name="bp962a.u48" merge="bp962a.u48" size="2097152" crc="ae00a1ce" />
+		<rom name="bp962a.u47" merge="bp962a.u47" size="2097152" crc="6d4e9737" />
+		<rom name="agallet_usa.nv" size="128" crc="72e65056" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="agallett" cloneof="agallet" romof="agallet" sourcefile="cave/d_sailormn.cpp">
+		<description>Air Gallet (Taiwan)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bp962a.u45" merge="bp962a.u45" size="524288" crc="24815046" />
+		<rom name="bp962a.u9" merge="bp962a.u9" size="524288" crc="06caddbe" />
+		<rom name="bp962a.u76" merge="bp962a.u76" size="2097152" crc="858da439" />
+		<rom name="bp962a.u77" merge="bp962a.u77" size="2097152" crc="ea2ba35e" />
+		<rom name="bp962a.u53" merge="bp962a.u53" size="2097152" crc="fcd9a107" />
+		<rom name="bp962a.u54" merge="bp962a.u54" size="2097152" crc="0cfa3409" />
+		<rom name="bp962a.u57" merge="bp962a.u57" size="2097152" crc="6d608957" />
+		<rom name="bp962a.u65" merge="bp962a.u65" size="2097152" crc="135fcf9a" />
+		<rom name="bp962a.u48" merge="bp962a.u48" size="2097152" crc="ae00a1ce" />
+		<rom name="bp962a.u47" merge="bp962a.u47" size="2097152" crc="6d4e9737" />
+		<rom name="agallet_taiwan.nv" size="128" crc="0af46742" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="agalletu" cloneof="agallet" romof="agallet" sourcefile="cave/d_sailormn.cpp">
+		<description>Air Gallet (USA)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bp962a.u45" merge="bp962a.u45" size="524288" crc="24815046" />
+		<rom name="bp962a.u9" merge="bp962a.u9" size="524288" crc="06caddbe" />
+		<rom name="bp962a.u76" merge="bp962a.u76" size="2097152" crc="858da439" />
+		<rom name="bp962a.u77" merge="bp962a.u77" size="2097152" crc="ea2ba35e" />
+		<rom name="bp962a.u53" merge="bp962a.u53" size="2097152" crc="fcd9a107" />
+		<rom name="bp962a.u54" merge="bp962a.u54" size="2097152" crc="0cfa3409" />
+		<rom name="bp962a.u57" merge="bp962a.u57" size="2097152" crc="6d608957" />
+		<rom name="bp962a.u65" merge="bp962a.u65" size="2097152" crc="135fcf9a" />
+		<rom name="bp962a.u48" merge="bp962a.u48" size="2097152" crc="ae00a1ce" />
+		<rom name="bp962a.u47" merge="bp962a.u47" size="2097152" crc="6d4e9737" />
+		<rom name="agallet_usa.nv" size="128" crc="72e65056" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="akatana" sourcefile="cave/d_cv1k.cpp">
+		<description>Akai Katana (2010/ 8/13 MASTER VER.)</description>
+		<year>2010</year>
+		<manufacturer>Cave</manufacturer>
+		<rom name="u4" size="4194304" crc="613fd380" />
+		<rom name="u2" size="138412032" crc="89a2e1a5" />
+		<rom name="u23" size="4194304" crc="34a67e24" />
+		<rom name="u24" size="4194304" crc="10760fed" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="agalletj" cloneof="agallet" romof="agallet" sourcefile="cave/d_sailormn.cpp">
+		<description>Akuu Gallet (Japan)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bp962a.u45" merge="bp962a.u45" size="524288" crc="24815046" />
+		<rom name="bp962a.u9" merge="bp962a.u9" size="524288" crc="06caddbe" />
+		<rom name="bp962a.u76" merge="bp962a.u76" size="2097152" crc="858da439" />
+		<rom name="bp962a.u77" merge="bp962a.u77" size="2097152" crc="ea2ba35e" />
+		<rom name="bp962a.u53" merge="bp962a.u53" size="2097152" crc="fcd9a107" />
+		<rom name="bp962a.u54" merge="bp962a.u54" size="2097152" crc="0cfa3409" />
+		<rom name="bp962a.u57" merge="bp962a.u57" size="2097152" crc="6d608957" />
+		<rom name="bp962a.u65" merge="bp962a.u65" size="2097152" crc="135fcf9a" />
+		<rom name="bp962a.u48" merge="bp962a.u48" size="2097152" crc="ae00a1ce" />
+		<rom name="bp962a.u47" merge="bp962a.u47" size="2097152" crc="6d4e9737" />
+		<rom name="agallet_japan.nv" size="128" crc="0753f547" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="agalletaj" cloneof="agallet" romof="agallet" sourcefile="cave/d_sailormn.cpp">
+		<description>Akuu Gallet (older, Japan)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="u45" size="524288" crc="2cab18b0" />
+		<rom name="bp962a.u9" merge="bp962a.u9" size="524288" crc="06caddbe" />
+		<rom name="bp962a.u76" merge="bp962a.u76" size="2097152" crc="858da439" />
+		<rom name="bp962a.u77" merge="bp962a.u77" size="2097152" crc="ea2ba35e" />
+		<rom name="bp962a.u53" merge="bp962a.u53" size="2097152" crc="fcd9a107" />
+		<rom name="bp962a.u54" merge="bp962a.u54" size="2097152" crc="0cfa3409" />
+		<rom name="bp962a.u57" merge="bp962a.u57" size="2097152" crc="6d608957" />
+		<rom name="bp962a.u65" merge="bp962a.u65" size="2097152" crc="135fcf9a" />
+		<rom name="bp962a.u48" merge="bp962a.u48" size="2097152" crc="ae00a1ce" />
+		<rom name="bp962a.u47" merge="bp962a.u47" size="2097152" crc="6d4e9737" />
+		<rom name="agallet_japan.nv" size="128" crc="0753f547" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="sailmnsl" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<comment>Hack</comment>
+		<description>Bishoujo Senshi Sailor Moon (10-Lo, Hack)</description>
+		<year>2024</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="bpsmsl945a.u45" size="524288" crc="e820d513" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailmnhy" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<comment>Hack</comment>
+		<description>Bishoujo Senshi Sailor Moon (Black Moon, Hack)</description>
+		<year>2026</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="bpsmhy945a.u45" size="524288" crc="bac65b30" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" />
+		<rom name="sailormn_japan.nv" merge="sailormn_japan.nv" size="128" crc="ea03c30a" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailmnhx" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<comment>Hack</comment>
+		<description>Bishoujo Senshi Sailor Moon (Crescent Fantasy, Hack)</description>
+		<year>2026</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="bpsmhx945a.u45" size="524288" crc="a8a7c786" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" />
+		<rom name="sailormn_japan.nv" merge="sailormn_japan.nv" size="128" crc="ea03c30a" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailmnee" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<comment>Hack, Hack only enable in Extra Hard</comment>
+		<description>Bishoujo Senshi Sailor Moon (Enhanced Edition v5 Final, Hack)</description>
+		<year>2019</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="bpsmee945a.u45" size="524288" crc="e77a6fbe" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" />
+		<rom name="sailormn_japan.nv" merge="sailormn_japan.nv" size="128" crc="ea03c30a" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailmnzy" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<comment>Hack</comment>
+		<description>Bishoujo Senshi Sailor Moon (Eternal End, Hack)</description>
+		<year>2026</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="bpsmzy945a.u45" size="524288" crc="39d11c5a" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" />
+		<rom name="sailormn_japan.nv" merge="sailormn_japan.nv" size="128" crc="ea03c30a" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailmnyh" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<comment>Hack</comment>
+		<description>Bishoujo Senshi Sailor Moon (Eternal Poem, Hack)</description>
+		<year>2026</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="bpsmyh945a.u45" size="524288" crc="a7f16fd8" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" />
+		<rom name="sailormn_japan.nv" merge="sailormn_japan.nv" size="128" crc="ea03c30a" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailmnkf" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<comment>Hack</comment>
+		<description>Bishoujo Senshi Sailor Moon (Korea-France, Hack)</description>
+		<year>2023</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="bpsmkf945a.u45" size="524288" crc="db46ed23" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailmnxys" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<comment>Hack</comment>
+		<description>Bishoujo Senshi Sailor Moon (New Moon Super, Hack)</description>
+		<year>2026</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="bpsmxys945a.u45" size="524288" crc="aecffa50" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" />
+		<rom name="sailormn_japan.nv" merge="sailormn_japan.nv" size="128" crc="ea03c30a" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailmnxy" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<comment>Hack</comment>
+		<description>Bishoujo Senshi Sailor Moon (New Moon, Hack)</description>
+		<year>2026</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="bpsmxy945a.u45" size="524288" crc="b959c5ff" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" />
+		<rom name="sailormn_japan.nv" merge="sailormn_japan.nv" size="128" crc="ea03c30a" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailmnopt" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<comment>Hack</comment>
+		<description>Bishoujo Senshi Sailor Moon (Optimised, Hack)</description>
+		<year>2018</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="bpsmopt945a.u45" size="524288" crc="0e7f4981" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" />
+		<rom name="sailormn_japan.nv" merge="sailormn_japan.nv" size="128" crc="ea03c30a" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailmnyy" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<comment>Hack</comment>
+		<description>Bishoujo Senshi Sailor Moon (Serena Tsukino, Hack)</description>
+		<year>2021</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="bpsmyy945a.u45" size="524288" crc="89ac00db" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" />
+		<rom name="sailormn_japan.nv" merge="sailormn_japan.nv" size="128" crc="ea03c30a" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnoh" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/21, Hong Kong)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="smprg.u45" size="524288" crc="97837ab4" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnoj" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/21, Japan)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="smprg.u45" size="524288" crc="97837ab4" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_japan.nv" merge="sailormn_japan.nv" size="128" crc="ea03c30a" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnot" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/21, Taiwan)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="smprg.u45" size="524288" crc="97837ab4" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnnh" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/22, Hong Kong)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="smprg.u45" size="524288" crc="234f1152" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnnj" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/22, Japan)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="smprg.u45" size="524288" crc="234f1152" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_japan.nv" merge="sailormn_japan.nv" size="128" crc="ea03c30a" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnnt" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/22, Taiwan)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="smprg.u45" size="524288" crc="234f1152" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnh" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/22B, Hong Kong)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u45" merge="bpsm945a.u45" size="524288" crc="898c9515" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/22B, Japan)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u45" size="524288" crc="898c9515" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_japan.nv" size="128" crc="ea03c30a" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnt" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/22B, Taiwan)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u45" merge="bpsm945a.u45" size="524288" crc="898c9515" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="crusherm" sourcefile="cave/d_korokoro.cpp">
+		<description>Crusher Makochan (Japan)</description>
+		<year>1999</year>
+		<manufacturer>Takumi</manufacturer>
+		<rom name="mp-003ver01.u0130" size="524288" crc="a4f56e6b" />
+		<rom name="mp-003ver01.u1067" size="1048576" crc="268a4921" />
+		<rom name="mp-003ver01.u1066" size="1048576" crc="79e77a6e" />
+		<rom name="mp-003ver01.u1060" size="1048576" crc="7661893e" />
+		<rom name="mp-003ver01.u1186" size="1048576" crc="c3aeb745" />
+		<rom name="mp-003ver01.u1187" size="1048576" crc="d9312497" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="dfeveron" cloneof="feversos" romof="feversos" sourcefile="cave/d_feversos.cpp">
+		<description>Dangun Feveron (Japan, 98/09/17 VER.)</description>
+		<year>1998</year>
+		<manufacturer>Cave (Nihon System license)</manufacturer>
+		<rom name="cv01-u34.bin" size="524288" crc="be87f19d" />
+		<rom name="cv01-u33.bin" size="524288" crc="e53a7db3" />
+		<rom name="cv01-u25.bin" merge="cv01-u25.bin" size="4194304" crc="a6f6a95d" />
+		<rom name="cv01-u26.bin" merge="cv01-u26.bin" size="4194304" crc="32edb62a" />
+		<rom name="cv01-u50.bin" merge="cv01-u50.bin" size="2097152" crc="7a344417" />
+		<rom name="cv01-u49.bin" merge="cv01-u49.bin" size="2097152" crc="d21cdda7" />
+		<rom name="cv01-u19.bin" merge="cv01-u19.bin" size="4194304" crc="5f5514da" />
+		<rom name="eeprom-dfeveron.bin" size="128" crc="c3174959" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="deathsml" sourcefile="cave/d_cv1k.cpp">
+		<description>Deathsmiles (2007/10/09 MASTER VER)</description>
+		<year>2007</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="u4" size="2097152" crc="1a7b98bf" />
+		<rom name="u2" size="138412032" crc="59ef5d78" />
+		<rom name="u23" size="4194304" crc="aab718c8" />
+		<rom name="u24" size="4194304" crc="83881d84" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="dsmbl" sourcefile="cave/d_cv1k.cpp">
+		<description>Deathsmiles MegaBlack Label (2008/10/06 MEGABLACK LABEL VER)</description>
+		<year>2008</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="u4" size="4194304" crc="77fc5ad1" />
+		<rom name="u2" size="138412032" crc="d6b85b7a" />
+		<rom name="u23" size="4194304" crc="a9536a6a" />
+		<rom name="u24" size="4194304" crc="3b673326" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="ddonpacha" cloneof="ddonpach" romof="ddonpach" sourcefile="cave/d_dodonpachi.cpp">
+		<comment>Hack</comment>
+		<description>DoDonPachi (2012/02/12 Arrange Ver. 1.1) (hack)</description>
+		<year>2012</year>
+		<manufacturer>hack (trap15)</manufacturer>
+		<rom name="arrange_u27.bin" size="524288" crc="44b899ae" />
+		<rom name="arrange_u26.bin" size="524288" crc="727a09a8" />
+		<rom name="u50.bin" merge="u50.bin" size="2097152" crc="14b260ec" />
+		<rom name="arrange_u51.bin" size="2097152" crc="0f3e5148" />
+		<rom name="u52.bin" merge="u52.bin" size="2097152" crc="02492ee0" />
+		<rom name="u53.bin" merge="u53.bin" size="2097152" crc="cb4c10f0" />
+		<rom name="u60.bin" merge="u60.bin" size="2097152" crc="903096a7" />
+		<rom name="u61.bin" merge="u61.bin" size="2097152" crc="d89b7631" />
+		<rom name="arrange_u62.bin" size="2097152" crc="42e4c6c5" />
+		<rom name="u6.bin" merge="u6.bin" size="2097152" crc="9dfdafaf" />
+		<rom name="u7.bin" merge="u7.bin" size="2097152" crc="795b17d5" />
+		<rom name="eeprom-ddonpach.bin" size="128" crc="2df16438" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ddonpachj" cloneof="ddonpach" romof="ddonpach" sourcefile="cave/d_dodonpachi.cpp">
+		<description>DoDonPachi (Japan, 1997 2/ 5 Master Ver.)</description>
+		<year>1997</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="u27.bin" size="524288" crc="2432ff9b" />
+		<rom name="u26.bin" size="524288" crc="4f3a914a" />
+		<rom name="u50.bin" merge="u50.bin" size="2097152" crc="14b260ec" />
+		<rom name="u51.bin" merge="u51.bin" size="2097152" crc="e7ba8cce" />
+		<rom name="u52.bin" merge="u52.bin" size="2097152" crc="02492ee0" />
+		<rom name="u53.bin" merge="u53.bin" size="2097152" crc="cb4c10f0" />
+		<rom name="u60.bin" merge="u60.bin" size="2097152" crc="903096a7" />
+		<rom name="u61.bin" merge="u61.bin" size="2097152" crc="d89b7631" />
+		<rom name="u62.bin" merge="u62.bin" size="2097152" crc="292bfb6b" />
+		<rom name="u6.bin" merge="u6.bin" size="2097152" crc="9dfdafaf" />
+		<rom name="u7.bin" merge="u7.bin" size="2097152" crc="795b17d5" />
+		<rom name="eeprom-ddonpach.bin" merge="eeprom-ddonpach.bin" size="128" crc="315fb546" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ddonpach" sourcefile="cave/d_dodonpachi.cpp">
+		<description>DoDonPachi (World, 1997 2/ 5 Master Ver.)</description>
+		<year>1997</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="b1.u27" size="524288" crc="b5cdc8d3" />
+		<rom name="b2.u26" size="524288" crc="6bbb063a" />
+		<rom name="u50.bin" size="2097152" crc="14b260ec" />
+		<rom name="u51.bin" size="2097152" crc="e7ba8cce" />
+		<rom name="u52.bin" size="2097152" crc="02492ee0" />
+		<rom name="u53.bin" size="2097152" crc="cb4c10f0" />
+		<rom name="u60.bin" size="2097152" crc="903096a7" />
+		<rom name="u61.bin" size="2097152" crc="d89b7631" />
+		<rom name="u62.bin" size="2097152" crc="292bfb6b" />
+		<rom name="u6.bin" size="2097152" crc="9dfdafaf" />
+		<rom name="u7.bin" size="2097152" crc="795b17d5" />
+		<rom name="eeprom-ddonpach.bin" size="128" crc="315fb546" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="dfkbl" sourcefile="cave/d_cv1k.cpp">
+		<description>DoDonPachi Dai-Fukkatsu Black Label (2010/1/18 BLACK LABEL)</description>
+		<year>2010</year>
+		<manufacturer>Cave</manufacturer>
+		<rom name="u4" size="4194304" crc="8092ca9d" />
+		<rom name="u2" size="138412032" crc="29f9d73a" />
+		<rom name="u23" size="4194304" crc="36d4093b" />
+		<rom name="u24" size="4194304" crc="31f9eb0a" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ddpdfk10" cloneof="ddpdfk" romof="ddpdfk" sourcefile="cave/d_cv1k.cpp">
+		<description>DoDonPachi Dai-Fukkatsu Ver 1.0 (2008/05/16 MASTER VER)</description>
+		<year>2008</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ddpdfk10_u4" size="4194304" crc="a3d650b2" />
+		<rom name="ddpdfk10_u2" size="138412032" crc="d349cb2a" />
+		<rom name="u23" merge="u23" size="4194304" crc="27032cde" />
+		<rom name="u24" merge="u24" size="4194304" crc="a6178c2c" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ddpdfk" sourcefile="cave/d_cv1k.cpp">
+		<description>DoDonPachi Dai-Fukkatsu Ver 1.5 (2008/06/23 MASTER VER 1.5)</description>
+		<year>2008</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ddpdfk_u4" size="4194304" crc="9976d699" />
+		<rom name="ddpdfk_u2" size="138412032" crc="84a51a4f" />
+		<rom name="u23" size="4194304" crc="27032cde" />
+		<rom name="u24" size="4194304" crc="a6178c2c" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ddpdojb" cloneof="ddp3" romof="ddp3" sourcefile="pgm/d_pgm.cpp">
+		<description>DoDonPachi Dai-Ou-Jou (Japan, 2002.04.05 Master Ver)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="dd_v100.u36" size="2097152" crc="7da0c1e4" />
+		<rom name="cave_t04401w064.u19" merge="cave_t04401w064.u19" size="8388608" crc="3a95f19c" />
+		<rom name="cave_a04401w064.u7" merge="cave_a04401w064.u7" size="8388608" crc="ed229794" />
+		<rom name="cave_a04402w064.u8" merge="cave_a04402w064.u8" size="8388608" crc="752167b0" />
+		<rom name="cave_b04401w064.u1" merge="cave_b04401w064.u1" size="8388608" crc="17731c9d" />
+		<rom name="cave_m04401b032.u17" merge="cave_m04401b032.u17" size="4194304" crc="5a0dbd76" />
+		<rom name="ddp3_igs027a.bin" size="16384" status="nodump" />
+		<rom name="ddp3_defaults.nv" merge="ddp3_defaults.nv" size="131072" crc="571e96c0" />
+		<rom name="pgm_t01s.rom" merge="pgm_t01s.rom" size="2097152" crc="1a7123a0" />
+		<rom name="pgm_m01s.rom" merge="pgm_m01s.rom" size="2097152" crc="45ae7159" />
+		<rom name="ddp3_bios.u37" merge="ddp3_bios.u37" size="524288" crc="b3cc5c8f" />
+		<video type="raster" orientation="vertical" width="224" height="448" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ddpdojp" cloneof="ddp3" romof="ddp3" sourcefile="pgm/d_pgm.cpp">
+		<comment>Prototype</comment>
+		<description>DoDonPachi Dai-Ou-Jou (Japan, 2002.04.05 Master Ver, location test)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="pgmbios.u20.27c210" size="131072" crc="1d2a7c15" />
+		<rom name="ca008.cod_prom.u13.27c322" size="4194304" crc="2ba7fa3b" />
+		<rom name="fnt_cg.0_cgrom0.u8.27c322" size="4194304" crc="1805e198" />
+		<rom name="fnt_cg.1_cgrom1.u10.27c322" size="4194304" crc="f06ce99c" />
+		<rom name="sp_cg.0_imcs0.u11.27c322" size="4194304" crc="c66bdd8e" />
+		<rom name="sp_cg.1_imcs1.u13.27c322" size="4194304" crc="d30eac89" />
+		<rom name="sp_cg.2_imcs2.u15.27c322" size="4194304" crc="f31b010e" />
+		<rom name="sp_cg.3_imcs3.u17.27c322" size="4194304" crc="01ec23f5" />
+		<rom name="sp_mp.0_bitcs0.u5.27c322" size="4194304" crc="e30494a4" />
+		<rom name="sp_mp.1_bitcs1.u6.27c322" size="4194304" crc="0239daec" />
+		<rom name="sndmask.rom_mcs1.u3.27c322" merge="cave_m04401b032.u17" size="4194304" crc="5a0dbd76" />
+		<rom name="ddp3_defaults.nv" merge="ddp3_defaults.nv" size="131072" crc="571e96c0" />
+		<rom name="pgm_t01s.rom" merge="pgm_t01s.rom" size="2097152" crc="1a7123a0" />
+		<rom name="pgm_m01s.rom" merge="pgm_m01s.rom" size="2097152" crc="45ae7159" />
+		<rom name="ddp3_bios.u37" merge="ddp3_bios.u37" size="524288" crc="b3cc5c8f" />
+		<video type="raster" orientation="vertical" width="224" height="448" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ddpdoja" cloneof="ddp3" romof="ddp3" sourcefile="pgm/d_pgm.cpp">
+		<description>DoDonPachi Dai-Ou-Jou (Japan, 2002.04.05.Master Ver, 68k Label V100)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ddp3_d_d_1_0.u36" size="2097152" crc="5d3f85ba" />
+		<rom name="cave_t04401w064.u19" merge="cave_t04401w064.u19" size="8388608" crc="3a95f19c" />
+		<rom name="cave_a04401w064.u7" merge="cave_a04401w064.u7" size="8388608" crc="ed229794" />
+		<rom name="cave_a04402w064.u8" merge="cave_a04402w064.u8" size="8388608" crc="752167b0" />
+		<rom name="cave_b04401w064.u1" merge="cave_b04401w064.u1" size="8388608" crc="17731c9d" />
+		<rom name="cave_m04401b032.u17" merge="cave_m04401b032.u17" size="4194304" crc="5a0dbd76" />
+		<rom name="ddp3_igs027a.bin" size="16384" status="nodump" />
+		<rom name="ddp3_defaults.nv" merge="ddp3_defaults.nv" size="131072" crc="571e96c0" />
+		<rom name="pgm_t01s.rom" merge="pgm_t01s.rom" size="2097152" crc="1a7123a0" />
+		<rom name="pgm_m01s.rom" merge="pgm_m01s.rom" size="2097152" crc="45ae7159" />
+		<rom name="ddp3_bios.u37" merge="ddp3_bios.u37" size="524288" crc="b3cc5c8f" />
+		<video type="raster" orientation="vertical" width="224" height="448" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ddpdoj" cloneof="ddp3" romof="ddp3" sourcefile="pgm/d_pgm.cpp">
+		<description>DoDonPachi Dai-Ou-Jou (Japan, 2002.04.05.Master Ver, 68k Label V101)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ddp3_v101.u36" size="2097152" crc="195b5c1e" />
+		<rom name="cave_t04401w064.u19" merge="cave_t04401w064.u19" size="8388608" crc="3a95f19c" />
+		<rom name="cave_a04401w064.u7" merge="cave_a04401w064.u7" size="8388608" crc="ed229794" />
+		<rom name="cave_a04402w064.u8" merge="cave_a04402w064.u8" size="8388608" crc="752167b0" />
+		<rom name="cave_b04401w064.u1" merge="cave_b04401w064.u1" size="8388608" crc="17731c9d" />
+		<rom name="cave_m04401b032.u17" merge="cave_m04401b032.u17" size="4194304" crc="5a0dbd76" />
+		<rom name="ddp3_igs027a.bin" size="16384" status="nodump" />
+		<rom name="ddp3_defaults.nv" merge="ddp3_defaults.nv" size="131072" crc="571e96c0" />
+		<rom name="pgm_t01s.rom" merge="pgm_t01s.rom" size="2097152" crc="1a7123a0" />
+		<rom name="pgm_m01s.rom" merge="pgm_m01s.rom" size="2097152" crc="45ae7159" />
+		<rom name="ddp3_bios.u37" merge="ddp3_bios.u37" size="524288" crc="b3cc5c8f" />
+		<video type="raster" orientation="vertical" width="224" height="448" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ddpdojblkb" cloneof="ddp3" romof="ddp3" sourcefile="pgm/d_pgm.cpp">
+		<description>DoDonPachi Dai-Ou-Jou Black Label (Japan, 2002.10.07 Black Ver)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ddb10.u45" size="2097152" crc="72b35510" />
+		<rom name="cave_t04401w064.u19" merge="cave_t04401w064.u19" size="8388608" crc="3a95f19c" />
+		<rom name="cave_a04401w064.u7" merge="cave_a04401w064.u7" size="8388608" crc="ed229794" />
+		<rom name="cave_a04402w064.u8" merge="cave_a04402w064.u8" size="8388608" crc="752167b0" />
+		<rom name="cave_b04401w064.u1" merge="cave_b04401w064.u1" size="8388608" crc="17731c9d" />
+		<rom name="cave_m04401b032.u17" merge="cave_m04401b032.u17" size="4194304" crc="5a0dbd76" />
+		<rom name="ddp3_igs027a.bin" size="16384" status="nodump" />
+		<rom name="ddp3blk_defaults.nv" size="131072" crc="a1651904" />
+		<rom name="pgm_t01s.rom" merge="pgm_t01s.rom" size="2097152" crc="1a7123a0" />
+		<rom name="pgm_m01s.rom" merge="pgm_m01s.rom" size="2097152" crc="45ae7159" />
+		<rom name="ddp3_bios.u37" merge="ddp3_bios.u37" size="524288" crc="b3cc5c8f" />
+		<video type="raster" orientation="vertical" width="224" height="448" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ddpdojblk" cloneof="ddp3" romof="ddp3" sourcefile="pgm/d_pgm.cpp">
+		<description>DoDonPachi Dai-Ou-Jou Black Label (Japan, 2002.10.07.Black Ver, newer)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ddb10_10_8_434f.u45" size="2097152" crc="d21561db" />
+		<rom name="cave_t04401w064.u19" merge="cave_t04401w064.u19" size="8388608" crc="3a95f19c" />
+		<rom name="cave_a04401w064.u7" merge="cave_a04401w064.u7" size="8388608" crc="ed229794" />
+		<rom name="cave_a04402w064.u8" merge="cave_a04402w064.u8" size="8388608" crc="752167b0" />
+		<rom name="cave_b04401w064.u1" merge="cave_b04401w064.u1" size="8388608" crc="17731c9d" />
+		<rom name="cave_m04401b032.u17" merge="cave_m04401b032.u17" size="4194304" crc="5a0dbd76" />
+		<rom name="ddp3_igs027a.bin" size="16384" status="nodump" />
+		<rom name="ddp3blk_defaults.nv" size="131072" crc="c2282720" />
+		<rom name="pgm_t01s.rom" merge="pgm_t01s.rom" size="2097152" crc="1a7123a0" />
+		<rom name="pgm_m01s.rom" merge="pgm_m01s.rom" size="2097152" crc="45ae7159" />
+		<rom name="ddp3_bios.u37" merge="ddp3_bios.u37" size="524288" crc="b3cc5c8f" />
+		<video type="raster" orientation="vertical" width="224" height="448" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ddpdojblka" cloneof="ddp3" romof="ddp3" sourcefile="pgm/d_pgm.cpp">
+		<description>DoDonPachi Dai-Ou-Jou Black Label (Japan, 2002.10.07.Black Ver, older)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ddb_1dot.u45" size="2097152" crc="265f26cd" />
+		<rom name="cave_t04401w064.u19" merge="cave_t04401w064.u19" size="8388608" crc="3a95f19c" />
+		<rom name="cave_a04401w064.u7" merge="cave_a04401w064.u7" size="8388608" crc="ed229794" />
+		<rom name="cave_a04402w064.u8" merge="cave_a04402w064.u8" size="8388608" crc="752167b0" />
+		<rom name="cave_b04401w064.u1" merge="cave_b04401w064.u1" size="8388608" crc="17731c9d" />
+		<rom name="cave_m04401b032.u17" merge="cave_m04401b032.u17" size="4194304" crc="5a0dbd76" />
+		<rom name="ddp3_igs027a.bin" size="16384" status="nodump" />
+		<rom name="ddp3blk_defaults.nv" size="131072" crc="a1651904" />
+		<rom name="pgm_t01s.rom" merge="pgm_t01s.rom" size="2097152" crc="1a7123a0" />
+		<rom name="pgm_m01s.rom" merge="pgm_m01s.rom" size="2097152" crc="45ae7159" />
+		<rom name="ddp3_bios.u37" merge="ddp3_bios.u37" size="524288" crc="b3cc5c8f" />
+		<video type="raster" orientation="vertical" width="224" height="448" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ddp3" sourcefile="pgm/d_pgm.cpp">
+		<description>DoDonPachi III (World, 2002.05.15 Master Ver)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ddp3_v101_16m.u36" size="2097152" crc="fba2180e" />
+		<rom name="cave_t04401w064.u19" size="8388608" crc="3a95f19c" />
+		<rom name="cave_a04401w064.u7" size="8388608" crc="ed229794" />
+		<rom name="cave_a04402w064.u8" size="8388608" crc="752167b0" />
+		<rom name="cave_b04401w064.u1" size="8388608" crc="17731c9d" />
+		<rom name="cave_m04401b032.u17" size="4194304" crc="5a0dbd76" />
+		<rom name="ddp3_igs027a.bin" size="16384" status="nodump" />
+		<rom name="ddp3_defaults.nv" size="131072" crc="571e96c0" />
+		<rom name="pgm_t01s.rom" size="2097152" crc="1a7123a0" />
+		<rom name="pgm_m01s.rom" size="2097152" crc="45ae7159" />
+		<rom name="ddp3_bios.u37" size="524288" crc="b3cc5c8f" />
+		<video type="raster" orientation="vertical" width="224" height="448" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="sdojak" cloneof="ddpsdoj" romof="ddpsdoj" sourcefile="cave/d_cv1k.cpp">
+		<comment>Hack</comment>
+		<description>DoDonPachi SaiDaiOuJou &amp; Knuckles (CaveDwellers Hack)</description>
+		<year>2021</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="sdojak.u4" size="4194304" crc="a878ff4c" />
+		<rom name="sdojak.u2" size="138412032" crc="54353425" />
+		<rom name="u23" size="4194304" crc="32b91544" />
+		<rom name="u24" size="4194304" crc="7b9e749f" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ddpsdoj" sourcefile="cave/d_cv1k.cpp">
+		<description>DoDonPachi SaiDaiOuJou (2012/ 4/20)</description>
+		<year>2012</year>
+		<manufacturer>Cave</manufacturer>
+		<rom name="u4" size="4194560" crc="e2a4411c" />
+		<rom name="u2" size="138412032" crc="668e4cd6" />
+		<rom name="u23" size="4194560" crc="ac94801c" />
+		<rom name="u24" size="4194560" crc="f593045b" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="donpachihk" cloneof="donpachi" romof="donpachi" sampleof="donpachi" sourcefile="cave/d_donpachi.cpp">
+		<description>DonPachi (Hong Kong, ver. 1.10, 95/05/17)</description>
+		<year>1995</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="37.u29" size="524288" crc="71f39f30" />
+		<rom name="atdp.u44" merge="atdp.u44" size="2097152" crc="7189e953" />
+		<rom name="atdp.u45" merge="atdp.u45" size="2097152" crc="6984173f" />
+		<rom name="atdp.u54" merge="atdp.u54" size="1048576" crc="6bda6b66" />
+		<rom name="atdp.u57" merge="atdp.u57" size="1048576" crc="0a0e72b9" />
+		<rom name="u58.bin" size="262144" crc="285379ff" />
+		<rom name="atdp.u32" merge="atdp.u32" size="1048576" crc="0d89fcca" />
+		<rom name="atdp.u33" merge="atdp.u33" size="2097152" crc="d749de00" />
+		<rom name="eeprom-donpachi.bin" merge="eeprom-donpachi.u10" size="128" crc="315fb546" />
+		<rom name="peel18cv8p-15.u18" merge="peel18cv8p-15.u18" size="341" crc="3f4787e9" />
+		<sample name="02 - Sortie Instruction" />
+		<sample name="03 - Silent Outpost Base" />
+		<sample name="04 - Gale Force" />
+		<sample name="05 - God of Destruction" />
+		<sample name="06 - Advance Through the Sky" />
+		<sample name="07 - The Battle Intensifies" />
+		<sample name="08 - An Equal Match" />
+		<sample name="09 - It's All Up To Me!!" />
+		<sample name="10 - Chief's Congratulations" />
+		<sample name="11 - Breakthrough" />
+		<sample name="12 - Pressure" />
+		<sample name="13 - My Duty is Done" />
+		<sample name="14 - Eternal Soldier" />
+		<sample name="15 - Chase in the Dark" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="donpachijs" cloneof="donpachi" romof="donpachi" sampleof="donpachi" sourcefile="cave/d_donpachi.cpp">
+		<description>DonPachi (Japan, ver. 1.01, 95/05/11 Satsuei)</description>
+		<year>1995</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="prg.u29" size="524288" crc="810dbd42" />
+		<rom name="atdp.u44" merge="atdp.u44" size="2097152" crc="7189e953" />
+		<rom name="atdp.u45" merge="atdp.u45" size="2097152" crc="6984173f" />
+		<rom name="atdp.u54" merge="atdp.u54" size="1048576" crc="6bda6b66" />
+		<rom name="atdp.u57" merge="atdp.u57" size="1048576" crc="0a0e72b9" />
+		<rom name="u58.bin" size="262144" crc="285379ff" />
+		<rom name="atdp.u32" merge="atdp.u32" size="1048576" crc="0d89fcca" />
+		<rom name="atdp.u33" merge="atdp.u33" size="2097152" crc="d749de00" />
+		<rom name="eeprom-donpachi.u10" merge="eeprom-donpachi.u10" size="128" crc="315fb546" />
+		<rom name="peel18cv8p-15.u18" merge="peel18cv8p-15.u18" size="341" crc="3f4787e9" />
+		<sample name="02 - Sortie Instruction" />
+		<sample name="03 - Silent Outpost Base" />
+		<sample name="04 - Gale Force" />
+		<sample name="05 - God of Destruction" />
+		<sample name="06 - Advance Through the Sky" />
+		<sample name="07 - The Battle Intensifies" />
+		<sample name="08 - An Equal Match" />
+		<sample name="09 - It's All Up To Me!!" />
+		<sample name="10 - Chief's Congratulations" />
+		<sample name="11 - Breakthrough" />
+		<sample name="12 - Pressure" />
+		<sample name="13 - My Duty is Done" />
+		<sample name="14 - Eternal Soldier" />
+		<sample name="15 - Chase in the Dark" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="donpachij" cloneof="donpachi" romof="donpachi" sampleof="donpachi" sourcefile="cave/d_donpachi.cpp">
+		<description>DonPachi (Japan, ver. 1.01, 95/05/11)</description>
+		<year>1995</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="prg.u29" size="524288" crc="6be14af6" />
+		<rom name="atdp.u44" merge="atdp.u44" size="2097152" crc="7189e953" />
+		<rom name="atdp.u45" merge="atdp.u45" size="2097152" crc="6984173f" />
+		<rom name="atdp.u54" merge="atdp.u54" size="1048576" crc="6bda6b66" />
+		<rom name="atdp.u57" merge="atdp.u57" size="1048576" crc="0a0e72b9" />
+		<rom name="u58.bin" size="262144" crc="285379ff" />
+		<rom name="atdp.u32" merge="atdp.u32" size="1048576" crc="0d89fcca" />
+		<rom name="atdp.u33" merge="atdp.u33" size="2097152" crc="d749de00" />
+		<rom name="eeprom-donpachi.bin" merge="eeprom-donpachi.u10" size="128" crc="315fb546" />
+		<rom name="peel18cv8p-15.u18" merge="peel18cv8p-15.u18" size="341" crc="3f4787e9" />
+		<sample name="02 - Sortie Instruction" />
+		<sample name="03 - Silent Outpost Base" />
+		<sample name="04 - Gale Force" />
+		<sample name="05 - God of Destruction" />
+		<sample name="06 - Advance Through the Sky" />
+		<sample name="07 - The Battle Intensifies" />
+		<sample name="08 - An Equal Match" />
+		<sample name="09 - It's All Up To Me!!" />
+		<sample name="10 - Chief's Congratulations" />
+		<sample name="11 - Breakthrough" />
+		<sample name="12 - Pressure" />
+		<sample name="13 - My Duty is Done" />
+		<sample name="14 - Eternal Soldier" />
+		<sample name="15 - Chase in the Dark" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="donpachikr" cloneof="donpachi" romof="donpachi" sampleof="donpachi" sourcefile="cave/d_donpachi.cpp">
+		<description>DonPachi (Korea, ver. 1.12, 95/05/2x)</description>
+		<year>1995</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="prgk.u26" size="524288" crc="bbaf4c8b" />
+		<rom name="atdp.u44" merge="atdp.u44" size="2097152" crc="7189e953" />
+		<rom name="atdp.u45" merge="atdp.u45" size="2097152" crc="6984173f" />
+		<rom name="atdp.u54" merge="atdp.u54" size="1048576" crc="6bda6b66" />
+		<rom name="atdp.u57" merge="atdp.u57" size="1048576" crc="0a0e72b9" />
+		<rom name="text.u58" merge="text.u58" size="262144" crc="5dba06e7" />
+		<rom name="atdp.u32" merge="atdp.u32" size="1048576" crc="0d89fcca" />
+		<rom name="atdp.u33" merge="atdp.u33" size="2097152" crc="d749de00" />
+		<rom name="eeprom-donpachi.bin" merge="eeprom-donpachi.u10" size="128" crc="315fb546" />
+		<rom name="peel18cv8p-15.u18" merge="peel18cv8p-15.u18" size="341" crc="3f4787e9" />
+		<sample name="02 - Sortie Instruction" />
+		<sample name="03 - Silent Outpost Base" />
+		<sample name="04 - Gale Force" />
+		<sample name="05 - God of Destruction" />
+		<sample name="06 - Advance Through the Sky" />
+		<sample name="07 - The Battle Intensifies" />
+		<sample name="08 - An Equal Match" />
+		<sample name="09 - It's All Up To Me!!" />
+		<sample name="10 - Chief's Congratulations" />
+		<sample name="11 - Breakthrough" />
+		<sample name="12 - Pressure" />
+		<sample name="13 - My Duty is Done" />
+		<sample name="14 - Eternal Soldier" />
+		<sample name="15 - Chase in the Dark" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="donpachi" sourcefile="cave/d_donpachi.cpp">
+		<description>DonPachi (USA, ver. 1.12, 95/05/2x)</description>
+		<year>1995</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="prgu.u29" size="524288" crc="89c36802" />
+		<rom name="atdp.u44" size="2097152" crc="7189e953" />
+		<rom name="atdp.u45" size="2097152" crc="6984173f" />
+		<rom name="atdp.u54" size="1048576" crc="6bda6b66" />
+		<rom name="atdp.u57" size="1048576" crc="0a0e72b9" />
+		<rom name="text.u58" size="262144" crc="5dba06e7" />
+		<rom name="atdp.u32" size="1048576" crc="0d89fcca" />
+		<rom name="atdp.u33" size="2097152" crc="d749de00" />
+		<rom name="eeprom-donpachi.u10" size="128" crc="315fb546" />
+		<rom name="peel18cv8p-15.u18" size="341" crc="3f4787e9" />
+		<sample name="02 - Sortie Instruction" />
+		<sample name="03 - Silent Outpost Base" />
+		<sample name="04 - Gale Force" />
+		<sample name="05 - God of Destruction" />
+		<sample name="06 - Advance Through the Sky" />
+		<sample name="07 - The Battle Intensifies" />
+		<sample name="08 - An Equal Match" />
+		<sample name="09 - It's All Up To Me!!" />
+		<sample name="10 - Chief's Congratulations" />
+		<sample name="11 - Breakthrough" />
+		<sample name="12 - Pressure" />
+		<sample name="13 - My Duty is Done" />
+		<sample name="14 - Eternal Soldier" />
+		<sample name="15 - Chase in the Dark" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="espradejo" cloneof="esprade" romof="esprade" sourcefile="cave/d_esprade.cpp">
+		<description>ESP Ra.De. (Japan, 1998 4/14 Master Ver.)</description>
+		<year>1998</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="u42.bin" size="524288" crc="0718c7e5" />
+		<rom name="u41.bin" size="524288" crc="def30539" />
+		<rom name="esp_u63.u63" merge="esp_u63.u63" size="4194304" crc="2f2fe92c" />
+		<rom name="esp_u64.u64" merge="esp_u64.u64" size="4194304" crc="491a3da4" />
+		<rom name="esp_u65.u65" merge="esp_u65.u65" size="4194304" crc="06563efe" />
+		<rom name="esp_u66.u66" merge="esp_u66.u66" size="4194304" crc="7bbe4cfc" />
+		<rom name="esp_u54.u54" merge="esp_u54.u54" size="4194304" crc="e7ca6936" />
+		<rom name="esp_u55.u55" merge="esp_u55.u55" size="4194304" crc="f53bd94f" />
+		<rom name="esp_u52.u52" merge="esp_u52.u52" size="4194304" crc="e7abe7b4" />
+		<rom name="esp_u53.u53" merge="esp_u53.u53" size="4194304" crc="51a0f391" />
+		<rom name="esp_u51.u51" merge="esp_u51.u51" size="4194304" crc="0b9b875c" />
+		<rom name="esp_u19.u19" merge="esp_u19.u19" size="4194304" crc="f54b1cab" />
+		<rom name="eeprom-esprade.bin" merge="eeprom-esprade.bin" size="128" crc="315fb546" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="espradej" cloneof="esprade" romof="esprade" sourcefile="cave/d_esprade.cpp">
+		<description>ESP Ra.De. (Japan, 1998 4/21 Master Ver.)</description>
+		<year>1998</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="u42_ver.2" size="524288" crc="75d03c42" />
+		<rom name="u41_ver.2" size="524288" crc="734b3ef0" />
+		<rom name="esp_u63.u63" merge="esp_u63.u63" size="4194304" crc="2f2fe92c" />
+		<rom name="esp_u64.u64" merge="esp_u64.u64" size="4194304" crc="491a3da4" />
+		<rom name="esp_u65.u65" merge="esp_u65.u65" size="4194304" crc="06563efe" />
+		<rom name="esp_u66.u66" merge="esp_u66.u66" size="4194304" crc="7bbe4cfc" />
+		<rom name="esp_u54.u54" merge="esp_u54.u54" size="4194304" crc="e7ca6936" />
+		<rom name="esp_u55.u55" merge="esp_u55.u55" size="4194304" crc="f53bd94f" />
+		<rom name="esp_u52.u52" merge="esp_u52.u52" size="4194304" crc="e7abe7b4" />
+		<rom name="esp_u53.u53" merge="esp_u53.u53" size="4194304" crc="51a0f391" />
+		<rom name="esp_u51.u51" merge="esp_u51.u51" size="4194304" crc="0b9b875c" />
+		<rom name="esp_u19.u19" merge="esp_u19.u19" size="4194304" crc="f54b1cab" />
+		<rom name="eeprom-esprade.bin" merge="eeprom-esprade.bin" size="128" crc="315fb546" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="esprade" sourcefile="cave/d_esprade.cpp">
+		<description>ESP Ra.De. - A.D.2018 Tokyo (World, 1998 4/22 International Ver.)</description>
+		<year>1998</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="u42.int" size="524288" crc="3b510a73" />
+		<rom name="u41.int" size="524288" crc="97c1b649" />
+		<rom name="esp_u63.u63" size="4194304" crc="2f2fe92c" />
+		<rom name="esp_u64.u64" size="4194304" crc="491a3da4" />
+		<rom name="esp_u65.u65" size="4194304" crc="06563efe" />
+		<rom name="esp_u66.u66" size="4194304" crc="7bbe4cfc" />
+		<rom name="esp_u54.u54" size="4194304" crc="e7ca6936" />
+		<rom name="esp_u55.u55" size="4194304" crc="f53bd94f" />
+		<rom name="esp_u52.u52" size="4194304" crc="e7abe7b4" />
+		<rom name="esp_u53.u53" size="4194304" crc="51a0f391" />
+		<rom name="esp_u51.u51" size="4194304" crc="0b9b875c" />
+		<rom name="esp_u19.u19" size="4194304" crc="f54b1cab" />
+		<rom name="eeprom-esprade.bin" size="128" crc="315fb546" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="espgal" sourcefile="pgm/d_pgm.cpp">
+		<description>Espgaluda (2003/10/15 Master Ver)</description>
+		<year>2003</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="espgaluda_v100.u38" size="2097152" crc="08ecec34" />
+		<rom name="cave_t04801w064.u19" size="8388608" crc="6021c79e" />
+		<rom name="cave_a04801w064.u7" size="8388608" crc="26dd4932" />
+		<rom name="cave_a04802w064.u8" size="8388608" crc="0e6bf7a9" />
+		<rom name="cave_b04801w064.u1" size="8388608" crc="98dce13a" />
+		<rom name="cave_w04801b032.u17" size="4194304" crc="60298536" />
+		<rom name="espgal_igs027a.bin" size="16384" status="nodump" />
+		<rom name="t01s.u18" size="2097152" crc="1a7123a0" />
+		<video type="raster" orientation="vertical" width="224" height="448" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="espgal2a" cloneof="espgal2" romof="espgal2" sourcefile="cave/d_cv1k.cpp">
+		<description>Espgaluda II (2005/11/14 MASTER VER, newer CV1000-B PCB)</description>
+		<year>2005</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="espgal2a_u4" size="2097152" crc="843608b8" />
+		<rom name="u2" merge="u2" size="138412032" crc="222f58c7" />
+		<rom name="u23" merge="u23" size="4194304" crc="b9a10c22" />
+		<rom name="u24" merge="u24" size="4194304" crc="c76b1ec4" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="espgal2b" cloneof="espgal2" romof="espgal2" sourcefile="cave/d_cv1k.cpp">
+		<description>Espgaluda II (2005/11/14 MASTER VER, original CV1000-B PCB)</description>
+		<year>2005</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="espgal2b_u4" size="2097152" crc="09c908bb" />
+		<rom name="u2" merge="u2" size="138412032" crc="222f58c7" />
+		<rom name="u23" merge="u23" size="4194304" crc="b9a10c22" />
+		<rom name="u24" merge="u24" size="4194304" crc="c76b1ec4" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="espgal2" sourcefile="cave/d_cv1k.cpp">
+		<description>Espgaluda II (2005/11/14.MASTER VER.)</description>
+		<year>2005</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="espgal2_u4" size="2097152" crc="2cb37c03" />
+		<rom name="u2" size="138412032" crc="222f58c7" />
+		<rom name="u23" size="4194304" crc="b9a10c22" />
+		<rom name="u24" size="4194304" crc="c76b1ec4" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="feversos" sourcefile="cave/d_feversos.cpp">
+		<description>Fever SOS (World, 98/09/25 VER)</description>
+		<year>1998</year>
+		<manufacturer>Cave (Nihon System license)</manufacturer>
+		<rom name="cv01-u34.sos" size="524288" crc="24ef3ce6" />
+		<rom name="cv01-u33.sos" size="524288" crc="64ff73fd" />
+		<rom name="cv01-u25.bin" size="4194304" crc="a6f6a95d" />
+		<rom name="cv01-u26.bin" size="4194304" crc="32edb62a" />
+		<rom name="cv01-u50.bin" size="2097152" crc="7a344417" />
+		<rom name="cv01-u49.bin" size="2097152" crc="d21cdda7" />
+		<rom name="cv01-u19.bin" size="4194304" crc="5f5514da" />
+		<rom name="eeprom-feversos.bin" size="128" crc="d80303aa" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="gaia" sourcefile="cave/d_gaia.cpp">
+		<description>Gaia Crusaders</description>
+		<year>1999</year>
+		<manufacturer>Noise Factory</manufacturer>
+		<rom name="prg1.127" size="524288" crc="47b904b2" />
+		<rom name="prg2.128" size="524288" crc="469b7794" />
+		<rom name="obj1.736" size="4194304" crc="f4f84e5d" />
+		<rom name="obj2.738" size="4194304" crc="15c2a9ce" />
+		<rom name="bg1.989" size="4194304" crc="013a693d" />
+		<rom name="bg2.995" size="4194304" crc="783cc62f" />
+		<rom name="bg3.998" size="4194304" crc="bcd61d1c" />
+		<rom name="snd1.447" size="4194304" crc="92770a52" />
+		<rom name="snd2.454" size="4194304" crc="329ae1cf" />
+		<rom name="snd3.455" size="4194304" crc="4048d64e" />
+		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="plegends" sourcefile="cave/d_pwrinst2.cpp">
+		<description>Gogetsuji Legends (US, Ver. 95.06.20)</description>
+		<year>1995</year>
+		<manufacturer>Atlus</manufacturer>
+		<rom name="d12.u45" size="524288" crc="ed8a2e3d" />
+		<rom name="d13.u44" size="524288" crc="25821731" />
+		<rom name="d14.u2" size="524288" crc="c2cb1402" />
+		<rom name="d16.u3" size="524288" crc="50a1c63e" />
+		<rom name="d15.u4" size="524288" crc="6352cec0" />
+		<rom name="d17.u5" size="524288" crc="7af810d8" />
+		<rom name="d19.u3" size="262144" crc="47598459" />
+		<rom name="g02.u61" size="2097152" crc="91e30398" />
+		<rom name="g02.u62" size="2097152" crc="d9455dd7" />
+		<rom name="g02.u63" size="2097152" crc="4d20560b" />
+		<rom name="g02.u64" size="2097152" crc="b17b9b6e" />
+		<rom name="g02.u65" size="2097152" crc="08541878" />
+		<rom name="g02.u66" size="2097152" crc="becf2a36" />
+		<rom name="atgs.u1" size="2097152" crc="aa6f34a9" />
+		<rom name="atgs.u2" size="2097152" crc="553eda27" />
+		<rom name="atgs.u78" size="2097152" crc="16710ecb" />
+		<rom name="atgs.u81" size="2097152" crc="cb2aca91" />
+		<rom name="atgs.u89" size="2097152" crc="65f45a0f" />
+		<rom name="text.u82" size="524288" crc="f57333ea" />
+		<rom name="g02.u53" size="2097152" crc="c4bdd9e0" />
+		<rom name="g02.u54" size="2097152" crc="1357d50e" />
+		<rom name="g02.u55" size="2097152" crc="2d102898" />
+		<rom name="g02.u56" size="2097152" crc="9ff50dda" />
+		<rom name="peel18cv8p-15.u7" size="341" crc="e02b2d2b" />
+		<rom name="peel18cv8p-15.u21" size="341" crc="7ca78400" />
+		<rom name="peel18cv8p-15.u25" size="341" crc="61b414df" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="plegendsjq" cloneof="plegends" romof="plegends" sourcefile="cave/d_pwrinst2.cpp">
+		<description>Gouketsuji Gaiden - Saikyou Densetsu (Infinite Energy, Hack)</description>
+		<year>2023</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="prog_jq.u45" size="524288" crc="82f55c8f" />
+		<rom name="prog_jq.u44" size="524288" crc="f0141a4f" />
+		<rom name="pr12.u2" size="524288" crc="0e202559" />
+		<rom name="pr12.u3" size="524288" crc="54742f21" />
+		<rom name="d15.u4" merge="d15.u4" size="524288" crc="6352cec0" />
+		<rom name="d17.u5" merge="d17.u5" size="524288" crc="7af810d8" />
+		<rom name="sound.u3" size="131072" crc="36f71520" />
+		<rom name="g02.u61" merge="g02.u61" size="2097152" crc="91e30398" />
+		<rom name="g02.u62" merge="g02.u62" size="2097152" crc="d9455dd7" />
+		<rom name="g02.u63" merge="g02.u63" size="2097152" crc="4d20560b" />
+		<rom name="g02.u64" merge="g02.u64" size="2097152" crc="b17b9b6e" />
+		<rom name="g02.u65" merge="g02.u65" size="2097152" crc="08541878" />
+		<rom name="g02.u66" merge="g02.u66" size="2097152" crc="becf2a36" />
+		<rom name="atgs.u1" merge="atgs.u1" size="2097152" crc="aa6f34a9" />
+		<rom name="atgs.u2" merge="atgs.u2" size="2097152" crc="553eda27" />
+		<rom name="atgs.u78" merge="atgs.u78" size="2097152" crc="16710ecb" />
+		<rom name="atgs.u81" merge="atgs.u81" size="2097152" crc="cb2aca91" />
+		<rom name="atgs.u89" merge="atgs.u89" size="2097152" crc="65f45a0f" />
+		<rom name="text.u82" merge="text.u82" size="524288" crc="f57333ea" />
+		<rom name="g02.u53" merge="g02.u53" size="2097152" crc="c4bdd9e0" />
+		<rom name="g02.u54" merge="g02.u54" size="2097152" crc="1357d50e" />
+		<rom name="g02.u55" merge="g02.u55" size="2097152" crc="2d102898" />
+		<rom name="g02.u56" merge="g02.u56" size="2097152" crc="9ff50dda" />
+		<rom name="peel18cv8p-15.u7" merge="peel18cv8p-15.u7" size="341" crc="e02b2d2b" />
+		<rom name="peel18cv8p-15.u21" merge="peel18cv8p-15.u21" size="341" crc="7ca78400" />
+		<rom name="peel18cv8p-15.u25" merge="peel18cv8p-15.u25" size="341" crc="61b414df" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="plegendsj" cloneof="plegends" romof="plegends" sourcefile="cave/d_pwrinst2.cpp">
+		<description>Gouketsuji Gaiden - Saikyou Densetsu (Japan, Ver. 95.06.20)</description>
+		<year>1995</year>
+		<manufacturer>Atlus</manufacturer>
+		<rom name="prog.u45" size="524288" crc="94f53db2" />
+		<rom name="prog.u44" size="524288" crc="db0ad756" />
+		<rom name="pr12.u2" size="524288" crc="0e202559" />
+		<rom name="pr12.u3" size="524288" crc="54742f21" />
+		<rom name="d15.u4" merge="d15.u4" size="524288" crc="6352cec0" />
+		<rom name="d17.u5" merge="d17.u5" size="524288" crc="7af810d8" />
+		<rom name="sound.u3" size="131072" crc="36f71520" />
+		<rom name="g02.u61" merge="g02.u61" size="2097152" crc="91e30398" />
+		<rom name="g02.u62" merge="g02.u62" size="2097152" crc="d9455dd7" />
+		<rom name="g02.u63" merge="g02.u63" size="2097152" crc="4d20560b" />
+		<rom name="g02.u64" merge="g02.u64" size="2097152" crc="b17b9b6e" />
+		<rom name="g02.u65" merge="g02.u65" size="2097152" crc="08541878" />
+		<rom name="g02.u66" merge="g02.u66" size="2097152" crc="becf2a36" />
+		<rom name="atgs.u1" merge="atgs.u1" size="2097152" crc="aa6f34a9" />
+		<rom name="atgs.u2" merge="atgs.u2" size="2097152" crc="553eda27" />
+		<rom name="atgs.u78" merge="atgs.u78" size="2097152" crc="16710ecb" />
+		<rom name="atgs.u81" merge="atgs.u81" size="2097152" crc="cb2aca91" />
+		<rom name="atgs.u89" merge="atgs.u89" size="2097152" crc="65f45a0f" />
+		<rom name="text.u82" merge="text.u82" size="524288" crc="f57333ea" />
+		<rom name="g02.u53" merge="g02.u53" size="2097152" crc="c4bdd9e0" />
+		<rom name="g02.u54" merge="g02.u54" size="2097152" crc="1357d50e" />
+		<rom name="g02.u55" merge="g02.u55" size="2097152" crc="2d102898" />
+		<rom name="g02.u56" merge="g02.u56" size="2097152" crc="9ff50dda" />
+		<rom name="peel18cv8p-15.u7" merge="peel18cv8p-15.u7" size="341" crc="e02b2d2b" />
+		<rom name="peel18cv8p-15.u21" merge="peel18cv8p-15.u21" size="341" crc="7ca78400" />
+		<rom name="peel18cv8p-15.u25" merge="peel18cv8p-15.u25" size="341" crc="61b414df" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="pwrinst2j" cloneof="pwrinst2" romof="pwrinst2" sourcefile="cave/d_pwrinst2.cpp">
+		<description>Gouketsuji Ichizoku 2 (Japan, Ver. 94.04.08, set 1)</description>
+		<year>1994</year>
+		<manufacturer>Atlus</manufacturer>
+		<rom name="g02j.u45" size="524288" crc="42d0abd7" />
+		<rom name="g02j.u44" size="524288" crc="362b7af3" />
+		<rom name="g02j.u43" size="524288" crc="c94c596b" />
+		<rom name="g02j.u42" size="524288" crc="4f4c8270" />
+		<rom name="g02j.u3a" size="131072" crc="eead01f1" />
+		<rom name="g02.u61" merge="g02.u61" size="2097152" crc="91e30398" />
+		<rom name="g02.u62" merge="g02.u62" size="2097152" crc="d9455dd7" />
+		<rom name="g02.u63" merge="g02.u63" size="2097152" crc="4d20560b" />
+		<rom name="g02.u64" merge="g02.u64" size="2097152" crc="b17b9b6e" />
+		<rom name="g02.u65" merge="g02.u65" size="2097152" crc="08541878" />
+		<rom name="g02.u66" merge="g02.u66" size="2097152" crc="becf2a36" />
+		<rom name="g02.u67" merge="g02.u67" size="2097152" crc="52fe2b8b" />
+		<rom name="g02.u78" merge="g02.u78" size="2097152" crc="1eca63d2" />
+		<rom name="g02.u81" merge="g02.u81" size="1048576" crc="8a3ff685" />
+		<rom name="g02.u89" merge="g02.u89" size="1048576" crc="373e1f73" />
+		<rom name="g02j.82a" size="524288" crc="3be86fe1" />
+		<rom name="g02.u53" merge="g02.u53" size="2097152" crc="c4bdd9e0" />
+		<rom name="g02.u54" merge="g02.u54" size="2097152" crc="1357d50e" />
+		<rom name="g02.u55" merge="g02.u55" size="2097152" crc="2d102898" />
+		<rom name="g02.u56" merge="g02.u56" size="2097152" crc="9ff50dda" />
+		<rom name="peel18cv8p-15.u7" merge="peel18cv8p-15.u7" size="341" crc="e02b2d2b" />
+		<rom name="peel18cv8p-15.u21" merge="peel18cv8p-15.u21" size="341" crc="7ca78400" />
+		<rom name="peel18cv8p-15.u25" merge="peel18cv8p-15.u25" size="341" crc="61b414df" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="pwrinst2ja" cloneof="pwrinst2" romof="pwrinst2" sourcefile="cave/d_pwrinst2.cpp">
+		<description>Gouketsuji Ichizoku 2 (Japan, Ver. 94.04.08, set 2)</description>
+		<year>1994</year>
+		<manufacturer>Atlus</manufacturer>
+		<rom name="g02_u45-j.u45" size="524288" crc="0dc8a37b" />
+		<rom name="g02_u44-j.u44" size="524288" crc="42b35ec5" />
+		<rom name="g02_u43-j.u43" size="524288" crc="c94c596b" />
+		<rom name="g02_u42-j.u42" size="524288" crc="4f4c8270" />
+		<rom name="g02_u3-j.u3a" size="131072" crc="eead01f1" />
+		<rom name="g02.u61" merge="g02.u61" size="2097152" crc="91e30398" />
+		<rom name="g02.u62" merge="g02.u62" size="2097152" crc="d9455dd7" />
+		<rom name="g02.u63" merge="g02.u63" size="2097152" crc="4d20560b" />
+		<rom name="g02.u64" merge="g02.u64" size="2097152" crc="b17b9b6e" />
+		<rom name="g02.u65" merge="g02.u65" size="2097152" crc="08541878" />
+		<rom name="g02.u66" merge="g02.u66" size="2097152" crc="becf2a36" />
+		<rom name="g02.u67" merge="g02.u67" size="2097152" crc="52fe2b8b" />
+		<rom name="g02.u78" merge="g02.u78" size="2097152" crc="1eca63d2" />
+		<rom name="g02.u81" merge="g02.u81" size="1048576" crc="8a3ff685" />
+		<rom name="g02.u89" merge="g02.u89" size="1048576" crc="373e1f73" />
+		<rom name="g02_u82-j.u82" size="524288" crc="3be86fe1" />
+		<rom name="g02.u53" merge="g02.u53" size="2097152" crc="c4bdd9e0" />
+		<rom name="g02.u54" merge="g02.u54" size="2097152" crc="1357d50e" />
+		<rom name="g02.u55" merge="g02.u55" size="2097152" crc="2d102898" />
+		<rom name="g02.u56" merge="g02.u56" size="2097152" crc="9ff50dda" />
+		<rom name="peel18cv8p-15.u7" merge="peel18cv8p-15.u7" size="341" crc="e02b2d2b" />
+		<rom name="peel18cv8p-15.u21" merge="peel18cv8p-15.u21" size="341" crc="7ca78400" />
+		<rom name="peel18cv8p-15.u25" merge="peel18cv8p-15.u25" size="341" crc="61b414df" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="guwange" sourcefile="cave/d_guwange.cpp">
+		<description>Guwange (Japan, 1999 6/24 Master Ver 16:55)</description>
+		<year>1999</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="gu-u0127.bin" size="524288" crc="f86b5293" />
+		<rom name="gu-u0129.bin" size="524288" crc="6c0e3b93" />
+		<rom name="u083.bin" size="8388608" crc="adc4b9c4" />
+		<rom name="u082.bin" size="8388608" crc="3d75876c" />
+		<rom name="u086.bin" size="4194304" crc="188e4f81" />
+		<rom name="u085.bin" size="4194304" crc="a7d5659e" />
+		<rom name="u101.bin" size="8388608" crc="0369491f" />
+		<rom name="u10102.bin" size="4194304" crc="e28d6855" />
+		<rom name="u10103.bin" size="4194304" crc="0fe91b8e" />
+		<rom name="u0462.bin" size="4194304" crc="b3d75691" />
+		<rom name="atc05-1.bin" size="1" status="nodump" />
+		<rom name="u0259.bin" size="1" status="nodump" />
+		<rom name="u084.bin" size="1" status="nodump" />
+		<rom name="u108.bin" size="1" status="nodump" />
+		<rom name="eeprom-guwange.bin" size="128" crc="c3174959" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="guwanges" cloneof="guwange" romof="guwange" sourcefile="cave/d_guwange.cpp">
+		<description>Guwange (Japan, 2000 7/ 7 Special Ver 13:22)</description>
+		<year>1999</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="gu-u0127b.bin" size="524288" crc="64667d2e" />
+		<rom name="gu-u0129b.bin" size="524288" crc="a99c6b6c" />
+		<rom name="u083.bin" merge="u083.bin" size="8388608" crc="adc4b9c4" />
+		<rom name="u082.bin" merge="u082.bin" size="8388608" crc="3d75876c" />
+		<rom name="u086.bin" merge="u086.bin" size="4194304" crc="188e4f81" />
+		<rom name="u085.bin" merge="u085.bin" size="4194304" crc="a7d5659e" />
+		<rom name="u101.bin" merge="u101.bin" size="8388608" crc="0369491f" />
+		<rom name="u10102.bin" merge="u10102.bin" size="4194304" crc="e28d6855" />
+		<rom name="u10103.bin" merge="u10103.bin" size="4194304" crc="0fe91b8e" />
+		<rom name="u0462.bin" merge="u0462.bin" size="4194304" crc="b3d75691" />
+		<rom name="atc05-1.bin" size="1" status="nodump" />
+		<rom name="u0259.bin" size="1" status="nodump" />
+		<rom name="u084.bin" size="1" status="nodump" />
+		<rom name="u108.bin" size="1" status="nodump" />
+		<rom name="eeprom-guwange.bin" merge="eeprom-guwange.bin" size="128" crc="c3174959" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="hotdogst" sourcefile="cave/d_hotdogst.cpp">
+		<description>Hotdog Storm - The First Supersonics (Korea)</description>
+		<year>1996</year>
+		<manufacturer>Marble (Ace International license)</manufacturer>
+		<rom name="mp3.u29" size="524288" crc="1f4e5479" />
+		<rom name="mp4.u28" size="524288" crc="6f1c3c4b" />
+		<rom name="mp2.u19" size="262144" crc="ff979ebe" />
+		<rom name="mp9.u55" size="2097152" crc="258d49ec" />
+		<rom name="mp8.u54" size="2097152" crc="bdb4d7b8" />
+		<rom name="mp7.u56" size="524288" crc="87c21c50" />
+		<rom name="mp6.u61" size="524288" crc="4dafb288" />
+		<rom name="mp5.u64" size="524288" crc="9b26458c" />
+		<rom name="mp1.u65" size="524288" crc="4868be1b" />
+		<rom name="eeprom-hotdogst.u14" size="128" crc="12b4f934" />
+		<video type="raster" orientation="vertical" width="240" height="384" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ibarao" cloneof="ibara" romof="ibara" sourcefile="cave/d_cv1k.cpp">
+		<description>Ibara (2005/03/22 MASTER VER..)</description>
+		<year>2005</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ibarao_u4" size="2097152" crc="8e6c155d" />
+		<rom name="u2" merge="u2" size="138412032" crc="55840976" />
+		<rom name="u23" merge="u23" size="4194304" crc="ee5e585d" />
+		<rom name="u24" merge="u24" size="4194304" crc="f0aa3cb6" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ibara" sourcefile="cave/d_cv1k.cpp">
+		<description>Ibara (2005/03/22 MASTER VER.., '06. 3. 7 ver.)</description>
+		<year>2005</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ibara_u4" size="2097152" crc="d5fb6657" />
+		<rom name="u2" size="138412032" crc="55840976" />
+		<rom name="u23" size="4194304" crc="ee5e585d" />
+		<rom name="u24" size="4194304" crc="f0aa3cb6" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ibarablka" cloneof="ibarablk" romof="ibarablk" sourcefile="cave/d_cv1k.cpp">
+		<description>Ibara Kuro Black Label (2006/02/06 MASTER VER.)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ibarablka_u4" size="2097152" crc="a9d43839" />
+		<rom name="ibarablka_u2" size="138412032" crc="33400d96" />
+		<rom name="u23" merge="u23" size="4194304" crc="a436bb22" />
+		<rom name="u24" merge="u24" size="4194304" crc="d11ab6b6" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ibarablk" sourcefile="cave/d_cv1k.cpp">
+		<description>Ibara Kuro Black Label (2006/02/06. MASTER VER.)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ibarablk_u4" size="2097152" crc="ee1f1f77" />
+		<rom name="ibarablk_u2" size="138412032" crc="5e46be44" />
+		<rom name="u23" size="4194304" crc="a436bb22" />
+		<rom name="u24" size="4194304" crc="d11ab6b6" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ketb" cloneof="ket" romof="ket" sourcefile="pgm/d_pgm.cpp">
+		<description>Ketsui: Kizuna Jigoku Tachi (2003/01/01 Master Ver)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ketsui_prg_original.bin" size="2097152" crc="cca5e153" />
+		<rom name="cave_t04701w064.u19" merge="cave_t04701w064.u19" size="8388608" crc="2665b041" />
+		<rom name="cave_a04701w064.u7" merge="cave_a04701w064.u7" size="8388608" crc="5ef1b94b" />
+		<rom name="cave_a04702w064.u8" merge="cave_a04702w064.u8" size="8388608" crc="26d6da7f" />
+		<rom name="cave_b04701w064.u1" merge="cave_b04701w064.u1" size="8388608" crc="1bec008d" />
+		<rom name="cave_m04701b032.u17" merge="cave_m04701b032.u17" size="4194304" crc="b46e22d1" />
+		<rom name="ket_igs027a.bin" size="16384" status="nodump" />
+		<rom name="ket_defaults.nv" merge="ket_defaults.nv" size="131072" crc="3ca892d8" />
+		<rom name="pgm_t01s.rom" merge="pgm_t01s.rom" size="2097152" crc="1a7123a0" />
+		<video type="raster" orientation="vertical" width="224" height="448" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="keta" cloneof="ket" romof="ket" sourcefile="pgm/d_pgm.cpp">
+		<description>Ketsui: Kizuna Jigoku Tachi (2003/01/01 Master Ver.)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ketsui_prg_revised.bin" size="2097152" crc="69fcf5eb" />
+		<rom name="cave_t04701w064.u19" merge="cave_t04701w064.u19" size="8388608" crc="2665b041" />
+		<rom name="cave_a04701w064.u7" merge="cave_a04701w064.u7" size="8388608" crc="5ef1b94b" />
+		<rom name="cave_a04702w064.u8" merge="cave_a04702w064.u8" size="8388608" crc="26d6da7f" />
+		<rom name="cave_b04701w064.u1" merge="cave_b04701w064.u1" size="8388608" crc="1bec008d" />
+		<rom name="cave_m04701b032.u17" merge="cave_m04701b032.u17" size="4194304" crc="b46e22d1" />
+		<rom name="ket_igs027a.bin" size="16384" status="nodump" />
+		<rom name="ket_defaults.nv" merge="ket_defaults.nv" size="131072" crc="3ca892d8" />
+		<rom name="pgm_t01s.rom" merge="pgm_t01s.rom" size="2097152" crc="1a7123a0" />
+		<video type="raster" orientation="vertical" width="224" height="448" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ket1" cloneof="ket" romof="ket" sourcefile="pgm/d_pgm.cpp">
+		<description>Ketsui: Kizuna Jigoku Tachi (2003/01/01. Master Ver.) (alt rom fill)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ketsui_v100_alt_fill.u38" size="2097152" crc="e140f8a4" />
+		<rom name="cave_t04701w064.u19" merge="cave_t04701w064.u19" size="8388608" crc="2665b041" />
+		<rom name="cave_a04701w064.u7" merge="cave_a04701w064.u7" size="8388608" crc="5ef1b94b" />
+		<rom name="cave_a04702w064.u8" merge="cave_a04702w064.u8" size="8388608" crc="26d6da7f" />
+		<rom name="cave_b04701w064.u1" merge="cave_b04701w064.u1" size="8388608" crc="1bec008d" />
+		<rom name="cave_m04701b032.u17" merge="cave_m04701b032.u17" size="4194304" crc="b46e22d1" />
+		<rom name="ket_igs027a.bin" size="16384" status="nodump" />
+		<rom name="ket_defaults.nv" merge="ket_defaults.nv" size="131072" crc="3ca892d8" />
+		<rom name="pgm_t01s.rom" merge="pgm_t01s.rom" size="2097152" crc="1a7123a0" />
+		<video type="raster" orientation="vertical" width="224" height="448" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ket" sourcefile="pgm/d_pgm.cpp">
+		<description>Ketsui: Kizuna Jigoku Tachi (2003/01/01. Master Ver.)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ketsui_v100.u38" size="2097152" crc="dfe62f3b" />
+		<rom name="cave_t04701w064.u19" size="8388608" crc="2665b041" />
+		<rom name="cave_a04701w064.u7" size="8388608" crc="5ef1b94b" />
+		<rom name="cave_a04702w064.u8" size="8388608" crc="26d6da7f" />
+		<rom name="cave_b04701w064.u1" size="8388608" crc="1bec008d" />
+		<rom name="cave_m04701b032.u17" size="4194304" crc="b46e22d1" />
+		<rom name="ket_igs027a.bin" size="16384" status="nodump" />
+		<rom name="ket_defaults.nv" size="131072" crc="3ca892d8" />
+		<rom name="pgm_t01s.rom" size="2097152" crc="1a7123a0" />
+		<video type="raster" orientation="vertical" width="224" height="448" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ketikd" cloneof="ket" romof="ket" sourcefile="pgm/d_pgm.cpp">
+		<description>Ketsui: Kizuna Jigoku Tachi - IKD 2007 Special (2007/09/22 CAVEMATSURI VER.) (encrypted)</description>
+		<year>2007</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ketsui_v100_ikd.u38" size="2097152" crc="dfa8a180" />
+		<rom name="cave_t04701w064.u19" merge="cave_t04701w064.u19" size="8388608" crc="2665b041" />
+		<rom name="cave_a04701w064.u7" merge="cave_a04701w064.u7" size="8388608" crc="5ef1b94b" />
+		<rom name="cave_a04702w064.u8" merge="cave_a04702w064.u8" size="8388608" crc="26d6da7f" />
+		<rom name="cave_b04701w064.u1" merge="cave_b04701w064.u1" size="8388608" crc="1bec008d" />
+		<rom name="cave_m04701b032.u17" merge="cave_m04701b032.u17" size="4194304" crc="b46e22d1" />
+		<rom name="ket_igs027a.bin" size="16384" status="nodump" />
+		<rom name="ket_defaults.nv" merge="ket_defaults.nv" size="131072" crc="3ca892d8" />
+		<rom name="pgm_t01s.rom" merge="pgm_t01s.rom" size="2097152" crc="1a7123a0" />
+		<video type="raster" orientation="vertical" width="224" height="448" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="ketmatsuri" cloneof="ket" romof="ket" sourcefile="pgm/d_pgm.cpp">
+		<description>Ketsui: Kizuna Jigoku Tachi - IKD 2007 Special (2007/09/22 CAVEMATSURI VER.)</description>
+		<year>2007</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ket_matsuriver.bin" size="2097152" crc="d6dbd74d" />
+		<rom name="cave_t04701w064.u19" merge="cave_t04701w064.u19" size="8388608" crc="2665b041" />
+		<rom name="cave_a04701w064.u7" merge="cave_a04701w064.u7" size="8388608" crc="5ef1b94b" />
+		<rom name="cave_a04702w064.u8" merge="cave_a04702w064.u8" size="8388608" crc="26d6da7f" />
+		<rom name="cave_b04701w064.u1" merge="cave_b04701w064.u1" size="8388608" crc="1bec008d" />
+		<rom name="cave_m04701b032.u17" merge="cave_m04701b032.u17" size="4194304" crc="b46e22d1" />
+		<rom name="ket_igs027a.bin" size="16384" status="nodump" />
+		<rom name="ket_defaults.nv" merge="ket_defaults.nv" size="131072" crc="3ca892d8" />
+		<rom name="pgm_t01s.rom" merge="pgm_t01s.rom" size="2097152" crc="1a7123a0" />
+		<video type="raster" orientation="vertical" width="224" height="448" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="korokoro" sourcefile="cave/d_korokoro.cpp">
+		<description>Koro Koro Quest (Japan)</description>
+		<year>1999</year>
+		<manufacturer>Takumi</manufacturer>
+		<rom name="mp-001_ver07.u0130" size="524288" crc="86c7241f" />
+		<rom name="mp-001_ver01.u1066" size="1048576" crc="c5c6af7e" />
+		<rom name="mp-001_ver01.u1051" size="524288" crc="fe5e28e8" />
+		<rom name="mp-001_ver01.u1060" size="1048576" crc="ec9cf9d8" />
+		<rom name="mp-001_ver01.u1186" size="1048576" crc="d16e7c5d" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="mazingerj" cloneof="mazinger" romof="mazinger" sourcefile="cave/d_mazinger.cpp">
+		<description>Mazinger Z (Japan)</description>
+		<year>1994</year>
+		<manufacturer>Banpresto / Dynamic Pl. Toei Animation</manufacturer>
+		<rom name="mzp-0.u24" merge="mzp-0.u24" size="524288" crc="43a4279f" />
+		<rom name="mzp-1.924" merge="mzp-1.924" size="524288" crc="db40acba" />
+		<rom name="mzs.u21" merge="mzs.u21" size="131072" crc="c5b4f7ed" />
+		<rom name="bp943a-2.u56" merge="bp943a-2.u56" size="2097152" crc="97e13959" />
+		<rom name="bp943a-3.u55" merge="bp943a-3.u55" size="524288" crc="9c4957dd" />
+		<rom name="bp943a-1.u60" merge="bp943a-1.u60" size="2097152" crc="46327415" />
+		<rom name="bp943a-0.u63" merge="bp943a-0.u63" size="2097152" crc="c1fed98a" />
+		<rom name="bp943a-4.u64" merge="bp943a-4.u64" size="524288" crc="3fc7f29a" />
+		<rom name="mazinger_japan.nv" size="128" crc="f84a2a45" />
+		<video type="raster" orientation="vertical" width="240" height="384" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="mazinger" sourcefile="cave/d_mazinger.cpp">
+		<description>Mazinger Z (World)</description>
+		<year>1994</year>
+		<manufacturer>Banpresto / Dynamic Pl. Toei Animation</manufacturer>
+		<rom name="mzp-0.u24" size="524288" crc="43a4279f" />
+		<rom name="mzp-1.924" size="524288" crc="db40acba" />
+		<rom name="mzs.u21" size="131072" crc="c5b4f7ed" />
+		<rom name="bp943a-2.u56" size="2097152" crc="97e13959" />
+		<rom name="bp943a-3.u55" size="524288" crc="9c4957dd" />
+		<rom name="bp943a-1.u60" size="2097152" crc="46327415" />
+		<rom name="bp943a-0.u63" size="2097152" crc="c1fed98a" />
+		<rom name="bp943a-4.u64" size="524288" crc="3fc7f29a" />
+		<rom name="mazinger_world.nv" size="128" crc="4f6225c6" />
+		<video type="raster" orientation="vertical" width="240" height="384" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="metmqstr" sourcefile="cave/d_metmqstr.cpp">
+		<description>Metamoqester (World)</description>
+		<year>1995</year>
+		<manufacturer>Banpresto / Pandorabox</manufacturer>
+		<rom name="bp947a.u25" size="524288" crc="0a5c3442" />
+		<rom name="bp947a.u28" size="524288" crc="8c55decf" />
+		<rom name="bp947a.u29" size="524288" crc="cf0f3f3b" />
+		<rom name="bp947a.u20" size="262144" crc="a4a36170" />
+		<rom name="bp947a.u49" size="2097152" crc="09749531" />
+		<rom name="bp947a.u50" size="2097152" crc="19cea8b2" />
+		<rom name="bp947a.u51" size="2097152" crc="c19bed67" />
+		<rom name="bp947a.u52" size="2097152" crc="70c64875" />
+		<rom name="bp947a.u48" size="2097152" crc="04ff6a3d" />
+		<rom name="bp947a.u47" size="2097152" crc="0de42827" />
+		<rom name="bp947a.u46" size="2097152" crc="0f9c906e" />
+		<rom name="bp947a.u42" size="2097152" crc="2ce8ff2a" />
+		<rom name="bp947a.u37" size="2097152" crc="c3077c8f" />
+		<video type="raster" orientation="horizontal" width="384" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="mmpork" sourcefile="cave/d_cv1k.cpp">
+		<description>Muchi Muchi Pork! (2007/ 4/17 MASTER VER.)</description>
+		<year>2007</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="u4" size="2097152" crc="d06cfa42" />
+		<rom name="u2" size="138412032" crc="1ee961b8" />
+		<rom name="u23" size="4194304" crc="4a4b36df" />
+		<rom name="u24" size="4194304" crc="ce83d07b" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="mushisamb" cloneof="mushisam" romof="mushisam" sourcefile="cave/d_cv1k.cpp">
+		<description>Mushihime-Sama (2004/10/12 MASTER VER)</description>
+		<year>2004</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="mushisamb_u4" size="2097152" crc="9f1c7f51" />
+		<rom name="mushisam_u2" merge="mushisam_u2" size="138412032" crc="4f0a842a" />
+		<rom name="u23" merge="u23" size="4194304" crc="138e2050" />
+		<rom name="u24" merge="u24" size="4194304" crc="e3d05c9f" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="mushisama" cloneof="mushisam" romof="mushisam" sourcefile="cave/d_cv1k.cpp">
+		<description>Mushihime-Sama (2004/10/12 MASTER VER.)</description>
+		<year>2004</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="mushisama_u4" size="2097152" crc="0b5b30b2" />
+		<rom name="mushisam_u2" merge="mushisam_u2" size="138412032" crc="4f0a842a" />
+		<rom name="u23" merge="u23" size="4194304" crc="138e2050" />
+		<rom name="u24" merge="u24" size="4194304" crc="e3d05c9f" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="mushisam" sourcefile="cave/d_cv1k.cpp">
+		<description>Mushihime-Sama (2004/10/12.MASTER VER.)</description>
+		<year>2004</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="mushisam_u4" size="2097152" crc="15321b30" />
+		<rom name="mushisam_u2" size="138412032" crc="4f0a842a" />
+		<rom name="u23" size="4194304" crc="138e2050" />
+		<rom name="u24" size="4194304" crc="e3d05c9f" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="futariblj" cloneof="futaribl" romof="futaribl" sourcefile="cave/d_cv1k.cpp">
+		<description>Mushihime-Sama Futari Black Label (2007/12/11 BLACK LABEL VER)</description>
+		<year>2007</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="futariblk_u4" size="2097152" crc="b9467b6d" />
+		<rom name="futariblk_u2" merge="futariblk_u2" size="138412032" crc="08c6fd62" />
+		<rom name="u23" merge="u23" size="4194304" crc="39f1e1f4" />
+		<rom name="u24" merge="u24" size="4194304" crc="c631a766" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="futaribl" sourcefile="cave/d_cv1k.cpp">
+		<description>Mushihime-Sama Futari Black Label - Another Ver (2009/11/27 INTERNATIONAL BL)</description>
+		<year>2007</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="futaribli_u4" size="2097152" crc="1971dd16" />
+		<rom name="futariblk_u2" size="138412032" crc="08c6fd62" />
+		<rom name="u23" size="4194304" crc="39f1e1f4" />
+		<rom name="u24" size="4194304" crc="c631a766" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="futari10" cloneof="futari15" romof="futari15" sourcefile="cave/d_cv1k.cpp">
+		<description>Mushihime-Sama Futari Ver 1.0 (2006/10/23 MASTER VER.)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="futari10_u4" size="2097152" crc="b127dca7" />
+		<rom name="futari10_u2" size="138412032" crc="78ffcd0c" />
+		<rom name="u23" merge="u23" size="4194304" crc="39f1e1f4" />
+		<rom name="u24" merge="u24" size="4194304" crc="c631a766" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="futari15a" cloneof="futari15" romof="futari15" sourcefile="cave/d_cv1k.cpp">
+		<description>Mushihime-Sama Futari Ver 1.5 (2006/12/8 MASTER VER 1.54)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="futari15a_u4" size="2097152" crc="a609cf89" />
+		<rom name="futari15_u2" merge="futari15_u2" size="138412032" crc="b9eae1fc" />
+		<rom name="u23" merge="u23" size="4194304" crc="39f1e1f4" />
+		<rom name="u24" merge="u24" size="4194304" crc="c631a766" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="futari15" sourcefile="cave/d_cv1k.cpp">
+		<description>Mushihime-Sama Futari Ver 1.5 (2006/12/8.MASTER VER. 1.54.)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="futari15_u4" size="2097152" crc="e8c5f128" />
+		<rom name="futari15_u2" size="138412032" crc="b9eae1fc" />
+		<rom name="u23" size="4194304" crc="39f1e1f4" />
+		<rom name="u24" size="4194304" crc="c631a766" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="matsuri15" sourcefile="cave/d_cv1k.cpp">
+		<description>Mushihime-Sama Matsuri Ver 1.5 (2011/5/23 CAVEMATSURI VER1.5)</description>
+		<year>2011</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="matsuri15_u4" size="2097152" crc="6af99f0e" />
+		<rom name="matsuri15_u2" size="138412032" crc="fbc6f3c1" />
+		<rom name="u23" size="4194304" crc="6dff634f" />
+		<rom name="u24" size="4194304" crc="f228b801" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="nmaster" cloneof="metmqstr" romof="metmqstr" sourcefile="cave/d_metmqstr.cpp">
+		<description>Oni - The Ninja Master (Japan)</description>
+		<year>1995</year>
+		<manufacturer>Banpresto / Pandorabox</manufacturer>
+		<rom name="bp947a_n.u25" size="524288" crc="748cc514" />
+		<rom name="bp947a.u28" merge="bp947a.u28" size="524288" crc="8c55decf" />
+		<rom name="bp947a.u29" merge="bp947a.u29" size="524288" crc="cf0f3f3b" />
+		<rom name="bp947a.u20" merge="bp947a.u20" size="262144" crc="a4a36170" />
+		<rom name="bp947a.u49" merge="bp947a.u49" size="2097152" crc="09749531" />
+		<rom name="bp947a.u50" merge="bp947a.u50" size="2097152" crc="19cea8b2" />
+		<rom name="bp947a.u51" merge="bp947a.u51" size="2097152" crc="c19bed67" />
+		<rom name="bp947a.u52" merge="bp947a.u52" size="2097152" crc="70c64875" />
+		<rom name="bp947a.u48" merge="bp947a.u48" size="2097152" crc="04ff6a3d" />
+		<rom name="bp947a.u47" merge="bp947a.u47" size="2097152" crc="0de42827" />
+		<rom name="bp947a.u46" merge="bp947a.u46" size="2097152" crc="0f9c906e" />
+		<rom name="bp947a.u42" merge="bp947a.u42" size="2097152" crc="2ce8ff2a" />
+		<rom name="bp947a.u37" merge="bp947a.u37" size="2097152" crc="c3077c8f" />
+		<video type="raster" orientation="horizontal" width="384" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="pinkswtsb" cloneof="pinkswts" romof="pinkswts" sourcefile="cave/d_cv1k.cpp">
+		<description>Pink Sweets: Ibara Sorekara (2006/04/06 MASTER VER.)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="pnkswtsb_u4" size="2097152" crc="68bcc009" />
+		<rom name="pnkswtsx_u2" size="138412032" crc="91e4deb2" />
+		<rom name="u23" merge="u23" size="4194304" crc="4b82d250" />
+		<rom name="u24" merge="u24" size="4194304" crc="e93f0627" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="pinkswtsa" cloneof="pinkswts" romof="pinkswts" sourcefile="cave/d_cv1k.cpp">
+		<description>Pink Sweets: Ibara Sorekara (2006/04/06 MASTER VER...)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="pnkswtsa_u4" size="2097152" crc="ee3339b2" />
+		<rom name="pnkswtsa_u2" size="138412032" crc="829a862e" />
+		<rom name="u23" merge="u23" size="4194304" crc="4b82d250" />
+		<rom name="u24" merge="u24" size="4194304" crc="e93f0627" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="pinkswts" sourcefile="cave/d_cv1k.cpp">
+		<description>Pink Sweets: Ibara Sorekara (2006/04/06 MASTER VER....)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="pinkswts_u4" size="2097152" crc="5d812c9e" />
+		<rom name="pinkswts_u2" size="138412032" crc="a2fa5363" />
+		<rom name="u23" size="4194304" crc="4b82d250" />
+		<rom name="u24" size="4194304" crc="e93f0627" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="pinkswtsx" cloneof="pinkswts" romof="pinkswts" sourcefile="cave/d_cv1k.cpp">
+		<description>Pink Sweets: Ibara Sorekara (2006/xx/xx MASTER VER.)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="pnkswtsx_u4" size="2097152" crc="8fe05bf0" />
+		<rom name="pnkswtsx_u2" size="138412032" crc="91e4deb2" />
+		<rom name="u23" merge="u23" size="4194304" crc="4b82d250" />
+		<rom name="u24" merge="u24" size="4194304" crc="e93f0627" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="pinkswtssc" cloneof="pinkswts" romof="pinkswts" sourcefile="cave/d_cv1k.cpp">
+		<comment>Bootleg</comment>
+		<description>Pink Sweets: Suicide Club (2017/10/31 SUICIDECLUB VER., bootleg)</description>
+		<year>2017</year>
+		<manufacturer>bootleg (Four Horsemen)</manufacturer>
+		<rom name="suicideclub.u4" size="2097152" crc="5e03662f" />
+		<rom name="suicideclub.u2" size="138412032" crc="32324608" />
+		<rom name="u23" merge="u23" size="4194304" crc="4b82d250" />
+		<rom name="u24" merge="u24" size="4194304" crc="e93f0627" />
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4" />
+		<driver status="good" />
+	</game>
+	<game name="pwrinst2k" cloneof="pwrinst2" romof="pwrinst2" sourcefile="cave/d_pwrinst2.cpp">
+		<description>Power instinct 2 (Korea, Ver. 94/04/08)</description>
+		<year>1994</year>
+		<manufacturer>Atlus</manufacturer>
+		<rom name="g02k.u45" size="524288" crc="5468cbe5" />
+		<rom name="g02k.u44" merge="g02.u44a" size="524288" crc="5561f620" />
+		<rom name="g02k.u43" size="524288" crc="5af96f07" />
+		<rom name="g02k.u42" merge="g02.u42a" size="524288" crc="56279c1c" />
+		<rom name="g02.u3k" merge="g02.u3a" size="131072" crc="ebea5e1e" />
+		<rom name="g02.u61" merge="g02.u61" size="2097152" crc="91e30398" />
+		<rom name="g02.u62" merge="g02.u62" size="2097152" crc="d9455dd7" />
+		<rom name="g02.u63" merge="g02.u63" size="2097152" crc="4d20560b" />
+		<rom name="g02.u64" merge="g02.u64" size="2097152" crc="b17b9b6e" />
+		<rom name="g02.u65" merge="g02.u65" size="2097152" crc="08541878" />
+		<rom name="g02.u66" merge="g02.u66" size="2097152" crc="becf2a36" />
+		<rom name="g02.u67" merge="g02.u67" size="2097152" crc="52fe2b8b" />
+		<rom name="g02.u78" merge="g02.u78" size="2097152" crc="1eca63d2" />
+		<rom name="g02.u81" merge="g02.u81" size="1048576" crc="8a3ff685" />
+		<rom name="g02.u89" merge="g02.u89" size="1048576" crc="373e1f73" />
+		<rom name="g02k.82a" merge="g02.82a" size="524288" crc="4b3567d6" />
+		<rom name="g02.u53" merge="g02.u53" size="2097152" crc="c4bdd9e0" />
+		<rom name="g02.u54" merge="g02.u54" size="2097152" crc="1357d50e" />
+		<rom name="g02.u55" merge="g02.u55" size="2097152" crc="2d102898" />
+		<rom name="g02.u56" merge="g02.u56" size="2097152" crc="9ff50dda" />
+		<rom name="peel18cv8p-15.u7" merge="peel18cv8p-15.u7" size="341" crc="e02b2d2b" />
+		<rom name="peel18cv8p-15.u21" merge="peel18cv8p-15.u21" size="341" crc="7ca78400" />
+		<rom name="peel18cv8p-15.u25" merge="peel18cv8p-15.u25" size="341" crc="61b414df" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="pwrinst2" sourcefile="cave/d_pwrinst2.cpp">
+		<description>Power Instinct 2 (US, Ver. 94.04.08, set 1)</description>
+		<year>1994</year>
+		<manufacturer>Atlus</manufacturer>
+		<rom name="g02.u45a" size="524288" crc="ddfff811" />
+		<rom name="g02.u44a" size="524288" crc="5561f620" />
+		<rom name="g02.u43a" size="524288" crc="c4fd5d62" />
+		<rom name="g02.u42a" size="524288" crc="56279c1c" />
+		<rom name="g02.u3a" size="131072" crc="ebea5e1e" />
+		<rom name="g02.u61" size="2097152" crc="91e30398" />
+		<rom name="g02.u62" size="2097152" crc="d9455dd7" />
+		<rom name="g02.u63" size="2097152" crc="4d20560b" />
+		<rom name="g02.u64" size="2097152" crc="b17b9b6e" />
+		<rom name="g02.u65" size="2097152" crc="08541878" />
+		<rom name="g02.u66" size="2097152" crc="becf2a36" />
+		<rom name="g02.u67" size="2097152" crc="52fe2b8b" />
+		<rom name="g02.u78" size="2097152" crc="1eca63d2" />
+		<rom name="g02.u81" size="1048576" crc="8a3ff685" />
+		<rom name="g02.u89" size="1048576" crc="373e1f73" />
+		<rom name="g02.82a" size="524288" crc="4b3567d6" />
+		<rom name="g02.u53" size="2097152" crc="c4bdd9e0" />
+		<rom name="g02.u54" size="2097152" crc="1357d50e" />
+		<rom name="g02.u55" size="2097152" crc="2d102898" />
+		<rom name="g02.u56" size="2097152" crc="9ff50dda" />
+		<rom name="peel18cv8p-15.u7" size="341" crc="e02b2d2b" />
+		<rom name="peel18cv8p-15.u21" size="341" crc="7ca78400" />
+		<rom name="peel18cv8p-15.u25" size="341" crc="61b414df" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="pwrinst2a" cloneof="pwrinst2" romof="pwrinst2" sourcefile="cave/d_pwrinst2.cpp">
+		<description>Power Instinct 2 (US, Ver. 94.04.08, set 2)</description>
+		<year>1994</year>
+		<manufacturer>Atlus</manufacturer>
+		<rom name="g02.u45" size="524288" crc="7b33bc43" />
+		<rom name="g02.u44" size="524288" crc="8f6f6637" />
+		<rom name="g02.u43" size="524288" crc="178e3d24" />
+		<rom name="g02.u42" size="524288" crc="a0b4ee99" />
+		<rom name="g02.u3a" merge="g02.u3a" size="131072" crc="ebea5e1e" />
+		<rom name="g02.u61" merge="g02.u61" size="2097152" crc="91e30398" />
+		<rom name="g02.u62" merge="g02.u62" size="2097152" crc="d9455dd7" />
+		<rom name="g02.u63" merge="g02.u63" size="2097152" crc="4d20560b" />
+		<rom name="g02.u64" merge="g02.u64" size="2097152" crc="b17b9b6e" />
+		<rom name="g02.u65" merge="g02.u65" size="2097152" crc="08541878" />
+		<rom name="g02.u66" merge="g02.u66" size="2097152" crc="becf2a36" />
+		<rom name="g02.u67" merge="g02.u67" size="2097152" crc="52fe2b8b" />
+		<rom name="g02.u78" merge="g02.u78" size="2097152" crc="1eca63d2" />
+		<rom name="g02.u81" merge="g02.u81" size="1048576" crc="8a3ff685" />
+		<rom name="g02.u89" merge="g02.u89" size="1048576" crc="373e1f73" />
+		<rom name="g02.82a" merge="g02.82a" size="524288" crc="4b3567d6" />
+		<rom name="g02.u53" merge="g02.u53" size="2097152" crc="c4bdd9e0" />
+		<rom name="g02.u54" merge="g02.u54" size="2097152" crc="1357d50e" />
+		<rom name="g02.u55" merge="g02.u55" size="2097152" crc="2d102898" />
+		<rom name="g02.u56" merge="g02.u56" size="2097152" crc="9ff50dda" />
+		<rom name="peel18cv8p-15.u7" merge="peel18cv8p-15.u7" size="341" crc="e02b2d2b" />
+		<rom name="peel18cv8p-15.u21" merge="peel18cv8p-15.u21" size="341" crc="7ca78400" />
+		<rom name="peel18cv8p-15.u25" merge="peel18cv8p-15.u25" size="341" crc="61b414df" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailmndf" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<comment>Hack</comment>
+		<description>Pretty Soldier Sailor Moon (Apex Infinity, Hack)</description>
+		<year>2026</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="bpsmwdf945a.u45" size="524288" crc="b5289dc7" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" />
+		<rom name="sailormn_japan.nv" merge="sailormn_japan.nv" size="128" crc="ea03c30a" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnffj" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<comment>Hack</comment>
+		<description>Pretty Soldier Sailor Moon (Fighting For Justice, Hack)</description>
+		<year>2022</year>
+		<manufacturer>Zombie Master</manufacturer>
+		<rom name="bpsmffj.u45" size="1048576" crc="f11bd75a" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" />
+		<rom name="sailormn_japan.nv" merge="sailormn_japan.nv" size="128" crc="ea03c30a" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailmnwx" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<comment>Hack</comment>
+		<description>Pretty Soldier Sailor Moon (Infinite, Hack)</description>
+		<year>2026</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="bpsmwwx945a.u45" size="524288" crc="0739857e" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" />
+		<rom name="sailormn_japan.nv" merge="sailormn_japan.nv" size="128" crc="ea03c30a" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailmnyg" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<comment>Hack</comment>
+		<description>Pretty Soldier Sailor Moon (Moonlight, Hack)</description>
+		<year>2026</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="bpsmyg945a.u45" size="524288" crc="95752342" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" />
+		<rom name="sailormn_japan.nv" merge="sailormn_japan.nv" size="128" crc="ea03c30a" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnrot" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<comment>Hack</comment>
+		<description>Pretty Soldier Sailor Moon (Reign of Terror, Hack)</description>
+		<year>2022</year>
+		<manufacturer>Zombie Master</manufacturer>
+		<rom name="bpsmrot.u45" size="524288" crc="daf0db76" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" />
+		<rom name="sailormn_japan.nv" merge="sailormn_japan.nv" size="128" crc="ea03c30a" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnoe" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/21, Europe)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="smprg.u45" size="524288" crc="97837ab4" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnok" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/21, Korea)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="smprg.u45" size="524288" crc="97837ab4" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnou" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/21, USA)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="smprg.u45" size="524288" crc="97837ab4" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnne" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/22, Europe)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="smprg.u45" size="524288" crc="234f1152" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnnk" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/22, Korea)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="smprg.u45" size="524288" crc="234f1152" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnnu" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/22, USA)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="smprg.u45" size="524288" crc="234f1152" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormne" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/22B, Europe)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u45" merge="bpsm945a.u45" size="524288" crc="898c9515" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnk" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/22B, Korea)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u45" merge="bpsm945a.u45" size="524288" crc="898c9515" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sailormnu" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/22B, USA)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u45" merge="bpsm945a.u45" size="524288" crc="898c9515" />
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" />
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" />
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" />
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" />
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" />
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" />
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" />
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" />
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" />
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" />
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" />
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" />
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" />
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" />
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" />
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="uopokoj" cloneof="uopoko" romof="uopoko" sourcefile="cave/d_uopoko.cpp">
+		<description>Puzzle Uo Poko (Japan)</description>
+		<year>1998</year>
+		<manufacturer>Cave (Jaleco license)</manufacturer>
+		<rom name="u26j.u26" size="524288" crc="e7eec050" />
+		<rom name="u25j.u25" size="524288" crc="68cb6211" />
+		<rom name="cave_cv-02_u33.u33" merge="cave_cv-02_u33.u33" size="4194304" crc="5d142ad2" />
+		<rom name="cave_cv-02_u49.u49" merge="cave_cv-02_u49.u49" size="4194304" crc="12fb11bb" />
+		<rom name="cave_cv-02_u4.u4" merge="cave_cv-02_u4.u4" size="2097152" crc="a2d0d755" />
+		<rom name="eeprom-uopoko.bin" merge="eeprom-uopoko.bin" size="128" crc="f4a24b95" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="uopoko" sourcefile="cave/d_uopoko.cpp">
+		<description>Puzzle Uo Poko (World)</description>
+		<year>1998</year>
+		<manufacturer>Cave (Jaleco license)</manufacturer>
+		<rom name="u26.u26" size="524288" crc="b445c9ac" />
+		<rom name="u25.u25" size="524288" crc="a1258482" />
+		<rom name="cave_cv-02_u33.u33" size="4194304" crc="5d142ad2" />
+		<rom name="cave_cv-02_u49.u49" size="4194304" crc="12fb11bb" />
+		<rom name="cave_cv-02_u4.u4" size="2097152" crc="a2d0d755" />
+		<rom name="eeprom-uopoko.bin" size="128" crc="f4a24b95" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="mushitama" cloneof="mushitam" romof="mushitam" sourcefile="cave/d_cv1k.cpp">
+		<description>Puzzle! Mushihime-Tama (2005/09/09 MASTER VER)</description>
+		<year>2005</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="mushitama_u4" size="2097152" crc="4a23e6c8" />
+		<rom name="mushitam_u2" merge="mushitam_u2" size="138412032" crc="8ba498ab" />
+		<rom name="u23" merge="u23" size="4194304" crc="701a912a" />
+		<rom name="u24" merge="u24" size="4194304" crc="6feeb9a1" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="mushitam" sourcefile="cave/d_cv1k.cpp">
+		<description>Puzzle! Mushihime-Tama (2005/09/09.MASTER VER)</description>
+		<year>2005</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="mushitam_u4" size="2097152" crc="c49eb6b1" />
+		<rom name="mushitam_u2" size="138412032" crc="8ba498ab" />
+		<rom name="u23" size="4194304" crc="701a912a" />
+		<rom name="u24" size="4194304" crc="6feeb9a1" />
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="theroes" sourcefile="cave/d_gaia.cpp">
+		<description>Thunder Heroes (set 1)</description>
+		<year>2001</year>
+		<manufacturer>Primetek Investments</manufacturer>
+		<rom name="t-hero-epm1.u0127" size="524288" crc="09db7195" />
+		<rom name="t-hero-epm0.u0129" size="524288" crc="2d4e3310" />
+		<rom name="t-hero-obj1.u0736" size="4194304" crc="35090f7c" />
+		<rom name="t-hero-obj2.u0738" size="4194304" crc="71605108" />
+		<rom name="t-hero-bg1.u0999" size="4194304" crc="47b0fb40" />
+		<rom name="t-hero-bg2.u0995" size="4194304" crc="b16237a1" />
+		<rom name="t-hero-bg3.u0998" size="4194304" crc="08eb5604" />
+		<rom name="crvsaders-snd1.u0447" size="4194304" crc="92770a52" />
+		<rom name="crvsaders-snd2.u0454" size="4194304" crc="329ae1cf" />
+		<rom name="t-hero-snd3.u0455" size="4194304" crc="52b0b2c0" />
+		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="theroesa" cloneof="theroes" romof="theroes" sourcefile="cave/d_gaia.cpp">
+		<description>Thunder Heroes (set 2)</description>
+		<year>2001</year>
+		<manufacturer>Primetek Investments</manufacturer>
+		<rom name="u0127" size="524288" crc="a2c599a7" />
+		<rom name="u0129" size="524288" crc="f205a715" />
+		<rom name="t-hero-obj1.u0736" merge="t-hero-obj1.u0736" size="4194304" crc="35090f7c" />
+		<rom name="t-hero-obj2.u0738" merge="t-hero-obj2.u0738" size="4194304" crc="71605108" />
+		<rom name="t-hero-bg1.u0999" merge="t-hero-bg1.u0999" size="4194304" crc="47b0fb40" />
+		<rom name="t-hero-bg2.u0995" merge="t-hero-bg2.u0995" size="4194304" crc="b16237a1" />
+		<rom name="t-hero-bg3.u0998" merge="t-hero-bg3.u0998" size="4194304" crc="08eb5604" />
+		<rom name="crvsaders-snd1.u0447" merge="crvsaders-snd1.u0447" size="4194304" crc="92770a52" />
+		<rom name="crvsaders-snd2.u0454" merge="crvsaders-snd2.u0454" size="4194304" crc="329ae1cf" />
+		<rom name="t-hero-snd3.u0455" merge="t-hero-snd3.u0455" size="4194304" crc="52b0b2c0" />
+		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+</datafile>

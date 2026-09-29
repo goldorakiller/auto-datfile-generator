@@ -45,6 +45,11 @@ LOOSE_FOLDERS = {
     "Libretro-database (No-Intro)": "libretro-database-metadat/no-intro",
     "Libretro-database (Redump)": "libretro-database-metadat/redump",
     "Libretro-database (TOSEC)": "libretro-database-metadat/tosec",
+    # Fabriques par arcade-subsets.py (pas un mirror) : les jeux d'UNE carte
+    # arcade (CAVE, CPS-1/2/3, Model 2/3...), filtres par l'attribut
+    # sourcefile des dats FBNeo "Arcade only" et MAME non-merged.
+    "FBNeo (by board)": "fbneo-subsets",
+    "MAME (by board)": "mame-subsets",
 }
 
 # Choix de Cedric : garder le nom de fichier court (ex. "sg1000",
@@ -57,6 +62,10 @@ READ_XML_VERSION = {
     "Pleasuredome MAME",
     "Pleasuredome HBMAME",
     "Pleasuredome PinMAME",
+    # Noms fixes ("FBNeo - CAVE.dat") : la version est celle du dat source,
+    # recopiee dans l'en-tete par arcade-subsets.py.
+    "FBNeo (by board)",
+    "MAME (by board)",
 }
 
 # Les fournisseurs sans manifeste (load_loose_folder) embarquent souvent une

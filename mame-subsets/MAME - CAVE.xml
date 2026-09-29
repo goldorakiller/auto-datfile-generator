@@ -1,0 +1,1782 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>MAME - CAVE</name>
+		<description>MAME ROMs (non-merged) - CAVE (by board, non-merged)</description>
+		<version>0.289</version>
+		<date>2026-07-21</date>
+		<author>Pleasuredome</author>
+		<comment>Subset by board built by auto-datfile-generator (arcade-subsets.py) from the sourcefile attribute of each game</comment>
+	</header>
+	<machine name="agallet" sourcefile="atlus/cave.cpp">
+		<description>Air Gallet (Europe)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="agallet_europe.nv" size="128" crc="ec38bf65" sha1="cb8d9eacc0cf55a0c6b187e6673e3354554314b5" />
+		<rom name="bp962a.u9" size="524288" crc="06caddbe" sha1="6a3cc50558ba19a31b21b7f3ec6c6e2846244ff1" />
+		<rom name="bp962a.u45" size="524288" crc="24815046" sha1="f5eeae60b923ae850b335e7898a2760407631d8b" />
+		<rom name="bp962a.u47" size="2097152" crc="6d4e9737" sha1="81c7ecdfc2d38d0b35e26745866f6672f566f936" />
+		<rom name="bp962a.u48" size="2097152" crc="ae00a1ce" sha1="5e8c74df0ac77efb3080406870856f958be14f79" />
+		<rom name="bp962a.u53" size="2097152" crc="fcd9a107" sha1="169b94db8389e7d47d4d77f36907a62c30fea727" />
+		<rom name="bp962a.u54" size="2097152" crc="0cfa3409" sha1="17107e26762ef7e3b902fb29a6d7bc534a4d09aa" />
+		<rom name="bp962a.u57" size="2097152" crc="6d608957" sha1="15f6e8346f5f95eb229505b1b4666dabeb810ee8" />
+		<rom name="bp962a.u65" size="2097152" crc="135fcf9a" sha1="2e8c89c2627bbdef160d96724d07883fb2fa1a57" />
+		<rom name="bp962a.u76" size="2097152" crc="858da439" sha1="33a3d2a3ec3fa3364b00e1e43b405e5030a5b2a3" />
+		<rom name="bp962a.u77" size="2097152" crc="ea2ba35e" sha1="72487f21d44fe7be9a98068ce7f57a43c132945f" />
+	</machine>
+	<machine name="agalleta" sourcefile="atlus/cave.cpp">
+		<description>Air Gallet (older, Europe)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="agallet_europe.nv" size="128" crc="ec38bf65" sha1="cb8d9eacc0cf55a0c6b187e6673e3354554314b5" />
+		<rom name="bp962a.u9" size="524288" crc="06caddbe" sha1="6a3cc50558ba19a31b21b7f3ec6c6e2846244ff1" />
+		<rom name="bp962a.u47" size="2097152" crc="6d4e9737" sha1="81c7ecdfc2d38d0b35e26745866f6672f566f936" />
+		<rom name="bp962a.u48" size="2097152" crc="ae00a1ce" sha1="5e8c74df0ac77efb3080406870856f958be14f79" />
+		<rom name="bp962a.u53" size="2097152" crc="fcd9a107" sha1="169b94db8389e7d47d4d77f36907a62c30fea727" />
+		<rom name="bp962a.u54" size="2097152" crc="0cfa3409" sha1="17107e26762ef7e3b902fb29a6d7bc534a4d09aa" />
+		<rom name="bp962a.u57" size="2097152" crc="6d608957" sha1="15f6e8346f5f95eb229505b1b4666dabeb810ee8" />
+		<rom name="bp962a.u65" size="2097152" crc="135fcf9a" sha1="2e8c89c2627bbdef160d96724d07883fb2fa1a57" />
+		<rom name="bp962a.u76" size="2097152" crc="858da439" sha1="33a3d2a3ec3fa3364b00e1e43b405e5030a5b2a3" />
+		<rom name="bp962a.u77" size="2097152" crc="ea2ba35e" sha1="72487f21d44fe7be9a98068ce7f57a43c132945f" />
+		<rom name="u45" size="524288" crc="2cab18b0" sha1="5e779b74d8520cb482697b5efba4746854e7c9fe" />
+	</machine>
+	<machine name="agalletah" sourcefile="atlus/cave.cpp">
+		<description>Air Gallet (older, Hong Kong)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="agallet_hongkong.nv" size="128" crc="998d1a74" sha1="13e7e27a18417949d49e97d521781fc0feeef792" />
+		<rom name="bp962a.u9" size="524288" crc="06caddbe" sha1="6a3cc50558ba19a31b21b7f3ec6c6e2846244ff1" />
+		<rom name="bp962a.u47" size="2097152" crc="6d4e9737" sha1="81c7ecdfc2d38d0b35e26745866f6672f566f936" />
+		<rom name="bp962a.u48" size="2097152" crc="ae00a1ce" sha1="5e8c74df0ac77efb3080406870856f958be14f79" />
+		<rom name="bp962a.u53" size="2097152" crc="fcd9a107" sha1="169b94db8389e7d47d4d77f36907a62c30fea727" />
+		<rom name="bp962a.u54" size="2097152" crc="0cfa3409" sha1="17107e26762ef7e3b902fb29a6d7bc534a4d09aa" />
+		<rom name="bp962a.u57" size="2097152" crc="6d608957" sha1="15f6e8346f5f95eb229505b1b4666dabeb810ee8" />
+		<rom name="bp962a.u65" size="2097152" crc="135fcf9a" sha1="2e8c89c2627bbdef160d96724d07883fb2fa1a57" />
+		<rom name="bp962a.u76" size="2097152" crc="858da439" sha1="33a3d2a3ec3fa3364b00e1e43b405e5030a5b2a3" />
+		<rom name="bp962a.u77" size="2097152" crc="ea2ba35e" sha1="72487f21d44fe7be9a98068ce7f57a43c132945f" />
+		<rom name="u45" size="524288" crc="2cab18b0" sha1="5e779b74d8520cb482697b5efba4746854e7c9fe" />
+	</machine>
+	<machine name="agalletaj" sourcefile="atlus/cave.cpp">
+		<description>Akuu Gallet (older, Japan)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="agallet_japan.nv" size="128" crc="0753f547" sha1="aabb987470406b8729894108bc4d050f7200917d" />
+		<rom name="bp962a.u9" size="524288" crc="06caddbe" sha1="6a3cc50558ba19a31b21b7f3ec6c6e2846244ff1" />
+		<rom name="bp962a.u47" size="2097152" crc="6d4e9737" sha1="81c7ecdfc2d38d0b35e26745866f6672f566f936" />
+		<rom name="bp962a.u48" size="2097152" crc="ae00a1ce" sha1="5e8c74df0ac77efb3080406870856f958be14f79" />
+		<rom name="bp962a.u53" size="2097152" crc="fcd9a107" sha1="169b94db8389e7d47d4d77f36907a62c30fea727" />
+		<rom name="bp962a.u54" size="2097152" crc="0cfa3409" sha1="17107e26762ef7e3b902fb29a6d7bc534a4d09aa" />
+		<rom name="bp962a.u57" size="2097152" crc="6d608957" sha1="15f6e8346f5f95eb229505b1b4666dabeb810ee8" />
+		<rom name="bp962a.u65" size="2097152" crc="135fcf9a" sha1="2e8c89c2627bbdef160d96724d07883fb2fa1a57" />
+		<rom name="bp962a.u76" size="2097152" crc="858da439" sha1="33a3d2a3ec3fa3364b00e1e43b405e5030a5b2a3" />
+		<rom name="bp962a.u77" size="2097152" crc="ea2ba35e" sha1="72487f21d44fe7be9a98068ce7f57a43c132945f" />
+		<rom name="u45" size="524288" crc="2cab18b0" sha1="5e779b74d8520cb482697b5efba4746854e7c9fe" />
+	</machine>
+	<machine name="agalletak" sourcefile="atlus/cave.cpp">
+		<description>Air Gallet (older, Korea)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="agallet_korea.nv" size="128" crc="7f41c253" sha1="50793d4da0ad6eb590941d26a729a1cf4b3c25c2" />
+		<rom name="bp962a.u9" size="524288" crc="06caddbe" sha1="6a3cc50558ba19a31b21b7f3ec6c6e2846244ff1" />
+		<rom name="bp962a.u47" size="2097152" crc="6d4e9737" sha1="81c7ecdfc2d38d0b35e26745866f6672f566f936" />
+		<rom name="bp962a.u48" size="2097152" crc="ae00a1ce" sha1="5e8c74df0ac77efb3080406870856f958be14f79" />
+		<rom name="bp962a.u53" size="2097152" crc="fcd9a107" sha1="169b94db8389e7d47d4d77f36907a62c30fea727" />
+		<rom name="bp962a.u54" size="2097152" crc="0cfa3409" sha1="17107e26762ef7e3b902fb29a6d7bc534a4d09aa" />
+		<rom name="bp962a.u57" size="2097152" crc="6d608957" sha1="15f6e8346f5f95eb229505b1b4666dabeb810ee8" />
+		<rom name="bp962a.u65" size="2097152" crc="135fcf9a" sha1="2e8c89c2627bbdef160d96724d07883fb2fa1a57" />
+		<rom name="bp962a.u76" size="2097152" crc="858da439" sha1="33a3d2a3ec3fa3364b00e1e43b405e5030a5b2a3" />
+		<rom name="bp962a.u77" size="2097152" crc="ea2ba35e" sha1="72487f21d44fe7be9a98068ce7f57a43c132945f" />
+		<rom name="u45" size="524288" crc="2cab18b0" sha1="5e779b74d8520cb482697b5efba4746854e7c9fe" />
+	</machine>
+	<machine name="agalletat" sourcefile="atlus/cave.cpp">
+		<description>Air Gallet (older, Taiwan)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="agallet_taiwan.nv" size="128" crc="0af46742" sha1="37b704c4c573b2aabd6f016e9e8dd458f95148f7" />
+		<rom name="bp962a.u9" size="524288" crc="06caddbe" sha1="6a3cc50558ba19a31b21b7f3ec6c6e2846244ff1" />
+		<rom name="bp962a.u47" size="2097152" crc="6d4e9737" sha1="81c7ecdfc2d38d0b35e26745866f6672f566f936" />
+		<rom name="bp962a.u48" size="2097152" crc="ae00a1ce" sha1="5e8c74df0ac77efb3080406870856f958be14f79" />
+		<rom name="bp962a.u53" size="2097152" crc="fcd9a107" sha1="169b94db8389e7d47d4d77f36907a62c30fea727" />
+		<rom name="bp962a.u54" size="2097152" crc="0cfa3409" sha1="17107e26762ef7e3b902fb29a6d7bc534a4d09aa" />
+		<rom name="bp962a.u57" size="2097152" crc="6d608957" sha1="15f6e8346f5f95eb229505b1b4666dabeb810ee8" />
+		<rom name="bp962a.u65" size="2097152" crc="135fcf9a" sha1="2e8c89c2627bbdef160d96724d07883fb2fa1a57" />
+		<rom name="bp962a.u76" size="2097152" crc="858da439" sha1="33a3d2a3ec3fa3364b00e1e43b405e5030a5b2a3" />
+		<rom name="bp962a.u77" size="2097152" crc="ea2ba35e" sha1="72487f21d44fe7be9a98068ce7f57a43c132945f" />
+		<rom name="u45" size="524288" crc="2cab18b0" sha1="5e779b74d8520cb482697b5efba4746854e7c9fe" />
+	</machine>
+	<machine name="agalletau" sourcefile="atlus/cave.cpp">
+		<description>Air Gallet (older, USA)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="agallet_usa.nv" size="128" crc="72e65056" sha1="abf1a86df01064d9d5d8c418e8367817319ec335" />
+		<rom name="bp962a.u9" size="524288" crc="06caddbe" sha1="6a3cc50558ba19a31b21b7f3ec6c6e2846244ff1" />
+		<rom name="bp962a.u47" size="2097152" crc="6d4e9737" sha1="81c7ecdfc2d38d0b35e26745866f6672f566f936" />
+		<rom name="bp962a.u48" size="2097152" crc="ae00a1ce" sha1="5e8c74df0ac77efb3080406870856f958be14f79" />
+		<rom name="bp962a.u53" size="2097152" crc="fcd9a107" sha1="169b94db8389e7d47d4d77f36907a62c30fea727" />
+		<rom name="bp962a.u54" size="2097152" crc="0cfa3409" sha1="17107e26762ef7e3b902fb29a6d7bc534a4d09aa" />
+		<rom name="bp962a.u57" size="2097152" crc="6d608957" sha1="15f6e8346f5f95eb229505b1b4666dabeb810ee8" />
+		<rom name="bp962a.u65" size="2097152" crc="135fcf9a" sha1="2e8c89c2627bbdef160d96724d07883fb2fa1a57" />
+		<rom name="bp962a.u76" size="2097152" crc="858da439" sha1="33a3d2a3ec3fa3364b00e1e43b405e5030a5b2a3" />
+		<rom name="bp962a.u77" size="2097152" crc="ea2ba35e" sha1="72487f21d44fe7be9a98068ce7f57a43c132945f" />
+		<rom name="u45" size="524288" crc="2cab18b0" sha1="5e779b74d8520cb482697b5efba4746854e7c9fe" />
+	</machine>
+	<machine name="agalleth" sourcefile="atlus/cave.cpp">
+		<description>Air Gallet (Hong Kong)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="agallet_hongkong.nv" size="128" crc="998d1a74" sha1="13e7e27a18417949d49e97d521781fc0feeef792" />
+		<rom name="bp962a.u9" size="524288" crc="06caddbe" sha1="6a3cc50558ba19a31b21b7f3ec6c6e2846244ff1" />
+		<rom name="bp962a.u45" size="524288" crc="24815046" sha1="f5eeae60b923ae850b335e7898a2760407631d8b" />
+		<rom name="bp962a.u47" size="2097152" crc="6d4e9737" sha1="81c7ecdfc2d38d0b35e26745866f6672f566f936" />
+		<rom name="bp962a.u48" size="2097152" crc="ae00a1ce" sha1="5e8c74df0ac77efb3080406870856f958be14f79" />
+		<rom name="bp962a.u53" size="2097152" crc="fcd9a107" sha1="169b94db8389e7d47d4d77f36907a62c30fea727" />
+		<rom name="bp962a.u54" size="2097152" crc="0cfa3409" sha1="17107e26762ef7e3b902fb29a6d7bc534a4d09aa" />
+		<rom name="bp962a.u57" size="2097152" crc="6d608957" sha1="15f6e8346f5f95eb229505b1b4666dabeb810ee8" />
+		<rom name="bp962a.u65" size="2097152" crc="135fcf9a" sha1="2e8c89c2627bbdef160d96724d07883fb2fa1a57" />
+		<rom name="bp962a.u76" size="2097152" crc="858da439" sha1="33a3d2a3ec3fa3364b00e1e43b405e5030a5b2a3" />
+		<rom name="bp962a.u77" size="2097152" crc="ea2ba35e" sha1="72487f21d44fe7be9a98068ce7f57a43c132945f" />
+	</machine>
+	<machine name="agalletj" sourcefile="atlus/cave.cpp">
+		<description>Akuu Gallet (Japan)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="agallet_japan.nv" size="128" crc="0753f547" sha1="aabb987470406b8729894108bc4d050f7200917d" />
+		<rom name="bp962a.u9" size="524288" crc="06caddbe" sha1="6a3cc50558ba19a31b21b7f3ec6c6e2846244ff1" />
+		<rom name="bp962a.u45" size="524288" crc="24815046" sha1="f5eeae60b923ae850b335e7898a2760407631d8b" />
+		<rom name="bp962a.u47" size="2097152" crc="6d4e9737" sha1="81c7ecdfc2d38d0b35e26745866f6672f566f936" />
+		<rom name="bp962a.u48" size="2097152" crc="ae00a1ce" sha1="5e8c74df0ac77efb3080406870856f958be14f79" />
+		<rom name="bp962a.u53" size="2097152" crc="fcd9a107" sha1="169b94db8389e7d47d4d77f36907a62c30fea727" />
+		<rom name="bp962a.u54" size="2097152" crc="0cfa3409" sha1="17107e26762ef7e3b902fb29a6d7bc534a4d09aa" />
+		<rom name="bp962a.u57" size="2097152" crc="6d608957" sha1="15f6e8346f5f95eb229505b1b4666dabeb810ee8" />
+		<rom name="bp962a.u65" size="2097152" crc="135fcf9a" sha1="2e8c89c2627bbdef160d96724d07883fb2fa1a57" />
+		<rom name="bp962a.u76" size="2097152" crc="858da439" sha1="33a3d2a3ec3fa3364b00e1e43b405e5030a5b2a3" />
+		<rom name="bp962a.u77" size="2097152" crc="ea2ba35e" sha1="72487f21d44fe7be9a98068ce7f57a43c132945f" />
+	</machine>
+	<machine name="agalletk" sourcefile="atlus/cave.cpp">
+		<description>Air Gallet (Korea)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="agallet_korea.nv" size="128" crc="7f41c253" sha1="50793d4da0ad6eb590941d26a729a1cf4b3c25c2" />
+		<rom name="bp962a.u9" size="524288" crc="06caddbe" sha1="6a3cc50558ba19a31b21b7f3ec6c6e2846244ff1" />
+		<rom name="bp962a.u45" size="524288" crc="24815046" sha1="f5eeae60b923ae850b335e7898a2760407631d8b" />
+		<rom name="bp962a.u47" size="2097152" crc="6d4e9737" sha1="81c7ecdfc2d38d0b35e26745866f6672f566f936" />
+		<rom name="bp962a.u48" size="2097152" crc="ae00a1ce" sha1="5e8c74df0ac77efb3080406870856f958be14f79" />
+		<rom name="bp962a.u53" size="2097152" crc="fcd9a107" sha1="169b94db8389e7d47d4d77f36907a62c30fea727" />
+		<rom name="bp962a.u54" size="2097152" crc="0cfa3409" sha1="17107e26762ef7e3b902fb29a6d7bc534a4d09aa" />
+		<rom name="bp962a.u57" size="2097152" crc="6d608957" sha1="15f6e8346f5f95eb229505b1b4666dabeb810ee8" />
+		<rom name="bp962a.u65" size="2097152" crc="135fcf9a" sha1="2e8c89c2627bbdef160d96724d07883fb2fa1a57" />
+		<rom name="bp962a.u76" size="2097152" crc="858da439" sha1="33a3d2a3ec3fa3364b00e1e43b405e5030a5b2a3" />
+		<rom name="bp962a.u77" size="2097152" crc="ea2ba35e" sha1="72487f21d44fe7be9a98068ce7f57a43c132945f" />
+	</machine>
+	<machine name="agallett" sourcefile="atlus/cave.cpp">
+		<description>Air Gallet (Taiwan)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="agallet_taiwan.nv" size="128" crc="0af46742" sha1="37b704c4c573b2aabd6f016e9e8dd458f95148f7" />
+		<rom name="bp962a.u9" size="524288" crc="06caddbe" sha1="6a3cc50558ba19a31b21b7f3ec6c6e2846244ff1" />
+		<rom name="bp962a.u45" size="524288" crc="24815046" sha1="f5eeae60b923ae850b335e7898a2760407631d8b" />
+		<rom name="bp962a.u47" size="2097152" crc="6d4e9737" sha1="81c7ecdfc2d38d0b35e26745866f6672f566f936" />
+		<rom name="bp962a.u48" size="2097152" crc="ae00a1ce" sha1="5e8c74df0ac77efb3080406870856f958be14f79" />
+		<rom name="bp962a.u53" size="2097152" crc="fcd9a107" sha1="169b94db8389e7d47d4d77f36907a62c30fea727" />
+		<rom name="bp962a.u54" size="2097152" crc="0cfa3409" sha1="17107e26762ef7e3b902fb29a6d7bc534a4d09aa" />
+		<rom name="bp962a.u57" size="2097152" crc="6d608957" sha1="15f6e8346f5f95eb229505b1b4666dabeb810ee8" />
+		<rom name="bp962a.u65" size="2097152" crc="135fcf9a" sha1="2e8c89c2627bbdef160d96724d07883fb2fa1a57" />
+		<rom name="bp962a.u76" size="2097152" crc="858da439" sha1="33a3d2a3ec3fa3364b00e1e43b405e5030a5b2a3" />
+		<rom name="bp962a.u77" size="2097152" crc="ea2ba35e" sha1="72487f21d44fe7be9a98068ce7f57a43c132945f" />
+	</machine>
+	<machine name="agalletu" sourcefile="atlus/cave.cpp">
+		<description>Air Gallet (USA)</description>
+		<year>1996</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="agallet_usa.nv" size="128" crc="72e65056" sha1="abf1a86df01064d9d5d8c418e8367817319ec335" />
+		<rom name="bp962a.u9" size="524288" crc="06caddbe" sha1="6a3cc50558ba19a31b21b7f3ec6c6e2846244ff1" />
+		<rom name="bp962a.u45" size="524288" crc="24815046" sha1="f5eeae60b923ae850b335e7898a2760407631d8b" />
+		<rom name="bp962a.u47" size="2097152" crc="6d4e9737" sha1="81c7ecdfc2d38d0b35e26745866f6672f566f936" />
+		<rom name="bp962a.u48" size="2097152" crc="ae00a1ce" sha1="5e8c74df0ac77efb3080406870856f958be14f79" />
+		<rom name="bp962a.u53" size="2097152" crc="fcd9a107" sha1="169b94db8389e7d47d4d77f36907a62c30fea727" />
+		<rom name="bp962a.u54" size="2097152" crc="0cfa3409" sha1="17107e26762ef7e3b902fb29a6d7bc534a4d09aa" />
+		<rom name="bp962a.u57" size="2097152" crc="6d608957" sha1="15f6e8346f5f95eb229505b1b4666dabeb810ee8" />
+		<rom name="bp962a.u65" size="2097152" crc="135fcf9a" sha1="2e8c89c2627bbdef160d96724d07883fb2fa1a57" />
+		<rom name="bp962a.u76" size="2097152" crc="858da439" sha1="33a3d2a3ec3fa3364b00e1e43b405e5030a5b2a3" />
+		<rom name="bp962a.u77" size="2097152" crc="ea2ba35e" sha1="72487f21d44fe7be9a98068ce7f57a43c132945f" />
+	</machine>
+	<machine name="cellage" sourcefile="atlus/cave.cpp">
+		<description>Cellage</description>
+		<year>1996</year>
+		<manufacturer>Yujin / Namco</manufacturer>
+		<rom name="n44u1j.u1" size="279" crc="2d8e06e1" sha1="91e2a593ee83411c1c46be2b790c7acaa04b1e3e" />
+		<rom name="n44u3j.u3" size="279" crc="5b12591d" sha1="ed0fc64da0c9252fc67c1a63a871224719a20544" />
+		<rom name="sra143.u41" size="524288" crc="4e3e8ac5" sha1="e58255c0ac85849e92c46a118cf3c47edcaa8b86" />
+		<rom name="sra243.u60" size="524288" crc="c117ba37" sha1="00398a5acd49c39afe9342fabcd4e2b63905ecb8" />
+		<rom name="sra310.u27" size="262144" crc="cb22e32e" sha1="a1c335c2dda32e1b319d7edf7e76b559545e33ab" />
+		<rom name="sra410.u32" size="262144" crc="502a86ca" sha1="7f14352298a4cb641970804586e1ebc640ec72c8" />
+	</machine>
+	<machine name="crusherm" sourcefile="atlus/cave.cpp">
+		<description>Crusher Makochan (Japan)</description>
+		<year>1999</year>
+		<manufacturer>Takumi</manufacturer>
+		<rom name="mp-003ver01.u0130" size="524288" crc="a4f56e6b" sha1="1d3af7602c48a6b6c76c376dbc8ad3823b56868a" />
+		<rom name="mp-003ver01.u1060" size="1048576" crc="7661893e" sha1="d51645c96247b039214393ba5eae7357144dfd65" />
+		<rom name="mp-003ver01.u1066" size="1048576" crc="79e77a6e" sha1="9d03dd083769851d628ba6b3d77cfde9603e74f4" />
+		<rom name="mp-003ver01.u1067" size="1048576" crc="268a4921" sha1="8bb818466616051af01680b381af53b8b6a18428" />
+		<rom name="mp-003ver01.u1186" size="1048576" crc="c3aeb745" sha1="1bb8ab0512a9a9b0d3ce15f90b49cda431fb14eb" />
+		<rom name="mp-003ver01.u1187" size="1048576" crc="d9312497" sha1="a349cfdbcad96701a74f06394e87f0e0614e115d" />
+	</machine>
+	<machine name="ddonpach" sourcefile="atlus/cave.cpp">
+		<description>DoDonPachi (World, 1997 2/ 5 Master Ver.)</description>
+		<year>1997</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="b1.u27" size="524288" crc="b5cdc8d3" sha1="58757b50e21a27e500a82c03f62cf02a85389926" />
+		<rom name="b2.u26" size="524288" crc="6bbb063a" sha1="e5de64b9c3efc0a38a2e0e16b78ee393bff63558" />
+		<rom name="eeprom-ddonpach.bin" size="128" crc="315fb546" sha1="7f597107d1610fc286413e0e93c794c80c0c554f" />
+		<rom name="u6.bin" size="2097152" crc="9dfdafaf" sha1="f5cb450cdc78a20c3a74c6dac05c9ac3cba08327" />
+		<rom name="u7.bin" size="2097152" crc="795b17d5" sha1="cbfc29f1df9600c82e0fdae00edd00da5b73e14c" />
+		<rom name="u50.bin" size="2097152" crc="14b260ec" sha1="33bda210302428d5500115d0c7a839cdfcb67d17" />
+		<rom name="u51.bin" size="2097152" crc="e7ba8cce" sha1="ad74a6b7d53760b19587c4a6dbea937daa7e87ce" />
+		<rom name="u52.bin" size="2097152" crc="02492ee0" sha1="64d9cc64a4ad189a8b03cf6a749ddb732b4a0014" />
+		<rom name="u53.bin" size="2097152" crc="cb4c10f0" sha1="a622e8bd0c938b5d38b392b247400b744d8be288" />
+		<rom name="u60.bin" size="2097152" crc="903096a7" sha1="a243e903fef7c4a7b71383263e82e42acd869261" />
+		<rom name="u61.bin" size="2097152" crc="d89b7631" sha1="a66bb4955ca58fab8973ca37a0f971e9a67ce017" />
+		<rom name="u62.bin" size="2097152" crc="292bfb6b" sha1="11b385991ee990eb5ef36e136b988802b5f90fa4" />
+	</machine>
+	<machine name="ddonpacha" sourcefile="atlus/cave.cpp">
+		<description>DoDonPachi (2012/02/12 Arrange Ver. 1.1) (hack)</description>
+		<year>2012</year>
+		<manufacturer>hack (trap15)</manufacturer>
+		<rom name="arrange_u26.bin" size="524288" crc="727a09a8" sha1="91876386855f19e8a3d8d1df71dfe9b3d98e9ea9" />
+		<rom name="arrange_u27.bin" size="524288" crc="44b899ae" sha1="798ec437d861b94fcd90c99a7015dd420887c788" />
+		<rom name="arrange_u51.bin" size="2097152" crc="0f3e5148" sha1="3016f4d075940feae691389606cd2aa7ac53849e" />
+		<rom name="arrange_u62.bin" size="2097152" crc="42e4c6c5" sha1="4d282f7592f5fc5e11839c57f39cae20b8422aa1" />
+		<rom name="eeprom-ddonpach.bin" size="128" crc="2df16438" sha1="4881b70589a97e2420feb6d6e6737273beeff303" />
+		<rom name="u6.bin" size="2097152" crc="9dfdafaf" sha1="f5cb450cdc78a20c3a74c6dac05c9ac3cba08327" />
+		<rom name="u7.bin" size="2097152" crc="795b17d5" sha1="cbfc29f1df9600c82e0fdae00edd00da5b73e14c" />
+		<rom name="u50.bin" size="2097152" crc="14b260ec" sha1="33bda210302428d5500115d0c7a839cdfcb67d17" />
+		<rom name="u52.bin" size="2097152" crc="02492ee0" sha1="64d9cc64a4ad189a8b03cf6a749ddb732b4a0014" />
+		<rom name="u53.bin" size="2097152" crc="cb4c10f0" sha1="a622e8bd0c938b5d38b392b247400b744d8be288" />
+		<rom name="u60.bin" size="2097152" crc="903096a7" sha1="a243e903fef7c4a7b71383263e82e42acd869261" />
+		<rom name="u61.bin" size="2097152" crc="d89b7631" sha1="a66bb4955ca58fab8973ca37a0f971e9a67ce017" />
+	</machine>
+	<machine name="ddonpachj" sourcefile="atlus/cave.cpp">
+		<description>DoDonPachi (Japan, 1997 2/ 5 Master Ver.)</description>
+		<year>1997</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="eeprom-ddonpach.bin" size="128" crc="315fb546" sha1="7f597107d1610fc286413e0e93c794c80c0c554f" />
+		<rom name="u6.bin" size="2097152" crc="9dfdafaf" sha1="f5cb450cdc78a20c3a74c6dac05c9ac3cba08327" />
+		<rom name="u7.bin" size="2097152" crc="795b17d5" sha1="cbfc29f1df9600c82e0fdae00edd00da5b73e14c" />
+		<rom name="u26.bin" size="524288" crc="4f3a914a" sha1="ae98eba049f1462aa1145f6959b9f9a32c97278f" />
+		<rom name="u27.bin" size="524288" crc="2432ff9b" sha1="fbc826c30553f6553ead40b312b73c049e8f4bf6" />
+		<rom name="u50.bin" size="2097152" crc="14b260ec" sha1="33bda210302428d5500115d0c7a839cdfcb67d17" />
+		<rom name="u51.bin" size="2097152" crc="e7ba8cce" sha1="ad74a6b7d53760b19587c4a6dbea937daa7e87ce" />
+		<rom name="u52.bin" size="2097152" crc="02492ee0" sha1="64d9cc64a4ad189a8b03cf6a749ddb732b4a0014" />
+		<rom name="u53.bin" size="2097152" crc="cb4c10f0" sha1="a622e8bd0c938b5d38b392b247400b744d8be288" />
+		<rom name="u60.bin" size="2097152" crc="903096a7" sha1="a243e903fef7c4a7b71383263e82e42acd869261" />
+		<rom name="u61.bin" size="2097152" crc="d89b7631" sha1="a66bb4955ca58fab8973ca37a0f971e9a67ce017" />
+		<rom name="u62.bin" size="2097152" crc="292bfb6b" sha1="11b385991ee990eb5ef36e136b988802b5f90fa4" />
+	</machine>
+	<machine name="ddp3" sourcefile="igs/pgm.cpp">
+		<description>DoDonPachi III (World, 2002.05.15 Master Ver)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="cave_a04401w064.u7" size="8388608" crc="ed229794" sha1="1cf1863495a18c7c7d277a9be43ec116b00960b0" />
+		<rom name="cave_a04402w064.u8" size="8388608" crc="752167b0" sha1="c33c3398dd8e479c9d5bd348924958a6aecbf0fc" />
+		<rom name="cave_b04401w064.u1" size="8388608" crc="17731c9d" sha1="0e0aa0ec01035323985ac8e08228a0fd6edf6689" />
+		<rom name="cave_m04401b032.u17" size="4194304" crc="5a0dbd76" sha1="06ab202f6bd5ebfb35b9d8cc7a8fb83ec8840659" />
+		<rom name="cave_t04401w064.u19" size="8388608" crc="3a95f19c" sha1="fd3c47cf0b8b1e20c6bec4be68a089fc8bbf4dbe" />
+		<rom name="ddp3_bios.u37" size="524288" crc="b3cc5c8f" sha1="02d9511cf71e4a0d6ca8fd9a1ef2c79b0d001824" />
+		<rom name="ddp3_defaults.nv" size="131072" crc="571e96c0" sha1="348940c77ca348213331b85b9b1d3aabb96a528a" />
+		<rom name="ddp3_v101_16m.u36" size="2097152" crc="fba2180e" sha1="59c1a76243e587c07215c8a76649401ef0bff7c7" />
+		<rom name="pgm_m01s.rom" size="2097152" crc="45ae7159" sha1="d3ed3ff3464557fd0df6b069b2e431528b0ebfa8" />
+		<rom name="pgm_t01s.rom" size="2097152" crc="1a7123a0" sha1="cc567f577bfbf45427b54d6695b11b74f2578af3" />
+	</machine>
+	<machine name="ddpdfk" sourcefile="cave/cv1k.cpp">
+		<description>DoDonPachi Dai-Fukkatsu Ver 1.5 (Japan, 2008/06/23 MASTER VER 1.5)</description>
+		<year>2008</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ddpdfk_u2" size="138412032" crc="84a51a4f" sha1="291a6279c0746d2eb8630e7d6d886043f0cfdd94" />
+		<rom name="ddpdfk_u4" size="4194304" crc="9976d699" sha1="9dfe9d1daf6f638cafce8cdc5230209e2bcb7522" />
+		<rom name="u23" size="4194304" crc="27032cde" sha1="5b58d0140d72b91db4e763ca4af93060d36ac74d" />
+		<rom name="u24" size="4194304" crc="a6178c2c" sha1="7742ad1de2e4b0d0206ad11d467ea35da36352df" />
+	</machine>
+	<machine name="ddpdfk10" sourcefile="cave/cv1k.cpp">
+		<description>DoDonPachi Dai-Fukkatsu Ver 1.0 (Japan, 2008/05/16 MASTER VER)</description>
+		<year>2008</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ddpdfk10_u2" size="138412032" crc="d349cb2a" sha1="c364c36b69b93f8f62390f185d044f51056669ff" />
+		<rom name="ddpdfk10_u4" size="4194304" crc="a3d650b2" sha1="46a7551760e18c2cecd372c3f4be16f6600efc2c" />
+		<rom name="u23" size="4194304" crc="27032cde" sha1="5b58d0140d72b91db4e763ca4af93060d36ac74d" />
+		<rom name="u24" size="4194304" crc="a6178c2c" sha1="7742ad1de2e4b0d0206ad11d467ea35da36352df" />
+	</machine>
+	<machine name="ddpdoj" sourcefile="igs/pgm.cpp">
+		<description>DoDonPachi Dai-Ou-Jou (Japan, 2002.04.05.Master Ver, 68k Label V101)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="cave_a04401w064.u7" size="8388608" crc="ed229794" sha1="1cf1863495a18c7c7d277a9be43ec116b00960b0" />
+		<rom name="cave_a04402w064.u8" size="8388608" crc="752167b0" sha1="c33c3398dd8e479c9d5bd348924958a6aecbf0fc" />
+		<rom name="cave_b04401w064.u1" size="8388608" crc="17731c9d" sha1="0e0aa0ec01035323985ac8e08228a0fd6edf6689" />
+		<rom name="cave_m04401b032.u17" size="4194304" crc="5a0dbd76" sha1="06ab202f6bd5ebfb35b9d8cc7a8fb83ec8840659" />
+		<rom name="cave_t04401w064.u19" size="8388608" crc="3a95f19c" sha1="fd3c47cf0b8b1e20c6bec4be68a089fc8bbf4dbe" />
+		<rom name="ddp3_bios.u37" size="524288" crc="b3cc5c8f" sha1="02d9511cf71e4a0d6ca8fd9a1ef2c79b0d001824" />
+		<rom name="ddp3_defaults.nv" size="131072" crc="571e96c0" sha1="348940c77ca348213331b85b9b1d3aabb96a528a" />
+		<rom name="ddp3_v101.u36" size="2097152" crc="195b5c1e" sha1="f18d791c034b0a3d85888a92fb5d326ee3deb04f" />
+		<rom name="pgm_m01s.rom" size="2097152" crc="45ae7159" sha1="d3ed3ff3464557fd0df6b069b2e431528b0ebfa8" />
+		<rom name="pgm_t01s.rom" size="2097152" crc="1a7123a0" sha1="cc567f577bfbf45427b54d6695b11b74f2578af3" />
+	</machine>
+	<machine name="ddpdoja" sourcefile="igs/pgm.cpp">
+		<description>DoDonPachi Dai-Ou-Jou (Japan, 2002.04.05.Master Ver, 68k Label V100)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="cave_a04401w064.u7" size="8388608" crc="ed229794" sha1="1cf1863495a18c7c7d277a9be43ec116b00960b0" />
+		<rom name="cave_a04402w064.u8" size="8388608" crc="752167b0" sha1="c33c3398dd8e479c9d5bd348924958a6aecbf0fc" />
+		<rom name="cave_b04401w064.u1" size="8388608" crc="17731c9d" sha1="0e0aa0ec01035323985ac8e08228a0fd6edf6689" />
+		<rom name="cave_m04401b032.u17" size="4194304" crc="5a0dbd76" sha1="06ab202f6bd5ebfb35b9d8cc7a8fb83ec8840659" />
+		<rom name="cave_t04401w064.u19" size="8388608" crc="3a95f19c" sha1="fd3c47cf0b8b1e20c6bec4be68a089fc8bbf4dbe" />
+		<rom name="ddp3_bios.u37" size="524288" crc="b3cc5c8f" sha1="02d9511cf71e4a0d6ca8fd9a1ef2c79b0d001824" />
+		<rom name="ddp3_d_d_1_0.u36" size="2097152" crc="5d3f85ba" sha1="4c24ea206140863d456179750366921442e1d2b8" />
+		<rom name="ddp3_defaults.nv" size="131072" crc="571e96c0" sha1="348940c77ca348213331b85b9b1d3aabb96a528a" />
+		<rom name="pgm_m01s.rom" size="2097152" crc="45ae7159" sha1="d3ed3ff3464557fd0df6b069b2e431528b0ebfa8" />
+		<rom name="pgm_t01s.rom" size="2097152" crc="1a7123a0" sha1="cc567f577bfbf45427b54d6695b11b74f2578af3" />
+	</machine>
+	<machine name="ddpdojb" sourcefile="igs/pgm.cpp">
+		<description>DoDonPachi Dai-Ou-Jou (Japan, 2002.04.05 Master Ver)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="cave_a04401w064.u7" size="8388608" crc="ed229794" sha1="1cf1863495a18c7c7d277a9be43ec116b00960b0" />
+		<rom name="cave_a04402w064.u8" size="8388608" crc="752167b0" sha1="c33c3398dd8e479c9d5bd348924958a6aecbf0fc" />
+		<rom name="cave_b04401w064.u1" size="8388608" crc="17731c9d" sha1="0e0aa0ec01035323985ac8e08228a0fd6edf6689" />
+		<rom name="cave_m04401b032.u17" size="4194304" crc="5a0dbd76" sha1="06ab202f6bd5ebfb35b9d8cc7a8fb83ec8840659" />
+		<rom name="cave_t04401w064.u19" size="8388608" crc="3a95f19c" sha1="fd3c47cf0b8b1e20c6bec4be68a089fc8bbf4dbe" />
+		<rom name="dd_v100.u36" size="2097152" crc="7da0c1e4" sha1="aca2fe35ba0ab3628900fa2aba2d22fc4fd7046d" />
+		<rom name="ddp3_bios.u37" size="524288" crc="b3cc5c8f" sha1="02d9511cf71e4a0d6ca8fd9a1ef2c79b0d001824" />
+		<rom name="ddp3_defaults.nv" size="131072" crc="571e96c0" sha1="348940c77ca348213331b85b9b1d3aabb96a528a" />
+		<rom name="pgm_m01s.rom" size="2097152" crc="45ae7159" sha1="d3ed3ff3464557fd0df6b069b2e431528b0ebfa8" />
+		<rom name="pgm_t01s.rom" size="2097152" crc="1a7123a0" sha1="cc567f577bfbf45427b54d6695b11b74f2578af3" />
+	</machine>
+	<machine name="ddpdojblk" sourcefile="igs/pgm.cpp">
+		<description>DoDonPachi Dai-Ou-Jou Black Label (Japan, 2002.10.07.Black Ver, newer)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="cave_a04401w064.u7" size="8388608" crc="ed229794" sha1="1cf1863495a18c7c7d277a9be43ec116b00960b0" />
+		<rom name="cave_a04402w064.u8" size="8388608" crc="752167b0" sha1="c33c3398dd8e479c9d5bd348924958a6aecbf0fc" />
+		<rom name="cave_b04401w064.u1" size="8388608" crc="17731c9d" sha1="0e0aa0ec01035323985ac8e08228a0fd6edf6689" />
+		<rom name="cave_m04401b032.u17" size="4194304" crc="5a0dbd76" sha1="06ab202f6bd5ebfb35b9d8cc7a8fb83ec8840659" />
+		<rom name="cave_t04401w064.u19" size="8388608" crc="3a95f19c" sha1="fd3c47cf0b8b1e20c6bec4be68a089fc8bbf4dbe" />
+		<rom name="ddb10_10_8_434f.u45" size="2097152" crc="d21561db" sha1="66a0103bc5f17b28736b562e32807271a5afa261" />
+		<rom name="ddp3_bios.u37" size="524288" crc="b3cc5c8f" sha1="02d9511cf71e4a0d6ca8fd9a1ef2c79b0d001824" />
+		<rom name="ddp3blk_defaults.nv" size="131072" crc="c2282720" sha1="80b7662a7577883dabd043b6500ae244379047c2" />
+		<rom name="pgm_m01s.rom" size="2097152" crc="45ae7159" sha1="d3ed3ff3464557fd0df6b069b2e431528b0ebfa8" />
+		<rom name="pgm_t01s.rom" size="2097152" crc="1a7123a0" sha1="cc567f577bfbf45427b54d6695b11b74f2578af3" />
+	</machine>
+	<machine name="ddpdojblka" sourcefile="igs/pgm.cpp">
+		<description>DoDonPachi Dai-Ou-Jou Black Label (Japan, 2002.10.07.Black Ver, older)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="cave_a04401w064.u7" size="8388608" crc="ed229794" sha1="1cf1863495a18c7c7d277a9be43ec116b00960b0" />
+		<rom name="cave_a04402w064.u8" size="8388608" crc="752167b0" sha1="c33c3398dd8e479c9d5bd348924958a6aecbf0fc" />
+		<rom name="cave_b04401w064.u1" size="8388608" crc="17731c9d" sha1="0e0aa0ec01035323985ac8e08228a0fd6edf6689" />
+		<rom name="cave_m04401b032.u17" size="4194304" crc="5a0dbd76" sha1="06ab202f6bd5ebfb35b9d8cc7a8fb83ec8840659" />
+		<rom name="cave_t04401w064.u19" size="8388608" crc="3a95f19c" sha1="fd3c47cf0b8b1e20c6bec4be68a089fc8bbf4dbe" />
+		<rom name="ddb_1dot.u45" size="2097152" crc="265f26cd" sha1="91abc7fc4722f3d01d76a4c1ae14c4132e4e576c" />
+		<rom name="ddp3_bios.u37" size="524288" crc="b3cc5c8f" sha1="02d9511cf71e4a0d6ca8fd9a1ef2c79b0d001824" />
+		<rom name="ddp3blk_defaults.nv" size="131072" crc="a1651904" sha1="5b80d3c4c764895c40953a66161d4dd84f742604" />
+		<rom name="pgm_m01s.rom" size="2097152" crc="45ae7159" sha1="d3ed3ff3464557fd0df6b069b2e431528b0ebfa8" />
+		<rom name="pgm_t01s.rom" size="2097152" crc="1a7123a0" sha1="cc567f577bfbf45427b54d6695b11b74f2578af3" />
+	</machine>
+	<machine name="ddpdojblkb" sourcefile="igs/pgm.cpp">
+		<description>DoDonPachi Dai-Ou-Jou Black Label (Japan, 2002.10.07 Black Ver)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="cave_a04401w064.u7" size="8388608" crc="ed229794" sha1="1cf1863495a18c7c7d277a9be43ec116b00960b0" />
+		<rom name="cave_a04402w064.u8" size="8388608" crc="752167b0" sha1="c33c3398dd8e479c9d5bd348924958a6aecbf0fc" />
+		<rom name="cave_b04401w064.u1" size="8388608" crc="17731c9d" sha1="0e0aa0ec01035323985ac8e08228a0fd6edf6689" />
+		<rom name="cave_m04401b032.u17" size="4194304" crc="5a0dbd76" sha1="06ab202f6bd5ebfb35b9d8cc7a8fb83ec8840659" />
+		<rom name="cave_t04401w064.u19" size="8388608" crc="3a95f19c" sha1="fd3c47cf0b8b1e20c6bec4be68a089fc8bbf4dbe" />
+		<rom name="ddb10.u45" size="2097152" crc="72b35510" sha1="9a432e5e1ebe61aafd737b6acc905653e5af0d38" />
+		<rom name="ddp3_bios.u37" size="524288" crc="b3cc5c8f" sha1="02d9511cf71e4a0d6ca8fd9a1ef2c79b0d001824" />
+		<rom name="ddp3blk_defaults.nv" size="131072" crc="a1651904" sha1="5b80d3c4c764895c40953a66161d4dd84f742604" />
+		<rom name="pgm_m01s.rom" size="2097152" crc="45ae7159" sha1="d3ed3ff3464557fd0df6b069b2e431528b0ebfa8" />
+		<rom name="pgm_t01s.rom" size="2097152" crc="1a7123a0" sha1="cc567f577bfbf45427b54d6695b11b74f2578af3" />
+	</machine>
+	<machine name="ddpdojp" sourcefile="igs/pgm.cpp">
+		<description>DoDonPachi Dai-Ou-Jou (Japan, 2002.04.05 Master Ver, location test)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ca008.cod_prom.u13.27c322" size="4194304" crc="2ba7fa3b" sha1="c4c5425a2455cb95555d94bbf8afc83cf0b140e8" />
+		<rom name="ddp3_defaults.nv" size="131072" crc="571e96c0" sha1="348940c77ca348213331b85b9b1d3aabb96a528a" />
+		<rom name="fnt_cg.0_cgrom0.u8.27c322" size="4194304" crc="1805e198" sha1="23db96eddfb47dfef9dcfab52ae2582ad3c0fc90" />
+		<rom name="fnt_cg.1_cgrom1.u10.27c322" size="4194304" crc="f06ce99c" sha1="24482e2bb2485855e300b6b3e07962d4f0a6ab83" />
+		<rom name="pgm_m01s.rom" size="2097152" crc="45ae7159" sha1="d3ed3ff3464557fd0df6b069b2e431528b0ebfa8" />
+		<rom name="pgm_t01s.rom" size="2097152" crc="1a7123a0" sha1="cc567f577bfbf45427b54d6695b11b74f2578af3" />
+		<rom name="pgmbios.u20.27c210" size="131072" crc="1d2a7c15" sha1="025a9f2bb64887699bf7ccab0f2ccfc55c3ad75c" />
+		<rom name="sndmask.rom_mcs1.u3.27c322" size="4194304" crc="5a0dbd76" sha1="06ab202f6bd5ebfb35b9d8cc7a8fb83ec8840659" />
+		<rom name="sp_cg.0_imcs0.u11.27c322" size="4194304" crc="c66bdd8e" sha1="dde26821a3ef8ad5c3c29e11c55f8f6953c085dd" />
+		<rom name="sp_cg.1_imcs1.u13.27c322" size="4194304" crc="d30eac89" sha1="78b18ff71136df0ffadb87fc53b60943dd62bcdd" />
+		<rom name="sp_cg.2_imcs2.u15.27c322" size="4194304" crc="f31b010e" sha1="1987e9cd2abcf57be990853fbd305474e58da5b8" />
+		<rom name="sp_cg.3_imcs3.u17.27c322" size="4194304" crc="01ec23f5" sha1="ff22642f914b0f8911a221df1e9073bdc9434660" />
+		<rom name="sp_mp.0_bitcs0.u5.27c322" size="4194304" crc="e30494a4" sha1="12d216252a916be4fd8d77b89497cee9b04861e5" />
+		<rom name="sp_mp.1_bitcs1.u6.27c322" size="4194304" crc="0239daec" sha1="506c4d8a4bfa988d81565c47f742f1b06175915e" />
+	</machine>
+	<machine name="deathsml" sourcefile="cave/cv1k.cpp">
+		<description>Deathsmiles (Japan, 2007/10/09 MASTER VER)</description>
+		<year>2007</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="u2" size="138412032" crc="59ef5d78" sha1="426e506b6d88948aa55aec71c0db6e91da3d490d" />
+		<rom name="u4" size="2097152" crc="1a7b98bf" sha1="07798a4a846e5802756396b34df47d106895c1f1" />
+		<rom name="u23" size="4194304" crc="aab718c8" sha1="0e636c46d06151abd6f73232bc479dafcafe5327" />
+		<rom name="u24" size="4194304" crc="83881d84" sha1="6e2294b247dfcbf0ced155dc45c706f29052775d" />
+	</machine>
+	<machine name="dfeveron" sourcefile="atlus/cave.cpp">
+		<description>Dangun Feveron (Japan, 98/09/17 VER.)</description>
+		<year>1998</year>
+		<manufacturer>Cave (Nihon System license)</manufacturer>
+		<rom name="cv01-u19.bin" size="4194304" crc="5f5514da" sha1="53f27364aee544572a82649c9ff29bacc642b732" />
+		<rom name="cv01-u25.bin" size="4194304" crc="a6f6a95d" sha1="e1eb45cb5d0e6163edfd9d830633b913fb53c6ca" />
+		<rom name="cv01-u26.bin" size="4194304" crc="32edb62a" sha1="3def74e1316b80cc25a8c3ac162cd7bcb8cc807c" />
+		<rom name="cv01-u33.bin" size="524288" crc="e53a7db3" sha1="ddced29f78dc3cc89038757b6577ba2ba0d8b041" />
+		<rom name="cv01-u34.bin" size="524288" crc="be87f19d" sha1="595239245df3835cdf5a99a6c62480465558d8d3" />
+		<rom name="cv01-u49.bin" size="2097152" crc="d21cdda7" sha1="cace4650de580c3c4a037f1f5c32bfc1846b383c" />
+		<rom name="cv01-u50.bin" size="2097152" crc="7a344417" sha1="828bd8f95d2fcc34407e17629ccafc904a4ea12d" />
+		<rom name="eeprom-dfeveron.bin" size="128" crc="c3174959" sha1="29b5c94722756481e4f84bfd75dee15fdb5c8cf7" />
+	</machine>
+	<machine name="dfkbl" sourcefile="cave/cv1k.cpp">
+		<description>DoDonPachi Dai-Fukkatsu Black Label (Japan, 2010/1/18 BLACK LABEL)</description>
+		<year>2010</year>
+		<manufacturer>Cave</manufacturer>
+		<rom name="u2" size="138412032" crc="29f9d73a" sha1="ed978ab5e3ad8c05e7778a91bfb5aaa17b0f72d9" />
+		<rom name="u4" size="4194304" crc="8092ca9d" sha1="75e16cd7c8d0f9c715115ce12da5c245fbcd2416" />
+		<rom name="u23" size="4194304" crc="36d4093b" sha1="4aed7e2f7c0d2c9bceeb110a9907d8d99d55f4c3" />
+		<rom name="u24" size="4194304" crc="31f9eb0a" sha1="322158779e969bb321241065dd49c1167b91ff6c" />
+	</machine>
+	<machine name="donpachi" sourcefile="atlus/cave.cpp">
+		<description>DonPachi (US)</description>
+		<year>1995</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="atdp.u32" size="1048576" crc="0d89fcca" sha1="e16ed15fa5e72537822f7b37e83ccfed0fa87338" />
+		<rom name="atdp.u33" size="2097152" crc="d749de00" sha1="64a0acc23eb2515e7d0459f0289919e083c63afc" />
+		<rom name="atdp.u33" size="2097152" crc="d749de00" sha1="64a0acc23eb2515e7d0459f0289919e083c63afc" />
+		<rom name="atdp.u44" size="2097152" crc="7189e953" sha1="53adbe6ea5e01ecb48575e9db82cc3d0dc8a3726" />
+		<rom name="atdp.u45" size="2097152" crc="6984173f" sha1="625dd6674adeb206815855b8b6a1fba79ed5c4cd" />
+		<rom name="atdp.u54" size="1048576" crc="6bda6b66" sha1="6472e6706505bac17484fb8bf4e8922ced4adf63" />
+		<rom name="atdp.u57" size="1048576" crc="0a0e72b9" sha1="997e8253777e7acca5a1c0c4026e78eecc122d5d" />
+		<rom name="eeprom-donpachi.u10" size="128" crc="315fb546" sha1="7f597107d1610fc286413e0e93c794c80c0c554f" />
+		<rom name="peel18cv8p-15.u18" size="341" crc="3f4787e9" sha1="fc7da25c9f36c9cbc6ba5a7314c4828d405d1261" />
+		<rom name="prgu.u29" size="524288" crc="89c36802" sha1="7857c726cecca5a4fce282e0d2b873774d2c1b1d" />
+		<rom name="text.u58" size="262144" crc="5dba06e7" sha1="f9dab7f6c732a683fddb4cae090a875b3962332b" />
+	</machine>
+	<machine name="donpachihk" sourcefile="atlus/cave.cpp">
+		<description>DonPachi (Hong Kong)</description>
+		<year>1995</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="37.u29" size="524288" crc="71f39f30" sha1="08a028208f21c073d450a29061604f27775786a8" />
+		<rom name="atdp.u32" size="1048576" crc="0d89fcca" sha1="e16ed15fa5e72537822f7b37e83ccfed0fa87338" />
+		<rom name="atdp.u33" size="2097152" crc="d749de00" sha1="64a0acc23eb2515e7d0459f0289919e083c63afc" />
+		<rom name="atdp.u33" size="2097152" crc="d749de00" sha1="64a0acc23eb2515e7d0459f0289919e083c63afc" />
+		<rom name="atdp.u44" size="2097152" crc="7189e953" sha1="53adbe6ea5e01ecb48575e9db82cc3d0dc8a3726" />
+		<rom name="atdp.u45" size="2097152" crc="6984173f" sha1="625dd6674adeb206815855b8b6a1fba79ed5c4cd" />
+		<rom name="atdp.u54" size="1048576" crc="6bda6b66" sha1="6472e6706505bac17484fb8bf4e8922ced4adf63" />
+		<rom name="atdp.u57" size="1048576" crc="0a0e72b9" sha1="997e8253777e7acca5a1c0c4026e78eecc122d5d" />
+		<rom name="eeprom-donpachi.bin" size="128" crc="315fb546" sha1="7f597107d1610fc286413e0e93c794c80c0c554f" />
+		<rom name="peel18cv8p-15.u18" size="341" crc="3f4787e9" sha1="fc7da25c9f36c9cbc6ba5a7314c4828d405d1261" />
+		<rom name="u58.bin" size="262144" crc="285379ff" sha1="b9552edcec29ddf4b552800b145c398b94117ab0" />
+	</machine>
+	<machine name="donpachij" sourcefile="atlus/cave.cpp">
+		<description>DonPachi (Japan)</description>
+		<year>1995</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="atdp.u32" size="1048576" crc="0d89fcca" sha1="e16ed15fa5e72537822f7b37e83ccfed0fa87338" />
+		<rom name="atdp.u33" size="2097152" crc="d749de00" sha1="64a0acc23eb2515e7d0459f0289919e083c63afc" />
+		<rom name="atdp.u33" size="2097152" crc="d749de00" sha1="64a0acc23eb2515e7d0459f0289919e083c63afc" />
+		<rom name="atdp.u44" size="2097152" crc="7189e953" sha1="53adbe6ea5e01ecb48575e9db82cc3d0dc8a3726" />
+		<rom name="atdp.u45" size="2097152" crc="6984173f" sha1="625dd6674adeb206815855b8b6a1fba79ed5c4cd" />
+		<rom name="atdp.u54" size="1048576" crc="6bda6b66" sha1="6472e6706505bac17484fb8bf4e8922ced4adf63" />
+		<rom name="atdp.u57" size="1048576" crc="0a0e72b9" sha1="997e8253777e7acca5a1c0c4026e78eecc122d5d" />
+		<rom name="eeprom-donpachi.bin" size="128" crc="315fb546" sha1="7f597107d1610fc286413e0e93c794c80c0c554f" />
+		<rom name="peel18cv8p-15.u18" size="341" crc="3f4787e9" sha1="fc7da25c9f36c9cbc6ba5a7314c4828d405d1261" />
+		<rom name="prg.u29" size="524288" crc="6be14af6" sha1="5b1158071f160efeded816ae4c4edca1d00d6e05" />
+		<rom name="u58.bin" size="262144" crc="285379ff" sha1="b9552edcec29ddf4b552800b145c398b94117ab0" />
+	</machine>
+	<machine name="donpachijs" sourcefile="atlus/cave.cpp">
+		<description>DonPachi (Japan, Satsuei version)</description>
+		<year>1995</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="atdp.u32" size="1048576" crc="0d89fcca" sha1="e16ed15fa5e72537822f7b37e83ccfed0fa87338" />
+		<rom name="atdp.u33" size="2097152" crc="d749de00" sha1="64a0acc23eb2515e7d0459f0289919e083c63afc" />
+		<rom name="atdp.u33" size="2097152" crc="d749de00" sha1="64a0acc23eb2515e7d0459f0289919e083c63afc" />
+		<rom name="atdp.u44" size="2097152" crc="7189e953" sha1="53adbe6ea5e01ecb48575e9db82cc3d0dc8a3726" />
+		<rom name="atdp.u45" size="2097152" crc="6984173f" sha1="625dd6674adeb206815855b8b6a1fba79ed5c4cd" />
+		<rom name="atdp.u54" size="1048576" crc="6bda6b66" sha1="6472e6706505bac17484fb8bf4e8922ced4adf63" />
+		<rom name="atdp.u57" size="1048576" crc="0a0e72b9" sha1="997e8253777e7acca5a1c0c4026e78eecc122d5d" />
+		<rom name="eeprom-donpachi.u10" size="128" crc="315fb546" sha1="7f597107d1610fc286413e0e93c794c80c0c554f" />
+		<rom name="peel18cv8p-15.u18" size="341" crc="3f4787e9" sha1="fc7da25c9f36c9cbc6ba5a7314c4828d405d1261" />
+		<rom name="prg.u29" size="524288" crc="810dbd42" sha1="703a5aec90b595a1c5a679ab165643119ba6b2f3" />
+		<rom name="u58.bin" size="262144" crc="285379ff" sha1="b9552edcec29ddf4b552800b145c398b94117ab0" />
+	</machine>
+	<machine name="donpachikr" sourcefile="atlus/cave.cpp">
+		<description>DonPachi (Korea)</description>
+		<year>1995</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="atdp.u32" size="1048576" crc="0d89fcca" sha1="e16ed15fa5e72537822f7b37e83ccfed0fa87338" />
+		<rom name="atdp.u33" size="2097152" crc="d749de00" sha1="64a0acc23eb2515e7d0459f0289919e083c63afc" />
+		<rom name="atdp.u33" size="2097152" crc="d749de00" sha1="64a0acc23eb2515e7d0459f0289919e083c63afc" />
+		<rom name="atdp.u44" size="2097152" crc="7189e953" sha1="53adbe6ea5e01ecb48575e9db82cc3d0dc8a3726" />
+		<rom name="atdp.u45" size="2097152" crc="6984173f" sha1="625dd6674adeb206815855b8b6a1fba79ed5c4cd" />
+		<rom name="atdp.u54" size="1048576" crc="6bda6b66" sha1="6472e6706505bac17484fb8bf4e8922ced4adf63" />
+		<rom name="atdp.u57" size="1048576" crc="0a0e72b9" sha1="997e8253777e7acca5a1c0c4026e78eecc122d5d" />
+		<rom name="eeprom-donpachi.bin" size="128" crc="315fb546" sha1="7f597107d1610fc286413e0e93c794c80c0c554f" />
+		<rom name="peel18cv8p-15.u18" size="341" crc="3f4787e9" sha1="fc7da25c9f36c9cbc6ba5a7314c4828d405d1261" />
+		<rom name="prgk.u26" size="524288" crc="bbaf4c8b" sha1="0f9d42c8c4c5b69e3d39bf768bc4b663f66b4f36" />
+		<rom name="text.u58" size="262144" crc="5dba06e7" sha1="f9dab7f6c732a683fddb4cae090a875b3962332b" />
+	</machine>
+	<machine name="dsmbl" sourcefile="cave/cv1k.cpp">
+		<description>Deathsmiles MegaBlack Label (Japan, 2008/10/06 MEGABLACK LABEL VER)</description>
+		<year>2008</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="u2" size="138412032" crc="d6b85b7a" sha1="4674f6ad07f6a03904ca3d05060816b8fe061add" />
+		<rom name="u4" size="4194304" crc="77fc5ad1" sha1="afe044fc16e9494143c876879b033caccd08cf22" />
+		<rom name="u23" size="4194304" crc="a9536a6a" sha1="4b9dcaf6803b1fcfdf73ae9daabc4508fec71631" />
+		<rom name="u24" size="4194304" crc="3b673326" sha1="1ae847eb4e752fef1d72081d82344f0ad0537c31" />
+	</machine>
+	<machine name="espgal" sourcefile="igs/pgm.cpp">
+		<description>Espgaluda (2003/10/15 Master Ver)</description>
+		<year>2003</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="cave_a04801w064.u7" size="8388608" crc="26dd4932" sha1="9bbabb5a53cb5ba88397cc2c258980f3b70314ce" />
+		<rom name="cave_a04802w064.u8" size="8388608" crc="0e6bf7a9" sha1="a7541e2b5a0df2bc62a5b347e54dbc2ed1922db2" />
+		<rom name="cave_b04801w064.u1" size="8388608" crc="98dce13a" sha1="61d48b7117459f7babc022b68231f6928177a71d" />
+		<rom name="cave_t04801w064.u19" size="8388608" crc="6021c79e" sha1="fbc340dafb18aa3094de29b881318a5a9794e4bc" />
+		<rom name="cave_w04801b032.u17" size="4194304" crc="60298536" sha1="6b7333f16cce778c5725dbdf75a5446f0906397a" />
+		<rom name="espgaluda_v100.u38" size="2097152" crc="08ecec34" sha1="bce2e7fb9105ed51603d09cbd3a9eeb5b8f47ee2" />
+		<rom name="t01s.u18" size="2097152" crc="1a7123a0" sha1="cc567f577bfbf45427b54d6695b11b74f2578af3" />
+	</machine>
+	<machine name="espgal2" sourcefile="cave/cv1k.cpp">
+		<description>Espgaluda II (Japan, 2005/11/14.MASTER VER.)</description>
+		<year>2005</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="espgal2_u4" size="2097152" crc="2cb37c03" sha1="da438efc497f72aa345d2cdb0143d269e51576d3" />
+		<rom name="u2" size="138412032" crc="222f58c7" sha1="d47a5085a1debd9cb8c61d88cd39e4f5036d1797" />
+		<rom name="u23" size="4194304" crc="b9a10c22" sha1="4561f95c6018c9716077224bfe9660e61fb84681" />
+		<rom name="u24" size="4194304" crc="c76b1ec4" sha1="b98a53d41a995d968e0432ed824b0b06d93dcea8" />
+	</machine>
+	<machine name="espgal2a" sourcefile="cave/cv1k.cpp">
+		<description>Espgaluda II (Japan, 2005/11/14 MASTER VER, newer CV1000-B PCB)</description>
+		<year>2005</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="espgal2a_u4" size="2097152" crc="843608b8" sha1="2f5fcd38e76df531a923cd9956104cef5185aaa9" />
+		<rom name="u2" size="138412032" crc="222f58c7" sha1="d47a5085a1debd9cb8c61d88cd39e4f5036d1797" />
+		<rom name="u23" size="4194304" crc="b9a10c22" sha1="4561f95c6018c9716077224bfe9660e61fb84681" />
+		<rom name="u24" size="4194304" crc="c76b1ec4" sha1="b98a53d41a995d968e0432ed824b0b06d93dcea8" />
+	</machine>
+	<machine name="espgal2b" sourcefile="cave/cv1k.cpp">
+		<description>Espgaluda II (Japan, 2005/11/14 MASTER VER, original CV1000-B PCB)</description>
+		<year>2005</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="espgal2b_u4" size="2097152" crc="09c908bb" sha1="7d6031fd3542b3e1d296ff218feb40502fd78694" />
+		<rom name="u2" size="138412032" crc="222f58c7" sha1="d47a5085a1debd9cb8c61d88cd39e4f5036d1797" />
+		<rom name="u23" size="4194304" crc="b9a10c22" sha1="4561f95c6018c9716077224bfe9660e61fb84681" />
+		<rom name="u24" size="4194304" crc="c76b1ec4" sha1="b98a53d41a995d968e0432ed824b0b06d93dcea8" />
+	</machine>
+	<machine name="esprade" sourcefile="atlus/cave.cpp">
+		<description>ESP Ra.De. (World, 1998 4/22 International Ver.)</description>
+		<year>1998</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="eeprom-esprade.bin" size="128" crc="315fb546" sha1="7f597107d1610fc286413e0e93c794c80c0c554f" />
+		<rom name="esp_u19.u19" size="4194304" crc="f54b1cab" sha1="34d70bb5798de85d892c062001d9ac1d6604fd9f" />
+		<rom name="esp_u51.u51" size="4194304" crc="0b9b875c" sha1="ef05447cd8565ae24bb71db42342724622ad1e3e" />
+		<rom name="esp_u52.u52" size="4194304" crc="e7abe7b4" sha1="e98da45497e1aaf0d6ab352ec3e43c7438ed792a" />
+		<rom name="esp_u53.u53" size="4194304" crc="51a0f391" sha1="8b7355cbad119f4e1add14e5cd5e343ec6706104" />
+		<rom name="esp_u54.u54" size="4194304" crc="e7ca6936" sha1="b7f5ab67071a1d9dd3d2c1cd2304d9cdad68850c" />
+		<rom name="esp_u55.u55" size="4194304" crc="f53bd94f" sha1="d0a74fb3d36fe522ef075e5ae44a9980da8abe2f" />
+		<rom name="esp_u63.u63" size="4194304" crc="2f2fe92c" sha1="9519e365248bcec8419786eabb16fe4aae299af5" />
+		<rom name="esp_u64.u64" size="4194304" crc="491a3da4" sha1="53549a2bd3edc7b5e73fb46e1421b156bb0c190f" />
+		<rom name="esp_u65.u65" size="4194304" crc="06563efe" sha1="94e72da1f542b4e0525b4b43994242816b43dbdc" />
+		<rom name="esp_u66.u66" size="4194304" crc="7bbe4cfc" sha1="e77d0ed7a11b5abca1df8a0eb20ac9360cf79e76" />
+		<rom name="u41.int" size="524288" crc="97c1b649" sha1="37a56b7b9662219a356aee3f4b5cbb774ac4950e" />
+		<rom name="u42.int" size="524288" crc="3b510a73" sha1="ab1666eb826cb4a71588d86831dd18a2ef1c2a33" />
+	</machine>
+	<machine name="espradej" sourcefile="atlus/cave.cpp">
+		<description>ESP Ra.De. (Japan, 1998 4/21 Master Ver.)</description>
+		<year>1998</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="eeprom-esprade.bin" size="128" crc="315fb546" sha1="7f597107d1610fc286413e0e93c794c80c0c554f" />
+		<rom name="esp_u19.u19" size="4194304" crc="f54b1cab" sha1="34d70bb5798de85d892c062001d9ac1d6604fd9f" />
+		<rom name="esp_u51.u51" size="4194304" crc="0b9b875c" sha1="ef05447cd8565ae24bb71db42342724622ad1e3e" />
+		<rom name="esp_u52.u52" size="4194304" crc="e7abe7b4" sha1="e98da45497e1aaf0d6ab352ec3e43c7438ed792a" />
+		<rom name="esp_u53.u53" size="4194304" crc="51a0f391" sha1="8b7355cbad119f4e1add14e5cd5e343ec6706104" />
+		<rom name="esp_u54.u54" size="4194304" crc="e7ca6936" sha1="b7f5ab67071a1d9dd3d2c1cd2304d9cdad68850c" />
+		<rom name="esp_u55.u55" size="4194304" crc="f53bd94f" sha1="d0a74fb3d36fe522ef075e5ae44a9980da8abe2f" />
+		<rom name="esp_u63.u63" size="4194304" crc="2f2fe92c" sha1="9519e365248bcec8419786eabb16fe4aae299af5" />
+		<rom name="esp_u64.u64" size="4194304" crc="491a3da4" sha1="53549a2bd3edc7b5e73fb46e1421b156bb0c190f" />
+		<rom name="esp_u65.u65" size="4194304" crc="06563efe" sha1="94e72da1f542b4e0525b4b43994242816b43dbdc" />
+		<rom name="esp_u66.u66" size="4194304" crc="7bbe4cfc" sha1="e77d0ed7a11b5abca1df8a0eb20ac9360cf79e76" />
+		<rom name="u41_ver.2" size="524288" crc="734b3ef0" sha1="f584227b85c347d62d5f179445011ce0f607bcfd" />
+		<rom name="u42_ver.2" size="524288" crc="75d03c42" sha1="1c176185b6f1531752b633a97f705ffa0cfeb5ad" />
+	</machine>
+	<machine name="espradejo" sourcefile="atlus/cave.cpp">
+		<description>ESP Ra.De. (Japan, 1998 4/14 Master Ver.)</description>
+		<year>1998</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="eeprom-esprade.bin" size="128" crc="315fb546" sha1="7f597107d1610fc286413e0e93c794c80c0c554f" />
+		<rom name="esp_u19.u19" size="4194304" crc="f54b1cab" sha1="34d70bb5798de85d892c062001d9ac1d6604fd9f" />
+		<rom name="esp_u51.u51" size="4194304" crc="0b9b875c" sha1="ef05447cd8565ae24bb71db42342724622ad1e3e" />
+		<rom name="esp_u52.u52" size="4194304" crc="e7abe7b4" sha1="e98da45497e1aaf0d6ab352ec3e43c7438ed792a" />
+		<rom name="esp_u53.u53" size="4194304" crc="51a0f391" sha1="8b7355cbad119f4e1add14e5cd5e343ec6706104" />
+		<rom name="esp_u54.u54" size="4194304" crc="e7ca6936" sha1="b7f5ab67071a1d9dd3d2c1cd2304d9cdad68850c" />
+		<rom name="esp_u55.u55" size="4194304" crc="f53bd94f" sha1="d0a74fb3d36fe522ef075e5ae44a9980da8abe2f" />
+		<rom name="esp_u63.u63" size="4194304" crc="2f2fe92c" sha1="9519e365248bcec8419786eabb16fe4aae299af5" />
+		<rom name="esp_u64.u64" size="4194304" crc="491a3da4" sha1="53549a2bd3edc7b5e73fb46e1421b156bb0c190f" />
+		<rom name="esp_u65.u65" size="4194304" crc="06563efe" sha1="94e72da1f542b4e0525b4b43994242816b43dbdc" />
+		<rom name="esp_u66.u66" size="4194304" crc="7bbe4cfc" sha1="e77d0ed7a11b5abca1df8a0eb20ac9360cf79e76" />
+		<rom name="u41.bin" size="524288" crc="def30539" sha1="957ad0b06f06689ae71393572592f6b8f818603a" />
+		<rom name="u42.bin" size="524288" crc="0718c7e5" sha1="c7d1f30bd2ef363cad15b6918f9980312a15809a" />
+	</machine>
+	<machine name="feversos" sourcefile="atlus/cave.cpp">
+		<description>Fever SOS (World, 98/09/25 VER)</description>
+		<year>1998</year>
+		<manufacturer>Cave (Nihon System license)</manufacturer>
+		<rom name="cv01-u19.bin" size="4194304" crc="5f5514da" sha1="53f27364aee544572a82649c9ff29bacc642b732" />
+		<rom name="cv01-u25.bin" size="4194304" crc="a6f6a95d" sha1="e1eb45cb5d0e6163edfd9d830633b913fb53c6ca" />
+		<rom name="cv01-u26.bin" size="4194304" crc="32edb62a" sha1="3def74e1316b80cc25a8c3ac162cd7bcb8cc807c" />
+		<rom name="cv01-u33.sos" size="524288" crc="64ff73fd" sha1="7fc3a8469cec2361d373a4dac4a547c13ca5f709" />
+		<rom name="cv01-u34.sos" size="524288" crc="24ef3ce6" sha1="42799eebbb2686a837b8972aec684143deadca59" />
+		<rom name="cv01-u49.bin" size="2097152" crc="d21cdda7" sha1="cace4650de580c3c4a037f1f5c32bfc1846b383c" />
+		<rom name="cv01-u50.bin" size="2097152" crc="7a344417" sha1="828bd8f95d2fcc34407e17629ccafc904a4ea12d" />
+		<rom name="eeprom-feversos.bin" size="128" crc="d80303aa" sha1="8580f7c2223c72614516d800a98465e362c333ef" />
+	</machine>
+	<machine name="futari10" sourcefile="cave/cv1k.cpp">
+		<description>Mushihime-Sama Futari Ver 1.0 (Japan, 2006/10/23 MASTER VER.)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="futari10_u2" size="138412032" crc="78ffcd0c" sha1="0e2937edec15ce3f5741b72ebd3bbaaefffb556e" />
+		<rom name="futari10_u4" size="2097152" crc="b127dca7" sha1="e1f518bc72fc1cdf69aefa89eafa4edaf4e84778" />
+		<rom name="u23" size="4194304" crc="39f1e1f4" sha1="53d12f59a56df35c705408c76e6e02118da656f1" />
+		<rom name="u24" size="4194304" crc="c631a766" sha1="8bb6934a2f5b8a9841c3dcf85192b1743773dd8b" />
+	</machine>
+	<machine name="futari15" sourcefile="cave/cv1k.cpp">
+		<description>Mushihime-Sama Futari Ver 1.5 (Japan, 2006/12/8.MASTER VER. 1.54.)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="futari15_u2" size="138412032" crc="b9eae1fc" sha1="410f8e7cfcbfd271b41fb4f8d049a13a3191a1f9" />
+		<rom name="futari15_u4" size="2097152" crc="e8c5f128" sha1="45fb8066fdbecb83fdc2e14555c460d0c652cd5f" />
+		<rom name="u23" size="4194304" crc="39f1e1f4" sha1="53d12f59a56df35c705408c76e6e02118da656f1" />
+		<rom name="u24" size="4194304" crc="c631a766" sha1="8bb6934a2f5b8a9841c3dcf85192b1743773dd8b" />
+	</machine>
+	<machine name="futari15a" sourcefile="cave/cv1k.cpp">
+		<description>Mushihime-Sama Futari Ver 1.5 (Japan, 2006/12/8 MASTER VER 1.54)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="futari15_u2" size="138412032" crc="b9eae1fc" sha1="410f8e7cfcbfd271b41fb4f8d049a13a3191a1f9" />
+		<rom name="futari15a_u4" size="2097152" crc="a609cf89" sha1="56752fae9f42fa852af8ee2eae79e25ec7f17953" />
+		<rom name="u23" size="4194304" crc="39f1e1f4" sha1="53d12f59a56df35c705408c76e6e02118da656f1" />
+		<rom name="u24" size="4194304" crc="c631a766" sha1="8bb6934a2f5b8a9841c3dcf85192b1743773dd8b" />
+	</machine>
+	<machine name="futaribl" sourcefile="cave/cv1k.cpp">
+		<description>Mushihime-Sama Futari Black Label - Another Ver (World, 2009/11/27 INTERNATIONAL BL)</description>
+		<year>2007</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="futaribli_u4" size="2097152" crc="1971dd16" sha1="e75993f2978cbaaf925b4b8bb33d094a5a7cebf0" />
+		<rom name="futariblk_u2" size="138412032" crc="08c6fd62" sha1="e1fc386b2b0e41906c724287cbf82304297e0150" />
+		<rom name="u23" size="4194304" crc="39f1e1f4" sha1="53d12f59a56df35c705408c76e6e02118da656f1" />
+		<rom name="u24" size="4194304" crc="c631a766" sha1="8bb6934a2f5b8a9841c3dcf85192b1743773dd8b" />
+	</machine>
+	<machine name="futariblj" sourcefile="cave/cv1k.cpp">
+		<description>Mushihime-Sama Futari Black Label (Japan, 2007/12/11 BLACK LABEL VER)</description>
+		<year>2007</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="futariblk_u2" size="138412032" crc="08c6fd62" sha1="e1fc386b2b0e41906c724287cbf82304297e0150" />
+		<rom name="futariblk_u4" size="2097152" crc="b9467b6d" sha1="64782807fe69acb4ae028e36c5c689d8bd9b7857" />
+		<rom name="u23" size="4194304" crc="39f1e1f4" sha1="53d12f59a56df35c705408c76e6e02118da656f1" />
+		<rom name="u24" size="4194304" crc="c631a766" sha1="8bb6934a2f5b8a9841c3dcf85192b1743773dd8b" />
+	</machine>
+	<machine name="gaia" sourcefile="atlus/cave.cpp">
+		<description>Gaia Crusaders</description>
+		<year>1999</year>
+		<manufacturer>Noise Factory</manufacturer>
+		<rom name="bg1.989" size="4194304" crc="013a693d" sha1="2cc5be6f47c13febed942e1c3167946efedc5f9b" />
+		<rom name="bg2.995" size="4194304" crc="783cc62f" sha1="8b6e4212688b53be5ecc29ff2d41fd43e7d0a420" />
+		<rom name="bg3.998" size="4194304" crc="bcd61d1c" sha1="660a3b02a8c39e1117b00d0ad06f73221fef4ce8" />
+		<rom name="obj1.736" size="4194304" crc="f4f84e5d" sha1="8f445dd7a5c8a996939c211e5aec5742121a6e7e" />
+		<rom name="obj2.738" size="4194304" crc="15c2a9ce" sha1="631eb2968395be86ef2403733e7d4ec769a013b9" />
+		<rom name="prg1.127" size="524288" crc="47b904b2" sha1="58b9b55f59cf00f70b690a0371096e86f4d723c2" />
+		<rom name="prg2.128" size="524288" crc="469b7794" sha1="502f855c51005a866900b19c3a0a170d9ea02392" />
+		<rom name="snd1.447" size="4194304" crc="92770a52" sha1="81f6835e1b45eb0f367e4586fdda92466f02edb9" />
+		<rom name="snd2.454" size="4194304" crc="329ae1cf" sha1="0c5e5074a5d8f4fb85ab4893bc953f192dcb301a" />
+		<rom name="snd3.455" size="4194304" crc="4048d64e" sha1="5e4ec6d37e70484e2fcd04188385e79ef0b53026" />
+	</machine>
+	<machine name="guwange" sourcefile="atlus/cave.cpp">
+		<description>Guwange (Japan, 1999 6/24 Master Ver 16:55)</description>
+		<year>1999</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="eeprom-guwange.bin" size="128" crc="c3174959" sha1="29b5c94722756481e4f84bfd75dee15fdb5c8cf7" />
+		<rom name="gu-u0127.bin" size="524288" crc="f86b5293" sha1="f8b1cd77cc25328d5010889850e4b86c27d9e396" />
+		<rom name="gu-u0129.bin" size="524288" crc="6c0e3b93" sha1="aaad6569b9a7b6f9a315062f9fedfc95851c1bc6" />
+		<rom name="u082.bin" size="8388608" crc="3d75876c" sha1="705b8c2dbdc31e9516f429969f87988beec796d7" />
+		<rom name="u083.bin" size="8388608" crc="adc4b9c4" sha1="3f9fb004e19187bbfa87ddfe8cfc69740656a1bd" />
+		<rom name="u085.bin" size="4194304" crc="a7d5659e" sha1="10abac022ebe106a3ca7186ff18ca2757f903033" />
+		<rom name="u086.bin" size="4194304" crc="188e4f81" sha1="626074d81782a6de0b52406331b4b8561d3e36f5" />
+		<rom name="u101.bin" size="8388608" crc="0369491f" sha1="ca6b1345506f13a17c9bace01637d1f61a278644" />
+		<rom name="u0462.bin" size="4194304" crc="b3d75691" sha1="71d8dae92be1542a3cff50efeec0bf3c14ab59f5" />
+		<rom name="u10102.bin" size="4194304" crc="e28d6855" sha1="7001a6e298c6a1fcceb79586bf5f4bf0f30027f6" />
+		<rom name="u10103.bin" size="4194304" crc="0fe91b8e" sha1="8b71ebeef5e4d2b00fdaaab97776d74e1c96dc59" />
+	</machine>
+	<machine name="guwanges" sourcefile="atlus/cave.cpp">
+		<description>Guwange (Japan, 2000 7/ 7 Special Ver 13:22)</description>
+		<year>1999</year>
+		<manufacturer>Cave (Atlus license)</manufacturer>
+		<rom name="eeprom-guwange.bin" size="128" crc="c3174959" sha1="29b5c94722756481e4f84bfd75dee15fdb5c8cf7" />
+		<rom name="gu-u0127b.bin" size="524288" crc="64667d2e" sha1="a5893eb38e309e2bced4a46559f02850ab39afe7" />
+		<rom name="gu-u0129b.bin" size="524288" crc="a99c6b6c" sha1="614a3cd1de9b325f73e461eaf250ff9cf773f4a5" />
+		<rom name="u082.bin" size="8388608" crc="3d75876c" sha1="705b8c2dbdc31e9516f429969f87988beec796d7" />
+		<rom name="u083.bin" size="8388608" crc="adc4b9c4" sha1="3f9fb004e19187bbfa87ddfe8cfc69740656a1bd" />
+		<rom name="u085.bin" size="4194304" crc="a7d5659e" sha1="10abac022ebe106a3ca7186ff18ca2757f903033" />
+		<rom name="u086.bin" size="4194304" crc="188e4f81" sha1="626074d81782a6de0b52406331b4b8561d3e36f5" />
+		<rom name="u101.bin" size="8388608" crc="0369491f" sha1="ca6b1345506f13a17c9bace01637d1f61a278644" />
+		<rom name="u0462.bin" size="4194304" crc="b3d75691" sha1="71d8dae92be1542a3cff50efeec0bf3c14ab59f5" />
+		<rom name="u10102.bin" size="4194304" crc="e28d6855" sha1="7001a6e298c6a1fcceb79586bf5f4bf0f30027f6" />
+		<rom name="u10103.bin" size="4194304" crc="0fe91b8e" sha1="8b71ebeef5e4d2b00fdaaab97776d74e1c96dc59" />
+	</machine>
+	<machine name="hotdogst" sourcefile="atlus/cave.cpp">
+		<description>Hotdog Storm (Korea)</description>
+		<year>1996</year>
+		<manufacturer>Marble (Ace International license)</manufacturer>
+		<rom name="eeprom-hotdogst.u14" size="128" crc="12b4f934" sha1="5b28d8fbd78869db78ce49e541a9d65558841966" />
+		<rom name="mp1.u65" size="524288" crc="4868be1b" sha1="32b8234b19fdbe07fa5057fa7965e36807e35e77" />
+		<rom name="mp2.u19" size="262144" crc="ff979ebe" sha1="4cb80086cfdc69a321c7f75455cef89e20488b76" />
+		<rom name="mp3.u29" size="524288" crc="1f4e5479" sha1="5c3d7b36b1eda4c87c53e4f7cf89951cc5bcc871" />
+		<rom name="mp4.u28" size="524288" crc="6f1c3c4b" sha1="ab4e4d9b2ef74a2eefda718e120bef05fd0346ff" />
+		<rom name="mp5.u64" size="524288" crc="9b26458c" sha1="acef62422fa3f92e6ca1eba0ee6fb914cd1ee190" />
+		<rom name="mp6.u61" size="524288" crc="4dafb288" sha1="4756259adfe49ba42cde25e7902655b0f0731a6c" />
+		<rom name="mp7.u56" size="524288" crc="87c21c50" sha1="fc0eea79abdd96edb4fa2c7047aaa728ef838234" />
+		<rom name="mp8.u54" size="2097152" crc="bdb4d7b8" sha1="0dd490988aa84b0e9a21ade5fd606b03eca13f6c" />
+		<rom name="mp9.u55" size="2097152" crc="258d49ec" sha1="f39e30c82d8f680f248e1eb59d7c5acb479fa277" />
+	</machine>
+	<machine name="ibara" sourcefile="cave/cv1k.cpp">
+		<description>Ibara (Japan, 2005/03/22 MASTER VER.., '06. 3. 7 ver.)</description>
+		<year>2005</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ibara_u4" size="2097152" crc="d5fb6657" sha1="4b2c9057cc765054232f520ee1c93495bc6b301e" />
+		<rom name="u2" size="138412032" crc="55840976" sha1="4982bdce84f9603adfed7a618f18bc80359ab81e" />
+		<rom name="u23" size="4194304" crc="ee5e585d" sha1="7eeba4ee693060e927f8c46b16e39227c6a62392" />
+		<rom name="u24" size="4194304" crc="f0aa3cb6" sha1="f9d137cd879e718811b2d21a0af2a9c6b7dca2f9" />
+	</machine>
+	<machine name="ibarablk" sourcefile="cave/cv1k.cpp">
+		<description>Ibara Kuro Black Label (Japan, 2006/02/06. MASTER VER.)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ibarablk_u2" size="138412032" crc="5e46be44" sha1="bed5f1bf452f2cac58747ecabec3c4392566a3a7" />
+		<rom name="ibarablk_u4" size="2097152" crc="ee1f1f77" sha1="ac276f3955aa4dde2544af4912819a7ae6bcf8dd" />
+		<rom name="u23" size="4194304" crc="a436bb22" sha1="0556e771cc02638bf8814315ba671c2d442594f1" />
+		<rom name="u24" size="4194304" crc="d11ab6b6" sha1="2132191cbe847e2560423e4545c969f21f8ff825" />
+	</machine>
+	<machine name="ibarablka" sourcefile="cave/cv1k.cpp">
+		<description>Ibara Kuro Black Label (Japan, 2006/02/06 MASTER VER.)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ibarablka_u2" size="138412032" crc="33400d96" sha1="09c22b5431ac3726bf88c56efd970f56793f825a" />
+		<rom name="ibarablka_u4" size="2097152" crc="a9d43839" sha1="507696e616608c05893c7ac2814b3365e9cb0720" />
+		<rom name="u23" size="4194304" crc="a436bb22" sha1="0556e771cc02638bf8814315ba671c2d442594f1" />
+		<rom name="u24" size="4194304" crc="d11ab6b6" sha1="2132191cbe847e2560423e4545c969f21f8ff825" />
+	</machine>
+	<machine name="ibarao" sourcefile="cave/cv1k.cpp">
+		<description>Ibara (Japan, 2005/03/22 MASTER VER..)</description>
+		<year>2005</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="ibarao_u4" size="2097152" crc="8e6c155d" sha1="38ac2107dc7824836e2b4e04c7180d5ae43c9b79" />
+		<rom name="u2" size="138412032" crc="55840976" sha1="4982bdce84f9603adfed7a618f18bc80359ab81e" />
+		<rom name="u23" size="4194304" crc="ee5e585d" sha1="7eeba4ee693060e927f8c46b16e39227c6a62392" />
+		<rom name="u24" size="4194304" crc="f0aa3cb6" sha1="f9d137cd879e718811b2d21a0af2a9c6b7dca2f9" />
+	</machine>
+	<machine name="jumbogod" sourcefile="atlus/cave.cpp">
+		<description>Jumbo Godzilla</description>
+		<year>1995</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="jg1-cha0.u60" size="524288" crc="88a86c34" sha1="f2e9e235cfde9b8afc79fc88e5b7090ba134445b" />
+		<rom name="jg1-cha1.u61" size="524288" crc="55bd8830" sha1="efecb20bb699b05bcefa011402d0dcc234e2696a" />
+		<rom name="jg1-mpro.u41" size="524288" crc="e57c842b" sha1="a85ed036c36215d20ff95f5aaafdc5d5ef6bb94a" />
+		<rom name="jg1-obj0.u52" size="524288" crc="6ee8b190" sha1="5dc3f8ee6ed71f80e0b1612c9440d1dd100c1181" />
+		<rom name="jg1-obj1.u53" size="524288" crc="460658cd" sha1="2af915b161355907025f0705a44bf0de8e6c7dcd" />
+		<rom name="jg1-voi1.u27" size="262144" crc="94d1361a" sha1="b693bff50cbbf75328959508fd912bd3061a2677" />
+		<rom name="jg1-voi2.u32" size="262144" crc="82d40b9a" sha1="4d8e7d994da96a40918ee9791a31d8c189b38e40" />
+	</machine>
+	<machine name="ket" sourcefile="igs/pgm.cpp">
+		<description>Ketsui: Kizuna Jigoku Tachi (2003/01/01. Master Ver.)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="cave_a04701w064.u7" size="8388608" crc="5ef1b94b" sha1="f10dfa46e0a4d297c3a856aea5b49d648f98935c" />
+		<rom name="cave_a04702w064.u8" size="8388608" crc="26d6da7f" sha1="f20e07a7994f41b5ed917f8b0119dc5542f3541c" />
+		<rom name="cave_b04701w064.u1" size="8388608" crc="1bec008d" sha1="07d117dc2eebb35727fb18a7c563acbaf25a8d36" />
+		<rom name="cave_m04701b032.u17" size="4194304" crc="b46e22d1" sha1="670853dc485942fb96380568494bdf3235f446ee" />
+		<rom name="cave_t04701w064.u19" size="8388608" crc="2665b041" sha1="fb1107778b66f2af0de77ac82e1ee2902f53a959" />
+		<rom name="ket_defaults.nv" size="131072" crc="3ca892d8" sha1="67430df5217e453ae8140c5653deeadfad8fa684" />
+		<rom name="ketsui_v100.u38" size="2097152" crc="dfe62f3b" sha1="baa58d1ce47a707f84f65779ac0689894793e9d9" />
+		<rom name="pgm_t01s.rom" size="2097152" crc="1a7123a0" sha1="cc567f577bfbf45427b54d6695b11b74f2578af3" />
+	</machine>
+	<machine name="ket1" sourcefile="igs/pgm.cpp">
+		<description>Ketsui: Kizuna Jigoku Tachi (2003/01/01. Master Ver.) (alt ROM fill)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="cave_a04701w064.u7" size="8388608" crc="5ef1b94b" sha1="f10dfa46e0a4d297c3a856aea5b49d648f98935c" />
+		<rom name="cave_a04702w064.u8" size="8388608" crc="26d6da7f" sha1="f20e07a7994f41b5ed917f8b0119dc5542f3541c" />
+		<rom name="cave_b04701w064.u1" size="8388608" crc="1bec008d" sha1="07d117dc2eebb35727fb18a7c563acbaf25a8d36" />
+		<rom name="cave_m04701b032.u17" size="4194304" crc="b46e22d1" sha1="670853dc485942fb96380568494bdf3235f446ee" />
+		<rom name="cave_t04701w064.u19" size="8388608" crc="2665b041" sha1="fb1107778b66f2af0de77ac82e1ee2902f53a959" />
+		<rom name="ket_defaults.nv" size="131072" crc="3ca892d8" sha1="67430df5217e453ae8140c5653deeadfad8fa684" />
+		<rom name="ketsui_v100_alt_fill.u38" size="2097152" crc="e140f8a4" sha1="34fd25f8896935503d7537e89a4cd174e8995070" />
+		<rom name="pgm_t01s.rom" size="2097152" crc="1a7123a0" sha1="cc567f577bfbf45427b54d6695b11b74f2578af3" />
+	</machine>
+	<machine name="keta" sourcefile="igs/pgm.cpp">
+		<description>Ketsui: Kizuna Jigoku Tachi (2003/01/01 Master Ver.)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="cave_a04701w064.u7" size="8388608" crc="5ef1b94b" sha1="f10dfa46e0a4d297c3a856aea5b49d648f98935c" />
+		<rom name="cave_a04702w064.u8" size="8388608" crc="26d6da7f" sha1="f20e07a7994f41b5ed917f8b0119dc5542f3541c" />
+		<rom name="cave_b04701w064.u1" size="8388608" crc="1bec008d" sha1="07d117dc2eebb35727fb18a7c563acbaf25a8d36" />
+		<rom name="cave_m04701b032.u17" size="4194304" crc="b46e22d1" sha1="670853dc485942fb96380568494bdf3235f446ee" />
+		<rom name="cave_t04701w064.u19" size="8388608" crc="2665b041" sha1="fb1107778b66f2af0de77ac82e1ee2902f53a959" />
+		<rom name="ket_defaults.nv" size="131072" crc="3ca892d8" sha1="67430df5217e453ae8140c5653deeadfad8fa684" />
+		<rom name="ketsui_prg_revised.bin" size="2097152" crc="69fcf5eb" sha1="f726e251b4daa2f8d717e32000d4d7abc71c710d" />
+		<rom name="pgm_t01s.rom" size="2097152" crc="1a7123a0" sha1="cc567f577bfbf45427b54d6695b11b74f2578af3" />
+	</machine>
+	<machine name="ketb" sourcefile="igs/pgm.cpp">
+		<description>Ketsui: Kizuna Jigoku Tachi (2003/01/01 Master Ver)</description>
+		<year>2002</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="cave_a04701w064.u7" size="8388608" crc="5ef1b94b" sha1="f10dfa46e0a4d297c3a856aea5b49d648f98935c" />
+		<rom name="cave_a04702w064.u8" size="8388608" crc="26d6da7f" sha1="f20e07a7994f41b5ed917f8b0119dc5542f3541c" />
+		<rom name="cave_b04701w064.u1" size="8388608" crc="1bec008d" sha1="07d117dc2eebb35727fb18a7c563acbaf25a8d36" />
+		<rom name="cave_m04701b032.u17" size="4194304" crc="b46e22d1" sha1="670853dc485942fb96380568494bdf3235f446ee" />
+		<rom name="cave_t04701w064.u19" size="8388608" crc="2665b041" sha1="fb1107778b66f2af0de77ac82e1ee2902f53a959" />
+		<rom name="ket_defaults.nv" size="131072" crc="3ca892d8" sha1="67430df5217e453ae8140c5653deeadfad8fa684" />
+		<rom name="ketsui_prg_original.bin" size="2097152" crc="cca5e153" sha1="b653feaa2004c379312def6b1613c3497f654ddf" />
+		<rom name="pgm_t01s.rom" size="2097152" crc="1a7123a0" sha1="cc567f577bfbf45427b54d6695b11b74f2578af3" />
+	</machine>
+	<machine name="ketikd" sourcefile="igs/pgm.cpp">
+		<description>Ketsui: Kizuna Jigoku Tachi (IKD 2007 Special - 2007 Cave Matsuri Version)</description>
+		<year>2007</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="cave_a04701w064.u7" size="8388608" crc="5ef1b94b" sha1="f10dfa46e0a4d297c3a856aea5b49d648f98935c" />
+		<rom name="cave_a04702w064.u8" size="8388608" crc="26d6da7f" sha1="f20e07a7994f41b5ed917f8b0119dc5542f3541c" />
+		<rom name="cave_b04701w064.u1" size="8388608" crc="1bec008d" sha1="07d117dc2eebb35727fb18a7c563acbaf25a8d36" />
+		<rom name="cave_m04701b032.u17" size="4194304" crc="b46e22d1" sha1="670853dc485942fb96380568494bdf3235f446ee" />
+		<rom name="cave_t04701w064.u19" size="8388608" crc="2665b041" sha1="fb1107778b66f2af0de77ac82e1ee2902f53a959" />
+		<rom name="ket_defaults.nv" size="131072" crc="3ca892d8" sha1="67430df5217e453ae8140c5653deeadfad8fa684" />
+		<rom name="ketsui_v100_ikd.u38" size="2097152" crc="dfa8a180" sha1="ba899ba93a269c200a478b1507071e24f9848327" />
+		<rom name="pgm_t01s.rom" size="2097152" crc="1a7123a0" sha1="cc567f577bfbf45427b54d6695b11b74f2578af3" />
+	</machine>
+	<machine name="korokoro" sourcefile="atlus/cave.cpp">
+		<description>Koro Koro Quest (Japan)</description>
+		<year>1999</year>
+		<manufacturer>Takumi</manufacturer>
+		<rom name="mp-001_ver01.u1051" size="524288" crc="fe5e28e8" sha1="44da1a7d813b149f9bae351bbcbd0bc2d4c70e10" />
+		<rom name="mp-001_ver01.u1060" size="1048576" crc="ec9cf9d8" sha1="32fa7120e30c14e484de3b3a9c93efe3654d43c8" />
+		<rom name="mp-001_ver01.u1066" size="1048576" crc="c5c6af7e" sha1="13ac26fd703672a01d629be4e5efe9fb8720a4fb" />
+		<rom name="mp-001_ver01.u1186" size="1048576" crc="d16e7c5d" sha1="1f825ace3ed2e23c8d3212320c4645d3d52214c7" />
+		<rom name="mp-001_ver07.u0130" size="524288" crc="86c7241f" sha1="c9f0ab63c4fe36df1300445e9bb0d5c6a1bb733f" />
+	</machine>
+	<machine name="mazinger" sourcefile="atlus/cave.cpp">
+		<description>Mazinger Z (World)</description>
+		<year>1994</year>
+		<manufacturer>Banpresto / Dynamic Pl. Toei Animation</manufacturer>
+		<rom name="bp943a-0.u63" size="2097152" crc="c1fed98a" sha1="c276505f80a49b129862966a19db507f97153e45" />
+		<rom name="bp943a-1.u60" size="2097152" crc="46327415" sha1="679d26caefa975569198fac550105c370e2be00d" />
+		<rom name="bp943a-2.u56" size="2097152" crc="97e13959" sha1="c30b1093aacebafefcae701af767dd36fc55fac7" />
+		<rom name="bp943a-3.u55" size="524288" crc="9c4957dd" sha1="e775605a01b6cadc318855ac046dad03c4fc5bb4" />
+		<rom name="bp943a-4.u64" size="524288" crc="3fc7f29a" sha1="feb21b918243c0a03dfa4a80cc80b86be4f62680" />
+		<rom name="mazinger_world.nv" size="128" crc="4f6225c6" sha1="ed8e1c3ca9b961778cd317deb0dd8a0143eaab4f" />
+		<rom name="mzp-0.u24" size="524288" crc="43a4279f" sha1="2c17eb31040bb7f1554bc1c9a968eec5e72af097" />
+		<rom name="mzp-1.924" size="524288" crc="db40acba" sha1="797a3046b6ab33773c5c4d6bb6d045ea60c1eb45" />
+		<rom name="mzs.u21" size="131072" crc="c5b4f7ed" sha1="01f3cd1dd4045029260544e0e1c15dd08817012e" />
+	</machine>
+	<machine name="mazingerj" sourcefile="atlus/cave.cpp">
+		<description>Mazinger Z (Japan)</description>
+		<year>1994</year>
+		<manufacturer>Banpresto / Dynamic Pl. Toei Animation</manufacturer>
+		<rom name="bp943a-0.u63" size="2097152" crc="c1fed98a" sha1="c276505f80a49b129862966a19db507f97153e45" />
+		<rom name="bp943a-1.u60" size="2097152" crc="46327415" sha1="679d26caefa975569198fac550105c370e2be00d" />
+		<rom name="bp943a-2.u56" size="2097152" crc="97e13959" sha1="c30b1093aacebafefcae701af767dd36fc55fac7" />
+		<rom name="bp943a-3.u55" size="524288" crc="9c4957dd" sha1="e775605a01b6cadc318855ac046dad03c4fc5bb4" />
+		<rom name="bp943a-4.u64" size="524288" crc="3fc7f29a" sha1="feb21b918243c0a03dfa4a80cc80b86be4f62680" />
+		<rom name="mazinger_japan.nv" size="128" crc="f84a2a45" sha1="2e8ad10994bba9a3952889ed0ec3bcaca9b41d03" />
+		<rom name="mzp-0.u24" size="524288" crc="43a4279f" sha1="2c17eb31040bb7f1554bc1c9a968eec5e72af097" />
+		<rom name="mzp-1.924" size="524288" crc="db40acba" sha1="797a3046b6ab33773c5c4d6bb6d045ea60c1eb45" />
+		<rom name="mzs.u21" size="131072" crc="c5b4f7ed" sha1="01f3cd1dd4045029260544e0e1c15dd08817012e" />
+	</machine>
+	<machine name="metmqstr" sourcefile="atlus/cave.cpp">
+		<description>Metamoqester (World)</description>
+		<year>1995</year>
+		<manufacturer>Banpresto / Pandorabox</manufacturer>
+		<rom name="bp947a.u20" size="262144" crc="a4a36170" sha1="ae55094518bd968ea0d04613a133c1421e412012" />
+		<rom name="bp947a.u25" size="524288" crc="0a5c3442" sha1="684b79912dedc103f45c42fdebf9983e091b1308" />
+		<rom name="bp947a.u28" size="524288" crc="8c55decf" sha1="76c6ce4c8e621273258d31ceb9ec4442fcf1a393" />
+		<rom name="bp947a.u29" size="524288" crc="cf0f3f3b" sha1="49a3c0e7536edd53bbf09353e43e9166d736b3f4" />
+		<rom name="bp947a.u37" size="2097152" crc="c3077c8f" sha1="0a76316a81b7de78279b859549eb5161a721ac71" />
+		<rom name="bp947a.u42" size="2097152" crc="2ce8ff2a" sha1="8ef8c5b7d4a0e60c980c2962e75f7977faafa311" />
+		<rom name="bp947a.u46" size="2097152" crc="0f9c906e" sha1="03872e8be28637df66373bddb04ed91de4f9db75" />
+		<rom name="bp947a.u47" size="2097152" crc="0de42827" sha1="05d452ca11a31f941cb8a9b0cbb0b59c6b0cbdcb" />
+		<rom name="bp947a.u48" size="2097152" crc="04ff6a3d" sha1="7187db436f7a2ab59a3f5c6ab297b3d740e20f1d" />
+		<rom name="bp947a.u49" size="2097152" crc="09749531" sha1="6deeed2712241611ec3202c49a66beed28698af8" />
+		<rom name="bp947a.u50" size="2097152" crc="19cea8b2" sha1="87fb29458074f0e4852237e0184b8b3b44b0eb29" />
+		<rom name="bp947a.u51" size="2097152" crc="c19bed67" sha1="ac664a15512c0e8c8b701833aede95f53cd46a45" />
+		<rom name="bp947a.u52" size="2097152" crc="70c64875" sha1="1c20ab100ccfdf42c97a25e4deb9041b83f5ca8d" />
+	</machine>
+	<machine name="mmmbanc" sourcefile="cave/cv1k.cpp">
+		<description>Medal Mahjong Moukari Bancho (Japan, 2007/06/05 MASTER VER.)</description>
+		<year>2007</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="u2" size="138412032" crc="2e38965a" sha1="2b58d1cd1a3dbc261d4a46805d2ea015fe22c444" />
+		<rom name="u4" size="2097152" crc="5589d8c6" sha1="43fbdb0effe2bc0e7135698757b6ee50200aecde" />
+		<rom name="u23" size="4194304" crc="4caaa1bf" sha1="9b92c13eac05601da4d9bb3eb727c156974e9f0c" />
+		<rom name="u24" size="4194304" crc="8e3a51ba" sha1="e34cf9acb13c3d8ca6cd1306b060b1d429872abd" />
+	</machine>
+	<machine name="mmpork" sourcefile="cave/cv1k.cpp">
+		<description>Muchi Muchi Pork! (Japan, 2007/ 4/17 MASTER VER.)</description>
+		<year>2007</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="u2" size="138412032" crc="1ee961b8" sha1="81a2eba704ac1cf7fc44fa7c6a3f50e3570c104f" />
+		<rom name="u4" size="2097152" crc="d06cfa42" sha1="5707feb4b3e5265daf5926f38c38612b24106f1f" />
+		<rom name="u23" size="4194304" crc="4a4b36df" sha1="5db5ce6fa47e5ca3263d4bd19315890c6d29df66" />
+		<rom name="u24" size="4194304" crc="ce83d07b" sha1="a5947467c8f5b7c4b0ad8e32df2ee29b787e355f" />
+	</machine>
+	<machine name="mushisam" sourcefile="cave/cv1k.cpp">
+		<description>Mushihime-Sama (Japan, 2004/10/12.MASTER VER.)</description>
+		<year>2004</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="mushisam_u2" size="138412032" crc="4f0a842a" sha1="33f3550ec676a7088b6348cd72c16cc6594afb84" />
+		<rom name="mushisam_u4" size="2097152" crc="15321b30" sha1="d2cd714ff2299eeab6f9a7c219dfb559c8f98b45" />
+		<rom name="u23" size="4194304" crc="138e2050" sha1="9e86489a4e65af5efb5495adf6d4b3e01d5b2816" />
+		<rom name="u24" size="4194304" crc="e3d05c9f" sha1="130c3d62317da1729c85bd178bd51500edd73ada" />
+	</machine>
+	<machine name="mushisama" sourcefile="cave/cv1k.cpp">
+		<description>Mushihime-Sama (Japan, 2004/10/12 MASTER VER.)</description>
+		<year>2004</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="mushisam_u2" size="138412032" crc="4f0a842a" sha1="33f3550ec676a7088b6348cd72c16cc6594afb84" />
+		<rom name="mushisama_u4" size="2097152" crc="0b5b30b2" sha1="35fd1bb1561c30b311b4325bc8f4628f2fccd20b" />
+		<rom name="u23" size="4194304" crc="138e2050" sha1="9e86489a4e65af5efb5495adf6d4b3e01d5b2816" />
+		<rom name="u24" size="4194304" crc="e3d05c9f" sha1="130c3d62317da1729c85bd178bd51500edd73ada" />
+	</machine>
+	<machine name="mushisamb" sourcefile="cave/cv1k.cpp">
+		<description>Mushihime-Sama (Japan, 2004/10/12 MASTER VER)</description>
+		<year>2004</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="mushisam_u2" size="138412032" crc="4f0a842a" sha1="33f3550ec676a7088b6348cd72c16cc6594afb84" />
+		<rom name="mushisamb_u4" size="2097152" crc="9f1c7f51" sha1="f82ae72ec03687904ca7516887080be92365a5f3" />
+		<rom name="u23" size="4194304" crc="138e2050" sha1="9e86489a4e65af5efb5495adf6d4b3e01d5b2816" />
+		<rom name="u24" size="4194304" crc="e3d05c9f" sha1="130c3d62317da1729c85bd178bd51500edd73ada" />
+	</machine>
+	<machine name="mushitam" sourcefile="cave/cv1k.cpp">
+		<description>Puzzle! Mushihime-Tama (Japan, 2005/09/09.MASTER VER)</description>
+		<year>2005</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="mushitam_u2" size="138412032" crc="8ba498ab" sha1="459c0b4ab831bbe019bdd5b0ac56955948b9e3a6" />
+		<rom name="mushitam_u4" size="2097152" crc="c49eb6b1" sha1="c40ee5de89e3f1cb49ac19687657dd2b42a88d81" />
+		<rom name="u23" size="4194304" crc="701a912a" sha1="85c198946fb693d99928ea2595c84ba4d9dc8157" />
+		<rom name="u24" size="4194304" crc="6feeb9a1" sha1="992711c80e660c32f97b343c2ce8184fddd7364e" />
+	</machine>
+	<machine name="mushitama" sourcefile="cave/cv1k.cpp">
+		<description>Puzzle! Mushihime-Tama (Japan, 2005/09/09 MASTER VER)</description>
+		<year>2005</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="mushitam_u2" size="138412032" crc="8ba498ab" sha1="459c0b4ab831bbe019bdd5b0ac56955948b9e3a6" />
+		<rom name="mushitama_u4" size="2097152" crc="4a23e6c8" sha1="d44c287bb88e6d413a8d35d75bc1b4928ad52cdf" />
+		<rom name="u23" size="4194304" crc="701a912a" sha1="85c198946fb693d99928ea2595c84ba4d9dc8157" />
+		<rom name="u24" size="4194304" crc="6feeb9a1" sha1="992711c80e660c32f97b343c2ce8184fddd7364e" />
+	</machine>
+	<machine name="nmaster" sourcefile="atlus/cave.cpp">
+		<description>Oni - The Ninja Master (Japan)</description>
+		<year>1995</year>
+		<manufacturer>Banpresto / Pandorabox</manufacturer>
+		<rom name="bp947a.u20" size="262144" crc="a4a36170" sha1="ae55094518bd968ea0d04613a133c1421e412012" />
+		<rom name="bp947a.u28" size="524288" crc="8c55decf" sha1="76c6ce4c8e621273258d31ceb9ec4442fcf1a393" />
+		<rom name="bp947a.u29" size="524288" crc="cf0f3f3b" sha1="49a3c0e7536edd53bbf09353e43e9166d736b3f4" />
+		<rom name="bp947a.u37" size="2097152" crc="c3077c8f" sha1="0a76316a81b7de78279b859549eb5161a721ac71" />
+		<rom name="bp947a.u42" size="2097152" crc="2ce8ff2a" sha1="8ef8c5b7d4a0e60c980c2962e75f7977faafa311" />
+		<rom name="bp947a.u46" size="2097152" crc="0f9c906e" sha1="03872e8be28637df66373bddb04ed91de4f9db75" />
+		<rom name="bp947a.u47" size="2097152" crc="0de42827" sha1="05d452ca11a31f941cb8a9b0cbb0b59c6b0cbdcb" />
+		<rom name="bp947a.u48" size="2097152" crc="04ff6a3d" sha1="7187db436f7a2ab59a3f5c6ab297b3d740e20f1d" />
+		<rom name="bp947a.u49" size="2097152" crc="09749531" sha1="6deeed2712241611ec3202c49a66beed28698af8" />
+		<rom name="bp947a.u50" size="2097152" crc="19cea8b2" sha1="87fb29458074f0e4852237e0184b8b3b44b0eb29" />
+		<rom name="bp947a.u51" size="2097152" crc="c19bed67" sha1="ac664a15512c0e8c8b701833aede95f53cd46a45" />
+		<rom name="bp947a.u52" size="2097152" crc="70c64875" sha1="1c20ab100ccfdf42c97a25e4deb9041b83f5ca8d" />
+		<rom name="bp947a_n.u25" size="524288" crc="748cc514" sha1="11d882e77a539407c314f087386e50d691a6bc0b" />
+	</machine>
+	<machine name="paccarn" sourcefile="atlus/cave.cpp">
+		<description>Pac-Carnival</description>
+		<year>1996</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="pl1-cha0.u60" size="262144" crc="7977662e" sha1="5aaa69ffaa62b20196a7b638232716b7c6391490" />
+		<rom name="pl1-cha1.u61" size="262144" crc="2150eafa" sha1="e744a0861ee8a76c2bb24f681df38966df5dc9f0" />
+		<rom name="pl1-mpr0b.u41" size="524288" crc="ef6b08ea" sha1="61fe4db433a154233c4e1efd248ad51ba1d265d0" />
+		<rom name="pl1-obj0.u52" size="524288" crc="1dd7c292" sha1="e78d4be35c24616a1954910039e381869246a246" />
+		<rom name="pl1-obj1.u53" size="524288" crc="7b9935d0" sha1="ef05230689124d0999ba9e472968e04d6e75c405" />
+		<rom name="pl1-voi0.u27" size="262144" crc="e22b87e3" sha1="83a6952fb0f695bb74cc5a3a1e24a916b6de9c8e" />
+	</machine>
+	<machine name="paceight" sourcefile="atlus/cave.cpp">
+		<description>Pac-Eight</description>
+		<year>1996</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="n44u1c.u1" size="279" crc="903fc2d8" sha1="becbae356efde873225ef64af462d9702aac03f0" />
+		<rom name="n44u3c.u3" size="279" crc="72201412" sha1="6ad7d22e612e27343eac5c38f00d548df644d52c" />
+		<rom name="n44u51a.u51" size="279" crc="3c5e9bc5" sha1="b4e04c4fa91ff33542b73971f67e71d13e24c5ec" />
+		<rom name="pae1-cha0.u60" size="262144" crc="757263e3" sha1="668060e9e209752474f48362752a3f819ff82d72" />
+		<rom name="pae1-cha1.u61" size="262144" crc="0396d241" sha1="79382805fa4486d8dae792f9afc0f02aee1bbb33" />
+		<rom name="pae1-mpro.u41" size="524288" crc="bb026f97" sha1="70d48f05275c64b25f37f03206219ef3ee9c0ee2" />
+		<rom name="pae1-obj0.u52" size="524288" crc="2cd99155" sha1="146ed2b3f2763232a60e6b238a16067d3ccfa959" />
+		<rom name="pae1-obj1.u53" size="524288" crc="9ae2685b" sha1="5eed5f00d28d803358c8ffaf42c4979af23a0a8c" />
+		<rom name="pae1-vo10.u27" size="262144" crc="0be7b94f" sha1="4179e2ab2d2d1df0cc6cfd71e277ea114578f147" />
+	</machine>
+	<machine name="pacslot" sourcefile="atlus/cave.cpp">
+		<description>Pac-Slot</description>
+		<year>1996</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="n44u51a.u51" size="279" crc="3c5e9bc5" sha1="b4e04c4fa91ff33542b73971f67e71d13e24c5ec" />
+		<rom name="pa1-cha0.u60" size="262144" crc="314b51a6" sha1="eef102c4f0c0e0f668a7cf228cd4fbe45b2ce45f" />
+		<rom name="pa1-cha1.u61" size="262144" crc="f7a2c846" sha1="3b505a7a3c7f30e6cd87803f5ae7e962205fc1f0" />
+		<rom name="pa1-mprob.u41" size="524288" crc="56281370" sha1="b75a7c5997adac14486cef7be4e41d113c86021f" />
+		<rom name="pa1-obj0.u52" size="524288" crc="bf9232ce" sha1="9a887a964e9a75e16c59dcf217c664404e74cc2a" />
+		<rom name="pa1-obj1.u53" size="524288" crc="6eb76a04" sha1="66c8e36bee4439c203a02b30898e4f741205d681" />
+		<rom name="pa1-voi0.u27" size="262144" crc="e3e623e1" sha1="396accc7f7384277b700f019b5083def8a48ccd7" />
+	</machine>
+	<machine name="pinkswts" sourcefile="cave/cv1k.cpp">
+		<description>Pink Sweets: Ibara Sorekara (Japan, 2006/04/06 MASTER VER....)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="pinkswts_u2" size="138412032" crc="a2fa5363" sha1="5be327534840871592df523ac82ee1927bd79d67" />
+		<rom name="pinkswts_u4" size="2097152" crc="5d812c9e" sha1="db821ec3892fd150513749d64a8b60bf147f3275" />
+		<rom name="u23" size="4194304" crc="4b82d250" sha1="ee98dbc3f791efb6d58f3945bcb2044667ae7978" />
+		<rom name="u24" size="4194304" crc="e93f0627" sha1="6f5ec0ade87f7fc42a58a8f125557a4d1f3f187d" />
+	</machine>
+	<machine name="pinkswtsa" sourcefile="cave/cv1k.cpp">
+		<description>Pink Sweets: Ibara Sorekara (Japan, 2006/04/06 MASTER VER...)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="pnkswtsa_u2" size="138412032" crc="829a862e" sha1="8c0ee2a0eb33b68869252fd68aed74820a904287" />
+		<rom name="pnkswtsa_u4" size="2097152" crc="ee3339b2" sha1="995988d370731a7074b49ce8752525dadf06a954" />
+		<rom name="u23" size="4194304" crc="4b82d250" sha1="ee98dbc3f791efb6d58f3945bcb2044667ae7978" />
+		<rom name="u24" size="4194304" crc="e93f0627" sha1="6f5ec0ade87f7fc42a58a8f125557a4d1f3f187d" />
+	</machine>
+	<machine name="pinkswtsb" sourcefile="cave/cv1k.cpp">
+		<description>Pink Sweets: Ibara Sorekara (Japan, 2006/04/06 MASTER VER.)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="pnkswtsb_u4" size="2097152" crc="68bcc009" sha1="2fef544b93c61161a37365f868b431d8262e4b21" />
+		<rom name="pnkswtsx_u2" size="138412032" crc="91e4deb2" sha1="893cb10d6f805df7cb4a1bb709a3ea6de147b7e9" />
+		<rom name="u23" size="4194304" crc="4b82d250" sha1="ee98dbc3f791efb6d58f3945bcb2044667ae7978" />
+		<rom name="u24" size="4194304" crc="e93f0627" sha1="6f5ec0ade87f7fc42a58a8f125557a4d1f3f187d" />
+	</machine>
+	<machine name="pinkswtssc" sourcefile="cave/cv1k.cpp">
+		<description>Pink Sweets: Suicide Club (2017/10/31 SUICIDECLUB VER., bootleg)</description>
+		<year>2017</year>
+		<manufacturer>bootleg (Four Horsemen)</manufacturer>
+		<rom name="suicideclub.u2" size="138412032" crc="32324608" sha1="cec1416c943520cb3f91eb295e2ba864a0db7d45" />
+		<rom name="suicideclub.u4" size="2097152" crc="5e03662f" sha1="b974204b8dcd55fc1b7775f7c1806150919caff3" />
+		<rom name="u23" size="4194304" crc="4b82d250" sha1="ee98dbc3f791efb6d58f3945bcb2044667ae7978" />
+		<rom name="u24" size="4194304" crc="e93f0627" sha1="6f5ec0ade87f7fc42a58a8f125557a4d1f3f187d" />
+	</machine>
+	<machine name="pinkswtsx" sourcefile="cave/cv1k.cpp">
+		<description>Pink Sweets: Ibara Sorekara (Japan, 2006/xx/xx MASTER VER.)</description>
+		<year>2006</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="pnkswtsx_u2" size="138412032" crc="91e4deb2" sha1="893cb10d6f805df7cb4a1bb709a3ea6de147b7e9" />
+		<rom name="pnkswtsx_u4" size="2097152" crc="8fe05bf0" sha1="5cd45ac0e74690787c83d3fb383a65ed7cd47104" />
+		<rom name="u23" size="4194304" crc="4b82d250" sha1="ee98dbc3f791efb6d58f3945bcb2044667ae7978" />
+		<rom name="u24" size="4194304" crc="e93f0627" sha1="6f5ec0ade87f7fc42a58a8f125557a4d1f3f187d" />
+	</machine>
+	<machine name="plegends" sourcefile="atlus/cave.cpp">
+		<description>Gogetsuji Legends (US, Ver. 95.06.20)</description>
+		<year>1995</year>
+		<manufacturer>Atlus</manufacturer>
+		<rom name="atgs.u1" size="2097152" crc="aa6f34a9" sha1="00de85de1b413bd2c46931c13365f8556b50b634" />
+		<rom name="atgs.u2" size="2097152" crc="553eda27" sha1="5b9126f966f0c64b3ac7c06526064d71e4df60c5" />
+		<rom name="atgs.u78" size="2097152" crc="16710ecb" sha1="6277f7f6095457df649932550b04242e5853ec5e" />
+		<rom name="atgs.u81" size="2097152" crc="cb2aca91" sha1="869f0f2db35c45ec90b74d33d521cbb598e60a3f" />
+		<rom name="atgs.u89" size="2097152" crc="65f45a0f" sha1="b7f4b56308dcdc144100d0a92d91255459a320a4" />
+		<rom name="d12.u45" size="524288" crc="ed8a2e3d" sha1="0a09c58cd8a726189cd7679d06343e0b8c3de945" />
+		<rom name="d13.u44" size="524288" crc="25821731" sha1="7c6ece92b36dc7eb489879d9ae3e8af9380b9f62" />
+		<rom name="d14.u2" size="524288" crc="c2cb1402" sha1="78e70915ca32b97c22605a304dc8611e1fe01ae9" />
+		<rom name="d15.u4" size="524288" crc="6352cec0" sha1="a54d55b8d642e438158268d0d41880b6589e48e2" />
+		<rom name="d16.u3" size="524288" crc="50a1c63e" sha1="5a8431a81aa61034e67141944b9e7cf97842773a" />
+		<rom name="d17.u5" size="524288" crc="7af810d8" sha1="5e24f78a228809a001f3f3372c1b32ea05070e17" />
+		<rom name="d19.u3" size="262144" crc="47598459" sha1="4e9dcfebfbd160230768965e8c6e5ed446c1aa7b" />
+		<rom name="g02.u53" size="2097152" crc="c4bdd9e0" sha1="a938a831e789ddf6f3cc5f3e5f3877ec7bd62d4e" />
+		<rom name="g02.u54" size="2097152" crc="1357d50e" sha1="433766177ce9d6933f90de85ba91bfc6d8d5d664" />
+		<rom name="g02.u55" size="2097152" crc="2d102898" sha1="bd81f4cd2ba100707db0c5bb1419f0b23c998574" />
+		<rom name="g02.u56" size="2097152" crc="9ff50dda" sha1="1121685e387c20e228032f2b0f5cbb606376fc15" />
+		<rom name="g02.u61" size="2097152" crc="91e30398" sha1="2b59a5e40bed2a988382054fe30d92808dad3348" />
+		<rom name="g02.u62" size="2097152" crc="d9455dd7" sha1="afa69fe9a540cd78b8cfecf09cffa1401c01141a" />
+		<rom name="g02.u63" size="2097152" crc="4d20560b" sha1="ceaee8cf0b69cc366b95ddcb689a5594d79e5114" />
+		<rom name="g02.u64" size="2097152" crc="b17b9b6e" sha1="fc6213d8322cda4c7f653e2d7d6d314ce84c97b7" />
+		<rom name="g02.u65" size="2097152" crc="08541878" sha1="138cf077a49a26440a3da1bdc2c399a208359e57" />
+		<rom name="g02.u66" size="2097152" crc="becf2a36" sha1="f8b386d0292b1dc745b7253a3df51d1aa8d5e9db" />
+		<rom name="peel18cv8p-15.u7" size="341" crc="e02b2d2b" sha1="26293538ca17674e1b249ed82a6df2570c6e5155" />
+		<rom name="peel18cv8p-15.u21" size="341" crc="7ca78400" sha1="1cebdd64e08bbc535f23592daf9380696bd2c281" />
+		<rom name="peel18cv8p-15.u25" size="341" crc="61b414df" sha1="f12c5e62f83114f83108895ee58ceea31cdcb9fd" />
+		<rom name="text.u82" size="524288" crc="f57333ea" sha1="409d8005ffcf91943e4a743b2434ce425f5bdc36" />
+	</machine>
+	<machine name="plegendsj" sourcefile="atlus/cave.cpp">
+		<description>Gouketsuji Gaiden - Saikyou Densetsu (Japan, Ver. 95.06.20)</description>
+		<year>1995</year>
+		<manufacturer>Atlus</manufacturer>
+		<rom name="atgs.u1" size="2097152" crc="aa6f34a9" sha1="00de85de1b413bd2c46931c13365f8556b50b634" />
+		<rom name="atgs.u2" size="2097152" crc="553eda27" sha1="5b9126f966f0c64b3ac7c06526064d71e4df60c5" />
+		<rom name="atgs.u78" size="2097152" crc="16710ecb" sha1="6277f7f6095457df649932550b04242e5853ec5e" />
+		<rom name="atgs.u81" size="2097152" crc="cb2aca91" sha1="869f0f2db35c45ec90b74d33d521cbb598e60a3f" />
+		<rom name="atgs.u89" size="2097152" crc="65f45a0f" sha1="b7f4b56308dcdc144100d0a92d91255459a320a4" />
+		<rom name="d15.u4" size="524288" crc="6352cec0" sha1="a54d55b8d642e438158268d0d41880b6589e48e2" />
+		<rom name="d17.u5" size="524288" crc="7af810d8" sha1="5e24f78a228809a001f3f3372c1b32ea05070e17" />
+		<rom name="g02.u53" size="2097152" crc="c4bdd9e0" sha1="a938a831e789ddf6f3cc5f3e5f3877ec7bd62d4e" />
+		<rom name="g02.u54" size="2097152" crc="1357d50e" sha1="433766177ce9d6933f90de85ba91bfc6d8d5d664" />
+		<rom name="g02.u55" size="2097152" crc="2d102898" sha1="bd81f4cd2ba100707db0c5bb1419f0b23c998574" />
+		<rom name="g02.u56" size="2097152" crc="9ff50dda" sha1="1121685e387c20e228032f2b0f5cbb606376fc15" />
+		<rom name="g02.u61" size="2097152" crc="91e30398" sha1="2b59a5e40bed2a988382054fe30d92808dad3348" />
+		<rom name="g02.u62" size="2097152" crc="d9455dd7" sha1="afa69fe9a540cd78b8cfecf09cffa1401c01141a" />
+		<rom name="g02.u63" size="2097152" crc="4d20560b" sha1="ceaee8cf0b69cc366b95ddcb689a5594d79e5114" />
+		<rom name="g02.u64" size="2097152" crc="b17b9b6e" sha1="fc6213d8322cda4c7f653e2d7d6d314ce84c97b7" />
+		<rom name="g02.u65" size="2097152" crc="08541878" sha1="138cf077a49a26440a3da1bdc2c399a208359e57" />
+		<rom name="g02.u66" size="2097152" crc="becf2a36" sha1="f8b386d0292b1dc745b7253a3df51d1aa8d5e9db" />
+		<rom name="peel18cv8p-15.u7" size="341" crc="e02b2d2b" sha1="26293538ca17674e1b249ed82a6df2570c6e5155" />
+		<rom name="peel18cv8p-15.u21" size="341" crc="7ca78400" sha1="1cebdd64e08bbc535f23592daf9380696bd2c281" />
+		<rom name="peel18cv8p-15.u25" size="341" crc="61b414df" sha1="f12c5e62f83114f83108895ee58ceea31cdcb9fd" />
+		<rom name="pr12.u2" size="524288" crc="0e202559" sha1="217a8e47d5c679aff02ca43de1641230e4f78b01" />
+		<rom name="pr12.u3" size="524288" crc="54742f21" sha1="fae7bb7381478eb077f0409acd521f77417aa968" />
+		<rom name="prog.u44" size="524288" crc="db0ad756" sha1="9c1510491cdc9442062ee3bd8a1bb93f00d33d97" />
+		<rom name="prog.u45" size="524288" crc="94f53db2" sha1="34c671f160cfcb7d46cc964731ff2b77dc0be928" />
+		<rom name="sound.u3" size="131072" crc="36f71520" sha1="11d0a059ddba3e1aa4c54ccdde7b3f5c7bde482f" />
+		<rom name="text.u82" size="524288" crc="f57333ea" sha1="409d8005ffcf91943e4a743b2434ce425f5bdc36" />
+	</machine>
+	<machine name="ppsatan" sourcefile="atlus/cave.cpp">
+		<description>Poka Poka Satan (Japan)</description>
+		<year>1996</year>
+		<manufacturer>Kato Seisakujo Co., Ltd.</manufacturer>
+		<rom name="7a1f.u83" size="524288" crc="2ae77933" sha1="a5eb0915813efd538b0812a6bbd5239b4b203f4a" />
+		<rom name="43b1.u61" size="131072" crc="f14e6287" sha1="75c0465780a10ec8f533349b008f0d489bf362a5" />
+		<rom name="66a5.u79" size="131072" crc="60efeed3" sha1="72095cef77065a8f1089273050f60a2e99582cf1" />
+		<rom name="u90.u90" size="279" crc="dae5e82a" sha1="718ad537a917a0fdc3ef3c2307f04499a0029451" />
+		<rom name="u91.u91" size="279" crc="28382623" sha1="9fd4b4964f71807ae35a92bd5e81d6d1a5fdf469" />
+		<rom name="u92.u92" size="279" crc="40b16ace" sha1="1cdf39743713109e9510aeb6323df2bedfddbeb1" />
+		<rom name="u94.u94" size="279" crc="eefe343a" sha1="c7627d20711c3bf00f5d498d67ff43c8a0962a23" />
+		<rom name="u95.u95" size="279" crc="b1a78112" sha1="65a4da294c74ce4d36ceead8284b79be6cbb6379" />
+		<rom name="u111.u111" size="279" crc="7f93cbdd" sha1="7432b21c83249ab53d8f37e0c6fffd28f8de4ef3" />
+		<rom name="ver1.0.u13" size="524288" crc="24c31e01" sha1="c2c96bdd0a2a764ac0e1c8d64334d0ab76c46aa5" />
+		<rom name="ver1.0.u15" size="524288" crc="24c31e01" sha1="c2c96bdd0a2a764ac0e1c8d64334d0ab76c46aa5" />
+		<rom name="ver1.0.u17" size="524288" crc="c66730ca" sha1="75c18c80c1d2ced69edd4f013685c4eaf015049c" />
+		<rom name="ver1.0.u19" size="524288" crc="ffbc6284" sha1="05a735f3193218d32ad253c5abe21e1d00d1a5ca" />
+		<rom name="ver1.0.u23" size="524288" crc="ffbc6284" sha1="05a735f3193218d32ad253c5abe21e1d00d1a5ca" />
+		<rom name="ver1.0.u27" size="524288" crc="d1b02639" sha1="19bbcf951a6ace91da72af9232f3d808afa8416c" />
+		<rom name="ver1.0.u49" size="524288" crc="f21787b0" sha1="e29ffcf948ef55f8ee11949903e5a363e6c4fa44" />
+		<rom name="ver1.0.u53" size="524288" crc="f21787b0" sha1="e29ffcf948ef55f8ee11949903e5a363e6c4fa44" />
+		<rom name="ver1.0.u57" size="524288" crc="5faa697a" sha1="308ea0a4dee7510b3bdd1b3b3c0a86c6508df40b" />
+	</machine>
+	<machine name="pwrinst2" sourcefile="atlus/cave.cpp">
+		<description>Power Instinct 2 (US, Ver. 94.04.08, set 1)</description>
+		<year>1994</year>
+		<manufacturer>Atlus</manufacturer>
+		<rom name="g02.82a" size="524288" crc="4b3567d6" sha1="d3e14783b312d2bea9722a8e3c22bcec81e26166" />
+		<rom name="g02.u3a" size="131072" crc="ebea5e1e" sha1="4d3af9e5f29d0c1b26563f51250039c9e8bd3735" />
+		<rom name="g02.u42a" size="524288" crc="56279c1c" sha1="f86edc2264758f9dc920a162d2dc71cc1f63d22e" />
+		<rom name="g02.u43a" size="524288" crc="c4fd5d62" sha1="8d00adfe5da9b0d0134fc9921c12f20b80954c3b" />
+		<rom name="g02.u44a" size="524288" crc="5561f620" sha1="3241ccc47e909930d79ad0a1a1b11a11879b17be" />
+		<rom name="g02.u45a" size="524288" crc="ddfff811" sha1="720f577dc77fc12aeb67511251e995169df754b6" />
+		<rom name="g02.u53" size="2097152" crc="c4bdd9e0" sha1="a938a831e789ddf6f3cc5f3e5f3877ec7bd62d4e" />
+		<rom name="g02.u54" size="2097152" crc="1357d50e" sha1="433766177ce9d6933f90de85ba91bfc6d8d5d664" />
+		<rom name="g02.u55" size="2097152" crc="2d102898" sha1="bd81f4cd2ba100707db0c5bb1419f0b23c998574" />
+		<rom name="g02.u56" size="2097152" crc="9ff50dda" sha1="1121685e387c20e228032f2b0f5cbb606376fc15" />
+		<rom name="g02.u61" size="2097152" crc="91e30398" sha1="2b59a5e40bed2a988382054fe30d92808dad3348" />
+		<rom name="g02.u62" size="2097152" crc="d9455dd7" sha1="afa69fe9a540cd78b8cfecf09cffa1401c01141a" />
+		<rom name="g02.u63" size="2097152" crc="4d20560b" sha1="ceaee8cf0b69cc366b95ddcb689a5594d79e5114" />
+		<rom name="g02.u64" size="2097152" crc="b17b9b6e" sha1="fc6213d8322cda4c7f653e2d7d6d314ce84c97b7" />
+		<rom name="g02.u65" size="2097152" crc="08541878" sha1="138cf077a49a26440a3da1bdc2c399a208359e57" />
+		<rom name="g02.u66" size="2097152" crc="becf2a36" sha1="f8b386d0292b1dc745b7253a3df51d1aa8d5e9db" />
+		<rom name="g02.u67" size="2097152" crc="52fe2b8b" sha1="dd50aa62f7db995e28f47de9b3fb749aeeaaa5b0" />
+		<rom name="g02.u78" size="2097152" crc="1eca63d2" sha1="538942b43301f950e3d5139461331c54dc90129d" />
+		<rom name="g02.u81" size="1048576" crc="8a3ff685" sha1="4a59ec50ec4470453374fe10f76d3e894494b49f" />
+		<rom name="g02.u89" size="1048576" crc="373e1f73" sha1="ec1ae9fab37eee41be8e1bc6dad03809b62fdbce" />
+		<rom name="peel18cv8p-15.u7" size="341" crc="e02b2d2b" sha1="26293538ca17674e1b249ed82a6df2570c6e5155" />
+		<rom name="peel18cv8p-15.u21" size="341" crc="7ca78400" sha1="1cebdd64e08bbc535f23592daf9380696bd2c281" />
+		<rom name="peel18cv8p-15.u25" size="341" crc="61b414df" sha1="f12c5e62f83114f83108895ee58ceea31cdcb9fd" />
+	</machine>
+	<machine name="pwrinst2a" sourcefile="atlus/cave.cpp">
+		<description>Power Instinct 2 (US, Ver. 94.04.08, set 2)</description>
+		<year>1994</year>
+		<manufacturer>Atlus</manufacturer>
+		<rom name="g02.82a" size="524288" crc="4b3567d6" sha1="d3e14783b312d2bea9722a8e3c22bcec81e26166" />
+		<rom name="g02.u3a" size="131072" crc="ebea5e1e" sha1="4d3af9e5f29d0c1b26563f51250039c9e8bd3735" />
+		<rom name="g02.u42" size="524288" crc="a0b4ee99" sha1="c6df4aa2543b04d8bda7683f503e5eb763e506af" />
+		<rom name="g02.u43" size="524288" crc="178e3d24" sha1="926234f4196a5d5e3bd1438abbf73355f2c65b06" />
+		<rom name="g02.u44" size="524288" crc="8f6f6637" sha1="024b12c0fe40e27c79e38bd7601a9183a62d75fd" />
+		<rom name="g02.u45" size="524288" crc="7b33bc43" sha1="a68eb94e679f03c354932b8c5cd1bb2922fec0aa" />
+		<rom name="g02.u53" size="2097152" crc="c4bdd9e0" sha1="a938a831e789ddf6f3cc5f3e5f3877ec7bd62d4e" />
+		<rom name="g02.u54" size="2097152" crc="1357d50e" sha1="433766177ce9d6933f90de85ba91bfc6d8d5d664" />
+		<rom name="g02.u55" size="2097152" crc="2d102898" sha1="bd81f4cd2ba100707db0c5bb1419f0b23c998574" />
+		<rom name="g02.u56" size="2097152" crc="9ff50dda" sha1="1121685e387c20e228032f2b0f5cbb606376fc15" />
+		<rom name="g02.u61" size="2097152" crc="91e30398" sha1="2b59a5e40bed2a988382054fe30d92808dad3348" />
+		<rom name="g02.u62" size="2097152" crc="d9455dd7" sha1="afa69fe9a540cd78b8cfecf09cffa1401c01141a" />
+		<rom name="g02.u63" size="2097152" crc="4d20560b" sha1="ceaee8cf0b69cc366b95ddcb689a5594d79e5114" />
+		<rom name="g02.u64" size="2097152" crc="b17b9b6e" sha1="fc6213d8322cda4c7f653e2d7d6d314ce84c97b7" />
+		<rom name="g02.u65" size="2097152" crc="08541878" sha1="138cf077a49a26440a3da1bdc2c399a208359e57" />
+		<rom name="g02.u66" size="2097152" crc="becf2a36" sha1="f8b386d0292b1dc745b7253a3df51d1aa8d5e9db" />
+		<rom name="g02.u67" size="2097152" crc="52fe2b8b" sha1="dd50aa62f7db995e28f47de9b3fb749aeeaaa5b0" />
+		<rom name="g02.u78" size="2097152" crc="1eca63d2" sha1="538942b43301f950e3d5139461331c54dc90129d" />
+		<rom name="g02.u81" size="1048576" crc="8a3ff685" sha1="4a59ec50ec4470453374fe10f76d3e894494b49f" />
+		<rom name="g02.u89" size="1048576" crc="373e1f73" sha1="ec1ae9fab37eee41be8e1bc6dad03809b62fdbce" />
+		<rom name="peel18cv8p-15.u7" size="341" crc="e02b2d2b" sha1="26293538ca17674e1b249ed82a6df2570c6e5155" />
+		<rom name="peel18cv8p-15.u21" size="341" crc="7ca78400" sha1="1cebdd64e08bbc535f23592daf9380696bd2c281" />
+		<rom name="peel18cv8p-15.u25" size="341" crc="61b414df" sha1="f12c5e62f83114f83108895ee58ceea31cdcb9fd" />
+	</machine>
+	<machine name="pwrinst2j" sourcefile="atlus/cave.cpp">
+		<description>Gouketsuji Ichizoku 2 (Japan, Ver. 94.04.08, set 1)</description>
+		<year>1994</year>
+		<manufacturer>Atlus</manufacturer>
+		<rom name="g02.u53" size="2097152" crc="c4bdd9e0" sha1="a938a831e789ddf6f3cc5f3e5f3877ec7bd62d4e" />
+		<rom name="g02.u54" size="2097152" crc="1357d50e" sha1="433766177ce9d6933f90de85ba91bfc6d8d5d664" />
+		<rom name="g02.u55" size="2097152" crc="2d102898" sha1="bd81f4cd2ba100707db0c5bb1419f0b23c998574" />
+		<rom name="g02.u56" size="2097152" crc="9ff50dda" sha1="1121685e387c20e228032f2b0f5cbb606376fc15" />
+		<rom name="g02.u61" size="2097152" crc="91e30398" sha1="2b59a5e40bed2a988382054fe30d92808dad3348" />
+		<rom name="g02.u62" size="2097152" crc="d9455dd7" sha1="afa69fe9a540cd78b8cfecf09cffa1401c01141a" />
+		<rom name="g02.u63" size="2097152" crc="4d20560b" sha1="ceaee8cf0b69cc366b95ddcb689a5594d79e5114" />
+		<rom name="g02.u64" size="2097152" crc="b17b9b6e" sha1="fc6213d8322cda4c7f653e2d7d6d314ce84c97b7" />
+		<rom name="g02.u65" size="2097152" crc="08541878" sha1="138cf077a49a26440a3da1bdc2c399a208359e57" />
+		<rom name="g02.u66" size="2097152" crc="becf2a36" sha1="f8b386d0292b1dc745b7253a3df51d1aa8d5e9db" />
+		<rom name="g02.u67" size="2097152" crc="52fe2b8b" sha1="dd50aa62f7db995e28f47de9b3fb749aeeaaa5b0" />
+		<rom name="g02.u78" size="2097152" crc="1eca63d2" sha1="538942b43301f950e3d5139461331c54dc90129d" />
+		<rom name="g02.u81" size="1048576" crc="8a3ff685" sha1="4a59ec50ec4470453374fe10f76d3e894494b49f" />
+		<rom name="g02.u89" size="1048576" crc="373e1f73" sha1="ec1ae9fab37eee41be8e1bc6dad03809b62fdbce" />
+		<rom name="g02j.82a" size="524288" crc="3be86fe1" sha1="313bfe5fb8dc5fee4462db259738e079759f9390" />
+		<rom name="g02j.u3a" size="131072" crc="eead01f1" sha1="0ced6755e471e0303fe397b3d54a5c799762ebd8" />
+		<rom name="g02j.u42" size="524288" crc="4f4c8270" sha1="1fa964f5646bd1d078e3661c21e191b0789c05c9" />
+		<rom name="g02j.u43" size="524288" crc="c94c596b" sha1="ee755a344f769e3ed05d8ca57f517b9e8c02f22e" />
+		<rom name="g02j.u44" size="524288" crc="362b7af3" sha1="2d15611530cef76f0f9c82ee0411966079ae19c3" />
+		<rom name="g02j.u45" size="524288" crc="42d0abd7" sha1="c58861d43c4539ccc8b2f93eabc56aab37d3aa34" />
+		<rom name="peel18cv8p-15.u7" size="341" crc="e02b2d2b" sha1="26293538ca17674e1b249ed82a6df2570c6e5155" />
+		<rom name="peel18cv8p-15.u21" size="341" crc="7ca78400" sha1="1cebdd64e08bbc535f23592daf9380696bd2c281" />
+		<rom name="peel18cv8p-15.u25" size="341" crc="61b414df" sha1="f12c5e62f83114f83108895ee58ceea31cdcb9fd" />
+	</machine>
+	<machine name="pwrinst2ja" sourcefile="atlus/cave.cpp">
+		<description>Gouketsuji Ichizoku 2 (Japan, Ver. 94.04.08, set 2)</description>
+		<year>1994</year>
+		<manufacturer>Atlus</manufacturer>
+		<rom name="g02.u53" size="2097152" crc="c4bdd9e0" sha1="a938a831e789ddf6f3cc5f3e5f3877ec7bd62d4e" />
+		<rom name="g02.u54" size="2097152" crc="1357d50e" sha1="433766177ce9d6933f90de85ba91bfc6d8d5d664" />
+		<rom name="g02.u55" size="2097152" crc="2d102898" sha1="bd81f4cd2ba100707db0c5bb1419f0b23c998574" />
+		<rom name="g02.u56" size="2097152" crc="9ff50dda" sha1="1121685e387c20e228032f2b0f5cbb606376fc15" />
+		<rom name="g02.u61" size="2097152" crc="91e30398" sha1="2b59a5e40bed2a988382054fe30d92808dad3348" />
+		<rom name="g02.u62" size="2097152" crc="d9455dd7" sha1="afa69fe9a540cd78b8cfecf09cffa1401c01141a" />
+		<rom name="g02.u63" size="2097152" crc="4d20560b" sha1="ceaee8cf0b69cc366b95ddcb689a5594d79e5114" />
+		<rom name="g02.u64" size="2097152" crc="b17b9b6e" sha1="fc6213d8322cda4c7f653e2d7d6d314ce84c97b7" />
+		<rom name="g02.u65" size="2097152" crc="08541878" sha1="138cf077a49a26440a3da1bdc2c399a208359e57" />
+		<rom name="g02.u66" size="2097152" crc="becf2a36" sha1="f8b386d0292b1dc745b7253a3df51d1aa8d5e9db" />
+		<rom name="g02.u67" size="2097152" crc="52fe2b8b" sha1="dd50aa62f7db995e28f47de9b3fb749aeeaaa5b0" />
+		<rom name="g02.u78" size="2097152" crc="1eca63d2" sha1="538942b43301f950e3d5139461331c54dc90129d" />
+		<rom name="g02.u81" size="1048576" crc="8a3ff685" sha1="4a59ec50ec4470453374fe10f76d3e894494b49f" />
+		<rom name="g02.u89" size="1048576" crc="373e1f73" sha1="ec1ae9fab37eee41be8e1bc6dad03809b62fdbce" />
+		<rom name="g02_u3-j.u3" size="131072" crc="eead01f1" sha1="0ced6755e471e0303fe397b3d54a5c799762ebd8" />
+		<rom name="g02_u42-j.u42" size="524288" crc="4f4c8270" sha1="1fa964f5646bd1d078e3661c21e191b0789c05c9" />
+		<rom name="g02_u43-j.u43" size="524288" crc="c94c596b" sha1="ee755a344f769e3ed05d8ca57f517b9e8c02f22e" />
+		<rom name="g02_u44-j.u44" size="524288" crc="42b35ec5" sha1="ba923e838e4bcd2271f178be7f9c7068103d6d03" />
+		<rom name="g02_u45-j.u45" size="524288" crc="0dc8a37b" sha1="241b171517f437620fd6144b91e0a9305a7ae46a" />
+		<rom name="g02_u82-j.u82" size="524288" crc="3be86fe1" sha1="313bfe5fb8dc5fee4462db259738e079759f9390" />
+		<rom name="peel18cv8p-15.u7" size="341" crc="e02b2d2b" sha1="26293538ca17674e1b249ed82a6df2570c6e5155" />
+		<rom name="peel18cv8p-15.u21" size="341" crc="7ca78400" sha1="1cebdd64e08bbc535f23592daf9380696bd2c281" />
+		<rom name="peel18cv8p-15.u25" size="341" crc="61b414df" sha1="f12c5e62f83114f83108895ee58ceea31cdcb9fd" />
+	</machine>
+	<machine name="sailormn" sourcefile="atlus/cave.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/22B, Japan)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm945a.u45" size="524288" crc="898c9515" sha1="0fe8d7f13f5cfe2f6e79a0a21b2e8e7e70e65c4b" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_japan.nv" size="128" crc="ea03c30a" sha1="2afc71f932674e34fc4491db0e2027e0371569fc" />
+	</machine>
+	<machine name="sailormne" sourcefile="atlus/cave.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/22B, Europe)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm945a.u45" size="524288" crc="898c9515" sha1="0fe8d7f13f5cfe2f6e79a0a21b2e8e7e70e65c4b" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" sha1="6b116bdfbde42192b01678cb0b9bab0f2e56fd28" />
+	</machine>
+	<machine name="sailormnh" sourcefile="atlus/cave.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/22B, Hong Kong)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm945a.u45" size="524288" crc="898c9515" sha1="0fe8d7f13f5cfe2f6e79a0a21b2e8e7e70e65c4b" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" sha1="93b87ef18cff98e4f6a60234692e7a9a9c8e7552" />
+	</machine>
+	<machine name="sailormnk" sourcefile="atlus/cave.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/22B, Korea)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm945a.u45" size="524288" crc="898c9515" sha1="0fe8d7f13f5cfe2f6e79a0a21b2e8e7e70e65c4b" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" sha1="b495bf43d8596a0dc9843c74fc04fd21499bd115" />
+	</machine>
+	<machine name="sailormnne" sourcefile="atlus/cave.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/22, Europe)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" sha1="6b116bdfbde42192b01678cb0b9bab0f2e56fd28" />
+		<rom name="smprg.u45" size="524288" crc="234f1152" sha1="8fc6d4a8995d550862d328011d3357c09334f0fa" />
+	</machine>
+	<machine name="sailormnnh" sourcefile="atlus/cave.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/22, Hong Kong)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" sha1="93b87ef18cff98e4f6a60234692e7a9a9c8e7552" />
+		<rom name="smprg.u45" size="524288" crc="234f1152" sha1="8fc6d4a8995d550862d328011d3357c09334f0fa" />
+	</machine>
+	<machine name="sailormnnj" sourcefile="atlus/cave.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/22, Japan)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_japan.nv" size="128" crc="ea03c30a" sha1="2afc71f932674e34fc4491db0e2027e0371569fc" />
+		<rom name="smprg.u45" size="524288" crc="234f1152" sha1="8fc6d4a8995d550862d328011d3357c09334f0fa" />
+	</machine>
+	<machine name="sailormnnk" sourcefile="atlus/cave.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/22, Korea)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" sha1="b495bf43d8596a0dc9843c74fc04fd21499bd115" />
+		<rom name="smprg.u45" size="524288" crc="234f1152" sha1="8fc6d4a8995d550862d328011d3357c09334f0fa" />
+	</machine>
+	<machine name="sailormnnt" sourcefile="atlus/cave.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/22, Taiwan)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" sha1="68ef4e6593e4c12e6488a20dcc6dda920b01de67" />
+		<rom name="smprg.u45" size="524288" crc="234f1152" sha1="8fc6d4a8995d550862d328011d3357c09334f0fa" />
+	</machine>
+	<machine name="sailormnnu" sourcefile="atlus/cave.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/22, USA)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" sha1="1b8d3b8c65cf2298939c27607ec52630c017c7ea" />
+		<rom name="smprg.u45" size="524288" crc="234f1152" sha1="8fc6d4a8995d550862d328011d3357c09334f0fa" />
+	</machine>
+	<machine name="sailormnoe" sourcefile="atlus/cave.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/21, Europe)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_europe.nv" size="128" crc="59a7dc50" sha1="6b116bdfbde42192b01678cb0b9bab0f2e56fd28" />
+		<rom name="smprg.u45" size="524288" crc="97837ab4" sha1="bf5a8cf3fbb942c2bb74c3b93312d9018ae6e2fd" />
+	</machine>
+	<machine name="sailormnoh" sourcefile="atlus/cave.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/21, Hong Kong)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_hongkong.nv" size="128" crc="4d24c874" sha1="93b87ef18cff98e4f6a60234692e7a9a9c8e7552" />
+		<rom name="smprg.u45" size="524288" crc="97837ab4" sha1="bf5a8cf3fbb942c2bb74c3b93312d9018ae6e2fd" />
+	</machine>
+	<machine name="sailormnoj" sourcefile="atlus/cave.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/21, Japan)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_japan.nv" size="128" crc="ea03c30a" sha1="2afc71f932674e34fc4491db0e2027e0371569fc" />
+		<rom name="smprg.u45" size="524288" crc="97837ab4" sha1="bf5a8cf3fbb942c2bb74c3b93312d9018ae6e2fd" />
+	</machine>
+	<machine name="sailormnok" sourcefile="atlus/cave.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/21, Korea)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_korea.nv" size="128" crc="0e7de398" sha1="b495bf43d8596a0dc9843c74fc04fd21499bd115" />
+		<rom name="smprg.u45" size="524288" crc="97837ab4" sha1="bf5a8cf3fbb942c2bb74c3b93312d9018ae6e2fd" />
+	</machine>
+	<machine name="sailormnot" sourcefile="atlus/cave.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/21, Taiwan)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" sha1="68ef4e6593e4c12e6488a20dcc6dda920b01de67" />
+		<rom name="smprg.u45" size="524288" crc="97837ab4" sha1="bf5a8cf3fbb942c2bb74c3b93312d9018ae6e2fd" />
+	</machine>
+	<machine name="sailormnou" sourcefile="atlus/cave.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/21, USA)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" sha1="1b8d3b8c65cf2298939c27607ec52630c017c7ea" />
+		<rom name="smprg.u45" size="524288" crc="97837ab4" sha1="bf5a8cf3fbb942c2bb74c3b93312d9018ae6e2fd" />
+	</machine>
+	<machine name="sailormnt" sourcefile="atlus/cave.cpp">
+		<description>Bishoujo Senshi Sailor Moon (Version 95/03/22B, Taiwan)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm945a.u45" size="524288" crc="898c9515" sha1="0fe8d7f13f5cfe2f6e79a0a21b2e8e7e70e65c4b" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_taiwan.nv" size="128" crc="6c7e8c2a" sha1="68ef4e6593e4c12e6488a20dcc6dda920b01de67" />
+	</machine>
+	<machine name="sailormnu" sourcefile="atlus/cave.cpp">
+		<description>Pretty Soldier Sailor Moon (Version 95/03/22B, USA)</description>
+		<year>1995</year>
+		<manufacturer>Gazelle (Banpresto license)</manufacturer>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14" />
+		<rom name="bpsm945a.u45" size="524288" crc="898c9515" sha1="0fe8d7f13f5cfe2f6e79a0a21b2e8e7e70e65c4b" />
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb" />
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c" />
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51" />
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229" />
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b" />
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d" />
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd" />
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4" />
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a" />
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239" />
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073" />
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f" />
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e" />
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b" />
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212" />
+		<rom name="sailormn_usa.nv" size="128" crc="3915abe3" sha1="1b8d3b8c65cf2298939c27607ec52630c017c7ea" />
+	</machine>
+	<machine name="tekkenbs" sourcefile="atlus/cave.cpp">
+		<description>Tekken Battle Scratch</description>
+		<year>1998</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="tbs1_cha-0a.u60" size="524288" crc="73e5c069" sha1="5e4e8a0bc1fdf57e4cdf7075704dc0b60d9629e3" />
+		<rom name="tbs1_cha-1a.u61" size="524288" crc="f41d3f2f" sha1="d44f1506110fe9b7ef74ca05874146526ddaf020" />
+		<rom name="tbs1_mpr-0a.u41" size="524288" crc="625487d3" sha1="6bdc0f0f9877eeb1041f8f5b0d44e41b83ddcc76" />
+		<rom name="tbs1_obj-0a.u52" size="524288" crc="a870481b" sha1="644370e10b197832ee828b22e43f114d40740432" />
+		<rom name="tbs1_obj-1a.u53" size="524288" crc="73d8f520" sha1="70ab5abeeaf0b3f5a263a7ece21d000a27148994" />
+		<rom name="tbs1_voi-0a.u27" size="262144" crc="bdccb92e" sha1="7efcce4028fe492891e6f47b266d68a22dbe4c63" />
+	</machine>
+	<machine name="tekkencw" sourcefile="atlus/cave.cpp">
+		<description>Tekken Card World</description>
+		<year>1997</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="cha0.u60" size="262144" crc="2a245ade" sha1="7217017975c88c3edea613152ee6f2158f8777d7" />
+		<rom name="cha1.u61" size="262144" crc="43f62cce" sha1="aa12ed0ccb94115ff8f9acf17850e1186c68bcf9" />
+		<rom name="mpr0.u41" size="524288" crc="5b8919f3" sha1="580298b6dc36527ab69889c848acab97726a6cc6" />
+		<rom name="obj0.u52" size="524288" crc="6d3c0c76" sha1="92f9c9beae222a2c2a3242f812030e08036c9963" />
+		<rom name="obj1.u53" size="524288" crc="8069b731" sha1="9f0409c28466503092b74f635602962d9f127de8" />
+		<rom name="voi0.u27" size="262144" crc="3bcd9b7d" sha1="7ecb47127733187f385a75b9db655e35c249de18" />
+	</machine>
+	<machine name="theroes" sourcefile="atlus/cave.cpp">
+		<description>Thunder Heroes (set 1)</description>
+		<year>2001</year>
+		<manufacturer>Primetek Investments</manufacturer>
+		<rom name="crvsaders-snd1.u0447" size="4194304" crc="92770a52" sha1="81f6835e1b45eb0f367e4586fdda92466f02edb9" />
+		<rom name="crvsaders-snd2.u0454" size="4194304" crc="329ae1cf" sha1="0c5e5074a5d8f4fb85ab4893bc953f192dcb301a" />
+		<rom name="t-hero-bg1.u0999" size="4194304" crc="47b0fb40" sha1="a7217b3d805b4255c589821cdadd9b190cada525" />
+		<rom name="t-hero-bg2.u0995" size="4194304" crc="b16237a1" sha1="66aed2c5036492a17d20de90333e172a6f117851" />
+		<rom name="t-hero-bg3.u0998" size="4194304" crc="08eb5604" sha1="3d32966708c73198272c40e6ddc680bf4c7919eb" />
+		<rom name="t-hero-epm0.u0129" size="524288" crc="2d4e3310" sha1="7c3284a2adc7943db50933a209d037422f87f80b" />
+		<rom name="t-hero-epm1.u0127" size="524288" crc="09db7195" sha1="6aa5aa80e3b74e405ed8f1b9b801ce4367756986" />
+		<rom name="t-hero-obj1.u0736" size="4194304" crc="35090f7c" sha1="035e6c12a87d9c7241eea34fc7e2170bec842acc" />
+		<rom name="t-hero-obj2.u0738" size="4194304" crc="71605108" sha1="6070c26d8f22fafc81d97cacfef96ae652e355d0" />
+		<rom name="t-hero-snd3.u0455" size="4194304" crc="52b0b2c0" sha1="6e96698905391c21a4fedd60e2768734b58add4e" />
+	</machine>
+	<machine name="theroesa" sourcefile="atlus/cave.cpp">
+		<description>Thunder Heroes (set 2)</description>
+		<year>2001</year>
+		<manufacturer>Primetek Investments</manufacturer>
+		<rom name="crvsaders-snd1.u0447" size="4194304" crc="92770a52" sha1="81f6835e1b45eb0f367e4586fdda92466f02edb9" />
+		<rom name="crvsaders-snd2.u0454" size="4194304" crc="329ae1cf" sha1="0c5e5074a5d8f4fb85ab4893bc953f192dcb301a" />
+		<rom name="t-hero-bg1.u0999" size="4194304" crc="47b0fb40" sha1="a7217b3d805b4255c589821cdadd9b190cada525" />
+		<rom name="t-hero-bg2.u0995" size="4194304" crc="b16237a1" sha1="66aed2c5036492a17d20de90333e172a6f117851" />
+		<rom name="t-hero-bg3.u0998" size="4194304" crc="08eb5604" sha1="3d32966708c73198272c40e6ddc680bf4c7919eb" />
+		<rom name="t-hero-obj1.u0736" size="4194304" crc="35090f7c" sha1="035e6c12a87d9c7241eea34fc7e2170bec842acc" />
+		<rom name="t-hero-obj2.u0738" size="4194304" crc="71605108" sha1="6070c26d8f22fafc81d97cacfef96ae652e355d0" />
+		<rom name="t-hero-snd3.u0455" size="4194304" crc="52b0b2c0" sha1="6e96698905391c21a4fedd60e2768734b58add4e" />
+		<rom name="u0127" size="524288" crc="a2c599a7" sha1="6f78e4171dbe587e997b1453ab7cb933a23e671f" />
+		<rom name="u0129" size="524288" crc="f205a715" sha1="baa94f5d6a5e3505ffab35c312686f1dc5ac15ef" />
+	</machine>
+	<machine name="tjumpman" sourcefile="atlus/cave.cpp">
+		<description>Tobikose! Jumpman</description>
+		<year>1999</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="n44u1g.u1" size="279" crc="e226ec18" sha1="c14098e06413d6fc88926e31538d496ef7314903" />
+		<rom name="n44u3b.u3" size="279" crc="4cd79750" sha1="cfb3331cd8bb2eaaf5d2a80ae76a5a15ae92d379" />
+		<rom name="tj1_cha-0a.u60" size="262144" crc="8aa08a38" sha1="92b4df72fb8a833bb686ea478811243c5b868470" />
+		<rom name="tj1_cha-1a.u61" size="262144" crc="50072c82" sha1="f8823e5a865afb8824cafd3b6483e2b6250ee77f" />
+		<rom name="tj1_mpr-0c.u41" size="524288" crc="de3030b8" sha1="5f2165ea039c34cab605ebddc0b61eadc47b1532" />
+		<rom name="tj1_obj-0a.u52" size="524288" crc="b42cf8e8" sha1="9ed7fb3574ed163a81f34a0d8cfa7a4661439932" />
+		<rom name="tj1_obj-1a.u53" size="524288" crc="5f0124d7" sha1="4d9cfa464159998c176a178c668273d128dedff8" />
+		<rom name="tj1_voi-0a.u27" size="262144" crc="b5693aae" sha1="8887ae98030cb5d184e3d57d2b4e48bf1e76a232" />
+	</machine>
+	<machine name="uopoko" sourcefile="atlus/cave.cpp">
+		<description>Puzzle Uo Poko (World)</description>
+		<year>1998</year>
+		<manufacturer>Cave (Jaleco license)</manufacturer>
+		<rom name="cave_cv-02_u4.u4" size="2097152" crc="a2d0d755" sha1="f8493ef7f367f3dc2a229ba785ac67bc5c2c54c0" />
+		<rom name="cave_cv-02_u33.u33" size="4194304" crc="5d142ad2" sha1="f26abcf7a625a322b83df44fbd6e852bfb03663c" />
+		<rom name="cave_cv-02_u49.u49" size="4194304" crc="12fb11bb" sha1="953df1b16b5c9a6c3eb2fdebec4669a879270e73" />
+		<rom name="eeprom-uopoko.bin" size="128" crc="f4a24b95" sha1="4043f0ffed24e38b4f7dbe1a5a4a9e79bdde7dfd" />
+		<rom name="u25.u25" size="524288" crc="a1258482" sha1="7f4adc4a6d069032aaf3d93eb60fde16b59483f8" />
+		<rom name="u26.u26" size="524288" crc="b445c9ac" sha1="4dda1c6e19de629ea4d9061560c32a9f0deabd53" />
+	</machine>
+	<machine name="uopokoj" sourcefile="atlus/cave.cpp">
+		<description>Puzzle Uo Poko (Japan)</description>
+		<year>1998</year>
+		<manufacturer>Cave (Jaleco license)</manufacturer>
+		<rom name="cave_cv-02_u4.u4" size="2097152" crc="a2d0d755" sha1="f8493ef7f367f3dc2a229ba785ac67bc5c2c54c0" />
+		<rom name="cave_cv-02_u33.u33" size="4194304" crc="5d142ad2" sha1="f26abcf7a625a322b83df44fbd6e852bfb03663c" />
+		<rom name="cave_cv-02_u49.u49" size="4194304" crc="12fb11bb" sha1="953df1b16b5c9a6c3eb2fdebec4669a879270e73" />
+		<rom name="eeprom-uopoko.bin" size="128" crc="f4a24b95" sha1="4043f0ffed24e38b4f7dbe1a5a4a9e79bdde7dfd" />
+		<rom name="u25j.u25" size="524288" crc="68cb6211" sha1="a6db0bc2e3e54b6992a44b7d52395917e66db49b" />
+		<rom name="u26j.u26" size="524288" crc="e7eec050" sha1="cf3a77741029f96dbbec5ca7217a1723e4233cff" />
+	</machine>
+</datafile>
