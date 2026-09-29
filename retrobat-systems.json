@@ -94,7 +94,22 @@
   {
     "SystemCode": "cave",
     "FullName": "CAVE",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "FBNeo (by board)",
+        "Name": "FBNeo - CAVE",
+        "Version": "1.0.0.03",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/fbneo-subsets/FBNeo - CAVE.dat",
+        "File": "FBNeo - CAVE.dat"
+      },
+      {
+        "Source": "MAME (by board)",
+        "Name": "MAME - CAVE",
+        "Version": "2026-07-21",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/mame-subsets/MAME - CAVE.xml",
+        "File": "MAME - CAVE.xml"
+      }
+    ]
   },
   {
     "SystemCode": "daphne",
@@ -144,17 +159,62 @@
   {
     "SystemCode": "cps1",
     "FullName": "CPS-I",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "FBNeo (by board)",
+        "Name": "FBNeo - CPS-1",
+        "Version": "1.0.0.03",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/fbneo-subsets/FBNeo - CPS-1.dat",
+        "File": "FBNeo - CPS-1.dat"
+      },
+      {
+        "Source": "MAME (by board)",
+        "Name": "MAME - CPS-1",
+        "Version": "2026-07-21",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/mame-subsets/MAME - CPS-1.xml",
+        "File": "MAME - CPS-1.xml"
+      }
+    ]
   },
   {
     "SystemCode": "cps2",
     "FullName": "CPS-II",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "FBNeo (by board)",
+        "Name": "FBNeo - CPS-2",
+        "Version": "1.0.0.03",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/fbneo-subsets/FBNeo - CPS-2.dat",
+        "File": "FBNeo - CPS-2.dat"
+      },
+      {
+        "Source": "MAME (by board)",
+        "Name": "MAME - CPS-2",
+        "Version": "2026-07-21",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/mame-subsets/MAME - CPS-2.xml",
+        "File": "MAME - CPS-2.xml"
+      }
+    ]
   },
   {
     "SystemCode": "cps3",
     "FullName": "CPS-III",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "FBNeo (by board)",
+        "Name": "FBNeo - CPS-3",
+        "Version": "1.0.0.03",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/fbneo-subsets/FBNeo - CPS-3.dat",
+        "File": "FBNeo - CPS-3.dat"
+      },
+      {
+        "Source": "MAME (by board)",
+        "Name": "MAME - CPS-3",
+        "Version": "2026-07-21",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/mame-subsets/MAME - CPS-3.xml",
+        "File": "MAME - CPS-3.xml"
+      }
+    ]
   },
   {
     "SystemCode": "dice",
@@ -254,12 +314,28 @@
   {
     "SystemCode": "model2",
     "FullName": "Model 2",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "MAME (by board)",
+        "Name": "MAME - Model 2",
+        "Version": "2026-07-21",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/mame-subsets/MAME - Model 2.xml",
+        "File": "MAME - Model 2.xml"
+      }
+    ]
   },
   {
     "SystemCode": "model3",
     "FullName": "Model 3",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "MAME (by board)",
+        "Name": "MAME - Model 3",
+        "Version": "2026-07-21",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/mame-subsets/MAME - Model 3.xml",
+        "File": "MAME - Model 3.xml"
+      }
+    ]
   },
   {
     "SystemCode": "atomiswave",
@@ -338,12 +414,28 @@
   {
     "SystemCode": "hikaru",
     "FullName": "Hikaru",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "MAME (by board)",
+        "Name": "MAME - Hikaru",
+        "Version": "2026-07-21",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/mame-subsets/MAME - Hikaru.xml",
+        "File": "MAME - Hikaru.xml"
+      }
+    ]
   },
   {
     "SystemCode": "gaelco",
     "FullName": "Gaelco PowerVR",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "MAME (by board)",
+        "Name": "MAME - Gaelco PowerVR",
+        "Version": "2026-07-21",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/mame-subsets/MAME - Gaelco PowerVR.xml",
+        "File": "MAME - Gaelco PowerVR.xml"
+      }
+    ]
   },
   {
     "SystemCode": "chihiro",
@@ -7859,7 +7951,15 @@
   {
     "SystemCode": "zinc",
     "FullName": "Zinc",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "MAME (by board)",
+        "Name": "MAME - ZN (Zinc)",
+        "Version": "2026-07-21",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/mame-subsets/MAME - ZN (Zinc).xml",
+        "File": "MAME - ZN (Zinc).xml"
+      }
+    ]
   },
   {
     "SystemCode": "namco2x6",
