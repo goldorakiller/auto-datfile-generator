@@ -5,7 +5,7 @@
 	<header>
 		<name>HBMAME Rollback CHDs</name>
 		<description>HBMAME Rollback CHDs</description>
-		<version>0.289.2</version>
+		<version>0.289.3</version>
 		<category>dir2dat</category>
 		<author>Pleasuredome</author>
 		<clrmamepro forcepacking="unzip"/>
@@ -33,5 +33,9 @@
 	<machine name="HBMAME (v0.208) - sfiii3">
 		<description>HBMAME (v0.208) - sfiii3</description>
 		<rom name="cap-33s-2.chd" size="81458749" crc="f958c3d5" sha1="957eda3242f9940754662b48b4ffcb86125fa486"/>
+	</machine>
+	<machine name="HBMAME (v0.289.2) - cd_ssrpg">
+		<description>HBMAME (v0.289.2) - cd_ssrpg</description>
+		<rom name="828.chd" size="288657363" crc="cede01a6" sha1="e8b2733f7355ae70ec038cd705bdbdbd0226bd9d"/>
 	</machine>
 </datafile>

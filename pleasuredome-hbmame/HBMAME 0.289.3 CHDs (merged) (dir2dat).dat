@@ -3,16 +3,11 @@
 
 <datafile>
 	<header>
-		<name>HBMAME 0.289.2 CHDs (merged)</name>
-		<description>HBMAME 0.289.2 CHDs (merged)</description>
+		<name>HBMAME 0.289.3 CHDs (merged)</name>
+		<description>HBMAME 0.289.3 CHDs (merged)</description>
 		<category>Standard DatFile</category>
-		<version>-insert version-</version>
-		<date>-insert date-</date>
+		<version>0.289.3</version>
 		<author>Pleasuredome</author>
-		<email>-insert email-</email>
-		<homepage>-insert homepage-</homepage>
-		<url>-insert url-</url>
-		<comment>-insert comment-</comment>
 		<clrmamepro forcepacking="unzip"/>
 	</header>
 	<machine name="cd_alice">
@@ -89,7 +84,7 @@
 	</machine>
 	<machine name="cd_ssrpg">
 		<description>cd_ssrpg</description>
-		<rom name="828.chd" size="288657363" crc="cede01a6" sha1="e8b2733f7355ae70ec038cd705bdbdbd0226bd9d"/>
+		<rom name="828_v11.chd" size="302756030" crc="274128df" sha1="59d33b3db0bbdef614c05fd61065c4a64dbea176"/>
 	</machine>
 	<machine name="cd_subspecies">
 		<description>cd_subspecies</description>

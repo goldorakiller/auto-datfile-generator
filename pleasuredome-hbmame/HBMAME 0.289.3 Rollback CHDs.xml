@@ -5,7 +5,7 @@
 	<header>
 		<name>HBMAME Rollback CHDs</name>
 		<description>HBMAME Rollback CHDs</description>
-		<version>0.289.2</version>
+		<version>0.289.3</version>
 		<author>Pleasuredome</author>
 	</header>
 	<machine name="HBMAME (v0.208) - jojo">
@@ -31,5 +31,9 @@
 	<machine name="HBMAME (v0.208) - sfiii">
 		<description>HBMAME (v0.208) - sfiii</description>
 		<disk name="cap-sf3-3" sha1="606e62cc5f46275e366e7dbb412dbaeb7e54cd0c" status="baddump"/>
+	</machine>
+	<machine name="HBMAME (v0.289.2) - cd_ssrpg">
+		<description>HBMAME (v0.289.2) - cd_ssrpg</description>
+		<disk name="828" sha1="2bc6a30d305c52e9189efe9840d34370ed260300" region="cdrom" />
 	</machine>
 </datafile>
