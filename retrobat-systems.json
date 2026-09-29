@@ -6934,7 +6934,15 @@
   {
     "SystemCode": "gba2players",
     "FullName": "Game Boy Advance 2 Players",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "No-Intro",
+        "Name": "Nintendo - Game Boy Advance (Parent-Clone)",
+        "Version": "20260919-175115",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Nintendo - Game Boy Advance (Parent-Clone) (20260919-175115).dat",
+        "File": "Nintendo - Game Boy Advance (Parent-Clone) (20260919-175115).dat"
+      }
+    ]
   },
   {
     "SystemCode": "karaoke",
@@ -7725,7 +7733,15 @@
   {
     "SystemCode": "ecwolf",
     "FullName": "ECWolf",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "Wolfenstein 3D",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Wolfenstein 3D.dat",
+        "File": "Wolfenstein 3D.dat"
+      }
+    ]
   },
   {
     "SystemCode": "gemrb",
@@ -7748,7 +7764,15 @@
   {
     "SystemCode": "gzdoom",
     "FullName": "GZDoom",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "DOOM",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/DOOM.dat",
+        "File": "DOOM.dat"
+      }
+    ]
   },
   {
     "SystemCode": "raze",
@@ -9548,25 +9572,11 @@
         "File": "Epoch Super Cassette Vision - Games (TOSEC-v2022-06-08_CM).dat"
       },
       {
-        "Source": "Pleasuredome MAME",
-        "Name": "cassvisn_cart",
-        "Version": "2026-07-21",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/cassvisn_cart.xml",
-        "File": "cassvisn_cart.xml"
-      },
-      {
         "Source": "Libretro-database (No-Intro)",
         "Name": "Epoch - Super Cassette Vision",
         "Version": "",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-metadat/no-intro/Epoch - Super Cassette Vision.dat",
         "File": "Epoch - Super Cassette Vision.dat"
-      },
-      {
-        "Source": "Libretro-database (TOSEC)",
-        "Name": "Epoch - Cassette Vision",
-        "Version": "",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-metadat/tosec/Epoch - Cassette Vision.dat",
-        "File": "Epoch - Cassette Vision.dat"
       },
       {
         "Source": "No-Intro",
@@ -10658,7 +10668,15 @@
   {
     "SystemCode": "sgb",
     "FullName": "Super Game Boy",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "No-Intro",
+        "Name": "Nintendo - Game Boy (Parent-Clone)",
+        "Version": "20260928-024853",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Nintendo - Game Boy (Parent-Clone) (20260928-024853).dat",
+        "File": "Nintendo - Game Boy (Parent-Clone) (20260928-024853).dat"
+      }
+    ]
   },
   {
     "SystemCode": "neogeo64",
@@ -10897,5 +10915,289 @@
     "SystemCode": "windowsgames",
     "FullName": "Windows (Group)",
     "Candidates": []
+  },
+  {
+    "SystemCode": "c16",
+    "FullName": "Commodore 16",
+    "Candidates": [
+      {
+        "Source": "TOSEC",
+        "Name": "Commodore C16, C116 & Plus-4 - Games - [PRG]",
+        "Version": "2025-01-15",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Commodore C16, C116 & Plus-4 - Games - [PRG] (TOSEC-v2025-01-15_CM).dat",
+        "File": "Commodore C16, C116 & Plus-4 - Games - [PRG] (TOSEC-v2025-01-15_CM).dat"
+      },
+      {
+        "Source": "TOSEC",
+        "Name": "Commodore C16, C116 & Plus-4 - Games - [TAP]",
+        "Version": "2014-02-01",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Commodore C16, C116 & Plus-4 - Games - [TAP] (TOSEC-v2014-02-01_CM).dat",
+        "File": "Commodore C16, C116 & Plus-4 - Games - [TAP] (TOSEC-v2014-02-01_CM).dat"
+      },
+      {
+        "Source": "TOSEC",
+        "Name": "Commodore C16, C116 & Plus-4 - Games - [D64]",
+        "Version": "2025-01-15",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Commodore C16, C116 & Plus-4 - Games - [D64] (TOSEC-v2025-01-15_CM).dat",
+        "File": "Commodore C16, C116 & Plus-4 - Games - [D64] (TOSEC-v2025-01-15_CM).dat"
+      },
+      {
+        "Source": "No-Intro",
+        "Name": "Commodore - Plus-4 (Parent-Clone)",
+        "Version": "20090105-000000",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/no-intro/Commodore - Plus-4 (Parent-Clone) (20090105-000000).dat",
+        "File": "Commodore - Plus-4 (Parent-Clone) (20090105-000000).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "plus4_cart",
+        "Version": "0.289",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/plus4_cart.xml",
+        "File": "plus4_cart.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "plus4_cass",
+        "Version": "0.289",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/plus4_cass.xml",
+        "File": "plus4_cass.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "plus4_flop",
+        "Version": "0.289",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/plus4_flop.xml",
+        "File": "plus4_flop.xml"
+      }
+    ]
+  },
+  {
+    "SystemCode": "enterprise",
+    "FullName": "Enterprise",
+    "Candidates": [
+      {
+        "Source": "TOSEC",
+        "Name": "Enterprise 64 & 128 - Games - [APP]",
+        "Version": "2021-07-25",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Enterprise 64 & 128 - Games - [APP] (TOSEC-v2021-07-25_CM).dat",
+        "File": "Enterprise 64 & 128 - Games - [APP] (TOSEC-v2021-07-25_CM).dat"
+      },
+      {
+        "Source": "TOSEC",
+        "Name": "Enterprise 64 & 128 - Games - [BAS]",
+        "Version": "2011-10-15",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Enterprise 64 & 128 - Games - [BAS] (TOSEC-v2011-10-15_CM).dat",
+        "File": "Enterprise 64 & 128 - Games - [BAS] (TOSEC-v2011-10-15_CM).dat"
+      },
+      {
+        "Source": "TOSEC",
+        "Name": "Enterprise 64 & 128 - Games - [COM-PRG]",
+        "Version": "2025-01-15",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Enterprise 64 & 128 - Games - [COM-PRG] (TOSEC-v2025-01-15_CM).dat",
+        "File": "Enterprise 64 & 128 - Games - [COM-PRG] (TOSEC-v2025-01-15_CM).dat"
+      },
+      {
+        "Source": "TOSEC",
+        "Name": "Enterprise 64 & 128 - Games - [COM]",
+        "Version": "2025-01-15",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Enterprise 64 & 128 - Games - [COM] (TOSEC-v2025-01-15_CM).dat",
+        "File": "Enterprise 64 & 128 - Games - [COM] (TOSEC-v2025-01-15_CM).dat"
+      },
+      {
+        "Source": "TOSEC",
+        "Name": "Enterprise 64 & 128 - Games - [DTF]",
+        "Version": "2011-10-15",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Enterprise 64 & 128 - Games - [DTF] (TOSEC-v2011-10-15_CM).dat",
+        "File": "Enterprise 64 & 128 - Games - [DTF] (TOSEC-v2011-10-15_CM).dat"
+      },
+      {
+        "Source": "TOSEC",
+        "Name": "Enterprise 64 & 128 - Games - [EP128S]",
+        "Version": "2023-08-29",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Enterprise 64 & 128 - Games - [EP128S] (TOSEC-v2023-08-29_CM).dat",
+        "File": "Enterprise 64 & 128 - Games - [EP128S] (TOSEC-v2023-08-29_CM).dat"
+      },
+      {
+        "Source": "TOSEC",
+        "Name": "Enterprise 64 & 128 - Games - [IMG]",
+        "Version": "2011-10-15",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Enterprise 64 & 128 - Games - [IMG] (TOSEC-v2011-10-15_CM).dat",
+        "File": "Enterprise 64 & 128 - Games - [IMG] (TOSEC-v2011-10-15_CM).dat"
+      },
+      {
+        "Source": "TOSEC",
+        "Name": "Enterprise 64 & 128 - Games - [Multipart]",
+        "Version": "2025-01-15",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Enterprise 64 & 128 - Games - [Multipart] (TOSEC-v2025-01-15_CM).dat",
+        "File": "Enterprise 64 & 128 - Games - [Multipart] (TOSEC-v2025-01-15_CM).dat"
+      },
+      {
+        "Source": "TOSEC",
+        "Name": "Enterprise 64 & 128 - Games - [ROM]",
+        "Version": "2023-08-29",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Enterprise 64 & 128 - Games - [ROM] (TOSEC-v2023-08-29_CM).dat",
+        "File": "Enterprise 64 & 128 - Games - [ROM] (TOSEC-v2023-08-29_CM).dat"
+      },
+      {
+        "Source": "TOSEC",
+        "Name": "Enterprise 64 & 128 - Games - [TAP]",
+        "Version": "2018-07-01",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Enterprise 64 & 128 - Games - [TAP] (TOSEC-v2018-07-01_CM).dat",
+        "File": "Enterprise 64 & 128 - Games - [TAP] (TOSEC-v2018-07-01_CM).dat"
+      },
+      {
+        "Source": "Libretro-database",
+        "Name": "Enterprise - 128",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Enterprise - 128.dat",
+        "File": "Enterprise - 128.dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "ep64_cart",
+        "Version": "0.289",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/ep64_cart.xml",
+        "File": "ep64_cart.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "ep64_cass",
+        "Version": "0.289",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/ep64_cass.xml",
+        "File": "ep64_cass.xml"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "ep64_flop",
+        "Version": "0.289",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/ep64_flop.xml",
+        "File": "ep64_flop.xml"
+      }
+    ]
+  },
+  {
+    "SystemCode": "bk",
+    "FullName": "Elektronika BK",
+    "Candidates": [
+      {
+        "Source": "TOSEC",
+        "Name": "Elektronika BK-0010-0011M - Games",
+        "Version": "2014-01-23",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/tosec/Elektronika BK-0010-0011M - Games (TOSEC-v2014-01-23_CM).dat",
+        "File": "Elektronika BK-0010-0011M - Games (TOSEC-v2014-01-23_CM).dat"
+      },
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "bk0010",
+        "Version": "0.289",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/bk0010.xml",
+        "File": "bk0010.xml"
+      }
+    ]
+  },
+  {
+    "SystemCode": "quake",
+    "FullName": "Quake",
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "Quake",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Quake.dat",
+        "File": "Quake.dat"
+      }
+    ]
+  },
+  {
+    "SystemCode": "quake2",
+    "FullName": "Quake II",
+    "Candidates": [
+      {
+        "Source": "Libretro-database",
+        "Name": "Quake II",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-dat/Quake II.dat",
+        "File": "Quake II.dat"
+      }
+    ]
+  },
+  {
+    "SystemCode": "exodos",
+    "FullName": "eXoDOS",
+    "Candidates": [
+      {
+        "Source": "Eggmansworld - Datfiles",
+        "Name": "eXoDOS 6.04",
+        "Version": "2026-04-17_RomVault",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/eXoDOS 6.04 (2026-04-17_RomVault).dat",
+        "File": "eXoDOS 6.04 (2026-04-17_RomVault).dat"
+      }
+    ]
+  },
+  {
+    "SystemCode": "exowin3x",
+    "FullName": "eXoWin3x",
+    "Candidates": [
+      {
+        "Source": "Eggmansworld - Datfiles",
+        "Name": "eXoWin3x 2.0",
+        "Version": "2025-02-14_RomVault",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/eXoWin3x 2.0 (2025-02-14_RomVault).dat",
+        "File": "eXoWin3x 2.0 (2025-02-14_RomVault).dat"
+      }
+    ]
+  },
+  {
+    "SystemCode": "exowin9x",
+    "FullName": "eXoWin9x",
+    "Candidates": [
+      {
+        "Source": "Eggmansworld - Datfiles",
+        "Name": "eXoWin9x Vol. 1 - 1994-1996",
+        "Version": "2025-11-22_RomVault",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/eXoWin9x Vol. 1 - 1994-1996 (2025-11-22_RomVault).dat",
+        "File": "eXoWin9x Vol. 1 - 1994-1996 (2025-11-22_RomVault).dat"
+      }
+    ]
+  },
+  {
+    "SystemCode": "lindbergh",
+    "FullName": "Sega Lindbergh",
+    "Candidates": [
+      {
+        "Source": "Redump",
+        "Name": "Arcade - Sega - Lindbergh",
+        "Version": "2025-09-28 21-13-42",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/redump/Arcade - Sega - Lindbergh - Datfile (71) (2025-09-28 21-13-42).dat",
+        "File": "Arcade - Sega - Lindbergh - Datfile (71) (2025-09-28 21-13-42).dat"
+      },
+      {
+        "Source": "Eggmansworld - Datfiles",
+        "Name": "Sega ALL.Net Collection - Sega Lindbergh",
+        "Version": "2025-06-20_RomVault",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/Eggmansworld - Datfiles/Sega ALL.Net Collection - Sega Lindbergh (2025-06-20_RomVault).dat",
+        "File": "Sega ALL.Net Collection - Sega Lindbergh (2025-06-20_RomVault).dat"
+      }
+    ]
+  },
+  {
+    "SystemCode": "cassettevision",
+    "FullName": "Cassette Vision",
+    "Candidates": [
+      {
+        "Source": "Pleasuredome MAME",
+        "Name": "cassvisn_cart",
+        "Version": "2026-07-21",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/pleasuredome-mame/cassvisn_cart.xml",
+        "File": "cassvisn_cart.xml"
+      },
+      {
+        "Source": "Libretro-database (TOSEC)",
+        "Name": "Epoch - Cassette Vision",
+        "Version": "",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/libretro-database-metadat/tosec/Epoch - Cassette Vision.dat",
+        "File": "Epoch - Cassette Vision.dat"
+      }
+    ]
   }
 ]
