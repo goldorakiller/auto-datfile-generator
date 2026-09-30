@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games</name>
 		<description>Commodore Amiga - WHDLoad - Games</description>
 		<category>Standard DatFile</category>
-		<version>2026-09-25</version>
-		<date>2026-09-25</date>
+		<version>2026-09-29</version>
+		<date>2026-09-29</date>
 		<author>Retroplay</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -2884,7 +2884,7 @@
 		<rom name="Renegade_v1.2_1966.lha" size="360395" crc="dd6b176e" md5="f68652f9184b352133cb54d1fcedfd16" sha1="e419f2f67f7bffb7482a4d35aff342164b688c36"/>
 		<rom name="Renegade_v1.2_AGA.lha" size="1104510" crc="d063634e" md5="afc31cdfbc487e7a0a0a334205a742a0" sha1="a1b2689c5e8177ffa37c999eac659e63b2ead9de"/>
 		<rom name="Renegades_v1.0.lha" size="224326" crc="da15f02a" md5="0d380f1670cf43ee12c83ae147397cf3" sha1="3b966919e53a0732ef1ef99cf24e6fd06c703cdb"/>
-		<rom name="RescueOnFractalus_v1.1.lha" size="223840" crc="d2db3fbc" md5="2ca9b12b1142184a19781689dceac14a" sha1="58d0a6b3fb3d33624579d6a6cd0f9fe2177c9c10"/>
+		<rom name="RescueOnFractalus_v1.2.lha" size="225825" crc="670e43d8" md5="8544d4a193dd925e49b740a40e96e4c4" sha1="7fe24b8d0711149d196925e2b38462b9ec0cd95c"/>
 		<rom name="Resolution101_v2.1_0221.lha" size="296049" crc="bb2fcab1" md5="9789815735b54d299ad877e03f885f6d" sha1="9fb7aba609aa9acdcb0736baa3702a0be712e52e"/>
 		<rom name="ReturnOfTheJedi_v2.0_2152.lha" size="369617" crc="db50a688" md5="3c1a672c3dd005b9e00a85ca63d5fa0e" sha1="edb720d45edabc2cc94d6558218a4afb6963e2c3"/>
 		<rom name="ReturnToAtlantis_v1.0_0717.lha" size="813084" crc="5792697a" md5="4d8b7ae047f0b569157e1db7afab3101" sha1="adc1b478477b4a82c28528f37a8a67673868d564"/>
@@ -3774,9 +3774,9 @@
 	</machine>
 	<machine name="U">
 		<description>U</description>
-		<rom name="UFOEnemyUnknown_v1.0_1677.lha" size="2217170" crc="16fa4ed7" md5="f988b8bc651b39bdf6e37f6b392de3af" sha1="779e5071bb3ef582f7fc96708aecbe1aa25045dd"/>
-		<rom name="UFOEnemyUnknown_v1.1_AGA_0157.lha" size="2988041" crc="791dc0ae" md5="5edb1a669130ab993b6c70e4d52bb84f" sha1="dacf862acf75b9b18c75dd7f7939dbdb3b1b4e83"/>
-		<rom name="UFOEnemyUnknown_v1.1_CD32.lha" size="4069665" crc="3b0402b0" md5="9a5b1cb7ebd13ba9cbe2493ad2fa6644" sha1="b319f95098bf2c1a958ec42b02caf86c509dbe35"/>
+		<rom name="UFOEnemyUnknown_v1.1_1677.lha" size="2216922" crc="d5540718" md5="96f1924f24f9399de0ad99d6317cd391" sha1="8869287a11a723cbc090b150babd059d1cd0f9ed"/>
+		<rom name="UFOEnemyUnknown_v1.2_AGA_0157.lha" size="2987767" crc="f82605f5" md5="685dbb4adb06657fa3dfe4ce1c9cbdf6" sha1="ae43bf8b51e28f5259adcce6a1ff3cfae70a8034"/>
+		<rom name="UFOEnemyUnknown_v1.2_CD32.lha" size="4069397" crc="ead056b4" md5="ba72731ab14b552f8f3a4588f8daaf39" sha1="178e2298b0d09866ab14096fab807b89f25b4afe"/>
 		<rom name="Ugh_v1.6_0396.lha" size="280775" crc="3492a15c" md5="e8524aa7169a166045f8dd769dd26169" sha1="565112e0a4ca3aaea3e3862263e043f9060c3391"/>
 		<rom name="Ultima3_v1.1.lha" size="149183" crc="3a08427f" md5="8e9ed6b9b5a9b05f61a26c32327b2bc6" sha1="f3ff06b79ce2e794d2f8fbb5e4dacf6acdb66968"/>
 		<rom name="Ultima4_v1.1_NTSC_1390.lha" size="413734" crc="94c0d8ce" md5="e8a229f049bd7f6037abc683277b8dc6" sha1="dd72161ab29cc0c1408533a5f51ac646cecef757"/>
@@ -3832,7 +3832,7 @@
 		<rom name="Vermeer_v1.0_De_0693.lha" size="349551" crc="b22b1809" md5="45224a135c1430995c3d95b3b52569f1" sha1="d96dbf335357f6d1e38970e0f2fbd0d9a25169b8"/>
 		<rom name="VerteidigerDerKrone2_v1.2_CD32_De.lha" size="8367377" crc="d770d803" md5="b0bdb93802f3b6abaefb30aa434d0368" sha1="a96f7f96473ae14f3f0a296e6389f543419608c7"/>
 		<rom name="Veteran_v1.0_2970.lha" size="177972" crc="3edbee63" md5="ed68aa92d190f336a4041bffe99561fa" sha1="74974aac78bcb44a558bf9cf3ce0f59593979127"/>
-		<rom name="Vette!_v0.91.lha" size="950515" crc="edb6a41e" md5="cfb225830ceadce003fe5d6e35b61e53" sha1="18abf48ad925e0d5a847fecc3776738f78629692"/>
+		<rom name="Vette!_v0.92.lha" size="953255" crc="eb41c894" md5="715d6ea4049ddb0128191ed77f5b2e90" sha1="a4e69a9df98f02dc5ba1624f197e6cb489f4e938"/>
 		<rom name="ViajeAlCentroDeLaTierra_v1.2_Es.lha" size="513016" crc="a4766a39" md5="d8d3458184075ac01d77db814826ad5c" sha1="39822cb7322c3255a183482f7ea7447115bbb768"/>
 		<rom name="VictoryRoad_v1.1.lha" size="167665" crc="f466d765" md5="a59426f78ea7c71c5b986ee2b3e66c6a" sha1="346a8812950eecf43aa1aeef8c88688ccc23215f"/>
 		<rom name="VideoKid_v2.1_2555.lha" size="1326618" crc="58314a7d" md5="73ced8e4a2fe8fc5f72c15d20b1d4601" sha1="e40dc17bd618261b844cc306bb2f32f214354576"/>
