@@ -4,9 +4,8 @@ import re
 import zipfile
 from io import BytesIO
 
-import requests
-
 from dat_output_dir import replace_directory
+from http_session import retrying_session
 
 # Config
 ROOT_URL = "https://ftp2.grandis.nu/turran/FTP/Retroplay%20WHDLoad%20Packs/"
@@ -21,14 +20,18 @@ OUTPUT_DIR = "whdload"
 _LINK_RE = re.compile(r'<a href="([^"]+\.zip)">')
 
 
-def find_root_zips():
-    page = requests.get(ROOT_URL, timeout=150)
+def find_root_zips(session):
+    page = session.get(ROOT_URL, timeout=150)
     page.raise_for_status()
-    return [html.unescape(href) for href in _LINK_RE.findall(page.text)]
+    # La page cite chaque zip DEUX fois (verifie le 30/09/2026) : sans ce
+    # dedoublonnage, chaque fichier etait telecharge deux fois, ce qui doublait
+    # les chances de tomber sur une coupure de ce site. dict.fromkeys garde l'ordre.
+    return list(dict.fromkeys(html.unescape(href) for href in _LINK_RE.findall(page.text)))
 
 
 def build():
-    hrefs = find_root_zips()
+    session = retrying_session()
+    hrefs = find_root_zips(session)
     print(f"{len(hrefs)} zip(s) trouves a la racine")
 
     # Repart d'un dossier vide (si un pack racine change de nom/version,
@@ -40,7 +43,7 @@ def build():
         for href in hrefs:
             url = ROOT_URL + href
             print(f"Downloading {href}")
-            resp = requests.get(url, timeout=150)
+            resp = session.get(url, timeout=150)
             resp.raise_for_status()
 
             with zipfile.ZipFile(BytesIO(resp.content)) as archive:

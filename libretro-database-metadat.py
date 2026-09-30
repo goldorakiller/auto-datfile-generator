@@ -1,8 +1,7 @@
 import os
 
-import requests
-
 from dat_output_dir import replace_directory
+from http_session import github_api_headers, retrying_session
 
 # Config — meme mecanique que libretro-database-dat.py, mais sur le dossier
 # "metadat" du meme repo (contenu different : dats par mainteneur MAME et
@@ -23,8 +22,9 @@ MAX_FILE_SIZE = 95 * 1024 * 1024
 
 
 def build():
+    session = retrying_session()
     for category in TARGETS:
-        resp = requests.get(f"{CONTENTS_API}/{category}", timeout=150)
+        resp = session.get(f"{CONTENTS_API}/{category}", headers=github_api_headers(), timeout=150)
         resp.raise_for_status()
         entries = resp.json()
 
@@ -45,7 +45,7 @@ def build():
                     continue
 
                 print(f"  Downloading {entry['name']}")
-                file_resp = requests.get(entry["download_url"], timeout=150)
+                file_resp = session.get(entry["download_url"], timeout=150)
                 file_resp.raise_for_status()
 
                 with open(os.path.join(out_dir, entry["name"]), "wb") as f:

@@ -1,8 +1,7 @@
 import os
 
-import requests
-
 from dat_output_dir import replace_directory
+from http_session import github_api_headers, retrying_session
 
 # Config — meme mecanique que fbneo.py : des .dat deja individuels a la
 # racine du dossier "dat" du repo officiel libretro-database (~48 systemes
@@ -14,7 +13,8 @@ OUTPUT_DIR = "libretro-database-dat"
 
 
 def build():
-    resp = requests.get(CONTENTS_API, timeout=150)
+    session = retrying_session()
+    resp = session.get(CONTENTS_API, headers=github_api_headers(), timeout=150)
     resp.raise_for_status()
     entries = resp.json()
 
@@ -27,7 +27,7 @@ def build():
     with replace_directory(OUTPUT_DIR) as out_dir:
         for entry in dat_entries:
             print(f"Downloading {entry['name']}")
-            file_resp = requests.get(entry["download_url"], timeout=150)
+            file_resp = session.get(entry["download_url"], timeout=150)
             file_resp.raise_for_status()
 
             with open(os.path.join(out_dir, entry["name"]), "wb") as f:

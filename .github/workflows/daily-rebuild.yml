@@ -42,51 +42,79 @@ jobs:
         run: pipenv install --deploy
 
       - name: Download dats and generate profile.xml for Redump
+        id: redump
         if: ${{ ! cancelled() }}
+        continue-on-error: true
         run: pipenv run python3 redump.py
 
       - name: Download dats and generate profile.xml for No-Intro
+        id: nointro
         if: ${{ ! cancelled() }}
+        continue-on-error: true
         run: pipenv run python3 no-intro.py
 
       - name: Download dats and generate profile.xml for TOSEC
+        id: tosec
         if: ${{ ! cancelled() }}
+        continue-on-error: true
         run: pipenv run python3 tosec.py
 
       - name: Download dat for WHDLoad (Retroplay packs, root zips only)
+        id: whdload
         if: ${{ ! cancelled() }}
+        continue-on-error: true
         run: pipenv run python3 whdload.py
 
       - name: Download dats for Pleasuredome MAME (full sets)
+        id: pd_mame
         if: ${{ ! cancelled() }}
+        continue-on-error: true
         run: pipenv run python3 pleasuredome-mame.py
 
       - name: Download dats for Pleasuredome HBMAME (full sets)
+        id: pd_hbmame
         if: ${{ ! cancelled() }}
+        continue-on-error: true
         run: pipenv run python3 pleasuredome-hbmame.py
 
       - name: Download dats for Pleasuredome Pinball (Visual + Future)
+        id: pd_pinball
         if: ${{ ! cancelled() }}
+        continue-on-error: true
         run: pipenv run python3 pleasuredome-pinball.py
 
       - name: Download dats for FBNeo
+        id: fbneo
         if: ${{ ! cancelled() }}
+        continue-on-error: true
         run: pipenv run python3 fbneo.py
 
       - name: Download dats for Eggmansworld/Datfiles (all collections)
+        id: eggman
         if: ${{ ! cancelled() }}
+        continue-on-error: true
         run: pipenv run python3 eggmansworld-datfiles.py
 
       - name: Download dats for Libretro-database (dat folder)
+        id: libretro_dat
         if: ${{ ! cancelled() }}
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: pipenv run python3 libretro-database-dat.py
 
       - name: "Download dats for Libretro-database (metadat folder: mame-split, mame, no-intro, redump, tosec)"
+        id: libretro_metadat
         if: ${{ ! cancelled() }}
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: pipenv run python3 libretro-database-metadat.py
 
       - name: Download dats for Pleasuredome PinMAME
+        id: pd_pinmame
         if: ${{ ! cancelled() }}
+        continue-on-error: true
         run: pipenv run python3 pleasuredome-pinmame.py
 
       - name: Build arcade subsets by board (FBNeo + MAME, from the dats above)
@@ -144,3 +172,35 @@ jobs:
           tag: Daily_Rebuild
           token: ${{ secrets.GITHUB_TOKEN }}
           body: "Automatically released by github actions"
+
+      - name: Report sources that could not be refreshed
+        # Les etapes de sources externes ont continue-on-error : une source
+        # injoignable (WHDLoad, 8 echecs sur 15 runs en sept. 2026) ne fait plus
+        # echouer tout le run, sa copie de la veille reste en place
+        # (dat_output_dir.replace_directory). Ce bilan les liste en avertissement
+        # et dans le resume du run pour qu'aucune panne ne passe inapercue.
+        if: ${{ always() }}
+        run: |
+          failed=""
+          if [ "${{ steps.redump.outcome }}" = "failure" ]; then failed="$failed|Redump"; fi
+          if [ "${{ steps.nointro.outcome }}" = "failure" ]; then failed="$failed|No-Intro"; fi
+          if [ "${{ steps.tosec.outcome }}" = "failure" ]; then failed="$failed|TOSEC"; fi
+          if [ "${{ steps.whdload.outcome }}" = "failure" ]; then failed="$failed|WHDLoad"; fi
+          if [ "${{ steps.pd_mame.outcome }}" = "failure" ]; then failed="$failed|Pleasuredome MAME"; fi
+          if [ "${{ steps.pd_hbmame.outcome }}" = "failure" ]; then failed="$failed|Pleasuredome HBMAME"; fi
+          if [ "${{ steps.pd_pinball.outcome }}" = "failure" ]; then failed="$failed|Pleasuredome Pinball"; fi
+          if [ "${{ steps.fbneo.outcome }}" = "failure" ]; then failed="$failed|FBNeo"; fi
+          if [ "${{ steps.eggman.outcome }}" = "failure" ]; then failed="$failed|Eggmansworld"; fi
+          if [ "${{ steps.libretro_dat.outcome }}" = "failure" ]; then failed="$failed|Libretro-database (dat)"; fi
+          if [ "${{ steps.libretro_metadat.outcome }}" = "failure" ]; then failed="$failed|Libretro-database (metadat)"; fi
+          if [ "${{ steps.pd_pinmame.outcome }}" = "failure" ]; then failed="$failed|Pleasuredome PinMAME"; fi
+          if [ -z "$failed" ]; then
+            echo "All sources refreshed." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          echo "### Sources NOT refreshed (yesterday's copy kept)" >> "$GITHUB_STEP_SUMMARY"
+          IFS='|'
+          for name in ${failed#|}; do
+            echo "::warning::$name could not be refreshed, yesterday's copy was kept"
+            echo "- $name" >> "$GITHUB_STEP_SUMMARY"
+          done
