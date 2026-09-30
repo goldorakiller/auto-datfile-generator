@@ -59,6 +59,30 @@ jobs:
         continue-on-error: true
         run: pipenv run python3 tosec.py
 
+      - name: Pin ftp2.grandis.nu address from public DNS (WHDLoad)
+        # Le resolveur DNS des runners (Azure) echoue souvent sur ce nom
+        # ("Temporary failure in name resolution", 8 runs sur 15 en sept. 2026,
+        # 4 nouvelles tentatives sur 2 min n'y changent rien) alors que Cloudflare,
+        # Google, Quad9 et les serveurs de dnsmaster.io repondent. L'adresse est
+        # donc demandee a 1.1.1.1 puis 8.8.8.8 et inscrite dans /etc/hosts pour ce
+        # run : whdload.py garde le nom (certificat HTTPS verifie normalement).
+        # Toujours epinglee, meme si le resolveur local repond a cet instant : ses
+        # echecs sont intermittents. Aucune reponse : rien n'est ecrit, WHDLoad
+        # echoue comme avant et le bilan final le signale.
+        if: ${{ ! cancelled() }}
+        continue-on-error: true
+        run: |
+          host=ftp2.grandis.nu
+          for server in 1.1.1.1 8.8.8.8; do
+            ip=$(dig +short +time=5 +tries=2 "@$server" "$host" A | grep -E '^[0-9]+(\.[0-9]+){3}$' | tail -n1 || true)
+            if [ -n "$ip" ]; then
+              echo "$ip $host" | sudo tee -a /etc/hosts
+              echo "$host -> $ip (resolved through $server, pinned in /etc/hosts)"
+              exit 0
+            fi
+          done
+          echo "::warning::$host could not be resolved through public DNS either"
+
       - name: Download dat for WHDLoad (Retroplay packs, root zips only)
         id: whdload
         if: ${{ ! cancelled() }}
