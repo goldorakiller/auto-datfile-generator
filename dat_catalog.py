@@ -50,6 +50,9 @@ LOOSE_FOLDERS = {
     # sourcefile des dats FBNeo "Arcade only" et MAME non-merged.
     "FBNeo (by board)": "fbneo-subsets",
     "MAME (by board)": "mame-subsets",
+    # Fabriques par teknoparrot-subsets.py depuis la release du depot
+    # Eggmansworld/TeknoParrot (dat source trop gros pour git, jamais commite).
+    "TeknoParrot (subsets)": "teknoparrot-subsets",
 }
 
 # Choix de Cedric : garder le nom de fichier court (ex. "sg1000",
@@ -66,6 +69,7 @@ READ_XML_VERSION = {
     # recopiee dans l'en-tete par arcade-subsets.py.
     "FBNeo (by board)",
     "MAME (by board)",
+    "TeknoParrot (subsets)",
 }
 
 # Les fournisseurs sans manifeste (load_loose_folder) embarquent souvent une

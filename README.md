@@ -32,6 +32,7 @@ n'empêche pas les autres de tourner.
 | `Eggmansworld - Datfiles/` | [Eggmansworld/Datfiles](https://github.com/Eggmansworld/Datfiles/releases) — 19 collections, toutes les releases, dossier plat | zip `*_RomVault.zip` -> dat/xml |
 | `clean-cpc-db/` | [clean-cpc-db/dat](https://github.com/clean-cpc-db/dat) | mirroir manuel (upstream non automatisé) |
 | `fbneo-subsets/`, `mame-subsets/` | **fabriqués ici** par `arcade-subsets.py` à partir de `fbneo/` (Arcade only) et `pleasuredome-mame/` (ROMs non-merged) | un DAT par carte arcade (CAVE, CPS-1/2/3, Model 2/3, Hikaru, ZN, Gaelco PowerVR), filtré par l'attribut `sourcefile` de chaque jeu |
+| `teknoparrot-subsets/` | **fabriqués ici** par `teknoparrot-subsets.py` depuis la release de [Eggmansworld/TeknoParrot](https://github.com/Eggmansworld/TeknoParrot) (zip téléchargé, jamais commité : dat de ~620 Mo) | jeux d'une carte renommés d'après leur profil TeknoParrot comme l'exige RetroBat (ex. `TeknoParrot - Namco System 357-369` : 19 jeux, dossiers `<GameProfile>.game`), `forcepacking="fileonly"` |
 
 **Fichiers volumineux exclus** : la limite git est de 100 Mo par fichier
 versionné. Sont donc ignorés : TeknoParrot Collection (617 Mo, source entière
