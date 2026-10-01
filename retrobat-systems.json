@@ -2105,16 +2105,16 @@
       {
         "Source": "WHDLoad",
         "Name": "Commodore Amiga - WHDLoad - Games",
-        "Version": "2026-09-29",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/whdload/Commodore Amiga - WHDLoad - Games (2026-09-29).dat",
-        "File": "Commodore Amiga - WHDLoad - Games (2026-09-29).dat"
+        "Version": "2026-09-30",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/whdload/Commodore Amiga - WHDLoad - Games (2026-09-30).dat",
+        "File": "Commodore Amiga - WHDLoad - Games (2026-09-30).dat"
       },
       {
         "Source": "WHDLoad",
         "Name": "Commodore Amiga - WHDLoad - Games - Beta & Unofficial",
-        "Version": "2026-09-29",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/whdload/Commodore Amiga - WHDLoad - Games - Beta & Unofficial (2026-09-29).dat",
-        "File": "Commodore Amiga - WHDLoad - Games - Beta & Unofficial (2026-09-29).dat"
+        "Version": "2026-09-30",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/whdload/Commodore Amiga - WHDLoad - Games - Beta & Unofficial (2026-09-30).dat",
+        "File": "Commodore Amiga - WHDLoad - Games - Beta & Unofficial (2026-09-30).dat"
       },
       {
         "Source": "Pleasuredome MAME",
@@ -2153,16 +2153,16 @@
       {
         "Source": "WHDLoad",
         "Name": "Commodore Amiga - WHDLoad - Games",
-        "Version": "2026-09-29",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/whdload/Commodore Amiga - WHDLoad - Games (2026-09-29).dat",
-        "File": "Commodore Amiga - WHDLoad - Games (2026-09-29).dat"
+        "Version": "2026-09-30",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/whdload/Commodore Amiga - WHDLoad - Games (2026-09-30).dat",
+        "File": "Commodore Amiga - WHDLoad - Games (2026-09-30).dat"
       },
       {
         "Source": "WHDLoad",
         "Name": "Commodore Amiga - WHDLoad - Games - Beta & Unofficial",
-        "Version": "2026-09-29",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/whdload/Commodore Amiga - WHDLoad - Games - Beta & Unofficial (2026-09-29).dat",
-        "File": "Commodore Amiga - WHDLoad - Games - Beta & Unofficial (2026-09-29).dat"
+        "Version": "2026-09-30",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/whdload/Commodore Amiga - WHDLoad - Games - Beta & Unofficial (2026-09-30).dat",
+        "File": "Commodore Amiga - WHDLoad - Games - Beta & Unofficial (2026-09-30).dat"
       },
       {
         "Source": "Pleasuredome MAME",
@@ -2194,16 +2194,16 @@
       {
         "Source": "WHDLoad",
         "Name": "Commodore Amiga - WHDLoad - Games",
-        "Version": "2026-09-29",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/whdload/Commodore Amiga - WHDLoad - Games (2026-09-29).dat",
-        "File": "Commodore Amiga - WHDLoad - Games (2026-09-29).dat"
+        "Version": "2026-09-30",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/whdload/Commodore Amiga - WHDLoad - Games (2026-09-30).dat",
+        "File": "Commodore Amiga - WHDLoad - Games (2026-09-30).dat"
       },
       {
         "Source": "WHDLoad",
         "Name": "Commodore Amiga - WHDLoad - Games - Beta & Unofficial",
-        "Version": "2026-09-29",
-        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/whdload/Commodore Amiga - WHDLoad - Games - Beta & Unofficial (2026-09-29).dat",
-        "File": "Commodore Amiga - WHDLoad - Games - Beta & Unofficial (2026-09-29).dat"
+        "Version": "2026-09-30",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/whdload/Commodore Amiga - WHDLoad - Games - Beta & Unofficial (2026-09-30).dat",
+        "File": "Commodore Amiga - WHDLoad - Games - Beta & Unofficial (2026-09-30).dat"
       }
     ]
   },
@@ -9222,7 +9222,15 @@
   {
     "SystemCode": "tvgames",
     "FullName": "TV Games",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "MAME (by board)",
+        "Name": "MAME - TV Games",
+        "Version": "2026-07-21",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/mame-subsets/MAME - TV Games.xml",
+        "File": "MAME - TV Games.xml"
+      }
+    ]
   },
   {
     "SystemCode": "megaduck",

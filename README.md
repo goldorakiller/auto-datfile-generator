@@ -31,7 +31,7 @@ n'empêche pas les autres de tourner.
 | `libretro-database-metadat/{mame-split,mame,no-intro,redump,tosec}/` | [libretro/libretro-database](https://github.com/libretro/libretro-database/tree/master/metadat) | déjà un fichier par système |
 | `Eggmansworld - Datfiles/` | [Eggmansworld/Datfiles](https://github.com/Eggmansworld/Datfiles/releases) — 19 collections, toutes les releases, dossier plat | zip `*_RomVault.zip` -> dat/xml |
 | `clean-cpc-db/` | [clean-cpc-db/dat](https://github.com/clean-cpc-db/dat) | mirroir manuel (upstream non automatisé) |
-| `fbneo-subsets/`, `mame-subsets/` | **fabriqués ici** par `arcade-subsets.py` à partir de `fbneo/` (Arcade only) et `pleasuredome-mame/` (ROMs non-merged) | un DAT par carte arcade (CAVE, CPS-1/2/3, Model 2/3, Hikaru, ZN, Gaelco PowerVR), filtré par l'attribut `sourcefile` de chaque jeu |
+| `fbneo-subsets/`, `mame-subsets/` | **fabriqués ici** par `arcade-subsets.py` à partir de `fbneo/` (Arcade only) et `pleasuredome-mame/` (ROMs non-merged) | un DAT par carte arcade (CAVE, CPS-1/2/3, Model 2/3, Hikaru, ZN, Gaelco PowerVR) et les consoles plug & play (TV Games, pilotes MAME `tvgames/`), filtré par l'attribut `sourcefile` de chaque jeu |
 | `eggmansworld-subsets/` | **fabriqués ici** par `eggmansworld-subsets.py` à partir de `Eggmansworld - Datfiles/` | les jeux seuls d'une collection (ex. `Ares - LaserActive Discs` : les 47 disques `.mmi`, sans BIOS, émulateur, scans ni outils, `forcepacking="fileonly"`) |
 
 **Fichiers volumineux exclus** : la limite git est de 100 Mo par fichier
