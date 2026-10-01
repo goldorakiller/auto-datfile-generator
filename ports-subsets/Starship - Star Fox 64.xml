@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Starship - Star Fox 64</name>
+		<description>Star Fox 64 ROMs supported by Starship (config.yml)</description>
+		<date>2026-09-28</date>
+		<author>No-Intro</author>
+		<comment>Subset built by auto-datfile-generator (ports-subsets.py) for RetroBat's starship system from Nintendo - Nintendo 64 (BigEndian) (20260928-175532).dat, iQue - iQue (Decrypted) (20260325-023746).dat</comment>
+		<romvault forcepacking="fileonly" />
+	</header>
+	<game name="Lylatwars (Europe) (En,Fr,De)">
+		<description>Lylatwars (Europe) (En,Fr,De)</description>
+		<rom name="Lylatwars (Europe) (En,Fr,De).z64" size="12582912" crc="50a9c0b1" md5="884ccca35cbeedb8ed288326f9662100" sha1="05b307b8804f992af1a1e2fbafbd588501fdf799" sha256="6604c219c2835446522d03a7a3f3634fb00a27703fd6b7f318d98f003806e3a4" status="verified" serial="NFXP" />
+	</game>
+	<game name="Star Fox 64 (Japan)">
+		<description>Star Fox 64 (Japan)</description>
+		<rom name="Star Fox 64 (Japan).z64" size="12582912" crc="411142a7" md5="446d5215c4d34eb8ab0f355f324b8d0e" sha1="9bd71afbecf4d0a43146e4e7a893395e19bf3220" sha256="438d5a25aafe7d0b2e490b9a87183ca3f00d2d7ddce6b3a5784c7bdc0cffc7bd" status="verified" serial="NFXJ" />
+	</game>
+	<game name="Star Fox 64 (USA)">
+		<description>Star Fox 64 (USA)</description>
+		<rom name="Star Fox 64 (USA).z64" size="12582912" crc="b1fcaa9c" md5="caf9a78db13ee00002ff63a3c0c5eabb" sha1="d8b1088520f7c5f81433292a9258c1184afa1457" sha256="a8d31134f6d2658fb7bdce5e8f8e74ab70cfcbed73ada22d680225915cb0fe22" status="verified" serial="NFXE" />
+	</game>
+	<game name="Star Fox 64 (USA) (Rev 1)">
+		<description>Star Fox 64 (USA) (Rev 1)</description>
+		<rom name="Star Fox 64 (USA) (Rev 1).z64" size="12582912" crc="b1b5fc46" md5="741a94eee093c4c8684e66b89f8685e8" sha1="09f0d105f476b00efa5303a3ebc42e60a7753b7a" sha256="385bcf1901ed12fb1152f3c227d1968cc54ae41e8566da66695df71af40a573f" status="verified" serial="NFXE" />
+	</game>
+	<game name="Xingji Huohu (China) (v5)">
+		<description>Xingji Huohu (China) (v5)</description>
+		<rom name="Xingji Huohu (China) (v5).cmd" size="10668" crc="949da06c" md5="132b960f12be3586d330f366276dc3a1" sha1="a77dcd836b2065f772463dfb48ccc31d81e3482e" />
+		<rom name="Xingji Huohu (China) (v5).z64" size="11829248" crc="0d28c3ed" md5="b2242070800bf82e78ce33dc92a1db84" sha1="c8a10699dea52f4bb2e2311935c1376dfb352e7a" />
+	</game>
+</datafile>

@@ -57,6 +57,9 @@ LOOSE_FOLDERS = {
     # Fabriques par teknoparrot-subsets.py depuis la release du depot
     # Eggmansworld/TeknoParrot (dat source trop gros pour git, jamais commite).
     "TeknoParrot (subsets)": "teknoparrot-subsets",
+    # Fabriques par ports-subsets.py : les seules ROM acceptees par un portage
+    # PC (soh, 2ship, Starship...), tirees des dats No-Intro/Redump.
+    "Ports (supported ROMs)": "ports-subsets",
 }
 
 # Choix de Cedric : garder le nom de fichier court (ex. "sg1000",
@@ -75,6 +78,7 @@ READ_XML_VERSION = {
     "MAME (by board)",
     "Eggmansworld (subsets)",
     "TeknoParrot (subsets)",
+    "Ports (supported ROMs)",
 }
 
 # Dats trop gros pour git (>100 Mo meme compresses), donc jamais dans un

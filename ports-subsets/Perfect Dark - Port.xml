@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Perfect Dark - Port</name>
+		<description>Perfect Dark ROMs supported by the fgsfdsfgs/perfect_dark port (README md5)</description>
+		<date>2026-09-28</date>
+		<author>No-Intro</author>
+		<comment>Subset built by auto-datfile-generator (ports-subsets.py) for RetroBat's pdark system from Nintendo - Nintendo 64 (BigEndian) (20260928-175532).dat</comment>
+		<romvault forcepacking="fileonly" />
+	</header>
+	<game name="Perfect Dark (Europe) (En,Fr,De,Es,It)">
+		<description>Perfect Dark (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Perfect Dark (Europe) (En,Fr,De,Es,It).z64" size="33554432" crc="7718a714" md5="d9b5cd305d228424891ce38e71bc9213" sha1="a663d3f4eee0b198471132db92e9639a9edd1985" sha256="8e432b1a5f4ca512e2c22a1c3a5bb878ff6e92de2ddfebb1ba98e8d00e0394ff" status="verified" serial="NPDP" />
+	</game>
+	<game name="Perfect Dark (Japan)">
+		<description>Perfect Dark (Japan)</description>
+		<rom name="Perfect Dark (Japan).z64" size="33554432" crc="639c0da9" md5="538d2b75945eae069b29c46193e74790" sha1="99bcaaa4841b09c845e1094006df8f637862f02e" serial="NPDJ" />
+	</game>
+	<game name="Perfect Dark (USA)">
+		<description>Perfect Dark (USA)</description>
+		<rom name="Perfect Dark (USA).z64" size="33554432" crc="68446ad4" md5="7f4171b0c8d17815be37913f535e4e93" sha1="60dfe17923c03875b499b3cd3200f05cb538b7ad" sha256="b4173ee90ba6e3514b17d7f340c6c248e2a4c429fdc3c671dd82bbf5afcbb152" status="verified" serial="NPDE" />
+	</game>
+	<game name="Perfect Dark (USA) (Rev 1)">
+		<description>Perfect Dark (USA) (Rev 1)</description>
+		<rom name="Perfect Dark (USA) (Rev 1).z64" size="33554432" crc="4c1677f7" md5="e03b088b6ac9e0080440efed07c1e40f" sha1="af8788ac4d1a57260eae9c53ffe851fcf2a3319b" sha256="4e51142acac686d96861cecc58cf7cb7c3b06b21733b7f8ed609a709dc039a21" status="verified" serial="NPDE" />
+	</game>
+</datafile>
