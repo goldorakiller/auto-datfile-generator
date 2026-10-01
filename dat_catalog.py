@@ -50,6 +50,9 @@ LOOSE_FOLDERS = {
     # sourcefile des dats FBNeo "Arcade only" et MAME non-merged.
     "FBNeo (by board)": "fbneo-subsets",
     "MAME (by board)": "mame-subsets",
+    # Fabriques par eggmansworld-subsets.py : les JEUX seuls d'une collection
+    # Eggmansworld (ex. disques LaserActive sans BIOS/emulateur/scans).
+    "Eggmansworld (subsets)": "eggmansworld-subsets",
 }
 
 # Choix de Cedric : garder le nom de fichier court (ex. "sg1000",
@@ -66,6 +69,7 @@ READ_XML_VERSION = {
     # recopiee dans l'en-tete par arcade-subsets.py.
     "FBNeo (by board)",
     "MAME (by board)",
+    "Eggmansworld (subsets)",
 }
 
 # Les fournisseurs sans manifeste (load_loose_folder) embarquent souvent une
