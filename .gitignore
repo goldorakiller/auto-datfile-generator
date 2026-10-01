@@ -2,6 +2,9 @@
 *.xml
 *.dat
 *.zip
+# Dats trop gros pour git (TeknoParrot-RetroBat.datz, ~150 Mo) : publies
+# uniquement comme pieces jointes de la release Daily_Rebuild.
+*.datz
 .DS_Store
 EverDrive-Packs-Lists-Database/
 geckodriver.log
