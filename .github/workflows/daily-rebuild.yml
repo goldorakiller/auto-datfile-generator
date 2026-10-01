@@ -149,6 +149,13 @@ jobs:
         if: ${{ ! cancelled() }}
         run: pipenv run python3 arcade-subsets.py
 
+      - name: Build Eggmansworld subsets (games only, e.g. LaserActive discs)
+        # Apres eggmansworld-datfiles.py (sa source) et avant le rafraichissement
+        # de retrobat-systems.json. Comme pour arcade-subsets.py, la copie de la
+        # veille du depot sert de source si le telechargement du jour a echoue.
+        if: ${{ ! cancelled() }}
+        run: pipenv run python3 eggmansworld-subsets.py
+
       - name: Download TeknoParrot Collection and build its subsets (e.g. Namco 357/369)
         # Depot separe Eggmansworld/TeknoParrot : le zip (~145 Mo, dat ~620 Mo) est
         # telecharge puis filtre, jamais commite. Namco 357/369 est commite dans

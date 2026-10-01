@@ -51,6 +51,9 @@ LOOSE_FOLDERS = {
     # sourcefile des dats FBNeo "Arcade only" et MAME non-merged.
     "FBNeo (by board)": "fbneo-subsets",
     "MAME (by board)": "mame-subsets",
+    # Fabriques par eggmansworld-subsets.py : les JEUX seuls d'une collection
+    # Eggmansworld (ex. disques LaserActive sans BIOS/emulateur/scans).
+    "Eggmansworld (subsets)": "eggmansworld-subsets",
     # Fabriques par teknoparrot-subsets.py depuis la release du depot
     # Eggmansworld/TeknoParrot (dat source trop gros pour git, jamais commite).
     "TeknoParrot (subsets)": "teknoparrot-subsets",
@@ -70,6 +73,7 @@ READ_XML_VERSION = {
     # recopiee dans l'en-tete par arcade-subsets.py.
     "FBNeo (by board)",
     "MAME (by board)",
+    "Eggmansworld (subsets)",
     "TeknoParrot (subsets)",
 }
 
