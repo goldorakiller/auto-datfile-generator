@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>2 Ship 2 Harkinian - Majora's Mask</name>
+		<description>Majora's Mask ROMs supported by 2 Ship 2 Harkinian (docs/supportedHashes.json)</description>
+		<date>2026-09-28</date>
+		<author>No-Intro</author>
+		<comment>Subset built by auto-datfile-generator (ports-subsets.py) for RetroBat's 2ship system from Nintendo - Nintendo 64 (BigEndian) (20260928-175532).dat</comment>
+		<romvault forcepacking="fileonly" />
+	</header>
+	<game name="Legend of Zelda, The - Majora's Mask (USA)">
+		<description>Legend of Zelda, The - Majora's Mask (USA)</description>
+		<rom name="Legend of Zelda, The - Majora's Mask (USA).z64" size="33554432" crc="b428d8a7" md5="2a0a8acb61538235bc1094d297fb6556" sha1="d6133ace5afaa0882cf214cf88daba39e266c078" sha256="efb1365b3ae362604514c0f9a1a2d11f5dc8688ba5be660a37debf5e3be43f2b" status="verified" serial="NZSE" />
+	</game>
+	<game name="Legend of Zelda, The - Majora's Mask (USA) (Zelda Collection)">
+		<category>Games</category>
+		<description>Legend of Zelda, The - Majora's Mask (USA) (Zelda Collection)</description>
+		<rom name="Legend of Zelda, The - Majora's Mask (USA) (Zelda Collection).z64" size="33554432" crc="b008458f" md5="ac0751dbc23ab2ec0c3144203aca0003" sha1="9743aa026e9269b339eb0e3044cd5830a440c1fd" sha256="e951a0cd34c137267a6434c62b97947e62486212aab5dd412e17131428c6e5d5" status="verified" serial="NZSE" />
+	</game>
+</datafile>

@@ -7950,7 +7950,7 @@
       {
         "Source": "TeknoParrot (RetroBat)",
         "Name": "TeknoParrot-RetroBat",
-        "Version": "2026-09-30",
+        "Version": "2026-09-28",
         "Url": "https://github.com/goldorakiller/auto-datfile-generator/releases/download/Daily_Rebuild/TeknoParrot-RetroBat.datz",
         "File": "TeknoParrot-RetroBat.datz"
       }
@@ -10887,12 +10887,28 @@
   {
     "SystemCode": "pdark",
     "FullName": "Perfect Dark",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Ports (supported ROMs)",
+        "Name": "Perfect Dark - Port",
+        "Version": "2026-09-28",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/ports-subsets/Perfect Dark - Port.xml",
+        "File": "Perfect Dark - Port.xml"
+      }
+    ]
   },
   {
     "SystemCode": "soh",
     "FullName": "Ship of Harkinian",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Ports (supported ROMs)",
+        "Name": "Ship of Harkinian - Ocarina of Time",
+        "Version": "2026-09-28",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/ports-subsets/Ship of Harkinian - Ocarina of Time.xml",
+        "File": "Ship of Harkinian - Ocarina of Time.xml"
+      }
+    ]
   },
   {
     "SystemCode": "sonic3air",
@@ -10912,7 +10928,15 @@
   {
     "SystemCode": "starship",
     "FullName": "Starship",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "Ports (supported ROMs)",
+        "Name": "Starship - Star Fox 64",
+        "Version": "2026-09-28",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/ports-subsets/Starship - Star Fox 64.xml",
+        "File": "Starship - Star Fox 64.xml"
+      }
+    ]
   },
   {
     "SystemCode": "dinothawr",
@@ -11339,6 +11363,45 @@
         "Version": "2026-09-30",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/teknoparrot-subsets/TeknoParrot - Namco System 357-369.xml",
         "File": "TeknoParrot - Namco System 357-369.xml"
+      }
+    ]
+  },
+  {
+    "SystemCode": "2ship",
+    "FullName": "2 Ship 2 Harkinian",
+    "Candidates": [
+      {
+        "Source": "Ports (supported ROMs)",
+        "Name": "2 Ship 2 Harkinian - Majora's Mask",
+        "Version": "2026-09-28",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/ports-subsets/2 Ship 2 Harkinian - Majora's Mask.xml",
+        "File": "2 Ship 2 Harkinian - Majora's Mask.xml"
+      }
+    ]
+  },
+  {
+    "SystemCode": "ghostship",
+    "FullName": "Ghostship",
+    "Candidates": [
+      {
+        "Source": "Ports (supported ROMs)",
+        "Name": "Ghostship - Super Mario 64",
+        "Version": "2026-09-28",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/ports-subsets/Ghostship - Super Mario 64.xml",
+        "File": "Ghostship - Super Mario 64.xml"
+      }
+    ]
+  },
+  {
+    "SystemCode": "dusklight",
+    "FullName": "DuskLight",
+    "Candidates": [
+      {
+        "Source": "Ports (supported ROMs)",
+        "Name": "DuskLight - Twilight Princess",
+        "Version": "2026-06-15",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/ports-subsets/DuskLight - Twilight Princess.xml",
+        "File": "DuskLight - Twilight Princess.xml"
       }
     ]
   }

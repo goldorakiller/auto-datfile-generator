@@ -170,6 +170,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: pipenv run python3 teknoparrot-subsets.py
 
+      - name: Build ports subsets (ROMs accepted by soh, 2ship, Starship, Ghostship, Perfect Dark, DuskLight)
+        # Apres no-intro.py et redump.py (ses sources ; copie de la veille du depot
+        # si leur telechargement du jour a echoue). Relit sur GitHub la liste des
+        # ROM acceptees par chaque portage : source externe, meme traitement que
+        # les autres (copie de la veille gardee si echec, signalee dans le bilan).
+        id: ports
+        if: ${{ ! cancelled() }}
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: pipenv run python3 ports-subsets.py
+
       - name: Refresh retrobat-systems.json (Version/Url/File only, curated assignments untouched)
         if: ${{ ! cancelled() }}
         run: pipenv run python3 retrobat-systems.py
@@ -240,6 +252,7 @@ jobs:
           if [ "${{ steps.fbneo.outcome }}" = "failure" ]; then failed="$failed|FBNeo"; fi
           if [ "${{ steps.eggman.outcome }}" = "failure" ]; then failed="$failed|Eggmansworld"; fi
           if [ "${{ steps.teknoparrot.outcome }}" = "failure" ]; then failed="$failed|TeknoParrot Collection"; fi
+          if [ "${{ steps.ports.outcome }}" = "failure" ]; then failed="$failed|Ports (supported ROM lists)"; fi
           if [ "${{ steps.libretro_dat.outcome }}" = "failure" ]; then failed="$failed|Libretro-database (dat)"; fi
           if [ "${{ steps.libretro_metadat.outcome }}" = "failure" ]; then failed="$failed|Libretro-database (metadat)"; fi
           if [ "${{ steps.pd_pinmame.outcome }}" = "failure" ]; then failed="$failed|Pleasuredome PinMAME"; fi

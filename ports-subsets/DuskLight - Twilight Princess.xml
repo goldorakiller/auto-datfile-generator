@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>DuskLight - Twilight Princess</name>
+		<description>Twilight Princess discs supported by DuskLight (GameCube and Wii, without Korea, demo and Action Replay)</description>
+		<date>2026-06-15</date>
+		<author>redump.org</author>
+		<comment>Subset built by auto-datfile-generator (ports-subsets.py) for RetroBat's dusklight system from Nintendo - GameCube - Datfile (2019) (2026-06-13 18-14-01).dat, Nintendo - Wii - Datfile (3780) (2026-06-15 03-13-28).dat</comment>
+	</header>
+	<game name="Legend of Zelda, The - Twilight Princess (USA) (GameCube)">
+		<category>Games</category>
+		<description>Legend of Zelda, The - Twilight Princess (USA) (GameCube)</description>
+		<rom name="Legend of Zelda, The - Twilight Princess (USA) (GameCube).iso" size="1459978240" crc="0ab54d43" md5="41deff9b1fd2831f48fbfa2dd1054e4d" sha1="75edd3ddff41f125d1b4ce1a40378f1b565519e7" />
+	</game>
+	<game name="Zelda no Densetsu - Twilight Princess (Japan) (GameCube)">
+		<category>Games</category>
+		<description>Zelda no Densetsu - Twilight Princess (Japan) (GameCube)</description>
+		<rom name="Zelda no Densetsu - Twilight Princess (Japan) (GameCube).iso" size="1459978240" crc="38415aa3" md5="b130d78bb78cd63b501ddff210fde498" sha1="4a04d0ff1ce744b19822c5dcd60c2266e2facc2d" />
+	</game>
+	<game name="Legend of Zelda, The - Twilight Princess (Europe) (En,Fr,De,Es,It) (GameCube)">
+		<category>Games</category>
+		<description>Legend of Zelda, The - Twilight Princess (Europe) (En,Fr,De,Es,It) (GameCube)</description>
+		<rom name="Legend of Zelda, The - Twilight Princess (Europe) (En,Fr,De,Es,It) (GameCube).iso" size="1459978240" crc="61fe14da" md5="f9c47b0c8a34d345c06061f24e0db277" sha1="2601822a488eeb86fb89db16ca8f29c2c953e1ca" />
+	</game>
+	<game name="Legend of Zelda, The - Twilight Princess (USA) (Wii)">
+		<category>Games</category>
+		<description>Legend of Zelda, The - Twilight Princess (USA) (Wii)</description>
+		<rom name="Legend of Zelda, The - Twilight Princess (USA) (Wii).iso" size="4699979776" crc="a1bc9066" md5="25003a3e3666edf79c99080be9083b34" sha1="e45f35bef5a5949539ac3cabfc231e97ee9343cf" />
+	</game>
+	<game name="Legend of Zelda, The - Twilight Princess (USA, Canada) (En,Fr,Es) (Rev 2) (Wii)">
+		<category>Games</category>
+		<description>Legend of Zelda, The - Twilight Princess (USA, Canada) (En,Fr,Es) (Rev 2) (Wii)</description>
+		<rom name="Legend of Zelda, The - Twilight Princess (USA, Canada) (En,Fr,Es) (Rev 2) (Wii).iso" size="4699979776" crc="b5825844" md5="70946e09da8f0bb218bb3b3542953d63" sha1="e9f9b22fee0d1e3be46fa01b7189d390f51c7f87" />
+	</game>
+	<game name="Legend of Zelda, The - Twilight Princess (Europe, Australia) (En,Fr,De,Es,It) (Wii)">
+		<category>Games</category>
+		<description>Legend of Zelda, The - Twilight Princess (Europe, Australia) (En,Fr,De,Es,It) (Wii)</description>
+		<rom name="Legend of Zelda, The - Twilight Princess (Europe, Australia) (En,Fr,De,Es,It) (Wii).iso" size="4699979776" crc="576d9391" md5="c46c133885383f96e7515c5cefd152d2" sha1="c708744c08d499962ad5760ab1b76748dea9914b" />
+	</game>
+	<game name="Zelda no Densetsu - Twilight Princess (Japan) (Wii)">
+		<category>Games</category>
+		<description>Zelda no Densetsu - Twilight Princess (Japan) (Wii)</description>
+		<rom name="Zelda no Densetsu - Twilight Princess (Japan) (Wii).iso" size="4699979776" crc="2bf3cd23" md5="4979793d525198ef13e19ef369311743" sha1="fda756a07158dcfa77d496eb5c8793848b5330dd" />
+	</game>
+</datafile>
