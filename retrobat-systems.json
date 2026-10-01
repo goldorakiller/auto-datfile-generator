@@ -7946,7 +7946,15 @@
   {
     "SystemCode": "teknoparrot",
     "FullName": "TeknoParrot",
-    "Candidates": []
+    "Candidates": [
+      {
+        "Source": "TeknoParrot (RetroBat)",
+        "Name": "TeknoParrot-RetroBat",
+        "Version": "2026-09-28",
+        "Url": "https://github.com/goldorakiller/auto-datfile-generator/releases/download/Daily_Rebuild/TeknoParrot-RetroBat.datz",
+        "File": "TeknoParrot-RetroBat.datz"
+      }
+    ]
   },
   {
     "SystemCode": "zinc",
@@ -11318,6 +11326,19 @@
         "Version": "2026-09-01",
         "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/eggmansworld-subsets/Ares - LaserActive Discs.xml",
         "File": "Ares - LaserActive Discs.xml"
+      }
+    ]
+  },
+  {
+    "SystemCode": "namco3xx",
+    "FullName": "Namco 357/369",
+    "Candidates": [
+      {
+        "Source": "TeknoParrot (subsets)",
+        "Name": "TeknoParrot - Namco System 357-369",
+        "Version": "2026-09-28",
+        "Url": "https://raw.githubusercontent.com/goldorakiller/auto-datfile-generator/master/teknoparrot-subsets/TeknoParrot - Namco System 357-369.xml",
+        "File": "TeknoParrot - Namco System 357-369.xml"
       }
     ]
   }

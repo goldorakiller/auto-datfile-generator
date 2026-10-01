@@ -156,6 +156,20 @@ jobs:
         if: ${{ ! cancelled() }}
         run: pipenv run python3 eggmansworld-subsets.py
 
+      - name: Download TeknoParrot Collection and build its subsets (e.g. Namco 357/369)
+        # Depot separe Eggmansworld/TeknoParrot : le zip (~145 Mo, dat ~620 Mo) est
+        # telecharge puis filtre, jamais commite. Namco 357/369 est commite dans
+        # teknoparrot-subsets/ ; le dat RetroBat complet (TeknoParrot-RetroBat.datz,
+        # ~150 Mo) part en piece jointe de la release (etape "Create release").
+        # Source externe : meme traitement que les autres (copie de la veille
+        # gardee si echec, signalee dans le bilan).
+        id: teknoparrot
+        if: ${{ ! cancelled() }}
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: pipenv run python3 teknoparrot-subsets.py
+
       - name: Refresh retrobat-systems.json (Version/Url/File only, curated assignments untouched)
         if: ${{ ! cancelled() }}
         run: pipenv run python3 retrobat-systems.py
@@ -196,7 +210,10 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
-          artifacts: "*.xml,*.zip,*.json"
+          # *.datz : dats trop gros pour git (TeknoParrot-RetroBat.datz), publies
+          # seulement ici. Si teknoparrot-subsets.py a echoue, aucun .datz sur
+          # disque : la piece jointe de la veille reste sur la release.
+          artifacts: "*.xml,*.zip,*.json,*.datz"
           commit: master
           name: Daily_Rebuild
           makeLatest: true
@@ -222,6 +239,7 @@ jobs:
           if [ "${{ steps.pd_pinball.outcome }}" = "failure" ]; then failed="$failed|Pleasuredome Pinball"; fi
           if [ "${{ steps.fbneo.outcome }}" = "failure" ]; then failed="$failed|FBNeo"; fi
           if [ "${{ steps.eggman.outcome }}" = "failure" ]; then failed="$failed|Eggmansworld"; fi
+          if [ "${{ steps.teknoparrot.outcome }}" = "failure" ]; then failed="$failed|TeknoParrot Collection"; fi
           if [ "${{ steps.libretro_dat.outcome }}" = "failure" ]; then failed="$failed|Libretro-database (dat)"; fi
           if [ "${{ steps.libretro_metadat.outcome }}" = "failure" ]; then failed="$failed|Libretro-database (metadat)"; fi
           if [ "${{ steps.pd_pinmame.outcome }}" = "failure" ]; then failed="$failed|Pleasuredome PinMAME"; fi

@@ -33,10 +33,12 @@ n'empêche pas les autres de tourner.
 | `clean-cpc-db/` | [clean-cpc-db/dat](https://github.com/clean-cpc-db/dat) | mirroir manuel (upstream non automatisé) |
 | `fbneo-subsets/`, `mame-subsets/` | **fabriqués ici** par `arcade-subsets.py` à partir de `fbneo/` (Arcade only) et `pleasuredome-mame/` (ROMs non-merged) | un DAT par carte arcade (CAVE, CPS-1/2/3, Model 2/3, Hikaru, ZN, Gaelco PowerVR) et les consoles plug & play (TV Games, pilotes MAME `tvgames/`), filtré par l'attribut `sourcefile` de chaque jeu |
 | `eggmansworld-subsets/` | **fabriqués ici** par `eggmansworld-subsets.py` à partir de `Eggmansworld - Datfiles/` | les jeux seuls d'une collection (ex. `Ares - LaserActive Discs` : les 47 disques `.mmi`, sans BIOS, émulateur, scans ni outils, `forcepacking="fileonly"`) |
+| `teknoparrot-subsets/` | **fabriqués ici** par `teknoparrot-subsets.py` depuis la release de [Eggmansworld/TeknoParrot](https://github.com/Eggmansworld/TeknoParrot) (zip téléchargé, jamais commité : dat de ~620 Mo) | jeux d'une carte renommés d'après leur profil TeknoParrot comme l'exige RetroBat (ex. `TeknoParrot - Namco System 357-369` : 19 jeux, dossiers `<GameProfile>.game`), `forcepacking="fileonly"` |
+| *(release uniquement)* `TeknoParrot-RetroBat.datz` | **fabriqué ici** par le même script : tous les autres jeux TeknoParrot, dossiers `<GameProfile>.teknoparrot` (un seul jeu par profil : le premier dans l'ordre d'Eggman, les doublons sont listés dans le journal) | dat gzip (~145 Mo, lu tel quel par ROMVault) trop gros pour git : publié uniquement comme pièce jointe de la release `Daily_Rebuild` |
 
 **Fichiers volumineux exclus** : la limite git est de 100 Mo par fichier
-versionné. Sont donc ignorés : TeknoParrot Collection (617 Mo, source entière
-laissée de côté), "Sega ALLS" d'Eggmansworld (421 Mo), "MAME 2015 XML.zip" de
+versionné. Sont donc ignorés : la TeknoParrot Collection brute (617 Mo,
+remplacée par les sous-ensembles ci-dessus), "Sega ALLS" d'Eggmansworld (421 Mo), "MAME 2015 XML.zip" de
 libretro-database (166 Mo) — comportement attendu, pas un bug.
 
 Différés (pas de mécanisme de distribution automatisable trouvé, ou
@@ -104,5 +106,9 @@ fichier.
 ### RetroBat systems mapping
 
 `https://github.com/goldorakiller/auto-datfile-generator/releases/latest/download/retrobat-systems.json`
+
+### TeknoParrot (RetroBat)
+
+`https://github.com/goldorakiller/auto-datfile-generator/releases/download/Daily_Rebuild/TeknoParrot-RetroBat.datz`
 
 Projet d'origine inspiré de [redump-xml-updater](https://github.com/bilakispa/redump-xml-updater)

@@ -1,3 +1,4 @@
+import gzip
 import os
 import re
 import xml.etree.ElementTree as ET
@@ -53,6 +54,9 @@ LOOSE_FOLDERS = {
     # Fabriques par eggmansworld-subsets.py : les JEUX seuls d'une collection
     # Eggmansworld (ex. disques LaserActive sans BIOS/emulateur/scans).
     "Eggmansworld (subsets)": "eggmansworld-subsets",
+    # Fabriques par teknoparrot-subsets.py depuis la release du depot
+    # Eggmansworld/TeknoParrot (dat source trop gros pour git, jamais commite).
+    "TeknoParrot (subsets)": "teknoparrot-subsets",
 }
 
 # Choix de Cedric : garder le nom de fichier court (ex. "sg1000",
@@ -70,7 +74,18 @@ READ_XML_VERSION = {
     "FBNeo (by board)",
     "MAME (by board)",
     "Eggmansworld (subsets)",
+    "TeknoParrot (subsets)",
 }
+
+# Dats trop gros pour git (>100 Mo meme compresses), donc jamais dans un
+# dossier du depot : fabriques a la racine pendant le run et publies comme
+# pieces jointes de la release Daily_Rebuild (voir le workflow).
+# source -> fichiers. URL par tag (Daily_Rebuild) plutot que "latest" : reste
+# juste meme si une autre release devenait la plus recente un jour.
+RELEASE_ASSETS = {
+    "TeknoParrot (RetroBat)": ["TeknoParrot-RetroBat.datz"],
+}
+RELEASE_TAG = "Daily_Rebuild"
 
 # Les fournisseurs sans manifeste (load_loose_folder) embarquent souvent une
 # date/version DANS le nom de fichier lui-meme (pas de <version> separee a
@@ -145,8 +160,11 @@ def _read_dat_header_version(path):
     depth = -1
     date_value = None
     version_value = None
+    # .datz = dat gzip (format lu tel quel par ROMVault) : decompresse a la
+    # volee, l'arret anticipe sur </header> evite de tout decompresser.
+    opener = gzip.open if path.lower().endswith(".datz") else open
     try:
-        with open(path, "rb") as f:
+        with opener(path, "rb") as f:
             for event, elem in ET.iterparse(f, events=("start", "end")):
                 if event == "start":
                     depth += 1
@@ -161,7 +179,8 @@ def _read_dat_header_version(path):
                 if depth == 1 and elem.tag == "header":
                     return date_value or version_value
                 depth -= 1
-    except ET.ParseError:
+    except (ET.ParseError, OSError):
+        # OSError : gzip corrompu ou tronque (gzip.BadGzipFile en herite).
         return None
     return date_value or version_value
 
@@ -200,6 +219,25 @@ def load_loose_folder(folder, read_xml_version=False):
     return entries
 
 
+def load_release_assets(filenames):
+    """Une entree par fichier present a la racine (fabrique plus tot dans le
+    meme run). Absent (etape en echec) : pas d'entree, le candidat publie la
+    veille est conserve tel quel par retrobat-systems.py, et la piece jointe
+    de la veille reste sur la release. Version = <date> de l'en-tete."""
+    repo = os.environ.get("GITHUB_REPOSITORY", "goldorakiller/auto-datfile-generator")
+    entries = []
+    for filename in filenames:
+        if not os.path.exists(filename):
+            continue
+        entries.append({
+            "name": os.path.splitext(filename)[0],
+            "version": _read_dat_header_version(filename) or "",
+            "url": f"https://github.com/{repo}/releases/download/{RELEASE_TAG}/{filename}",
+            "file": filename,
+        })
+    return entries
+
+
 def load_all_catalogs():
     """source -> liste d'entrees, pour tous les fournisseurs (manifestes +
     dossiers loose). Suppose que les scripts de mirroring ont deja tourne
@@ -216,6 +254,11 @@ def load_all_catalogs():
         entries = load_loose_folder(folder, source in READ_XML_VERSION)
         catalogs[source] = entries
         print(f"{source}: {len(entries)} entries ({folder}/)")
+
+    for source, filenames in RELEASE_ASSETS.items():
+        entries = load_release_assets(filenames)
+        catalogs[source] = entries
+        print(f"{source}: {len(entries)} entries (release assets)")
 
     return catalogs
 
