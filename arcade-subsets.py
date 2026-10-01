@@ -64,6 +64,10 @@ SUBSETS = [
     # Gaelco PowerVR (Demul) = la carte d'ATV Track / Smashing Drive, pas
     # toutes les cartes Gaelco (Radikal Bikers, Big Karnak... sont ailleurs).
     ("Gaelco PowerVR", None, lambda s, m: s == "gaelco/atvtrack.cpp"),
+    # Systeme RetroBat "tvgames" (consoles plug & play, MAME seulement) : MAME
+    # range toutes ces machines dans son dossier de pilotes tvgames/ (XaviX,
+    # SPG2xx, GeneralPlus, Jakks...).
+    ("TV Games", None, lambda s, m: s.startswith("tvgames/")),
 ]
 
 
