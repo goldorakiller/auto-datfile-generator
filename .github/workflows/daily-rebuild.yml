@@ -182,6 +182,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: pipenv run python3 ports-subsets.py
 
+      - name: Build MAME index (listxml + catver + nplayers, for RBTools MAME filters)
+        # mame-index.json : controles, joueurs, ecran, pilote, parent/clone, genre de
+        # chaque machine MAME, que les DAT Pleasuredome ne donnent pas. Jamais commite
+        # (.gitignore), publie seulement en piece jointe de la release (*.json). Source
+        # injoignable : pas de fichier sur disque, la piece jointe de la veille reste.
+        id: mame_index
+        if: ${{ ! cancelled() }}
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: pipenv run python3 mame-index.py
+
       - name: Refresh retrobat-systems.json (Version/Url/File only, curated assignments untouched)
         if: ${{ ! cancelled() }}
         run: pipenv run python3 retrobat-systems.py
@@ -253,6 +265,7 @@ jobs:
           if [ "${{ steps.eggman.outcome }}" = "failure" ]; then failed="$failed|Eggmansworld"; fi
           if [ "${{ steps.teknoparrot.outcome }}" = "failure" ]; then failed="$failed|TeknoParrot Collection"; fi
           if [ "${{ steps.ports.outcome }}" = "failure" ]; then failed="$failed|Ports (supported ROM lists)"; fi
+          if [ "${{ steps.mame_index.outcome }}" = "failure" ]; then failed="$failed|MAME index (listxml, catver, nplayers)"; fi
           if [ "${{ steps.libretro_dat.outcome }}" = "failure" ]; then failed="$failed|Libretro-database (dat)"; fi
           if [ "${{ steps.libretro_metadat.outcome }}" = "failure" ]; then failed="$failed|Libretro-database (metadat)"; fi
           if [ "${{ steps.pd_pinmame.outcome }}" = "failure" ]; then failed="$failed|Pleasuredome PinMAME"; fi

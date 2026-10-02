@@ -5,6 +5,10 @@
 # Dats trop gros pour git (TeknoParrot-RetroBat.datz, ~150 Mo) : publies
 # uniquement comme pieces jointes de la release Daily_Rebuild.
 *.datz
+# Index des machines MAME pour RBTools (mame-index.py, ~5 Mo, refait a chaque run) :
+# publie uniquement en piece jointe de la release, comme les .datz.
+/mame-index.json
+/mame-index.json.tmp
 .DS_Store
 EverDrive-Packs-Lists-Database/
 geckodriver.log
