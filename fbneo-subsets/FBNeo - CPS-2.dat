@@ -6598,6 +6598,33 @@
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
+	<game name="sfz2aldash" cloneof="sfz2al" romof="sfz2al" sourcefile="capcom/d_cps2.cpp">
+		<comment>Hack</comment>
+		<description>Street Fighter Zero 2 Alpha Dash / Gold (Hack, RC2)</description>
+		<year>2026</year>
+		<manufacturer>Zer0-NexuS</manufacturer>
+		<rom name="sz2dash.03" size="524288" crc="25779eab" />
+		<rom name="sz2dash.04" size="524288" crc="737ce842" />
+		<rom name="szaa.05" merge="szaa.05" size="524288" crc="f053a55e" />
+		<rom name="szaa.06" merge="szaa.06" size="524288" crc="cfc0e7a8" />
+		<rom name="sz2dash.07" size="524288" crc="4e2c92ee" />
+		<rom name="sz2dash.08" size="524288" crc="cccc750c" />
+		<rom name="sz2dash.13m" size="4194304" crc="ba450a7e" />
+		<rom name="sz2dash.15m" size="4194304" crc="df1728ae" />
+		<rom name="sz2dash.17m" size="4194304" crc="21044cb9" />
+		<rom name="sz2dash.19m" size="4194304" crc="72234cf0" />
+		<rom name="sz2dash.14m" size="1048576" crc="445c63d2" />
+		<rom name="sz2dash.16m" size="1048576" crc="87eff508" />
+		<rom name="sz2dash.18m" size="1048576" crc="f1d8c9d8" />
+		<rom name="sz2dash.20m" size="1048576" crc="f874c20e" />
+		<rom name="sz2dash.01a" size="131072" crc="3bc82c35" />
+		<rom name="sz2dash.02a" size="131072" crc="f6a8628b" />
+		<rom name="sz2dash.11m" size="2097152" crc="ce184e92" />
+		<rom name="sz2dash.12m" size="2097152" crc="08860e2a" />
+		<rom name="phoenix.key" size="20" crc="2cf772b0" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
 	<game name="sfz2adl" cloneof="sfz2al" romof="sfz2al" sourcefile="capcom/d_cps2.cpp">
 		<comment>Hack</comment>
 		<description>Street Fighter Zero 2 Alpha: Dragon Level (Hack by pipi899, Ver.2009-04-24)</description>
