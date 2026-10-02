@@ -2,7 +2,9 @@
   {
     "SystemCode": "flash",
     "FullName": "flash",
-    "Candidates": []
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "No DAT of individual .swf games (Flashpoint DATs describe archives)."
   },
   {
     "SystemCode": "j2me",
@@ -154,7 +156,9 @@
   {
     "SystemCode": "actionmax",
     "FullName": "Actionmax",
-    "Candidates": []
+    "Candidates": [],
+    "NoDat": "none-yet",
+    "NoDatReason": "Only the archive checksums are published, not the files inside."
   },
   {
     "SystemCode": "cps1",
@@ -679,7 +683,9 @@
   {
     "SystemCode": "megadrive-msu",
     "FullName": "Megadrive - Genesis (MSU)",
-    "Candidates": []
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "Fan-made MSU-1 packs, updated too often for a DAT."
   },
   {
     "SystemCode": "megacd",
@@ -1096,7 +1102,9 @@
   {
     "SystemCode": "snes-msu1",
     "FullName": "Super NES MSU-1",
-    "Candidates": []
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "Fan-made MSU-1 packs, updated too often for a DAT."
   },
   {
     "SystemCode": "gb-msu",
@@ -7039,7 +7047,9 @@
   {
     "SystemCode": "karaoke",
     "FullName": "Karaoke",
-    "Candidates": []
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "CD+G karaoke tracks, no reference collection."
   },
   {
     "SystemCode": "pokemini",
@@ -7789,7 +7799,9 @@
   {
     "SystemCode": "love",
     "FullName": "LÃƒâ€“VE",
-    "Candidates": []
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "Independent games, no reference collection."
   },
   {
     "SystemCode": "lutro",
@@ -7926,12 +7938,16 @@
   {
     "SystemCode": "ikemen",
     "FullName": "IKEMEN",
-    "Candidates": []
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "Fan-made fighting game packs, no reference collection."
   },
   {
     "SystemCode": "mugen",
     "FullName": "MUGEN",
-    "Candidates": []
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "Fan-made fighting game packs, no reference collection."
   },
   {
     "SystemCode": "openbor",
@@ -7998,7 +8014,9 @@
   {
     "SystemCode": "amazon",
     "FullName": "Amazon Prime Gaming",
-    "Candidates": []
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "Shortcuts to games installed by the Amazon Games launcher."
   },
   {
     "SystemCode": "steam",
@@ -8026,7 +8044,9 @@
   {
     "SystemCode": "eagames",
     "FullName": "EA Games",
-    "Candidates": []
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "Shortcuts to games installed by the EA app."
   },
   {
     "SystemCode": "Windows",
@@ -10872,12 +10892,16 @@
   {
     "SystemCode": "openlara",
     "FullName": "OpenLara",
-    "Candidates": []
+    "Candidates": [],
+    "NoDat": "none-yet",
+    "NoDatReason": "The GOG release keeps the game files inside a CD image: no published checksums."
   },
   {
     "SystemCode": "opengoal",
     "FullName": "OpenGOAL",
-    "Candidates": []
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "Text launchers only: the PS2 ISOs are checked in the ps2 system."
   },
   {
     "SystemCode": "openjazz",
@@ -10923,7 +10947,9 @@
   {
     "SystemCode": "sonicretro",
     "FullName": "Sonic Retro",
-    "Candidates": []
+    "Candidates": [],
+    "NoDat": "none-yet",
+    "NoDatReason": "Data.rsdk comes from Sonic Origins, Steam or mobile: no published checksums."
   },
   {
     "SystemCode": "starship",
@@ -10974,17 +11000,23 @@
   {
     "SystemCode": "library",
     "FullName": "Library",
-    "Candidates": []
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "Personal library (images, videos, documents), outside the roms folder."
   },
   {
     "SystemCode": "retrobat",
     "FullName": "RetroBat",
-    "Candidates": []
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "RetroBat configuration menu entries, not games."
   },
   {
     "SystemCode": "screenshots",
     "FullName": "Screenshots",
-    "Candidates": []
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "Screenshots taken in game, outside the roms folder."
   },
   {
     "SystemCode": "apple2group",
@@ -11009,7 +11041,9 @@
   {
     "SystemCode": "mess",
     "FullName": "MESS",
-    "Candidates": []
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "Group of MESS systems: each system has its own DAT."
   },
   {
     "SystemCode": "nintendogameboy",
@@ -11404,5 +11438,54 @@
         "File": "DuskLight - Twilight Princess.xml"
       }
     ]
+  },
+  {
+    "SystemCode": "halflife",
+    "FullName": "Half-Life",
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "Steam game data plus engine files copied by RetroBat: a Fix would break the game."
+  },
+  {
+    "SystemCode": "bennugd",
+    "FullName": "BennuGD",
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "Homebrew games, no reference collection."
+  },
+  {
+    "SystemCode": "sgb-msu1",
+    "FullName": "GameBoy MSU",
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "Fan-made MSU-1 packs, updated too often for a DAT."
+  },
+  {
+    "SystemCode": "n64recomp",
+    "FullName": "Nintendo 64 Recompilation",
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "Shortcuts to ports installed by N64RecompLauncher."
+  },
+  {
+    "SystemCode": "powerbomberman",
+    "FullName": "Power Bomberman",
+    "Candidates": [],
+    "NoDat": "never",
+    "NoDatReason": "Launcher file only: the game is installed in the emulators folder."
+  },
+  {
+    "SystemCode": "bsyndrome",
+    "FullName": "Bermuda Syndrome",
+    "Candidates": [],
+    "NoDat": "none-yet",
+    "NoDatReason": "No published checksums for the original game files."
+  },
+  {
+    "SystemCode": "sonic-mania",
+    "FullName": "Sonic Mania",
+    "Candidates": [],
+    "NoDat": "none-yet",
+    "NoDatReason": "Data.rsdk comes from Steam, Epic or consoles: no published checksums."
   }
 ]
