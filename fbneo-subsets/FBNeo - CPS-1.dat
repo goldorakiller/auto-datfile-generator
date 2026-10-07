@@ -6447,6 +6447,32 @@
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
+	<game name="sf2bs" cloneof="sf2ce" romof="sf2ce" sourcefile="capcom/d_cps1.cpp">
+		<comment>Hack</comment>
+		<description>Street Fighter II': BONUS STAGE (Hack)</description>
+		<year>2026</year>
+		<manufacturer>zeroco</manufacturer>
+		<rom name="bs92e_23b.8f" size="524288" crc="3e74960a" />
+		<rom name="bs92_22b.7f" size="524288" crc="c2a6dfb2" />
+		<rom name="bs92_21a.6f" size="524288" crc="c0c44499" />
+		<rom name="s92_01.bin" merge="s92-1m.3a" size="524288" crc="03b0d852" />
+		<rom name="s92_02.bin" merge="s92-3m.5a" size="524288" crc="840289ec" />
+		<rom name="s92_03.bin" merge="s92-2m.4a" size="524288" crc="cdb5f027" />
+		<rom name="s92_04.bin" merge="s92-4m.6a" size="524288" crc="e2799472" />
+		<rom name="s92_05.bin" merge="s92-5m.7a" size="524288" crc="ba8a2761" />
+		<rom name="s92_06.bin" merge="s92-7m.9a" size="524288" crc="e584bfb5" />
+		<rom name="s92_07.bin" merge="s92-6m.8a" size="524288" crc="21e3f87d" />
+		<rom name="s92_08.bin" merge="s92-8m.10a" size="524288" crc="befc47df" />
+		<rom name="s92_10.bin" merge="s92-10m.3c" size="524288" crc="960687d5" />
+		<rom name="s92_11.bin" merge="s92-12m.5c" size="524288" crc="978ecd18" />
+		<rom name="s92_12.bin" merge="s92-11m.4c" size="524288" crc="d6ec9a0a" />
+		<rom name="s92_13.bin" merge="s92-13m.6c" size="524288" crc="ed2c67f6" />
+		<rom name="s92_09.bin" merge="s92_09.11a" size="65536" crc="08f6b60e" />
+		<rom name="s92_18.bin" merge="s92_18.11c" size="131072" crc="7f162009" />
+		<rom name="s92_19.bin" merge="s92_19.12c" size="131072" crc="beade53f" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
 	<game name="sf2cebltw" cloneof="sf2ce" romof="sf2ce" sourcefile="capcom/d_cps1.cpp">
 		<comment>Bootleg</comment>
 		<description>Street Fighter II': Champion Edition ('Taiwan' bootleg with PAL)</description>
