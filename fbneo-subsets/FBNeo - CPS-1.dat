@@ -6285,12 +6285,12 @@
 	</game>
 	<game name="sf2mix" cloneof="sf2ce" romof="sf2ce" sourcefile="capcom/d_cps1.cpp">
 		<comment>Hack</comment>
-		<description>Street Fighter II Mix (v1.6)</description>
-		<year>2025</year>
+		<description>Street Fighter II Mix (v1.7)</description>
+		<year>2025-26</year>
 		<manufacturer>hack</manufacturer>
-		<rom name="smxe_23b.8f" size="524288" crc="41877bf2" />
-		<rom name="smx_22b.7f" size="524288" crc="ecc7e105" />
-		<rom name="smx_21a.6f" size="524288" crc="07fb17ea" />
+		<rom name="smxe_23b.8f" size="524288" crc="60d0d40d" />
+		<rom name="smx_22b.7f" size="524288" crc="f7bd54e7" />
+		<rom name="smx_21a.6f" size="524288" crc="b580c709" />
 		<rom name="smx-1m.3a" size="524288" crc="a8f70643" />
 		<rom name="smx-3m.5a" size="524288" crc="f73f1913" />
 		<rom name="smx-2m.4a" size="524288" crc="a80234b4" />
