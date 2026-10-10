@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</name>
 		<description>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</description>
 		<category>Standard DatFile</category>
-		<version>2026-10-08</version>
-		<date>2026-10-08</date>
+		<version>2026-10-09</version>
+		<date>2026-10-09</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>https://eab.abime.net/showthread.php?t=61028</homepage>
@@ -38,6 +38,7 @@
 	</machine>
 	<machine name="C">
 		<description>C</description>
+		<rom name="CannonFodderEditor_v1.0.lha" size="2178971" crc="c202fc3b" md5="ecfd9cbd2d2db170e107544b99c07482" sha1="80971a87a6092fe69666d192c34e34175e1d8a37"/>
 		<rom name="Castlevania_v1.2_AGA_September2026.lha" size="2191341" crc="602c769d" md5="48bf24bc0a0f3347a0c0fc97f7acc3e7" sha1="54b16c5eb57b27f4872da785bf76b2c9ff936e9f"/>
 		<rom name="Citadel_v1.4_RemonsteredEdition.lha" size="3705127" crc="cfc32130" md5="1cbfabb63973c75791946bd764365d50" sha1="e5a1c9f1970bc882ba09bb4979afb10072ab6f91"/>
 		<rom name="Commando_v1.02_AGA.lha" size="894238" crc="4bcef0d6" md5="4fe2f61b3d6a57c6fbc4bc6457cd320f" sha1="827e0bf7dbedaf2ddbe2e940ade6ad99f53fdf0d"/>
