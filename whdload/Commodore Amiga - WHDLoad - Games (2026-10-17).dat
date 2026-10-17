@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games</name>
 		<description>Commodore Amiga - WHDLoad - Games</description>
 		<category>Standard DatFile</category>
-		<version>2026-10-11</version>
-		<date>2026-10-11</date>
+		<version>2026-10-17</version>
+		<date>2026-10-17</date>
 		<author>Retroplay</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -147,7 +147,7 @@
 		<rom name="AllTerrainRacing_v1.6.lha" size="650600" crc="27b25de1" md5="97326748bc5c8bac3e7dc82de72e0bf8" sha1="d1d80b712af3de97378296b9f1806068fceee443"/>
 		<rom name="AllTerrainRacing_v1.6_CD32.lha" size="646058" crc="cb8bbbab" md5="72f6c667d0847eccf29b654ea56c8b1e" sha1="dccc50176b88a67ace473928cc039d4ead619622"/>
 		<rom name="AllTerrainRacingXmasDemo_v1.2.lha" size="394966" crc="d44dd95f" md5="852cb477e1bd1c9696f470db0717dd10" sha1="fd2a54fcad916a8cb42d8cdf5b798dba4cf05b70"/>
-		<rom name="AloneInTheDark_v0.91_AGA.lha" size="6570757" crc="02f11bf0" md5="755ec9e22b860a0fe8cb4125313437de" sha1="2ed0253dbf6143170d715aade1d003f8d5e54e95"/>
+		<rom name="AloneInTheDark_v0.92_AGA.lha" size="6576748" crc="7bd7b79f" md5="25ec156d314a85c145a58771273a33e5" sha1="93d4b927586b11b0a5a82702fcb19ac4948d0611"/>
 		<rom name="Alpha1_v1.0_1921.lha" size="136951" crc="fbd26d42" md5="9ecfe1f1d3b591a9592c101ca2043948" sha1="4f41fc71c67a9852fe16e25c069be544c4132f57"/>
 		<rom name="AlphaWaves_v1.0_0626.lha" size="227865" crc="c2bed176" md5="cf3e9647dd208ef8bb2077b5bbb4780b" sha1="dca8bd8d2f1e509a320a32e24c13951ff33dc93f"/>
 		<rom name="AlteredBeast_v2.2_0819.lha" size="677766" crc="4390d057" md5="2445606ffdda03bfa46279ccfe9acd25" sha1="172c33cc8c867c66845a7c009b6acfa36b4e4701"/>
@@ -2760,10 +2760,10 @@
 		<rom name="PrimalRage_v1.1_AGA.lha" size="3156149" crc="0bff98a5" md5="3c32235697a021d7389fdb7bb6b9ff09" sha1="86eecdff65aba88bd8c1a4b8e690cc6ff896cba5"/>
 		<rom name="PrimeMover_v1.1_0694.lha" size="1336622" crc="3ac849dd" md5="a621cccc906b014a4112248b8915b0ed" sha1="ab051fab1b308bc0aac52e3d8a5527ea3107b178"/>
 		<rom name="Prince_v1.01_1729.lha" size="528060" crc="19dd5d32" md5="53ca1af5e01fa1a9123e4ffeacef5673" sha1="244fb5500b08516983b5faa13d05a1da53958bfa"/>
-		<rom name="PrinceDePerse_v4.4_Fr_2290.lha" size="340987" crc="b76dcb9c" md5="1139adb57d24e14a9b9479db6ab1316a" sha1="9f022a67a782c31345fb71302026721374c6de9d"/>
-		<rom name="PrinceOfPersia_v4.4_1823.lha" size="341740" crc="0a4abc82" md5="1ad7fb8c925d7cfb79a188942082f3f7" sha1="a98baa1f8b51d594764b3050f56dbceb8ff13f94"/>
-		<rom name="PrinceOfPersia_v4.4_De_0082.lha" size="341352" crc="5ab5b2b5" md5="3c8d0ae874aeda56813d27239e73caa9" sha1="50f1f799e3de96e719e9f57b83b55761f182dee6"/>
-		<rom name="PrinceOfPersia_v4.4_NTSC_1407.lha" size="340530" crc="f4cacf19" md5="02b50c9ec58ca9bf888cf5046c384c24" sha1="65d0d0ebe23fd32e512308ba0b8113808ae39f31"/>
+		<rom name="PrinceDePerse_v5.1_Fr_2290.lha" size="347427" crc="373e779a" md5="c28ead2090b5f100b6995dd388ac09fb" sha1="b79fadee797253988bb63484bdee95353eaa75e7"/>
+		<rom name="PrinceOfPersia_v5.1_1823.lha" size="348325" crc="5fa3c1a9" md5="3186afed714b6a6de6cf11f810862b99" sha1="0726aba4b9ec8e894b9d70bf0d1f2dc8c8d6b404"/>
+		<rom name="PrinceOfPersia_v5.1_De_0082.lha" size="347937" crc="e4424b83" md5="ccedc7b089f40afca460cede25c3fe93" sha1="992719b611a10325253851a5f11108987ec8e80b"/>
+		<rom name="PrinceOfPersia_v5.1_NTSC_1407.lha" size="347115" crc="7f65f237" md5="03ec688e933df07594ba90761d510397" sha1="bf32d54d6c3d371a292fb9223e5b007850de6dea"/>
 		<rom name="Prison_v2.0_0416.lha" size="516003" crc="0e611c82" md5="d950de7c5c7a4f0e74f1e881d8a3a5f9" sha1="775eb71fc1a586784cf63d7695474662b383f8ec"/>
 		<rom name="Prison_v2.0_NTSC.lha" size="515060" crc="8f4b788c" md5="2ac28596d87dbd96e3e9bbc451b8e2af" sha1="e8592540c453e0c0b52418cdb52e5dfe5ebf610d"/>
 		<rom name="ProBoxingSimulator_v1.2_1663.lha" size="412652" crc="f6bc729f" md5="76f9573a3fe509263926aa89f33636a0" sha1="3ac23879e234b66dae2f99c09ed008c871202a7b"/>
@@ -3199,7 +3199,7 @@
 		<rom name="Sleepwalker_v1.2_AGA_0577.lha" size="3398825" crc="18006bd2" md5="2dea4f5df2cb1577e37210eb35704758" sha1="481ece640099328336e84a814e1ba765d693256f"/>
 		<rom name="Sleepwalker_v1.2_AGA_ComicRelief_1880.lha" size="3157174" crc="5f29143c" md5="1177f7c20d2769b832a41fd15441eb2b" sha1="e5ea89ac59a8a16bbfeaffbaaec227e34542187b"/>
 		<rom name="Sleepwalker_v1.2_ComicRelief_0291.lha" size="2643576" crc="84a217c1" md5="93659b26adb380846484cae7faf2e3db" sha1="e0018021145c4a7f39abb5b6538d22c3c2a88201"/>
-		<rom name="SlicksNSlide_v0.90_AGA.lha" size="915383" crc="008d6b68" md5="9eebcda32fa6687504ba2f402e2aed6f" sha1="469f43eaabf73bf202ce63944ef1f896d6995d03"/>
+		<rom name="SlicksNSlide_v0.91_AGA.lha" size="916379" crc="de6261e8" md5="8cc9ac38602cd15c02a3f7e7ce123d79" sha1="35043390f6cdf7b0afba3b261143712482592578"/>
 		<rom name="Sliders_v1.1.lha" size="295351" crc="f6a338e0" md5="3da13b0ec460beeb0b9353ab69c0619d" sha1="1980db45513ac31e22f02e84f7f2995b3e00168e"/>
 		<rom name="SlightlyMagic_v1.0_2174.lha" size="615932" crc="32b094d0" md5="f185a070d57a4c8e4031762791e9f6a7" sha1="d8a482f285980c79bee44a0affddee91b920142b"/>
 		<rom name="SlipStream_v1.0_1629.lha" size="340252" crc="6512c854" md5="6e067799d1347c19fabfeac2c5328da2" sha1="f67edf7b19cb1706e09210aca753064b9308217d"/>

@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - HD Loaders - Games</name>
 		<description>Commodore Amiga - HD Loaders - Games</description>
 		<category>Standard DatFile</category>
-		<version>2026-09-08</version>
-		<date>2026-09-08</date>
+		<version>2026-10-17</version>
+		<date>2026-10-17</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -57,6 +57,11 @@
 	<machine name="I">
 		<description>I</description>
 		<rom name="Imperium_HD_JOTD_0341.lha" size="355443" crc="5801ec45" md5="09309a4af160df50aa303f89521afc7b" sha1="cb5d5786fb8e0ce8fbcc374ea3e598df742508df"/>
+		<rom name="IndianaJones&amp;TheFateOfAtlantis_v6.0.0_AGA_De_dlfrsilver.lha" size="12473331" crc="ec8d4efd" md5="9bb41ce0dad73e386f77954d02fcea5f" sha1="7674264b5cff8c17b74782bb88f06c71bd13cc11"/>
+		<rom name="IndianaJones&amp;TheFateOfAtlantis_v6.0.0_AGA_dlfrsilver.lha" size="12460142" crc="ba614792" md5="9e49b7e755a0a278177a5f30c13e7311" sha1="330c73287658ec6e9ddb71f647174fd02d588bf9"/>
+		<rom name="IndianaJones&amp;TheFateOfAtlantis_v6.0.0_AGA_Es_dlfrsilver.lha" size="12457164" crc="4751f7bf" md5="91bb3bf654671f25ff865e793bc3bce7" sha1="06d0841d4e03330fb7553e9de8e767821eaadb59"/>
+		<rom name="IndianaJones&amp;TheFateOfAtlantis_v6.0.0_AGA_Fr_dlfrsilver.lha" size="12464124" crc="23d7d9db" md5="2a8e7e31aa9730c31233f2ef09c24d42" sha1="bb2c53f233af7110725d5a51b32871673ca0df8c"/>
+		<rom name="IndianaJones&amp;TheFateOfAtlantis_v6.0.0_AGA_It_dlfrsilver.lha" size="12465320" crc="74a0bb08" md5="a5da9405487227ff405c41617a64b104" sha1="21748d4cabfaab2061155bafc8a122dda9584f01"/>
 	</machine>
 	<machine name="J">
 		<description>J</description>
@@ -71,6 +76,11 @@
 		<description>M</description>
 		<rom name="MarbleMadness_v2.0_HD_JOTD_0013.lha" size="394690" crc="48664645" md5="8e9880a94980ddb523a10221413a4d01" sha1="a5d6b810c99073868e673acc84831741b074948c"/>
 		<rom name="MicroProseGolf_HD_JOTD.lha" size="1076897" crc="175d6f20" md5="e964e0bca374e5608f42f1fc4bf8157b" sha1="2bee3da7769462f0a8c86ad56d7b93be566670cf"/>
+		<rom name="MonkeyIsland2_v6.0.0_AGA_De_dlfrsilver.lha" size="13414455" crc="1b5a32f9" md5="426957dbddced93afc1245a17c40b642" sha1="27a76a3e26903b25d9d7e86159250dab3e1fca9f"/>
+		<rom name="MonkeyIsland2_v6.0.0_AGA_dlfrsilver.lha" size="13400764" crc="784cfc42" md5="9991ef1f3cd87e094e44059563c9342d" sha1="c6868b0e36696a9d85b5ee89fa3bd47e013bf7f3"/>
+		<rom name="MonkeyIsland2_v6.0.0_AGA_Es_dlfrsilver.lha" size="13407125" crc="61d9e531" md5="2ddb136b01cb3ea99eaffef0555c8512" sha1="7c11ebb4a73845cfb589e9417a356eb303a0a3b1"/>
+		<rom name="MonkeyIsland2_v6.0.0_AGA_Fr_dlfrsilver.lha" size="13414643" crc="1e485a98" md5="b31104f04a16c2a1b110cba2e1ac47bf" sha1="e637e2ae2e4c228f18603922b290826a5e6e3e8d"/>
+		<rom name="MonkeyIsland2_v6.0.0_AGA_It_dlfrsilver.lha" size="13407925" crc="190c8c1f" md5="65039b9ce47dfc1c62e1e9c8c38e1434" sha1="f7acb037226b2e144fcb8198ad2c959010b840b1"/>
 		<rom name="MortalKombat2_v1.1b_HD_JOTD.lha" size="2810643" crc="e4ad886e" md5="6d29296244000ac0c6480650eb1f200c" sha1="7ba4f5b5562093f6cb0de5e5953bb00f9c9a7d1b"/>
 	</machine>
 	<machine name="N">
