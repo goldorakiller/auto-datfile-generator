@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - HD Loaders - Games</name>
 		<description>Commodore Amiga - HD Loaders - Games</description>
 		<category>Standard DatFile</category>
-		<version>2026-10-18</version>
-		<date>2026-10-18</date>
+		<version>2026-10-19</version>
+		<date>2026-10-19</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -40,11 +40,11 @@
 	<machine name="D">
 		<description>D</description>
 		<rom name="Darkmere_HD_JOTD.lha" size="2353358" crc="b3a5ba7c" md5="23c4e71398e15a8c31c4f762d5948a52" sha1="183d7df9a644793fccf1e6909eb69fd4046fda34"/>
-		<rom name="DayOfTheTentacle_v1.0_DaRaSCo.lha" size="20564176" crc="332e9e39" md5="e0dfa29ccadaec97e5e2109a90cd7391" sha1="954bb48f98aa9553f702d4d23d9a364cfe707c4b"/>
-		<rom name="DayOfTheTentacle_v1.0_De_DaRaSCo.lha" size="20764344" crc="5d936f93" md5="0f656ba0ce5c3089ae613359173a71f2" sha1="2429d6c7825ccf3194294096426dfada9581de80"/>
-		<rom name="DayOfTheTentacle_v1.0_Es_DaRaSCo.lha" size="20576626" crc="5f2fb06d" md5="154a84fc9ace97364e3b16b885edd903" sha1="1ff38a114fede973e21e39207a617fcd4762a478"/>
-		<rom name="DayOfTheTentacle_v1.0_Fr_DaRaSCo.lha" size="20570297" crc="30d7841f" md5="99a7cfbc67d5cec29dbb2f89c730022a" sha1="58ba11be930ed93aba003d1102a8e41f1f9a7c9b"/>
-		<rom name="DayOfTheTentacle_v1.0_It_DaRaSCo.lha" size="20574909" crc="5ca60155" md5="f8ac7455caddbbe8b26071c89bfade45" sha1="6196e61d1497190aed6d377fa5d00d18db04f4a3"/>
+		<rom name="DayOfTheTentacle_v1.0_Darasco.lha" size="20564176" crc="332e9e39" md5="e0dfa29ccadaec97e5e2109a90cd7391" sha1="954bb48f98aa9553f702d4d23d9a364cfe707c4b"/>
+		<rom name="DayOfTheTentacle_v1.0_De_Darasco.lha" size="20764344" crc="5d936f93" md5="0f656ba0ce5c3089ae613359173a71f2" sha1="2429d6c7825ccf3194294096426dfada9581de80"/>
+		<rom name="DayOfTheTentacle_v1.0_Es_Darasco.lha" size="20576626" crc="5f2fb06d" md5="154a84fc9ace97364e3b16b885edd903" sha1="1ff38a114fede973e21e39207a617fcd4762a478"/>
+		<rom name="DayOfTheTentacle_v1.0_Fr_Darasco.lha" size="20570297" crc="30d7841f" md5="99a7cfbc67d5cec29dbb2f89c730022a" sha1="58ba11be930ed93aba003d1102a8e41f1f9a7c9b"/>
+		<rom name="DayOfTheTentacle_v1.0_It_Darasco.lha" size="20574909" crc="5ca60155" md5="f8ac7455caddbbe8b26071c89bfade45" sha1="6196e61d1497190aed6d377fa5d00d18db04f4a3"/>
 	</machine>
 	<machine name="E">
 		<description>E</description>
@@ -62,11 +62,16 @@
 	<machine name="I">
 		<description>I</description>
 		<rom name="Imperium_HD_JOTD_0341.lha" size="355443" crc="5801ec45" md5="09309a4af160df50aa303f89521afc7b" sha1="cb5d5786fb8e0ce8fbcc374ea3e598df742508df"/>
-		<rom name="IndianaJones&amp;TheFateOfAtlantis_v6.0.0_AGA_De_dlfrsilver.lha" size="12473331" crc="ec8d4efd" md5="9bb41ce0dad73e386f77954d02fcea5f" sha1="7674264b5cff8c17b74782bb88f06c71bd13cc11"/>
+		<rom name="IndianaJones&amp;TheFateOfAtlantis_v6.0.0_AGA_De_dlfrsilver.lha" size="12473436" crc="0125b0b4" md5="422f159ab8faac22c4f1a2de75d0742e" sha1="c456f42b923ab0c8fcb77d5190c117acb8c9c6b8"/>
 		<rom name="IndianaJones&amp;TheFateOfAtlantis_v6.0.0_AGA_dlfrsilver.lha" size="12460142" crc="ba614792" md5="9e49b7e755a0a278177a5f30c13e7311" sha1="330c73287658ec6e9ddb71f647174fd02d588bf9"/>
 		<rom name="IndianaJones&amp;TheFateOfAtlantis_v6.0.0_AGA_Es_dlfrsilver.lha" size="12457164" crc="4751f7bf" md5="91bb3bf654671f25ff865e793bc3bce7" sha1="06d0841d4e03330fb7553e9de8e767821eaadb59"/>
 		<rom name="IndianaJones&amp;TheFateOfAtlantis_v6.0.0_AGA_Fr_dlfrsilver.lha" size="12464124" crc="23d7d9db" md5="2a8e7e31aa9730c31233f2ef09c24d42" sha1="bb2c53f233af7110725d5a51b32871673ca0df8c"/>
 		<rom name="IndianaJones&amp;TheFateOfAtlantis_v6.0.0_AGA_It_dlfrsilver.lha" size="12465320" crc="74a0bb08" md5="a5da9405487227ff405c41617a64b104" sha1="21748d4cabfaab2061155bafc8a122dda9584f01"/>
+		<rom name="IndianaJones&amp;TheLastCrusade_v1.0_Darasco.lha" size="6569356" crc="dc937183" md5="05bf0dfec22901401ab1e66198c6e228" sha1="69b4acedd922fcbb907dd81a9a9ab038518479c2"/>
+		<rom name="IndianaJones&amp;TheLastCrusade_v1.0_De_Darasco.lha" size="6573112" crc="8969f49c" md5="ac1c4a50c69bb7330a72b1819c50e736" sha1="b2da49d5ea8a44050b741df5210c3cbcdc08c92d"/>
+		<rom name="IndianaJones&amp;TheLastCrusade_v1.0_Es_Darasco.lha" size="6570672" crc="f128c662" md5="ce36338606af0808ef59af2954a32a32" sha1="7d9cc6aa1c7e339f13702daae5af0209385e5e33"/>
+		<rom name="IndianaJones&amp;TheLastCrusade_v1.0_Fr_Darasco.lha" size="6572840" crc="11f6c897" md5="3a42ed523e3afed77adb95ba4cf59675" sha1="d29eb75f938963c6e6f7a8bacd511e21666cd1d1"/>
+		<rom name="IndianaJones&amp;TheLastCrusade_v1.0_It_Darasco.lha" size="6570647" crc="26fb0671" md5="9ee4d7da7d215d5f09e7b3e5f535198c" sha1="5b4a9eff5720e95a1970fa91804cef00cc3a984f"/>
 		<rom name="IndianaJones&amp;TheLastCrusade_v1.5_AGA_De_dlfrsilver.lha" size="4415726" crc="7cd3f7cf" md5="cba805b31bab43521a37abe876c12faf" sha1="316f17be19e28da3699005b9956251ab42b988a2"/>
 		<rom name="IndianaJones&amp;TheLastCrusade_v1.5_AGA_dlfrsilver.lha" size="4415835" crc="c3a9f055" md5="bef68d7da3e58960ad9187d276864f94" sha1="b459e5f124c1a5dd90f4585f84b46aef9d6e4b20"/>
 		<rom name="IndianaJones&amp;TheLastCrusade_v1.5_AGA_Es_dlfrsilver.lha" size="4416513" crc="0ab6b46a" md5="764fae12d90ca0e08a07193e6aa8fc2a" sha1="3aa4302b43b38d1fea083dec0941e0f6f4e71633"/>
