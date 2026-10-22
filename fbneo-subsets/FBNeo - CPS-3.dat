@@ -1622,20 +1622,69 @@
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
+	<game name="sfiii3tag6p" cloneof="sfiii3" romof="sfiii3" sourcefile="cps3/d_cps3.cpp">
+		<comment>Hack</comment>
+		<description>Street Fighter III 3rd Strike: Fight for the Future (Hack, Tag 6 Players, v4.3)</description>
+		<year>2026</year>
+		<manufacturer>Morphus56K</manufacturer>
+		<rom name="sfiii3_japan_nocd.29f400.u2" size="524288" crc="1edc6366" />
+		<rom name="sfiii3tag-simm1.0" size="2097152" crc="06095f64" />
+		<rom name="sfiii3tag-simm1.1" size="2097152" crc="c62aeb15" />
+		<rom name="sfiii3tag6p-simm1.2" size="2097152" crc="665af926" />
+		<rom name="sfiii3tag6p-simm1.3" size="2097152" crc="45ba277e" />
+		<rom name="sfiii3tag6p-simm2.0" size="2097152" crc="ed89b9f3" />
+		<rom name="sfiii3tag6p-simm2.1" size="2097152" crc="1e7c8853" />
+		<rom name="sfiii3tag6p-simm2.2" size="2097152" crc="e5d0719e" />
+		<rom name="sfiii3tag6p-simm2.3" size="2097152" crc="6843f894" />
+		<rom name="sfiii3-simm3.0" merge="sfiii3-simm3.0" size="2097152" crc="7baa1f79" />
+		<rom name="sfiii3-simm3.1" merge="sfiii3-simm3.1" size="2097152" crc="234bf8fe" />
+		<rom name="sfiii3-simm3.2" merge="sfiii3-simm3.2" size="2097152" crc="d9ebc308" />
+		<rom name="sfiii3-simm3.3" merge="sfiii3-simm3.3" size="2097152" crc="293cba77" />
+		<rom name="sfiii3-simm3.4" merge="sfiii3-simm3.4" size="2097152" crc="6055e747" />
+		<rom name="sfiii3-simm3.5" merge="sfiii3-simm3.5" size="2097152" crc="499aa6fc" />
+		<rom name="sfiii3-simm3.6" merge="sfiii3-simm3.6" size="2097152" crc="6c13879e" />
+		<rom name="sfiii3-simm3.7" merge="sfiii3-simm3.7" size="2097152" crc="cf4f8ede" />
+		<rom name="sfiii3-simm4.0" merge="sfiii3-simm4.0" size="2097152" crc="091fd5ba" />
+		<rom name="sfiii3-simm4.1" merge="sfiii3-simm4.1" size="2097152" crc="0bca8917" />
+		<rom name="sfiii3-simm4.2" merge="sfiii3-simm4.2" size="2097152" crc="a0fd578b" />
+		<rom name="sfiii3-simm4.3" merge="sfiii3-simm4.3" size="2097152" crc="4bf8c699" />
+		<rom name="sfiii3-simm4.4" merge="sfiii3-simm4.4" size="2097152" crc="137b8785" />
+		<rom name="sfiii3-simm4.5" merge="sfiii3-simm4.5" size="2097152" crc="4fb70671" />
+		<rom name="sfiii3-simm4.6" merge="sfiii3-simm4.6" size="2097152" crc="832374a4" />
+		<rom name="sfiii3-simm4.7" merge="sfiii3-simm4.7" size="2097152" crc="1c88576d" />
+		<rom name="sfiii3-simm5.0" merge="sfiii3-simm5.0" size="2097152" crc="c67d9190" />
+		<rom name="sfiii3-simm5.1" merge="sfiii3-simm5.1" size="2097152" crc="6cb79868" />
+		<rom name="sfiii3-simm5.2" merge="sfiii3-simm5.2" size="2097152" crc="df69930e" />
+		<rom name="sfiii3-simm5.3" merge="sfiii3-simm5.3" size="2097152" crc="333754e0" />
+		<rom name="sfiii3-simm5.4" merge="sfiii3-simm5.4" size="2097152" crc="78f6d417" />
+		<rom name="sfiii3-simm5.5" merge="sfiii3-simm5.5" size="2097152" crc="8ccad9b1" />
+		<rom name="sfiii3-simm5.6" merge="sfiii3-simm5.6" size="2097152" crc="85de59e5" />
+		<rom name="sfiii3-simm5.7" merge="sfiii3-simm5.7" size="2097152" crc="ee7e29b3" />
+		<rom name="sfiii3-simm6.0" merge="sfiii3-simm6.0" size="2097152" crc="8da69042" />
+		<rom name="sfiii3-simm6.1" merge="sfiii3-simm6.1" size="2097152" crc="1c8c7ac4" />
+		<rom name="sfiii3-simm6.2" merge="sfiii3-simm6.2" size="2097152" crc="a671341d" />
+		<rom name="sfiii3-simm6.3" merge="sfiii3-simm6.3" size="2097152" crc="1a990249" />
+		<rom name="sfiii3-simm6.4" merge="sfiii3-simm6.4" size="2097152" crc="20cb39ac" />
+		<rom name="sfiii3-simm6.5" merge="sfiii3-simm6.5" size="2097152" crc="5f844b2f" />
+		<rom name="sfiii3-simm6.6" merge="sfiii3-simm6.6" size="2097152" crc="450e8d28" />
+		<rom name="sfiii3-simm6.7" merge="sfiii3-simm6.7" size="2097152" crc="cc5f4187" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
 	<game name="sfiii3tag" cloneof="sfiii3" romof="sfiii3" sourcefile="cps3/d_cps3.cpp">
 		<comment>Hack</comment>
 		<description>Street Fighter III 3rd Strike: Fight for the Future (Hack, Tag v4.3)</description>
 		<year>2026</year>
-		<manufacturer>hack</manufacturer>
+		<manufacturer>Morphus56K</manufacturer>
 		<rom name="sfiii3_japan_nocd.29f400.u2" size="524288" crc="1edc6366" />
 		<rom name="sfiii3tag-simm1.0" size="2097152" crc="06095f64" />
 		<rom name="sfiii3tag-simm1.1" size="2097152" crc="c62aeb15" />
-		<rom name="sfiii3tag-simm1.2" size="2097152" crc="665af926" />
-		<rom name="sfiii3tag-simm1.3" size="2097152" crc="45ba277e" />
-		<rom name="sfiii3tag-simm2.0" size="2097152" crc="ed89b9f3" />
-		<rom name="sfiii3tag-simm2.1" size="2097152" crc="1e7c8853" />
-		<rom name="sfiii3tag-simm2.2" size="2097152" crc="e5d0719e" />
-		<rom name="sfiii3tag-simm2.3" size="2097152" crc="6843f894" />
+		<rom name="sfiii3tag-simm1.2" size="2097152" crc="fe41921b" />
+		<rom name="sfiii3tag-simm1.3" size="2097152" crc="dbb6ce56" />
+		<rom name="sfiii3tag-simm2.0" size="2097152" crc="87609fab" />
+		<rom name="sfiii3tag-simm2.1" size="2097152" crc="1100095a" />
+		<rom name="sfiii3tag-simm2.2" size="2097152" crc="6c3e86da" />
+		<rom name="sfiii3tag-simm2.3" size="2097152" crc="e3862125" />
 		<rom name="sfiii3-simm3.0" merge="sfiii3-simm3.0" size="2097152" crc="7baa1f79" />
 		<rom name="sfiii3-simm3.1" merge="sfiii3-simm3.1" size="2097152" crc="234bf8fe" />
 		<rom name="sfiii3-simm3.2" merge="sfiii3-simm3.2" size="2097152" crc="d9ebc308" />

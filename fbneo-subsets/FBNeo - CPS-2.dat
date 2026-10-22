@@ -3318,6 +3318,35 @@
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
+	<game name="mshtag" cloneof="msh" romof="msh" sourcefile="capcom/d_cps2.cpp">
+		<comment>Hack</comment>
+		<description>Marvel Super Heroes (Hack, Tag v1.2)</description>
+		<year>2026</year>
+		<manufacturer>Morphus56K</manufacturer>
+		<rom name="mshtag.03e" size="524288" crc="d8fb6f4d" />
+		<rom name="mshtag.04e" size="524288" crc="8f3ffa14" />
+		<rom name="msh.05" merge="msh.05" size="524288" crc="6a091b9e" />
+		<rom name="mshtag.06b" size="524288" crc="030e5eaf" />
+		<rom name="msh.07a" merge="msh.07a" size="524288" crc="c45f8e27" />
+		<rom name="msh.08a" merge="msh.08a" size="524288" crc="9ca6f12c" />
+		<rom name="msh.09a" merge="msh.09a" size="524288" crc="82ec27af" />
+		<rom name="mshtag.10b" size="524288" crc="bfb42012" />
+		<rom name="mshtag.13m" size="4194304" crc="26c49fc8" />
+		<rom name="mshtag.15m" size="4194304" crc="a2d26059" />
+		<rom name="mshtag.17m" size="4194304" crc="5102b5d3" />
+		<rom name="mshtag.19m" size="4194304" crc="0a54dd29" />
+		<rom name="msh.14m" merge="msh.14m" size="4194304" crc="4197973e" />
+		<rom name="msh.16m" merge="msh.16m" size="4194304" crc="438da4a0" />
+		<rom name="msh.18m" merge="msh.18m" size="4194304" crc="4db92d94" />
+		<rom name="msh.20m" merge="msh.20m" size="4194304" crc="a2b0c6c0" />
+		<rom name="msh.01" merge="msh.01" size="131072" crc="c976e6f9" />
+		<rom name="msh.02" merge="msh.02" size="131072" crc="ce67d0d9" />
+		<rom name="msh.11m" merge="msh.11m" size="2097152" crc="37ac6d30" />
+		<rom name="msh.12m" merge="msh.12m" size="2097152" crc="de092570" />
+		<rom name="msh.key" merge="msh.key" size="20" crc="b494368e" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
 	<game name="mshh" cloneof="msh" romof="msh" sourcefile="capcom/d_cps2.cpp">
 		<description>Marvel Super Heroes (Hispanic 951117)</description>
 		<year>1995</year>
@@ -4194,6 +4223,35 @@
 		<rom name="mvc.11m" size="4194304" crc="850fe663" />
 		<rom name="mvc.12m" size="4194304" crc="7ccb1896" />
 		<rom name="mvsc.key" size="20" crc="7e101e09" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="mvscdhc" cloneof="mvsc" romof="mvsc" sourcefile="capcom/d_cps2.cpp">
+		<comment>Hack</comment>
+		<description>Marvel Vs. Capcom: Clash of Super Heroes (Hack, Delayed Hyper Combo v11)</description>
+		<year>2026</year>
+		<manufacturer>Morphus56K</manufacturer>
+		<rom name="mvcdhc.03a" size="524288" crc="a3fdb671" />
+		<rom name="mvcdhc.04a" size="524288" crc="fb443dee" />
+		<rom name="mvc.05a" merge="mvc.05a" size="524288" crc="2d8c8e86" />
+		<rom name="mvcdhc.06a" size="524288" crc="235ddeed" />
+		<rom name="mvcdhc.07" size="524288" crc="1f7405c9" />
+		<rom name="mvcdhc.08" size="524288" crc="4f104120" />
+		<rom name="mvc.09" merge="mvc.09" size="524288" crc="c67b26df" />
+		<rom name="mvcdhc.10" size="524288" crc="1be958c3" />
+		<rom name="mvcdhc.13m" size="4194304" crc="a0a107b2" />
+		<rom name="mvcdhc.15m" size="4194304" crc="15c57146" />
+		<rom name="mvcdhc.17m" size="4194304" crc="16d380c7" />
+		<rom name="mvcdhc.19m" size="4194304" crc="73c64cea" />
+		<rom name="mvcdhc.14m" size="4194304" crc="2ce8d7ea" />
+		<rom name="mvcdhc.16m" size="4194304" crc="77dff5d0" />
+		<rom name="mvcdhc.18m" size="4194304" crc="c50cf2d2" />
+		<rom name="mvcdhc.20m" size="4194304" crc="252a65f7" />
+		<rom name="mvc.01" merge="mvc.01" size="131072" crc="41629e95" />
+		<rom name="mvc.02" merge="mvc.02" size="131072" crc="963abf6b" />
+		<rom name="mvc.11m" merge="mvc.11m" size="4194304" crc="850fe663" />
+		<rom name="mvc.12m" merge="mvc.12m" size="4194304" crc="7ccb1896" />
+		<rom name="mvsc.key" merge="mvsc.key" size="20" crc="7e101e09" />
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
@@ -8199,7 +8257,7 @@
 		<comment>Hack</comment>
 		<description>Super Street Fighter II Turbo Tag (Hack, V3)</description>
 		<year>2026</year>
-		<manufacturer>hack</manufacturer>
+		<manufacturer>Morphus56K</manufacturer>
 		<rom name="sfxtag.03c" size="524288" crc="4afb091d" />
 		<rom name="sfxtag.04a" size="524288" crc="6d6bd06a" />
 		<rom name="sfxe.05" merge="sfxe.05" size="524288" crc="65222964" />
@@ -10615,6 +10673,35 @@
 		<rom name="xmn.11m" size="2097152" crc="c848a6bc" />
 		<rom name="xmn.12m" size="2097152" crc="729c188f" />
 		<rom name="xmcota.key" size="20" crc="6665bbfb" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="xmcotatag" cloneof="xmcota" romof="xmcota" sourcefile="capcom/d_cps2.cpp">
+		<comment>Hack</comment>
+		<description>X-Men: Children of the Atom (Hack, Tag v5.6)</description>
+		<year>2026</year>
+		<manufacturer>Morphus56K</manufacturer>
+		<rom name="xmntag.03f" size="524288" crc="76565783" />
+		<rom name="xmntag.04f" size="524288" crc="cc2f25d6" />
+		<rom name="xmntag.05b" size="524288" crc="33e28359" />
+		<rom name="xmntag.06a" size="524288" crc="8ff26a18" />
+		<rom name="xmn.07a" merge="xmn.07a" size="524288" crc="2c142a44" />
+		<rom name="xmn.08a" merge="xmn.08a" size="524288" crc="f712d44f" />
+		<rom name="xmntag.09a" size="524288" crc="08b127b1" />
+		<rom name="xmntag.10b" size="524288" crc="2d32fa8e" />
+		<rom name="xmntag.13m" size="4194304" crc="bc06bb34" />
+		<rom name="xmntag.15m" size="4194304" crc="5ceeeaed" />
+		<rom name="xmntag.17m" size="4194304" crc="b49d26b7" />
+		<rom name="xmntag.19m" size="4194304" crc="54895bd1" />
+		<rom name="xmntag.14m" size="4194304" crc="e89a87ec" />
+		<rom name="xmntag.16m" size="4194304" crc="694e52c8" />
+		<rom name="xmntag.18m" size="4194304" crc="a4440a89" />
+		<rom name="xmntag.20m" size="4194304" crc="46a85641" />
+		<rom name="xmntag.01a" size="131072" crc="b7d4c880" />
+		<rom name="xmntag.02a" size="131072" crc="cb5026bd" />
+		<rom name="xmntag.11m" size="2097152" crc="2c0537ce" />
+		<rom name="xmntag.12m" size="2097152" crc="b8333510" />
+		<rom name="xmcota.key" merge="xmcota.key" size="20" crc="6665bbfb" />
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
