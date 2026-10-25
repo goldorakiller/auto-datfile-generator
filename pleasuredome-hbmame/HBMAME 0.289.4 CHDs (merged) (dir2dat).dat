@@ -3,10 +3,10 @@
 
 <datafile>
 	<header>
-		<name>HBMAME 0.289.3 CHDs (merged)</name>
-		<description>HBMAME 0.289.3 CHDs (merged)</description>
+		<name>HBMAME CHDs (merged)</name>
+		<description>HBMAME CHDs (merged)</description>
 		<category>Standard DatFile</category>
-		<version>0.289.3</version>
+		<version>0.289.4</version>
 		<author>Pleasuredome</author>
 		<clrmamepro forcepacking="unzip"/>
 	</header>
@@ -25,6 +25,10 @@
 	<machine name="cd_eira">
 		<description>cd_eira</description>
 		<rom name="817.chd" size="11247866" crc="a9839ea6" sha1="6827d21336530a69b5510f074f33dc13ac221ac1"/>
+	</machine>
+	<machine name="cd_eswat">
+		<description>cd_eswat</description>
+		<rom name="eswat.chd" size="38852039" crc="f6bab39e" sha1="4f7a90a48b07027c78cec2c683f8e799658ea782"/>
 	</machine>
 	<machine name="cd_ffury">
 		<description>cd_ffury</description>
@@ -45,6 +49,10 @@
 	<machine name="cd_natademo">
 		<description>cd_natademo</description>
 		<rom name="818.chd" size="30847224" crc="288e8668" sha1="a4965937e8f29226a0ef5e5071f18d181453d7ff"/>
+	</machine>
+	<machine name="cd_neotris2">
+		<description>cd_neotris2</description>
+		<rom name="neotris2.chd" size="33686413" crc="f2c3de0e" sha1="daca147de172f2742daedea475b0473e0178a074"/>
 	</machine>
 	<machine name="cd_ngdark">
 		<description>cd_ngdark</description>
@@ -73,6 +81,14 @@
 	<machine name="cd_pow2">
 		<description>cd_pow2</description>
 		<rom name="pow2.chd" size="42603551" crc="108fbf0a" sha1="8cac64f4edba3a51300d0d323e881f925e92f199"/>
+	</machine>
+	<machine name="cd_sdodgeb">
+		<description>cd_sdodgeb</description>
+		<rom name="sdodgeb.chd" size="232004583" crc="e51ed4fc" sha1="e94cfb85c5cd6558c18e589670bc75eae5e8c9e6"/>
+	</machine>
+	<machine name="cd_sf2ce">
+		<description>cd_sf2ce</description>
+		<rom name="sf2ce.chd" size="169703776" crc="0f552023" sha1="812a64721d05903aac2a89d7802aa3671355f5ff"/>
 	</machine>
 	<machine name="cd_shinobiarr">
 		<description>cd_shinobiarr</description>

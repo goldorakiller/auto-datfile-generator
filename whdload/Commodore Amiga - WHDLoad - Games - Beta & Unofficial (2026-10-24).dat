@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</name>
 		<description>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</description>
 		<category>Standard DatFile</category>
-		<version>2026-10-23</version>
-		<date>2026-10-23</date>
+		<version>2026-10-24</version>
+		<date>2026-10-24</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -40,7 +40,7 @@
 	</machine>
 	<machine name="C">
 		<description>C</description>
-		<rom name="CannonFodderEditor_v1.1.lha" size="2184679" crc="dddd6d9e" md5="48e8d55f0348d13e84f90e27ad76e932" sha1="07d8d96d06dd5fc330e4470bf7e3926f9464446e"/>
+		<rom name="CannonFodderEditor_v1.2.2.lha" size="2187901" crc="593fcff8" md5="fa6b8a64e2e2e738f0b27d08486573c7" sha1="66f5bde2d84c844020abd578a90ed4bb71f1404c"/>
 		<rom name="Castlevania_v1.2_AGA_September2026.lha" size="2191341" crc="602c769d" md5="48bf24bc0a0f3347a0c0fc97f7acc3e7" sha1="54b16c5eb57b27f4872da785bf76b2c9ff936e9f"/>
 		<rom name="Citadel_v1.4_RemonsteredEdition.lha" size="3705127" crc="cfc32130" md5="1cbfabb63973c75791946bd764365d50" sha1="e5a1c9f1970bc882ba09bb4979afb10072ab6f91"/>
 		<rom name="CityConnnection_v1.0_AGA.lha" size="797890" crc="66b1f496" md5="432c9764a39f5646097b9671ab5cf83a" sha1="9478dfabcbbd3fda787832f2caf32b2de54f5c04"/>
@@ -123,8 +123,8 @@
 		<rom name="LCDDreams_v1.0.lha" size="818970" crc="bf3596d3" md5="928674d5ce478b4e3b47cf8e70236a00" sha1="ee1839036d774fd20c6f3a25789085b0ec745cdf"/>
 		<rom name="LCDDreams_v1.0_Fast.lha" size="819043" crc="90914953" md5="11e328f671e57bb92b3f5a52a7ae3313" sha1="8421be7c0156daccc64fa7b8d6fa6f3f1ec4a463"/>
 		<rom name="Legion_v1.1a_BETA.lha" size="1661023" crc="b9f1f914" md5="1c19f6ac00e966883d1d13e85ffbaaa1" sha1="2cda50209dad01836404fd0e74f95c8d94ad8dee"/>
-		<rom name="Lemmings2Editor_v1.2.1_0351.lha" size="1787748" crc="63a83234" md5="f71e0bbae537b08e457c04a714a263e7" sha1="6a81e71b8b9216d6b5abd2e9c4f29dfb8c416b08"/>
-		<rom name="Lemmings2Editor_v1.2.1_NTSC_1976.lha" size="1792394" crc="623474e4" md5="b0034e9284ba679094eb218e2a74aa0a" sha1="9cd67677b60d49a633533dcae6cc8c4b7bdd7da0"/>
+		<rom name="Lemmings2Editor_v1.2.2_0351.lha" size="1789647" crc="fc637b88" md5="4ce550f58daf04af589965b030ab68fb" sha1="6f97c22f65d2057e03492eb9b60c5ad89aa5454c"/>
+		<rom name="Lemmings2Editor_v1.2.2_NTSC_1976.lha" size="1794305" crc="04324f77" md5="30ff4997f2698667d70fb8cff18d97d5" sha1="cb14cd7f54b70797ef4c08b1468c637ff9acc06d"/>
 		<rom name="LemmingsEditorV1_v1.2.1.lha" size="1408739" crc="0a13e494" md5="4b69bc1944ba64a8acb92c962bb120e2" sha1="751683cfbff43a91691575307960b7ac5a1fd464"/>
 		<rom name="LemmingsEditorV2_v2.3.1.lha" size="1464486" crc="1181346c" md5="403236c615fae25476eacdd5107e1bbe" sha1="73dfa092d8533ff90e9c137c8b6effa22f543cc7"/>
 		<rom name="LemmingsHoliday1994Editor_v2.3.1.lha" size="359277" crc="fce3a65e" md5="4bf4f2469bb3a9bb28630850bd590e6a" sha1="98b267a9c16ca4734b8ce0a1035add66629600a5"/>
@@ -190,6 +190,7 @@
 	<machine name="S">
 		<description>S</description>
 		<rom name="Scramble_v1.0.lha" size="161624" crc="d4f7dd08" md5="45cb5be14de1d3051cb99e923aa8e6d5" sha1="7e2041adb2e07ffb7258c9c29ea0f57e1820e334"/>
+		<rom name="SensibleWorldOfSoccer9697Editor_v0.91b.lha" size="1634367" crc="57877f0d" md5="de2eb971521a4232f77880279328cc6e" sha1="a6f12467b779a7478a0f791fc7e3372a9d7d55d8"/>
 		<rom name="ShadowFighter_v1.0_AGA_No_jump_by_ztronzo.lha" size="3343922" crc="7c2ed7bc" md5="d2243c9e70b531db1f1826852dc50c5d" sha1="dacc1d626ae079b55e649779a9c5f11de51a3280"/>
 		<rom name="Sinbad_v1.0_AtariST.lha" size="593343" crc="005dfb3e" md5="5480990dba90d38ef487e53154e7ccbe" sha1="5bf6617dd28311d05ea1ab80fafbd1af7bb91913"/>
 		<rom name="Sinbad_v1.0_Fr_AtariST.lha" size="595216" crc="8eb1c153" md5="95bb1ee2ff30fa538d1323431b214f58" sha1="ebd4cf38a1ab160e22b688f4120a31f853790113"/>
