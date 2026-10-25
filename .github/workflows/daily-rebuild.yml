@@ -5,9 +5,10 @@ on:
     branches:
       - 'master'
   schedule:
-    # 23h50 heure de Paris (cron GitHub Actions en UTC) — decale d'1h l'hiver
-    # (fin de l'heure d'ete), a rajuster alors si l'horaire pile doit tenir.
-    - cron:  '50 21 * * *'
+    # 23h50 heure de Paris (cron GitHub Actions en UTC). Horaire d'hiver
+    # (CET, UTC+1) depuis le 2026-10-25 ; a rajuster a '50 21 * * *' au
+    # retour de l'heure d'ete (CEST, UTC+2) pour garder l'horaire pile.
+    - cron:  '50 22 * * *'
   workflow_dispatch:
 
 # Un seul run a la fois : plusieurs push rapproches declenchaient des runs
