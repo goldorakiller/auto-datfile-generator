@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games</name>
 		<description>Commodore Amiga - WHDLoad - Games</description>
 		<category>Standard DatFile</category>
-		<version>2026-10-24</version>
-		<date>2026-10-24</date>
+		<version>2026-10-25</version>
+		<date>2026-10-25</date>
 		<author>Retroplay</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -2761,6 +2761,7 @@
 		<rom name="PrimeMover_v1.1_0694.lha" size="1336622" crc="3ac849dd" md5="a621cccc906b014a4112248b8915b0ed" sha1="ab051fab1b308bc0aac52e3d8a5527ea3107b178"/>
 		<rom name="Prince_v1.01_1729.lha" size="528060" crc="19dd5d32" md5="53ca1af5e01fa1a9123e4ffeacef5673" sha1="244fb5500b08516983b5faa13d05a1da53958bfa"/>
 		<rom name="PrinceDePerse_v5.2_Fr_2290.lha" size="347700" crc="10253949" md5="4f7bb2fcfa03dfc86ea0de921ab2470c" sha1="b7de47dc2d0cf2437837e64e945c137e396cc529"/>
+		<rom name="PrinceOfPersia2_v0.90_AGA.lha" size="8534249" crc="e5808f2c" md5="a9db11d0eb63f9e0fc4ed9862894ba9c" sha1="3a9d5421335c04c5b9802eb373b0a6634e6a7299"/>
 		<rom name="PrinceOfPersia_v5.2_1823.lha" size="348453" crc="e3c44239" md5="87b76fc9b28aaecd56438ee060bfc15f" sha1="f563732a2246a8279c988f2b08f7c3e46cf340c1"/>
 		<rom name="PrinceOfPersia_v5.2_De_0082.lha" size="348065" crc="087e3fdb" md5="5ac674ec52591e0737fbd864eedcd452" sha1="6396978fed6290e6a753683463d9018f07f3d68a"/>
 		<rom name="PrinceOfPersia_v5.2_NTSC_1407.lha" size="347243" crc="42d6d356" md5="6dfdec0d02542c744e099d82a54f61ad" sha1="1e7f7448fd1a78e9c82e96aa24126b67ac46c763"/>
@@ -2901,7 +2902,7 @@
 		<rom name="RevengeOfTheMutantCamels2_v1.01.lha" size="68358" crc="136d899e" md5="a54279d6c1eebe53823744fca91797ca" sha1="9487a2d127b792f47303a7b3b3c1de393a6fce77"/>
 		<rom name="RevengeOfTheMutantCamels_v1.0.lha" size="111816" crc="0c4dbaeb" md5="afa60bca02513b5e345ca3e1ad380309" sha1="c78023fce71dffa7e662bb1361f823c625d52d5b"/>
 		<rom name="RevengeOfTheMutantCamels_v1.0_NTSC.lha" size="111900" crc="9824c977" md5="a6c4d43c8bade414b3fa3741bbead1b6" sha1="0641fce950ec3553a81c6166df1f0f284401d41c"/>
-		<rom name="Revs_v0.91.lha" size="208039" crc="2364b457" md5="9ce475afb7f773d992268311a038c228" sha1="186e2fba1df7ae31fb10601c7f679a3058b3dd2d"/>
+		<rom name="Revs_v0.92.lha" size="236819" crc="854acf06" md5="62ab8d8204b9deb3a8517b4ebf2b9879" sha1="e02a3581631e199151749d703d0cdf88ad69742b"/>
 		<rom name="RicercaDellAugelloDelTempo_v1.5_It_Files.lha" size="1098818" crc="4e343d20" md5="9d61867caeddd228ecb5e7c172dd33c4" sha1="44ca1229cbd3436cf7cc32209acac14408856c24"/>
 		<rom name="RicercaDellAugelloDelTempo_v1.5_It_Image.lha" size="1194205" crc="62b1b39f" md5="282fbab1f7847bc5b68aa61d77e17fe5" sha1="43b4017406bf798320484cf99d32a4e426ff2661"/>
 		<rom name="RickDangerous25_v1.2.lha" size="194290" crc="179e9731" md5="554aeaea24167c5be9ae90e60b7324a3" sha1="59f0caddc886f9690c708dc597b27ebd0ee3e1a4"/>
@@ -3812,8 +3813,7 @@
 		<rom name="Untouchables_v2.0_2392.lha" size="1166213" crc="a4cb396e" md5="51de106ee833dfd3a18e763b3c1733a0" sha1="63dbcb0224396bf2fef4bbc81c1ef3d747bfdf47"/>
 		<rom name="UpScope_v0.1.lha" size="302967" crc="61a64d45" md5="b8b4c9da560fe2b0833437d551518060" sha1="bbaf9f86522e22f3e6b9218b9fe636353547d7cb"/>
 		<rom name="UpScope_v1.01_Arcadia.lha" size="211475" crc="ba660626" md5="0c99bc4fd11a5e8b104b802197d60ce2" sha1="069d17293301a092f83d5ea430a1f6c85c7bd6ad"/>
-		<rom name="Uridium2_v3.1.0_1MB_0276.lha" size="1237738" crc="09ea37d8" md5="f65a48c84cd88b95d46b88c5d4b46f2d" sha1="d95eaf76ddab14c8ab3f3a6fdffe34dfed4843b5"/>
-		<rom name="Uridium2_v3.1.0_2MB_0276.lha" size="1237740" crc="146105cd" md5="3488c72ebfbacf5bbeb2b5a71ebe7d1d" sha1="d23cae0a9dfb544f316481a8f45dec06991fb5b4"/>
+		<rom name="Uridium2_v4.0.0_0276.lha" size="1249666" crc="fb755c4d" md5="d1a9189f74e4300e65f454396002922b" sha1="5fddf4b655a674fbb1542b19a09cca466658d2af"/>
 		<rom name="USSJohnYoung_v1.0.lha" size="892709" crc="f75aeba9" md5="48171fec2b93e8882f453396b05749db" sha1="de1148746ee4f02f2ad2ee763a09619e7a030329"/>
 		<rom name="Utopia&amp;NewWorlds_v1.3_0757&amp;2576.lha" size="1448332" crc="768fe8e5" md5="ec610dc523671eb83302e2065a0fa0f0" sha1="d7ea3bf11099d1f6b5b5cc99708150f6494971c9"/>
 		<rom name="Utopia&amp;SecondWave1_v1.3_0757.lha" size="1311496" crc="ed3d5b44" md5="9afee85d6dc2e90ca9d8e112c786dd30" sha1="c6c1ccb7583db1ea45679f440578a603a26ea11d"/>

@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</name>
 		<description>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</description>
 		<category>Standard DatFile</category>
-		<version>2026-10-24</version>
-		<date>2026-10-24</date>
+		<version>2026-10-25</version>
+		<date>2026-10-25</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -44,7 +44,7 @@
 		<rom name="Castlevania_v1.2_AGA_September2026.lha" size="2191341" crc="602c769d" md5="48bf24bc0a0f3347a0c0fc97f7acc3e7" sha1="54b16c5eb57b27f4872da785bf76b2c9ff936e9f"/>
 		<rom name="Citadel_v1.4_RemonsteredEdition.lha" size="3705127" crc="cfc32130" md5="1cbfabb63973c75791946bd764365d50" sha1="e5a1c9f1970bc882ba09bb4979afb10072ab6f91"/>
 		<rom name="CityConnnection_v1.0_AGA.lha" size="797890" crc="66b1f496" md5="432c9764a39f5646097b9671ab5cf83a" sha1="9478dfabcbbd3fda787832f2caf32b2de54f5c04"/>
-		<rom name="Commando_v1.02_AGA.lha" size="894238" crc="4bcef0d6" md5="4fe2f61b3d6a57c6fbc4bc6457cd320f" sha1="827e0bf7dbedaf2ddbe2e940ade6ad99f53fdf0d"/>
+		<rom name="Commando_v1.04_AGA.lha" size="894257" crc="f8d7e6d4" md5="bc41d7a21580cd4aacd082b40312d21a" sha1="df38420d739a05494d1387b15b4f10b2df275ab9"/>
 		<rom name="Crimbo_v1.0_AGA.lha" size="200583" crc="2f163469" md5="80aa81e31647395b0a88f6040615d734" sha1="21f95d096c4072194fe7426e41505f38839def80"/>
 	</machine>
 	<machine name="D">
@@ -114,7 +114,7 @@
 		<rom name="KarateChamp_v1.01.lha" size="253377" crc="4104b146" md5="7972a2aa9b6b614f3d13084720c0bc1b" sha1="cc7873cfc7e56ce81bf7c8564fbe3947123203eb"/>
 		<rom name="Karateka_v1.0_AtariST.lha" size="171253" crc="a8edb453" md5="374da7dfc30400fabb56df7ce16c35a3" sha1="16f7e00397d7cf60fe231eb5e138b536db48fa75"/>
 		<rom name="KCMunchkin_v1.0.lha" size="118618" crc="38dd20cb" md5="9fa7aca331b7cf49593412df9535e68c" sha1="81aa2cb4e73d30a8f0c7681550962ef5a6e32830"/>
-		<rom name="KingAndBalloon_v0.94.lha" size="98778" crc="1d22b0ca" md5="eba411fc94f050d37fa0d42fa07e1858" sha1="0aa001b47b08e7cf590272447305af6dacfa4765"/>
+		<rom name="KingAndBalloon_v1.0.lha" size="98234" crc="f3fcd8eb" md5="b72077af9ffaa8cdce02190d89d1614d" sha1="0a0d64ad74b5bde3a7da3bdc8dd8038da2ce67dd"/>
 		<rom name="KingsBounty_v1.0_FasterVersion.lha" size="3447566" crc="e90eb13a" md5="b1249e228fb6c2049ba0fda5a980e9d2" sha1="529d6d06a06f8646f28649f384ad9f3341e78002"/>
 	</machine>
 	<machine name="L">
@@ -171,7 +171,6 @@
 		<rom name="Phoenix_v1.02.lha" size="96722" crc="fc901f02" md5="4a539f21251897601b7c5469b47305ff" sha1="df26fdeceaa39af3d84e3f8660bed6016e902679"/>
 		<rom name="Phoenix_v1.02_AGA.lha" size="101267" crc="1e6ff29a" md5="3b896b3ab73bc97564f5d81f9780ab4a" sha1="cd549b595a362da20a92dfd3006222b99c000675"/>
 		<rom name="Pooyan_v1.01.lha" size="283706" crc="ca662500" md5="4e62c6d72f2f9fa427adc0d66519db16" sha1="156eca8e579e1f3deb2814c7202fbccb25952cc6"/>
-		<rom name="PrinceOfPersia2_v0.90_AGA.lha" size="8534249" crc="e5808f2c" md5="a9db11d0eb63f9e0fc4ed9862894ba9c" sha1="3a9d5421335c04c5b9802eb373b0a6634e6a7299"/>
 		<rom name="ProjectXSE2017_v1.5_Hack_by_Earok.lha" size="2238734" crc="ed237871" md5="ea70eb55da08937b287c4452211f9b82" sha1="fcbfa6525603ae6b5cd07b9afc0a97663f95ce9b"/>
 	</machine>
 	<machine name="R">

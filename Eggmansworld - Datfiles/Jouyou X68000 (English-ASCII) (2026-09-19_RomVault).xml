@@ -3,8 +3,8 @@
 	<header>
 		<name>Jouyou X68000 (English-ASCII)</name>
 		<description>Sharp X68000 Preservation Project</description>
-		 <date>2024-12-09</date>
-		<version>2024-12-09</version>
+		 <date>2026-09-19</date>
+		<version>2026-09-19</version>
 		<author>et alia (dat by Eggman)</author>
 		<homepage>mijet.eludevisibility.org</homepage>
 		<url>https://mijet.eludevisibility.org/Preservation/</url>
@@ -594,6 +594,14 @@
 	<game name="Marugoto D.O. Bishoujo Disk">
 		<description>まるごとＤ．Ｏ．美少女ディスク</description>
 		<rom name="Marugoto D.O. Bishoujo Disk (XXX).xdf" size="0x134000" sha1="EDA50BA697CB2BD74F3149383AB49028E2E855D9"/>
+	</game>
+	<game name="Youjuu Club (A)">
+		<description>妖獣クラブ A</description>
+		<rom name="Youjuu Club (XXX) (1 of 2) (A).xdf" size="0x134000" sha1="D6B25E16E1E11612BAF69A37C9D19A0E3ACBA413"/>
+	</game>
+	<game name="Youjuu Club (B)">
+		<description>妖獣クラブ B</description>
+		<rom name="Youjuu Club (XXX) (2 of 2) (B).xdf" size="0x134000" sha1="F506887A78F9A531C4A72DA303B3954546997020"/>
 	</game>
 	<game name="4th Unit, The (B)">
 		<description>THE 4TH UNIT B</description>
@@ -1640,6 +1648,18 @@
 		<description>PROTO-LINK</description>
 		<rom name="Proto-Link.xdf" size="0x134000" sha1="3C36A78D9E12351AEE369566794E19A7E5E97028"/>
 	</game>
+	<game name="De Ja (Disk A)">
+		<description>DE·JA（デ・ジャ） DISK·A</description>
+		<rom name="De Ja (XXX) (1 of 3) (Disk A) [W].xdf" size="0x134000" sha1="7BB8C9974280F275518ED7015E067E8025A0BA82"/>
+	</game>
+	<game name="De Ja (Disk B) (Omake)">
+		<description>DE·JA（デ・ジャ） DISK·B·OMAKE</description>
+		<rom name="De Ja (XXX) (2 of 3) (Disk B) (Omake).xdf" size="0x134000" sha1="FCFC9F434222FF6859DA75B18CBF9463F62D74DF"/>
+	</game>
+	<game name="De Ja (Disk C)">
+		<description>DE·JA（デ・ジャ） DISK·C</description>
+		<rom name="De Ja (XXX) (3 of 3) (Disk C).xdf" size="0x134000" sha1="10B5FC3411125D9087EB61793E291B3C7DF69E03"/>
+	</game>
 	<game name="Dragon Knight III (Disk A)">
 		<description>DRAGON KNIGHT III（ドラゴンナイトⅢ） DISK・Ａ</description>
 		<rom name="Dragon Knight III (XXX) (1 of 6) (Disk A) [W].xdf" size="0x134000" sha1="49E491B4123CFC7281C780B073FC6E686C564D82"/>
@@ -1880,6 +1900,10 @@
 	<game name="Lipstick Adventure (B)">
 		<description>LIP.ADV B</description>
 		<rom name="Lipstick Adventure (MA) (2 of 2) (B).xdf" size="0x134000" sha1="2CF7CD50570ACD1DCB1D734E942B4A28295A0EA7"/>
+	</game>
+	<game name="Saori - Bishoujo-tachi no Yakata (B)">
+		<description>沙織 （美少女たちの館） Ｂ</description>
+		<rom name="Saori - Bishoujo-tachi no Yakata (XXX) (2 of 2) (B).xdf" size="0x134000" sha1="83A3EFFB3D9E66BFF086A528808654F821DDDB5A"/>
 	</game>
 	<game name="Sekai de Ichiban Kimi ga Suki! (B)">
 		<description>世界でいちばん君がすき！ Ｂ</description>

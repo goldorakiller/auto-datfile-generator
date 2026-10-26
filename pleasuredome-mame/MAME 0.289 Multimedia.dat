@@ -6,7 +6,7 @@
 		<name>MAME Multimedia</name>
 		<description>MAME Multimedia</description>
 		<category>Standard DatFile</category>
-		<version>0.288</version>
+		<version>0.289</version>
 		<author>Pleasuredome</author>
 		<clrmamepro forcepacking="unzip"/>
 	</header>
@@ -3256,7 +3256,7 @@
 		<rom name="abnudgeo.mp4" size="1526962" crc="6d4bf05b" sha1="d18a3ba3f5a62724cc3ae1fd807fb63e4b093091"/>
 		<rom name="abscam.mp4" size="1083986" crc="3e314afb" sha1="772d0aa4629448b48abb797ba0e2efb1fa64a876"/>
 		<rom name="abunai.mp4" size="1153505" crc="f1daeba4" sha1="10f5bd2f1cd59cf99c3fcc00dfdab7e450580023"/>
-		<rom name="aburner.mp4" size="8048485" crc="fe90e5ae" sha1="6307f0de15b91dae0c864d6f9b879ecb82b4d911"/>
+		<rom name="aburner131.mp4" size="8048485" crc="fe90e5ae" sha1="6307f0de15b91dae0c864d6f9b879ecb82b4d911"/>
 		<rom name="aburner2.mp4" size="6487601" crc="5dc98b44" sha1="7f7f56590b608806a12dc0b28a08655568119a1b"/>
 		<rom name="ace.mp4" size="64365" crc="6afa66d8" sha1="fae772d0ca08e290ce20adca4b16d8dbfbb70965"/>
 		<rom name="aceattac.mp4" size="1244898" crc="34798fa2" sha1="f5971af98434e70a2a6a18fddf9d363625844822"/>
@@ -5740,7 +5740,7 @@
 		<rom name="ixion.mp4" size="1024497" crc="1d94773e" sha1="d3ef69dd0e7590946a580bb42970424f62158fae"/>
 		<rom name="jack.mp4" size="666027" crc="b1df845a" sha1="b08a979253f68fb8ca940f74aea9c2ec551665d8"/>
 		<rom name="jackal.mp4" size="2527425" crc="600228f9" sha1="53afeaa0d4a5911da56231be47080d8b8eeeddba"/>
-		<rom name="jackie.mp4" size="1291536" crc="0849e1ca" sha1="b2fe896d06cb2acb6f59d7828eb2df980d62cc17"/>
+		<rom name="jackiea.mp4" size="1291536" crc="0849e1ca" sha1="b2fe896d06cb2acb6f59d7828eb2df980d62cc17"/>
 		<rom name="jackpool.mp4" size="299788" crc="4890e4c3" sha1="52be5e3a8c8ffa197b6a3496c57c5f22a5a71fbb"/>
 		<rom name="jackrabt.mp4" size="1707863" crc="d56e288b" sha1="d40860e17dfc8c850f917ed3f02cc5a037c2aee1"/>
 		<rom name="jailbrek.mp4" size="1090820" crc="2d804210" sha1="24a73de35ac77940ce13c300abe99c1d88c7f8f3"/>
@@ -7293,7 +7293,7 @@
 		<rom name="pleiadbl.mp4" size="801563" crc="79bf0c97" sha1="03bfa3fae33036a90dc4fd50ba7075170822d6cb"/>
 		<rom name="pleiads.mp4" size="886111" crc="aeec703f" sha1="40ad69507f61086d87cfa7f3511432cf2d9508a9"/>
 		<rom name="plgirls.mp4" size="3784905" crc="a9d9cbb1" sha1="dca38de6fd1435c78764fec61c378e8d577584ca"/>
-		<rom name="plgirls2.mp4" size="1166656" crc="56396260" sha1="735df759ed0cc2a9a3442b389cc33bca95ff54e2"/>
+		<rom name="plgirls2j.mp4" size="1166656" crc="56396260" sha1="735df759ed0cc2a9a3442b389cc33bca95ff54e2"/>
 		<rom name="plotting.mp4" size="737462" crc="75e10d02" sha1="250ac9e92ed631a6d182c549e9fa503fe74e48d4"/>
 		<rom name="plsmaswd.mp4" size="8776583" crc="ce52fe40" sha1="ed9170a316a5e42c85775b2a7eaf2410a3e216f2"/>
 		<rom name="plumppop.mp4" size="2312716" crc="d83ef402" sha1="6ecd576483f43679cc22b207437965b4718c7806"/>
@@ -7740,7 +7740,7 @@
 		<rom name="sadari.mp4" size="993775" crc="40d8ddd1" sha1="63ce47c2ce7c4cdbea30d5fb0ae4ad28fe3b376b"/>
 		<rom name="safari.mp4" size="43697" crc="1169b008" sha1="061711e099fce5a611e9271165af8f33398d3b60"/>
 		<rom name="safarir.mp4" size="250552" crc="b140ff0f" sha1="e8a0ece0367b1c20a1d261bbae85f20d59cf6f5f"/>
-		<rom name="sailormn.mp4" size="1859901" crc="847b9f62" sha1="9a73fce4bf0ee19ed8e8c4fc1a9bbe9db4b5ab8f"/>
+		<rom name="sailormne.mp4" size="1859901" crc="847b9f62" sha1="9a73fce4bf0ee19ed8e8c4fc1a9bbe9db4b5ab8f"/>
 		<rom name="sailorws.mp4" size="1841690" crc="4fbeb1d9" sha1="94677f8dbcc0b2d2b7596257eef736d7ca59cea0"/>
 		<rom name="saiyukip.mp4" size="2065257" crc="9fca9613" sha1="efa23b949b8313679b23fafb399ad7e7712a0eed"/>
 		<rom name="saklove.mp4" size="1153637" crc="8516dc06" sha1="b97faeac9df8e7132183a8e6cfb226129820d6de"/>
@@ -8021,7 +8021,7 @@
 		<rom name="smoto20.mp4" size="1178917" crc="95e87ead" sha1="f93c1bddc680e00fece5a3651c5bb5150e631dae"/>
 		<rom name="smotor.mp4" size="529630" crc="a4d9c0b2" sha1="a75c8df60ef84086fd3d4bc6cc89645aa6f8b615"/>
 		<rom name="sms4in1a.mp4" size="1303473" crc="1c522f3f" sha1="fb3b07a2454693c50d184d6f7df9a2e0d7a2bccc"/>
-		<rom name="smsjoker.mp4" size="1059744" crc="fc51d141" sha1="90f7423b564a1db1e8a1c6fafaad4b37e792c121"/>
+		<rom name="smsjokera.mp4" size="1059744" crc="fc51d141" sha1="90f7423b564a1db1e8a1c6fafaad4b37e792c121"/>
 		<rom name="snakepit.mp4" size="1027179" crc="4dcb09a6" sha1="443f041c1dc235e066c7fc0a70ce1fa88c356dac"/>
 		<rom name="snakjack.mp4" size="1160526" crc="e5e3c153" sha1="6feea65565745b8ad824a6bbb401972b29eebeaa"/>
 		<rom name="snapjack.mp4" size="552955" crc="df15fadd" sha1="031123290f5b6811851bd483301511b67ec4dd2e"/>

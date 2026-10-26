@@ -5,7 +5,7 @@
 	<header>
 		<name>samples</name>
 		<description>samples</description>
-		<version>0.287</version>
+		<version>0.289</version>
 		<category>dir2dat</category>
 		<author>Pleasuredome</author>
 		<clrmamepro forcepacking="zip"/>
@@ -587,10 +587,6 @@
 	<machine name="qbert">
 		<description>Q*bert (US set 1)</description>
 		<rom name="knocker.wav" size="6472" crc="ae3fb77f" sha1="f04a4a4dfa6f829c8e2b0d392a1291814dacb16d"/>
-	</machine>
-	<machine name="rallyx">
-		<description>Rally X (32k Ver.?)</description>
-		<rom name="bang.wav" size="79006" crc="c1373563" sha1="388c49757e48c5a4aa1bf6a28b485772f68fc211"/>
 	</machine>
 	<machine name="redclash">
 		<description>Red Clash</description>
