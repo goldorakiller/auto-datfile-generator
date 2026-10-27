@@ -1684,6 +1684,39 @@
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
+	<game name="captcommc" cloneof="captcomm" romof="captcomm" sourcefile="capcom/d_cps1.cpp">
+		<comment>Hack</comment>
+		<description>Captain Commando (hack, Chinese Translation)</description>
+		<year>1991</year>
+		<manufacturer>hack</manufacturer>
+		<rom name="ccc_23f.8f" size="524288" crc="a5e73e49" />
+		<rom name="ccc_22f.7f" size="524288" crc="919777c5" />
+		<rom name="ccc_24f.9e" size="131072" crc="f3d6f147" />
+		<rom name="ccc_28f.9f" size="131072" crc="f1c9bf8a" />
+		<rom name="cc-5m.3a" merge="cc-5m.3a" size="524288" crc="7261d8ba" />
+		<rom name="cc-7m.5a" merge="cc-7m.5a" size="524288" crc="6a60f949" />
+		<rom name="cc-1m.4a" merge="cc-1m.4a" size="524288" crc="00637302" />
+		<rom name="cc-3m.6a" merge="cc-3m.6a" size="524288" crc="cc87cf61" />
+		<rom name="ccc-6m.7a" size="524288" crc="e4282bc0" />
+		<rom name="ccc-8m.9a" size="524288" crc="8b0ef34c" />
+		<rom name="ccc-2m.8a" size="524288" crc="2d7bee50" />
+		<rom name="ccc-4m.10a" size="524288" crc="0106bf6a" />
+		<rom name="cc_09.11a" merge="cc_09.11a" size="65536" crc="698e8b58" />
+		<rom name="cc_18.11c" merge="cc_18.11c" size="131072" crc="6de2c2db" />
+		<rom name="cc_19.12c" merge="cc_19.12c" size="131072" crc="b99091ae" />
+		<rom name="buf1" merge="buf1" size="279" crc="eb122de7" />
+		<rom name="ioa1" merge="ioa1" size="279" crc="59c7ee3b" />
+		<rom name="prg1" merge="prg1" size="279" crc="f1129744" />
+		<rom name="rom1" merge="rom1" size="279" crc="41dc73b9" />
+		<rom name="sou1" merge="sou1" size="279" crc="84f4b2fe" />
+		<rom name="cc63b.1a" merge="cc63b.1a" size="279" crc="cae8f0f9" />
+		<rom name="iob1.12d" merge="iob1.12d" size="279" crc="3abc0700" />
+		<rom name="ccprg1.11d" merge="ccprg1.11d" size="279" crc="e1c225c4" />
+		<rom name="ioc1.ic7" merge="ioc1.ic7" size="260" crc="a399772d" />
+		<rom name="c632.ic1" merge="c632.ic1" size="279" crc="0fbd9270" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
 	<game name="captcmmy" cloneof="captcomm" romof="captcomm" sourcefile="capcom/d_cps1.cpp">
 		<comment>Hack</comment>
 		<description>Captain Commando (Incubus, Hack)</description>
@@ -8993,12 +9026,12 @@
 	</game>
 	<game name="sf2cre" cloneof="sf2ce" romof="sf2ce" sourcefile="capcom/d_cps1.cpp">
 		<comment>Hack</comment>
-		<description>Street Fighter II': Champion Re-Edit (Hack, v0.29.7)</description>
-		<year>2025</year>
+		<description>Street Fighter II': Champion Re-Edit (Hack, v0.32)</description>
+		<year>2026</year>
 		<manufacturer>Persona</manufacturer>
-		<rom name="sf2cre_23b.8f" size="524288" crc="ffa481c9" />
-		<rom name="sf2cre_22b.7f" size="524288" crc="e2944558" />
-		<rom name="sf2cre_21a.6f" size="524288" crc="c9c4acb8" />
+		<rom name="sf2cre_23b.8f" size="524288" crc="94e91cd3" />
+		<rom name="sf2cre_22b.7f" size="524288" crc="9d4dd0ef" />
+		<rom name="sf2cre_21a.6f" size="524288" crc="6f87199e" />
 		<rom name="s92_01.3a" merge="s92-1m.3a" size="524288" crc="03b0d852" />
 		<rom name="s92_02.4a" merge="s92-3m.5a" size="524288" crc="840289ec" />
 		<rom name="s92_03.5a" merge="s92-2m.4a" size="524288" crc="cdb5f027" />
