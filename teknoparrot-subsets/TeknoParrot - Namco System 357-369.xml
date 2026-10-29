@@ -4,18 +4,19 @@
 		<name>TeknoParrot - Namco System 357-369</name>
 		<description>Namco System 357 and 369 games for RetroBat's namco3xx system, folders named &lt;GameProfile&gt;.game</description>
 		<category>Arcade</category>
-		<date>2026-10-25</date>
+		<date>2026-10-28</date>
 		<author>Eggman</author>
 		<homepage>https://github.com/Eggmansworld/TeknoParrot</homepage>
 		<url>https://github.com/Eggmansworld/Datfiles</url>
-		<comment>Subset of TeknoParrot.Collection.2026-10-25_RomVault.zip built by auto-datfile-generator (teknoparrot-subsets.py). Eggman's README and changelog are part of the original release: https://github.com/Eggmansworld/TeknoParrot/releases/tag/2026-10-25</comment>
+		<comment>Subset of TeknoParrot.Collection.2026-10-28_RomVault.zip built by auto-datfile-generator (teknoparrot-subsets.py). Eggman's README and changelog are part of the original release: https://github.com/Eggmansworld/TeknoParrot/releases/tag/2026-10-28</comment>
 		<romvault forcepacking="fileonly" />
 	</header>
 	<game name="DarkEscape4D.game">
 		<description>Dark Escape 4D (1.00.02)(2012)[Namco System 357][TP]</description>
+		<DumpID>1739</DumpID>
 		<GameProfile>DarkEscape4D</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ARCDIR/PS3SETRG.SFT" size="1552" crc="af614c82" sha1="553bca4573c75f4c3a58f059e9ae5dd44fab87fc" />
@@ -40,9 +41,10 @@
 	</game>
 	<game name="DSPS.game">
 		<description>Deadstorm Pirate Special Edition (2.00)(2014)[Namco System 357][TP]</description>
+		<DumpID>1757</DumpID>
 		<GameProfile>DSPS</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ARCDIR/PS3RTC.SFT" size="47" crc="64118aae" sha1="1cc8de4d2141da23043781f55d4d481a107178c5" />
@@ -838,9 +840,10 @@
 	</game>
 	<game name="dbzenkai.game">
 		<description>Dragon Ball Zenkai Battle Royale (3.26.01)(2017-12-25)[Namco System 357][TP]</description>
+		<DumpID>1790</DumpID>
 		<GameProfile>dbzenkai</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ARCDIR/PS3SETRG.SFT" size="3953" crc="6ff2e539" sha1="cfd993443143b44504a7baa26a556596d5ef216c" />
@@ -15248,9 +15251,10 @@
 	</game>
 	<game name="RazingStorm.game">
 		<description>Razing Storm (2009)[Namco System 357][TP]</description>
+		<DumpID>2373</DumpID>
 		<GameProfile>RazingStorm</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ARCDIR/PS3SETRG.SFT" size="1552" crc="40d136ff" sha1="98546e0a85ae4149ed8fccaa626ad35632d44226" />
@@ -15274,9 +15278,10 @@
 	</game>
 	<game name="AKB48.game">
 		<description>Sailor Zombie AKB48 Arcade Edition (1.00)(2014)[Namco System 357][TP]</description>
+		<DumpID>2397</DumpID>
 		<GameProfile>AKB48</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ARCDIR/PS3PROFILE.SFT" size="72" crc="09f20eaa" sha1="977323480122d78d8abafd461675217ed775e05e" />
@@ -15926,9 +15931,10 @@
 	</game>
 	<game name="taikoblue.game">
 		<description>Taiko no Tatsujin Blue Version (11.01BF)(2018-01-31)[Namco System 369][TP]</description>
+		<DumpID>2633</DumpID>
 		<GameProfile>taikoblue</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ARCDIR/INSTALL0.PKG" size="348794" crc="be5aa6ae" sha1="82c9af5bdcabcffce84f5c7f067c12e4abf1311b" />
@@ -32426,9 +32432,10 @@
 	</game>
 	<game name="taikogreen.game">
 		<description>Taiko no Tatsujin Green Version (13.02)(2020-02-07)[Namco System 369][TP]</description>
+		<DumpID>2634</DumpID>
 		<GameProfile>taikogreen</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ARCDIR/_DATA00013.BIN" size="2128" crc="82e9d6f5" sha1="8a66a006e1340607277d0eb14ed603a505e708d0" />
@@ -52281,9 +52288,10 @@
 	</game>
 	<game name="taikokimidori.game">
 		<description>Taiko no Tatsujin Kimidori Version (13.01)(2014-06-19)[Namco System 369][TP]</description>
+		<DumpID>2635</DumpID>
 		<GameProfile>taikokimidori</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ARCDIR/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
@@ -59834,9 +59842,10 @@
 	</game>
 	<game name="taikomomoiro.game">
 		<description>Taiko no Tatsujin Momoiro Version (20.01)(2013-10-30)[Namco System 369][TP]</description>
+		<DumpID>2636</DumpID>
 		<GameProfile>taikomomoiro</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ICON0.PNG" size="60731" crc="59ffcbfc" sha1="6f5e04e6a13a310993b60f70ab6c4b0533ba01cf" />
@@ -66106,9 +66115,10 @@
 	</game>
 	<game name="taikomurasaki.game">
 		<description>Taiko no Tatsujin Murasaki Version (10.01)(2015-02-02)[Namco System 369][TP]</description>
+		<DumpID>2637</DumpID>
 		<GameProfile>taikomurasaki</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ARCDIR/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
@@ -75316,9 +75326,10 @@
 	</game>
 	<game name="taikored.game">
 		<description>Taiko no Tatsujin Red Version (10.01)(2016-07-27)[Namco System 369][TP]</description>
+		<DumpID>2639</DumpID>
 		<GameProfile>taikored</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ARCDIR/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
@@ -87606,9 +87617,10 @@
 	</game>
 	<game name="taikosorairo.game">
 		<description>Taiko no Tatsujin Sorairo Version (09.04)(2013-01-29)[Namco System 369][TP]</description>
+		<DumpID>2641</DumpID>
 		<GameProfile>taikosorairo</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ICON0.PNG" size="89089" crc="55a8ab25" sha1="c821bfaf386a4d42d41bd076b1dbf8fd393655e6" />
@@ -92535,9 +92547,10 @@
 	</game>
 	<game name="wadaikomaster.game">
 		<description>Taiko no Tatsujin Wadaiko Master (2014-06-30)[Namco System 369][TP]</description>
+		<DumpID>2642</DumpID>
 		<GameProfile>wadaikomaster</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ARCDIR/_INSTALL.PKG" size="107729008" crc="2b32c63a" sha1="0402e1ba53c66fcc95380156077227f011b9b57e" />
@@ -98990,9 +99003,10 @@
 	</game>
 	<game name="taikowhite.game">
 		<description>Taiko no Tatsujin White Version (11.01)(2015-10-26)[Namco System 369][TP]</description>
+		<DumpID>2643</DumpID>
 		<GameProfile>taikowhite</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ARCDIR/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
@@ -109488,9 +109502,10 @@
 	</game>
 	<game name="taikoyellow.game">
 		<description>Taiko no Tatsujin Yellow Version (10.01)(2017-02-06)[Namco System 369][TP]</description>
+		<DumpID>2644</DumpID>
 		<GameProfile>taikoyellow</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ARCDIR/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
@@ -122527,9 +122542,10 @@
 	</game>
 	<game name="Tekken6.game">
 		<description>Tekken 6 (2007)[Namco System 357][TP]</description>
+		<DumpID>2663</DumpID>
 		<GameProfile>Tekken6</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ARCDIR/PS3PROFILE.SFT" size="72" crc="86b2fb0a" sha1="0dc1bbba9bd9bc38bba002bd9761ae1b65fe5373" />
@@ -122651,9 +122667,10 @@
 	</game>
 	<game name="Tekken6BR.game">
 		<description>Tekken 6 Bloodline Rebellion (2008)[Namco System 357][TP]</description>
+		<DumpID>2664</DumpID>
 		<GameProfile>Tekken6BR</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ARCDIR/PS3SETRG.SFT" size="242" crc="5b352c2b" sha1="ba49667d57b3869be36772dfc98989de857924c5" />
@@ -122743,9 +122760,10 @@
 	</game>
 	<game name="ttt2.game">
 		<description>Tekken Tag Tournament 2 (2011)[Namco System 369][TP]</description>
+		<DumpID>2669</DumpID>
 		<GameProfile>ttt2</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ARCDIR/PS3PROFILE.SFT" size="72" crc="05db2bc9" sha1="1c9fd962ac6203c3e2e73a554ea876313e870c5d" />
@@ -122942,9 +122960,10 @@
 	</game>
 	<game name="ttt2u.game">
 		<description>Tekken Tag Tournament 2 Unlimited (1.00)(2011)[Namco System 369][TP]</description>
+		<DumpID>2670</DumpID>
 		<GameProfile>ttt2u</GameProfile>
 		<GameProfile2 />
-		<Executable>dev_hdd0\game\SCEEXE000\USRDIR\EBOOT.BIN</Executable>
+		<Executable>dev_hdd0/game/SCEEXE000/USRDIR/EBOOT.BIN</Executable>
 		<Executable2 />
 		<TestMenuExecutable />
 		<rom name="dev_hdd0/game/SCEEXE000/ARCDIR/PS3SETRG.SFT" size="203" crc="fed543cd" sha1="94a16800c97c93fddf9b19bb7423014c44fbca82" />
