@@ -1082,6 +1082,46 @@
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
+	<game name="sfiii2a" cloneof="sfiii2" romof="sfiii2" sourcefile="cps3/d_cps3.cpp">
+		<description>Street Fighter III 2nd Impact: Giant Attack (Asia 970930)</description>
+		<year>1997</year>
+		<manufacturer>Capcom</manufacturer>
+		<rom name="sfiii2_asia.29f400.u2" size="524288" crc="4518d589" />
+		<rom name="sfiii2-simm1.0" merge="sfiii2-simm1.0" size="2097152" crc="2d666f0b" />
+		<rom name="sfiii2-simm1.1" merge="sfiii2-simm1.1" size="2097152" crc="2a3a8ef6" />
+		<rom name="sfiii2-simm1.2" merge="sfiii2-simm1.2" size="2097152" crc="161d2206" />
+		<rom name="sfiii2-simm1.3" merge="sfiii2-simm1.3" size="2097152" crc="87ded8a3" />
+		<rom name="sfiii2-simm2.0" merge="sfiii2-simm2.0" size="2097152" crc="94a4ce0f" />
+		<rom name="sfiii2-simm2.1" merge="sfiii2-simm2.1" size="2097152" crc="67585033" />
+		<rom name="sfiii2-simm2.2" merge="sfiii2-simm2.2" size="2097152" crc="fabffcd5" />
+		<rom name="sfiii2-simm2.3" merge="sfiii2-simm2.3" size="2097152" crc="623c09ca" />
+		<rom name="sfiii2-simm3.0" merge="sfiii2-simm3.0" size="2097152" crc="dab2d766" />
+		<rom name="sfiii2-simm3.1" merge="sfiii2-simm3.1" size="2097152" crc="1f2aa34b" />
+		<rom name="sfiii2-simm3.2" merge="sfiii2-simm3.2" size="2097152" crc="6f1a04eb" />
+		<rom name="sfiii2-simm3.3" merge="sfiii2-simm3.3" size="2097152" crc="e05ef205" />
+		<rom name="sfiii2-simm3.4" merge="sfiii2-simm3.4" size="2097152" crc="affb074f" />
+		<rom name="sfiii2-simm3.5" merge="sfiii2-simm3.5" size="2097152" crc="6962872e" />
+		<rom name="sfiii2-simm3.6" merge="sfiii2-simm3.6" size="2097152" crc="6eed87de" />
+		<rom name="sfiii2-simm3.7" merge="sfiii2-simm3.7" size="2097152" crc="e18f479e" />
+		<rom name="sfiii2-simm4.0" merge="sfiii2-simm4.0" size="2097152" crc="764c2503" />
+		<rom name="sfiii2-simm4.1" merge="sfiii2-simm4.1" size="2097152" crc="3e16af6e" />
+		<rom name="sfiii2-simm4.2" merge="sfiii2-simm4.2" size="2097152" crc="215705e6" />
+		<rom name="sfiii2-simm4.3" merge="sfiii2-simm4.3" size="2097152" crc="e30cbd9c" />
+		<rom name="sfiii2-simm4.4" merge="sfiii2-simm4.4" size="2097152" crc="4185ded9" />
+		<rom name="sfiii2-simm4.5" merge="sfiii2-simm4.5" size="2097152" crc="4e8db013" />
+		<rom name="sfiii2-simm4.6" merge="sfiii2-simm4.6" size="2097152" crc="08df48ce" />
+		<rom name="sfiii2-simm4.7" merge="sfiii2-simm4.7" size="2097152" crc="bb8f80a5" />
+		<rom name="sfiii2-simm5.0" merge="sfiii2-simm5.0" size="2097152" crc="ebdc4787" />
+		<rom name="sfiii2-simm5.1" merge="sfiii2-simm5.1" size="2097152" crc="6b7c550e" />
+		<rom name="sfiii2-simm5.2" merge="sfiii2-simm5.2" size="2097152" crc="56ff8c50" />
+		<rom name="sfiii2-simm5.3" merge="sfiii2-simm5.3" size="2097152" crc="3f2ac3e9" />
+		<rom name="sfiii2-simm5.4" merge="sfiii2-simm5.4" size="2097152" crc="48cda50e" />
+		<rom name="sfiii2-simm5.5" merge="sfiii2-simm5.5" size="2097152" crc="520c0af6" />
+		<rom name="sfiii2-simm5.6" merge="sfiii2-simm5.6" size="2097152" crc="2edc5986" />
+		<rom name="sfiii2-simm5.7" merge="sfiii2-simm5.7" size="2097152" crc="93ffa199" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
 	<game name="sfiii2n" cloneof="sfiii2" romof="sfiii2" sourcefile="cps3/d_cps3.cpp">
 		<description>Street Fighter III 2nd Impact: Giant Attack (Asia 970930, NO CD)</description>
 		<year>1997</year>

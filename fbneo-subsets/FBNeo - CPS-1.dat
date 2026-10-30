@@ -3362,6 +3362,64 @@
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
+	<game name="ffightjs01" cloneof="ffight" romof="ffight" sourcefile="capcom/d_cps1.cpp">
+		<comment>Hack</comment>
+		<description>Final Fight EX (Japan, Backport RC4)</description>
+		<year>2026</year>
+		<manufacturer>Strygo</manufacturer>
+		<rom name="c07.p1" size="131072" crc="4dcd780e" />
+		<rom name="c07.p2" size="131072" crc="fd0623ca" />
+		<rom name="c07.p3" size="131072" crc="4d30793c" />
+		<rom name="c07j.p4" size="131072" crc="dabe8850" />
+		<rom name="c07.p5" size="524288" crc="f9e7b052" />
+		<rom name="c07js01.p7" size="1048576" crc="8bdfd316" />
+		<rom name="c07.c01" size="524288" crc="976bcfbb" />
+		<rom name="c07.c03" size="524288" crc="cfeb60c6" />
+		<rom name="c07.c05" size="524288" crc="32deeebd" />
+		<rom name="c07.c07" size="524288" crc="aca1645f" />
+		<rom name="c07js01.c09" size="524288" crc="923bfeba" />
+		<rom name="c07js01.c11" size="524288" crc="2699067e" />
+		<rom name="c07js01.c13" size="524288" crc="ed5833cb" />
+		<rom name="c07js01.c15" size="524288" crc="bed965c8" />
+		<rom name="c07js01.c17" size="524288" crc="7d0a63fa" />
+		<rom name="c07js01.c19" size="524288" crc="b61bca08" />
+		<rom name="c07js01.c21" size="524288" crc="8e33931b" />
+		<rom name="c07js01.c23" size="524288" crc="d60af261" />
+		<rom name="c07.m1" size="65536" crc="57a4cf41" />
+		<rom name="c07.v1" merge="ff_18.11c" size="131072" crc="375c66e7" />
+		<rom name="c07.v2" merge="ff_19.12c" size="131072" crc="1ef137f9" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="ffightus01" cloneof="ffight" romof="ffight" sourcefile="capcom/d_cps1.cpp">
+		<comment>Hack</comment>
+		<description>Final Fight EX (USA, Backport RC4)</description>
+		<year>2026</year>
+		<manufacturer>Strygo</manufacturer>
+		<rom name="c07.p1" size="131072" crc="1bbe6639" />
+		<rom name="c07.p2" size="131072" crc="9a9fe4f3" />
+		<rom name="c07.p3" size="131072" crc="d3c9e580" />
+		<rom name="c07u.p4" size="131072" crc="55a29283" />
+		<rom name="c07.p5" size="524288" crc="1c9b1b36" />
+		<rom name="c07us01.p7" size="1048576" crc="e6e4df5f" />
+		<rom name="c07.c01" size="524288" crc="7b4aad16" />
+		<rom name="c07.c03" size="524288" crc="28192faf" />
+		<rom name="c07.c05" size="524288" crc="deff8c10" />
+		<rom name="c07.c07" size="524288" crc="4b532b36" />
+		<rom name="c07us01.c09" size="524288" crc="3365bae7" />
+		<rom name="c07us01.c11" size="524288" crc="9f53c8e0" />
+		<rom name="c07us01.c13" size="524288" crc="cf35f998" />
+		<rom name="c07us01.c15" size="524288" crc="d65f25ed" />
+		<rom name="c07us01.c17" size="524288" crc="c9dbe31e" />
+		<rom name="c07us01.c19" size="524288" crc="30c802e6" />
+		<rom name="c07us01.c21" size="524288" crc="936c49c4" />
+		<rom name="c07us01.c23" size="524288" crc="ce2427a3" />
+		<rom name="c07.m1" size="65536" crc="87eca9ec" />
+		<rom name="c07.v1" merge="ff_18.11c" size="131072" crc="375c66e7" />
+		<rom name="c07.v2" merge="ff_19.12c" size="131072" crc="1ef137f9" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
 	<game name="forgottnj" cloneof="forgottn" romof="forgottn" sourcefile="capcom/d_cps1.cpp">
 		<comment>Prototype</comment>
 		<description>Forgotten Worlds (Japan) (English prototype)</description>
@@ -11149,6 +11207,35 @@
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
+	<game name="striderus01" cloneof="strider" romof="strider" sourcefile="capcom/d_cps1.cpp">
+		<comment>Hack</comment>
+		<description>Strider EX (USA, Backport RC1)</description>
+		<year>2026</year>
+		<manufacturer>Strygo</manufacturer>
+		<rom name="c03us01.p1" size="131072" crc="457395b9" />
+		<rom name="c03us01.p2" size="131072" crc="118f8690" />
+		<rom name="c03us01.p3" size="131072" crc="3306fd0f" />
+		<rom name="c03us01.p4" size="131072" crc="1ac8cad9" />
+		<rom name="c03us01.p5" size="524288" crc="06edfbaf" />
+		<rom name="c03us01.p6" size="1048576" crc="075dfc39" />
+		<rom name="c03us01.c01" size="524288" crc="f92cc010" />
+		<rom name="c03us01.c03" size="524288" crc="9abd7b1e" />
+		<rom name="c03us01.c05" size="524288" crc="085ec243" />
+		<rom name="c03us01.c07" size="524288" crc="2443df27" />
+		<rom name="c03.c17" merge="st-1.7a" size="524288" crc="005f000b" />
+		<rom name="c03.c19" merge="st-10.9a" size="524288" crc="b9441519" />
+		<rom name="c03.c21" merge="st-4.3a" size="524288" crc="b7d04e8b" />
+		<rom name="c03.c23" merge="st-8.5a" size="524288" crc="6b4713b4" />
+		<rom name="c03us01.c25" size="1048576" crc="e8507e5b" />
+		<rom name="c03us01.c27" size="1048576" crc="1120f48d" />
+		<rom name="c03us01.c29" size="1048576" crc="f7a36cd4" />
+		<rom name="c03us01.c31" size="1048576" crc="b0ef929a" />
+		<rom name="c03us01.m1" size="65536" crc="a08e24b9" />
+		<rom name="c03us01.v1" size="131072" crc="897269dd" />
+		<rom name="c03us01.v2" size="131072" crc="3f56c8cc" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
 	<game name="striderjr" cloneof="strider" romof="strider" sourcefile="capcom/d_cps1.cpp">
 		<description>Strider Hiryu (Japan Resale Ver.)</description>
 		<year>1989</year>
@@ -11233,6 +11320,32 @@
 		<rom name="sou1" merge="sou1" size="279" crc="84f4b2fe" />
 		<rom name="st22b.1a" size="279" crc="68fecc55" />
 		<rom name="lwio.12c" merge="lwio.11e" size="279" crc="ad52b90c" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="striderjs01" cloneof="strider" romof="strider" sourcefile="capcom/d_cps1.cpp">
+		<comment>Hack</comment>
+		<description>Strider Hiryu EX (Japan, Backport RC1)</description>
+		<year>2026</year>
+		<manufacturer>Strygo</manufacturer>
+		<rom name="c03js01.p1" size="524288" crc="39260f46" />
+		<rom name="c03js01.p5" size="524288" crc="abc6d8ff" />
+		<rom name="c03js01.p6" size="1048576" crc="150e1549" />
+		<rom name="c03js01.c01" size="524288" crc="f92cc010" />
+		<rom name="c03js01.c03" size="524288" crc="9abd7b1e" />
+		<rom name="c03js01.c05" size="524288" crc="085ec243" />
+		<rom name="c03js01.c07" size="524288" crc="2443df27" />
+		<rom name="c03.c17" merge="st-1.7a" size="524288" crc="005f000b" />
+		<rom name="c03.c19" merge="st-10.9a" size="524288" crc="b9441519" />
+		<rom name="c03.c21" merge="st-4.3a" size="524288" crc="b7d04e8b" />
+		<rom name="c03.c23" merge="st-8.5a" size="524288" crc="6b4713b4" />
+		<rom name="c03js01.c25" size="1048576" crc="e8507e5b" />
+		<rom name="c03js01.c27" size="1048576" crc="1120f48d" />
+		<rom name="c03js01.c29" size="1048576" crc="f7a36cd4" />
+		<rom name="c03js01.c31" size="1048576" crc="b0ef929a" />
+		<rom name="c03js01.m1" size="65536" crc="a08e24b9" />
+		<rom name="c03js01.v1" size="131072" crc="897269dd" />
+		<rom name="c03js01.v2" size="131072" crc="3f56c8cc" />
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>

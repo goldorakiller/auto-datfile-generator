@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</name>
 		<description>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</description>
 		<category>Standard DatFile</category>
-		<version>2026-10-28</version>
-		<date>2026-10-28</date>
+		<version>2026-10-29</version>
+		<date>2026-10-29</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -74,8 +74,7 @@
 	</machine>
 	<machine name="G">
 		<description>G</description>
-		<rom name="Galaga_v1.1.lha" size="169271" crc="28a01f43" md5="21d680f75b751bff4c9497f0a928355a" sha1="b1d7399eb2d8ad641b8f90c002d9724e12bdb7c6"/>
-		<rom name="Galaxian_v1.0.lha" size="187738" crc="30b9794d" md5="4350a6bd0377ace54d20bc7b05b51a1c" sha1="83474c6ddb5e394b9df70261e6c7f483d788b91a"/>
+		<rom name="Galaga_v2.0.lha" size="169885" crc="b732c531" md5="22faaf9d6bf809f153545c4a0df27f5a" sha1="0c3f67f8d82a795c6caf9b90481b9672911eae63"/>
 		<rom name="GhostBattle_v1.3.lha" size="968772" crc="738a43fc" md5="44ca0b7ba35ce7f730af838dd1c1924a" sha1="e868a10bfc541ae797744c4b66db1a64a1af8113"/>
 		<rom name="Ghostbusters2Modified_v1.0.lha" size="1166040" crc="9e2aa715" md5="1d2d6ee8983fd44b1b673b0743ae52b0" sha1="7ece59adc0b8c8363d48555283b4cef911f451c8"/>
 		<rom name="GhostsNGoblins_v1.2_AGA.lha" size="2127801" crc="85ae5bc0" md5="9d99630e3cd95262f1ded6ebeb69cd1c" sha1="fd292d8a5e2f48e5e716aa65dd1286c65e718469"/>
@@ -194,7 +193,8 @@
 		<rom name="Sinbad_v1.0_AtariST.lha" size="593343" crc="005dfb3e" md5="5480990dba90d38ef487e53154e7ccbe" sha1="5bf6617dd28311d05ea1ab80fafbd1af7bb91913"/>
 		<rom name="Sinbad_v1.0_Fr_AtariST.lha" size="595216" crc="8eb1c153" md5="95bb1ee2ff30fa538d1323431b214f58" sha1="ebd4cf38a1ab160e22b688f4120a31f853790113"/>
 		<rom name="Snakes_v0.9.lha" size="322076" crc="7f81d927" md5="eac2603a8e57c50ec7def92a8eea7437" sha1="3d7937b42642b7b476d0bd6eec98aea1c134e5ad"/>
-		<rom name="Splatterhouse_v1.1_PCEngine_AGA.lha" size="5944477" crc="63c519bd" md5="d7297ee21abb88560ce4d7410e01f9c1" sha1="17a8c65b7bca00f3328fef8e51e716208b5e28f3"/>
+		<rom name="SnowBrosArcadeMod_v1.4_Darasco.lha" size="902354" crc="e765803e" md5="d37dc39ef507e2ea2626f988155bf607" sha1="f1ee2c48120adf1d8ab9475ed37b160fd19d1df9"/>
+		<rom name="Splatterhouse_v1.2_PCEngine_AGA.lha" size="6155629" crc="b0aba91c" md5="8ec8c94cb7e1a23b2c24a753387f57dd" sha1="d0c578e39f43ed62a5888361fbe40f7a79c8df99"/>
 		<rom name="StuntCarRacerPerformance_v1.6.3.lha" size="317282" crc="20c0e0ea" md5="085150ed22214ecceee861e7fd2c2e27" sha1="e847a8d32011023ff4451e168dbce1343c176437"/>
 		<rom name="SummerOlympix_v1.0_CD32_BETA.lha" size="1538009" crc="fab1093b" md5="336fa7a133cdd5faeccb935b6aa7f831" sha1="954ee82ccf94ff77e51cec1b76663ab1115af4ca"/>
 		<rom name="SuperBagman_v1.0.lha" size="204160" crc="7bf2b636" md5="82d11cfe6819c44329e9a9c4e2b20ff0" sha1="95348357f7c02d0600a124329907a4b0ec7d4c81"/>

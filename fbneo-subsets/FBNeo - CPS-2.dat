@@ -2480,87 +2480,87 @@
 	</game>
 	<game name="ffex2r" cloneof="ffex2u" romof="ffex2u" sourcefile="capcom/d_cps2.cpp">
 		<comment>Hack</comment>
-		<description>Final Fight EX (Hack, CPS2 hardware, English Restoration RC1)</description>
+		<description>Final Fight EX (Hack, CPS2 hardware, English Restoration RC2)</description>
 		<year>2026</year>
 		<manufacturer>Strygo</manufacturer>
-		<rom name="sz3ud.03c" size="524288" crc="d1129b95" />
-		<rom name="sz3ud.04c" size="524288" crc="5d10506d" />
-		<rom name="sz3.05c" merge="sz3.05c" size="524288" crc="787bb7f2" />
-		<rom name="sz3.06c" merge="sz3.06c" size="524288" crc="5652684a" />
-		<rom name="sz3.07c" merge="sz3.07c" size="524288" crc="6e430b5c" />
-		<rom name="sz3.08c" size="524288" crc="64f42ba9" />
-		<rom name="sz3.09c" size="524288" crc="bd69566a" />
-		<rom name="sz3.10b" size="524288" crc="9539a4aa" />
-		<rom name="sz3.13m" size="4194304" crc="231f811f" />
-		<rom name="sz3.15m" size="4194304" crc="26cea23a" />
-		<rom name="sz3.17m" size="4194304" crc="f118f464" />
-		<rom name="sz3.19m" size="4194304" crc="876d7d45" />
-		<rom name="sz3.14m" merge="sz3.14m" size="4194304" crc="eca6de34" />
-		<rom name="sz3.16m" merge="sz3.16m" size="4194304" crc="17069cbd" />
-		<rom name="sz3.18m" merge="sz3.18m" size="4194304" crc="0f560d8c" />
-		<rom name="sz3.20m" merge="sz3.20m" size="4194304" crc="e96d3923" />
-		<rom name="sz3.01" size="131072" crc="3c1c4965" />
-		<rom name="sz3.02" merge="sz3.02" size="131072" crc="7ee8cdcd" />
-		<rom name="sz3.11m" merge="sz3.11m" size="4194304" crc="bea96b44" />
-		<rom name="sz3.12m" merge="sz3.12m" size="4194304" crc="df5e34c3" />
+		<rom name="ffexrd.03c" size="524288" crc="bce36dc0" />
+		<rom name="ffexrd.04c" size="524288" crc="273ae5d9" />
+		<rom name="ffex.05c" merge="ffex.05c" size="524288" crc="787bb7f2" />
+		<rom name="ffex.06c" merge="ffex.06c" size="524288" crc="5652684a" />
+		<rom name="ffex.07c" merge="ffex.07c" size="524288" crc="6e430b5c" />
+		<rom name="ffexr.08c" size="524288" crc="64f42ba9" />
+		<rom name="ffexr.09c" size="524288" crc="bd69566a" />
+		<rom name="ffexr.10b" size="524288" crc="9539a4aa" />
+		<rom name="ffexr.13m" size="4194304" crc="231f811f" />
+		<rom name="ffexr.15m" size="4194304" crc="26cea23a" />
+		<rom name="ffexr.17m" size="4194304" crc="f118f464" />
+		<rom name="ffexr.19m" size="4194304" crc="876d7d45" />
+		<rom name="ffex.14m" merge="ffex.14m" size="4194304" crc="eca6de34" />
+		<rom name="ffex.16m" merge="ffex.16m" size="4194304" crc="17069cbd" />
+		<rom name="ffex.18m" merge="ffex.18m" size="4194304" crc="0f560d8c" />
+		<rom name="ffex.20m" merge="ffex.20m" size="4194304" crc="e96d3923" />
+		<rom name="ffexr.01" size="131072" crc="3c1c4965" />
+		<rom name="ffex.02" merge="ffex.02" size="131072" crc="7ee8cdcd" />
+		<rom name="ffex.11m" merge="ffex.11m" size="4194304" crc="bea96b44" />
+		<rom name="ffex.12m" merge="ffex.12m" size="4194304" crc="df5e34c3" />
 		<rom name="phoenix.key" merge="phoenix.key" size="20" crc="2cf772b0" />
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
 	<game name="ffex2j" cloneof="ffex2u" romof="ffex2u" sourcefile="capcom/d_cps2.cpp">
 		<comment>Hack</comment>
-		<description>Final Fight EX (Hack, CPS2 hardware, Japan RC1)</description>
+		<description>Final Fight EX (Hack, CPS2 hardware, Japan RC2)</description>
 		<year>2026</year>
 		<manufacturer>Strygo</manufacturer>
-		<rom name="sz3ud.03c" size="524288" crc="9eb92f51" />
-		<rom name="sz3ud.04c" size="524288" crc="3a2393c0" />
-		<rom name="sz3.05c" merge="sz3.05c" size="524288" crc="787bb7f2" />
-		<rom name="sz3.06c" size="524288" crc="a8d2d10b" />
-		<rom name="sz3.07c" size="524288" crc="bcf7297e" />
-		<rom name="sz3.08c" size="524288" crc="7afbcbad" />
-		<rom name="sz3.09c" size="524288" crc="0642626b" />
-		<rom name="sz3.10b" size="524288" crc="b4208a79" />
-		<rom name="sz3.13m" size="4194304" crc="d24130e3" />
-		<rom name="sz3.15m" size="4194304" crc="cef0a6b3" />
-		<rom name="sz3.17m" size="4194304" crc="00464598" />
-		<rom name="sz3.19m" size="4194304" crc="6f5379cc" />
-		<rom name="sz3.14m" size="4194304" crc="ae054c04" />
-		<rom name="sz3.16m" size="4194304" crc="0e09c2ba" />
-		<rom name="sz3.18m" merge="sz3.18m" size="4194304" crc="0f560d8c" />
-		<rom name="sz3.20m" merge="sz3.20m" size="4194304" crc="e96d3923" />
-		<rom name="sz3.01" size="131072" crc="36ef522c" />
-		<rom name="sz3.02" merge="sz3.02" size="131072" crc="7ee8cdcd" />
-		<rom name="sz3.11m" merge="sz3.11m" size="4194304" crc="bea96b44" />
-		<rom name="sz3.12m" merge="sz3.12m" size="4194304" crc="df5e34c3" />
+		<rom name="ffexjd.03c" size="524288" crc="789ff036" />
+		<rom name="ffexjd.04c" size="524288" crc="613c6ecc" />
+		<rom name="ffex.05c" merge="ffex.05c" size="524288" crc="787bb7f2" />
+		<rom name="ffexj.06c" size="524288" crc="a8d2d10b" />
+		<rom name="ffexj.07c" size="524288" crc="bcf7297e" />
+		<rom name="ffexj.08c" size="524288" crc="7afbcbad" />
+		<rom name="ffexj.09c" size="524288" crc="0642626b" />
+		<rom name="ffexj.10b" size="524288" crc="b4208a79" />
+		<rom name="ffexj.13m" size="4194304" crc="d24130e3" />
+		<rom name="ffexj.15m" size="4194304" crc="cef0a6b3" />
+		<rom name="ffexj.17m" size="4194304" crc="00464598" />
+		<rom name="ffexj.19m" size="4194304" crc="6f5379cc" />
+		<rom name="ffexj.14m" size="4194304" crc="ae054c04" />
+		<rom name="ffexj.16m" size="4194304" crc="0e09c2ba" />
+		<rom name="ffex.18m" merge="ffex.18m" size="4194304" crc="0f560d8c" />
+		<rom name="ffex.20m" merge="ffex.20m" size="4194304" crc="e96d3923" />
+		<rom name="ffexj.01" size="131072" crc="36ef522c" />
+		<rom name="ffex.02" merge="ffex.02" size="131072" crc="7ee8cdcd" />
+		<rom name="ffex.11m" merge="ffex.11m" size="4194304" crc="bea96b44" />
+		<rom name="ffex.12m" merge="ffex.12m" size="4194304" crc="df5e34c3" />
 		<rom name="phoenix.key" merge="phoenix.key" size="20" crc="2cf772b0" />
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
 	<game name="ffex2u" sourcefile="capcom/d_cps2.cpp">
 		<comment>Hack</comment>
-		<description>Final Fight EX (Hack, CPS2 hardware, USA RC1)</description>
+		<description>Final Fight EX (Hack, CPS2 hardware, USA RC2)</description>
 		<year>2026</year>
 		<manufacturer>Strygo</manufacturer>
-		<rom name="sz3ud.03c" size="524288" crc="e022fd18" />
-		<rom name="sz3ud.04c" size="524288" crc="9c228c18" />
-		<rom name="sz3.05c" size="524288" crc="787bb7f2" />
-		<rom name="sz3.06c" size="524288" crc="5652684a" />
-		<rom name="sz3.07c" size="524288" crc="6e430b5c" />
-		<rom name="sz3.08c" size="524288" crc="0b37c61a" />
-		<rom name="sz3.09c" size="524288" crc="c0a36b4d" />
-		<rom name="sz3.10b" size="524288" crc="85f1c748" />
-		<rom name="sz3.13m" size="4194304" crc="48cbc129" />
-		<rom name="sz3.15m" size="4194304" crc="fd20f3aa" />
-		<rom name="sz3.17m" size="4194304" crc="5ea87831" />
-		<rom name="sz3.19m" size="4194304" crc="da6a3e7e" />
-		<rom name="sz3.14m" size="4194304" crc="eca6de34" />
-		<rom name="sz3.16m" size="4194304" crc="17069cbd" />
-		<rom name="sz3.18m" size="4194304" crc="0f560d8c" />
-		<rom name="sz3.20m" size="4194304" crc="e96d3923" />
-		<rom name="sz3.01" size="131072" crc="03d74a70" />
-		<rom name="sz3.02" size="131072" crc="7ee8cdcd" />
-		<rom name="sz3.11m" size="4194304" crc="bea96b44" />
-		<rom name="sz3.12m" size="4194304" crc="df5e34c3" />
+		<rom name="ffexd.03c" size="524288" crc="4f9873c4" />
+		<rom name="ffexd.04c" size="524288" crc="4957978c" />
+		<rom name="ffex.05c" size="524288" crc="787bb7f2" />
+		<rom name="ffex.06c" size="524288" crc="5652684a" />
+		<rom name="ffex.07c" size="524288" crc="6e430b5c" />
+		<rom name="ffex.08c" size="524288" crc="0b37c61a" />
+		<rom name="ffex.09c" size="524288" crc="c0a36b4d" />
+		<rom name="ffex.10b" size="524288" crc="85f1c748" />
+		<rom name="ffex.13m" size="4194304" crc="48cbc129" />
+		<rom name="ffex.15m" size="4194304" crc="fd20f3aa" />
+		<rom name="ffex.17m" size="4194304" crc="5ea87831" />
+		<rom name="ffex.19m" size="4194304" crc="da6a3e7e" />
+		<rom name="ffex.14m" size="4194304" crc="eca6de34" />
+		<rom name="ffex.16m" size="4194304" crc="17069cbd" />
+		<rom name="ffex.18m" size="4194304" crc="0f560d8c" />
+		<rom name="ffex.20m" size="4194304" crc="e96d3923" />
+		<rom name="ffex.01" size="131072" crc="03d74a70" />
+		<rom name="ffex.02" size="131072" crc="7ee8cdcd" />
+		<rom name="ffex.11m" size="4194304" crc="bea96b44" />
+		<rom name="ffex.12m" size="4194304" crc="df5e34c3" />
 		<rom name="phoenix.key" size="20" crc="2cf772b0" />
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
@@ -6319,6 +6319,27 @@
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
+	<game name="sfaex" cloneof="sfa" romof="sfa" sourcefile="capcom/d_cps2.cpp">
+		<comment>Hack</comment>
+		<description>Street Fighter Alpha EX: Warriors' Dreams (Hack, USA RC1)</description>
+		<year>2026</year>
+		<manufacturer>Strygo</manufacturer>
+		<rom name="sfzex.03c" size="524288" crc="a0c070cb" />
+		<rom name="sfzre.04b" size="524288" crc="8d9b2480" />
+		<rom name="sfzre.05a" size="524288" crc="8cf0a98f" />
+		<rom name="sfzex.06" size="524288" crc="9b5fc006" />
+		<rom name="sfzex.14m" size="2097152" crc="5e90868c" />
+		<rom name="sfzex.16m" size="2097152" crc="97ac2170" />
+		<rom name="sfzex.18m" size="2097152" crc="5e414b4f" />
+		<rom name="sfzex.20m" size="2097152" crc="f29757b8" />
+		<rom name="sfzex.01" size="131072" crc="e52887c9" />
+		<rom name="sfz.02" merge="sfz.02" size="131072" crc="45f46a08" />
+		<rom name="sfz.11m" merge="sfz.11m" size="2097152" crc="c4b093cd" />
+		<rom name="sfz.12m" merge="sfz.12m" size="2097152" crc="8bdbc4b4" />
+		<rom name="sfzj.key" size="20" crc="355d85b8" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
 	<game name="sfar3" cloneof="sfa" romof="sfa" sourcefile="capcom/d_cps2.cpp">
 		<description>Street Fighter Alpha: Warriors' Dreams (Europe 950605)</description>
 		<year>1995</year>
@@ -7489,64 +7510,6 @@
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
-	<game name="sfz3mix" cloneof="sfa3" romof="sfa3" sourcefile="capcom/d_cps2.cpp">
-		<comment>Hack</comment>
-		<description>Street Fighter Zero 3 Mix v0.32</description>
-		<year>2026</year>
-		<manufacturer>hack (zero800)</manufacturer>
-		<rom name="sz3mx.03" size="6291456" crc="7a968da6" />
-		<rom name="sz3mx.13m" size="33554432" crc="5389b651" />
-		<rom name="sz3mx.21m" size="33554432" crc="914c7031" />
-		<rom name="sz3mx.01" size="524288" crc="52f98a5c" />
-		<rom name="sz3mx.11m" size="16777216" crc="395edce2" />
-		<rom name="phoenix.key" size="20" crc="2cf772b0" />
-		<sample name="empty" />
-		<sample name="L09" />
-		<sample name="L0A" />
-		<sample name="L0B" />
-		<sample name="L0C" />
-		<sample name="L0D" />
-		<sample name="L0E" />
-		<sample name="L12" />
-		<sample name="L13" />
-		<sample name="L14" />
-		<sample name="L16" />
-		<sample name="L18" />
-		<sample name="L19" />
-		<sample name="L1B" />
-		<sample name="L1C" />
-		<sample name="L1E" />
-		<sample name="L1F" />
-		<sample name="L21" />
-		<sample name="L22" />
-		<sample name="L25" />
-		<sample name="L26" />
-		<sample name="L28" />
-		<sample name="empty" />
-		<sample name="R09" />
-		<sample name="R0A" />
-		<sample name="R0B" />
-		<sample name="R0C" />
-		<sample name="R0D" />
-		<sample name="R0E" />
-		<sample name="R12" />
-		<sample name="R13" />
-		<sample name="R14" />
-		<sample name="R16" />
-		<sample name="R18" />
-		<sample name="R19" />
-		<sample name="R1B" />
-		<sample name="R1C" />
-		<sample name="R1E" />
-		<sample name="R1F" />
-		<sample name="R21" />
-		<sample name="R22" />
-		<sample name="R25" />
-		<sample name="R26" />
-		<sample name="R28" />
-		<video type="raster" orientation="horizontal" width="416" height="234" aspectx="16" aspecty="9" />
-		<driver status="good" />
-	</game>
 	<game name="sfz3rej" cloneof="sfa3" romof="sfa3" sourcefile="capcom/d_cps2.cpp">
 		<comment>Hack</comment>
 		<description>Street Fighter Zero 3 Restoration (Hack, Japan RC4)</description>
@@ -7602,6 +7565,48 @@
 		<rom name="sz3.11m" merge="sz3.11m" size="4194304" crc="1c89eed1" />
 		<rom name="sz3.12m" merge="sz3.12m" size="4194304" crc="f392b13a" />
 		<rom name="sfz3j.key" size="20" crc="d30cca8d" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sfzexa" cloneof="sfa" romof="sfa" sourcefile="capcom/d_cps2.cpp">
+		<comment>Hack</comment>
+		<description>Street Fighter Zero EX (Hack, Asia RC1)</description>
+		<year>2026</year>
+		<manufacturer>Strygo</manufacturer>
+		<rom name="sfzexa.03c" size="524288" crc="14c3e640" />
+		<rom name="sfzre.04b" size="524288" crc="8d9b2480" />
+		<rom name="sfzre.05a" size="524288" crc="8cf0a98f" />
+		<rom name="sfzexa.06" size="524288" crc="4185da04" />
+		<rom name="sfzexa.14m" size="2097152" crc="31318783" />
+		<rom name="sfzexa.16m" size="2097152" crc="b905c57d" />
+		<rom name="sfzexa.18m" size="2097152" crc="0ed47cd2" />
+		<rom name="sfzexa.20m" size="2097152" crc="688f9434" />
+		<rom name="sfzex.01" size="131072" crc="e52887c9" />
+		<rom name="sfz.02" merge="sfz.02" size="131072" crc="45f46a08" />
+		<rom name="sfz.11m" merge="sfz.11m" size="2097152" crc="c4b093cd" />
+		<rom name="sfz.12m" merge="sfz.12m" size="2097152" crc="8bdbc4b4" />
+		<rom name="sfzj.key" size="20" crc="355d85b8" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="sfzexj" cloneof="sfa" romof="sfa" sourcefile="capcom/d_cps2.cpp">
+		<comment>Hack</comment>
+		<description>Street Fighter Zero EX (Hack, Japan RC1)</description>
+		<year>2026</year>
+		<manufacturer>Strygo</manufacturer>
+		<rom name="sfzexj.03c" size="524288" crc="7eb7adce" />
+		<rom name="sfzex.04b" size="524288" crc="8d9b2480" />
+		<rom name="sfzrej.05a" size="524288" crc="fa9ceda6" />
+		<rom name="sfzexj.06" size="524288" crc="995752fb" />
+		<rom name="sfzexj.14m" size="2097152" crc="0a7de3b8" />
+		<rom name="sfzexj.16m" size="2097152" crc="c1b36217" />
+		<rom name="sfzexj.18m" size="2097152" crc="8f468f11" />
+		<rom name="sfzexj.20m" size="2097152" crc="37c3c380" />
+		<rom name="sfzex.01" size="131072" crc="e52887c9" />
+		<rom name="sfz.02" merge="sfz.02" size="131072" crc="45f46a08" />
+		<rom name="sfz.11m" merge="sfz.11m" size="2097152" crc="c4b093cd" />
+		<rom name="sfz.12m" merge="sfz.12m" size="2097152" crc="8bdbc4b4" />
+		<rom name="sfzj.key" size="20" crc="355d85b8" />
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
@@ -8374,28 +8379,28 @@
 	</game>
 	<game name="ssf2tgmc" cloneof="ssf2t" romof="ssf2t" sourcefile="capcom/d_cps2.cpp">
 		<comment>Hack</comment>
-		<description>Super Street Fighter II Turbo: Grand Master Challenge (Hack, English Restoration RC3)</description>
+		<description>Super Street Fighter II Turbo: Grand Master Challenge (Hack, English Restoration RC4)</description>
 		<year>2026</year>
 		<manufacturer>Strygo</manufacturer>
-		<rom name="sfxgmc.03d" size="524288" crc="ee8e9e9b" />
+		<rom name="sfxgmc.03d" size="524288" crc="cfc87616" />
 		<rom name="sfxgmc.04a" size="524288" crc="c9df66cd" />
 		<rom name="sfxj.05" size="524288" crc="f4ff18f5" />
 		<rom name="sfxj.06b" size="524288" crc="413477c2" />
 		<rom name="sfxj.07a" size="524288" crc="a18b3d83" />
-		<rom name="sfxgmc.08" size="524288" crc="ea0d1d90" />
-		<rom name="sfxgmc.09" size="524288" crc="95718f1e" />
+		<rom name="sfxgmc.08" size="524288" crc="f7587a54" />
+		<rom name="sfxgmc.09" size="524288" crc="9a6ae34e" />
 		<rom name="sfxgmc.13m" size="2097152" crc="75dac0eb" />
 		<rom name="sfxgmc.15m" size="2097152" crc="84dcc039" />
 		<rom name="sfxgmc.17m" size="2097152" crc="bfcaf206" />
 		<rom name="sfxgmc.19m" size="2097152" crc="13a55fd3" />
-		<rom name="sfxgmc.14m" size="1048576" crc="1f8dd3ca" />
-		<rom name="sfxgmc.16m" size="1048576" crc="8033c95d" />
-		<rom name="sfxgmc.18m" size="1048576" crc="dd6cdee2" />
-		<rom name="sfxgmc.20m" size="1048576" crc="4dacc976" />
-		<rom name="sfxgmc.21m" size="1048576" crc="34f361da" />
-		<rom name="sfxgmc.23m" size="1048576" crc="279f2671" />
-		<rom name="sfxgmc.25m" size="1048576" crc="1fbd5b9e" />
-		<rom name="sfxgmc.27m" size="1048576" crc="11725784" />
+		<rom name="sfxgmc.14m" size="1048576" crc="a821a895" />
+		<rom name="sfxgmc.16m" size="1048576" crc="f4dd5566" />
+		<rom name="sfxgmc.18m" size="1048576" crc="6ac0a5bd" />
+		<rom name="sfxgmc.20m" size="1048576" crc="3942554d" />
+		<rom name="sfxgmc.21m" size="1048576" crc="c507ee10" />
+		<rom name="sfxgmc.23m" size="1048576" crc="d0bd63db" />
+		<rom name="sfxgmc.25m" size="1048576" crc="2a8193c4" />
+		<rom name="sfxgmc.27m" size="1048576" crc="3c6e0a1a" />
 		<rom name="sfx.01" merge="sfx.01" size="131072" crc="b47b8835" />
 		<rom name="sfx.02" merge="sfx.02" size="131072" crc="0022633f" />
 		<rom name="sfx.11m" merge="sfx.11m" size="2097152" crc="9bdbd476" />
@@ -10471,118 +10476,6 @@
 		<rom name="xvs.12m" merge="xvs.12m" size="2097152" crc="7b11e460" />
 		<rom name="xmvsfu.key" size="20" crc="eca13458" />
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
-		<driver status="good" />
-	</game>
-	<game name="xmvsf3v3" cloneof="xmvsf" romof="xmvsf" sourcefile="capcom/d_cps2.cpp">
-		<comment>Hack</comment>
-		<description>X-Men Vs. Street Fighter 3v3 + DHC (Hack, v1.1.0)</description>
-		<year>2026</year>
-		<manufacturer>hack (Morphus56K)</manufacturer>
-		<rom name="xvs3v3.03f" size="524288" crc="7b151acd" />
-		<rom name="xvse.04f" merge="xvse.04f" size="524288" crc="ef015aef" />
-		<rom name="xvs.05a" merge="xvs.05a" size="524288" crc="7db6025d" />
-		<rom name="xvs.06a" merge="xvs.06a" size="524288" crc="e8e2c75c" />
-		<rom name="xvs.07" merge="xvs.07" size="524288" crc="08f0abed" />
-		<rom name="xvs3v3.08" size="524288" crc="477a3f86" />
-		<rom name="xvs3v3.09" size="524288" crc="98e06515" />
-		<rom name="xvs3v3.13m" size="4194304" crc="c8b777f6" />
-		<rom name="xvs3v3.15m" size="4194304" crc="8143c2b0" />
-		<rom name="xvs3v3.17m" size="4194304" crc="10cceec9" />
-		<rom name="xvs3v3.19m" size="4194304" crc="f458a1f8" />
-		<rom name="xvs.14m" merge="xvs.14m" size="4194304" crc="bcac2e41" />
-		<rom name="xvs.16m" merge="xvs.16m" size="4194304" crc="ea04a272" />
-		<rom name="xvs.18m" merge="xvs.18m" size="4194304" crc="b0def86a" />
-		<rom name="xvs.20m" merge="xvs.20m" size="4194304" crc="4b40ff9f" />
-		<rom name="xvs.01" merge="xvs.01" size="131072" crc="3999e93a" />
-		<rom name="xvs.02" merge="xvs.02" size="131072" crc="101bdee9" />
-		<rom name="xvs.11m" merge="xvs.11m" size="2097152" crc="9cadcdbc" />
-		<rom name="xvs.12m" merge="xvs.12m" size="2097152" crc="7b11e460" />
-		<rom name="xmvsf.key" merge="xmvsf.key" size="20" crc="d5c07311" />
-		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
-		<driver status="good" />
-	</game>
-	<game name="xmvsf6p" cloneof="xmvsf" romof="xmvsf" sourcefile="capcom/d_cps2.cpp">
-		<comment>Hack</comment>
-		<description>X-Men Vs. Street Fighter 3v3 + DHC (Hack, v1.1.0, 6 players)</description>
-		<year>2026</year>
-		<manufacturer>hack (Morphus56K)</manufacturer>
-		<rom name="xvs6p.03f" size="524288" crc="8940699a" />
-		<rom name="xvse.04f" merge="xvse.04f" size="524288" crc="ef015aef" />
-		<rom name="xvs.05a" merge="xvs.05a" size="524288" crc="7db6025d" />
-		<rom name="xvs.06a" merge="xvs.06a" size="524288" crc="e8e2c75c" />
-		<rom name="xvs.07" merge="xvs.07" size="524288" crc="08f0abed" />
-		<rom name="xvs6p.08" size="524288" crc="14b6a689" />
-		<rom name="xvs6p.09" size="524288" crc="6ea8fdea" />
-		<rom name="xvs3v3.13m" size="4194304" crc="c8b777f6" />
-		<rom name="xvs3v3.15m" size="4194304" crc="8143c2b0" />
-		<rom name="xvs3v3.17m" size="4194304" crc="10cceec9" />
-		<rom name="xvs3v3.19m" size="4194304" crc="f458a1f8" />
-		<rom name="xvs.14m" merge="xvs.14m" size="4194304" crc="bcac2e41" />
-		<rom name="xvs.16m" merge="xvs.16m" size="4194304" crc="ea04a272" />
-		<rom name="xvs.18m" merge="xvs.18m" size="4194304" crc="b0def86a" />
-		<rom name="xvs.20m" merge="xvs.20m" size="4194304" crc="4b40ff9f" />
-		<rom name="xvs.01" merge="xvs.01" size="131072" crc="3999e93a" />
-		<rom name="xvs.02" merge="xvs.02" size="131072" crc="101bdee9" />
-		<rom name="xvs.11m" merge="xvs.11m" size="2097152" crc="9cadcdbc" />
-		<rom name="xvs.12m" merge="xvs.12m" size="2097152" crc="7b11e460" />
-		<rom name="xmvsf.key" merge="xmvsf.key" size="20" crc="d5c07311" />
-		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
-		<driver status="good" />
-	</game>
-	<game name="xmvsf6pw" cloneof="xmvsf" romof="xmvsf" sourcefile="capcom/d_cps2.cpp">
-		<comment>Hack</comment>
-		<description>X-Men Vs. Street Fighter 3v3 + DHC (Hack, v1.1.0, 6 players, wide)</description>
-		<year>2026</year>
-		<manufacturer>hack (Morphus56K)</manufacturer>
-		<rom name="xvs6pw.03f" size="524288" crc="a6b836c9" />
-		<rom name="xvse.04f" merge="xvse.04f" size="524288" crc="ef015aef" />
-		<rom name="xvs.05a" merge="xvs.05a" size="524288" crc="7db6025d" />
-		<rom name="xvs.06a" merge="xvs.06a" size="524288" crc="e8e2c75c" />
-		<rom name="xvs.07" merge="xvs.07" size="524288" crc="08f0abed" />
-		<rom name="xvs6p.08" size="524288" crc="14b6a689" />
-		<rom name="xvs6pw.09" size="524288" crc="e2160a49" />
-		<rom name="xvs3v3.13m" size="4194304" crc="c8b777f6" />
-		<rom name="xvs3v3.15m" size="4194304" crc="8143c2b0" />
-		<rom name="xvs3v3.17m" size="4194304" crc="10cceec9" />
-		<rom name="xvs3v3.19m" size="4194304" crc="f458a1f8" />
-		<rom name="xvs.14m" merge="xvs.14m" size="4194304" crc="bcac2e41" />
-		<rom name="xvs.16m" merge="xvs.16m" size="4194304" crc="ea04a272" />
-		<rom name="xvs.18m" merge="xvs.18m" size="4194304" crc="b0def86a" />
-		<rom name="xvs.20m" merge="xvs.20m" size="4194304" crc="4b40ff9f" />
-		<rom name="xvs.01" merge="xvs.01" size="131072" crc="3999e93a" />
-		<rom name="xvs.02" merge="xvs.02" size="131072" crc="101bdee9" />
-		<rom name="xvs.11m" merge="xvs.11m" size="2097152" crc="9cadcdbc" />
-		<rom name="xvs.12m" merge="xvs.12m" size="2097152" crc="7b11e460" />
-		<rom name="xmvsf.key" merge="xmvsf.key" size="20" crc="d5c07311" />
-		<video type="raster" orientation="horizontal" width="512" height="224" aspectx="16" aspecty="9" />
-		<driver status="good" />
-	</game>
-	<game name="xmvsf3v3w" cloneof="xmvsf" romof="xmvsf" sourcefile="capcom/d_cps2.cpp">
-		<comment>Hack</comment>
-		<description>X-Men Vs. Street Fighter 3v3 + DHC (Hack, v1.1.0, wide)</description>
-		<year>2026</year>
-		<manufacturer>hack (Morphus56K)</manufacturer>
-		<rom name="xvs3v3w.03f" size="524288" crc="54ed459e" />
-		<rom name="xvse.04f" merge="xvse.04f" size="524288" crc="ef015aef" />
-		<rom name="xvs.05a" merge="xvs.05a" size="524288" crc="7db6025d" />
-		<rom name="xvs.06a" merge="xvs.06a" size="524288" crc="e8e2c75c" />
-		<rom name="xvs.07" merge="xvs.07" size="524288" crc="08f0abed" />
-		<rom name="xvs3v3.08" size="524288" crc="477a3f86" />
-		<rom name="xvs3v3w.09" size="524288" crc="145e92b6" />
-		<rom name="xvs3v3.13m" size="4194304" crc="c8b777f6" />
-		<rom name="xvs3v3.15m" size="4194304" crc="8143c2b0" />
-		<rom name="xvs3v3.17m" size="4194304" crc="10cceec9" />
-		<rom name="xvs3v3.19m" size="4194304" crc="f458a1f8" />
-		<rom name="xvs.14m" merge="xvs.14m" size="4194304" crc="bcac2e41" />
-		<rom name="xvs.16m" merge="xvs.16m" size="4194304" crc="ea04a272" />
-		<rom name="xvs.18m" merge="xvs.18m" size="4194304" crc="b0def86a" />
-		<rom name="xvs.20m" merge="xvs.20m" size="4194304" crc="4b40ff9f" />
-		<rom name="xvs.01" merge="xvs.01" size="131072" crc="3999e93a" />
-		<rom name="xvs.02" merge="xvs.02" size="131072" crc="101bdee9" />
-		<rom name="xvs.11m" merge="xvs.11m" size="2097152" crc="9cadcdbc" />
-		<rom name="xvs.12m" merge="xvs.12m" size="2097152" crc="7b11e460" />
-		<rom name="xmvsf.key" merge="xmvsf.key" size="20" crc="d5c07311" />
-		<video type="raster" orientation="horizontal" width="512" height="224" aspectx="16" aspecty="9" />
 		<driver status="good" />
 	</game>
 	<game name="xmcotaar2" cloneof="xmcota" romof="xmcota" sourcefile="capcom/d_cps2.cpp">
