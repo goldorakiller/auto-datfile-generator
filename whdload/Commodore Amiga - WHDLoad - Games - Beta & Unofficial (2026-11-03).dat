@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</name>
 		<description>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</description>
 		<category>Standard DatFile</category>
-		<version>2026-11-02</version>
-		<date>2026-11-02</date>
+		<version>2026-11-03</version>
+		<date>2026-11-03</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -63,8 +63,8 @@
 		<rom name="Elvira_v1.3_De_German_fix_by_Torti-the-Smurf.lha" size="3222205" crc="0cc644a6" md5="b1747444d9050702d104a5ba964a5007" sha1="80f39a5bcd2b546e3e00156163245564d57f53c0"/>
 		<rom name="Elysium_v1.0_De.lha" size="1791658" crc="3589feb8" md5="f2fee8fafea48087b4b467f9061c1ad1" sha1="ed9416f3c526b3db8cb9b7a2c6a517e95ef0a926"/>
 		<rom name="EvilGarden_v1.0.lha" size="416910" crc="72dec9a6" md5="13e77beb32344ba11a574c412ae2ae10" sha1="ac19402d5d63a159cf57ea412a93c102bbc3eb93"/>
-		<rom name="EyeOfTheBeholder2_v0.3_AGA.lha" size="2835904" crc="ff7910f6" md5="883dd63524c667b4c3c704c552e87e00" sha1="a4c1603bd2d1296f90d025b0df9ecc7f4375f0a7"/>
-		<rom name="EyeOfTheBeholder_v0.3_AGA.lha" size="2467258" crc="73f96cb6" md5="bb62459f6c3289e98ad5ac8a04c7d728" sha1="7283864fbc431741afae2c21e719c087b84b69a5"/>
+		<rom name="EyeOfTheBeholder2_v0.3_AGA.lha" size="2835596" crc="0ca1c534" md5="cec08326106fc8d0b3ca7dd63ec25f77" sha1="ad420ed0c40a2e7a0e60e9e25e7a9b92d44e67be"/>
+		<rom name="EyeOfTheBeholder_v0.3_AGA.lha" size="2522115" crc="3a2b9ac1" md5="e0a91e8049b40cf58fefe73329e4f30a" sha1="0d23c8070aacf59100edeec2367cddd431cb33bc"/>
 	</machine>
 	<machine name="F">
 		<description>F</description>
@@ -205,7 +205,9 @@
 		<description>T</description>
 		<rom name="Tetris_v1.03_AGA.lha" size="169952" crc="677eac84" md5="a549c4de99195de85428ea3b0f663a87" sha1="83926418c943e70478277a457cb9ad045ec85497"/>
 		<rom name="ThemeParkXMASDemo_v1.0.lha" size="435540" crc="9bde2b62" md5="399a4ff05b262966eb803ae277ded191" sha1="b1f7c01d0eab324976a15c3c1d0c206c5f9228f5"/>
-		<rom name="TimePilot_v1.0_AGA.lha" size="657092" crc="73fa8a10" md5="2d80bf51c2366991f34bdc097e5ef5a8" sha1="87e98edc0094c68d712f8ac51c8064a78dbc5f6e"/>
+		<rom name="TimePilot_v1.0_AGA_RMJ.lha" size="91982" crc="4676f64a" md5="f46c2d16b2458987fc777cfe82325cea" sha1="10690bd83973028bc0f2bd1b33fd0da8245f84fc"/>
+		<rom name="TimePilot_v1.0_AGA_ruliovega.lha" size="657275" crc="9bc2e133" md5="3e6749f64648ec819cf3ecfef993d2b4" sha1="e667f28bba81d3ec8b5254ec5846184a8fbc365e"/>
+		<rom name="TimePilot_v1.0_RMJ.lha" size="91790" crc="5fdfc75e" md5="5b96eff8d1da3ec67ad94f86044d5449" sha1="e6765ff8c1a968863e5ff1d93ba7dea28979d8e5"/>
 		<rom name="Tony&amp;FriendsInKelloggsLand_v1.0_Hack_by_Earok.lha" size="788208" crc="4531b912" md5="64e096230e4d415d4466da7d409b1e3f" sha1="3f47a1dba42159ef950565f8c2b92b886eaf1ba5"/>
 		<rom name="Track&amp;Field_v1.09.lha" size="303337" crc="bcd0b5bb" md5="600b65b62542599020f81e45fc0bb59a" sha1="74ce582965119a8454d1b4d39662b0d0fb9912f5"/>
 		<rom name="Track&amp;Field_v1.09_AGA.lha" size="399790" crc="79847407" md5="5678da86ba09f1a7197a3566bd3b2450" sha1="87f84c49b60fedb6fd200da0eacc95b0b56886c0"/>
