@@ -4342,6 +4342,35 @@
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
+	<game name="mvschr" cloneof="mvsc" romof="mvsc" sourcefile="capcom/d_cps2.cpp">
+		<comment>Hack</comment>
+		<description>Marvel Vs. Capcom: Clash of Super Heroes (Hack, Heroes Reborn V0.3)</description>
+		<year>2026</year>
+		<manufacturer>hack (N41)</manufacturer>
+		<rom name="mvchr.03a" size="524288" crc="283c6b7a" />
+		<rom name="mvchr.04a" size="524288" crc="28153025" />
+		<rom name="mvchr.05a" size="524288" crc="e20ca6b8" />
+		<rom name="mvchr.06a" size="524288" crc="e44b6038" />
+		<rom name="mvchr.07" size="524288" crc="bdf522ad" />
+		<rom name="mvc.08" merge="mvc.08" size="524288" crc="bc002fcd" />
+		<rom name="mvc.09" merge="mvc.09" size="524288" crc="c67b26df" />
+		<rom name="mvchr.10" size="524288" crc="2dad85e9" />
+		<rom name="mvchr.13m" size="4194304" crc="e760e5ce" />
+		<rom name="mvchr.15m" size="4194304" crc="578b47eb" />
+		<rom name="mvchr.17m" size="4194304" crc="11f1426f" />
+		<rom name="mvchr.19m" size="4194304" crc="8252314f" />
+		<rom name="mvc.14m" merge="mvc.14m" size="4194304" crc="7f1df4e4" />
+		<rom name="mvc.16m" merge="mvc.16m" size="4194304" crc="90bd3203" />
+		<rom name="mvc.18m" merge="mvc.18m" size="4194304" crc="67aaf727" />
+		<rom name="mvc.20m" merge="mvc.20m" size="4194304" crc="8b0bade8" />
+		<rom name="mvc.01" merge="mvc.01" size="131072" crc="41629e95" />
+		<rom name="mvc.02" merge="mvc.02" size="131072" crc="963abf6b" />
+		<rom name="mvc.11m" merge="mvc.11m" size="4194304" crc="850fe663" />
+		<rom name="mvc.12m" merge="mvc.12m" size="4194304" crc="7ccb1896" />
+		<rom name="mvsc.key" merge="mvsc.key" size="20" crc="7e101e09" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
 	<game name="mvsch" cloneof="mvsc" romof="mvsc" sourcefile="capcom/d_cps2.cpp">
 		<description>Marvel Vs. Capcom: Clash of Super Heroes (Hispanic 980123)</description>
 		<year>1998</year>
