@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - HD Loaders - Games</name>
 		<description>Commodore Amiga - HD Loaders - Games</description>
 		<category>Standard DatFile</category>
-		<version>2026-11-02</version>
-		<date>2026-11-02</date>
+		<version>2026-11-06</version>
+		<date>2026-11-06</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -137,6 +137,7 @@
 	</machine>
 	<machine name="R">
 		<description>R</description>
+		<rom name="RainbowIslands_AGA.lha" size="12602370" crc="b3e7e7ec" md5="e82e06b50a5dce38bd7e5f4f275c1b0d" sha1="87ec7e38f51d4c9183e99c6118f1843c41096c2f"/>
 		<rom name="Recoil_v1.3_HD_Galahad.lha" size="171710" crc="aea7a9a6" md5="7d26bae8b20ba089b89a70d34204ac0c" sha1="208b4813a3493a39d3304ead8ee3f50a4c62daa3"/>
 		<rom name="RiseOfTheRobots_v1.1_AGA_HD_JOTD_1763.lha" size="7490668" crc="bb39fe8c" md5="cc238cf76d1b1072cca1fc4b3a5a7c50" sha1="d15ff9267cccf95d642b19982aab3fa99d207e6a"/>
 		<rom name="RiseOfTheRobots_v1.1_CD32_HD_JOTD.lha" size="8159923" crc="7a12a613" md5="b234859e2db63844323fca40f2fcd04a" sha1="2ef5271dd53b55a62602cafc72add9f170424d0f"/>
