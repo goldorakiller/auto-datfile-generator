@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</name>
 		<description>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</description>
 		<category>Standard DatFile</category>
-		<version>2026-11-07</version>
-		<date>2026-11-07</date>
+		<version>2026-11-08</version>
+		<date>2026-11-08</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -68,8 +68,10 @@
 		<rom name="Elvira_v1.3_De_German_fix_by_Torti-the-Smurf.lha" size="3222205" crc="0cc644a6" md5="b1747444d9050702d104a5ba964a5007" sha1="80f39a5bcd2b546e3e00156163245564d57f53c0"/>
 		<rom name="Elysium_v1.0_De.lha" size="1791658" crc="3589feb8" md5="f2fee8fafea48087b4b467f9061c1ad1" sha1="ed9416f3c526b3db8cb9b7a2c6a517e95ef0a926"/>
 		<rom name="EvilGarden_v1.0.lha" size="416910" crc="72dec9a6" md5="13e77beb32344ba11a574c412ae2ae10" sha1="ac19402d5d63a159cf57ea412a93c102bbc3eb93"/>
-		<rom name="EyeOfTheBeholder2_v0.3_AGA.lha" size="2835607" crc="6ee37fb1" md5="00af42d2a646c255bbc710448b295e38" sha1="ff3e13ce560eaa58cd73481dd231a0e6beebba52"/>
-		<rom name="EyeOfTheBeholder_v0.3_AGA.lha" size="2467093" crc="c5bc29c4" md5="c752a37bd84ec0ce519f168274e07089" sha1="748ea387fbbf2caa8d2c9d1f3a4ea87dbfe379cb"/>
+		<rom name="EyeOfTheBeholder2_v1.13_AutoMap.lha" size="3577575" crc="af4178d9" md5="24a6bfa5925edf7bf7ffe9b8689f6743" sha1="794428d7723822d1409a85953075a0b931df6130"/>
+		<rom name="EyeOfTheBeholder2_v1.13_AutoMap_AGA.lha" size="3404310" crc="3d2902ee" md5="a872db16281af9e99083f0e31d983be7" sha1="3d23d63c11f18df377089c17b6a083d0f7df6121"/>
+		<rom name="EyeOfTheBeholder_v1.13_AutoMap.lha" size="2602008" crc="b31d8d8e" md5="ed1a768d572d9173843eb13dc191bb84" sha1="86901ed0f31d20ac107d78c2aad6f25f50eba6a1"/>
+		<rom name="EyeOfTheBeholder_v1.13_AutoMap_AGA.lha" size="2511479" crc="8bd1e878" md5="dd0c57b17134ad2d101a510c3ab635c3" sha1="4323c17a0eb910f5380762b77cc888a0f9e09e73"/>
 	</machine>
 	<machine name="F">
 		<description>F</description>
@@ -211,7 +213,7 @@
 		<rom name="SnowBrosArcadeMod_v1.4_Darasco.lha" size="902354" crc="e765803e" md5="d37dc39ef507e2ea2626f988155bf607" sha1="f1ee2c48120adf1d8ab9475ed37b160fd19d1df9"/>
 		<rom name="Splatterhouse_v1.2_PCEngine_AGA.lha" size="6155629" crc="b0aba91c" md5="8ec8c94cb7e1a23b2c24a753387f57dd" sha1="d0c578e39f43ed62a5888361fbe40f7a79c8df99"/>
 		<rom name="Stellar7_v2.0b_NTSC_2026.lha" size="1424985" crc="6c272179" md5="2206a53ce2fb716d351d38bdc09ee766" sha1="54a3cebef71fac62994afc4fe04713147b88ae9d"/>
-		<rom name="StuntCarRacerPerformance_v2.0.0.lha" size="326597" crc="124d8cbd" md5="97112bfe6aa4c3ed90dd07b27b2d6aed" sha1="b2e54c1e837011483c801b7a5dfc9c33df8bf5cc"/>
+		<rom name="StuntCarRacerPerformance_v2.1.0.lha" size="334990" crc="2672dc77" md5="53cd079170b0f02e122e31da9cf1eb48" sha1="5e847e48c16eb1170a4214929dec84653980a65c"/>
 		<rom name="SummerOlympix_v1.0_CD32_BETA.lha" size="1538009" crc="fab1093b" md5="336fa7a133cdd5faeccb935b6aa7f831" sha1="954ee82ccf94ff77e51cec1b76663ab1115af4ca"/>
 		<rom name="SuperBagman_v1.0.lha" size="204160" crc="7bf2b636" md5="82d11cfe6819c44329e9a9c4e2b20ff0" sha1="95348357f7c02d0600a124329907a4b0ec7d4c81"/>
 		<rom name="SuperCars2_v0.91_AGA.lha" size="3467332" crc="2c0870d0" md5="411cfcae2e8b5d825a21a68de18d554d" sha1="e7ccc51136cdadb901b0554ccdc568b2845e95a0"/>
