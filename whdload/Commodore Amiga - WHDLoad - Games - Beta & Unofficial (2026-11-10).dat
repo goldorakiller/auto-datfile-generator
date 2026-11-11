@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</name>
 		<description>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</description>
 		<category>Standard DatFile</category>
-		<version>2026-11-09</version>
-		<date>2026-11-09</date>
+		<version>2026-11-10</version>
+		<date>2026-11-10</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -17,8 +17,8 @@
 	</header>
 	<machine name="0">
 		<description>0</description>
-		<rom name="4DSportsDriving&amp;MasterTracks_v2.0b_1461.lha" size="930908" crc="19fd980f" md5="6f435bb665ba12aed2de31308988c440" sha1="9f29a6d4eda93c092c46fdc84e709f0c4222ffb5"/>
-		<rom name="4DSportsDriving_v2.0b_1461.lha" size="925739" crc="60c92fe5" md5="ba1dbfd49c377d76da99d3d589671dbd" sha1="a7046133bb51e498269950a6cf30acca2ade56a7"/>
+		<rom name="4DSportsDriving&amp;MasterTracks_v2.0b_1461.lha" size="931989" crc="5931c8d0" md5="1114fe4fce1bb812f370a5003bf1f3b5" sha1="d870a3f2181e09f60e24004273b179352b1ac853"/>
+		<rom name="4DSportsDriving_v2.0b_1461.lha" size="926820" crc="c3b463d8" md5="59ca0bb95aecea765404da576dcb0e57" sha1="caf6a4e7f3a545d7edda0a9c80e96e0ff44f9c67"/>
 	</machine>
 	<machine name="A">
 		<description>A</description>
@@ -187,6 +187,7 @@
 		<rom name="Phoenix_v1.02.lha" size="96722" crc="fc901f02" md5="4a539f21251897601b7c5469b47305ff" sha1="df26fdeceaa39af3d84e3f8660bed6016e902679"/>
 		<rom name="Phoenix_v1.02_AGA.lha" size="101267" crc="1e6ff29a" md5="3b896b3ab73bc97564f5d81f9780ab4a" sha1="cd549b595a362da20a92dfd3006222b99c000675"/>
 		<rom name="Pooyan_v1.01.lha" size="283706" crc="ca662500" md5="4e62c6d72f2f9fa427adc0d66519db16" sha1="156eca8e579e1f3deb2814c7202fbccb25952cc6"/>
+		<rom name="Powerdrome_v2.0b_0140.lha" size="559694" crc="3e4e436e" md5="a6e90def3490d782b17d0e3f09923ed9" sha1="3b88df794e3b9dbf3248df77f8a6b916d8d44c96"/>
 		<rom name="ProjectXSE2017_v1.5_Hack_by_Earok.lha" size="2238734" crc="ed237871" md5="ea70eb55da08937b287c4452211f9b82" sha1="fcbfa6525603ae6b5cd07b9afc0a97663f95ce9b"/>
 	</machine>
 	<machine name="R">
@@ -199,7 +200,7 @@
 		<rom name="Renegades_v1.0_PublicDomain.lha" size="558763" crc="c47f0788" md5="f506b9c21086a4fa7cacaf4bc4a8ec8b" sha1="0f536d82b71bf1f018e716073d90b3b42999b4a6"/>
 		<rom name="RenegadesDeluxe_v1.0_PublicDomain.lha" size="511746" crc="b85943fe" md5="de4ad8633e20f86c7d136bb713f8b6c5" sha1="9260bafb735cc15d2d8a7567db0f691950f13d70"/>
 		<rom name="RickDangerous_v1.2_AGA.lha" size="1192673" crc="a37932f2" md5="250a45fb27ca95d044b814b2bf9d34c0" sha1="27f7aafcb36e45594c5a0e1a5054a00332b742df"/>
-		<rom name="RoadRash_v3.0b_1313.lha" size="1294865" crc="2efe82fe" md5="657ccd5d4769b5680f6a4be9649c1563" sha1="cf13655651061a95cacd1c83dbb699743398a866"/>
+		<rom name="RoadRash_v3.0b_1313.lha" size="1294911" crc="af2ed8cb" md5="10805440c01693305546c96adea3f75a" sha1="cfcb3bae08e6b9c4684e731d8574580951b42254"/>
 		<rom name="RocNRope_v1.01.lha" size="195745" crc="67bda808" md5="064fd36761e0b253d04857e75a10ee2e" sha1="2a6391770ef975ade536f7de00477ca3f6cca496"/>
 		<rom name="RocNRope_v1.01_AGA.lha" size="208652" crc="910bc14a" md5="58c568b4462f4bd13207ab9874d56576" sha1="671231881e8b8d9eafe8633e568745c644b4d204"/>
 		<rom name="RogueDeclanZero_v1.0.lha" size="281122" crc="9f3408ed" md5="c1c800f379cd8fdbd77c2636a042f6c8" sha1="3d8c7390a56733cfcd0c1342c1aab221b10516a8"/>
