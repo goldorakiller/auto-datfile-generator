@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</name>
 		<description>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</description>
 		<category>Standard DatFile</category>
-		<version>2026-11-10</version>
-		<date>2026-11-10</date>
+		<version>2026-11-11</version>
+		<date>2026-11-11</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -17,6 +17,7 @@
 	</header>
 	<machine name="0">
 		<description>0</description>
+		<rom name="1942_v1.0.3.lha" size="384566" crc="acfafd9b" md5="387e299354071c7e27377f08d9a0c3f4" sha1="578e29c6ce0346722df65fdb3953426d51a87698"/>
 		<rom name="4DSportsDriving&amp;MasterTracks_v2.0b_1461.lha" size="931989" crc="5931c8d0" md5="1114fe4fce1bb812f370a5003bf1f3b5" sha1="d870a3f2181e09f60e24004273b179352b1ac853"/>
 		<rom name="4DSportsDriving_v2.0b_1461.lha" size="926820" crc="c3b463d8" md5="59ca0bb95aecea765404da576dcb0e57" sha1="caf6a4e7f3a545d7edda0a9c80e96e0ff44f9c67"/>
 	</machine>
@@ -78,8 +79,8 @@
 		<description>F</description>
 		<rom name="FinalFightEnhanced_v1.0.lha" size="1340442" crc="efbacc6b" md5="a06c08a06ac0fd76ae0ea4d2e73b6662" sha1="3ddc66e7c40ee46a347eb4e89320a861dfb1a25a"/>
 		<rom name="FlyingSharkSpecialEdition_v1.0_Hack_by_Earok.lha" size="330561" crc="9678528a" md5="6ca9cfffc4cc21cea6dc51ff5a80cb41" sha1="e5dd447b44b8e2d551587ae843fcad6cae0625f8"/>
-		<rom name="FormulaOneGrandPrix_v2.0b_0325.lha" size="1537801" crc="ff285a10" md5="b2bea14417b6c883473b157adb1dc9f9" sha1="31d19ee0d8e1d9386df442794df7c05460d53cd3"/>
-		<rom name="FormulaOneGrandPrix_v2.0b_WildWeirdWicked.lha" size="1173358" crc="c23383ec" md5="57c32fa7df326b1ddaefdfbda41a2583" sha1="3f5e2eb43da76e125e002fcd723a61e1770f6eca"/>
+		<rom name="FormulaOneGrandPrix_v2.0b_0325.lha" size="1536653" crc="31a76cee" md5="e95df579bd93da1dbb919c1caad0de06" sha1="407ea021a9fd4c4a99c3ce770221a490ac9de3e2"/>
+		<rom name="FormulaOneGrandPrix_v2.0b_WildWeirdWicked.lha" size="1173346" crc="f03e4bb3" md5="cfd34ba8dce984afe8696c6532ef1027" sha1="d9d115c7ed4de08dc7fa78ab8d786d1690f69da7"/>
 		<rom name="Frogger_v1.24.lha" size="63650" crc="c3eed38f" md5="7099320103b74f11c0393b7e5c4d5c1c" sha1="6daca5dc10a2776dbb06d8549a5259a41bd55d45"/>
 	</machine>
 	<machine name="G">
@@ -109,7 +110,7 @@
 	</machine>
 	<machine name="I">
 		<description>I</description>
-		<rom name="Indianapolis500_v4.0b_0686.lha" size="510366" crc="e37b1936" md5="2fb35f73ebccd80da490afff4949f8d3" sha1="f5533547456bce525e29d5c58b923972e36bd679"/>
+		<rom name="Indianapolis500_v4.0b_0686.lha" size="510424" crc="b0d7f3de" md5="fa8a057637b3c90ff9e2326199e4b7cf" sha1="c80929561f72f42daedf10b14e3ba5a17170e839"/>
 		<rom name="InternationalKarate_v1.0_AtariST.lha" size="295744" crc="68f01ed7" md5="5ae74a4e733474beb7532dffc75ba522" sha1="093441a58d65eee0e7a5a94e53c279177eb99648"/>
 	</machine>
 	<machine name="J">
@@ -178,6 +179,7 @@
 	</machine>
 	<machine name="O">
 		<description>O</description>
+		<rom name="OutRun_v1.0.1_AGA.lha" size="1493200" crc="5f405956" md5="d63e4fd95924cd3fef1dff2896fd724b" sha1="d73a9c6dcca02813660acda31738eabe9c6dbf1b"/>
 		<rom name="OutRunDemo_Amiga40_AGA.lha" size="1271030" crc="7e0fef1c" md5="37c8d54b07389ec22a5295d0528731ff" sha1="d18ac06fd21986e037d5e389e9cbb8886aafd6f5"/>
 	</machine>
 	<machine name="P">
@@ -200,7 +202,7 @@
 		<rom name="Renegades_v1.0_PublicDomain.lha" size="558763" crc="c47f0788" md5="f506b9c21086a4fa7cacaf4bc4a8ec8b" sha1="0f536d82b71bf1f018e716073d90b3b42999b4a6"/>
 		<rom name="RenegadesDeluxe_v1.0_PublicDomain.lha" size="511746" crc="b85943fe" md5="de4ad8633e20f86c7d136bb713f8b6c5" sha1="9260bafb735cc15d2d8a7567db0f691950f13d70"/>
 		<rom name="RickDangerous_v1.2_AGA.lha" size="1192673" crc="a37932f2" md5="250a45fb27ca95d044b814b2bf9d34c0" sha1="27f7aafcb36e45594c5a0e1a5054a00332b742df"/>
-		<rom name="RoadRash_v3.0b_1313.lha" size="1294911" crc="af2ed8cb" md5="10805440c01693305546c96adea3f75a" sha1="cfcb3bae08e6b9c4684e731d8574580951b42254"/>
+		<rom name="RoadRash_v3.0b_1313.lha" size="1294998" crc="21e45fac" md5="deced833ab486560f3cb0bf153fafd4c" sha1="69864bcb1959aaac4bdb62f5a2789f953c4351fa"/>
 		<rom name="RocNRope_v1.01.lha" size="195745" crc="67bda808" md5="064fd36761e0b253d04857e75a10ee2e" sha1="2a6391770ef975ade536f7de00477ca3f6cca496"/>
 		<rom name="RocNRope_v1.01_AGA.lha" size="208652" crc="910bc14a" md5="58c568b4462f4bd13207ab9874d56576" sha1="671231881e8b8d9eafe8633e568745c644b4d204"/>
 		<rom name="RogueDeclanZero_v1.0.lha" size="281122" crc="9f3408ed" md5="c1c800f379cd8fdbd77c2636a042f6c8" sha1="3d8c7390a56733cfcd0c1342c1aab221b10516a8"/>
