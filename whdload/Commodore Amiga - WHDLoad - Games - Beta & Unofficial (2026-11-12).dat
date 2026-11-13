@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</name>
 		<description>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</description>
 		<category>Standard DatFile</category>
-		<version>2026-11-11</version>
-		<date>2026-11-11</date>
+		<version>2026-11-12</version>
+		<date>2026-11-12</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -41,6 +41,7 @@
 		<rom name="Battlehawks1942_v2.0b_0053.lha" size="1010071" crc="a75e7fc1" md5="f0b91e7df06c41c82130445172d01dd1" sha1="29b5c3fab6401fc3081fc55ea18dda2c6a3035bd"/>
 		<rom name="BlackTiger_MegaDrive.lha" size="1552795" crc="807a76db" md5="0be48e137af48bf469b3291736688851" sha1="fc705562052cc96ac20060f3864cc21fb05a5e15"/>
 		<rom name="Boppin_v1.0.lha" size="775002" crc="ab8749d9" md5="c2cf0a219107a9932e763a36d3530dc0" sha1="fabac37d234f3f3297fa370797e56d3502067971"/>
+		<rom name="BuggyBoy_v2.0b_0465.lha" size="176303" crc="5f38dfb3" md5="cde74ce7a3afecfab8e9903cd63316e5" sha1="24b1a6f5b2c854694e73e81ad95cbe4da4438023"/>
 		<rom name="BurgerTime_v1.0.lha" size="135416" crc="61078bf3" md5="ff72ccac14320278d52918eceb4b82ef" sha1="d827353392c07d4a0df787ebb586a9f7fd2ce6fb"/>
 		<rom name="BurgerTime_v1.0_68020.lha" size="139908" crc="fa45eee2" md5="615ef885b8384284fc807e1e8827de1a" sha1="b087a2aa22e5fad55a7fb5e374b8fa6d40bc7689"/>
 	</machine>
@@ -69,6 +70,7 @@
 		<rom name="ElevatorAction_v1.02_OCS.lha" size="107544" crc="23636422" md5="2cdc4a7c4bd26f3575fa23e029a0957c" sha1="fa5de94787ff94df6199beed28755353e5891fa5"/>
 		<rom name="Elvira_v1.3_De_German_fix_by_Torti-the-Smurf.lha" size="3222205" crc="0cc644a6" md5="b1747444d9050702d104a5ba964a5007" sha1="80f39a5bcd2b546e3e00156163245564d57f53c0"/>
 		<rom name="Elysium_v1.0_De.lha" size="1791658" crc="3589feb8" md5="f2fee8fafea48087b4b467f9061c1ad1" sha1="ed9416f3c526b3db8cb9b7a2c6a517e95ef0a926"/>
+		<rom name="Encounter_v2.0b_0651.lha" size="236028" crc="cf6ad221" md5="db1c26b20b1df797559306991e8bea34" sha1="1d703570ac079660d6fdf20003db73f53acd51cf"/>
 		<rom name="EvilGarden_v1.0.lha" size="416910" crc="72dec9a6" md5="13e77beb32344ba11a574c412ae2ae10" sha1="ac19402d5d63a159cf57ea412a93c102bbc3eb93"/>
 		<rom name="EyeOfTheBeholder2_v1.13_AutoMap.lha" size="3577575" crc="af4178d9" md5="24a6bfa5925edf7bf7ffe9b8689f6743" sha1="794428d7723822d1409a85953075a0b931df6130"/>
 		<rom name="EyeOfTheBeholder2_v1.13_AutoMap_AGA.lha" size="3404310" crc="3d2902ee" md5="a872db16281af9e99083f0e31d983be7" sha1="3d23d63c11f18df377089c17b6a083d0f7df6121"/>
@@ -77,6 +79,7 @@
 	</machine>
 	<machine name="F">
 		<description>F</description>
+		<rom name="FerrariFormulaOne_v2.0b_0481.lha" size="624177" crc="8add5580" md5="4ee5af9739e77ad76975734bd71c92a3" sha1="71dec8a706d02223f6746579ee544c28b35f3fb8"/>
 		<rom name="FinalFightEnhanced_v1.0.lha" size="1340442" crc="efbacc6b" md5="a06c08a06ac0fd76ae0ea4d2e73b6662" sha1="3ddc66e7c40ee46a347eb4e89320a861dfb1a25a"/>
 		<rom name="FlyingSharkSpecialEdition_v1.0_Hack_by_Earok.lha" size="330561" crc="9678528a" md5="6ca9cfffc4cc21cea6dc51ff5a80cb41" sha1="e5dd447b44b8e2d551587ae843fcad6cae0625f8"/>
 		<rom name="FormulaOneGrandPrix_v2.0b_0325.lha" size="1536653" crc="31a76cee" md5="e95df579bd93da1dbb919c1caad0de06" sha1="407ea021a9fd4c4a99c3ce770221a490ac9de3e2"/>
@@ -94,6 +97,8 @@
 		<rom name="Gods_v3.2_0666_ControllableJump.lha" size="1237444" crc="dac66974" md5="562e038f6235413785be02b94de05436" sha1="73a3e5188906a35b824d1dec8965200242529fd9"/>
 		<rom name="GrandPrixCircuit_v2.0b_0008.lha" size="451135" crc="350e1308" md5="a1ef4294517da0234653e5194433c0a0" sha1="6d2d86f4371612e0a503dc4ef72b7089a9ece37f"/>
 		<rom name="GreatGianaSisters_v1.7_2945.lha" size="349344" crc="dcbc6d78" md5="f39f996133bb7d566516ffc086c6c66c" sha1="bc13498ee6ca9dcfa59d4a9e36f0a3a461c79067"/>
+		<rom name="Gunship_v2.0b_0658.lha" size="478741" crc="c569dba6" md5="61465387ce93cad9db43ca5ad30785b5" sha1="4368a00a9e857329df6106a71741b62e3441550b"/>
+		<rom name="Gunship_v2.0b_NTSC_1489.lha" size="483816" crc="c3ccf4d4" md5="c5a1ed53dc452d9720dea42900b0442b" sha1="02c247abaf21deec7dafe2e7fc5fa1550b8adcc9"/>
 		<rom name="GunSmoke_v1.2_AGA.lha" size="4322188" crc="3dd6fb34" md5="a8124b3dd73608c909418d6b6d2cec67" sha1="f5982e387a0614ad2f7330b01ace9845fd5e8f5e"/>
 		<rom name="Gyruss_v1.0_1MB.lha" size="322059" crc="4e32ab14" md5="78bd07a8dac11ba09e4a302e99af3176" sha1="dc6ed5699e0bc98cfe18f17b79f1074949d05e26"/>
 		<rom name="Gyruss_v1.0_2MB.lha" size="474632" crc="1e3373c1" md5="3b740c3d6332c5080d06708eba386876" sha1="3b6181d7bdc6828db921b44c0790aa7aab2c21af"/>
@@ -190,6 +195,7 @@
 		<rom name="Phoenix_v1.02_AGA.lha" size="101267" crc="1e6ff29a" md5="3b896b3ab73bc97564f5d81f9780ab4a" sha1="cd549b595a362da20a92dfd3006222b99c000675"/>
 		<rom name="Pooyan_v1.01.lha" size="283706" crc="ca662500" md5="4e62c6d72f2f9fa427adc0d66519db16" sha1="156eca8e579e1f3deb2814c7202fbccb25952cc6"/>
 		<rom name="Powerdrome_v2.0b_0140.lha" size="559694" crc="3e4e436e" md5="a6e90def3490d782b17d0e3f09923ed9" sha1="3b88df794e3b9dbf3248df77f8a6b916d8d44c96"/>
+		<rom name="PrisonersOfWar_v1.0_AGA.lha" size="3146717" crc="e9e05c59" md5="14716fb81d2b9f8752b703e3ee5cc86d" sha1="bf565407ec9546fc612095d2e6560ea2be911667"/>
 		<rom name="ProjectXSE2017_v1.5_Hack_by_Earok.lha" size="2238734" crc="ed237871" md5="ea70eb55da08937b287c4452211f9b82" sha1="fcbfa6525603ae6b5cd07b9afc0a97663f95ce9b"/>
 	</machine>
 	<machine name="R">
