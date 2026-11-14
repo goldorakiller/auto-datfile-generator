@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</name>
 		<description>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</description>
 		<category>Standard DatFile</category>
-		<version>2026-11-12</version>
-		<date>2026-11-12</date>
+		<version>2026-11-13</version>
+		<date>2026-11-13</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -17,7 +17,7 @@
 	</header>
 	<machine name="0">
 		<description>0</description>
-		<rom name="1942_v1.0.3.lha" size="384566" crc="acfafd9b" md5="387e299354071c7e27377f08d9a0c3f4" sha1="578e29c6ce0346722df65fdb3953426d51a87698"/>
+		<rom name="1942_v1.0.4.lha" size="384549" crc="7d2cd3c3" md5="a9ec6e09379477939c72b3a25dff699f" sha1="be3f95cb13820ced45ba922b51471b56c52f3e87"/>
 		<rom name="4DSportsDriving&amp;MasterTracks_v2.0b_1461.lha" size="931989" crc="5931c8d0" md5="1114fe4fce1bb812f370a5003bf1f3b5" sha1="d870a3f2181e09f60e24004273b179352b1ac853"/>
 		<rom name="4DSportsDriving_v2.0b_1461.lha" size="926820" crc="c3b463d8" md5="59ca0bb95aecea765404da576dcb0e57" sha1="caf6a4e7f3a545d7edda0a9c80e96e0ff44f9c67"/>
 	</machine>
@@ -42,6 +42,7 @@
 		<rom name="BlackTiger_MegaDrive.lha" size="1552795" crc="807a76db" md5="0be48e137af48bf469b3291736688851" sha1="fc705562052cc96ac20060f3864cc21fb05a5e15"/>
 		<rom name="Boppin_v1.0.lha" size="775002" crc="ab8749d9" md5="c2cf0a219107a9932e763a36d3530dc0" sha1="fabac37d234f3f3297fa370797e56d3502067971"/>
 		<rom name="BuggyBoy_v2.0b_0465.lha" size="176303" crc="5f38dfb3" md5="cde74ce7a3afecfab8e9903cd63316e5" sha1="24b1a6f5b2c854694e73e81ad95cbe4da4438023"/>
+		<rom name="BuggyBoyC64_v0.9_AGA.lha" size="277204" crc="79dd1c36" md5="eddccb5c5bfe5c5eacac88fc0c1fd3cb" sha1="aa5abcfe1955a081b8568250e13a59e0cb58f75d"/>
 		<rom name="BurgerTime_v1.0.lha" size="135416" crc="61078bf3" md5="ff72ccac14320278d52918eceb4b82ef" sha1="d827353392c07d4a0df787ebb586a9f7fd2ce6fb"/>
 		<rom name="BurgerTime_v1.0_68020.lha" size="139908" crc="fa45eee2" md5="615ef885b8384284fc807e1e8827de1a" sha1="b087a2aa22e5fad55a7fb5e374b8fa6d40bc7689"/>
 	</machine>
@@ -184,6 +185,7 @@
 	</machine>
 	<machine name="O">
 		<description>O</description>
+		<rom name="OrderOmega_v1.0.1.lha" size="2259689" crc="85b80964" md5="a7463053e2a648de278b31801afe245e" sha1="e6bff2af7c51d991424c275bd7ad25bc7b564182"/>
 		<rom name="OutRun_v1.0.1_AGA.lha" size="1493200" crc="5f405956" md5="d63e4fd95924cd3fef1dff2896fd724b" sha1="d73a9c6dcca02813660acda31738eabe9c6dbf1b"/>
 		<rom name="OutRunDemo_Amiga40_AGA.lha" size="1271030" crc="7e0fef1c" md5="37c8d54b07389ec22a5295d0528731ff" sha1="d18ac06fd21986e037d5e389e9cbb8886aafd6f5"/>
 	</machine>
@@ -217,6 +219,8 @@
 	<machine name="S">
 		<description>S</description>
 		<rom name="Scramble_v1.0.lha" size="161624" crc="d4f7dd08" md5="45cb5be14de1d3051cb99e923aa8e6d5" sha1="7e2041adb2e07ffb7258c9c29ea0f57e1820e334"/>
+		<rom name="SecretWeaponsOfTheLuftwaffe_v1.2.lha" size="2467264" crc="84528dcc" md5="c7563577414e5f3dfe5f4e157c2bc9b4" sha1="b6d641be8026dd6699145bd4cda5427a55b1ac63"/>
+		<rom name="SecretWeaponsOfTheLuftwaffe_v1.2_512k.lha" size="2469464" crc="80cdf64e" md5="b7b7ad3baade62fca2ed1943979487b7" sha1="8af9e3c4327f9b841223172e0ff1a080398cb52b"/>
 		<rom name="SensibleWorldOfSoccer9697Editor_v0.91b.lha" size="1634367" crc="57877f0d" md5="de2eb971521a4232f77880279328cc6e" sha1="a6f12467b779a7478a0f791fc7e3372a9d7d55d8"/>
 		<rom name="ShadowFighter_v1.0_AGA_No_jump_by_ztronzo.lha" size="3343922" crc="7c2ed7bc" md5="d2243c9e70b531db1f1826852dc50c5d" sha1="dacc1d626ae079b55e649779a9c5f11de51a3280"/>
 		<rom name="Sinbad_v1.0_AtariST.lha" size="593343" crc="005dfb3e" md5="5480990dba90d38ef487e53154e7ccbe" sha1="5bf6617dd28311d05ea1ab80fafbd1af7bb91913"/>
@@ -233,7 +237,7 @@
 	</machine>
 	<machine name="T">
 		<description>T</description>
-		<rom name="TestDrive_v2.0b_0089.lha" size="517763" crc="d6658cb1" md5="309bf006a136a0d2eb82ecd0b234a536" sha1="f104058375377ee1175190f72b5f368acdeca753"/>
+		<rom name="TestDrive_v2.0b_0089.lha" size="518775" crc="6d2ace99" md5="68905166af3b825689875aae93a59abd" sha1="03246605e5f0ed346e12f6b2885271f880932b09"/>
 		<rom name="Tetris_v1.03_AGA.lha" size="169952" crc="677eac84" md5="a549c4de99195de85428ea3b0f663a87" sha1="83926418c943e70478277a457cb9ad045ec85497"/>
 		<rom name="TheirFinestHour&amp;Missions_v2.0b_0037&amp;1369.lha" size="846914" crc="dd8a966c" md5="0b233439f42949e8a26a84c81e6cfa9b" sha1="5879313f1a3222d6bdc9d2522e3c0acbbf96d73f"/>
 		<rom name="TheirFinestHour_v2.0b_0037.lha" size="834269" crc="cf0b5490" md5="33e1f54122b37d92b35ca082e5051ac0" sha1="02eaf5cdea9e4dd859088cebde439e671ade84e2"/>
@@ -264,9 +268,8 @@
 		<description>W</description>
 		<rom name="WhalesVoyage_v1.0.lha" size="2679640" crc="1cc19b5a" md5="8df1294132b6004a990be03ef7bb4250" sha1="1485bc1d796bd5c3fe3f825589016903a25c0e82"/>
 		<rom name="WhalesVoyage_v1.0_De.lha" size="2685056" crc="429e0158" md5="9c5a97045e8e88fc27ae33be00b7ffe9" sha1="860af068b53fe6530f32484c9f447f47c09dba3c"/>
-		<rom name="WingCommander_v2.0b_1657.lha" size="2382934" crc="db2225db" md5="a7bdca931efa4c935909e910f9e799db" sha1="2de4d587ec2ce755ef5c29ad6dc37ce0e4519756"/>
-		<rom name="WingCommander_v2.0b_CD32.lha" size="3701665" crc="058986dc" md5="768e636aa4fe2ce921a2bd9706fe4ef1" sha1="2508ada89a9611697a1695e0844c0fe6ee33216f"/>
-		<rom name="WingCommander_v2.0b_De_0824.lha" size="2389231" crc="1d139a25" md5="d5ce4167ae4f6fd769c4d231d804f602" sha1="5842127fcab108c444f43754efc588377c1fb4ce"/>
+		<rom name="WingCommander_v2.0b_1657&amp;0824.lha" size="2668956" crc="24d8b6d7" md5="813e0cba2a3a37b6cd84008005c1ea9a" sha1="6efbabb957df35af4d6f650c54e5b8901d4d3e02"/>
+		<rom name="WingCommander_v2.0b_CD32.lha" size="3708487" crc="ef146573" md5="1bce0d0189227389e8e784d857a14d52" sha1="5490391f8f198ae96d33926d491b2ab51b293f21"/>
 		<rom name="WinterlandMegaLoMania_v1.7.lha" size="1056651" crc="572cb279" md5="cb227754a8aa449b1d4cfffb81500599" sha1="6fe02202105d45f5714c7e086713d9b16d0e141c"/>
 		<rom name="WonderboyInMonsterlandSE_v1.1_Hack_by_Earok.lha" size="427211" crc="b674c267" md5="ad8b6182dc25a08c46f320454a0b4bbd" sha1="3426502942365f7b8984c388d472ad7a7ec5fa37"/>
 		<rom name="WonderDogSE_v1.0_Hack_by_Earok.lha" size="1316562" crc="f7bee1c6" md5="58deaddc06b6b7d29384681d45088d68" sha1="c00c5e93b0753c2e09ab6b95f1804b2f953bde7d"/>
