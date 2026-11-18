@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</name>
 		<description>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</description>
 		<category>Standard DatFile</category>
-		<version>2026-11-16</version>
-		<date>2026-11-16</date>
+		<version>2026-11-17</version>
+		<date>2026-11-17</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -188,7 +188,7 @@
 	<machine name="O">
 		<description>O</description>
 		<rom name="OrderOmega_v1.0.1.lha" size="2259689" crc="85b80964" md5="a7463053e2a648de278b31801afe245e" sha1="e6bff2af7c51d991424c275bd7ad25bc7b564182"/>
-		<rom name="OutRun_v1.0.1_AGA.lha" size="1493200" crc="5f405956" md5="d63e4fd95924cd3fef1dff2896fd724b" sha1="d73a9c6dcca02813660acda31738eabe9c6dbf1b"/>
+		<rom name="OutRun_v1.0.2_AGA.lha" size="1493353" crc="2ccfd134" md5="74229160e9c3778634be7ac7ed48f2b3" sha1="a97595cdf94b92a7461d0c03dd29d2f12d9e6af1"/>
 		<rom name="OutRunDemo_Amiga40_AGA.lha" size="1271030" crc="7e0fef1c" md5="37c8d54b07389ec22a5295d0528731ff" sha1="d18ac06fd21986e037d5e389e9cbb8886aafd6f5"/>
 	</machine>
 	<machine name="P">
@@ -213,6 +213,8 @@
 		<rom name="RenegadesDeluxe_v1.0_PublicDomain.lha" size="511746" crc="b85943fe" md5="de4ad8633e20f86c7d136bb713f8b6c5" sha1="9260bafb735cc15d2d8a7567db0f691950f13d70"/>
 		<rom name="RickDangerous_v1.2_AGA.lha" size="1192673" crc="a37932f2" md5="250a45fb27ca95d044b814b2bf9d34c0" sha1="27f7aafcb36e45594c5a0e1a5054a00332b742df"/>
 		<rom name="RoadRash_v3.0b_1313.lha" size="1294998" crc="21e45fac" md5="deced833ab486560f3cb0bf153fafd4c" sha1="69864bcb1959aaac4bdb62f5a2789f953c4351fa"/>
+		<rom name="RobinsonsRequiem_v2.0b.lha" size="1735046" crc="1474943c" md5="923301b5382a607cb4b5c5c75ec4285b" sha1="a2057895edda44cda7747275a600bf01b6039d5d"/>
+		<rom name="RobinsonsRequiem_v2.0b_AGA_1866.lha" size="3048341" crc="d11b1231" md5="e9c0f0be95d23a4a7a7a96efe41a17b7" sha1="b7ec7969a98bdd6c2d09c42e852e560dc609e389"/>
 		<rom name="RocNRope_v1.01.lha" size="195745" crc="67bda808" md5="064fd36761e0b253d04857e75a10ee2e" sha1="2a6391770ef975ade536f7de00477ca3f6cca496"/>
 		<rom name="RocNRope_v1.01_AGA.lha" size="208652" crc="910bc14a" md5="58c568b4462f4bd13207ab9874d56576" sha1="671231881e8b8d9eafe8633e568745c644b4d204"/>
 		<rom name="RogueDeclanZero_v1.0.lha" size="281122" crc="9f3408ed" md5="c1c800f379cd8fdbd77c2636a042f6c8" sha1="3d8c7390a56733cfcd0c1342c1aab221b10516a8"/>
@@ -273,8 +275,8 @@
 		<description>W</description>
 		<rom name="WhalesVoyage_v1.0.lha" size="2679640" crc="1cc19b5a" md5="8df1294132b6004a990be03ef7bb4250" sha1="1485bc1d796bd5c3fe3f825589016903a25c0e82"/>
 		<rom name="WhalesVoyage_v1.0_De.lha" size="2685056" crc="429e0158" md5="9c5a97045e8e88fc27ae33be00b7ffe9" sha1="860af068b53fe6530f32484c9f447f47c09dba3c"/>
-		<rom name="WingCommander_v2.0b_1657&amp;0824.lha" size="2670086" crc="6fe59b08" md5="5b9b7c4416c996df88ef94830b4996f2" sha1="6ceab2326a53322112e681d4831073f646e753cb"/>
-		<rom name="WingCommander_v2.0b_CD32.lha" size="3709556" crc="f394c075" md5="ce2b861108688bce792a6a37fb6058b8" sha1="a50ccd049031f2273edee19348c942a858038d4e"/>
+		<rom name="WingCommander_v2.0b_1657&amp;0824.lha" size="2673220" crc="2317045e" md5="aee2a39b4a03b8433bdeedcca0718011" sha1="9536c6a0162cdabb0b913c5b7c818efee181f288"/>
+		<rom name="WingCommander_v2.0b_CD32.lha" size="3713195" crc="915e5e16" md5="b71efa0df5f8d5de087e6969fd068bae" sha1="3a3a1e0ddd60db3b589769edb46f151372bb5ca1"/>
 		<rom name="WinterlandMegaLoMania_v1.7.lha" size="1056651" crc="572cb279" md5="cb227754a8aa449b1d4cfffb81500599" sha1="6fe02202105d45f5714c7e086713d9b16d0e141c"/>
 		<rom name="WonderboyInMonsterlandSE_v1.1_Hack_by_Earok.lha" size="427211" crc="b674c267" md5="ad8b6182dc25a08c46f320454a0b4bbd" sha1="3426502942365f7b8984c388d472ad7a7ec5fa37"/>
 		<rom name="WonderDogSE_v1.0_Hack_by_Earok.lha" size="1316562" crc="f7bee1c6" md5="58deaddc06b6b7d29384681d45088d68" sha1="c00c5e93b0753c2e09ab6b95f1804b2f953bde7d"/>
