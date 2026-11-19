@@ -1539,7 +1539,7 @@
 		<rom name="g02_u44-j.u44" size="524288" crc="42b35ec5" />
 		<rom name="g02_u43-j.u43" size="524288" crc="c94c596b" />
 		<rom name="g02_u42-j.u42" size="524288" crc="4f4c8270" />
-		<rom name="g02_u3-j.u3a" size="131072" crc="eead01f1" />
+		<rom name="g02_u3-j.u3" size="131072" crc="eead01f1" />
 		<rom name="g02.u61" merge="g02.u61" size="2097152" crc="91e30398" />
 		<rom name="g02.u62" merge="g02.u62" size="2097152" crc="d9455dd7" />
 		<rom name="g02.u63" merge="g02.u63" size="2097152" crc="4d20560b" />
@@ -2013,7 +2013,7 @@
 		<driver status="good" />
 	</game>
 	<game name="pwrinst2k" cloneof="pwrinst2" romof="pwrinst2" sourcefile="cave/d_pwrinst2.cpp">
-		<description>Power instinct 2 (Korea, Ver. 94/04/08)</description>
+		<description>Power Instinct 2 (Korea, Ver. 94.04.08)</description>
 		<year>1994</year>
 		<manufacturer>Atlus</manufacturer>
 		<rom name="g02k.u45" size="524288" crc="5468cbe5" />

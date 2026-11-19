@@ -7235,12 +7235,12 @@
 		<description>Street Fighter Zero 2 Dash (Asia, PS2 Backport RC9)</description>
 		<year>2026</year>
 		<manufacturer>bootleg</manufacturer>
-		<rom name="sz2dsa.03a" size="524288" crc="fb6d1338" />
-		<rom name="sz2dsa.04a" size="524288" crc="2d077581" />
+		<rom name="sz2dsa.03" size="524288" crc="fb6d1338" />
+		<rom name="sz2dsa.04" size="524288" crc="2d077581" />
 		<rom name="sz2ds.05" size="524288" crc="b1c15635" />
 		<rom name="szaa.06" merge="szaa.06" size="524288" crc="cfc0e7a8" />
-		<rom name="sz2dsa.07a" size="524288" crc="74b0a2d0" />
-		<rom name="sz2dsa.08a" size="524288" crc="531ceaf5" />
+		<rom name="sz2dsa.07" size="524288" crc="74b0a2d0" />
+		<rom name="sz2dsa.08" size="524288" crc="531ceaf5" />
 		<rom name="sz2dsa.13m" size="4194304" crc="e35cbaae" />
 		<rom name="sz2dsa.15m" size="4194304" crc="045e1960" />
 		<rom name="sz2dsa.17m" size="4194304" crc="42e56efc" />
@@ -8062,15 +8062,15 @@
 		<rom name="sfxucj.06b" size="524288" crc="560d1a51" />
 		<rom name="sfxucj.07a" size="524288" crc="4f9cb066" />
 		<rom name="sfxuc.08" size="524288" crc="f7587a54" />
-		<rom name="sfxuc.09" size="524288" crc="ecd3b4a1" />
+		<rom name="sfxucj.09" size="524288" crc="ecd3b4a1" />
 		<rom name="sfxucj.13m" size="2097152" crc="9a2b7423" />
 		<rom name="sfxucj.15m" size="2097152" crc="1cfd6f84" />
 		<rom name="sfxucj.17m" size="2097152" crc="07318764" />
 		<rom name="sfxucj.19m" size="2097152" crc="79f38484" />
-		<rom name="sfxuc.14m" size="1048576" crc="6a797908" />
-		<rom name="sfxuc.16m" size="1048576" crc="add79bab" />
-		<rom name="sfxuc.18m" size="1048576" crc="917471fe" />
-		<rom name="sfxuc.20m" size="1048576" crc="55eb92b4" />
+		<rom name="sfxucj.14m" size="1048576" crc="6a797908" />
+		<rom name="sfxucj.16m" size="1048576" crc="add79bab" />
+		<rom name="sfxucj.18m" size="1048576" crc="917471fe" />
+		<rom name="sfxucj.20m" size="1048576" crc="55eb92b4" />
 		<rom name="sfxuc.21m" size="1048576" crc="607d1bfd" />
 		<rom name="sfxuc.23m" size="1048576" crc="84905f31" />
 		<rom name="sfxuc.25m" size="1048576" crc="e88e200d" />

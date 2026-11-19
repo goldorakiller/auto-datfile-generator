@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</name>
 		<description>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</description>
 		<category>Standard DatFile</category>
-		<version>2026-11-17</version>
-		<date>2026-11-17</date>
+		<version>2026-11-19</version>
+		<date>2026-11-19</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -32,6 +32,8 @@
 		<rom name="AmiRobbo2Demo_v1.0.lha" size="358348" crc="201c34b9" md5="2efb0280363dbc6986a5096a095050d0" sha1="d8d616752f146e5d31901dd0a115564da300c938"/>
 		<rom name="AnotherWorldLostLevel_v1.1_Hack_by_Earok.lha" size="670763" crc="a508f08f" md5="c57e48ac4a01e88ccaa4e0687ceffcfa" sha1="86c4e1dae941adbd944b630bbc77f51e0ca51df0"/>
 		<rom name="ApidyaSpecialEdition_v1.1_Hack_by_Earok.lha" size="1625415" crc="926c072a" md5="0c0e935b62960b458c8da4fcbb8402f2" sha1="aadcecec17ab273e65a10b77847a932a41753494"/>
+		<rom name="Archipelagos_v2.0b_0627.lha" size="161523" crc="92e5e496" md5="2898176252ba941c182edc7141a1a2cc" sha1="64476e0ef79d7a43e5894a903c3ccf26d2fb1754"/>
+		<rom name="Archipelagos_v2.0b_NTSC_0628.lha" size="168674" crc="1ff4253d" md5="07f7e7702d93cc83a3b18f938ebba79d" sha1="b5fc9ceaf71e85fc2f4f4f60acf47b5ef24d1a51"/>
 		<rom name="Area88_v1.2_Hack_by_Earok.lha" size="588500" crc="ad71f298" md5="7edd219c4c1a44cef9ae52f492c1ca25" sha1="f6715675befc4d826d9cbe068c86a224aa87e2fc"/>
 	</machine>
 	<machine name="B">
@@ -99,8 +101,11 @@
 		<rom name="Gods_v3.2_0666_ControllableJump.lha" size="1237444" crc="dac66974" md5="562e038f6235413785be02b94de05436" sha1="73a3e5188906a35b824d1dec8965200242529fd9"/>
 		<rom name="GrandPrixCircuit_v2.0b_0008.lha" size="451135" crc="350e1308" md5="a1ef4294517da0234653e5194433c0a0" sha1="6d2d86f4371612e0a503dc4ef72b7089a9ece37f"/>
 		<rom name="GreatGianaSisters_v1.7_2945.lha" size="349344" crc="dcbc6d78" md5="f39f996133bb7d566516ffc086c6c66c" sha1="bc13498ee6ca9dcfa59d4a9e36f0a3a461c79067"/>
-		<rom name="Gunship_v2.0b_0658.lha" size="478741" crc="c569dba6" md5="61465387ce93cad9db43ca5ad30785b5" sha1="4368a00a9e857329df6106a71741b62e3441550b"/>
-		<rom name="Gunship_v2.0b_NTSC_1489.lha" size="483816" crc="c3ccf4d4" md5="c5a1ed53dc452d9720dea42900b0442b" sha1="02c247abaf21deec7dafe2e7fc5fa1550b8adcc9"/>
+		<rom name="Gunship2000_v4.0b_0808.lha" size="1698599" crc="a058822d" md5="90d2cf7f31c15ec4d7c40698f133067c" sha1="6c8e75594c1b7f0b35a818a4ba2eaa82bde1bbc1"/>
+		<rom name="Gunship2000_v4.0b_AGA_0371.lha" size="2328764" crc="363e158f" md5="3c9c1906bfa0ef57cde631ddef7253ae" sha1="4979da23da38bcbd01201502ba1016757048ce3d"/>
+		<rom name="Gunship2000_v4.0b_CD32.lha" size="4982261" crc="916c2839" md5="6dc1b65151801e06401f99c2cbd374d4" sha1="ebec9451068ff43124aab75ae86eac4ade4f888b"/>
+		<rom name="Gunship_v2.0b_0658.lha" size="478838" crc="4a8039b7" md5="204dacfa6fdb3310d4a00946587e80fc" sha1="90a5c25267abf0468e04180a9062e75c75ed9fc0"/>
+		<rom name="Gunship_v2.0b_NTSC_1489.lha" size="483900" crc="135cb367" md5="11b82a531ae4f8ac479ccf4e380cb82c" sha1="9a0dcb48b39fa77b7831a6876a0aa30c07f2fa12"/>
 		<rom name="GunSmoke_v1.2_AGA.lha" size="4322188" crc="3dd6fb34" md5="a8124b3dd73608c909418d6b6d2cec67" sha1="f5982e387a0614ad2f7330b01ace9845fd5e8f5e"/>
 		<rom name="Gyruss_v1.0_1MB.lha" size="322059" crc="4e32ab14" md5="78bd07a8dac11ba09e4a302e99af3176" sha1="dc6ed5699e0bc98cfe18f17b79f1074949d05e26"/>
 		<rom name="Gyruss_v1.0_2MB.lha" size="474632" crc="1e3373c1" md5="3b740c3d6332c5080d06708eba386876" sha1="3b6181d7bdc6828db921b44c0790aa7aab2c21af"/>
@@ -137,6 +142,7 @@
 		<rom name="KCMunchkin_v1.0.lha" size="118618" crc="38dd20cb" md5="9fa7aca331b7cf49593412df9535e68c" sha1="81aa2cb4e73d30a8f0c7681550962ef5a6e32830"/>
 		<rom name="KingAndBalloon_v1.0.lha" size="98234" crc="f3fcd8eb" md5="b72077af9ffaa8cdce02190d89d1614d" sha1="0a0d64ad74b5bde3a7da3bdc8dd8038da2ce67dd"/>
 		<rom name="KingsBounty_v1.0_FasterVersion.lha" size="3447566" crc="e90eb13a" md5="b1249e228fb6c2049ba0fda5a980e9d2" sha1="529d6d06a06f8646f28649f384ad9f3341e78002"/>
+		<rom name="KungFuMaster_v1.21.lha" size="711066" crc="fc53d55b" md5="d00aa631e80b69160b9df60c42683e35" sha1="d40519d5a51c0b285f7fe43ae4e3dd1a50fd3cf7"/>
 	</machine>
 	<machine name="L">
 		<description>L</description>
@@ -213,8 +219,8 @@
 		<rom name="RenegadesDeluxe_v1.0_PublicDomain.lha" size="511746" crc="b85943fe" md5="de4ad8633e20f86c7d136bb713f8b6c5" sha1="9260bafb735cc15d2d8a7567db0f691950f13d70"/>
 		<rom name="RickDangerous_v1.2_AGA.lha" size="1192673" crc="a37932f2" md5="250a45fb27ca95d044b814b2bf9d34c0" sha1="27f7aafcb36e45594c5a0e1a5054a00332b742df"/>
 		<rom name="RoadRash_v3.0b_1313.lha" size="1294998" crc="21e45fac" md5="deced833ab486560f3cb0bf153fafd4c" sha1="69864bcb1959aaac4bdb62f5a2789f953c4351fa"/>
-		<rom name="RobinsonsRequiem_v2.0b.lha" size="1735046" crc="1474943c" md5="923301b5382a607cb4b5c5c75ec4285b" sha1="a2057895edda44cda7747275a600bf01b6039d5d"/>
-		<rom name="RobinsonsRequiem_v2.0b_AGA_1866.lha" size="3048341" crc="d11b1231" md5="e9c0f0be95d23a4a7a7a96efe41a17b7" sha1="b7ec7969a98bdd6c2d09c42e852e560dc609e389"/>
+		<rom name="RobinsonsRequiem_v2.0b.lha" size="1734964" crc="9a40af30" md5="838ee282631e805a5cf0943365129877" sha1="4c9f506c140f8d8a0a3eebbf036f963f2d3ec20e"/>
+		<rom name="RobinsonsRequiem_v2.0b_AGA_1866.lha" size="3048287" crc="fc4dbb5d" md5="c669614a4a443d90d9d1c5f84686ce79" sha1="62d220481cd187d17f084011566d3e47c61ece2e"/>
 		<rom name="RocNRope_v1.01.lha" size="195745" crc="67bda808" md5="064fd36761e0b253d04857e75a10ee2e" sha1="2a6391770ef975ade536f7de00477ca3f6cca496"/>
 		<rom name="RocNRope_v1.01_AGA.lha" size="208652" crc="910bc14a" md5="58c568b4462f4bd13207ab9874d56576" sha1="671231881e8b8d9eafe8633e568745c644b4d204"/>
 		<rom name="RogueDeclanZero_v1.0.lha" size="281122" crc="9f3408ed" md5="c1c800f379cd8fdbd77c2636a042f6c8" sha1="3d8c7390a56733cfcd0c1342c1aab221b10516a8"/>
@@ -275,8 +281,8 @@
 		<description>W</description>
 		<rom name="WhalesVoyage_v1.0.lha" size="2679640" crc="1cc19b5a" md5="8df1294132b6004a990be03ef7bb4250" sha1="1485bc1d796bd5c3fe3f825589016903a25c0e82"/>
 		<rom name="WhalesVoyage_v1.0_De.lha" size="2685056" crc="429e0158" md5="9c5a97045e8e88fc27ae33be00b7ffe9" sha1="860af068b53fe6530f32484c9f447f47c09dba3c"/>
-		<rom name="WingCommander_v2.0b_1657&amp;0824.lha" size="2673220" crc="2317045e" md5="aee2a39b4a03b8433bdeedcca0718011" sha1="9536c6a0162cdabb0b913c5b7c818efee181f288"/>
-		<rom name="WingCommander_v2.0b_CD32.lha" size="3713195" crc="915e5e16" md5="b71efa0df5f8d5de087e6969fd068bae" sha1="3a3a1e0ddd60db3b589769edb46f151372bb5ca1"/>
+		<rom name="WingCommander_v2.0b_1657&amp;0824.lha" size="2675231" crc="eab882fd" md5="67c204f2e0cd484a5fce3fe077347f5e" sha1="b86a0e2e3159c33dabdd47e0fee0f064a4777548"/>
+		<rom name="WingCommander_v2.0b_CD32.lha" size="3715188" crc="5f486b2d" md5="b9f99f027e3db3468fa232971412aa38" sha1="54a26e81eb13cb473d4de341deb09a53cb3117a2"/>
 		<rom name="WinterlandMegaLoMania_v1.7.lha" size="1056651" crc="572cb279" md5="cb227754a8aa449b1d4cfffb81500599" sha1="6fe02202105d45f5714c7e086713d9b16d0e141c"/>
 		<rom name="WonderboyInMonsterlandSE_v1.1_Hack_by_Earok.lha" size="427211" crc="b674c267" md5="ad8b6182dc25a08c46f320454a0b4bbd" sha1="3426502942365f7b8984c388d472ad7a7ec5fa37"/>
 		<rom name="WonderDogSE_v1.0_Hack_by_Earok.lha" size="1316562" crc="f7bee1c6" md5="58deaddc06b6b7d29384681d45088d68" sha1="c00c5e93b0753c2e09ab6b95f1804b2f953bde7d"/>
@@ -289,6 +295,7 @@
 	</machine>
 	<machine name="Z">
 		<description>Z</description>
+		<rom name="ZanyGolf_v2.0b_NTSC_1482.lha" size="503316" crc="2e6edf20" md5="661b30a03e3cd02beda94a8bb4f2d1c2" sha1="c39cc985bce3929eadd6e6fe1e1557e5dcf4bd68"/>
 		<rom name="ZippyRace_v1.2.lha" size="263701" crc="5eec13fd" md5="49332b4215592d13cf0a2ad2cf41e837" sha1="2160239104779ada83eb80a0a79123a777b1d474"/>
 		<rom name="Ziriax_v1.3_UltimateEdition_Ross.lha" size="706571" crc="67113639" md5="db9ae2d779312ee3f65f3a3631b3572e" sha1="5c2a1deffd8d067e7c3c7bdcbb92eb3223aff194"/>
 		<rom name="Zool_v3.1_AGA_BETA.lha" size="1421896" crc="58a2fa2e" md5="49d5e163e760cd289c3b3caed2adfb2b" sha1="521f48fa531e449fe8a03a552d640e5082f63769"/>

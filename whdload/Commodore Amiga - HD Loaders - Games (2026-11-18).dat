@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - HD Loaders - Games</name>
 		<description>Commodore Amiga - HD Loaders - Games</description>
 		<category>Standard DatFile</category>
-		<version>2026-11-06</version>
-		<date>2026-11-06</date>
+		<version>2026-11-18</version>
+		<date>2026-11-18</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -105,6 +105,7 @@
 	</machine>
 	<machine name="M">
 		<description>M</description>
+		<rom name="ManiacMansionDeluxe_v2.0_AGA.lha" size="28763221" crc="abe2bd33" md5="0f2bae3a2a224cb0052987192f513559" sha1="b8f599ea9028ce85eec94fbc554dcfee7ae3346f"/>
 		<rom name="MarbleMadness_v2.0_HD_JOTD_0013.lha" size="394690" crc="48664645" md5="8e9880a94980ddb523a10221413a4d01" sha1="a5d6b810c99073868e673acc84831741b074948c"/>
 		<rom name="MicroProseGolf_HD_JOTD.lha" size="1076897" crc="175d6f20" md5="e964e0bca374e5608f42f1fc4bf8157b" sha1="2bee3da7769462f0a8c86ad56d7b93be566670cf"/>
 		<rom name="MonkeyIsland2_v6.0.0_AGA_De_dlfrsilver.lha" size="13414455" crc="1b5a32f9" md5="426957dbddced93afc1245a17c40b642" sha1="27a76a3e26903b25d9d7e86159250dab3e1fca9f"/>
