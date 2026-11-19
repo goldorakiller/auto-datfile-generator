@@ -32,13 +32,13 @@
 		<rom name="AmiRobbo2Demo_v1.0.lha" size="358348" crc="201c34b9" md5="2efb0280363dbc6986a5096a095050d0" sha1="d8d616752f146e5d31901dd0a115564da300c938"/>
 		<rom name="AnotherWorldLostLevel_v1.1_Hack_by_Earok.lha" size="670763" crc="a508f08f" md5="c57e48ac4a01e88ccaa4e0687ceffcfa" sha1="86c4e1dae941adbd944b630bbc77f51e0ca51df0"/>
 		<rom name="ApidyaSpecialEdition_v1.1_Hack_by_Earok.lha" size="1625415" crc="926c072a" md5="0c0e935b62960b458c8da4fcbb8402f2" sha1="aadcecec17ab273e65a10b77847a932a41753494"/>
-		<rom name="Archipelagos_v2.0b_0627.lha" size="161523" crc="92e5e496" md5="2898176252ba941c182edc7141a1a2cc" sha1="64476e0ef79d7a43e5894a903c3ccf26d2fb1754"/>
-		<rom name="Archipelagos_v2.0b_NTSC_0628.lha" size="168674" crc="1ff4253d" md5="07f7e7702d93cc83a3b18f938ebba79d" sha1="b5fc9ceaf71e85fc2f4f4f60acf47b5ef24d1a51"/>
+		<rom name="Archipelagos_v2.0b_0627.lha" size="161976" crc="bdd36789" md5="ad6b83a15382431d3dc56c58b6e3e531" sha1="9245d644af18ef40ca407240161486d5c12773e9"/>
+		<rom name="Archipelagos_v2.0b_NTSC_0628.lha" size="169127" crc="6bba1011" md5="4b100d860a755614fbab8cf470d9b4c9" sha1="5d8489c571cc2542011033ad436de4fbe1b142b2"/>
 		<rom name="Area88_v1.2_Hack_by_Earok.lha" size="588500" crc="ad71f298" md5="7edd219c4c1a44cef9ae52f492c1ca25" sha1="f6715675befc4d826d9cbe068c86a224aa87e2fc"/>
 	</machine>
 	<machine name="B">
 		<description>B</description>
-		<rom name="BadDudesVsDragonNinja_v1.01_AGA.lha" size="3032310" crc="bf4fd61f" md5="e7a15a0a8f8f33e6338f22b0e8c2e7d5" sha1="a25a0d3bc2cf7ffc1c603fddf7f7a85861a60ae9"/>
+		<rom name="BadDudesVsDragonNinja_v1.4_AGA.lha" size="3158035" crc="1b1fe8ba" md5="30f7f1de972cabdb36afcb43f1c5a8cd" sha1="6f756db1360561c756466b154a166b16346bbd6a"/>
 		<rom name="Bagman_v1.0.lha" size="170427" crc="c2960994" md5="4173edfd78412c1b40ffc475e7c16012" sha1="2e8e3e4fc6efaa9bd27989a8311eff3856de5c9e"/>
 		<rom name="Battlehawks1942_v2.0b_0053.lha" size="1010071" crc="a75e7fc1" md5="f0b91e7df06c41c82130445172d01dd1" sha1="29b5c3fab6401fc3081fc55ea18dda2c6a3035bd"/>
 		<rom name="BlackTiger_MegaDrive.lha" size="1552795" crc="807a76db" md5="0be48e137af48bf469b3291736688851" sha1="fc705562052cc96ac20060f3864cc21fb05a5e15"/>
@@ -93,6 +93,7 @@
 	<machine name="G">
 		<description>G</description>
 		<rom name="Galaga_v2.0.lha" size="169885" crc="b732c531" md5="22faaf9d6bf809f153545c4a0df27f5a" sha1="0c3f67f8d82a795c6caf9b90481b9672911eae63"/>
+		<rom name="Galaxian_v1.0.lha" size="187738" crc="30b9794d" md5="4350a6bd0377ace54d20bc7b05b51a1c" sha1="83474c6ddb5e394b9df70261e6c7f483d788b91a"/>
 		<rom name="GhostBattle_v1.3.lha" size="968772" crc="738a43fc" md5="44ca0b7ba35ce7f730af838dd1c1924a" sha1="e868a10bfc541ae797744c4b66db1a64a1af8113"/>
 		<rom name="Ghostbusters2Modified_v1.0.lha" size="1166040" crc="9e2aa715" md5="1d2d6ee8983fd44b1b673b0743ae52b0" sha1="7ece59adc0b8c8363d48555283b4cef911f451c8"/>
 		<rom name="GhostsNGoblins_v1.2_AGA.lha" size="2127801" crc="85ae5bc0" md5="9d99630e3cd95262f1ded6ebeb69cd1c" sha1="fd292d8a5e2f48e5e716aa65dd1286c65e718469"/>
@@ -104,8 +105,8 @@
 		<rom name="Gunship2000_v4.0b_0808.lha" size="1698599" crc="a058822d" md5="90d2cf7f31c15ec4d7c40698f133067c" sha1="6c8e75594c1b7f0b35a818a4ba2eaa82bde1bbc1"/>
 		<rom name="Gunship2000_v4.0b_AGA_0371.lha" size="2328764" crc="363e158f" md5="3c9c1906bfa0ef57cde631ddef7253ae" sha1="4979da23da38bcbd01201502ba1016757048ce3d"/>
 		<rom name="Gunship2000_v4.0b_CD32.lha" size="4982261" crc="916c2839" md5="6dc1b65151801e06401f99c2cbd374d4" sha1="ebec9451068ff43124aab75ae86eac4ade4f888b"/>
-		<rom name="Gunship_v2.0b_0658.lha" size="478838" crc="4a8039b7" md5="204dacfa6fdb3310d4a00946587e80fc" sha1="90a5c25267abf0468e04180a9062e75c75ed9fc0"/>
-		<rom name="Gunship_v2.0b_NTSC_1489.lha" size="483900" crc="135cb367" md5="11b82a531ae4f8ac479ccf4e380cb82c" sha1="9a0dcb48b39fa77b7831a6876a0aa30c07f2fa12"/>
+		<rom name="Gunship_v2.0b_0658.lha" size="479344" crc="fc115ef3" md5="fb929b1050cfb5aae25695759c886f6a" sha1="6097e0b9334ebb319b1e72cb887cb9b1042b0f80"/>
+		<rom name="Gunship_v2.0b_NTSC_1489.lha" size="484399" crc="f5a1d1de" md5="ab29e2e759d813876a55ceb66ec24742" sha1="45629cdc1577d769c831fb8f69220cac2cad4558"/>
 		<rom name="GunSmoke_v1.2_AGA.lha" size="4322188" crc="3dd6fb34" md5="a8124b3dd73608c909418d6b6d2cec67" sha1="f5982e387a0614ad2f7330b01ace9845fd5e8f5e"/>
 		<rom name="Gyruss_v1.0_1MB.lha" size="322059" crc="4e32ab14" md5="78bd07a8dac11ba09e4a302e99af3176" sha1="dc6ed5699e0bc98cfe18f17b79f1074949d05e26"/>
 		<rom name="Gyruss_v1.0_2MB.lha" size="474632" crc="1e3373c1" md5="3b740c3d6332c5080d06708eba386876" sha1="3b6181d7bdc6828db921b44c0790aa7aab2c21af"/>
@@ -219,8 +220,8 @@
 		<rom name="RenegadesDeluxe_v1.0_PublicDomain.lha" size="511746" crc="b85943fe" md5="de4ad8633e20f86c7d136bb713f8b6c5" sha1="9260bafb735cc15d2d8a7567db0f691950f13d70"/>
 		<rom name="RickDangerous_v1.2_AGA.lha" size="1192673" crc="a37932f2" md5="250a45fb27ca95d044b814b2bf9d34c0" sha1="27f7aafcb36e45594c5a0e1a5054a00332b742df"/>
 		<rom name="RoadRash_v3.0b_1313.lha" size="1294998" crc="21e45fac" md5="deced833ab486560f3cb0bf153fafd4c" sha1="69864bcb1959aaac4bdb62f5a2789f953c4351fa"/>
-		<rom name="RobinsonsRequiem_v2.0b.lha" size="1734964" crc="9a40af30" md5="838ee282631e805a5cf0943365129877" sha1="4c9f506c140f8d8a0a3eebbf036f963f2d3ec20e"/>
-		<rom name="RobinsonsRequiem_v2.0b_AGA_1866.lha" size="3048287" crc="fc4dbb5d" md5="c669614a4a443d90d9d1c5f84686ce79" sha1="62d220481cd187d17f084011566d3e47c61ece2e"/>
+		<rom name="RobinsonsRequiem_v2.0b.lha" size="1735085" crc="54603e92" md5="967d0cdb4aedb1c4ca760c6942de5685" sha1="ae6cde6cb5f6b255be287ab5f1e5c6f59ad3133f"/>
+		<rom name="RobinsonsRequiem_v2.0b_AGA_1866.lha" size="3048396" crc="e1929cc6" md5="14825581676a4e22bccbfe8c8f6f2f3c" sha1="c0531211adaa155065780ed725fbbe59d34d3d1d"/>
 		<rom name="RocNRope_v1.01.lha" size="195745" crc="67bda808" md5="064fd36761e0b253d04857e75a10ee2e" sha1="2a6391770ef975ade536f7de00477ca3f6cca496"/>
 		<rom name="RocNRope_v1.01_AGA.lha" size="208652" crc="910bc14a" md5="58c568b4462f4bd13207ab9874d56576" sha1="671231881e8b8d9eafe8633e568745c644b4d204"/>
 		<rom name="RogueDeclanZero_v1.0.lha" size="281122" crc="9f3408ed" md5="c1c800f379cd8fdbd77c2636a042f6c8" sha1="3d8c7390a56733cfcd0c1342c1aab221b10516a8"/>
@@ -251,6 +252,7 @@
 		<description>T</description>
 		<rom name="TestDrive_v2.0b_0089.lha" size="518775" crc="6d2ace99" md5="68905166af3b825689875aae93a59abd" sha1="03246605e5f0ed346e12f6b2885271f880932b09"/>
 		<rom name="Tetris_v1.03_AGA.lha" size="169952" crc="677eac84" md5="a549c4de99195de85428ea3b0f663a87" sha1="83926418c943e70478277a457cb9ad045ec85497"/>
+		<rom name="TFX_v2.3b_AGA.lha" size="7617373" crc="ea1f0af8" md5="cf2b9fd51346fd59cd22634c25b4200d" sha1="33e4dbce75b59ee27b08bfa8f5b2b93f997eace2"/>
 		<rom name="TheirFinestHour&amp;Missions_v2.0b_0037&amp;1369.lha" size="846914" crc="dd8a966c" md5="0b233439f42949e8a26a84c81e6cfa9b" sha1="5879313f1a3222d6bdc9d2522e3c0acbbf96d73f"/>
 		<rom name="TheirFinestHour_v2.0b_0037.lha" size="834269" crc="cf0b5490" md5="33e1f54122b37d92b35ca082e5051ac0" sha1="02eaf5cdea9e4dd859088cebde439e671ade84e2"/>
 		<rom name="ThemeParkXMASDemo_v1.0.lha" size="435540" crc="9bde2b62" md5="399a4ff05b262966eb803ae277ded191" sha1="b1f7c01d0eab324976a15c3c1d0c206c5f9228f5"/>
