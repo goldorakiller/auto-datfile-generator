@@ -22,17 +22,32 @@ from http_session import github_api_headers, retrying_session
 # - catver.ini de Progetto-SNAPS (AntoPISA/MAME_SupportFiles, (c) AntoPISA) : genre
 #   "Principal / Sous-genre" et mention " * Mature *" ;
 # - nplayers.ini (nplayers.arcadebelgium.be, CC BY-SA 3.0) : "2P sim", "2P alt"...
+# - languages.ini et bestgames.ini de Progetto-SNAPS (meme depot que catver) : langue(s)
+#   du jeu et note par tranches de 10 (filtres "Languages" et "Rating" de RBTools, 19/11/2026).
 # Une source injoignable : l'index n'est pas reecrit (piece jointe de la veille gardee).
 
 OUTPUT_FILE = "mame-index.json"
 MAME_RELEASE_API = "https://api.github.com/repos/mamedev/mame/releases/latest"
 CATVER_URL = "https://raw.githubusercontent.com/AntoPISA/MAME_SupportFiles/main/catver.ini/catver.ini"
+LANGUAGES_URL = "https://raw.githubusercontent.com/AntoPISA/MAME_SupportFiles/main/languages.ini/languages.ini"
+BESTGAMES_URL = "https://raw.githubusercontent.com/AntoPISA/MAME_SupportFiles/main/bestgames.ini/bestgames.ini"
 NPLAYERS_PAGE = "http://nplayers.arcadebelgium.be/"
 
 # Ordre des colonnes de chaque machine (tableau, pour un fichier compact).
+# Colonnes ajoutees TOUJOURS EN FIN : RBTools lit les colonnes par leur nom ("fields"), une
+# version plus ancienne ignore simplement celles qu'elle ne connait pas.
 FIELDS = ["cloneof", "flags", "driver", "year", "manufacturer", "players", "buttons",
-          "controls", "orientation", "screens", "genre", "mature", "nplayers"]
+          "controls", "orientation", "screens", "genre", "mature", "nplayers",
+          "languages", "rating"]
 FLAG_BIOS, FLAG_DEVICE, FLAG_MECHANICAL, FLAG_NOT_RUNNABLE = 1, 2, 4, 8
+# Ajoutes le 19/11/2026 (memes raisons : une ancienne version de RBTools ne lit que 1/2/4/8) :
+# - COCKTAIL : reglage "Cabinet" avec une valeur "Cocktail..." (retournement d'ecran pour une
+#   table cocktail), SAUF si <driver cocktail="preliminary"> (retournement mal emule) ;
+# - SAMPLES : besoin de fichiers samples (attribut sampleof) ;
+# - ARTWORK : <driver requiresartwork="yes"> (decor/caches indispensables pour jouer) ;
+# - NO_SOUND : <feature type="sound" status="unemulated"> (son non emule ; une machine
+#   SANS materiel son, nosoundhardware="yes", n'est PAS concernee).
+FLAG_COCKTAIL, FLAG_SAMPLES, FLAG_ARTWORK, FLAG_NO_SOUND = 16, 32, 64, 128
 
 
 def control_code(element):
@@ -80,6 +95,22 @@ def read_listxml(session):
                 flags |= FLAG_MECHANICAL if elem.get("ismechanical") == "yes" else 0
                 flags |= FLAG_NOT_RUNNABLE if elem.get("runnable") == "no" else 0
                 driver = elem.find("driver")
+                if driver is not None:
+                    flags |= FLAG_ARTWORK if driver.get("requiresartwork") == "yes" else 0
+                    cocktail_ok = driver.get("cocktail") != "preliminary"
+                else:
+                    cocktail_ok = True
+                # "Cabinet" est un interrupteur DIP (<dipswitch>/<dipvalue> : galaga, 1942) OU un
+                # reglage de configuration (<configuration>/<confsetting> : pacman, invaders).
+                if cocktail_ok and any(
+                        setting.get("name", "").lower() == "cabinet" and
+                        any(v.get("name", "").lower().startswith("cocktail")
+                            for v in setting.findall("dipvalue") + setting.findall("confsetting"))
+                        for setting in elem.findall("dipswitch") + elem.findall("configuration")):
+                    flags |= FLAG_COCKTAIL
+                flags |= FLAG_SAMPLES if elem.get("sampleof") else 0
+                if any(f.get("type") == "sound" and f.get("status") == "unemulated" for f in elem.findall("feature")):
+                    flags |= FLAG_NO_SOUND
                 inp = elem.find("input")
                 controls, buttons = set(), 0
                 if inp is not None:
@@ -104,6 +135,7 @@ def read_listxml(session):
                     orientation,
                     sorted({d.get("type", "") for d in displays if d.get("type")}),
                     "", 0, "",
+                    [], 0,
                 ]
                 elem.clear()  # flux : 327 Mo de XML sans tout garder en memoire
     return version or release["tag_name"], machines
@@ -135,6 +167,40 @@ def read_catver(session):
     return ini_version(text), read_ini_section(text, "Category")
 
 
+def read_sections(text):
+    """Toutes les sections d'un .ini "dossiers" de Progetto-SNAPS : nom de jeu -> [sections]."""
+    result, current = {}, None
+    for raw in text.splitlines():
+        line = raw.strip()
+        if line.startswith("[") and line.endswith("]"):
+            current = line[1:-1]
+            continue
+        if not line or line.startswith(";") or current in (None, "FOLDER_SETTINGS", "ROOT_FOLDER"):
+            continue
+        result.setdefault(line, []).append(current)
+    return result
+
+
+def read_languages(session):
+    resp = session.get(LANGUAGES_URL, timeout=150)
+    resp.raise_for_status()
+    text = resp.content.decode("utf-8", errors="replace")
+    return ini_version(text), read_sections(text)
+
+
+def read_bestgames(session):
+    """Note = borne basse de la tranche ("70 to 80 (Good)" -> 70) ; un jeu non note n'est pas liste."""
+    resp = session.get(BESTGAMES_URL, timeout=150)
+    resp.raise_for_status()
+    text = resp.content.decode("utf-8", errors="replace")
+    ratings = {}
+    for name, sections in read_sections(text).items():
+        match = re.match(r"(\d+)\s+to\s+\d+", sections[0])
+        if match:
+            ratings[name] = int(match.group(1))
+    return ini_version(text), ratings
+
+
 def read_nplayers(session):
     page = session.get(NPLAYERS_PAGE, timeout=150)
     page.raise_for_status()
@@ -152,6 +218,8 @@ def build():
     version, machines = read_listxml(session)
     catver_version, categories = read_catver(session)
     nplayers_version, nplayers = read_nplayers(session)
+    languages_version, languages = read_languages(session)
+    bestgames_version, ratings = read_bestgames(session)
 
     mature_mark = "* Mature *"
     for name, row in machines.items():
@@ -161,16 +229,22 @@ def build():
             genre = genre.replace(mature_mark, "").strip()
         row[10] = genre
         row[12] = nplayers.get(name, "").strip()
+        row[13] = sorted(set(languages.get(name, [])))
+        row[14] = ratings.get(name, 0)
 
     index = {
         "mame": version,
         "catver": catver_version,
         "nplayers": nplayers_version,
+        "languages": languages_version,
+        "bestgames": bestgames_version,
         "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "sources": {
             "mame": "MAME listxml (mamedev/mame releases), MAME (c) MAMEdev and contributors",
             "catver": "catver.ini, progetto-SNAPS (c) AntoPISA, https://www.progettosnaps.net",
             "nplayers": "nplayers.ini, http://nplayers.arcadebelgium.be, CC BY-SA 3.0",
+            "languages": "languages.ini, progetto-SNAPS (c) AntoPISA, https://www.progettosnaps.net",
+            "bestgames": "bestgames.ini, progetto-SNAPS (c) AntoPISA, https://www.progettosnaps.net",
         },
         "fields": FIELDS,
         "machines": machines,
@@ -183,6 +257,12 @@ def build():
     with_genre = sum(1 for r in machines.values() if r[10])
     with_np = sum(1 for r in machines.values() if r[12])
     print(f"{len(machines)} machines (catver {catver_version} : {with_genre}, nplayers {nplayers_version} : {with_np})")
+    print(f"languages {languages_version} : {sum(1 for r in machines.values() if r[13])}, "
+          f"bestgames {bestgames_version} : {sum(1 for r in machines.values() if r[14])}, "
+          f"cocktail {sum(1 for r in machines.values() if r[1] & FLAG_COCKTAIL)}, "
+          f"samples {sum(1 for r in machines.values() if r[1] & FLAG_SAMPLES)}, "
+          f"artwork {sum(1 for r in machines.values() if r[1] & FLAG_ARTWORK)}, "
+          f"son non emule {sum(1 for r in machines.values() if r[1] & FLAG_NO_SOUND)}")
     print(f"{OUTPUT_FILE} : {os.path.getsize(OUTPUT_FILE):,} octets")
 
 
