@@ -5,14 +5,17 @@
 	<header>
 		<name>HBMAME CHDs (merged)</name>
 		<description>HBMAME CHDs (merged)</description>
-		<category>Standard DatFile</category>
-		<version>0.289.4</version>
+		<version>0.289.6</version>
 		<author>Pleasuredome</author>
 		<clrmamepro forcepacking="unzip"/>
 	</header>
 	<machine name="cd_alice">
 		<description>cd_alice</description>
 		<rom name="819.chd" size="267003" crc="f1dbd559" sha1="706b868d575b3e7d7b592a7e9f76d130b1025f2a"/>
+	</machine>
+	<machine name="cd_biolab">
+		<description>cd_biolab</description>
+		<rom name="biolab.chd" size="32095" crc="a094694f" sha1="f8546ca6f06ff9dfe6ed6357b3ac29428e425eb6"/>
 	</machine>
 	<machine name="cd_chelnov">
 		<description>cd_chelnov</description>
@@ -89,6 +92,14 @@
 	<machine name="cd_sf2ce">
 		<description>cd_sf2ce</description>
 		<rom name="sf2ce.chd" size="169703776" crc="0f552023" sha1="812a64721d05903aac2a89d7802aa3671355f5ff"/>
+	</machine>
+	<machine name="cd_sf2coll">
+		<description>cd_sf2coll</description>
+		<rom name="sf2coll.chd" size="170176808" crc="7cf30383" sha1="8ddae0c483fd7e0aba2e5fa494171fd94453709b"/>
+	</machine>
+	<machine name="cd_shangon">
+		<description>cd_shangon</description>
+		<rom name="shangon.chd" size="140352526" crc="7307f738" sha1="2920bb7c539531b960367fc521c015465df88d6a"/>
 	</machine>
 	<machine name="cd_shinobiarr">
 		<description>cd_shinobiarr</description>

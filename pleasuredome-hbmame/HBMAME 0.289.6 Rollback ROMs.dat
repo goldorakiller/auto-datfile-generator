@@ -4,7 +4,7 @@
 	<header>
 		<name>HBMAME Rollback ROMs</name>
 		<description>HBMAME Rollback ROMs</description>
-		<version>0.289.4</version>
+		<version>0.289.6</version>
 		<author>Pleasuredome</author>
 	</header>
 	<machine name="HBMAME (v0.148u1) - dinohc">
@@ -36691,11 +36691,6 @@
 		<rom name="sf2mix99a.p2" size="524288" crc="aac9a601" sha1="252baf463c09c8dfb4f3e5464e98a8e7840d59ff"/>
 		<rom name="sf2mix99a.p3" size="524288" crc="60c3e417" sha1="24d0bbdd4d7e135b4200e944483ec8e9c02af568"/>
 	</machine>
-	<machine name="HBMAME (v0.245.28) - nblktiger">
-		<description>HBMAME (v0.245.28) - nblktiger</description>
-		<rom name="496.v1" size="1048576" crc="3ac066e1" sha1="cab7f04fbce0db685f5fa0d22923f7b7ca37a804"/>
-		<rom name="496.v2" size="1048576" crc="c5a12987" sha1="71236afffdb69aa3ba8ebc345e1e7b1830db437e"/>
-	</machine>
 	<machine name="HBMAME (v0.245.29) - sf2prime">
 		<description>HBMAME (v0.245.29) - sf2prime</description>
 		<rom name="c88pr.c1" size="8388608" crc="51b072ab" sha1="5bc384ea17aa2826904aa2f7b4be2f0905cc6383"/>
@@ -39220,7 +39215,6 @@
 	</machine>
 	<machine name="HBMAME (v0.245.32) - gngknightc">
 		<description>HBMAME (v0.245.32) - gngknightc</description>
-		<rom name="gng.n9" size="16384" crc="b6b91cfb" sha1="019a38b1c4e987715be1575948a3dc06ee59123d"/>
 		<rom name="gngknight.n12" size="16384" crc="0f910940" sha1="5c7f2e309ac13cae7308a5cc4e41173c262cf56a"/>
 	</machine>
 	<machine name="HBMAME (v0.245.32) - gngknightt">
@@ -39796,8 +39790,6 @@
 	</machine>
 	<machine name="HBMAME (v0.245.7) - striders02">
 		<description>HBMAME (v0.245.7) - striders02</description>
-		<rom name="c03s02.c01" size="524288" crc="f92cc010" sha1="7cec7f7cdc7efce28fd49ae0220a41d2fa811fd0"/>
-		<rom name="c03s02.c03" size="524288" crc="9abd7b1e" sha1="cb00c37ad5b53daee8a1d7bb949adc3559561d13"/>
 		<rom name="c03s02.c05" size="524288" crc="0dcc68b1" sha1="9c3179082944a6ca105046a02cea38170e91696f"/>
 		<rom name="c03s02.c07" size="524288" crc="77f5debd" sha1="796a1b6cda78cb5612c494dff52c3ac12c1d6531"/>
 	</machine>
@@ -40208,6 +40200,620 @@
 		<rom name="065s04.c4" size="1048576" crc="c7b5b02d" sha1="ec8b0e2ffe792b20d08bb1465a17afedc5dc22c1"/>
 		<rom name="065s04.p1" size="1048576" crc="042fbcdf" sha1="932b031048f9f5d85b40844f62966f34d133cc12"/>
 		<rom name="065s04.s1" size="131072" crc="9827f989" sha1="15db8737f32d43a39dfb0575898eaeb0f69cc778"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - 7wonders">
+		<description>HBMAME (v0.289.4) - 7wonders</description>
+		<rom name="782.c1" size="4194304" crc="20efee4b" sha1="cd81a92fb029aebc040a87b4c7d6f257bff954a4"/>
+		<rom name="782.c2" size="4194304" crc="2e56f9b5" sha1="f3b0ba4d319fcb49a03d89b7182d469685cd1e1b"/>
+		<rom name="782.m1" size="131072" crc="a8031d28" sha1="3ff4f7a43961f1952f499ac55c5e903dc4fa7eaa"/>
+		<rom name="782.p1" size="524288" crc="30264e7a" sha1="d51f7fbde1af28c4881cbd3dc026fb2b6a3e1c8b"/>
+		<rom name="782.s1" size="131072" crc="eb99e197" sha1="a5a393c0500a3e0c8a03a4bff614e23e66c57804"/>
+		<rom name="782.v1" size="3294208" crc="afec46cd" sha1="274b9b049ce8285afb8def6b0e302e7a5885e4d9"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - arena2">
+		<description>HBMAME (v0.289.4) - arena2</description>
+		<rom name="530.c1" size="2097152" crc="86856821" sha1="98247e4025311a5b6ac1f4f2790c8e673f793253"/>
+		<rom name="530.c2" size="2097152" crc="2f2b10e6" sha1="4728ac8553e2f55f461d125d82d7eff7a43820a6"/>
+		<rom name="530.m1" size="131072" crc="eb05a2c5" sha1="3dfc371aec1dcf2935cae702421aae8517136365"/>
+		<rom name="530.p1" size="1048576" crc="9ed6466d" sha1="b14beedc6339cbc391d4c38e35bd3e0306afba95"/>
+		<rom name="530.s1" size="131072" crc="b2d1bed5" sha1="c2677c8feeaed70ed97fa95c91663b378741fc31"/>
+		<rom name="530.v1" size="524288" crc="634c279c" sha1="18ede8919af3a9b71d9496273f4df8d613d58f79"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - cosmogngn">
+		<description>HBMAME (v0.289.4) - cosmogngn</description>
+		<rom name="542.c1" size="16777216" crc="782b6dbc" sha1="0f8b3e50208c65a245e9a6f8569d00254e39e54f"/>
+		<rom name="542.c2" size="16777216" crc="3c03f273" sha1="922f50e769980202d082f3ee5d9691c8bbd67e53"/>
+		<rom name="542.m1" size="131072" crc="c3e9a425" sha1="0ec59b6f0451d297db6685feffef34819654b17e"/>
+		<rom name="542.p1" size="1048576" crc="f7daad87" sha1="fbdd4ff485cbd8ae0f7f112ce065a864b394f17b"/>
+		<rom name="542.p2" size="2097152" crc="993317a4" sha1="db275d90718335d32f5fcdc8676ac5dda1f7dc88"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - ffex2j">
+		<description>HBMAME (v0.289.4) - ffex2j</description>
+		<rom name="sz3.01" size="131072" crc="36ef522c" sha1="89f0b25bbf8fa8961719e31571fbfff19f8e5db4"/>
+		<rom name="sz3.08c" size="524288" crc="7afbcbad" sha1="01f461b3514b0afbf433efb63e5fc5c6d6539552"/>
+		<rom name="sz3.09c" size="524288" crc="0642626b" sha1="d2d226a1d12dd6f61dfe01904fd312dfde963e1f"/>
+		<rom name="sz3.13m" size="4194304" crc="d24130e3" sha1="e7dfa74a58c7cf40eba16a01b4f99cf5a9102e4f"/>
+		<rom name="sz3.15m" size="4194304" crc="cef0a6b3" sha1="774b74d4ffd5ee6e9583706c93c520df4f80c6b4"/>
+		<rom name="sz3.17m" size="4194304" crc="00464598" sha1="7441bc9dffcb43f6e1d59caaaebebe768ac5bd3c"/>
+		<rom name="sz3.19m" size="4194304" crc="6f5379cc" sha1="ff05c38aabb9da1c206a3fe5f2cb29ebb6b8581b"/>
+		<rom name="sz3ud.03c" size="524288" crc="9eb92f51" sha1="43f33f15d52ceb5609123dfee009568a7811b797"/>
+		<rom name="sz3ud.04c" size="524288" crc="3a2393c0" sha1="0fbd067c848221568d24f3b55e700fef5ca04b80"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - ffex2r">
+		<description>HBMAME (v0.289.4) - ffex2r</description>
+		<rom name="sz3.01" size="131072" crc="3c1c4965" sha1="1dd3472fa77cd9b072b31930fb4c16405758e3d8"/>
+		<rom name="sz3.08c" size="524288" crc="64f42ba9" sha1="06857053f609c079fb6fe665a57bc8a3483b3ea0"/>
+		<rom name="sz3.09c" size="524288" crc="bd69566a" sha1="f4cba69e529796f344fc98a951bbbfdb402ac58d"/>
+		<rom name="sz3.13m" size="4194304" crc="231f811f" sha1="be9b110b9ce147b34d2fd4801ce4421e12cd0c93"/>
+		<rom name="sz3.15m" size="4194304" crc="26cea23a" sha1="6577c4aa419cb8059f95c54dd89b9180c7ce2cf9"/>
+		<rom name="sz3.17m" size="4194304" crc="f118f464" sha1="0f27c4d91c47f202ceb321b2bde324e481c8d1aa"/>
+		<rom name="sz3.19m" size="4194304" crc="876d7d45" sha1="8fd983d8177a4f95f0d430d11025c34620f33cc2"/>
+		<rom name="sz3ud.03c" size="524288" crc="d1129b95" sha1="be13d7b3597d9c10dfbd2eca14b9a1300d3c9c4c"/>
+		<rom name="sz3ud.04c" size="524288" crc="5d10506d" sha1="5196aa7916816b7a712608bf509bef3c214389eb"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - ffex2u">
+		<description>HBMAME (v0.289.4) - ffex2u</description>
+		<rom name="sz3.01" size="131072" crc="03d74a70" sha1="b0f672e2905389a0d10ff853cfcf13ae803ace2d"/>
+		<rom name="sz3.08c" size="524288" crc="0b37c61a" sha1="c76f1a52c169db384c361164b62c95c4645f1eec"/>
+		<rom name="sz3.09c" size="524288" crc="c0a36b4d" sha1="215d58d481e0968f1d0e36945f3eeb0c4d6bd35c"/>
+		<rom name="sz3.13m" size="4194304" crc="48cbc129" sha1="c195a65b83ee1b7b1aa14b508e5de68b80b95773"/>
+		<rom name="sz3.15m" size="4194304" crc="fd20f3aa" sha1="a8b3dfeb23fbbe444a0ecaf86f5f5ed2e896515b"/>
+		<rom name="sz3.17m" size="4194304" crc="5ea87831" sha1="b108081067b2dc5935d4a6edcde504d756e51820"/>
+		<rom name="sz3.19m" size="4194304" crc="da6a3e7e" sha1="bb20484af6208ac1975f25b2441c211dc6ea97d3"/>
+		<rom name="sz3ud.03c" size="524288" crc="e022fd18" sha1="1b0b7919902a069f4c76b5d59b3e601534ddbed2"/>
+		<rom name="sz3ud.04c" size="524288" crc="9c228c18" sha1="d8805a344eeb3d2391832ddf26f793217e3d6aca"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - ffightjs01">
+		<description>HBMAME (v0.289.4) - ffightjs01</description>
+		<rom name="c07.m1" size="65536" crc="283b10ed" sha1="3d7979967145bd28c01490dd7ef9d9716dede2dd"/>
+		<rom name="c07.p1" size="131072" crc="89b6ed01" sha1="e500beab69560437ddfa568554566c7582a1955a"/>
+		<rom name="c07.p2" size="131072" crc="3b3694e9" sha1="1aa5932976e842fb7d669a4d581e2f0e2cd8922d"/>
+		<rom name="c07.p3" size="131072" crc="118eb060" sha1="12188886993438298a83d2f4c0377672c809994b"/>
+		<rom name="c07.p5" size="524288" crc="1888fb77" sha1="3a6efb570c7c5b3716c1cf02e77ba47cf43aa37d"/>
+		<rom name="c07j.p4" size="131072" crc="26242617" sha1="49f7970114e28f97cc58c46e87941002c1d59f75"/>
+		<rom name="c07js01.c17" size="524288" crc="4611c2a6" sha1="d92ed42690a8ca1231bdd05ab7c69b418f9f608f"/>
+		<rom name="c07js01.c19" size="524288" crc="2044be8a" sha1="0c1ee6ecab181af66aa7ff321422a827033b607a"/>
+		<rom name="c07js01.c21" size="524288" crc="ed030a5c" sha1="fde7403146971f2e9b0380beec912739a1f1e2e5"/>
+		<rom name="c07js01.c23" size="524288" crc="b75abe81" sha1="5fb3eed3945459a18da69d2c4dba9b46be65aae2"/>
+		<rom name="c07js01.p7" size="1048576" crc="ed618024" sha1="bf9d12479f6896e29661b60f9688f23289d4015d"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - ffightus01">
+		<description>HBMAME (v0.289.4) - ffightus01</description>
+		<rom name="c07.p1" size="131072" crc="08ebc951" sha1="46e9b1553ebeeac45eb9bf50ad7a02a1cadf9bf5"/>
+		<rom name="c07.p2" size="131072" crc="cb6961d0" sha1="a378af1b2e9b9713006895501ae49c4d8122b1ef"/>
+		<rom name="c07.p5" size="524288" crc="b662dda9" sha1="7ba4a7a9d2fcc1a2fb34681eed1c5891da015b46"/>
+		<rom name="c07u.p4" size="131072" crc="38964eff" sha1="e450f3d872198b1c9de8f74ee250e9e5fb896110"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - fr2s01">
+		<description>HBMAME (v0.289.4) - fr2s01</description>
+		<rom name="098s01.c1" size="3145728" crc="29bf9af0" sha1="6c7e9c2b7062bf361a2290010c4e1828eb7019cc"/>
+		<rom name="098s01.c2" size="3145728" crc="3cf46f63" sha1="c5316e83586e7b1c902746f8f2049baf026b52bf"/>
+		<rom name="098s01.m1" size="65536" crc="a455fa31" sha1="82ccc5e2e5869a46da7533ed10ac5eab549a0063"/>
+		<rom name="098s01.p1" size="1048576" crc="a2527a5f" sha1="1f6e3c7de9154c0026360ee6fa0bd211ed541af1"/>
+		<rom name="098s01.s1" size="131072" crc="764ac7aa" sha1="cc40ad276e63084ebf3c3ee224083762a47c3cf8"/>
+		<rom name="098s01.v1" size="1048576" crc="92e175f0" sha1="788a9cce9028f16d6734bff163beb1a19305b8be"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - lhcdb">
+		<description>HBMAME (v0.289.4) - lhcdb</description>
+		<rom name="300cd.c1" size="4194304" crc="554e6b73" sha1="3637a8a4474e33eb75ac4a4ce0815f6a514fe337"/>
+		<rom name="300cd.c2" size="4194304" crc="7c84b0fc" sha1="cbd7a7865113e4f21f2b1f990a077fa5c2eae894"/>
+		<rom name="300cd.c3" size="4194304" crc="28ec7555" sha1="f094739272e6017a7193fa96cde3c1ed573a66b6"/>
+		<rom name="300cd.c4" size="4194304" crc="8b7c236b" sha1="1cb3fe81f433a2180c85be935e340da3c55aafdb"/>
+		<rom name="300cd.m1" size="131072" crc="d9f6c153" sha1="c08f7ca288be1c34f4b33ed13abd805b5cd66d4e"/>
+		<rom name="300cd.p1" size="1048576" crc="83e7b181" sha1="eb13909c0b062d56d20cbdfe75abf6139eae9ee0"/>
+		<rom name="300cd.s1" size="131072" crc="298495d6" sha1="c217aba6c1916d2e5337bb5c17d979b11a53582e"/>
+		<rom name="300cd.v1" size="4194304" crc="de563ec3" sha1="cd0f1a436cdac679792fc78906e718c78369b15a"/>
+		<rom name="300cd.v2" size="4194304" crc="93478033" sha1="a03e0fcb7f51c66ec0bc5d164744db00b96973c2"/>
+		<rom name="300cd.v3" size="3945728" crc="f0ad87b8" sha1="f992e84c6cbbc3cab79747a2ca4d646d18bebcbd"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - lhcdba">
+		<description>HBMAME (v0.289.4) - lhcdba</description>
+		<rom name="300cda.p1" size="1048576" crc="0f7405d7" sha1="3858564413be0bbbcb1c970de8f66bedc7d1ac6a"/>
+		<rom name="300cda.v3" size="4194304" crc="e0fc99ca" sha1="6de935b54bf5adc4394fe824b001b38eca0291ad"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - lhpb">
+		<description>HBMAME (v0.289.4) - lhpb</description>
+		<rom name="300pb.p1" size="1048576" crc="b81dd2e0" sha1="53cfc791267e56d07f1288a20fd1cca4a9f7c631"/>
+		<rom name="300pb.s1" size="131072" crc="f0719dbb" sha1="8d1faa2dac59579b7bda6bdafd8bac5b794ce2f0"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - lhpb01">
+		<description>HBMAME (v0.289.4) - lhpb01</description>
+		<rom name="300pb01.p1" size="1048576" crc="d6fce9c1" sha1="9dd957fb96d874de7b1c56ab1efdcd3f9dd611cb"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - mahjongd">
+		<description>HBMAME (v0.289.4) - mahjongd</description>
+		<rom name="785.m1" size="131072" crc="a227f905" sha1="1c1a9332380cee7fb29e0c6bb205f26b809a7200"/>
+		<rom name="785.p1" size="524288" crc="c88f560f" sha1="66675304e79830014cbaf8b287d05a1884506fb4"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - maiya">
+		<description>HBMAME (v0.289.4) - maiya</description>
+		<rom name="780.c1" size="4194304" crc="48638505" sha1="b2517c2a09efe0b196335c616ba3b2f13969f052"/>
+		<rom name="780.c2" size="4194304" crc="66a5c0e2" sha1="9f3d77f2284925c82d8e26f725243083a73d6d92"/>
+		<rom name="780.m1" size="131072" crc="ce7717bd" sha1="66f3ef28d76104adeed931bc2f6b65a5f5e4c4e8"/>
+		<rom name="780.p1" size="524288" crc="5fe28a51" sha1="2d1481933b0ba9a9f0f0e48e6e046cdabbd79b35"/>
+		<rom name="780.s1" size="131072" crc="5c7951e1" sha1="b0a45c2085b5ef49f7a197bf403f103be2f21f4f"/>
+		<rom name="780.v1" size="7973632" crc="127b89b4" sha1="8ec212c59da5e650ed6978cf358e24220b5d33c3"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - maiyaluna">
+		<description>HBMAME (v0.289.4) - maiyaluna</description>
+		<rom name="783.c1" size="4194304" crc="cd2c43bb" sha1="cba8d7ca848393919ddd0233eca849623ccd8d30"/>
+		<rom name="783.c2" size="4194304" crc="60b12724" sha1="b28f2710d55bbf9162c7197b7967d356964c3a15"/>
+		<rom name="783.m1" size="131072" crc="f8436258" sha1="6ce3894e89a59cca4c5af8c656ba9eb4e0ca0941"/>
+		<rom name="783.p1" size="524288" crc="dda3c6e9" sha1="60dfea90600b4ce6702b24f2ca1782b3e804bebd"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - mshvsfej">
+		<description>HBMAME (v0.289.4) - mshvsfej</description>
+		<rom name="mvs.05h" size="524288" crc="c6dca8ff" sha1="7329467a8de80a13349f50ffb31be395909e16db"/>
+		<rom name="mvs.07b" size="524288" crc="e9cbc426" sha1="06e1954894f4d4553bd937de57365e879d245c2f"/>
+		<rom name="mvs.10b" size="524288" crc="d21fc5ec" sha1="eb864541bb5456f2a54a340b551506ce2fdc6981"/>
+		<rom name="mvs.13m" size="4194304" crc="7c4ee686" sha1="d775698b13ae841d195817b008d86830ffc41c1b"/>
+		<rom name="mvs.15m" size="4194304" crc="95871b1b" sha1="85900a07e67635bc86a5b1da89390c2ba5efd92a"/>
+		<rom name="mvs.17m" size="4194304" crc="668aefe9" sha1="ad5e59cd12a1506e9dde58613becb8ad3b409d7d"/>
+		<rom name="mvs.19m" size="4194304" crc="b4d8bde0" sha1="95e134c92150d58c61a43bf18b0245aec4c8799e"/>
+		<rom name="mvsj.03i" size="524288" crc="4f36e96a" sha1="2c665437d5470b4d4dd0af007a95e04fc518ba4d"/>
+		<rom name="mvsj.04i" size="524288" crc="bf86e247" sha1="5fcbb2f3a4e76164836a527e11b6180a5b99eb4a"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - mshvsfex">
+		<description>HBMAME (v0.289.4) - mshvsfex</description>
+		<rom name="mvsj.03i" size="524288" crc="f8dfd93d" sha1="957d0aa1352aae1c5af93b9752d3d7cb2198c3d0"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - nblktiger">
+		<description>HBMAME (v0.289.4) - nblktiger</description>
+		<rom name="496.v1" size="4194304" crc="f44460dc" sha1="9b31c5fae67fc40c4c6c4fe4a4c21fa92374c8c7"/>
+		<rom name="496.v2" size="4194304" crc="bf52d283" sha1="59f2d26ab21d792228d6ee0bf840080fc1f4ba5d"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - ngem2k">
+		<description>HBMAME (v0.289.4) - ngem2k</description>
+		<rom name="411.v1" size="524288" crc="c32199f0" sha1="2e17a6736c27d703c64d58fdc1b43edd8bb36d35"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - nosignal">
+		<description>HBMAME (v0.289.4) - nosignal</description>
+		<rom name="784.c1" size="4194304" crc="814b6a0d" sha1="b53aa3a93092d43d1e418d4ab9b787ac816bb423"/>
+		<rom name="784.c2" size="4194304" crc="3f67cee5" sha1="591f0e7dfd29c00d29434d2604c6d4d867071355"/>
+		<rom name="784.m1" size="131072" crc="f9cc515e" sha1="1a32c447887b2bf80c7c6a8b8c92b7ce868dfd1f"/>
+		<rom name="784.p1" size="524288" crc="3c898fec" sha1="2ed2070951df80b195ecea3c716412fb4d9a16a2"/>
+		<rom name="784.s1" size="131072" crc="fb90dfcc" sha1="542820e191a41c407affd1a267f7be62ac0e5508"/>
+		<rom name="784.v1" size="6019840" crc="d57dbcf8" sha1="8c9760d6141952ddd3be543c6869b4308088d78d"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - outrunn">
+		<description>HBMAME (v0.289.4) - outrunn</description>
+		<rom name="541.c1" size="33554432" crc="850168f4" sha1="ef231da6a1fdc0314ff8e3bf728b6caafd20d63c"/>
+		<rom name="541.c2" size="33554432" crc="cc9552f5" sha1="1f14ab722f1fd0df8fdbacf512dec47636ed820d"/>
+		<rom name="541.p1" size="8388608" crc="6fcc7265" sha1="b80f834a7d134eeaff4d42fb8b5c038e4e03b210"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - robocopn">
+		<description>HBMAME (v0.289.4) - robocopn</description>
+		<rom name="534.p1" size="1048576" crc="eb0ffaed" sha1="227a428924c9e5b2726902913b95a7d8ad973410"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - samsho2s22">
+		<description>HBMAME (v0.289.4) - samsho2s22</description>
+		<rom name="063s22.p1" size="1048576" crc="c47446f7" sha1="d58bacfb99d75ace9579b751585109e402f65cc3"/>
+		<rom name="063s22.p2" size="1048576" crc="269e9be3" sha1="66303cc839c0da1d168c0c6128d8f5ebf4f8b1a2"/>
+		<rom name="063s22.p3" size="131072" crc="7e9083e9" sha1="ddc0c03d339415fe47ed9c43f035d84487bde9da"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - sf2mix">
+		<description>HBMAME (v0.289.4) - sf2mix</description>
+		<rom name="sf2mix.c01" size="524288" crc="a8f70643" sha1="0d3ab7fe1d0d15397a79c9bd304f22593a9b8d87"/>
+		<rom name="sf2mix.c02" size="524288" crc="f73f1913" sha1="b36db11822f5601726892726f8505b7e8b676ab6"/>
+		<rom name="sf2mix.c03" size="524288" crc="a80234b4" sha1="e8c3e8030fa2ce69465d97ccb02de622e9214b01"/>
+		<rom name="sf2mix.c04" size="524288" crc="4d910b53" sha1="1f28fe150ddf77c91c8ae998ee52e068327335d5"/>
+		<rom name="sf2mix.c05" size="524288" crc="26a56c2c" sha1="7120ab4e1006729faf90c4aab15f82f789538466"/>
+		<rom name="sf2mix.c06" size="524288" crc="3a2c2e5f" sha1="98f5c5b30e1bbeb3cdbacf11a1a4d6c0dbfd0263"/>
+		<rom name="sf2mix.c07" size="524288" crc="f71b978c" sha1="4d462d4a58966b214c60132e8df118844545ea7b"/>
+		<rom name="sf2mix.c08" size="524288" crc="8fe56540" sha1="36d6fcb184cb694d8ebd6ceb211d7acae37e02c3"/>
+		<rom name="sf2mix.c09" size="524288" crc="f352721f" sha1="55721a2fc451975fe061b4fa8b9e34e7254bafe1"/>
+		<rom name="sf2mix.c10" size="524288" crc="810c6499" sha1="1c992f1c70c73bc970d0aa1ce6010887d8b78cfb"/>
+		<rom name="sf2mix.c11" size="524288" crc="75d7c15c" sha1="53c7969a574f375a6d3df159eb762026d2d0128e"/>
+		<rom name="sf2mix.c12" size="524288" crc="642c40e7" sha1="4ac94adf896aa57a242de0ad0d7c8fbf0ff8bd2d"/>
+		<rom name="sf2mix.p1" size="524288" crc="60d0d40d" sha1="c1adbeced0f7231a17935e94a6d9601a1b3a8c17"/>
+		<rom name="sf2mix.p2" size="524288" crc="f7bd54e7" sha1="7ac2e56eec9bdeee8ca377a31e4cb5fcd740fb77"/>
+		<rom name="sf2mix.p3" size="524288" crc="b580c709" sha1="c65a416eeaa3affe08a713fe5d5400e2c738b56f"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - sfa2d">
+		<description>HBMAME (v0.289.4) - sfa2d</description>
+		<rom name="szaa.03" size="524288" crc="9c4956b7" sha1="8ad2baea2a3c5079052b6482c19366ae357b2d63"/>
+		<rom name="szaa.04" size="524288" crc="f2b045ba" sha1="c0fa7d902a662a7641de1376ebae0bb99dd7386d"/>
+		<rom name="szaa.08" size="524288" crc="1f7691f0" sha1="fba3ad0be50c497b69cfdc36020f75a507538ebb"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - sfa2ex">
+		<description>HBMAME (v0.289.4) - sfa2ex</description>
+		<rom name="sza.01" size="131072" crc="fa497904" sha1="fb7a383e36e406173ede3c8a04e499e1718568db"/>
+		<rom name="sza.13m" size="4194304" crc="a27253f3" sha1="6a1de7b490a3e394e90060fc563e29f797894400"/>
+		<rom name="sza.15m" size="4194304" crc="2a0c5df1" sha1="7fb2fbfdf9eb36db7e696bdc4742166f1f7fe092"/>
+		<rom name="sza.17m" size="4194304" crc="140cdbb2" sha1="69277ac8af1257c930ba206c8da6125a0c7db93f"/>
+		<rom name="sza.19m" size="4194304" crc="b5beabf6" sha1="2a3ebcbc33cc7ffdee981d1f819e70f182059bf9"/>
+		<rom name="szaa.03" size="524288" crc="03c5978c" sha1="fc54e7a072031d4942f1fe902b8e354d88611e28"/>
+		<rom name="szaa.04" size="524288" crc="7a3d6732" sha1="f12b13a9d447f2faa4480cd8d9a0f2f5a0d7211a"/>
+		<rom name="szaa.07" size="524288" crc="a37a6f6a" sha1="07aa585d09c3cf0219c12dbf73fb7f3c1c30185b"/>
+		<rom name="szaa.08" size="524288" crc="9f231db8" sha1="ab8b51ef7890554aa81f0011c8026ac73ba47b80"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - sfa2g">
+		<description>HBMAME (v0.289.4) - sfa2g</description>
+		<rom name="szaa.03" size="524288" crc="94bdce5a" sha1="c6d0489d1f2536e972a30f999fb3c1c5b6a67c94"/>
+		<rom name="szaa.04" size="524288" crc="09f3e26d" sha1="72ae22c5994cef6df2f6481df2502bb277828e88"/>
+		<rom name="szaa.08" size="524288" crc="2a16319f" sha1="b0902d71f0f9c26b7ac2358a256dbe75471806dd"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - sfa3ru">
+		<description>HBMAME (v0.289.4) - sfa3ru</description>
+		<rom name="sz3.09c" size="524288" crc="3b9e4187" sha1="47fb518f3a3c0e0ed206d12f0edde548cfd259b8"/>
+		<rom name="sz3.10b" size="524288" crc="3108b13e" sha1="e38e8ea0c9d58e6084ec5ed47f38ecc429dfbf89"/>
+		<rom name="sz3j.03c" size="524288" crc="cb2367cb" sha1="3849fabd2a1974d74618c961fc6d9de0b386905d"/>
+		<rom name="sz3j.04c" size="524288" crc="c4746c41" sha1="eb9a0c92567d3986902d554f68a408c8a99ec5f8"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - sfz2d">
+		<description>HBMAME (v0.289.4) - sfz2d</description>
+		<rom name="szaj.03a" size="524288" crc="aefd56e8" sha1="6e67920c9c8a608468c57d9a21f167d0f472be0a"/>
+		<rom name="szaj.04a" size="524288" crc="bb9526b6" sha1="dcb36f9b2d5892db2195721309c188984d575aec"/>
+		<rom name="szaj.08a" size="524288" crc="efcc529b" sha1="677a93b3061dfcc2c7b19ee6c2de414187628371"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - sfz2da">
+		<description>HBMAME (v0.289.4) - sfz2da</description>
+		<rom name="szaa.03" size="524288" crc="da38f64d" sha1="7986e474474f9c5eb6bc01c9f431d1c81b0f3ab0"/>
+		<rom name="szaa.04" size="524288" crc="3146ab3e" sha1="cea60b3f898b502efea63b835f17b4844f734152"/>
+		<rom name="szaa.08" size="524288" crc="1a469525" sha1="bc81883cd02c5f7ed3b9b72c15f78259d507c25c"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - sfz2ex">
+		<description>HBMAME (v0.289.4) - sfz2ex</description>
+		<rom name="sza.13m" size="4194304" crc="415077c3" sha1="49837e0024f93db4118610667f1d927dd59260ad"/>
+		<rom name="sza.15m" size="4194304" crc="e4593f76" sha1="d2b3c80f820ffbcb97a687482078ec9cf036c135"/>
+		<rom name="sza.17m" size="4194304" crc="22f96062" sha1="c09b37b27e777e0bd06b29a30aa35a16209818f4"/>
+		<rom name="sza.19m" size="4194304" crc="ec764fd2" sha1="354b01f4aca26ea4a4dc18c59f4c0fd9ea1e8e14"/>
+		<rom name="szaj.03a" size="524288" crc="085726a0" sha1="234744c72eafea97c35b1885536f99da3fbeb4e9"/>
+		<rom name="szaj.04a" size="524288" crc="9b8329a2" sha1="efbae7c72b5a9e5dbe8be9906329becdc49600e7"/>
+		<rom name="szaj.07a" size="524288" crc="3cbb8ebc" sha1="829ace5192c4dadbe675a8279ceec764a00cb8f7"/>
+		<rom name="szaj.08a" size="524288" crc="58220a6e" sha1="42f066a2f0260d05335b7025789a670929f8cb8e"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - sfz3rj">
+		<description>HBMAME (v0.289.4) - sfz3rj</description>
+		<rom name="sz3.09c" size="524288" crc="91aa1312" sha1="efc3ba7f27dc6379202448e66bad61e8a56ecb59"/>
+		<rom name="sz3j.03c" size="524288" crc="70f049e5" sha1="7538b3135b225444138ed410b213f4c0a64aea64"/>
+		<rom name="sz3j.04c" size="524288" crc="faf7c4aa" sha1="565b17180ff8a7944af37442f522cef0d711fabb"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - shadowlf">
+		<description>HBMAME (v0.289.4) - shadowlf</description>
+		<rom name="781.c1" size="8388608" crc="a8420eed" sha1="0a4e257d9db251e002bd7a5549bed60a5fe0cc59"/>
+		<rom name="781.c2" size="8388608" crc="efd2b313" sha1="62297ffc0737b30436aa7578e2a3d716a7535d84"/>
+		<rom name="781.m1" size="131072" crc="ceabdb57" sha1="f59d59155c52ebc177933ab9d4c9a26f499946d5"/>
+		<rom name="781.p1" size="3145728" crc="20a6ea2d" sha1="5aa5e1a9a3a84adb9d6c10cede58794f70ba68e1"/>
+		<rom name="781.s1" size="131072" crc="636d9736" sha1="81472c10d87a63717617c79dbb89eadc7f6c6a7f"/>
+		<rom name="781.v1" size="7979264" crc="63c1b4e6" sha1="718aa37a1c3754fb62196ddb121a00c323bc8533"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - skylance">
+		<description>HBMAME (v0.289.4) - skylance</description>
+		<rom name="779.c1" size="4194304" crc="e80e7df9" sha1="f3234d43b9c78630f4100d30e79820ba48a20969"/>
+		<rom name="779.c2" size="4194304" crc="0668da32" sha1="216fc99e3929dd6d6f08196546aa900000d17248"/>
+		<rom name="779.m1" size="131072" crc="cb88d068" sha1="074a5a4be1e2bbb296709937053a3bd52b79a4c5"/>
+		<rom name="779.p1" size="524288" crc="ae68c9a1" sha1="155475e9dad4d970e738c4f10d293818d4ce7bae"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - snowbrosn">
+		<description>HBMAME (v0.289.4) - snowbrosn</description>
+		<rom name="528.c1" size="524288" crc="d3984dd9" sha1="0dee55b40e17c1a82be55f96026642a60ee3459a"/>
+		<rom name="528.c2" size="524288" crc="75775686" sha1="c00b3144ee023671aa473efb89a0916287a2a988"/>
+		<rom name="528.m1" size="65536" crc="ca694dcf" sha1="0f75452eb7f72c51792ba6e29b266e31cfcd470f"/>
+		<rom name="528.p1" size="524288" crc="41c5834c" sha1="bc7a6df9c3a049a29c5369ad659364668292ba3f"/>
+		<rom name="528.s1" size="131072" crc="5fb678af" sha1="40f78732f1f6c63ddfbbd9b3b9086369c1cceaef"/>
+		<rom name="528.v1" size="8388608" crc="548c091b" sha1="20997304536d0319d81df73cf43738ca208e54fc"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - sotbn">
+		<description>HBMAME (v0.289.4) - sotbn</description>
+		<rom name="540.c1" size="2097152" crc="f6beef52" sha1="d1a2218c9807fda56833657edcc9d7374e5b0fd7"/>
+		<rom name="540.c2" size="2097152" crc="7429c5cb" sha1="869f81a48dbbb7db128a79d062ed9ede10cc8cbe"/>
+		<rom name="540.m1" size="131072" crc="7cf328f0" sha1="41ecca61282fd4ef306c9663606d748093eb0e67"/>
+		<rom name="540.p1" size="1048576" crc="bb674355" sha1="c9ef07a8f16382de5b5558b0b742c06e87e2494d"/>
+		<rom name="540.p2" size="4194304" crc="895856dd" sha1="99e00c7195f6ea81b395a45c325e6361856aa0a7"/>
+		<rom name="540.s1" size="131072" crc="f3ae362e" sha1="5ea908046965226432d0ab4ba967542971047e9d"/>
+		<rom name="540.v1" size="16777216" crc="640b1088" sha1="03f99fbd75a1a65e8bf371bb3ad7adba64b625e2"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - ssf2tgmc">
+		<description>HBMAME (v0.289.4) - ssf2tgmc</description>
+		<rom name="sfx.09" size="524288" crc="95718f1e" sha1="5d7943ca31d865b8981a9f9de4378bf47cd4efd3"/>
+		<rom name="sfx.14m" size="1048576" crc="1f8dd3ca" sha1="1d64b7dae2f66d1560d5693913ac13f110ae6cd6"/>
+		<rom name="sfx.16m" size="1048576" crc="8033c95d" sha1="7c6c7dfae8fd29e782aae9cef4631a659b4f30c6"/>
+		<rom name="sfx.18m" size="1048576" crc="dd6cdee2" sha1="8af90c70dcf4c9c957b4feaf1d8f34603cb015e2"/>
+		<rom name="sfx.20m" size="1048576" crc="4dacc976" sha1="ee2a4c9aa3121c6f7f5b9b6388e2691271803ce5"/>
+		<rom name="sfxj.03d" size="524288" crc="ee8e9e9b" sha1="8b67520910b3634dffbfe3ca80edacd8693739e1"/>
+		<rom name="sfxj.04a" size="524288" crc="c9df66cd" sha1="c845b25f6ee62ce593275a1afc44edcc1854d1fc"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - ssf2tuc">
+		<description>HBMAME (v0.289.4) - ssf2tuc</description>
+		<rom name="sfx.09" size="524288" crc="45f09f8f" sha1="1df74186437a2b4c5003c9da76666ade6373a7cd"/>
+		<rom name="sfx.13m" size="2097152" crc="63f1301e" sha1="db7ce36a27d8c701a085bd13211be9a37194bcc8"/>
+		<rom name="sfx.14m" size="1048576" crc="ab206f6b" sha1="f70190785fbaf61c89b9e27c7b9718b89abbe43d"/>
+		<rom name="sfx.15m" size="2097152" crc="0d64a671" sha1="355d867a836e455b6fdd720766f299c2db165914"/>
+		<rom name="sfx.16m" size="1048576" crc="9a62078f" sha1="db8efa5b31bd79e31b263d9a9c4a6a8a4abdde88"/>
+		<rom name="sfx.17m" size="2097152" crc="fd13753a" sha1="f78677757bfd3f22b565cde71899aff6722377db"/>
+		<rom name="sfx.18m" size="1048576" crc="55f01bdb" sha1="17c9e598f9c6c321d01e041e4af83e59c00fc2ea"/>
+		<rom name="sfx.19m" size="2097152" crc="50082000" sha1="cd321fade72589c0c2dd938cbeb7652b0e82f57c"/>
+		<rom name="sfx.20m" size="1048576" crc="e4bb346d" sha1="f05c3257ef3167c5b47894ca210ddcfb6db4a956"/>
+		<rom name="sfx.21m" size="1048576" crc="96fbc6d4" sha1="aa489326a7fe8bfd0473cc6759870cfca859a60b"/>
+		<rom name="sfx.23m" size="1048576" crc="a8dae9ba" sha1="31a40247215eb0bad14faa92982e519025726fe8"/>
+		<rom name="sfx.25m" size="1048576" crc="7520878e" sha1="6b5e356974488db8c0fcf17bc8101439400a6a5c"/>
+		<rom name="sfx.27m" size="1048576" crc="7529dd29" sha1="930b3782678c1af2dda8010023296104a4bd3140"/>
+		<rom name="sfxj.03d" size="524288" crc="8cf908e0" sha1="4bbf125d28379b47cce79d9f9ca0ca9f1e557710"/>
+		<rom name="sfxj.04a" size="524288" crc="a8cd44a6" sha1="b19487b932c952c5630c5489adef120ebda419b9"/>
+		<rom name="sfxj.06b" size="524288" crc="5bad8d15" sha1="2a24f713d2c25b260bacaca7f4cb86decc4038bb"/>
+		<rom name="sfxj.07a" size="524288" crc="d80b7a18" sha1="f74a42b72e43d730452a7b41946f6660a4d1a2c6"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - ssf2xuc">
+		<description>HBMAME (v0.289.4) - ssf2xuc</description>
+		<rom name="sfx.13m" size="2097152" crc="d9bf2280" sha1="c36ced74f35ef24f28ce9f6a332c46a19d80593b"/>
+		<rom name="sfx.15m" size="2097152" crc="d70f65e7" sha1="4c24bff06238761c152394edb444fcb6a781a35c"/>
+		<rom name="sfx.17m" size="2097152" crc="bd7f8933" sha1="4ef09dde5e8d463e6f4644f7d5c239c1070cff07"/>
+		<rom name="sfx.19m" size="2097152" crc="77455a16" sha1="b6c51d478e09afac8a8f28622e950fbfa37e7af5"/>
+		<rom name="sfxj.03d" size="524288" crc="89765999" sha1="35898ee8d01cb3627175afdd0079d37fea24cc38"/>
+		<rom name="sfxj.04a" size="524288" crc="81aa6f28" sha1="f9cf7e53bbfada3672ba54291c9b7abc634d6a1d"/>
+		<rom name="sfxj.06b" size="524288" crc="6e7cf32d" sha1="a92c3962c14fe25522260de23fa4772d18d63481"/>
+		<rom name="sfxj.07a" size="524288" crc="3b2094ac" sha1="691cb8135f5dd0926e8d49919791085e696c3764"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - teot_1">
+		<description>HBMAME (v0.289.4) - teot_1</description>
+		<rom name="323a.c1" size="8388608" crc="76b8e9ae" sha1="3129ab5283c1cde389c8b311fb6c469688492fdf"/>
+		<rom name="323a.c2" size="8388608" crc="b0c6b4d0" sha1="38fbff87722b3ae2f3f005369dbdbdea60a3be12"/>
+		<rom name="323a.m1" size="65536" crc="2b5738dc" sha1="53fb556a3a12030d8e4abecafc5823037ba88c1b"/>
+		<rom name="323a.p1" size="1048576" crc="759b68d3" sha1="2ccec3f12c1e35f47e5f5419c9770c72d783d27f"/>
+		<rom name="323a.v1" size="1048576" crc="ac261416" sha1="c9092127362fb07bc969d655dd2806f0e6c43e28"/>
+		<rom name="323a.v2" size="1048576" crc="95ea979a" sha1="54007defb7c833b0e15d08d2be2ac21f6830d625"/>
+		<rom name="323a.v3" size="1048576" crc="493223d3" sha1="eb8cc3967fd1e1228807ec79c2584b8cc0cfbbe8"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - teot_2">
+		<description>HBMAME (v0.289.4) - teot_2</description>
+		<rom name="323b.c1" size="8388608" crc="94080cf2" sha1="f2464da2076466f1387d4e4b812ea4ebec80e72c"/>
+		<rom name="323b.c2" size="8388608" crc="fb5116b6" sha1="d70b13b24a3b85a0881bd0fe998fc98f6a99e99b"/>
+		<rom name="323b.m1" size="65536" crc="62bd5336" sha1="dd496daca2c662f6671d3c820f0cafac1bffe0b2"/>
+		<rom name="323b.p1" size="1048576" crc="3ab0b686" sha1="c950bc58044a31fe3575fb5c32ba222014b65677"/>
+		<rom name="323b.p2" size="1048576" crc="258909d5" sha1="a4707264d39d2a06b5f9417f5d55d92cc4c328dd"/>
+		<rom name="323b.v1" size="1048576" crc="a0906304" sha1="681b24a72c5c082433d04feae76f9fc20af589af"/>
+		<rom name="323b.v2" size="1048576" crc="c5e10c1a" sha1="e4f48144405d8de3dde86b460f4102114e8b9525"/>
+		<rom name="323b.v3" size="1048576" crc="cb78034b" sha1="ead8368002c7858e4d14f14e1e5a1756f6a381b0"/>
+		<rom name="323b.v4" size="1048576" crc="4a2d0d6d" sha1="70703d0952146619b1dfa5fd86cce94de2aca9d6"/>
+		<rom name="323b.v5" size="1048576" crc="51285019" sha1="d279fbab0cd7c179c6c45f2604ae67c83b3bcce3"/>
+		<rom name="323b.v6" size="1048576" crc="03641f40" sha1="cc979d28b548de35e53a4c52cb1cf9508a38660d"/>
+		<rom name="323b.v7" size="1048576" crc="e425eff3" sha1="3a924e544da43daab4f782e344565cc81dade183"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - teot_3">
+		<description>HBMAME (v0.289.4) - teot_3</description>
+		<rom name="323c.c1" size="16777216" crc="28872e1f" sha1="420d68ed2d417e1edfbd351619ff144fb7eacd9b"/>
+		<rom name="323c.c2" size="16777216" crc="fe31d1fc" sha1="947d4cc47905308d03423640d863e60007b2309a"/>
+		<rom name="323c.m1" size="65536" crc="31b05f06" sha1="da1f984af58bcc7d4d496382bcb938fa7aff5ab1"/>
+		<rom name="323c.p1" size="1048576" crc="9038ff78" sha1="33f0ce3874e24c366177c89824c4b0cd1d30dfce"/>
+		<rom name="323c.p2" size="8388608" crc="fe363160" sha1="e503dd9cefa2b7d69ea2aaff60c63c00b83c158d"/>
+		<rom name="323c.v1" size="8388608" crc="299d84cf" sha1="da0bb20b8faeaf0d78f987afc775abaadcc59dfa"/>
+		<rom name="323c.v2" size="8388608" crc="aced6c72" sha1="8dc481445dbcc717c6dccb27dff446c5f05080f0"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - teot_4">
+		<description>HBMAME (v0.289.4) - teot_4</description>
+		<rom name="323d.c1" size="16777216" crc="7919ea09" sha1="bb8e058346ebc02b7e20f324411c6455271a837b"/>
+		<rom name="323d.c2" size="16777216" crc="62aa59a8" sha1="dc4b7dc87d43b2c61bea799d2de5344d1c1999b9"/>
+		<rom name="323d.m1" size="65536" crc="dc29f33b" sha1="cb1f45e93b19b00b901c5992a2646db652755d6e"/>
+		<rom name="323d.p1" size="1048576" crc="603fac98" sha1="b5d4caf9162cac28d153fe33169cfc8acb679f84"/>
+		<rom name="323d.p2" size="8388608" crc="5f557ad5" sha1="9983d3b913f0d3bb315b696cd77f2ad7d04fbcd3"/>
+		<rom name="323d.s1" size="131072" crc="aba8f74c" sha1="c8d12f535099ce0232bb637e04ac7b79569e15fe"/>
+		<rom name="323d.v1" size="8388608" crc="91b3deed" sha1="6408ad38bcbe2712a11e30efecb47b027cabd49a"/>
+		<rom name="323d.v2" size="8388608" crc="985e6f6b" sha1="b3e92d6ab08ad42347b622dbb72a7589a7dbe885"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - teot_5">
+		<description>HBMAME (v0.289.4) - teot_5</description>
+		<rom name="323e.c1" size="8388608" crc="b087909a" sha1="e4dc29edb0f5d8ea53d8c4c5934ae5e1176466fa"/>
+		<rom name="323e.c2" size="8388608" crc="a4d6cd16" sha1="780e0b3eae94536951731fea1bb4145bfa5eec77"/>
+		<rom name="323e.m1" size="65536" crc="583db6a5" sha1="4f6e15a50b2074aa1d2eb5d1b91bead0639be963"/>
+		<rom name="323e.p1" size="1048576" crc="0d5763ae" sha1="53dc53f9945cd7daeb7ab1e121f3aed132c75d0a"/>
+		<rom name="323e.p2" size="8388608" crc="bee21724" sha1="0c37bb950568932493a1806cd1038e5935a5bddf"/>
+		<rom name="323e.s1" size="131072" crc="52895190" sha1="d11385c51591b685c533a9f27c4fd3aa62927bef"/>
+		<rom name="323e.v1" size="8388608" crc="d88114d4" sha1="981f151c2b7e63e876f350169426759e0e73cdd1"/>
+		<rom name="323e.v2" size="8388608" crc="6fccb0d0" sha1="386f7f054d1d988cca904c03ca52023236b22813"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - teot_6">
+		<description>HBMAME (v0.289.4) - teot_6</description>
+		<rom name="323f.c1" size="16777216" crc="360e5362" sha1="a86a5eea49218669c5e00a6b286a7d2d6f02ab3c"/>
+		<rom name="323f.c2" size="16777216" crc="1fdff0ce" sha1="4ef77f3e01d58612e9b730426adb81d87ccb5572"/>
+		<rom name="323f.m1" size="65536" crc="5edaa24d" sha1="90209de31a87da4118600be64869b36067d76c4b"/>
+		<rom name="323f.p1" size="1048576" crc="2af068c0" sha1="82f5885fbfdef47c0e9416cf9bd9accf8e5a739d"/>
+		<rom name="323f.p2" size="8388608" crc="3ddc321d" sha1="496573202a417d40894f69c2044ef408d3a0f01b"/>
+		<rom name="323f.v1" size="8388608" crc="70042574" sha1="368e85d38a94238b61969ee564f94bef143b808d"/>
+		<rom name="323f.v2" size="8388608" crc="d84d05b2" sha1="7ad3914b5e95572d3fc9dadc6ad0e23463983118"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - teot_7">
+		<description>HBMAME (v0.289.4) - teot_7</description>
+		<rom name="323g.c1" size="16777216" crc="66f0afa6" sha1="3ee249703bf4710d4ae7ac6b9928f81dcb679654"/>
+		<rom name="323g.c2" size="16777216" crc="e773037f" sha1="ac3d07091fc8f25f01b9f21f5a0abff750af8208"/>
+		<rom name="323g.m1" size="65536" crc="16f81e41" sha1="25a8f098254e3addc2040111c7c388e2285da445"/>
+		<rom name="323g.p1" size="1048576" crc="fdb9a8d4" sha1="7e0d43ebe7b3841948a0de311b521b3eaa1c91d7"/>
+		<rom name="323g.p2" size="8388608" crc="02dd52ed" sha1="71a310cf48fe719726f60aa11e87e11bb217ac5c"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - teot_8">
+		<description>HBMAME (v0.289.4) - teot_8</description>
+		<rom name="323h.p1" size="1048576" crc="1cd69227" sha1="dd2669a5f0db942b4dfddaa6448179038d1852b6"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - teot_9">
+		<description>HBMAME (v0.289.4) - teot_9</description>
+		<rom name="323i.p1" size="1048576" crc="49b25c64" sha1="91d2d27952818c40ad288af90df606a75ca7f824"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - usf2j8">
+		<description>HBMAME (v0.289.4) - usf2j8</description>
+		<rom name="sfx.01" size="131072" crc="0405b4f6" sha1="22b25e85d155731b2231721afa88a0768c8936de"/>
+		<rom name="sfx.02" size="131072" crc="c4fe6eec" sha1="d73367c6b0bbd6df1d6202f19ab983268a8645d8"/>
+		<rom name="sfx.09" size="524288" crc="e3b1fab0" sha1="74ba7c5c69c69aa618330e489bbd5921b866528b"/>
+		<rom name="sfx.11m" size="2097152" crc="30189f69" sha1="5d96044e4d2b61980de16705084e516cca129c6b"/>
+		<rom name="sfx.13m" size="2097152" crc="059fa4c1" sha1="913d05d0c9bb909066387ef2f3c25f7995414070"/>
+		<rom name="sfx.14m" size="1048576" crc="b0245c2c" sha1="95f0c87050b897880d2a833bff57b10adbbf7aa4"/>
+		<rom name="sfx.15m" size="2097152" crc="0bd0cb66" sha1="e31c573bf997bd4837e690635865953c1b93dc89"/>
+		<rom name="sfx.16m" size="1048576" crc="e6df9d74" sha1="3b689e67de0c4842ee1daeeb1db81be469fb2e28"/>
+		<rom name="sfx.17m" size="2097152" crc="a80d2abf" sha1="598cba16e5e9385965e14965cfcf621cc9c27b8a"/>
+		<rom name="sfx.18m" size="1048576" crc="d01437bb" sha1="5f9ddc4c522a6bb6594d6a3829f27866dacd3e36"/>
+		<rom name="sfx.19m" size="2097152" crc="4352a965" sha1="3db9f53ebbd072370f3123a8cd67f275e39347de"/>
+		<rom name="sfx.20m" size="1048576" crc="e91dcaf6" sha1="715d849d5ec74d2550a512d9c971041ce52bece1"/>
+		<rom name="sfx.21m" size="1048576" crc="673c9b98" sha1="e0a66ed82535b33745d3e5b2a62cb445204a07f1"/>
+		<rom name="sfx.23m" size="1048576" crc="8e9657c3" sha1="7a21d093c55f85c06c63ec2af59951a5f2730f3e"/>
+		<rom name="sfx.25m" size="1048576" crc="ea7520cf" sha1="a8c431ee303e362f7e26a64de450165fdec743bf"/>
+		<rom name="sfx.27m" size="1048576" crc="9b273169" sha1="399f4bd28c35fc7b6f61365e65366e543039208a"/>
+		<rom name="sfxj.03d" size="524288" crc="dcd8b86b" sha1="908593454e20b43154218d8c3abaf97467eddbbe"/>
+		<rom name="sfxj.04a" size="524288" crc="13468832" sha1="6f27f340fdc63d67d7e30f775f8009a2cb37326d"/>
+		<rom name="sfxj.07a" size="524288" crc="53586db4" sha1="979b75215c4ed0e752044ef14acfed95a91c7f41"/>
+		<rom name="sfxj.08" size="524288" crc="450cca63" sha1="1f7948335a7e0720502d5ed9614affffeec821d9"/>
+		<rom name="usf2.10" size="524288" crc="45a4516f" sha1="ba9c8ca2d2e1dff3389b950abdd81cc19aafb3c8"/>
+		<rom name="usf2.13m" size="2097152" crc="823b86ed" sha1="ef4f2d88c8d45aeb23cfec57a9ecb370df64fab4"/>
+		<rom name="usf2.14m" size="2097152" crc="8b659a7f" sha1="ba5edd4fb92cec2ab93f096b018d56d3973018e0"/>
+		<rom name="usf2.29m" size="4194304" crc="30c8acbe" sha1="c98f1c650a94b1742c02a88476af1e2f67dfa322"/>
+		<rom name="usf2.31m" size="4194304" crc="f95c46d1" sha1="982b477ce5e87953ef6f1e47d28711e66db17082"/>
+		<rom name="usf2.33m" size="4194304" crc="ff0427a8" sha1="b76cc2a638daa454df61f21662cf8bec73125b52"/>
+		<rom name="usf2.35m" size="4194304" crc="8f8c8028" sha1="b00c28cf8ac7950992db5df7ab9c9540407740ef"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - usf2t8">
+		<description>HBMAME (v0.289.4) - usf2t8</description>
+		<rom name="sfx.01" size="131072" crc="f7d17211" sha1="7d5a640951a08d70130a857853a2cd127b162745"/>
+		<rom name="sfx.02" size="131072" crc="cd2d4d93" sha1="deb31c12175222d7d1b36ea55e29742dbe00b9f8"/>
+		<rom name="sfx.11m" size="2097152" crc="46cf3a83" sha1="daca8af4e497a22ba483dda3cd89c5bac3aed98f"/>
+		<rom name="sfx.13m" size="2097152" crc="bfd1b65f" sha1="6d79e8e0affa9e445507745438d483407ccdd673"/>
+		<rom name="sfx.15m" size="2097152" crc="d1bb08f0" sha1="58c628459d07750bc0f60bcd7204ea6dc627a05b"/>
+		<rom name="sfx.17m" size="2097152" crc="e861d6b6" sha1="4493582844ead2ce9fa36da24142b74b2be0ab2a"/>
+		<rom name="sfx.19m" size="2097152" crc="641fd373" sha1="c193d7128695441c4c602863466b7e914bcabb5a"/>
+		<rom name="sfx.21m" size="1048576" crc="cad52688" sha1="b3fdaef0cd04d69f342791fb0e600f241297729d"/>
+		<rom name="sfx.23m" size="1048576" crc="fc179a26" sha1="06c01789b344a5dd534d08a6e81d797e22b36f31"/>
+		<rom name="sfx.25m" size="1048576" crc="5bbf8176" sha1="ae9c0e6531ea602f3e1723f75859f2a5e7d64dba"/>
+		<rom name="sfx.27m" size="1048576" crc="e92d54ee" sha1="85da19e04d0f395db887f6e72b500bef18a29010"/>
+		<rom name="sfxj.03d" size="524288" crc="2d5aeb86" sha1="299128fd7a53f7028af08fb04fd9496a8029d528"/>
+		<rom name="sfxj.04a" size="524288" crc="4eb17287" sha1="10637d4da67972f367eb896adb07c6d2ddb9e33e"/>
+		<rom name="usf2.10" size="524288" crc="633920ed" sha1="f93c54f77379bece4a732ab7916e48cfb19b631b"/>
+		<rom name="usf2.13m" size="2097152" crc="2222d591" sha1="5ab56468e7a1e8ff52c995858f099eaffefec2e0"/>
+		<rom name="usf2.14m" size="2097152" crc="c395c61a" sha1="46cdd5d620e3c5a30becda2cb957f46953c935bb"/>
+		<rom name="usf2.29m" size="4194304" crc="ff027ac4" sha1="f440534fb7a5fd16bbbe1d3fda00268a4937763d"/>
+		<rom name="usf2.31m" size="4194304" crc="0c2b12b6" sha1="c185e9a110a32ef2ee135c9fd944bb55b6ea6226"/>
+		<rom name="usf2.33m" size="4194304" crc="a386e7b2" sha1="49f13f6577c6f080b21eed39d84ba398c0cf7260"/>
+		<rom name="usf2.35m" size="4194304" crc="6ae1e4ac" sha1="2ab356fbc7cb2d05af92fa30880cb36fafaa995d"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - vhunt2s02">
+		<description>HBMAME (v0.289.4) - vhunt2s02</description>
+		<rom name="c75s02.c1" size="4194304" crc="82e825c6" sha1="042d4fee29184fb5b62ca7f56fd6f47e9d3613c2"/>
+		<rom name="c75s02.c10" size="2097152" crc="95c0d576" sha1="ebc7fd1d9a995a3ceecb5dfaddfac295b2bc64be"/>
+		<rom name="c75s02.c11" size="2097152" crc="66a27497" sha1="b29e6413d9f09ac036f775a824d965109b35bcc0"/>
+		<rom name="c75s02.c12" size="2097152" crc="958494ec" sha1="7dd205e4d8e03b238cf8815314f866983b471bef"/>
+		<rom name="c75s02.c2" size="4194304" crc="678feab2" sha1="b231c718b8457f4328ce493bac5c073c0c69fdab"/>
+		<rom name="c75s02.c3" size="4194304" crc="b9e1cbf8" sha1="a64545fddff1a6d37b7e7fb051c5638d569ac691"/>
+		<rom name="c75s02.c4" size="4194304" crc="68d603b4" sha1="a9d2d378a939ca0b72643ac1cece970358daaf26"/>
+		<rom name="c75s02.c9" size="2097152" crc="d7d4fecc" sha1="ba199cbbb0ae3f7aa0e027aab913977c4280ba72"/>
+		<rom name="c75s02.m1" size="131072" crc="f6088d87" sha1="28878b0c1c9882bf0eea17fed52758072310e6bf"/>
+		<rom name="c75s02.m3" size="262144" crc="04ef903d" sha1="3d4a09d7003576b653081d99bb341f5d712a2b6e"/>
+		<rom name="c75s02.p1" size="524288" crc="9354e632" sha1="8f3494949492bd6a7493e7101a271829f7c7a029"/>
+		<rom name="c75s02.p2" size="524288" crc="7f10f35e" sha1="04bd3e1b64ad2fe2844a7824c032296649510810"/>
+		<rom name="c75s02.p6" size="524288" crc="17b37f5a" sha1="50af7304a6303c1cb1a0a27774486fbee12a0b32"/>
+		<rom name="c75s02.p9" size="4194304" crc="673d43b1" sha1="7c7076df4ce1fb96a205212b3d7194a4c0297a25"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - vhunt2s03">
+		<description>HBMAME (v0.289.4) - vhunt2s03</description>
+		<rom name="c75s03.c1" size="4194304" crc="6a3d7b6a" sha1="a28bb55cc397ed1150e27c4acc00415dfc552481"/>
+		<rom name="c75s03.c10" size="2097152" crc="dfde0582" sha1="abeb40efac3187de3fa1efd8c497f47a82746a45"/>
+		<rom name="c75s03.c11" size="2097152" crc="2438f71b" sha1="b9f5d2fd6107bf1b445c873d83b275953a39f5fb"/>
+		<rom name="c75s03.c12" size="2097152" crc="df587c66" sha1="4fb33f26c3983f4e1f0542ba0d1edbf9fc23fbfd"/>
+		<rom name="c75s03.c2" size="4194304" crc="ebcb10da" sha1="a597fc56e30ae63e00ec1e024deed99878fb2606"/>
+		<rom name="c75s03.c3" size="4194304" crc="da8cfcd4" sha1="ae10bb9f4500666dacf01591acd365a6e9821679"/>
+		<rom name="c75s03.c4" size="4194304" crc="108fd9e0" sha1="d9bcf3071b21d054f846cfb841082348f6a835af"/>
+		<rom name="c75s03.c9" size="2097152" crc="069fd6cc" sha1="ef45313d3df3e71d880da15c2121705ea4e80a25"/>
+		<rom name="c75s03.p1" size="524288" crc="7797e2a4" sha1="f220558de20a21e987340c0ee246915a7dddd66f"/>
+		<rom name="c75s03.p2" size="524288" crc="c0703475" sha1="088f693862fb391879ba2c8c435b6f6fb89540c5"/>
+		<rom name="c75s03.p6" size="524288" crc="79dbd15c" sha1="c00571bb000ce9a478b6526585b24cc6c4a586b4"/>
+		<rom name="c75s03.p9" size="4194304" crc="2d91d6a5" sha1="7b344a042d4d92c0e9f51ed9f2b084438de6c21f"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - vsav2s05">
+		<description>HBMAME (v0.289.4) - vsav2s05</description>
+		<rom name="c76s05.c1" size="4194304" crc="b0c5665b" sha1="4d28a69a46d5d84411fbef0404c6f8be29e4e885"/>
+		<rom name="c76s05.c10" size="4194304" crc="8b6832d1" sha1="be7a9a3e5b36142d4dca07c179d07e2859d869b3"/>
+		<rom name="c76s05.c11" size="4194304" crc="58cacc2f" sha1="74abe3d795f0a9ec5a92cb7b727fa03f729c6329"/>
+		<rom name="c76s05.c12" size="4194304" crc="3d1408fe" sha1="b98363a4f2e8dd12412ef33354a62efc6ce60291"/>
+		<rom name="c76s05.c2" size="4194304" crc="c5b6049f" sha1="018a676cdd45a2d72e4d666f4da7d71f55fd50b0"/>
+		<rom name="c76s05.c3" size="4194304" crc="a6448812" sha1="97d6e8c8c6524bc078930b3e5b3575887b37bd6c"/>
+		<rom name="c76s05.c4" size="4194304" crc="84067f87" sha1="c044c7d440e0830a882ecc2417b72e8dfce8c199"/>
+		<rom name="c76s05.c9" size="4194304" crc="a45e1119" sha1="03e58393db8bbf122815aec2f9c4e51da7a2a597"/>
+		<rom name="c76s05.m1" size="131072" crc="880f16d1" sha1="e55235662f73add815548bbe46a7736916b5a317"/>
+		<rom name="c76s05.p1" size="524288" crc="eeefba15" sha1="522bcfafcee1d4ee8d4712a9cba6633973007b9c"/>
+		<rom name="c76s05.p2" size="524288" crc="e39be4dc" sha1="01186cbf4b77d05b1ef496f639a70e57bd06ec0f"/>
+		<rom name="c76s05.p6" size="524288" crc="4e1b8eae" sha1="6ede66c43bbe2b4a16fdda6b0e3645ef52c9ff4b"/>
+		<rom name="c76s05.p9" size="4194304" crc="d524fdaa" sha1="5b3ff00c42cedff2c503fe4b373bc3d708e91641"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - vsav2s06">
+		<description>HBMAME (v0.289.4) - vsav2s06</description>
+		<rom name="c76s06.c1" size="4194304" crc="b7751dee" sha1="d5cffbb357f7f4e8867a11d73141ae6ecc416b23"/>
+		<rom name="c76s06.c2" size="4194304" crc="a6dcea63" sha1="6a81c5cfe6c96492fdbaf0cf84b5026bcc64297c"/>
+		<rom name="c76s06.c3" size="4194304" crc="968eeeb0" sha1="32fee6d85814934881ebcf5c571f1b4b1fae656c"/>
+		<rom name="c76s06.c4" size="4194304" crc="591944a1" sha1="214c86a6b2c41a5aea956b7f8bffa1eebbe60e37"/>
+		<rom name="c76s06.p1" size="524288" crc="300870ae" sha1="d076480c6e57d34d4ee694a4e2a8b9500a990c53"/>
+		<rom name="c76s06.p2" size="524288" crc="cfe4a7b2" sha1="d47716403b8ca4fcfdb9453a95b31c3e67e01041"/>
+		<rom name="c76s06.p6" size="524288" crc="7bc795c2" sha1="eeba85cb618694996f78e274ece5df7b8af5049e"/>
+		<rom name="c76s06.p9" size="4194304" crc="1421c60b" sha1="6c85da9283b887fb72fc73a0aeb1a93ce998e472"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - vsavs01">
+		<description>HBMAME (v0.289.4) - vsavs01</description>
+		<rom name="c71s01.c1" size="4194304" crc="2eb67fcc" sha1="26b7fa7bf591324c844085de01762d1395b7be99"/>
+		<rom name="c71s01.c10" size="2097152" crc="68b94ec0" sha1="124ca60935bd86136716830c667f818046e758e6"/>
+		<rom name="c71s01.c11" size="2097152" crc="8f7e8873" sha1="82d8d62af76ad614f42e831d21e3b2ea8f931e45"/>
+		<rom name="c71s01.c12" size="2097152" crc="25f15b49" sha1="e6f17186085ee50bb67b2208165df9b1a16bbf81"/>
+		<rom name="c71s01.c2" size="4194304" crc="aee349f0" sha1="77a6c7a0df78537ed113ecf66efc43524877930a"/>
+		<rom name="c71s01.c3" size="4194304" crc="0e345bb8" sha1="1e6b1504d79aa7a332fd959ab1391a402eb87110"/>
+		<rom name="c71s01.c4" size="4194304" crc="33faf930" sha1="a733aae3395a2fc33a1ed86f63b27f7d5b89c012"/>
+		<rom name="c71s01.c9" size="2097152" crc="8507f41f" sha1="5f87c1e95dec35c1efc26a8d033ac591105b6c40"/>
+		<rom name="c71s01.m3" size="262144" crc="c95152a3" sha1="b0a1d06bc92499f0fde14d0e1b8816baaf75f94c"/>
+		<rom name="c71s01.p1" size="524288" crc="33bd7728" sha1="1357ada3a80dcab7b7220d6fe7888e66706241e0"/>
+		<rom name="c71s01.p2" size="524288" crc="23d6fc9b" sha1="85846a4b1bf8e36727ed7e464ee872fab6dc29b2"/>
+		<rom name="c71s01.p3" size="524288" crc="f0dbcf28" sha1="25308ac3b16b34eee9133023019ae893a02d55c0"/>
+		<rom name="c71s01.p5" size="524288" crc="7af80c9c" sha1="b278fddc7374401fbaa0a93611505d7e96082014"/>
+		<rom name="c71s01.p8" size="524288" crc="29316daa" sha1="a2012493288ca9098dffae3c1384ca253866b0a6"/>
+		<rom name="c71s01.p9" size="4194304" crc="a7e15abc" sha1="0a1ddc8a312ec04ce6063306407f00dc558ff086"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - vsavs02">
+		<description>HBMAME (v0.289.4) - vsavs02</description>
+		<rom name="c71s02.p1" size="524288" crc="91599c43" sha1="84a92c991446d465e12b7aa6cf1fe50156dba53a"/>
+		<rom name="c71s02.p2" size="524288" crc="989cde13" sha1="5132325b4dcbb34504c3fc49c97ad425a3053eb9"/>
+		<rom name="c71s02.p5" size="524288" crc="853d837e" sha1="d74be80c5e260346e7b432bca919bfa26495154f"/>
+		<rom name="c71s02.p9" size="4194304" crc="e2089282" sha1="5ed7b19770eab1f5dc3bdea210ef70fe7f2dd24e"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - warriorman">
+		<description>HBMAME (v0.289.4) - warriorman</description>
+		<rom name="536.c1" size="4147072" crc="764f7202" sha1="2c3d1ca7651ec44408f9573f1c94bc04a5e5701b"/>
+		<rom name="536.c2" size="4147072" crc="f928b28e" sha1="d1ed6afc91c1e7738e2e356add752bdac9600a03"/>
+		<rom name="536.m1" size="131072" crc="b0cf3a68" sha1="3be6e3bb27f961feeb7021f33243bcfaca31797a"/>
+		<rom name="536.p1" size="524288" crc="90328b30" sha1="2e4b52ef586f7e72ac9fee2dcd5be289dfc9c2b1"/>
+		<rom name="536.s1" size="131072" crc="4c175fa4" sha1="06834aa930d981959c4be0f4391b1d37c8688785"/>
+		<rom name="536.v1" size="16777216" crc="7b4f4f0b" sha1="6426e81c917e1bb7b8d1fd8b4c652e03db79bd3f"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - wolf3d">
+		<description>HBMAME (v0.289.4) - wolf3d</description>
+		<rom name="538.p1" size="524288" crc="00b38f35" sha1="2d8fa290062fc56f13cf0e7b95fa26f84d1172d5"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - yiear">
+		<description>HBMAME (v0.289.4) - yiear</description>
+		<rom name="407_i07.8d" size="16384" crc="7db7442e" sha1="d604a995a5505251904447ad697fc9e7f94bf241"/>
+		<rom name="407_i08.10d" size="16384" crc="e2d7458b" sha1="1b192130b5cd879ab686a21aa2b518c90edd89aa"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - zintrick01">
+		<description>HBMAME (v0.289.4) - zintrick01</description>
+		<rom name="211s01.s1" size="131072" crc="07948446" sha1="10df47a2bb515f06c75d0077fee89f7193626d7b"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - zintrick02">
+		<description>HBMAME (v0.289.4) - zintrick02</description>
+		<rom name="211s02.m1" size="65536" crc="fcae1407" sha1="5b4bff97a8c5930852eff6aee553eadc18e8f3d9"/>
+		<rom name="211s02.p1" size="1048576" crc="9a0bfe0a" sha1="94299c51572b66fa37e3e496436299573b1faaa8"/>
+		<rom name="211s02.v1" size="1048576" crc="781439da" sha1="a80cdf3be55b5fc2ba1d167f69e222463d06ad88"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - zintrick03">
+		<description>HBMAME (v0.289.4) - zintrick03</description>
+		<rom name="211s03.m1" size="65536" crc="8e539e59" sha1="fba718ca565a6d5f122baa6d695108632672d1b0"/>
+		<rom name="211s03.p1" size="1048576" crc="032df2ba" sha1="dfd35d77da203ebad5319b355fd65e6ed6a553da"/>
+		<rom name="211s03.v1" size="8388608" crc="00e392ed" sha1="8a46673c02fc25e65821d45749aa6fe697fa81c1"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - zintrick04">
+		<description>HBMAME (v0.289.4) - zintrick04</description>
+		<rom name="211s04.m1" size="131072" crc="a602c2c2" sha1="19fd5d0379244c528b58343f6cbf78b4766fb23d"/>
+		<rom name="211s04.p1" size="1048576" crc="b3fb325c" sha1="27a34ff0dfea02b1aac3ddbc7c965684694390f1"/>
+		<rom name="211s04.s1" size="131072" crc="b67cb1fd" sha1="3abf201bcc28ec5bd145f0848dc44c239a6ec651"/>
+		<rom name="211s04.v1" size="2097152" crc="baa2b9a5" sha1="914782b6c81d9a76ce02251575592b0648434ba3"/>
+	</machine>
+	<machine name="HBMAME (v0.289.4) - zintrick06">
+		<description>HBMAME (v0.289.4) - zintrick06</description>
+		<rom name="211s06.m1" size="131072" crc="a1c68361" sha1="d0906ca2035b3a41567cb3fdaa323241ba0798b7"/>
+		<rom name="211s06.p1" size="1048576" crc="654342e6" sha1="3755b0c6d263b8d4da3cb2ee7dd2a9984f418066"/>
+		<rom name="211s06.v1" size="4194304" crc="cd257055" sha1="5361ce6f4943f6ea34a209ec15743292f05fcd7e"/>
+		<rom name="211s06.v2" size="4194304" crc="5d8f89ab" sha1="16f6308e4a1473bf5d25b1b1419b9b71a95ec029"/>
+		<rom name="211s06.v3" size="4194304" crc="4626b4ff" sha1="a3abe7a60e937a5df9cd24d418f9cfabcf9e7e48"/>
+		<rom name="211s06.v4" size="4194304" crc="48666336" sha1="391f6782b3e833e16667005161cb520562b3c5dc"/>
 	</machine>
 	<machine name="MisfitMAME (v0.111) - 1942">
 		<description>MisfitMAME (v0.111) - 1942</description>
@@ -40689,6 +41295,16 @@
 	<machine name="MisfitMAME (v0.113) - f3demo">
 		<description>MisfitMAME (v0.113) - f3demo</description>
 		<rom name="f3demo.bin" size="6476" crc="08587aea" sha1="4850d170b935fd4b6726c03693eb25e5ac3b6198"/>
+	</machine>
+	<machine name="MisfitMAME (v0.113) - fr2ch">
+		<description>MisfitMAME (v0.113) - fr2ch</description>
+		<rom name="098-c1ch.bin" size="1048576" crc="6158cf4a" sha1="8e34b65f2cdfccaa6eeb40fef1ab3453eab92f46"/>
+		<rom name="098-c2ch.bin" size="1048576" crc="93a809a3" sha1="9b680b8b758cfc77f01d7211b67343a90462b3f3"/>
+		<rom name="098-c3ch.bin" size="1048576" crc="fafa3381" sha1="0c4f20c4d5f57c1dad50b914f9d1299a9d882b42"/>
+		<rom name="098-c4ch.bin" size="1048576" crc="9895e23f" sha1="565b5fbe07f65fb48d0bde769d3245a6ac747774"/>
+		<rom name="098-c5ch.bin" size="1048576" crc="eeaaa818" sha1="434c13852153d7bebe138611a836d9bf07d1d4cf"/>
+		<rom name="098-c6ch.bin" size="1048576" crc="f3d9a190" sha1="44932122e044d23234235cb3899f6e1e63970983"/>
+		<rom name="098-p1ch.bin" size="524288" crc="9aa8cee0" sha1="b2201f16d8fde4eaae9dbc754d019e7b381ecc06"/>
 	</machine>
 	<machine name="MisfitMAME (v0.113) - froghs">
 		<description>MisfitMAME (v0.113) - froghs</description>
@@ -42062,6 +42678,10 @@
 		<rom name="000-lo.lo" size="65536" crc="e09e253c" sha1="2b1c719531dac9bb503f22644e6e4236b91e7cfc"/>
 		<rom name="sfix.sfx" size="131072" crc="354029fc" sha1="4ae4bf23b4c2acff875775d4cbff5583893ce2a1"/>
 		<rom name="sm1.sm1" size="131072" crc="97cf998b" sha1="977387a7c76ef9b21d0b01fa69830e949a9a9626"/>
+	</machine>
+	<machine name="MisfitMAME (v0.95) - neonopon">
+		<description>MisfitMAME (v0.95) - neonopon</description>
+		<rom name="nnp-v1.rom" size="524288" crc="504bf849" sha1="13a184ec9e176371808938015111f8918cb4df7d"/>
 	</machine>
 	<machine name="MisfitMAME (v0.95) - newpir">
 		<description>MisfitMAME (v0.95) - newpir</description>
