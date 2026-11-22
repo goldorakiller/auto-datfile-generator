@@ -1323,6 +1323,55 @@
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
+	<game name="sfiii3p" cloneof="sfiii3" romof="sfiii3" sourcefile="cps3/d_cps3.cpp">
+		<comment>Hack</comment>
+		<description>Street Fighter III 3rd Strike Plus: Fight for the Future (Hack, v0.34.53)</description>
+		<year>2026</year>
+		<manufacturer>hack (DrewDos)</manufacturer>
+		<rom name="sfiii3_japan_nocd.29f400.u2" size="524288" crc="1edc6366" />
+		<rom name="sfiii3p-simm1.0" size="2097152" crc="f94b0cf1" />
+		<rom name="sfiii3p-simm1.1" size="2097152" crc="4441125e" />
+		<rom name="sfiii3p-simm1.2" size="2097152" crc="748f8795" />
+		<rom name="sfiii3p-simm1.3" size="2097152" crc="a84143be" />
+		<rom name="sfiii3p-simm2.0" size="2097152" crc="ed763ab5" />
+		<rom name="sfiii3p-simm2.1" size="2097152" crc="25bcd05f" />
+		<rom name="sfiii3p-simm2.2" size="2097152" crc="21eaec1a" />
+		<rom name="sfiii3p-simm2.3" size="2097152" crc="84351d7e" />
+		<rom name="sfiii3p-simm3.0" size="2097152" crc="0fa69c4a" />
+		<rom name="sfiii3p-simm3.1" size="2097152" crc="2f720a23" />
+		<rom name="sfiii3p-simm3.2" size="2097152" crc="f144347a" />
+		<rom name="sfiii3p-simm3.3" size="2097152" crc="c4f72343" />
+		<rom name="sfiii3p-simm3.4" size="2097152" crc="66a0e833" />
+		<rom name="sfiii3p-simm3.5" size="2097152" crc="04207b9a" />
+		<rom name="sfiii3p-simm3.6" size="2097152" crc="1be13ca7" />
+		<rom name="sfiii3p-simm3.7" size="2097152" crc="4ddc5aa4" />
+		<rom name="sfiii3-simm4.0" merge="sfiii3-simm4.0" size="2097152" crc="091fd5ba" />
+		<rom name="sfiii3-simm4.1" merge="sfiii3-simm4.1" size="2097152" crc="0bca8917" />
+		<rom name="sfiii3p-simm4.2" size="2097152" crc="2f9e1970" />
+		<rom name="sfiii3p-simm4.3" size="2097152" crc="ec5fbea7" />
+		<rom name="sfiii3p-simm4.4" size="2097152" crc="bda5ca3a" />
+		<rom name="sfiii3p-simm4.5" size="2097152" crc="066c51ea" />
+		<rom name="sfiii3p-simm4.6" size="2097152" crc="5ef292f5" />
+		<rom name="sfiii3p-simm4.7" size="2097152" crc="27bf7a1c" />
+		<rom name="sfiii3p-simm5.0" size="2097152" crc="9092f2f5" />
+		<rom name="sfiii3p-simm5.1" size="2097152" crc="d4a6cd22" />
+		<rom name="sfiii3p-simm5.2" size="2097152" crc="e803ccb4" />
+		<rom name="sfiii3p-simm5.3" size="2097152" crc="685b0121" />
+		<rom name="sfiii3p-simm5.4" size="2097152" crc="536c4cc0" />
+		<rom name="sfiii3p-simm5.5" size="2097152" crc="2024c1cc" />
+		<rom name="sfiii3p-simm5.6" size="2097152" crc="07e5a0ff" />
+		<rom name="sfiii3p-simm5.7" size="2097152" crc="45ac9b3d" />
+		<rom name="sfiii3p-simm6.0" size="2097152" crc="e4bc5457" />
+		<rom name="sfiii3p-simm6.1" size="2097152" crc="6630d08d" />
+		<rom name="sfiii3p-simm6.2" size="2097152" crc="b8a9cb27" />
+		<rom name="sfiii3p-simm6.3" size="2097152" crc="c84ea0a0" />
+		<rom name="sfiii3p-simm6.4" size="2097152" crc="d6d26b58" />
+		<rom name="sfiii3p-simm6.5" size="2097152" crc="2eb53bb5" />
+		<rom name="sfiii3p-simm6.6" size="2097152" crc="30ef3fd5" />
+		<rom name="sfiii3p-simm6.7" size="2097152" crc="dbfec218" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
 	<game name="sfiii4n" cloneof="sfiii3" romof="sfiii3" sourcefile="cps3/d_cps3.cpp">
 		<comment>Hack</comment>
 		<description>Street Fighter III 3rd Strike: Fight for the Future (4rd Arrange Edition 2013)</description>

@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - HD Loaders - Games</name>
 		<description>Commodore Amiga - HD Loaders - Games</description>
 		<category>Standard DatFile</category>
-		<version>2026-11-18</version>
-		<date>2026-11-18</date>
+		<version>2026-11-21</version>
+		<date>2026-11-21</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -63,6 +63,10 @@
 	</machine>
 	<machine name="E">
 		<description>E</description>
+		<rom name="Elvira2_v1.0_AGA_De_dlfrsilver.lha" size="4703566" crc="c4e7ba71" md5="19129108e8b791747ea3f4dfe7c7891a" sha1="96a3d92bb22cfe4bcea289ca0e54a2e899748d98"/>
+		<rom name="Elvira2_v1.0_AGA_dlfrsilver.lha" size="4677542" crc="df34c855" md5="e2d45571727d560cb4156224f4ffbc95" sha1="dd8ad822ee930d0f0acf45e2a3b0fe8435758573"/>
+		<rom name="Elvira2_v1.0_AGA_Es_dlfrsilver.lha" size="4703018" crc="681ab109" md5="f145c312076baf855f4e7ad508652df1" sha1="ef32422db2f5a4622aed3ae004bbd3d2921a0e8e"/>
+		<rom name="Elvira2_v1.0_AGA_Fr_dlfrsilver.lha" size="4773121" crc="6f0c7ecd" md5="c58b185afba478d6d1a17544a111226f" sha1="6d21fe0feb5d2cfdac40028228bd5fa086bb8106"/>
 		<rom name="Exile_v1.0_AGA_HD_JOTD_0885.lha" size="937868" crc="c9ab34f1" md5="fe66256c8d1d7729b96bf013b57fa538" sha1="ca08878cec1c8e232b953371c5aeb8068297c2ba"/>
 	</machine>
 	<machine name="F">
