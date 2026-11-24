@@ -6376,24 +6376,24 @@
 	</game>
 	<game name="sf2mix" cloneof="sf2ce" romof="sf2ce" sourcefile="capcom/d_cps1.cpp">
 		<comment>Hack</comment>
-		<description>Street Fighter II Mix (v1.7)</description>
+		<description>Street Fighter II Mix (v1.8)</description>
 		<year>2025-26</year>
 		<manufacturer>hack</manufacturer>
-		<rom name="smxe_23b.8f" size="524288" crc="60d0d40d" />
-		<rom name="smx_22b.7f" size="524288" crc="f7bd54e7" />
-		<rom name="smx_21a.6f" size="524288" crc="b580c709" />
-		<rom name="smx-1m.3a" size="524288" crc="a8f70643" />
-		<rom name="smx-3m.5a" size="524288" crc="f73f1913" />
-		<rom name="smx-2m.4a" size="524288" crc="a80234b4" />
-		<rom name="smx-4m.6a" size="524288" crc="4d910b53" />
-		<rom name="smx-5m.7a" size="524288" crc="26a56c2c" />
-		<rom name="smx-7m.9a" size="524288" crc="3a2c2e5f" />
-		<rom name="smx-6m.8a" size="524288" crc="f71b978c" />
-		<rom name="smx-8m.10a" size="524288" crc="8fe56540" />
-		<rom name="smx-10m.3c" size="524288" crc="f352721f" />
-		<rom name="smx-12m.5c" size="524288" crc="810c6499" />
-		<rom name="smx-11m.4c" size="524288" crc="75d7c15c" />
-		<rom name="smx-13m.6c" size="524288" crc="642c40e7" />
+		<rom name="smxe_23b.8f" size="524288" crc="215d7dea" />
+		<rom name="smx_22b.7f" size="524288" crc="3e7d323b" />
+		<rom name="smx_21a.6f" size="524288" crc="c6e902cc" />
+		<rom name="smx-1m.3a" size="524288" crc="924b2a5a" />
+		<rom name="smx-3m.5a" size="524288" crc="d5e4bfb1" />
+		<rom name="smx-2m.4a" size="524288" crc="020d4a6d" />
+		<rom name="smx-4m.6a" size="524288" crc="67285c2f" />
+		<rom name="smx-5m.7a" size="524288" crc="26ab12f9" />
+		<rom name="smx-7m.9a" size="524288" crc="cb7e2920" />
+		<rom name="smx-6m.8a" size="524288" crc="150d6df2" />
+		<rom name="smx-8m.10a" size="524288" crc="74f6aea8" />
+		<rom name="smx-10m.3c" size="524288" crc="7c7b5e88" />
+		<rom name="smx-12m.5c" size="524288" crc="293929c8" />
+		<rom name="smx-11m.4c" size="524288" crc="c59ba878" />
+		<rom name="smx-13m.6c" size="524288" crc="eb8bfce9" />
 		<rom name="smx_09.11a" size="65536" crc="a379fdc5" />
 		<rom name="smx_18.11c" size="131072" crc="6aa5d7fa" />
 		<rom name="smx_19.12c" size="131072" crc="f92f5a4f" />

@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - HD Loaders - Games</name>
 		<description>Commodore Amiga - HD Loaders - Games</description>
 		<category>Standard DatFile</category>
-		<version>2026-11-21</version>
-		<date>2026-11-21</date>
+		<version>2026-11-23</version>
+		<date>2026-11-23</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -22,6 +22,7 @@
 		<rom name="Aladdin_v1.1a_AGA_HD_JOTD_0420.lha" size="2309860" crc="4e07114b" md5="da05993326764788d321f3a65a564522" sha1="125131667535ed41da084b08939fe7745f72aeca"/>
 		<rom name="AlienBreed2_AGA_HD_StefanBobergNov93_0044.lha" size="2561456" crc="e7259881" md5="3f078258287cafaa41248a84e0d8ce81" sha1="cf1855d5ad38aea54cdc6f89e8b6f40a736ebe71"/>
 		<rom name="AlienBreed2_HD_StefanBobergNov93_0278.lha" size="1930947" crc="c89dadc9" md5="43a1d7b5dd65937f6ee14dbfb81cc67a" sha1="8f539e35a841b61a624615218c1a6c4da8f025e0"/>
+		<rom name="AnotherWorld_v1.1_AGA_RTG.lha" size="259070412" crc="dd2add98" md5="b34059ebca63526faac565766ccfde16" sha1="de7331e0472931d349743d71dc92bd1428ddcd31"/>
 		<rom name="ArabianNights_HD_TRSI.lha" size="1348312" crc="74855134" md5="a5e0a8f0061578647529307e395278ac" sha1="c2849625c3d7f60927c5556f05cd8485f6aa8f69"/>
 	</machine>
 	<machine name="B">
@@ -72,6 +73,7 @@
 	<machine name="F">
 		<description>F</description>
 		<rom name="FA18Interceptor_HD_JOTD_0119.lha" size="395306" crc="99a6beb9" md5="ef160dc1386680547b743fdbdd2e2126" sha1="049b833065b2777ad6002b1408fb416581e94c23"/>
+		<rom name="Flashback_v1.0_AGA_RTG.lha" size="696974055" crc="46c6e217" md5="fe838d05cdb529bb83ff8ef549fb4ac1" sha1="7b0e3a37df8d544d4057a1553b964a83c2215e7c"/>
 	</machine>
 	<machine name="H">
 		<description>H</description>
