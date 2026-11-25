@@ -5250,7 +5250,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="akatana" sourcefile="cave/d_cv1k.cpp">
-		<description>Akai Katana (2010/ 8/13 MASTER VER.)</description>
+		<description>Akai Katana (Japan, 2010/ 8/13 MASTER VER.)</description>
 		<year>2010</year>
 		<manufacturer>Cave</manufacturer>
 		<rom name="u4" size="4194304" crc="613fd380"/>
@@ -13006,7 +13006,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="backfire" sourcefile="dataeast/d_backfire.cpp">
-		<description>Backfire! (Japan, set 1)</description>
+		<description>Backfire! (Data East, Japan, set 1)</description>
 		<year>1995</year>
 		<manufacturer>Data East Corporation</manufacturer>
 		<rom name="ra00-0.2j" size="524288" crc="790da069"/>
@@ -13028,7 +13028,7 @@
 	</game>
 	<game name="backfirea" cloneof="backfire" romof="backfire" sourcefile="dataeast/d_backfire.cpp">
 		<comment>uses analog wheel by default</comment>
-		<description>Backfire! (Japan, set 2)</description>
+		<description>Backfire! (Data East, Japan, set 2)</description>
 		<year>1995</year>
 		<manufacturer>Data East Corporation</manufacturer>
 		<rom name="rb-00h.h2" size="524288" crc="60973046"/>
@@ -13490,7 +13490,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="balcube" sourcefile="pst90s/d_metro.cpp">
-		<description>Bal Cube</description>
+		<description>Bal Cube (Japan)</description>
 		<year>1996</year>
 		<manufacturer>Metro</manufacturer>
 		<rom name="bal-cube_06.6" size="262144" crc="c400f84d"/>
@@ -15474,9 +15474,27 @@
 		<video type="raster" orientation="horizontal" width="292" height="240" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
+	<game name="btoads" sourcefile="pst90s/d_btoads.cpp">
+		<description>Battletoads</description>
+		<year>1994</year>
+		<manufacturer>Rare / Electronic Arts</manufacturer>
+		<rom name="bt.u102" size="32768" crc="a90b911a"/>
+		<rom name="btc0-p0.u120" size="4194304" crc="0dfd1e35"/>
+		<rom name="btc0-p1.u121" size="4194304" crc="df7487e1"/>
+		<rom name="btc0-s.u109" size="2097152" crc="d9612ddb"/>
+		<rom name="bsmt2000.bin" size="8192" crc="c2a265af"/>
+		<rom name="u10.bin" size="343" crc="b1144178"/>
+		<rom name="u11.bin" size="343" crc="7c6beb96"/>
+		<rom name="u57.bin" size="343" crc="be355a56"/>
+		<rom name="u58.bin" size="343" crc="41ed339c"/>
+		<rom name="u90.bin" size="343" crc="a0d0c3f1"/>
+		<rom name="u144.bin" size="343" crc="8597017f"/>
+		<video type="raster" orientation="horizontal" width="512" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
 	<game name="bzonec" cloneof="bzone" romof="bzone" sourcefile="pre90s/d_bzone.cpp">
 		<comment>GFX/Sound Issues</comment>
-		<description>Battle Zone (cocktail)</description>
+		<description>Battlezone (cocktail)</description>
 		<year>1980</year>
 		<manufacturer>Atari</manufacturer>
 		<rom name="bz1g4800" size="2048" crc="e228dd64"/>
@@ -15501,7 +15519,7 @@
 	</game>
 	<game name="bzonea" cloneof="bzone" romof="bzone" sourcefile="pre90s/d_bzone.cpp">
 		<comment>GFX/Sound Issues</comment>
-		<description>Battle Zone (rev 1)</description>
+		<description>Battlezone (rev 1)</description>
 		<year>1980</year>
 		<manufacturer>Atari</manufacturer>
 		<rom name="036414-01.e1" size="2048" crc="efbc3fa0"/>
@@ -15525,7 +15543,7 @@
 	</game>
 	<game name="bzone" sourcefile="pre90s/d_bzone.cpp">
 		<comment>GFX/Sound Issues</comment>
-		<description>Battle Zone (rev 2)</description>
+		<description>Battlezone (rev 2)</description>
 		<year>1980</year>
 		<manufacturer>Atari</manufacturer>
 		<rom name="036414-02.e1" size="2048" crc="13de36d5"/>
@@ -15545,24 +15563,6 @@
 		<rom name="036179-01.h1" size="256" crc="823b61ae"/>
 		<rom name="036180-01.f1" size="256" crc="276eadd5"/>
 		<video type="vector" orientation="horizontal" width="640" height="480" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-	</game>
-	<game name="btoads" sourcefile="pst90s/d_btoads.cpp">
-		<description>Battletoads</description>
-		<year>1994</year>
-		<manufacturer>Rare / Electronic Arts</manufacturer>
-		<rom name="bt.u102" size="32768" crc="a90b911a"/>
-		<rom name="btc0-p0.u120" size="4194304" crc="0dfd1e35"/>
-		<rom name="btc0-p1.u121" size="4194304" crc="df7487e1"/>
-		<rom name="btc0-s.u109" size="2097152" crc="d9612ddb"/>
-		<rom name="bsmt2000.bin" size="8192" crc="c2a265af"/>
-		<rom name="u10.bin" size="343" crc="b1144178"/>
-		<rom name="u11.bin" size="343" crc="7c6beb96"/>
-		<rom name="u57.bin" size="343" crc="be355a56"/>
-		<rom name="u58.bin" size="343" crc="41ed339c"/>
-		<rom name="u90.bin" size="343" crc="a0d0c3f1"/>
-		<rom name="u144.bin" size="343" crc="8597017f"/>
-		<video type="raster" orientation="horizontal" width="512" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
 	<game name="bayroute1" cloneof="bayroute" romof="bayroute" sourcefile="sega/d_sys16b.cpp">
@@ -17952,8 +17952,35 @@
 		<video type="raster" orientation="horizontal" width="256" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
+	<game name="blktiger" sourcefile="pre90s/d_blktiger.cpp">
+		<description>Black Tiger (US)</description>
+		<year>1987</year>
+		<manufacturer>Capcom</manufacturer>
+		<rom name="bdu-01a.5e" size="32768" crc="a8f98f22"/>
+		<rom name="bdu-02a.6e" size="65536" crc="7bef96e8"/>
+		<rom name="bdu-03a.8e" size="65536" crc="4089e157"/>
+		<rom name="bd-04.9e" size="65536" crc="ed6af6ec"/>
+		<rom name="bd-05.10e" size="65536" crc="ae59b72e"/>
+		<rom name="bd-06.1l" size="32768" crc="2cf54274"/>
+		<rom name="bd-15.2n" size="32768" crc="70175d78"/>
+		<rom name="bd-12.5b" size="65536" crc="c4524993"/>
+		<rom name="bd-11.4b" size="65536" crc="7932c86f"/>
+		<rom name="bd-14.9b" size="65536" crc="dc49593a"/>
+		<rom name="bd-13.8b" size="65536" crc="7ed7a122"/>
+		<rom name="bd-08.5a" size="65536" crc="e2f17438"/>
+		<rom name="bd-07.4a" size="65536" crc="5fccbd27"/>
+		<rom name="bd-10.9a" size="65536" crc="fc33ccc6"/>
+		<rom name="bd-09.8a" size="65536" crc="f449de01"/>
+		<rom name="bd01.8j" size="256" crc="29b459e5"/>
+		<rom name="bd02.9j" size="256" crc="8b741e66"/>
+		<rom name="bd03.11k" size="256" crc="27201c75"/>
+		<rom name="bd04.11l" size="256" crc="e5490b68"/>
+		<rom name="bd.6k" size="4096" crc="ac7d14f1"/>
+		<video type="raster" orientation="horizontal" width="256" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
 	<game name="blktigera" cloneof="blktiger" romof="blktiger" sourcefile="pre90s/d_blktiger.cpp">
-		<description>Black Tiger (older)</description>
+		<description>Black Tiger (US, older)</description>
 		<year>1987</year>
 		<manufacturer>Capcom</manufacturer>
 		<rom name="bdu-01.5e" size="32768" crc="47b13922"/>
@@ -18003,33 +18030,6 @@
 		<rom name="bd02.9j" merge="bd02.9j" size="256" crc="8b741e66"/>
 		<rom name="bd03.11k" merge="bd03.11k" size="256" crc="27201c75"/>
 		<rom name="bd04.11l" merge="bd04.11l" size="256" crc="e5490b68"/>
-		<video type="raster" orientation="horizontal" width="256" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-	</game>
-	<game name="blktiger" sourcefile="pre90s/d_blktiger.cpp">
-		<description>Black Tiger</description>
-		<year>1987</year>
-		<manufacturer>Capcom</manufacturer>
-		<rom name="bdu-01a.5e" size="32768" crc="a8f98f22"/>
-		<rom name="bdu-02a.6e" size="65536" crc="7bef96e8"/>
-		<rom name="bdu-03a.8e" size="65536" crc="4089e157"/>
-		<rom name="bd-04.9e" size="65536" crc="ed6af6ec"/>
-		<rom name="bd-05.10e" size="65536" crc="ae59b72e"/>
-		<rom name="bd-06.1l" size="32768" crc="2cf54274"/>
-		<rom name="bd-15.2n" size="32768" crc="70175d78"/>
-		<rom name="bd-12.5b" size="65536" crc="c4524993"/>
-		<rom name="bd-11.4b" size="65536" crc="7932c86f"/>
-		<rom name="bd-14.9b" size="65536" crc="dc49593a"/>
-		<rom name="bd-13.8b" size="65536" crc="7ed7a122"/>
-		<rom name="bd-08.5a" size="65536" crc="e2f17438"/>
-		<rom name="bd-07.4a" size="65536" crc="5fccbd27"/>
-		<rom name="bd-10.9a" size="65536" crc="fc33ccc6"/>
-		<rom name="bd-09.8a" size="65536" crc="f449de01"/>
-		<rom name="bd01.8j" size="256" crc="29b459e5"/>
-		<rom name="bd02.9j" size="256" crc="8b741e66"/>
-		<rom name="bd03.11k" size="256" crc="27201c75"/>
-		<rom name="bd04.11l" size="256" crc="e5490b68"/>
-		<rom name="bd.6k" size="4096" crc="ac7d14f1"/>
 		<video type="raster" orientation="horizontal" width="256" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
@@ -18720,7 +18720,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="blzntrnd" sourcefile="pst90s/d_metro.cpp">
-		<description>Blazing Tornado</description>
+		<description>Blazing Tornado (Export)</description>
 		<year>1994</year>
 		<manufacturer>Human Amusement</manufacturer>
 		<rom name="1k.bin" size="524288" crc="b007893b"/>
@@ -28896,7 +28896,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="chainrec" sourcefile="dataeast/d_simpl156.cpp">
-		<description>Chain Reaction (World, Version 2.2, 1995.09.25)</description>
+		<description>Chain Reaction (World, Master Version 2.2, 1995.09.25)</description>
 		<year>1995</year>
 		<manufacturer>Data East Corporation</manufacturer>
 		<rom name="e1" size="524288" crc="8a8340ef"/>
@@ -37403,6 +37403,35 @@
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
+	<game name="cybotsre" cloneof="cybots" romof="cybots" sourcefile="capcom/d_cps2.cpp">
+		<comment>Hack</comment>
+		<description>Cyberbots: Fullmetal Madness (Hack, English Restoration RC1)</description>
+		<year>2026</year>
+		<manufacturer>Strygo</manufacturer>
+		<rom name="cybre.03" size="524288" crc="f3e24a5f"/>
+		<rom name="cybre.04" size="524288" crc="58ffcf73"/>
+		<rom name="cyb.05" merge="cyb.05" size="524288" crc="ec40408e"/>
+		<rom name="cyb.06" merge="cyb.06" size="524288" crc="1ad0bed2"/>
+		<rom name="cyb.07" merge="cyb.07" size="524288" crc="6245a39a"/>
+		<rom name="cyb.08" merge="cyb.08" size="524288" crc="4b48e223"/>
+		<rom name="cyb.09" merge="cyb.09" size="524288" crc="e15238f6"/>
+		<rom name="cybre.10" size="524288" crc="463c24d7"/>
+		<rom name="cybre.13m" size="4194304" crc="c0e53c31"/>
+		<rom name="cybre.15m" size="4194304" crc="28437e3f"/>
+		<rom name="cybre.17m" size="4194304" crc="b1c5db8c"/>
+		<rom name="cybre.19m" size="4194304" crc="afcac21f"/>
+		<rom name="cybre.14m" size="4194304" crc="d34cf2ae"/>
+		<rom name="cybre.16m" size="4194304" crc="edb473b0"/>
+		<rom name="cybre.18m" size="4194304" crc="f8680b78"/>
+		<rom name="cybre.20m" size="4194304" crc="548f798f"/>
+		<rom name="cyb.01" merge="cyb.01" size="131072" crc="9c0fb079"/>
+		<rom name="cyb.02" merge="cyb.02" size="131072" crc="51cb0c4e"/>
+		<rom name="cyb.11m" merge="cyb.11m" size="2097152" crc="362ccab2"/>
+		<rom name="cyb.12m" merge="cyb.12m" size="2097152" crc="7066e9cc"/>
+		<rom name="cybotsj.key" size="20" crc="d4d560b7"/>
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
 	<game name="cybotsj" cloneof="cybots" romof="cybots" sourcefile="capcom/d_cps2.cpp">
 		<description>Cyberbots: Fullmetal Madness (Japan 950420)</description>
 		<year>1995</year>
@@ -37824,8 +37853,8 @@
 		<driver status="good"/>
 	</game>
 	<game name="ddayjlc" sourcefile="pre90s/d_ddayjlc.cpp">
-		<comment>buggy game due to unemulated protection MCU</comment>
-		<description>D-Day (Jaleco set 1)</description>
+		<comment>Protection device (M54828P) is simulated</comment>
+		<description>D-Day (Jaleco, set 1)</description>
 		<year>1984</year>
 		<manufacturer>Jaleco</manufacturer>
 		<rom name="1" size="8192" crc="dbfb8772"/>
@@ -37856,8 +37885,8 @@
 		<driver status="good"/>
 	</game>
 	<game name="ddayjlca" cloneof="ddayjlc" romof="ddayjlc" sourcefile="pre90s/d_ddayjlc.cpp">
-		<comment>buggy game due to unemulated protection MCU</comment>
-		<description>D-Day (Jaleco set 2)</description>
+		<comment>Protection device (M54828P) is simulated</comment>
+		<description>D-Day (Jaleco, set 2)</description>
 		<year>1984</year>
 		<manufacturer>Jaleco</manufacturer>
 		<rom name="1a" size="8192" crc="d8e4f3d4"/>
@@ -38812,23 +38841,8 @@
 		<video type="raster" orientation="vertical" width="224" height="384" aspectx="3" aspecty="4"/>
 		<driver status="good"/>
 	</game>
-	<game name="daitorida" cloneof="daitorid" romof="daitorid" sourcefile="pst90s/d_metro.cpp">
-		<description>Daitoride (YMF278B version)</description>
-		<year>1996</year>
-		<manufacturer>Metro</manufacturer>
-		<rom name="dt_ja-6.6" size="262144" crc="c753954e"/>
-		<rom name="dt_ja-5.5" size="262144" crc="c4340290"/>
-		<rom name="dt_ja-2.2" size="524288" crc="6a262249"/>
-		<rom name="dt_ja-4.4" size="524288" crc="cdcef57a"/>
-		<rom name="dt_ja-1.1" size="524288" crc="a6ccb1d2"/>
-		<rom name="dt_ja-3.3" size="524288" crc="32353e04"/>
-		<rom name="yrw801-m" size="2097152" crc="2a9d8d43"/>
-		<rom name="dt_ja-7.7" size="524288" crc="7a2d3222"/>
-		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-	</game>
 	<game name="daitorid" sourcefile="pst90s/d_metro.cpp">
-		<description>Daitoride</description>
+		<description>Daitoride (Japan)</description>
 		<year>1995</year>
 		<manufacturer>Metro</manufacturer>
 		<rom name="dt-ja-5.19e" size="131072" crc="441efd77"/>
@@ -38839,6 +38853,21 @@
 		<rom name="dt-ja-1.12h" size="524288" crc="2a220bf2"/>
 		<rom name="dt-ja-3.16h" size="524288" crc="fd1f58e0"/>
 		<rom name="dt-ja-7.3f" size="262144" crc="0d888cde"/>
+		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
+	<game name="daitorida" cloneof="daitorid" romof="daitorid" sourcefile="pst90s/d_metro.cpp">
+		<description>Daitoride (Japan, YMF278B version)</description>
+		<year>1996</year>
+		<manufacturer>Metro</manufacturer>
+		<rom name="dt_ja-6.6" size="262144" crc="c753954e"/>
+		<rom name="dt_ja-5.5" size="262144" crc="c4340290"/>
+		<rom name="dt_ja-2.2" size="524288" crc="6a262249"/>
+		<rom name="dt_ja-4.4" size="524288" crc="cdcef57a"/>
+		<rom name="dt_ja-1.1" size="524288" crc="a6ccb1d2"/>
+		<rom name="dt_ja-3.3" size="524288" crc="32353e04"/>
+		<rom name="yrw801-m" size="2097152" crc="2a9d8d43"/>
+		<rom name="dt_ja-7.7" size="524288" crc="7a2d3222"/>
 		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
@@ -39975,27 +40004,27 @@
 		<video type="raster" orientation="vertical" width="224" height="260" aspectx="3" aspecty="4"/>
 		<driver status="good"/>
 	</game>
-	<game name="darwin" sourcefile="dataeast/d_brkthru.cpp">
+	<game name="darwin" cloneof="evolution" romof="evolution" sourcefile="dataeast/d_brkthru.cpp">
 		<description>Darwin 4078 (Japan)</description>
 		<year>1986</year>
 		<manufacturer>Data East Corporation</manufacturer>
-		<rom name="darw_04.rom" size="16384" crc="0eabf21c"/>
-		<rom name="darw_05.rom" size="32768" crc="e771f864"/>
-		<rom name="darw_07.rom" size="32768" crc="97ac052c"/>
-		<rom name="darw_06.rom" size="32768" crc="2a9fb208"/>
-		<rom name="darw_08.rom" size="32768" crc="6b580d58"/>
-		<rom name="darw_09.rom" size="8192" crc="067b4cf5"/>
-		<rom name="darw_03.rom" size="32768" crc="57d0350d"/>
-		<rom name="darw_02.rom" size="32768" crc="559a71ab"/>
-		<rom name="darw_01.rom" size="32768" crc="15a16973"/>
-		<rom name="darw_10.rom" size="32768" crc="487a014c"/>
-		<rom name="darw_11.rom" size="32768" crc="548ce2d1"/>
-		<rom name="darw_12.rom" size="32768" crc="faba5fef"/>
-		<rom name="df.12" size="256" crc="89b952ef"/>
-		<rom name="df.13" size="256" crc="d595e91d"/>
-		<rom name="1-pal16r4pc.bin" size="260" crc="c859298c"/>
-		<rom name="2-pal16r4pc.bin" size="260" crc="226629c3"/>
-		<rom name="3-pal16r4pc.bin" size="260" crc="b3e980a0"/>
+		<rom name="darwin4078_df01-.e2" size="16384" crc="0eabf21c"/>
+		<rom name="darwin4078_df02-.e3" size="32768" crc="e771f864"/>
+		<rom name="darwin4078_df04-.e5" merge="darwin4078_df04-.e5" size="32768" crc="97ac052c"/>
+		<rom name="darwin4078_df03-.e4" merge="darwin4078_df03-.e4" size="32768" crc="2a9fb208"/>
+		<rom name="darwin4078_df00-.h9" merge="darwin4078_df00-.h9" size="32768" crc="6b580d58"/>
+		<rom name="darwin4078_df11.c7" merge="darwin4078_df11.c7" size="8192" crc="067b4cf5"/>
+		<rom name="darwin4078_df07-.b9" merge="darwin4078_df07-.b9" size="32768" crc="57d0350d"/>
+		<rom name="darwin4078_df06-.b8" merge="darwin4078_df06-.b8" size="32768" crc="559a71ab"/>
+		<rom name="darwin4078_df05-.b6" merge="darwin4078_df05-.b6" size="32768" crc="15a16973"/>
+		<rom name="darwin4078_df08-.h2" merge="darwin4078_df08-.h2" size="32768" crc="487a014c"/>
+		<rom name="darwin4078_df09-.h3" merge="darwin4078_df09-.h3" size="32768" crc="548ce2d1"/>
+		<rom name="darwin4078_df10-.h5" merge="darwin4078_df10-.h5" size="32768" crc="faba5fef"/>
+		<rom name="df-12.j1" merge="df-12.j1" size="256" crc="89b952ef"/>
+		<rom name="df-13.j3" merge="df-13.j3" size="256" crc="d595e91d"/>
+		<rom name="1-pal16r4pc.bin" merge="1-pal16r4pc.bin" size="260" crc="c859298c"/>
+		<rom name="2-pal16r4pc.bin" merge="2-pal16r4pc.bin" size="260" crc="226629c3"/>
+		<rom name="3-pal16r4pc.bin" merge="3-pal16r4pc.bin" size="260" crc="b3e980a0"/>
 		<video type="raster" orientation="vertical" width="240" height="240" aspectx="3" aspecty="4"/>
 		<driver status="good"/>
 	</game>
@@ -40174,7 +40203,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="deathsml" sourcefile="cave/d_cv1k.cpp">
-		<description>Deathsmiles (2007/10/09 MASTER VER)</description>
+		<description>Deathsmiles (Japan, 2007/10/09 MASTER VER)</description>
 		<year>2007</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="u4" size="2097152" crc="1a7b98bf"/>
@@ -40185,7 +40214,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="dsmbl" sourcefile="cave/d_cv1k.cpp">
-		<description>Deathsmiles MegaBlack Label (2008/10/06 MEGABLACK LABEL VER)</description>
+		<description>Deathsmiles MegaBlack Label (Japan, 2008/10/06 MEGABLACK LABEL VER)</description>
 		<year>2008</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="u4" size="4194304" crc="77fc5ad1"/>
@@ -40962,7 +40991,7 @@
 	</game>
 	<game name="demndrgn" sourcefile="pre90s/d_astrocde.cpp">
 		<comment>Prototype, No Sound</comment>
-		<description>Demons &amp; Dragons (Prototype)</description>
+		<description>Demons &amp; Dragons (prototype)</description>
 		<year>1982</year>
 		<manufacturer>Dave Nutting Associates / Bally Midway</manufacturer>
 		<rom name="dd-x1.bin" size="8192" crc="9aeaf79e"/>
@@ -41589,6 +41618,21 @@
 		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
+	<game name="dharmak" cloneof="dharma" romof="dharma" sourcefile="pst90s/d_metro.cpp">
+		<description>Dharma Dojang - Mangchi Man (Korea)</description>
+		<year>1994</year>
+		<manufacturer>Metro</manufacturer>
+		<rom name="5.bin" size="131072" crc="7dec1f77"/>
+		<rom name="6.bin" size="131072" crc="a194edbe"/>
+		<rom name="8.bin" size="131072" crc="d0e0a8e2"/>
+		<rom name="2.bin" size="524288" crc="3cc0bb6c"/>
+		<rom name="4.bin" size="524288" crc="2cdcdf91"/>
+		<rom name="1.bin" size="524288" crc="312ee2ec"/>
+		<rom name="3.bin" size="524288" crc="b81aede8"/>
+		<rom name="7.bin" size="262144" crc="8af698d7"/>
+		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
 	<game name="dharmag" cloneof="dharma" romof="dharma" sourcefile="pst90s/d_metro.cpp">
 		<description>Dharma Doujou (Germany)</description>
 		<year>1994</year>
@@ -41616,21 +41660,6 @@
 		<rom name="dd_jb-1" size="524288" crc="e6ca9bf6"/>
 		<rom name="dd_jb-3" size="524288" crc="6ecbe193"/>
 		<rom name="dd_ja-7" merge="dd__wa-7.u3" size="262144" crc="7ce817eb"/>
-		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-	</game>
-	<game name="dharmak" cloneof="dharma" romof="dharma" sourcefile="pst90s/d_metro.cpp">
-		<description>Dharma Doujou (Korea)</description>
-		<year>1994</year>
-		<manufacturer>Metro</manufacturer>
-		<rom name="5.bin" size="131072" crc="7dec1f77"/>
-		<rom name="6.bin" size="131072" crc="a194edbe"/>
-		<rom name="8.bin" size="131072" crc="d0e0a8e2"/>
-		<rom name="2.bin" size="524288" crc="3cc0bb6c"/>
-		<rom name="4.bin" size="524288" crc="2cdcdf91"/>
-		<rom name="1.bin" size="524288" crc="312ee2ec"/>
-		<rom name="3.bin" size="524288" crc="b81aede8"/>
-		<rom name="7.bin" size="262144" crc="8af698d7"/>
 		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
@@ -42965,7 +42994,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="dfkbl" sourcefile="cave/d_cv1k.cpp">
-		<description>DoDonPachi Dai-Fukkatsu Black Label (2010/1/18 BLACK LABEL)</description>
+		<description>DoDonPachi Dai-Fukkatsu Black Label (Japan, 2010/1/18 BLACK LABEL)</description>
 		<year>2010</year>
 		<manufacturer>Cave</manufacturer>
 		<rom name="u4" size="4194304" crc="8092ca9d"/>
@@ -42976,7 +43005,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="ddpdfk10" cloneof="ddpdfk" romof="ddpdfk" sourcefile="cave/d_cv1k.cpp">
-		<description>DoDonPachi Dai-Fukkatsu Ver 1.0 (2008/05/16 MASTER VER)</description>
+		<description>DoDonPachi Dai-Fukkatsu Ver 1.0 (Japan, 2008/05/16 MASTER VER)</description>
 		<year>2008</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="ddpdfk10_u4" size="4194304" crc="a3d650b2"/>
@@ -42987,7 +43016,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="ddpdfk" sourcefile="cave/d_cv1k.cpp">
-		<description>DoDonPachi Dai-Fukkatsu Ver 1.5 (2008/06/23 MASTER VER 1.5)</description>
+		<description>DoDonPachi Dai-Fukkatsu Ver 1.5 (Japan, 2008/06/23 MASTER VER 1.5)</description>
 		<year>2008</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="ddpdfk_u4" size="4194304" crc="9976d699"/>
@@ -43479,7 +43508,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="ddpsdoj" sourcefile="cave/d_cv1k.cpp">
-		<description>DoDonPachi SaiDaiOuJou (2012/ 4/20)</description>
+		<description>DoDonPachi SaiDaiOuJou (Japan, 2012/ 4/20)</description>
 		<year>2012</year>
 		<manufacturer>Cave</manufacturer>
 		<rom name="u4" size="4194560" crc="e2a4411c"/>
@@ -49749,7 +49778,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="dyger" sourcefile="pre90s/d_sidearms.cpp">
-		<description>Dyger (Korea set 1)</description>
+		<description>Dyger (Korea, set 1)</description>
 		<year>1989</year>
 		<manufacturer>Philko</manufacturer>
 		<rom name="d-3.5g" size="32768" crc="bae9882e"/>
@@ -49772,7 +49801,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="dygera" cloneof="dyger" romof="dyger" sourcefile="pre90s/d_sidearms.cpp">
-		<description>Dyger (Korea set 2)</description>
+		<description>Dyger (Korea, set 2)</description>
 		<year>1989</year>
 		<manufacturer>Philko</manufacturer>
 		<rom name="d-3.bin" size="32768" crc="fc63da8b"/>
@@ -52351,7 +52380,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="espgal2a" cloneof="espgal2" romof="espgal2" sourcefile="cave/d_cv1k.cpp">
-		<description>Espgaluda II (2005/11/14 MASTER VER, newer CV1000-B PCB)</description>
+		<description>Espgaluda II (Japan, 2005/11/14 MASTER VER, newer CV1000-B PCB)</description>
 		<year>2005</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="espgal2a_u4" size="2097152" crc="843608b8"/>
@@ -52362,7 +52391,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="espgal2b" cloneof="espgal2" romof="espgal2" sourcefile="cave/d_cv1k.cpp">
-		<description>Espgaluda II (2005/11/14 MASTER VER, original CV1000-B PCB)</description>
+		<description>Espgaluda II (Japan, 2005/11/14 MASTER VER, original CV1000-B PCB)</description>
 		<year>2005</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="espgal2b_u4" size="2097152" crc="09c908bb"/>
@@ -52373,7 +52402,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="espgal2" sourcefile="cave/d_cv1k.cpp">
-		<description>Espgaluda II (2005/11/14.MASTER VER.)</description>
+		<description>Espgaluda II (Japan, 2005/11/14.MASTER VER.)</description>
 		<year>2005</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="espgal2_u4" size="2097152" crc="2cb37c03"/>
@@ -52605,6 +52634,30 @@
 		<rom name="c67-01.ic1" size="524288" crc="2f351bf4"/>
 		<rom name="c67-02.ic5" size="524288" crc="eb4f895c"/>
 		<video type="raster" orientation="vertical" width="224" height="320" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+	</game>
+	<game name="evolution" sourcefile="dataeast/d_brkthru.cpp">
+		<description>Evolution (US)</description>
+		<year>1986</year>
+		<manufacturer>Data East USA</manufacturer>
+		<rom name="dg01-a.e2" size="16384" crc="9aa61c81"/>
+		<rom name="dg02-a.e3" size="32768" crc="9ba37fcd"/>
+		<rom name="darwin4078_df04-.e5" size="32768" crc="97ac052c"/>
+		<rom name="darwin4078_df03-.e4" size="32768" crc="2a9fb208"/>
+		<rom name="darwin4078_df00-.h9" size="32768" crc="6b580d58"/>
+		<rom name="darwin4078_df11.c7" size="8192" crc="067b4cf5"/>
+		<rom name="darwin4078_df07-.b9" size="32768" crc="57d0350d"/>
+		<rom name="darwin4078_df06-.b8" size="32768" crc="559a71ab"/>
+		<rom name="darwin4078_df05-.b6" size="32768" crc="15a16973"/>
+		<rom name="darwin4078_df08-.h2" size="32768" crc="487a014c"/>
+		<rom name="darwin4078_df09-.h3" size="32768" crc="548ce2d1"/>
+		<rom name="darwin4078_df10-.h5" size="32768" crc="faba5fef"/>
+		<rom name="df-12.j1" size="256" crc="89b952ef"/>
+		<rom name="df-13.j3" size="256" crc="d595e91d"/>
+		<rom name="1-pal16r4pc.bin" size="260" crc="c859298c"/>
+		<rom name="2-pal16r4pc.bin" size="260" crc="226629c3"/>
+		<rom name="3-pal16r4pc.bin" size="260" crc="b3e980a0"/>
+		<video type="raster" orientation="vertical" width="240" height="240" aspectx="3" aspecty="4"/>
 		<driver status="good"/>
 	</game>
 	<game name="excelsr" sourcefile="pst90s/d_playmark.cpp">
@@ -54275,7 +54328,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="fncywld" sourcefile="pst90s/d_tumbleb.cpp">
-		<description>Fancy World - Earth of Crisis</description>
+		<description>Fancy World - Earth of Crisis (set 1)</description>
 		<year>1996</year>
 		<manufacturer>Unico</manufacturer>
 		<rom name="01_fw02.bin" size="524288" crc="ecb978c1"/>
@@ -54289,6 +54342,24 @@
 		<rom name="03_fw04.bin" size="262144" crc="6ad38c14"/>
 		<rom name="04_fw05.bin" size="262144" crc="b8d079a6"/>
 		<rom name="00_fw01.bin" size="262144" crc="b395fe01"/>
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
+	<game name="fncywlda" cloneof="fncywld" romof="fncywld" sourcefile="pst90s/d_tumbleb.cpp">
+		<description>Fancy World - Earth of Crisis (set 2)</description>
+		<year>1996</year>
+		<manufacturer>Unico</manufacturer>
+		<rom name="01_fw02.bin" size="524288" crc="9ef06289"/>
+		<rom name="02_fw03.bin" size="524288" crc="1b43ad6c"/>
+		<rom name="08_fw09.bin" merge="08_fw09.bin" size="262144" crc="a4a00de9"/>
+		<rom name="07_fw08.bin" merge="07_fw08.bin" size="262144" crc="b48cd1d4"/>
+		<rom name="10_fw11.bin" merge="10_fw11.bin" size="262144" crc="f21bab48"/>
+		<rom name="09_fw10.bin" merge="09_fw10.bin" size="262144" crc="6aea8e0f"/>
+		<rom name="05_fw06.bin" merge="05_fw06.bin" size="262144" crc="e141ecdc"/>
+		<rom name="06_fw07.bin" merge="06_fw07.bin" size="262144" crc="0058a812"/>
+		<rom name="03_fw04.bin" merge="03_fw04.bin" size="262144" crc="6ad38c14"/>
+		<rom name="04_fw05.bin" merge="04_fw05.bin" size="262144" crc="b8d079a6"/>
+		<rom name="00_fw01.bin" merge="00_fw01.bin" size="262144" crc="b395fe01"/>
 		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
@@ -66817,7 +66888,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="geostorm" cloneof="gunforc2" romof="gunforc2" sourcefile="irem/d_m92.cpp">
-		<description>Geo Storm (Japan, 014 custom sound CPU)</description>
+		<description>Geo Storm (Japan, 014 sound CPU)</description>
 		<year>1994</year>
 		<manufacturer>Irem</manufacturer>
 		<rom name="a2_-h0-.ic37" size="262144" crc="9be58d09"/>
@@ -66826,6 +66897,34 @@
 		<rom name="a2_-l1-.ic48" merge="a2_-l1-.ic48" size="262144" crc="c8c13f51"/>
 		<rom name="a2_-sh0-.ic24" merge="a2_-sh0-.ic24" size="65536" crc="2e2d103d"/>
 		<rom name="a2_-sl0-.ic31" merge="a2_-sl0-.ic31" size="65536" crc="2287e0b3"/>
+		<rom name="a2_-c0-.ic1" merge="a2_-c0-.ic1" size="524288" crc="68b8f574"/>
+		<rom name="a2_-c1-.ic2" merge="a2_-c1-.ic2" size="524288" crc="0b9efe67"/>
+		<rom name="a2_-c2-.ic16" merge="a2_-c2-.ic16" size="524288" crc="7a9e9978"/>
+		<rom name="a2_-c3-.ic17" merge="a2_-c3-.ic17" size="524288" crc="1395ee6d"/>
+		<rom name="a2_-000-.ic44" merge="a2_-000-.ic44" size="1048576" crc="38e03147"/>
+		<rom name="a2_-010-.ic45" merge="a2_-010-.ic45" size="1048576" crc="1d5b05f8"/>
+		<rom name="a2_-020-.ic46" merge="a2_-020-.ic46" size="1048576" crc="f2f461cc"/>
+		<rom name="a2_-030-.ic47" merge="a2_-030-.ic47" size="1048576" crc="97609d9d"/>
+		<rom name="a2_-da-.ic10" merge="a2_-da-.ic10" size="1048576" crc="3c8cdb6a"/>
+		<rom name="m92_a-3m-.ic11" merge="m92_a-3m-.ic11" size="279" crc="fc718efe"/>
+		<rom name="m92_a-7j-.ic41" merge="m92_a-7j-.ic41" size="279" crc="5730b25a"/>
+		<rom name="m92_a-9j-.ic51" merge="m92_a-9j-.ic51" size="279" crc="92d477cf"/>
+		<rom name="m92_b-3f-.ic14" merge="m92_b-3f-.ic14" size="279" crc="52ecf083"/>
+		<rom name="m92_b-4f-.ic21" merge="m92_b-4f-.ic21" size="279" crc="5e87fd01"/>
+		<rom name="m92_b-7j-a.ic41" merge="m92_b-7j-a.ic41" size="279" crc="09f57872"/>
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
+	<game name="geostorma" cloneof="gunforc2" romof="gunforc2" sourcefile="irem/d_m92.cpp">
+		<description>Geo Storm (Japan, 026 sound CPU)</description>
+		<year>1994</year>
+		<manufacturer>Irem</manufacturer>
+		<rom name="ic37" size="262144" crc="9be58d09"/>
+		<rom name="ic49" size="262144" crc="59abb75d"/>
+		<rom name="ic36" merge="a2_-h1-.ic36" size="262144" crc="34280b88"/>
+		<rom name="ic48" merge="a2_-l1-.ic48" size="262144" crc="c8c13f51"/>
+		<rom name="ic24" size="65536" crc="62a13a96"/>
+		<rom name="ic31" size="65536" crc="16b8b6b5"/>
 		<rom name="a2_-c0-.ic1" merge="a2_-c0-.ic1" size="524288" crc="68b8f574"/>
 		<rom name="a2_-c1-.ic2" merge="a2_-c1-.ic2" size="524288" crc="0b9efe67"/>
 		<rom name="a2_-c2-.ic16" merge="a2_-c2-.ic16" size="524288" crc="7a9e9978"/>
@@ -69394,7 +69493,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="gpgolfa" cloneof="gpgolf" romof="gpgolf" sourcefile="pst90s/d_itech8.cpp">
-		<description>Golden Par Golf (Joystick, V1.0)</description>
+		<description>Golden Par Golf (Joystick, v1.0)</description>
 		<year>1991</year>
 		<manufacturer>Strata / Incredible Technologies</manufacturer>
 		<rom name="gpar.bin.u5" size="65536" crc="bcb030b0"/>
@@ -69407,7 +69506,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="gpgolf" sourcefile="pst90s/d_itech8.cpp">
-		<description>Golden Par Golf (Joystick, V1.1)</description>
+		<description>Golden Par Golf (Joystick, v1.1)</description>
 		<year>1992</year>
 		<manufacturer>Strata / Incredible Technologies</manufacturer>
 		<rom name="gpg_v1.1.u5" size="65536" crc="631e77e0"/>
@@ -70477,7 +70576,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="gtg2j" cloneof="gtg2" romof="gtg2" sourcefile="pst90s/d_itech8.cpp">
-		<description>Golden Tee Golf II (Joystick, V1.0)</description>
+		<description>Golden Tee Golf II (Joystick, v1.0)</description>
 		<year>1991</year>
 		<manufacturer>Strata / Incredible Technologies</manufacturer>
 		<rom name="gtg2.bim_1.0.u5" size="65536" crc="9c95ceaa"/>
@@ -70494,7 +70593,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="gtg2t" cloneof="gtg2" romof="gtg2" sourcefile="pst90s/d_itech8.cpp">
-		<description>Golden Tee Golf II (Trackball, V1.1)</description>
+		<description>Golden Tee Golf II (Trackball, v1.1)</description>
 		<year>1989</year>
 		<manufacturer>Strata / Incredible Technologies</manufacturer>
 		<rom name="gtgii_tb_v1.1.u5" size="65536" crc="c7b3a9f3"/>
@@ -70511,7 +70610,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="gtg2" sourcefile="pst90s/d_itech8.cpp">
-		<description>Golden Tee Golf II (Trackball, V2.2)</description>
+		<description>Golden Tee Golf II (Trackball, v2.2)</description>
 		<year>1992</year>
 		<manufacturer>Strata / Incredible Technologies</manufacturer>
 		<rom name="gtg2_v2_2.u5" size="65536" crc="4a61580f"/>
@@ -74169,7 +74268,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="gunforcej" cloneof="gunforce" romof="gunforce" sourcefile="irem/d_m92.cpp">
-		<description>Gunforce - Battle Fire Engulfed Terror Island (Japan)</description>
+		<description>Gunforce: Battle Fire Engulfed Terror Island (Japan)</description>
 		<year>1991</year>
 		<manufacturer>Irem</manufacturer>
 		<rom name="gf_b-h0-e.ic28" size="131072" crc="43c36e0f"/>
@@ -74196,7 +74295,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="gunforceu" cloneof="gunforce" romof="gunforce" sourcefile="irem/d_m92.cpp">
-		<description>Gunforce - Battle Fire Engulfed Terror Island (US)</description>
+		<description>Gunforce: Battle Fire Engulfed Terror Island (US)</description>
 		<year>1991</year>
 		<manufacturer>Irem America</manufacturer>
 		<rom name="gf_b-h0-d.ic28" size="131072" crc="a6db7b5c"/>
@@ -74223,7 +74322,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="gunforce" sourcefile="irem/d_m92.cpp">
-		<description>Gunforce - Battle Fire Engulfed Terror Island (World)</description>
+		<description>Gunforce: Battle Fire Engulfed Terror Island (World)</description>
 		<year>1991</year>
 		<manufacturer>Irem</manufacturer>
 		<rom name="gf_b-h0-c.ic28" size="131072" crc="c09bb634"/>
@@ -76415,6 +76514,24 @@
 		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
+	<game name="hedpanico" cloneof="hedpanic" romof="hedpanic" sourcefile="pst90s/d_esd16.cpp">
+		<comment>Story line &amp; game instructions in English</comment>
+		<description>Head Panic (ver. 0615, 15/06/1999)</description>
+		<year>1999</year>
+		<manufacturer>ESD</manufacturer>
+		<rom name="esd2.rom" size="262144" crc="70b08424"/>
+		<rom name="esd1.rom" size="262144" crc="4e0682c5"/>
+		<rom name="esd3.su06" merge="esd3.su06" size="262144" crc="a88d4424"/>
+		<rom name="sm1.ju01" size="2097152" crc="8083813f"/>
+		<rom name="sm2.ju02" size="2097152" crc="7a9610e4"/>
+		<rom name="esd5.rom" size="524288" crc="82c5727f"/>
+		<rom name="sm3.fu35" size="2097152" crc="94dd4cfc"/>
+		<rom name="sm4.fu34" size="2097152" crc="6da0fb9e"/>
+		<rom name="esd4.rom" size="131072" crc="d7ca6806"/>
+		<rom name="hedpanic.nv" merge="hedpanic.nv" size="128" crc="e91f4038"/>
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
 	<game name="hedpanica" cloneof="hedpanic" romof="hedpanic" sourcefile="pst90s/d_esd16.cpp">
 		<comment>Story line &amp; game instructions in English</comment>
 		<description>Head Panic (ver. 0702, 02/07/1999)</description>
@@ -76729,7 +76846,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="hvysmsha" cloneof="hvysmsh" romof="hvysmsh" sourcefile="dataeast/d_deco156.cpp">
-		<description>Heavy Smash (Asia version -4)</description>
+		<description>Heavy Smash (Asia version -4, 1993/09/06)</description>
 		<year>1993</year>
 		<manufacturer>Data East Corporation</manufacturer>
 		<rom name="xx00-4.2j" size="524288" crc="333a92c1"/>
@@ -76743,7 +76860,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="hvysmsh" sourcefile="dataeast/d_deco156.cpp">
-		<description>Heavy Smash (Europe version -2)</description>
+		<description>Heavy Smash (Europe version -2, 1993/06/30)</description>
 		<year>1993</year>
 		<manufacturer>Data East Corporation</manufacturer>
 		<rom name="lt00-2.2j" size="524288" crc="f6e10fc0"/>
@@ -76757,7 +76874,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="hvysmshj" cloneof="hvysmsh" romof="hvysmsh" sourcefile="dataeast/d_deco156.cpp">
-		<description>Heavy Smash (Japan version -2)</description>
+		<description>Heavy Smash (Japan version -2, 1993/06/30)</description>
 		<year>1993</year>
 		<manufacturer>Data East Corporation</manufacturer>
 		<rom name="lp00-2.2j" size="524288" crc="3f8fd724"/>
@@ -79491,7 +79608,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="hstennis10" cloneof="hstennis" romof="hstennis" sourcefile="pst90s/d_itech8.cpp">
-		<description>Hot Shots Tennis (V1.0)</description>
+		<description>Hot Shots Tennis (v1.0)</description>
 		<year>1990</year>
 		<manufacturer>Strata / Incredible Technologies</manufacturer>
 		<rom name="ten.bim_v1.0_u5.u5" size="65536" crc="d108a6e0"/>
@@ -79507,7 +79624,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="hstennis" sourcefile="pst90s/d_itech8.cpp">
-		<description>Hot Shots Tennis (V1.1)</description>
+		<description>Hot Shots Tennis (v1.1)</description>
 		<year>1990</year>
 		<manufacturer>Strata / Incredible Technologies</manufacturer>
 		<rom name="ten.bim_v1.1_u5.u5" size="65536" crc="faffab5c"/>
@@ -79944,6 +80061,142 @@
 		<rom name="ts_hyper-4.u77" merge="ts_hyper-4.u77" size="1048576" crc="f88c6d33"/>
 		<rom name="97.u97" merge="97.u97" size="262144" crc="bf3f8574"/>
 		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
+	<game name="sidearmsj" cloneof="sidearms" romof="sidearms" sourcefile="pre90s/d_sidearms.cpp">
+		<description>Hyper Dyne Side Arms (Japan, 861128)</description>
+		<year>1986</year>
+		<manufacturer>Capcom</manufacturer>
+		<rom name="a_15e.rom" size="32768" crc="61ceb0cc"/>
+		<rom name="a_14e.rom" merge="a_14e.rom" size="32768" crc="4925ed03"/>
+		<rom name="a_12e.rom" merge="a_12e.rom" size="32768" crc="81d0ece7"/>
+		<rom name="a_04k.rom" merge="a_04k.rom" size="32768" crc="34efe2d2"/>
+		<rom name="b_11j.rom" merge="b_11j.rom" size="32768" crc="134dc35b"/>
+		<rom name="a_10j.rom" merge="a_10j.rom" size="16384" crc="651fef75"/>
+		<rom name="b_13d.rom" merge="b_13d.rom" size="32768" crc="3c59afe1"/>
+		<rom name="b_13e.rom" merge="b_13e.rom" size="32768" crc="64bc3b77"/>
+		<rom name="b_13f.rom" merge="b_13f.rom" size="32768" crc="e6bcea6f"/>
+		<rom name="b_13g.rom" merge="b_13g.rom" size="32768" crc="c71a3053"/>
+		<rom name="b_14d.rom" merge="b_14d.rom" size="32768" crc="826e8a97"/>
+		<rom name="b_14e.rom" merge="b_14e.rom" size="32768" crc="6cfc02a4"/>
+		<rom name="b_14f.rom" merge="b_14f.rom" size="32768" crc="9b9f6730"/>
+		<rom name="b_14g.rom" merge="b_14g.rom" size="32768" crc="ef6af630"/>
+		<rom name="b_11b.rom" merge="b_11b.rom" size="32768" crc="eb6f278c"/>
+		<rom name="b_13b.rom" merge="b_13b.rom" size="32768" crc="e91b4014"/>
+		<rom name="b_11a.rom" merge="b_11a.rom" size="32768" crc="2822c522"/>
+		<rom name="b_13a.rom" merge="b_13a.rom" size="32768" crc="3e8a9f75"/>
+		<rom name="b_12b.rom" merge="b_12b.rom" size="32768" crc="86e43eda"/>
+		<rom name="b_14b.rom" merge="b_14b.rom" size="32768" crc="076e92d1"/>
+		<rom name="b_12a.rom" merge="b_12a.rom" size="32768" crc="ce107f3c"/>
+		<rom name="b_14a.rom" merge="b_14a.rom" size="32768" crc="dba06076"/>
+		<rom name="b_03d.rom" merge="b_03d.rom" size="32768" crc="6f348008"/>
+		<rom name="63s141.16h" merge="63s141.16h" size="256" crc="75af3553"/>
+		<rom name="63s141.11h" merge="63s141.11h" size="256" crc="a6e4d68f"/>
+		<rom name="63s141.15h" merge="63s141.15h" size="256" crc="c47c182a"/>
+		<rom name="63s081.3j" merge="63s081.3j" size="32" crc="c5817816"/>
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
+	<game name="sidearmsur1" cloneof="sidearms" romof="sidearms" sourcefile="pre90s/d_sidearms.cpp">
+		<description>Hyper Dyne Side Arms (US, 861128)</description>
+		<year>1986</year>
+		<manufacturer>Capcom (Romstar license)</manufacturer>
+		<rom name="03" size="32768" crc="9a799c45"/>
+		<rom name="a_14e.rom" merge="a_14e.rom" size="32768" crc="4925ed03"/>
+		<rom name="a_12e.rom" merge="a_12e.rom" size="32768" crc="81d0ece7"/>
+		<rom name="a_04k.rom" merge="a_04k.rom" size="32768" crc="34efe2d2"/>
+		<rom name="b_11j.rom" merge="b_11j.rom" size="32768" crc="134dc35b"/>
+		<rom name="a_10j.rom" merge="a_10j.rom" size="16384" crc="651fef75"/>
+		<rom name="b_13d.rom" merge="b_13d.rom" size="32768" crc="3c59afe1"/>
+		<rom name="b_13e.rom" merge="b_13e.rom" size="32768" crc="64bc3b77"/>
+		<rom name="b_13f.rom" merge="b_13f.rom" size="32768" crc="e6bcea6f"/>
+		<rom name="b_13g.rom" merge="b_13g.rom" size="32768" crc="c71a3053"/>
+		<rom name="b_14d.rom" merge="b_14d.rom" size="32768" crc="826e8a97"/>
+		<rom name="b_14e.rom" merge="b_14e.rom" size="32768" crc="6cfc02a4"/>
+		<rom name="b_14f.rom" merge="b_14f.rom" size="32768" crc="9b9f6730"/>
+		<rom name="b_14g.rom" merge="b_14g.rom" size="32768" crc="ef6af630"/>
+		<rom name="b_11b.rom" merge="b_11b.rom" size="32768" crc="eb6f278c"/>
+		<rom name="b_13b.rom" merge="b_13b.rom" size="32768" crc="e91b4014"/>
+		<rom name="b_11a.rom" merge="b_11a.rom" size="32768" crc="2822c522"/>
+		<rom name="b_13a.rom" merge="b_13a.rom" size="32768" crc="3e8a9f75"/>
+		<rom name="b_12b.rom" merge="b_12b.rom" size="32768" crc="86e43eda"/>
+		<rom name="b_14b.rom" merge="b_14b.rom" size="32768" crc="076e92d1"/>
+		<rom name="b_12a.rom" merge="b_12a.rom" size="32768" crc="ce107f3c"/>
+		<rom name="b_14a.rom" merge="b_14a.rom" size="32768" crc="dba06076"/>
+		<rom name="b_03d.rom" merge="b_03d.rom" size="32768" crc="6f348008"/>
+		<rom name="63s141.16h" merge="63s141.16h" size="256" crc="75af3553"/>
+		<rom name="63s141.11h" merge="63s141.11h" size="256" crc="a6e4d68f"/>
+		<rom name="63s141.15h" merge="63s141.15h" size="256" crc="c47c182a"/>
+		<rom name="63s081.3j" merge="63s081.3j" size="32" crc="c5817816"/>
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
+	<game name="sidearmsu" cloneof="sidearms" romof="sidearms" sourcefile="pre90s/d_sidearms.cpp">
+		<description>Hyper Dyne Side Arms (US, 861202)</description>
+		<year>1986</year>
+		<manufacturer>Capcom (Romstar license)</manufacturer>
+		<rom name="saa_03.15e" size="32768" crc="32ef2739"/>
+		<rom name="a_14e.rom" merge="a_14e.rom" size="32768" crc="4925ed03"/>
+		<rom name="a_12e.rom" merge="a_12e.rom" size="32768" crc="81d0ece7"/>
+		<rom name="a_04k.rom" merge="a_04k.rom" size="32768" crc="34efe2d2"/>
+		<rom name="b_11j.rom" merge="b_11j.rom" size="32768" crc="134dc35b"/>
+		<rom name="a_10j.rom" merge="a_10j.rom" size="16384" crc="651fef75"/>
+		<rom name="b_13d.rom" merge="b_13d.rom" size="32768" crc="3c59afe1"/>
+		<rom name="b_13e.rom" merge="b_13e.rom" size="32768" crc="64bc3b77"/>
+		<rom name="b_13f.rom" merge="b_13f.rom" size="32768" crc="e6bcea6f"/>
+		<rom name="b_13g.rom" merge="b_13g.rom" size="32768" crc="c71a3053"/>
+		<rom name="b_14d.rom" merge="b_14d.rom" size="32768" crc="826e8a97"/>
+		<rom name="b_14e.rom" merge="b_14e.rom" size="32768" crc="6cfc02a4"/>
+		<rom name="b_14f.rom" merge="b_14f.rom" size="32768" crc="9b9f6730"/>
+		<rom name="b_14g.rom" merge="b_14g.rom" size="32768" crc="ef6af630"/>
+		<rom name="b_11b.rom" merge="b_11b.rom" size="32768" crc="eb6f278c"/>
+		<rom name="b_13b.rom" merge="b_13b.rom" size="32768" crc="e91b4014"/>
+		<rom name="b_11a.rom" merge="b_11a.rom" size="32768" crc="2822c522"/>
+		<rom name="b_13a.rom" merge="b_13a.rom" size="32768" crc="3e8a9f75"/>
+		<rom name="b_12b.rom" merge="b_12b.rom" size="32768" crc="86e43eda"/>
+		<rom name="b_14b.rom" merge="b_14b.rom" size="32768" crc="076e92d1"/>
+		<rom name="b_12a.rom" merge="b_12a.rom" size="32768" crc="ce107f3c"/>
+		<rom name="b_14a.rom" merge="b_14a.rom" size="32768" crc="dba06076"/>
+		<rom name="b_03d.rom" merge="b_03d.rom" size="32768" crc="6f348008"/>
+		<rom name="63s141.16h" merge="63s141.16h" size="256" crc="75af3553"/>
+		<rom name="63s141.11h" merge="63s141.11h" size="256" crc="a6e4d68f"/>
+		<rom name="63s141.15h" merge="63s141.15h" size="256" crc="c47c182a"/>
+		<rom name="63s081.3j" merge="63s081.3j" size="32" crc="c5817816"/>
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
+	<game name="sidearms" sourcefile="pre90s/d_sidearms.cpp">
+		<description>Hyper Dyne Side Arms (World, 861129)</description>
+		<year>1986</year>
+		<manufacturer>Capcom</manufacturer>
+		<rom name="sa03.bin" size="32768" crc="e10fe6a0"/>
+		<rom name="a_14e.rom" size="32768" crc="4925ed03"/>
+		<rom name="a_12e.rom" size="32768" crc="81d0ece7"/>
+		<rom name="a_04k.rom" size="32768" crc="34efe2d2"/>
+		<rom name="b_11j.rom" size="32768" crc="134dc35b"/>
+		<rom name="a_10j.rom" size="16384" crc="651fef75"/>
+		<rom name="b_13d.rom" size="32768" crc="3c59afe1"/>
+		<rom name="b_13e.rom" size="32768" crc="64bc3b77"/>
+		<rom name="b_13f.rom" size="32768" crc="e6bcea6f"/>
+		<rom name="b_13g.rom" size="32768" crc="c71a3053"/>
+		<rom name="b_14d.rom" size="32768" crc="826e8a97"/>
+		<rom name="b_14e.rom" size="32768" crc="6cfc02a4"/>
+		<rom name="b_14f.rom" size="32768" crc="9b9f6730"/>
+		<rom name="b_14g.rom" size="32768" crc="ef6af630"/>
+		<rom name="b_11b.rom" size="32768" crc="eb6f278c"/>
+		<rom name="b_13b.rom" size="32768" crc="e91b4014"/>
+		<rom name="b_11a.rom" size="32768" crc="2822c522"/>
+		<rom name="b_13a.rom" size="32768" crc="3e8a9f75"/>
+		<rom name="b_12b.rom" size="32768" crc="86e43eda"/>
+		<rom name="b_14b.rom" size="32768" crc="076e92d1"/>
+		<rom name="b_12a.rom" size="32768" crc="ce107f3c"/>
+		<rom name="b_14a.rom" size="32768" crc="dba06076"/>
+		<rom name="b_03d.rom" size="32768" crc="6f348008"/>
+		<rom name="63s141.16h" size="256" crc="75af3553"/>
+		<rom name="63s141.11h" size="256" crc="a6e4d68f"/>
+		<rom name="63s141.15h" size="256" crc="c47c182a"/>
+		<rom name="63s081.3j" size="32" crc="c5817816"/>
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
 	<game name="hpolym84" cloneof="hyperspt" romof="hyperspt" sourcefile="konami/d_hyperspt.cpp">
@@ -80725,7 +80978,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="ibarao" cloneof="ibara" romof="ibara" sourcefile="cave/d_cv1k.cpp">
-		<description>Ibara (2005/03/22 MASTER VER..)</description>
+		<description>Ibara (Japan, 2005/03/22 MASTER VER..)</description>
 		<year>2005</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="ibarao_u4" size="2097152" crc="8e6c155d"/>
@@ -80736,7 +80989,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="ibara" sourcefile="cave/d_cv1k.cpp">
-		<description>Ibara (2005/03/22 MASTER VER.., '06. 3. 7 ver.)</description>
+		<description>Ibara (Japan, 2005/03/22 MASTER VER.., '06. 3. 7 ver.)</description>
 		<year>2005</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="ibara_u4" size="2097152" crc="d5fb6657"/>
@@ -80747,7 +81000,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="ibarablka" cloneof="ibarablk" romof="ibarablk" sourcefile="cave/d_cv1k.cpp">
-		<description>Ibara Kuro Black Label (2006/02/06 MASTER VER.)</description>
+		<description>Ibara Kuro Black Label (Japan, 2006/02/06 MASTER VER.)</description>
 		<year>2006</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="ibarablka_u4" size="2097152" crc="a9d43839"/>
@@ -80758,7 +81011,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="ibarablk" sourcefile="cave/d_cv1k.cpp">
-		<description>Ibara Kuro Black Label (2006/02/06. MASTER VER.)</description>
+		<description>Ibara Kuro Black Label (Japan, 2006/02/06. MASTER VER.)</description>
 		<year>2006</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="ibarablk_u4" size="2097152" crc="ee1f1f77"/>
@@ -83598,7 +83851,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="joemacrj" cloneof="joemacr" romof="joemacr" sourcefile="dataeast/d_simpl156.cpp">
-		<description>Joe &amp; Mac Returns (Japan, Version 1.2, 1994.06.06)</description>
+		<description>Joe &amp; Mac Returns (Japan, Master Version 1.2, 1994.06.06)</description>
 		<year>1994</year>
 		<manufacturer>Data East Corporation</manufacturer>
 		<rom name="my00-.e1" size="524288" crc="2c184981"/>
@@ -83612,7 +83865,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="joemacra" cloneof="joemacr" romof="joemacr" sourcefile="dataeast/d_simpl156.cpp">
-		<description>Joe &amp; Mac Returns (World, Version 1.0, 1994.05.19)</description>
+		<description>Joe &amp; Mac Returns (World, Master Version 1.0, 1994.05.19)</description>
 		<year>1994</year>
 		<manufacturer>Data East Corporation</manufacturer>
 		<rom name="mw00" size="524288" crc="e1b78f40"/>
@@ -83625,7 +83878,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="joemacr" sourcefile="dataeast/d_simpl156.cpp">
-		<description>Joe &amp; Mac Returns (World, Version 1.1, 1994.05.27)</description>
+		<description>Joe &amp; Mac Returns (World, Master Version 1.1, 1994.05.27)</description>
 		<year>1994</year>
 		<manufacturer>Data East Corporation</manufacturer>
 		<rom name="05.u29" size="524288" crc="74e9a158"/>
@@ -85493,21 +85746,21 @@
 		<video type="raster" orientation="horizontal" width="256" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
-	<game name="jumppop" sourcefile="pst90s/d_tumbleb.cpp">
+	<game name="jumppop" sourcefile="pst90s/d_esd16.cpp">
 		<description>Jumping Pop (set 1)</description>
 		<year>2001</year>
 		<manufacturer>ESD</manufacturer>
 		<rom name="68k_prg.bin" size="524288" crc="123536b9"/>
 		<rom name="z80_prg.bin" size="262144" crc="a88d4424"/>
-		<rom name="bg0.bin" size="1048576" crc="35a1363d"/>
-		<rom name="bg1.bin" size="1048576" crc="5b37f943"/>
 		<rom name="sp0.bin" size="1048576" crc="7c5d0633"/>
 		<rom name="sp1.bin" size="1048576" crc="7eae782e"/>
+		<rom name="bg1.bin" size="1048576" crc="5b37f943"/>
+		<rom name="bg0.bin" size="1048576" crc="35a1363d"/>
 		<rom name="samples.bin" size="262144" crc="066f30a7"/>
 		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
-	<game name="jumppope" cloneof="jumppop" romof="jumppop" sourcefile="pst90s/d_tumbleb.cpp">
+	<game name="jumppope" cloneof="jumppop" romof="jumppop" sourcefile="pst90s/d_esd16.cpp">
 		<description>Jumping Pop (set 2)</description>
 		<year>2001</year>
 		<manufacturer>Emag Soft</manufacturer>
@@ -88322,7 +88575,7 @@
 	<game name="kingofbj" cloneof="kingofb" romof="kingofb" sourcefile="pre90s/d_kingofbox.cpp">
 		<description>King of Boxer (Japan)</description>
 		<year>1985</year>
-		<manufacturer>Woodplace Inc.</manufacturer>
+		<manufacturer>Wood Place</manufacturer>
 		<rom name="22.d9" merge="22.d9" size="16384" crc="6220bfa2"/>
 		<rom name="23.e9" merge="23.e9" size="16384" crc="5782fdd8"/>
 		<rom name="21.b9" merge="21.b9" size="16384" crc="3fb39489"/>
@@ -88354,7 +88607,7 @@
 	<game name="kingofb" sourcefile="pre90s/d_kingofbox.cpp">
 		<description>King of Boxer (World)</description>
 		<year>1985</year>
-		<manufacturer>Woodplace Inc.</manufacturer>
+		<manufacturer>Wood Place</manufacturer>
 		<rom name="22.d9" size="16384" crc="6220bfa2"/>
 		<rom name="23.e9" size="16384" crc="5782fdd8"/>
 		<rom name="21.b9" size="16384" crc="3fb39489"/>
@@ -92492,7 +92745,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="brkthruj" cloneof="brkthru" romof="brkthru" sourcefile="dataeast/d_brkthru.cpp">
-		<description>Kyohkoh-Toppa (Japan)</description>
+		<description>Kyoukou Toppa (Japan)</description>
 		<year>1986</year>
 		<manufacturer>Data East Corporation</manufacturer>
 		<rom name="1" size="16384" crc="09bd60ee"/>
@@ -93601,21 +93854,6 @@
 		<video type="raster" orientation="horizontal" width="360" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
-	<game name="lastfortg" cloneof="lastfort" romof="lastfort" sourcefile="pst90s/d_metro.cpp">
-		<description>Last Fortress - Toride (Germany)</description>
-		<year>1994</year>
-		<manufacturer>Metro</manufacturer>
-		<rom name="tr_ma02.8g" size="131072" crc="e6f40918"/>
-		<rom name="tr_ma03.10g" size="131072" crc="b00fb126"/>
-		<rom name="tr_ma01.1i" merge="tr_jb12" size="131072" crc="8a8f5fef"/>
-		<rom name="tr_ma04.15f" size="524288" crc="5feafc6f"/>
-		<rom name="tr_ma07.17d" size="524288" crc="7519d569"/>
-		<rom name="tr_ma05.17f" size="524288" crc="5d917ba5"/>
-		<rom name="tr_ma06.15d" size="524288" crc="d366c04e"/>
-		<rom name="tr_ma08.1d" merge="tr_jb11" size="131072" crc="83786a09"/>
-		<video type="raster" orientation="horizontal" width="360" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-	</game>
 	<game name="lastfort" sourcefile="pst90s/d_metro.cpp">
 		<description>Last Fortress - Toride (Japan, VG420 PCB)</description>
 		<year>1994</year>
@@ -93653,7 +93891,7 @@
 	<game name="lastfortk" cloneof="lastfort" romof="lastfort" sourcefile="pst90s/d_metro.cpp">
 		<description>Last Fortress - Toride (Korea)</description>
 		<year>1994</year>
-		<manufacturer>Metro</manufacturer>
+		<manufacturer>Metro (Grand Computer license)</manufacturer>
 		<rom name="7f-9" size="131072" crc="d2894c1f"/>
 		<rom name="8f-10" size="131072" crc="9696ea39"/>
 		<rom name="tr_jb12" merge="tr_jb12" size="131072" crc="8a8f5fef"/>
@@ -93666,6 +93904,21 @@
 		<rom name="12i-5" size="262144" crc="ce69c805"/>
 		<rom name="14i-7" size="262144" crc="0cb38317"/>
 		<rom name="tr_jb11" merge="tr_jb11" size="131072" crc="83786a09"/>
+		<video type="raster" orientation="horizontal" width="360" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
+	<game name="lastfortg" cloneof="lastfort" romof="lastfort" sourcefile="pst90s/d_metro.cpp">
+		<description>Last Fortress - Toride: Mah-jong (Germany)</description>
+		<year>1994</year>
+		<manufacturer>Metro</manufacturer>
+		<rom name="tr_ma02.8g" size="131072" crc="e6f40918"/>
+		<rom name="tr_ma03.10g" size="131072" crc="b00fb126"/>
+		<rom name="tr_ma01.1i" merge="tr_jb12" size="131072" crc="8a8f5fef"/>
+		<rom name="tr_ma04.15f" size="524288" crc="5feafc6f"/>
+		<rom name="tr_ma07.17d" size="524288" crc="7519d569"/>
+		<rom name="tr_ma05.17f" size="524288" crc="5d917ba5"/>
+		<rom name="tr_ma06.15d" size="524288" crc="d366c04e"/>
+		<rom name="tr_ma08.1d" merge="tr_jb11" size="131072" crc="83786a09"/>
 		<video type="raster" orientation="horizontal" width="360" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
@@ -93727,10 +93980,10 @@
 	</game>
 	<game name="lasthopepb" cloneof="lasthope" romof="lasthope" sourcefile="neogeo/d_neogeo.cpp">
 		<comment>Hack, Bootleg</comment>
-		<description>Last Hope - Pink Bullets v1.30 (bootleg AES to MVS conversion, no coin support) (Hack)</description>
+		<description>Last Hope - Pink Bullets v1.40 (bootleg AES to MVS conversion, no coin support) (Hack)</description>
 		<year>2026</year>
 		<manufacturer>LoW</manufacturer>
-		<rom name="ngdt-300-p1pb.bin" size="1048576" crc="25c1867d"/>
+		<rom name="ngdt-300-p1pb.bin" size="1048576" crc="918bb988"/>
 		<rom name="ngdt-300-s1pb.bin" size="131072" crc="36c54e06"/>
 		<rom name="ngdt-300-c1pb.bin" size="4194304" crc="bc2d2a8b"/>
 		<rom name="ngdt-300-c2pb.bin" size="4194304" crc="1673318d"/>
@@ -98468,7 +98721,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="magdrop" cloneof="chainrec" romof="chainrec" sourcefile="dataeast/d_simpl156.cpp">
-		<description>Magical Drop (Japan, Version 1.1, 1995.06.21)</description>
+		<description>Magical Drop (Japan, Master Version 1.5, 1995.06.21)</description>
 		<year>1995</year>
 		<manufacturer>Data East Corporation</manufacturer>
 		<rom name="re00-2.e1" size="524288" crc="7138f10f"/>
@@ -98697,7 +98950,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="magdropp" cloneof="chainrec" romof="chainrec" sourcefile="dataeast/d_simpl156.cpp">
-		<description>Magical Drop Plus 1 (Japan, Version 2.1, 1995.09.12)</description>
+		<description>Magical Drop Plus 1 (Japan, Master Version 2.1, 1995.09.12)</description>
 		<year>1995</year>
 		<manufacturer>Data East Corporation</manufacturer>
 		<rom name="rz00-1.e1" size="524288" crc="28caf639"/>
@@ -99705,7 +99958,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="majtitl2" sourcefile="irem/d_m92.cpp">
-		<description>Major Title 2 (World, set 1)</description>
+		<description>Major Title 2 (World, set 1, 017 sound CPU)</description>
 		<year>1992</year>
 		<manufacturer>Irem</manufacturer>
 		<rom name="mt2_h0-b.ic34" size="262144" crc="b163b12e"/>
@@ -99733,7 +99986,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="majtitl2a" cloneof="majtitl2" romof="majtitl2" sourcefile="irem/d_m92.cpp">
-		<description>Major Title 2 (World, set 1, alt sound CPU)</description>
+		<description>Major Title 2 (World, set 2, 016 sound CPU)</description>
 		<year>1992</year>
 		<manufacturer>Irem</manufacturer>
 		<rom name="mt2_h0-.ic34" merge="mt2_h0-b.ic34" size="262144" crc="b163b12e"/>
@@ -99761,7 +100014,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="majtitl2b" cloneof="majtitl2" romof="majtitl2" sourcefile="irem/d_m92.cpp">
-		<description>Major Title 2 (World, set 2)</description>
+		<description>Major Title 2 (World, set 3)</description>
 		<year>1992</year>
 		<manufacturer>Irem</manufacturer>
 		<rom name="mt2_h0-e.ic34" size="262144" crc="f6c3a28c"/>
@@ -101680,6 +101933,35 @@
 		<rom name="msh.11m" size="2097152" crc="37ac6d30"/>
 		<rom name="msh.12m" size="2097152" crc="de092570"/>
 		<rom name="msh.key" size="20" crc="b494368e"/>
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
+	<game name="mshrest" cloneof="msh" romof="msh" sourcefile="capcom/d_cps2.cpp">
+		<comment>Hack</comment>
+		<description>Marvel Super Heroes (Hack, English Restoration RC1)</description>
+		<year>2026</year>
+		<manufacturer>Strygo</manufacturer>
+		<rom name="mshre.03g" size="524288" crc="edd4f25b"/>
+		<rom name="mshre.04g" size="524288" crc="60ca0735"/>
+		<rom name="mshre.05a" size="524288" crc="95049589"/>
+		<rom name="mshre.06b" size="524288" crc="fc757e48"/>
+		<rom name="msh.07a" merge="msh.07a" size="524288" crc="c45f8e27"/>
+		<rom name="mshre.08a" size="524288" crc="0b5682d2"/>
+		<rom name="msh.09a" merge="msh.09a" size="524288" crc="82ec27af"/>
+		<rom name="mshre.10b" size="524288" crc="f41feed9"/>
+		<rom name="mshre.13m" size="4194304" crc="3b0239bb"/>
+		<rom name="mshre.15m" size="4194304" crc="36a317d3"/>
+		<rom name="mshre.17m" size="4194304" crc="796d8360"/>
+		<rom name="mshre.19m" size="4194304" crc="ae6ae182"/>
+		<rom name="msh.14m" merge="msh.14m" size="4194304" crc="4197973e"/>
+		<rom name="msh.16m" merge="msh.16m" size="4194304" crc="438da4a0"/>
+		<rom name="msh.18m" merge="msh.18m" size="4194304" crc="4db92d94"/>
+		<rom name="msh.20m" merge="msh.20m" size="4194304" crc="a2b0c6c0"/>
+		<rom name="msh.01" merge="msh.01" size="131072" crc="c976e6f9"/>
+		<rom name="msh.02" merge="msh.02" size="131072" crc="ce67d0d9"/>
+		<rom name="msh.11m" merge="msh.11m" size="2097152" crc="37ac6d30"/>
+		<rom name="msh.12m" merge="msh.12m" size="2097152" crc="de092570"/>
+		<rom name="mshj.key" size="20" crc="888761ac"/>
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
@@ -117359,7 +117641,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="mmpork" sourcefile="cave/d_cv1k.cpp">
-		<description>Muchi Muchi Pork! (2007/ 4/17 MASTER VER.)</description>
+		<description>Muchi Muchi Pork! (Japan, 2007/ 4/17 MASTER VER.)</description>
 		<year>2007</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="u4" size="2097152" crc="d06cfa42"/>
@@ -117581,6 +117863,18 @@
 		<rom name="esd9.fu28" size="524288" crc="6652c04a"/>
 		<rom name="esd10.fu31" size="524288" crc="d815974b"/>
 		<rom name="esd4.su10" size="131072" crc="6e741fcd"/>
+		<rom name="mx29f1610ml.fu27_fu32" size="2097152" status="nodump"/>
+		<rom name="mx29f1610ml.fu28_fu31" size="2097152" status="nodump"/>
+		<rom name="palce22v10h-25pc-4.cu04" size="733" status="nodump"/>
+		<rom name="palce22v10h-25pc-4.cu05" size="733" status="nodump"/>
+		<rom name="palce22v10h-25pc-4.du05" size="733" status="nodump"/>
+		<rom name="palce22v10h-25pc-4.fu01" size="733" status="nodump"/>
+		<rom name="palce16v8h-25.du03" size="279" status="nodump"/>
+		<rom name="palce16v8h-25.ru27" size="279" status="nodump"/>
+		<rom name="palce16v8h-25.fu01" size="279" status="nodump"/>
+		<rom name="palce16v8h-25.su07" size="279" status="nodump"/>
+		<rom name="a40mx04-f-pl84.bu01" size="512" status="nodump"/>
+		<rom name="a40mx04-f-pl84.du16" size="512" status="nodump"/>
 		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
@@ -117855,7 +118149,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="mushisamb" cloneof="mushisam" romof="mushisam" sourcefile="cave/d_cv1k.cpp">
-		<description>Mushihime-Sama (2004/10/12 MASTER VER)</description>
+		<description>Mushihime-Sama (Japan, 2004/10/12 MASTER VER)</description>
 		<year>2004</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="mushisamb_u4" size="2097152" crc="9f1c7f51"/>
@@ -117866,7 +118160,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="mushisama" cloneof="mushisam" romof="mushisam" sourcefile="cave/d_cv1k.cpp">
-		<description>Mushihime-Sama (2004/10/12 MASTER VER.)</description>
+		<description>Mushihime-Sama (Japan, 2004/10/12 MASTER VER.)</description>
 		<year>2004</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="mushisama_u4" size="2097152" crc="0b5b30b2"/>
@@ -117877,7 +118171,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="mushisam" sourcefile="cave/d_cv1k.cpp">
-		<description>Mushihime-Sama (2004/10/12.MASTER VER.)</description>
+		<description>Mushihime-Sama (Japan, 2004/10/12.MASTER VER.)</description>
 		<year>2004</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="mushisam_u4" size="2097152" crc="15321b30"/>
@@ -117888,7 +118182,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="futariblj" cloneof="futaribl" romof="futaribl" sourcefile="cave/d_cv1k.cpp">
-		<description>Mushihime-Sama Futari Black Label (2007/12/11 BLACK LABEL VER)</description>
+		<description>Mushihime-Sama Futari Black Label (Japan, 2007/12/11 BLACK LABEL VER)</description>
 		<year>2007</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="futariblk_u4" size="2097152" crc="b9467b6d"/>
@@ -117899,7 +118193,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="futaribl" sourcefile="cave/d_cv1k.cpp">
-		<description>Mushihime-Sama Futari Black Label - Another Ver (2009/11/27 INTERNATIONAL BL)</description>
+		<description>Mushihime-Sama Futari Black Label - Another Ver (World, 2009/11/27 INTERNATIONAL BL)</description>
 		<year>2007</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="futaribli_u4" size="2097152" crc="1971dd16"/>
@@ -117910,7 +118204,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="futari10" cloneof="futari15" romof="futari15" sourcefile="cave/d_cv1k.cpp">
-		<description>Mushihime-Sama Futari Ver 1.0 (2006/10/23 MASTER VER.)</description>
+		<description>Mushihime-Sama Futari Ver 1.0 (Japan, 2006/10/23 MASTER VER.)</description>
 		<year>2006</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="futari10_u4" size="2097152" crc="b127dca7"/>
@@ -117921,7 +118215,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="futari15a" cloneof="futari15" romof="futari15" sourcefile="cave/d_cv1k.cpp">
-		<description>Mushihime-Sama Futari Ver 1.5 (2006/12/8 MASTER VER 1.54)</description>
+		<description>Mushihime-Sama Futari Ver 1.5 (Japan, 2006/12/8 MASTER VER 1.54)</description>
 		<year>2006</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="futari15a_u4" size="2097152" crc="a609cf89"/>
@@ -117932,7 +118226,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="futari15" sourcefile="cave/d_cv1k.cpp">
-		<description>Mushihime-Sama Futari Ver 1.5 (2006/12/8.MASTER VER. 1.54.)</description>
+		<description>Mushihime-Sama Futari Ver 1.5 (Japan, 2006/12/8.MASTER VER. 1.54.)</description>
 		<year>2006</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="futari15_u4" size="2097152" crc="e8c5f128"/>
@@ -117943,7 +118237,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="matsuri15" sourcefile="cave/d_cv1k.cpp">
-		<description>Mushihime-Sama Matsuri Ver 1.5 (2011/5/23 CAVEMATSURI VER1.5)</description>
+		<description>Mushihime-Sama Matsuri Ver 1.5 (Japan, 2011/5/23 CAVEMATSURI VER1.5)</description>
 		<year>2011</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="matsuri15_u4" size="2097152" crc="6af99f0e"/>
@@ -120719,7 +121013,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="neckneck" sourcefile="pst90s/d_itech8.cpp">
-		<description>Neck-n-Neck (v1.2)</description>
+		<description>Neck-N-Neck (v1.2)</description>
 		<year>1992</year>
 		<manufacturer>Bundra Games / Incredible Technologies</manufacturer>
 		<rom name="nn_prg12.u5" size="65536" crc="8e51734a"/>
@@ -121812,20 +122106,20 @@
 	</game>
 	<game name="turfmastplus" cloneof="turfmast" romof="turfmast" sourcefile="neogeo/d_neogeo.cpp">
 		<comment>Hack</comment>
-		<description>Neo Turf Masters / Big Tournament Golf (Hack, Plus v1.0)</description>
+		<description>Neo Turf Masters / Big Tournament Golf (Hack, Plus v2.0)</description>
 		<year>2026</year>
 		<manufacturer>hack (TheEnemy)</manufacturer>
-		<rom name="200-p1p.p1" size="2097152" crc="9f9d50a5"/>
-		<rom name="200-s1p.s1" size="131072" crc="edd8a8e6"/>
-		<rom name="200-c1p.c1" size="4194304" crc="fd0220e1"/>
-		<rom name="200-c2p.c2" size="4194304" crc="fee05bf6"/>
-		<rom name="200-c3p.c3" size="4194304" crc="10fc8214"/>
-		<rom name="200-c4p.c4" size="4194304" crc="0f83f209"/>
-		<rom name="200-m1p.m1" size="131072" crc="7d4d4616"/>
+		<rom name="200-p1pl.p1" size="2097152" crc="b41f72c1"/>
+		<rom name="200-s1pl.s1" size="131072" crc="df08a9ae"/>
+		<rom name="200-c1pl.c1" size="4194304" crc="bace1b78"/>
+		<rom name="200-c2pl.c2" size="4194304" crc="b007fea9"/>
+		<rom name="200-c3pl.c3" size="4194304" crc="10fc8214"/>
+		<rom name="200-c4pl.c4" size="4194304" crc="0f83f209"/>
+		<rom name="200-m1pl.m1" size="131072" crc="3547983f"/>
 		<rom name="200-v1.v1" merge="200-v1.v1" size="2097152" crc="00fd48d2"/>
 		<rom name="200-v2.v2" merge="200-v2.v2" size="2097152" crc="082acb31"/>
 		<rom name="200-v3.v3" merge="200-v3.v3" size="2097152" crc="7abca053"/>
-		<rom name="200-v4p.v4" size="2097152" crc="dba55b91"/>
+		<rom name="200-v4pl.v4" size="2097152" crc="176d83aa"/>
 		<rom name="sp-s3.sp1" merge="sp-s3.sp1" size="131072" crc="91b64be3"/>
 		<rom name="sp-s2.sp1" merge="sp-s2.sp1" size="131072" crc="9036d879"/>
 		<rom name="sp-s.sp1" merge="sp-s.sp1" size="131072" crc="c7f2fa45"/>
@@ -132592,7 +132886,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="pinkswtsb" cloneof="pinkswts" romof="pinkswts" sourcefile="cave/d_cv1k.cpp">
-		<description>Pink Sweets: Ibara Sorekara (2006/04/06 MASTER VER.)</description>
+		<description>Pink Sweets: Ibara Sorekara (Japan, 2006/04/06 MASTER VER.)</description>
 		<year>2006</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="pnkswtsb_u4" size="2097152" crc="68bcc009"/>
@@ -132603,7 +132897,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="pinkswtsa" cloneof="pinkswts" romof="pinkswts" sourcefile="cave/d_cv1k.cpp">
-		<description>Pink Sweets: Ibara Sorekara (2006/04/06 MASTER VER...)</description>
+		<description>Pink Sweets: Ibara Sorekara (Japan, 2006/04/06 MASTER VER...)</description>
 		<year>2006</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="pnkswtsa_u4" size="2097152" crc="ee3339b2"/>
@@ -132614,7 +132908,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="pinkswts" sourcefile="cave/d_cv1k.cpp">
-		<description>Pink Sweets: Ibara Sorekara (2006/04/06 MASTER VER....)</description>
+		<description>Pink Sweets: Ibara Sorekara (Japan, 2006/04/06 MASTER VER....)</description>
 		<year>2006</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="pinkswts_u4" size="2097152" crc="5d812c9e"/>
@@ -132625,7 +132919,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="pinkswtsx" cloneof="pinkswts" romof="pinkswts" sourcefile="cave/d_cv1k.cpp">
-		<description>Pink Sweets: Ibara Sorekara (2006/xx/xx MASTER VER.)</description>
+		<description>Pink Sweets: Ibara Sorekara (Japan, 2006/xx/xx MASTER VER.)</description>
 		<year>2006</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="pnkswtsx_u4" size="2097152" crc="8fe05bf0"/>
@@ -134138,6 +134432,21 @@
 		<video type="raster" orientation="horizontal" width="288" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
+	<game name="poitto" sourcefile="pst90s/d_metro.cpp">
+		<description>Poitto! (Japan, revision D)</description>
+		<year>1993</year>
+		<manufacturer>Metro / Able Corp.</manufacturer>
+		<rom name="pt-jd05.20e" size="131072" crc="6b1be034"/>
+		<rom name="pt-jd06.20c" size="131072" crc="3092d9d4"/>
+		<rom name="pt-jc08.3i" size="131072" crc="f32d386a"/>
+		<rom name="pt-2.15i" size="524288" crc="05d15d01"/>
+		<rom name="pt-4.19i" size="524288" crc="8a39edb5"/>
+		<rom name="pt-1.13i" size="524288" crc="ea6e2289"/>
+		<rom name="pt-3.17i" size="524288" crc="522917c1"/>
+		<rom name="pt-jc07.3g" size="262144" crc="5ae28b8d"/>
+		<video type="raster" orientation="horizontal" width="360" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
 	<game name="poittoc" cloneof="poitto" romof="poitto" sourcefile="pst90s/d_metro.cpp">
 		<description>Poitto! (revision C)</description>
 		<year>1993</year>
@@ -134153,23 +134462,8 @@
 		<video type="raster" orientation="horizontal" width="360" height="224" aspectx="4" aspecty="3"/>
 		<driver status="preliminary"/>
 	</game>
-	<game name="poitto" sourcefile="pst90s/d_metro.cpp">
-		<description>Poitto! (revision D)</description>
-		<year>1993</year>
-		<manufacturer>Metro / Able Corp.</manufacturer>
-		<rom name="pt-jd05.20e" size="131072" crc="6b1be034"/>
-		<rom name="pt-jd06.20c" size="131072" crc="3092d9d4"/>
-		<rom name="pt-jc08.3i" size="131072" crc="f32d386a"/>
-		<rom name="pt-2.15i" size="524288" crc="05d15d01"/>
-		<rom name="pt-4.19i" size="524288" crc="8a39edb5"/>
-		<rom name="pt-1.13i" size="524288" crc="ea6e2289"/>
-		<rom name="pt-3.17i" size="524288" crc="522917c1"/>
-		<rom name="pt-jc07.3g" size="262144" crc="5ae28b8d"/>
-		<video type="raster" orientation="horizontal" width="360" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-	</game>
 	<game name="pokrdice" sourcefile="pst90s/d_itech8.cpp">
-		<description>Poker Dice (V1.7)</description>
+		<description>Poker Dice (v1.7)</description>
 		<year>1991</year>
 		<manufacturer>Strata / Incredible Technologies</manufacturer>
 		<rom name="pd-v1.7_u5.u5" size="65536" crc="5e24be82"/>
@@ -136796,6 +137090,44 @@
 		<video type="raster" orientation="horizontal" width="256" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
+	<game name="prmrsocr" sourcefile="konami/d_tmnt.cpp">
+		<description>Premier Soccer (ver EAB)</description>
+		<year>1993</year>
+		<manufacturer>Konami</manufacturer>
+		<rom name="101eab08.1h" size="262144" crc="47208de6"/>
+		<rom name="101eab07.4h" size="262144" crc="5f408eca"/>
+		<rom name="101c05.5e" size="131072" crc="02c3679f"/>
+		<rom name="101a12.12l" size="262144" crc="33530d7f"/>
+		<rom name="101a11.12k" size="262144" crc="7f773271"/>
+		<rom name="101a09.3l" size="2097152" crc="b6a1b424"/>
+		<rom name="101a10.8l" size="2097152" crc="bbd58adc"/>
+		<rom name="101a03.18f" size="524288" crc="59a1a91c"/>
+		<rom name="101a01.18d" size="131072" crc="716f910f"/>
+		<rom name="101a02.16d" size="131072" crc="222869c7"/>
+		<rom name="101a06.1d" size="2097152" crc="4f48e043"/>
+		<rom name="prmrsocr_eab.nv" size="128" crc="daf60801"/>
+		<video type="raster" orientation="horizontal" width="288" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
+	<game name="prmrsocrj" cloneof="prmrsocr" romof="prmrsocr" sourcefile="konami/d_tmnt.cpp">
+		<description>Premier Soccer (ver JAB)</description>
+		<year>1993</year>
+		<manufacturer>Konami</manufacturer>
+		<rom name="101jab08.1h" size="262144" crc="c22b528c"/>
+		<rom name="101jab07.4h" size="262144" crc="06e7acaf"/>
+		<rom name="101c05.5e" merge="101c05.5e" size="131072" crc="02c3679f"/>
+		<rom name="101a12.12l" merge="101a12.12l" size="262144" crc="33530d7f"/>
+		<rom name="101a11.12k" merge="101a11.12k" size="262144" crc="7f773271"/>
+		<rom name="101a09.3l" merge="101a09.3l" size="2097152" crc="b6a1b424"/>
+		<rom name="101a10.8l" merge="101a10.8l" size="2097152" crc="bbd58adc"/>
+		<rom name="101a03.18f" merge="101a03.18f" size="524288" crc="59a1a91c"/>
+		<rom name="101a01.18d" merge="101a01.18d" size="131072" crc="716f910f"/>
+		<rom name="101a02.16d" merge="101a02.16d" size="131072" crc="222869c7"/>
+		<rom name="101a06.1d" merge="101a06.1d" size="2097152" crc="4f48e043"/>
+		<rom name="prmrsocr_jab.nv" size="128" crc="5a88f95a"/>
+		<video type="raster" orientation="horizontal" width="288" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
 	<game name="sailmndf" cloneof="sailormn" romof="sailormn" sourcefile="cave/d_sailormn.cpp">
 		<comment>Hack</comment>
 		<description>Pretty Soldier Sailor Moon (Apex Infinity, Hack)</description>
@@ -139058,7 +139390,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="pururun" sourcefile="pst90s/d_metro.cpp">
-		<description>Pururun (set 1)</description>
+		<description>Pururun (Japan, set 1)</description>
 		<year>1995</year>
 		<manufacturer>Metro / Banpresto</manufacturer>
 		<rom name="pu_ja-5.20e" size="131072" crc="c15ae3db"/>
@@ -139073,7 +139405,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="pururuna" cloneof="pururun" romof="pururun" sourcefile="pst90s/d_metro.cpp">
-		<description>Pururun (set 2)</description>
+		<description>Pururun (Japan, set 2)</description>
 		<year>1995</year>
 		<manufacturer>Metro / Banpresto</manufacturer>
 		<rom name="pu9-19-5.20e" size="131072" crc="5a466a1b"/>
@@ -140387,7 +140719,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="mushitama" cloneof="mushitam" romof="mushitam" sourcefile="cave/d_cv1k.cpp">
-		<description>Puzzle! Mushihime-Tama (2005/09/09 MASTER VER)</description>
+		<description>Puzzle! Mushihime-Tama (Japan, 2005/09/09 MASTER VER)</description>
 		<year>2005</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="mushitama_u4" size="2097152" crc="4a23e6c8"/>
@@ -140398,7 +140730,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="mushitam" sourcefile="cave/d_cv1k.cpp">
-		<description>Puzzle! Mushihime-Tama (2005/09/09.MASTER VER)</description>
+		<description>Puzzle! Mushihime-Tama (Japan, 2005/09/09.MASTER VER)</description>
 		<year>2005</year>
 		<manufacturer>Cave (AMI license)</manufacturer>
 		<rom name="mushitam_u4" size="2097152" crc="c49eb6b1"/>
@@ -140461,7 +140793,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="puzzlia" cloneof="puzzli" romof="puzzli" sourcefile="pst90s/d_metro.cpp">
-		<description>Puzzli (revision A)</description>
+		<description>Puzzli (Japan, revision A)</description>
 		<year>1995</year>
 		<manufacturer>Metro / Banpresto</manufacturer>
 		<rom name="pz-ja-5.20e" size="131072" crc="4e162574"/>
@@ -140476,7 +140808,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="puzzli" sourcefile="pst90s/d_metro.cpp">
-		<description>Puzzli (revision B)</description>
+		<description>Puzzli (Japan, revision B)</description>
 		<year>1995</year>
 		<manufacturer>Metro / Banpresto</manufacturer>
 		<rom name="pz_jb5.20e" size="131072" crc="33bbbd28"/>
@@ -148827,7 +149159,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="rimrockn12" cloneof="rimrockn" romof="rimrockn" sourcefile="pst90s/d_itech8.cpp">
-		<description>Rim Rockin' Basketball (V1.2)</description>
+		<description>Rim Rockin' Basketball (v1.2)</description>
 		<year>1991</year>
 		<manufacturer>Strata / Incredible Technologies</manufacturer>
 		<rom name="rrb.bim_1.2_u5.u5" size="131072" crc="661761a6"/>
@@ -148842,7 +149174,7 @@
 	</game>
 	<game name="rimrockn12b" cloneof="rimrockn" romof="rimrockn" sourcefile="pst90s/d_itech8.cpp">
 		<comment>Bootleg</comment>
-		<description>Rim Rockin' Basketball (V1.2, bootleg)</description>
+		<description>Rim Rockin' Basketball (v1.2, bootleg)</description>
 		<year>1991</year>
 		<manufacturer>bootleg</manufacturer>
 		<rom name="rbba-1.u5" size="131072" crc="f99561a8"/>
@@ -148863,7 +149195,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="rimrockn15" cloneof="rimrockn" romof="rimrockn" sourcefile="pst90s/d_itech8.cpp">
-		<description>Rim Rockin' Basketball (V1.5)</description>
+		<description>Rim Rockin' Basketball (v1.5)</description>
 		<year>1991</year>
 		<manufacturer>Strata / Incredible Technologies</manufacturer>
 		<rom name="rrb.bim_1.5_u5.u5" size="131072" crc="d6c25bdf"/>
@@ -148877,7 +149209,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="rimrockn16" cloneof="rimrockn" romof="rimrockn" sourcefile="pst90s/d_itech8.cpp">
-		<description>Rim Rockin' Basketball (V1.6)</description>
+		<description>Rim Rockin' Basketball (v1.6)</description>
 		<year>1991</year>
 		<manufacturer>Strata / Incredible Technologies</manufacturer>
 		<rom name="rrb.bim_1.6_u5.u5" size="131072" crc="999cd502"/>
@@ -148891,7 +149223,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="rimrockn20" cloneof="rimrockn" romof="rimrockn" sourcefile="pst90s/d_itech8.cpp">
-		<description>Rim Rockin' Basketball (V2.0)</description>
+		<description>Rim Rockin' Basketball (v2.0)</description>
 		<year>1991</year>
 		<manufacturer>Strata / Incredible Technologies</manufacturer>
 		<rom name="rrb.bim_2.0_u5.u5" size="131072" crc="7e9d5545"/>
@@ -148905,7 +149237,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="rimrockn" sourcefile="pst90s/d_itech8.cpp">
-		<description>Rim Rockin' Basketball (V2.2)</description>
+		<description>Rim Rockin' Basketball (v2.2)</description>
 		<year>1991</year>
 		<manufacturer>Strata / Incredible Technologies</manufacturer>
 		<rom name="rrb.bim_2.2_u5.u5" size="131072" crc="97777683"/>
@@ -148962,9 +149294,9 @@
 		<driver status="good"/>
 	</game>
 	<game name="ringking" cloneof="kingofb" romof="kingofb" sourcefile="pre90s/d_kingofbox.cpp">
-		<description>Ring King (US set 1)</description>
+		<description>Ring King (US, set 1)</description>
 		<year>1985</year>
-		<manufacturer>Woodplace Inc. (Data East USA license)</manufacturer>
+		<manufacturer>Wood Place (Data East USA license)</manufacturer>
 		<rom name="cx13.9f" size="32768" crc="93e38c02"/>
 		<rom name="cx14.11f" size="16384" crc="a435acb0"/>
 		<rom name="cx07.10c" size="16384" crc="9f074746"/>
@@ -148986,9 +149318,9 @@
 		<driver status="good"/>
 	</game>
 	<game name="ringking2" cloneof="kingofb" romof="kingofb" sourcefile="pre90s/d_kingofbox.cpp">
-		<description>Ring King (US set 2)</description>
+		<description>Ring King (US, set 2)</description>
 		<year>1985</year>
-		<manufacturer>Woodplace Inc. (Data East USA license)</manufacturer>
+		<manufacturer>Wood Place (Data East USA license)</manufacturer>
 		<rom name="rkngm1.bin" size="32768" crc="086921ea"/>
 		<rom name="rkngm2.bin" size="16384" crc="c0b636a4"/>
 		<rom name="rkngtram.bin" size="16384" crc="d9dc1a0a"/>
@@ -149010,9 +149342,9 @@
 		<driver status="good"/>
 	</game>
 	<game name="ringking3" cloneof="kingofb" romof="kingofb" sourcefile="pre90s/d_kingofbox.cpp">
-		<description>Ring King (US set 3)</description>
+		<description>Ring King (US, set 3)</description>
 		<year>1985</year>
-		<manufacturer>Woodplace Inc. (Data East USA license)</manufacturer>
+		<manufacturer>Wood Place (Data East USA license)</manufacturer>
 		<rom name="14.d9" size="16384" crc="63627b8b"/>
 		<rom name="15.e9" size="16384" crc="e7557489"/>
 		<rom name="16.f9" size="16384" crc="a3b3bb16"/>
@@ -149040,9 +149372,9 @@
 		<driver status="good"/>
 	</game>
 	<game name="ringkingw" cloneof="kingofb" romof="kingofb" sourcefile="pre90s/d_kingofbox.cpp">
-		<description>Ring King (US, Woodplace Inc.)</description>
+		<description>Ring King (US, Wood Place)</description>
 		<year>1985</year>
-		<manufacturer>Woodplace Inc.</manufacturer>
+		<manufacturer>Wood Place</manufacturer>
 		<rom name="15.d9" size="16384" crc="8263f517"/>
 		<rom name="16.e9" size="16384" crc="daadd700"/>
 		<rom name="14.b9" size="16384" crc="76a73c95"/>
@@ -162323,142 +162655,6 @@
 		<video type="raster" orientation="horizontal" width="512" height="256" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
-	<game name="sidearmsj" cloneof="sidearms" romof="sidearms" sourcefile="pre90s/d_sidearms.cpp">
-		<description>Side Arms - Hyper Dyne (Japan, 861128)</description>
-		<year>1986</year>
-		<manufacturer>Capcom</manufacturer>
-		<rom name="a_15e.rom" size="32768" crc="61ceb0cc"/>
-		<rom name="a_14e.rom" merge="a_14e.rom" size="32768" crc="4925ed03"/>
-		<rom name="a_12e.rom" merge="a_12e.rom" size="32768" crc="81d0ece7"/>
-		<rom name="a_04k.rom" merge="a_04k.rom" size="32768" crc="34efe2d2"/>
-		<rom name="b_11j.rom" merge="b_11j.rom" size="32768" crc="134dc35b"/>
-		<rom name="a_10j.rom" merge="a_10j.rom" size="16384" crc="651fef75"/>
-		<rom name="b_13d.rom" merge="b_13d.rom" size="32768" crc="3c59afe1"/>
-		<rom name="b_13e.rom" merge="b_13e.rom" size="32768" crc="64bc3b77"/>
-		<rom name="b_13f.rom" merge="b_13f.rom" size="32768" crc="e6bcea6f"/>
-		<rom name="b_13g.rom" merge="b_13g.rom" size="32768" crc="c71a3053"/>
-		<rom name="b_14d.rom" merge="b_14d.rom" size="32768" crc="826e8a97"/>
-		<rom name="b_14e.rom" merge="b_14e.rom" size="32768" crc="6cfc02a4"/>
-		<rom name="b_14f.rom" merge="b_14f.rom" size="32768" crc="9b9f6730"/>
-		<rom name="b_14g.rom" merge="b_14g.rom" size="32768" crc="ef6af630"/>
-		<rom name="b_11b.rom" merge="b_11b.rom" size="32768" crc="eb6f278c"/>
-		<rom name="b_13b.rom" merge="b_13b.rom" size="32768" crc="e91b4014"/>
-		<rom name="b_11a.rom" merge="b_11a.rom" size="32768" crc="2822c522"/>
-		<rom name="b_13a.rom" merge="b_13a.rom" size="32768" crc="3e8a9f75"/>
-		<rom name="b_12b.rom" merge="b_12b.rom" size="32768" crc="86e43eda"/>
-		<rom name="b_14b.rom" merge="b_14b.rom" size="32768" crc="076e92d1"/>
-		<rom name="b_12a.rom" merge="b_12a.rom" size="32768" crc="ce107f3c"/>
-		<rom name="b_14a.rom" merge="b_14a.rom" size="32768" crc="dba06076"/>
-		<rom name="b_03d.rom" merge="b_03d.rom" size="32768" crc="6f348008"/>
-		<rom name="63s141.16h" merge="63s141.16h" size="256" crc="75af3553"/>
-		<rom name="63s141.11h" merge="63s141.11h" size="256" crc="a6e4d68f"/>
-		<rom name="63s141.15h" merge="63s141.15h" size="256" crc="c47c182a"/>
-		<rom name="63s081.3j" merge="63s081.3j" size="32" crc="c5817816"/>
-		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-	</game>
-	<game name="sidearmsur1" cloneof="sidearms" romof="sidearms" sourcefile="pre90s/d_sidearms.cpp">
-		<description>Side Arms - Hyper Dyne (US, 861128)</description>
-		<year>1986</year>
-		<manufacturer>Capcom (Romstar license)</manufacturer>
-		<rom name="03" size="32768" crc="9a799c45"/>
-		<rom name="a_14e.rom" merge="a_14e.rom" size="32768" crc="4925ed03"/>
-		<rom name="a_12e.rom" merge="a_12e.rom" size="32768" crc="81d0ece7"/>
-		<rom name="a_04k.rom" merge="a_04k.rom" size="32768" crc="34efe2d2"/>
-		<rom name="b_11j.rom" merge="b_11j.rom" size="32768" crc="134dc35b"/>
-		<rom name="a_10j.rom" merge="a_10j.rom" size="16384" crc="651fef75"/>
-		<rom name="b_13d.rom" merge="b_13d.rom" size="32768" crc="3c59afe1"/>
-		<rom name="b_13e.rom" merge="b_13e.rom" size="32768" crc="64bc3b77"/>
-		<rom name="b_13f.rom" merge="b_13f.rom" size="32768" crc="e6bcea6f"/>
-		<rom name="b_13g.rom" merge="b_13g.rom" size="32768" crc="c71a3053"/>
-		<rom name="b_14d.rom" merge="b_14d.rom" size="32768" crc="826e8a97"/>
-		<rom name="b_14e.rom" merge="b_14e.rom" size="32768" crc="6cfc02a4"/>
-		<rom name="b_14f.rom" merge="b_14f.rom" size="32768" crc="9b9f6730"/>
-		<rom name="b_14g.rom" merge="b_14g.rom" size="32768" crc="ef6af630"/>
-		<rom name="b_11b.rom" merge="b_11b.rom" size="32768" crc="eb6f278c"/>
-		<rom name="b_13b.rom" merge="b_13b.rom" size="32768" crc="e91b4014"/>
-		<rom name="b_11a.rom" merge="b_11a.rom" size="32768" crc="2822c522"/>
-		<rom name="b_13a.rom" merge="b_13a.rom" size="32768" crc="3e8a9f75"/>
-		<rom name="b_12b.rom" merge="b_12b.rom" size="32768" crc="86e43eda"/>
-		<rom name="b_14b.rom" merge="b_14b.rom" size="32768" crc="076e92d1"/>
-		<rom name="b_12a.rom" merge="b_12a.rom" size="32768" crc="ce107f3c"/>
-		<rom name="b_14a.rom" merge="b_14a.rom" size="32768" crc="dba06076"/>
-		<rom name="b_03d.rom" merge="b_03d.rom" size="32768" crc="6f348008"/>
-		<rom name="63s141.16h" merge="63s141.16h" size="256" crc="75af3553"/>
-		<rom name="63s141.11h" merge="63s141.11h" size="256" crc="a6e4d68f"/>
-		<rom name="63s141.15h" merge="63s141.15h" size="256" crc="c47c182a"/>
-		<rom name="63s081.3j" merge="63s081.3j" size="32" crc="c5817816"/>
-		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-	</game>
-	<game name="sidearmsu" cloneof="sidearms" romof="sidearms" sourcefile="pre90s/d_sidearms.cpp">
-		<description>Side Arms - Hyper Dyne (US, 861202)</description>
-		<year>1986</year>
-		<manufacturer>Capcom (Romstar license)</manufacturer>
-		<rom name="saa_03.15e" size="32768" crc="32ef2739"/>
-		<rom name="a_14e.rom" merge="a_14e.rom" size="32768" crc="4925ed03"/>
-		<rom name="a_12e.rom" merge="a_12e.rom" size="32768" crc="81d0ece7"/>
-		<rom name="a_04k.rom" merge="a_04k.rom" size="32768" crc="34efe2d2"/>
-		<rom name="b_11j.rom" merge="b_11j.rom" size="32768" crc="134dc35b"/>
-		<rom name="a_10j.rom" merge="a_10j.rom" size="16384" crc="651fef75"/>
-		<rom name="b_13d.rom" merge="b_13d.rom" size="32768" crc="3c59afe1"/>
-		<rom name="b_13e.rom" merge="b_13e.rom" size="32768" crc="64bc3b77"/>
-		<rom name="b_13f.rom" merge="b_13f.rom" size="32768" crc="e6bcea6f"/>
-		<rom name="b_13g.rom" merge="b_13g.rom" size="32768" crc="c71a3053"/>
-		<rom name="b_14d.rom" merge="b_14d.rom" size="32768" crc="826e8a97"/>
-		<rom name="b_14e.rom" merge="b_14e.rom" size="32768" crc="6cfc02a4"/>
-		<rom name="b_14f.rom" merge="b_14f.rom" size="32768" crc="9b9f6730"/>
-		<rom name="b_14g.rom" merge="b_14g.rom" size="32768" crc="ef6af630"/>
-		<rom name="b_11b.rom" merge="b_11b.rom" size="32768" crc="eb6f278c"/>
-		<rom name="b_13b.rom" merge="b_13b.rom" size="32768" crc="e91b4014"/>
-		<rom name="b_11a.rom" merge="b_11a.rom" size="32768" crc="2822c522"/>
-		<rom name="b_13a.rom" merge="b_13a.rom" size="32768" crc="3e8a9f75"/>
-		<rom name="b_12b.rom" merge="b_12b.rom" size="32768" crc="86e43eda"/>
-		<rom name="b_14b.rom" merge="b_14b.rom" size="32768" crc="076e92d1"/>
-		<rom name="b_12a.rom" merge="b_12a.rom" size="32768" crc="ce107f3c"/>
-		<rom name="b_14a.rom" merge="b_14a.rom" size="32768" crc="dba06076"/>
-		<rom name="b_03d.rom" merge="b_03d.rom" size="32768" crc="6f348008"/>
-		<rom name="63s141.16h" merge="63s141.16h" size="256" crc="75af3553"/>
-		<rom name="63s141.11h" merge="63s141.11h" size="256" crc="a6e4d68f"/>
-		<rom name="63s141.15h" merge="63s141.15h" size="256" crc="c47c182a"/>
-		<rom name="63s081.3j" merge="63s081.3j" size="32" crc="c5817816"/>
-		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-	</game>
-	<game name="sidearms" sourcefile="pre90s/d_sidearms.cpp">
-		<description>Side Arms - Hyper Dyne (World, 861129)</description>
-		<year>1986</year>
-		<manufacturer>Capcom</manufacturer>
-		<rom name="sa03.bin" size="32768" crc="e10fe6a0"/>
-		<rom name="a_14e.rom" size="32768" crc="4925ed03"/>
-		<rom name="a_12e.rom" size="32768" crc="81d0ece7"/>
-		<rom name="a_04k.rom" size="32768" crc="34efe2d2"/>
-		<rom name="b_11j.rom" size="32768" crc="134dc35b"/>
-		<rom name="a_10j.rom" size="16384" crc="651fef75"/>
-		<rom name="b_13d.rom" size="32768" crc="3c59afe1"/>
-		<rom name="b_13e.rom" size="32768" crc="64bc3b77"/>
-		<rom name="b_13f.rom" size="32768" crc="e6bcea6f"/>
-		<rom name="b_13g.rom" size="32768" crc="c71a3053"/>
-		<rom name="b_14d.rom" size="32768" crc="826e8a97"/>
-		<rom name="b_14e.rom" size="32768" crc="6cfc02a4"/>
-		<rom name="b_14f.rom" size="32768" crc="9b9f6730"/>
-		<rom name="b_14g.rom" size="32768" crc="ef6af630"/>
-		<rom name="b_11b.rom" size="32768" crc="eb6f278c"/>
-		<rom name="b_13b.rom" size="32768" crc="e91b4014"/>
-		<rom name="b_11a.rom" size="32768" crc="2822c522"/>
-		<rom name="b_13a.rom" size="32768" crc="3e8a9f75"/>
-		<rom name="b_12b.rom" size="32768" crc="86e43eda"/>
-		<rom name="b_14b.rom" size="32768" crc="076e92d1"/>
-		<rom name="b_12a.rom" size="32768" crc="ce107f3c"/>
-		<rom name="b_14a.rom" size="32768" crc="dba06076"/>
-		<rom name="b_03d.rom" size="32768" crc="6f348008"/>
-		<rom name="63s141.16h" size="256" crc="75af3553"/>
-		<rom name="63s141.11h" size="256" crc="a6e4d68f"/>
-		<rom name="63s141.15h" size="256" crc="c47c182a"/>
-		<rom name="63s081.3j" size="32" crc="c5817816"/>
-		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-	</game>
 	<game name="sidepcktb" cloneof="sidepckt" romof="sidepckt" sourcefile="dataeast/d_sidepckt.cpp">
 		<comment>Bootleg</comment>
 		<description>Side Pocket (bootleg, set 1)</description>
@@ -170784,6 +170980,66 @@
 		<video type="raster" orientation="vertical" width="224" height="512" aspectx="3" aspecty="4"/>
 		<driver status="good"/>
 	</game>
+	<game name="starwars" sourcefile="pre90s/d_starwars.cpp">
+		<description>Star Wars (Atari, set 1)</description>
+		<year>1983</year>
+		<manufacturer>Atari</manufacturer>
+		<rom name="136021-105.1l" size="4096" crc="538e7d2f"/>
+		<rom name="136021.214.1f" size="16384" crc="04f1876e"/>
+		<rom name="136021.102.1hj" size="8192" crc="f725e344"/>
+		<rom name="136021.203.1jk" size="8192" crc="f6da0a00"/>
+		<rom name="136021.104.1kl" size="8192" crc="7e406703"/>
+		<rom name="136021.206.1m" size="8192" crc="c7e51237"/>
+		<rom name="136021-107.1jk" size="8192" crc="dbf3aea2"/>
+		<rom name="136021-208.1h" size="8192" crc="e38070a8"/>
+		<rom name="136021-110.7h" size="1024" crc="810e040e"/>
+		<rom name="136021-111.7j" size="1024" crc="ae69881c"/>
+		<rom name="136021-112.7k" size="1024" crc="ecf22628"/>
+		<rom name="136021-113.7l" size="1024" crc="83febfde"/>
+		<rom name="136021-109.4b" size="256" crc="82fc3eb2"/>
+		<video type="vector" orientation="horizontal" width="640" height="480" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
+	<game name="starwars1" cloneof="starwars" romof="starwars" sourcefile="pre90s/d_starwars.cpp">
+		<description>Star Wars (Atari, set 2)</description>
+		<year>1983</year>
+		<manufacturer>Atari</manufacturer>
+		<rom name="136021-105.1l" merge="136021-105.1l" size="4096" crc="538e7d2f"/>
+		<rom name="136021.114.1f" size="16384" crc="e75ff867"/>
+		<rom name="136021.102.1hj" merge="136021.102.1hj" size="8192" crc="f725e344"/>
+		<rom name="136021.203.1jk" merge="136021.203.1jk" size="8192" crc="f6da0a00"/>
+		<rom name="136021.104.1kl" merge="136021.104.1kl" size="8192" crc="7e406703"/>
+		<rom name="136021.206.1m" merge="136021.206.1m" size="8192" crc="c7e51237"/>
+		<rom name="136021-107.1jk" merge="136021-107.1jk" size="8192" crc="dbf3aea2"/>
+		<rom name="136021-208.1h" merge="136021-208.1h" size="8192" crc="e38070a8"/>
+		<rom name="136021-110.7h" merge="136021-110.7h" size="1024" crc="810e040e"/>
+		<rom name="136021-111.7j" merge="136021-111.7j" size="1024" crc="ae69881c"/>
+		<rom name="136021-112.7k" merge="136021-112.7k" size="1024" crc="ecf22628"/>
+		<rom name="136021-113.7l" merge="136021-113.7l" size="1024" crc="83febfde"/>
+		<rom name="136021-109.4b" merge="136021-109.4b" size="256" crc="82fc3eb2"/>
+		<video type="vector" orientation="horizontal" width="640" height="480" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
+	<game name="starwarso" cloneof="starwars" romof="starwars" sourcefile="pre90s/d_starwars.cpp">
+		<description>Star Wars (Atari, set 3)</description>
+		<year>1983</year>
+		<manufacturer>Atari</manufacturer>
+		<rom name="136021-105.1l" merge="136021-105.1l" size="4096" crc="538e7d2f"/>
+		<rom name="136021-114.1f" size="16384" crc="e75ff867"/>
+		<rom name="136021-102.1hj" merge="136021.102.1hj" size="8192" crc="f725e344"/>
+		<rom name="136021-103.1jk" size="8192" crc="3fde9ccb"/>
+		<rom name="136021-104.1kl" merge="136021.104.1kl" size="8192" crc="7e406703"/>
+		<rom name="136021-206.1m" merge="136021.206.1m" size="8192" crc="c7e51237"/>
+		<rom name="136021-107.1jk" merge="136021-107.1jk" size="8192" crc="dbf3aea2"/>
+		<rom name="136021-208.1h" merge="136021-208.1h" size="8192" crc="e38070a8"/>
+		<rom name="136021-110.7h" merge="136021-110.7h" size="1024" crc="810e040e"/>
+		<rom name="136021-111.7j" merge="136021-111.7j" size="1024" crc="ae69881c"/>
+		<rom name="136021-112.7k" merge="136021-112.7k" size="1024" crc="ecf22628"/>
+		<rom name="136021-113.7l" merge="136021-113.7l" size="1024" crc="83febfde"/>
+		<rom name="136021-109.4b" merge="136021-109.4b" size="256" crc="82fc3eb2"/>
+		<video type="vector" orientation="horizontal" width="640" height="480" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
 	<game name="starw" cloneof="galxwars" romof="galxwars" sourcefile="pre90s/d_invaders.cpp">
 		<description>Star Wars (bootleg of Galaxy Wars, set 1)</description>
 		<year>1979</year>
@@ -170810,66 +171066,6 @@
 		<rom name="cv01" size="2048" crc="8d892ef3"/>
 		<rom name="cv02" size="2048" crc="b44ddde8"/>
 		<video type="raster" orientation="vertical" width="224" height="260" aspectx="3" aspecty="4"/>
-		<driver status="good"/>
-	</game>
-	<game name="starwars" sourcefile="pre90s/d_starwars.cpp">
-		<description>Star Wars (set 1)</description>
-		<year>1983</year>
-		<manufacturer>Atari</manufacturer>
-		<rom name="136021-105.1l" size="4096" crc="538e7d2f"/>
-		<rom name="136021.214.1f" size="16384" crc="04f1876e"/>
-		<rom name="136021.102.1hj" size="8192" crc="f725e344"/>
-		<rom name="136021.203.1jk" size="8192" crc="f6da0a00"/>
-		<rom name="136021.104.1kl" size="8192" crc="7e406703"/>
-		<rom name="136021.206.1m" size="8192" crc="c7e51237"/>
-		<rom name="136021-107.1jk" size="8192" crc="dbf3aea2"/>
-		<rom name="136021-208.1h" size="8192" crc="e38070a8"/>
-		<rom name="136021-110.7h" size="1024" crc="810e040e"/>
-		<rom name="136021-111.7j" size="1024" crc="ae69881c"/>
-		<rom name="136021-112.7k" size="1024" crc="ecf22628"/>
-		<rom name="136021-113.7l" size="1024" crc="83febfde"/>
-		<rom name="136021-109.4b" size="256" crc="82fc3eb2"/>
-		<video type="vector" orientation="horizontal" width="640" height="480" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-	</game>
-	<game name="starwars1" cloneof="starwars" romof="starwars" sourcefile="pre90s/d_starwars.cpp">
-		<description>Star Wars (set 2)</description>
-		<year>1983</year>
-		<manufacturer>Atari</manufacturer>
-		<rom name="136021-105.1l" merge="136021-105.1l" size="4096" crc="538e7d2f"/>
-		<rom name="136021.114.1f" size="16384" crc="e75ff867"/>
-		<rom name="136021.102.1hj" merge="136021.102.1hj" size="8192" crc="f725e344"/>
-		<rom name="136021.203.1jk" merge="136021.203.1jk" size="8192" crc="f6da0a00"/>
-		<rom name="136021.104.1kl" merge="136021.104.1kl" size="8192" crc="7e406703"/>
-		<rom name="136021.206.1m" merge="136021.206.1m" size="8192" crc="c7e51237"/>
-		<rom name="136021-107.1jk" merge="136021-107.1jk" size="8192" crc="dbf3aea2"/>
-		<rom name="136021-208.1h" merge="136021-208.1h" size="8192" crc="e38070a8"/>
-		<rom name="136021-110.7h" merge="136021-110.7h" size="1024" crc="810e040e"/>
-		<rom name="136021-111.7j" merge="136021-111.7j" size="1024" crc="ae69881c"/>
-		<rom name="136021-112.7k" merge="136021-112.7k" size="1024" crc="ecf22628"/>
-		<rom name="136021-113.7l" merge="136021-113.7l" size="1024" crc="83febfde"/>
-		<rom name="136021-109.4b" merge="136021-109.4b" size="256" crc="82fc3eb2"/>
-		<video type="vector" orientation="horizontal" width="640" height="480" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-	</game>
-	<game name="starwarso" cloneof="starwars" romof="starwars" sourcefile="pre90s/d_starwars.cpp">
-		<description>Star Wars (set 3)</description>
-		<year>1983</year>
-		<manufacturer>Atari</manufacturer>
-		<rom name="136021-105.1l" merge="136021-105.1l" size="4096" crc="538e7d2f"/>
-		<rom name="136021-114.1f" size="16384" crc="e75ff867"/>
-		<rom name="136021-102.1hj" merge="136021.102.1hj" size="8192" crc="f725e344"/>
-		<rom name="136021-103.1jk" size="8192" crc="3fde9ccb"/>
-		<rom name="136021-104.1kl" merge="136021.104.1kl" size="8192" crc="7e406703"/>
-		<rom name="136021-206.1m" merge="136021.206.1m" size="8192" crc="c7e51237"/>
-		<rom name="136021-107.1jk" merge="136021-107.1jk" size="8192" crc="dbf3aea2"/>
-		<rom name="136021-208.1h" merge="136021-208.1h" size="8192" crc="e38070a8"/>
-		<rom name="136021-110.7h" merge="136021-110.7h" size="1024" crc="810e040e"/>
-		<rom name="136021-111.7j" merge="136021-111.7j" size="1024" crc="ae69881c"/>
-		<rom name="136021-112.7k" merge="136021-112.7k" size="1024" crc="ecf22628"/>
-		<rom name="136021-113.7l" merge="136021-113.7l" size="1024" crc="83febfde"/>
-		<rom name="136021-109.4b" merge="136021-109.4b" size="256" crc="82fc3eb2"/>
-		<video type="vector" orientation="horizontal" width="640" height="480" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
 	<game name="starfgmc" cloneof="mooncrst" romof="mooncrst" sourcefile="galaxian/d_galaxian.cpp">
@@ -171404,7 +171600,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="stratab1" cloneof="stratab" romof="stratab" sourcefile="pst90s/d_itech8.cpp">
-		<description>Strata Bowling (V1)</description>
+		<description>Strata Bowling (v1)</description>
 		<year>1990</year>
 		<manufacturer>Strata / Incredible Technologies</manufacturer>
 		<rom name="sb_prog_v1_u5.u5" size="32768" crc="46d51604"/>
@@ -171417,7 +171613,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="stratab" sourcefile="pst90s/d_itech8.cpp">
-		<description>Strata Bowling (V3)</description>
+		<description>Strata Bowling (v3)</description>
 		<year>1990</year>
 		<manufacturer>Strata / Incredible Technologies</manufacturer>
 		<rom name="sb_prog_v3_u5.u5" size="32768" crc="a5ae728f"/>
@@ -191520,7 +191716,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="tmht22pe" cloneof="tmnt2" romof="tmnt2" sourcefile="konami/d_tmnt.cpp">
-		<description>Teenage Mutant Hero Turtles - Turtles in Time (2 Players ver EBA)</description>
+		<description>Teenage Mutant Hero Turtles: Turtles in Time (2 Players ver EBA)</description>
 		<year>1991</year>
 		<manufacturer>Konami</manufacturer>
 		<rom name="063eba02.8e" size="131072" crc="99409094"/>
@@ -191540,7 +191736,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="tmht24pe" cloneof="tmnt2" romof="tmnt2" sourcefile="konami/d_tmnt.cpp">
-		<description>Teenage Mutant Hero Turtles - Turtles in Time (4 Players ver EAA)</description>
+		<description>Teenage Mutant Hero Turtles: Turtles in Time (4 Players ver EAA)</description>
 		<year>1991</year>
 		<manufacturer>Konami</manufacturer>
 		<rom name="063eaa02.8e" size="131072" crc="665a68de"/>
@@ -191883,7 +192079,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="tmnt22pu" cloneof="tmnt2" romof="tmnt2" sourcefile="konami/d_tmnt.cpp">
-		<description>Teenage Mutant Ninja Turtles - Turtles in Time (2 Players ver UDA)</description>
+		<description>Teenage Mutant Ninja Turtles: Turtles in Time (2 Players ver UDA)</description>
 		<year>1991</year>
 		<manufacturer>Konami</manufacturer>
 		<rom name="063uda02.8e" size="131072" crc="aadffe3a"/>
@@ -191903,7 +192099,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="tmnt2a" cloneof="tmnt2" romof="tmnt2" sourcefile="konami/d_tmnt.cpp">
-		<description>Teenage Mutant Ninja Turtles - Turtles in Time (4 Players ver ADA)</description>
+		<description>Teenage Mutant Ninja Turtles: Turtles in Time (4 Players ver ADA)</description>
 		<year>1991</year>
 		<manufacturer>Konami</manufacturer>
 		<rom name="063ada02.8e" size="131072" crc="4f11b587"/>
@@ -191923,7 +192119,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="tmnt2o" cloneof="tmnt2" romof="tmnt2" sourcefile="konami/d_tmnt.cpp">
-		<description>Teenage Mutant Ninja Turtles - Turtles in Time (4 Players ver OAA)</description>
+		<description>Teenage Mutant Ninja Turtles: Turtles in Time (4 Players ver OAA)</description>
 		<year>1991</year>
 		<manufacturer>Konami</manufacturer>
 		<rom name="063oaa02.8e" size="131072" crc="07067dbf"/>
@@ -191943,7 +192139,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="tmnt2" sourcefile="konami/d_tmnt.cpp">
-		<description>Teenage Mutant Ninja Turtles - Turtles in Time (4 Players ver UAA)</description>
+		<description>Teenage Mutant Ninja Turtles: Turtles in Time (4 Players ver UAA)</description>
 		<year>1991</year>
 		<manufacturer>Konami</manufacturer>
 		<rom name="063uaa02.8e" size="131072" crc="58d5c93d"/>
@@ -191963,7 +192159,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="tmnt24pu" cloneof="tmnt2" romof="tmnt2" sourcefile="konami/d_tmnt.cpp">
-		<description>Teenage Mutant Ninja Turtles - Turtles in Time (4 Players ver UEA)</description>
+		<description>Teenage Mutant Ninja Turtles: Turtles in Time (4 Players ver UEA)</description>
 		<year>1991</year>
 		<manufacturer>Konami</manufacturer>
 		<rom name="063uea02.8e" size="131072" crc="5eebc67f"/>
@@ -202191,6 +202387,17 @@
 		<video type="raster" orientation="horizontal" width="304" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
+	<game name="kof2002um" romof="systemy2" sourcefile="sega/d_y2.cpp">
+		<description>The King of Fighters - Fuchou Zhi Lu (Chinese/English)</description>
+		<year>2009</year>
+		<manufacturer>SNK Playmore / New Channel</manufacturer>
+		<rom name="s29gl01gp11fcr2.u103" size="134217728" crc="722cbad1"/>
+		<rom name="system_y2_m25p40.u801" merge="system_y2_m25p40.u801" size="524288" crc="2b19f490"/>
+		<disk name="nand_u101" sha1="86344541e71aa1e8a0423b97c7b3b826bdbdfbba" />
+		<disk name="nand_u102" sha1="9316ae2e729b93cb5db48b23fe812e5b3c1d6980" />
+		<video type="raster" orientation="horizontal" width="640" height="480" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
 	<game name="kof10th" cloneof="kof2002" romof="kof2002" sourcefile="neogeo/d_neogeo.cpp">
 		<comment>Bootleg</comment>
 		<description>The King of Fighters 10th Anniversary (bootleg of The King of Fighters 2002)</description>
@@ -204915,6 +205122,17 @@
 		<rom name="sfix.sfix" merge="sfix.sfix" size="131072" crc="c2ea0cfd"/>
 		<rom name="000-lo.lo" merge="000-lo.lo" size="131072" crc="5a86cff2"/>
 		<video type="raster" orientation="horizontal" width="304" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
+	<game name="kof2002umj" cloneof="kof2002um" romof="kof2002um" sourcefile="sega/d_y2.cpp">
+		<description>The King of Fighters 2002 - Unlimited Match (Japanese/English)</description>
+		<year>2009</year>
+		<manufacturer>SNK Playmore</manufacturer>
+		<rom name="s29gl01gp11fcr2.u103" size="134217728" crc="916c9d68"/>
+		<rom name="system_y2_m25p40.u801" merge="system_y2_m25p40.u801" size="524288" crc="2b19f490"/>
+		<disk name="nand_u101" sha1="5fd38fe816b22ec0e4459f1fc076c148a3f11652" />
+		<disk name="nand_u102" sha1="52b6093b658baf1dd81f883a2c52b6aac688f703" />
+		<video type="raster" orientation="horizontal" width="640" height="480" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
 	<game name="kf2k2mp" cloneof="kof2002" romof="kof2002" sourcefile="neogeo/d_neogeo.cpp">
@@ -212528,6 +212746,35 @@
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
+	<game name="tomcat" sourcefile="d_parent.cpp">
+		<comment>Prototype, Parent set for working drivers</comment>
+		<description>TomCat (prototype)</description>
+		<year>1985</year>
+		<manufacturer>Atari</manufacturer>
+		<rom name="rom1k.bin" size="32768" crc="5535a1ff"/>
+		<rom name="rom2k.bin" size="32768" crc="021a01d2"/>
+		<rom name="136021-105.1l" size="256" crc="82fc3eb2"/>
+		<video type="vector" orientation="horizontal" width="640" height="480" aspectx="4" aspecty="3"/>
+		<driver status="preliminary"/>
+	</game>
+	<game name="tomcatsw" cloneof="tomcat" romof="tomcat" sourcefile="pre90s/d_starwars.cpp">
+		<comment>Prototype, No sound! Select Copter, Jet doesn't respond to the controls</comment>
+		<description>TomCat (Star Wars hardware, prototype)</description>
+		<year>1983</year>
+		<manufacturer>Atari</manufacturer>
+		<rom name="tcavg3.1l" size="4096" crc="27188aa9"/>
+		<rom name="tc6.1f" size="8192" crc="56e284ff"/>
+		<rom name="tc8.1hj" size="8192" crc="7b7575e3"/>
+		<rom name="tca.1jk" size="8192" crc="a1020331"/>
+		<rom name="tce.1m" size="8192" crc="4a3de8a3"/>
+		<rom name="136021-110.7h" size="1024" crc="810e040e"/>
+		<rom name="136021-111.7j" size="1024" crc="ae69881c"/>
+		<rom name="136021-112.7k" size="1024" crc="ecf22628"/>
+		<rom name="136021-113.7l" size="1024" crc="83febfde"/>
+		<rom name="136021-109.4b" merge="136021-105.1l" size="256" crc="82fc3eb2"/>
+		<video type="vector" orientation="horizontal" width="640" height="480" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
 	<game name="toobin2e" cloneof="toobin" romof="toobin" sourcefile="atari/d_toobin.cpp">
 		<description>Toobin' (Europe, rev 2)</description>
 		<year>1988</year>
@@ -213509,6 +213756,21 @@
 		<video type="raster" orientation="horizontal" width="256" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
+	<game name="toride2gg" cloneof="toride2g" romof="toride2g" sourcefile="pst90s/d_metro.cpp">
+		<description>Toride II (German)</description>
+		<year>1994</year>
+		<manufacturer>Metro</manufacturer>
+		<rom name="trii_ge_5.20e" size="262144" crc="5e0815a8"/>
+		<rom name="trii_ge_6.20c" size="262144" crc="55eba67d"/>
+		<rom name="tr2_jb-8.3i" size="131072" crc="0168f46f"/>
+		<rom name="trii_gb_2.14i" size="524288" crc="5949e65f"/>
+		<rom name="trii_gb_4.18i" size="524288" crc="adc84c7b"/>
+		<rom name="trii_gb_1.12i" size="524288" crc="bcf30944"/>
+		<rom name="trii_gb_3.16i" size="524288" crc="138e68d0"/>
+		<rom name="tr2_ja_7.3g" size="131072" crc="6ee32315"/>
+		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
 	<game name="toride2ji" cloneof="toride2g" romof="toride2g" sourcefile="pst90s/d_metro.cpp">
 		<comment>No sound</comment>
 		<description>Toride II (Japan, revision I)</description>
@@ -213541,23 +213803,8 @@
 		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 	</game>
-	<game name="toride2gg" cloneof="toride2g" romof="toride2g" sourcefile="pst90s/d_metro.cpp">
-		<description>Toride II Adauchi Gaiden (German)</description>
-		<year>1994</year>
-		<manufacturer>Metro</manufacturer>
-		<rom name="trii_ge_5.20e" size="262144" crc="5e0815a8"/>
-		<rom name="trii_ge_6.20c" size="262144" crc="55eba67d"/>
-		<rom name="tr2_jb-8.3i" size="131072" crc="0168f46f"/>
-		<rom name="trii_gb_2.14i" size="524288" crc="5949e65f"/>
-		<rom name="trii_gb_4.18i" size="524288" crc="adc84c7b"/>
-		<rom name="trii_gb_1.12i" size="524288" crc="bcf30944"/>
-		<rom name="trii_gb_3.16i" size="524288" crc="138e68d0"/>
-		<rom name="tr2_ja_7.3g" size="131072" crc="6ee32315"/>
-		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-	</game>
 	<game name="toride2g" sourcefile="pst90s/d_metro.cpp">
-		<description>Toride II Adauchi Gaiden</description>
+		<description>Toride II Adauchi Gaiden (Japan)</description>
 		<year>1994</year>
 		<manufacturer>Metro</manufacturer>
 		<rom name="tr2aja-5.20e" size="262144" crc="b96a52f6"/>
@@ -219243,7 +219490,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="uccopsaru" cloneof="uccops" romof="uccops" sourcefile="irem/d_m92.cpp">
-		<description>Undercover Cops - Alpha Renewal Version (US)</description>
+		<description>Undercover Cops Alpha: Renewal Version (US)</description>
 		<year>1992</year>
 		<manufacturer>Irem America</manufacturer>
 		<rom name="uc_aru_h0.ic28" size="262144" crc="e9522dc7"/>
@@ -219270,7 +219517,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="uccopsar" cloneof="uccops" romof="uccops" sourcefile="irem/d_m92.cpp">
-		<description>Undercover Cops - Alpha Renewal Version (World)</description>
+		<description>Undercover Cops Alpha: Renewal Version (World)</description>
 		<year>1992</year>
 		<manufacturer>Irem</manufacturer>
 		<rom name="uca_-h0-.ic28" size="262144" crc="9e17cada"/>
@@ -228886,7 +229133,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="wcvol95" sourcefile="dataeast/d_deco156.cpp">
-		<description>World Cup Volley '95 (Asia v1.0)</description>
+		<description>World Cup Volleyball '95 (Asia Ver. 1.0)</description>
 		<year>1995</year>
 		<manufacturer>Data East Corporation</manufacturer>
 		<rom name="pw00-0.2f" size="524288" crc="86765209"/>
@@ -228901,7 +229148,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="wcvol95j" cloneof="wcvol95" romof="wcvol95" sourcefile="dataeast/d_deco156.cpp">
-		<description>World Cup Volley '95 (Japan v1.0)</description>
+		<description>World Cup Volleyball '95 (Japan Ver. 1.0)</description>
 		<year>1995</year>
 		<manufacturer>Data East Corporation</manufacturer>
 		<rom name="pn00-0.2f" size="524288" crc="c9ed2006"/>
@@ -228916,7 +229163,7 @@
 		<driver status="good"/>
 	</game>
 	<game name="wcvol95x" cloneof="wcvol95" romof="wcvol95" sourcefile="dataeast/d_deco156.cpp">
-		<description>World Cup Volley '95 Extra Version (Asia v2.0B)</description>
+		<description>World Cup Volleyball '95 Extra Version (Asia Ver. 2.0B)</description>
 		<year>1995</year>
 		<manufacturer>Data East Corporation</manufacturer>
 		<rom name="2f.bin" size="524288" crc="ac06633d"/>
@@ -236488,6 +236735,13 @@
 		<rom name="sknsa1.u10" size="524288" crc="745e5212"/>
 		<rom name="sknsu1.u10" size="524288" crc="384d21ec"/>
 		<rom name="sknsk1.u10" size="524288" crc="ff1c9f79"/>
+	</game>
+	<game isbios="yes" name="systemy2" sourcefile="sega/d_y2.cpp">
+		<comment>BIOS only</comment>
+		<description>System Board Y2 (BIOS)</description>
+		<year>2009</year>
+		<manufacturer>SI Electronics</manufacturer>
+		<rom name="system_y2_m25p40.u801" size="524288" crc="2b19f490"/>
 	</game>
 	<game isbios="yes" name="ym2608" sourcefile="pre90s/d_wc90.cpp">
 		<comment>Internal ROM only</comment>

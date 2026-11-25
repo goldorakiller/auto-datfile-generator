@@ -6,8 +6,8 @@
 		<name>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</name>
 		<description>Commodore Amiga - WHDLoad - Games - Beta &amp; Unofficial</description>
 		<category>Standard DatFile</category>
-		<version>2026-11-23</version>
-		<date>2026-11-23</date>
+		<version>2026-11-25</version>
+		<date>2026-11-25</date>
 		<author>-insert author-</author>
 		<email>-insert email-</email>
 		<homepage>-insert homepage-</homepage>
@@ -147,6 +147,7 @@
 	</machine>
 	<machine name="L">
 		<description>L</description>
+		<rom name="LadyBug_v1.02.lha" size="56706" crc="8e2f7ea8" md5="9fbfe51c37b896e400b39407b094a220" sha1="6d103a5451a0e41fcb1dab35f2a8459e0e4cdc50"/>
 		<rom name="LastActionHero_v1.2_Hack_by_AmigaLive.lha" size="1341720" crc="d0ba21d6" md5="1bd62655be076c0a3bfb7b21f43ede2f" sha1="385440aabca15b9fd552dd14346c98ab1d3687be"/>
 		<rom name="LCDDreams_v1.0.lha" size="818970" crc="bf3596d3" md5="928674d5ce478b4e3b47cf8e70236a00" sha1="ee1839036d774fd20c6f3a25789085b0ec745cdf"/>
 		<rom name="LCDDreams_v1.0_Fast.lha" size="819043" crc="90914953" md5="11e328f671e57bb92b3f5a52a7ae3313" sha1="8421be7c0156daccc64fa7b8d6fa6f3f1ec4a463"/>
@@ -175,6 +176,8 @@
 		<rom name="MegaTraveller1_v1.0.lha" size="679997" crc="0b28d927" md5="633d4a4e0951b9493d74c4ef1326cbd2" sha1="7f57e62ca7c4bc98f57dcff84ea01cbcfa288764"/>
 		<rom name="Mercenary3_v2.0b_0356.lha" size="271440" crc="529e8b51" md5="b7d1dddf9819419a249c04a5a3df7147" sha1="b5b56c1eebc689363ace0a2e0e280005d97f9ab3"/>
 		<rom name="MetagalacticLlamas_v1.0.lha" size="69381" crc="891bdc70" md5="cc0d01e7a8db6d5faf0baea88b00bbf6" sha1="d9d7876970ce6fab1b23890a5dab11f2b85b0885"/>
+		<rom name="Millipede_v1.01.lha" size="46198" crc="47801bb7" md5="0296275c14cdf980525021a1e32d1ee1" sha1="284eed3d79b28706a9ae03bcd2ca606f5d1ed66c"/>
+		<rom name="MissileCommand_v1.02.lha" size="41176" crc="d4ec0a2d" md5="d316f3ee62dd05b5eccab4c1ad28f7c5" sha1="af4f0715bb165fc200ac45d744de99cd2d685e40"/>
 		<rom name="MoebiusGoatlizard_v0.1.lha" size="192381" crc="1642aa0f" md5="aa04e18227f7ce8d7b38c21e9e057c54" sha1="cb601ea7ad6c37b90e77b1330beae335386edbc1"/>
 		<rom name="MoonPatrol_v1.01_AGA.lha" size="198862" crc="c92c38b6" md5="92af19ea2c1769d6dc1fefc9c05cad72" sha1="7779115a43b580f5ccdb09eb7268ae9ea55db439"/>
 		<rom name="MoonPatrol_v1.01_ECS.lha" size="200445" crc="13d83dcc" md5="81bedac4ed280492c0d188f8f70d6c01" sha1="d11ac1ea0fff6dc11efc59dd9ef3c331d26183b4"/>
@@ -204,6 +207,8 @@
 		<rom name="Pengo_v1.0.lha" size="234998" crc="bc513194" md5="173c2f48200ad39b1a57b1e34137645f" sha1="d460926feb4695e58230bd72848fe4476d0b97c6"/>
 		<rom name="Phoenix_v1.02.lha" size="96722" crc="fc901f02" md5="4a539f21251897601b7c5469b47305ff" sha1="df26fdeceaa39af3d84e3f8660bed6016e902679"/>
 		<rom name="Phoenix_v1.02_AGA.lha" size="101267" crc="1e6ff29a" md5="3b896b3ab73bc97564f5d81f9780ab4a" sha1="cd549b595a362da20a92dfd3006222b99c000675"/>
+		<rom name="PolyPlay_v1.0.lha" size="54837" crc="e5ebf632" md5="a8f5f8d7c8eee11d843dab9f30a71701" sha1="d88c991690f770e2081df8643369b626a037ad75"/>
+		<rom name="PolyPlay_v1.0_De.lha" size="53198" crc="7f072ae8" md5="319753d128da99b5fd3aba309748df05" sha1="aead9c3c9e143556ecffcf0976a603fb9ddb1b90"/>
 		<rom name="Pooyan_v1.01.lha" size="283706" crc="ca662500" md5="4e62c6d72f2f9fa427adc0d66519db16" sha1="156eca8e579e1f3deb2814c7202fbccb25952cc6"/>
 		<rom name="Powerdrome_v2.0b_0140.lha" size="559694" crc="3e4e436e" md5="a6e90def3490d782b17d0e3f09923ed9" sha1="3b88df794e3b9dbf3248df77f8a6b916d8d44c96"/>
 		<rom name="PrisonersOfWar_v1.0_AGA.lha" size="3146717" crc="e9e05c59" md5="14716fb81d2b9f8752b703e3ee5cc86d" sha1="bf565407ec9546fc612095d2e6560ea2be911667"/>
@@ -279,6 +284,8 @@
 	<machine name="V">
 		<description>V</description>
 		<rom name="Virus_v2.0b_0004.lha" size="99878" crc="9b363c43" md5="4a9a8aae9530baf3559a91683379b513" sha1="6a91875f0060397c93503e4a7dc3f42b1a882067"/>
+		<rom name="Vroom&amp;DataDisk_v2.0b_1295&amp;1296.lha" size="891045" crc="5f5bfc1c" md5="b28188d9ad83fdfaefb3a57522b1b963" sha1="921cd00f18b1da29455a6f65c57fc6eba96d8c9b"/>
+		<rom name="Vroom_v2.0b_1295.lha" size="537784" crc="deb77574" md5="42efdd7f50d88b44bcfbea1ee37a3c6f" sha1="29bcf1b7ad140e6f51ffc69cce4f52662cab872f"/>
 		<rom name="Vulgus_v1.01_AGA.lha" size="377765" crc="3ff7e405" md5="f65847b71a6a188368d339f974cff5d6" sha1="f0fd07625a4859deb164f7906b82c77f369c3f3b"/>
 	</machine>
 	<machine name="W">

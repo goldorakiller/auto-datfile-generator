@@ -1091,6 +1091,35 @@
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
+	<game name="cybotsre" cloneof="cybots" romof="cybots" sourcefile="capcom/d_cps2.cpp">
+		<comment>Hack</comment>
+		<description>Cyberbots: Fullmetal Madness (Hack, English Restoration RC1)</description>
+		<year>2026</year>
+		<manufacturer>Strygo</manufacturer>
+		<rom name="cybre.03" size="524288" crc="f3e24a5f" />
+		<rom name="cybre.04" size="524288" crc="58ffcf73" />
+		<rom name="cyb.05" merge="cyb.05" size="524288" crc="ec40408e" />
+		<rom name="cyb.06" merge="cyb.06" size="524288" crc="1ad0bed2" />
+		<rom name="cyb.07" merge="cyb.07" size="524288" crc="6245a39a" />
+		<rom name="cyb.08" merge="cyb.08" size="524288" crc="4b48e223" />
+		<rom name="cyb.09" merge="cyb.09" size="524288" crc="e15238f6" />
+		<rom name="cybre.10" size="524288" crc="463c24d7" />
+		<rom name="cybre.13m" size="4194304" crc="c0e53c31" />
+		<rom name="cybre.15m" size="4194304" crc="28437e3f" />
+		<rom name="cybre.17m" size="4194304" crc="b1c5db8c" />
+		<rom name="cybre.19m" size="4194304" crc="afcac21f" />
+		<rom name="cybre.14m" size="4194304" crc="d34cf2ae" />
+		<rom name="cybre.16m" size="4194304" crc="edb473b0" />
+		<rom name="cybre.18m" size="4194304" crc="f8680b78" />
+		<rom name="cybre.20m" size="4194304" crc="548f798f" />
+		<rom name="cyb.01" merge="cyb.01" size="131072" crc="9c0fb079" />
+		<rom name="cyb.02" merge="cyb.02" size="131072" crc="51cb0c4e" />
+		<rom name="cyb.11m" merge="cyb.11m" size="2097152" crc="362ccab2" />
+		<rom name="cyb.12m" merge="cyb.12m" size="2097152" crc="7066e9cc" />
+		<rom name="cybotsj.key" size="20" crc="d4d560b7" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
 	<game name="cybotsj" cloneof="cybots" romof="cybots" sourcefile="capcom/d_cps2.cpp">
 		<description>Cyberbots: Fullmetal Madness (Japan 950420)</description>
 		<year>1995</year>
@@ -3426,6 +3455,35 @@
 		<rom name="msh.11m" size="2097152" crc="37ac6d30" />
 		<rom name="msh.12m" size="2097152" crc="de092570" />
 		<rom name="msh.key" size="20" crc="b494368e" />
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
+		<driver status="good" />
+	</game>
+	<game name="mshrest" cloneof="msh" romof="msh" sourcefile="capcom/d_cps2.cpp">
+		<comment>Hack</comment>
+		<description>Marvel Super Heroes (Hack, English Restoration RC1)</description>
+		<year>2026</year>
+		<manufacturer>Strygo</manufacturer>
+		<rom name="mshre.03g" size="524288" crc="edd4f25b" />
+		<rom name="mshre.04g" size="524288" crc="60ca0735" />
+		<rom name="mshre.05a" size="524288" crc="95049589" />
+		<rom name="mshre.06b" size="524288" crc="fc757e48" />
+		<rom name="msh.07a" merge="msh.07a" size="524288" crc="c45f8e27" />
+		<rom name="mshre.08a" size="524288" crc="0b5682d2" />
+		<rom name="msh.09a" merge="msh.09a" size="524288" crc="82ec27af" />
+		<rom name="mshre.10b" size="524288" crc="f41feed9" />
+		<rom name="mshre.13m" size="4194304" crc="3b0239bb" />
+		<rom name="mshre.15m" size="4194304" crc="36a317d3" />
+		<rom name="mshre.17m" size="4194304" crc="796d8360" />
+		<rom name="mshre.19m" size="4194304" crc="ae6ae182" />
+		<rom name="msh.14m" merge="msh.14m" size="4194304" crc="4197973e" />
+		<rom name="msh.16m" merge="msh.16m" size="4194304" crc="438da4a0" />
+		<rom name="msh.18m" merge="msh.18m" size="4194304" crc="4db92d94" />
+		<rom name="msh.20m" merge="msh.20m" size="4194304" crc="a2b0c6c0" />
+		<rom name="msh.01" merge="msh.01" size="131072" crc="c976e6f9" />
+		<rom name="msh.02" merge="msh.02" size="131072" crc="ce67d0d9" />
+		<rom name="msh.11m" merge="msh.11m" size="2097152" crc="37ac6d30" />
+		<rom name="msh.12m" merge="msh.12m" size="2097152" crc="de092570" />
+		<rom name="mshj.key" size="20" crc="888761ac" />
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3" />
 		<driver status="good" />
 	</game>
