@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>eXoWin9x Vol. 1 - 1995-1997 - Content</name>
+		<description>Mixed (Archive as File)</description>
+		<category>Computer</category>
+		<version>Vol. 1: 1995-1997</version>
+		<date>2026-11-25</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage>https://www.retro-exo.com/</homepage>
+		<comment></comment>
+		<romvault forcepacking="fileonly"/>
+	</header>
+	<rom name="!Win9Xmetadata.zip" size="8005141063" crc="07ea42f8" sha1="43640c2c03e7c11ea5d22eb08ca218c49ce114cf"/>
+	<rom name="LaunchBox.zip" size="567328211" crc="f43b68b9" sha1="896612ab8531b296da5b83653819f1d00e1a2ee5"/>
+	<rom name="XOWin9xMetadata.zip" size="9756561579" crc="31093ea3" sha1="cdec2f6a3d4b0b0b5c84da35e5d5bbc6d2c6acb8"/>
+</datafile>

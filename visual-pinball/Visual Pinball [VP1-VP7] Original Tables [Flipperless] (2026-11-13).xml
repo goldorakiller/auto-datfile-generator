@@ -1,0 +1,937 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP1-VP7] Original Tables [Flipperless]</name>
+		<description>Visual Pinball [VP1-VP7] Original Tables [Flipperless] (2026-11-13)</description>
+		<version></version>
+		<date>2026-11-13</date>
+		<author></author>
+	</header>
+	<machine name="4Eyes Clock (4Eyes)(1.0)[Other]">
+		<description>4Eyes Clock (4Eyes)(1.0)[Other]</description>
+		<rom name="4Eyes Clock (4Eyes)(1.0)[Other].vpt" size="79360" crc="515e7d8a" md5="9ccfa52d91c4de361ef11b2bfabaae84" sha1="b9e98a703b14c9ae7e8f455b103f29e0ecc80a4b" sha256="2a149cef87f756fcb8c30420b2636437b9421c468b7f5865e00610dd5f47bc7b" />
+		<rom name="4Eyes Clock screenshot.jpg" size="18440" crc="db25dbf1" md5="198c016636b5ef6a1d1ccc2fc546dcd2" sha1="5e59b686ef5a1efa1540c5f6bd0dfb6d5b35258d" sha256="6fd5f5deacaf4402ae9df28597f21784e4446809a3efbf487fdab4d60d4e3011" />
+		<rom name="dotmat.ttf" size="30212" crc="bcabdddf" md5="e780dc7bf8f4afff3f867b1640daeebb" sha1="0897c516850a1fbeb74b24b5683eb591f7fb9eda" sha256="5445697ac96b07af2e2d487db3f8096d9ab4dc5ec2309cf8a1df23f00c22dcc6" />
+	</machine>
+	<machine name="4Eyes Mastermind (4Eyes)(1.0)[Other]">
+		<description>4Eyes Mastermind (4Eyes)(1.0)[Other]</description>
+		<rom name="4Eyes Mastermind (4Eyes)(1.0)[Other].vpt" size="714240" crc="aa7bd140" md5="546903e807a92aba72b4acd8022b762e" sha1="d9b38f668ebdebde4e2818a38b373da188d4ba5c" sha256="540e81b964a9e0af16dda7f7b7af0e3e77113629a2bb15df7e5a304db6691944" />
+		<rom name="4Eyes Mastermind instructions.txt" size="4342" crc="bad5c10e" md5="da6681e70652530d8e2d21373a754392" sha1="ea2b4a35c9fa77f0522ad51bc620eae0b1dd30e4" sha256="5d2e51e02f07da5c781d8074194fcb3c625317514f69e093c86b96ae84c6107c" />
+		<rom name="4Eyes Mastermind screenshot.jpg" size="48132" crc="680f7270" md5="c602bf0c43ee1b88b6298e135da4dca5" sha1="fb62a4cee0dc66e46dc9b08d524bed3678aa7ad8" sha256="a7f9a0fa9f10b2b3bc9d03afd1dc8a25315afb49bbc354fe93717a0ec4f6ac39" />
+		<rom name="blackdisplaydriver_v2.vbs" size="30547" crc="516f8001" md5="98a58e59af8c0026266b810dd7c6edbc" sha1="3cd54d004636b8d6dab2275b66ca27c3e20ecd29" sha256="6dc48d79fbb6a5b034782d469a954b4fb59bc97aeaaa85283d3e824c0992bc24" />
+		<rom name="keycodes2.vps" size="2794" crc="9c009f8d" md5="106dcfff351469b50a020ec1485c3529" sha1="308913c2942615b95adc5c95283ef0819ce7fef5" sha256="9868f24022a33727c0e78bc5b87d9649fdc462308ba399d5adde7c68200e63b3" />
+	</machine>
+	<machine name="4Eyes Silly Screen Saver (4Eyes)(2.0)[Other]">
+		<description>4Eyes Silly Screen Saver (4Eyes)(2.0)[Other]</description>
+		<rom name="4Eyes Silly Screen Saver (4Eyes)(2.0)[Other].vpt" size="261632" crc="0b29499f" md5="152a4d852e307bc801d83d9f79211d5b" sha1="9074f21aaf66a5385b0ce2e446fb629bb52f58a0" sha256="30b493a7e6acc50c8279fa03eb8547bafc41ecfbcf52e1db9b23057262aa7192" />
+		<rom name="4Eyes Silly Screen Saver readme.txt" size="366" crc="bc6718c8" md5="ce680dddace7f58571159fcad19521ef" sha1="50adb5813aebd10b9030d8d8c337d749037790cb" sha256="16cbdab7b9fcdeb80a3475d7cab454bf3065888f63640d6750619339641d77bc" />
+		<rom name="4Eyes Silly Screen Saver screenshot.jpg" size="11413" crc="c6ee3f45" md5="5fd24e5e80cc258f7b8f5dd3e03beb25" sha1="ea6c0b286a44b7bf1dcc82ef947ea8cb6cf99954" sha256="63ddfef2833142e750e682bba9fab546e6ec85692fd36dcad2740b092de75d0d" />
+	</machine>
+	<machine name="4Eyes Video Poker (4Eyes)(1.0)[Other]">
+		<description>4Eyes Video Poker (4Eyes)(1.0)[Other]</description>
+		<rom name="4Eyes Video Poker (4Eyes)(1.0)[Other].vpt" size="4483072" crc="713f1936" md5="842eae0f45969b77d2a2bb7b5c6637de" sha1="636d124f78610732485695ae557e4fd949f7317b" sha256="921d5a0d5ac4d21e546866899cd8c9d1c190e08308f46e7386a5699f90047cc2" />
+		<rom name="4Eyes Video Poker readme.txt" size="1699" crc="411d6588" md5="3bc41698e494ee84005661fd2b708a57" sha1="779b4b1ac634a2820aebf60ea26ca2765babb2f7" sha256="3a6535684484e6e265060df2924c672ba51d70b7307113c4b34b7aa9ed7a14d2" />
+		<rom name="4Eyes Video Poker screenshot.jpg" size="66436" crc="3914bf8b" md5="7de84347e76a2e38098db80049c9a9b2" sha1="9d24a1cc4a914f2420a8f0c2dd20d9ea6ecaf911" sha256="14acf87f584a0d48228b96816cfa7b3be502e9e781e2babfff60e73a23a18703" />
+		<rom name="4eyesvideopoker.vps" size="58167" crc="eb9f1c19" md5="c2aa156d031343b3d6c1473f2ec156b6" sha1="2140f0c4c9f37b536bedb9bedfd342d8c25e137b" sha256="07e2b0fcca9ce55320dead89fbeb4893731ff9d7a643395b9f882708eba3a15c" />
+		<rom name="blackdisplaydriver_v2.vbs" size="30547" crc="516f8001" md5="98a58e59af8c0026266b810dd7c6edbc" sha1="3cd54d004636b8d6dab2275b66ca27c3e20ecd29" sha256="6dc48d79fbb6a5b034782d469a954b4fb59bc97aeaaa85283d3e824c0992bc24" />
+		<rom name="keycodes2.vps" size="2794" crc="9c009f8d" md5="106dcfff351469b50a020ec1485c3529" sha1="308913c2942615b95adc5c95283ef0819ce7fef5" sha256="9868f24022a33727c0e78bc5b87d9649fdc462308ba399d5adde7c68200e63b3" />
+		<rom name="quartz.ttf" size="57860" crc="2915b2ed" md5="55f96a010646b90457e9bc03d43e2b67" sha1="74d93c590b5de2e4ee03fd3d3cc8ea64439131cc" sha256="8ef16894dc23cde8fd4775d96190528d7d5b9eaea40c145a4dcde8282aeb5225" />
+	</machine>
+	<machine name="7 of 9 Ball (Apocalypse)(Final3)[Other]">
+		<description>7 of 9 Ball (Apocalypse)(Final3)[Other]</description>
+		<rom name="7 of 9 Ball (Apocalypse)(Final2)[Other].vpt" size="873984" crc="38fcfc90" md5="dc0f238c580318ff17b7d260bd3b9e99" sha1="bdd34bdb97fcf35540c55ce572c60773013f097d" sha256="6bbad7ec185e2c7e8210a0518b5522d6f612f82c2ee24ffdc33d833f81b833ab" />
+		<rom name="7 of 9 Ball (Apocalypse)(Final3)[Other].vpt" size="886272" crc="732260e8" md5="98e2058d57a5dd53821994007908bbba" sha1="6746515f3b5a33ac8e44dc188898b7833a8d39b2" sha256="8bc34fc27391c39fe89a7fa189f9e655d78f4f757aa87cff8f9d3d3a532d5424" />
+		<rom name="7 of 9 Ball screenshot.jpg" size="53153" crc="031213a6" md5="8e9faab3e88abd1096dcc10668167c19" sha1="a739371c3b9432255d833d91070dddb137c00ae5" sha256="286cc1e0a2eb590f88918e1a7fb6f6f25d1476aa805f837e31d1d82e86652054" />
+	</machine>
+	<machine name="7 of 9 The Slots (Apocalypse)(Beta 2)[Slot Machine]">
+		<description>7 of 9 The Slots (Apocalypse)(Beta 2)[Slot Machine]</description>
+		<rom name="7 of 9 The Slots (Apocalypse)(Beta 1)[Slot Machine].vpt" size="2873856" crc="de147530" md5="8284a3ae6e26b9546f1c7c481f4edb77" sha1="f4d0fb8f7baeabf0ac80ed2e44b1bddc484bf5cf" sha256="3b4cbee7f239c63e7dc2dc3f683021e1781abd71f5821c525bef2e7d10a45c53" />
+		<rom name="7 of 9 The Slots (Apocalypse)(Beta 2)[Slot Machine].vpt" size="10256896" crc="299277fb" md5="a4695644244e408052849c094c2c772a" sha1="c9b5bd2e7ec716a7e7c3f40b1a6e42a181786b37" sha256="d7de2557dbacb8b922d9fb902d0ac9a28e2cdfd76a51655c20e8022e0865c52a" />
+		<rom name="7 of 9 The Slots info.txt" size="530" crc="ae0f46d1" md5="352d9f02ac5dcc8032b0a9280982943c" sha1="9693e55ce05c62a070c516634b29a768e6f74fae" sha256="5be3a7247d88587e6a1d6d8b3e043aa47c9e49f5dd8059d454deac01eed6ab72" />
+		<rom name="7 of 9 The Slots screenshot.jpg" size="53085" crc="af252556" md5="ddb862a4df36831f4d89e540ebcedb31" sha1="c5f6ad1e59f3d2bec43616507cd6eef13886e640" sha256="4e42d9639a0aa73ef7f2f2646716677abfbcc0bf9e69f172ccf0dd669b809d12" />
+	</machine>
+	<machine name="1940 Portland (Nissananimal)(1.0)[Bagatelle]">
+		<description>1940 Portland (Nissananimal)(1.0)[Bagatelle]</description>
+		<rom name="1940 Portland (Nissananimal)(1.0)[Bagatelle].vpt" size="470016" crc="397378a9" md5="dce31bb5a19f41e53be4f873e35c3b64" sha1="9fcc2b49c04e107551fc1bce589242c34df8c00d" sha256="0311102999b4063d394223790d29df25ba3ead2c52c56c6e81164bc8d333b79b" />
+		<rom name="1940 Portland screenshot.jpg" size="70463" crc="4383dc4c" md5="8afa097729db9edcf8c2cb6d43575302" sha1="e8b8b01d102c11341eecb8ac37d0239251255b81" sha256="17e4ca836b9852e5edc4b840dd803a0fa99834cef811e131860b70736c9db194" />
+	</machine>
+	<machine name="Aftershock (Anthias)(1.0)[Flipperless]">
+		<description>Aftershock (Anthias)(1.0)[Flipperless]</description>
+		<rom name="Aftershock (Anthias)(1.0)[Flipperless].vpt" size="761344" crc="4729609a" md5="4970c750ce3318264153363b52220608" sha1="f6e00b791e32e5c94819c4b843d69230cf1844ef" sha256="3d9afdc69b67516ccbb172f124cc75ed25fd0780be85a1622a04c9ce1acac344" />
+		<rom name="Aftershock screenshot.jpg" size="86626" crc="d5d1126b" md5="f211d963986ad0dc434db60429217e91" sha1="5fbec7aa3da815e79ecb6c8cda814fb955644598" sha256="64aa46f6af00fa782d6cb81ff4d1680ddd300743ffe234cc4357e74adf2f2271" />
+	</machine>
+	<machine name="American Catch A Ball (Andy)(1.0.0)[Flipperless]">
+		<description>American Catch A Ball (Andy)(1.0.0)[Flipperless]</description>
+		<rom name="American Catch A Ball (Andy)(1.0.0)[Flipperless].vpt" size="285696" crc="2008acf2" md5="057eea597e0d59c79d45a9872f7508d0" sha1="1ffa597c06c7fe4cdf1ea8abf2f78c29940bce40" sha256="67ff57987e091e1aa7156bae634439e2da0f35fcf2c953a661a9211cfb86a35a" />
+		<rom name="American Catch A Ball screenshot.jpg" size="42591" crc="d52e3fdf" md5="e72794a649afb4c9db77021b8ab1e546" sha1="611a1507ed9b46f6b7ef4e270b9b8e49384da610" sha256="8de1724e4787e33527cc1aac89dbd5711f8d945c8995113e9f68879061fb07e3" />
+	</machine>
+	<machine name="Apoctopong (Apoc)(3.0)[Other]">
+		<description>Apoctopong (Apoc)(3.0)[Other]</description>
+		<rom name="Apoctopong (Apoc)(2.0)[Other].vpt" size="509952" crc="f6f177c8" md5="dbf8f6b73646bdb3f8c4d2450832a7d3" sha1="80864de4fad35a20b3dac7fea9ad340832cb40fa" sha256="c66067807b09a97694400d766479fe0300799c02f8794cede7aa8e173bab5f20" />
+		<rom name="Apoctopong (Apoc)(3.0)[Other].vpt" size="546304" crc="2712901f" md5="db8eb4ae4e16bdf69a4993cbf60628c9" sha1="5a9409cfbb5959441a2d74956b253c7becf0300b" sha256="4c243202b1409ab099f19fad15475534a8639eb957d75817ce726460d14767bb" />
+		<rom name="Apoctopong screenshot.jpg" size="12086" crc="37f90a3e" md5="84bc24cabccb9f5684ce1a0d61237921" sha1="4beadb62ad9faec448910d753744812c66571bf3" sha256="f8d1a835c4f92e3684ac8b323635c5dcc1f16a60451ddca72c49428002f6b36c" />
+	</machine>
+	<machine name="Aquanoid (Andrew Mortimer)(1.0a)[Flipperless]">
+		<description>Aquanoid (Andrew Mortimer)(1.0a)[Flipperless]</description>
+		<rom name="Aquanoid (Andrew Mortimer)(1.0)[Flipperless].vpt" size="674816" crc="06c6b65a" md5="08b6cad1d9ff8534d3f03dad6a0973e7" sha1="584ceeea120efbf59329b8ed356bbedab84d8640" sha256="145e9eb699467a0feda0e4e3734f8e456679e793236e73fb4c687af4a2f7beb1" />
+		<rom name="Aquanoid (Andrew Mortimer)(1.0a)[Flipperless].vpt" size="674816" crc="675b1c5f" md5="6ecfa07f3ed059b8971a383e5c82a937" sha1="1efb0d5314be694b43d66f489d0ded2add04acae" sha256="0ae3911a49a0419414dbf171a97ce3de1f2c6b94c60c754a678f66f28bf49bd0" />
+		<rom name="Aquanoid screenshot.jpg" size="63310" crc="f226bba3" md5="1f6d5b2a8df636ba7a6fd16b9736e05c" sha1="2b4a6d6d20164ec03c27b10fc7959340502afe55" sha256="b9a147ad6c64af47b0feb6c8db43ef52d288b0b113172ed5482839895480934d" />
+	</machine>
+	<machine name="Bagatallion (Zerhino)(1.0)[Bagatelle]">
+		<description>Bagatallion (Zerhino)(1.0)[Bagatelle]</description>
+		<rom name="Bagatallion (Zerhino)(1.0)[Bagatelle].vpt" size="965632" crc="b36775ae" md5="bfba151fd909f4fd83b466cfabab3a9c" sha1="921a5f3df003adc9e761393b3ac1f62cb9903d2f" sha256="4739f7e7556956f3dca419f38cc7657bf420d26d9e6a49e0475413a230f6e6b0" />
+		<rom name="Bagatallion screenshot.jpg" size="123525" crc="ab7e9714" md5="5fa8660527cd2e0d22ebf801adff8069" sha1="149c5f4a779e8e2c9aaaf70fedd2cf344b7a0e1d" sha256="1eac8a90226ec66855fb208fa8d62234404384d5aed0308de0e763848e3285c3" />
+	</machine>
+	<machine name="Balls (Prescott Pinball)(1.0)[Bagatelle]">
+		<description>Balls (Prescott Pinball)(1.0)[Bagatelle]</description>
+		<rom name="Balls (Prescott Pinball)(1.0)[Bagatelle].vpt" size="2180608" crc="0af824c9" md5="cdced02f647fb22025150cf879653377" sha1="c599af3ad05036147729dd46d9fa2350de845c69" sha256="7b8025af57ff74b48fca3911dbc622f977b60d575a9597e5f766e692f213f56b" />
+		<rom name="Balls readme.txt" size="2045" crc="5cca093d" md5="263483922691403507b0de2680fad27d" sha1="d105ba7eb9bd6aacd29f4aedc68e748ca235aacc" sha256="0bbe4edc2f4922b18062a5ec4fb89a01ff6b0e50b3c22133eab88fcd50db1ac1" />
+		<rom name="Balls rulesheet.jpg" size="68179" crc="90393308" md5="bac602d7cc3533642071606f8848d00e" sha1="35b29c927e68ad5f107bc731c913e070a32e5db2" sha256="30a9632886b712bd2a371d40d7d334e477029ec4cbc7e3fd188476a325d8fabc" />
+		<rom name="Balls screenshot.jpg" size="87502" crc="dcd57898" md5="be4a25d1fc4ef36c91d8376a389d02f4" sha1="12c175f207974df5faeba33481f3fcd182ff1e38" sha256="006be3b977a7b8ba73f0a8929a9f8fd5cf3fbf0755583a376f356170b5f4a792" />
+	</machine>
+	<machine name="Baseball 2001 (Apocalypse)(0.2)[Bat Game]">
+		<description>Baseball 2001 (Apocalypse)(0.2)[Bat Game]</description>
+		<rom name="Baseball 2001 (Apocalypse)(0.2)[Bat Game].vpt" size="1056256" crc="7d191750" md5="328c271ea927459728859a84759f061a" sha1="f780dc80af1b5dcb0b08b614820b08a444fab47c" sha256="7838e1fb900d64f51a43d1170c242faac6bfc8c80d2174447cf830c48cdb5e1e" />
+		<rom name="Baseball 2001 screenshot.jpg" size="73395" crc="f188d362" md5="f89a2ebad28c5eb6236347cac17a3fb6" sha1="978d4a4a2879cce84b925b4cff1add8f1a9e4d2f" sha256="79f32a9b12960335bf53567213db6017c5bda356b2dd7152e49aaea28485e290" />
+	</machine>
+	<machine name="Batter Up (Tom Pillow)(1.2)[Bat Game]">
+		<description>Batter Up (Tom Pillow)(1.2)[Bat Game]</description>
+		<rom name="Batter Up (Tom Pillow)(1.2)[Bat Game].vpt" size="4628480" crc="22936237" md5="66d671c7a2b54f9dd29d1b88026688fe" sha1="b910d9a3dee3d76d4eb919fd64eafbca3de61143" sha256="18305fdb8dd4a418eb70c25cd46f356fb79a50706b1465743c2e5321819d6578" />
+		<rom name="Batter Up screenshot.jpg" size="63691" crc="a6146549" md5="f76864558e32bc72de1d943e6a88fd7c" sha1="ad88a07eb0b00defa5d0fdf51f26e4c4d8b4fd06" sha256="aceb600d78cf3093974294adb5bfbf23e8057d4bc5b3019f1ab847fd6f220e97" />
+		<rom name="Fonts/college.ttf" size="11336" crc="f56f5de4" md5="f9846a1309de5645385743a1ae8c61ad" sha1="735d351707752bccb18b0500ab8e3404a2383ea1" sha256="ba089e3e585ccc59c2297aaf51cb5efe68c0cb8553558a3de7224428eae53963" />
+		<rom name="Fonts/collegeb.ttf" size="11476" crc="5be53654" md5="4d4fda0c044747ee3871f5842f76e000" sha1="f2bcbd8328968c3cd6ef63361d9fcdde33c25d41" sha256="6def50e0e2fa150c64290e2c314e518e6aa2a7dfc06de62034b4f9dac53de490" />
+	</machine>
+	<machine name="Beachcomber (DizziDi)(1.0)[Flipperless]">
+		<description>Beachcomber (DizziDi)(1.0)[Flipperless]</description>
+		<rom name="Beachcomber (DizziDi)(1.0)[Flipperless].vpt" size="605696" crc="95415da2" md5="068d3e7b0872c1f45c1784d8f459b6a8" sha1="06bf02f0759039de4ed2b257607165ad427ca6b0" sha256="81307422e294d29812ebd4578e81966f9def824e728db1ddf6f8221bdb1f5d0f" />
+		<rom name="Beachcomber screenshot.jpg" size="65404" crc="707036c9" md5="a2a284dcd6c7c3a5d83e532b8ef3de2b" sha1="d08af22adee49f7115bd196f4cefc17de5d4e272" sha256="67288eca2c93f407004cdf3abcd91c3ab509e0b77670115730d512ff8a56ab79" />
+	</machine>
+	<machine name="Beverly Hillbillies, The (Rockinghorse)(1.0)[Novelty Bagatelle]">
+		<description>Beverly Hillbillies, The (Rockinghorse)(1.0)[Novelty Bagatelle]</description>
+		<rom name="Beverly Hillbillies, The (Rockinghorse)(1.0)[Novelty Bagatelle].vpt" size="10544640" crc="051fb2d6" md5="d423816163e448ce24bad41cd70cb527" sha1="0d92016446cbf9c5384a150b04171562bee77d88" sha256="97f09f359b60938a960b58b229cf36459d386d93dc97ebd061c67bcb4e0742f9" />
+		<rom name="Beverly Hillbillies, The screenshot.jpg" size="54022" crc="2a5059dc" md5="7bf595b14321e34d666e80e301e24b49" sha1="c56c59167fc3fdc04ac20e6e5fa4de0f5f24295d" sha256="0c63385f7faae1f48ee82b600159a80c843c114df56d1502f53ef84c6860c0cd" />
+		<rom name="Fonts/led.ttf" size="36440" crc="33c111f0" md5="ed7cfe0fd97f37e036bdf6f700bd3755" sha1="84e9673396e46832aa18a9bb7da020f807524dcb" sha256="67b15456e11abec962ba69b6bb56c2d1de795ab27eb18e092ecc721bdcbaf082" />
+		<rom name="Fonts/oldeng.ttf" size="37372" crc="35414701" md5="dae25362018cf969ecdfadbcfa719a09" sha1="1a62694e70c90c97c9e92bf0a9835f707255300a" sha256="7c112a13cd310156951e707ace0282447f97959a1f1d695cfebeb59ed2628583" />
+	</machine>
+	<machine name="Big Money (Spike)(1.0)[Flipperless]">
+		<description>Big Money (Spike)(1.0)[Flipperless]</description>
+		<rom name="Big Money (Spike)(1.0)[Flipperless].vpt" size="343552" crc="33f18139" md5="6de2e2872818a4993fad9905a3a95ec3" sha1="4c002c73bf56ba1fc3150cbc33b89ce1a5fae0fa" sha256="1539fd974a384b7afed09de2ef68c2a4eee34414b9a3b733fc0b8150c5ab4a55" />
+		<rom name="Big Money screenshot.jpg" size="81930" crc="96591b4b" md5="d73d8aec6be738dad86aa66452746924" sha1="e6a7d96e88457abf12568f97009b12ddb1090839" sha256="405f3396a0eba4203cd73ee701a4a0228ff97d4a4b94b357d3ae8197501bbe75" />
+	</machine>
+	<machine name="Billiards (Nicholas)(0.91)[Other]">
+		<description>Billiards (Nicholas)(0.91)[Other]</description>
+		<rom name="Billiards (Nicholas)(0.91)[Other].vpt" size="202752" crc="e1978e1a" md5="7d46d69cc0a812b8b21bc0a44a4b2cb6" sha1="cf5bfd2cbc2b5f0fb2ddfab5c95fb19f95b08527" sha256="cffc8fb24ca27eff4edc6eb4843153c8085920ff28bbaf9b096df56bfa49ec2b" />
+		<rom name="Billiards screenshot.jpg" size="14266" crc="30ae76da" md5="eb6488c29eaac2b96662f87a4bca817f" sha1="9b5f9631f74fc3747223f5ce9f1a0965477c73b8" sha256="ba547da9141cca11eee833cf08b3c10fc9db407526b90011760500154ab0ae05" />
+	</machine>
+	<machine name="Billiards Engine (Nicolas.b)(0.9Z.1D)[Other]">
+		<description>Billiards Engine (Nicolas.b)(0.9Z.1D)[Other]</description>
+		<rom name="Billiards Engine (Nicolas.b)(0.9Z.1D)[Other].vpt" size="120832" crc="e3595eef" md5="bc2465b5103297a79fef3b8e02231a9d" sha1="8a235f8c90d202d675c1421271430bb051c7280e" sha256="462d5a70b81897d2cdb7a3bd800906e4128de4cc275f807d2e70ce262b01a6ec" />
+		<rom name="Billiards Engine screenshot.jpg" size="12799" crc="1f9b05b4" md5="d8ba05381d324999986e59008922eadb" sha1="678103420083965f966aff6dc5eb6cff7cb46f9d" sha256="4e31e9d5535b6960a6b13ae843e0687754753ac93a3578358002d4bb652745c2" />
+	</machine>
+	<machine name="Bingo1 (Hung)(0.9)[Bingo]">
+		<description>Bingo1 (Hung)(0.9)[Bingo]</description>
+		<rom name="41-lagunabeach-i_feb_60_711.jpg" size="54313" crc="3a963546" md5="bf67f3827b3ae7cd233905a3c5c4cf25" sha1="c826a8fb952b842ded896838110a04bac583ac85" sha256="4a5895c5a84da26034bd9f0fa41c09b97ed012701aef42a6ab6485eedcbb5e8b" />
+		<rom name="Circus Queen Big Flyer.jpg" size="829932" crc="6120b2eb" md5="a474c2038c013a099f44e53ed1b4a418" sha1="5f350f047c6c813b75d39bea94c3aa82800c7999" sha256="c3c07576fc2a0f7a3c80cc8d0b5f70595e1c7e1747f619a869731d8a9e88a867" />
+		<rom name="Circus Queen Big Instruction Cards.jpg" size="569976" crc="1b8ec7b6" md5="948cb07b3c326613ee7ffd9612f95f35" sha1="eb1da3ccdc947d9e75ae00df56b0ee821b267968" sha256="424ec453cc5192c115864d775c6214bce0cf0ec0895e85cea9647a464773143c" />
+		<rom name="Circus_Queen_BG3.jpg" size="103623" crc="b58b0df5" md5="256457a8811c03be924ec97e0b4f129e" sha1="2488afcf5d49e026a0d107f94e4182c6dcd7348a" sha256="0a035b01cc39f9ec59f7e9a7ad457405fc32f6ac5d06534db1f01d70018913fd" />
+		<rom name="Circus_Queen_BG.jpg" size="138020" crc="e975b4fc" md5="8920cffe25a110389a25b3ebb2afdce6" sha1="a6bad310227bfed101eaadd6928ae4f8e181fcf7" sha256="e1ce13a59324fd919adc7b4e8b66bd38d28cad4577bb4ae6bcc79204db6540af" />
+		<rom name="Circus_Queen_cab.jpg" size="83854" crc="2551c7aa" md5="f59678f669f717d061117d5b0331e861" sha1="6af3d2ffb1b4de2902bd7042961644fe7c68c20d" sha256="60565ffc93584436fb9f92cbdeac053ee7623faa4ec9c2a893718af889d3b85b" />
+		<rom name="Circus_Queen_PF.jpg" size="65862" crc="40ba0b56" md5="66f93ae4883b5f58a00d0f8343d67871" sha1="c2e5bc70b0dd5324521bd0990df0e8b4875ace37" sha256="4de3ddff209f88781bf027475ff937d7d414857729e01d95e1cb9e1a2594b3bb" />
+		<rom name="CIRCUSQ.jpg" size="29731" crc="8f1f637b" md5="c9bdc107e1669866d5197901ccbea272" sha1="9041f305a84143e9a890988011ec75d28deeae0d" sha256="8eb7d3c58e99e2758066b07ab42082b9c731e974c0dfd140142ab9a4e6d3af1b" />
+		<rom name="Laguna Beach playfield.jpg" size="75915" crc="ffa93952" md5="12238b41894c38f9a4ac72c547874610" sha1="b1d683ae3ccd09fe295368022f549dace7650548" sha256="aef8617596c7eaca9f50906c025971a0358a3ca50ccabeb1de0e823c29ba8b33" />
+		<rom name="Roller Derby playfield.jpg" size="104652" crc="5c1aaaaa" md5="d31e08ef79946aebc017da8965cb0197" sha1="787e572f75d7636fff8c63a8cb54c4454d916253" sha256="f7aeabf60b9fb8664de8fc32490c84c475c2961fcc3163bdf683e8959a3d0e40" />
+		<rom name="0.8/Bingo1 (Hung)(0.8)[Bingo].vpt" size="965632" crc="bc46f142" md5="d86bd9c35ab9d41b5f69dcacced7a7cd" sha1="7a6fe1f8e397f03b06f712a49fc92791e2885530" sha256="6ead0672b6ab822ce86ddecb097f46ec2e1af5498c38515b892a10dfb08e9f86" />
+		<rom name="0.8/Bingo1 v0.8 screenshot.jpg" size="99198" crc="430ec86e" md5="83a4a178dfb986d644df10e533ea36b6" sha1="d169365ab8bd5537979675538d7c540b269d97af" sha256="9b94525a1f00c16934d590712715b986b05c7b356780275c54d9fe2ce40e4bb6" />
+		<rom name="0.9/Bingo1 (Hung)(0.9)[Bingo].vpt" size="985600" crc="9c6b7358" md5="abdc2ff1235303677306d538c7dfece3" sha1="1205586f8d4a02db1f4dd5c613083da791ee7785" sha256="fe6d736b902aa91b9785b9965403a0d189eae7581ac65ac06c9786a40b676476" />
+	</machine>
+	<machine name="Blinky Ball (Rockinghorse)(1.1)[Flipperless]">
+		<description>Blinky Ball (Rockinghorse)(1.1)[Flipperless]</description>
+		<rom name="Blinky Ball (Rockinghorse)(1.1)[Flipperless].vpt" size="681984" crc="58dbce0a" md5="523e47cf5b3341dadfebc8a776b07934" sha1="ac5451890b77fb1b628aea6b4df115ba577fddfe" sha256="ddf71a491557fb8abd8bf46c89b6d0386768207ce01f7fc5e03c55e37c5063d5" />
+		<rom name="Blinky Ball screenshot.jpg" size="59296" crc="cc2c8fe8" md5="d0014bd43301ef00e5584c6c409b2ca1" sha1="1375043cf84c094e2772ba34b46094c7c2a7ab91" sha256="7bd99fa8747530611780a868d2f3dbcf439ea7d5427a375da553f8cccc6c0493" />
+	</machine>
+	<machine name="Bowling (Shockman)(public pre-beta wip7b)[Other]">
+		<description>Bowling (Shockman)(public pre-beta wip7b)[Other]</description>
+		<rom name="Wip4/Bowling (Shockman)(public pre-beta wip4)[Other].vpt" size="174592" crc="b456bf23" md5="79cb0159865522a2a16d10aa3d17bbef" sha1="c9a0bf421e339de33d7a71e4f1bfb50a02eafc74" sha256="b077af358fd2cea52dcaa7247337ce0849d0244b2cb08425d2e36258d0a5cbb0" />
+		<rom name="Wip4/Bowling (wip4) screenshot.jpg" size="71560" crc="7e721112" md5="5d35380f3e4097e1c8a43ba64d79d5bd" sha1="e670222422e3a72f49796e205825b9f2148d72b0" sha256="039695ca93db76a8a1129ebdcff425e8cf7e6193839b49a3ec35733471650987" />
+		<rom name="Wip5/Bowling (Shockman)(public pre-beta wip5)[Other].vpt" size="189952" crc="b2c35c5f" md5="211112912a6178522591822cf2ae5a7f" sha1="2cf5f636d1c29ec9cfb6c75e8c4059e399ac684d" sha256="5bf0c205b721f713ec983aaf781155990931cb32216536696fc494fb5631fb49" />
+		<rom name="Wip5/Bowling (wip5) screenshot.jpg" size="79275" crc="8eb9d137" md5="1795ee1e4de632fb3325413bd338f157" sha1="9dba4c90997797d258ab74000d2f40e7ad282af1" sha256="ba7d6f3d1655e53e1a31270217d398c078c6a19661a9df6d2dcf3c1df4982ea1" />
+		<rom name="Wip6/Bowling (Shockman)(public pre-beta wip6)[Other].vpt" size="158720" crc="363669d0" md5="559a395eac083a24bec03ab77113df3c" sha1="010f1a66cb529cb2aa9b607c54076f01a23252ce" sha256="e0eabef4a2730784be0e55d6fcb3af9e2878498b78228c611caa0132c394c02b" />
+		<rom name="Wip7/Bowling (Shockman)(public pre-beta wip7b)[Other].vpt" size="195072" crc="3f442aa1" md5="f16cd65841a8477594c01ee40144054a" sha1="eef6fe54f721acf5cf8ce218d647f0ca0feb875e" sha256="fa0f5b1f82eefcb11e08a1e221df6e1a128a1e18cbc5ee3eb43a3e54d252e529" />
+		<rom name="Wip7/Bowling (wip7) screenshot.jpg" size="80844" crc="79c36fbe" md5="94b3c03ebe62b75a06f8c18e01c2c9fc" sha1="4532116653851f5ded6dd0fd08e46098063abd34" sha256="4948132c64ca31926d60b6cb08d84394d3ca2950910ed82db370b57ca5149457" />
+	</machine>
+	<machine name="Bowling Prototype (Apocalypse)(R2)[Other]">
+		<description>Bowling Prototype (Apocalypse)(R2)[Other]</description>
+		<rom name="Bowling Prototype (Apocalypse)(R1)[Other].vpt" size="501248" crc="d6014116" md5="461de5c8b3dee9a5729949c14391e8c5" sha1="566ed7411fc2d35c332f7360ae6e577dce9bce84" sha256="867b18499d83e503e8c4a2e372999a81cec94cf20e37999c2ad12ab31d5eccb8" />
+		<rom name="Bowling Prototype (Apocalypse)(R2)[Other].vpt" size="506368" crc="d11a9de9" md5="66204f2e604fd826e381c4ebea715e3b" sha1="a63b82c03c4655a97c6d925a73ed28277f747f7e" sha256="8dac051bc76437b2f8794b16a27721621dbef596e0ab1cf15145cf0116e8224f" />
+		<rom name="Bowling Prototype screenshot.jpg" size="19615" crc="348d47d4" md5="172d6c335933ada4535fbc8ba857bcb1" sha1="296f80dd592a76ec4910de29c7cfa965bfe2f807" sha256="f4779c9bd9317357cd8fce639043564ed5844ac5ba56c43ef538fe9223e669f4" />
+	</machine>
+	<machine name="Braks ABC's &amp; Trivia B150 (Cold1)(Beta 150)[Other]">
+		<description>Braks ABC's &amp; Trivia B150 (Cold1)(Beta 150)[Other]</description>
+		<rom name="Braks ABC's &amp; Trivia B150 (Cold1)(Beta 150)[Other].vpt" size="1287168" crc="214fe2a3" md5="8b24ee54facb9d5bc47520b6c7c1a676" sha1="420dfdb7b83b74b9b02667b463a134e1e2ee4afd" sha256="af266116f12485ef6da329bfe56c2bf37c546142052f8db08dd3ccf18ea0b89c" />
+		<rom name="Braks ABC's &amp; Trivia B150 readme.txt" size="599" crc="5ff76eef" md5="acd89a093a5622fe100d6fab8d5a67e7" sha1="519361ecde670970c6a87ad450be5c4434dd2855" sha256="6ff9c5352d42983ba79fa3f79373325e8b3116a7b9a851dc632b243f85ece87f" />
+		<rom name="Braks ABC's &amp; Trivia B150 screenshot.jpg" size="23331" crc="0bd61471" md5="a2ea9551543f423831257c5868178e53" sha1="f4fdc0fed35f4cded29d0b1d3da77b6b49c74eb5" sha256="0fe6c661e6d2a800a818ba03e3ec5bb79bab2d988ae092b84938928a38941641" />
+	</machine>
+	<machine name="Breakout (The Hermit)(0.3beta)(B&amp;W Edition)[Game]">
+		<description>Breakout (The Hermit)(0.3beta)(B&amp;W Edition)[Game]</description>
+		<rom name="Breakout (0.1) screenshot.jpg" size="24020" crc="84c2271c" md5="9bb5e0f0b0f0d4400c7572fb07d9ba65" sha1="aa6f92b4aae26359112579e01f3ca0bb87b23948" sha256="63e9f1d329c718730138795daaaba2c1ebe9936e05afa7e6d4d2b41d014306a6" />
+		<rom name="Breakout (0.2b) screenshot.jpg" size="49162" crc="46c2aa25" md5="69f6577c68cfe3724f5251391ac08e7d" sha1="dd3f710f9c7f41d29a7c7345380c9de5b7e35697" sha256="e790c242a9bc28f6264d520eec0c4f8ee3f28758e87a6acf3e161cd027ba78de" />
+		<rom name="Breakout (0.3b B&amp;W) screenshot.jpg" size="41953" crc="65f1b120" md5="af268314fa673ae0f390c84f186878a8" sha1="a3fd9bcda885f39428734bf17e65ca696335b50d" sha256="00c0810bfcf23968531b027232c5a81edd68bc83e5cd3a6f963db4074ebaf1d3" />
+		<rom name="Breakout (The Hermit)(0.1beta)[Game].vpt" size="149504" crc="ad12f4a0" md5="7eb2dace89ba7c510b06db2298b05737" sha1="c0476d47a58e15f7e3d9445103fd5a7416479b35" sha256="daaab12d18ada5c851e5d83994ecc32956d04203559fafc7569b61de8fdb0cd3" />
+		<rom name="Breakout (The Hermit)(0.2beta)[Game].vpt" size="332800" crc="558c487f" md5="1b76188c15de169c32bb769c2f747649" sha1="82ce116d15c34acc58f6e460d31ac637547591ba" sha256="a42b99e7e1244abf3d9f9e0ca842a1eb0a9001c6c240ff488eb35f611194c85e" />
+		<rom name="Breakout (The Hermit)(0.3beta)(B&amp;W Edition)[Game].vpt" size="490496" crc="ac0cbb64" md5="57ed5e456077851ea46d69db7597e2d2" sha1="c802c95b8e8dacc7eacd53f41998bccb421db0a7" sha256="1fc62bf73a390d41e7590416685c7aa1eaf415ebabb961ef3a96aa4cf7819371" />
+	</machine>
+	<machine name="Breakthru (Apocalypse)(1.0)[Other]">
+		<description>Breakthru (Apocalypse)(1.0)[Other]</description>
+		<rom name="Breakthru (Apocalypse)(1.0)[Other].vpt" size="314880" crc="08b4bb6f" md5="61e96bed42b980ace9ef47a7c147800d" sha1="53aa01433c6991ede189adec658faf74be479f43" sha256="622bd811d741bf7aef501b49bda3313d5767d5af4d64e51551753f1f87df5b3a" />
+		<rom name="Breakthru readme.txt" size="409" crc="ac638b50" md5="8d78a01de946559a9525d075a655dfec" sha1="1616770a6220dc94ee81ac66a26fd6c038134948" sha256="a06bcaea870cdf9222fe36b3620d3ef6bd6a5db664b1cbef76e4013a7616cde1" />
+		<rom name="Breakthru screenshot.jpg" size="17765" crc="a2d6010c" md5="f1b60cf93e51631b31261546cafb6fff" sha1="a56e1556c3d351b8fc603e36f94aa71324de125c" sha256="dc4bf54acb86f56936952faf10687c55c3a19e52e9a1349ee0524a5c8ea9b09a" />
+		<rom name="led.ttf" size="36440" crc="33c111f0" md5="ed7cfe0fd97f37e036bdf6f700bd3755" sha1="84e9673396e46832aa18a9bb7da020f807524dcb" sha256="67b15456e11abec962ba69b6bb56c2d1de795ab27eb18e092ecc721bdcbaf082" />
+	</machine>
+	<machine name="Brewery Blaster (Anthias)(1.0 Final Release)[Flipperless]">
+		<description>Brewery Blaster (Anthias)(1.0 Final Release)[Flipperless]</description>
+		<rom name="trana___.ttf" size="58232" crc="a65607b4" md5="66dc9095c3f6fb48dbe4874d7304ca47" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6" sha256="9eea2b9e8257c73f7b74a45de1b0a68b43cc50ff00434fd40795486c9d6dadfd" />
+		<rom name="1.0/Brewery Blaster (1.0) screenshot.jpg" size="133268" crc="259ec134" md5="39cc6e63147bbcb792c29f623f6b3da2" sha1="11078bfacc3df5959d853052d3d8aff6cef2b2d4" sha256="3245c07846bcb6f81d4e595ec869653bba06f8efa8890f6feca5eb24e0a41d46" />
+		<rom name="1.0/Brewery Blaster (Anthias)(1.0 Final Release)(Tournament Edition)[Flipperless].vpt" size="1396736" crc="26d7939e" md5="7f4ab442a7381fe9410d3af39c7e6adf" sha1="115c7738db320d58f94f7284d13fcbcf0200083f" sha256="b1f5f360c03f718775df47c6c91339fa24694c7cf1ceec05231640c92d4e172f" />
+		<rom name="1.0/Brewery Blaster (Anthias)(1.0 Final Release)[Flipperless].vpt" size="1393664" crc="ba62ca41" md5="2b8e0fe69bfeb8ad0ec61063486bd74e" sha1="10729fff1965222e39b25bca1d5a3d713fcf9206" sha256="7f8dd62a33f0834dd9e3225a0d3d247dcb2325b73775b4fba4fee2310bf57639" />
+		<rom name="Beta/Brewery Blaster (Anthias)(Beta 1)[Flipperless].vpt" size="891904" crc="6ca5981e" md5="43523cd04b222a0745c36463c7b21860" sha1="3804869347aa9355b64a29864b034ff3ddcf9cd0" sha256="47c02729522c0ab3eb8b1dee73bf20e5d43d27810e13810cf8761cfc11025bf8" />
+		<rom name="Beta/Brewery Blaster (Beta 1) screenshot.jpg" size="131534" crc="75c20cfd" md5="8afdb8b49813c63cc871a1c4489dc000" sha1="232f888b8edb1b71deeadddc43dc3d67f5edaba9" sha256="bdc14d6c31b5bd5c006ede070d6a86756e6970ab65d165677c7b0da03c560ff8" />
+	</machine>
+	<machine name="Bronco Buster (tiltjlp, SDB, starman7007)(2.1)[Flipperless]">
+		<description>Bronco Buster (tiltjlp, SDB, starman7007)(2.1)[Flipperless]</description>
+		<rom name="starman7007/Bronco Buster (starman7007) screenshot.jpg" size="128810" crc="0157afb7" md5="fbc208ecfbf849733b823c82b9f3528e" sha1="62f7483a5c80ba2f6de6bb7b2d6a091de2eb2dbf" sha256="299832ae50148953301f14b1b2a85d5b63051a316738072b332fed4911c29230" />
+		<rom name="starman7007/Bronco Buster (tiltjlp, SDB, starman7007)(2.1)[Flipperless].vpt" size="3221504" crc="bab2997a" md5="fab941407c0569f4573bf8e17545865c" sha1="653b19689dc93a1024ee97d160866e04029fb2ea" sha256="d9f4c9a85582efb95198bdf43c084f1b4cfc84293aba3249860c3f6981a82f7d" />
+		<rom name="starman7007/Bronco Buster readme.txt" size="6163" crc="afaddb56" md5="4d64f85c8f86ce443f8b92846e5dd9bb" sha1="d0aef168c39bc1c0bd67c4a4b92e870e7ab83e30" sha256="c37514bf806a9a13417e89bc92c813148776c8b6d22ccbdc4526e4ee88905a33" />
+		<rom name="starman7007/oldtown.ttf" size="20076" crc="bebc01e6" md5="14be17ce1310c0f1929fa72399ecb7c8" sha1="40bac43e5a4946d055f7840103e8102a17706e3a" sha256="e5297e98ac039ab8ba03f78a0cdf751c2301e620060cbc3343665209bc97d684" />
+		<rom name="starman7007/Music/BBEnd.mp3" size="100310" crc="88425984" md5="6f334d3484fca313e619eb982e7739af" sha1="2687d3ce0b28e21f82f0fb31e52e2f78ec49f950" sha256="0ddcbfa70ee257a84d2da36cd52017f5d1b1a746208de61dbfdef5529a43a652" />
+		<rom name="starman7007/Music/BBMillerDB.mp3" size="987429" crc="b9cd3315" md5="53e2fa548bf88473657350c9ebc7c166" sha1="b2aa4b22499ec6cf5f7624a80a954a5634392726" sha256="546edbdc3da61e6fb73bc6b2fedcdac179652084d5b1baa19100ea3ffbef72a9" />
+		<rom name="starman7007/Music/BBMillerDWD.mp3" size="832366" crc="df585f6b" md5="ec0a59eeb57171d3ca720a24ddfa0677" sha1="b4d0bf705d357f329b43cb9b11c0cbb43f54a73a" sha256="9a72a8fdf541142abf310dd3f94e334fa11c7312b3f414e2c5f923b1c6364d88" />
+		<rom name="starman7007/Music/BBMillerT.mp3" size="904464" crc="7d5d9826" md5="3bfe9ebab20b35106d12497e5ad5133d" sha1="60a8625c662657ed6fc59d267c55c824bc24d5c7" sha256="afb20601f33fa11ff1968199d56cc05d5c2a3b5bc749542298815c2b4be8ca52" />
+		<rom name="starman7007/Music/BBNut.mp3" size="96967" crc="25481146" md5="d3ea7119b20578bb9b946764e92d9850" sha1="fa2b6cec3ff09562012ce4a5a5986ba44e637f0d" sha256="c3a5c5f18ea4d58a4ab40c16a387c7c002cb1ba0c509492c2bcb1045d02be3ae" />
+		<rom name="starman7007/Music/BBPrepareMB.mp3" size="185574" crc="b2d55153" md5="c3a9546a91b3795fa6cf9579fee9cf73" sha1="f4f10bcae9b3eb22f7139bbfebc7396f6c8af7bd" sha256="c3ac55a0e0c91f4db0cd1b1dc918f586f13cbecfd8102f4e4b44a5d2db3619d5" />
+		<rom name="starman7007/Music/BBRiflePonyMe.mp3" size="857025" crc="b208ce43" md5="6726faacf5d5d09664b69bc61c5299e8" sha1="7b4f5d5381e0650bed7cfaa19cded752287d0099" sha256="705095252700eb27a59c27769d4eb4eb65e7bef21f1fce0214e753571a105361" />
+		<rom name="starman7007/Music/BBYodel.mp3" size="608967" crc="4aafa6bb" md5="a789bbf2384c6429c466049c4b0c9b2c" sha1="0af2b2ee336973a3a0804762ad40b89cc68ee325" sha256="20a95c2947c1206d8b645097513e574c552931f59e328b0626f09742cfdc4c1a" />
+		<rom name="tiltjlp, SDB/Bronco Buster (1.0) screenshot.jpg" size="93303" crc="64997b00" md5="5b56eedd17ca785ea6222675fbcb55c2" sha1="28a0e6f3c4118ee84da2da6a38f4f49b874d682d" sha256="7d6fe2a13a9111554848f1c39dc2aec784b68b118290ca400972816ff6c36af2" />
+		<rom name="tiltjlp, SDB/Bronco Buster (tiltjlp, SDB)(1.0 mod)(Tournament Edition)[Flipperless].vpt" size="6515712" crc="5130fe52" md5="4d413ceaa40c958559bc45a3d1b68cbd" sha1="cba90fa3408a978a3e5d3d72a41c0405fe90101a" sha256="9136cd0e058c6c745cd4393d469cc49c8333de2c1b3640a8205f5b807eb54421" />
+		<rom name="tiltjlp, SDB/Bronco Buster (tiltjlp, SDB)(1.0 mod)[Flipperless].vpt" size="6512128" crc="dc9b994b" md5="42dc4d4815d99b42f9ec924a3e89412f" sha1="f5c8b38030f74134f4f6ff0a6721a092e953363f" sha256="302eeb2a84505e3c0568b53bccfc68be8c5c59d79f4b62afd29a63113cb6a5f7" />
+		<rom name="tiltjlp, SDB/Bronco Buster (tiltjlp, SDB)(1.01 mod)[Flipperless].vpt" size="6512640" crc="24f8c6cb" md5="24c991e10e80b89d67893e8715ce06db" sha1="4b063dd2a6b0c3450527b2662b2dc983b51d4559" sha256="8b0cb0f8e89fcd0089c851077a8044c184ea2e54f2322d6cb19b4c3b6610fabc" />
+	</machine>
+	<machine name="Bumper 2 Bumper (IcePagoda)(0.5)[Flipperless]">
+		<description>Bumper 2 Bumper (IcePagoda)(0.5)[Flipperless]</description>
+		<rom name="Bumper 2 Bumper (IcePagoda)(0.5)[Flipperless].vpt" size="3970560" crc="307f0130" md5="3622c6657d11d0149e24d708df6e7bf5" sha1="0a380b5c8f87d373c33ff4783b37c16ccb4d271a" sha256="a5c2ff123430cda17fa845f90abd69778cf3bb759485928308d60a88e5835680" />
+		<rom name="Bumper 2 Bumper readme.txt" size="1925" crc="175cfa66" md5="59b8185cf84cf575e74e85411619af7e" sha1="b7e6f2cf3a6a313a5286d43bc1c0f18426088b7d" sha256="56ae67fd489bf384c7e295448a22dec3ca3bb9a31a206fbc26ff4fad72c1ed04" />
+		<rom name="Bumper 2 Bumper screenshot.jpg" size="117518" crc="fb9ddee2" md5="1abc26aff9399b405455f0b24bb3aca2" sha1="06fed720df1f6f775fff916679e72efdf3fec257" sha256="c40e467dfdeb80a97307e16359337507cea599b8d3d6fdba6c970f23da28a9f7" />
+	</machine>
+	<machine name="Can Can (DizziDi)(1.0 fix)[Flipperless]">
+		<description>Can Can (DizziDi)(1.0 fix)[Flipperless]</description>
+		<rom name="Can Can (DizziDi)(1.0 fix)[Flipperless].vpt" size="2737152" crc="f32d7551" md5="c6e36e1a23bd11b6fb5b351f85c76bde" sha1="a0f2a4704c2395eeddac1be48de860b7e4bb9e34" sha256="5395f1db1f3155049416ea57dd159cb91e8ee1a3646162cbb297a3d3e67af82c" />
+		<rom name="Can Can (DizziDi)(1.0)[Flipperless].vpt" size="2737664" crc="06388a32" md5="37aff2ee1a2f1852e9df9896f04d7e9d" sha1="fa511bd070e6113e6c333ba3290fbd5d233ae5d1" sha256="6f847c02d57b21db2c6798797fd8a7c246aa34b66e5246b8f70c0a8723e0ce3f" />
+		<rom name="Can Can screenshot.jpg" size="165773" crc="ef5545d0" md5="cb03d76140b82df0670886b7e1bd2f68" sha1="85e660a766fa37c3907cebd6254d6e5f85195ec0" sha256="958f4cffa0dc65c2e34cdc0dbe47a805150074eb5b650ba9f555a9f558bacabd" />
+	</machine>
+	<machine name="Cheers (Rockinghorse)(Full version)[Bagatelle]">
+		<description>Cheers (Rockinghorse)(Full version)[Bagatelle]</description>
+		<rom name="led.ttf" size="36440" crc="33c111f0" md5="ed7cfe0fd97f37e036bdf6f700bd3755" sha1="84e9673396e46832aa18a9bb7da020f807524dcb" sha256="67b15456e11abec962ba69b6bb56c2d1de795ab27eb18e092ecc721bdcbaf082" />
+		<rom name="oldeng.ttf" size="37372" crc="35414701" md5="dae25362018cf969ecdfadbcfa719a09" sha1="1a62694e70c90c97c9e92bf0a9835f707255300a" sha256="7c112a13cd310156951e707ace0282447f97959a1f1d695cfebeb59ed2628583" />
+		<rom name="Final/Cheers (Final) screenshot.jpg" size="50265" crc="f8dfa7ca" md5="4d4342f348be006c8175cc6ea0d00a66" sha1="0146ccc6c4204d16c89cacf3181cc690f5c1f56c" sha256="5f9147afa34675095af3bdd9ae5b31b41728a98a94b067fc326ebfce3127f50f" />
+		<rom name="Final/Cheers (Rockinghorse)(Basic version)[Bagatelle].vpt" size="237568" crc="0dd01f7e" md5="4e622d9046f145f9dabbbc7cbfcc9259" sha1="490c928b459b9dd0b9532d38d80e504247f09f17" sha256="5f61186f97a8d5f5f13b58b40c94ad8bf1a304f3d9953dbbaf10c0d5641f57e9" />
+		<rom name="Final/Cheers (Rockinghorse)(Full version)[Bagatelle].vpt" size="17995264" crc="71466b8e" md5="d05cbfd3c62d6bc20689bdb4def16949" sha1="776b3b205855591aed74c8f4d0f68f3b6e457695" sha256="d338c255cc6135a592201756b0efbc1a34467652a31dc4f76e06e59d03d349f3" />
+		<rom name="WIP/Cheers (Rockinghorse)(WIP beta1)[Bagatelle].vpt" size="184320" crc="f1dfbab0" md5="8d1069a78c770a219e9c2f233416087f" sha1="06846007cad8e34dda469c2665246c7d3fd9491d" sha256="675f86374f219a35f9973cea0dedd9d80621d45b5c5568e8435d5fd82950069c" />
+		<rom name="WIP/Cheers (WIP) screenshot.jpg" size="33937" crc="0e985cc9" md5="8ea408b4577eafb42c36b200d0c88348" sha1="eb35a22bd312da7392341d2c7e66cbce99ed891e" sha256="3f0d609e1a9d439c794be6c9eff479e5d69669ce36b1ff3c10b22f8ac33f4323" />
+	</machine>
+	<machine name="Christmas Card 2005 (Bob5453)(1.0)[Other]">
+		<description>Christmas Card 2005 (Bob5453)(1.0)[Other]</description>
+		<rom name="Christmas Card 2005 (Bob5453)(1.0)[Other].vpt" size="883712" crc="0f7760a0" md5="0c80a72280ba8334017ab68cc0161190" sha1="293853fb06cd0a09cfbac279b238f532077e7243" sha256="759d227db34bdd8834fd02aba62c55a10037b5b834010da08d1a0905d7fc9a48" />
+		<rom name="Christmas Card 2005 readme.txt" size="1434" crc="321d2c67" md5="c37c325a2c74a9f12e9b8983905cf1af" sha1="65221322eaecf8c2a9c725755389954dffac6808" sha256="79c2cd71a06ed30ada891aa88f7ff4b849e77be184d181e5620d85f714007617" />
+		<rom name="Christmas Card 2005 screenshot.jpg" size="207177" crc="5fdd3e3f" md5="62f74a9c56a54363972490c94fefd93c" sha1="baf06bf500a5e4f98408b8018fb911136ff400f0" sha256="a11b9434805bcf712ae0c8cecdef72cb3fef4d6bdf147ab04d4af46937b1a963" />
+		<rom name="Music/chestnuts1[2].mid" size="7736" crc="dd56869a" md5="051c96b5209e18cc4e263efe58df16e8" sha1="7b42bcefd66711e134eef1a0a1ad55ca3fdaf778" sha256="4e7ec19f01ec4fbe23f38e5441071d7e95346463e171ecd1e2577ed82f46d5a8" />
+		<rom name="Music/deckthehalls2[1].mid" size="5648" crc="74db53c8" md5="db92552739e90735dfb9394bdc928554" sha1="fc8c7703ce81f4ed81b0c96725c2cf9c8b8f23f2" sha256="c07dfa7dbc6308936a6dd88b45b3e192fddfd56d905fcce2eee89022c733a3dd" />
+		<rom name="Music/douyouhear2[1].mid" size="31406" crc="092c363a" md5="ad30da00e7e7e0360481de2b372aad70" sha1="8dc276b62153bd73051aca8a7566655da5afb382" sha256="0267791533ed5ba2a67012ea2c6f694b7c650efe170cb1734547693b5d7f0874" />
+		<rom name="Music/drummer3[2].mid" size="21341" crc="042b6e76" md5="2c7dbf89c21b2c21361307e295abdd63" sha1="3d3be99cc47a49f0dadf805e227e4b7d83af8f1e" sha256="dc4ada025c9204b508875cac59d643d077be9a83cd33fd6b90d9596e5f7ed3ca" />
+		<rom name="Music/frosty2[1].mid" size="36954" crc="6e8ca18d" md5="82428d17b50b9f2ad0a85bb86d4d17da" sha1="6d05662b2db27af1052e4b245c5bbdaed9c613d5" sha256="02ffe7d2b44b8482d67c5d21aeadc9d07cd22b39c8bfe1d0cd7deba51b6c7506" />
+		<rom name="Music/GODREST.mid" size="23665" crc="f25604d6" md5="559edda44e50640b675572e5c93da779" sha1="bc5017e5d5aad4c20f93e4db6ea96d7e021a7eb6" sha256="a72ab75ead7a6d13ab819467cd2b63ea093b4e2fd4cdda4b8e7c583aa4d4981f" />
+		<rom name="Music/here1[1].mid" size="27325" crc="632ae5a8" md5="c2a6bd5e34effc278cec9df12a0326a7" sha1="04e2a1b847eace8768fa81bdd39819b891eb5fcb" sha256="891991726de2acb33d3034fc970128ecc277049d06446cc9fd2d3685297b2990" />
+		<rom name="Music/hollyjolly[1].mid" size="31386" crc="abdda2c3" md5="51e88e570575abfe09c351a905104cee" sha1="9654046e9adee5e1a69d20a1277efe05b8aa1d52" sha256="f81988dd966c9a255273e5e286d2970032d22ecc9e61925b78b104f33fba8ee0" />
+		<rom name="Music/Home4mas[1].mid" size="8067" crc="52ed02dd" md5="c4860fc1d3fba2cbf1360702e6bdf00a" sha1="5371b89addb4477e41c9bfb70fa85628fc634a32" sha256="65f155fad43d07e755859750d6e96218404c0893efcb1c9055f2bb89fdeafb72" />
+		<rom name="Music/jingle2.mid" size="34259" crc="1eba5cc6" md5="4d057b9754c210a79d9b3d4232d3c2a4" sha1="c019765382c444f859671aefab2d3f8341e11990" sha256="3426129ecf18511406b15e08a58c5d68ff0ed77bfff45affca4c5a152a9df049" />
+		<rom name="Music/jinglebellrock1[1].mid" size="28450" crc="0fcfa851" md5="1cddddc434a1bcf3fcb0a6f11b914605" sha1="61cf646f1f0dbacd86a9ace04b1d63dd1a73ea30" sha256="c34ffe6fbff5d640793d2e63805e145db83a7ddfb3f92ed8ce54828f3d69bf0e" />
+		<rom name="Music/joymain[2].mid" size="40074" crc="7e3786bd" md5="55dcae0eb114e30af7ccc7b485e417dd" sha1="970f9ca3711012dddbdd9b90bbccea2e4b565f3e" sha256="44ea4afa6f14ff485d827c67d8561e5ea544249dee54d8c9e7e38f703d766dec" />
+		<rom name="Music/letitsnow[1].mid" size="9441" crc="da527812" md5="a8bd48c6e3c415b1422673933ba2b24d" sha1="6915ba1cffc90e4c1b1e31b936ddfd63eb6ca226" sha256="f22973f9e8339ccf5ef3cd87ad2ec987a1d6d46a5bf34d1d39fa1520bb7379eb" />
+		<rom name="Music/looklikeXmas.mid" size="19900" crc="87618d44" md5="822b28c73cadc5b1ad33f9207535de0e" sha1="831fe668e2b0414c51bc253de734fc29d0ea1acc" sha256="aa44fdc3789dae2f14631dfe95621d7e6bd769fc6be1da6446412c19e8f12925" />
+		<rom name="Music/merrylittlexmas[1].mid" size="63689" crc="e9f7bd70" md5="41bfa3500399ef80a6b0608bb501de98" sha1="978279ded64e2267ee9d76945a06d1cf49ce0bd6" sha256="e40cf70d4455e9a771fd52d4e24cc1d482833b3b8de66a238efd8b3dfaec9266" />
+		<rom name="Music/noplacelikehome[1].mid" size="32371" crc="e0fdb007" md5="b373d5fffa6693211132d26dc60586dc" sha1="76cdd73314bf085d32c405a43ca9b3c4d532e179" sha256="470c290df4246f02d3ee49f0cc0e45e7b031c6cc7314015a508f9f45142eea60" />
+		<rom name="Music/ohholynight3[1].mid" size="53514" crc="4fafddc6" md5="7f590a8263e642b19fa074c0de2ccffa" sha1="0d164b39cdfb627efefb960b865ddd21c8324bab" sha256="37e0a4661dfafa7435523110ba6ecc60200d2d0ff57e24cf16ac2f9672d2c7bb" />
+		<rom name="Music/rockinaroundthecmastree[1].mid" size="21912" crc="02caa956" md5="217617d442518f3088e1b650b595af87" sha1="6edfc57efa23495a3ce2de62c86365d6aaae5db2" sha256="35091f3aafa03be5cf4c8f15983bf73bea3b0ebd6f223a7041b7210ce5b0d876" />
+		<rom name="Music/rudolph1[1].mid" size="14701" crc="e3d605a1" md5="3ca6b4847d7a4b18d2adba8d0adfcf88" sha1="773a0d54e1bae95e78e789d20bc96dee8700b627" sha256="db4697ad584b1ac4a6f34359bef4ece5725e3d2c008cbb34409247d65003e29b" />
+		<rom name="Music/santacomingtotown[1].mid" size="70090" crc="8a7207d0" md5="d48bcb33204d5cf006e663e6956807b0" sha1="7cf470fca408072e05861212158d14028bfeb403" sha256="6f176a7e610832ceb04df18f28cff4c5bbc3bb1b45a134da29e5e54eeb423604" />
+		<rom name="Music/silverbells[1].mid" size="14111" crc="607da46b" md5="f653e463e1e5bfacd42ab9da0e38c7f1" sha1="d0e8276fc546355f0172eee70317d7f33454bd9e" sha256="cc9313e5bf2d3c62bec7f6b6c9d03eda97073b242e58f66e7fa154e4cd23ec47" />
+		<rom name="Music/sleighride[1].mid" size="38427" crc="b2581b1e" md5="94248ffe7831cf0db7686626e7c618f7" sha1="c34ae0fb8a885b6468fde56eb248603244876ed7" sha256="16265ff588a10ac2f9bb878284a95a077dbfde9de903d860302b897180c20334" />
+		<rom name="Music/whatchild1[1].mid" size="29397" crc="b0af411f" md5="ead09ff6a8be47d12d09bcee11e45bca" sha1="3ed74de15340d9c61c92311a26aadca06550d461" sha256="617deb1eecf3eff26c46fc262a2e232880a42454f1a611e598114bb5e894c0f5" />
+		<rom name="Music/whitexmas2[2].mid" size="27105" crc="b37bb441" md5="db4ccda12f1bba33b070d84165d41211" sha1="c84247548285484098d35ff107a1ef0fceb23d4d" sha256="ea8517e387cc0a4079c5173bfc5be9bd683e154c4d3829f31e7c5043c6878c1e" />
+		<rom name="Music/wish-you[1].mid" size="39625" crc="e704cd2f" md5="574c95977a5b6447cd44b49324f8a40f" sha1="d7cedbcdae4947fd3b18820f56e7cd2aea0e6243" sha256="5f3c735a0246d4778fd21391252c71b48b297e7fdbb50910604262d5eb696ac2" />
+		<rom name="Music/wonderland[1].mid" size="19188" crc="69b7323b" md5="cdf3afc6fa282c7736698f9d9700b910" sha1="d58bdcdcb549f50b9bd98d07f767738ae38ef21c" sha256="987071dad56b6cac7f3b29b0056c030b8ca9446ff3ab998735f5df79882e1d66" />
+		<rom name="vpmidi_plugin/MIDI Sample Table Readme.txt" size="2419" crc="655ae12d" md5="cd30e79e308439c6a62cfd88b56e3d37" sha1="bd77c2e7bd083905dc37e3493d565fee40dfa3d4" sha256="96aa58c3ec5058fceb2c92e7344bec63aa22439ed611c8b6a93d19b7a1bc367f" />
+		<rom name="vpmidi_plugin/MIDI Sample Table.vpt" size="56320" crc="fe5683af" md5="dd3827caff1b62953fb3ec2bd56bfc93" sha1="f4166458797aa8903da3daf149f380d16472cdc7" sha256="1492a2d5aa89b474fa6433017ac009cb27bab9263528bb9017de4cb1fddec1d9" />
+		<rom name="vpmidi_plugin/passport.mid" size="40294" crc="670df077" md5="d27774ef5d6cf53f9c7a382ce581a65f" sha1="20cf2a20e840c8a45aac49d2bf4ba263daba9ba6" sha256="85f460c324e74294baab7f2b99b717b2402915c8370bd7c0201fa1761f728ea7" />
+		<rom name="vpmidi_plugin/VPMidi.dll" size="32768" crc="6df04cfb" md5="d75e2921769986c5b6573843fe1c1d57" sha1="57889b94bd52bfcd337d3be9375eaba53ef6982f" sha256="7c675852b034bc9bd4b55728a428b5170717fb8f0edd11fc90ef00b73ea0e840" />
+	</machine>
+	<machine name="Christmas Tree (DizziDi)(1.0)[Flipperless]">
+		<description>Christmas Tree (DizziDi)(1.0)[Flipperless]</description>
+		<rom name="Christmas Tree (DizziDi)(1.0)[Flipperless].vpt" size="468480" crc="4f73e597" md5="0be94f631b8ac95ec0090de42a1c60c2" sha1="ac418bad71569952113bfe770291b1322abbdcde" sha256="25065ef8b28c9cdbc846cbff311f8a1023debd791f642c702acf750a9f1924f1" />
+		<rom name="Christmas Tree screenshot.jpg" size="78972" crc="a4941fa2" md5="8a0c06eae32f75cf1eb513fff8d983b7" sha1="fe80f2bb5ad60e5554b889d8a99494533aac8eda" sha256="08a9fd089005afb50e9d6f20b1ed35caaa9547bb23c69633a5f58f6524520807" />
+	</machine>
+	<machine name="Clock, The (Spike)(0.9)[Other]">
+		<description>Clock, The (Spike)(0.9)[Other]</description>
+		<rom name="Clock, The (Spike)(0.9)[Other].vpt" size="390656" crc="e0a4ce37" md5="14e6b3122875c337d139b6318f58824b" sha1="137c8b4e387069b7738ff8eb389ba8041219bae3" sha256="a82f59aa703f760aa4e65f1f64aa9340f55e68db1cfa00880886d705fc52df0c" />
+		<rom name="Clock, The readme.txt" size="837" crc="ecfa837d" md5="b6e53580a27b94cc14440a1ab7e45fcf" sha1="1d8bae700d638ce230283a9f7de51671b2ad4bad" sha256="cdfce471331f63033ce7f6ed0afbf91d1aba9d67d43781cb1d656acf5e375244" />
+		<rom name="Clock, The screenshot.jpg" size="41989" crc="04a19e54" md5="dabc8ba8c00188ef2418a60c6730d446" sha1="c19404ce28a98636be6ed8993c05476011e8554a" sha256="63b7e608736ba1d86795ad031fde325433ce49f34e413e2cb414af8f7058ca18" />
+	</machine>
+	<machine name="Code LYOKO and the Xana Attack (Patrick Schmalstig)(1.0)[Other]">
+		<description>Code LYOKO and the Xana Attack (Patrick Schmalstig)(1.0)[Other]</description>
+		<rom name="Code LYOKO and the Xana Attack (Patrick Schmalstig)(1.0)[Other].vpt" size="2043904" crc="0faf9d89" md5="37eb60541f4da49132d1e48410dadb16" sha1="13928d03e9819ec138a1843100eba794e94a7b97" sha256="749e13b602c6d7f1caae3201ba5b201816b7f277b1c03a56119f300ae629ab15" />
+	</machine>
+	<machine name="Code LYOKO the Videogame (PunkyBoy05)(2.35)">
+		<description>Code LYOKO the Videogame (PunkyBoy05)(2.35)</description>
+		<rom name="2.0/code LYOKO slot (2.0) screenshot.jpg" size="12953" crc="9b6d47d1" md5="245821c647d598ba20765814e0725d85" sha1="be7a0f717309f110d7081962f2e474e83aa758d5" sha256="527139fba9dba5f8c76dc5e6e3bfe3c402a353b5cfa6a7d87f3b47b6e478f55a" />
+		<rom name="2.0/Code LYOKO the Videogame (2.0) screenshot.jpg" size="16448" crc="58baa1a8" md5="c2cdda58c8610198abf0b9ae81b45870" sha1="12ce216453b8107bb63e878e8e17b39fa90de006" sha256="fd2fea987613046b235a6496cd4d904cd91543ab54818db61f44febad89ac80f" />
+		<rom name="2.0/Code LYOKO the Videogame (PunkyBoy05) (2.0).vpt" size="3707904" crc="75af79f7" md5="0cc0762824e732d7571bfbb0bad3b502" sha1="a4de17bba8c2e17baf172d2ee1a9400356306bcd" sha256="d07ad7af163575e2d9b4f305ebe6c929b1b97284bc4ae3a08fe7ad636ac1162f" />
+		<rom name="2.3/Code LYOKO the Videogame (2.3) screenshot.jpg" size="16448" crc="58baa1a8" md5="c2cdda58c8610198abf0b9ae81b45870" sha1="12ce216453b8107bb63e878e8e17b39fa90de006" sha256="fd2fea987613046b235a6496cd4d904cd91543ab54818db61f44febad89ac80f" />
+		<rom name="2.3/Code LYOKO the Videogame (PunkyBoy05)(2.3).vpt" size="3907072" crc="dc29274e" md5="0f588916a954e3969473b9ac247bf34b" sha1="5b1df4363b1026161cf7f7a105d7f101e3d3ea62" sha256="816ee1ebb2f2341fdf838b0e9659619f15573deaf6c2505e2414be7e4050e22e" />
+		<rom name="2.35/Code LYOKO the Videogame (2.35) screenshot.gif" size="10912" crc="16a2f2d1" md5="8a0c6d8f472429d99d5b5b779c0f8d64" sha1="1aac01f3f6e36b4a9f0b2b64b908b8dc7b37f0e6" sha256="c3832967506abdbfee3586f8a7acd4f69b3eb3109dff9a7b3f8ba88bdb1eb616" />
+		<rom name="2.35/Code LYOKO the Videogame (PunkyBoy05)(2.35).vpt" size="5783552" crc="62635a1e" md5="840afa0d8281fab8f4dbf37b0ecdb651" sha1="2e3c92ba897907001110c2d6b149567584213e1d" sha256="fa5273a99501a94c080013b77374cbdd796c5f179f15ee89a8b53fbc9559dbde" />
+		<rom name="beta/Code LYOKO the Videogame (beta1) screenshot.jpg" size="29819" crc="3a47c799" md5="9f6e68eb440b874b009607f738bbd6e9" sha1="58923e69d091532b091244aef69ee1e62fecf3ae" sha256="8e5db3cfbcc98d783a568d5e7012ec1681c4f0a0bb8b05f10f642806cf3c922b" />
+		<rom name="beta/Code LYOKO the Videogame (PunkyBoy05)(beta1).vpt" size="3008000" crc="5faae8d0" md5="b5dabbea54137d5d3966a56350e12424" sha1="3ea9a4aac55b136be2426421ab7518801823a588" sha256="1737dd0fb2d936c9ce0bea1e93ff323717b6a5e33e7e5b0f31d3431e8ee31ca8" />
+	</machine>
+	<machine name="Color Holes Game (zzo38)(1.1)[Other]">
+		<description>Color Holes Game (zzo38)(1.1)[Other]</description>
+		<rom name="license.txt" size="568" crc="5368fb66" md5="01e2524c48bfec32616f2446f0c664c2" sha1="375aab9a4481b622c5a7288d33ddabeeace50f1a" sha256="bd58b404d04d9c1a157bcd96a3dc4fe2c5e5c5474d725ac8f0e0208ae7e81c6a" />
+		<rom name="1.0/Color Holes Game (1.0) screenshot.png" size="49898" crc="65193be6" md5="58b3957d9e4f6f60113c1f733951f2f9" sha1="240c91e4797275e20f8ace741fda504da400d9c7" sha256="8842307c93a39b8ae566712e069c46551204f2767ff49e957c3620f8fb2135f0" />
+		<rom name="1.0/Color Holes Game (zzo38)(1.0)[Other].vpt" size="184320" crc="8e1c57ba" md5="5a07c13787a61dc5a56b776e0cb90fc1" sha1="64d5d7af2d93f033770487d01d0ec4d9df218b8f" sha256="18aae95d5968a408471b6166ee3afd5fd20e83ece4f663350715b00a15518952" />
+		<rom name="1.0/ColorHolesGame.vbs" size="8546" crc="d0d283d7" md5="e0a3958f1910f83cf8313c3677bfb873" sha1="53487a01c2a181ee52e4e4842ced117613812339" sha256="760629df0c2e9b3096218866d2118da72b07b30d61dd107ad7b431a6b1c357c4" />
+		<rom name="1.1/Color Holes Game (1.1) screenshot.png" size="45194" crc="28a272c7" md5="2b3fc6de6703ad28f7b12a09911f817b" sha1="2e0390a0cd392410768912f7b395c4ac8ae9b258" sha256="12e86f0689581dbdedb2b8e9c427a50edb37f5b7a7c09272a721086692f9b530" />
+		<rom name="1.1/Color Holes Game (zzo38)(1.1)[Other].vpt" size="178176" crc="36b6ca61" md5="1fec70b310d6855e8bd05bf08f6a02b9" sha1="e5d55ad2f5dc984fa672d5b294b86ce9942649b8" sha256="b9f0213ef264e5a31d5b69d3c14f739d1bd135f1f4ed9e1c56b3f2d94384a905" />
+		<rom name="1.1/ColorHolesGame.vbs" size="5931" crc="b92a03da" md5="8bab537606777892ec82857e057303e0" sha1="1dada394f9f74db1f6d5c0a4b20fb5bee1c26a6b" sha256="646d32a8589ec7dc5fed5ab183b6c7286cb9798331ea3f99b4bfb3e43f911b3e" />
+	</machine>
+	<machine name="Connect 4 (Proginoskes)(1.0)[Other]">
+		<description>Connect 4 (Proginoskes)(1.0)[Other]</description>
+		<rom name="Connect 4 (Proginoskes)(1.0)[Other].vpt" size="65024" crc="3ef2b8a5" md5="ecf293fb15fdeeaa53b1ec8913ad211f" sha1="51ed9ec993d831132a8b6c67d7a26cca00044d03" sha256="96f5b8872f48be12b556ae6c2872fad60802b472f20f69964d3e735f9d0f6998" />
+		<rom name="Connect 4 screenshot.jpg" size="24500" crc="ac4e4795" md5="0b5704a8d12cf5ae639bee5d9def79b9" sha1="fededbab24269e034a53c5e15c5dfefc0146cf7a" sha256="8185311587f728be945371b94b1540b0b00172dadf1625cfcc4f72195cd97d8b" />
+	</machine>
+	<machine name="Cubist, The (Proginskes)(1.0)[Other]">
+		<description>Cubist, The (Proginskes)(1.0)[Other]</description>
+		<rom name="Cubist, The (Proginskes)(1.0)[Other].vpt" size="187904" crc="fac070d5" md5="7a40f3619d666309c8a76a0898db4c62" sha1="9c9aa47cca4964cc2f467559f69a3f0c7f69a8b8" sha256="645f2e65ee0158ed2a6069236c4fb92facca04467768533e6b41a67677e3aef2" />
+		<rom name="Cubist, The readme.txt" size="1250" crc="db87c753" md5="b30b8687eba55d03685c317677643894" sha1="e359d01ecc03d121c0aeff0462c33e77b8e355d1" sha256="36c5baa78737897ed3c8855ee3c59ad9fb4b03bd61ebbfdfdede41e5d8d82e53" />
+		<rom name="Cubist, The screenshot.jpg" size="58446" crc="244a564e" md5="22b5ab8bbc6cc91b6cdf0959276f6d2c" sha1="b51004a6373ce3f9773ad4a2f57185ac54f0534f" sha256="9ae70edfa30115346b143d8a61c4d747b413851ba7e1efb96a97629556f3a97d" />
+		<rom name="fonts/Artistik.ttf" size="46828" crc="2cb64445" md5="20c3b01aada8f1aa28685b76652206a8" sha1="1b04b745bd57c0196ed32c90fa06e3eb43d0c6a5" sha256="9dc237aa1861f6cbbf3b02899656c41dc05cf65a1af6ce3b2f28b6f48e84d4b2" />
+	</machine>
+	<machine name="Deep Sea Treasures (aussie34)(Final)[Slot Machine]">
+		<description>Deep Sea Treasures (aussie34)(Final)[Slot Machine]</description>
+		<rom name="Deep Sea Treasures (aussie34)(beta1)[Slot Machine].vpt" size="1226752" crc="ab341ed2" md5="cb4a6123bac618c84a0f24c2a4ce30c9" sha1="2d65fdeb9c025bf601063bb99f417fade5b4acf0" sha256="1abbd01b980ebf9bfdfd7998b545d81eed30775b881c70b99126457b88fa0369" />
+		<rom name="Deep Sea Treasures (aussie34)(beta2)[Slot Machine].vpt" size="1673728" crc="c4d3d495" md5="b8124f94d89eb39bf0ced5832051aad4" sha1="5f6790c9e1be8e8deb96295471795bc7692f7fc3" sha256="4c4d617c7b96655eedda3eae2b20bfa3865d7346ccdf3e60941ce612e9afa477" />
+		<rom name="Deep Sea Treasures (aussie34)(Final)[Slot Machine].vpt" size="1676800" crc="0e0633d5" md5="fbb746427e52fb435798b3fc321d34f8" sha1="9f4974e9b564dc1c0c0b836dec884fb0f3700023" sha256="abb48dc0bd2522a96973640775d52c4f12d86226b2e6195337e218a3e9c5013f" />
+		<rom name="Deep Sea Treasures screenshot.jpg" size="80001" crc="6e3ae18a" md5="7cf1d047d32417adf0b5748c1feea5e6" sha1="5f38a614bb8c491e47c47a6dbc55ef0917ebffc0" sha256="51070631d234688403a57f4855be64cc1d8e014986eb15bfd80244b8f2c00592" />
+	</machine>
+	<machine name="Demon Sumo (Wrenchien)(1.1)[Flipperless]">
+		<description>Demon Sumo (Wrenchien)(1.1)[Flipperless]</description>
+		<rom name="Demon Sumo (Wrenchien)(1.1)[Flipperless].vpt" size="728064" crc="d7283e52" md5="ef568db7d431a07ebdb31049411bf7f3" sha1="41c4aace2f17678c8f006e0ac681a8bd3e84d8d6" sha256="c24dbae62bc148e344e883d64355a637abbf042d78e9059e1a28fa41037b6cf7" />
+		<rom name="Demon Sumo screenshot.jpg" size="49546" crc="cc4f5107" md5="e7f1fccab487fd9a78e1ad2c4a254cf7" sha1="19a51e3e73642ce7a6724b749ad01440b543ff60" sha256="2960a4aaff4a8e55a290f55fbfda93f1b111f5e8f40e60348a0f0e8f0784e4ac" />
+	</machine>
+	<machine name="DeskToy (anonimous)(1.0)[Other]">
+		<description>DeskToy (anonimous)(1.0)[Other]</description>
+		<rom name="DeskToy (anonimous)(1.0)[Other].vpt" size="76800" crc="b1775ef0" md5="46cb30cff90781c263395889ce9b5404" sha1="08e3837bfa499974f8aaf4239945f3a804773e9e" sha256="ed15d76d9fbb8d653dcf166c41d74117a1c4632e0ef40d5945dd27b5c4bbbdd8" />
+	</machine>
+	<machine name="Diamonds (John M. Prescott)(1.0)[Bagatelle]">
+		<description>Diamonds (John M. Prescott)(1.0)[Bagatelle]</description>
+		<rom name="Diamonds (John M. Prescott)(1.0)[Bagatelle].vpt" size="2999808" crc="884162f1" md5="5e7a3e365d84a0acf2dcbbf4054a36e3" sha1="e5d0255dbaf309205b7a865a609216d5bfc3a993" sha256="71497cfbb87a6d9cd302d4a563e89ce43a5a399f30fd1bed6f7ee4821a23949c" />
+		<rom name="Diamonds rule sheet.txt" size="2436" crc="21e89db7" md5="be8dc809169c34669189dfdda8bdcf7c" sha1="e07140e068ef668f0031c51a7dc61bebaa2ee41e" sha256="bd9eee2356bdcd1ab21100302df5e933cc64f29d32f584f10949077183949711" />
+		<rom name="Diamonds screenshot.jpg" size="60549" crc="85f3d6ce" md5="b6cc186de5f87dfe97dcb3df2801a862" sha1="cd347fa42a87f539d44d22a06c686558fcd91ea7" sha256="237510ee476c47fa7bb135952296d8a2e7bc25c389c4ad91455bea69b2594d22" />
+	</machine>
+	<machine name="DKHandheld (Rockinghorse)(1.0)[Bagatelle]">
+		<description>DKHandheld (Rockinghorse)(1.0)[Bagatelle]</description>
+		<rom name="DKHandheld (Rockinghorse)(1.0)[Bagatelle].vpt" size="6866944" crc="bd2833cd" md5="931abf9fb24dfcc1263e0a9d2ff20046" sha1="2110a57cf34c7782b6b1d2e7cf27331b499a4eb3" sha256="6d8f2c4b37caa4a24b88195ed7ef21bb3f6a2879e63ab309e99149cd9c35156e" />
+		<rom name="DKHandheld screenshot.jpg" size="57255" crc="ff71bfff" md5="4dfef2d0494be4672b884ccdd79fe5ff" sha1="0786084cf1d0f4f28d91f4ea570cc816ccf9a785" sha256="18ba52c10033b8f2024ec5a60ea5aea6ff0bd4d308e6196e7d92fe856ca6eea0" />
+		<rom name="lcdgrid.ttf" size="29008" crc="7fbdda34" md5="326143c1ef6e7dc2957f4293cc58ac2e" sha1="3ce3b17ddcc07756f851ff08ec9f2c73c8106d81" sha256="a376fc1bf1c04be1cdcc67bef434880605c1d206285e9808c9fe530d53f0710d" />
+		<rom name="silicon.ttf" size="57292" crc="eb3f67f9" md5="7825b770ca1507a5d34ab7ba9ff97c35" sha1="5627d8d5e6a0c245c93ea341fb6053a0913f2326" sha256="fafd5bc8166b736aebf90d393359487e103f15fa10359922d49540c6d718142f" />
+	</machine>
+	<machine name="Face to Face (druadic)(1.0a)[Other]">
+		<description>Face to Face (druadic)(1.0a)[Other]</description>
+		<rom name="Face to Face (druadic)(1.0a)[Other].vpt" size="351232" crc="eb21f80d" md5="5021b6aa7580b7d7a4b219ac1aeacd84" sha1="8ff046f3edb46d61a621abec40e53dcec091b61c" sha256="184e371ebacf944e4ea6b5789cc788e1690363ca35494511b415cff35b7e533e" />
+		<rom name="Face to Face readme.txt" size="1093" crc="88578a11" md5="b91d42fabaaa2104bd6370f65b3a0097" sha1="dfc6887ce15f2e6dcf58f8ea393ab0ad71b54124" sha256="8da409b132ecdcb51597d4253233b572f778306ccd3a42db65a6eae3bd41e440" />
+		<rom name="Face to Face screenshot.jpg" size="44548" crc="73e7c036" md5="9543fa584ffc42c252ac5fb9853cab52" sha1="c88540e523b49dfb1bad56f75d5a1c4731b30f4d" sha256="f7b104eb1c0acd2a32df7aa92576441c672185d7c784c7bc2ff682123ae51546" />
+		<rom name="Face to Face special readme from tiltjlp.doc" size="23040" crc="40802b5b" md5="da0763412c950f978fc2b76ef5d79201" sha1="961338f0e56fab724afad5674bf1c1a2faa67917" sha256="7741dc715d131c81d933d924008245bc34e3ddfe1d680a8d256bfcf0ef0b507a" />
+	</machine>
+	<machine name="Fan Demo (PunkBoy05)(0.9)[Other]">
+		<description>Fan Demo (PunkBoy05)(0.9)[Other]</description>
+		<rom name="Fan Demo (PunkBoy05)(0.9)[Other].vpt" size="69120" crc="0ca94083" md5="0f19db2a28a5cbfe88f246a57f9cda83" sha1="2adaa600644783c87aee65ed8b65d95cd1ac82d5" sha256="451beb27d503d3abc1dd9a7f7e08b799d35f696d657bc65ef38f3ddd80808343" />
+		<rom name="Fan Demo screenshot.jpg" size="15320" crc="a7c2b3d9" md5="04d60c0a1c584941b4639a48122a6316" sha1="3dc54bad23d77926ebb3963b291e94ef97e89124" sha256="3aabd4e01b691534e4017e9380b2e421b21c5f806942115720d4b8f4ea8c5c64" />
+		<rom name="fanreel2.bmp" size="7554" crc="9ca95c1f" md5="b8262a4d83f3398e4a2581479d368476" sha1="42ec4538b7b11baa191da75ab991c54a775b614e" sha256="140967148c1ab95e152f9243c2bae169ae0bb0717512c76f1cb5da1bc9a51675" />
+		<rom name="fanreel.bmp" size="7554" crc="1d0f3b26" md5="cd82fe0131905c251837673d0bd83cbf" sha1="e2f96ff1dbdb7c0b2088bf6e0f0fdeeffcf17d6f" sha256="d367f33da16c5d8d0f55208baf888b36c9494a6ad99896a9ed2b3ee73c310982" />
+	</machine>
+	<machine name="Finagle 5000 (BJ)(1.0)[Slot Machine]">
+		<description>Finagle 5000 (BJ)(1.0)[Slot Machine]</description>
+		<rom name="Finagle 5000 (BJ)(1.0)[Slot Machine].vpt" size="263680" crc="3b373a1d" md5="5cb8bb51ecb8ab30eeb7ea6bed995adc" sha1="46147ed542bf7127267ad38485b263121fa54e5d" sha256="603a2f2eaa0a88c908400a4fe0abd67c29152f552d7c60394cc6de15e5633bca" />
+		<rom name="Finagle 5000 screenshot.jpg" size="33962" crc="7781405f" md5="d1afe2758b2fc264c7cae851a768e3e8" sha1="4fa9641a7a7ed8abc7f60bbe17e8a395550c8705" sha256="59f9b64226bfbbbb81baf988f6d67cd2d852ac9b274fcdebbe4125ea2224ee86" />
+	</machine>
+	<machine name="Flip It! (druadic)(1.0e)[Other]">
+		<description>Flip It! (druadic)(1.0e)[Other]</description>
+		<rom name="Flip It! (druadic)(1.0e)[Other].vpt" size="308224" crc="041b7cad" md5="d1f399a57521b4a81b4ae9fdeb0a7c7a" sha1="d0453d6f6eb476d701e769482469051ec21a0285" sha256="9a6e93468c95831af20d9f20afe5c9902de0f1bb53836c3cfbac2bc9e2682b19" />
+		<rom name="Flip It! readme.txt" size="1093" crc="88578a11" md5="b91d42fabaaa2104bd6370f65b3a0097" sha1="dfc6887ce15f2e6dcf58f8ea393ab0ad71b54124" sha256="8da409b132ecdcb51597d4253233b572f778306ccd3a42db65a6eae3bd41e440" />
+		<rom name="Flip It! screenshot.jpg" size="53828" crc="90f97288" md5="564e83d3b0437b29f4b7ffa5de70fdf3" sha1="137ac81d61a58199d1e161fc83c1add2d8ce9a03" sha256="88d534e55ffdc503a09a3e2b0795b0005a04a6a18e437f912b88b9831d18ef65" />
+		<rom name="Flip It! special readme from tiltjlp.doc" size="23040" crc="40802b5b" md5="da0763412c950f978fc2b76ef5d79201" sha1="961338f0e56fab724afad5674bf1c1a2faa67917" sha256="7741dc715d131c81d933d924008245bc34e3ddfe1d680a8d256bfcf0ef0b507a" />
+	</machine>
+	<machine name="Flipperless Fantasy (Will Power)(1.3)[Flipperless]">
+		<description>Flipperless Fantasy (Will Power)(1.3)[Flipperless]</description>
+		<rom name="annifont.ttf" size="37552" crc="97cd3db4" md5="2c64bb417056f321f9d7e61190e703aa" sha1="b8c3aa7ce4fd927626cb8aa2fa4c985bbef81604" sha256="15e6695fda144e54831bd239a6e28b78173cd3faf10f4e6aa407b2141057bade" />
+		<rom name="comicbd.ttf" size="111476" crc="8520cb41" md5="81d64ec3675c4adc14e9ad2c5c8103a7" sha1="5518f0bdebe7212d10492ab6f4fff9b0230c3cbe" sha256="873361465d994994762d0b9845c99fc7baa2a600442ea8db713a7dd19f8b0172" />
+		<rom name="Flipperless Fantasy (Will Power)(1.3)[Flipperless].vpt" size="2463232" crc="88b6cae2" md5="ad751e977c60cf1392b0ffba2233c3b4" sha1="3c79dfa2c634372f19121af04e353dc7c6c8bf06" sha256="51091aec864c8df1aa34a9685cbc7a4cca599b6b071802d0423f5fcb483e7160" />
+		<rom name="Flipperless Fantasy readme.txt" size="642" crc="50d9236c" md5="6c01087fb9a4341e57ec27263ff7137e" sha1="c93b9546ecf6281901f858abe23d2e4b054f8d1c" sha256="f7cfb21fcba7941830890f58061774265e686b82d4870c0153ecaebddfb08a9d" />
+		<rom name="Flipperless Fantasy screenshot.jpg" size="59729" crc="8a359ecf" md5="3299aa238b23f308d32e372e73cb252b" sha1="5f6b6fcf9fe03ba69cd9bf1e0ab6d58dcdf607b9" sha256="d16798ee4e3f8f534e31ff6ca5c3f2e83bcd5a042db788670621340757d0cd85" />
+		<rom name="noodle.mp3" size="375537" crc="47bfb4ce" md5="337beafe3251d72c67026d4fef65ebea" sha1="f6a73d036b039f8f3d4fedcf8ca431ad145c6b4d" sha256="0f60d2f4802878889d11b46550576df1c59f928fe2db5786420a3284c0a827fa" />
+	</machine>
+	<machine name="Flipperless Frogger (Anthias)(1.1b)[Flipperless]">
+		<description>Flipperless Frogger (Anthias)(1.1b)[Flipperless]</description>
+		<rom name="Flipperless Frogger v1.1b.vpt" size="391680" crc="1260c377" md5="fffea9b0fe98b3357fff323adff44fdc" sha1="2ac6ecd7dce8ea3d9b911f0db8df1b960aca446c" sha256="5e955f14fc9a78c80e6108e36b2f4557c7a3de36829739cc4b787d467d13c16a" />
+		<rom name="screenshot.jpg" size="68717" crc="992fe2d1" md5="787e6785305b989cec1b9d65bdee9838" sha1="f2359fee0e283819e2febac9c26b3c68fe8fba01" sha256="b68b803177146266575d3bcf83c20ead7dbd464d7ea8c50b69e22f48764f36c5" />
+	</machine>
+	<machine name="Flipperless Insane (Anthias)(1.0)[Flipperless]">
+		<description>Flipperless Insane (Anthias)(1.0)[Flipperless]</description>
+		<rom name="Flipperless Insane (Anthias)(1.0)[Flipperless].vpt" size="446464" crc="f8c40097" md5="09627a4b0bb69ee39f5dcf6960b4ccab" sha1="5ea20b23d81ecbc03cc24710664802b64ac956ec" sha256="0bfdf712b60fa827b89f76025e0cb2fd34ac91161e4b91aa5788753edd41d1bb" />
+		<rom name="Flipperless Insane screenshot.jpg" size="73888" crc="f92515dd" md5="7150acd27a7e83fdee982af6edae6bbd" sha1="c6bac1b922ae65bd2196df1f9add85a56526f295" sha256="90027bffa9b1ab48f390d47739a0889daf259926790e21e0276da97add235ff3" />
+	</machine>
+	<machine name="Flipperless Pro (Andy)(1.0)[Flipperless]">
+		<description>Flipperless Pro (Andy)(1.0)[Flipperless]</description>
+		<rom name="Flipperless Pro (Andy)(1.0)[Flipperless].vpt" size="362496" crc="acac0973" md5="0d28b1eea3c0e68a9b65d39cc0c09f52" sha1="8c61d18432f55a5255b0ab10d96cc2e45521bb24" sha256="52e3356a56834444a6f712e5b835de01c2b1ec7a3c4c8563d3a308e27ea56f89" />
+		<rom name="Flipperless Pro screenshot.jpg" size="31344" crc="c7d5f528" md5="382fbb9cc2b8da320db8ac2a02f6bcf7" sha1="59791ba1142345d1fbd5f4627bf8c9a83ee6af75" sha256="b666d2ec2f240f02d08d649624cb5f5158f81cb4b2d41a46bea24aa995229ba6" />
+	</machine>
+	<machine name="Flipperless Pro Golf (Andy)(1.0.0)[Flipperless]">
+		<description>Flipperless Pro Golf (Andy)(1.0.0)[Flipperless]</description>
+		<rom name="Flipperless Pro Golf (Andy)(1.0.0)[Flipperless].vpt" size="282624" crc="57bacee5" md5="cc74cc2414412b9570bc37f89a2f23c9" sha1="d17930d07826dba85bcc0fc32f27e723f2ea8c24" sha256="5dd2eedc5846e507a450029badbfd5d6efb81dc443152f3578fce3cce646dd34" />
+		<rom name="Flipperless Pro Golf readme.txt" size="186" crc="748963fc" md5="01bbc18f71d2e9581b83d410d6d3ca46" sha1="ae06d5a7f2655702bc1fdd7b9ffdcd6b91869c7f" sha256="5d8bd587013f7225e915c597dae9832fc0143e96fb7bbb85d4bb51bbc16ab5a9" />
+		<rom name="Flipperless Pro Golf screenshot.jpg" size="32089" crc="e3a1d427" md5="8ecc57776350bfc629072d3f5a16b68d" sha1="ef7a1d909ded2beae84aa3172166d12688e85a29" sha256="ee2b3256070627a2b8a61b2f0ac8aa52434fde875e07b586ef58c9c804920834" />
+	</machine>
+	<machine name="Flipperless Revenge (Will Power)(1.1a)[Flipperless]">
+		<description>Flipperless Revenge (Will Power)(1.1a)[Flipperless]</description>
+		<rom name="Flipperless Revenge (Will Power)(1.1)[Flipperless].vpt" size="7031296" crc="fff34871" md5="b40b463a221cc900b16327cd4c8da54f" sha1="804f63f6248aff93a406c0481a60556e56c008d3" sha256="026940b683a5dabb746cc5e608eea9f5f1633118145807f8ae0eacc400d855ee" />
+		<rom name="Flipperless Revenge (Will Power)(1.1a)[Flipperless].vpt" size="7031296" crc="fff34871" md5="b40b463a221cc900b16327cd4c8da54f" sha1="804f63f6248aff93a406c0481a60556e56c008d3" sha256="026940b683a5dabb746cc5e608eea9f5f1633118145807f8ae0eacc400d855ee" />
+		<rom name="Flipperless Revenge readme.txt" size="694" crc="29e64589" md5="a7821c72a1fc350f62309e7acac17095" sha1="d04c9061e624aa8afaf05c83d30b13d11e481f1c" sha256="d35762a170dd5c62a2bb7a6f32811de68664f7abbdfc9f741b63431731c05728" />
+		<rom name="Flipperless Revenge screenshot.jpg" size="98302" crc="fa5529fc" md5="ad0fa0879265de113aeaf60ab07e7b2f" sha1="846b0d28d0f28504ab33e1a142a0aa30d83310a6" sha256="cbeb45da2ff514745ba2cbd45e1b898aa8abfd77f5f77ca00dcac58f64e4936d" />
+		<rom name="Fonts/annifont.ttf" size="37552" crc="97cd3db4" md5="2c64bb417056f321f9d7e61190e703aa" sha1="b8c3aa7ce4fd927626cb8aa2fa4c985bbef81604" sha256="15e6695fda144e54831bd239a6e28b78173cd3faf10f4e6aa407b2141057bade" />
+		<rom name="Fonts/ariblk.ttf" size="117028" crc="e67c3fa1" md5="3e7043e8125f1c8998347310f2c315bc" sha1="49560b47dac944923a6c918c75f27fbe8a3054c5" sha256="dad7c04acb26e23dfe4780e79375ca193ddaf68409317e81577a30674668830e" />
+		<rom name="Fonts/bloody.ttf" size="45264" crc="da071b3b" md5="d1a746a818a459b74bed44bb69837495" sha1="38165945befb4bd99a04f9ef841a1dfde99e88ac" sha256="a21c63c451df8dbfae20d2f67180128169bde9360ccda63e273b041cf75c57e1" />
+		<rom name="Fonts/comic6.ttf" size="11868" crc="c4fb235e" md5="3bbef31d8c5fa5da181a4ae91017a4a9" sha1="3c49651b3a52167b3afd827516a169fc62761e9e" sha256="265aa33b9d70e04c906f4c3ed070d0134275280335cc60177306b71e0f62e387" />
+		<rom name="Fonts/comicbd.ttf" size="111476" crc="8520cb41" md5="81d64ec3675c4adc14e9ad2c5c8103a7" sha1="5518f0bdebe7212d10492ab6f4fff9b0230c3cbe" sha256="873361465d994994762d0b9845c99fc7baa2a600442ea8db713a7dd19f8b0172" />
+		<rom name="Fonts/wingdng2.ttf" size="59696" crc="1de4aa42" md5="cc20de18a53d14be3a3598f03cec292b" sha1="c9a5e2377430acbb660b10600e1b854615e2bb13" sha256="4cc88081696d3993ac6595540b09d2da0f75a3f78b0d7b28bf8c47126ea821dc" />
+		<rom name="Music/fliprevintro.mp3" size="115984" crc="d27e79c6" md5="e4838c661abce3da620e9398f4ab0d46" sha1="f407271ab9be9a68d3f818595e43e6e634c89f4f" sha256="e776945774bd468748b1ad929c8aa95abbc62777a7ca87dd4bd09520dce4bbee" />
+		<rom name="Music/fliprevmain.mp3" size="2766054" crc="902bff3f" md5="cb4d0278a661000fdb83299ea3ad0e65" sha1="60ab593aa406bdcc63a230ec6e0dd2b12347673c" sha256="a964d517584cbe9acf4c1e08b4889e02be0704e91ddb0c559cc7e38e8f425caa" />
+	</machine>
+	<machine name="Flipperless Typing Tutor (Bob5453)(1.1)[Flipperless]">
+		<description>Flipperless Typing Tutor (Bob5453)(1.1)[Flipperless]</description>
+		<rom name="Flipperless Typing Tutor (Bob5453)(1.1)[Flipperless].vpt" size="2625536" crc="30090c43" md5="170238baaf56f9ee845ca2385b75f685" sha1="886d6c0e569d50104a479a9ef11608c99de65f01" sha256="00571bce2964be69fb0e4e6753d663b5b6318834f1d8c011fdb415be0b0a2a41" />
+		<rom name="Flipperless Typing Tutor screenshot.jpg" size="92560" crc="5d290a22" md5="42ecb13b8b5e72c6fe1f6a624e2b97fb" sha1="141d9d8ffc72dcce75d6bf3dc638bac11844364e" sha256="a444d9ed3dccc3b5c374ec5b4d6069625e7a91a5aa2ec336499692768e64c7ad" />
+	</machine>
+	<machine name="Flippo (Luigi300)(1.1)[Flipperless]">
+		<description>Flippo (Luigi300)(1.1)[Flipperless]</description>
+		<rom name="Flippo screenshot.jpg" size="51199" crc="444dc6b1" md5="5115a1c503fc2a1c7ba3a350e00c2332" sha1="c2432a85e0838140d9c5d24769743bd18e510d1b" sha256="44aa26846b7bd1b0ed83eb64703d7745c16245f9b87e8ec4ec2948a6e19b5b85" />
+		<rom name="1.0/Flippo (1.0) readme.txt" size="267" crc="09e610e0" md5="eb006eda50173fe97b4f218deb844a24" sha1="be20484f7f85e655bd6459c26805e9e1dc8b5c12" sha256="38246c3d5d695c2e33af30ae9084c9a67da64813a01f3bb92b5c76ee84569a3a" />
+		<rom name="1.0/Flippo (Luigi300)(1.0)[Flipperless].vpt" size="150528" crc="620e5523" md5="6af115272eb8702eb2a8840219857bef" sha1="fb465876447a3e70b0e8f8362ebfa3a8ec509333" sha256="03123a6fda9b41753300945fd9687c9911f377698e13e660eefc205b3d388dfd" />
+		<rom name="1.1/Flippo (1.1) readme.txt" size="384" crc="91b7178a" md5="3b02e7f0c2daeeeb710acc8a828c3f96" sha1="618349990aef493041b8d0be10c79c9eee6179d7" sha256="4b63c731da1f951f28afd2cee205474cec39c179d02469128bf3eaa630a8da61" />
+		<rom name="1.1/Flippo (Luigi300)(1.1)[Flipperless].vpt" size="153088" crc="6bf38da4" md5="d1a1f7f0a165c50273aff28c02acaebb" sha1="01eb107dfcda47146f14ddb1016f519143531c43" sha256="7df0cc0ff3f76b4df2c9c52b8f9ab2af4bbd2caeaf1880f982ba1cc7384a0ca3" />
+	</machine>
+	<machine name="Flophouse Bagatelle (Kinsey)(1.0)[Bagatelle]">
+		<description>Flophouse Bagatelle (Kinsey)(1.0)[Bagatelle]</description>
+		<rom name="Flophouse Bagatelle (Kinsey)(1.0)[Bagatelle].vpt" size="1096704" crc="f5011d0e" md5="d9d40180f537cd71e2aeb11f45b5968a" sha1="4e03352f35698173b985d76d1645edc996f72168" sha256="6f551773bf2cbe0b1fa871f0cdf046355ed6900b0f65aa31b834fd2c073061c4" />
+		<rom name="Flophouse Bagatelle readme.txt" size="1418" crc="c56f6771" md5="ced18c9538bd1cf5bdfb181f7aab278e" sha1="c5b0b321dda222e39b2ee23b9cd35a20ccf7262f" sha256="1d80dfd29e72b75f27a6c2494d700a4896a79bce00da8011192937cfbd12dfec" />
+		<rom name="Flophouse Bagatelle screenshot.jpg" size="127282" crc="5f51c762" md5="ab11ce350134c65436a00261449507c3" sha1="cdc145a8672cc7c16159bd7689b5d018dfa92d37" sha256="86cee88fe0973ad1bd9fc0395fabf17fe3633747c5f442fe7a9abfdeb2b23e7a" />
+	</machine>
+	<machine name="Four Somes (druadic)(1.0b)[Other]">
+		<description>Four Somes (druadic)(1.0b)[Other]</description>
+		<rom name="Four Somes (druadic)(1.0b)[Other].vpt" size="273920" crc="2c66cd72" md5="031114f83545f3418b7e14d2f972fd74" sha1="54037f7a74185aaa11de3cbc377f8e4b0ae34fa6" sha256="0a93233fd8e6a3670cecfaaa41ca37403bc5855b9866619e2d387e726d217a64" />
+	</machine>
+	<machine name="Fruit Frenzy! (Douglas R.)(1.0)[Slot Machine]">
+		<description>Fruit Frenzy! (Douglas R.)(1.0)[Slot Machine]</description>
+		<rom name="Fruit Frenzy! (Douglas R.)(1.0)[Slot Machine].vpt" size="361472" crc="5067515b" md5="f575c8e5b04ec4c8be11052c699ebf25" sha1="d4634e134a7e9a3377794e0af7ca5101bae8531c" sha256="0c7cf4e20baa3a842bee8a351ba158c1cdd4ab4ee9e78a931f53bc71ae3b2226" />
+		<rom name="Fruit Frenzy! screenshot.jpg" size="60669" crc="7b4c108b" md5="97235ecc60ee89b2efaed01558e74e24" sha1="9c5587290ac13ed459396f376983d890a55458a2" sha256="8f527cadcf7f89198de427892cc53acbae2f0f973fa7282d0e3aae1291896d29" />
+	</machine>
+	<machine name="Future Foosball (2006)(Rascal)(1.1)[Other]">
+		<description>Future Foosball (2006)(Rascal)(1.1)[Other]</description>
+		<rom name="1.0/Future Foosball (1.0) screenshot.jpg" size="75222" crc="87b9555d" md5="f7c6becc4a0e66ab9d277f9067020afa" sha1="5073ca084355664c11445e10c4f52330de198561" sha256="4cbcf966e34022e1a4b4f710b31f96d45f84b092173d708b10eaccdece645b5c" />
+		<rom name="1.0/Future Foosball (Rascal)(1.0)[Other].vpt" size="2779648" crc="d0860386" md5="dd113db9d03da2b70bd2ab5cb224bead" sha1="7c5c7d604a9aa0d51fe018057dc4f1780a4e8055" sha256="00737f2fcebfa7357052b993ef2b5eef30d7f0083dc44d38af42372d76f8aab6" />
+		<rom name="1.0/Future Foosball (Rascal)(1.01)[Other].vpt" size="2781696" crc="f891553f" md5="48c9b64a10d3869e272d0d003779c81c" sha1="83eea2714b3a46ab38c72de489d41d86cf79596d" sha256="fa985eb8deb907243f7dbab269d6a290bf6d7a11a5c6e8f5b47f8f8ff9ed1885" />
+		<rom name="1.1/Future Foosball (1.1) screenshot.jpg" size="210484" crc="6d1aa3d6" md5="f22990a4cc017250fc092ee80e8f1d7e" sha1="99aa987648b772a67ea69453d1bb539977f0e804" sha256="c5914b2aefb1b79550c5d4729e7acd319f6c1a10bdf7444bf7c70b5a60bb7691" />
+		<rom name="1.1/Future Foosball (Rascal)(1.1)[Other].vpt" size="5313024" crc="d217a1c0" md5="ea0d5576b7ff65815b1187037db13be2" sha1="9e5df273c2295469c3d5f2656103eef18624ff14" sha256="903314772eadb710064f6c9d73378f90bb740986851874111ee667e5d49b527f" />
+	</machine>
+	<machine name="Ghost Rider (liteuser)(1.0)[Bagatelle]">
+		<description>Ghost Rider (liteuser)(1.0)[Bagatelle]</description>
+		<rom name="Ghost Rider (liteuser)(1.0)[Bagatelle].vpt" size="2225664" crc="efea0802" md5="8f469ed314f34c2e9db4b588717e15fd" sha1="47571d78692d0e0d56b32872096630fdfb806252" sha256="e3626bb3c036d3bd9eee3480bb4acf83595627740db86cda29d079c4224fe2df" />
+		<rom name="Ghost Rider screenshot.jpg" size="65689" crc="9868054b" md5="b14a39080ff22800f68349dadd623045" sha1="aaea607a3c397b533d15f4ad3cfe45fefa4e22d3" sha256="8e2f5f5ef23bd0dc3ba85afd5e5a96a199475e5ed4a1072623e0e63185ecc2e1" />
+	</machine>
+	<machine name="Goo-Goo Da Da (Starman7007)(1.1)[Flipperless]">
+		<description>Goo-Goo Da Da (Starman7007)(1.1)[Flipperless]</description>
+		<rom name="chalkie_.ttf" size="46892" crc="d9ec3a99" md5="169ac1a3ae47872fe5307d3d621abbfa" sha1="a2be1e242e77491fc301f2a347ca8c895aea2347" sha256="54df6a20f421cd3357b8eec59528847add5e1d786464f8406cb568d1984132ca" />
+		<rom name="Goo - Goo Da Da (Starman7007)(1.1)[Flipperless].vpt" size="4294656" crc="b19a8951" md5="f2dbdeb4285869029c7900e48a7816b0" sha1="15ca6043c8a677739dde639131f730e2fc66bc57" sha256="8c5d7456a3ff539d02e24de5a690790012daceab93f7b6a84c6475e9086e1afd" />
+		<rom name="Goo - Goo Da Da info.txt" size="1144" crc="e2f438b4" md5="0ffc3acca5589fe406f96bfdc3d92e02" sha1="6727b88a0071f02ad41b90400817903e697bcec8" sha256="7eab0d26494e45442e01df89b62545fb9ba8b7bf474b189be51408cad63653ac" />
+		<rom name="Goo - Goo Da Da screenshot.jpg" size="134234" crc="5a91f873" md5="85095ceef9150c84d14492bbfddab085" sha1="d437e12933eb36e6149b445b313a0e3473c379d3" sha256="a54c6e79d6c9325a93c5ce7b6b8ccb68b47841d4eedfd82cb7aeae8ef6210692" />
+		<rom name="Music/ggdd - Award.mp3" size="83383" crc="164c4d4f" md5="d99b9fdc15ff3c751c403378629bf367" sha1="b7d855a506a31036977fc2283339c6a807fc06d5" sha256="facdbd205a12c310d572a39797f4a1b88c27d00d7bf59cd6bf3e875d66ab3f08" />
+		<rom name="Music/ggdd - Goo - Goo Da Da.mp3" size="1303615" crc="7577e6d0" md5="83bf7fd1eca3b7cf5e79d1b069e8f812" sha1="cf4cc85cb2085bb8a7e890a74274126414c59f78" sha256="9a2ff873969db805a64c5f5417c8f52460e4ca0a7d07ee2d3cd9f66c7d58f604" />
+		<rom name="Music/ggdd - Honey Love.mp3" size="1178854" crc="46fe994c" md5="33ac3d0c0a04da17f626d200c5945c96" sha1="39d836ba43010647fad41c5b8b842e20ad6404ef" sha256="b7147a2752ce36fd066117b31db13a51dc32d110c13766273e445434fd643f29" />
+		<rom name="Music/ggdd - Is Zat You, Myrtle.mp3" size="975935" crc="9e515ade" md5="90a432587f0f1ccd2fb339eb089d7d92" sha1="d94a68f3e541d75c8f2a8fbe4eaf8dbfec7aea44" sha256="75db9d556857fba9d18896022cf728152ba28ac799a56592315539f792d18b9d" />
+		<rom name="Music/ggdd - New Liza Jane.mp3" size="1082096" crc="fe7d9793" md5="407d80220f5fddbc85714965664cf6ae" sha1="23eb20aa2d8a77ba170b39581cdf80b77b1c9198" sha256="2b0db69da91a2eb3a8969d339a496c2a1a68824fa5ef287c1c15d9185f76b2bf" />
+		<rom name="Music/ggdd - Pickin' Peas.mp3" size="950021" crc="b477323a" md5="e40768d6878b94b2905b7b656b75410d" sha1="8d7fadd982cf264b1655a447beaf286a41e65f85" sha256="c7f3dfa157714a018b5c41e952395400b45b6d987841d5c200443473e4ecc79b" />
+	</machine>
+	<machine name="High Seize (Wrenchien)(1.0)[Flipperless]">
+		<description>High Seize (Wrenchien)(1.0)[Flipperless]</description>
+		<rom name="High Seize (Wrenchien)(1.0)[Flipperless].vpt" size="6849024" crc="4a0fe8cb" md5="af09c3584328fea31f4b011bbf89f272" sha1="7fa4a37e402c6640cd9a37d5ab30e50329cd794e" sha256="6b846bf76d57148e8dcf5028174ddcd91e3855d431fd894bab235dd372437b74" />
+		<rom name="High Seize screenshot.jpg" size="91188" crc="a1140289" md5="16291f6ca9fd2b200aedf6ff6d967ccd" sha1="d93127ba5946882f341dad7a2377119825fc90ae" sha256="d030da5d88d72831b42d7f05748988f49d204839a78f77db8a9ed39635c05e2f" />
+	</machine>
+	<machine name="Hypno Ball (Andrew Mortimer)(1.0)[Flipperless]">
+		<description>Hypno Ball (Andrew Mortimer)(1.0)[Flipperless]</description>
+		<rom name="Hypno Ball (Andrew Mortimer)(1.0)[Flipperless].vpt" size="2005504" crc="1c491f41" md5="7e1f5c4e1dc9a8222ee52f13dbbbc967" sha1="2073c58cb5d3e54e39703ccba5a1cb5c0c7ebe2f" sha256="de28479742a7bbc104218fda00d729c4220808e15b5eb4a5e9392817d8a3f25d" />
+		<rom name="Hypno Ball screenshot.jpg" size="79941" crc="782188a3" md5="2f7d5f1f0e70e01ba627e55ae333d45b" sha1="108b58ca72f09a1850e67725b57f0b9d8e55d58a" sha256="c607fdeb7ef4e9d33dd6fe5d9464b1189819123ae25a960ba0fff65bf7333899" />
+	</machine>
+	<machine name="Hypnotic Lites (Tii)(1.0)[Other]">
+		<description>Hypnotic Lites (Tii)(1.0)[Other]</description>
+		<rom name="Hypnotic Lites (4 colours) screenshot.jpg" size="90945" crc="16713609" md5="7d4d271eec4265cebc404ec7b81a4abe" sha1="ba13f25602cac3078e6d4b25c5e8609c1a0b8b59" sha256="80395eef95297009eb3e1fd73a56ad8dcd7b5d6770e9a12ab1a95efc1bee9c4c" />
+		<rom name="Hypnotic Lites (Tii)(1.0 - 4 colours)[Other].vpt" size="1940992" crc="08b6714a" md5="b894d873febb0d547ad0b7c6c9cc7e0a" sha1="f9c0a468e4ad3ea0122d337e19903e079f69c706" sha256="2f0ab359635543ce29c25e0010f8f38bd5b8a4eee67bb1ae56cd94f24bf71a46" />
+		<rom name="Hypnotic Lites (Tii)(1.0 - Red &amp; Blue)[Other].vpt" size="262656" crc="7b90ba7c" md5="ebaf04515d8764c8a1dcbc48828e3583" sha1="07c3a7515c5222be6d85afd3350ce09de04a0156" sha256="bab8d7faa8d2d3d7af7eb55a10f782251c6dfa763a2ef56bc098b193f9a4f718" />
+		<rom name="Hypnotic Lites (Tii)(1.0 - Red &amp; Yellow &amp; Orange)[Other].vpt" size="522752" crc="9929ada0" md5="2723feb6e092546181ad7ffa9444f2d6" sha1="c20243cb3f8b66c55725ebb8055701bac06f3700" sha256="37d6934275bceb787c3b17ca0f5c088f4ddcc6a51a1b881a9846de07add6ca30" />
+		<rom name="Hypnotic Lites (Tii)(1.0 - Red &amp; Yellow)[Other].vpt" size="393728" crc="d43de0b9" md5="720c613a2860e91f6d6d0ce4b209ce55" sha1="e420649666c7fbb9c50d3d8a80f5a70703460c81" sha256="44967daccacc48491559bc54d7cdd4fd68ba3cca361bdd97f111d54dad683fef" />
+	</machine>
+	<machine name="Jiggle Box (starman7007)(1.01)[Flipperless]">
+		<description>Jiggle Box (starman7007)(1.01)[Flipperless]</description>
+		<rom name="Jiggle Box (starman7007)(1.0)[Flipperless].vpt" size="3782144" crc="68ac6700" md5="b2e23c6f7aabc24fc3eb3497df5cee86" sha1="f4357bf81f5b89f71dea1a443d516478a7ac5801" sha256="f6b8963a5042daeb44e3ea79c5646c2a52a658e7a328cafc52474e02203b387a" />
+		<rom name="Jiggle Box (starman7007)(1.01)[Flipperless].vpt" size="3782144" crc="941f14cc" md5="aadd2bb8da2d16d347bc686bf961414b" sha1="f548386ad12fcaf7030303826935670d54b74218" sha256="8509f0e5a7f810dca1b4a97f1b58f68f9a37bd777b91b7d88c1ac50291408e75" />
+		<rom name="Jiggle Box screenshot.jpg" size="80014" crc="3a30d7b3" md5="76e032aea6d04838914df5045cb39c76" sha1="37bc73b1c8e663b6205e943013d55fc6419d3f0d" sha256="905b31f7794afd8c7f0f72d1991363612d753a8cc96643cb56e37c268077a7d2" />
+		<rom name="Fonts/chalkie_.ttf" size="46892" crc="d9ec3a99" md5="169ac1a3ae47872fe5307d3d621abbfa" sha1="a2be1e242e77491fc301f2a347ca8c895aea2347" sha256="54df6a20f421cd3357b8eec59528847add5e1d786464f8406cb568d1984132ca" />
+		<rom name="Jiggle Box_readme/Jiggle Box notes.txt" size="2578" crc="57405609" md5="32a257350fa11e44870c4820b8ea17b2" sha1="38ec1856c02142b3ee598f3776e78bb87e4642c7" sha256="035f960df5dc959034733e3705fa217719158712c19b33233076f6e82745b6d3" />
+		<rom name="Music/JB-BT.mp3" size="741744" crc="13083eab" md5="7d9b389e13815b513db77a8fa50d948d" sha1="3208345bef3af4e5992b88eca055f3b9f31add88" sha256="e6f46f4b8c969407065755e3b90332cf4b7120910b69cd58f07acd1ee140ca66" />
+		<rom name="Music/JB-CJ.mp3" size="169056" crc="c9c0d79b" md5="fd33a76e1caf8522941b29b2fbd4b94a" sha1="28dca9d3d76ece63ecac3fbb3218c5aaec75c7d8" sha256="0a9b1ecbd632cb2ac88fc52439eba6219c690d881716d1d85ca2f2d381212d39" />
+		<rom name="Music/JB-JATW2.mp3" size="879386" crc="28cbf955" md5="1eec8cf9d7073b9bbff5a7fbac640db7" sha1="8bef405fd8d45cf769bec06541a5df390dbd7c5e" sha256="7dab72d1d08ffa59cbed59d7f8b1db3577298d7581b11edab4a6085f48f3af90" />
+		<rom name="Music/JB-PC.mp3" size="632372" crc="6bd4749a" md5="fac5a3f6c7fcb635ef4f01d6de9adbf0" sha1="15214d9fcf1918e70fadea0c7112706c9b21f6e9" sha256="9e897a7d27be77a3db132792acef25e623643c49b0f8e0f60e32fd8bf857c35a" />
+		<rom name="Music/JB-TOCJ-CG.mp3" size="795888" crc="19e7582e" md5="51f97a033c46a8b26cd7f0ba8b17fe1f" sha1="04f9f4b4a761b4ea93126492d415874c7ec868ad" sha256="0ad3334f635560c438f7fcb7a37e648e3a809f6b68833bf4dd25b1e22456bd4a" />
+	</machine>
+	<machine name="Keyboard Frenzy (Bob5453)(Special Edition for Tiltjlp)[Flipperless]">
+		<description>Keyboard Frenzy (Bob5453)(Special Edition for Tiltjlp)[Flipperless]</description>
+		<rom name="Keyboard Frenzy (Bob5453)(Special Edition for Tiltjlp)[Flipperless].vpt" size="1470464" crc="9c0b54b4" md5="37e4561221f945ebf2df00750fadd3cb" sha1="1b659c898bdd8443d2826ef8cb95793941c3463f" sha256="f8838d6ccfca7ba194d530c400f3edd590399563948e1c74d7214ecb46264127" />
+		<rom name="Keyboard Frenzy screenshot.jpg" size="84091" crc="632a0cac" md5="0c936a51380f2938801985a20e741129" sha1="b454f12e96125f8d735ed7bdbcc59c9fa4c61d3e" sha256="8d7bf5caefc9769d40ac062fcc65ac9e3de4a661a0d0b141ba743f33d15ec895" />
+	</machine>
+	<machine name="Keycode Table (Eric Boman)(1.0)[Other]">
+		<description>Keycode Table (Eric Boman)(1.0)[Other]</description>
+		<rom name="Keycode Table (Eric Boman)(1.0)[Other].vpt" size="44032" crc="a41c27b1" md5="1d6f8ae40966795e572df54ab0196f01" sha1="28dd88c244f31984e774f385e09831f4725e1d51" sha256="67189f78af4b3a8f85cf6632e829c0d03ea7b1da27bf50f4f2fbf5b208b62486" />
+	</machine>
+	<machine name="Kill 'Em All (anonimous)(1.0)[Flipperless]">
+		<description>Kill 'Em All (anonimous)(1.0)[Flipperless]</description>
+		<rom name="HellMarch.mp3" size="4512392" crc="09f85f0a" md5="7bfc11f4c5a62c31c9e24a6b1f9f26da" sha1="be711bdbcfbe9c883ca78fb8973fc21877206ace" sha256="0967fdece679b1b76d59f6de399500dc55c7ae96d4c28b531a113c61863409fa" />
+		<rom name="Kill 'Em All (anonimous)(1.0)[Flipperless].vpt" size="7097344" crc="1bd4f6b1" md5="c258476e606ddca79112509dfe41c8ce" sha1="499728b47fa6f582e83c1e7b5626cfa19d5137d8" sha256="c1a475a4d39943d0e51e4628ae4108d932c5d263be1885417e02724ac2821389" />
+		<rom name="Kill 'Em All Music readme.txt" size="77" crc="fa872dee" md5="7aa849978a8a9b7e133ef54a51a8fc4c" sha1="881d388bc0afee0c5c3ea94b58d56b35d537ece8" sha256="dc52ead77d2c9b5eac270d281af3b6d0aefd4329832bce8621a92eca88700a9e" />
+		<rom name="Kill 'Em All screenshot.jpg" size="73717" crc="abc94c3f" md5="390573dd391d3b4b685f8a3e3e4ec085" sha1="a57dfc24a3251158cf5ead0d65152c8e39cc8ab5" sha256="235d468918d07eaac216e680243da620e5176dd3129989baef0449c0a3d01098" />
+	</machine>
+	<machine name="Knick Knack (Kinsey)(1.4)[Flipperless]">
+		<description>Knick Knack (Kinsey)(1.4)[Flipperless]</description>
+		<rom name="digiface.ttf" size="41420" crc="a88b1e1b" md5="759f201fa57e1ff5b3afe1a76d4b51e3" sha1="30b5d30e3f30a6e36189bb1a1e5964adb2c6d499" sha256="d50e983456bc39a67d109e7edb9c268ac9b1b725486eb6a5b49c5d464b03a98f" />
+		<rom name="install font first!.txt" size="178" crc="5e09fa1b" md5="1a2bbc1df3e30a64c742f75e7d9e78f8" sha1="38fec1af9a510a6efc48cf0728c253fafdcd1cdb" sha256="66a3fde2ff30eb81a3bee8c98fb867ac33f00d5252259e9e0ebff103fc905bcb" />
+		<rom name="Knick Knack (mod).txt" size="667" crc="50deccf1" md5="dea4f7a4ee2830d2b655ad00e9198502" sha1="b4363b6927d335aee781f8a36b0b8d1d79770fd6" sha256="1d2c707e3c1efe632fccb963007d3516168a1dcfd6c0844b79282a5eeffbbefe" />
+		<rom name="Knick Knack blue print.bmp" size="1527862" crc="9531d5cd" md5="7d1381876be52de6f1a523397c1e68c4" sha1="e6c4df8b1f0a519cf6029c6b4e31e1d8fa3b118e" sha256="ece50e4ecd00e60e6d33c55ac7afd07852e3b53d281b8afe7081edcfead78219" />
+		<rom name="Knick Knack card.jpg" size="62282" crc="1ef34980" md5="7b825474611f8bcb4790d76261cbda91" sha1="2f90da9b576039ff04b59b0ff2fbc8b5b01fe678" sha256="d44f89dccfd04cf42a7cfd72dff1ee5366a6683a3133a8cd8440642e8f58729b" />
+		<rom name="Knick Knack flyer.jpg" size="214554" crc="fa9dbfc9" md5="7748a64f5abe208e325c83a61e0e00d1" sha1="649c73ca1687ae6e3c1c144167e00e553d334f14" sha256="2d6fa4e02220ea1b25aea1eb8ada29b4616f7ace7a3ddd33dd0065c002012737" />
+		<rom name="Knick Knack scorecard.jpg" size="47959" crc="3c66221b" md5="043a3c19ed9eb0b6070478b1d51ce6d3" sha1="7a1a4f476ffb511dcc9ae2f714d9dc6ac28eef18" sha256="e499601570d7568d162c362f4845bf7122cf8d1a4ca8586bb86c5f8f5c4d2678" />
+		<rom name="Knick Knack screenshot.jpg" size="54571" crc="317c32cb" md5="9a8d7f676ffb9fac3d60d455e766f4e5" sha1="334a2b3d81348abccff78a13071b83e1af6507f0" sha256="3c275de71adb696ed0cf59433b453a1c6c71d0953ebf878f43da6f17324f5d44" />
+		<rom name="quartz.ttf" size="57860" crc="2915b2ed" md5="55f96a010646b90457e9bc03d43e2b67" sha1="74d93c590b5de2e4ee03fd3d3cc8ea64439131cc" sha256="8ef16894dc23cde8fd4775d96190528d7d5b9eaea40c145a4dcde8282aeb5225" />
+		<rom name="1.1/Knick Knack (Kinsey)(1.1)[Flipperless].vpt" size="2447360" crc="e49b158a" md5="44ad1c381c6a845fc66fd8f875dbab9d" sha1="f9698bbffdd0dfedbd3f9de65ef35c9a683ac210" sha256="0ed568e1b3bbf367c9e50b51134cc8b6fffa8213fe7a03c407f7850917621255" />
+		<rom name="1.1/knickscript.vbs" size="14740" crc="68bfcf2d" md5="ceca20e6c8a73b853ddf96d7c546a511" sha1="d791f5e187ca297ddbd1cd1269c63fc92dc2fe25" sha256="fd587a97a439c8fcd85a89a9d9190096b5388ea8b2831d7c5ed6b175eab9b66c" />
+		<rom name="1.2/Knick Knack (Kinsey)(1.2)[Flipperless].vpt" size="2452992" crc="ba87c4f3" md5="6c33bb1a6115a7cf325900743e18216b" sha1="e79ce142dabe8dcec68e266c61eaf2579bb6495f" sha256="11baef875d85f0d766a03632e75754a78bba0358c1074ac775e9b886a47c30fa" />
+		<rom name="1.2/knickscript.vbs" size="14740" crc="68bfcf2d" md5="ceca20e6c8a73b853ddf96d7c546a511" sha1="d791f5e187ca297ddbd1cd1269c63fc92dc2fe25" sha256="fd587a97a439c8fcd85a89a9d9190096b5388ea8b2831d7c5ed6b175eab9b66c" />
+		<rom name="1.3/Knick Knack (Kinsey)(1.3)[Flipperless].vpt" size="2374656" crc="1cf5ad67" md5="ba581cb64d9313ca0bc4387359cb6119" sha1="cc62678c8b6166c7abc739d1b4bacf9e157b39a0" sha256="c4329faf05d6396223754cf90e39e383282eadb718d6d5de4ef24e9240abebe9" />
+		<rom name="1.3/knickscript.vbs" size="15148" crc="b97613fa" md5="0054778646a4aca898e7476dc277b4e3" sha1="a9a5b988e4e3efc3a17f18954de288a6b6f4bd64" sha256="249daad4321dde57bfd83fb59afbb2da862e860a21781dc760dbad8cd4a863f1" />
+		<rom name="1.4/Knick Knack (Kinsey)(1.4)[Flipperless].vpt" size="2377216" crc="d9cb52a5" md5="ab91054c9e37b87294eb61172de25e85" sha1="c1a2da4d458f449534d4862451089bc33b53adba" sha256="3ea736b14fba5277ce8cdb7e57ddf0352bd127667a54f28fca64eded40b00018" />
+		<rom name="1.4/knickscript.vbs" size="15184" crc="79467e51" md5="a5f0fb68edbc2e1de6e1402c71dd1f46" sha1="85187f8e47643e5337c02072ecfa0f034c600c32" sha256="9eb316ca02b5a4a6596bc065870a54827febb0df05d9f7c89ad8649e3a3e129a" />
+		<rom name="1.4/Official Knick Knack Release Notes.rtf" size="39579" crc="375ec98b" md5="c98f0d6856ad633861ca1da55b7f2b11" sha1="10c7ec7b0f76fe0def144bf94bcfd7c67f7043cc" sha256="af689a4225457d3c7a8c228f3527d55fe07bdfac95d25e5c9d6303e9bf028a7b" />
+		<rom name="1.4/trana___.ttf" size="58232" crc="a65607b4" md5="66dc9095c3f6fb48dbe4874d7304ca47" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6" sha256="9eea2b9e8257c73f7b74a45de1b0a68b43cc50ff00434fd40795486c9d6dadfd" />
+	</machine>
+	<machine name="Laser Chess (Proginoskes)(0.10)[Other]">
+		<description>Laser Chess (Proginoskes)(0.10)[Other]</description>
+		<rom name="Laser Chess (Proginoskes)(0.10)[Other].vpt" size="470016" crc="ded02bda" md5="5b3554b04ac85b763cac51dd1cfd23ce" sha1="242ce3b08bb9cfb90f627f4706db663e31698348" sha256="67d60cebccca4fa9373b15eeb6d0e04aa00da1f431206fcdb39708b08f044356" />
+		<rom name="Laser Chess readme.txt" size="755" crc="019b50f0" md5="bc32cf04af3be03faba52d8e950a6b24" sha1="829bc0f99030f8e970ea8cd067f813855c81255c" sha256="fd63e358c107542603d501d5640343d55063bbbe5d78c56dc74f103205772dbf" />
+		<rom name="Laser Chess screenshot.jpg" size="80887" crc="f839283d" md5="6a516d750e110cd20d30bad4d4e9a40b" sha1="24d54efd1c09752a6d9211bad39dad89037298cc" sha256="b0bc943082900b7049a6d16f6a02d69a0185bb8319edd1ebbf7a1f3f7a22c797" />
+		<rom name="westm.ttf" size="50312" crc="7ab2df32" md5="787588e6c611222861fa21b3ff9c12e4" sha1="8afe1419235c5a35a8c1b7f865e6f22a09929426" sha256="f7c5fadaeadd15ecf323860ea88bf1b94dd4c618b3a740797b320e707192e059" />
+		<rom name="Laser Chess manual/BH.bmp" size="12342" crc="04285dae" md5="7e058c1b71ccf76ecf04dfd09f66d91f" sha1="4c7152b44076d6e6563b4079f90b62b3635e7f73" sha256="224ea827a4dc369f8666be825235803169cb603dae4265b1222c3ba2730d1c42" />
+		<rom name="Laser Chess manual/GB0.bmp" size="12342" crc="dede70c3" md5="9d2f69aa25ab8ea10ea442f7f20fbf92" sha1="775420397b5acc60b7f67de02d19d343106a4956" sha256="23fbfc1a63209e3e7d0a622f36f73460b1c9b30c292744ca47ef5be8d27de788" />
+		<rom name="Laser Chess manual/GB1.bmp" size="12342" crc="8bc9a385" md5="bf897833d5b95bdb5b8e4a3722cc232d" sha1="f2e7c9cc0f574b4607ea9b0a55dd5d14969279cc" sha256="fca5f47f0ac3cecbeabe9081e9c5b985444f83820a5ffdfa005e34d5f52b7a7f" />
+		<rom name="Laser Chess manual/GB2.bmp" size="12342" crc="577cffeb" md5="ffa9560e1f9c7288cfad68c234376fb1" sha1="be494af33240538aa1c9cbd4c04162365ee3e909" sha256="2a7d5451be2f12c225e88afa3d15a1ec61a3e078f10039064e03772f00ea7bdc" />
+		<rom name="Laser Chess manual/GB3.bmp" size="12342" crc="b3dec6a8" md5="1be97ead9a59578ff633103c1e9ec7f3" sha1="0798d5807e2f0abfdd2551c858d72caa1c636df1" sha256="f127b938f97604f5bff42ed494cc31aa44ae1a5da1b2e0e17f12a487d45db6ea" />
+		<rom name="Laser Chess manual/GD0.bmp" size="12342" crc="d8a847bc" md5="9689562c50f5a2b2037fcea4d9c59fa6" sha1="7fc7f01521d026963863eeb5f507814065cefad2" sha256="39759024c27015dde177c99fe81b9602bd92904ec8d02d5ca58c6ebf969b1f01" />
+		<rom name="Laser Chess manual/GD1.bmp" size="12342" crc="c7990f2d" md5="641086c37f47ba7be6738e582a6d4aa6" sha1="e6aec0b45ff3c2ef8450bd5352f4664ec8de55d9" sha256="5305a1b538e148ceb2acd7d4c810e9fb7a80d669d0db5fc1a52b04c7e7a59ee5" />
+		<rom name="Laser Chess manual/GH.bmp" size="12342" crc="2b767cb6" md5="265b06461ee5b91dde291336a8d24778" sha1="a48ed43b9d46cbab8dcd8e8a380cd588b9d221d2" sha256="21f91836073f8d0a752930e0bafaa30824c24431f780920e7136441840766e40" />
+		<rom name="Laser Chess manual/GK.bmp" size="12342" crc="db27728e" md5="c6d9d05a77d199954390fe7d5bf7885f" sha1="99b9d0af1167ca760e3d92317abc7e07eafca335" sha256="da5c8d040df7a260dc33f0b2d8d756c58037d631e325fd6d7322c9ea078ea29a" />
+		<rom name="Laser Chess manual/GL0.bmp" size="12342" crc="50107646" md5="04e1c99625fa6d7afd09d93c91f72e1e" sha1="9a1341578a2b31596c94ef0cfc41bb1f8837a701" sha256="f9f3d49f2f8e9b5dba5f019d88e73d3a394e9beb9f417ad540149f0bc939d177" />
+		<rom name="Laser Chess manual/GL1.bmp" size="12342" crc="031aad45" md5="384665a2a1e629bca7ef9e05aa45b08a" sha1="cecca98e1dbc60bd75088cdc3efb7b1afe2829ca" sha256="2fc42d2e0d823a039855a9aa53ae37ad0e3cc9469645724d682fa640199105ef" />
+		<rom name="Laser Chess manual/GL2.bmp" size="12342" crc="39d7d9f0" md5="04a2a4ae41de5216b64b67e37566c6a1" sha1="a0332b0d36c23bc9bae00cb6246e2416647f9118" sha256="5014eda808b4915b4354a4cf771562cc691cba663b1cee30e97dfa096a11c319" />
+		<rom name="Laser Chess manual/GL3.bmp" size="12342" crc="d90ecd3d" md5="bec2addfb2baebcfff9767cab767d8cc" sha1="0e7317e5d28eb28a713a2bd3ea97ad3c702ff18b" sha256="a1d0fe65fae82b8f9e07c7bc67e0fd519218bda82841fae1a3f86a9eb413bde9" />
+		<rom name="Laser Chess manual/GM0.bmp" size="12342" crc="7900312f" md5="e245a20689aaf5832ea51d7199d4a5de" sha1="39cb9610b567d72c8b61a408a475ab814ce7f733" sha256="c5bd75ab497c769553e94ecd2dd31ec500fb50c6dec27cc6dc93f2837a08cafa" />
+		<rom name="Laser Chess manual/GM1.bmp" size="12342" crc="72a197b4" md5="3148d40287029d780486a948a96706f9" sha1="99ff062659672f3810fd49c5719090fb82adadee" sha256="60bd4b90653cf3c2982021cb877ac7b4684c880e00c163c8507a2c47c7fe0650" />
+		<rom name="Laser Chess manual/GS0.bmp" size="12342" crc="f2c75846" md5="3488a18d3c46231eb75b1cbdc4889f46" sha1="19746c4a2091c950c86e0fb1f692d44ca34bcbe0" sha256="5e0310493321a073d9ab70e807bf9ff6764ed2f416de9e7f64b7257bd7a64e56" />
+		<rom name="Laser Chess manual/GS1.bmp" size="12342" crc="a1f236f0" md5="3cac8a51f78417745e82cfa3a99c84f3" sha1="abac1d58412c8cd5491eee39bd0e6a462caa99b7" sha256="a2272623c0466aa88bff39c37754e59d025095300aefa5ef1ab2892f6146ed00" />
+		<rom name="Laser Chess manual/GS2.bmp" size="12342" crc="df93181d" md5="5cdf675b9020d7af7384522a331f7efd" sha1="b9d4481786c67d1e0a7a6be8cda1dec762c4d648" sha256="fa8df7d9b0595d41382c7b6752c258f8b7f7342fadc3ebbd8c35f317d0338c3c" />
+		<rom name="Laser Chess manual/GS3.bmp" size="12342" crc="2b8352d9" md5="0690aead0665c72c425d5f94776d27da" sha1="cb7ae5d23def2e8411fae617341017ab7eff34e1" sha256="95b82885463cc870ed6cd9ed059b8b6ccf40bb095a18e9cb448f9521b5fdbf96" />
+		<rom name="Laser Chess manual/GT0.bmp" size="12342" crc="40495c7a" md5="6a4608767978585cc5997ea911cf3f59" sha1="ae93cebfd0ac3669df1a8ecfda93a5f769dfcb1a" sha256="2e6745309f0b88201ab64247abffbc2c33a831db71b0a342affe8b720c43c7f0" />
+		<rom name="Laser Chess manual/GT1.bmp" size="12342" crc="0b019ad7" md5="5e0af18b5986d1ce493664ac6160e8fd" sha1="7a671babe7b2ea22f45d3169274fbfcf6f0eca46" sha256="e414ee62a34184ef3ec24d8cfaffd6cecd275c37a103b49c8b122e7f44ebc4c3" />
+		<rom name="Laser Chess manual/GT2.bmp" size="12342" crc="6c4a45a3" md5="c272f40b45dd1fc500d13828f229fe24" sha1="05bb67b82223806b8f7ef1a8df875c5e58a951e4" sha256="56ffdb6f95cc180e9db9c1507ad196f22fe80455a9b6da7653acda5ce3bd0fe6" />
+		<rom name="Laser Chess manual/GT3.bmp" size="12342" crc="556f6c87" md5="6664862f608996a20dd34a364abeb304" sha1="fe3a020e4e4b25316caf4246620e3358fd29c093" sha256="8ba0b140f0463973cedfac52261ce0aa93e03675f69604ef49103dca56228fd2" />
+		<rom name="Laser Chess manual/index.html" size="18461" crc="38d0a174" md5="384f83a7f5e997e37fef4e593f5bd996" sha1="e82b58407197eb5eef25d723fc632ec0c4ee43f9" sha256="994eee730b42a2da8c6062d2ab9576c6fccf048b45b6e9e42a8f237cb22ed922" />
+		<rom name="Laser Chess manual/RB0.bmp" size="12342" crc="4c8e74e0" md5="3a4df920349c53ad39081944eb712f7d" sha1="0e09543bdda813370dc69cd839e75ece3edfbabf" sha256="2f4328aba791d9e09abd6e6d0d9e8e7b6e3955d0c55c92befdbfc8480bb0769b" />
+		<rom name="Laser Chess manual/RB1.bmp" size="12342" crc="e0a31dd2" md5="76832e3301b122e979e155f8c5765a25" sha1="d5c0103750be711d754662f6152be170a90290b0" sha256="684b19b550aec5fe4418ae47bc9424330c88386a950a198878b3cd581a095474" />
+		<rom name="Laser Chess manual/RB2.bmp" size="12342" crc="15ba448b" md5="152560cd5e778c43de564fb1a07de45f" sha1="44d336881ebd457b2034027bf98dee612b278412" sha256="0cfd3741f9e9ff12894a7efbd9b548d0cf3e8a8b9d40d5108dc3c8991bea56e4" />
+		<rom name="Laser Chess manual/RB3.bmp" size="12342" crc="4201ee08" md5="e3cc13e16bc84095d654b7a74eaa02d4" sha1="6323cb488e1e226044722c28b35ec635f5bfd78e" sha256="6ce43e70457a7cbadb65566b7b548802065188afd1c8ad777883140e0e0b3a6d" />
+		<rom name="Laser Chess manual/RD0.bmp" size="12342" crc="60341c00" md5="d1d614f0e0aa0cf05d3fd3521e59968c" sha1="04fafbbad1a841ee8d340d51ca43c7b26a4163dd" sha256="edf73fd237966c46a30d0af321b0c48bde13b3a39ee8053ba25e5b491d141a17" />
+		<rom name="Laser Chess manual/RD1.bmp" size="12342" crc="9dac8452" md5="a7851486211c47215d89c26befd00604" sha1="f1ebf8ae9f49722f345d27852bd89e8078913736" sha256="f3ee162fc24b582e04887a4372e9c7d92b99537e8c4984933db70714f6db41d3" />
+		<rom name="Laser Chess manual/RH.bmp" size="12342" crc="7660505d" md5="027746fc8490709e40ff0543a658e809" sha1="7f53fe6ec63a21a9dc484814b41fb145a64feb3d" sha256="5d9a912e92bc4d809d3f59e3d8ea84e9e9be673a0951c3c978fd45a17feea670" />
+		<rom name="Laser Chess manual/RK.bmp" size="12342" crc="63629967" md5="8af806826b0df5cc01b092e9ed6dec74" sha1="b6eb4376311feec1cf8b6d7489d3e2eb79297ec3" sha256="3c21360716d34fe378cfa3d26cafbc7baac0fe68bf70fd49270397f234106b9d" />
+		<rom name="Laser Chess manual/RL0.bmp" size="12342" crc="6b5c7b69" md5="c0646354c25222f2760e1476f103ad1f" sha1="e3d431577a19759e48516e3d022a41d3689b5ed8" sha256="5c7b3e1d7c6e45d4aaf67fbbb4cb391121637ad548e88dd41f028d3949ad7fe2" />
+		<rom name="Laser Chess manual/RL1.bmp" size="12342" crc="7a8c818e" md5="87300c2caf318fd4ff2e48d4c185d238" sha1="ba39b8e5208833df5378df5fdf74b011389b5e16" sha256="d21b249e4d107a20e302414bdde14986b0e8a6fd08cb87324bbd3e39a9909a05" />
+		<rom name="Laser Chess manual/RL2.bmp" size="12342" crc="228f9aaf" md5="d5e16c43eab23368dd10f3c4a37add84" sha1="cf99c5b49b272edfe9871b044c7a2ed95bb82f3f" sha256="73845992667c778ed4fa6d5661bffcc9330c422afa2279dc030673dc5064eebc" />
+		<rom name="Laser Chess manual/RL3.bmp" size="12342" crc="625b6b95" md5="3927ce46cadcf45a33368c384ce493ed" sha1="4b0c11e67b5efd92aaa1bc2eb79ab907c4e41169" sha256="43637c5252f1ccd24df8d5bfbea73c49425eae21b1f29232f50e3970db124a8b" />
+		<rom name="Laser Chess manual/RM0.bmp" size="12342" crc="a949300c" md5="818a9a6ae6412b785bd7238826c8bade" sha1="a530f5366ea89800324c271f944f856e46a150ed" sha256="3e3f1509ec65d0d7cbb0a3a159461eac75ada7e570347c7af484b5faa0c68944" />
+		<rom name="Laser Chess manual/RM1.bmp" size="12342" crc="c17c5088" md5="fa5d782d403271233804e9ae825e8240" sha1="e291136e33312b9a030d249d19c04d3a7172e23d" sha256="e2ad93ce96df99153f782ffac4d9dee2ed9eb6dbd2205f7407e6ef6393b2dcb0" />
+		<rom name="Laser Chess manual/RS0.bmp" size="12342" crc="36e01f76" md5="e0e0617e4b202a7b6afac1bcf01f0d05" sha1="c889affc19e25f0be7b86ef909b916cbe22c8818" sha256="39d627f35ba76f86397d61a73ac07fb9aefc3f1eb603631735881c13d7a2f0d7" />
+		<rom name="Laser Chess manual/RS1.bmp" size="12342" crc="ca1d05cc" md5="606b24e750e8b248bab89a6361db441b" sha1="f52422db6123837b93fae93e7e9a5abac6426aaf" sha256="a79c46148d87982592f5fdaf230e955162dd6e135e49917496678de830b0d3b5" />
+		<rom name="Laser Chess manual/RS2.bmp" size="12342" crc="7d8175e0" md5="ed791f3b907c0c6d7002160c2f9314ec" sha1="3ac0460abdf433bc2f5696ce17d17bd10a36ed2b" sha256="631f796a94a33f8d3a217335be289be7dfaf17b9ebc30df5a7855b391d290770" />
+		<rom name="Laser Chess manual/RS3.bmp" size="12342" crc="d44b6d60" md5="df9126949c346da4c0976512c7eb9440" sha1="1444ee825abd46e5b5fee9722a032c250a925a10" sha256="7765b6ee0c3a8e5672875c051d67a1486b07ce33902e4bf360a7e53264025d29" />
+		<rom name="Laser Chess manual/RT0.bmp" size="12342" crc="faf72380" md5="4af6449636d11f1d7914a852ac26924c" sha1="aad0df49a909ccbd1fc9db5d9e3caaa2d51695e7" sha256="c2dfc46df498625eac6b0a5c259e3708282898a19b685a1fe5df79ce88f1dd52" />
+		<rom name="Laser Chess manual/RT1.bmp" size="12342" crc="aa07575a" md5="9f9a07b87e422c58dd46c44c76dde105" sha1="58e3cb372e3a06d0105e66a5857bd3410115927d" sha256="b599d8bcef500ac521ce1141e1452a045097cc50820fe9fc8c2d24429388f216" />
+		<rom name="Laser Chess manual/RT2.bmp" size="12342" crc="b8fb4128" md5="5edd7edca73b843c3e46af25e129e5f5" sha1="a7269d369a26c078df75e32a12e871cc18ce70ac" sha256="7d8cc4481a4f7ffd02a87242c8abef1112186963af6632d7f6e80e64df495e74" />
+		<rom name="Laser Chess manual/RT3.bmp" size="12342" crc="ce3da5ea" md5="89d038fb1fa600d3647e9deade49da09" sha1="de425625835ecfa11e2b55c99e0fa8763cc172a1" sha256="fdb87872f9e5ecd9bf3349c3f55b0187ab6119913cfdc5fc5a3a8fb295b4aa3e" />
+	</machine>
+	<machine name="Lotto Machine 6 aus 49 (Gerhard &amp; Crew)(1.0)[Other]">
+		<description>Lotto Machine 6 aus 49 (Gerhard &amp; Crew)(1.0)[Other]</description>
+		<rom name="Lotto Machine 6 aus 49 (Gerhard &amp; Crew)(1.0)[Other].vpt" size="672256" crc="2993455f" md5="7d0f7405c4183285a8f6c97d35b424bc" sha1="abaa2e18dec5c391a43b6feb627a1e1bf5498be9" sha256="ced187d8157b4167fbbcc238cad074983ca2b98a183c42c11540b75d879e2664" />
+		<rom name="Lotto Machine 6 aus 49 screenshot.jpg" size="70889" crc="efaa87bf" md5="111521fe520c8f97307c93adb167e4b6" sha1="6dc95dfa78698ca68ec687f7c6ee1fb989b00039" sha256="e040d6817f2a3b2599c963f1a8195829824cc5f3cc983bc56c8d313b6685b23d" />
+	</machine>
+	<machine name="Magnetic Zero (Wrenchien)(1.0)[Flipperless]">
+		<description>Magnetic Zero (Wrenchien)(1.0)[Flipperless]</description>
+		<rom name="Magnetic Zero (Wrenchien)(1.0)[Flipperless].vpt" size="902144" crc="28c85a42" md5="53e946c3ed910db54dd04c27347093ac" sha1="ff1ac12bfc4df89b6bfb1b2b85a16d8d9119c564" sha256="40162880c3ec917e0218c624d528f1a66f1e5b7cc60440e29ff3cf0f9678d04d" />
+		<rom name="Magnetic Zero screenshot.jpg" size="30470" crc="ed33dbeb" md5="0beca53bf39045f935742b1847af6390" sha1="4bd55c1f39b67fe958bb5f4f55476b3c2762660e" sha256="d0e21c045eb03519eb906eaca7eab63cb02abd5ba407b5012c45161a1fca6523" />
+	</machine>
+	<machine name="Mappy (IcePagoda)(1.1)[Flipperless]">
+		<description>Mappy (IcePagoda)(1.1)[Flipperless]</description>
+		<rom name="Mappy screenshot.jpg" size="59565" crc="9614bc1c" md5="bf09e29995817488fff94e50286a3056" sha1="b05efaa4122e8d46290abaedc48d4f4c6cb87832" sha256="f5469968718c653bacaa2d0cee7c41a47b2ac5aab72138bb4d324a79fb40a73e" />
+		<rom name="1.0/Mappy (1.0) readme.doc" size="20480" crc="2fe4780c" md5="e8885660d459ce1b2322631dfb49f154" sha1="135bdeb9f01f1cfcabcfea2437738c2bc490f68a" sha256="afb737d53635adf36240bb324b40849331d4c35b4c45224a7ba2097f975006eb" />
+		<rom name="1.0/Mappy (IcePagoda)(1.0)[Flipperless].vpt" size="4235264" crc="33e1a210" md5="528df4aa16573d4c500728dfe9941f4e" sha1="c4b8dc49ccd2f670c6783aee9dcbaecedee7d324" sha256="8fb0bff0e9635a92191ed18c98e070b66ec6a65c1882e4e6ae282fc35d2cb48e" />
+		<rom name="1.1/Mappy (1.1) readme.doc" size="26112" crc="18629a90" md5="d3cdb0a3656032e2e2670d6acc9ed1f3" sha1="4fa37874bfe636c9bae93e17c554618b565695f2" sha256="096d00191db01a11a71c28a29112ba0c9cb933d9036c0a081f51e6c3aef7b5a0" />
+		<rom name="1.1/Mappy (IcePagoda)(1.1)[Flipperless].vpt" size="4236800" crc="94279d68" md5="d2643263822eeb094c2ca43943bb764f" sha1="4e8e9c483c75d82381ec88aaf6ef4759510def35" sha256="cd177b80c87a3fa3fbe8c680fd4fb918793ae3fc71bace225fb5a6b331d3e34e" />
+	</machine>
+	<machine name="Maze, The (The Hermit)(0.1 beta)[Other]">
+		<description>Maze, The (The Hermit)(0.1 beta)[Other]</description>
+		<rom name="Maze, The (The Hermit)(0.1 beta)[Other].vpt" size="152576" crc="aeaf6e8c" md5="5b858e7d0af2ef02963d643aba795483" sha1="8f56ee8a3443d4c2f1fd4f9a1846e36c92dc8954" sha256="0b273ca67d924fac3b98f50b9c6d4effab401967451c99b63c9ea64babe17512" />
+		<rom name="Maze, The screenshot.jpg" size="1071898" crc="26924cf7" md5="d960d16c229e39c9b62a54f6b019892e" sha1="647ad9cc1bbe328d43e7272c6938380a2a86603a" sha256="742ca58d24f84969a6835e6757be176164e56df102eda5487287a18fe577791b" />
+	</machine>
+	<machine name="Memory Zone (Bob5453)(1.0)[Other]">
+		<description>Memory Zone (Bob5453)(1.0)[Other]</description>
+		<rom name="Memory Zone (1.0) screenshot.jpg" size="48768" crc="1d3762eb" md5="006117c37989dba19628e7eb9a39e445" sha1="e754ab39a553ca2ac7b3761ebc03082290ccffd9" sha256="0b1e7aae461bbeb44b7936cebc5cba25f0dc9aa074e14dcf11822da01280f6c0" />
+		<rom name="Memory Zone (Bob5453)(1.0)[Fastload version][Other].vpt" size="706048" crc="020eeeee" md5="85fecc439b0407f622483ec5c0e68c41" sha1="51d53487ca1a50deb3a24e5396d88cdac11f9abd" sha256="0681a55bc22003bf9684d60a8f7ae5df30cc8be65e64d7b3c9ffc5e1cc7ed10d" />
+		<rom name="Memory Zone (Bob5453)(1.0)[Other].vpt" size="3558912" crc="ac22e600" md5="486cc5f49d04f32622c096f28593be09" sha1="a6054353942194f9180435a618ceeb95f0497ce8" sha256="d4db4dc5888055bb46d6388322e43ca3d87dcc6ee108f137e4a8ebf07e8d72ac" />
+		<rom name="Memory Zone load instructions.txt" size="594" crc="034fcc41" md5="6dae2b6b7db623c7cd81e29f515efbbc" sha1="385432b56f601cfabf38f66a33783702c4c11486" sha256="054b13754060d8ceb7e7b231714c86fa086b376a7dc16ea793b212224e2d04e5" />
+	</machine>
+	<machine name="Memory Zone (Pipes) (Bob5453)(1.01)[Other]">
+		<description>Memory Zone (Pipes) (Bob5453)(1.01)[Other]</description>
+		<rom name="Memory Zone (Pipes) (1.0) screenshot.jpg" size="150677" crc="771c77d0" md5="c4a8490ce2b4477fd75d9b6366bb83b8" sha1="0b278553d75da4b559e4135289ab8ddee0ee84f9" sha256="a49c6ccea70ffb32bf7ad842fe7af7ed761d351ec5fc148ca3f4252d5511fc9b" />
+		<rom name="Memory Zone (Pipes) (1.01) screenshot.jpg" size="517299" crc="63df908b" md5="73e0b2af260d31fa94b5cbc8441d2796" sha1="74fc849cff5054711499cce32e2c68e7b8a86015" sha256="5902bc523cb47b24d074bd36d76af0974fb9f1e980c65af7aa6ea1f527d191f2" />
+		<rom name="Memory Zone (Pipes) (Bob5453)(1.0)[Other].vpt" size="1653248" crc="75e115dc" md5="08e1461a8b481f3450bbf5f9792eab15" sha1="961a88990f6a45aa7b87fa17ea0f11940c567fee" sha256="df1da4ee45005ae93bd718f8d80e3d8471f2295810cd1997e128c68086fc03ff" />
+		<rom name="Memory Zone (Pipes) (Bob5453)(1.01)[Other].vpt" size="1655296" crc="dfd89e60" md5="b54fe4d0a055c4bd0357aa478f84681e" sha1="743f4bbb9f74038206b0cef1229a63754df31cf6" sha256="9f1139ef32f058c2e24f1568850d2617b950b4e4025d61b28dd9d045be910166" />
+	</machine>
+	<machine name="Minigolf (Robbway)(1.1)[Other]">
+		<description>Minigolf (Robbway)(1.1)[Other]</description>
+		<rom name="minigolf_11.vpt" size="3407360" crc="df4cdcc7" md5="fbc882f7412164a04ea290a521e72fba" sha1="adba6840a8f865eea4e3cb77ee79aedfe618e99f" sha256="1f55a0b5fa3c9c7c790d9552c24be73f1be45c55a3ab07ae9f249895efb3b92f" />
+		<rom name="screenshot.jpg" size="46802" crc="96703506" md5="dd0eb8d90cf172fedc3ae9b498280a06" sha1="483a9f7c94ba95365b254ec6148b47a9c8896153" sha256="d892a3742b4c6e6e64c3cddb4a89f75f3dcc271a7c1dac9b9407882c13f7e687" />
+	</machine>
+	<machine name="Mouse Trap (anonimous)(R1)[Other]">
+		<description>Mouse Trap (anonimous)(R1)[Other]</description>
+		<rom name="Mouse Trap (anonimous)(R1)[Other].vpt" size="157184" crc="00fb0536" md5="a1a59d3a737d800282305c7ec33c5c60" sha1="e4c0653c1c900c96dfd4577571aff20abb33004b" sha256="07290ba3b0ce97716ae794ec61473fc94d4e434c8fc802f2f321310792b1d91f" />
+		<rom name="Mouse Trap screenshot.jpg" size="24217" crc="6f177b6b" md5="fbd369451ba69d773a343841f2bbdc30" sha1="b6b02ad13f3b440b0b29e60644439148f43f5ce3" sha256="e94b162c16010b078a2d30e7c009fb7779d06903cab12b1775f21289e1815236" />
+	</machine>
+	<machine name="Musical Table (Paul E L)(1.0)[Other]">
+		<description>Musical Table (Paul E L)(1.0)[Other]</description>
+		<rom name="Musical Table (Paul E L)(1.0)[Other].vpt" size="4996096" crc="15a5dbc8" md5="db8d727a666c3b372cd85554a3718941" sha1="d343fe68fd8d8ac645a0ee16f359a2179bc4a508" sha256="a1f9416a5f329eba5c5ff8325ba1a801cfc6640cfd0229a7cb701820cc21bc00" />
+		<rom name="Musical Table screenshot.jpg" size="55486" crc="d1e50610" md5="1091ba900e4f83d494fb69529a9f9f64" sha1="c217e61d1fa297d6fd5869ec00700d6329522056" sha256="c9273d4cbcc8b5b48c7aa31343b1290a5d185e230069716bf20b178b756b44ce" />
+	</machine>
+	<machine name="New Plinko!, The (Douglas)(1.0)[Bagatelle]">
+		<description>New Plinko!, The (Douglas)(1.0)[Bagatelle]</description>
+		<rom name="New Plinko!, The (Douglas)(1.0)[Bagatelle].vpt" size="1473536" crc="f6a80a03" md5="49e46f965917601225856aef4b215367" sha1="0c558866f117cd4edec839f7a5e1d9c23111a16f" sha256="cd4418ce6bde5805ec27b64457daf14b26dd597e38b29f7806a19d5d521bd109" />
+		<rom name="New Plinko!, The screenshot.jpg" size="61500" crc="40b73221" md5="ec367937a993f73c941c4d4386d8eaa3" sha1="5e1a4627ba7b6f799a5c1c41ed46f49290fd3fdf" sha256="c0a1ed0172c53189e3d2a7d133e38920c535fb2472d88685429dec4337a54f73" />
+	</machine>
+	<machine name="Ninja Gun (Wrenchien)(1.0)[Flipperless]">
+		<description>Ninja Gun (Wrenchien)(1.0)[Flipperless]</description>
+		<rom name="Ninja Gun (Wrenchien)(1.0)[Flipperless].vpt" size="1240576" crc="6472acd0" md5="3cbab3a96a2d7b6b7e27631d1c3ef8b4" sha1="606d98470b3a39da1db8f0de43f9be643a793f91" sha256="1a681863a9a4738f928a8837d01180eab0eb1fcc348a32dd0b60f82ed16ea1e9" />
+		<rom name="Ninja Gun screenshot.jpg" size="42161" crc="fc629673" md5="baad1190751e5fe85ab2451571796e27" sha1="4ef061d3ec5e2617797a0b0508870c5c0d2ad89c" sha256="65364651a288805e31ccb08fd26110531e3155a1ebc127521e758d83c13a2c90" />
+	</machine>
+	<machine name="Nudge-A-Holic (Zerhino, tiltjlp)(1.2)[Flipperless]">
+		<description>Nudge-A-Holic (Zerhino, tiltjlp)(1.2)[Flipperless]</description>
+		<rom name="Nudge-A-Holic (1.0) screenshot.jpg" size="57596" crc="d52b875b" md5="5abb9a2eb0092583d47c82acfcf4439f" sha1="1d7e29fbbf56ed580d12b68c08fab0b2a4e9fbb5" sha256="7f5847561bd1c608546f16a6b783a3b2cd7c776fadf5898a4a78fe812ae79da7" />
+		<rom name="Nudge-A-Holic (1.2) screenshot.jpg" size="73105" crc="767e0623" md5="6ad099876b02d0e534e22eec2f334fe8" sha1="de4fad613bb0cece06523fcb39e197b4467f881d" sha256="483216c8ba3286aabb905e37d75cc9c4061431207ab4a843017f06027dc5dece" />
+		<rom name="Nudge-A-Holic (Zerhino)(1.0)[Flipperless].vpt" size="569344" crc="6feab837" md5="dd585a318e4a3b9a415472c9c983cf66" sha1="ab72b12e07af0de994cd38ba031a2451c67037c1" sha256="75454464cbe63b71fcd4eef25758024b9737dabe180b6ee815df0b4357989db0" />
+		<rom name="Nudge-A-Holic (Zerhino, tiltjlp)(1.1)[Flipperless].vpt" size="635904" crc="fe0ac247" md5="9f7133c3e797cfde6137e63d87e69515" sha1="c28eebdfcc53f61689df03ab3db0364d553912d9" sha256="775a25d0e713b7b62c1bbf3b59dbacc27b103f7a37f7f3b867fe8cc2fdf1724c" />
+		<rom name="Nudge-A-Holic (Zerhino, tiltjlp)(1.2)[Flipperless].vpt" size="702464" crc="a9ea4ff2" md5="56fd00bb58b8bdfaf370cce3261254ff" sha1="1f626dcce9cce7de20fbff33744c0a5a8c5e2c64" sha256="0a0d57bae47af3facc7d258cdf5d8f833b2247f914b1ca58ddcd85e4efccd18b" />
+	</machine>
+	<machine name="Ocean Blue (Andrew Mortimer)(1.0bugfix)[Flipperless]">
+		<description>Ocean Blue (Andrew Mortimer)(1.0bugfix)[Flipperless]</description>
+		<rom name="Ocean Blue (Andrew Mortimer)(1.0)[Flipperless].vpt" size="830976" crc="fe2f5f0b" md5="a9d5c259822beceb7b978add2bb2bbac" sha1="01960a0f4fe86122052d16df439e0c14aca52c17" sha256="62c3b30c45865b16cf087ba8b1711f8eccfe2e80cee0dd363a01a9034469f5af" />
+		<rom name="Ocean Blue (Andrew Mortimer)(1.0bugfix)[Flipperless].vpt" size="830976" crc="9818b67c" md5="80734482eb4a694d3193d559ec3ea5a9" sha1="c8ffb4cbaaaa60423c5db6b0cee477a5a2b107db" sha256="00c493ce4d1cc0c85e8b84019a490cc66290229ae2fb21427ed701330ab88b10" />
+		<rom name="Ocean Blue screenshot.jpg" size="77139" crc="4518cebf" md5="86ffea2cca4b4a30f2940a8a93bbb380" sha1="336025bcf72e6bde50b44f1cdfb6ffad92561d19" sha256="046a6c494882b56d13763a29dc703cc883158983a8deb037499f3439bf515f75" />
+	</machine>
+	<machine name="Ouija Board (Cold1)(1.0 Final)[Other]">
+		<description>Ouija Board (Cold1)(1.0 Final)[Other]</description>
+		<rom name="Ouija Board (Cold1)(1.0 Final)[Other].vpt" size="2051072" crc="7595c739" md5="4844a33a367376caa2a0ed1c875dfd3f" sha1="4eea153c34af5adaaf51b61612507053edf842b9" sha256="ec02376946e6c0f0971d576c1a118e2423fe1cd1cd9969f6b33c2067fb5a52f6" />
+		<rom name="Ouija Board screenshot.jpg" size="48093" crc="f9f7e8ac" md5="896564123b3e7c78ec8164b8262175e9" sha1="d7a21a48a45f1dbbbf6c8945729966abbcd27407" sha256="81f6e66052d466019061ee8edbeeca577fe6505fc3bc843bb076fd98261ef32a" />
+	</machine>
+	<machine name="Outback (DizziDi)(1.0)[Flipperless]">
+		<description>Outback (DizziDi)(1.0)[Flipperless]</description>
+		<rom name="Outback (DizziDi)(1.0)[Flipperless].vpt" size="634368" crc="8ca97aeb" md5="7fd55fcb91a633d27ed8c364e12f030e" sha1="758d827948643bc0ea1247233f4ddaba9c292d50" sha256="b9690cc2bbae22d4ba300afc35cf0b6838f46f2a0cb3362946b21a8d7643f49f" />
+		<rom name="Outback screenshot.jpg" size="98866" crc="25c67d40" md5="e9cb6a99826868e9e59d71b7967c5aea" sha1="64b5f7baafd25a32aff78bc70020c29b0997b676" sha256="490a0c17f09b03d3adcc54c81582771d0ece01122a7475ad27fa053bea2214b1" />
+	</machine>
+	<machine name="Pac-Man (Cold)(Beta1fix)[Other]">
+		<description>Pac-Man (Cold)(Beta1fix)[Other]</description>
+		<rom name="Pacman (Cold)(Beta1)[Other].vpt" size="2182656" crc="d9d52921" md5="eb3b1ca6c64ead2d202b467c4b1723af" sha1="f3a1a574182119f4d421a37705b7955cce56c579" sha256="7a832a2ae7bbc0dc0f5924460ac13716349c174c6bc52bd803a167e6a6f82141" />
+		<rom name="Pacman (Cold)(Beta1fix)[Other].vpt" size="2182656" crc="3a888a6a" md5="74bde2558133990ac5d68da3fe7de24d" sha1="6a6a978e2dc4c806e9a3039d2bfbe20800b8a89b" sha256="c7ff35aa583caf1c082801788740710421daf0385307a9e448385b3b4949c850" />
+		<rom name="Pacman screenshot.jpg" size="39512" crc="b11aa338" md5="e09866b2613e0d990d3935951b746f98" sha1="ab7ec5e9bf6c73004bd0bb4815d4d4981b852a66" sha256="a187932b3e824c3c60a4455984b431417872c95bfc993ca50c0e83225ee09bfe" />
+	</machine>
+	<machine name="Pac-Thru 2003 (anonimous)(1b)[Flipperless]">
+		<description>Pac-Thru 2003 (anonimous)(1b)[Flipperless]</description>
+		<rom name="addtext1n.bmp" size="244854" crc="b455547f" md5="5d123b1124ae7cfe380cb2da83d169cf" sha1="9acecc0d6073d15c49717a6180be638e051c6b3f" sha256="f6b49a32382aa7d707e4d6feb3b600cd80fc84dfe652e31feb1f5cea9d888c80" />
+		<rom name="col4b-40x45.bmp" size="237654" crc="cf51c01b" md5="a7e5bfb6fb475c5aee110d7bb1adbe96" sha1="f264aa602942830763efb52770bc20e848387692" sha256="7852491e49b801ca9cf97ef85c24e0a09e93536a5efbce52a7be695268f18952" />
+		<rom name="fliehe.bmp" size="127734" crc="420c5819" md5="e872c7ff0246db09d9401216a6e1b9d9" sha1="e8d48630aec053f1d7af716e9dbfea7b723e92c8" sha256="5a5721d627a6128320acfe207e62bc6c3d72576b09e3ec9649395dca0aa7aba8" />
+		<rom name="fluchtft.bmp" size="112230" crc="a5a76589" md5="c70fa303ba214febfbe72e063c53253d" sha1="da8e358c86b5b5d28d0c3ae009478b6a8bfe641b" sha256="444dc206675974edd34dd7c1312efa5b6e5d570881f3e2abe1410d547763eb20" />
+		<rom name="Pac-Thru 2003 (anonimous)(1b)[Flipperless].vpt" size="1679872" crc="7dbcf40e" md5="41f95f7ed0467d5a0295eaaee21128aa" sha1="8144d51cea4d637f352405d53497fade57674694" sha256="56fc2862d606d48f03d31652f2d8447225e287f4d5a61ea1a8f42226edd78e97" />
+		<rom name="Pac-Thru 2003 screenshot.jpg" size="61488" crc="749cee8e" md5="71d08698f6906e05982cf018f2c26d61" sha1="5b568be8d8e1f99442e00f9825e3a0328292c813" sha256="fe8b20b97d81d909768f3993ab358a245fa0cf202f28ba3e9bf993048565a1b5" />
+		<rom name="pactxt.bmp" size="222534" crc="6cf1e957" md5="474f970c752279843fccefecd3207fa9" sha1="6dde7751ec433b053c5cb8eab740808da756a05e" sha256="9e2e2b2f696dc40e62254bb5ffbdcd665034361409c10d19ef29c7c61889da7d" />
+		<rom name="zs17-25x36.bmp" size="39814" crc="435bc1c2" md5="04124aac38cea9300eb2af5ae3140ac3" sha1="963d488640b2c336da86d65ffa8d11bd0f1897ae" sha256="981e13afa42cbfc743bbd69f216ac0dd135b61cf9d5512cb1a3d6ecf3e55f861" />
+		<rom name="zs17-25x36n.bmp" size="39814" crc="f3c67686" md5="305aa36e5429c097ca2ea89194420b86" sha1="8a50a5aef70b89eae0986e09a02a3043aeb33ae2" sha256="1b8db9874dab3cc66f94b1e5076024ec7761ff26e3cefe894c1b4eee0e2406f2" />
+		<rom name="DMD084a/DistFile.cab" size="1860892" crc="3de85d98" md5="c118c5614e1e89f01a13e4391e416b09" sha1="fafe4962ec09d5f24729ec3f2d3f251d990882d9" sha256="c98b14d5ea5f59577301a2c786f1b7d0f09bfad1e42249f0d7787535d8166ed7" />
+		<rom name="DMD084a/dmd.doc" size="990720" crc="362b07b3" md5="81638788462ac295dfcd6c9d2c1a927e" sha1="47d4594ab31659fefb613c60b3b4d0fa6e38ab03" sha256="eadf776a6acf95fc281db14da241769ec9da687819d382401e0fc7734721212a" />
+		<rom name="DMD084a/instmsi.exe" size="1494280" crc="abea3ac6" md5="efb2d9da82dc89c6bfe7425b0fa0b776" sha1="acb189df677d41e1f650e23d885a847a84be73ed" sha256="781effbc345bc4a731ff5279103f51ad098e84d995a9d64216956cf2267bd712" />
+		<rom name="DMD084a/instmsiw.exe" size="1505032" crc="78d3182f" md5="79ad7ce7abecd9ec4e9ceb729ceeaf49" sha1="78f0718ddd4274832c60cacc5c44bf8e1f457246" sha256="69e647aa1f9303461b51b127e55992b160625307ba3d77d1b64985bd4b245ae5" />
+		<rom name="DMD084a/pin.msi" size="900608" crc="9880a615" md5="c595a0682a03cf569c88d3cd39e4e6b5" sha1="51609f26b822f3ae76dadcd6b8c012a4fccfbb0d" sha256="389fc817cbfc5bf5e06b8d4d052ac65d19c8ce5f9922eaabda96b8ec63f03737" />
+		<rom name="DMD084a/readme.txt" size="1253" crc="483da082" md5="0e66217898c128699b31d7cbe56e3714" sha1="08ae2915350ec51fc6ef49a558ac34df0d427b47" sha256="ae16db5c4c0fd9ddf77142662f6259be0cc39baa4f3a9c566f8180577361b031" />
+		<rom name="DMD084a/setup.exe" size="69632" crc="e7015bd7" md5="9ce0553d61c27be784486275533f462d" sha1="8290cf1d482a1681729c2cf968090cf8d5e84209" sha256="1bb9ded8fef313ca584a08c326a4d0e51a9636af8f5a242531d56a6f8ea21ba2" />
+		<rom name="DMD084a/setup.ini" size="110" crc="3c051c15" md5="9f9c69c938cf46d1bae71dbad884db1d" sha1="6c064f09390c689d6c87e6623220524f88f6402d" sha256="bd2e99393f39c4309517fc27d58cd34a017dc2227f77adf8020636c4eb7864b8" />
+	</machine>
+	<machine name="Pachislot (Simeon Bradshaw)(WIP1)[Pachinko]">
+		<description>Pachislot (Simeon Bradshaw)(WIP1)[Pachinko]</description>
+		<rom name="Pachislot (Simeon Bradshaw)(WIP1)[Pachinko].vpt" size="352256" crc="b41ad478" md5="27a3347f0ac1878b92f12d5a3fac88db" sha1="f10ab248a400741294dfa7ee4ad08e201e0950a1" sha256="4f14122f3e762f56af4d70e92402ba85ad8c67bfa0d7c263da0a21903c82e404" />
+		<rom name="Pachislot screenshot.jpg" size="36333" crc="060ad98d" md5="4f7fe09ad557840570c0b41c66952151" sha1="076d071fb10caf38edc0539d8154739a1d597abe" sha256="a7f5d31e5b2a4b05d72fd1c1d667bfb58e6b06d65398136b445beb64d075396b" />
+	</machine>
+	<machine name="Paris 2004 (Liberty)(1.0)[Other]">
+		<description>Paris 2004 (Liberty)(1.0)[Other]</description>
+		<rom name="Paris 2004 (Liberty)(1.0)[Other].vpt" size="2289664" crc="ff924d48" md5="5b79d3da2d5e74f88e67ef8583d1c303" sha1="c23f57e735b81be6fe0aa75c2e566b4affc58d2d" sha256="46b479981954f94f972f23937640b256b1286a6eb6bb7a0e8dc6e6e95bc775e9" />
+	</machine>
+	<machine name="Pell I. Khan 0 (Wrenchien)(1.0)[Slot Machine]">
+		<description>Pell I. Khan 0 (Wrenchien)(1.0)[Slot Machine]</description>
+		<rom name="Pell I. Khan 0 (Wrenchien)(1.0)[Slot Machine].vpt" size="1495040" crc="c6070ba1" md5="89ee1835089aca4fe02d0c7f0a9a2743" sha1="d56066cbe3ccaff8667fc13510dd96cfbe77ee0a" sha256="68bde3ef29980bdf1997a5c53963365a37973b5e9086bcd5e22e89e7f99e20b7" />
+		<rom name="Pell I. Khan 0 reel 1.bmp" size="146374" crc="5be3422e" md5="61b665ebc68bb92c19db5cc56afc171e" sha1="0e1870b0fc591afe0b5e67703119a191fae8f7dd" sha256="fe549c8d53185b76d382666ceeaffceb1f670591b80db0257ec084cfe5b662e9" />
+		<rom name="Pell I. Khan 0 reel 2.bmp" size="258390" crc="61c7ca48" md5="8f0b0973f7ecac676901be2a678c7afa" sha1="911419ae4223f27b5ea2b441d8319185481b121d" sha256="299eafe294ff66800ba2a26632dd2e3af4c5194175d46441d81376be92172857" />
+		<rom name="Pell I. Khan 0 screenshot.jpg" size="60854" crc="ff41c1dd" md5="34a12b139f90a92694f606f9755a5aa2" sha1="aab91ccb78b3a36725d5cb8f3ec62f70193b3ea7" sha256="5f57ac4941b4097d56734a7d80da07ec01d64a644c0386ca6db31c29cf99e17f" />
+	</machine>
+	<machine name="Penguin's Bagatelle (Penguin66)(1.0)[Bagatelle]">
+		<description>Penguin's Bagatelle (Penguin66)(1.0)[Bagatelle]</description>
+		<rom name="Penguin's Bagatelle (Penguin66)(1.0)[Bagatelle].vpt" size="806400" crc="822fb765" md5="945cb601535f31b4e599d61f0a2e043a" sha1="33cf86d20e59c26c5c2bcc9827133998c917110e" sha256="b1efd9fbea543f1e94bd47cece30e4561ce040376bf0321141731d8f8eb17641" />
+		<rom name="Penguin's Bagatelle screenshot.jpg" size="61093" crc="b95f8379" md5="313cfb82a19237c578cf78f0682d4132" sha1="98bdee8f973c8e6f1beb4c8d934ab2ff30a8494d" sha256="486ad2fa9f042d47bd0788300df60d81a6c3fb171a82f6e4daf21960a886d99b" />
+	</machine>
+	<machine name="Pharaohs Tomb (Anthias)(1.0)[Flipperless]">
+		<description>Pharaohs Tomb (Anthias)(1.0)[Flipperless]</description>
+		<rom name="Pharaohs Tomb (Anthias)(1.0)[Flipperless].vpt" size="733696" crc="3962efd3" md5="b097327daaa005fad61132ade36a1e4f" sha1="69e730ec53ac97f8798ab86c2c8a841872f2e306" sha256="448c5a47ad2b3705556f2e1d8ef2362b059c43792353572ee24c0029326380b0" />
+		<rom name="Pharaohs Tomb screenshot.jpg" size="74815" crc="c3f52c8c" md5="9113e28cb5d32f104aaafe4421f1175d" sha1="36b28c4410059672bc168de28480f3d6b1bd4841" sha256="78e7e79a7dec14d742707c0697a7bdcdf28809b6714a7db237f6043f5b1775f5" />
+	</machine>
+	<machine name="Pin Air Hockey (druadic)(New - Gamma)[Other]">
+		<description>Pin Air Hockey (druadic)(New - Gamma)[Other]</description>
+		<rom name="Pin Air Hockey (druadic)(New - Gamma)[Other].vpt" size="97792" crc="cc453163" md5="a08eb0d50749bc88cbacd0c392a8cee0" sha1="5fc1a235f1d8dd197b126c8b6563f05e3e044397" sha256="61373810b325683607b9509b5fe07190bca17505c07889dc3f344dae322ab6eb" />
+		<rom name="Pin Air Hockey screenshot.jpg" size="44930" crc="98f99961" md5="c09ef29765c9b35a921825fc78d90e7e" sha1="b6013cb4503c3b3837e95830112de7c80f48c849" sha256="4e2af2fed28b0101475cd90f233699ce9121af311d7040fd70e5413d2d39d4d7" />
+	</machine>
+	<machine name="Pin Football (Bob5453)(1.0)[Bagatelle]">
+		<description>Pin Football (Bob5453)(1.0)[Bagatelle]</description>
+		<rom name="Pin Football (Bob5453)(1.0)[Bagatelle].vpt" size="1741824" crc="3ac17186" md5="dc78f54366e3245e26d62a8a31650683" sha1="c1bcd6cea8225a4812750b83843f5168bea538b8" sha256="71c646341489162a39cd59c369485888a168eee9616324c5f2b231ab02e29ccc" />
+		<rom name="Pin Football screenshot.jpg" size="39381" crc="cab64c8c" md5="dd464730a6dbb96f77de0b2fdc59b5aa" sha1="f5a1e8c1bd3417971491276ab8a10a68a946e26e" sha256="4df7cf79d822f88076168f679702f6230e9980487a0918b339b14edc1f026abd" />
+	</machine>
+	<machine name="Pinball &amp; Tilts (Mitchell Hancock)(Revised No Music &amp; 99 Balls Version)(2004-06-16)[Flipperless]">
+		<description>Pinball &amp; Tilts (Mitchell Hancock)(Revised No Music &amp; 99 Balls Version)(2004-06-16)[Flipperless]</description>
+		<rom name="2004-02-22/Pinball &amp; Tilts (Mitchell Hancock)(Revised 99 Balls Version)[Flipperless].vpt" size="919552" crc="c93ede15" md5="a4ebe1658792ac5804369284646c3f19" sha1="632d9ac140d954bc023d7a46d14de7b59dfaa182" sha256="9c419619dc307c3bb850f26b1249a964ceea393de68b6d328e406655ba171fb4" />
+		<rom name="2004-02-22/Pinball &amp; Tilts (Mitchell Hancock)(Revised No Music &amp; 99 Balls Version)[Flipperless].vpt" size="916992" crc="845bb3d9" md5="060ce3073392827208fba972f7eead18" sha1="e2d8fe402b7b61c8b150d6815d67d75882c0a8d4" sha256="afa83619796c64cd72c3d824dd73cffd7f7d70c0144cc0a170c4a450efb57651" />
+		<rom name="2004-02-22/Pinball &amp; Tilts Revised (2004-02-22) Fonts readme.txt" size="35" crc="1f50b358" md5="3e9da6c1fb8ead937b7c8279a919afcb" sha1="09d199fbcb7bca7a27ed9e17b1835e456a6d8b8f" sha256="dcc1b06a29a257cd0df3291b05e175f3f8ba1362462e54db4453c1965aebb71f" />
+		<rom name="2004-02-22/Pinball &amp; Tilts Revised (2004-02-22) readme.txt" size="118" crc="407cded3" md5="75b44f93be565a251ee6edf170d6f125" sha1="f0e4ce8e9b22010f791e685b111d2bc1c4486dad" sha256="94394d9f0680c3cc2a9ee66109d073d28e080d69fc215c9e58796c0a8ac66707" />
+		<rom name="2004-06-16/Pinball &amp; Tilts (2004-06-16) screenshot.png" size="478161" crc="d089755b" md5="d0016b27927764e8ff2d67f7d9416428" sha1="0081166e20426e6b9160204cdb53fbc3dcffdbe3" sha256="6762f25654eb7647cbde00e1d03a17bb6b88527afaaf1abc443f83651acab54f" />
+		<rom name="2004-06-16/Pinball &amp; Tilts (Mitchell Hancock)(Revised No Music &amp; 99 Balls Version)(2004-06-16)[Flipperless].vpt" size="916480" crc="460012ac" md5="3c5b10f279bc6c844b19647ef2a6285c" sha1="fc810ff13550ab9397b8e377d105c324f5a8adc2" sha256="9d8beb63f59bb466d4decbe7f345e5a370fe56deae969f9d55369c9625c8d879" />
+		<rom name="2004-06-16/Pinball &amp; Tilts Revised (2004-06-16) readme.txt" size="140" crc="bfdd0857" md5="387918bf58a0db817c0f9b160327ae78" sha1="bdd56d9935052faf9163582da7d49a510957d25a" sha256="8ba7594fa3cddc605a7dd5fe911e91ce690d4c93f89042bc5045888b191647f1" />
+		<rom name="Fonts/ariblk.ttf" size="117028" crc="e67c3fa1" md5="3e7043e8125f1c8998347310f2c315bc" sha1="49560b47dac944923a6c918c75f27fbe8a3054c5" sha256="dad7c04acb26e23dfe4780e79375ca193ddaf68409317e81577a30674668830e" />
+		<rom name="Fonts/pinball.ttf" size="23548" crc="02e83ad1" md5="a50ceaf415b07a0c9e467b03f2127a82" sha1="a3285aedc5d4d42e7bf6a06713562bc94a165f97" sha256="d93b7b7c5d57971cbac13d49bce66fe643617eee17ecd672a0021fe0fbe39f73" />
+		<rom name="Fonts/souvnrl.ttf" size="54420" crc="abdd6379" md5="11b94b67c7402dceba89abf889c66a7a" sha1="2b91334febf08accb084d88d6a59bdd1921422f1" sha256="c585c817e6c927442d147d49b6b154b214d2ecb2ab52af7607e1b456e51be5ee" />
+		<rom name="Music/kelly2.mp3" size="3313664" crc="172ee830" md5="e3bcb0089e65e3f488010bbc4ac952f5" sha1="7d378ae47fffbc94880a3b0d5e536a69c22965ba" sha256="e56accdf4d2801b69eef96b2c6dca48e751a2c1af64e33d8990ac325a401a355" />
+		<rom name="Music/kelly.mp3" size="3525067" crc="d58a885a" md5="0a0bd0257e5f4275367a76266d372194" sha1="5b0db6324e26bcae5f50a8dc7b3ab1be2c3f1be4" sha256="896847dfe8ef43184dda374b589ca7e3d1f6fae5a7d5ce61e8d08c3c1fec1a84" />
+		<rom name="old/Pinball &amp; Tilts (Mitchell Hancock)(1.0 Revised Hard Unlocked)[Flipperless].vpt" size="917504" crc="d8c7d3a5" md5="6920bc236d2fed1ab32ddb304cbe39e0" sha1="d374596e4b9bdbeb4f6a89937cb27e0d01a92434" sha256="a186280791b7cace2bd18f5faa093b314dc804de6bb763feb422f49d2a7b3fc4" />
+		<rom name="old/Pinball &amp; Tilts (Mitchell Hancock)(1.0 Revised Hard)[Flipperless].vpt" size="917504" crc="87194552" md5="497c60c3cf1f4f341e6d396e969a9ff4" sha1="0d01c2e0d03790569b78e2bbb54689ad1c441174" sha256="fd934101aa709e974ccc9e700cc97bd8e795f5b386fb632756836a7a7db68526" />
+		<rom name="old/Pinball &amp; Tilts (Mitchell Hancock)(1.0)[Flipperless].vpt" size="784384" crc="08b0e828" md5="43c21bba43103f8c44705c68f9d31ad1" sha1="40ab70038c8858e177170f90680eced0152c8154" sha256="791fdebbb352f81a5f11a0218831c3f5bbb235ecae2c3ab3fc1b6bbcb70b29c0" />
+		<rom name="old/Pinball &amp; Tilts screenshot.jpg" size="58976" crc="43b36acc" md5="caaa75290e8fd6a287457d77651d48b8" sha1="3bdf7b1543feb2dc6370c91b65ab010fd51bc951" sha256="ba0449c3fef0a1e64978cf77533eaea1da22f16d3ee0b3bcfec2fe7a1f1a8719" />
+	</machine>
+	<machine name="Pirate Radio (Wrenchien)(1.0)[Flipperless]">
+		<description>Pirate Radio (Wrenchien)(1.0)[Flipperless]</description>
+		<rom name="Pirate Radio (Wrenchien)(1.0)[Flipperless].vpt" size="3245568" crc="81fd003e" md5="4af83a923dcca9ea68f3fafee54e2dc6" sha1="6df346c49c8940a2bb5e0d877e4f2a5b20ca5ee3" sha256="9a1432be5030a63d037b48f39c6fdf776105919d067a278e1d60f26752fbb7fd" />
+		<rom name="Pirate Radio screenshot.jpg" size="66329" crc="f8daf9d6" md5="b3b687178f5d23181429d1afa6d73108" sha1="a28ddb65e7df8c926e712e9716a74da2ca7a40a2" sha256="d3b1f207865bef51ca39696737bf284c877258bd32692b3c62784a3fe2aa4dde" />
+	</machine>
+	<machine name="Plinko (Pindave)(1.0)[Bagatelle]">
+		<description>Plinko (Pindave)(1.0)[Bagatelle]</description>
+		<rom name="Plinko (Pindave)(1.0)[Bagatelle].vpt" size="1652224" crc="4d38154e" md5="cccd5f55f455f9632ed1ee5d9d3c451b" sha1="6117d24a3b774a2c6ae8cbb3f1506048f14ac374" sha256="f8272fbcd035afba879461442b3d2c6e631a054eb978b62d31b31cf4b2d30ad4" />
+		<rom name="Plinko screenshot.jpg" size="47754" crc="0855b5b7" md5="e5b21e8356c40b34c865ce8c2c6edb9c" sha1="ea68cc70a5ec4a97f1474d01497ad7ebc1dfbc23" sha256="b58666a477f36e65e8c4eae657779c59570d359c253eb1706fcf2b57622a7fc7" />
+	</machine>
+	<machine name="Pre School Talking Olive Head (anonimous)(Beta 2a)[Other]">
+		<description>Pre School Talking Olive Head (anonimous)(Beta 2a)[Other]</description>
+		<rom name="Pre School Talking Olive Head (anonimous)(Beta 2a)[Other].vpt" size="788992" crc="c2f55f9a" md5="8d34d66d598c49bf31d4db2b15344381" sha1="71ccf2ae889fbb217a330be1aae1e59135e6f9c5" sha256="cedb41ce15bb2210dbf1a348539aa19c9a0357995399c8e1e90733261bdfd2b6" />
+	</machine>
+	<machine name="Reactions Bagatelle (tiltjlp)(3.0)[Bagatelle]">
+		<description>Reactions Bagatelle (tiltjlp)(3.0)[Bagatelle]</description>
+		<rom name="1.0/Reactions Bagatelle (1.0) screenshot.jpg" size="44070" crc="fa928811" md5="fda53a6b755b2d95ff36a8bb58fa3580" sha1="b4475d12a68e1269cd0d53e6e71ca3d0c5e336d6" sha256="48a1c3fdc947a7837234ebbc11bc268e8c8ef806ba60ea2dd52047522122c0f3" />
+		<rom name="1.0/Reactions Bagatelle (tiltjlp)(1.0 script fix)[Bagatelle].vpt" size="703488" crc="787afc7e" md5="ffeeb9db520c6217b589883daaf36861" sha1="9b7289fe67130447576b1941d1bd2b25c19aa9d9" sha256="95ef7582352e58c9614e8618b3bd502c5068daa395612507b4cdca99a9c765b6" />
+		<rom name="1.0/Reactions Bagatelle (tiltjlp)(1.0)[Bagatelle].vpt" size="702976" crc="5c7438d1" md5="f5d1772a071440e10b69bdd1dd16f496" sha1="1b1eab764ff351818fccca2b2b64ab8dd21dab1b" sha256="e97825569c5e6b7056402e27960dbeb80d8d5661a1cea3030d388c0fd3726872" />
+		<rom name="3.0/Reactions Bagatelle (3.0) screenshot.jpg" size="89931" crc="9941260e" md5="07cf54fbc04ec6bee41628315d9510d3" sha1="9c7b5cc20020b481badaac9008c92ccb21e5e1fe" sha256="1c16c859901268d00fc53a1e4117edd9d442a5001bd11644e5f309a944414251" />
+		<rom name="3.0/Reactions Bagatelle (tiltjlp)(3.0)[Bagatelle].vpt" size="783360" crc="6b227de7" md5="bc166a58a7ed0c7cdd60d96b17c0e02d" sha1="47b949d2a3a158e4128f8f7b3b5b9e338866b788" sha256="e11283dabf94ee9293d953d3b86a3eb2f6038724f31791fe2022238489b438a0" />
+	</machine>
+	<machine name="Reactions Revenge (tiltjlp, Highrise)(1.0)[Bagatelle]">
+		<description>Reactions Revenge (tiltjlp, Highrise)(1.0)[Bagatelle]</description>
+		<rom name="Reactions Revenge (tiltjlp, Highrise)(1.0)[Bagatelle].vpt" size="1597952" crc="ab7a8f7f" md5="a818b4e04a67a8cc5d4c648d1c076cac" sha1="ef3b41b0312ef1de476c5fdc1b53bff66c62cb53" sha256="4b0a81cfb48bc8aead5a1fd4c4ec70b1bb2edd28b50d21a3de339366f0892e63" />
+		<rom name="Reactions Revenge screenshot.jpg" size="147928" crc="f8f65362" md5="e6d9a55dc45284f3bf046cae892264d7" sha1="d7223d60566eeab514887acdc5b7d54ced9196d5" sha256="a04dc5a9e8ebb427d61400b8dca4b8d61fc512101b29aad50795455ccc8d6a97" />
+	</machine>
+	<machine name="Robot (Zaccaria)(1985)(LuvThatApex)(Rc2.4a1)">
+		<description>Robot (Zaccaria)(1985)(LuvThatApex)(Rc2.4a1)</description>
+		<rom name="Robot (Zaccaria) (1983) (Luvthatapex) (Rc1).vpt" size="5605376" crc="7797461b" md5="92fe31ff28a4dd60b0a985ecf8095bc7" sha1="6e815e7ae32d06c2e97accdb75a010ea6994ab25" sha256="bbddee6479ac8f653a1e54b59f897d62ec5e8fa03bd03f9ff8b01e1a2f4fc231" />
+		<rom name="Robot (Zaccaria) (1983) (Luvthatapex) (Rc2.1).vpt" size="5630976" crc="7caaff78" md5="9c7f517157ebf034a307caa258ad5fb5" sha1="49ae881d9fb238f76d9b148a98c04ec395162f62" sha256="6d651ec3de231f7090728a71d3f938cbad50240c9903ab510ac78336f4901beb" />
+		<rom name="Robot (Zaccaria) (1983) (Luvthatapex) (Rc2.2).vpt" size="5730304" crc="775db4f2" md5="781a17e38f3b5e9fb423e3142ace6df2" sha1="a6d037a1113b7fb8f94b79ea52a51ae1ee79196a" sha256="b165148173cee1de33d7b7eb1107fe3989a1d424c4b68ffe856896d01bb06a87" />
+		<rom name="Robot (Zaccaria) (1983) (Luvthatapex) (Rc2.3).vpt" size="5454848" crc="554db263" md5="214f12347ab3346e3650feaa1a5b0086" sha1="bf10cc44b5cce815bbb6e414d3c58932b49360e2" sha256="f4045bb83f14346166af81a17594f04e8c767cb20ac85e52f80ec46865d53b0c" />
+		<rom name="Robot (Zaccaria) (1983) (Luvthatapex) (Rc2.4).vpt" size="5744640" crc="ba745d12" md5="d38a6c5ebb483a5eafb9ff84a367de58" sha1="0eb363f2e32e6692970e1f0df31eaf5125360eff" sha256="279facc7a8c209fad945c91b355e4f0c5f58339f3adc6842e9da0c1b5905acc8" />
+		<rom name="Robot (Zaccaria) (1983) (Luvthatapex) (Rc2.4a1).vpt" size="5744640" crc="4e9f61d4" md5="347f73c0a44da1f79d71a6d208c91efc" sha1="9f88c1b7d3d1a34393debdec2b5f4cf80523093b" sha256="069053610d77a391a9bd82ac512f27e8ded789f95172d7bc34121c74e8f975d8" />
+		<rom name="Robot (Zaccaria) (1983) (Luvthatapex) (Rc2.4a).vpt" size="5744640" crc="0c769dce" md5="442aca289a7345e7bc27b0f40e2fbe57" sha1="3a3f2a68a7bcb66b63d40ba59631ed8609edbf03" sha256="a0bfd44a5132a74a013a2b447990a26ab1cd86df9d388d7ae5ad1db059f5b039" />
+		<rom name="Robot (Zaccaria) (1983) Backglass - 1.jpg" size="116938" crc="00535bbb" md5="9be5937c869651d65ba80431ee95e537" sha1="0d32050cefe952068c61ab70279d2adc8fbe12d7" sha256="8fb088681bfc63e61e897a14fac7b63c57251bae7be76a0325ce983701e5bb2a" />
+		<rom name="Robot (Zaccaria) (1983) Backglass - 2.jpg" size="202697" crc="31e07c06" md5="437a4db5bf49bc3ec8893d08579fb87e" sha1="ee581307d795e78825eb20044548c36e916de146" sha256="a4c1d17307ac708eb2c6b72d1685dbdc73507106cf14e2d5947a1caa473ee507" />
+		<rom name="Robot (Zaccaria) (1983) Flyer - 1.jpg" size="294768" crc="9e00e7e8" md5="184f2e5d08da89df98cc4989fff51286" sha1="b6f50da8191be87902ba2c54fcf3892e47b04515" sha256="7eb2850c3dd59517e492ab3a356b6cd3b03d7216dabcfd9f6b9969a684f9896a" />
+		<rom name="Robot (Zaccaria) (1983) Flyer - 2.jpg" size="392941" crc="5f2122ea" md5="67d2b8a2b66cf6a930aafe087257f1e2" sha1="2a8b6719561d2379ccdaec8e2cc747775e1ce350" sha256="1c933b6b965291bccbfd9bb623f21b46e36ab99ed19dd9eb49e9f88135ae78ba" />
+		<rom name="Robot (Zaccaria) (1983) Italian Manual .pdf" size="3520319" crc="a005ce3c" md5="55cd004569793084c5d80c6b3f1fefb2" sha1="ff71ca60856dd0b5edcafee49018845a5e536229" sha256="de5c22be853217adbeedeadf63a841455b75f5b323311b4c50ab001e3eee378b" />
+		<rom name="Robot (Zaccaria) (1983) Lower Playfield.jpg" size="79645" crc="8408a3f0" md5="be86cf03772bb21f7d0af8596ba88a9f" sha1="0ed9b3912af1ed3eedb1bfc271cbc902abf1035e" sha256="3ca5fd800fd84f92335f0ae24bceb82dd258d81f80ca6059bb607e8ab6d2edb2" />
+		<rom name="Robot (Zaccaria) (1983) Machine.jpg" size="75168" crc="77410424" md5="17fbf07a5449854ab29eaea27ae84fac" sha1="4049d5b265653ac894b2337f83b3b81727093f20" sha256="7618b68c0b6e75575c428ec63b33b889e075747e03daf7d5e50874d4b6a235a2" />
+		<rom name="Robot (Zaccaria) (1983) Mechanics Page.pdf" size="86221" crc="1351b52a" md5="7b391e878e2520abbe329faa00e910a6" sha1="04480a6d90ed98a84be507d639d2cc3d6bf603b4" sha256="9a51a2f5942a731ec4684dc6362a3148fbdc0fb7cf4d0893481ece10d0230da8" />
+		<rom name="Robot (Zaccaria) (1983) Playfield.jpg" size="188897" crc="89e61493" md5="e394d21881ceec18868f357f3b10dc2d" sha1="98d92780d017b5e2e7ef08bbec3092ff0de82ded" sha256="4787d86c53c63cbe752aaf2e8a6fd276063c9299d3f41cee936954f782cd2299" />
+		<rom name="Robot (Zaccaria) (1983) robot.cfg" size="1696" crc="def9e98c" md5="48109661d9c0934ba845fc98d172d5b7" sha1="2a604d504c93d2e8732d5fb4333b2e125574f4bd" sha256="f044a0e63480b97739e5c3b1eea7e38678c142f2b68b2dfbb70fe293726125d4" />
+		<rom name="Robot (Zaccaria) (1983) robot.nv" size="2094" crc="25f499c3" md5="677a11885a6e5ba52ea6968c16217e00" sha1="01cc97b9c30eb7c2621b2f2ac94d64729d96bcca" sha256="fe53ed04003a05eba92dea8c15cf5f67686e1e4a6e0170ee0f5d20d6e9b5d7eb" />
+		<rom name="Robot (Zaccaria) (1983) Schematics.pdf" size="1126480" crc="8ddb8e5a" md5="fc532ed84fcfebb783eb56987989afd7" sha1="b71c4a0e4f8609756d3813c0b9c81f0e60f1f5a1" sha256="8138f533bf134a6e47962cea5d7ddaa310437a48f5ecb921466529b1f56aceb4" />
+		<rom name="Robot (Zaccaria) (1983) Screenshot (Rc1 - 1).jpg" size="46736" crc="d6de95fd" md5="04b9fffc9eb4cda981032f96cde435c0" sha1="bdf1f595e3f398cd29caa791a013cc4d74cd1728" sha256="d41568635c4bd138dd8b446ee63778dd7731cf9a38abdec74bb48e5839d9a697" />
+		<rom name="Robot (Zaccaria) (1983) Screenshot (Rc1 - 2).jpg" size="264866" crc="2e1234e4" md5="1b5c3d0391c8960c72c711e8576c0e5e" sha1="0860e00b00c2f5730e680e49d62f9aa282075a4d" sha256="53cf2305e578398987ffc2566e72bbf5fa0622c4fcd25f2c0c33136ab288ba54" />
+		<rom name="Robot (Zaccaria) (1983) Screenshot (Rc1 - 3).jpg" size="84818" crc="df900ca6" md5="268bfccdafa3fe319a4aef343ba13282" sha1="c460a412f8c8563f7a6d46251993a3f37b7bacb4" sha256="e8ed80f2fd396fbb49997b0549cdfe586a68e06c5638e7ef85528eb226a63fda" />
+		<rom name="Robot (Zaccaria) (1983) Screenshot (Rc2.2).jpg" size="288513" crc="fdefadd3" md5="af28b4a2c15e6927d0f04c90e6ee2f09" sha1="c9ab0b59c8a9f73a9b4321702ccff159872b23d1" sha256="b7ba13b92ac1e915bfcaa6e8478dec86b28d673c51de0f766f69fba33a5b6e31" />
+		<rom name="Robot (Zaccaria) (1983) Screenshot (Rc2.4).jpg" size="287270" crc="7fcd1b02" md5="ec91875d9cba6fce1b701cd8d084b1aa" sha1="7d2fac90062169cc734dbf44f6086525a42d180f" sha256="df7be8a3484385d94596e6784f67a98c2d5432eca0dc9404ea30c75d54f59374" />
+		<rom name="Robot (Zaccaria) (1983) Screenshot (Rc2.4a1).jpg" size="350483" crc="7d090f7a" md5="311c2c99c39a99c2fe0419ff3520345a" sha1="9f7fa36c14b218e9ebb43a414119d2799653de67" sha256="7c1b6a0e387b0f28ec876eb3cc2ea065b1adba24911c42adfff320b68063a134" />
+		<rom name="Robot (Zaccaria) (1983) Screenshot (Rc2.4a).jpg" size="246675" crc="c6ec5986" md5="e6381b64aaf8f1ab34df5cd9a6c81302" sha1="d4954968769608213eaf7d70e90583559ac26c18" sha256="18116b7459e34052b4d2aea1f1431b8f8f0c3861d562a5c28ebee6cb7f9d60f1" />
+		<rom name="Robot (Zaccaria) (1983) Upper Playfield.jpg" size="66594" crc="4c0bf28c" md5="fa04d2bee7b2fea7e0941eb8a51ac6e7" sha1="5a03a073f1ed9a758e27fc99964e2a1cddcdafd8" sha256="ae17aaf51f21f8603fcbac77981598ed0a6d75e72bb1f91287a1273b1f542c9b" />
+	</machine>
+	<machine name="Roulette (Highrise)(1.0)[Gambling]">
+		<description>Roulette (Highrise)(1.0)[Gambling]</description>
+		<rom name="Roulette screenshot.jpg" size="91669" crc="4d51382d" md5="b3e464e249e3a5200d6ee8b032928fa3" sha1="83413d3acd81862527a85d824055c67707c39c98" sha256="1481ddcaaef961631e9ea20b74f20e1a948b3233bf643bac994b41ff65b34c65" />
+		<rom name="1.0/Roulette (1.0) readme.txt" size="5733" crc="ce3021a0" md5="a1e9a818fb8367148916e51bedc39a8f" sha1="81c9234c8d4bb8b52733c9a225ee6e043dd6267e" sha256="2b2c72eb171f9d8ee2bb64ec68cf808273036362c8014727457ef9ada5268960" />
+		<rom name="1.0/Roulette (Highrise)(1.0)[Gambling].vpt" size="2772992" crc="1ed87353" md5="dc963671cb84a93eaaddcdbf94be814b" sha1="34d010c8a471fe19ce313bb1a12dd87e6e241176" sha256="749a004f316a0ae7a62b7ea036f2079b31144f145932432c5512c0a07aac58fc" />
+		<rom name="Beta/Roulette (1.0beta) readme.txt" size="5491" crc="59bd1825" md5="b7684df7a48782eb4a588b5b2035fe08" sha1="b0206be2f4b0d0b864f811db2dc3ca9539d16296" sha256="37a07f540bd5c70c00e883d0ff198506ccfcb8625b2d83bbde91d50873aac625" />
+		<rom name="Beta/Roulette (Highrise)(1.0beta)[Gambling].vpt" size="2674688" crc="21937ca3" md5="922b72b19594a72d661da8fa5033c0a0" sha1="02271aca4365bafa81e4614a491a452eb408c756" sha256="b1bb6a6f27a9648097fb8bb40d2f62717a9c8f6aad3ba40f712139e47cb02740" />
+	</machine>
+	<machine name="Shake, Shake, SHAKE (Wrenchien)(1.0)[Flipperless]">
+		<description>Shake, Shake, SHAKE (Wrenchien)(1.0)[Flipperless]</description>
+		<rom name="Shake, Shake, SHAKE (Wrenchien)(1.0)[Flipperless].vpt" size="1556992" crc="a9f3fac0" md5="ad88dc764f1b36fa7fcd3e0babf60543" sha1="18c3d0171abc6ef0f343bd00fc66b03ebce8d7e4" sha256="67042dc7375d7cd38ecbdc250b1e9f839472f536ca85c0c83a0895b2389f5691" />
+		<rom name="Shake, Shake, SHAKE screenshot.jpg" size="68529" crc="5ea1c163" md5="d3c347eb4963d8a08dbae4555aaffd7e" sha1="597f330ada6fa7eecef3b6502f9969ed343a3cb2" sha256="8d1281269025893130970a2f784f9986ae80c4ecb547b85d3170fc606d32fdef" />
+	</machine>
+	<machine name="Shenmue II (Bela, Gobi)(1.0)[Other]">
+		<description>Shenmue II (Bela, Gobi)(1.0)[Other]</description>
+		<rom name="Shenmue II (Bela, Gobi)(1.0)[Other].vpt" size="776704" crc="37b96421" md5="b86a0ebc7f1a467fce40c6922baad381" sha1="5231753300a446e4e2c0ecb448a71b69d3e3a1f6" sha256="af3ddfae51e1ea2be7542f3dcda8d4a1a399cebb7be1de6ecaa375ab033e8013" />
+		<rom name="Shenmue II screenshot.jpg" size="57169" crc="dd92d420" md5="6b5261ed38942f8796f8fe6170f9e9ef" sha1="a109bff640893cc1977e139ab497141568b21b9a" sha256="664a4718effc0ed0bb7dd7c85531ee660e8002ee59e7e2a0ca95f1a584e20987" />
+	</machine>
+	<machine name="Shooting Gallery (Gerson Agena)(Test Version 0.1)[Other]">
+		<description>Shooting Gallery (Gerson Agena)(Test Version 0.1)[Other]</description>
+		<rom name="Shooting Gallery (Gerson Agena)(Test Version 0.1)[Other].vpt" size="261632" crc="891dd053" md5="ba3ac90a1e555ee858378693c309d4ea" sha1="3f69c8d9915dd1dc5fa3daaaa6b070c1007a71cf" sha256="21950ada8a555f189353247010a59168838ef3d583cb333fd430e0975b0277c3" />
+		<rom name="Shooting Gallery readme.txt" size="1011" crc="67fcc49e" md5="e859bcb1ce9863001f7a5c6f1a326c33" sha1="875bf19b9539da8e5e72f9384d75f8377d4d27b7" sha256="42de448a778631fb91bb321c8023bc436fb4a337a4e4e9b638ef04285bbb8519" />
+		<rom name="Shooting Gallery screenshot.jpg" size="18600" crc="4d9c9567" md5="91cddd2e21febd1e80f5970db74aa73a" sha1="f3a340bce7a961a7bc90c05b7e4f48377ffd8c31" sha256="b6d41299dc8a5c283c66f746926372c0f28a27e32ef211a24369a2b4ea51ca01" />
+	</machine>
+	<machine name="Slot Machine Lighter (Patrick)(1.0)[Slot Machine]">
+		<description>Slot Machine Lighter (Patrick)(1.0)[Slot Machine]</description>
+		<rom name="Slot Machine Lighter (Patrick)(1.0)[Slot Machine].vpt" size="3013120" crc="2b39253b" md5="e92fd2b2319ea72c4fae37b14c56b9b1" sha1="3094c53f7a2ab706848bbe638f9043d30b6a4cf7" sha256="d61401e07c83ce88e5d1ed3de05cca71439ed0d47b50ea0397f5634eacaa0458" />
+		<rom name="Slot Machine Lighter screenshot.jpg" size="79367" crc="ecf881fe" md5="55d5c81354f7be7ad1599fa8ecba6a7f" sha1="e8d5440122d6f9164634b912ce40c59055278100" sha256="35d0912097ad1bdb9de48f7ef00af0c7b40aca09b914e056a1bf677f55e589a0" />
+	</machine>
+	<machine name="Snakes &amp; Ladders (Rockinghorse)(1.0)[Flipperless]">
+		<description>Snakes &amp; Ladders (Rockinghorse)(1.0)[Flipperless]</description>
+		<rom name="Snakes &amp; Ladders (Rockinghorse)(1.0)[Flipperless].vpt" size="1614336" crc="85f3aaf2" md5="5d8edc08ddff251d93cf9d3eac4e8b7e" sha1="804664e27474bf0296797ba5702168aedde5b3c6" sha256="22d7f557a3deb161d959e06ee31129adefeec35e2624d50e8bc4826c189db788" />
+		<rom name="Snakes &amp; Ladders screenshot.jpg" size="61368" crc="f449c374" md5="4c446a86e8e5a3bad232e372a3b5522c" sha1="3802fceeef4ac9a26216f7aea7f7c0bf8ec47f01" sha256="c2f02fb7a0a188548a4286215da1d0e4fa1b788859f60086841bd31443f9fac7" />
+	</machine>
+	<machine name="Sonic's Enigma (Scott Bermel)(Public Release)[Other]">
+		<description>Sonic's Enigma (Scott Bermel)(Public Release)[Other]</description>
+		<rom name="ClusterClass.vbs" size="1332" crc="cfccfdef" md5="9b4359fd2a793549cedd8eb2aa916e7e" sha1="ecd4a0c14aa67dd78615e20a24d3f189191fd726" sha256="a10ebda618d8ed911839596944c986991af086d5e3a6cd47a4795b4563a2c334" />
+		<rom name="DefaultPuzzles.vbs" size="4911" crc="fc003841" md5="2a0c978b775e1229c7bad615a8d59cdc" sha1="2ee5ae69adcc0ed3fc225e80fb372d3faa8ecacc" sha256="80d2bbe7091a0cdd76db4f1fa3c91691fd6bec9e564e832cb82d9add2030f6a1" />
+		<rom name="Sonic's Enigma (Scott Bermel)(Public Release)[Other].vpt" size="6812160" crc="bddf6965" md5="20453d0897cbb432c847682f82cdcb2d" sha1="9122b07eaed0f61c37337a8777fe51eacf1869b8" sha256="180c934ed882e28aa6f2713125a7ec21b7d1468d9bec7cec209de9d96d3a0410" />
+		<rom name="Sonic's Enigma screenshot.jpg" size="80020" crc="479eb8b2" md5="2f5acfb4ae277a5e406bf27a82d8b1e1" sha1="4d14b32ef609f25a1fc93f8be662e0b3bd294cb2" sha256="72dccca195309b94be602e9650c70bdd2a197722eda90978d7e3b7d470becf8e" />
+		<rom name="SONIC-Public.vbs" size="12165" crc="0ef8d2e9" md5="f32b976040ec3bf5f42a25a7068445c2" sha1="e2f07a5e7742534a92a6e329ed2598d370adb857" sha256="9763e527e352c325f61b48750d856c17fa7415418191d53641a716237c61061d" />
+		<rom name="sthDroppersClass.vbs" size="899" crc="5832e08f" md5="48aebd7374c9494174af46953401fa61" sha1="deac40b912b97c77d256d89bb9ee8188586da3e0" sha256="bb2f94d631fa4e3b39a46e24ae252cbecc4770628f8295cb8c9c789fd8deac15" />
+		<rom name="sthPuzzleClass.vbs" size="1497" crc="7e6b0f71" md5="f38aa35bdbc33b6baa1543dee692ceb0" sha1="8d278de614ac5f663d05c65301fd90ea3fc34b8e" sha256="15c292342f70289707365fa048104328bb278579f2cc78084555d38511e78884" />
+		<rom name="sthSlotClass.vbs" size="30040" crc="8f17fafd" md5="1ff099ece63792023f6949766108f49f" sha1="c453a97a0d6861c424c91527c7edca3ab9d6a439" sha256="7c38d3f66c98081264ffa8e5cdbc52217f26f0f0e4c4b2b21557114f909afaa3" />
+		<rom name="Music/SONIC-Public-Attract.MP3" size="1967777" crc="a05041a4" md5="a8561f909a114afdea19b587e5c88f03" sha1="d7162a3935f4927f7d703bf3b5c4179eef60cbc1" sha256="3e7a46fcb46302312d371b4d8e082b70010a4816e77f58932936530e072dd3ed" />
+		<rom name="Music/SONIC-Public-World1.MP3" size="1343346" crc="7f49e2ef" md5="930f4797ba94f8c0e149368f117bd979" sha1="56564995c9c4e8990b417207047358fc9235d6f7" sha256="32f8c638f1739c9b6bbd27f7fe92c3f25636ecb4511f955e0199fe97d2b553b5" />
+		<rom name="Music/SONIC-Public-World2.MP3" size="1288176" crc="b0b819ce" md5="7e6a8a2727bac401e5cb17ff2286de43" sha1="f098fc61884d5e00489ad76b9c52fed05402c5d4" sha256="3b54b1c04b90f3bd004b5e719d2e9bcc22dbd8cf8d51fe8ded244cf915da6720" />
+		<rom name="Music/SONIC-Public-World3.MP3" size="1355885" crc="f55e086d" md5="50deebb6532cddb9d22a3a5028bdfbaa" sha1="027eb806c516b50a2416eac98714ad101b406ed3" sha256="3baacd79e6a333d90b58f27df47eb10ec81eddcfa3be535f6274a8b2576434cd" />
+		<rom name="Music/SONIC-Public-World4.MP3" size="1295699" crc="20f47e6f" md5="800418c55d4dc238c1d9cb27f45938a5" sha1="e22ac76b1ec80d1ff5e07765984bfb40da80fc42" sha256="bd388726c735a0f2ceb4bd1d477fd00bfdc0789d1e35a2d88da20c58661d7c8b" />
+		<rom name="Music/SONIC-Public-World5.MP3" size="1687327" crc="3c89d478" md5="4a835bca6e73fae27ab5e882b4e3880b" sha1="dec12410d871231545591e1357d3c09a5b0900f4" sha256="18281eb8032e5ef84ff7415f2b0fcf63341fa71b75c2f83d55dd4ab02d87363d" />
+	</machine>
+	<machine name="South Park Poker (Aussie34)(1.1)[Slot Machine]">
+		<description>South Park Poker (Aussie34)(1.1)[Slot Machine]</description>
+		<rom name="South Park Poker (Aussie34)(1.1)[Slot Machine].vpt" size="1168896" crc="3d0ecdc1" md5="6c6fc58d772d7f2599b4efec54a268aa" sha1="6cd328dc594d2449413a773c3f95e85f96bca625" sha256="20ed6352cf5df0658f715518852f69e0da7cc01e28465afe7c89458052b299f3" />
+		<rom name="South Park Poker readme.txt" size="818" crc="2adb612a" md5="9caf65eed376aae53c9dbfdfbbf9672c" sha1="8db9ea1f45bb34c8eee7c08d4b18ea1a13e6dc64" sha256="beba9f38fdcae426ab2a94146fdab41935d7217d362d5d4d7d41b7153548fb0b" />
+		<rom name="South Park Poker screenshot.jpg" size="93380" crc="c88a13e6" md5="a05254bea9498e362741f1666a3e6970" sha1="53e09ee759ad9dfb4668b11d8c3fd306c9b6281f" sha256="1bd9f545a2279c09bfb54b9b5f3415d7e2eb54ebf300150b595cceb8e26a5f5f" />
+	</machine>
+	<machine name="Space Craft (Zerhino)(1.0)[Bagatelle]">
+		<description>Space Craft (Zerhino)(1.0)[Bagatelle]</description>
+		<rom name="Space Craft (Zerhino)(1.0)[Bagatelle].vpt" size="654336" crc="8f4b9fd8" md5="6b69a4d27ace20010980110a5da6e47f" sha1="2405a11eda04d9a62c3cb81b1fddb24f1457fede" sha256="2c8fce74f8fa6c8f454d6f2a9a2e2d24a9e29e8d67638392d041103ad4de1917" />
+		<rom name="Space Craft screenshot.jpg" size="116920" crc="170f5cee" md5="80ea888882ad9096dda1d514200dd712" sha1="dde47dcb19ed45b376f0e69a688ebc27f568244e" sha256="f89b56b07d877362409e5a5714b33c90fe9a832c592a957fd87119adc7646f19" />
+	</machine>
+	<machine name="Super Grand Slam (Douglas R.)(1.0)[Flipperless]">
+		<description>Super Grand Slam (Douglas R.)(1.0)[Flipperless]</description>
+		<rom name="Super Grand Slam (Douglas R.)(1.0)[Flipperless].vpt" size="600576" crc="ab00cb4d" md5="61a4bd364d40fa903d5db7380b55f95b" sha1="b3455331c43f3f05bc2adfeb01091ff65fa69baa" sha256="a973f3419f54f7dd3fdee56e1f2f56cd52e0f2831d085f1709ffc0a8c7d1a2df" />
+		<rom name="Super Grand Slam screenshot.jpg" size="44325" crc="819b787c" md5="5057a3a25d01bf6472bb9267e23f6759" sha1="eda3e45f06ad022785644d254add8cd9471602d2" sha256="d739e5a613d336c82eece57732d2b731f16e8a86b412cd3cba00f668f60ad4e8" />
+	</machine>
+	<machine name="Three Butterflies, The (Wrenchien)(1.0)[Bagatelle]">
+		<description>Three Butterflies, The (Wrenchien)(1.0)[Bagatelle]</description>
+		<rom name="Three Butterflies, The (Wrenchien)(1.0)[Bagatelle].vpt" size="902144" crc="45548e22" md5="11b41999ff345fe6958776305a9ad8db" sha1="cb1476deb8f2398d089e32be3e340a5da86910eb" sha256="d656f5a5d54c1e011123fef6388ec76a38679f82065f7e0d76a60f57628bfc50" />
+		<rom name="Three Butterflies, The screenshot.jpg" size="63073" crc="4fff0bf7" md5="eb9baf8581bb18808347420569ce695f" sha1="6533caee2a7864ffc398fb355954b5cce7b3f908" sha256="cd529a1282121ab859da1bec4276e7fcbbe4a1a15668c1c2b5d89d359906b431" />
+	</machine>
+	<machine name="Thunderball (Patrick Schmalstig)(0.7beta)[Slot Machine]">
+		<description>Thunderball (Patrick Schmalstig)(0.7beta)[Slot Machine]</description>
+		<rom name="Thunderball (Patrick Schmalstig)(0.7beta)[Slot Machine].vpt" size="287744" crc="c5589d51" md5="532ae265683c1f8fd105878a93fc910d" sha1="27d3a4d9d009dda13e4eae4334ee25fc2de3e2ef" sha256="4424d0d9672f556a8a2db5b2f91d6e9ffca618ac3631e291efc19d98f8ee1e82" />
+	</machine>
+	<machine name="Tin Whistle Bagatelle (Anthias)(1.0)[Bagatelle]">
+		<description>Tin Whistle Bagatelle (Anthias)(1.0)[Bagatelle]</description>
+		<rom name="Tin Whistle Bagatelle (Anthias)(1.0)[Bagatelle].vpt" size="1647616" crc="1e035ff5" md5="1ae758934b8a33334329328e41e8e8a8" sha1="7c0dff72adc21909cf47f8f3b136004e6c6ba45f" sha256="b00d2aa229ac280ccbaec62a6e5db71dc11d3822c056a654ddc05621791c2cda" />
+		<rom name="Tin Whistle Bagatelle screenshot.jpg" size="170761" crc="0dd75705" md5="2db936a4823f02d86cd8de884e6c65d3" sha1="d1410f019501e382854e9c19f53ab2f0b927382f" sha256="f7266f69d4b09413c499d8a7c1efd05550b6bda51f6814121419774ff707d8da" />
+		<rom name="trana___.ttf" size="58232" crc="a65607b4" md5="66dc9095c3f6fb48dbe4874d7304ca47" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6" sha256="9eea2b9e8257c73f7b74a45de1b0a68b43cc50ff00434fd40795486c9d6dadfd" />
+	</machine>
+	<machine name="Video Slots 2 (Aussie34)(1.0 Final)[Slot Machine]">
+		<description>Video Slots 2 (Aussie34)(1.0 Final)[Slot Machine]</description>
+		<rom name="Video Slots 2 (Aussie34)(1.0 Final)[Slot Machine].vpt" size="3123200" crc="c02d5157" md5="23e829433728c3179da6da3a1bc4d2ae" sha1="e038873056bd94cea61772d57fcbbafd3fd95290" sha256="ed9b483ecef2885cfcbf7e5ef57df45d1d5d4f81eea86c9e67a2cceda99664dc" />
+		<rom name="Video Slots 2 (Aussie34)(1.0)[Slot Machine].vpt" size="3121664" crc="92cf05db" md5="8972afc331709a11fcffe573063502fd" sha1="bca93ebc845aa7b56459c80d0a4e14c0a121c4a5" sha256="1164770d98fa6dad1882a41265b73e3512f44410ea7dd5e8305cb8ad4e299ac7" />
+		<rom name="Video Slots 2 screenshot.jpg" size="85543" crc="39137a61" md5="b40fc7a3294a7db60f788712afefd0bc" sha1="fdd095ebe374fe49389ed145ce15631eb9349dd3" sha256="272ccf74eb2e27b7eb969d7630491f1897255a8940a84230c02cac5e159f7834" />
+	</machine>
+	<machine name="Vpman (Apoc)(Beta 0.5)[Other]">
+		<description>Vpman (Apoc)(Beta 0.5)[Other]</description>
+		<rom name="Vpman (Apoc)(Beta 0.5)[Other].vpt" size="415232" crc="4b38425b" md5="54cc1ac9bfa781abb11b54f257c376e6" sha1="4ff5008c1fc14452856b46729e09c7821ab8bd90" sha256="dfee6ad459952fc506160e477674070886565505bf61998bedac4a4e027045c1" />
+		<rom name="Vpman screenshot.jpg" size="45319" crc="7babda8b" md5="a11350ea048f1a77c4294cb65c113ecc" sha1="f0c6d14c8a7943b3530ae4f82c87d99ada1a7242" sha256="dbf875b38ecb1b8241c8d904a0c9a0675ae573054a38cca842c66899e4f9d1bb" />
+	</machine>
+	<machine name="Woodie (Patch)(2.0)">
+		<description>Woodie (Patch)(2.0)</description>
+		<rom name="Woodie (Patch)(1.0 tiltjlp mod).vpt" size="1928192" crc="f8550e83" md5="0456291a6d663f65a49166f36021a142" sha1="d46918d045813900a6daa7b57d0c26cf1156f059" sha256="64666f792d8f19ebb5214401a0cb5bd62e53c5b5a4803ad062d71ebb586914db" />
+		<rom name="1.0/Woodie (1.0) screenshot.jpg" size="49563" crc="c57ff943" md5="6dfe7b5a6ed85d7d84ede2f160cf2d5c" sha1="e7a1d18e9c915680f0069ab8717a73aa6f45cc64" sha256="4ef405a8251dce57bf7ca4225899e0b324f02b77a8ffb9600f573f1035ddc451" />
+		<rom name="1.0/Woodie (Patch)(1.0).vpt" size="1887744" crc="1bcda99c" md5="28886ef41387d40e8808922269d293e6" sha1="350c67d683d9acf424add6c40ccf12fca39d96da" sha256="0f6b43839e766a857b20531d7d82b505ee832bff9431b6bea4533f7fb8eef219" />
+		<rom name="2.0/Woodie (2.0) screenshot.jpg" size="49094" crc="000e37fe" md5="1cca725cfa538604c7a8758f76af6cdc" sha1="62b406d682823fc911f811ac1740c6e3c88a301e" sha256="77a2b6e35407f390bdc99caa061a987c2da326d54b46b5c75e9821876edcdfb7" />
+		<rom name="2.0/Woodie (Patch)(2.0).vpt" size="1938944" crc="2ace70e7" md5="74cd2c634ba0c172b251776095eef7f4" sha1="f8eb8ae039e3c5016083480a22b60f01c4a5a356" sha256="93111a686b12519490214c73f1ebb0e1652f1661b66a57d4f3c7c478b1799e41" />
+	</machine>
+	<machine name="Wrath of Kang, The (RockingHorse)(1.0)[Flipperless]">
+		<description>Wrath of Kang, The (RockingHorse)(1.0)[Flipperless]</description>
+		<rom name="Wrath of Kang, The (RockingHorse)(1.0)[Flipperless].vpt" size="324608" crc="b7f195a2" md5="14f21564d4c4bbeeb4206f654400c297" sha1="7800df668d886d5fd22e46e7502b4652f3d3b622" sha256="ce2e54a40506ec3cf578a58f1aca4e319b215b24e8d1af9049ff61c6988ef4ae" />
+		<rom name="Wrath of Kang, The screenshot.jpg" size="63525" crc="cbf64402" md5="c9b14ca856f358b87bd931e3d6b0f164" sha1="1a6d0fd4f3938a527e604bb95b334d3eaa28e983" sha256="18e7a8701e83b2ed89a8f09f864d29a79233de29a09a881414f5ef2bde359147" />
+	</machine>
+	<machine name="Xenon 2 Megablast (Andrew Mortimer)(1.0)[Flipperless]">
+		<description>Xenon 2 Megablast (Andrew Mortimer)(1.0)[Flipperless]</description>
+		<rom name="Xenon 2 Megablast (Andrew Mortimer)(1.0)[Flipperless].vpt" size="911872" crc="13eb8e6e" md5="be65de4a8de3190ad111bb3530e4d455" sha1="b08251599017320e6d42cd2e7bef3663c70e89aa" sha256="430ebed50188f2d9744e2031f4cb7e15a8061d60d64a48c07cb596a96ae4ad62" />
+		<rom name="Xenon 2 Megablast screenshot.jpg" size="59254" crc="30175dd2" md5="7bf412378005ac030aca5479492d2bb0" sha1="f343b1fd39feb99211e17ab0e289bb516aca2da0" sha256="e6f4e29c0f7ee9e1f6f40ca754042beadb6670cae8b3a28ff94afc66993a12f7" />
+	</machine>
+</datafile>

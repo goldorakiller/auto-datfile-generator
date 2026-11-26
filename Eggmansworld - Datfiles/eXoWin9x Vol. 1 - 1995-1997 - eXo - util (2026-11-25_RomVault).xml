@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>eXoWin9x Vol. 1 - 1995-1997 - eXo - util</name>
+		<description>Mixed (Archive as File)</description>
+		<category>Computer</category>
+		<version>Vol. 1: 1995-1997</version>
+		<date>2026-11-25</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage>https://www.retro-exo.com/</homepage>
+		<comment></comment>
+		<romvault forcepacking="fileonly"/>
+	</header>
+	<rom name="unzip.exe" size="242688" crc="92d4dadf" sha1="5fd8a7c75bde1b59d6d032bede163c23a1a23d18"/>
+	<rom name="utilWin9x.zip" size="2917087785" crc="c6d8ce09" sha1="e4bfc1a5742881e9d1b09cb696773520c141fe37"/>
+	<rom name="win9x.sha256" size="333" crc="98622ee0" sha1="b89dd9fc770228beedc093612bfac5c83eeaea12"/>
+</datafile>

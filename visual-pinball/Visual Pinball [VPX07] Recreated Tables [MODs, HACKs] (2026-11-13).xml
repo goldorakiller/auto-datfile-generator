@@ -1,0 +1,761 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VPX07] Recreated Tables [MODs, HACKs]</name>
+		<description>Visual Pinball [VPX07] Recreated Tables [MODs, HACKs] (2026-11-13)</description>
+		<version></version>
+		<date>2026-11-13</date>
+		<author></author>
+	</header>
+	<machine name="4 Square (Gottlieb)(1971)(Loserman76)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>4 Square (Gottlieb)(1971)(Loserman76)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="4 Square (Gottlieb 1971)_Teisen_MOD.vpx" size="36745216" crc="80b4bb40" md5="de31b69509bc1cf69bfb1134f95299c7" sha1="4ab35f9be261dc3ea3375600f437a4451a563f61" sha256="4c306372a2fe6384217927f367c8780a265d93c400bc9787e63a9d4ec301365c" />
+	</machine>
+	<machine name="8 Ball (Williams)(1966)(Loserman76, GNance, WRD1972)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>8 Ball (Williams)(1966)(Loserman76, GNance, WRD1972)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="8 Ball (Williams 1966)_Teisen_MOD.vpx" size="32329728" crc="883afb9d" md5="f725abb45561f08fe9adc6569119e797" sha1="4b16f258a72b5ffdb75e5b98e24adc8e4a070940" sha256="396b6a921046014bfb7285e8821a39c9779a9d4a78384b0a0cea81762ae78287" />
+	</machine>
+	<machine name="Airport (Gottlieb)(1969)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Airport (Gottlieb)(1969)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Airport (Gottlieb 1969)_Teisen_MOD.vpx" size="33345536" crc="159adb27" md5="6722b256f4fb62f50eefa21a4a3c778b" sha1="0d2c5e7c82351e8b5e7e5a0027ae8a438bdd20e4" sha256="024f95b3bd8cc416f63f10b9f10ac07f37655af876e3c58031f219b64fd9120c" />
+	</machine>
+	<machine name="Aloha (Gottlieb)(1961)(jino0372, Popotte)(1.1)[VPX07][MOD Sound v1.2.0 MauiPunter]">
+		<description>Aloha (Gottlieb)(1961)(jino0372, Popotte)(1.1)[VPX07][MOD Sound v1.2.0 MauiPunter]</description>
+		<rom name="Aloha (Gottlieb 1961).directb2s" size="6985466" crc="7fbb0caa" md5="f9497e4bf54d0e77bc94e61edf4f6fbc" sha1="2b9afb8bd8fbdb994d7a9554dfa9480619fd97e7" sha256="820dc8d6a9dc0efb5afe6f9047d14c5d5f4f99550e8878e5830900ea35a07c64" />
+		<rom name="Aloha (Gottlieb 1961).vpx" size="68141056" crc="cad67de1" md5="8c7db7308a762bb604f3c029405d6e65" sha1="dbac3f4b69d0945b844ef72f7ebf6588a41a34c1" sha256="3445fb0730ac8f5b6a01edef8503cc561e7face7142803225977251861ed8c3f" />
+		<rom name="Music/aloha/Aloha Oe.mp3" size="2609325" crc="bf6c9d93" md5="55570ca820fcddfcffbaf8cd822bdd2a" sha1="b0798a6267af7e512fef830214585393400dba76" sha256="b029fe44e0ad979295a0a49db3858fc302e4e1106f80fe4731e5ab8933ba7d54" />
+		<rom name="Music/aloha/Drop Baby Drop.mp3" size="2888109" crc="08959ac8" md5="e423af913275e6b2c5dd154cfb423d12" sha1="ef0cd2bfa6743b9c06a0e660bce83777aa9264ed" sha256="20008ba2175427e7d425c891d7582e2d2dcc5436136ec826f8531ae61dcaa40e" />
+		<rom name="Music/aloha/Green Rose Hula.mp3" size="2114349" crc="6d7a12ae" md5="f3ba08b1fcc16fe5f272d8b3017400fa" sha1="78ee90f5aea56eba0843072d139b892c4a1a20fc" sha256="e04ae9f2e32d20801e9338fc1a8d599ccee35beecc508ba8b0f3d981b2aec1de" />
+		<rom name="Music/aloha/Heat Wave.mp3" size="2939949" crc="0fb3e3fb" md5="3b468ec9991c197fdb108652b9164e2e" sha1="42042588f3cab427518a87960a2c6eb832f8706b" sha256="f24f82df6693b6b1ef6818d1d879f2c718be3a12c442f4cc50415ab746580af1" />
+		<rom name="Music/aloha/Honolulu how do you do.mp3" size="3314733" crc="c0a22e8c" md5="14159b991c015d99703ecbb5818844b1" sha1="8f0816d6f6cd54f23ccfc2b6072df5f1d95605ce" sha256="d7f3889298a61d4267b888b423a92d4f61ecc12a677d9b42c6ca8c5035efdafa" />
+		<rom name="Music/aloha/Ill Weave A Lei Of Stars For You.mp3" size="2478765" crc="2df21d98" md5="27bcbb08a1701032080ea4fe2275acd7" sha1="ba59430b37c4c4e05c0cc974fa3f940f502dfb25" sha256="0747ccde513c543394dea29322e4e01648bc4a202dce1206f1dbbbe8d1f831fa" />
+		<rom name="Music/aloha/Island Style.mp3" size="3875757" crc="df9e927f" md5="b82fc2bcdf9fa61d6ffc07e775df19bc" sha1="0c2efd6b3201fb5ed45f5892420bff6086e9d461" sha256="fa193bdded66b20af792e69846024634cc970a808aebc9b33522b38571877b69" />
+		<rom name="Music/aloha/Kauai Beauty.mp3" size="3412269" crc="2edc22cb" md5="6c59777947e8cf07edb565a52879cde3" sha1="63333391d7c00399e36627abdc96f467a0bbf191" sha256="c9572d3438f216f56a44531a92176ba26d93f45b09b815a6d327c96ef47f0c64" />
+		<rom name="Music/aloha/Lilikoi.mp3" size="5250093" crc="85bceb72" md5="f93e1d156d91d062bb2d452f898733b3" sha1="b9317b72bc95241aef1d5c525a37999c8e847184" sha256="36fc191ced01b10d709b65be335bee0726f9994e177b013fa027222316e3caf2" />
+		<rom name="Music/aloha/Maui Girl.mp3" size="2738733" crc="23fbe46d" md5="83ea5f152ae9ae192aa2ddf97df84774" sha1="f3f3816f365980c98548b0cb5337d81a193a2f6c" sha256="f5bb0235cf1c532388596e45b0898054618295553f9a36e89b76d3453bcff56d" />
+		<rom name="Music/aloha/Sleep Walk.mp3" size="2208813" crc="14c12e49" md5="87deeafe7696baa228966068f9185f59" sha1="6e08313faa33ee2e6dbaf13f7bc269fbfea5cd0d" sha256="d3e8facf36a342633fb8e83def1174d84b543ccd634a0c7518943042c22b064d" />
+		<rom name="Music/aloha/White Sandy Beach.mp3" size="2542893" crc="3de2d542" md5="fb4d5f27c03de723264da244ba154235" sha1="4bbaaf197921b701ca762da045d83ac94b1ed506" sha256="a4d28c5dc3fc3ef5f26c82b12dd9fffb5154f93e0d06368d5237568d05c7fc22" />
+		<rom name="Music/aloha/You Kuuipo.mp3" size="4469421" crc="49200aac" md5="7975fc175d398ce8e45fb0fbb5f25df1" sha1="5e92873dbaa5b22ca68bf02de3568660e5b5acf9" sha256="05204452855e212a9485ffb634ffb70218c8893f04adc58e81c4eb2c8f6bc5e4" />
+	</machine>
+	<machine name="Amigo (Bally)(1974)(Loserman76)(1.0a)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Amigo (Bally)(1974)(Loserman76)(1.0a)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Amigo (Bally 1974)_Teisen_MOD.vpx" size="40988672" crc="2ab44fc7" md5="1dfa4df169970004ac218d9a60076ec4" sha1="fd4cef27a26943d0d8ac45d2eb67012300f2ef1d" sha256="fe4047a5d171094333b1f097cee42714da411492aa68878474a96e43d0aaf204" />
+	</machine>
+	<machine name="Aquarius (Gottlieb)(1970)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Aquarius (Gottlieb)(1970)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Aquarius (Gottlieb 1970)_Teisen_MOD.vpx" size="37449728" crc="d509c3c7" md5="54db0f30a26d8858a743271655650e3c" sha1="112c5aa79be0006fdbf956fa53818969b4b11c2f" sha256="91b7feac45a1cba63b5786841b13584af99a1c9bbc6b9a6ae96c6a5a0bc7687a" />
+	</machine>
+	<machine name="Atlantis (Gottlieb)(1975)(Loserman76, GNance, Bodydump)(1.0.0f)[VPX07][MOD Gfx v1.1 Teisen, movieguru]">
+		<description>Atlantis (Gottlieb)(1975)(Loserman76, GNance, Bodydump)(1.0.0f)[VPX07][MOD Gfx v1.1 Teisen, movieguru]</description>
+		<rom name="Atlantis (Gottlieb1975)_Teisen_MOD1.1.vpx" size="65732608" crc="22259885" md5="7a58d49919382b81ea01af3f483fb7db" sha1="ffe064ecaf5d7b434d8b9d3c0727cb59743eeeb7" sha256="0e7a5e43fa709ca2ae1ef03fa778b78f85435903dbac48e445becd53e5f04dd1" />
+	</machine>
+	<machine name="Aztec (Williams)(1976)(JPJ, Team PP, Arngrim, Leon Spalding)(1.3)[VPX07][High-Tapped MOD v1.0 tx_compadre]">
+		<description>Aztec (Williams)(1976)(JPJ, Team PP, Arngrim, Leon Spalding)(1.3)[VPX07][High-Tapped MOD v1.0 tx_compadre]</description>
+		<rom name="Aztec High-Tapped (Williams 1976).directb2s" size="11083963" crc="50252d58" md5="d680a50d677889d6f9c5df37387cac32" sha1="31aebf25a8e9e688bee35ac0474e1b140b8889b3" sha256="f2592350122eee29ef9050a22aa01ed560d992a201e6e6c6051cd905c1925671" />
+		<rom name="Aztec High-Tapped (Williams 1976).png" size="1020466" crc="18a10d83" md5="30b2d30c346668b3b42b22e3332e8530" sha1="0b268b67fe7c4b4477f3946b3433580310a4b3b5" sha256="08b7aca5378fca91e97b25889b9a594c83172e90b9b793b5bf9ce84e0670fc7b" />
+		<rom name="Aztec High-Tapped (Williams 1976).vpx" size="68141056" crc="085a5535" md5="f61235662416094212de383e840029a2" sha1="a06352570d3bbf63f388d5016e96d9ea57ace7ac" sha256="ebdf16d1b54fa180d3430c1771333b93a04e1c165b6d411970faa15a666781fb" />
+	</machine>
+	<machine name="Balls-A-Poppin (Bally)(1956)(Loserman76)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Balls-A-Poppin (Bally)(1956)(Loserman76)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Balls-A-Poppin (Bally 1956)_Teisen_MOD.vpx" size="41857024" crc="31d31073" md5="a0de04c938dccad022c5e8ad58fac1fe" sha1="912a5248088e8468144ed1d6d536cfe20b1fbbb0" sha256="22c8de87e419a725c76e8290d31621e426e54dc1c679f79a53c8228140c40a01" />
+	</machine>
+	<machine name="Barbarella (Talleres del Llobregat)(1972)(Loserman76, Akiles50000, JPSalas)(1.0.0f)[VPX07][MOD Gfx v1.0.0 GauGau]">
+		<description>Barbarella (Talleres del Llobregat)(1972)(Loserman76, Akiles50000, JPSalas)(1.0.0f)[VPX07][MOD Gfx v1.0.0 GauGau]</description>
+		<rom name="Barbarella fur backdrop.vpx" size="36564992" crc="35f0032c" md5="e0c423e2262049befa4086aa73906257" sha1="81ea8d1079109525efbd4219be580a2909140522" sha256="2f9d02fe68d3a6d9feb25ce8c4b587f225588f016a8fca98edaa3a6c551de0bb" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/1-Video on topper.bat" size="65" crc="8f5a29aa" md5="2ff37ef620a48a3ff4e690672673f187" sha1="5bc6f2afc668510ab933132137af9f1bf5aa48c4" sha256="164459f6cd3608727e66b23a9082b33199d11cd65a1b9d67b605d1b89f97d5e4" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/2-Video on backglass.bat" size="68" crc="60f9e028" md5="1bc05f7d9e117430bee39b64a9c746eb" sha1="003c8412ddfe95b37b91833d0589dfaa28c0a567" sha256="6f02d12730f15d616fe8e95c61ef8db39ba5c83055807ddeb3a970fcd5981f6c" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/3-Video on fullDMD.bat" size="66" crc="d129c076" md5="6e22d3c2fdb4edc2a16a11979bca3682" sha1="d83ced28649223d8280fc274425524d0d9326055" sha256="7d1e4210890ef37a76c1bfee1f2e576adbfe0b06f2ea2524838f2e41ed43c463" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/4-Video on DMD.bat" size="62" crc="0d9807e5" md5="cdd2406eace21c3998b66a2cf01860c1" sha1="2fd100bb078ec9ef53bf0425c799ad9364cb0e33" sha256="d2bc84538bd697430d23747e4465383b53858f924b2eb555c3489ab9b00ec388" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/playlists.pup" size="88" crc="b32e013e" md5="3a4feadc83631ca5bf8a1fff9fee23d3" sha1="6b587bb6da0ed5c0cf5c07ed219563a372702659" sha256="e1790f494a349706b0b8c374b839ecb972e5e2806af060f8706baa99754273ef" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/screens.pup" size="126" crc="07dae91c" md5="4f1a19d9001e1984a919d390fc9f4576" sha1="799c2e8f723f556c0d5f672add9804f56a355320" sha256="ff38ca75f7100e528f28e1ce93417d5c7237fa4c54e5c633dceace007515f4e7" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/triggers.pup" size="159" crc="6b4e37ef" md5="8846f5f6490f0f16c4c78a9cfed92c4d" sha1="7f88fde297c1e9f5b82f144319b6fe0dc2e7dc12" sha256="6b064d421792ed21c28a5aa5d42f4bff67bde5475cd4d12693941b67adad392a" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/MusicVideos/Barbarella.mp4" size="86765760" crc="58dfeeeb" md5="4007d26e4db8a6c8bb586e32821bf43c" sha1="f364e575f0d6cf2ac3885b664b3b9d499ced2b83" sha256="5d1be1b8d3f2d3b651c13b898d584f88a59d521e405416ec790eb11dd6effbec" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/PuP-Pack_Options/1-Video on topper/playlists.pup" size="88" crc="b32e013e" md5="3a4feadc83631ca5bf8a1fff9fee23d3" sha1="6b587bb6da0ed5c0cf5c07ed219563a372702659" sha256="e1790f494a349706b0b8c374b839ecb972e5e2806af060f8706baa99754273ef" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/PuP-Pack_Options/1-Video on topper/screens.pup" size="126" crc="7d83340a" md5="e9af6cc0d3e234ce6167acde86685459" sha1="7c84bf4813979411d8ec29b3c5875d62ccbcd201" sha256="dec60b7ca6030c830603f6035be5703a1570bff4663f8ee60f09832e2e20693c" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/PuP-Pack_Options/1-Video on topper/triggers.pup" size="159" crc="6b4e37ef" md5="8846f5f6490f0f16c4c78a9cfed92c4d" sha1="7f88fde297c1e9f5b82f144319b6fe0dc2e7dc12" sha256="6b064d421792ed21c28a5aa5d42f4bff67bde5475cd4d12693941b67adad392a" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/PuP-Pack_Options/2-Video on backglass/playlists.pup" size="88" crc="b32e013e" md5="3a4feadc83631ca5bf8a1fff9fee23d3" sha1="6b587bb6da0ed5c0cf5c07ed219563a372702659" sha256="e1790f494a349706b0b8c374b839ecb972e5e2806af060f8706baa99754273ef" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/PuP-Pack_Options/2-Video on backglass/screens.pup" size="126" crc="fa231169" md5="3cc906cea68774cc5a50e5952f31cb91" sha1="8fc8440d07769ef9a79e75627e0bbf45751cf79b" sha256="e75dd0fe23229c03420d5dfe5b60e418abf57506b435608e46dbda83fa866f7f" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/PuP-Pack_Options/2-Video on backglass/triggers.pup" size="159" crc="6b4e37ef" md5="8846f5f6490f0f16c4c78a9cfed92c4d" sha1="7f88fde297c1e9f5b82f144319b6fe0dc2e7dc12" sha256="6b064d421792ed21c28a5aa5d42f4bff67bde5475cd4d12693941b67adad392a" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/PuP-Pack_Options/3-Video on fullDMD/playlists.pup" size="88" crc="b32e013e" md5="3a4feadc83631ca5bf8a1fff9fee23d3" sha1="6b587bb6da0ed5c0cf5c07ed219563a372702659" sha256="e1790f494a349706b0b8c374b839ecb972e5e2806af060f8706baa99754273ef" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/PuP-Pack_Options/3-Video on fullDMD/screens.pup" size="126" crc="07dae91c" md5="4f1a19d9001e1984a919d390fc9f4576" sha1="799c2e8f723f556c0d5f672add9804f56a355320" sha256="ff38ca75f7100e528f28e1ce93417d5c7237fa4c54e5c633dceace007515f4e7" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/PuP-Pack_Options/3-Video on fullDMD/triggers.pup" size="159" crc="6b4e37ef" md5="8846f5f6490f0f16c4c78a9cfed92c4d" sha1="7f88fde297c1e9f5b82f144319b6fe0dc2e7dc12" sha256="6b064d421792ed21c28a5aa5d42f4bff67bde5475cd4d12693941b67adad392a" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/PuP-Pack_Options/4-Video on DMD/playlists.pup" size="88" crc="b32e013e" md5="3a4feadc83631ca5bf8a1fff9fee23d3" sha1="6b587bb6da0ed5c0cf5c07ed219563a372702659" sha256="e1790f494a349706b0b8c374b839ecb972e5e2806af060f8706baa99754273ef" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/PuP-Pack_Options/4-Video on DMD/screens.pup" size="126" crc="d3eba59b" md5="c7d03f300b38cc97c0009c65301036bd" sha1="761ca90b5a8b283aab281903f72a7ea2a145207b" sha256="ee6c67e234418ff2c7d9fe24f564b445c92e09c45385436805897182e3ce34da" />
+		<rom name="PinUPSystem/PUPVideos/Barbarella_1972/PuP-Pack_Options/4-Video on DMD/triggers.pup" size="159" crc="6b4e37ef" md5="8846f5f6490f0f16c4c78a9cfed92c4d" sha1="7f88fde297c1e9f5b82f144319b6fe0dc2e7dc12" sha256="6b064d421792ed21c28a5aa5d42f4bff67bde5475cd4d12693941b67adad392a" />
+	</machine>
+	<machine name="Baseball (Gottlieb)(1970)(Loserman76, GNance)(2.0.0f)[VPX07][MOD Gfx v1.0.0 Teisen]">
+		<description>Baseball (Gottlieb)(1970)(Loserman76, GNance)(2.0.0f)[VPX07][MOD Gfx v1.0.0 Teisen]</description>
+		<rom name="Baseball (Gottlieb 1970)_Teisen_MOD.vpx" size="35381248" crc="1b22ea5a" md5="60a94a0832d6425d01660afb0e37cb10" sha1="4cdb5770b55887a68d4b6f4c31338ef09698cd82" sha256="1b7d7126a1abedc61364d952ac798fc0ae9bad5358f0c519929d2d8c83e1ad91" />
+	</machine>
+	<machine name="Big Casino (Gottlieb)(1963)(Loserman76, GNance, Chris Aguilar)(1.0 aka 1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Big Casino (Gottlieb)(1963)(Loserman76, GNance, Chris Aguilar)(1.0 aka 1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Big Casino (Gottlieb 1963)_Teisen_MOD.vpx" size="40009728" crc="bb792075" md5="83fab1d5d1682d4f7075c0f767336005" sha1="f07dcddaf36c8f623cc8833931ba080604a154f7" sha256="36a38d71606091bee9c8c4334eae99e02086236305ca1ca219e4886bba942fd2" />
+	</machine>
+	<machine name="Big Chief (Williams)(1965)(Loserman76)(1.0c)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Big Chief (Williams)(1965)(Loserman76)(1.0c)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Big Chief (Williams 1965)_Teisen_MOD.vpx" size="41365504" crc="0eb7ada5" md5="8fad8b6ae69ad16ea87c7f4aa92f334e" sha1="ecdf77e280c92384e9f7e3bab65aa3d682465e39" sha256="aa4fc0d67c63a582aeb40d14aad58ab9d9367da27776ab0e836676aedc5fe246" />
+	</machine>
+	<machine name="Black Gold (Williams)(1975)(Loserman76)(1.0)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Black Gold (Williams)(1975)(Loserman76)(1.0)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Black Gold (Williams 1975)_Teisen_MOD.vpx" size="33038336" crc="2832fd4e" md5="6b2814483b2dc820b367da63e92c3670" sha1="2dfc143deb4806aa0b3138ff45e440377bf7cda8" sha256="c43f8c84cd536f361f45309a269d7a0520da37b93af31ad93e93efca3dd3fd26" />
+	</machine>
+	<machine name="Bow and Arrow EM (Bally)(1975)(Loserman76, Goldchicco, JPSalas)(1.0b)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Bow and Arrow EM (Bally)(1975)(Loserman76, Goldchicco, JPSalas)(1.0b)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Bow And Arrow EM (Bally 1975)_Teisen_MOD.vpx" size="57597952" crc="81be3d7c" md5="7ff63520aca61e021ffc3b04bb304a2f" sha1="277ab8fd43682da1e900273909fdd58b4ee9a790" sha256="4c3e48fafc18abec875461c757428cc3766d9ae8d6e4955adb10e7dfa14ba7b5" />
+	</machine>
+	<machine name="Bristol Hills! (Gottlieb)(1970)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Bristol Hills! (Gottlieb)(1970)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Bristol Hills! (Gottlieb 1970)_Teisen_MOD.vpx" size="39108608" crc="8055d0f2" md5="41c9600f00d380db199c627c536d2e77" sha1="1056e6d5fd5cb3f1f6bc74ef2b35640abe10cf9d" sha256="911cf38535b5f93903d9614d8ae6269a5249fee7edd1fd9f18d68c7ab380ea97" />
+	</machine>
+	<machine name="Bronco (Gottlieb)(1977)(Loserman76)(1.0)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Bronco (Gottlieb)(1977)(Loserman76)(1.0)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Bronco (Gottlieb 1977)_Teisen_MOD.vpx" size="34889728" crc="df9e4fe5" md5="e6f9849d6027211a2d0d5d5c90305354" sha1="42914124c51ceacfbe7f812ea75f1fbc4ebf2801" sha256="b8f2a748ed1e8f60c7c047db79eb5f2b24485b25f40f9dfbb0da5e2a2b037e87" />
+	</machine>
+	<machine name="Buckaroo (Gottlieb)(1965)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.1 Teisen]">
+		<description>Buckaroo (Gottlieb)(1965)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.1 Teisen]</description>
+		<rom name="Buckaroo (Gottlieb 1965)_Teisen_MOD_1.1.vpx" size="41541632" crc="2abdff5a" md5="29bdcee8b95c066f9b6f3cf38969fd8e" sha1="a63d87f4fef83ef936d59a50e6c7769e80cf0e1f" sha256="f2804718e59668e44db039fd41f6fc02c65809c553fddedcca9c0b17c2088e3d" />
+	</machine>
+	<machine name="Canada Dry (Gottlieb)(1976)(Loserman76, AllKnowing2012)(1.0.0f)[VPX07][MOD Gfx v1.1 Teisen, movieguru]">
+		<description>Canada Dry (Gottlieb)(1976)(Loserman76, AllKnowing2012)(1.0.0f)[VPX07][MOD Gfx v1.1 Teisen, movieguru]</description>
+		<rom name="Canada Dry (Gottlieb1976)_Teisen_MOD_1.1.vpx" size="60862464" crc="043133f1" md5="3d87b5353cf8be5fbb51fc2d09c203c5" sha1="bd3aa2ffc8d8ec59bee873a6539ee35342d0cecd" sha256="b14a9695142cc7773f85cfca2ef3c054b9b34b43cd59a54c135e8ef79092ca18" />
+	</machine>
+	<machine name="Captain Nemo Dives Again (Quetzal)(2015)(EpeC)(5.0)[VPX07][Steampunk Flyer MOD]">
+		<description>Captain Nemo Dives Again (Quetzal)(2015)(EpeC)(5.0)[VPX07][Steampunk Flyer MOD]</description>
+		<rom name="Captain NEMO Dives Again (Quetzal Pinball 2015) by EpeC (2022) (v5.0 Steampunk Flyer MOD).directb2s" size="12480135" crc="251ab8f6" md5="22032a833bc88a66c6277f04ab9f7ded" sha1="31297393d8d424fed84d40e5787de804a6aef09b" sha256="7866960f7e74dcdbfc202a5201ef515800b6068bb290b38990d66cfabf817eec" />
+		<rom name="Captain NEMO Dives Again (Quetzal Pinball 2015) by EpeC (2022) (v5.0 Steampunk Flyer MOD).vpx" size="131457024" crc="6ac703c3" md5="a83c0684f77554c38f1523471249b3b6" sha1="0f8e0246e218f17a221e29a57347f0fa88f0fe2a" sha256="5ac2e3ae2198636a946050cb05c846fff6f783a51b786785c18b3d6dcc3dbb59" />
+		<rom name="Captain NEMO v5.0 and v5.0 MOD (you need to read this)/About changes on Script de Captain NEMO Dives Again (Quetzal Pinball 2015) by EpeC (2022) v5.0 +(v5.0 Steam Flyer MOD).txt" size="10932" crc="5802eb86" md5="e26cf2a46604dfe0e0af43ca1e774397" sha1="23d07f774ccefb40dc286a2a0bde6932958b1e8a" sha256="804d2fbfdf56c30ee0ddbc10ed25db399823e8278930f2d8bcdb40c434a4bfc0" />
+		<rom name="Captain NEMO v5.0 and v5.0 MOD (you need to read this)/Captain NEMO Dives Again (Quetzal Pinball 2015) by EpeC (2022) (creditos - ESP) v4.8.pdf" size="49209" crc="41adf2a4" md5="6b53061916f2b470a2e98a61a837f368" sha1="82f1258a732b2b6a4b18a7cb3ba0d17083dcaee3" sha256="4eb543a65a3ff85959743ec4b454c29d73bee8bb301923637f904aea27452b3b" />
+		<rom name="Captain NEMO v5.0 and v5.0 MOD (you need to read this)/Captain NEMO Dives Again (Quetzal Pinball 2015) by EpeC (2022) (credits - ENG) v4.8.pdf" size="48674" crc="8dca2d4f" md5="3bc401f3d0d8f0a03490ae084ef69ae2" sha1="b9ccba50b5211a117b89e0ca6643d11e0846efd4" sha256="27ce391f48a737b37b003097a4129eb9b26b31b94825699beab01c6e08738a28" />
+		<rom name="Captain NEMO v5.0 and v5.0 MOD (you need to read this)/Instructions ENG - Captain NEMO Dives Again (Quetzal Pinball 2015) by EpeC (2022) v4.8.pdf" size="122741" crc="c2ba5346" md5="75c0e0687119d5f6b29441d074eeab39" sha1="ec780465dc009bb8c008386301fb7d7fb33041e4" sha256="63686c7cb9a0829a8b08e361a4a3d427c2258c33ca2c40781021b873d571f742" />
+		<rom name="Captain NEMO v5.0 and v5.0 MOD (you need to read this)/Manual ESP - Captain NEMO Dives Again (Quetzal Pinball 2015) by EpeC (2022) v4.8.pdf" size="125691" crc="c1c30ce3" md5="b30ab2fa09e42463cc0bd85067ba483e" sha1="0cad1fec81daf28160015b8395065d6b88ceae9b" sha256="7a82889a8cfa1a4c79857b69e110bcdb3736e340336d44a61c47bed3067f9c82" />
+		<rom name="Wheel MOD/Captain NEMO Dives Again (Quetzal Pinball 2015) by EpeC (2022) (v4.8 Steam Flyer MOD).png" size="1893318" crc="d9c391f9" md5="2ab54d0cb82809c1724f101367a246d5" sha1="7f0f2627bd6818bfae656a847075f506cc61c362" sha256="3cc0c87e2e24987e8029b5de0e61ea5a6a588bdfde6026d7322cb6c6399aaa43" />
+	</machine>
+	<machine name="Captain Nemo Dives Again (Quetzal)(2015)(EpeC)(v26)[VPX07][Steampunk Flyer MOD]">
+		<description>Captain Nemo Dives Again (Quetzal)(2015)(EpeC)(v26)[VPX07][Steampunk Flyer MOD]</description>
+		<rom name="Captain NEMO Dives Again (Quetzal Pinball 2015) by EpeC (2024) (Steampunk Flyer MOD) v26.directb2s" size="12480135" crc="251ab8f6" md5="22032a833bc88a66c6277f04ab9f7ded" sha1="31297393d8d424fed84d40e5787de804a6aef09b" sha256="7866960f7e74dcdbfc202a5201ef515800b6068bb290b38990d66cfabf817eec" />
+		<rom name="Captain NEMO Dives Again (Quetzal Pinball 2015) by EpeC (2024) (Steampunk Flyer MOD) v26.vpx" size="118202368" crc="565ea019" md5="dbc77322cdb4c31981ad2723cec6aea5" sha1="e0e9d44fb71aeb1f361193579386fe88b0179a40" sha256="6f93307f35b2b0803456aa9677ba73b66a4a03f3ee81bb85e13ae7c743d0813f" />
+		<rom name="Captain NEMO Instrucciones (FlyerMOD v26) config UltraDMD+ext 3dr Screen.txt" size="1999" crc="0b2a2b7b" md5="74d29eb8af8a89707cc84429dc0348c7" sha1="10324d65b9a457836e2d92f62305d0687fe661eb" sha256="3fccb7d9129b2eb5d15a855391eb164e4b4712ff5086a4223803a755465a8a94" />
+		<rom name="Captain NEMO Logo Wheel MOD by eMBee/Captain NEMO Dives Again (Quetzal Pinball 2015) by EpeC (2024) (Steampunk Flyer MOD) v26.png" size="1893318" crc="d9c391f9" md5="2ab54d0cb82809c1724f101367a246d5" sha1="7f0f2627bd6818bfae656a847075f506cc61c362" sha256="3cc0c87e2e24987e8029b5de0e61ea5a6a588bdfde6026d7322cb6c6399aaa43" />
+		<rom name="NemoDA.UltraDMD/UDMD_EpeCreaciones.png" size="2418" crc="8a291991" md5="e64c0a3d8ac810db7d50364a784dc4e9" sha1="5ec500981ce210ef11aa8f8d9a990a55e465922a" sha256="86c5b6af3863db258718846cd52cb46f1a3d4380e517db1a299020656934240b" />
+		<rom name="NemoDA.UltraDMD/UDMD_logo_Capt_Nemo.png" size="12536" crc="16652e90" md5="40ff1b1d153fe95f7e85f1cb8bc5454d" sha1="40dd9f9c2eb96fbe9d42679bbc650e67208b792a" sha256="4d86de401ff8698554005e243a9f45fc2ed739bb5ceb9d24f970febd4973f89a" />
+		<rom name="NemoDA.UltraDMD/UDMD_logo_Quetzal.png" size="2781" crc="9083bc6c" md5="dac2696cc12cd5da3fcec34abbc9a383" sha1="fcfe22deaaedcc3fe16d270868412617388cf955" sha256="36399a8632a7013281602e2fb7d220c54db4d07a20ad1ec233aeedc682cf65a1" />
+		<rom name="NemoDA.UltraDMD/UDMD_logo_VisualPinballX.png" size="7867" crc="2538357a" md5="5bd851f1ddab8f5298700a511669bf21" sha1="8d9f0d625a6f15779adcbc335693eee979c0dbbe" sha256="b9cf5d678d5fdc4fbb4fc6fd57d772538e2951c4f1c6609378542fedbc46258f" />
+	</machine>
+	<machine name="Card King (Gottlieb)(1971)(Loserman76)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Card King (Gottlieb)(1971)(Loserman76)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Card King (Gottlieb 1971)_Teisen_MOD.vpx" size="33976320" crc="f2881f39" md5="28a0592f4a70fcfc0ea9ddb925437d22" sha1="8ff083b3490563c692c65d439e12a38f93862465" sha256="724adb67e332bde12e79b77cfc25970c11ef0a526a6d4a284738c76e0307f76a" />
+	</machine>
+	<machine name="Circus (Bally)(1973)(Loserman76)(1.0a)[VPX07][MOD Gfx v1.1 Teisen, movieguru]">
+		<description>Circus (Bally)(1973)(Loserman76)(1.0a)[VPX07][MOD Gfx v1.1 Teisen, movieguru]</description>
+		<rom name="Circus (Bally 1973)_Teisen_MOD1.1.vpx" size="41447424" crc="4512d609" md5="789f59e7c0438d095edddaa2e8385a9d" sha1="c4c51961f4415711519522a57b0373e2a9e29c0e" sha256="9e3cb107634250d58ca7b402805b41cbb6a3c1fbb7cb10a443bfe7403925009f" />
+	</machine>
+	<machine name="Circus (Zaccaria)(1977)(Loserman76, GNance)(1.0afix)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Circus (Zaccaria)(1977)(Loserman76, GNance)(1.0afix)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Circus (Zaccaria 1977)_Teisen_MOD.vpx" size="41476096" crc="32e0b285" md5="f45c35562cf1bf882620254035489c3c" sha1="4fa1477f4d29424238f879b6d0113e39dd6e0aff" sha256="857c49e11ec008869e038e82c5f0dafdccfbb695c1d0ff5a1caf1a18d8bb0e57" />
+	</machine>
+	<machine name="Cow Poke (Gottlieb)(1965)(Loserman76, GNance)(1.0a aka 1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Cow Poke (Gottlieb)(1965)(Loserman76, GNance)(1.0a aka 1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Cow Poke (Gottlieb 1965)_Teisen_MOD.vpx" size="38694912" crc="5e0a3861" md5="07d0fda00ff048c81f318658991110bc" sha1="12ac2c6cb1214973362eca2508a961ed57f1bdd1" sha256="8e2a03c63c4ca11a3f3f1f3204a0a5630bc35635c9d3eeddf1b5dcf0d36ace80" />
+	</machine>
+	<machine name="Crescendo (Gottlieb)(1970)(Loserman76, GNance, Noah Fentz)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Crescendo (Gottlieb)(1970)(Loserman76, GNance, Noah Fentz)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Crescendo (Gottlieb 1970)_Teisen_MOD.vpx" size="36454400" crc="ac4702d3" md5="7c9af3b118d9f1079def4f071168fd2a" sha1="97870f90c2bfef983963cabb1e0690f3995e1075" sha256="92c6d6e8b30dfe9ed3dfc587212438ade9e137d6614d49b40bea3da8ebc89490" />
+		<rom name="Crescendo (Gottlieb 1970)_Wildman.directb2s" size="16681843" crc="75cff6e5" md5="9efac7edad9a7c70f13c44fb230dd832" sha1="1d905884d7224a9a5ef97e9829095a5f2990c1ca" sha256="7eb18ca76b91e427824b137eba510127455d1b7bb58d80c5444366bad9dba152" />
+	</machine>
+	<machine name="Dealer's Choice (Williams)(1973)(Loserman76)(1.0)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Dealer's Choice (Williams)(1973)(Loserman76)(1.0)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Dealers Choice (Williams 1973)_Teisen_MOD.vpx" size="28332032" crc="a117e63a" md5="0e6171cb987d5d553d90fdfbdc7e5d00" sha1="809d71cffa8e9a03c151ad8cc4601f92de948816" sha256="f0e8df42a6df30157b87d6e6ca459f332fac70f50cc90e62268756dc8b94bbbb" />
+	</machine>
+	<machine name="Dragon (Interflip)(1977)(Loserman76)(1.00a)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Dragon (Interflip)(1977)(Loserman76)(1.00a)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Dragon (Interflip 1977)_Teisen_MOD.vpx" size="42172416" crc="c8d4591d" md5="edcd9293c8d20da49b620ca8884488d3" sha1="f11b47c74c371db57608232200759353ad3c3eb1" sha256="948623d83ec8464de865a740f286a93af36b32770412011fba08672343613e10" />
+	</machine>
+	<machine name="Egg Head (Gottlieb)(1961)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Egg Head (Gottlieb)(1961)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Egg Head (Gottlieb 1961)_Teisen_MOD.vpx" size="37560320" crc="0a81fb94" md5="d21894bcdc2fba8c20827abb90080ba7" sha1="2c8e1636632a99e568fc03b7b7994cab7bb51968" sha256="8fd8d8da2e09410041c293b737e60921130d2b6df62d4ac87f6e14864bddab36" />
+	</machine>
+	<machine name="El Dorado (Gottlieb)(1975)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>El Dorado (Gottlieb)(1975)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="El Dorado (Gottlieb 1975)_Teisen_MOD.vpx" size="37257216" crc="6fa1efd6" md5="2c19af03e027a93eb11fd34583c31aaa" sha1="cd29090746c296aa30f45796d167e3e6866e21fa" sha256="3a2358743508a1e6140bc7c157519c8c2abc4563eb15eaa2e8a95474787bcb7b" />
+	</machine>
+	<machine name="Fast Draw (Gottlieb)(1975)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Fast Draw (Gottlieb)(1975)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Fast Draw (Gottlieb 1975)_Teisen_MOD.vpx" size="35061760" crc="52764558" md5="3ecb6023bff3612abdfb1f5622f4b752" sha1="48b110cd87a73c7e8b0731d45f5a5591cb24e8c2" sha256="e998dfabadbc855f95a85155b1c1030ed69eeebbb7933e620d0968e5c57dc218" />
+	</machine>
+	<machine name="Fast Draw (Gottlieb)(1975)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Music v1.0.0fm 10mmSocket]">
+		<description>Fast Draw (Gottlieb)(1975)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Music v1.0.0fm 10mmSocket]</description>
+		<rom name="Fast Draw 1.0.0f MusicMod/Fast Draw (Gottlieb 1975)musicmod.vpx" size="59076608" crc="9e04b203" md5="bf235eee33d6adf81f8ff7549bafc65e" sha1="4a89455fc989a539845b7a3cf87b0fa059dcb233" sha256="693ca7dabe758122facb16e14be3ad3123403460fb19b86f38666d68ecf01d60" />
+		<rom name="Fast Draw 1.0.0f MusicMod/Fast Draw/00.mp3" size="3125589" crc="d81bd3cc" md5="60202cc8f23555fd41538e8e20188113" sha1="c700f826bd004e856e057f99597de58b066a3033" sha256="9535584648b4ade07eac287c489936acb3eddbca4df496b8978a987613035c16" />
+		<rom name="Fast Draw 1.0.0f MusicMod/Fast Draw/01.mp3" size="35171829" crc="5b3077ae" md5="45b519e0dfd8e4f0b2dac9d896c20f15" sha1="a11c24e852051894cefed79d496b9226bf316795" sha256="aba1e1334e04c5089e8f899550b487d4b4d142d5f157c1f875b9b7e8d9ea2e9c" />
+		<rom name="Fast Draw 1.0.0f MusicMod/Fast Draw/02.mp3" size="8202189" crc="14b66b67" md5="cc3c5d7eb9cb9085133b1dd69bcff15f" sha1="692e87169e2583102074585f5e9b6e64654e8022" sha256="f0aacd235e0415b72685d7f2a3b3907f60de9c8f04645f49722e672ab874c254" />
+		<rom name="Fast Draw 1.0.0f MusicMod/Fast Draw/03.mp3" size="5413077" crc="f6abb021" md5="0097c1a09eeb9580660e94ded521b065" sha1="e7e3755a3a0662c782b58118ddd7b0c2a2b25b4e" sha256="7ec8bebda53480d36113b6fe07a3002015eda90cd9d8653528e77d61f7fdd6bb" />
+		<rom name="Fast Draw 1.0.0f MusicMod/Fast Draw/04.mp3" size="2841501" crc="fe525c87" md5="4367c6b9c1b55730c29304a25776a54b" sha1="a1f6d03e9527a6c51357205747a40e9869ca18a4" sha256="cc3ad143fc0e191dde3c0db4920f18858c52327800179d60454f515d832e8bd4" />
+		<rom name="Fast Draw 1.0.0f MusicMod/Fast Draw/05.mp3" size="5625453" crc="7ddc94a6" md5="c1293bbe11a7b4864a0a3df51c4ce2aa" sha1="db85ba5476fcfdcf40fa353efd25e55a9f2736e2" sha256="5518dfa7ebb6bb7425b693cb9f594c717e156bbda962a4d78be927a0d62b8d43" />
+		<rom name="Fast Draw 1.0.0f MusicMod/Fast Draw/06.mp3" size="6402957" crc="7933e1ae" md5="c4a896ea697861d5fda6dc4e37621938" sha1="979f96925f2a4ac96f684822bd9063bd299958f6" sha256="2edd0bbda32d980ce94c980410f74131acd53c7011dca3d99fd28824255a33ac" />
+	</machine>
+	<machine name="Firecracker (Bally)(1971)(Loserman76)(1.0.0f)[VPX07][MOD Gfx v1.1 Teisen, HauntFreaks, Cliffy]">
+		<description>Firecracker (Bally)(1971)(Loserman76)(1.0.0f)[VPX07][MOD Gfx v1.1 Teisen, HauntFreaks, Cliffy]</description>
+		<rom name="Firecracker (Bally 1971)_Teisen_MOD.vpx" size="38461440" crc="c46076db" md5="78d3e083b7048b07615d40bf21909bfb" sha1="d83f5f7ad32e22195ba6f0cf584e5757fe729057" sha256="7bb8f285c7097dabca8a9a411ee643f9b96541778a6dc5db776f41ce1932f2fb" />
+	</machine>
+	<machine name="Flip A Card (Gottlieb)(1970)(Loserman76, HauntFreaks, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Flip A Card (Gottlieb)(1970)(Loserman76, HauntFreaks, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Flip A Card (Gottlieb 1970)_Teisen_MOD.vpx" size="34181120" crc="4e93b20d" md5="399ddf013bf4aa02f1a156f1ce7c55a0" sha1="fa7618c74c6c288d810cb8de437f617ed8bcee4a" sha256="9a87819ce6873ad94afab71494de2f9d5b5e0129596e3b2e7b7044f1bbaa0807" />
+	</machine>
+	<machine name="Flipper Fair (Gottlieb)(1961)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Flipper Fair (Gottlieb)(1961)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Flipper Fair (Gottlieb 1961)_Teisen_MOD.vpx" size="35901440" crc="b054a098" md5="8ea3d7bd09bc98e064d13277c811d282" sha1="5c365bc37e94d16fcaa8f3c042444fd8d7d9bf01" sha256="68bd03c087fae6fff384700676e1f09532e7cbcdee238eb4ed55ea17c2bcd156" />
+	</machine>
+	<machine name="Flipper Pool (Gottlieb)(1965)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Flipper Pool (Gottlieb)(1965)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Flipper Pool (Gottlieb 1965)_Teisen_MOD.vpx" size="43012096" crc="0d7d1ece" md5="e71af97d6b67aec3b1171cecbb0a560d" sha1="21d0b6ee7e131f1bd060bcb674e0bea48af7c9f4" sha256="6dcce0e0c1eeb6eb539406afa94ae4d49a152035b624ead91e492ae884b02cee" />
+	</machine>
+	<machine name="Flying Chariots (Gottlieb)(1963)(Loserman76)(1.0)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Flying Chariots (Gottlieb)(1963)(Loserman76)(1.0)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Flying Chariots (Gottlieb 1963)_Teisen_MOD.vpx" size="42098688" crc="38fdde04" md5="ae5c96b1de9e732c1984ace0f932ae67" sha1="bcdf32ddbc4310ee3782013f7169334037e0293e" sha256="8341f1443ca0aef280301c81eceb1a5265035454e38670bf406501ddcfafe99b" />
+	</machine>
+	<machine name="Four Seasons (Gottlieb)(1968)(Loserman76)(1.0.0f)[VPX07][MOD Gfx v1.0.0 Teisen]">
+		<description>Four Seasons (Gottlieb)(1968)(Loserman76)(1.0.0f)[VPX07][MOD Gfx v1.0.0 Teisen]</description>
+		<rom name="Four Seasons (Gottlieb 1968)_Teisen_MOD.vpx" size="42487808" crc="4d37cd2c" md5="3fb2975a519398f6e651ca9c6a5aa9de" sha1="49a06efd2664831d3949fd1146e7e06fc1a71b04" sha256="338bc27d429d4c9faf9c2a4fca196187bb234467368f35ae8e6bfce0c4c6cce6" />
+	</machine>
+	<machine name="Free Fall (Gottlieb)(1974)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Free Fall (Gottlieb)(1974)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Free Fall (Gottlieb 1974)_Teisen_MOD.vpx" size="37666816" crc="38981c9e" md5="2a299a5e5821ad3afa8f21ef3d81884e" sha1="91221a581b0921b7a97e3db8c7424492d7ec381f" sha256="8ee2a7ec6bbf5a1d67cee2a7e47d5fd3ba6933d738d7a049c3fffa363098e626" />
+	</machine>
+	<machine name="Full (Recreativos Franco)(1977)(Loserman76, Popotte)(1.0)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Full (Recreativos Franco)(1977)(Loserman76, Popotte)(1.0)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Full (Recreativos Franco 1977)_Teisen_MOD.vpx" size="38731776" crc="f7c69d57" md5="2af2bc7076454a9c11e40c7ee00650be" sha1="da020cb452bb430ce029985a55f1edefe11489f2" sha256="51da385353ad873e749d653a3df4bf1807eb40bc85b87aaf02d56ece5e90ea9d" />
+	</machine>
+	<machine name="Fun Land (Gottlieb)(1968)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Fun Land (Gottlieb)(1968)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Fun Land (Gottlieb 1968).directb2s" size="21056921" crc="5d61a403" md5="0274fce5f18bd8b9fb48957e1e218a29" sha1="4fef400db4826937d56c0e1ab81720bafdf0e6ba" sha256="2a04662de78eb4667e05ce95fe1b8bf97092a0d669d443e9dbc98c944e408085" />
+		<rom name="Fun Land (Gottlieb 1968)_Teisen_MOD.vpx" size="36892672" crc="afd6638e" md5="b2a4ff32c75fdf3b0e9f3a19d85097f5" sha1="69d8d7ac43954177e1fd572236f43d4abc34e343" sha256="9cb1f96590e2514d66e107376f77481e4d8b866a21017d3abda2a5bda994fabb" />
+	</machine>
+	<machine name="Gay 90s (Williams)(1970)(-=Kees=-, Loserman76, HauntFreaks, Borg Dog, Zany)(1.00)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Gay 90s (Williams)(1970)(-=Kees=-, Loserman76, HauntFreaks, Borg Dog, Zany)(1.00)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Gay 90's (Williams 1970)_Teisen_MOD.vpx" size="21487616" crc="d1f2fb20" md5="bdda74e414b80d1410b12e4d18c09605" sha1="a73076c5ed4ae0730ef0903dff8d887648e3fe4f" sha256="4001d15c9b57f565ad5fc26f99114c5936ac321c8eff08a20219bddfb066a4e0" />
+	</machine>
+	<machine name="Gigi (Gottlieb)(1963)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Gigi (Gottlieb)(1963)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Gigi (Gottlieb 1963).directb2s" size="28971122" crc="f6189459" md5="8898ebd9652b09cebe87a92bca171fce" sha1="badc43d8f48d50f749a8b6b96750f50c4973121e" sha256="aae74c099c26dc508c3e94aeca1826435ee256b1508009a8f076b7b9c78c13c6" />
+		<rom name="Gigi (Gottlieb 1963)_Teisen_MOD.vpx" size="45826048" crc="5c6b61f3" md5="dccb37fbc012afd0d5e42ad4e9872597" sha1="8eb4ad0d1bed365108e15a5b4ea4cfe44097afdd" sha256="0fa2f82644b4bf2512a7ec3c73fab2006538737985aebf58793b1ff6903728ef" />
+	</machine>
+	<machine name="Gridiron (Gottlieb)(1977)(Loserman76)(1.0a)[VPX07][dB2S][MOD Gfx v1.0 RusstyT]">
+		<description>Gridiron (Gottlieb)(1977)(Loserman76)(1.0a)[VPX07][dB2S][MOD Gfx v1.0 RusstyT]</description>
+		<rom name="GidironVPX7_RusstyTmod1.0/Gridiron_RusstyTmod1_0.directb2s" size="16676487" crc="5ff5161a" md5="1761627eaf5a554c9eca4bbabef5e027" sha1="92cd0cb025d7cbc98306c2fdb6f03420e5f6dab8" sha256="d7fc04ded7345307d4a9cd49519f36bc97cd3c3921f78e18579a2ee288d5b9b1" />
+		<rom name="GidironVPX7_RusstyTmod1.0/Gridiron_RusstyTmod1_0.vpx" size="56631296" crc="bd14d2f2" md5="3cef6d90566a6cc57311fe9974c8aa5f" sha1="f1ff136ca0f2d1447f6c3beae857935b18db7758" sha256="25fb9148407ca91b3a39018bf09e7dd41fc24ce4f351ef8f00d16413b5c053cf" />
+	</machine>
+	<machine name="Gridiron (Gottlieb)(1977)(Loserman76)(1.0a)[VPX07][NFL Team Selection MOD v1.0 endeemillr]">
+		<description>Gridiron (Gottlieb)(1977)(Loserman76)(1.0a)[VPX07][NFL Team Selection MOD v1.0 endeemillr]</description>
+		<rom name="Gridiron (Gottlieb 1977) NFL Mod/Gridiron (Gottlieb 1977) NFL Mod.directb2s" size="50310762" crc="8698594c" md5="dbefca18d5e9bf7e63baad1c2305bf45" sha1="d67296c92fcfea62ca10cccddf7f91f00395ca2f" sha256="be1abd709e533c040462b6db8da147f7160ef5f8abf47ee22d1bfb3d8e579cf8" />
+		<rom name="Gridiron (Gottlieb 1977) NFL Mod/Gridiron (Gottlieb 1977) NFL Mod.png" size="308257" crc="28176cdc" md5="d7e54b854b086a35c168b0cb7180b4a3" sha1="554d834de7721adfe20fb7aa7aea5ee2c5dba1b2" sha256="81182b4115bbe3a6cd877e90ae077ef85b41e4bc273ff1ddf81798f83f31e0ce" />
+		<rom name="Gridiron (Gottlieb 1977) NFL Mod/Gridiron (Gottlieb 1977) NFL Mod.vpx" size="52072448" crc="7538aa81" md5="058a05bb58f2eaf863ecd278b65748bf" sha1="133b4772aeb143bc329f81f28c2c67027d272c37" sha256="d8c116dc2713fdf92fbea274f898278eb025990d54a3f418aaf7efa22971faff" />
+	</machine>
+	<machine name="Jet Spin (Gottlieb)(1977)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Jet Spin (Gottlieb)(1977)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Jet Spin (Gottlieb 1977)_Teisen_MOD.vpx" size="41566208" crc="c2d88631" md5="87488aca9bdb2e2ddd1ac76fcc80d0f5" sha1="f062dd543460282f7475a9929f0cf00d32e0240f" sha256="dce06c4903e888372a02bfbe498352da6113e3a1849dea469dea32e37b8fc272" />
+	</machine>
+	<machine name="JP's Capt. Fantastic and the Brown Dirt Cowboy (Bally)(1976)(JPSalas, akiles50000)(4.0.0)[VPX07]">
+		<description>JP's Capt. Fantastic and the Brown Dirt Cowboy (Bally)(1976)(JPSalas, akiles50000)(4.0.0)[VPX07]</description>
+		<rom name="JP's Captain Fantastic (Bally 1975) v4.vpx" size="7553024" crc="27af19c3" md5="46d06459d33ca5336304741390f16081" sha1="bad6a9cf7d54f00396280637b0627353fe806c3f" sha256="6c93c0bddc7ea0466369f298e767eb6a574c62e5ccb20386f620ade3824d9961" />
+	</machine>
+	<machine name="JP's Deadpool (Stern)(2018)(JPSalas)(1.0.8)[VPX07]">
+		<description>JP's Deadpool (Stern)(2018)(JPSalas)(1.0.8)[VPX07]</description>
+		<rom name="DP_Frame.png" size="326147" crc="f78aa04d" md5="c22df80bc173aa40aeab0cb5505d7d83" sha1="a80d78c3afda5058a486ab39aee31d0044def05d" sha256="40495c03c696533beaaa64c8ae44f4e2a5506a6a5c98d51fa864f92f457700df" />
+		<rom name="JP's Deadpool 1.08.vpx" size="37687296" crc="24ca07e0" md5="45773c42725b4c2b30ef1e93ec4884d5" sha1="e99845614bf0f65ce42115e6a4b1974e26427013" sha256="e987ced9e45a35a511dcfb1d03a9701f24cdc69d2f9f61dc21cd82c25e4f8bd4" />
+		<rom name="JP's Deadpool 3 screen.directb2s" size="6880825" crc="a5a3a16b" md5="6b5f2844d4e4afdde9543517a25c555f" sha1="a28011b4edb1c262e5b08e57ee5766fa41a66edb" sha256="b06f02bd88ed2e4aaf3611e4767fcd8c4b03889da339df9af4a6ddd66cf4d74f" />
+		<rom name="JP's Deadpool v1.0.pdf" size="340859" crc="e93f0a47" md5="7874b9df49ead15fd4a4dd70b05c384f" sha1="abcc0c31dc3db1a01de74148f6268a79f98424cc" sha256="fea97fbb6a5d5c6347e05ad26115df05b92aebb156fd492adae6b86bc6e0e206" />
+		<rom name="JP's Deadpool.directb2s" size="7377509" crc="62396e87" md5="8326049c8fc1981eeae4795e552d93e6" sha1="c2ecf0398ae11ec2d2c99be7eccd95dd98dfa08d" sha256="6e37e2845e76892e48db8f818e3d3d7a4a1aee23a19d13c09c45a75876fb8b7b" />
+	</machine>
+	<machine name="JP's Deadpool (Stern)(2018)(JPSalas)(1.0.8)[VPX07][nFozzy, Fleep, LUT MOD v1.1 Gedankekojote]">
+		<description>JP's Deadpool (Stern)(2018)(JPSalas)(1.0.8)[VPX07][nFozzy, Fleep, LUT MOD v1.1 Gedankekojote]</description>
+		<rom name="Deadpool 1.1.vpx" size="94474240" crc="1ad1ea16" md5="c67c476622309c40da67dc5f749a2d6e" sha1="1f358e0935bd10e9596757978d116249c3146f4e" sha256="c17727c42c260aa42b437d6caf4864b8535a135a8f9102ab4b9f64cc41cce91d" />
+	</machine>
+	<machine name="JP's Deadpool (Stern)(2018)(JPSalas)(4.0.1)[VPX07]">
+		<description>JP's Deadpool (Stern)(2018)(JPSalas)(4.0.1)[VPX07]</description>
+		<rom name="DP_Frame.png" size="326147" crc="f78aa04d" md5="c22df80bc173aa40aeab0cb5505d7d83" sha1="a80d78c3afda5058a486ab39aee31d0044def05d" sha256="40495c03c696533beaaa64c8ae44f4e2a5506a6a5c98d51fa864f92f457700df" />
+		<rom name="JP's Deadpool 3 screen.directb2s" size="6880825" crc="a5a3a16b" md5="6b5f2844d4e4afdde9543517a25c555f" sha1="a28011b4edb1c262e5b08e57ee5766fa41a66edb" sha256="b06f02bd88ed2e4aaf3611e4767fcd8c4b03889da339df9af4a6ddd66cf4d74f" />
+		<rom name="JP's Deadpool v4.vpx" size="38088704" crc="9a527786" md5="619a8cf8711a4d6d537ec64861cb1f84" sha1="0a8ef1e4ef4748470b5dee17e7d8dfd0bce15242" sha256="214e1ae52b5a6f1270337392669439ee7b44e452b06f1306298f7d85dbf3c947" />
+		<rom name="JP's Deadpool.directb2s" size="7377509" crc="62396e87" md5="8326049c8fc1981eeae4795e552d93e6" sha1="c2ecf0398ae11ec2d2c99be7eccd95dd98dfa08d" sha256="6e37e2845e76892e48db8f818e3d3d7a4a1aee23a19d13c09c45a75876fb8b7b" />
+		<rom name="JP's Deadpool.pdf" size="340859" crc="e93f0a47" md5="7874b9df49ead15fd4a4dd70b05c384f" sha1="abcc0c31dc3db1a01de74148f6268a79f98424cc" sha256="fea97fbb6a5d5c6347e05ad26115df05b92aebb156fd492adae6b86bc6e0e206" />
+	</machine>
+	<machine name="JP's Deadpool (Stern)(2018)(JPSalas)(4.0.1)[VPX07] [MOD LED v1.0 Ejse83]">
+		<description>JP's Deadpool (Stern)(2018)(JPSalas)(4.0.1)[VPX07] [MOD LED v1.0 Ejse83]</description>
+		<rom name="Deadpool v4.0.1 Ejse83 LED Mod.vpx" size="38141952" crc="5507b9b0" md5="288f262f776b2875122e357198b33176" sha1="3da328fb0a667b6199d635eed9bdad887ee08ff6" sha256="8f291fef5a568f1fad3b5d3238e41f5eba7f86ece3a44722785a445e3117c289" />
+	</machine>
+	<machine name="JP's Mephisto (Cirsa)(1987)(JPSalas)(1.0.1)[VPX07]">
+		<description>JP's Mephisto (Cirsa)(1987)(JPSalas)(1.0.1)[VPX07]</description>
+		<rom name="JP's Mephisto (Cirsa 1987) 1.0.1.vpx" size="38637568" crc="56583747" md5="71f8cb755417e1e2feff752fbdbebf28" sha1="ba858577d84f30e6ea1cf4ad717b2295c4651948" sha256="3eff474b44e5f44b3108f37faadbededf6958ce65e78179726ae0c1a5b1ea6ec" />
+		<rom name="jps-mephisto--cirsa-1987--10.jpg" size="2201941" crc="1e3abf47" md5="5a807db07a2e9883c0cc468e4bb09d04" sha1="294b417aad5c1141643dcd7b1b93a1bd29eafaae" sha256="d2dc999996058452c4e8bf74c979b419a984b0c08e283575497d158b750e3a0c" />
+		<rom name="jps-mephisto--cirsa-1987--10fs.jpg" size="2459359" crc="43c670ec" md5="815b55b1eb0523999c8eb9a3c57717b3" sha1="a45cef03c11f34dbafbb7547fab384e587acb58c" sha256="1b34167b6f106cc471d374abf81366bdbaf1e2d5303a4c0c6193856b6e7b70af" />
+	</machine>
+	<machine name="JP's Mephisto (Cirsa)(1987)(JPSalas)(4.0.0)[VPX07]">
+		<description>JP's Mephisto (Cirsa)(1987)(JPSalas)(4.0.0)[VPX07]</description>
+		<rom name="JP's Mephisto (Cirsa 1987) v4.vpx" size="14020608" crc="bef72904" md5="d52954a609308151eb05b9cee5c39f21" sha1="efd8789185bb2d7d441074c49ac1ab676ad2eb31" sha256="d6972956fb3b7b69e26fefd8b6082775db2875e9dfc5bd4336ec72afa32f92f4" />
+	</machine>
+	<machine name="JP's Mephisto (Cirsa)(1987)(JPSalas)(4.3.0)[VPX07]">
+		<description>JP's Mephisto (Cirsa)(1987)(JPSalas)(4.3.0)[VPX07]</description>
+		<rom name="JP's Mephisto (Cirsa 1987) v4.3.vpx" size="14888960" crc="6c7c1f4d" md5="e2ad47a0a0c291f917539fc15fefcab3" sha1="c38e62d01fbf2fb3c853e97004b6da0940e98f90" sha256="3e59d7d32a582ca6be3c8ec36bbe6f01783ccb764d872b4e5fe0ac14acc84678" />
+	</machine>
+	<machine name="JP's Space Cadet - Full Tilt! Pinball (Maxis)(1995)(JPSalas)(1.0.3)[VPX07][MOD Script v1.1.2 jwkramer61]">
+		<description>JP's Space Cadet - Full Tilt! Pinball (Maxis)(1995)(JPSalas)(1.0.3)[VPX07][MOD Script v1.1.2 jwkramer61]</description>
+		<rom name="JP's Space Cadet Pinball v1.1.2.vpx" size="20680704" crc="8dfa0544" md5="084db3059285b80879aa2d563717ff0b" sha1="9dc8816b484444fe3e16a8e58d235adf3b008cd6" sha256="93cfdf2d3d96e6f3f02b62d85ec9709a39128548a311b1b320332474bb205061" />
+	</machine>
+	<machine name="JP's Space Cadet - Full Tilt! Pinball (Maxis)(1995)(JPSalas)(1.0.5)[VPX07]">
+		<description>JP's Space Cadet - Full Tilt! Pinball (Maxis)(1995)(JPSalas)(1.0.5)[VPX07]</description>
+		<rom name="JP's Space Cadet 1.05.vpx" size="17477632" crc="6d68c9de" md5="5dd137b090a595442e1ba2b1ee520c3d" sha1="54b9d55fc92f108df837b6acf0de7aa5b9cfa1a8" sha256="bc9ec578d97b7c2f0474313859b74868517c704c4568417d3c29f659bf6f438c" />
+		<rom name="JP's Space Cadet.pdf" size="267347" crc="2a984bc5" md5="bc4ecfb9425d7923476d4711b21eedaf" sha1="1fad75a80c12cdc4312e53cbf783f5372957f401" sha256="9299482c40d23963aeed904e64744b5f23b97e5d035a4bee3bf96bb33f263e47" />
+	</machine>
+	<machine name="JP's Space Cadet - Full Tilt! Pinball (Maxis)(1995)(JPSalas)(4.0.0)[VPX07]">
+		<description>JP's Space Cadet - Full Tilt! Pinball (Maxis)(1995)(JPSalas)(4.0.0)[VPX07]</description>
+		<rom name="JP's Space Cadet v4.vpx" size="16027648" crc="f9133d75" md5="6f759df3a1e858eb17571aa9cafdeee7" sha1="a80d4012050536ffe6403a2d1005c999963f4189" sha256="3854c64649b966e64a26351104e80fe45f973e3942ca65433ea4f9a2c60d63da" />
+		<rom name="JP's Space Cadet.pdf" size="267347" crc="2a984bc5" md5="bc4ecfb9425d7923476d4711b21eedaf" sha1="1fad75a80c12cdc4312e53cbf783f5372957f401" sha256="9299482c40d23963aeed904e64744b5f23b97e5d035a4bee3bf96bb33f263e47" />
+	</machine>
+	<machine name="JP's Space Cadet - Full Tilt! Pinball (Maxis)(1995)(JPSalas)(4.0.0)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>JP's Space Cadet - Full Tilt! Pinball (Maxis)(1995)(JPSalas)(4.0.0)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Space Cadet_Neon_Teisen_MOD.vpx" size="21655552" crc="b94b36ec" md5="607910195cdb8679f5a50949d88daaae" sha1="29e5221c79aa8bbb5f7d99085143fca7c96575ca" sha256="0ea19db8b9c9c165cdfffe1f8f8bb4503e4a61e0769e96250477af92794dae71" />
+	</machine>
+	<machine name="JP's Space Cadet - Full Tilt! Pinball (Maxis)(1995)(JPSalas)(4.3.0)[VPX07]">
+		<description>JP's Space Cadet - Full Tilt! Pinball (Maxis)(1995)(JPSalas)(4.3.0)[VPX07]</description>
+		<rom name="JP's Space Cadet v4.3.vpx" size="16818176" crc="f42b25f8" md5="3f678055562bb3385ff5dcf74898344d" sha1="9b357b6bb92f38d75200f67e750bb6bc327668f4" sha256="e7a37b9da3401ede7d5560782796e3d601b10b9f87550dca17a6d6fdcbc6b5dc" />
+		<rom name="JP's Space Cadet.pdf" size="267347" crc="2a984bc5" md5="bc4ecfb9425d7923476d4711b21eedaf" sha1="1fad75a80c12cdc4312e53cbf783f5372957f401" sha256="9299482c40d23963aeed904e64744b5f23b97e5d035a4bee3bf96bb33f263e47" />
+	</machine>
+	<machine name="JP's Wrath of Olympus (JPSalas, T-800)(1.0.1)[VPX07][DOF arngrim]">
+		<description>JP's Wrath of Olympus (JPSalas, T-800)(1.0.1)[VPX07][DOF arngrim]</description>
+		<rom name="JP's Wrath of Olympus.directb2s" size="14469488" crc="7097ac85" md5="55c18c6affa8d7687c9a02a2fe8d31f1" sha1="a40e2cfd63c03b9811a07f1eca320a407cbd51be" sha256="2ed08df8eb986a53e1008358c7dbce3cf1c6a682efd12f3716808c4e489753bd" />
+		<rom name="JP's Wrath of Olympus.pdf" size="1036963" crc="56d60781" md5="d3c53951861287b7740a0c9fc3a4df9c" sha1="a41878f5256441e11d5c5005890580723a49fa9d" sha256="22f6773d94a561806fd956a1df919823b7e2220695c702122b104426d92c5eb8" />
+		<rom name="JP's Wrath of Olympus.vpx" size="25075712" crc="3dde3a08" md5="780f20fc45040b1d78c72161420b4ab6" sha1="5ec8901ea5a296d78038d74d665c0d4ea524643a" sha256="1c8050be42cdc90eaf414cb2a040d92023df06d74697d42f59c6dc55019d9c3e" />
+	</machine>
+	<machine name="JP's Wrath of Olympus (JPSalas, T-800)(4.0.0)[VPX07][DOF arngrim]">
+		<description>JP's Wrath of Olympus (JPSalas, T-800)(4.0.0)[VPX07][DOF arngrim]</description>
+		<rom name="JP's Wrath of Olympus v4.vpx" size="25214976" crc="b6ec3054" md5="4145a3713601e609eab8a4a4941a1c6a" sha1="676d8453ae8910a3f982843f038abad99588e68f" sha256="9b873f7d3c6125ea2a3ec45c085895ecbf453e2c1d5dc88b7bdab3a3a71151e5" />
+		<rom name="JP's Wrath of Olympus.directb2s" size="14469488" crc="7097ac85" md5="55c18c6affa8d7687c9a02a2fe8d31f1" sha1="a40e2cfd63c03b9811a07f1eca320a407cbd51be" sha256="2ed08df8eb986a53e1008358c7dbce3cf1c6a682efd12f3716808c4e489753bd" />
+		<rom name="JP's Wrath of Olympus.pdf" size="1036963" crc="56d60781" md5="d3c53951861287b7740a0c9fc3a4df9c" sha1="a41878f5256441e11d5c5005890580723a49fa9d" sha256="22f6773d94a561806fd956a1df919823b7e2220695c702122b104426d92c5eb8" />
+	</machine>
+	<machine name="JP's Wrath of Olympus (JPSalas, T-800)(4.3.0)[VPX07][DOF arngrim]">
+		<description>JP's Wrath of Olympus (JPSalas, T-800)(4.3.0)[VPX07][DOF arngrim]</description>
+		<rom name="JP's Wrath of Olympus v4.3.vpx" size="25571328" crc="080a529a" md5="32a0a52371a10477ce94badbd86644d6" sha1="aa134241de4d5c8f9b47a7c4ce0bf0fafef49477" sha256="38f27fd2dfd7591e7d3c32c5e69531877f85af5d69d8d6a4f8c8d26a8a46cc6e" />
+		<rom name="JP's Wrath of Olympus.directb2s" size="14469488" crc="7097ac85" md5="55c18c6affa8d7687c9a02a2fe8d31f1" sha1="a40e2cfd63c03b9811a07f1eca320a407cbd51be" sha256="2ed08df8eb986a53e1008358c7dbce3cf1c6a682efd12f3716808c4e489753bd" />
+		<rom name="JP's Wrath of Olympus.pdf" size="1036963" crc="56d60781" md5="d3c53951861287b7740a0c9fc3a4df9c" sha1="a41878f5256441e11d5c5005890580723a49fa9d" sha256="22f6773d94a561806fd956a1df919823b7e2220695c702122b104426d92c5eb8" />
+	</machine>
+	<machine name="Jungle King (Gottlieb)(1973)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Jungle King (Gottlieb)(1973)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Jungle King (Gottlieb 1973)_Teisen_MOD.vpx" size="37175296" crc="f85ab827" md5="0ad475c966cafc3431b38195819264e5" sha1="d5653481bacd13dfcc91657c58ee4b8436303342" sha256="ccbc78d5a35400fe384623a52bd00d14a44bcf2ea8d6833b6481e7deca83f61b" />
+	</machine>
+	<machine name="King of Diamonds (Gottlieb)(1967)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>King of Diamonds (Gottlieb)(1967)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="King Of Diamonds (Gottlieb 1967)_Teisen_MOD.vpx" size="33677312" crc="76aee184" md5="7d4f2b73d1b7593d2e7b091fd4f8ff86" sha1="ec69d598f22dd8e9120cde2b72ef356b8482003a" sha256="b81dca4cb7dffc88c940eb9772a9cd985cfa8b1f97954eb0b9e79339e4f99d91" />
+	</machine>
+	<machine name="King of Diamonds (Gottlieb)(1967)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen][MOD SSF v1.2.1 JCalhoun]">
+		<description>King of Diamonds (Gottlieb)(1967)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen][MOD SSF v1.2.1 JCalhoun]</description>
+		<rom name="King of Diamonds (Gottlieb 1967) 1.2.1.vpx" size="47886336" crc="86f960a1" md5="2bb7fa4fa558f1f9151262d9e1c64def" sha1="007f9fa01c1dc5eb404033baed6f31c54c83a984" sha256="3e8f5c4c53de2e1b8e62fea97c8efb06cf3d3b81e22f4bb408840ec9a6f37904" />
+	</machine>
+	<machine name="KISS (Stern)(2015)(AllKnowing2012, JPSalas)(v2022)[VPX07][MOD Gfx v1.1 Bigus][MOD LED v1.1 Ejse83]">
+		<description>KISS (Stern)(2015)(AllKnowing2012, JPSalas)(v2022)[VPX07][MOD Gfx v1.1 Bigus][MOD LED v1.1 Ejse83]</description>
+		<rom name="KISS (Stern 2015)_Bigus(MOD)1.1 Ejse83 MOD.LED.vpx" size="103772160" crc="5518801e" md5="de9f02115b4ffd3ce467e83ad132aa75" sha1="e16f7e482240e64c5d8e7d0638d3ec88f39d1b47" sha256="560edee57c2a89119446018a307db267fef119646528c1acc3b49d995294e012" />
+		<rom name="Kiss backglass dmd LED.png" size="9204127" crc="9837f108" md5="540268c53e312d1b3f0e36116bb2cb3c" sha1="2d1cc165a665b7e28e074d54e5f17c8aa6a5e8ce" sha256="d66b5c2ff02c5167851141945c26eae8d5d4fefb9c7107013ece27af0f59a3ec" />
+		<rom name="kiss install/KISSCode.vbs" size="36441" crc="85cbf688" md5="b7f2dab61acb1ad371f1cca4e3690d94" sha1="edb7f1ce75413eef7c9cdcfa887377c757c1be87" sha256="5868f047b44045fcadae3d8d254e426eea3c31ee8cfc2783f9d7d4dbca392354" />
+		<rom name="kiss install/KISSCore.vbs" size="27145" crc="696a27ac" md5="ac43ec60fcc01ef4e64120b63305445f" sha1="352a60ab1e80f3be5b76d1a8004f914fc5a1035c" sha256="4196c606b02bc080444cd6e94a3269d61e76b5ac5ef4a092de01297ec4ebc61b" />
+		<rom name="kiss install/KISSDMDV2.vbs" size="19411" crc="69e99760" md5="0341be6aba37d6ecd3ba104f7b64e16d" sha1="7e5ba66e4923b8e63f4de046f98897ce4f577d3f" sha256="5a1ec2bd53bf071cb49b8665fea4cdd34fe2223a96f70c915a0a36a3c324e842" />
+		<rom name="kiss install/KISSMusic.vbs" size="2603" crc="9769ce2f" md5="534be48387ec217cdbef8fc66a8fedc1" sha1="660f300ff2f848e82b5cac281d5a7f38a98a28fe" sha256="352f803cd95d89f9bdfb8c3ce6023df621b02e61c61a2f90b68e5b30dfd76a8f" />
+		<rom name="kiss install/KISSRules.vbs" size="50338" crc="01d14c8f" md5="37d0cd3ffee589c1f7d87ceb26e9bda3" sha1="438cf7efb17b843a56c080ee008cd948345497ec" sha256="3bca8241b9b93f6d478afb7e4e576ca435482724da9d42c89e5d1d147c07d18d" />
+		<rom name="kiss install/README_to_INSTALL.txt" size="905" crc="35a9f447" md5="1c0503f5ad75eef542ce066b7ed83cdd" sha1="714a4371fee557fb27c6b031f3a0e3190916a45c" sha256="b42c48c82c3e35248e405508437d200920443844c9538d2bc7c8aebbc3ad2c18" />
+		<rom name="kiss install/UPDATES and TODO.txt" size="2451" crc="46653c8d" md5="5b8ad6d9b54303caac630686c37bc49d" sha1="c80e4f58b0261503ea41a669e91246db19846bf1" sha256="7019fd90ba11ede31a32fa55b96f04c01cabcc39afa6e7cf70f32de89194591a" />
+		<rom name="kiss install/KISS.UltraDMD/1.png" size="2397" crc="47991236" md5="0e3b24553bf7e6c33ca224d133dd668c" sha1="aac476f29e58b62ceb83f0800a0c13fe94bfe0f7" sha256="ce062a08e11969288b00231220a64572f36ae3ebb730dd8ae2c72d2e77131a7f" />
+		<rom name="kiss install/KISS.UltraDMD/2.png" size="2359" crc="efe15a85" md5="7a133fb5d76b72f495c5098c8dbb1628" sha1="605424917d928dfadfe887028a7ff434d0bf00b4" sha256="c0bec8ff5453ed440c44044c56fbecaf88d06c62a3bf15429815b48486a0a266" />
+		<rom name="kiss install/KISS.UltraDMD/3.png" size="2399" crc="25c3deda" md5="e5f1052ad2cf34b099e75e5644905aad" sha1="db33531bb34db0ef9da19f0c4c18e37bc48aa626" sha256="903350e5cd2dce38b869ab2382d6e5b72eb995a668372a2867cca279715a4389" />
+		<rom name="kiss install/KISS.UltraDMD/4.png" size="2404" crc="75549e5f" md5="3422fdb7eb369b37ad60685906b2543a" sha1="228d9b0a4e575a79bf25cc383a85a31b4a75d833" sha256="cbce37dde56f18e986c78f846e22e1f9dff2cc1d4a971019b214064c7fcbad6c" />
+		<rom name="kiss install/KISS.UltraDMD/5.png" size="2379" crc="2164a364" md5="97257da2abd89bf673bd54431b60c00f" sha1="fa14cad84c245f0df863cc8d313d71da75b55a4b" sha256="22cbe573f957dbf3e0660d8dd8725f7aaa2ecbeb47bd617e3bf8f8224ef67522" />
+		<rom name="kiss install/KISS.UltraDMD/6.png" size="2385" crc="719b58b8" md5="8d507837807b050be824e7e397e9397e" sha1="3a66b1df52029d9f75891547975ad246e2616341" sha256="39015d20121e5a5977c3f5b18ad3291cd07b25cd2f87a46d0bd3b4be70ec3c42" />
+		<rom name="kiss install/KISS.UltraDMD/7.png" size="2410" crc="d6a3b524" md5="ccafae83f9834f522ae84c842415051a" sha1="d1522d71519bae35c1d7e4f9e3818fdb46cb4ec2" sha256="946ebe30c2cc8ee6c2df578c48393b10d2fbbb0bb7b15fd3947aadb328c244de" />
+		<rom name="kiss install/KISS.UltraDMD/8.png" size="2391" crc="1837a06b" md5="a84011fe587a95c91892d8c36c794462" sha1="f6f16ec8c05c6697abce0f1576be00437d9a2eee" sha256="870bd456344cd38abf128e4114c489eb0b913195e3168650177ccb0fdba4aa64" />
+		<rom name="kiss install/KISS.UltraDMD/9.png" size="2400" crc="ee2677d3" md5="d352f13f530541e5cb45448394992f32" sha1="657d45917e34e5cdbf08f7db5bd05939ed85721b" sha256="d1440463b8a84bfb0cce1773545d65053873dda437146d8e2582999a80c931b3" />
+		<rom name="kiss install/KISS.UltraDMD/10.png" size="2372" crc="6fb5b03b" md5="cb4016c9b8beb4a966264b3827e3af4b" sha1="cf6d18d15f247756e7a209c1b3711367d786533d" sha256="1552cecf199aea105c1866e7ccfb61c5707089c88de3b87457382adbf9211d40" />
+		<rom name="kiss install/KISS.UltraDMD/army1.png" size="2170" crc="ca016be4" md5="3d0e42d0ec209154c8fe5a482388fbd6" sha1="eb74ada501868536e90bcb58472effea96c4b736" sha256="69665cbfe4ad6f4872c383993bb21b647561a8068d49ff5dadfafba17cfc0058" />
+		<rom name="kiss install/KISS.UltraDMD/army2.png" size="2206" crc="0cd8eb3f" md5="619e7cca892733daa5e95db2244fda2f" sha1="596d8d25d30ae163d3cd1176630bda7a6f8c40f8" sha256="08cc3b999d69f463b40b425143ee3f09829e95602d42573731300f103abd0db1" />
+		<rom name="kiss install/KISS.UltraDMD/army3.png" size="2211" crc="6c6704b4" md5="62f4048c5bd870f95a531e7272dc6351" sha1="974549bfaf592e107341a3abf4dabbeaa6f7440f" sha256="ba31a29c137c42dfe927174d7795635d03bad0b07787b5c63b73ab79ee5eb216" />
+		<rom name="kiss install/KISS.UltraDMD/army4.png" size="2213" crc="ca833b77" md5="553ab3bec4d04c78f46fb12f520ce0d2" sha1="36de624c73059036ff0ae5e34ef1de60cf06d81f" sha256="22d73236d0390bc0ae2381ca840dbb3fc3f65275cef8702e92db0717ffdffd94" />
+		<rom name="kiss install/KISS.UltraDMD/army.png" size="2030" crc="36862c96" md5="8b3595c26a31c285eb402d1d688844c0" sha1="9c0f2211047f52ffa2aefe6ab9ece8e2acec6c14" sha256="2f070f05ccf71b46b8c112c56df094c50f6f60268e22bd1f53a9154bc26f10ca" />
+		<rom name="kiss install/KISS.UltraDMD/black.bmp" size="12342" crc="2126599a" md5="80ff0038fdc50b923bde0ed84384c5ec" sha1="d9f5972692d94c0bfc63fae8cc2b3b5189e6fec7" sha256="6444b8c56c4f7471831f6827106a8afdc04ecbe0182701ff87d9fe9f8e200d37" />
+		<rom name="kiss install/KISS.UltraDMD/desktop.ini" size="142" crc="8564f083" md5="9ee4131662acdf412ff27848a59feb4d" sha1="875df9e5903d73fcd73c29269561150c0a7da26f" sha256="64284dfd9cdaa067dfce184ab75fd4879c5345d613aa4944f8f27f6de7b2ee29" />
+		<rom name="kiss install/KISS.UltraDMD/faces1.png" size="2315" crc="0642508b" md5="d9ce42b1c3ea83b2367e6909c92ac477" sha1="832d94abdf238338f23030dec60e0406db6e2258" sha256="902f69d32faece6b7ca27b6d6b213c1eecba532a1970c70de9bb5693e1e5582d" />
+		<rom name="kiss install/KISS.UltraDMD/faces2.png" size="2342" crc="87213edb" md5="bdfc3bcf13bea299f8384fb86d2f06b0" sha1="432e04036034057b29205ec79f8791c498bd6ba5" sha256="f6ff3839a0113db052a4578f30cc5ed22e305918340ba5acc255b68449c8cc40" />
+		<rom name="kiss install/KISS.UltraDMD/faces3.png" size="2346" crc="827a76e3" md5="7dd43d4ee4d760b1a7048c16672c30d3" sha1="11bb5c947a66448d29ab2ad3b26f8ea22984c04f" sha256="4632607b95fd72f897b9543c109a66ffdc8e416975f0f7530eb918afa2154ae8" />
+		<rom name="kiss install/KISS.UltraDMD/faces4.png" size="2328" crc="aa535b66" md5="cad7d2fd25c498277e0a12b9f171ddee" sha1="3529a5c497a403208903f368bea3c13c75d5a4e4" sha256="6b99f28e12fd30b2b610f5dcf137de663e52a751bc3760eadaf8fbf97ace8531" />
+		<rom name="kiss install/KISS.UltraDMD/faces.png" size="2104" crc="a0bfac32" md5="a70f6f95209f2a5d25527cff8996efd4" sha1="8bf095a9907d8511be373da7040f1be65e8fb7e7" sha256="0af9297807a8565976ce63f04a081cc619e42592c39981d82d18e36b4099e215" />
+		<rom name="kiss install/KISS.UltraDMD/frame528.jpg" size="966" crc="077a6e13" md5="e6f3faebba08b69af03ce77fd0fcafd3" sha1="290501fba9c825bacc8311bc3e6a2e635ba12b2e" sha256="b80c182d01797e353342d30badc6448e29f82adb4744d6e4578046e026252c8f" />
+		<rom name="kiss install/KISS.UltraDMD/frame04280.png" size="6241" crc="8175ffaa" md5="e59fe72614cceb6b4274d60900d1dd08" sha1="0773b3b8f7e925b4cd7217bf491fc8051e10ff7a" sha256="7d8bdafbe58834e3876a734b13efcd1a8c16b9f0f65e75eb0b122598c5f361a1" />
+		<rom name="kiss install/KISS.UltraDMD/frame06973.png" size="1420" crc="618b3dc2" md5="639ee8b4b2e6b096161b479b24dc52ec" sha1="ad04a3a53ab212e56e7c2cbec95fb0de24ac7741" sha256="20d1b655657190c573f8120f5544efd201e1d968e835fa2d62651326ea22a4ef" />
+		<rom name="kiss install/KISS.UltraDMD/inst1.png" size="2284" crc="d86544e2" md5="1677cbf750366f4f18049786299ba44d" sha1="7b299b19311e7af7fb544d579b0e70329a409160" sha256="21c5de2288ddbe8f48de3bbb9c0a40cdfbafc6821fced7c0aebca21f282d10e4" />
+		<rom name="kiss install/KISS.UltraDMD/inst2.png" size="2289" crc="2b0cf102" md5="ebd58b5a3080e782377ed5863d2f60ac" sha1="b134e1f118a62a0983735036ad11c52fa8bc6c80" sha256="e0a09e9af80f91b2cf99c9ede8e0e0f99b701281d13a4ddb84fa79364c9af7e2" />
+		<rom name="kiss install/KISS.UltraDMD/inst3.png" size="2292" crc="5635d2d1" md5="cb37e391d14f65c732feeed98a342fa6" sha1="63776617139842faa36a332c6573bbf7e874a056" sha256="e8a48922cc44da9c983b0b45b7a0de346fa62be6cba775f622de6a98db7c83d1" />
+		<rom name="kiss install/KISS.UltraDMD/inst4.png" size="2311" crc="fa16ea2d" md5="b857d4c63ef0ba14393545272d5f8b44" sha1="6c092431cfb6b86d15b652ae8803d2ce181137fd" sha256="cea81e866a5df1a11a7a8d13017e5379c4c46edfcc2f9c76c9cae86731161101" />
+		<rom name="kiss install/KISS.UltraDMD/inst.png" size="2083" crc="9ea2a8da" md5="c0dc0cda54f837e0303245b4c19e377d" sha1="90386f5f280849008c2e50c26315c3b21c49199d" sha256="7a14558cf32d8a9ca11ae1a7308a9588bbf17a3a2b3807c71d2eb0e93dc810f7" />
+		<rom name="kiss install/KISS.UltraDMD/kiss1.png" size="1965" crc="886b2fd2" md5="a684ad93adce3174c4dedd1b2bfee8cc" sha1="dc355d451d009e32800db66deeee035241e23f1a" sha256="21ac54fc6da537d839491328440ab7e26b1ae8d7f7770db1302c5762c70a281d" />
+		<rom name="kiss install/KISS.UltraDMD/kiss2.png" size="1951" crc="d53c4d79" md5="ab34f865535691929e1b3f78148afc2b" sha1="cc973c3306c2dee8e72b74f07496bf6a1fcdcffc" sha256="a897374a1c280dedcb03cb41e29cf403ebd1221c12d8460bf0450162255eaedb" />
+		<rom name="kiss install/KISS.UltraDMD/kiss3.png" size="2192" crc="66e30763" md5="332e8a42e699a879580cc3d1dcc780bb" sha1="9802e3ae64fa8ab9d4a4f3a72b79e465507713aa" sha256="a61d7a3f5297db9cee4abf371fedc93212344cde39822d7cc889eaec0823dcd2" />
+		<rom name="kiss install/KISS.UltraDMD/kiss4.png" size="2166" crc="dbf109d2" md5="5e64fc975c479367b08264fae2db2eaa" sha1="f2f985d51691ff1fb77f94f017885f6d3a99deb0" sha256="1d693333f778c14fe689a3226048e6c68175184046b22498a6f90cd8ccd2ab0f" />
+		<rom name="kiss install/KISS.UltraDMD/kiss.png" size="1904" crc="e8bf2bf5" md5="e0b80969b8f9f9f48604fbd42cdf04b5" sha1="99ed82c8863fa469a08a485b607f195598fd5b8b" sha256="780e6eb1d6cebc43777b01ef879c7aacc73b5b19e16c2484190b483a7cda69bd" />
+		<rom name="kiss install/KISS.UltraDMD/match00.gif" size="230667" crc="c581bb52" md5="422944caec6497661fe486846458bbfc" sha1="4f98549a78b5e03caf05d4472bb3f666ed90f287" sha256="b3a072e3df1ac122e2327ac472e44935042524e87a8541b5fed9b33b2efe5653" />
+		<rom name="kiss install/KISS.UltraDMD/match00.png" size="1409" crc="8d99cbeb" md5="c13cee6565add4041f498539e71ac31a" sha1="6d28157206d516433c74383bc1df2af3eddd7bee" sha256="14be4c0dc9bacde19ca15e0ee4e3df3f9e5212606eff2bad6a60e0ecd52607aa" />
+		<rom name="kiss install/KISS.UltraDMD/match10.gif" size="228613" crc="a0a8c4af" md5="da8ffbb514fab7242c8b25411b297589" sha1="cfde723c6ae66bb2eb85480ba9a29bb9a8416880" sha256="c77046364160a9832f25f90b02da72f92f5e9e33446a259993c163688ec586f7" />
+		<rom name="kiss install/KISS.UltraDMD/match10.png" size="1286" crc="e2205512" md5="ebb5d933dc35b92980d9616d089fcef3" sha1="a74460043a60b5ca17c55ad054cc5016e1d6e943" sha256="53675bdf79809b6b0ea7ee4cf3a4228448d214800e0b750e7522dd5ef1a4ca71" />
+		<rom name="kiss install/KISS.UltraDMD/match20.gif" size="233783" crc="d222fc3b" md5="7e2ff3ff6778e1c1229dd3fdfebafbcb" sha1="f93b37a76dd4ee30b56b0d9956fd5ed58db23d6f" sha256="ae2023f593e38d72c9720bc94c13503493bfb9b6e72f0bd741b161073589d600" />
+		<rom name="kiss install/KISS.UltraDMD/match20.png" size="1425" crc="1b154559" md5="90b5cbeca9f618562fe6b5c3783b3269" sha1="abc58dc945f48a60eca2d0f182408fa0e5662046" sha256="11e02884c3d22f3cda1611bb4e32376c12c151ec629ad369d5932a38de8c135b" />
+		<rom name="kiss install/KISS.UltraDMD/match30.gif" size="234512" crc="8c22bca8" md5="3973294d2c383dcab7e143be92b81899" sha1="a7f0ca4ae17937b8ff74e8313918b84910956113" sha256="d1d66fa4e975e6f3e065f95edaefb0eafc8abfdf247b3820f372ada131db3eb2" />
+		<rom name="kiss install/KISS.UltraDMD/match30.png" size="1395" crc="d76684cc" md5="99b5bcaadf6dfe2f6aac43087b976f8b" sha1="6af44584b558a0aee06b92b7af5aba5b9e986d1b" sha256="787ae2a71341b6a7aaa68630533ae948ff873ec57bdd1b75ab1bf85489bd30ab" />
+		<rom name="kiss install/KISS.UltraDMD/match40.gif" size="207374" crc="8035b646" md5="44632952154050f65a2426e99db612a0" sha1="b2cafe10223e8dc412a1242f31ea26dd6a31068d" sha256="696f8bcb911351f024943395ed7188493661ab1fcc198414799fd7a9c92a14da" />
+		<rom name="kiss install/KISS.UltraDMD/match40.png" size="1302" crc="11238df4" md5="8d8c8e1da26b01ecb2728e6334dec316" sha1="89cb24223593e0801bdcc8edcc24c2a9b9b8c306" sha256="497010591e4931fdb9b9063cd3b7cb15a31f5ceacdaa1c9a268916d4fad7539d" />
+		<rom name="kiss install/KISS.UltraDMD/match50.gif" size="238639" crc="b11bb123" md5="e9228964c07471ef527b9374eba69798" sha1="1db3c7d40bb5c7fbb7d1ed42750cf6c996d54748" sha256="d4eaefb347f1aec76f9af738b35fc23e0cd026b32cf003d574d6637e60b0ba5d" />
+		<rom name="kiss install/KISS.UltraDMD/match50.png" size="1416" crc="ec73755b" md5="f24e4f6f1881421f1b1c55cf98d43357" sha1="029638fdf29ec81a98312d0259fe8527de661289" sha256="ceb8c1763b0534cb84fc3a1648ff3908e883b2b1c18b210c743dd5a5efd6ee7a" />
+		<rom name="kiss install/KISS.UltraDMD/match60.gif" size="236588" crc="eef38220" md5="756acbb485ac421fdec679a8a5c6bec9" sha1="230560046af4f59b75ee9dbc91e9810986f5028b" sha256="6d0ec2b6988a2c80cf7962f39e6055426206f291cee320f608c7f96dd7cd2050" />
+		<rom name="kiss install/KISS.UltraDMD/match60.png" size="1381" crc="37f441b8" md5="ecf9a436090c57a12c3fa1513c41899b" sha1="6a74eb78560b925a6b74f532e62a10bab0afdb8a" sha256="07ca20644caefcee7b74a5a508c26b79049b68ae9af6495c643e5f64d8863292" />
+		<rom name="kiss install/KISS.UltraDMD/match70.gif" size="233429" crc="76870272" md5="988277d3f575b787f9f97d025a88fd15" sha1="15137c1ce23b8bf1899007155aa18c711e9d7e64" sha256="c30e785d9a3150b7332e87042a36aa1d7c9c3599b09a5d17b7c7e12b72a3b6f1" />
+		<rom name="kiss install/KISS.UltraDMD/match70.png" size="1440" crc="0d9dc42b" md5="54eec896827cfe343638a53e4b13d146" sha1="23ccb889b7e35fa42b6cd0b8b028bcd4e4dc5de4" sha256="388fb193ce608aae2e907f8554233eb67876fc966fac9436d08801ddf4c0bd40" />
+		<rom name="kiss install/KISS.UltraDMD/match80.gif" size="240607" crc="acf0992e" md5="958ca7ff76ffa17d2af40a68046629d4" sha1="6f55a29c5d7e7e30e7ff96bd73e52c43b1a34939" sha256="e104032ef9090385eb5c7a703f3c47ca0f07bf851108b396586c2b4e10bccde7" />
+		<rom name="kiss install/KISS.UltraDMD/match80.png" size="1341" crc="3bc3cba4" md5="938a261222926b30c973644492273d52" sha1="c6deedef97a7a86051c22990d81599d17604cd91" sha256="37ab56b4b9fda2e8c4926e05ca97da0575f99d5d8d82927d9b717664cca0c83e" />
+		<rom name="kiss install/KISS.UltraDMD/match90.gif" size="228927" crc="a997dacf" md5="099a1ab7e2b681450576412d95e4439d" sha1="78ca0301e4f482eaee92afee73ed1761b315db40" sha256="e6a52d98b457707458c7af13f9d79e03db385e8f4924388461a012de6f275a3f" />
+		<rom name="kiss install/KISS.UltraDMD/match90.png" size="1371" crc="6077562e" md5="8390ef6f7cb89bd6ca1df7d1bf8f2bce" sha1="fc946468b202a9715872d7fa4b3831bb05c7ed54" sha256="a73d2f77b0e0ad397599d72360eeade583bad8edb794f3a4b16d9643538055c5" />
+		<rom name="kiss install/KISS.UltraDMD/scene01.gif" size="15340" crc="7fc0f5bb" md5="10dc8b8b61988caee68f76120a4e379d" sha1="4a9f1c6661772cddd5e476d3f34a55ef2fe74044" sha256="68a109cbe150c072902133e10494b2c24ca6d042d6bf8eb7c0713cebcce87c36" />
+		<rom name="kiss install/KISS.UltraDMD/scene02.gif" size="133880" crc="d8c930b1" md5="101875d24aa497abf0dd9cdee3efbc06" sha1="b0393232134223a102acaa6a90c623441457d057" sha256="8668dae8a144beedbb9dff7fe10543cef34fdf5f060cb2e06127f3f30d50fc2e" />
+		<rom name="kiss install/KISS.UltraDMD/scene03.gif" size="29642" crc="5d1d72f4" md5="30becdef2d21d499e46aa0505d2b43a2" sha1="2c3dd62480af005703f6478462d6a3dc58ea655a" sha256="8b8d8fcae8c7c10dcbf12b2a2a254c4356da58488adf6fc9a19f1d9977939e97" />
+		<rom name="kiss install/KISS.UltraDMD/scene04.gif" size="53136" crc="7f55437a" md5="469b878747b43a3a07bbfeccf3c80082" sha1="e515cf9cbcdb95084d0ebcec84effdf83adb2210" sha256="a98d15f33571cf38ec2fcf37e8aa73e060ec07e074bfcbece61fc0085bfb7e1c" />
+		<rom name="kiss install/KISS.UltraDMD/scene05.gif" size="24107" crc="880e1499" md5="534458070c226e33192a24df2c27f19f" sha1="4afd630ecee325baa28f4462d0c94055db29e855" sha256="61f32391a758e910bb7927d4de91fec440e88cd5baf173272aa50ba5bd773a28" />
+		<rom name="kiss install/KISS.UltraDMD/scene06.gif" size="132685" crc="620d12b4" md5="4ad1f14e41fb3270fe9a6465dfa3c0b8" sha1="5865536d47c2be4fecc2fc56ad6f8e22f0841fea" sha256="003c4051548f607b7caaeab6be8c924ee3a89ddac70b77e5a4688e99e8f8eced" />
+		<rom name="kiss install/KISS.UltraDMD/scene07.gif" size="142781" crc="f66808ac" md5="8f405b7522f4e6aee9c7559dfe5b5a8f" sha1="a5f209e9ffbb77bf39678b0eed84b034e354de60" sha256="147624aa875fbf44612a465ee747767e5c5bcaaf4aa0a6d898e37bfe4e9c6ed7" />
+		<rom name="kiss install/KISS.UltraDMD/scene09.gif" size="1275930" crc="65029051" md5="260881122954421500c25dd152b261ec" sha1="97ef2102dd11036350b4343f99258e4a7ff59262" sha256="48ed0aa961950a104606be060ac30b7a7f6b00c4c09a19abfb39bdf7e5b5d26a" />
+		<rom name="kiss install/KISS.UltraDMD/scene10.gif" size="21032" crc="ccef2242" md5="8645fc5c7b939ca0133bab1ab0b3b296" sha1="d278a329ed626d47f87d9338ff94026ec77cb4b0" sha256="265557e1f7b04402013ba725074ace790b35b668127e249ffc5d58e265069036" />
+		<rom name="kiss install/KISS.UltraDMD/scene11.gif" size="23445" crc="b1c2c0fc" md5="eccc55561bb22192525e895eb116f845" sha1="4211837e90235505541ed6174153e7ad9660199b" sha256="a6e962cac486dc1f4dabec7223ba4f687614f5c1a5ce8e061ded1a0975d9b3e3" />
+		<rom name="kiss install/KISS.UltraDMD/scene12.gif" size="234325" crc="4dcf3a14" md5="67b1228e13a0f38b4b9111c4e277d607" sha1="e55b4c9bb95e33f2f4c688434c6486eef43c614a" sha256="65c1ca52d928e5d496a9b577632511eaec689bb6b2c0289dec3029bef18a5fad" />
+		<rom name="kiss install/KISS.UltraDMD/scene13.gif" size="183378" crc="51e44705" md5="282e91f4a3c1c906a0c7694fe1b57f8e" sha1="b9a01047ecc4337e80594031af0d36f8487ceece" sha256="b9d9bdb70614b071c9ce1fa060fcf1fb7fde0cb4cc1c31bcc4d0de88ca89884c" />
+		<rom name="kiss install/KISS.UltraDMD/scene14.gif" size="133434" crc="baff0766" md5="d361773807be9377260b29b3a26647a4" sha1="69866279fc73111cdb354598ce91922483371535" sha256="bc210eb1e80c24771d6785da1432cb32206f5096ec1d94e16132dc88051e6646" />
+		<rom name="kiss install/KISS.UltraDMD/scene15.gif" size="172139" crc="9fdea889" md5="e96e33f5c5db9f4d4840932fb142f37c" sha1="13a0f49a6498cd23c8ef796869dabca5d41c445d" sha256="4eb588eaff99580d06a1530d32e1ceae2f433c1ce38ffca6e2590cbd3fa223a7" />
+		<rom name="kiss install/KISS.UltraDMD/scene16CROP.gif" size="34855" crc="a8cbdf4a" md5="1e18a118d3bfb8099dd2c718b52a4c55" sha1="4f063757e108a2b87eb23c7a580a0f92373efd8c" sha256="cf7b1e491efeddfd1c58384e585a6b8989498b54507b27d9a66684cde36a00e6" />
+		<rom name="kiss install/KISS.UltraDMD/scene18.gif" size="10952" crc="52c5e0c7" md5="4aed7e07fc7631c2f91bf75699194784" sha1="f4e169a5bb23faa7ddc27303dfb1a7191a3e3edf" sha256="5724b43b0095f76d162acec32cc4411d892c85850d37e0d5ca6270e9661d401d" />
+		<rom name="kiss install/KISS.UltraDMD/scene19.gif" size="33283" crc="f4ce859d" md5="e39c3570d9a48b3996065b48678f6f1e" sha1="d35d2fdfbf08219547eaa36b4ea8e89dc38f0447" sha256="96f32ccd0d1a30c75b0ed3c1ad1cde5d02f577a68b12be9f5cab13ce2002f5db" />
+		<rom name="kiss install/KISS.UltraDMD/scene20.gif" size="49726" crc="a1860a50" md5="c82b842e7f4255e3d556e1f513da989e" sha1="17af970a808352af6b12ab5f5b833bccf2355d5a" sha256="808ac37486677b12bc9a7fbb4e0c666dca3881bcf5a48b89d3d0f2430a5be2e9" />
+		<rom name="kiss install/KISS.UltraDMD/scene21.gif" size="143206" crc="1b364a63" md5="e60ca9d7173191ee0db34b913dbd20e4" sha1="bc8102a2bb3efcadfb12a98765a0051507a66d93" sha256="709b56f71204604c0823c03fa695725d4b6a5fe309bdb867571cac76a43a8963" />
+		<rom name="kiss install/KISS.UltraDMD/scene22.gif" size="216268" crc="a8723acd" md5="a8827d86380c26b88b2df175ab6a478f" sha1="c0576e325251785f5068ad9b2116f726acfe60da" sha256="f500bc9769d633becac68da9b93cf00094050728c537d16628cd72b2b4ff31c0" />
+		<rom name="kiss install/KISS.UltraDMD/scene23.gif" size="110661" crc="80bc51d0" md5="533ecf07e420855faec68318728232a0" sha1="9eac0981e8a001cb383eeac83c47ef8ad8ef27ac" sha256="e8a1093683c12676386f5f5268c802946964b6c136743e9b2d0bc3300ecabb84" />
+		<rom name="kiss install/KISS.UltraDMD/scene24.gif" size="62789" crc="7ce6bbcd" md5="bde0087bb46db4d062747d3fbf075bbe" sha1="27b49f7c32aeecdfa90588f525ecec3a16648461" sha256="28edc91710634d9b4f7145465e633150301dc5dd8840a8637ecc46c47fb9ba96" />
+		<rom name="kiss install/KISS.UltraDMD/scene25.gif" size="65788" crc="10a0962c" md5="bcd0557d7b4deacc2a67341f2b3992ba" sha1="6c02ebe35f9c3f0b624812af5276aa27cb5e2aa7" sha256="3277f849b3a4116071bf734f2e308759a846c199514c1da7e74eb059aa9a18b6" />
+		<rom name="kiss install/KISS.UltraDMD/scene26.gif" size="106982" crc="854dc714" md5="3645d31f6e533b88bb037c630b59be4e" sha1="a052eeb6af648b9ab86eb3b90c8d56c728ff653f" sha256="12cf75a3c312354b04398f12849b2fde4a9c2f0bb23a06329db6c2180cc1ae09" />
+		<rom name="kiss install/KISS.UltraDMD/scene27.gif" size="14925" crc="de1c84bc" md5="c86560605fb88520d30506441abe3f8f" sha1="172d01260eb28ff903c45c53c51f1a03e4378202" sha256="c901ac42edef921158e067a219c1b6b25e8c2a026ff8333b5cbd607f5f683d27" />
+		<rom name="kiss install/KISS.UltraDMD/scene28.gif" size="23919" crc="fd049616" md5="cc791e3d02c933dd47ea42a02094d0cb" sha1="483b862c96594f05af180ae767aab670a49cb5b4" sha256="5166872b567f27ced052c94466de47466ca5e12d6d6ac7597dedbf8e2d51ded9" />
+		<rom name="kiss install/KISS.UltraDMD/scene29.gif" size="66121" crc="7a9fa1bb" md5="2f2a4eafb1dc2054b63b96f1397ab448" sha1="28ee94f8dd673a20a253dc5b2822d378d334b712" sha256="174521d3eeecfa5a7f00971d714c635e4e0f6d64d7657c4aa237335ddf49d9d5" />
+		<rom name="kiss install/KISS.UltraDMD/scene30.gif" size="91488" crc="9c9bcb48" md5="29f0a1e2333ff56597fa311f83c2c439" sha1="d882b29f904a6902c480a69a7a12381bde0fcf72" sha256="b7268b913d1f3840af6eb7ef79015dfc6b03c7387d9e33d803164cf9f2851929" />
+		<rom name="kiss install/KISS.UltraDMD/scene31.gif" size="115266" crc="0e5d19c9" md5="da7326df4fa28c17549bcfd7385639a0" sha1="b4d25b1ecb22175b3c45660f444f55d288f476b1" sha256="0c16e726001f2c458a66356b1a8e5ed6e85e3ca27e68a2ae56b6f337ded890a8" />
+		<rom name="kiss install/KISS.UltraDMD/scene32.gif" size="74740" crc="8a5fd436" md5="4179a3b83a0a7cafb07e477adcd17cb1" sha1="942c1e4ac07a818e65c3281b0c56c56b54881698" sha256="06feb63be7535c64cc764246df2abe653a9dc769b87a88be2f429e66e360b2fc" />
+		<rom name="kiss install/KISS.UltraDMD/scene33.gif" size="40390" crc="8dcc7648" md5="b52cb3537db14b157a06d7ee5010ffee" sha1="e1b81e9eb5cd26b0a50df512ce8d080c816e7d62" sha256="69670cfa1a8973f5fe45f4fcb1e06aae9be3eb62c7f2c7b97749c3c844777d25" />
+		<rom name="kiss install/KISS.UltraDMD/scene34.gif" size="141052" crc="b1522089" md5="b1a22a781167ef01453a54c3e33f2126" sha1="ab2a6472e26e16ff3a63661dd9c02d61805e61f9" sha256="dfa4f0130da659027175388a1002b5f9cdccc91b95373b7272e9f17f26b993ff" />
+		<rom name="kiss install/KISS.UltraDMD/scene35.gif" size="59910" crc="0b68f1d2" md5="7eeb531725d4cc784d352e9be8e34f73" sha1="0e8a336f810e76a9959fc03a20c2a7ffc965a953" sha256="1af42e3bee55779fc7b1c986a13f23892d80581c464268a6b75645d4db38683d" />
+		<rom name="kiss install/KISS.UltraDMD/scene36.gif" size="632157" crc="df0b13f2" md5="d26fb3f914f5e223e11f01fcb8267e86" sha1="3761eba001c940cee99da39e73c1dc9528dddeb4" sha256="f74622a3e61bae4c9d3594191814a8407bf42a880466ac8ab29f7d4ba62846eb" />
+		<rom name="kiss install/KISS.UltraDMD/scene37.gif" size="23997" crc="3fd7c716" md5="7e6a9e3bfb7c16c614eb8d515bcc1556" sha1="7228b3afdfaa53e4460f208839192ec3d8a49f00" sha256="238792f50ba3e2ae28f3194d3a94ee5fcfdb281594207095e0c8c598fb0b08f4" />
+		<rom name="kiss install/KISS.UltraDMD/scene38.gif" size="35187" crc="57eca561" md5="fa856b2f0af2000d81db98f581976b25" sha1="fea281e9a9bde89d292735d01e7014a349780487" sha256="f33be57cce7f683e6a2f9fdb5ed5e24cd30dcfb46632ee9f440f56f68772b130" />
+		<rom name="kiss install/KISS.UltraDMD/scene39.gif" size="10129" crc="8c0f8fe2" md5="9ccfb2972103876cf214a4dfefa80793" sha1="ec3e94fdea67b828061810116f10ad64825efeeb" sha256="8411d724800df73a3df82aa1b8bea5683823388adab202cdc0c701b34e15c7f5" />
+		<rom name="kiss install/KISS.UltraDMD/scene40.gif" size="43285" crc="8d874fee" md5="3f41fc6e03927864e7ef22d4c06c7c5b" sha1="40bf8fc855df750b2141408c5c887467b4a25281" sha256="630bc048ebdf493d9252a0bfd33a73bcaef746a1b946aa1afa112eb1a89fefb6" />
+		<rom name="kiss install/KISS.UltraDMD/scene41.gif" size="45121" crc="820a813d" md5="fb201daacaaa45f8cd932a6592727b46" sha1="a00563d47f5ecb16b12a2a12690b670a7abf951a" sha256="f668bcb048cea680662685209e37cb8abd6f8833d819255c54c8f920e0316734" />
+		<rom name="kiss install/KISS.UltraDMD/scene42.gif" size="43782" crc="334a0d7b" md5="84acd017bab493dccb997eeec491daed" sha1="281a5c3371f61854659d925879ee844a2ded55f5" sha256="c320339170fce6c47d5e7371c8146bcc721b2c4f523445fe5f4812a07996cfce" />
+		<rom name="kiss install/KISS.UltraDMD/scene43.gif" size="46080" crc="3b0ac2cd" md5="a842a1287d09a9760d679a526a45f122" sha1="7007547c16a2dcec053cc682cce2aade4ac67e68" sha256="4bc3d5d82045a572c3b434937786ec6df9c7dc3a6f026591932840e6953ff312" />
+		<rom name="kiss install/KISS.UltraDMD/scene45.gif" size="188454" crc="45ae4e03" md5="3234e590a27cfcfc251f4cd3ae76d41a" sha1="f3949c76160680fe5d088eadb4dcd7ee49967920" sha256="9651187d1c2c9acd780da0040cbf5aeccd1f1b2e0dcbfd068c2a17f47561c3f8" />
+		<rom name="kiss install/KISS.UltraDMD/scene46.gif" size="83138" crc="9a26467a" md5="30f318f717c5c0ed57e44d604f815fba" sha1="6621552655d7e41f0ec0ae3a826e2cb85bb681af" sha256="c7328d13ae857a6df1022ff0c0461b7e254d5d707bf1aca5b39de63bdf42bbd8" />
+		<rom name="kiss install/KISS.UltraDMD/scene47.gif" size="28240" crc="00bba194" md5="1125543e2fb98861e00107c412aac085" sha1="c6c8b2fe5af91393b0238dc035ba468686f060f7" sha256="564de490a55b54456f2cb1576ac082d400e52d75d8eaadd4debd0f554b333057" />
+		<rom name="kiss install/KISS.UltraDMD/scene48.gif" size="26128" crc="19fb4400" md5="2cb10c5ba7c088a714f2ac8577fbfc97" sha1="92168c23226f7efa7442f2de963bfcb5aad6adec" sha256="7810468dc6bc8c507a7280b0af8a40c3c09cae665e7b86e7d8af3f4a23dd26f3" />
+		<rom name="kiss install/KISS.UltraDMD/scene49.gif" size="28601" crc="936cc5cd" md5="7831cad94238934492675359aea81cc0" sha1="841910db58c22b01b83c9fd3569c5cf80b2359b5" sha256="535b852dfd66818225e7d9725221ee8fec804f2d54ef33743eafb293f50c51aa" />
+		<rom name="kiss install/KISS.UltraDMD/scene50.gif" size="20942" crc="774a9b04" md5="bf0adfd536079d5526ddd02b56aae5f1" sha1="bd6a1214d5c3c01547f132dc8247c61cbae67007" sha256="4d79bc0ea98b48c8f50b729e40740f7cb77753af8426ee0be26ace41caf21c8f" />
+		<rom name="kiss install/KISS.UltraDMD/scene51.gif" size="384141" crc="3353229d" md5="85caa3b9469477528687177ee7b0d9de" sha1="7aea89113fbc22a42a5339f46394490b8391412c" sha256="4e809fa0282c3e9a028dea8896677f36c4a27f4c945c6464cd633c88f0a28a08" />
+		<rom name="kiss install/KISS.UltraDMD/scene53.gif" size="45777" crc="bcd07e00" md5="e8d1e48c95e1cb44122b2ebe627e6032" sha1="4164b59cb63893fb75f3054a58c75f982b1b697e" sha256="4ad7fd686f23a55e389fe2a77c92c8ab3f64e114b6ca5edd48cdecd9ae8e70e4" />
+		<rom name="kiss install/KISS.UltraDMD/scene54.gif" size="2866" crc="0b648233" md5="13bc9ae99ada92a2e26e93163ba8f483" sha1="ee64ab6ca798540aa4276d20a43dc1758f432470" sha256="0d562e0ec94562c61b2e17311275b0d349803012a29c5c903fee7b7983893307" />
+		<rom name="kiss install/KISS.UltraDMD/scene55.gif" size="58700" crc="53bcd6a7" md5="539496d5f97e1382c3a65a5caaae7aa2" sha1="44ae46186fd23f01afbc455295d6899478bf2e54" sha256="451edec2e6aa2ba132036e292d4984bbdc1a6103a3ab3dbb73dca856afddcb81" />
+		<rom name="kiss install/KISS.UltraDMD/scene56.gif" size="78646" crc="a62cf394" md5="063bde3dfe98821679c97ac37b20385f" sha1="9664bc00b8f9e6d4719549e87ab3921f43c93ebc" sha256="c84d694feeb2c46fddfbe082bf6d896ebb1531322f8e78f63dd298c139a0cb0e" />
+		<rom name="kiss install/KISS.UltraDMD/scene57.gif" size="2907" crc="36e7b7a9" md5="49bee1a0bed9ab15df3bb7824c17c842" sha1="7cd8add66075740b7cab2acfa76c6fd3515b940e" sha256="2ae82efeb359936c10889800d5042ffcab52488488a14348f62f042b12ddcf0a" />
+		<rom name="kiss install/KISS.UltraDMD/scene58.gif" size="56187" crc="6922f44a" md5="e35869c37b945db084753b07101ef63a" sha1="2a7c57ccbba9e5e3ef8ebd774248980fd8961a30" sha256="5e4c91784e70cdba90944727b46ace5f87d2e3c6fbe50599d87c5013eef867d0" />
+		<rom name="kiss install/KISS.UltraDMD/scene59.gif" size="2919" crc="fec6b1c7" md5="f8ecf31b157fef8f2f420e14c8b5e6d8" sha1="4158011c89979c0a79f0496b745159e56d97d0ca" sha256="f3b55cda1f95ad937f982a9c585beaa318c0b18718e1e0413e96eb252b5f48c2" />
+		<rom name="kiss install/KISS.UltraDMD/scene60.gif" size="347453" crc="906c272a" md5="ddcec991d013421d47b1dcceeb448684" sha1="cb87809c9b0b53da8141cd5da935c65a1bdd6cb6" sha256="e72f73788dca81fe7dea456cb34f739ffe1c36aa0b68a218d38f1b3f58511cb8" />
+		<rom name="kiss install/KISS.UltraDMD/scene62.gif" size="65988" crc="400d3703" md5="bf30f8abc7be3dad6cb341b356743261" sha1="226155752041313ecb1426547c6ac245db9367f6" sha256="d9dc88eaa261a39ef04175bb781034b335df1e3a52ea469f420b59244bc735a0" />
+		<rom name="kiss install/KISS.UltraDMD/scene63.gif" size="153718" crc="db1ff3aa" md5="92dd5afb0af7e2f986c36621cf1a6e35" sha1="926ef713d59d4746713c4b20f0e282b9fe168996" sha256="dafd5f6b8d4b0cf646dcaeba810e58c7bc0c559967e2fe0ba7694ec59c9ffee8" />
+		<rom name="kiss install/KISS.UltraDMD/scene64.gif" size="138908" crc="3ffad107" md5="e5afca93b5fffc6d13e91885cf5e6e86" sha1="26678fa84a540b1791b407244bf7591e38bf385d" sha256="92e7f9fca94cc5cea793de9d7a6ce92c49638f3d162913b5c95366a0680c0f6b" />
+		<rom name="kiss install/KISS.UltraDMD/scene65.gif" size="25188" crc="e0942c20" md5="d5ed27111c3fac9a9f046df26e7d7a06" sha1="b96407b60ff8485aaf0f6cff7b2e6f634473f14b" sha256="5b4021ca4f93f036848b253a86642133a5664fb3d87981ea5a9d9f6c4956c1a8" />
+		<rom name="kiss install/KISS.UltraDMD/scene66.gif" size="44920" crc="f87bf615" md5="5b14d8811cd48e155bc97b6dff1d5925" sha1="681287c8f6ecfba5e98eeb2641906ba1a860e968" sha256="326efa1d0bc4037607f8f44bfd47ba0dab93240d0a5281816e817df9fa9f7bdc" />
+		<rom name="kiss install/KISS.UltraDMD/scene67.gif" size="140806" crc="d3656719" md5="125d841ed55d49b5aa8a6775ef914a4f" sha1="2eebd1a95e6e7a16f051f601f2714a4ebbdf7f77" sha256="df2670a1e99c8b02cc3e12b8008e8810a80bf82d7ce939840cb46fa402e7fbed" />
+		<rom name="kiss install/KISS.UltraDMD/scene68.gif" size="125399" crc="a0f6db82" md5="33f64bfbfa3ba60cd2b230ce1c45cec7" sha1="718b01e8f25c68a0c8c892b32e7b59ac4653db11" sha256="d4426f0edf79a9d3662730cddbd32bdac97665bc5d661e478cc9fb0d1f416332" />
+		<rom name="kiss install/KISS.UltraDMD/scene69.gif" size="85524" crc="e2f0be6e" md5="8f605aed883e4211b517aed38a848ad0" sha1="3175f9110e550f2416e55990a6471d822573af12" sha256="8fc83e68e20c35a4d4b205f385ee59cb9626507d7334cc33f5c5804bdec852c3" />
+		<rom name="kiss install/KISS.UltraDMD/scene70.gif" size="111342" crc="d34a164c" md5="e9b7d8f2d9eb3ba3b379588d69b2c763" sha1="cd578b3516ead77734bd9bbcb7dcc0d2dfec7ed9" sha256="d7c17c181b9c0e3cd10bbc64b5ac57189b592a30c9f2c4f4f3f3e005997eca61" />
+		<rom name="kiss install/KISS.UltraDMD/scene71.gif" size="187752" crc="21b1c604" md5="6a8aa80f79ae3b676eaed62dc8f621c6" sha1="d6b58139d791057a7946a02287fe2d9fa9f9c36f" sha256="aea992ee56f5df75bc3a5b0dfa2c1b350dfad3e27bd1c04c8258ce5934b75ec8" />
+		<rom name="kiss install/KISS.UltraDMD/scene72.gif" size="43384" crc="98820d53" md5="9da54989e57bec146bfed2184bb86f5e" sha1="d7b62955fede2ff1c21051914b17dd8533edc338" sha256="671cf73fcdc31ee404ac0fd8f809aba165b6f91adf107a7ac3e8190d2edc8d79" />
+		<rom name="kiss install/KISS.UltraDMD/scene73.gif" size="56801" crc="9abb9ceb" md5="fd73c361ad2b7d031362c8d394100f35" sha1="c493f5e3fb8eb5e0ebb7bdb43b1aef1f9398727b" sha256="c1e93bc354abfaaf9b3fd75e8dba170f1a262d2705079821e4082c6b0a702bbe" />
+		<rom name="kiss install/KISS.UltraDMD/scene74.gif" size="132246" crc="672c3e2c" md5="f8bd0ac2fbe817c98af492bd8efb7e69" sha1="cb53120bf47fae3412be31f71b6b2cd85498c788" sha256="5fa0e374bf04c79d5e6be8cb4daddd9c84d557525efe543e2adb00c83f9842ad" />
+		<rom name="kiss install/KISS.UltraDMD/scene100.gif" size="12021" crc="06824ce1" md5="7f31860bf440ed020cfd568d760a7f1d" sha1="4f73798a423d084f2ffa3a3d92a13a808b684080" sha256="1d193fcd3076a1954b021cc6826557bf81b8ecf92fdf38e38641d2cb1e216028" />
+		<rom name="kiss install/KISS.UltraDMD/SongTitles.pdn" size="9742" crc="0ac1c257" md5="7968cc4c5660e28786b3dde082a23bff" sha1="b0314ed73ce566a64dac12d426d6c93fca2e0036" sha256="8716f3631e9a447c910396f1425fdce39c9f8b3edcf95c06906b9e09345815a3" />
+		<rom name="kiss install/KISS.UltraDMD/sternadj.gif" size="2608" crc="200f283d" md5="115cf9be27a108226493797d60b7fce2" sha1="004480e467be4778d353922194f180a2e2ad3622" sha256="709436bf88f10550360c70d4a98708214ad4d693297ba351729f46ea0aafc3e3" />
+		<rom name="kiss install/Music/bgout_song-0x1A.mp3" size="4135959" crc="8b67fb93" md5="af8b734879f4b441191f729368dae4ec" sha1="498c685e5e39ff31179db4507fc151969cc2cd18" sha256="370ac425dd5c2f27f32fe0991dcdebe5fdf9026b045c7a3055275d723082b0df" />
+		<rom name="kiss install/Music/bgout_song-0x1C.mp3" size="3249049" crc="712b3fe7" md5="e0f4af56577372506faa84cd642cb458" sha1="375f16e2f2ec41a41c45dec46a4733b856fde1ed" sha256="3f76617c55acc2b8a2a95d1672fd9f442b6d172b6ba1e17f1e95d4ba42ac2469" />
+		<rom name="kiss install/Music/bgout_song-0x1E.mp3" size="3758124" crc="afffa8dc" md5="8afe8c5c43c4fa034e6cfab0712ab66a" sha1="95a5a46a5f84b7f4ca16109214f9b7cc1816d232" sha256="f6eec0392e95593513a33ccad6dcbfa30269d71debbfac9a565308c0fe1c5948" />
+		<rom name="kiss install/Music/bgout_song-0x2A.mp3" size="2676027" crc="11e861dc" md5="b79e2a34dd176acdf269460bbd4b17fe" sha1="ee58fc5eb5a6dbc1edef743c297b36390ddbfa8a" sha256="06f9a875f72d593dea6bd897b345eb4b8e45926b1bcef13bf3932744bb714b8a" />
+		<rom name="kiss install/Music/bgout_song-0x2D.mp3" size="2746245" crc="26547242" md5="8fe85f324ef9c4b436503c9ab3c097d8" sha1="eb7668373cd1d29b9a7d99c5925c6e9d56504903" sha256="77ffd32bf903cf75f579c1c184fa41cee34da5785d734979452911a43c5a734e" />
+		<rom name="kiss install/Music/bgout_song-0x20.mp3" size="2961911" crc="219021ac" md5="be8241745738167ed3aa3fce30e29c01" sha1="ebe9c90bffbda269f9dca3735936c9cd68c32f61" sha256="6fa0c85dfefe86648e9168b82f23b92fca87c6db7d92c92aaa3efe99b207def3" />
+		<rom name="kiss install/Music/bgout_song-0x22.mp3" size="3027949" crc="3aaee11b" md5="954852a6915a3f52663ff37f81c602cd" sha1="70dccb402d68f959e6ebe5c67ddbd2fd96f0c20c" sha256="4e453b41e58258e7daef11af60955362df206d44aa19f22e128a9d5ceaf4f0db" />
+		<rom name="kiss install/Music/bgout_song-0x24.mp3" size="3793232" crc="758c6b59" md5="f5fbc33023bf44d3888273b4c833a4f4" sha1="82096efedada3e3055763214371f7799e30c7892" sha256="0839f75e950ab0b607e2648ee59635afa3fda7f158b210b5a400238c0a2e73eb" />
+		<rom name="kiss install/Music/bgout_song-0x26.mp3" size="3035055" crc="693e6159" md5="724c1c628d024f39a9cf4ed394455d2b" sha1="bc5df16d6f3bcd14e50f7631850c5c461bc5b674" sha256="fef57022100babcd5f0437786fd6f8c62e7882a8a6e7e175efa86b152ceddf3f" />
+		<rom name="kiss install/Music/bgout_song-0x28.mp3" size="3933249" crc="c0ff29b5" md5="c606f0bfba4fc89ae199b7a1477259b5" sha1="e527c2c386a921b54dfd874594f965a5e898e6e0" sha256="b8005f849b7f51cbe462a0a6d49b4fe9f45db71fad9e994abef0b264ce580061" />
+	</machine>
+	<machine name="Lawman (Gottlieb)(1971)(Loserman76, GNance, Popotte)(1.0a)[VPX07][MOD Sound, 4K v1.1.0 GauGau]">
+		<description>Lawman (Gottlieb)(1971)(Loserman76, GNance, Popotte)(1.0a)[VPX07][MOD Sound, 4K v1.1.0 GauGau]</description>
+		<rom name="Lawman (Gottlieb 1971) 1.1.vpx" size="34140160" crc="3b67d3d3" md5="f910591b96d61ee0f6ec9b684c107e41" sha1="d438f1ffcaa0ce95b5c1ccb5cb2a28b0575c9c7a" sha256="36cf3a8aa47c090e43473b3ae59007d98c8daebb4fd8a78b12291693ead1c673" />
+		<rom name="Lawman readme.txt" size="1925" crc="6ee2cb6d" md5="8494a513bb23b03310fb6010c32f662e" sha1="ba0c5b79539076d539ad7ca85939f709a99f7572" sha256="0e1045e11973a71edbac295473c6340174fc7a90e1b270cc4fe46da769f039ac" />
+		<rom name="Music/Lawman/readme.txt" size="68" crc="c535bc8f" md5="f1e501f9d019782a092ed1461cfbbb4c" sha1="c4ce45ac1a4eaa60ad81d19e5d75426064eb28db" sha256="615f446970458edcae77220fd534c786923ce9bec3e4cb5299fe626279717c8c" />
+	</machine>
+	<machine name="Little Joe (Bally)(1972)(Loserman76, ARMYAVIATION, Rosve)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Little Joe (Bally)(1972)(Loserman76, ARMYAVIATION, Rosve)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Little Joe (Bally 1972)_Teisen_MOD.vpx" size="33632256" crc="4829348e" md5="d99d6db318064071c3b4a1f486ed406b" sha1="9a3d362a6b0da68caae36f18dc3427784e873900" sha256="0ef3501b909cb65321b57c3090121c3634a578f217f6670fb9df9dab9b359418" />
+	</machine>
+	<machine name="Magic City (Williams)(1967)(bord, ARMYAVIATION, mlager8, Apophis, Loserman76)(1.0)[VPX07][MOD Music v1.0 10mmsocket]">
+		<description>Magic City (Williams)(1967)(bord, ARMYAVIATION, mlager8, Apophis, Loserman76)(1.0)[VPX07][MOD Music v1.0 10mmsocket]</description>
+		<rom name="Magic City.vbs" size="178382" crc="ef71cc5e" md5="66b555aa793b124386587e32bab11992" sha1="df3cda6e5b6f8d2cb9c5213938b5ce3cba09e9f3" sha256="4e64f9a9f0d61dab6f55f7e768f2db7d0be52f939f20e0fa4c8fd5f870a9ce8c" />
+		<rom name="Magic City MM/Magic01.mp3" size="9032877" crc="0a36ac03" md5="bf5ff7494a0293d8a9a7826fbb74c6d9" sha1="5d5e8d38d4ad35e84688f446d8c16ccc67752fbb" sha256="c092e2eb15fce7fc18274511cc497ea2154b475c49d9384c7e1c81837242b80b" />
+		<rom name="Magic City MM/Magic02.mp3" size="9924525" crc="436dd624" md5="771decf478fe22763c57e62da4bd2273" sha1="35cc081ea7060906910cba19111c107cb58a1daf" sha256="caeb661cc63878e3a79cc7081d5c6acd7a1a41008f957760fa9bd375c81b7975" />
+		<rom name="Magic City MM/Magic03.mp3" size="9284421" crc="ba69b1bc" md5="7cd54c03acb9ccdc85a4cb74590e98c3" sha1="dc4cd994b76f05f39c00bafa1008cfbdca9e26a6" sha256="37e4892f28bb37e699da56f88eaee27ef68454dc6ab91d7809093e921b476004" />
+		<rom name="Magic City MM/Magic04.mp3" size="6519189" crc="537b22f0" md5="ca50057ab866c154694f9a977c610a06" sha1="9ab6edb211262268e6a6eebeb8f0f008d827cbe1" sha256="e03a1e6cf5e2544020d6bfbf93bed08b741959561f3c29de2fac0134ae649ccc" />
+		<rom name="Magic City MM/Magic05.mp3" size="9881085" crc="da521c36" md5="7d1c0c7b2c77dc0999bda29a2c6d9ec2" sha1="640cc9b85079a8195151c48548e71eda82bcb407" sha256="52e19480a5e00f5782247d05452b95c49cc91208ef0726b7b275eb85f0216d3b" />
+		<rom name="Magic City MM/Magic06.mp3" size="7119693" crc="17a18c50" md5="e4301a3b643e3c57fc122c45227bf156" sha1="a340ba5d4c464f65254e461fff94d9c00ebfbf1e" sha256="abb6ffd705bb38e8469b006d1962a7736361b1b0846ff783c62fa31b3dfa1af9" />
+		<rom name="Magic City MM/Magic07.mp3" size="3639885" crc="aabb8f8f" md5="5c255faf5b1080379a472725a72e6257" sha1="21bfe788c8dbc2bc11b9009b2a98f0316fbe9c3b" sha256="2ad7de219d92b679dba05c9acba06673637d82b04bf7ece851250f8b7b6b36eb" />
+		<rom name="Magic City MM/Magic08.mp3" size="7904493" crc="0805c3e7" md5="aa29515dff73d326332fe453d46d81bc" sha1="ecce54f39963ac8208525d3853b8c1ee69aa7fa3" sha256="19884aea7bff299807efa2a33fdb859214ec3c7f655a63b12949eb521f649380" />
+		<rom name="Magic City MM/Magic09.mp3" size="9727437" crc="105b56f9" md5="52ff0196f08490a505a182b0ec63f4a3" sha1="8bf623e1fcea9139632ca73749cfe99041045c42" sha256="651c578c8706978733849fa1d6256bd82b9a1f7aacbe97d26d73d32aaf8ebe35" />
+		<rom name="Magic City MM/Magic10.mp3" size="9693069" crc="c54890c2" md5="2a76983503ece2254826051b9e811341" sha1="19963378944573f73a06206ed515ac046ff89478" sha256="180111c141fbef8c4cd55fc0ba248c22ba6b417399b0394019a4838ad8ec6f11" />
+		<rom name="Magic City MM/Magic11.mp3" size="2365101" crc="af12f7e0" md5="5f721be6d145d00d23b835dc2144dd92" sha1="fe8588ded0f0bdfd1a73c51ad2297caef8365764" sha256="52e7a19f777111024816ac3cc397b12f4b23b553f92072132834e790745e4bce" />
+		<rom name="Magic City MM/Magic12.mp3" size="10304973" crc="52fc6444" md5="0f90c08fe7a8acaabcbd98f1be0ec25a" sha1="9fa9bf787ace3e6e49abad060cbffff779af0b06" sha256="6ecca00f92ec79b66e7c11d01da43ef352cb5703d21b0ead61ff6a37f921d354" />
+		<rom name="Magic City MM/Magic13.mp3" size="5565669" crc="3dc28d5d" md5="4ac00d6dea338b0e62ecc8b1971ca3aa" sha1="aff4e71b84905ff665f519c106e226eb2ffc4034" sha256="fdd3f4c5c3f6bdfaabe629b3110baf356b687ca6a84dd5020f4bd87c14e95f6f" />
+	</machine>
+	<machine name="Magnotron (Gottlieb)(1974)(Loserman76, GNance, Popotte)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Magnotron (Gottlieb)(1974)(Loserman76, GNance, Popotte)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Magnotron (Gottlieb 1974)_Teisen_MOD.vpx" size="44212224" crc="bf1786fd" md5="0afd18993826f488a8ca49dcd6a864f1" sha1="f499c3f3e1cea9cc595822e3c376de1aeeef3639" sha256="a05b3b1cee7577e1141444c8e6ec2c109bc9a0e9805118473dc3b6c0efe20eea" />
+	</machine>
+	<machine name="MIBS (Gottlieb)(1969)(Loserman76, GNance, Nopah Fentz)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>MIBS (Gottlieb)(1969)(Loserman76, GNance, Nopah Fentz)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="MIBS (Gottlieb 1969)_Teisen_MOD.vpx" size="34930688" crc="f675bf74" md5="fdd979b907572a0c314d743f230533c9" sha1="59f3b15b35beccdf9b7bf3e584483695a13c77f5" sha256="42ddfbfb8221412d386c457ed850786b110a3cf6a4be706b2c174f65cd36438a" />
+	</machine>
+	<machine name="Munsters, The (Stern)(2019)(Allknowing2012)(1.05)[VPX07][MOD LED v1.0.0 Ejse83]">
+		<description>Munsters, The (Stern)(2019)(Allknowing2012)(1.05)[VPX07][MOD LED v1.0.0 Ejse83]</description>
+		<rom name="Munsters (Original 2020) Ejse83 LED Mod allknowing2012 table 1.05.vpx" size="181366784" crc="a44847bf" md5="7cbfe255e92f24354d8ea49e1fb0d6a2" sha1="0c5c429042355112f12ba9eef3cebaf34122eb8c" sha256="c4f737f0f685313a8e8219b6fa142817ae385a71cd4495a6e00af5c7de0d76ac" />
+	</machine>
+	<machine name="Neptune (Gottlieb)(1978)(Loserman76, GNance, Chris Aguilar)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Neptune (Gottlieb)(1978)(Loserman76, GNance, Chris Aguilar)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Neptune (Gottlieb 1978)_Teisen_MOD.vpx" size="38277120" crc="d94a3556" md5="4351e447ec5f44d5f4f7a64f77799623" sha1="1a505535e0f9dacbf1f1e5609913f7517e07e6c4" sha256="6e5ba9be9460c18cbaaf84614a443f51c0c87d65572bf3c1a8efd01a76ac907a" />
+	</machine>
+	<machine name="North Star (Gottlieb)(1964)(Loserman76, pbecker1946, Itchigo)(2.0.0f)[VPX07][MOD Gfx v1.1 Teisen, RusstyT]">
+		<description>North Star (Gottlieb)(1964)(Loserman76, pbecker1946, Itchigo)(2.0.0f)[VPX07][MOD Gfx v1.1 Teisen, RusstyT]</description>
+		<rom name="North Star (Gottlieb 1964)_Teisen_MOD_1.1.vpx" size="46989312" crc="0dfa3357" md5="70de96d40f0cf88aa2379dee870f6251" sha1="fdcceacd3ab1f24198af886bc78c5ac111411f7f" sha256="2626a6d4ade83cae557850be91850c1b317ed1d7aa6acee1d0aa08f785bc47d6" />
+		<rom name="North Star (Gottlieb 1964)_Teisen_MOD_RusstyT.vpx" size="47411200" crc="77271425" md5="807156e4f1ac078febab94b7d45160d3" sha1="e5615f752cef4016f5ecceafa98946ace16233ae" sha256="df51bd2392c96fa9b450664d382a03f744db4a039498728e1bdda4edfabecd91" />
+	</machine>
+	<machine name="Olympics (Gottlieb)(1962)(ARMYAVIATION, Loserman76)(1.0c aka 1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Olympics (Gottlieb)(1962)(ARMYAVIATION, Loserman76)(1.0c aka 1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Olympics (Gottlieb 1962)_Teisen_MOD.vpx" size="39723008" crc="66cab6f7" md5="f1235e13fd7665422b6b8190de79db86" sha1="70c786374cab72c9082dc6c8cdfd7cbb2882247f" sha256="3d9844abf0ece3ec7543386c4393b399d376a0f9a73e301e3465609f29f6c7f2" />
+	</machine>
+	<machine name="Phase II (J. Esteban)(1975)(Loserman76, Carlos Guizzo, Halen)(1.0a)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Phase II (J. Esteban)(1975)(Loserman76, Carlos Guizzo, Halen)(1.0a)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Phase II (J. Esteban 1975)_Teisen_MOD.vpx" size="38338560" crc="f6b8f370" md5="fe9800c20bf7defae577eb1dcb75da3d" sha1="3beca5614671c4c08415bb5c41ebabf4e4e57a9f" sha256="87fc49b841befd3206666c8939457d73258dfa80ce3ca28e6f05bd05225046dd" />
+	</machine>
+	<machine name="Playboy (Bally)(1978)(HSM)(1.0)[VPX07][Boogie MOD v0.95 Horsepin][PinGod]">
+		<description>Playboy (Bally)(1978)(HSM)(1.0)[VPX07][Boogie MOD v0.95 Horsepin][PinGod]</description>
+		<rom name="PinGod.Playboy.exe" size="40785920" crc="7824e0d7" md5="0a3023bb627538d8114a283f7b2da960" sha1="44a96237aea244faa2270a25332836bb5599654c" sha256="b88f45f7fd27338932a81550d685eb9cb80f46069426a12d65eb35830d0f6f9d" />
+		<rom name="PinGod.Playboy.pck" size="91131872" crc="f6d9770f" md5="babdedbbae15e8ddc69ad3f4bc7f5fea" sha1="bcc4178ded10dbe815d553dd4c0d9d2271e26fa3" sha256="aea798ca49f5ecdbd4e0e10daf963861db030535ab2b0dc32d70922e535a8264" />
+		<rom name="Playboy (Boogie Mod) (HSM, HorsePin 2022) (PinGod).vbs" size="18977" crc="f543f120" md5="9b2bdeca20c133d2ae93d767891e784d" sha1="0ddb9549dcd3a1c3e1e5507301c56092dcbd91ec" sha256="bc8dda98361ba1971b028af48c09a45a6aff3c3ff73d3314224b6aa0e74a2f47" />
+		<rom name="Playboy (Boogie Mod) (HSM, HorsePin 2022) (PinGod).vpx" size="25677824" crc="db26ac34" md5="f8b2aad373113d0242c53b66ea153788" sha1="f31175cf193fc9b75d259a4681922bfe7e47052d" sha256="d8acdb7f09dd15e4aece8ee6b4c24c7cfd5b7e1fef9d49609b3c7aacc0ae6cf7" />
+		<rom name="README.txt" size="823" crc="9815b513" md5="197a5b6c5a66323c8c0ce67fe4d873e2" sha1="706cd83bcb9d922db8a9925678defd0e9482c20f" sha256="615a27f66a3cd3902305ee95c1eaf3e369c0eec5a7fc759d46529f6adfea54a3" />
+		<rom name="data_PlayboyGodot/Mono/bin/libmono-btls-shared.dll" size="1374222" crc="f1f39b7f" md5="1c5d527cdbd8471b4a7da8e39bbe22cd" sha1="a9ae7ca28d4c9d453249f48616bc825adc6f0713" sha256="2c03a827bce303a95c5fe5d9aae9f11f2628a66f48e84b003eef35d033e41c9c" />
+		<rom name="data_PlayboyGodot/Mono/bin/MonoPosixHelper.dll" size="311310" crc="bab92c8b" md5="7195834ace775fc20b02ec3abeb697c1" sha1="6719acc36d2dd72d096b4f1c2eea821296bba5c8" sha256="6a751dd08f6e991b53a4f1ff64fceeeccda1929d0f228027aeb8d48f4b0f66c2" />
+		<rom name="data_PlayboyGodot/Mono/etc/mono/browscap.ini" size="311984" crc="ce6c0ab3" md5="378be809df7d15aac75a175693e25fbb" sha1="2d5454e161de8a5b65910f27bd70d9d0ad8fa476" sha256="4ddd50f31fb968f30bedefc253a46dc3f2890192d05cdaa9e0a64a056eee807e" />
+		<rom name="data_PlayboyGodot/Mono/etc/mono/config" size="3047" crc="d6b7e379" md5="8c8748fe89a30f499014fa3c2499f587" sha1="a69279d80134202b191aac0526df0cda8156a9f2" sha256="d4f11857ed39ac46bb50ace8a777259283cb46d6ae26db79987ba935d51baf08" />
+		<rom name="data_PlayboyGodot/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" size="60575" crc="95f9d0b4" md5="f7be9f1841ff92f9d4040aed832e0c79" sha1="b3e4b508aab3cf201c06892713b43ddb0c43b7ae" sha256="751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a" />
+		<rom name="data_PlayboyGodot/Mono/etc/mono/2.0/machine.config" size="29066" crc="42543b8b" md5="5b791b8493c4e9a55d8c5ee522ce1cef" sha1="3fbcec786ac4b6e81b6d2f2ab288cf67dd6760f4" sha256="e91782a27fa39fc6c1d6ee8b08529f5d35052310d0006034b878eb04b8f2af30" />
+		<rom name="data_PlayboyGodot/Mono/etc/mono/2.0/settings.map" size="2622" crc="ad5340f9" md5="22c818a23169e12bd3c8587b6394c731" sha1="dd2be2dbccd34736719301aee92429d4258ea5a0" sha256="49c6160f9d54af4270a3b4e997fc4a8301f79b9e2070118fa46ddbcbbc44f9a2" />
+		<rom name="data_PlayboyGodot/Mono/etc/mono/2.0/web.config" size="11686" crc="534a9960" md5="2b6303c4f12762b71051db6e947f90a4" sha1="a4d7e05516f63d6ab67327b299d4fb2852cb840b" sha256="3c1a76a5849074b437d297656a208a3bef6d84b982153542b9c797046c601dfc" />
+		<rom name="data_PlayboyGodot/Mono/etc/mono/2.0/Browsers/Compat.browser" size="1605" crc="2e178a0b" md5="0d831c1264b5b32a39fa347de368fe48" sha1="187dff516f9448e63ea5078190b3347922c4b3eb" sha256="8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741" />
+		<rom name="data_PlayboyGodot/Mono/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" size="60575" crc="95f9d0b4" md5="f7be9f1841ff92f9d4040aed832e0c79" sha1="b3e4b508aab3cf201c06892713b43ddb0c43b7ae" sha256="751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a" />
+		<rom name="data_PlayboyGodot/Mono/etc/mono/4.0/machine.config" size="33598" crc="86f603c4" md5="32bf879734966ef6659d914a217691e0" sha1="7a9bca61e6af9ad720da1d7d24192637d9037886" sha256="e60aec2c5115d65b3acb3c55ea21576dbd770f579166c017125571e46ae560ed" />
+		<rom name="data_PlayboyGodot/Mono/etc/mono/4.0/settings.map" size="2622" crc="dc24a240" md5="ba17ade8a8e3ee221377534c8136f617" sha1="8e17e2aec423a8e6fb43e8cbe6215040217bb8a3" sha256="ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8" />
+		<rom name="data_PlayboyGodot/Mono/etc/mono/4.0/web.config" size="18848" crc="46dcac4d" md5="b127480ee9f0b8dab6a3f73ad79dd332" sha1="7d776d730cbd253564713f36573dd8366782788c" sha256="f1a6416eeedd9d040387fd85dcf7d6e074b6644c6829d08be220ff9fc32efb31" />
+		<rom name="data_PlayboyGodot/Mono/etc/mono/4.0/Browsers/Compat.browser" size="1605" crc="2e178a0b" md5="0d831c1264b5b32a39fa347de368fe48" sha1="187dff516f9448e63ea5078190b3347922c4b3eb" sha256="8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741" />
+		<rom name="data_PlayboyGodot/Mono/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" size="60575" crc="95f9d0b4" md5="f7be9f1841ff92f9d4040aed832e0c79" sha1="b3e4b508aab3cf201c06892713b43ddb0c43b7ae" sha256="751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a" />
+		<rom name="data_PlayboyGodot/Mono/etc/mono/4.5/machine.config" size="34056" crc="c446a9eb" md5="25ff1ec49e3ac9285bd943cf036bd813" sha1="392e5ae6b3dad59418bda890952ee27a8b290e90" sha256="ee950004b576fb28dc85f4b0435ed04bf96612de2e8b53be84d07afe85a0de6c" />
+		<rom name="data_PlayboyGodot/Mono/etc/mono/4.5/settings.map" size="2622" crc="dc24a240" md5="ba17ade8a8e3ee221377534c8136f617" sha1="8e17e2aec423a8e6fb43e8cbe6215040217bb8a3" sha256="ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8" />
+		<rom name="data_PlayboyGodot/Mono/etc/mono/4.5/web.config" size="18857" crc="c3df527d" md5="08101241b15b53ef0ab908f6d388881f" sha1="ea3e2ad6d71d483c54b12852dcbdcd0baa569988" sha256="15a2c7a9242bf54d3ccb3e07fa6d8f84ba8b303d8877243787a1103009941bdb" />
+		<rom name="data_PlayboyGodot/Mono/etc/mono/4.5/Browsers/Compat.browser" size="1605" crc="2e178a0b" md5="0d831c1264b5b32a39fa347de368fe48" sha1="187dff516f9448e63ea5078190b3347922c4b3eb" sha256="8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741" />
+		<rom name="PinGod.VP-Setup x86-1.61/HELP.txt" size="99" crc="5c5ff0f8" md5="571e1590745c98c9e77bc68af41fd0c2" sha1="1d1c14d70c56cdadc1cbbd38320b418d603e2a5d" sha256="aba450551d522e156cf4398a7c00a43fe130647090ac7414e049ba146bcdc9af" />
+		<rom name="PinGod.VP-Setup x86-1.61/PinGod.VP.dll" size="11264" crc="0163de8f" md5="0265697a2badf254bddae1ffb3af3316" sha1="4ccad352eba9c14803d6bfd7adb54385bd536cd5" sha256="9fe332dd2c1563449cb572a26f888654fc1633409ec31175535d6efccb850834" />
+		<rom name="PinGod.VP-Setup x86-1.61/PinGod.VP.Domain.dll" size="6144" crc="1427d365" md5="6a9b3b1180c7ddecc14d1ec2864ba320" sha1="6f1dc0b44deea315bfe839c92a0821c208a2d6b2" sha256="625a5b53aab26b400325ebc69b1fe348c61c96baded36a514c02dedc9c7af9d6" />
+		<rom name="PinGod.VP-Setup x86-1.61/PinGod.VP.Setup.exe" size="623104" crc="9377d138" md5="98e11b5a6aedf70e32e20242db3f9656" sha1="010155211f603729bb5bdde41a21ba050390094a" sha256="aed0326182fb37fe5798d2374ef6d42971ec72d2d29aeaca163acfc6161dff7e" />
+		<rom name="PinGod.VP-Setup x86-1.61/PinGod.VP.Setup.exe.config" size="189" crc="63e8d557" md5="9dbad5517b46f41dbb0d8780b20ab87e" sha1="ef6aef0b1ea5d01b6e088a8bf2f429773c04ba5e" sha256="47e5a0f101af4151d7f13d2d6bfa9b847d5b5e4a98d1f4674b7c015772746cdf" />
+		<rom name="PinGod.VP-Setup x86-1.61/PinGod.VP.tlb" size="4712" crc="73b0eaaf" md5="8868e1505bc785749c268ef3e95bdc43" sha1="fdd668ee33dffcdafdac36377573087e1a4601d5" sha256="452048f2026f77e0510043e3ad75c144bbb829cf3eeb60187af6c5506d23004b" />
+		<rom name="PinGod.VP-Setup x86-1.61/Scripts/core_c_sharp.vbs" size="136261" crc="c5f4228e" md5="9be11fa6c56d11ac6d6e3c8d2b30ea3b" sha1="984334046bc022b0641824e827a4db50dc155a03" sha256="22e2bf648fc57a2c064b68020f41ea8a9cc3caa449fe97d591742b6256abc9e0" />
+		<rom name="PinGod.VP-Setup x86-1.61/Scripts/PinGod.vbs" size="5583" crc="11163c11" md5="e93b20a1d0ea8a553e5714c0e01e2096" sha1="71142732a5cfd86d00a1db293588eb9589d065b8" sha256="ba89fc2ef3a2d186ca5c109a4bb4018e2cb1f13ecfe8620b14593b8a3fb0b417" />
+	</machine>
+	<machine name="Pro Pool (Gottlieb)(1973)(Loserman76)(1.0)[VPX07][MOD VR Room v1.0 Rajo Joey][MOD Gfx v1.0.0 Teisen]">
+		<description>Pro Pool (Gottlieb)(1973)(Loserman76)(1.0)[VPX07][MOD VR Room v1.0 Rajo Joey][MOD Gfx v1.0.0 Teisen]</description>
+		<rom name="Pro Pool (Gottlieb 1973) (VR Room)_Teisen_MOD.vpx" size="63873024" crc="86f29313" md5="44f19037e12c032c9fb946e54741cf0d" sha1="25f04606fda042ba14c140a58191c91181b1f48b" sha256="656388e7a13ad5813932a82f6c6cd77a77ce9a34d2d84df71117c4741805bb35" />
+	</machine>
+	<machine name="Pro-Football (Gottlieb)(1973)(Loserman76)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Pro-Football (Gottlieb)(1973)(Loserman76)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Pro Football (Gottlieb 1973)_Teisen_MOD.vpx" size="33026048" crc="ff629a24" md5="6f96ac66f3e555fdd467f08c64b91ff8" sha1="6cf4b5e41773bd81e8a4526cdd3e0504b539dcc9" sha256="b5c846bad548ca9430df8d4ce453d7eb6a1f97612bed93afb1ff1dc2c52ac8c0" />
+	</machine>
+	<machine name="Rack-A-Ball (Gottlieb)(1962)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Rack-A-Ball (Gottlieb)(1962)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Rack-A-Ball (Gottlieb 1962)_Teisen_MOD.vpx" size="37126144" crc="223e848f" md5="9d7d6c7462f53490218b426dbb5a3405" sha1="7e771a4680032efa5a582f3e24b9e77c12066358" sha256="e5e6f99c7032ff03ecdfcc883745ae8cce014c552dfa01150ac6d094d8f3d67c" />
+	</machine>
+	<machine name="Rocket III (Bally)(1967)(Loserman76, HauntFreaks)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Rocket III (Bally)(1967)(Loserman76, HauntFreaks)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Rocket III (Bally 1967)_Teisen_MOD.vpx" size="40804352" crc="edecc70b" md5="175d1abf97077ad9df4c5e283199cffa" sha1="25b1408f2be74fa5f011d6a9ed9b2414b4c4ebbf" sha256="2f2668aca4faeb19cbde45fb72b5e130eaf5b65f1a8f17e8beda8ea64a9196ae" />
+	</machine>
+	<machine name="Roller Coaster Reversed (Gottlieb)(1971)(Loserman76, HauntFreaks)(1.0.1)[VPX07][Reversed MOD v1.0 ARMYAVIATION]">
+		<description>Roller Coaster Reversed (Gottlieb)(1971)(Loserman76, HauntFreaks)(1.0.1)[VPX07][Reversed MOD v1.0 ARMYAVIATION]</description>
+		<rom name="Roller Coaster Reversed (Gottlieb 1971) Modified for DT Users.vpx" size="66781184" crc="6322bb07" md5="52d149faa166d64e0c63b991011a95a9" sha1="1d0bb56b94c1dd86fc7f0822e43bb858a9bdc9d3" sha256="490c0cd91bedf6c5672cdce730d8389298f4016ae528a75c5a433557611106bc" />
+		<rom name="Roller Coaster Reversed (Gottlieb 1971).directb2s" size="12439374" crc="3ccebe24" md5="4b9967c7fffdc6d401acc3cd883634ff" sha1="63249df3eecb645e8121cc21017cf23af0c1a959" sha256="0b37693db5d51b3fb4ff0e84fd97e3f424ce2061af3cd309fa00922372c72c62" />
+		<rom name="Roller Coaster Reversed (Gottlieb 1971).vpx" size="66785280" crc="90bcf88e" md5="65b14ca5e6dc1dca750833b55ee51078" sha1="bca417f7a1dd6a92e5a9058241f29aa6144c1370" sha256="bed002d7eb6812752746a41bfad7c7e309505bcc0b70ba6177cf5087ba626938" />
+		<rom name="RollerCoasterReversed(Gottlieb1971).webp" size="436540" crc="d8f33470" md5="d5dd2d8e08a2f24df19a0ea690f61491" sha1="7e520516f2dbb7846073118e7e69f8b99d56ccf7" sha256="e97506edb87bf7f0915e71d627fbedfa933c6c99f24c9c74eb178c384f394716" />
+	</machine>
+	<machine name="Royal Guard (Gottlieb)(1968)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Royal Guard (Gottlieb)(1968)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Royal Guard (Gottlieb 1968)_Teisen_MOD.vpx" size="38551552" crc="f5054b82" md5="1a62b8191a4cee5da917e91e8ad355d3" sha1="e37abab1f1828dd4fe4618f74a36587ae2023bcd" sha256="7d909e4f824324c61f2356f264ad8e36db0bfb92de4435e684c15a8f50a96314" />
+	</machine>
+	<machine name="Royal Pair (Gottlieb)(1974)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Royal Pair (Gottlieb)(1974)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Royal Pair (Gottlieb 1974)_Teisen_MOD.vpx" size="40177664" crc="cb30c81b" md5="8492b2085a761a204d353d6fffc3b53e" sha1="a0c7f48c21abe1aa2eee326ce8e3f3d169cb96fb" sha256="017aa7236957b3522c0da0de8c18fa7c400e18bb389072d975c0aae72620ce27" />
+	</machine>
+	<machine name="Sheriff (Gottlieb)(1971)(Loserman76, GNance, Popotte)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Sheriff (Gottlieb)(1971)(Loserman76, GNance, Popotte)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Sheriff (Gottlieb 1971)_Teisen_MOD.vpx" size="40751104" crc="bacdf56e" md5="b189b9dbba3bdb85153be7b03e353a2c" sha1="86ca40ee6e7f425f8f555c20e4d9d190b4dfeea2" sha256="5f3ec9f9aebc9a02222ec3d382a9b2ee6b678f003f399e9932254fa8182d5d3a" />
+	</machine>
+	<machine name="Sheriff (Gottlieb)(1971)(Loserman76, GNance, Popotte)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen][MOD Sound, 4K v1.1.0 GauGau]">
+		<description>Sheriff (Gottlieb)(1971)(Loserman76, GNance, Popotte)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen][MOD Sound, 4K v1.1.0 GauGau]</description>
+		<rom name="Sheriff (Gottlieb 1971) 1.1.vpx" size="49983488" crc="5563f54f" md5="db01d3232b5833e0c31829e2999421d8" sha1="8e2d1a628bc6ecb1e6bb24654a4529d586e14776" sha256="00976f2a19ab2bfb4ee5592866bc4aa2db808ec946aee7e4069b22d56a5e9aa2" />
+		<rom name="Sheriff readme.txt" size="1697" crc="0a742b19" md5="e990632e143195e565a9eb097fc44a42" sha1="3b3ab641483780e4547bb09ef095e7d23d0fb9d0" sha256="555ca076235f388e56f1874129dd7fdcc58ecbf03b85e087ca86af05b0866bbd" />
+		<rom name="Music/Sheriff/readme.txt" size="68" crc="c535bc8f" md5="f1e501f9d019782a092ed1461cfbbb4c" sha1="c4ce45ac1a4eaa60ad81d19e5d75426064eb28db" sha256="615f446970458edcae77220fd534c786923ce9bec3e4cb5299fe626279717c8c" />
+	</machine>
+	<machine name="Solids 'n' Stripes (Williams)(1971)(Loserman76, GNance)(1.0)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Solids 'n' Stripes (Williams)(1971)(Loserman76, GNance)(1.0)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Solids _n_ Stripes (Williams 1971)_Teisen_MOD.vpx" size="31985664" crc="96bd1dc1" md5="f036c084cbd4682717182d776db780bf" sha1="4673ff8303d74bd457a6e04402ef6cdd5926a1bf" sha256="b0ab30ce5e81be52189c2fdfea0e31e33264823c5e18c7745f930995be1e81b2" />
+	</machine>
+	<machine name="Space Orbit (Gottlieb)(1972)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Space Orbit (Gottlieb)(1972)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Space Orbit (Gottlieb 1972)_Teisen_MOD.vpx" size="40685568" crc="fc578df3" md5="519a32c6b9f98e5e9fedcff352675adb" sha1="4c1289dce936576030502cab753bb885284d428a" sha256="f34e9eac1a8410440fc093d9f583de025a89b45e4ebe17718042731f0106d52c" />
+	</machine>
+	<machine name="Spin Out (Gottlieb)(1975)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.1 Teisen]">
+		<description>Spin Out (Gottlieb)(1975)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.1 Teisen]</description>
+		<rom name="Spin Out (Gottlieb 1975)_Teisen_MOD.vpx" size="37982208" crc="5aeab4f1" md5="1bb162ed14da2b5130a34698c72cc2ca" sha1="2f935d2536d62a56a6aa7096d54c265935972702" sha256="3d104bd6f31883d337965b2c994af34434483a9077006d42fc8089551525f637" />
+	</machine>
+	<machine name="Spin Wheel (Gottlieb)(1968)(Loserman76)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Spin Wheel (Gottlieb)(1968)(Loserman76)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Spin Wheel (Gottlieb 1968)_Teisen_MOD.vpx" size="39239680" crc="3474067e" md5="0d2f494055d4710c49764573feef09b3" sha1="9b202c1bebad6417a05b338914eea7be7a193552" sha256="fde9e73744d6529f1dffd2f18a29c772849b545b735d4af518d5493a41a766f6" />
+	</machine>
+	<machine name="Spin-A-Card (Gottlieb)(1969)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0.0 Teisen]">
+		<description>Spin-A-Card (Gottlieb)(1969)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0.0 Teisen]</description>
+		<rom name="Spin A Card (Gottlieb 1969)_Teisen_MOD.vpx" size="37638144" crc="694eca5b" md5="22ae77536edd717a1643827ecd8fce77" sha1="ab760ce23219c20f6d8431e1c6d250051aa342d6" sha256="a8e2d08e87fa3de5e8a65366f49e23cd76a7b426961e9ea07b155be33c49eb02" />
+	</machine>
+	<machine name="Spirit of 76 (Gottlieb)(1975)(Loserman76, AllKnowing2012, Wildman, Mustang1961)(1975)(1.0a)[VPX07][SoundMOD v1.0 Xenonph]">
+		<description>Spirit of 76 (Gottlieb)(1975)(Loserman76, AllKnowing2012, Wildman, Mustang1961)(1975)(1.0a)[VPX07][SoundMOD v1.0 Xenonph]</description>
+		<rom name="Spirit of 76 (Gottlieb 1975) SoundMOD v1.0.directb2s" size="18860694" crc="743a6043" md5="31d8003a52f7d073ba3cde727663ad89" sha1="a1291313cad34c99a62cb03c6ff9b9804c8c0e9e" sha256="74291445103c5688bd27dec959a9b3a53ddfcf48ceb097906fb346ca326c9040" />
+		<rom name="Spirit of 76 (Gottlieb 1975) SoundMOD v1.0.vpx" size="34721792" crc="d067ca6c" md5="51db89a3fb1ee512a22506c47d7abd94" sha1="294cd407ecce770ed3c7d678a58249a972bc151f" sha256="4e708dfc78974bc61715a4cb114363bcab3e6d4c29fcc91197f8b1061705b036" />
+		<rom name="Spirit of 76 (Gottlieb 1975) SoundMOD v1.0a.PNG" size="1676001" crc="cac9010a" md5="103851fc2e6c62933ca1d2391dc76425" sha1="1a4dac8781096522063b4a2bff67fdd5e8947a52" sha256="d645db260ad15efd44d48dfb49297d6dc2540d0f84c7bc5419b33f2339850074" />
+		<rom name="Spirit of 76 (Gottlieb 1975) SoundMOD v1.0b.PNG" size="1658877" crc="2a83bdb7" md5="7082add094f6793317e8b0ecb5e6ec87" sha1="fbb31fa0a47c3b5ce881457b8311d3e5d358013a" sha256="cf0425ad7325070aacf7473e2bc3e858cf9027781fc699e7abf1e8ab8a69a2ad" />
+		<rom name="Spirit of 76 (Gottlieb 1975) SoundMOD v1.0c.PNG" size="1967995" crc="e264411b" md5="1e3e33bcbaf24edab192de0d9e7b7a0c" sha1="46d746ac2b9632cacfc6feb1f806a7b80106fb6e" sha256="3e1295a0c5e911271747ed8f65892e55c8b4b47196e7cfcc435f43af45608bd7" />
+		<rom name="Spirit of 76 (Gottlieb 1975) SoundMOD v1.0d.PNG" size="2534057" crc="0f7aabd1" md5="30ecca2749f4ee8f48aa57347ce3ce33" sha1="d65104f7175b568c80bfc48fe07634ce531c6982" sha256="879ef223b90655e6ad55d51e82f1d946560af6c91ae7db35db15044c35e4daa4" />
+		<rom name="Spirit of 76 (Gottlieb, 1975) SoundMOD v1.0.txt" size="2027" crc="f1e54bc7" md5="1661b6b7903686c3644341691a1a5932" sha1="69373dc8f3b334ca51079dfb7b999cc3cecc02f8" sha256="e9bc7268cdc6944202802c85376e8711b7a998c0ea9fe1a8adbf0f38e84af57e" />
+	</machine>
+	<machine name="Stardust (Williams)(1971)(JPSalas)(4.0.0)[VPX07][MOD VR Room v1.0.0 Ext2k][MOD Music v1.0.0 Larouillas]">
+		<description>Stardust (Williams)(1971)(JPSalas)(4.0.0)[VPX07][MOD VR Room v1.0.0 Ext2k][MOD Music v1.0.0 Larouillas]</description>
+		<rom name="Stardust  Mod Music (Williams 1971) JP v4.Ext2k VR ROOM.directb2s" size="10690235" crc="86d82af8" md5="b21d31644e8fb4caa92dd3d25e81c21e" sha1="2af5700682eb45abeb297ad5846c2246c3781600" sha256="59be093ab76d3a12ce21b049c16cd15111a862516c788ddacb41a46a83c152de" />
+		<rom name="Stardust  Mod Music (Williams 1971) JP v4.Ext2k VR ROOM.png" size="661853" crc="5a9d8fac" md5="fdf92842abc28ad315066f11512a8549" sha1="b6ba8be9c78db5e61e1117eb68fc289be2fc63eb" sha256="abe3b7b288ff2ed46d9d4fdff25aa37a71f2550740d0d4f2acb83e42f42e4c62" />
+		<rom name="Stardust  Mod Music (Williams 1971) JP v4.Ext2k VR ROOM.vpx" size="163409920" crc="b12b7b84" md5="805b384c012e126102133f049f8caf0d" sha1="721deaa5b0be3e1600a4bcd1e85a13d7252c5893" sha256="767acd7d41f85663a5d8232d2a3784cd4dd8fdbd366bc7a0f4636668495e5e87" />
+	</machine>
+	<machine name="Strange World (Gottlieb)(1978)(Loserman76, Humid, Wildman)(1.0)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Strange World (Gottlieb)(1978)(Loserman76, Humid, Wildman)(1.0)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Strange World (Gottlieb 1978)_Teisen_MOD.vpx" size="41938944" crc="827707e6" md5="9f8452bc90b22915558020c427dc2c16" sha1="60610a728b2e625f4a8dedceb34e1da9b73c4164" sha256="e866b71fee4a6500f126e3b25f1b5dfa73e3ced9ad869ae2c1b69f7f617983a0" />
+	</machine>
+	<machine name="Super Soccer (Gottlieb)(1975)(Loserman76, Tamoore, CARLOSGUIZZO)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Super Soccer (Gottlieb)(1975)(Loserman76, Tamoore, CARLOSGUIZZO)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Super Soccer (Gottlieb 1975)_Teisen_MOD.vpx" size="33726464" crc="cc5ef9ff" md5="dbdd2be53bf2941a7ca9a6b6a0c3b00b" sha1="fc13bb918628c7866cea10ff6ef2a40e25c84c50" sha256="91443e76e5cd8c51e526372c9905efd670029dfad279622a185fb905618b8b0f" />
+	</machine>
+	<machine name="Surf Champ (Gottlieb)(1976)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Surf Champ (Gottlieb)(1976)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Surf Champ (Gottlieb 1976)_Teisen_MOD.vpx" size="35000320" crc="0089c082" md5="29d1f307d359474a834dcdab0e6bf34f" sha1="814c38e2cfa0c1bd7ef07437494d6055bcb2d4e7" sha256="80e059265da361dd35e8cabd7a305c528c1d083ceeecfc57f9321831a4c63c6b" />
+	</machine>
+	<machine name="Surf Champ (Gottlieb)(1976)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen][MOD Gfx v1.2.0 GauGau]">
+		<description>Surf Champ (Gottlieb)(1976)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen][MOD Gfx v1.2.0 GauGau]</description>
+		<rom name="Surf Champ (Gottlieb 1976) 1.2.0.vpx" size="30990336" crc="ca0db636" md5="ff72925891d5f19cb24ad040e85fa606" sha1="d24b967cd886e027f93b57da08ce4b219d1eff68" sha256="d80dd035b5f2e03af279f926e1f2b0ef0b536acf1aa830743349ee6e98024b0e" />
+	</machine>
+	<machine name="Tam-Tam (Playmatic)(1975)(Loserman76, Akiles50000, JPSalas)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Tam-Tam (Playmatic)(1975)(Loserman76, Akiles50000, JPSalas)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Tam-Tam (Playmatic 1975)_Teisen_MOD.vpx" size="35717120" crc="88090d29" md5="dc49dd3799f9d5da9f0b3e15739b3dfb" sha1="233cc18db02ad1651ff7100d7f4bdd9d67a892eb" sha256="1049431700d4c9db39dbe3e80459832f8b7c87942c1fa8098e3bb3a4c4e0753d" />
+	</machine>
+	<machine name="Target Alpha (Gottlieb)(1976)(Loserman76, GNance, Popotte)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Target Alpha (Gottlieb)(1976)(Loserman76, GNance, Popotte)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Target Alpha (Gottlieb 1976)_Teisen_MOD.vpx" size="34639872" crc="a2c471e0" md5="ed59ad93cf388ed73ad1aae8a296f33d" sha1="b17ad09de55ad15553631c947aa9c843b3034899" sha256="e88d0f684ced9e033546f88b8769218154464bca03e202b85a1e6392e0f9491d" />
+	</machine>
+	<machine name="Target Pool (Gottlieb)(1969)(Loserman76, GNance)(1.0)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Target Pool (Gottlieb)(1969)(Loserman76, GNance)(1.0)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Target Pool (Gottlieb 1969)_Teisen_MOD.vpx" size="40415232" crc="ad62d4e9" md5="ba23582c65c12bdc279c29f16f6ac2f9" sha1="772641b108d52a9170d52f1ef171f9a3aa62e208" sha256="a14b026e5c94dd08a299328eed5719e0620cb02412e1da0e8039e533fd18ba9d" />
+	</machine>
+	<machine name="Team One (Gottlieb)(1977)(Loserman76, Wildman)(1.0a)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Team One (Gottlieb)(1977)(Loserman76, Wildman)(1.0a)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Team One (Gottlieb 1977)_Teisen_MOD.vpx" size="38047744" crc="159060ba" md5="aaefb6741f6e891aae77347095782c4e" sha1="27a2fc2de0859ecf329cfe0200fb24d909430545" sha256="d0e9c84f79ee02faf3c962aa665600aa79a20b6b5a83e84ce82d55b2bb980de3" />
+	</machine>
+	<machine name="Tiger (Gottlieb)(1975)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Tiger (Gottlieb)(1975)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Tiger (Gottlieb 1975)_Teisen_MOD.vpx" size="38871040" crc="e11e9c43" md5="02f6bae84091c6222fcfec651b201943" sha1="23c6e9b833b221b4ee4a3cab7e5a45f315b64593" sha256="46da11b7335f0d631c5a9e5a3c96f3979c0e2ee34df738ba134bfe4217dd55eb" />
+	</machine>
+	<machine name="Top Hand (Gottlieb)(1973)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Top Hand (Gottlieb)(1973)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Top Hand (Gottlieb 1973)_Teisen_MOD.vpx" size="39751680" crc="ff004a19" md5="54bf80bf26807e23cf16d2175807bfdf" sha1="f5cb86146d850bd2a2c1c4c31f6af84426a3f4ec" sha256="fa93e26cd99a219dadaa6787fac916e611a447f0112d636524280a10d1970c75" />
+	</machine>
+	<machine name="Top Score (Gottlieb)(1975)(Loserman76)(1.0.0f)[VPX07][MOD Gfx v1.1 Teisen, HauntFreaks]">
+		<description>Top Score (Gottlieb)(1975)(Loserman76)(1.0.0f)[VPX07][MOD Gfx v1.1 Teisen, HauntFreaks]</description>
+		<rom name="Top Score (Gottlieb 1975)_Teisen_MOD_1.1.vpx" size="47230976" crc="161a9a21" md5="22bb1aeea135e679e489c5d2331ecca5" sha1="006f097797061c2ad23ef5c44e72a7a5292628a5" sha256="d95c7e522bd6efd0a29989c3e0a00ac27146b693a256c88f36cfeb846367eded" />
+	</machine>
+	<machine name="Touchdown (Williams)(1967)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.1 Teisen]">
+		<description>Touchdown (Williams)(1967)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.1 Teisen]</description>
+		<rom name="Touchdown (Williams 1967)_Teisen_MOD.directb2s" size="9123310" crc="8c735248" md5="0ebc45128de9e69420bad6e72d003f4a" sha1="65bee09435033ab8b95eb8ddfaaef3e976c43d05" sha256="93f842c5a3b9b1678b824b95d60739462ed5f72877d86aba3309cbc5c87d4983" />
+		<rom name="Touchdown (Williams 1967)_Teisen_MOD.res" size="938" crc="a5b55d15" md5="17fbb57956377baafcb74aeed4a5b822" sha1="deb8b62002e86e1500b6f86ffcbf57a5669c8433" sha256="ce085fd1379ad8ecfca7b39f85115f758e06892f2e1fb0adca0474140cb770cb" />
+		<rom name="Touchdown (Williams 1967)_Teisen_MOD.vpx" size="36618240" crc="be120f9a" md5="068e148cb41095c2f8cfcf06dbc7011a" sha1="6c8f367bef8beb1b14bf952096877186b7e3836d" sha256="cc19feb8d709aae6843b1ee52938d326689fe6233183beb222ff7854525bb9b1" />
+		<rom name="touchdown-change-decal.jpg" size="195600" crc="d2e36f45" md5="7e8de2a6fb74a4d4f7b144e08a08ea1c" sha1="8126f46b5139251175d611c0307f69314c3d24fc" sha256="45137b3f15b81a025d1737b3340f54146d89337cf8c1df2b0b95c421323f2713" />
+		<rom name="touchdown-dt.jpg" size="397493" crc="fbe243fc" md5="186b4681d3934ba82da250b3226985cb" sha1="e5af53c92984eda27277516963c0cee91a4c94f2" sha256="53f87a7636b13573880658369b3039965ef5128b62348eefc0e1ff5c7bffbe0d" />
+	</machine>
+	<machine name="Treff (Walter Steiner)(1949)(mfuegemann)(1.3)[VPX07][Coin-Op Game][MOD Gfx v1.0 haggi]">
+		<description>Treff (Walter Steiner)(1949)(mfuegemann)(1.3)[VPX07][Coin-Op Game][MOD Gfx v1.0 haggi]</description>
+		<rom name="Treff (non-pinball, Walter Steiner 1949) 1.3 Graphics mod.directb2s" size="36110118" crc="3ea5af1c" md5="1e96a769f3cbbda339c939a341bbcd0d" sha1="9436a213893b1c31e240f21adba732f53d4f01dd" sha256="04b6bda4bb1717b4c19acc6f91b23f79eab1a4c8d6ffe13560f9730894a5d380" />
+		<rom name="Treff (non-pinball, Walter Steiner 1949) 1.3 Graphics mod.vpx" size="17575936" crc="cb218138" md5="5cffcd02cfc58f7f3dfd609a791a3f54" sha1="d1ab10fbe653339891d692fc4ebde3d23673005d" sha256="1b24df875a5fb6c0485e3cb980feb08e930cb589be7be9bf806869598e6bef4c" />
+	</machine>
+	<machine name="Triple Action (Williams)(1973)(Loserman76)(1.0a)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Triple Action (Williams)(1973)(Loserman76)(1.0a)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Triple Action (Williams 1973)_Teisen_MOD.vpx" size="31309824" crc="52115b26" md5="c6d1eb22a313955f77748634bcde41a8" sha1="410addd7b553fe79582d7415c2fe1dd6d528a42e" sha256="36df87ef13cd1aaf3808ef877c011d5c837557af7cc77d8095426e67568544ef" />
+	</machine>
+	<machine name="Wheel (Maresa)(1974)(Loserman76, Akiles50000, JPSalas)(1.0a)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Wheel (Maresa)(1974)(Loserman76, Akiles50000, JPSalas)(1.0a)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Wheel (Maresa 1974)_Teisen_MOD.vpx" size="39948288" crc="8cecb95e" md5="7fa6f5c3ae9c2af227651cd1d77b6bd6" sha1="f6820a73d65362addd19255d049aaae9a6f5d627" sha256="5690d020000d7fab79d82c15b26ad9cd1cee709fcdcefe3cf8a576d3eee6d679" />
+	</machine>
+	<machine name="Wild Card (Williams)(1977)(Loserman76, pbecker1946 Itchigo)(1.0 aka 1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Wild Card (Williams)(1977)(Loserman76, pbecker1946 Itchigo)(1.0 aka 1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Wild Card (Williams 1977)_Teisen_MOD.vpx" size="30253056" crc="7cfb91f3" md5="091c5044259bccbfd3120a26ff6b9989" sha1="39507767817e86c66cb5c58748e0888dccc881d0" sha256="849f54ebd6540a0e7f94a0975a02188e6e9723f961cc92f06c98695c96a361b6" />
+	</machine>
+	<machine name="Wild Life (Gottlieb)(1972)(Loserman76, GNance, Popotte)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Wild Life (Gottlieb)(1972)(Loserman76, GNance, Popotte)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Wild Life (Gottlieb 1972)_Teisen_MOD.vpx" size="36208640" crc="5fd81d7d" md5="28e3dc4de617c505b6af11e6f2bd3d92" sha1="32c7e441c04d59edadeebe3a8fa6a90a31a0ed14" sha256="3bce04d3863451e1e2999264b26c27d80ec39ead97ea4b0810793754fa33fb8d" />
+	</machine>
+	<machine name="Wild Wild West (Gottlieb)(1969)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Wild Wild West (Gottlieb)(1969)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Wild Wild West (Gottlieb 1969)_Teisen_MOD.vpx" size="37191680" crc="d690fdd8" md5="f522cfa5b0a1c4e02222a8217219eabc" sha1="240eb0388a501a77632bc6a45be8ef1586386e9c" sha256="2432708db0f39b345a6fd68c917871d2baafb64b1faa50672c9682166b9962be" />
+	</machine>
+	<machine name="Wizard! (Bally)(1975)(pinball58)(1.03)[VPX07][MOD DOF v1.0.0 MauiPunter]">
+		<description>Wizard! (Bally)(1975)(pinball58)(1.03)[VPX07][MOD DOF v1.0.0 MauiPunter]</description>
+		<rom name="Wizard! (Bally 1975).directb2s" size="30337790" crc="d5ef32f4" md5="40d2da6e625544d85a7b0badf1cc6988" sha1="6c4d8112f0856dc5a7d558e3ce27b90cf42c1a0b" sha256="5aab9885a7a82e74067a385bd4ef8ecdc7400452c8aee9f40eb70156ee8d3baf" />
+		<rom name="Wizard! (Bally 1975).res" size="938" crc="9826c5c5" md5="e509ffef974ac4a929930457d9c2ba04" sha1="d5255d107864c8eec41d27f9915b3697b34cc024" sha256="c648270c6cf4ae35533013709c33de1754ba9474783642fe94b51432c5aa91ef" />
+		<rom name="Wizard! (Bally 1975).vpx" size="23842816" crc="1fe3286e" md5="b4fcd1ac4f5f56f7c226f22360bf4519" sha1="5eb198d013cd7ab059c3ca72def61a429463d877" sha256="cadb25e89a96abee88a11d95ce59f9dd1c577b09dcb645b736094c690d289602" />
+	</machine>
+	<machine name="World Series (Gottlieb)(1972)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Grx v1.0 Teisen]">
+		<description>World Series (Gottlieb)(1972)(Loserman76, GNance)(1.0.0f)[VPX07][MOD Grx v1.0 Teisen]</description>
+		<rom name="World Series (Gottlieb 1972)_Teisen_MOD.vpx" size="34525184" crc="7683f324" md5="cfe7defdbc9778a765da878fd3aceff9" sha1="c701131acb8aa374fd8a4a171e6e27ce24c477f6" sha256="165a697b1cbdb78128d8815b2f42436d1d061746c3a85b3dc15c6f3499fd283c" />
+	</machine>
+	<machine name="Zip-A-Doo (Bally)(1970)(Loserman76, GNance, HauntFreaks)(1.0)[VPX07][MOD Gfx v1.0 Teisen]">
+		<description>Zip-A-Doo (Bally)(1970)(Loserman76, GNance, HauntFreaks)(1.0)[VPX07][MOD Gfx v1.0 Teisen]</description>
+		<rom name="Zip-A-Doo (Bally 1970)_Teisen_MOD.vpx" size="35262464" crc="840221e2" md5="67bbf0d26a80c89c3491f114a3fd3264" sha1="9e22394b743e181659a067563f67de529824df71" sha256="db45fc3a3383ac66e9315acc1f7d5dff793240a15281c82a07dd608689dfd724" />
+	</machine>
+</datafile>

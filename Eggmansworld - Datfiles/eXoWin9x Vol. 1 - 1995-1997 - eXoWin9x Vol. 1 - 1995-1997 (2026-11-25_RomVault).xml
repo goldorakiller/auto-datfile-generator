@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>eXoWin9x Vol. 1 - 1995-1997 - eXoWin9x Vol. 1 - 1995-1997</name>
+		<description>Mixed (Archive as File)</description>
+		<category>Computer</category>
+		<version>Vol. 1: 1995-1997</version>
+		<date>2026-11-25</date>
+		<author>Eggman</author>
+		<url>https://github.com/Eggmansworld/Datfiles</url>
+		<homepage>https://www.retro-exo.com/</homepage>
+		<comment></comment>
+		<romvault forcepacking="fileonly"/>
+	</header>
+	<rom name="eXoWin9x 1995-1997 Manual.pdf" size="1212353" crc="2dc7bdb5" sha1="30af013d0dd123e80897b2d8a580483e2a80af67"/>
+	<rom name="eXoWin9x 1995-1997 ReadMe.txt" size="54942" crc="52e569ec" sha1="9487fd76d51ff22640def44d6f5854ea4e6e9122"/>
+	<rom name="Setup eXoWin9x.bat" size="36700" crc="62413a21" sha1="d362e6c0016b74f88d3b21052868baa7c227a896"/>
+</datafile>

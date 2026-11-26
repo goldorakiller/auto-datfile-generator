@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP8] Original Tables [VP Plus]</name>
+		<description>Visual Pinball [VP8] Original Tables [VP Plus] (2026-11-13)</description>
+		<version></version>
+		<date>2026-11-13</date>
+		<author></author>
+	</header>
+	<machine name="Chrono Crusade (Anthias)(1.1)[VP8][VP Plus]">
+		<description>Chrono Crusade (Anthias)(1.1)[VP8][VP Plus]</description>
+		<rom name="Chrono Crusade screenshot.jpg" size="104419" crc="3fae445b" md5="1ae1e72e89f5b1684cd5d0c384de1899" sha1="93dcd1ae9b7aefea6b5ef20e162f500ce7a3be76" sha256="bdfa4a0d270a6f6e30aa2a3143deea729de7f52ac829694e2cc15b0ebe05e488" />
+		<rom name="1.0/Chrono Crusade (Anthias)(1.0)[VP Plus].vpt" size="6814208" crc="69c644ca" md5="7c851b5767a9e43543687040f0ceb0e1" sha1="e9d001a0e6ab73984da18f82ad65cba6a9cc04df" sha256="34f7044f8d58d8b9959f122b36c9b5b9879ad53050fb1411fbfb647587727b40" />
+		<rom name="1.0/ChronoImages/acceptbutton.gif" size="6910" crc="10df8a8a" md5="1ff4287a65a4a6fa9a09e3f7d02f7b4a" sha1="7b67ee0a40d68f785510c6293abef1ee23f4b452" sha256="3b92962bdc00c27bf1762ec459fc5a36e163120fed7b75df3fffc00afd3a24d9" />
+		<rom name="1.0/ChronoImages/acceptbuttonpressed.gif" size="6760" crc="58d16e00" md5="28d033914f7842fe40323cfa21f7b125" sha1="a68296c45b15a5fa8483ea1020dab1403623b586" sha256="6b8a892cece37ec90510c673619921e766922a960e28aba940e57ac0d49f77f5" />
+		<rom name="1.0/ChronoImages/button.bmp" size="43110" crc="a60779b3" md5="230e1a601e2f45ebdc82c842c0ab5700" sha1="a35d6f1a3e067359f0acca1c6108ab9222aa5ca6" sha256="41e9d45cb248bac6c91122193e372fb04cb38ed9487204dbd07a6b5986818e27" />
+		<rom name="1.0/ChronoImages/coinslotmove.gif" size="40166" crc="1a3f81ad" md5="0a306c6174df53b68991a3eda82269a0" sha1="434ecde3c60c4fbe656dda359ea3e176570eb20c" sha256="395c3ffd7b81a6d96f5aecf4a0a52d987be710cd187da3606546ec6bb3e87ea4" />
+		<rom name="1.0/ChronoImages/controlbar.gif" size="7512" crc="f7f160c8" md5="8e011db47c6e6421900d62c01bfc6a7f" sha1="d1814c32162264a9d043b8585b1801ca9d39011c" sha256="fc1398ed3817552b04223f1b5da44e48fb83ebe484ac089be8d93008bb7d37e7" />
+		<rom name="1.0/ChronoImages/controlpanelclosing.gif" size="146768" crc="e42cb479" md5="2c934c94ed74783dbb93babaf0fe69bb" sha1="14391d7bf2103136dd3f662f276f8289afab6e43" sha256="21a836ebec93ac01d2be02bd0d95114124f6324e59db8b4dd61339a7f86f621e" />
+		<rom name="1.0/ChronoImages/controlpanelopen.gif" size="22357" crc="011c26d6" md5="4027b7e26aed82f0d020565b6823cb25" sha1="574bac2f730e0c850ddf8e6f49e293f9585363fa" sha256="924dd71ae78b0b8c2cb614edb577696105afb6987910fa30e8b1ef06a1432dd0" />
+		<rom name="1.0/ChronoImages/controlpanelopening.gif" size="147413" crc="f2ddbb2a" md5="29668250b792cf099ae6987cf3f4735f" sha1="b685750b138e9871a4757f8d4de6d278928087b8" sha256="3690e4bd318aff87bfbdcea97989673b095087a3a2f96d80b2fcaf9c78d288b8" />
+		<rom name="1.0/ChronoImages/declinebutton.gif" size="6922" crc="0101e666" md5="b9136ae1a169969d96d2b71d3141352a" sha1="6e89f74ac068c80d8ee77c6cabd0cfbd9593007e" sha256="f5febd8ceb1bb3c66423e79d68a832dba148d25530c36bbd88539b968fb8fa72" />
+		<rom name="1.0/ChronoImages/declinebuttonpressed.gif" size="6863" crc="3c11462c" md5="9a3ebfc4dcab5b115b1ad731a1476b08" sha1="7e896b88845f1a3c2e36a785f5d89d7b9dadf673" sha256="ffaa2665d09e44100e6c2f9b24b16a31720015c1eef9b4d4ad082d1a07422003" />
+		<rom name="1.0/ChronoImages/earth1.gif" size="8701" crc="814b60f8" md5="d044de9bb0166a3cb28f9f0a60880ca9" sha1="9e4e79f22f33188a2dcb64408fbc79e871e51963" sha256="3bdc34e79ff0acb63db401af6a70fbd3337b1cc3875699e5b09862b8238dfb4e" />
+		<rom name="1.0/ChronoImages/earthnet.gif" size="117026" crc="ab1fb31a" md5="f063dc91d317fc5bb61aad930b02c856" sha1="960bb7ebedd2662509d755af10bc318ef13edc66" sha256="af127b635ce81b9ae7cf4bad94171ba404b35dfcfe63de987618a16ac1df3c9a" />
+		<rom name="1.0/ChronoImages/gameoverlost.gif" size="59970" crc="c5b915a1" md5="0427950a57b723dfed2c1517cf6ce54c" sha1="93d7e68d2a9f2a41853b85cbb02508cca2b71c7a" sha256="e6b23b413483c7cf16363bb8c7b1724cea3ee142c774f00e5fea7a6abf652266" />
+		<rom name="1.0/ChronoImages/gameovertie.gif" size="59428" crc="4987d1a4" md5="2214695151da1bdd341cadd19463a718" sha1="ff2feaf214c2e894b68fa0b5687f76b45c909ab4" sha256="5051f88343854cef350245a5d9246d72aed4361f20d0da0023870f5ce13c7981" />
+		<rom name="1.0/ChronoImages/gameoverwon.gif" size="59970" crc="2ee34347" md5="d8ee9b3eaa86e2076261264007ca8209" sha1="afffd0d94dcb7c27261cb0bdae4339c90d0ea991" sha256="6fc81750a0d401c5afb22635067a83c93ac66cb612f443a592c37106aa307dff" />
+		<rom name="1.0/ChronoImages/instructions.gif" size="128491" crc="1c19008c" md5="2d9368b52f04e3b09773776aadbfa59a" sha1="f52f13b3b6e6c4d52ba85d0036bf6dbcc8cef2da" sha256="74e05f92ff21018f65b294bdde577fd4c6fba2e5ff8a39094d7cf551a5b5dec8" />
+		<rom name="1.0/ChronoImages/LEbutton.bmp" size="45054" crc="9552d56f" md5="ed38e346096f471dbf60b493f4e961d3" sha1="680faa5657d14a2c715da33da6e3ab2a8cc406fc" sha256="3b090caddfeb7b3f3e6b43e922434532749612016964e4d18ffcdf47092d8415" />
+		<rom name="1.0/ChronoImages/LEbutton.gif" size="4665" crc="8d1a5859" md5="5f3c34e7dd50cabea6dd54391d9495fa" sha1="d26ffbc593c52efa5e17ad6c72d6fc82347e8cf3" sha256="dea6a400af5bee9a64a4658baf76376ed9e576eec623b22dd56b4ebd2ae7e406" />
+		<rom name="1.0/ChronoImages/notavailable.gif" size="651" crc="876aee7c" md5="41dfb6f1bb27d060f4283b1fb6668b2c" sha1="3609d1d11c05e9416e44eed85d964e881295a3a5" sha256="851bf1226a9e95858fe6f7c250da63d95667ae9a05fe1546a842a046c022cf67" />
+		<rom name="1.0/ChronoImages/smileychatopen.gif" size="63600" crc="64971956" md5="8b79d2a2c0d0e35cff65a21bdd737345" sha1="ed884750600a9bf38cce980b194cf3239f04ee6b" sha256="edd5647127a7fa88e2450b39ec07c6a8384a251f0a259eaff306ffa9869cd449" />
+		<rom name="1.0/ChronoImages/smileysilent.gif" size="61551" crc="fc33bd1e" md5="26824df9f6af4c7de381bd709e345356" sha1="ef653a17309fb5b8445073902fbb8376f4fb55ba" sha256="6c151650f8c4166b82759f1e75d91e7b93aa69b2acbbbf35bf3d7957a924f679" />
+		<rom name="1.0/ChronoImages/speakeroff.gif" size="6988" crc="9c5db225" md5="07f30160a12c03e7b9ffa0ccf9d87b0c" sha1="3868d4ea5a42998b128f0fdd47546fa7d0ef7ed2" sha256="5eb900394d8d4b1fec9df0308a654f249e0b452ea328ce37f30f4cb69e4073da" />
+		<rom name="1.0/ChronoImages/speakerplaying.gif" size="14808" crc="987cf3a9" md5="4a7f4cd3618cb1dc37dda10e5430024d" sha1="150df20623c9bd40c970c0b5f6106a4c3f4ccf86" sha256="df0eba837ab0fd04940e4cb0969c98ad2f47f44487bb5e0327c02762f7e335e9" />
+		<rom name="1.0/ChronoImages/spinningtoken1.gif" size="48743" crc="27faecb2" md5="e3bde74850918212292a589b6e25980a" sha1="3e0792703305b6f9cde2ab246e52613b09571b77" sha256="b1bb3b33d0fa452659e80e54d8af31e993de76848aea0e4ea19b0364d932e74a" />
+		<rom name="1.0/ChronoImages/start1.gif" size="6919" crc="b0c05073" md5="1d6a5b6a81a9e1fda932924d8be6fa88" sha1="781271094b3df774361faf6c6d97bc45017d5822" sha256="c415cbfd32e7499086b249214b6d8b562332e0c6663fb7cbf826404567349d67" />
+		<rom name="1.0/ChronoImages/start2.gif" size="6518" crc="b9991378" md5="21d897932184b00a97c70b2d352a8047" sha1="2f6100b14154238e8e8a8ffafd5996d716d7808b" sha256="54d273b4586dc1bd8e65229d44922e9cec6f12fddcea5555770ba89040f144e8" />
+		<rom name="1.0/ChronoImages/tablesplash.gif" size="409064" crc="2262d1bb" md5="34b74d45c8e9d8fd382f7da2bacb4ca4" sha1="792de141c8aa0d8f22b12dff90067973d5af0e89" sha256="9764dff783a00ea9383cfa3216cbd410f7878831939e9f04212e358fbad8bde5" />
+		<rom name="1.0/ChronoImages/Thumbs.db" size="110080" crc="c9d10f64" md5="796cb9655e6b8d1cf0bd920767d5a24a" sha1="5de768794ff3954c98f54f40aba3af2694c6c5ca" sha256="a372fc0ae796a577d060c212e1070fc6d30bf348bbe2fcb165431b0f66140be5" />
+		<rom name="1.1/Chrono Crusade (Anthias)(1.1)[VP Plus].vpt" size="6817792" crc="8f622080" md5="dc34f316b69a6c61f2ae0a9047a59ea6" sha1="64797e48b041cfd391d4d7aa3e4b110c07864c60" sha256="a4578e759141a58856920ac67f6aa4b05d52be9a5729aaa0d47e902304d24d25" />
+		<rom name="1.1/ChronoCrusade 1.1.vp+" size="1537643" crc="07a48b4f" md5="b3b5a96e71fb57e0fafb03b44e6d87c0" sha1="3abbdb189897fc6bb98b3173e2d7962ca05f0e26" sha256="e23da948a76c6d5da65bc18635e299b574e87c12598a076f320ab8d4a837a72c" />
+	</machine>
+	<machine name="Chrono Crusade (Anthias)(1.1)[VP9][VP Plus]">
+		<description>Chrono Crusade (Anthias)(1.1)[VP9][VP Plus]</description>
+		<rom name="ccwHEEL.png" size="23947" crc="d6e08dd2" md5="21413022201893740af620dae5c038be" sha1="5e7fc39e4d813029468fac98e2b6e393fc69cdc3" sha256="af37e8990d9a6d2cd238a8dd4ad13bebee118d0fe3543d01b4b987873246573a" />
+		<rom name="Chrono Crusade (Anthias)(1.1)[VP Plus] CABINET.directb2s" size="2252246" crc="3821580c" md5="f82aa2fd967e6e6f6a8b54bc91c4ffbb" sha1="d92b7adfe25e0a2cdf517e80dc0a58739f00e240" sha256="f5bb243fca28e85de61a054a21d3b4cfef8ec1b55422d2377e26f46a03c0e3ee" />
+		<rom name="Chrono Crusade (Anthias)(1.1)[VP Plus] CABINET.vpt" size="6926336" crc="6d079699" md5="8aaea040de37278e6718a89c59ad15cf" sha1="9082a5d526c3d6c67953d16f31a4d660255a83c3" sha256="4610e283468223cba0dd9752769318c8f8af21607d33d6423abc3381fa3711b8" />
+		<rom name="ChronoCrusade 1.1.vp+" size="1537643" crc="07a48b4f" md5="b3b5a96e71fb57e0fafb03b44e6d87c0" sha1="3abbdb189897fc6bb98b3173e2d7962ca05f0e26" sha256="e23da948a76c6d5da65bc18635e299b574e87c12598a076f320ab8d4a837a72c" />
+	</machine>
+	<machine name="Last Exile (Anthias)(1.0)[VP8][VP Plus]">
+		<description>Last Exile (Anthias)(1.0)[VP8][VP Plus]</description>
+		<rom name="Last Exile (Anthias)(1.0)[VP Plus].vpt" size="6070272" crc="ab249f0b" md5="32628029f4293a6771cfa39519e92986" sha1="a704fbf2a11d86187c06fc27422142c255710f15" sha256="96b80ec88d519f90a9439e7872691123418cc1a50340d25d761067855ac38ab6" />
+		<rom name="Last Exile screenshot.jpg" size="101408" crc="7a3b0000" md5="d8f32a5f5be04cc85e9b6de763ebcd5a" sha1="064dda63f138ebe4fbc334ba1413d083224a28de" sha256="ff464e4553fa81031964b693b7d5ddbce4212f1d666e8d336100065a81d2a66d" />
+		<rom name="LastExile.vp+" size="1478378" crc="2868a31e" md5="dd890baaa4156a8372b8e9023e155d68" sha1="e12fddb87aa3cad9155fb8f68b0b1fa057638d65" sha256="06f8654117f959f997aa53a1f779b822171e4f69eeb00e2bd627cabbc03ec58e" />
+		<rom name="3darcadeskin/cabinet/LastExile.jpg" size="75435" crc="d1435273" md5="6971d17a832a1b2c42dc01c0a7ecbf90" sha1="82b70890b9a3ba6f92af35e4d16cb9131fb776f0" sha256="7f499ab54694dbc2edb98debb5d74ab766051e2b7029cb646c9bba82267245ad" />
+		<rom name="3darcadeskin/playfield/LastExile.jpg" size="105943" crc="cba1adbe" md5="b7576450cba8e2743559ce9b8822b068" sha1="5417685aab0c25cc04ee51c479ccd521f803ab47" sha256="996e1c2a559326d3bd21721cb3092c656d1499d47888927f54cd2ab868f37adf" />
+		<rom name="3darcadeskin/translite/LastExile.jpg" size="57983" crc="a1b1f3ee" md5="ebd340fe6808dd7d97be1c8cc1516128" sha1="2c1ad09d85243e7f759fce2665496c4413f9cef1" sha256="4b7b7b0984759f4cfb09140bcd4415264157194106feeaa2b850bd248b6b4ab3" />
+	</machine>
+	<machine name="Last Exile (Anthias)(1.0)[VP9][VP Plus]">
+		<description>Last Exile (Anthias)(1.0)[VP9][VP Plus]</description>
+		<rom name="LastExile.directb2s" size="3150820" crc="80f12513" md5="3cb3a6e8d8ed0a9fef683dad35e62cdd" sha1="b0925f6b5e942a520f72ff7cd576e75a13e735e4" sha256="7ed406f5c0bf2ee635dccfacc02846c3b0b9430067839d47b3417394311e5285" />
+		<rom name="LastExile.vp+" size="1478378" crc="2868a31e" md5="dd890baaa4156a8372b8e9023e155d68" sha1="e12fddb87aa3cad9155fb8f68b0b1fa057638d65" sha256="06f8654117f959f997aa53a1f779b822171e4f69eeb00e2bd627cabbc03ec58e" />
+		<rom name="LastExile.vpt" size="6139904" crc="cc3eced5" md5="1b6cf404a74e84f9cd99692e39069c0a" sha1="f9855a60cdf5fd34c8ae7bc40df40fb7c312529a" sha256="6956658b4239f9f4aed5dedb2a4ad7209cb260e5485e2afcd1c8dbc01db0e351" />
+	</machine>
+	<machine name="MAD Mag (Bob5453)(1.01locked)[VP8][VP Plus]">
+		<description>MAD Mag (Bob5453)(1.01locked)[VP8][VP Plus]</description>
+		<rom name="MAD Mag (Bob5453)(1.01locked)[VP Plus].vpt" size="9416704" crc="2d960b63" md5="9f0c6a90dc28f0963ff7167ae585ea57" sha1="3300319cad29b98a8f6e36f9035220bc8638b2a8" sha256="f7fae104f6698047c85ac848020d0b8e092cb19a62e487a9849e0d5512686560" />
+		<rom name="MAD Mag screenshot.jpg" size="140311" crc="1a139ced" md5="88682d12819406a9c26953a3a2d6f984" sha1="3466ccf6b3356565fec6ab1cd2a83f6fdae24ba3" sha256="a2849a034b22590cf593306c93e872ffa262dd4f321df9bd0cec23955ec1aa8d" />
+	</machine>
+	<machine name="Pit, The (Anthias)(1.0)[VP8][VP Plus]">
+		<description>Pit, The (Anthias)(1.0)[VP8][VP Plus]</description>
+		<rom name="Pit, The (Anthias)(1.0)[VP Plus].vpt" size="6569984" crc="34c7ddbb" md5="24e0baf210823b2cdca662b5951758a3" sha1="0c8201e1e112f38a8475ad8aa30ced9db582fedb" sha256="dc0a81cb68d74607e0ef3415afb9e02447952ec558ea6c6f62b71014865389d9" />
+		<rom name="Pit, The screenshot.jpg" size="65975" crc="3f18dfc5" md5="723ce7cea7dd543574647b7218616ef8" sha1="d9d3642458f74ee47511113f45e60a88d32c7898" sha256="bb3d0e56bd0f77ec19f45b2aadcaa8d24688dc60c0010cae87cf2e738641eec1" />
+		<rom name="ThePit.vp+" size="1672400" crc="10e04b5e" md5="39f8ba8573baa1cae80251feca4fc772" sha1="99d17d3fc92c12c5037c0f6be2d0dc652ef3482f" sha256="e0dff52ead04696aff939f07f3933343371e1fd123ca5c0054bbc3ad4a01ca46" />
+		<rom name="3DArcadeSkins/Cabinet/ThePit.jpg" size="61406" crc="501b1148" md5="6c3b3760752d46bfe116bc9dc129b2bb" sha1="363bed17657895cb5892907fe2af4e1439d5f0a2" sha256="081975507266d8c4f03a2145022b421fda3d1de6397bc88d46d9fdac19d4ec54" />
+		<rom name="3DArcadeSkins/Playfield/ThePit.jpg" size="65975" crc="3f18dfc5" md5="723ce7cea7dd543574647b7218616ef8" sha1="d9d3642458f74ee47511113f45e60a88d32c7898" sha256="bb3d0e56bd0f77ec19f45b2aadcaa8d24688dc60c0010cae87cf2e738641eec1" />
+		<rom name="3DArcadeSkins/Translight/ThePit.jpg" size="52289" crc="08423507" md5="bd82c32054046a214ffaf1d273e4ecc3" sha1="713610f1b86a2c4bca5020bd4a0f1e8a472f0ac2" sha256="6b50192a17f7dd2f7cc7b517c605d042f374e10eb302670e9cf41861897bc025" />
+	</machine>
+	<machine name="Super Collider (Anthias)(b0.5)[VP8][VP Plus]">
+		<description>Super Collider (Anthias)(b0.5)[VP8][VP Plus]</description>
+		<rom name="Super Collider (Anthias)(b0.5)[VP Plus].vpt" size="5127168" crc="6ae6304e" md5="f00a0c4fe68ca5e5faaf739476d7d28c" sha1="48c578f38eae8fb4f4b42e2a264a338260d7efa5" sha256="7d4788159677e4f6e0f4d7e26a03d1d09009e64e643921f1211d62b7fde29317" />
+		<rom name="Super Collider screenshot.jpg" size="139408" crc="30ea8b28" md5="37f80c17ad3a71e162c771406d42ff5e" sha1="32675961fe4eed0ccf4492c5faeba48a498b83f4" sha256="ba1acf95c305b4c09f92bf9939387667734585499fcfd7f951912e1a09b5a82b" />
+		<rom name="supercoliderresources.vp+" size="1470749" crc="d12f59d3" md5="3f6266638a2321943c1b3341c009c6d8" sha1="23f8d5b42d5477313611d3e10bc7ec635b94f256" sha256="2966a2a904a6c7ceec649c0700b4a242594e0fc329094a577755ce13d54aacc7" />
+	</machine>
+</datafile>

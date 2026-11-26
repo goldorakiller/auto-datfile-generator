@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VPX07] Recreated Tables [Flipperless]</name>
+		<description>Visual Pinball [VPX07] Recreated Tables [Flipperless] (2026-11-13)</description>
+		<version></version>
+		<date>2026-11-13</date>
+		<author></author>
+	</header>
+	<machine name="Mini Baseball (Chicago Coin)(1961)(tgx)(1.7)[VPX07][Flipperless]">
+		<description>Mini Baseball (Chicago Coin)(1961)(tgx)(1.7)[VPX07][Flipperless]</description>
+		<rom name="MBwheel2.png" size="2110056" crc="47841b20" md5="2d13cf6b9aebf54789f846ccbadfb45f" sha1="163ae680482826bc6c32724a2b99dd72e477223f" sha256="cdfe3fffa7373a69fdd1c20029d95e66170e003abb8e7c60f85240549272f1dc" />
+		<rom name="MBwheel3.png" size="2103804" crc="40d33b63" md5="664e763e90cde276f8773c0ff75a5469" sha1="80a578f3e2f5676e6c9f94b0fc544e06a5f266b6" sha256="843cfc3b6d7f70496e103bd4ae6b51c191bbbb6b43a361750db702ac9220c362" />
+		<rom name="MBwheel.png" size="2099940" crc="c2902d90" md5="7391ff6c261ea6fc74f4803b664e3271" sha1="b885caa82d3c28fdc2610d1b131310693b59aa4f" sha256="3daa6ac1403d738dda944b24b3c2a027fa1b90c3969970a4cd4df5edae244c17" />
+		<rom name="MiniBaseball(Chicago Coin 1972)v1.7.vpx" size="8347648" crc="1c636526" md5="c4bbf3337e86c8038116df836b253bbf" sha1="6bb64166c8e86f076b3ddab41418e04d4d2c5d3a" sha256="2308dfccbbd70b14a8094177dbd198c24e89f4e0fa2ffbe58939617dcfcb2441" />
+		<rom name="topper.png" size="252347" crc="ef0bb5d6" md5="b2d00f1179e8b2d45bba941f397d6f58" sha1="a7c0bf0aa9c1c001971f97f22a4572cebea7d54b" sha256="d715e5dce25082b04f016fbdc8a872c8268945bb58bd81863da8f7000df49ac7" />
+	</machine>
+	<machine name="Sharpshooter (Bally)(1961)(Rascal)(1.1)[VPX07][VR Room Minimal][Shooting]">
+		<description>Sharpshooter (Bally)(1961)(Rascal)(1.1)[VPX07][VR Room Minimal][Shooting]</description>
+		<rom name="Instructions to install.txt" size="1127" crc="3c12594b" md5="3acee2ef832fbd61306d21722d2dbc54" sha1="6361f2655510d87efdd25ff586d2e7780679d16e" sha256="4e469104684290dd2b1f76b92ed8190a4467ed1a6c1c1df418d238ff12cb321e" />
+		<rom name="setup.exe" size="607232" crc="4cd14850" md5="e4d0705ae78f2c12fe7b58e22d6cac3b" sha1="af12ae8dbd71ebeda86c10a684309841c4b9b976" sha256="42ca0a5b4d8b03240e70731a6784496f4647061d0530b2cdfdf47e3b894c9634" />
+		<rom name="vpmjinput.vbs" size="5898" crc="f6aab4c0" md5="31f35c5c57bf3754f958200a320cb90b" sha1="221e03776c10059bd764f304a934c24a29bd46bc" sha256="68a537f889dd3b320b47a698c8a04ee397ec9080cb8c5a3f03047664d487657c" />
+		<rom name="VPMouseJoystickInputSetup.msi" size="673792" crc="734a6650" md5="922b6910cf5db2a38eb1091604b1873b" sha1="2d5b1b965ed528d36e032cb83e849bee01f1d0f8" sha256="49305c4d1880228438890ba82d126aa6c22b0b3e67dce193209a5e3018cee24a" />
+		<rom name="VR ROOM Sharpshooter - Bally 1961 (10.7).vpx" size="54829056" crc="7c3ff84c" md5="4d41ed1c4baa701930089ae74bdb876f" sha1="c85be06271b1aaf0c4f84986410dd28c91a97f4b" sha256="8090cab88180f08a096ce07b11f51d42c59862cc9805375fd2fbd15b14a3ddf9" />
+	</machine>
+	<machine name="Ten Strike Classic (Benchmark Games Inc.)(2003)(Rascal, Wizards_Hat)(1.1)[VPX07][Bowling][MOD VR Room Minimal]">
+		<description>Ten Strike Classic (Benchmark Games Inc.)(2003)(Rascal, Wizards_Hat)(1.1)[VPX07][Bowling][MOD VR Room Minimal]</description>
+		<rom name="VR ROOM Ten Strike Classic Benchmark Games Inc. 2003 (10.7) v1.1.vpx" size="48926720" crc="b445aa93" md5="0d57d084f27f4b3c8e5b6844306b3560" sha1="d32ab1da0d890b6660dd466077c727cb1ae5532f" sha256="d1afff17fce4e162605ecb02f5080cefe67d3502d4c2841df5649ec1f590091b" />
+	</machine>
+	<machine name="Treff (Walter Steiner)(1949)(mfuegemann)(1.3)[VPX07][Coin-Op Game]">
+		<description>Treff (Walter Steiner)(1949)(mfuegemann)(1.3)[VPX07][Coin-Op Game]</description>
+		<rom name="Treff_1_3.directb2s" size="7543972" crc="aa7845f2" md5="eaec18e38b54194ea8cb3a56e76bbd66" sha1="99dd24f81fb2245a63a5a2ed76af9a2af0610aef" sha256="554b44b78e2b4aa983a71fd3fd075f5a57d1165b680a5e09ae87f4d1f3cf1242" />
+		<rom name="Treff_1_3.vpx" size="11243520" crc="65c17484" md5="7b82bff8d8d6b2a752511f22864711db" sha1="799dbe2443b674e095c1da952086e93fb3b27972" sha256="56ca04353bd13e9b7acc55cbde25fffa375f649b3e4b9e0da085f1e8d2ddeeaa" />
+	</machine>
+	<machine name="World's Fair Jigsaw (Rock-Ola)(1933)(Randr)(1.0)[VPX][MOD LUT v1.0 Xenonph][Flipperless]">
+		<description>World's Fair Jigsaw (Rock-Ola)(1933)(Randr)(1.0)[VPX][MOD LUT v1.0 Xenonph][Flipperless]</description>
+		<rom name="World's Fair Jigsaw (Rock-Ola 1933) MOD v1.0.directb2s" size="1532163" crc="247c9ee5" md5="656e29f90d8df50c809166b01a54b187" sha1="2b64227f62f207657c386f0fba4e9b608d48b4dd" sha256="19f9ac56701f9a4077476f9a2241c32b97526bd2a8925fb692b8abfdcf8f6ac3" />
+		<rom name="World's Fair Jigsaw (Rock-Ola 1933) MOD v1.0.vpx" size="35979264" crc="9acd9616" md5="cb11f9359d1f894790eafa68cf6e09e0" sha1="bbd5f0adf671a15b3aaed26d2bfa48ed83a1b263" sha256="b09943d1c35c3cd8f58c9875edced9daec8b50c2d700623017a9484ef30c7dea" />
+	</machine>
+</datafile>

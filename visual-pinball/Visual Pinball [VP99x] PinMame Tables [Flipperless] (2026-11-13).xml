@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP99x] PinMame Tables [Flipperless]</name>
+		<description>Visual Pinball [VP99x] PinMame Tables [Flipperless] (2026-11-13)</description>
+		<version></version>
+		<date>2026-11-13</date>
+		<author></author>
+	</header>
+	<machine name="Pennant Fever (Williams)(1984)(TAB, Destruk)(1.0)[VP990][FS v1.0 dboyrecords][Pitch-and-Bat]">
+		<description>Pennant Fever (Williams)(1984)(TAB, Destruk)(1.0)[VP990][FS v1.0 dboyrecords][Pitch-and-Bat]</description>
+		<rom name="Pennant Fever (Williams 1984).vpt" size="3178496" crc="38614027" md5="733a47176202b946da885a189726e354" sha1="39986b47258b6394b78923eaef22d4552a685a5e" sha256="f4a91a8223c154617f6ba5f22ca0513af20a385033cb2752b6a6d9c213d27f92" />
+		<rom name="screenshot.png" size="3302541" crc="39d11812" md5="74ca124355046832a7c4e41435b32e10" sha1="c551940d0ca8ae804befbcdb1be2e780cfee0a0f" sha256="7bbe2d46e6e1fd85044d282ed0b7a7fa16f81d93858eb44f28838945756cb85e" />
+	</machine>
+	<machine name="Strike Master Shuffle Alley (Williams)(1991)(Rascal, Wildman)(1.1)[VP99x][FS+dB2S pin2k][Bowling]">
+		<description>Strike Master Shuffle Alley (Williams)(1991)(Rascal, Wildman)(1.1)[VP99x][FS+dB2S pin2k][Bowling]</description>
+		<rom name="readme.txt" size="577" crc="fcb288ff" md5="af249a06ff535123f4b44d6b39c1578c" sha1="f609ba17591e232efd78a78d9d066b815e94e0bd" sha256="abf1e920d4b1f8ee0774935c9301ce752d17a66883935efb56c0961bc69baf6c" />
+		<rom name="strik_l4.nv" size="8238" crc="bc010359" md5="fa0441930068355980e61866d9806999" sha1="7139f28bc9bde8a47035c838db4fec3a1d3628d0" sha256="f06c383ed457caa42d7162bc45598509646d32919cf41e624c12e4823c560c84" />
+		<rom name="strikemaster (FS) (pin2k).directb2s" size="8204094" crc="a41d0a30" md5="3b620543d6b5cf9a7daae16becfdabb0" sha1="3bf35870e3348e004253338459a69d5b02fc962f" sha256="a5a281b6429005effffbb9ddf9b12093a39bf2ffd49863ab78baaf057cb023eb" />
+		<rom name="strikemaster (FS) (pin2k).vpt" size="17899520" crc="0cab800b" md5="b7e7df2d0b8cbf833dc5ed106b0a7c88" sha1="22c34bf85fa90a5f715835395c66bbb03d710e81" sha256="7721ebf04dbe0d67fe0e2a7fa31a0af544b7648aba9edcb6cfdd9919051b773b" />
+		<rom name="strikemaster (FS).png" size="2971560" crc="31e7b25a" md5="c905e721fb3c7f46030983803015b906" sha1="bfed810b72aca846a6aab60d788cde6ce836bb5e" sha256="70803e8fdca3f879c5900ac7d710a074be73725aa07b1e1b68bd64d4f577fb7c" />
+		<rom name="strikemaster (FS)wheel.png" size="4794153" crc="c83d009f" md5="8350ab05fdf3b6745fcb36f652ea3622" sha1="dc35b97005623985d8829066d0f109b031828da6" sha256="7d80a0de39fa5c9ce6dbc40f25efee80fcbdda01bb2952d65dbc9e7bc443208e" />
+	</machine>
+</datafile>

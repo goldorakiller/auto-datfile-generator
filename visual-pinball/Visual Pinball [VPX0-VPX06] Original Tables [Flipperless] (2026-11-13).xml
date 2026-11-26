@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VPX0-VPX06] Original Tables [Flipperless]</name>
+		<description>Visual Pinball [VPX0-VPX06] Original Tables [Flipperless] (2026-11-13)</description>
+		<version></version>
+		<date>2026-11-13</date>
+		<author></author>
+	</header>
+	<machine name="Gaston Pinball Machine, The (2020)(aen)(1.0)[VPX][Flipperless]">
+		<description>Gaston Pinball Machine, The (2020)(aen)(1.0)[VPX][Flipperless]</description>
+		<rom name="Gaston.directB2S" size="31088911" crc="34a8b03f" md5="a6c9a6cc2a0058a26d77bf1e16fea05e" sha1="3994cf66b9c16b5dbc49097332d51ba1479b9ee4" sha256="175b5412ae728d4003a05226af5c16826741a3e829a2d10112bd9a99f283f011" />
+		<rom name="Gaston.vpx" size="14651392" crc="c10d3559" md5="6dc4b380867546b9b15b5de0626beafe" sha1="c6fa5f76a3aba6b01a1cba4501529fa34ba35d78" sha256="4deb1d2cd0646b1cebb48007e54a3e93c0eeae8c56acb79f522d4366ec0f4934" />
+		<rom name="pinball1.jpg" size="7572442" crc="07af96a2" md5="2d4315b139b060b2644e2c0cae332222" sha1="5c4dc5220d7135343a70b253106cd9180856aed9" sha256="58793fc2bb0aab19d9c795b9ea76545844ec902ed3dcef8975c37fba789b05c8" />
+		<rom name="pinball1.txt" size="4844" crc="b13ce895" md5="eaf8ba8030c4682dcb670c79e6cc7710" sha1="36c903f23d7b4a3f0526da4b9a0865ff8479f655" sha256="e089b3f5b68118eda4e5d49e9d4b5deb8ff7873f6c69e072157cedcb4557c0bc" />
+		<rom name="pinball2-verso.jpg" size="8255677" crc="650198dc" md5="420d9c2407faf0b30f061258b469ee61" sha1="faf544a92a218b63ef86d0559eb26c55c593eb4b" sha256="549c352c97571fbff44513d28685eb151ab4022c5ac5d8dbf873ff37a586e538" />
+		<rom name="Pinball2.txt" size="33957" crc="74b3e1aa" md5="ea6c6cdc3bec4a41e0668b39b2d51379" sha1="46723bd31f5ce393664211df9f40a51b7d76ac7e" sha256="641c1aa4e758260919f9ba6a68da33599cf191386d76d97b38e994d6a0130364" />
+		<rom name="pinball3.jpg" size="1658200" crc="ef12f9c6" md5="0f70ca71fc9a2e4a5a270663c3a83827" sha1="18aaf73a85df6f49893aab72b940d0ded850cf77" sha256="314a8b7650bb184b2c7ce514780373357e2696aa9c79331d7b1f7ff32e3345bc" />
+		<rom name="Pinball3.txt" size="6394" crc="a4c838aa" md5="494da5061f5bf4ab326d559f5c4310f8" sha1="dc495317801701a5554db0fec8726b4b2fe1dfc1" sha256="d1b04ad41c5e044a5141c6dc04a88095335ee7398a812d51e8642b04f5438a5d" />
+		<rom name="pinball4.jpg" size="1766791" crc="54e57565" md5="a3b5c7f541f0c73d515808c0ed7fbd6b" sha1="ad9ec1f66124d578a164deb5ac356cf184684a95" sha256="b20180690974d19ed1959c34742b44fb2f2e41c85c9b135e4744e4bde719f6be" />
+		<rom name="Table-1.jpg" size="86696" crc="595f4703" md5="fa278662f7b17f078e13e2bae9a1b747" sha1="d75ee01b668c5612d817f2ffab00bf8cc8bdb1f8" sha256="9b0f0b867dc914bab4a33881bc803cae966f24030dad6a1c251bf26878f5a49d" />
+	</machine>
+	<machine name="Talking Word Clock (Rascal)(1.0)[VPX06][Other]">
+		<description>Talking Word Clock (Rascal)(1.0)[VPX06][Other]</description>
+		<rom name="talking word clock.vpx" size="147165184" crc="6cc37f58" md5="4e1eee45cbbea3e864d879cdcbe3cc25" sha1="38bd7cafb8dbd5ca2db20724335a0e52db98c92b" sha256="35ab880665b900f57235b98bf27b596acef000b8cefa353e90e761423729c358" />
+	</machine>
+	<machine name="VPX Foosball 2019 (Rascal)(1.0)[VPX06][DT+FS][Game]">
+		<description>VPX Foosball 2019 (Rascal)(1.0)[VPX06][DT+FS][Game]</description>
+		<rom name="foosball-2019.png" size="992719" crc="bbfafe09" md5="f93d4c55f6dc391ebaf4254c768576f6" sha1="db886a7d45d12a5c4984f941978740aa66e93ec4" sha256="97415d626764f5183c82a3d83eb9bdfb89e5d5e1c043350721a6ca346da3c561" />
+		<rom name="foosballssdt.jpg" size="480414" crc="735a4b9d" md5="30efd2cac80bd5799a9b87a8e1b44df3" sha1="8750eb7ea90c991411e5ca96c68c7b5d3ec669b4" sha256="42274f443a25c87b8c1b172363ca132e4069268034abb0de6c978b2db656d787" />
+		<rom name="foosballssfs.jpg" size="432534" crc="1be0d652" md5="beecf6f1bd76b1f0310baad50594e155" sha1="ec4989f145f18d559eb6655af76f084bcb68c2ee" sha256="b0a1a7b2803d4404f4c8a3141d72b5a9cf8e8b8efc4ea867fd621d882e2a85af" />
+		<rom name="Instructions to install.txt" size="768" crc="ffa024a6" md5="661f93e1b689b6c753ae3ff4c263dadf" sha1="c5d3d31c5423df901b757e71740ae756a5b430c3" sha256="eddcb362ccb8752b3e29abba54d32c929111b18f9fdfd3eee0e507413b25ec7d" />
+		<rom name="setup.exe" size="607232" crc="4cd14850" md5="e4d0705ae78f2c12fe7b58e22d6cac3b" sha1="af12ae8dbd71ebeda86c10a684309841c4b9b976" sha256="42ca0a5b4d8b03240e70731a6784496f4647061d0530b2cdfdf47e3b894c9634" />
+		<rom name="vpmjinput.vbs" size="5898" crc="f6aab4c0" md5="31f35c5c57bf3754f958200a320cb90b" sha1="221e03776c10059bd764f304a934c24a29bd46bc" sha256="68a537f889dd3b320b47a698c8a04ee397ec9080cb8c5a3f03047664d487657c" />
+		<rom name="VPMouseJoystickInputSetup.msi" size="695808" crc="a5eeb9bc" md5="1063c02dd1f417ded89b031aa5e269e8" sha1="32423485b569a5af9ad474cfa20bfd360dc9da27" sha256="206a3d371758de07dcbb53b65418589e35b160571bda823fa421ff7747b94d76" />
+		<rom name="VPX Foosball 2019.directb2s" size="2240630" crc="83f5cdc1" md5="aa2757121f7f925273b7a0e1449869aa" sha1="069ab0b07d194f860b86a2df5e9d740db890f6ec" sha256="324779db485b299705d218c1a287bef9e08ddc49c519d843f50d3a0661969999" />
+		<rom name="VPX Foosball 2019.vpx" size="42881024" crc="7bace329" md5="5990af2c9fd0d16e224e9dc435ccb837" sha1="45bf27d8155622982690f2cf3777cec14f0bc1bb" sha256="125efb0e627fc8ffe376b6ae61a4d6faeb8e6feeed6d85f197610dafe1c61dc2" />
+		<rom name="vpxfoosball2019logo.png" size="1723121" crc="95ecff76" md5="edf7665795a156289f4f3e58db2689d8" sha1="f45c3e6d84894b9b4ad81cdd5bf9bf3e2445a6f8" sha256="8e3c73340187e16f8af375224438daa0849007a9590fa73e1bf95d573a6b28a7" />
+	</machine>
+	<machine name="ZEN (druadic)(1.0)[VPX06][Other]">
+		<description>ZEN (druadic)(1.0)[VPX06][Other]</description>
+		<rom name="Hello.txt" size="3819" crc="15d9d3cf" md5="fb70cbb25ee692289fc0c40059bbf231" sha1="434c9f436fade615bd315d07645084b8238f681a" sha256="1c2590fff0479379855297eac1912d24ccdd089c01f33d2752b1d2780f1a181f" />
+		<rom name="ZEN VPX.vpt" size="1732608" crc="fcdee0d2" md5="7fc4944cbe5c4be1ab4eb17a3bfaec55" sha1="4ddc6eb4d6533b6b6e960d6dcf079f6949ba790b" sha256="525e4faec662452bd422c81be102794fe356036485efbb3aecd3c5b6231f6ac0" />
+		<rom name="Zen_creation.txt" size="5788" crc="60b390de" md5="1d93989c052c4b45893378a147368b07" sha1="b930dd76fa52335e11ab86cd828b9fa355b78d34" sha256="c4c96f89f5a4624e0748e7cd987a02a82fad3ada990172f5c3986b0c8d03d121" />
+		<rom name="Zen_info.txt" size="1907" crc="ac9e9942" md5="ef8f6a8bfb0cbacbe3e8c36b095d1922" sha1="b7634ca4e1dce973e55f88dd9ebb3da91ff6d83c" sha256="2e927eb37aaa51822750d588b374b7dd327e260fcfa6c47a9424ffcf111ab1cf" />
+		<rom name="Zen_play.txt" size="4112" crc="96db40c6" md5="3c1e44b2a5d3cd2e9fe4364f5905d15f" sha1="6d25c174bd7027916693258d20fd340db80dc00c" sha256="424c6dd279d5fad1d38cc963a508d929c659a9b8e660c626971226479ca9528f" />
+		<rom name="ZenVPXScreenie.jpg" size="354616" crc="784a4962" md5="7176e389715db52c8b713134c3acf2ac" sha1="f093c9bc9a874dcf089f4739c9544e3b622afb92" sha256="7404f5984c611cf213c596c26390f595575b7199f8fcabcd12587bb56197f18a" />
+		<rom name="Music/Cathedral.mp3" size="4938604" crc="c2f3aa50" md5="61c050d0d302e840f07c29a1be712b1b" sha1="02e4a9d01a5f9d89c07ab5979fad9dc6af8163db" sha256="f8d3187485c8cfef23bcb779e8d096bb1a7ff03ace1847aac67c3659a7ca2f43" />
+		<rom name="Music/Open Ways.mp3" size="4411976" crc="a90817d6" md5="6970c7e9674a3152308021f682401abd" sha1="e247667fa0d42f68fb2069f2edbfc605bb5dc77b" sha256="4f497df21b25ebfcbdda9243cbaed0a34d3ec41cc25a859ef58437f1c2fadf9d" />
+		<rom name="Music/Return To Me.mp3" size="4377703" crc="e09dc394" md5="ee5276be4b510a04571d96452065cd4d" sha1="49846d3c40cac2815c9b8e069758a6fdcc27d877" sha256="bbcccca7c8363b56719c9a5d6f612b9d3df0d9ead6a82ae691780fd2585d2267" />
+		<rom name="Music/We Rest.mp3" size="4229328" crc="654f7508" md5="77f3a0bbc0983860a71b81f6534ce93c" sha1="87010979de4dcfc498cd05978b7357ba80be9578" sha256="0465d309bfb1d0354d0c33aaf835d24dd14d46538a9bc822e7b90f013bd42b2c" />
+	</machine>
+</datafile>

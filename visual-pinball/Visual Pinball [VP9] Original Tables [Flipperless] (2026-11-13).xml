@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP9] Original Tables [Flipperless]</name>
+		<description>Visual Pinball [VP9] Original Tables [Flipperless] (2026-11-13)</description>
+		<version></version>
+		<date>2026-11-13</date>
+		<author></author>
+	</header>
+	<machine name="Bang! (Justin Case Kazoo )(1.0)[VP9][Bagatelle]">
+		<description>Bang! (Justin Case Kazoo )(1.0)[VP9][Bagatelle]</description>
+		<rom name="Bang! (Justin Case Kazoo )(1.0)[VP9][Bagatelle].vpt" size="1376256" crc="81895028" md5="1a4621d8f2d2d83171905137fe807130" sha1="a14d39c9d30971950f60e287f46b92425024c990" sha256="c747247c61265a609184394902b99e296e8439f22a8b81a5ec61cbb657f03958" />
+		<rom name="Bang! screenshot.png" size="137695" crc="4020a59f" md5="8333c2ac9b60b7ab60b2e6c91db01ef9" sha1="084564e205c73b997c556de5ceb5e6e90d33a9d2" sha256="338d98da6f822c6cdc10d3d40c6f57bfa9a464181aed17ac1fa3a4086e7ba90b" />
+	</machine>
+	<machine name="Bronco Buster (tiltjlp, SDB)(2.0)[VP9][Flipperless]">
+		<description>Bronco Buster (tiltjlp, SDB)(2.0)[VP9][Flipperless]</description>
+		<rom name="BroncoBusterOriginalFlippered.vpt" size="6184448" crc="58dc741c" md5="985eeb615d5ede62b0908362ca1f0e78" sha1="096a92dcb3790bbce8b5f61012a579f6acd5e194" sha256="62194a9406fe7dcb5b0698940383a6508767ca627ebb6558ce70f6425c25dee3" />
+		<rom name="screenshot.jpg" size="171979" crc="8ce7bf69" md5="8fde9768f9ef8a79d66bed27f746eccf" sha1="29245c1697d98bc8e2f04f4a5361e591a642ac1c" sha256="8f03d5347751dae4b6559a742a4e2cb6fcef12d66a1edc1a7492bd1ee2e6976d" />
+	</machine>
+	<machine name="Ferris Wheel (Justin Case Kazoo)(1.1)[VP9][Flipperless]">
+		<description>Ferris Wheel (Justin Case Kazoo)(1.1)[VP9][Flipperless]</description>
+		<rom name="Ferris Wheel (Justin Case Kazoo)(1.0)[VP9][Flipperless].vpt" size="3862528" crc="9f3399d6" md5="12a9a69708b3f0282673512e0906744a" sha1="4790d9edc30fc4c18ff2e0112077fdd21ed41b9b" sha256="6b622ea8a72335d39e829fb6c338d8bc122716a0d7efa06bb67d1f7a8b3bc90e" />
+		<rom name="Ferris Wheel (Justin Case Kazoo)(1.1)[VP9][Flipperless].vpt" size="3862528" crc="9f3399d6" md5="12a9a69708b3f0282673512e0906744a" sha1="4790d9edc30fc4c18ff2e0112077fdd21ed41b9b" sha256="6b622ea8a72335d39e829fb6c338d8bc122716a0d7efa06bb67d1f7a8b3bc90e" />
+		<rom name="Ferris Wheel screenshot.png" size="284320" crc="d3290b15" md5="33cc9616dbdfced9a559cc4074544298" sha1="bd1da891a18e7f5777a2a6cf044f706ce36fd7f7" sha256="126df1ae6f045cb13032124aa774bc0447934da09a30bebfb7dfcd398c91c4ab" />
+	</machine>
+	<machine name="Flip It! (druadic)(1.0)[VP9][Sliding Tile Puzzle]">
+		<description>Flip It! (druadic)(1.0)[VP9][Sliding Tile Puzzle]</description>
+		<rom name="Flip It! (druadic)(1.0)[VP9][Sliding Tile Puzzle].vpt" size="308224" crc="f08002bd" md5="b46ebb1f95e40815b6eaf2949076faa4" sha1="6c13c1a25348732b42122cf256025999f95c02b9" sha256="53dbf5d0b7ef43c1019ac560f3681b11d71ec68683bce247ab1d87c9f07e37b6" />
+		<rom name="Flip It! screenshot.jpg" size="92476" crc="c896eb55" md5="d70462f7d3acb3d00809ae69f9c92144" sha1="9dd78cd141aba9504c2e16b44a366f72186b840d" sha256="3e3fcae1b730322e49c26bdcfe25a4eebc5f883a69f2240812ec389474f8bdb6" />
+	</machine>
+	<machine name="Jiggle Box 2010 (starman7007)(1.0)[VP9][WideScreen][Flipperless]">
+		<description>Jiggle Box 2010 (starman7007)(1.0)[VP9][WideScreen][Flipperless]</description>
+		<rom name="Jiggle Box 2010 screenshot.jpg" size="115131" crc="737195a4" md5="82841a4a2d089695a5cab0a6fe0f30a4" sha1="319d5e0f6cb7cfff29cbbef2da9aa55d312606d1" sha256="c751868d1c9edaeb4977a5d5be6ac0276e9c2c5a547d1084071c18c45691522f" />
+		<rom name="Fonts/chalkie_.ttf" size="46892" crc="d9ec3a99" md5="169ac1a3ae47872fe5307d3d621abbfa" sha1="a2be1e242e77491fc301f2a347ca8c895aea2347" sha256="54df6a20f421cd3357b8eec59528847add5e1d786464f8406cb568d1984132ca" />
+		<rom name="Fonts/optional font Read me.txt" size="336" crc="c86a8ca5" md5="73740fd6ab7d746a7fefc5a4237c1c40" sha1="c2f0ff401434a5298c35994b2c3274cb6e821d8f" sha256="e8f2685c0f1cf2ca11b47d8f153a59537c4197510effd17f14bb393279daf588" />
+		<rom name="JiggleBox_readme/Jiggle Box 2010_readme.txt" size="3637" crc="00ad6ce9" md5="e34a5a063ee9e26fa2896e0b458546c1" sha1="f44acba3bf1a76e808c4bc3d3b48ef959befdbdb" sha256="3040634121904277d6ba152c9fe5b27348a7ce98f29a05e456b4b3e0b9c5c600" />
+		<rom name="Music/JB-BJ.mp3" size="237696" crc="7a348c96" md5="8bd3186af135f70671bc2f2db4d824a4" sha1="3e840d303756aaac51cbbe72d5db0c81a74b570d" sha256="08bd570cc178bc2dff490fdbb06b7a94de250a49987f32c90b572859587bd7e3" />
+		<rom name="Music/JB-BWBB.mp3" size="230591" crc="b6bbcb0c" md5="df596d13ac7c50e2c522ba8ed7f27e8c" sha1="efe78d3bb25767533d8334d299cf2d0aa7d4221c" sha256="80e8a1c9dcb21ed844a9a9f932a832a52b0a914116be64d2e44fafba83f34ad3" />
+		<rom name="Music/JB-CIL.mp3" size="211992" crc="ff8cfb1d" md5="21ac8e875ac704ed516d2ecb4a947572" sha1="29b690612f69a4eb286294f0550744cbcf38422b" sha256="2808ae4fca97d02e181decb857d3e4594551ee9f333686368c3b31ead8c8bfc8" />
+		<rom name="Music/JB-CL.mp3" size="338424" crc="f6e250a6" md5="794acacb898203dfe411f74082d380b0" sha1="2a0d9f5460c5550c977228899f36265d147cc33b" sha256="15d82ddca3d398f0c6981917cd95260ab4293c27b3454dbdd2f28cf71744ec8d" />
+		<rom name="Music/JB-CR2.mp3" size="768295" crc="870d60af" md5="236dcbb654cc0f3a8e15769558a20a4e" sha1="593737bc44d1fe86797ea3230f3c783e07b3757e" sha256="39edd1eab60f172021f7b672e2941a8f3f57417d376de27a0eda6721b183a313" />
+		<rom name="Music/JB-CR.mp3" size="287433" crc="e6ae12e6" md5="f98de4e02c676551effeb458abf44587" sha1="6512a9e836b7ef0fd64f03213aee69d0f236dc94" sha256="8a1f5dcb5e7f24f34cc101f5522f34ec652df05559a5f2e6ca33e37f9384b61b" />
+		<rom name="Music/JB-CTR.mp3" size="315018" crc="9ef3effc" md5="968416dbd1adbee7ae54e0d1ddeecffb" sha1="268245a6a412a834f866bc8a31139172e7db13d1" sha256="94ff698f63342d55ee5d99d012c930a26e0eb6606de302138e6a016fdf2c5616" />
+		<rom name="Music/JB-HJ.mp3" size="257340" crc="d4629625" md5="6bc6043df39d2219fab6f6d3bd2ac530" sha1="3c3dda315826477df357f8dfddbffe9a007be9db" sha256="ec37520d5ebdd3ed6124191fe719b2947ed3c3a0425193880c2e1a00c500ee72" />
+		<rom name="Music/JB-JJ.mp3" size="169151" crc="0948614b" md5="fddbac29de0006729cec5b1afab0370e" sha1="61c18a051af84019844e7d2a62bfd5e28dea3fbc" sha256="2dd0ca185941e40d6c1bbef0ff47e1e80c76c49414adbe37fc0317d14d8e13d4" />
+		<rom name="Music/JB-JSM.mp3" size="265072" crc="3bc67a5a" md5="32544821cd5c46e4b0201ba0d74edf51" sha1="9d2f4a102e8bb6e9cd0418871e44b824e458928d" sha256="b5b101d41b2ff280c0e3bb4a74d079db4e9f6d7754e1735b378bb22d7a955a22" />
+		<rom name="Music/JB-TVFLA.mp3" size="134251" crc="9e41150d" md5="f175fe5637434360bcc84c437db0d31d" sha1="56adc497bdd1cb2e06257e6ccb27b70743f11b90" sha256="a1d309e232401e1a0f6db44c29784c5233f57946f10e5e395f2924d849464819" />
+		<rom name="Music/JB-TWYD.mp3" size="226411" crc="635fd9a0" md5="4e907fccdb1adec4b72597e0ea965d2e" sha1="05b737d629a0ddfd1d1e93f15fa96e8ec3d1616f" sha256="4b19484112a072d9ab7bd1dc2592d3b31cbae04c33fabda6f3fb3c5fceb70831" />
+		<rom name="Music/JB-WNH.mp3" size="244592" crc="39dcf849" md5="15b168765641f5f88c0e03070791041b" sha1="ef8890b1a1722d2151ea3ba6078066c51b4fb4c9" sha256="140af13128a2dcd4303e7a84a7739c21141454d402169d25f02f1df352713ce3" />
+		<rom name="Tables/Jiggle Box 2010 (starman7007)(1.0)[VP9][WideScreen][Flipperless].vpt" size="6162432" crc="5de8e9d5" md5="055e68d8b955eb613c7ee450ca1d7efa" sha1="1841da458a81da82f79eedc5ef74d4dd23dca41f" sha256="ff27ca205224c2530fd7b4ecc58dc6001819834f1ee97ea9ac894f86a7e03abc" />
+	</machine>
+	<machine name="Lord of the Rings, The (Megaline)(1.0)(VP9)">
+		<description>Lord of the Rings, The (Megaline)(1.0)(VP9)</description>
+		<rom name="gottlieb score.ttf" size="2508" crc="65115886" md5="62b06e1b2029dabfcbec85a9e312bca5" sha1="76f6eede4bd05a0d2418640e3a6224b6ac1aaab9" sha256="a89b711c62d352f62851c8174bd1d511aa70a0ecb0e96c00c4f393ad184ab94e" />
+		<rom name="Installation!!.txt" size="1780" crc="098f1db9" md5="73605e9f72fcf977f78644ed834a857d" sha1="0d10a796729f9a1693a3daef94e3bdc886e5c0b0" sha256="1d5dd4ee05f7db673954e2674f5dd5b4eec5521d5f72388d51e0bd5187491861" />
+		<rom name="Deutsch/Herr der Ringe, Der (VP9) screenshot.jpg" size="362498" crc="d19649e4" md5="65bb64bae4633451b6957f3ebaa20b46" sha1="ee71d5c858b54cbcbacd94b50089854a69431193" sha256="f996fba0a90870a8d8fdee5069b9e4065ca6050e5fc34339961dcc348ec43e17" />
+		<rom name="Deutsch/LOTR-PaytableGER.exe" size="1986463" crc="faf722c4" md5="8a110be7f519785516d32e225e166201" sha1="c860096ea34c482251b3d165c34d18ef97396010" sha256="fe7541a83f386e9df5b450d6cccf92e362afe7d88ec531b9e8a53ef86734d08e" />
+		<rom name="Deutsch/LOTR-RulesGER.exe" size="1784287" crc="c0994140" md5="089b89f7a169989d4633bebd1df1d8a9" sha1="0ca88bd9903fd1e033045f145388c224162ebff3" sha256="586384b40aa90478e4bacfcb7e90d9ec77d23625240793115547cbeac6685fe7" />
+		<rom name="Deutsch/Megaline_The_Lord_of_the_Rings_Videoslot_GER_V1.vpt" size="32758784" crc="0d8db4e1" md5="ea6a77514a7bc8a2538ec36943d1b38c" sha1="169c0e3c86bf75b35a2dde7a221bdeef078bc78c" sha256="cba1639e6f1ee9f6c0a47ec1f825ba65b8b971e9975564f085f4445cbe30ef27" />
+		<rom name="English/Lord of the Rings, The (VP9) screenshot.jpg" size="353184" crc="8c39e313" md5="0c7b9af0b3a171f7b0510090c41c824c" sha1="fc0d29acdc0cb4b144f2d186defd76775c47a919" sha256="aa855a06f760325aba6c834f2b8b8744590bb649ec3b22dac074fc2cf51d80c1" />
+		<rom name="English/LOTR-PaytableEN.exe" size="1978028" crc="1db7fbb2" md5="c2e1487d756223f836ef18cd7d4c14ec" sha1="731b2296c15749e29c8d36aab701e95bd3c1603a" sha256="ccb1f930fa12f6c68801862584589f957e82358edafb3af5e804731f79ccda5d" />
+		<rom name="English/LOTR-RulesEN.exe" size="1717039" crc="bc249c89" md5="8e60b5541b29e5c2646eabf2c706f1e5" sha1="d46c147d6d0299c4ec95cbf0dfc4410d8977ab26" sha256="bbb9972e572da9ec20719121e8b7f8505d8149278f3e1e031c285d90019c47eb" />
+		<rom name="English/Megaline_The_Lord_of_the_Rings_Videoslot_EN_V1.vpt" size="31054848" crc="4e5f7bc5" md5="03dabd5fc32ab476e07a0df3bd334cac" sha1="3a37b723facdef3d8e1262cec2043a750b93ce62" sha256="d062d95d5d12edd80a81ef7276200864b51518f2be09a71bb4c89ac9cb4b1c8e" />
+	</machine>
+	<machine name="Maze2009 (Bob5453)(2009)[VP9]">
+		<description>Maze2009 (Bob5453)(2009)[VP9]</description>
+		<rom name="Maze2009 (Bob5453)(2009)[VP9].vpt" size="1140736" crc="16d8c652" md5="25b89ccecee4f64cf8e3e6dcd74e1036" sha1="3a63e8788f028716f801c4922a81a70e2835a8f7" sha256="305c04d66eeddc34ff1d1ea390cc695d29bbff92f139462ea3b3bf5e558e4197" />
+		<rom name="Maze2009 screenshot.jpg" size="251789" crc="e8248af8" md5="b787270c3b470fca5166d30a09593815" sha1="0a3e69cf41309e090c3a1081da96a4bf26d78c02" sha256="b90156bd74a36b8debc6f7be9197fe541d9b3405f5e78c22cd97bff8e44d7577" />
+	</machine>
+	<machine name="Memory Zone (Bob5453)(2010)[VP9][Other]">
+		<description>Memory Zone (Bob5453)(2010)[VP9][Other]</description>
+		<rom name="Memory Zone (2010) screenshot.jpg" size="482198" crc="73d03dfb" md5="ed5fe84d7616a62ef0139a8453e02206" sha1="753896246943719a7f127ef9b1135e7cf63f996b" sha256="ff85773b752cbc32282ebb3415848671ed4fa9518759ecd1e6e7e1ff7411c671" />
+		<rom name="Memory Zone (Bob5453)(2010)[VP9][Other].vpt" size="2812928" crc="4f6d3eb0" md5="b9332571ef08f7842e5dc3f1df234a9e" sha1="98b5af44410809413d6704e92d818021b8322700" sha256="99ac1eadce9789eb8d82c22ab5f90ed4a36b8f61dd2a6e9e75cef29a5f1a7ea9" />
+	</machine>
+	<machine name="Modern Day Bagatelle (tiltjlp)(1.0)[VP9]">
+		<description>Modern Day Bagatelle (tiltjlp)(1.0)[VP9]</description>
+		<rom name="Modern Day Bagatelle (tiltjlp)(1.0)[VP9].vpt" size="627712" crc="bf4aee54" md5="d54de9607e6d449ffb14317dd266a067" sha1="c4f1334ee9959c84dba54e163fbcabdad2f30c51" sha256="83aa2e48f4c29ad02f1f780bcb01296e98d5efe82b382c4ff113a941039c3fcc" />
+		<rom name="Modern Day Bagatelle screenshot.jpg" size="168337" crc="48fda730" md5="45bead296eaaf78d58804f0a646434d2" sha1="0031a253eec30acd08dbdaf510d46b03844d267c" sha256="35fea066f9b13a6a1f40bdf70cfd2397d673aba9d25c2b3d7c46b7af030b4584" />
+	</machine>
+	<machine name="Peace Bagatelle, The (tiltjlp)(1.0)[VP9][Bagatelle]">
+		<description>Peace Bagatelle, The (tiltjlp)(1.0)[VP9][Bagatelle]</description>
+		<rom name="Peace Bagatelle, The (tiltjlp)(1.0)[VP9][Bagatelle].vpt" size="2097152" crc="7079578f" md5="612c49736d2cf17e10308736d72a27d5" sha1="5010d299265d6cdb4cdacb1e6d7b3e4d67a2b79a" sha256="b3b24d73e134d2aa09c6c99c139548c37abb472fdb9dddd24208429094988dc0" />
+		<rom name="Peace Bagatelle, The screenshot.jpg" size="519771" crc="5d1367ee" md5="22bd6c456636c290c1731480b18a13fa" sha1="d253cbc27338d770a67c1d1bf1d5b5b774d04b43" sha256="5bcba9f8ba8f4dfc3cfe3a64c42681661f91c5b686cbfbe1f7acf8b2596fc574" />
+	</machine>
+	<machine name="Tic Tac Toe (Wizards_Hat)(1.0)[VP9]">
+		<description>Tic Tac Toe (Wizards_Hat)(1.0)[VP9]</description>
+		<rom name="2043.jpg" size="49844" crc="da64867b" md5="b3ea7f353fbdcd1ba873797bf785882f" sha1="9a105cd39aca039b7e609bcdcd8bebb29cdb05fb" sha256="74e4704d61872eddcb78ca2bce3154099ecf02b9fe4cc512cb3ed3cf23ba983e" />
+		<rom name="Tic Tac Toe (Wizards_Hat)(1.0)[VP9].vpt" size="257024" crc="30a92cad" md5="ba05ba177dba7d41e4cea862a62c3f4a" sha1="7a8b8a55b67a99a0c18b76ec039373c22e317dbe" sha256="440529d4fac11f388c1164c3b991c8df5d7187927d8c8cfc069d985776f94a53" />
+	</machine>
+</datafile>

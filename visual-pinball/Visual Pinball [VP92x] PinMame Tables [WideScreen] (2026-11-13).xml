@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP92x] PinMame Tables [WideScreen]</name>
+		<description>Visual Pinball [VP92x] PinMame Tables [WideScreen] (2026-11-13)</description>
+		<version></version>
+		<date>2026-11-13</date>
+		<author></author>
+	</header>
+	<machine name="Apollo 13 (SEGA)(1995)(ICPjuggla, Herweh)(1.0.2)[VP920][WideScreen ICPjuggla, Herweh]">
+		<description>Apollo 13 (SEGA)(1995)(ICPjuggla, Herweh)(1.0.2)[VP920][WideScreen ICPjuggla, Herweh]</description>
+		<rom name="Apollo 13_VP9.2_1.0.2_WS.vpt" size="28585984" crc="97ac587d" md5="716041ec36c42b110dbfa56d32b469c1" sha1="1e6b00fa053eb7bce9249f933468c6fea8b21759" sha256="8fcbf134ea55758a264136d9d3259725a5a88dd173d08cffce6d4bf491750bac" />
+		<rom name="screenshot.png" size="4275207" crc="33e8afd4" md5="7be1bfd7f831e1fa7b3a72ea144c4210" sha1="bcb0f8ece75bf40291ca4be8110f844c5fff7d92" sha256="67c36c7e3497cf59f86ea931401498e7bb567921468d6f1179a4dcfd528d2ea9" />
+	</machine>
+	<machine name="Atlantis (Bally)(1989)(ICPjuggla, OldSkoolGamer, Herweh)(1.2)[VP920][WideScreen]">
+		<description>Atlantis (Bally)(1989)(ICPjuggla, OldSkoolGamer, Herweh)(1.2)[VP920][WideScreen]</description>
+		<rom name="Atlantis_VP9.2_1.2_WS.vpt" size="42319872" crc="e852bade" md5="20ad4d15854aba2bf0c9b9ee517ec929" sha1="c7d21cca0bc6ad2c83bfd65ed6f7dff5bd334b04" sha256="cbfb54e0b77df04a779d111ba5404a7139a09885f407b4bf8efd06a2a6756714" />
+		<rom name="finalws-1-.png" size="3825031" crc="97bf26a7" md5="e8faef76b143af81c48cc9c669208781" sha1="ed06bf278a483db6e7c14e0a7fa9a1e0c2c9f94a" sha256="e9f9eb487f6080fe9b18752ddb64ac05b0f489fb9ad5720a017fb5af1cf13bd4" />
+	</machine>
+	<machine name="Defender (Williams)(1982)(gtxjoe)(1.0.0)[VP92x][WideScreen]">
+		<description>Defender (Williams)(1982)(gtxjoe)(1.0.0)[VP92x][WideScreen]</description>
+		<rom name="Defender (Williams 1982) (VP9.2 WS 1.0).vpt" size="27709440" crc="e63d9361" md5="633f14a4e858b7f60e13e713aa8f6648" sha1="dab62f733475ece159ccbde3f3c503b4bb396a23" sha256="6842387b1862bd71c69a619a73cf0d8e415a27010ef49149465270f3a502f636" />
+		<rom name="defender-snapshot--small-.png" size="687625" crc="073fb55e" md5="235a82e6041339d3a6f245a76cb0f430" sha1="f119d4db8a2d6ba6a24c9bcb93f4870f113a5399" sha256="b76a3eb76de33d75928d72cb6f0e41b4f1c350a643792b88385f9293b1377a49" />
+	</machine>
+	<machine name="Embryon (Bally)(1981)(ICPjuggla, Herweh, OldSkoolGamer)(1.02)[VP92x][WideScreen]">
+		<description>Embryon (Bally)(1981)(ICPjuggla, Herweh, OldSkoolGamer)(1.02)[VP92x][WideScreen]</description>
+		<rom name="Embryon_VP9.2_1.02_WS.vpt" size="27795456" crc="55755fac" md5="ae55e2d73ade97f4e09590181496a994" sha1="93f6249b96dd84a443d7983ad05441db5be05431" sha256="f6e689a5afa845090c6ed2641b059ddc8477595996b9e6de1285ac2f1257d931" />
+		<rom name="screenshot.png" size="1838236" crc="4558d124" md5="afe36b74f7910544738898b64c77eae0" sha1="a1afa078af237171905133e93ec4b4871d4a2122" sha256="57f83daf4e30f408d0a5ed42b35780f58d0d81cf070c6fe7d99b922fa6c5210e" />
+	</machine>
+	<machine name="Laser War (Data East)(1987)(ICPjuggla, Herweh, OldSkoolGamer)(1.0.3)[VP92][WideScreen]">
+		<description>Laser War (Data East)(1987)(ICPjuggla, Herweh, OldSkoolGamer)(1.0.3)[VP92][WideScreen]</description>
+		<rom name="LaserWar_VP9.2_1.03_WS.vpt" size="32575488" crc="dc439528" md5="12c01a4dd4f658c9711e2208b9eaed8e" sha1="f58a80c074182449c558e0630bc4cfdcf6db404b" sha256="ecb20f5d0a42eac9b2e84663f647d2d782df944a77092e2c13b77ccb16ba8079" />
+	</machine>
+	<machine name="Mr. &amp; Mrs. Pac-Man (Bally)(1982)(Shockman)(1.0)[VP921][Widescreen]">
+		<description>Mr. &amp; Mrs. Pac-Man (Bally)(1982)(Shockman)(1.0)[VP921][Widescreen]</description>
+		<rom name="Mr &amp; Mrs PAC-MAN.vpt" size="10047488" crc="008c30cc" md5="f6e6c6c60be358ddfeb8617cd2c8955b" sha1="409dc0a4ee008c3b45d3c01ce5d23bf83240eb55" sha256="9931e764333f2daf3eb7603cdad8bbbb43757e2fb6b7ba58559990bb87727cc3" />
+	</machine>
+	<machine name="Whirlwind (Williams)(1990)(ICPjuggla, Cosmic80, ClarkKent, Herweh)(1.01)[VP92x][WideScreen]">
+		<description>Whirlwind (Williams)(1990)(ICPjuggla, Cosmic80, ClarkKent, Herweh)(1.01)[VP92x][WideScreen]</description>
+		<rom name="Whirlwind-Fan.mp3" size="835629" crc="20646f86" md5="93ac4a882aa3c1114abd23221797c50b" sha1="4acb263714cba198ee7cebc760d8ef61e65571d6" sha256="4c62d5b4329c68ff330c150e79fb2017dbb4dab56fb75cb94f5d835c5231f5dd" />
+		<rom name="Whirlwind-Wind.mp3" size="1531531" crc="c67f45c2" md5="c51fa8ea1667aafd8dddae8dd628947b" sha1="ce9ff48cf8ab35fff5772c8bcc180f4b595f3df7" sha256="6783e7f1e73b54856d66c581a13d791c8f4190c1ac20211e1da32fd9c0e21f24" />
+		<rom name="Whirlwind_VP9.2+_1.0.1_WS.vpt" size="42278912" crc="f108db43" md5="21ef1d8564c8f86a733cd0bdc5b664e9" sha1="e0db6b8e59c4a2cd384d9dce44c3ea8faa3e5ae1" sha256="e2efa54c9a6e45340ae09c9e3bd6c89864271336191317306f4c92ced1905f7a" />
+		<rom name="wwfinal10ws.jpg" size="1237443" crc="f4733fe1" md5="089b6266a68c287acac101f2232abdbd" sha1="e0153a90275f085ae8eee9570b60eb311d2720e0" sha256="37badcdaf8580479ae4a5d7ebf3f1295bc4b6d8dd309d11e6985af58043cc796" />
+	</machine>
+	<machine name="World Cup Soccer (Bally)(1994)(Bmiki75, Koadic, Bodydump, Bent98)(1.2)[VP920][WS DT v1.0.4 StevOz]">
+		<description>World Cup Soccer (Bally)(1994)(Bmiki75, Koadic, Bodydump, Bent98)(1.2)[VP920][WS DT v1.0.4 StevOz]</description>
+		<rom name="wcs8.jpg" size="491647" crc="786c9dcf" md5="85eccaf27a8b1dc6b1d1bfb387cbb10f" sha1="437ad7f87e9606e04ad2b2e3b700d5d1a33843c5" sha256="6c7e80eb42c0e3b8701b417631c68d71109a7c59de6e46cca55d61c17649f0b7" />
+		<rom name="World Cup Soccer (Bally)(1994)(Bmiki75 Koadic Bodydump Bent98)(1.2)WSDT.vpt" size="44630016" crc="eb980df1" md5="452aff51d3e539ced54d888abef5ad4a" sha1="a23daf76747787c5b573dd395cea51d2aada7f5d" sha256="42176ac9eb93a871f2be227fbb67c600abc371d07d612f4efb63a5133bcc8533" />
+	</machine>
+</datafile>

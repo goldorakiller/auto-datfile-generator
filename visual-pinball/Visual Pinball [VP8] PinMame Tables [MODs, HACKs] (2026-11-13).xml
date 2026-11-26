@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Visual Pinball [VP8] PinMame Tables [MODs, HACKs]</name>
+		<description>Visual Pinball [VP8] PinMame Tables [MODs, HACKs] (2026-11-13)</description>
+		<version></version>
+		<date>2026-11-13</date>
+		<author></author>
+	</header>
+	<machine name="Attack from Mars (Bally)(1995)(Ian Boffin, PacDude)(2.80)[VP8][MOD Debug v2.87 Jive]">
+		<description>Attack from Mars (Bally)(1995)(Ian Boffin, PacDude)(2.80)[VP8][MOD Debug v2.87 Jive]</description>
+		<rom name="2.8.7.jpg" size="221012" crc="2c8589a1" md5="4ea352da224a220c73812c9436843aed" sha1="e6bd9a5aaa05e293fcc192752a79e98b4fdf03d2" sha256="30400a7693da8f769e072a0ab24d73b86466aed92ac6cb69480a9368a1c33dcf" />
+		<rom name="Attack From Mars Jives mod 2_87-rules.txt" size="14338" crc="353fbf81" md5="aa8ea70170d7ceecfa12673c0df1ea1f" sha1="9d8731c2e5ef4a9abdb87a9562f970eafdfd9ce0" sha256="344235bfab2284ed6cab6a3e09d982db5af2ed06a3df6943db004a8cc0dd070b" />
+		<rom name="Attack From Mars Jives mod 2_87.txt" size="2279" crc="507e7b95" md5="136b564f54d7c4c0b8a2282e0b1b59d0" sha1="b1ba2c4b5ca618a878da01596e3c4358d1e5990d" sha256="7b33d2dfef3b55af5c8e8da2a405bb629cc6cce5ad4cf35ca688b09b82ab7965" />
+		<rom name="Attack From Mars Jives mod 2_87.vpt" size="4013056" crc="9196b2ad" md5="3924d3fc23df6ee505a6a6272d5c6485" sha1="44e7dbbd23b95bc4f3d08a2cc2183f9aaade293d" sha256="9f25614d02034ee8601a27f83f6e443d31df3ab2ee42b47e1b3da02050bb83b1" />
+		<rom name="Full Pinball Table.jpg" size="215604" crc="fcb0b9da" md5="c2c9f8d2ead1d4aeb7fe2f3c513d3eaf" sha1="f7cd8711855601bd1fb152701d6effab9f07ca7a" sha256="62960b8826a46436b462c3435700283535c2b8cb54d1c1353ccd1002bdf50fcf" />
+	</machine>
+	<machine name="Attack from Mars (Bally)(1995)(Ian Boffin, PacDude)(2.80)[VP8][MOD v2.90 Jive]">
+		<description>Attack from Mars (Bally)(1995)(Ian Boffin, PacDude)(2.80)[VP8][MOD v2.90 Jive]</description>
+		<rom name="AFM Jives mod v2_80 vs v2_90.jpg" size="79403" crc="b40843c5" md5="f01b658afd0da7e95e990c6b6a54fd31" sha1="acdb0b6885109fde0df6a4e44a0d378b5d7b8588" sha256="2b4cc786264cc398910a4888bd7c08365feb885d970ca71412cf7b8e39bb2e0b" />
+		<rom name="Attack From Mars 2_80.jpg" size="136202" crc="839dd3b5" md5="e0a3e525a817db40105c2fd0fe4dd64a" sha1="709db01e891d65bde3303cfcd215b97cf5ffd120" sha256="4998869588d094cbf6e86adc7db4c7334babe0eb12a51c25737ff62078e9e115" />
+		<rom name="Attack From Mars - rules.txt" size="14331" crc="1a73dbc3" md5="521d703f1edeb2b81e906525107765e3" sha1="5794d02fa7708d9cc07ebc37cfa0b346b2c3b2e5" sha256="c78dc2be6631c55aa7010b9634ef21707bd4a0acc7815c03af99af80fc1f4e60" />
+		<rom name="Attack From Mars Jives mod 2_90.jpg" size="196972" crc="52f9f53a" md5="50bab4162607aa29b26331be1b593ed7" sha1="86463bc138fd470f947636d8646061794a1ae56d" sha256="37fdf2cfd57544096dd1292cf819c093bf4e5b72efac8774e640036c0195c3e6" />
+		<rom name="Attack From Mars Jives mod 2_90.txt" size="3676" crc="cb842bc8" md5="355a47d3df778a68af78470cdea0bc53" sha1="c3f781f5eecfe2282242b0f9d4b2c7d93638055e" sha256="6883558ac77463ca54500dbf8918185345eb9ae7048f022359e75519e436b980" />
+		<rom name="Attack From Mars Jives mod 2_90.vpt" size="4519936" crc="d0dd033d" md5="ef0515d1f20ed6573f38af5dd78aaec4" sha1="e8e6c2ae663931ec89119d349ade64fac8f938b4" sha256="8e305d880f6f63e5d2ad7a6b819acc8d1ecd5dcab3641c835e192f645386d147" />
+		<rom name="vbs/core.vbs" size="77829" crc="5d605471" md5="32f8ef40d6cf6200726c4daffdf0b06b" sha1="a6d3b3b48ee11fbb305f6d4395fdcc9fdd802594" sha256="ca6763a286646a0673bdb32848f36043dad305df670d5b3d6d822ce9c9e17193" />
+		<rom name="vbs/VPMKeys.vbs" size="2907" crc="4c2dcd49" md5="ec5498103fecc3b47e19c70e511e5072" sha1="56e416b4e887ebfe2f5e54129ea50e5434d2cc95" sha256="a83b8b7fb6cbe0dc2bc6b8695b6663ef00276d86a2e2d64932c055b26bcc842e" />
+		<rom name="vbs/WPC.vbs" size="5648" crc="ea658b38" md5="bbfb68f6206ac4b46374bc82cf8b76c0" sha1="10e692704b9090b9be8c69bbf325cd2fbfb31ab3" sha256="7db5e3e4655a5a102cfed769ac6087126b06f5baba05d017cf397a670d41a44a" />
+	</machine>
+	<machine name="Back to the Future (Data East)(1990)(AJ, Destruk ,Selenoff)(1.1)[VP8][MOD DJSpeedy, Jive 1.3.2 XP2]">
+		<description>Back to the Future (Data East)(1990)(AJ, Destruk ,Selenoff)(1.1)[VP8][MOD DJSpeedy, Jive 1.3.2 XP2]</description>
+		<rom name="Back to the Future 1.32 XP2 - Rules.txt" size="14172" crc="2e4591e8" md5="bf02719948506ebcb161afbecf6b7c66" sha1="2d60af0275b0649b667df8e99b1144c735d4d2ea" sha256="5dac9481d648563b0a02c1e56229f08f11c629509e4a32dcd46192f0589e8e95" />
+		<rom name="Back to the Future 1.32 XP2.txt" size="4706" crc="948dcea3" md5="6dacc4287efda2f0f9ba35dc00354aa9" sha1="6215e0ca3c9772aec69214508b6a31b6b9df4ea6" sha256="1bce720d518aeebff8f871846cd88fa338ad163dd6c7cefaf49ae2c601197c1d" />
+		<rom name="Back to the Future screenshot.jpg" size="203358" crc="77b2f14c" md5="c2ad91c15648920cc6943c5374dac3dd" sha1="8a03e4d72975b58796a11933ef6cb063f2b1a322" sha256="b79284658de6b6dd9ee41a5ef3cf234471cfa9d6f792a8bc83cdafed725e86b0" />
+		<rom name="Back to the Future.vpt" size="1567232" crc="8350851d" md5="4cad7fbdfb4dfa53c7a0ce56bb5db8cf" sha1="a92c700cdeb7b9cbe427601328a88b88129bf32b" sha256="77317517d2774ad1a5ea50ed99b9ec7815fde68a8f6f174385eb0402882d5a87" />
+		<rom name="BTTF Multi-Rom Mod.txt" size="1173" crc="2e5896ba" md5="9501dcc16542597df1686256c9318c90" sha1="7b5a9db4be093cdda2638d6ad0fae261080c7ed6" sha256="fc0439695a59555ccdcf7dd033c025ed025e72ac0dd120232d570af535d085ca" />
+		<rom name="vbs/core.vbs" size="77829" crc="5d605471" md5="32f8ef40d6cf6200726c4daffdf0b06b" sha1="a6d3b3b48ee11fbb305f6d4395fdcc9fdd802594" sha256="ca6763a286646a0673bdb32848f36043dad305df670d5b3d6d822ce9c9e17193" />
+		<rom name="vbs/de.vbs" size="4094" crc="d121dbd0" md5="cda2d16e696652fcbcfeaf55b1cdaa0e" sha1="8753d5c57937e7202e432aba26fbccb28f6f53dd" sha256="992dcb8b399ef0ded2c648b91662901899593af56fb7175328e760c3ef589f54" />
+		<rom name="vbs/VPMKeys.vbs" size="2907" crc="4c2dcd49" md5="ec5498103fecc3b47e19c70e511e5072" sha1="56e416b4e887ebfe2f5e54129ea50e5434d2cc95" sha256="a83b8b7fb6cbe0dc2bc6b8695b6663ef00276d86a2e2d64932c055b26bcc842e" />
+	</machine>
+	<machine name="Black Rose (Bally)(1992)(Lord Hiyru)(1.0)[VP8][MOD Graphics v1.1 Nealtron]">
+		<description>Black Rose (Bally)(1992)(Lord Hiyru)(1.0)[VP8][MOD Graphics v1.1 Nealtron]</description>
+		<rom name="screenshot.jpg" size="389355" crc="9279a497" md5="d05729f589af9b3a32b7612a87755daf" sha1="f76d6a1d0b2f183858a40a841a0b86ce50aa05da" sha256="d45f533711bb907e7dd47c1c2c5fce483b6a1955d18ef815a42ee809699e290b" />
+		<rom name="VP8 Black Rose (Mod 1.1).vpt" size="9255936" crc="275596b1" md5="a5a0d53f96926e14b0ae62b70c50918b" sha1="ce5376da335ef5cb103a253cdbb97057064beecf" sha256="4ca384c6ff5a0e1487377022e2e6b5a414a2e90b118431ea62d7578dacab5b55" />
+	</machine>
+	<machine name="Bugs Bunny's Birthday Ball (Bally)(1991)(Shep, Jive)(0.91)[VP8][MOD Gfx v1.0 Jive]">
+		<description>Bugs Bunny's Birthday Ball (Bally)(1991)(Shep, Jive)(0.91)[VP8][MOD Gfx v1.0 Jive]</description>
+		<rom name="Bugs Bunny Birthday Ball 1.0.vpt" size="3258368" crc="ebfe7aa5" md5="8e11b95497b24cf90471efdb17ff3521" sha1="3a479275e69ef087d875a3a930089f42155bf2d6" sha256="bf0e6c16caaf556109583cd36196ae292be6ce1c6ca413d76641341915fdfd23" />
+		<rom name="Bugs Bunny Birthday Ball_Jive.jpg" size="188071" crc="4fe84496" md5="522fbfec2a605a39a2659b8c34fb7c07" sha1="679f32321bedc2477b56b6421a6507251fb3d8cc" sha256="ae2dba36e28c46e5e4885059b16cd92538d6291fcb75ae20d1e91e322e988465" />
+		<rom name="Bugs Bunny Birthday Ball_Shep.jpg" size="164166" crc="a969de01" md5="d6cae323e9692bef63471b79229421ab" sha1="4652358c86dc9cba32fbf69eb9eebe016d4cb079" sha256="7ffa28f848ed764d7c1c94ae57b33dcae391dc7748ad4a2efd4021c6e252521b" />
+		<rom name="Bugs_Bunny_BdB.pdf" size="608965" crc="065a86e0" md5="d5df1543be0e850d9b53088a75848f1b" sha1="61f381a6de2c7ad5cf1349d5df92983148f00860" sha256="02bd2d5480e5ea54360c6b9c5dc10279f1b4077da7e37d09e07ed3a4cccdc2ad" />
+		<rom name="card.jpg" size="46185" crc="6b9f6f7b" md5="fd3afe3b9f8aa78183f85cd144f6eba9" sha1="48b5e085162408196563bb0b52f871114dad06d1" sha256="2d3d52c467ef10f12eb8e7a45b0f744dfb23f082d62cf3ea638abf3810423e4b" />
+		<rom name="instructions card.jpg" size="114678" crc="cb7ff3b7" md5="50168a9355593dd3d87601a89f716931" sha1="cda8a77cf4111940dafa5c257bd20a4341aaa093" sha256="84b7fe5ca273239ee1bda1978a9bbaa7fa2a5a1bb811e742a141049622f5a2f4" />
+		<rom name="s11.vbs" size="4747" crc="2c52096e" md5="058d5aac82789707274433fbd8a4a73b" sha1="199b1ebfb6d55f3908684331d1942bd0f46ff2dc" sha256="b4ea397140ad3a819c800a2a20c0562a8656c193d5e6620488cab98d5f42a11f" />
+	</machine>
+	<machine name="Caribbean Cruise (Gottlieb)(1989)(Destruk, Apocalypse, Zaphod, Gaston)(1.0)[VP8][MOD v1.0 Humid]">
+		<description>Caribbean Cruise (Gottlieb)(1989)(Destruk, Apocalypse, Zaphod, Gaston)(1.0)[VP8][MOD v1.0 Humid]</description>
+		<rom name="Caribbean Cruise Gottlieb 1989.vpt" size="3388416" crc="ce6610db" md5="ccb0ecf86c1c51266d77e76662cf4bb9" sha1="0484d92cca48eaf950a0d765a84147e7f1a7e41f" sha256="c2ffc876bd712bd1a920ec57b933f480babda2f759242def51fe175c8b274f7c" />
+		<rom name="Cruise Screen.jpg" size="224121" crc="74dd93ca" md5="165d38fe91204768c6580bca41c4f8e8" sha1="b17fc0a5317df70b68c536c344f813a21584aced" sha256="5f985cf5f7a938e7a90f5d0ee3f4ee1ea9a313a35d1860e7b88357a3295b0f11" />
+	</machine>
+	<machine name="Comet (Williams)(1985)(Andre Needham)(1.0)[VP8][MOD v1.0 Satch]">
+		<description>Comet (Williams)(1985)(Andre Needham)(1.0)[VP8][MOD v1.0 Satch]</description>
+		<rom name="Comet MOD.vpt" size="1854464" crc="f8feb7d4" md5="66069d64eeb2ae48c2483884d589c6ae" sha1="f63530f8d62f7fe55e42b18a76a039037b60ca99" sha256="ddcbd0fa60993596e7d0570fb0536e558ffd0aaf7868154064c92538ddcfb697" />
+		<rom name="Comet screenshot.jpg" size="171121" crc="fa3971c9" md5="f0caf9b5754fdbf0054d4b89c781d629" sha1="3a0d70f9543caa0ca602de45c1d7b515eabbccc1" sha256="ee6bd962939e09d22af9b7eb7b31f56db9fb2a7ca7070e898249ae865fb78df7" />
+	</machine>
+	<machine name="Congo (Williams)(1995)(Aurian, Guittar)(1.1)[VP8][MOD Night mode 2 Jive]">
+		<description>Congo (Williams)(1995)(Aurian, Guittar)(1.1)[VP8][MOD Night mode 2 Jive]</description>
+		<rom name="Congo At Night.vpt" size="3058688" crc="c29dab3f" md5="d4079417ea399f11db19e4d2c97709d7" sha1="abe75b452bce09d8db9b5e69e051aac10fd6034a" sha256="90bdae92e4561cd2dfd13259e13d133d7e94243f6f8151cb517172f5d5b2e9a3" />
+		<rom name="Congo screenshot.jpg" size="705726" crc="c240cef5" md5="cb6d9b616c5720a35b01e051f0402c05" sha1="2fffecafb7ea22e8f9887eeda2b9a9437d324430" sha256="d41ccf2a511d05236ef1430d2574ff86f33d08bbec21c1c8cb9981fafd94c9c6" />
+	</machine>
+	<machine name="Congo (Williams)(1995)(Mungo J, Aurian, Destruk)(1.1)[VP8]">
+		<description>Congo (Williams)(1995)(Mungo J, Aurian, Destruk)(1.1)[VP8]</description>
+		<rom name="Congo Mod 1.1.vpt" size="4567040" crc="bce97c61" md5="420b211f1706ee9f9356b062146e7738" sha1="44b3beafc52f8f78e0a596e2270740b6b8651d6c" sha256="78aed6a684383efe8af2c74d51f72a8ae236376386615e8ab18d2cb057de1cf3" />
+		<rom name="Congo screenshot.jpg" size="661359" crc="5885a094" md5="bcc15f5bab3414f8de0533cf3c0e84f6" sha1="3515b06713873e3b2d90f7f8940d58882951abcb" sha256="18c50f91f0dff34e0bcd9577c0f00ac3bae7f36bfac7b6c493ada2eb15db23e9" />
+		<rom name="Congo.vpt" size="1684480" crc="444d7945" md5="3d5969c5f18f9792b629e0d729559f88" sha1="c9c0afd5deb971c9d0f754ba465bc0d086480089" sha256="ae2642daba161d2d4fa96b2bc3c992499c142ec44abca6902c01d64c7de08c47" />
+	</machine>
+	<machine name="Cyclone (Williams)(1988)(Sweetser, AJ, Destruk, BubleHead)(Beta 0.94x)[VP8][MOD v1.5 LHH Bomb Jack]">
+		<description>Cyclone (Williams)(1988)(Sweetser, AJ, Destruk, BubleHead)(Beta 0.94x)[VP8][MOD v1.5 LHH Bomb Jack]</description>
+		<rom name="Cyclone - LHH BombJack (Williams) (1988) (Sweetser &amp; AJ &amp; Destruk &amp; BubleHead) (1.0 Mod by LHH BombJack).vpt" size="7292416" crc="49de6cd2" md5="164b2f4809a2671d34b6186349a5cc9f" sha1="06358467c2f5bf414a17d4219fff4a6ac0394ef4" sha256="69c0d82045ac24ff4f4364bc65dbc138b27b3f56ebff213ae3c55d1160be8961" />
+		<rom name="Cyclone - LHH BombJack (Williams) (1988) (Sweetser &amp; AJ &amp; Destruk &amp; BubleHead) (1.1 Mod by LHH BombJack) Readme.txt" size="10776" crc="3e08e380" md5="da789bbb1f3d3f4474185d4813a1bcfc" sha1="f9688cfbead6c6e5ba574e3ad4c2dd3d846bc525" sha256="a8b0919eb129ad3fc000dc8be6fa4c703bc942ef743da75de5c15dcad903a92d" />
+		<rom name="Cyclone - LHH BombJack (Williams) (1988) (Sweetser &amp; AJ &amp; Destruk &amp; BubleHead) (1.1 Mod by LHH BombJack).vpt" size="9303552" crc="01a19a96" md5="a9952a6f6a4b7085008ecd466008c8c6" sha1="06284cbd2bd0a4b502c6b512c3a6657e7b9eae08" sha256="bcce4396132c79abab7d20e9b53566abccd9d1a80016dd466e52e775f652fb3c" />
+		<rom name="Cyclone - LHH BombJack (Williams) (1988) (Sweetser &amp; AJ &amp; Destruk &amp; BubleHead) (1.2 Mod by LHH BombJack) Readme.txt" size="11260" crc="ea68b3ae" md5="717fe5aaf878fff3c9a5c7391ec73c84" sha1="1d8c923cb4197fec3a228df9febf63eb2969ff0c" sha256="d9fea0d8f83de8841f77ab52b7a4f51e9796df1c4260a16093e6c0f499ee65d3" />
+		<rom name="Cyclone - LHH BombJack (Williams) (1988) (Sweetser &amp; AJ &amp; Destruk &amp; BubleHead) (1.2 Mod by LHH BombJack).vpt" size="9817088" crc="d51b0a7a" md5="3b7e4c3e43c979d31eea466ae903abf5" sha1="2898be22343178d9cc9bc0b19ad4781ee0b637de" sha256="8356f3383b78e9cf11ed4385efbdaddb00e971088af30f860d5e7358f2074400" />
+		<rom name="Cyclone - LHH BombJack (Williams) (1988) (Sweetser &amp; AJ &amp; Destruk &amp; BubleHead) (1.5 Mod by LHH BombJack).vpt" size="12127232" crc="7f643ac0" md5="991ac273b58c9ee4d0f4eb71e9229f40" sha1="9f18825b8c12aca1073136e73e2ed7e54957bf82" sha256="20d4f67d62831117fac6939c4362f376625e3b3d3a0d4ba4531792f82f66f7dc" />
+		<rom name="Cyclone - LHH BombJack (Williams) (1988) Screenshot (1.0 Mod by LHH BombJack).jpg" size="297708" crc="d97cbff7" md5="53fa0cb4bd6072fc8b222285e7f689fa" sha1="8ccb65629a85c77989060f79e25f21f79488c9b0" sha256="82a9b18b55c92466872a45ef3a6a16ea5ad3e68eff58bf4ab26597304d73e0b4" />
+		<rom name="Cyclone - LHH BombJack (Williams) (1988) Screenshot (1.1 Mod by LHH BombJack).jpg" size="300139" crc="e88f2818" md5="97c077916349433da64b9e1f21ba7d84" sha1="b6be2265f185914e710da3a2110e135f2dcd074c" sha256="e2600ed37c4ce2bf66d69419ffa4118a91731547794374e71180b10ead090f2e" />
+		<rom name="Cyclone - LHH BombJack (Williams) (1988) Screenshot (1.2 Mod by LHH BombJack).jpg" size="247181" crc="bb995c42" md5="eb8ccd7b8dd7023787051e02092011b9" sha1="448947dfd46663bef28ceca868ad8dfffcba89d3" sha256="20dfda5f28c59fd955adb0d60b3a60bd6bb8e93849a14cfe4bcbc5cee9c608c9" />
+		<rom name="Cyclone RevHistory 1.5 (BJ) Mod.txt" size="12941" crc="e2731b4f" md5="88db76f8261e2b23beb0e3fe30f21b70" sha1="48da717e995203c43e2c5e29228f389784640946" sha256="a7a839dc96493e8b7cd502d9a8737660491ff54d36be4c802373717bc8708d23" />
+	</machine>
+	<machine name="Dolly Parton (Bally)(1979)(Cutter)(0.1)[Mod At Night Guittar]">
+		<description>Dolly Parton (Bally)(1979)(Cutter)(0.1)[Mod At Night Guittar]</description>
+		<rom name="Dolly Parton (Bally)(1979)(Cutter)[Mod At Night Guittar].vpt" size="1950208" crc="136b2017" md5="b0b1332c38a67094bab646cc06f3ff32" sha1="9c22c1fe11feabdfdbc7c4df602e2cb0f89cab86" sha256="cc90d6761a883a26c351dd905fb850f0bd4099eafaff4f2ef30ea79ee6dc8432" />
+	</machine>
+	<machine name="Earthshaker! (Williams)(1989)(PacDude)(1.2)[VP8][MOD Grphics v1.3 Nealtron]">
+		<description>Earthshaker! (Williams)(1989)(PacDude)(1.2)[VP8][MOD Grphics v1.3 Nealtron]</description>
+		<rom name="Earthshaker screenshot.jpg" size="377176" crc="f8c77323" md5="2a4961093a8ff9a18306cb8f129ef5a4" sha1="3ab669b0e42d27e8190a65e6c775304722bdd052" sha256="35c1377586cdf83f17403c31091f3856ae52648f9761a488b7aec52da2be2cae" />
+		<rom name="VP8 Earthshaker (Mod 1.3).vpt" size="7526912" crc="4f093b38" md5="1e6adc96527dc81184f3a9699d1aa50f" sha1="39be8fdeebe5495d1b460268d8c214a4c161607a" sha256="b81c44ebcfb579808f7ab33ad0a3f67b62aa15c2dfa045db8f24b58cca139d7a" />
+	</machine>
+	<machine name="Elvis (Stern)(2004)(JPSalas)(1.04)[MOD German v1.04g Gordon, Mr. Schultz][VP8]">
+		<description>Elvis (Stern)(2004)(JPSalas)(1.04)[MOD German v1.04g Gordon, Mr. Schultz][VP8]</description>
+		<rom name="Elvis (Stern)(2004)(JPSalas)(1.04)[MOD German v1.04g Gordon, Mr. Schultz].vpt" size="23610368" crc="0e753845" md5="18fa2a16bf20d653edd80b88c8cbb33d" sha1="55c972cb64522f8f11c3a00e5d0c20644a92bcd7" sha256="c2450466bdd2ec2fd498fc2b01b400c3d7a29cc73f61ee1a71c26b8953b9ff93" />
+	</machine>
+	<machine name="Fathom (Bally)(1981)(Nico193)(1.41)[Mod Jive]">
+		<description>Fathom (Bally)(1981)(Nico193)(1.41)[Mod Jive]</description>
+		<rom name="Fathom (Bally)(1981)(Nico193)(1.41)[Mod Jive].vpt" size="979456" crc="1c7b7eba" md5="25743d0dc2b351f4037536422c7d0b98" sha1="6fc8fcdf57f635f6582ce6417129259eeec33872" sha256="22145342cda62204d07f7eb9ad1a8a871374c43c2b6ee864bc5fb9dc8f8632cc" />
+	</machine>
+	<machine name="Flintstones, The (Williams)(1994)(JPSalas, Groni)(2.1)[VP8][MOD Graphics v2.1 JPG-PINS]">
+		<description>Flintstones, The (Williams)(1994)(JPSalas, Groni)(2.1)[VP8][MOD Graphics v2.1 JPG-PINS]</description>
+		<rom name="Flintstones, The screenshot.jpg" size="329911" crc="dcff5e77" md5="811ce889d44a7d055442eecc5812849f" sha1="aef206a4cb7c94b38765bd47cca6cfc8bcfd5ad5" sha256="4dc7e84ec5f520854831ab177f1684ba8784111edfbf7ee93e77b154157ab72e" />
+		<rom name="Flintstones_v2.1_JPG-PINS.vpt" size="11795968" crc="0d794c0c" md5="83754a8ab6921a31c6422205e15d9a26" sha1="e0f8dc82c0f73ba07f5b91fe44b546b1b7ca20c3" sha256="7150373031c910d78433f804ec8d00e9830d1530db455480b17abbf0280779f9" />
+	</machine>
+	<machine name="Goin' Nuts (Gottlieb)(1983)(LuvThatApex, Destruk)(1.3)[VP8][MOD v1.0 Humid]">
+		<description>Goin' Nuts (Gottlieb)(1983)(LuvThatApex, Destruk)(1.3)[VP8][MOD v1.0 Humid]</description>
+		<rom name="Goin Nuts.jpg" size="285951" crc="9a13ecd5" md5="677309dbd02dfc8a7f3b06b78ad2063c" sha1="f2ca6b53245111b878b94cb9c2f983c3f532714f" sha256="fd003c76b226c3b1b10a899b16791469a9a48764eeb286f321844d62fc376283" />
+		<rom name="Goin' Nuts Gottlieb 1989.vpt" size="3549184" crc="498f4e34" md5="abdc086d68aaa6ebb796bdca5f7136c5" sha1="029efbbc28352c5f805c4953a4620c8eca8e50c8" sha256="37821706ba6cfdee2abc5981eacbfbc44b1252b1efbbad3eae8ca3af6fab8ec4" />
+	</machine>
+	<machine name="Indiana Jones - The Pinball Adventure (Williams)(1993)(Jeff Newton, Brian Smith, PacDude, maf)(1.1)[VP8][MOD v2.7 Destruk, Jive]">
+		<description>Indiana Jones - The Pinball Adventure (Williams)(1993)(Jeff Newton, Brian Smith, PacDude, maf)(1.1)[VP8][MOD v2.7 Destruk, Jive]</description>
+		<rom name="Indiana Jones Jives mod 2.7.jpg" size="242685" crc="b9b4f075" md5="5888bd330cca26ba5cf4cc739c24a611" sha1="4591b02bb5b9a65d1eea266cc671289bb2579ba0" sha256="9d5eca7fe6401eabe9175820c9d7daa267062bc797c7ad2202b07b8ae9e08c32" />
+		<rom name="Indiana Jones Jives mod 2.7.txt" size="13274" crc="91c1df7a" md5="411a3b63a7d0bf6e4e80671096b98a82" sha1="752c79e5bfcdca4f9f738dc16e6ac771295478f2" sha256="ff100ac2e05640140f3f878f2c40a345661f071f60d97d27506b46bc3dce447b" />
+		<rom name="Indiana Jones Jives mod 2.7.vpt" size="6219264" crc="7e167caa" md5="73527d275748010fcd2a336f2fb4a883" sha1="9b95d07a119d9da4f157840ccc7217b9d5628e5c" sha256="338df7d2a57f091710fee79e665f3cc707265b3053a31ebd06034ee4c9a94f3c" />
+		<rom name="Indiana Jones_Rules.txt" size="41422" crc="8c89ea8f" md5="8e3febccc179caa99eeb6ac6c2266fab" sha1="332113fa5ea892ce80dd88e045ec155e41ef1cff" sha256="432d16e7d870ed1fb7912ae1fb6b706415dcd5c9f7142a1d200a8ec991da7eb7" />
+	</machine>
+	<machine name="Junk Yard (Williams)(1996)(Aurian, Pingod, BubleHEAD, Pinball Ken)(1.0)[VP8][MOD v1.00 Wtiger]">
+		<description>Junk Yard (Williams)(1996)(Aurian, Pingod, BubleHEAD, Pinball Ken)(1.0)[VP8][MOD v1.00 Wtiger]</description>
+		<rom name="Junk Yard screenshot.jpg" size="281265" crc="a5cbe665" md5="9c38bbac45a284a70c12cf26ac7823e7" sha1="7d9164b420fdf6687aa5f56c997c3726a18b9fd7" sha256="f4904fe52a8e1bd9e55979a3a40679fae485c7dfb60a6d98d936896f860dedbe" />
+		<rom name="Junk Yard WT mod v1.00.vpt" size="1485312" crc="0d283295" md5="45b3b2ee3df5fe82eddf0aad542ce336" sha1="dfc8900accd4cb2f1d358c29267d8380287b3800" sha256="cf1402d588dcaf408f6a550ec76897a5ba4a42852ec4b97ad5cb68ecb888b920" />
+	</machine>
+	<machine name="Junk Yard (Williams)(1996)(Aurian, Pingod, BubleHEAD, Pinball Ken)(1.0)[VP8][MOD v2.03 Wtiger][MOD Graphic v3.0 Nealtron]">
+		<description>Junk Yard (Williams)(1996)(Aurian, Pingod, BubleHEAD, Pinball Ken)(1.0)[VP8][MOD v2.03 Wtiger][MOD Graphic v3.0 Nealtron]</description>
+		<rom name="core.vbs" size="77829" crc="5d605471" md5="32f8ef40d6cf6200726c4daffdf0b06b" sha1="a6d3b3b48ee11fbb305f6d4395fdcc9fdd802594" sha256="ca6763a286646a0673bdb32848f36043dad305df670d5b3d6d822ce9c9e17193" />
+		<rom name="Junk Yard (Nealtron) screenshot.jpg" size="396524" crc="5d135c0d" md5="38c2028621635cb696cfe7accafddc33" sha1="9935fe528f949271799d914d0dafd37e7772cbb7" sha256="6493a7d3b486990e6138dcffe82fbe171a9cc15002291d534fc7c98f73d022b4" />
+		<rom name="VP8 Junk Yard (Mod 2.03).vpt" size="7852032" crc="0c2e0455" md5="6ae63b117c3e9f74cfb67ecf0baf07e4" sha1="130c45c67a6dab9cd0f327bc14f3cb3e54373e0f" sha256="09ad0825c1cdb9987d6f78d736c21284920d8ecb5c32ac02413f918442cd5137" />
+		<rom name="VPMKeys.vbs" size="2907" crc="4c2dcd49" md5="ec5498103fecc3b47e19c70e511e5072" sha1="56e416b4e887ebfe2f5e54129ea50e5434d2cc95" sha256="a83b8b7fb6cbe0dc2bc6b8695b6663ef00276d86a2e2d64932c055b26bcc842e" />
+		<rom name="WPC.vbs" size="5648" crc="ea658b38" md5="bbfb68f6206ac4b46374bc82cf8b76c0" sha1="10e692704b9090b9be8c69bbf325cd2fbfb31ab3" sha256="7db5e3e4655a5a102cfed769ac6087126b06f5baba05d017cf397a670d41a44a" />
+	</machine>
+	<machine name="Krull (Gottlieb)(1983)(LuvThatApex, Eala Dubh Sidhe, Destruk)(1.0)[VP8][MOD v1.2a  Destruk, Inkochnito]">
+		<description>Krull (Gottlieb)(1983)(LuvThatApex, Eala Dubh Sidhe, Destruk)(1.0)[VP8][MOD v1.2a  Destruk, Inkochnito]</description>
+		<rom name="Krull.vpt" size="5775872" crc="ccda849b" md5="bf4662a80a093ff5bbe5075cd5ac9700" sha1="3d5298e9d62771317030e0ff8799a7d4aff7f85e" sha256="de241e1f6891132eac84506e4d224c88564a169ad940a513ff08078312050cea" />
+	</machine>
+	<machine name="Lady Luck (Bally)(1986)(Destruk)(1.3)[VP8][MOD Night mode 1.3.1 Guittar, JBL]">
+		<description>Lady Luck (Bally)(1986)(Destruk)(1.3)[VP8][MOD Night mode 1.3.1 Guittar, JBL]</description>
+		<rom name="Lady Luck at Night.vpt" size="3583488" crc="b41eedee" md5="38cc1846564cdd324a554f5b0139e887" sha1="75c49338b48cdcf598c7e766096f4b3eef9ec6cc" sha256="cda1925efdd4087f4f10636934b66015760c72c27aebfd20aa97444fa9a38bbb" />
+		<rom name="Lady Luck screenshot.jpg" size="676521" crc="368cb628" md5="4438b5acb5509f4eaeb8941c374bf644" sha1="2a36d556933379e0861d31e02f0fdda22653fa3e" sha256="6cd8a6ce8e0119c9607008df650e468783fbaa14233d8ba58a6cec23b0632e11" />
+	</machine>
+	<machine name="Monster Bash (Williams)(1998)(TomS, Fuseball, RichardM)(1.0)[VP8][MOD v1.1 Jive]">
+		<description>Monster Bash (Williams)(1998)(TomS, Fuseball, RichardM)(1.0)[VP8][MOD v1.1 Jive]</description>
+		<rom name="MB_Rulesheet.txt" size="26079" crc="e5bc0fe1" md5="cae5d7fad334ad0707bfbf76f2bb26b2" sha1="75a97c5484283063df0277a66815198c0f6e9ab4" sha256="487cc05fd9c00fe8a7f9bfa5a26132944d5aaafbb9b0797cb17cd92e2713760d" />
+		<rom name="Monster Bash Jives mod v1.0.vpt" size="4721152" crc="02c8bc06" md5="7557b376e074ccea094e3717eca5f4b4" sha1="2cced69a2990f02b65a44406adf157a481933193" sha256="32fb6b3dee881c530d709799de29e11bb7c596e801f1eb38a42564e6babe60d6" />
+		<rom name="Monster Bash Jives mod v1.1.vpt" size="4830208" crc="e75517d7" md5="f2f735ad49a76f630e532d387e2b3325" sha1="6520812630970448e9793c58031906de348245f6" sha256="324f455c6805804b1278b942590022fb72be78b517121bbd271de47285695fa4" />
+		<rom name="Monster Bash v1.0.txt" size="7121" crc="7670aca3" md5="b4f992d09410823c72edadb79e2c506a" sha1="c6f86cf0138d9b014b7b99cd643c7bd6f995e36a" sha256="bfb4f97174a09e8eaa32af0cbfa6dfc3d28902c275bd2c89832e97044a41f3e6" />
+		<rom name="Monster Bash v1.1.txt" size="9706" crc="0aafd259" md5="01b85c995280feaa4d94785f99c021ed" sha1="9d2156955bb80ad6c2a15ae494a4d390ae461e8d" sha256="947f6b3e16bc452af0091f95b4edf8c00e8a944ee9e5a9646499c9d6086ac110" />
+		<rom name="Monster_Bash_v1.0.jpg" size="242566" crc="f76f5d2f" md5="bdd0ed159c9150b9f46aaf3f4e561b65" sha1="f217dc08b8dcd97226d07fb2116dee1ec80a80da" sha256="1db35da216042391fe950a1979758156de65e22b09334a63e4c030781d72fb9a" />
+		<rom name="Monster_Bash_v1.1.jpg" size="244299" crc="00a44780" md5="2f254f345a99c1c642b5cbc1b7626e6b" sha1="8602124caf985abcdc1013b07814bd245ac2bcca" sha256="ee826e57019271f9d797f64ae65a559ac732aac2b278ce79d9757af52d0ab61c" />
+		<rom name="The MB Design Team.jpg" size="52540" crc="2aedcdbb" md5="975bebaea3b1d1ca7aba2fa400640433" sha1="a3b0e045c60a022cc58ab7f0b5569eb04383302f" sha256="eadad97fa126ccd0f0ffd638a0e46d462dff0b446a1966fa87eca1c4e8f85929" />
+		<rom name="WPC.vbs" size="5648" crc="ea658b38" md5="bbfb68f6206ac4b46374bc82cf8b76c0" sha1="10e692704b9090b9be8c69bbf325cd2fbfb31ab3" sha256="7db5e3e4655a5a102cfed769ac6087126b06f5baba05d017cf397a670d41a44a" />
+	</machine>
+	<machine name="Nitro Ground Shaker (Bally)(1980)(TAB, Inkochnito, Phoenixx1771)(2.0)[VP8][MOD Gfx v3.0 Eala Dubh Sidhe]">
+		<description>Nitro Ground Shaker (Bally)(1980)(TAB, Inkochnito, Phoenixx1771)(2.0)[VP8][MOD Gfx v3.0 Eala Dubh Sidhe]</description>
+		<rom name="Nitro Ground Shaker new.vpt" size="5502464" crc="af235de9" md5="368d834468ff267342b77a72a00ddbcf" sha1="9f6fe7743d417e7446684da3ea87a6cc36e09b9c" sha256="74a0efcbb795446e2f3773d1ec057e9c16944d87cf16ee5d35fc1488c533b501" />
+		<rom name="Nitro Ground Shaker screenshot.jpg" size="603796" crc="f7bebf7d" md5="7eae4b74d90e195a781e306ca0b6d047" sha1="09ba2a774401e74326a41731410625e9ea43663d" sha256="5542046f6a3520c3e30e271e8d4cede4feeaae2539acbc901bef26e323f559e7" />
+	</machine>
+	<machine name="PIN-BOT (Williams)(1986)(Andre Needham, Kristian)(1.2)[VP8][MOD Table layout v1.2 PinWizKid]">
+		<description>PIN-BOT (Williams)(1986)(Andre Needham, Kristian)(1.2)[VP8][MOD Table layout v1.2 PinWizKid]</description>
+		<rom name="Pinbot 1.2 (Williams 1986) PWK MOD.vpt" size="3429376" crc="74a41bd0" md5="8748a088fb61a7b178f615b56efe4943" sha1="24c17eb224ce1e7ea100d70770c647bd8db8b8a8" sha256="70f03d6d6ad3d8403ee16ec42063cf485a372a18f0aaf3eeef21ff30973f3c41" />
+		<rom name="PinBot screenshot.jpg" size="259678" crc="48cc9bc4" md5="543c82c65bf2b70c57832d83084fcaba" sha1="0094afb99884b0706182a15a6b8b049954be6a95" sha256="b44f092d5e1d1e850d6a27d8948958a8c60977e3a36c251d1964b66a92c70cbf" />
+	</machine>
+	<machine name="Playboy (Bally)(1978)(Jouster, Gaston)(1.0)[VP8][MODs Wayne, Night mode 2.0 Guittar, Night mode 2.1 Jive]">
+		<description>Playboy (Bally)(1978)(Jouster, Gaston)(1.0)[VP8][MODs Wayne, Night mode 2.0 Guittar, Night mode 2.1 Jive]</description>
+		<rom name="General game informations.jpg" size="151777" crc="a9aba312" md5="9b3007bc79c4e80f27a45a0cda3e0248" sha1="1b613f0e8f2953c56cdf1ba10843cf4038cf93b1" sha256="cae46fe3fd1b8cab9d7a6b87a31d510e93473c17992f3e3dec9bdae21cf26242" />
+		<rom name="Playboy At Night_2.vpt" size="3411968" crc="59a6f44e" md5="5876e8df447ebd89d9c06d011da62421" sha1="68d366274ce30c81766ce6b7656ad2a12a36751e" sha256="94702704761ff3c54196fcfcb67b2b055c308f88e04c2cce9db48bffcf7d17cf" />
+		<rom name="Playboy screenshot.jpg" size="178488" crc="6340ad7a" md5="beeeefcccaf5bf14aceffb291fff9f4d" sha1="dd35c2f4585d5524cf0b1bb23b940ea4e2243f1c" sha256="8e63d78d76550f1f3172d11e9c59525ce23548d781d6d1bfb4f9f1c5e122fb8b" />
+		<rom name="Playfield.jpg" size="148493" crc="79a6ab41" md5="07af8ad2459122cf913f28c112eb0057" sha1="febc51ac2ef8d075ab656eb304659a574633e7f5" sha256="587190ec6fbd2d1d34ba0c8d7ce2c3cb1212e2ff67dbeb79141546b0a5b023c1" />
+	</machine>
+	<machine name="Ripley's Believe It or Not! (Stern)(2004)(JPSalas)(5.0)[Mod Gordon, AS 5.0g German Black Edition]">
+		<description>Ripley's Believe It or Not! (Stern)(2004)(JPSalas)(5.0)[Mod Gordon, AS 5.0g German Black Edition]</description>
+		<rom name="Ripley's Believe It or Not (Stern)(2004)(JPSalas)[Mod Gordon, AS 5.0g German Black Edition].vpt" size="31322112" crc="05412e32" md5="8be55eea4ee5eb1a2adb6d1256283a88" sha1="6c10148777be6b6e74b8292acea3e1f8c533d67e" sha256="a0bab91180cb7b952b12a17ffcfe833a783f174a71fee026a99f9da5c97c4b96" />
+	</machine>
+	<machine name="Seahawks Pinball (Xenonph)(1.0)[VP8][Source Table Stern NFL 2001][MOD DT Gfx]">
+		<description>Seahawks Pinball (Xenonph)(1.0)[VP8][Source Table Stern NFL 2001][MOD DT Gfx]</description>
+		<rom name="Seahawks Pinball VPM8 DT NFL MOD v1.0.vpt" size="4739072" crc="90a01774" md5="b14a818cb4d844f132bfdf14f688833a" sha1="433a5efb91941eef807a7e8fa96795fbcdaaeb64" sha256="ee255a04be429015b4f60a8011b216afe5665787cfdcb4db1d0fbde611c23bbf" />
+		<rom name="Seahawks Pinball.txt" size="3324" crc="9f6f0dd7" md5="184ebf7eb9f455ae3ec0a0ca74b227ad" sha1="05165850d583f393e8140d32a5a42177ac833458" sha256="228d16dfdd04331fea67804e0a9c3056a3a7bb3dcd7f3405e67565107e306698" />
+		<rom name="vp8-seahawks-dt-v10.jpg" size="211577" crc="e65aef0e" md5="f5da2b7f81bf23701a6e77d711b28c82" sha1="b79d1bb787b289825dc40f5de263d9fa2e254956" sha256="f87b560087730d3745ddd5f555643c898b1b3f17d0f6cbca8857f505e1b109ef" />
+		<rom name="music/0How_'Bout_Them_Seahawks.mp3" size="10120000" crc="4332baf0" md5="45f51729740591edf5d0a455de5dae2a" sha1="d52d2c322c7aee746b401f8e12fbb4ab4b77f904" sha256="2ecd298bb15f6278e42456fe9b7b6c576f643662cfe9cc7d47d98327755bae5c" />
+		<rom name="music/hawktown_funk.mp3" size="134291" crc="a24067b8" md5="422b2b1a44f5dc568f66cb39b2d1cc8b" sha1="50b50f305709b6bf88242c7f4ef877989d8ece0f" sha256="1e6e6fc0441ec51234cef94d61b2b278f7da8a1b68adc3f1ca019ef78dd31244" />
+		<rom name="music/Seahawks Reign.mp3" size="1467539" crc="a9646298" md5="8cdcac6296e92554d9a895ede24d7b0c" sha1="64725b59d204d811812dc7120f1947b0a9ceff18" sha256="02e2fa8c982bedb3ef62b7da2d3d74228d9410c23e82e717ae9cbe5c306c1b19" />
+		<rom name="music/touchdown_seahawks.mp3" size="43048" crc="450f9b36" md5="0746e9e16ccc67710fa12de4d4cfcc2e" sha1="ca220e26d195f100258f965c405f54976f2a6f6e" sha256="fce8a4e837250b00cfff96bb6ba09d6ee9a3717712bca9a6575bbf1c9b67b056" />
+		<rom name="nvram/nfl.nv" size="8238" crc="46fe0d51" md5="442e249c39169e4816a4bf0faa16427d" sha1="acbdc759102490f42bad0667b2dbf8318f9509ce" sha256="ebf2e27f7abb2dc9f0e7d077287ffe190f5ad6a274947e0fde8e8e292d6edd6b" />
+		<rom name="rom/nfl/nfl_v100.u7" size="65536" crc="3fc766f8" md5="afcc7bd4be40f79d24f08223098e99f6" sha1="27341594e7d4a23146e6e6ec8ebdea125231cf91" sha256="14e13105477f555b2b17176a776350c89a887412e2c2581356ac0cf5a3a8e661" />
+		<rom name="rom/nfl/nfl_v100.u17" size="1048576" crc="f36b72ed" md5="3cf0c7df7addf1b1ac4b0ce270c2a2ff" sha1="f8fcbdb31295d363d1e7ad98dc318ab52bcfc52b" sha256="2e963f2c1f585a85695951e9b177d30737c6de032a7f12b194b942d05697eb1e" />
+		<rom name="rom/nfl/nfl_v100.u21" size="1048576" crc="f5a6c053" md5="6e2af67726ba06b72d4b6d66cea4034c" sha1="30a9cda6c9d9c43f0f6690138cf74c39c79ba43e" sha256="2fbe2c92494ffc38f8c4b32fb2856b9b47c373661e69f112e54fda8636d0e32d" />
+		<rom name="rom/nfl/nfl_v100.u36" size="1048576" crc="26dae8ac" md5="4265ebf28b4e80a5af00ac985b6c6b8c" sha1="ec18f13578c5c291b777344b2830cde2ecf3581c" sha256="e2f6967daee5493754415c705d116fe572599e4743d1f6535e903dd1ab0eab48" />
+		<rom name="rom/nfl/nfl_v100.u37" size="1048576" crc="375d5a99" md5="6d33decbbba78d71f9e5fdf5c2bdb6fb" sha1="4b49c58968da645bd0ad60ed16744974b863164e" sha256="e32dd736751166c205278593c99f7d9eb17b62afaad3b2ec52201d5733f2192e" />
+		<rom name="rom/nfl/nfl_v101.cpu" size="131072" crc="eeb81a51" md5="fee722c6e532805f763a3367f5f11c42" sha1="c87e5f50cc95b1d0206abc3c132f5f3314a9253c" sha256="c4f2c6516d59f329f25c6c44d2845281af5c30dba9c8564dc148d4366e6e697e" />
+		<rom name="rom/nfl/nfl_v102.dmd" size="524288" crc="fd7bc50a" md5="1f56ce9f20e21b25d538f3aaec0b4bb1" sha1="5c92af91e7e12024026a06002e6c6bf68230fcc0" sha256="1c6a864b6c52a1a74f541d94c7061f0fb473edf461cb676b6ae45fdc05bec565" />
+	</machine>
+	<machine name="Seahawks Pinball (Xenonph)(1.1)[VP8][Source Table Stern NFL 2001][MOD DT Gfx Night Mode]">
+		<description>Seahawks Pinball (Xenonph)(1.1)[VP8][Source Table Stern NFL 2001][MOD DT Gfx Night Mode]</description>
+		<rom name="Seahawks Pinball VPM8 DT NFL (Stern 2001) NightMOD v1.1.vpt" size="4841472" crc="8d657c08" md5="1112c51e9e133bd10254952bef54efb2" sha1="b9dae43f6f637221fbde8cd60e483378b3cfe1a5" sha256="547611dfb3ba3781e32cce00b1d04374243e91afe135e609f3635c886b626b7c" />
+		<rom name="Seahawks Pinball.txt" size="3324" crc="9f6f0dd7" md5="184ebf7eb9f455ae3ec0a0ca74b227ad" sha1="05165850d583f393e8140d32a5a42177ac833458" sha256="228d16dfdd04331fea67804e0a9c3056a3a7bb3dcd7f3405e67565107e306698" />
+		<rom name="vp8-seahawks-dt-nightmodv11.jpg" size="181234" crc="6c47ad31" md5="7ea6e2a048257a23c9b66f2a3493ae95" sha1="b37ee9e23c2be15ab6975f984717e08a97fd7715" sha256="2ee5f05cd33ab891637a05a25fa75fcb90fc9f18152b1ecf52d29b03a52d30fb" />
+		<rom name="music/0How_'Bout_Them_Seahawks.mp3" size="10120000" crc="4332baf0" md5="45f51729740591edf5d0a455de5dae2a" sha1="d52d2c322c7aee746b401f8e12fbb4ab4b77f904" sha256="2ecd298bb15f6278e42456fe9b7b6c576f643662cfe9cc7d47d98327755bae5c" />
+		<rom name="music/hawktown_funk.mp3" size="134291" crc="a24067b8" md5="422b2b1a44f5dc568f66cb39b2d1cc8b" sha1="50b50f305709b6bf88242c7f4ef877989d8ece0f" sha256="1e6e6fc0441ec51234cef94d61b2b278f7da8a1b68adc3f1ca019ef78dd31244" />
+		<rom name="music/Seahawks Reign.mp3" size="1467539" crc="a9646298" md5="8cdcac6296e92554d9a895ede24d7b0c" sha1="64725b59d204d811812dc7120f1947b0a9ceff18" sha256="02e2fa8c982bedb3ef62b7da2d3d74228d9410c23e82e717ae9cbe5c306c1b19" />
+		<rom name="music/touchdown_seahawks.mp3" size="43048" crc="450f9b36" md5="0746e9e16ccc67710fa12de4d4cfcc2e" sha1="ca220e26d195f100258f965c405f54976f2a6f6e" sha256="fce8a4e837250b00cfff96bb6ba09d6ee9a3717712bca9a6575bbf1c9b67b056" />
+		<rom name="nvram/nfl.nv" size="8238" crc="46fe0d51" md5="442e249c39169e4816a4bf0faa16427d" sha1="acbdc759102490f42bad0667b2dbf8318f9509ce" sha256="ebf2e27f7abb2dc9f0e7d077287ffe190f5ad6a274947e0fde8e8e292d6edd6b" />
+		<rom name="rom/nfl/nfl_v100.u7" size="65536" crc="3fc766f8" md5="afcc7bd4be40f79d24f08223098e99f6" sha1="27341594e7d4a23146e6e6ec8ebdea125231cf91" sha256="14e13105477f555b2b17176a776350c89a887412e2c2581356ac0cf5a3a8e661" />
+		<rom name="rom/nfl/nfl_v100.u17" size="1048576" crc="f36b72ed" md5="3cf0c7df7addf1b1ac4b0ce270c2a2ff" sha1="f8fcbdb31295d363d1e7ad98dc318ab52bcfc52b" sha256="2e963f2c1f585a85695951e9b177d30737c6de032a7f12b194b942d05697eb1e" />
+		<rom name="rom/nfl/nfl_v100.u21" size="1048576" crc="f5a6c053" md5="6e2af67726ba06b72d4b6d66cea4034c" sha1="30a9cda6c9d9c43f0f6690138cf74c39c79ba43e" sha256="2fbe2c92494ffc38f8c4b32fb2856b9b47c373661e69f112e54fda8636d0e32d" />
+		<rom name="rom/nfl/nfl_v100.u36" size="1048576" crc="26dae8ac" md5="4265ebf28b4e80a5af00ac985b6c6b8c" sha1="ec18f13578c5c291b777344b2830cde2ecf3581c" sha256="e2f6967daee5493754415c705d116fe572599e4743d1f6535e903dd1ab0eab48" />
+		<rom name="rom/nfl/nfl_v100.u37" size="1048576" crc="375d5a99" md5="6d33decbbba78d71f9e5fdf5c2bdb6fb" sha1="4b49c58968da645bd0ad60ed16744974b863164e" sha256="e32dd736751166c205278593c99f7d9eb17b62afaad3b2ec52201d5733f2192e" />
+		<rom name="rom/nfl/nfl_v101.cpu" size="131072" crc="eeb81a51" md5="fee722c6e532805f763a3367f5f11c42" sha1="c87e5f50cc95b1d0206abc3c132f5f3314a9253c" sha256="c4f2c6516d59f329f25c6c44d2845281af5c30dba9c8564dc148d4366e6e697e" />
+		<rom name="rom/nfl/nfl_v102.dmd" size="524288" crc="fd7bc50a" md5="1f56ce9f20e21b25d538f3aaec0b4bb1" sha1="5c92af91e7e12024026a06002e6c6bf68230fcc0" sha256="1c6a864b6c52a1a74f541d94c7061f0fb473edf461cb676b6ae45fdc05bec565" />
+	</machine>
+	<machine name="Sopranos, The (Stern)(2005)(wtiger, Pinball Ken)(1.6)[VP8]">
+		<description>Sopranos, The (Stern)(2005)(wtiger, Pinball Ken)(1.6)[VP8]</description>
+		<rom name="Sopranos, The (Stern)(2005)(wtiger)(1.1 Mod English).vpt" size="24569856" crc="4549a316" md5="27906da200479b068f139660b4b27475" sha1="89c1d8cba3ec2b4ff2889e1caf6ffb02a7ef6f25" sha256="1d56cf1ca158b0b7a1849c915870aaefd99c16979fd795199796b50cbdaa25b7" />
+		<rom name="Sopranos, The (Stern)(2005)(wtiger)(1.1 Mod German).vpt" size="26044928" crc="40bc05e1" md5="6e2384784ee6c497ff5c41cc64ec94b9" sha1="a98b3387435b65757cdbac67f2c3c87a07709934" sha256="d2fa2056690373acf60edad68c6ca95ea353f50a0d1cd987941a633a81ff9b37" />
+		<rom name="Sopranos, The (Stern)(2005)(wtiger)(1.1newer Mod German).vpt" size="26032640" crc="c745e6d1" md5="663d3710f75a47588f1e81e3facf66c0" sha1="a0d5fa10052f57d40f5e9441e40f1db6c7739fa9" sha256="95ae01ea841027224bad26ba8d7a6e2cf67518567d0de81cb3baf5b31e1d9593" />
+		<rom name="Sopranos, The (Stern)(2005)(wtiger)(1.5).vpt" size="25231360" crc="208d7f24" md5="715a64166de6671c3c4bbdbd2a27b469" sha1="183e3c34784182e71204ed9e07087fb0b0044756" sha256="f2dab7f1579a96c6af6c830aa03954c1d7d9c6b6de9960ab3218e7dc184db4e2" />
+		<rom name="Sopranos, The (Stern)(2005)(wtiger)(1.6).vpt" size="25242624" crc="6bd06ade" md5="458920db86fa4ebb1ad88eead727a4b4" sha1="7dec6310314c0ab0c810f9020063edfa962f5727" sha256="3f252aea4be6be577cec7d1a39caa4e2c1b68feb4b13033091c76650e14ecc51" />
+	</machine>
+	<machine name="South Park (SEGA)(1999)(Aurian, Destruk)(2.0)[Mod by Rook, Mrschultz][VP8]">
+		<description>South Park (SEGA)(1999)(Aurian, Destruk)(2.0)[Mod by Rook, Mrschultz][VP8]</description>
+		<rom name="South Park (MS MOD 8).vpt" size="2424832" crc="d76cbda9" md5="1e62e022f65dc5fe69c232db345b534e" sha1="7c1449b33fb0d2dd03664f03000d8db350d4b7aa" sha256="ba1b2ea0aed4eb4ad9e1209df7bb10aaaff2b89c7f40d1aaf23a9223b4135623" />
+	</machine>
+	<machine name="Space Jam (SEGA)(1996)(Joep, Destruk)(2.0)[MOD by Fred][VP8]">
+		<description>Space Jam (SEGA)(1996)(Joep, Destruk)(2.0)[MOD by Fred][VP8]</description>
+		<rom name="Space Jam.vpt" size="6086656" crc="01d9263d" md5="723a03eca518dc8db054f1d604c4b281" sha1="0ec548ddba2fb1a5722e735de200341014be8b1e" sha256="95ec86bcb6be6badbe8ee5beff40f32695dc194162c61def292d78833d5a5427" />
+	</machine>
+	<machine name="Star Trek - The Next Generation (Williams)(1993)(JPG-PINS)(2.2)[VP8][MOD alpha0.3 0.0.3 Neoblood]">
+		<description>Star Trek - The Next Generation (Williams)(1993)(JPG-PINS)(2.2)[VP8][MOD alpha0.3 0.0.3 Neoblood]</description>
+		<rom name="screenshot.jpg" size="642405" crc="1c70c7a2" md5="bec9d7f3311250d695c602ba98582b80" sha1="448bfdf09342bd0f23b5383241dd77f634fae8fa" sha256="69cfb47a913615f89641272a8b34a90f36f0759bf1790966a73049111fd716ad" />
+		<rom name="STTNGJPG-PINS-Neoalpha3.vpt" size="17805824" crc="851bfc38" md5="375e17de70563a1176ed582a051fbb5d" sha1="bd98f30b9d0431eb212d2c359c48cdea7b9bf87a" sha256="42a10d999ce65b5010b8c402885d0a53140ffc5339c5bc84c8b5fa208843d7f7" />
+	</machine>
+	<machine name="Strikes and Spares (Bally)(1978)(Zemke, Gaston)[Mod Jive 1.2]">
+		<description>Strikes and Spares (Bally)(1978)(Zemke, Gaston)[Mod Jive 1.2]</description>
+		<rom name="Strikes and Spares (Bally)(1978)(Zemke, Gaston)[Mod Jive 1.2].vpt" size="966144" crc="ec0bdb8d" md5="d0d831ba91747237d96dc53ba157126c" sha1="e7a25c74b23a2751cf45a407043d4c99aac48080" sha256="2e7ea37b2da39019e4b9992f40656f8428ecb804f65ade127d2d6631dc343f82" />
+	</machine>
+	<machine name="Tales from the Crypt (Data East)(1993)(Lander)(1.1)[VP8][MOD v1.2 Jive]">
+		<description>Tales from the Crypt (Data East)(1993)(Lander)(1.1)[VP8][MOD v1.2 Jive]</description>
+		<rom name="Tales from the Crypt screenshot.jpg" size="358246" crc="aef3274c" md5="92824ec9662efb9422aa3fcb9904d738" sha1="4d9cb8ffb866be3f728a3fb5b990f5873c971e1e" sha256="9a13f234147de1f3da14ed25442135983c89acc5ec7e50de1e64fd407fbf68a8" />
+		<rom name="Tales from the crypt V1.2.vpt" size="3831296" crc="a1f568ed" md5="4d0467f6b2ab738f3e5e7834b5d3e516" sha1="686f18ba2053230ea83cbea08e51600f73fdc94e" sha256="d144e2146cf3dc7cb2034ea4291d39c28bb2b1f887bdd5a870e814a85d3328c4" />
+	</machine>
+	<machine name="Tales of the Arabian Nights (Williams)(1996)(Freylis, Fuseball, PacDude, WPCMame)(2.5)[VP8][MOD 2.5 PK, Guittar, Kristian]">
+		<description>Tales of the Arabian Nights (Williams)(1996)(Freylis, Fuseball, PacDude, WPCMame)(2.5)[VP8][MOD 2.5 PK, Guittar, Kristian]</description>
+		<rom name="Tales of the Arabian Night screenshot.jpg" size="194636" crc="156a4c11" md5="44ce5791db7c470dfdd12d40b3bdba88" sha1="eaffa0b0409864999ad09703e69de99b3bb2c0fb" sha256="2bd94e94ae8e903ffacac469c73e9cf18a00fa364db8b8b691c816343154b186" />
+		<rom name="Tales of the Arabian Nights 2.5Mod (tb8)[U].vpt" size="4552704" crc="23804a43" md5="bec5b2c0f3b49f02db686b2e2e715ba2" sha1="65a6a00f644c337ee292735223e21f3d79ba271d" sha256="fae746fdfc3251bf4230b4e6e05a5111c5af6c645226c86ec2e63cbc7b253537" />
+	</machine>
+	<machine name="WHO Dunnit (Bally)(1995)(Jamin)(1.2.1)[VP8][MOD Gfx v3.0 Nealtron]">
+		<description>WHO Dunnit (Bally)(1995)(Jamin)(1.2.1)[VP8][MOD Gfx v3.0 Nealtron]</description>
+		<rom name="VP8 Who Dunnit (Mod 3.0).vpt" size="11870720" crc="dfce3710" md5="1c40f0a898920535deec8562526540fb" sha1="80d8fbb798fa3d04a012eaa55514225e32051841" sha256="5774fd778759853f2315d1da4ee4f13b8e6dc2d8e3116df260a021a821756860" />
+		<rom name="Who Dunnit screenshot.jpg" size="372681" crc="5085e01c" md5="684f9a3e30676d664d54c42902334207" sha1="11a1f254c3453095595a243eb50b2e57f141b29e" sha256="56453268a36813adeb5b38e50fa32ef57883b7dfd03fea25a2e90e82451eaa66" />
+	</machine>
+</datafile>
